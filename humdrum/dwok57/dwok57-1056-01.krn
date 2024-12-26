@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK57105600001-sywyj_holubonku.krn
+!!!OTL: Sywyj hołubońku
+!!!source: DWOK57
+!!!id: 571056
+!!!signature: 57105600001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8g
+4ff
+4ee
+=2
+4dd
+2ee
+=3
+8gg
+8gg
+4ff
+4ee
+=4
+4dd
+4ee}
+4r
+!!LO:LB:g=esac
+=5
+{4.ee
+8gg
+8ff
+8ee
+=6
+8dd
+8cc
+4b
+4dd
+=7
+8g
+8g
+4cc
+4dd
+=8
+4b
+2ee}
+!!LO:LB:g=esac
+=9
+{4.ee
+8gg
+8ff
+8ee
+=10
+8dd
+8cc
+4b
+4dd
+=11
+8g
+8g
+4cc
+4dd
+=12
+4b
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 225
+!!!ONB: Converted on 2024/12/26 with esac2hum

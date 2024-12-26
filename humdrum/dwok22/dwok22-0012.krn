@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK2201200000-a_spisz_bartek_szymek_walek.krn
+!!!OTL: A śpisz Bartek Szymek Walek
+!!!source: DWOK22
+!!!id: 22012
+!!!signature: 2201200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4g
+8a
+=2
+4b
+8cc
+=3
+16b
+16a
+8b
+8cc}
+!!LO:LB:g=esac
+=4
+{16b
+16a
+8b
+8cc
+=5
+16b
+16a
+8g
+8g
+=6
+8a
+4d}
+!!LO:LB:g=esac
+=7
+{4g
+8a
+=8
+4b
+8cc
+=9
+16b
+16a
+8b
+8cc}
+!!LO:LB:g=esac
+=10
+{16b
+16a
+8b
+8cc
+=11
+16b
+16a
+8g
+8g
+=12
+8a
+4d}
+!!LO:LB:g=esac
+=13
+{8dd
+8b
+8cc
+=14
+8dd
+8b
+8cc
+=15
+8dd
+8b
+8cc
+=16
+8dd
+8b
+8cc}
+!!LO:LB:g=esac
+=17
+{16b
+16a
+8g
+8a
+=18
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 24} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 24}
+!!!page: 24
+!!!ONB: Converted on 2024/12/26 with esac2hum

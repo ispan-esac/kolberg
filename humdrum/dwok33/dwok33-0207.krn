@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK3320700000-cy_wsiste_swatkowe.krn
+!!!OTL: Cy wsiste swatkowe
+!!!source: DWOK33
+!!!id: 33207
+!!!signature: 3320700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+4g
+=2
+4.a
+=3
+8dd
+8dd
+8cc
+=4
+4.b}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc
+=6
+8b
+4a
+=7
+8g
+4f#
+=8
+4d}
+8r
+!!LO:LB:g=esac
+=9
+{4a
+8b
+=10
+8cc
+4b
+=11
+4a
+8b
+=12
+8cc
+4b}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+8b
+=14
+8cc
+4b
+=15
+16a
+16g
+8a
+8b
+=16
+8cc
+8b
+8g}
+!!LO:LB:g=esac
+=17
+{8a
+8a
+8b
+=18
+8cc
+4b
+=19
+8dd
+8dd
+8cc
+=20
+8b
+4a
+=21
+4g
+8f#
+=22
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=317 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 275} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 275}
+!!!page: 275
+!!!ONB: Converted on 2024/12/26 with esac2hum

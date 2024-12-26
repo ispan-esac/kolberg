@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK57168600002-oj_ja_wczora_z_wieczora.krn
+!!!OTL: Oj, ja wczora z wieczora
+!!!source: DWOK57
+!!!id: 571686
+!!!signature: 57168600002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+16ee
+16dd
+8cc
+8cc
+=2
+8dd
+16ff
+16dd
+4ee}
+!!LO:LB:g=esac
+=
+{8dd
+24cc
+24b
+24a
+8cc
+8dd
+=3
+8a
+8a
+4g}
+!!LO:LB:g=esac
+=4
+{8cc
+8cc
+8ee
+8ee
+=5
+16dd
+16ee
+16dd
+16b
+16cc
+16dd
+16cc
+16g#
+=6
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 773
+!!!ONB: Converted on 2024/12/26 with esac2hum

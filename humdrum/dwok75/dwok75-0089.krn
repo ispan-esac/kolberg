@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7508900000-ej_parobeczek_ci_ja_z_sandomierza.krn
+!!!OTL: Ej, parobeczek ci ja z Sandomierza
+!!!source: DWOK75
+!!!id: 75089
+!!!signature: 7508900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4gg
+4gg
+4gg
+=2
+8aa
+8gg
+4ff#
+8ee
+8dd
+=3
+8ee
+8ff#
+4gg
+4cc
+=4
+8ee
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{4a
+4cc
+4cc
+=6
+8b
+8b
+4dd
+4dd
+=7
+8ee
+8ff#
+4gg
+4cc
+=8
+8ee
+8dd
+4b
+4g}
+==
+*-
+!!!ONB: Wariant t. 5: 2_4_32
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 61} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 61}
+!!!page: 61
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5008100000-nase_diucia_wodu_z_naszoho_horodu.krn
+!!!OTL: Nase diucia wodu z naszoho horodu
+!!!source: DWOK50
+!!!id: 50081
+!!!signature: 5008100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8dd
+8cc#
+=2
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+8dd
+8cc#
+=4
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8b
+8b
+=6
+8cc
+8cc
+8ee
+8ee}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8b
+8cc
+=8
+8a
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 34} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 34}
+!!!page: 34
+!!!ONB: Converted on 2024/12/26 with esac2hum

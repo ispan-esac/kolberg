@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK02-K0029-stary_zdruzba_nie_lusy.krn
+!!!OTL: Stary zdruzba nie lusy
+!!!source: DWOK02
+!!!id: K0029
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8dd
+8dd
+=2
+8dd
+8ee
+8dd
+8dd}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+8dd
+8cc
+=4
+8b
+8dd
+8a
+8a
+=5
+8d
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=48 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 37} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2709100000-po_co_zes_mnie_matulenku.krn
+!!!OTL: Po co żeś mnie matuleńku
+!!!source: DWOK27
+!!!id: 27091
+!!!signature: 2709100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16ee
+16ee
+8ff
+8ee
+=2
+16dd
+16cc
+8b
+8dd
+=3
+16ee
+16dd
+8cc
+16a
+16g#
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8cc
+8ee
+=6
+16dd
+16cc
+8b
+8dd
+=7
+16ee
+16dd
+8cc
+16a
+16g#
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{16cc
+16cc
+8a
+8g#
+=10
+16a
+16cc
+8b
+8dd
+=11
+16ee
+16cc
+8a
+8g#
+=12
+16a
+16cc
+8b
+8dd}
+!!LO:LB:g=esac
+=13
+{16ee
+16ee
+8cc
+16a
+16g#
+=14
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 188} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

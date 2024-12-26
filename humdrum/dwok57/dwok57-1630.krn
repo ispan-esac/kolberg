@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK57163000000-czohos_mene_holowonka_bolyt.krn
+!!!OTL: Czohoś mene hoł'owońka bołyt
+!!!source: DWOK57
+!!!id: 571630
+!!!signature: 57163000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+4b
+4g
+=2
+8a
+8cc
+8b
+8a
+8b
+8g}
+!!LO:LB:g=esac
+=3
+{8f#
+8g
+4a
+4a
+=4
+8cc
+8cc
+8b
+8a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8f#
+8g
+4a
+4a
+=6
+8a
+8cc
+8b
+8a
+4b
+=7
+2g}
+4r
+==
+*-
+!!!ONB: Wariant t. 1: 11321_; wariant t. 6: 24323-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 700
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK4808400000-ach_ja_nieszczesliwa_coz_ja_uczynila.krn
+!!!OTL: Ach, ja nieszczęśliwa, cóż ja uczyniła
+!!!source: DWOK48
+!!!id: 48084
+!!!signature: 4808400000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+=1
+*M5/4
+{8g
+8b-
+4dd
+4ee
+8dd
+8cc
+8a
+8g
+=2
+8b-
+8dd
+4cc#
+4dd
+8a
+4f}
+8r
+!!LO:LB:g=esac
+=3
+{8g
+8b-
+4dd
+4ee
+8dd
+8cc
+8a
+8g
+=4
+8b-
+8dd
+4cc#
+4dd
+8a
+4f}
+8r
+!!LO:LB:g=esac
+=5
+*M6/4
+{8g
+8f
+4g
+4b-
+4cc
+8a
+4f
+8r
+=
+!!UNCATEGORIZED MEASURE
+8g
+8f
+4g
+4b-
+4cc
+8a
+4f}
+8r
+!!LO:LB:g=esac
+=6
+*M5/4
+{8b-
+8dd
+4cc
+4a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 144} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 144}
+!!!page: 144
+!!!ONB: Converted on 2024/12/26 with esac2hum

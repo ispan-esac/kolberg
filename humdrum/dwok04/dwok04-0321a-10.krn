@@ -1,0 +1,126 @@
+!!!!SEGMENT: DWOK0432100010-chodzony_pasterski._instrumentalna.krn
+!!!OTL: Chodzony pasterski. Instrumentalna
+!!!source: DWOK04
+!!!id: K0321a
+!!!signature: 0432100010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+8r
+{8b
+8a
+8cc
+[4ee
+=2
+8ee]
+16dd
+16cc
+[2b
+=3
+8b]
+8b
+8a
+8cc
+[4ee
+=4
+8ee]
+16b
+16a
+[2g
+=5
+8g]
+8b
+8a
+8cc
+8ee
+16dd
+16cc
+=
+8b
+8b
+8b
+24a
+24cc
+24a
+4g}
+!!LO:LB:g=esac
+=6
+8r
+{8a
+8b
+8cc
+8a
+16cc
+16dd
+=7
+16cc
+16b
+8a
+8b
+16cc
+16dd
+16b
+16a
+[8g
+=8
+8g]
+8a
+8b
+8cc
+8a
+16cc
+16dd
+=
+8b
+[8b
+8b]
+24a
+24b
+24a
+4g}
+!!LO:LB:g=esac
+=9
+8r
+{8a
+8b
+8cc
+8a
+16cc
+16dd
+=10
+16cc
+16b
+8a
+8b
+16cc
+16dd
+16b
+16a
+[8g
+=11
+8g]
+8a
+8b
+8cc
+8a
+16cc
+16dd
+=
+8b
+[8b
+8b]
+24a
+24b
+24a
+4g}
+==
+*-
+!!!ONB: Andante
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 160} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

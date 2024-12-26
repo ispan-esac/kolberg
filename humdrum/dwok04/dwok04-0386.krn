@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK04-K0386-uciekala_hyc_po_rowie.krn
+!!!OTL: Uciekala hyc po rowie
+!!!source: DWOK04
+!!!id: K0386
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8b-
+8dd
+8cc
+8cc
+=2
+8dd
+8ff
+8.gg
+16ee-
+=3
+8dd
+8b-
+8.cc
+16a
+=4
+8g
+8g
+8f
+8a}
+!!LO:LB:g=esac
+=5
+{8b-
+8dd
+8.cc
+16b-
+=6
+8g
+8g
+8.f
+16ff
+=7
+8dd
+8b-
+8.cc
+16a
+=8
+8g
+8g
+8f
+8a}
+!!LO:LB:g=esac
+=9
+{8b-
+8dd
+8.cc
+16b-
+=10
+8g
+8g
+8.f
+16ff
+=11
+8dd
+8b-
+8.cc
+16a
+=12
+8g
+8g
+8f
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=237 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 223} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 223}
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

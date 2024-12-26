@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1702600000-oj_dzis_nasza_dzis_nasza.krn
+!!!OTL: Oj dziś nasza, dziś nasza
+!!!source: DWOK17
+!!!id: 17026
+!!!signature: 1702600000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=
+{24cc#
+24dd
+24b
+8cc#
+8ee
+=1
+8gg#
+8aa
+8gg
+=
+24gg#
+24ff#
+24ee
+8dd
+8ee
+=2
+8cc#
+8b
+8g#}
+!!LO:LB:g=esac
+=
+{24cc#
+24dd
+24b
+8g#
+8a
+=3
+8cc##
+8dd
+8ee
+=
+24gg#
+24ff#
+24ee
+8dd
+8ee
+=4
+8cc#
+8b
+8g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 16} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

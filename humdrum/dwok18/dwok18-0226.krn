@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK1822600000-niescesliwy_casie_zakochaliswa_sie.krn
+!!!OTL: Niescęśliwy casie zakochaliswa sie
+!!!source: DWOK18
+!!!id: 18226
+!!!signature: 1822600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8dd
+8ee
+8ee
+8ff
+8ff
+=2
+8ee
+16dd
+16cc
+8dd
+8ee
+8.ff
+16b}
+!!LO:LB:g=esac
+=3
+{8cc
+8dd
+8ee
+8ee
+8ff
+8ff
+=4
+8ee
+16dd
+16cc
+8dd
+8ee
+8.ff
+16b}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+4gg
+8gg
+8gg
+8gg
+=6
+16gg
+16aa
+4ff
+8dd
+8b
+8g
+=7
+8b
+4cc
+8cc
+8cc
+8ee
+=8
+8cc
+4a
+8cc
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{16cc
+16ee
+4gg
+8gg
+8gg
+8gg
+=10
+16gg
+16aa
+4ff
+8dd
+8b
+8g
+=11
+16g
+16b
+4cc
+8cc
+8cc
+8ee
+=12
+16cc
+16a
+4a
+8cc
+8b
+8g}
+==
+*-
+!!!ONB: Polski
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 135} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK2569600001-krakowiak-instrumentalna.krn
+!!!OTL: Krakowiak-Instrumentalna
+!!!source: DWOK25
+!!!id: 25696
+!!!signature: 2569600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8ee
+8cc
+8a
+=2
+8g
+4b
+8g
+=3
+8d
+8f#
+8a
+8f#
+=4
+8g
+4b
+8dd}
+!!LO:LB:g=esac
+=5
+{16cc#
+16dd
+16ee
+16dd
+16cc
+16b
+16cc
+16a
+=6
+16b
+16cc
+16dd
+16b
+8g
+8b
+=7
+16a
+16b
+16cc
+16a
+16f#
+16d
+16e
+16f#
+=8
+8g
+4b
+8dd}
+!!LO:LB:g=esac
+=9
+{16cc#
+16dd
+16ee
+16dd
+16cc
+16b
+16cc
+16a
+=10
+8g
+4b
+16a
+16g
+=11
+8f#
+8a
+8cc
+8f#
+=12
+8a
+4.g}
+==
+*-
+!!!ONB: W ostatnim takcie brakuje ósemki, przedłużono ostatnią nutę kropką
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 247-248} @EN{Oskar Kolberg Complete Works 25: Mazovia II, pp. 247-248}
+!!!page: 247-248
+!!!ONB: Converted on 2024/12/26 with esac2hum

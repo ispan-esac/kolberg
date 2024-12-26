@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK36343a0000-oj_u_brodu.krn
+!!!OTL: Oj u brodu
+!!!source: DWOK36
+!!!id: 3643a
+!!!signature: 36343a0000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8e
+8g#
+8b
+8b
+=2
+4a
+8g#
+8b
+=3
+8a
+8g#
+8f#
+8f#
+=4
+4e
+8a
+8g#}
+!!LO:LB:g=esac
+=5
+{8f#
+8g#
+8a
+8a
+=6
+4e
+4e
+=7
+4e
+4a
+=8
+8b
+8g#
+8a
+8a
+=9
+2e}
+==
+*-
+!!!ONB: W publikacji figuruje dwa razy numer 343, dodano literkę a, powinno być na 2/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 214
+!!!ONB: Converted on 2024/12/26 with esac2hum

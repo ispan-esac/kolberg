@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7616400000-da_chodzila_po_boru.krn
+!!!OTL: Da, chodziła po boru
+!!!source: DWOK76
+!!!id: 76164
+!!!signature: 7616400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4b
+4b
+4dd
+=2
+8b
+8b
+4a
+4cc
+=3
+2a
+4d
+=4
+8f#
+8g
+4b
+4dd}
+!!LO:LB:g=esac
+=5
+{4b
+4b
+4dd
+=6
+8b
+8b
+4a
+4cc
+=7
+2a
+4d
+=8
+8f#
+8g
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 87} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 87}
+!!!page: 87
+!!!ONB: Converted on 2024/12/26 with esac2hum

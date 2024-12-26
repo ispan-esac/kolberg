@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7615900000-da_chodzila_po_lesie.krn
+!!!OTL: Da, chodziła po lesie
+!!!source: DWOK76
+!!!id: 76159
+!!!signature: 7615900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4b
+4b
+4g
+=2
+8b
+8a
+4f#
+4d
+=3
+4f#
+4a
+4b
+=4
+8cc
+8a
+4cc
+4b}
+!!LO:LB:g=esac
+=5
+{4a
+4b
+4g
+=6
+8b
+8a
+4f#
+4d
+=7
+4f#
+4a
+4b
+=8
+8cc
+8a
+4f#
+4g}
+==
+*-
+!!!ONB: Wariant w ostatnim takcie 46-7_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 84} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 84}
+!!!page: 84
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2404100002-hej_przez_pole.krn
+!!!OTL: Hej przez pole
+!!!source: DWOK24
+!!!id: 24041
+!!!signature: 2404100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8g
+8g
+8b
+4dd
+4dd
+=2
+4ee
+8ee
+8ee
+4dd
+8ee
+8dd
+=3
+4cc
+8cc
+8b
+2a}
+!!LO:LB:g=esac
+=4
+{4dd
+8dd
+8f#
+4g
+8a
+8g
+=5
+8b
+8b
+8cc
+8b
+4a
+8b
+8cc
+=6
+4dd
+8b
+8a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 108} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 108}
+!!!page: 108
+!!!ONB: Converted on 2024/12/26 with esac2hum

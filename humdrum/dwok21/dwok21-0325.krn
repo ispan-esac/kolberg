@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2132500000-owcarecek_pasie_owce.krn
+!!!OTL: Owcarecek pasie owce
+!!!source: DWOK21
+!!!id: 21325
+!!!signature: 2132500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16g#
+16g#
+8b
+8dd
+=2
+16dd
+16cc
+8ee
+8b
+=3
+16ee
+16ff#
+8b
+8dd
+=4
+16b
+16cc
+16a
+16g#
+16b
+16e}
+!!LO:LB:g=esac
+=5
+{16g#
+16g#
+8b
+8dd
+=6
+16b
+16cc
+16a
+16g#
+8b
+=7
+16g#
+16g#
+8b
+8dd
+=8
+8b
+16a
+16g#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 131} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 131}
+!!!page: 131
+!!!ONB: Converted on 2024/12/26 with esac2hum

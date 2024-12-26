@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK3144700000-oj_zahynu_diwczyno_zahynu.krn
+!!!OTL: Oj zahynu diwczyno zahynu
+!!!source: DWOK31
+!!!id: 31447
+!!!signature: 3144700000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4ee
+4gg
+4gg
+=2
+8gg
+8gg
+8ff
+8ee
+4gg
+4gg
+=3
+8g
+8cc
+8ee
+8ee
+8gg
+8ee
+4gg
+=4
+8ff
+8ee
+8ee
+8cc
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{4gg
+4gg
+4gg
+4cc
+=6
+8ee
+8ff
+4gg
+4ff
+4ee
+=7
+4dd
+4cc
+4dd
+4dd
+=8
+4dd
+2.cc}
+!!LO:LB:g=esac
+=9
+{8ee
+8ff
+4gg
+4ff
+4ee
+=10
+4dd
+2.cc
+=11
+4dd
+2.cc
+=12
+4dd
+2.cc
+=13
+8ee
+8ff
+4gg
+8ff
+8ee
+8ee
+8cc
+=14
+4dd
+2.cc}
+==
+*-
+!!!ONB: Bilodanczyk
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 52} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

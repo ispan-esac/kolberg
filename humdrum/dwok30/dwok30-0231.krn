@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK3023100000-kazala_salocha.krn
+!!!OTL: Kazała Sałocha
+!!!source: DWOK30
+!!!id: 30231
+!!!signature: 3023100000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8f
+8b-
+8dd
+=2
+8f
+8b-
+8dd
+=3
+8ff
+8.ff
+16ee-
+=4
+16ee-
+16dd
+4dd}
+!!LO:LB:g=esac
+=5
+{8f
+8b-
+8dd
+=6
+8f
+8b-
+8dd
+=7
+8ff
+8.ff
+16ee-
+=8
+16ee-
+16dd
+4dd}
+!!LO:LB:g=esac
+=9
+{16gg
+16dd
+8.dd
+16cc
+=10
+16b-
+16a
+8g
+8g
+=11
+16a
+16dd
+8.dd
+16f#
+=12
+16g
+16b-
+4dd}
+!!LO:LB:g=esac
+=13
+{16gg
+16dd
+8.dd
+16cc
+=14
+16b-
+16a
+8g
+8g
+=15
+16a
+16dd
+8.dd
+16f#
+=16
+16g
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=152 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 139} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 139}
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

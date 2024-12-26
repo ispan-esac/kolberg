@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK3910500001-kole_jezioreczka_zimny_wiatrek_wieje.krn
+!!!OTL: Kole jezioreczka zimny wiatrek wieje
+!!!source: DWOK39
+!!!id: 39105
+!!!signature: 3910500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8a
+4a
+4dd
+=2
+4b
+2g}
+!!LO:LB:g=esac
+=3
+{8ee
+8ee
+4ee
+4gg
+=4
+4ff#
+2dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4gg
+4gg
+=6
+8b
+8cc
+4ee
+4dd
+=7
+8f#
+8g
+4a
+4dd
+=8
+4b
+2g}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+4gg
+4gg
+=10
+8b
+8cc
+4ee
+4dd
+=11
+8f#
+8g
+4a
+4dd
+=12
+4b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 156} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 156}
+!!!page: 156
+!!!ONB: Converted on 2024/12/26 with esac2hum

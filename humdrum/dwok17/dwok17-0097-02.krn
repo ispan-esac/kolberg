@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1709700002-kazali_mi_orac.krn
+!!!OTL: Kazali mi orać
+!!!source: DWOK17
+!!!id: 17097
+!!!signature: 1709700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16ee
+8ee
+8ee
+=2
+16dd#
+16ee
+4a
+=3
+16cc
+16ee
+8dd
+16cc
+16b
+=4
+16a
+16b
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8dd
+=6
+16a
+16f#
+8g
+16a
+16b
+=7
+16cc
+16ee
+8dd
+16cc
+16b
+=8
+16a
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=56 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 34} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 34}
+!!!page: 34
+!!!ONB: Converted on 2024/12/26 with esac2hum

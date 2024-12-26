@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2238300000-o_boze_moj_boze_wieczny.krn
+!!!OTL: O Boże mój Boże wieczny
+!!!source: DWOK22
+!!!id: 22383
+!!!signature: 2238300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8ee
+16ff#
+16ee
+=2
+16dd
+32cc
+32b
+8a
+8ee
+=3
+16a
+16cc
+8ee
+16g
+16b
+=4
+16dd
+32cc
+32b
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+16g
+16b
+=6
+16dd
+32cc
+32b
+8a
+8b
+=7
+8dd
+8a
+16g
+16b
+=8
+16dd
+32cc
+32b
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 199} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

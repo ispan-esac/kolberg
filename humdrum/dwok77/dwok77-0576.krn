@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7757600000-oj_nikt_ci_mi_to_nie_krzyw.krn
+!!!OTL: Oj nikt ci mi to nie krzyw
+!!!source: DWOK77
+!!!id: 77576
+!!!signature: 7757600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8ff#
+=2
+8ee
+4dd
+8a}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+8b
+8dd
+=4
+16cc
+16b
+4a
+8g#}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8dd
+8ee
+=6
+8cc
+4dd
+8ee}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+8b
+8dd
+=8
+16cc
+16b
+4a
+8g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 295
+!!!ONB: Converted on 2024/12/26 with esac2hum

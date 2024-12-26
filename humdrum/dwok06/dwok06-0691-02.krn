@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK06069100002-wieje_wiater_wieje.krn
+!!!OTL: Wieje wiater wieje
+!!!source: DWOK06
+!!!id: K0691
+!!!signature: 06069100002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+4ff
+16ff
+16ee
+=2
+8ff
+8ff
+4ee
+=3
+8dd
+4ff
+16ee
+16dd
+=4
+16cc
+16b
+16cc
+16ff
+8a}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16a
+4b-
+8a
+=6
+8b-
+8b-
+4g
+=7
+8f
+4ff
+16ee
+16dd
+=8
+16cc
+16b
+16cc
+16ff
+8a}
+8r
+!!LO:LB:g=esac
+=9
+{16g
+16a
+4b-
+8a
+=10
+16b-
+16dd
+16b-
+16g
+8e
+8r
+=11
+8f
+4ff
+16ee
+16dd
+=12
+16cc
+16b
+16cc
+16ff
+8f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=456 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 430} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 430}
+!!!page: 430
+!!!ONB: Converted on 2024/12/26 with esac2hum

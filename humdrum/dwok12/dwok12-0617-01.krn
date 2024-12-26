@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1261700001-dawniej_dziadowie_pili_w_krakowie.krn
+!!!OTL: Dawniej dziadowie pili w Krakowie
+!!!source: DWOK12
+!!!id: 12617
+!!!signature: 1261700001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+4cc
+8a
+=2
+8b
+4.dd
+=3
+8cc
+4a
+8b
+=4
+8g#
+4.a}
+!!LO:LB:g=esac
+=5
+{8ee
+4ee
+8dd
+=6
+8ee
+4.cc
+=7
+8cc
+8b
+8a
+8g#
+=
+12a
+12b
+12cc
+4b}
+!!LO:LB:g=esac
+=8
+{8e
+4a
+8b
+=9
+8g#
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=327 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 311} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 311}
+!!!page: 311
+!!!ONB: Converted on 2024/12/26 with esac2hum

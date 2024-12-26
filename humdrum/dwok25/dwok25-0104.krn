@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK2510400000-tam_pod_borem_domecek.krn
+!!!OTL: Tam pod borem domecek
+!!!source: DWOK25
+!!!id: 25104
+!!!signature: 2510400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8cc
+8cc
+=2
+8b
+8dd
+4cc
+=3
+8dd
+8ee
+8ff
+8ee
+=4
+8dd
+8cc
+8b
+8a
+=5
+8a
+8g
+8g
+8g}
+!!LO:LB:g=esac
+=6
+{4a
+4a
+=7
+8b
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 42} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 42}
+!!!page: 42
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7765100000-oj_sama_dam_sama_dam.krn
+!!!OTL: Oj sama dam sama dam
+!!!source: DWOK77
+!!!id: 77651
+!!!signature: 7765100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{[2dd
+8dd]
+8b
+=2
+8cc
+8dd
+8dd
+8ee
+4ee
+=3
+4dd
+4b
+4cc
+=4
+8a
+8g
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{4g
+4b
+4cc
+=6
+8dd
+8b
+4dd
+8cc
+8a
+=7
+4g
+4b
+4cc
+=8
+8a
+8g
+4b
+4a}
+==
+*-
+!!!ONB: wariant taktów 1-2: 5_3_4_  556_6_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 329
+!!!ONB: Converted on 2024/12/26 with esac2hum

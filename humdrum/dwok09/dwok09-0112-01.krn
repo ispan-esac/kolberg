@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK0911200001-leci_woda_od_ogroda.krn
+!!!OTL: Leci woda od ogroda
+!!!source: DWOK09
+!!!id: 09112
+!!!signature: 0911200001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4cc
+4ff
+8dd
+8dd
+=2
+8ff
+8gg
+4ee
+4cc
+=3
+4cc
+4ff
+8dd
+8g
+=4
+8g
+8g
+4b-
+4a}
+!!LO:LB:g=esac
+=5
+{4cc
+4dd
+4dd
+=6
+8dd
+8cc
+4ee
+4a
+=7
+4cc
+4ff
+8dd
+8g
+=8
+8g
+8g
+4b-
+4a}
+!!LO:LB:g=esac
+=9
+{4cc
+4dd
+4dd
+=10
+8dd
+8cc
+4ee
+4a
+=11
+4cc
+4ff
+8dd
+8g
+=12
+8g
+8g
+4b-
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 248} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 248}
+!!!page: 248
+!!!ONB: Converted on 2024/12/26 with esac2hum

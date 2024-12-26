@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK3618700000-ej_ty_diwczyno.krn
+!!!OTL: Ej ty diwczyno
+!!!source: DWOK36
+!!!id: 36187
+!!!signature: 3618700000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8ee
+=2
+8ee
+16ff
+16ee
+8dd
+8cc
+=3
+8b
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=4
+{8a
+8b
+8cc
+8dd
+=5
+8ee
+16ff
+16ee
+8dd
+8cc
+=6
+8b
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=7
+{8ee
+16ee
+16b
+8a
+8b
+=8
+8cc
+16dd
+16cc
+8b
+8a
+=9
+8ee
+16ee
+16b
+8a
+8b
+=10
+8cc
+16dd
+16cc
+8b
+8a}
+!!LO:LB:g=esac
+=11
+{8a
+8b
+8cc
+8dd
+=12
+8ee
+16ff
+16ee
+8dd
+8cc
+=13
+8b
+16cc
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

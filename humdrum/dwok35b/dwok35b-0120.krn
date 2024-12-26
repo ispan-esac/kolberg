@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK35B-35B12000000-instrumentalna-kolomyjka.krn
+!!!OTL: Instrumentalna-Kołomyjka
+!!!source: DWOK35B
+!!!id: 35B120
+!!!signature: 35B12000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ff#
+8ee
+8ee
+8ee
+=2
+8dd#
+8dd
+4cc
+=3
+16cc
+16b
+16cc
+16dd
+8ee
+8g#
+=4
+4ee
+4ee}
+!!LO:LB:g=esac
+=5
+{8ff#
+8ee
+8ee
+8ee
+=6
+8dd#
+8dd
+4cc
+=7
+16cc
+16b
+16cc
+16dd
+8ee
+8g#
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{4b
+4ee
+=10
+8cc
+16cc
+16b
+4a
+=11
+8b
+8g#
+16g#
+16e
+16g#
+16b
+=12
+4ee
+4ee}
+!!LO:LB:g=esac
+=13
+{4b
+4ee
+=14
+8cc
+16cc
+16b
+4a
+=15
+8b
+8g#
+16g#
+16e
+16g#
+16b
+=16
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 196} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

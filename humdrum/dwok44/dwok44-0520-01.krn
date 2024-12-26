@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK4452000001-u_matki_na_zrebie.krn
+!!!OTL: U matki na zrębie
+!!!source: DWOK44
+!!!id: 44520
+!!!signature: 4452000001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8a
+8b
+4cc
+=2
+8a
+4b
+8g
+=3
+8a
+8b
+4cc
+=4
+8a
+4b
+8g}
+!!LO:LB:g=esac
+=5
+{4cc
+8b
+8a
+=
+12g
+12f
+12e
+4c
+=6
+8d
+8e
+4f
+=7
+8d
+4e
+8c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=347 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 291} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 291}
+!!!page: 291
+!!!ONB: Converted on 2024/12/26 with esac2hum

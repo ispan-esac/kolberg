@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK02-K0087-jakies_mi_to_mawial.krn
+!!!OTL: Jakies mi to mawial
+!!!source: DWOK02
+!!!id: K0087
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+8.dd
+16cc
+=2
+8a
+4dd
+=3
+16a
+16b
+8.cc
+16b
+=4
+8dd
+4g}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+8.dd
+16cc
+=6
+8a
+4dd
+=7
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 75} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 75}
+!!!page: 75
+!!!ONB: Converted on 2024/12/26 with esac2hum

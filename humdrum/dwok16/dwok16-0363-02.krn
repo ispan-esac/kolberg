@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1636300002-korowajowe_ciasto.krn
+!!!OTL: Korowajowe ciasto
+!!!source: DWOK16
+!!!id: 16363
+!!!signature: 1636300002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8cc
+8b
+=2
+8dd
+8dd
+8cc
+=3
+4b
+8b}
+!!LO:LB:g=esac
+=4
+{8a
+8cc
+8b
+=5
+8dd
+8dd
+8cc
+=6
+8b
+4a}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8cc
+=8
+8b
+8b
+8g#
+=9
+4a
+8a}
+==
+*-
+!!!ONB: Poprawiono błąd rytmiczny w t. 5: 4_43b
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 241} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 241}
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK8421400000-ny_ma_spynu_wdowynomu_synu.krn
+!!!OTL: Ny ma spynu wdówynomu synu
+!!!source: DWOK84
+!!!id: 84214
+!!!signature: 8421400000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8b
+8b
+8b
+8dd#
+4ee
+=2
+8dd
+8dd
+8dd
+8ee
+8cc
+8b}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+4b
+8a
+8g
+=4
+8a
+8a
+8a
+8b
+16g
+16f
+8e}
+!!LO:LB:g=esac
+=5
+{8f
+16f
+16e
+4d#
+4B
+=6
+4dd#
+8ee
+16dd
+16cc
+8b
+8a
+=7
+4g
+2e}
+==
+*-
+!!!ONB: Wariant t. 2: 7b_7b_7b_+1_7b6b5_; wariant t. 4: 4_4_4_543b2b1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 201} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 201}
+!!!page: 201
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5023000000-oj_duna_moja_duna.krn
+!!!OTL: Oj, duna moja, duna
+!!!source: DWOK50
+!!!id: 50230
+!!!signature: 5023000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+4dd
+8cc
+=2
+16dd
+16ee
+8ff
+8ff
+8ee
+=3
+8cc
+8dd
+8dd
+8cc
+=4
+4ff
+4ee}
+!!LO:LB:g=esac
+=5
+{8cc
+4dd
+8cc
+=6
+16dd
+16ee
+8ff
+8ff
+8ee
+=7
+8cc
+8dd
+8dd
+8cc
+=8
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 110} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 110}
+!!!page: 110
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK02-K0259a-oj_cy_ja_niescesliwy.krn
+!!!OTL: Oj cy ja niescesliwy
+!!!source: DWOK02
+!!!id: K0259a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16ee
+16gg
+16ff#
+8gg
+=2
+16dd
+16ff
+8aa
+8aa
+=3
+16cc
+16ee
+16gg
+16ff#
+16gg
+16aa
+=4
+16dd
+16ff
+8ee
+8g}
+!!LO:LB:g=esac
+=5
+{16dd
+16b
+8dd
+8ff
+=6
+16ee
+16ee
+8gg
+8ee
+=7
+16dd
+16b
+8dd
+8ff
+=8
+16ee
+16cc
+8dd
+8cc}
+==
+*-
+!!!ONB: Frazy 3-4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 206-207} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 206-207}
+!!!page: 206-207
+!!!ONB: Converted on 2024/12/26 with esac2hum

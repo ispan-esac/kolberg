@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK49362b0002-pokirnoje_derewejko-kalynka.krn
+!!!OTL: Pokirnoje derewejko-kałynka
+!!!source: DWOK49
+!!!id: 49362b
+!!!signature: 49362b0002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8a
+8b
+8cc
+=2
+8dd
+8dd
+4cc
+=3
+4b
+4b
+=4
+4b
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc
+8dd
+=6
+4cc
+8cc
+8a
+=7
+4dd
+4cc
+=8
+4cc
+4a
+=9
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=489 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 399} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 399}
+!!!page: 399
+!!!ONB: Converted on 2024/12/26 with esac2hum

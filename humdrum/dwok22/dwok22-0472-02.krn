@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2247200002-pij_kasiu_spij_kasiu.krn
+!!!OTL: Śpij Kasiu śpij Kasiu
+!!!source: DWOK22
+!!!id: 22472
+!!!signature: 2247200002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{4cc#
+16ee
+16dd#
+=2
+16cc#
+16cc#
+8.ee
+16dd#
+=
+24cc#
+24b
+24cc#
+8ee
+8dd
+=3
+16b
+16a
+8g#
+8b}
+!!LO:LB:g=esac
+=4
+{8e
+8a
+8cc#
+=5
+16b
+16b
+8cc#
+8dd
+=6
+4e
+16f#
+16g#
+=7
+16b
+16a
+8g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 226} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 226}
+!!!page: 226
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK06-K0063-dziekuje_wam_stoly.krn
+!!!OTL: Dziekuje wam stoly
+!!!source: DWOK06
+!!!id: K0063
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16dd
+16dd
+8ff
+8ee
+=2
+4.dd
+=3
+8dd
+8cc
+8g
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8ff
+16ee
+16dd
+=6
+4.dd
+=7
+8dd
+8cc
+16g
+16a
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{16g
+16f
+8g
+8a
+=10
+8cc
+8b
+8dd
+=11
+8dd
+4cc}
+!!LO:LB:g=esac
+=12
+{16cc
+16b-
+8a
+8g
+=13
+8cc
+8cc
+8b-
+=14
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=63 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 37} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

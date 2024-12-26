@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK3641000001-a_u_luzi_kalyna_ta_stojit.krn
+!!!OTL: A u łuzi kałyna ta stojit'
+!!!source: DWOK36
+!!!id: 36410
+!!!signature: 3641000001
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8g
+8g
+8b-
+8dd
+8cc
+8g
+=2
+4b-
+2g
+=3
+8dd
+8dd
+8ee-
+8dd
+8cc
+8b-
+=4
+8g
+8ee-
+2dd}
+!!LO:LB:g=esac
+=5
+{4dd
+8ee-
+8dd
+8cc
+8b-
+=6
+8dd
+16cc
+16dd
+4b-
+4g
+=7
+8b-
+8dd
+8cc
+8b-
+8dd
+8cc
+=8
+4b-
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 260
+!!!ONB: Converted on 2024/12/26 with esac2hum

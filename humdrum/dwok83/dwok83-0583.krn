@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK8358300000-oj_zakukala_sywa_zazulejka.krn
+!!!OTL: Oj, zakukała sywa zazułejka
+!!!source: DWOK83
+!!!id: 83583
+!!!signature: 8358300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4ee
+8dd
+8ff
+=2
+8ee
+8dd
+8dd
+8b
+=3
+8cc
+8dd
+8dd
+16cc
+16b
+=4
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4cc
+=6
+4ee
+4dd
+=7
+2g}
+!!LO:LB:g=esac
+=8
+{4ee
+8dd
+8ff
+=9
+8ee
+8dd
+8dd
+8b
+=10
+8cc
+8dd
+8dd
+16cc
+16b
+=11
+4a
+4g}
+!!LO:LB:g=esac
+=12
+{8cc
+8cc
+8ee
+8ee
+=13
+4dd
+4cc
+=14
+4.a
+8a}
+==
+*-
+!!!ONB: Wariant t. 6: 4_5_4__; wariant t. 13: 4_2_3b_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=479 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 368} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 368}
+!!!page: 368
+!!!ONB: Converted on 2024/12/26 with esac2hum

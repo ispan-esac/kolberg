@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4147000000-oj_chodzil_fraczek_kole_laczek.krn
+!!!OTL: Oj chodził Frączek kole łączek
+!!!source: DWOK41
+!!!id: 41470
+!!!signature: 4147000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+16cc
+16ee
+16ff#
+16ee
+=2
+16dd
+16cc#
+8a
+8dd
+=3
+8a
+16cc
+16ee
+16ff#
+16ee
+=4
+16dd
+16cc#
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8d
+16g
+16b
+=6
+16b
+16a
+8cc#
+8dd
+=7
+16a
+16cc
+8d
+16g
+16b
+=8
+16dd
+16cc#
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=332 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 249-250} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 249-250}
+!!!page: 249-250
+!!!ONB: Converted on 2024/12/26 with esac2hum

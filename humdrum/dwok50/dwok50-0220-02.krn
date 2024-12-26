@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK5022000002-koly_meni_z_ranka_kawy_filizanka.krn
+!!!OTL: Koly meni z ranka kawy filiżanka
+!!!source: DWOK50
+!!!id: 50220
+!!!signature: 5022000002
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8.e
+16f#
+8g
+8a
+=2
+4b
+4a}
+!!LO:LB:g=esac
+=3
+{8a
+8cc#
+8dd
+8cc#
+=4
+4ee
+8ee
+8dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8b
+8a
+=6
+4b
+4g}
+!!LO:LB:g=esac
+=7
+{8e
+8f#
+4g
+=8
+8f#
+4e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 104} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 104}
+!!!page: 104
+!!!ONB: Converted on 2024/12/26 with esac2hum

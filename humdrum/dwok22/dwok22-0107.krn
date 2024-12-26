@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2210700000-skoro_rano_swita.krn
+!!!OTL: Skoro rano świta
+!!!source: DWOK22
+!!!id: 22107
+!!!signature: 2210700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+8dd
+16b
+8.g
+=3
+16ee
+16cc
+8a
+8b
+=4
+8dd
+16b
+8.g}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8dd
+8ee
+=6
+16cc
+16dd
+8b
+16g
+16d
+=7
+16f#
+16g
+8b
+16a
+16f#
+=8
+4g
+8g}
+!!LO:LB:g=esac
+=9
+{16b
+16dd
+8b
+8dd
+=10
+16cc
+16a
+8b
+8dd
+=11
+16f#
+16g
+8b
+8f#
+=12
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 80} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

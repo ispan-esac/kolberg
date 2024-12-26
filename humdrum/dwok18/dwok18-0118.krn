@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK1811800000-a_z_gory_z_gory.krn
+!!!OTL: A z góry z góry
+!!!source: DWOK18
+!!!id: 18118
+!!!signature: 1811800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8ee
+=2
+8ee
+4dd
+=3
+16cc
+16ee
+8dd
+8cc
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8ee
+8ee
+=6
+8ee
+4cc
+=7
+4ee
+8dd
+=8
+8cc}
+4r
+!!LO:LB:g=esac
+=9
+{16cc
+16dd
+8ee
+8ee
+=10
+8ee
+4dd
+=11
+16cc
+16ee
+8dd
+8cc
+=12
+8b
+4a}
+!!LO:LB:g=esac
+=13
+{16cc
+16dd
+8ee
+8ee
+=14
+8ee
+4cc
+=15
+4ee
+8dd
+=16
+8cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 98} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

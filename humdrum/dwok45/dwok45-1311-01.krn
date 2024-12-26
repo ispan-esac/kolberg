@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK45131100001-oj_jozusiu_jozusiu.krn
+!!!OTL: Oj, Józusiu, Józusiu
+!!!source: DWOK45
+!!!id: 451311
+!!!signature: 45131100001
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8dd
+4dd
+8dd
+=2
+8ee
+8ee
+8ee
+8dd
+=3
+8dd
+4dd
+8b
+=4
+*M3/4
+8dd
+8cc
+4a
+4g}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8g
+4g
+8b
+=6
+8dd
+8cc
+8a
+8cc
+=7
+8a
+4g
+8b
+=8
+*M3/4
+8b
+8b
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 135} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

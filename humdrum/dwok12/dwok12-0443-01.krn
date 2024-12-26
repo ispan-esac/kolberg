@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK1244300001-oj_nieszczesliwa_moja_podola.krn
+!!!OTL: Oj nieszczęśliwa moja podola
+!!!source: DWOK12
+!!!id: 12443
+!!!signature: 1244300001
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=1
+{4a
+8b
+8cc#
+4.dd
+8f#
+=2
+8a
+8a
+8g
+8g
+2f#
+=3
+4a
+8b
+8cc#
+2dd
+=4
+4a
+4g
+2f#}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+8e
+8e
+8f#
+8f#
+8g
+8g
+=6
+8d
+8d
+8e
+8e
+8f#
+8f#
+8g
+8g
+=7
+4d
+4e
+8f#
+8f#
+8g
+8g
+=8
+4d
+4e
+8f#
+8f#
+8g
+8g
+=9
+8a
+8a
+8g
+8g
+2f#}
+!!LO:LB:g=esac
+=10
+{4d
+4e
+8f#
+8f#
+8g
+8g
+=11
+8d
+8d
+8e
+8e
+8f#
+8f#
+8g
+8g
+=12
+4a
+4g
+2f#}
+!!LO:LB:g=esac
+=13
+{4a
+8b
+8cc#
+4.dd
+8ff#
+=14
+4a
+8b
+8cc#
+4dd}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=246 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 230} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 230}
+!!!page: 230
+!!!ONB: Converted on 2024/12/26 with esac2hum

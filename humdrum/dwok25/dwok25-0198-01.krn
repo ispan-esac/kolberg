@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2519800001-a_w_boru_pod_lescyna.krn
+!!!OTL: A w boru pod lescyną
+!!!source: DWOK25
+!!!id: 25198
+!!!signature: 2519800001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8cc
+=2
+16cc
+16cc
+8ee
+8gg
+=3
+16gg
+16ff
+8dd
+8cc
+=4
+8ee
+4cc}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8cc
+16cc
+16b
+=6
+16cc
+16cc
+8ee
+8gg
+=7
+16gg
+32ff
+32ee
+8dd
+16dd
+16cc
+=8
+8ee
+4gg
+=9
+4ff
+8ee}
+!!LO:LB:g=esac
+=10
+{8dd
+4g
+=11
+4b
+8cc
+=12
+8ee
+4gg
+=13
+4ff
+8ee
+=14
+8dd
+4g
+=15
+4b
+8cc
+=16
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=223 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 198} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 198}
+!!!page: 198
+!!!ONB: Converted on 2024/12/26 with esac2hum

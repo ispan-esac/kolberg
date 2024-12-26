@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK06-K0351-na_podolu_zloty_kamien.krn
+!!!OTL: Na podolu zloty kamien
+!!!source: DWOK06
+!!!id: K0351
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8dd
+16dd
+16ff
+8ee
+=2
+4.dd
+=3
+8cc
+8dd
+8cc
+=4
+4a}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+8g
+8a
+=6
+4cc
+8r
+=7
+8cc
+8dd
+8cc
+=8
+4a}
+8r
+!!LO:LB:g=esac
+=9
+{8cc
+8g
+8a
+=10
+4.cc
+=11
+8cc
+8g
+8a
+=12
+4cc}
+8r
+!!LO:LB:g=esac
+=13
+{8cc
+8g
+16a
+16b
+=14
+4.cc
+=15
+8dd
+8cc
+8b
+=16
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 177} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

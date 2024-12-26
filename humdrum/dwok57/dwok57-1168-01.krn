@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK57116800001-a_tam_kaze_u_luzi.krn
+!!!OTL: A tam każe u łuzi
+!!!source: DWOK57
+!!!id: 571168
+!!!signature: 57116800001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{8e
+8a
+8b
+8a
+=2
+4ee
+8ee
+8cc
+=3
+8a
+8dd
+8ee
+8a
+=4
+*M3/4
+8cc
+8g#
+2a}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8dd
+8dd
+8ee
+8b
+=6
+4dd
+4ee
+=7
+8a
+8dd
+8ee
+8a
+=8
+4cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 290
+!!!ONB: Converted on 2024/12/26 with esac2hum

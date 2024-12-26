@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK3656200000-did_rudyj_baba_ruda.krn
+!!!OTL: Did rudyj baba ruda
+!!!source: DWOK36
+!!!id: 36562
+!!!signature: 3656200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8cc
+8cc
+=2
+8b
+8b
+8a
+8a
+=3
+8g
+8g
+8a
+8a
+=4
+8b
+8b
+8cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc
+8cc
+=6
+8b
+8b
+8a
+8a
+=7
+8g
+8g
+8a
+8a
+=8
+8g
+8g
+4a}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+8a
+8a
+=10
+8g
+8g
+4a}
+!!LO:LB:g=esac
+=11
+{8d
+8f#
+8f#
+8f#
+=12
+8g
+8g
+8g
+8g
+=13
+8d
+8f#
+8f#
+8f#
+=14
+8g
+8g
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 378
+!!!ONB: Converted on 2024/12/26 with esac2hum

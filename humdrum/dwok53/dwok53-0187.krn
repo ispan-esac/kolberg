@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK5318700000-jewka_jewka_rabala_drewka.krn
+!!!OTL: Jewka, Jewka rąbała drewka
+!!!source: DWOK53
+!!!id: 53187
+!!!signature: 5318700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4gg
+2ee
+=2
+4ff
+2dd}
+!!LO:LB:g=esac
+=3
+{4gg
+4ee
+4ee
+=4
+4ff
+2dd}
+!!LO:LB:g=esac
+=5
+{4gg
+4ee
+4cc
+=6
+2aa
+4ff}
+!!LO:LB:g=esac
+=7
+{4dd
+4b
+4b
+=8
+2cc
+4cc}
+!!LO:LB:g=esac
+=9
+{8g
+8cc
+4cc
+4cc
+=10
+4dd
+4cc
+4cc}
+!!LO:LB:g=esac
+=11
+{8g
+8cc
+4cc
+4cc
+=12
+4dd
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=347 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 309} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 309}
+!!!page: 309
+!!!ONB: Converted on 2024/12/26 with esac2hum

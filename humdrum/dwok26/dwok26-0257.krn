@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK2625700000-na_polu_wisnia.krn
+!!!OTL: Na polu wiśnia
+!!!source: DWOK26
+!!!id: 26257
+!!!signature: 2625700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8gg
+8ee
+8dd
+=2
+16cc
+16dd
+4ee
+=3
+8gg
+8ee
+8dd
+=4
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+=6
+8a
+8cc
+8ee
+=7
+8dd
+8b
+8dd
+=8
+16cc
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 214
+!!!ONB: Converted on 2024/12/26 with esac2hum

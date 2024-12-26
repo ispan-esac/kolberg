@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK0433400000-sprawiedliwosc_zosiu_smiala._mazurek_slowa_brodzinskiego.krn
+!!!OTL: Sprawiedliwosc Zosiu śmiała. Mazurek (słowa Brodzińskiego)
+!!!source: DWOK04
+!!!id: K0334
+!!!signature: 0433400000
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M3/8
+=1
+{16f
+16a-
+8.cc
+16b
+=2
+16cc
+16b
+8cc
+8ff
+=3
+16cc
+16dd-
+8.cc
+16b-
+=4
+16a-
+16g
+8a-
+8f}
+!!LO:LB:g=esac
+=5
+{16a-
+16cc
+8.ee-
+16cc
+=6
+16b-
+16a
+16b-
+16cc
+8dd-
+=7
+16cc
+16dd-
+8cc
+8a-
+=8
+16g
+16f#
+16g
+16a-
+16b-
+16g}
+!!LO:LB:g=esac
+=9
+{16a-
+16cc
+8.ee-
+16cc
+=10
+16b-
+16a
+16b-
+16cc
+16dd-
+16b-
+=11
+16cc
+16dd-
+8cc
+8a-
+=12
+16g
+16a-
+8g
+8f}
+==
+*-
+!!!ONB: U Kolberga w t. 7 i 11 błędny zapis rytmu: 56b53b
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 182} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 182}
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

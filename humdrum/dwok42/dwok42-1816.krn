@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK42181600000-z_tamtej_strony_jeziora.krn
+!!!OTL: Z tamtej strony jeziora
+!!!source: DWOK42
+!!!id: 421816
+!!!signature: 42181600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8a
+8g
+=2
+4cc
+4dd
+=3
+2cc
+=4
+8cc
+8ee
+8gg
+8ee}
+!!LO:LB:g=esac
+=5
+{4dd
+4ee
+=6
+2a
+=7
+4ee
+8cc
+8ee
+=8
+4dd
+4g
+=9
+8a
+8cc
+8dd
+8cc}
+!!LO:LB:g=esac
+=10
+{4a
+4g
+=11
+8cc
+8dd
+8ee
+8ff
+=12
+4ee
+4cc
+=13
+2a}
+==
+*-
+!!!ONB: wariant w takcie 8 : 45-7b_, wariant w takcie 12: 543b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 222} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 222}
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

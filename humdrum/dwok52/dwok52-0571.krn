@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK5257100000-nie_pajdu_z_karczomki_horelki_ne_piwszy.krn
+!!!OTL: Nie pajdu z karczomki horełki ne piwszy
+!!!source: DWOK52
+!!!id: 52571
+!!!signature: 5257100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+8dd
+8ee
+=2
+4cc
+8dd
+8cc
+=3
+8b
+8cc
+8dd
+8ee
+=4
+4cc
+4dd}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8g
+8g
+=6
+4a
+4cc
+=7
+8g
+8g
+8g
+8cc
+=8
+4a
+4g}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+8a
+8a
+=10
+8g
+8g
+4b
+=11
+8g
+8g
+8g
+8cc
+=12
+4a
+4g}
+==
+*-
+!!!ONB: Wariant w takcie 4 4_54
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=427 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 362} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 362}
+!!!page: 362
+!!!ONB: Converted on 2024/12/26 with esac2hum

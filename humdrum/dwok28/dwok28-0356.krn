@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK2835600000-ej_byla_zyla_zydowka.krn
+!!!OTL: Ej była żyła żydówka
+!!!source: DWOK28
+!!!id: 28356
+!!!signature: 2835600000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+8dd
+8cc
+8a
+=3
+8cc
+16cc
+16dd
+8cc
+=4
+16b-
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8cc
+=6
+8a
+8a
+8f
+=7
+8g
+8g
+8b-
+=8
+16a
+16g
+16f
+16e
+8d}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8dd
+=10
+8dd
+8dd
+8dd
+=11
+16dd
+16ee
+16ff#
+16ee
+16ff
+16ee
+=12
+8dd
+8dd
+8a}
+!!LO:LB:g=esac
+=13
+{16dd
+16ee
+16ff#
+16ee
+16ff
+16ee
+=14
+8dd
+8dd
+8a
+=15
+16dd
+16ee
+16ff#
+16ee
+16aa
+16gg
+=16
+16ff
+16ee
+8dd
+8cc#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=332 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 313} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 313}
+!!!page: 313
+!!!ONB: Converted on 2024/12/26 with esac2hum

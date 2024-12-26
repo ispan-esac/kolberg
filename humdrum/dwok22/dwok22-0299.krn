@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2229900000-wieta_byla_dorota.krn
+!!!OTL: Święta była Dorota
+!!!source: DWOK22
+!!!id: 22299
+!!!signature: 2229900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4b
+4b
+4cc
+=2
+2dd
+4ee
+=3
+4dd
+4b
+4cc
+=4
+4a}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{2cc
+4b
+=6
+4dd
+2b
+=7
+4a
+4g
+4b
+=8
+4g}
+4r
+4r
+!!LO:LB:g=esac
+=9
+{4b
+4b
+4cc
+=10
+2dd
+4ee
+=11
+4dd
+4b
+4cc
+=12
+4a}
+4r
+4r
+!!LO:LB:g=esac
+=13
+{2cc
+4b
+=14
+4dd
+2b
+=15
+4a
+4g
+8b
+8a
+=16
+4g}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=188 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 170} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 170}
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

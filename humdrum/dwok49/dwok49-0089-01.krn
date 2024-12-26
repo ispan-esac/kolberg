@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4908900001-ach_ubogi_zlobie.krn
+!!!OTL: Ach, ubogi żłobie,
+!!!source: DWOK49
+!!!id: 49089
+!!!signature: 4908900001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8b
+4cc
+4dd
+=2
+2ee
+4dd
+=3
+8ee
+8dd
+4ff
+4ee
+=4
+2dd
+4dd}
+!!LO:LB:g=esac
+=5
+{4.ff
+8ee
+16ee
+16dd
+8cc
+=6
+8ee
+8ee
+4dd
+4cc
+=7
+8b
+8cc
+4dd
+4dd
+=8
+2cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 176} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 176}
+!!!page: 176
+!!!ONB: Converted on 2024/12/26 with esac2hum

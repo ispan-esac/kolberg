@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK1717100000-moja_matka_balamutka_-_mazur.krn
+!!!OTL: Moja matka bałamutka - Mazur
+!!!source: DWOK17
+!!!id: 17171
+!!!signature: 1717100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16ff
+8ee
+16dd
+16cc
+=2
+16dd
+16gg
+8ff#
+8gg
+=3
+16dd
+16ff
+8ee
+16dd
+16ff#
+=4
+8gg
+16dd
+16ee
+8cc}
+!!LO:LB:g=esac
+=5
+{16dd
+16ff
+8ee
+16dd
+16cc
+=6
+16b
+16g
+16a
+16b
+16cc
+16ee
+=7
+8gg
+16dd
+16ee
+8cc
+=8
+16.gg
+32g
+16a
+16b
+8cc}
+!!LO:LB:g=esac
+=9
+{16dd
+16ff
+8ee
+16dd
+16cc
+=10
+16b
+16g
+16a
+16b
+8cc
+=11
+8gg
+16dd
+16ee
+8cc
+=12
+16.gg
+32g
+16a
+16b
+8cc}
+==
+*-
+!!!ONB: Nuta Ser. I. nr. 103, 331, 354.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 57} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

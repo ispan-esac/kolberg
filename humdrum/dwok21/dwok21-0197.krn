@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2119700000-abo_to_ja_jaki_cudzy.krn
+!!!OTL: Abo to ja jaki cudzy
+!!!source: DWOK21
+!!!id: 21197
+!!!signature: 2119700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8dd
+8cc#
+8ee
+8dd
+=3
+8g
+8a
+8b
+8cc
+=4
+8dd
+8cc#
+8ee
+8dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc#
+4a
+=6
+8ee
+4dd
+8b
+=7
+8dd
+8cc#
+4a
+=8
+8ee
+4dd
+8b}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc
+8a
+8f#
+=10
+4g
+8b
+8g
+=11
+8b
+8cc
+8a
+8f#
+=12
+4g
+8b
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 99} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 99}
+!!!page: 99
+!!!ONB: Converted on 2024/12/26 with esac2hum

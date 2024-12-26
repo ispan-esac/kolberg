@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7762600000-za_co_ksiedzu.krn
+!!!OTL: Za co księdzu
+!!!source: DWOK77
+!!!id: 77626
+!!!signature: 7762600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8.ff
+16ee
+=2
+16cc
+16dd
+8.ff
+16ee
+=3
+16cc
+16dd
+8.ff
+16ee
+=4
+8cc
+4g}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8.g
+16b
+=6
+16cc
+16dd
+8.g
+16b
+=7
+16cc
+16dd
+8.ff
+16ee
+=8
+8cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 318
+!!!ONB: Converted on 2024/12/26 with esac2hum

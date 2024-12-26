@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK41112600002-ciezko_temu_zolnierzoju.krn
+!!!OTL: Cięzko temu zołnierzoju
+!!!source: DWOK41
+!!!id: 411126
+!!!signature: 41112600002
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8g
+8b
+4b
+8dd
+8cc
+=2
+8a
+8e
+4g
+4e
+=3
+4dd
+4b
+8cc
+8ee
+=4
+8dd
+8cc
+2a}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4b
+8dd
+8cc
+=6
+8a
+8e
+4g
+4e
+=7
+4b
+8dd
+8cc
+8a
+8e
+=8
+4g
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=572 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 485} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 485}
+!!!page: 485
+!!!ONB: Converted on 2024/12/26 with esac2hum

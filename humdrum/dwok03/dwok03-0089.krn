@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK03-K0089-o_moj_jasineczju.krn
+!!!OTL: O moj Jasineczju
+!!!source: DWOK03
+!!!id: K0089
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+8cc
+8dd
+8ee
+8ee
+=2
+16ff#
+16ee
+8dd
+8ee
+16cc
+16b
+8a
+8g#}
+!!LO:LB:g=esac
+=3
+{8e
+8g#
+8a
+16cc
+16dd
+8ee
+8e
+=4
+8e
+8g#
+8a
+16cc
+16b
+8a
+32cc
+32b
+32a
+32g#}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8dd
+8ee
+8ee
+=6
+16ff#
+16ee
+8dd
+8ee
+16cc
+16b
+8a
+8g#}
+!!LO:LB:g=esac
+=7
+{8e
+8g#
+8a
+16cc
+16dd
+8ee
+8e
+=8
+8e
+8g#
+8a
+16cc
+16b
+8a
+32cc
+32b
+32a
+32g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=321 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 309} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 309}
+!!!page: 309
+!!!ONB: Converted on 2024/12/26 with esac2hum

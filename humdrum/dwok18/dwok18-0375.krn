@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1837500000-widzisz_jasiu_dwoje_ptaszat.krn
+!!!OTL: Widzisz Jasiu dwoje ptasząt
+!!!source: DWOK18
+!!!id: 18375
+!!!signature: 1837500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16cc
+8b
+8cc
+=2
+16dd
+16cc
+8b
+8cc
+=3
+16dd
+16b-
+8ff
+16ee
+16dd
+=4
+8cc
+4ff}
+!!LO:LB:g=esac
+=5
+{16g
+16b-
+8a
+8b-
+=6
+16dd
+16cc
+8b
+8cc
+=7
+8.ee
+16dd
+16b-
+16g
+=8
+8f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 204} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 204}
+!!!page: 204
+!!!ONB: Converted on 2024/12/26 with esac2hum

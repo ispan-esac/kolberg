@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK3637200001-oj_samaz_bo_ja_sama.krn
+!!!OTL: Oj samaż bo ja sama
+!!!source: DWOK36
+!!!id: 36372
+!!!signature: 3637200001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8a
+4cc
+4ee
+=2
+8ee
+8dd
+4ee
+4cc
+=3
+8a
+8a
+8b
+8a
+4ee
+=4
+4dd
+4.ee
+8cc
+=5
+2b}
+4r
+!!LO:LB:g=esac
+=6
+{8a
+8a
+4cc
+4ee
+=7
+8ee
+8dd
+4ee
+8dd
+8cc
+=8
+8a
+8a
+8b
+8a
+8ee
+8dd
+=9
+4ee
+4dd
+4a
+=10
+4a}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 234
+!!!ONB: Converted on 2024/12/26 with esac2hum

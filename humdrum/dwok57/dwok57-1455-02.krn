@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK57145500002-chodyt_kozak_chodyt_kozak.krn
+!!!OTL: Chodyt kozak, chodyt kozak
+!!!source: DWOK57
+!!!id: 571455
+!!!signature: 57145500002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8cc
+8a
+=2
+8a
+8a
+8e
+=3
+8a
+8cc
+8a
+=4
+8a
+8a
+8e}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8a
+=6
+8cc
+8dd
+8cc
+=7
+4ee
+16dd
+16cc}
+!!LO:LB:g=esac
+=8
+{8dd
+8ee
+8dd
+=9
+16dd
+16cc
+4g#
+=10
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 509
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1211300002-jasio_moj_jasienku.krn
+!!!OTL: Jasio mój Jasieńku
+!!!source: DWOK12
+!!!id: 12113
+!!!signature: 1211300002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8b-
+8b-
+4cc
+4a
+=2
+4.f
+8g
+8a
+8cc
+=3
+8cc
+16b-
+16a
+4g
+8cc
+8a
+=4
+4.f
+8g
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4cc
+8b-
+8a
+=6
+4b-
+4b-
+8b-
+8g
+=7
+8b-
+16a
+16b-
+4cc
+4a
+=8
+4.f
+8g
+8a
+8f}
+==
+*-
+!!!ONB: U Kolberga jest metrum 3/8 powinno byc 3/4 i tak zapisano
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 56} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1915200000-poszla_dziewka_prac.krn
+!!!OTL: Poszła dziewka prać
+!!!source: DWOK19
+!!!id: 19152
+!!!signature: 1915200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4.g
+16b
+16cc
+=2
+8cc
+8ee
+4ff
+=3
+8ee
+4ee
+8dd
+=4
+8dd
+8b
+4cc}
+!!LO:LB:g=esac
+=5
+{8ee
+4ee
+8ee
+=6
+8ee
+16cc
+16ee
+8ff
+8gg
+=7
+8ee
+4ee
+8ff
+=8
+8dd
+8b
+8cc
+16a
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 50} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

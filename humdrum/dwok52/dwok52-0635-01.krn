@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5263500001-hej_diwczyna_zyto_rznie.krn
+!!!OTL: Hej, diwczyna żyto rznie
+!!!source: DWOK52
+!!!id: 52635
+!!!signature: 5263500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+8dd
+8b
+=2
+8cc
+8cc
+8dd
+8b
+=3
+8b
+8dd
+8cc
+8a
+=4
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+16g
+16r
+8cc
+16a
+16r
+=6
+8dd
+16b
+16r
+4gg
+=7
+8b
+8dd
+8cc
+8a
+=8
+4g
+4g}
+==
+*-
+!!!ONB: Pierwsza wersja melodii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=471 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 406} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 406}
+!!!page: 406
+!!!ONB: Converted on 2024/12/26 with esac2hum

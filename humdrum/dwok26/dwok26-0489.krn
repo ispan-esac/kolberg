@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2648900000-oj_wianku_ty_moj_wianku.krn
+!!!OTL: Oj wianku ty mój wianku
+!!!source: DWOK26
+!!!id: 26489
+!!!signature: 2648900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8ee
+8cc
+=2
+16ee
+16ff
+8gg
+8gg
+=3
+8ff
+8ee
+8cc
+=4
+16dd
+16ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8cc
+=6
+16ee
+16cc
+8dd
+8g
+=7
+16g
+16cc
+8ee
+8cc
+=8
+16a
+16cc
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 318
+!!!ONB: Converted on 2024/12/26 with esac2hum

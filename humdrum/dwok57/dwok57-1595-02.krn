@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK57159500002-dawno_bulo_czuty.krn
+!!!OTL: Dawno buło czuty
+!!!source: DWOK57
+!!!id: 571595
+!!!signature: 57159500002
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8dd
+8dd
+8gg
+8dd
+8dd
+8cc
+=2
+8b-
+8dd
+8cc
+8b-
+8a
+8g}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8b-
+8g
+8g
+8f
+=4
+8a
+8cc
+8b-
+8a
+8cc
+8e
+=5
+2f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 643
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2549600000-zatknij_plug_zatnij_wolki.krn
+!!!OTL: Zatknij pług, zatnij wołki
+!!!source: DWOK25
+!!!id: 25496
+!!!signature: 2549600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8.ff
+16dd
+8ff
+=2
+16ee
+16cc
+8a
+16b-
+16g
+=3
+8.f
+16g
+8b-
+=4
+16dd
+16cc
+8a
+8b-}
+!!LO:LB:g=esac
+=5
+{8.f
+16g
+16b-
+16dd
+=6
+16cc
+16ee
+8gg
+8ff
+=7
+8.ee
+16dd
+8ff
+=8
+16ee
+16cc
+8a
+16b-
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 200} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 200}
+!!!page: 200
+!!!ONB: Converted on 2024/12/26 with esac2hum

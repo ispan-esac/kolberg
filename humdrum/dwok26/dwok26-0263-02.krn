@@ -1,0 +1,38 @@
+!!!!SEGMENT: DWOK2626300002-osa_osa_zimna_rosa.krn
+!!!OTL: Osa osa zimna rosa
+!!!source: DWOK26
+!!!id: 26263
+!!!signature: 2626300002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+4b
+=2
+8cc
+4dd
+=3
+8ee
+4b
+=4
+8cc
+4dd}
+!!LO:LB:g=esac
+=5
+{8ee
+4ee
+=6
+8dd
+4cc
+=7
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

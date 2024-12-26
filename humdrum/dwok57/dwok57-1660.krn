@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK57166000000-bylo_swieto_w_niedziele.krn
+!!!OTL: Było święto w niedziele
+!!!source: DWOK57
+!!!id: 571660
+!!!signature: 57166000000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{4.dd
+8ee
+8dd
+8cc
+=2
+*M2/4
+8a
+8dd
+8g
+8d}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+8a
+16g
+16f#
+=4
+8e
+8e
+4d}
+!!LO:LB:g=esac
+=5
+*M3/4
+{4.dd
+8ee
+8dd
+8cc
+=6
+8a
+8dd
+2g}
+==
+*-
+!!!ONB: Wariant t. 1: 5__.6_5_43
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 735
+!!!ONB: Converted on 2024/12/26 with esac2hum

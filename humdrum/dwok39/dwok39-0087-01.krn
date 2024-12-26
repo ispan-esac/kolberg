@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK3908700001-beda_ja_jezdzil_we_dnie_i_w_nocy.krn
+!!!OTL: Będą ja jeździł we dnie i w nocy
+!!!source: DWOK39
+!!!id: 39087
+!!!signature: 3908700001
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{8g
+8cc
+8cc
+4cc
+8dd
+=2
+8ee
+8ee
+16cc
+16b
+4a
+8ff
+=3
+8dd
+8dd
+8b
+4g
+8g}
+!!LO:LB:g=esac
+=4
+{8g
+8cc
+8cc
+4cc
+8dd
+=5
+8ee
+8ee
+16cc
+16b
+4a
+8ff
+=6
+8dd
+8dd
+8b
+4g
+8g}
+!!LO:LB:g=esac
+=7
+{4cc
+8g
+4ee
+8cc
+=8
+4dd
+8b
+4cc}
+8r
+!!LO:LB:g=esac
+=9
+{4cc
+8g
+4ee
+8cc
+=10
+4dd
+8b
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 143} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 143}
+!!!page: 143
+!!!ONB: Converted on 2024/12/26 with esac2hum

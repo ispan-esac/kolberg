@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3314600000-oj_nalijcuj_sztyry_koni.krn
+!!!OTL: Oj nalijcuj sztyry koni
+!!!source: DWOK33
+!!!id: 33146
+!!!signature: 3314600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+16b
+16a
+8b
+8g
+=3
+8b
+8dd
+8cc
+=4
+16b
+16a
+4b}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8cc
+=6
+16b
+16a
+8g
+8d
+=7
+8e
+8a
+8g
+=8
+16f#
+16g
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 252} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

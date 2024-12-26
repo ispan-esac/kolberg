@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK3016700000-oj_dolyno_dolynoczko.krn
+!!!OTL: Oj dolyno dolynoczko
+!!!source: DWOK30
+!!!id: 30167
+!!!signature: 3016700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+4dd#
+=2
+8ee
+4dd
+=3
+8ee
+8.dd
+16b
+=4
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8.dd#
+16b
+=6
+8a
+4cc
+=7
+4b
+8a
+=8
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=9
+{8dd
+4cc
+=10
+8b
+4a
+=11
+8a
+8.a
+16g
+=12
+8a
+8.cc
+16b}
+!!LO:LB:g=esac
+=13
+{8dd
+4cc
+=14
+8a
+4b
+=15
+4.a
+=16
+8cc
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 109} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 109}
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

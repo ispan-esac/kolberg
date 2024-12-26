@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK0906000021-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK09
+!!!id: 09060
+!!!signature: 0906000021
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4dd
+8dd
+8a
+=2
+8cc
+8ee
+4.dd
+8a}
+!!LO:LB:g=esac
+=3
+{4b
+4dd
+8dd
+8a
+=4
+8cc
+8b
+4b
+8a
+8f#}
+!!LO:LB:g=esac
+=5
+{4g
+4g
+8a
+8cc
+=6
+8b
+8b
+4a
+4dd}
+!!LO:LB:g=esac
+=7
+{4g
+8g
+8a
+8cc
+8b
+=8
+8b
+8g
+4a
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 202} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 202}
+!!!page: 202
+!!!ONB: Converted on 2024/12/26 with esac2hum

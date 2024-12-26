@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7720800000-oj_pamietaj_dziewczyno.krn
+!!!OTL: Oj pamiętaj dziewczyno
+!!!source: DWOK77
+!!!id: 77208
+!!!signature: 7720800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4d
+4f#
+8f#
+8d
+=2
+8f#
+8g
+4a
+4b
+=3
+4g
+4b
+8b
+8dd
+=4
+8dd
+8dd
+4cc#
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc#
+4dd
+4a
+=6
+8f#
+8g
+4a
+4b
+=7
+4g
+4e
+8e
+8d
+=8
+8e
+8g
+4f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

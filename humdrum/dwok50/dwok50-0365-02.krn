@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5036500002-zaszumily_luhy_rozlily_sie_ryky.krn
+!!!OTL: Zaszumiły łuhy, rozliły sie ryky
+!!!source: DWOK50
+!!!id: 50365
+!!!signature: 5036500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+8cc
+8b
+=2
+8a
+4.g
+=3
+8b
+8b
+8cc
+8b
+=4
+8cc
+8a
+4a}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8dd
+8cc
+16b
+16g
+=6
+8a
+4.g
+=7
+8b
+16b
+16dd
+8cc
+8b
+=8
+8a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 192} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 192}
+!!!page: 192
+!!!ONB: Converted on 2024/12/26 with esac2hum

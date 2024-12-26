@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK4411200002-wyjechalem_w_pole_orac.krn
+!!!OTL: Wyjechałem w pole orać
+!!!source: DWOK44
+!!!id: 44112
+!!!signature: 4411200002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8dd
+8dd
+=2
+8ee
+8gg
+8gg
+8ff}
+!!LO:LB:g=esac
+=3
+{8ee
+8cc
+16dd
+16ff
+16dd
+16b
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{8ff
+8dd
+8cc
+8cc
+=6
+8b-
+8b-
+8a
+8a}
+!!LO:LB:g=esac
+=7
+{8ff
+8dd
+8cc
+8cc
+=8
+8b-
+8b-
+8a
+8a}
+!!LO:LB:g=esac
+=9
+{8f
+8f
+8g
+8g
+=10
+2f}
+==
+*-
+!!!ONB: Wydaje mi sie że powinno być C, choć w obu przypadkach melodia się zgadza
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 149} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 149}
+!!!page: 149
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5041400001-o_na_szerokim_bloniu_jedzie_jasiejko_na_koniu.krn
+!!!OTL: O, na szerokim błoniu jedzie Jasiejko na koniu
+!!!source: DWOK50
+!!!id: 50414
+!!!signature: 5041400001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8g
+8cc
+=2
+4ee
+8cc
+=3
+8a
+8g
+8f}
+!!LO:LB:g=esac
+=4
+{8c
+16e
+16c
+8e
+=5
+4g
+8d
+=6
+8f
+8e
+8d}
+!!LO:LB:g=esac
+=7
+{8g
+8g
+8g
+=8
+4cc
+8b
+=9
+4dd
+8b
+=10
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 244} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 244}
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

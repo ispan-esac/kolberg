@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2640800000-hej_pod_borem_borecek.krn
+!!!OTL: Hej pod borem borecek
+!!!source: DWOK26
+!!!id: 26408
+!!!signature: 2640800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8a
+8cc
+8a
+=2
+4cc
+4ee
+=3
+2ff
+=4
+8ee
+8ff
+8gg
+8aa
+=5
+8ff
+8ee
+4dd
+=6
+2cc}
+!!LO:LB:g=esac
+=7
+{4ff
+4cc
+=8
+4.dd
+8g
+=9
+8b-
+8dd
+8cc
+8b-
+=10
+8a
+8g
+4f
+=11
+8cc
+8cc
+8cc
+8dd
+=12
+8b-
+8a
+4g
+=13
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 285
+!!!ONB: Converted on 2024/12/26 with esac2hum

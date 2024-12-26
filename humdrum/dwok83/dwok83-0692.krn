@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK8369200000-nad_elby_fala.krn
+!!!OTL: Nad Elby falą
+!!!source: DWOK83
+!!!id: 83692
+!!!signature: 8369200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8.ff
+16ee
+=2
+8ee
+4a
+=3
+8ee
+8ff
+8ee
+=4
+8ee
+4a}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+8b
+=6
+4dd
+8cc
+=7
+4b
+8cc
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8ee
+=10
+4ccc
+8bb
+=11
+8bb
+8aa
+8ee
+=12
+4gg
+8ff}
+!!LO:LB:g=esac
+=13
+{8ff
+8ee
+8dd
+=14
+8a
+8ee
+8dd
+=15
+4.dd
+=16
+8cc}
+4r
+==
+*-
+!!!ONB: Modulacja do C
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 52} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

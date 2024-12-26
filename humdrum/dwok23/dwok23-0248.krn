@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2324800000-witaj_krolowo_nieba.krn
+!!!OTL: Witaj Królowo nieba
+!!!source: DWOK23
+!!!id: 23248
+!!!signature: 2324800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8a
+4cc
+=2
+8cc
+8dd
+8b-
+=3
+4cc
+8g
+=4
+4f}
+8r
+!!LO:LB:g=esac
+=5
+{4ff
+8ee
+=6
+8dd
+8ff
+16ee
+16dd
+=7
+4cc}
+8r
+!!LO:LB:g=esac
+=8
+{4ff
+8dd
+=9
+8cc
+8ff
+8dd
+=10
+4cc
+8b-
+=11
+4a}
+8r
+!!LO:LB:g=esac
+=12
+{4cc
+8ff
+=13
+8.dd
+16cc
+16b-
+16a
+=14
+4.cc
+=15
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 241} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

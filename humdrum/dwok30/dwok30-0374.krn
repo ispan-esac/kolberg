@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK3037400000-radyly_sie_dwa_wijty.krn
+!!!OTL: Radyly sie dwa wijty
+!!!source: DWOK30
+!!!id: 30374
+!!!signature: 3037400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16ee
+8.ee
+16cc
+8.cc
+=2
+16ee
+8.ee
+4dd
+=3
+16ee
+8.ee
+16cc
+8.cc
+=4
+16a
+8.a
+4g}
+!!LO:LB:g=esac
+=5
+{16cc
+8.cc
+16dd
+8.dd
+=6
+4ee
+16dd
+16cc
+16b
+16cc
+=7
+2a}
+!!LO:LB:g=esac
+=8
+{16cc
+8.cc
+16dd
+8.dd
+=9
+4ee
+8dd
+8cc
+=10
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=216 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 203} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 203}
+!!!page: 203
+!!!ONB: Converted on 2024/12/26 with esac2hum

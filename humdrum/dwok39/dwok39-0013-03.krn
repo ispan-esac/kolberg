@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK3901300003-szly_dziewczyny_swinskim_torem.krn
+!!!OTL: Szły dziewczyny świnskim torem
+!!!source: DWOK39
+!!!id: 39013
+!!!signature: 3901300003
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=1
+{2dd
+4ee
+=2
+8ff
+8ee
+2dd
+=3
+4.cc
+8dd
+4cc
+=4
+4b-
+2a}
+!!LO:LB:g=esac
+=5
+{2dd
+4ee
+=6
+8ff
+8ee
+2dd
+=7
+4.cc
+8dd
+4cc
+=8
+4b-
+2a}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+4b-
+4a
+=10
+8cc
+8cc
+4dd
+16cc
+8.a}
+!!LO:LB:g=esac
+=11
+{8g
+8a
+4b-
+4cc
+=12
+4.dd
+8cc
+8b-
+8a}
+==
+*-
+!!!ONB: Do oczepin, zakodować w A?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 84} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 84}
+!!!page: 84
+!!!ONB: Converted on 2024/12/26 with esac2hum

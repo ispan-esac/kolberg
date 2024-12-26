@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK42188000000-ach_serce_serce.krn
+!!!OTL: Ach serce serce
+!!!source: DWOK42
+!!!id: 421880
+!!!signature: 42188000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4cc
+8b
+8cc
+8a
+4dd
+8b
+=2
+8g
+8b
+8b
+8b
+4g
+8ee
+8dd}
+!!LO:LB:g=esac
+=3
+{4cc
+8b
+8cc
+8a
+4dd
+8cc
+=4
+8b
+8b
+8a
+8a
+4.g
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+8ee
+8ee
+8gg
+8ff#
+8ee
+=6
+8ee
+8dd
+8dd
+8dd
+8b
+4ee
+8dd}
+!!LO:LB:g=esac
+=7
+{8dd
+8cc
+8b
+8cc
+8a
+4dd
+8cc
+=8
+8b
+8g
+8a
+8a
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 270} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 270}
+!!!page: 270
+!!!ONB: Converted on 2024/12/26 with esac2hum

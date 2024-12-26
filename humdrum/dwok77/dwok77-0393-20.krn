@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7739300020-oj_darmo_moja_-_cz._instrumentalna.krn
+!!!OTL: Oj darmo moja  - cz. instrumentalna
+!!!source: DWOK77
+!!!id: 77393
+!!!signature: 7739300020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8ee
+8gg
+=2
+16gg
+16gg
+8ff
+8aa
+=3
+8gg
+8ee
+8cc
+=4
+16g
+16g
+8b
+8dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+=6
+16dd
+16ff
+8aa
+8gg
+=7
+8ee
+8ee
+8cc
+=8
+16g
+16g
+8b
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 203
+!!!ONB: Converted on 2024/12/26 with esac2hum

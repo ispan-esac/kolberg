@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK1323600030-instrumentalna-mazur_zwany_wolynski.krn
+!!!OTL: Instrumentalna-Mazur zwany wołyński
+!!!source: DWOK13
+!!!id: 13236
+!!!signature: 1323600030
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16d
+16e-
+4f
+=2
+8e
+4f
+=3
+16dd
+16cc
+16b-
+16a
+16g
+16f
+=4
+8f
+4e-}
+!!LO:LB:g=esac
+=5
+{16c
+16d
+8e-
+16f
+16e-
+=6
+8d
+8e-
+16f
+16e-
+=7
+16cc
+16b-
+16a
+16g
+16f
+16e-
+=8
+8g
+4f}
+!!LO:LB:g=esac
+=9
+{16d
+16e-
+4f
+=10
+8e
+4f
+=11
+16dd
+16cc
+16b-
+16a
+16g
+16f
+=12
+8f
+4e-}
+!!LO:LB:g=esac
+=13
+{16c
+16d
+8e-
+16f
+16e-
+=14
+8d
+8e-
+16f
+16e-
+=15
+16cc
+16b-
+16a
+16g
+16f
+16e-
+=16
+8g
+4f}
+==
+*-
+!!!ONB: Fragment w Bb
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 115} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

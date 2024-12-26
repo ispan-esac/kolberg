@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3638800001-u_susida_chata_bila.krn
+!!!OTL: U susida chata biła
+!!!source: DWOK36
+!!!id: 36388
+!!!signature: 3638800001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8a
+8e
+8e
+=2
+8e
+8d
+8e
+8e
+=3
+8e
+8cc
+8b
+8g#
+=4
+8a
+8a
+8a
+8e}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+8d
+8B
+=6
+8e
+8e
+8d
+8B
+=7
+8e
+8cc
+8b
+8g#
+=8
+8a
+8a
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 245
+!!!ONB: Converted on 2024/12/26 with esac2hum

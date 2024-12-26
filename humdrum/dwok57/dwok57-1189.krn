@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK57118900000-oj_tam_w_pole_bujny_witer_wyi.krn
+!!!OTL: Oj, tam w połe bujny witer wyi
+!!!source: DWOK57
+!!!id: 571189
+!!!signature: 57118900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8.ee
+16ee
+8ee
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+4a
+4a
+=4
+8dd
+8dd
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{4g
+4g
+4g
+=6
+2dd
+8b
+8g
+=7
+8b
+8dd
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 310
+!!!ONB: Converted on 2024/12/26 with esac2hum

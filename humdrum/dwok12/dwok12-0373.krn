@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1237300000-mieszkal_mlynarz_nad_woda.krn
+!!!OTL: Mieszkał młynarz nad wodą
+!!!source: DWOK12
+!!!id: 12373
+!!!signature: 1237300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+4b
+4cc
+=2
+4dd
+4gg
+4dd
+=3
+8gg
+8ff#
+4cc
+4ee
+=4
+4dd
+4a
+4dd}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4b
+4ee
+=6
+4cc
+4a
+4dd
+=7
+8g
+8g
+4b
+4ee
+=8
+4cc
+4a
+4g}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+4b
+4ee
+=10
+4cc
+4a
+4dd
+=11
+8g
+8g
+4b
+4ee
+=12
+4cc
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=211 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 195} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 195}
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

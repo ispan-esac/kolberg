@@ -1,0 +1,122 @@
+!!!!SEGMENT: DWOK2252900000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK22
+!!!id: 22529
+!!!signature: 2252900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24a
+24a
+24a
+16a
+16cc
+16b
+16a
+=
+24g
+24a
+24b
+16ee
+16dd
+16cc
+16b
+=
+24a
+24a
+24a
+16a
+16cc
+16b
+16a
+=1
+8g
+16g
+16a
+16cc
+16b}
+!!LO:LB:g=esac
+=2
+{32a
+32b
+32a
+32g
+8d
+16ff#
+16ee
+=3
+32dd
+32ee
+32dd
+32b
+8ee
+8dd
+=4
+16a
+16g
+8d
+16ff#
+16ee
+=5
+16dd
+16b
+8ee
+8dd}
+!!LO:LB:g=esac
+=6
+{8a
+16cc
+16dd
+16ff
+16ee
+=7
+8dd
+8b
+16ee
+16dd
+=8
+16a
+16b
+16cc
+16dd
+16ff
+16ee
+=9
+16dd
+16ee
+16dd
+16b
+16ee
+16dd}
+!!LO:LB:g=esac
+=10
+{8a
+16a
+16cc
+16b
+16a
+=11
+16g
+16a
+8b
+16ee
+16dd
+=12
+8a
+16a
+16cc
+16b
+16a
+=13
+4.g}
+==
+*-
+!!!ONB: Melodia instrumentalna-Pasterska
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 242} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

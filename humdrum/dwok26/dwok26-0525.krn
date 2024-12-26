@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK2652500000-nie_zagram_juz_nikomu.krn
+!!!OTL: Nie zagram już nikomu
+!!!source: DWOK26
+!!!id: 26525
+!!!signature: 2652500000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16cc#
+16cc#
+8dd
+16cc#
+16a
+=2
+16g#
+16e
+8g#
+8a
+=3
+16cc#
+16ee
+16ff#
+16dd
+16cc#
+16a
+=4
+16g#
+16b
+8g#
+8a}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+8a
+=6
+16e
+16g#
+16b
+16dd
+8cc#
+=7
+16e
+16g#
+16b
+16dd
+16cc#
+16a
+=8
+16g#
+16b
+8g#
+8a}
+!!LO:LB:g=esac
+=9
+{16e
+16e
+8g#
+8a
+=10
+16e
+16g#
+16b
+16dd
+8cc#
+=11
+16e
+16g#
+16b
+16dd
+16cc#
+16a
+=12
+16cc#
+16b
+8g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 330
+!!!ONB: Converted on 2024/12/26 with esac2hum

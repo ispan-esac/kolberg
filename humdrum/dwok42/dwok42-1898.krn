@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK42189800000-wszystkich_nas_ciekawosc_budzi.krn
+!!!OTL: Wszystkich nas ciekawość budzi
+!!!source: DWOK42
+!!!id: 421898
+!!!signature: 42189800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8dd
+8dd
+8dd
+8dd
+8dd
+8gg
+8ff#
+=2
+8ee
+8ee
+8ee
+8ee
+8ee
+8ff#
+8gg
+8ee}
+!!LO:LB:g=esac
+=3
+{8dd
+8cc
+8b
+8dd
+8dd
+8dd
+8gg
+8ff#
+=4
+8ee
+8ee
+8ee
+8ee
+8ee
+8ff#
+8gg
+8ee}
+!!LO:LB:g=esac
+=5
+{4dd
+4gg
+8ff#
+8ee
+8ff#
+8ff#
+=6
+4gg}
+4r
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=295 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 286} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 286}
+!!!page: 286
+!!!ONB: Converted on 2024/12/26 with esac2hum

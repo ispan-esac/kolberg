@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4144700000-da_nie_popedze_wolkow_z_rana.krn
+!!!OTL: Da, nie popędzę wołków z rana
+!!!source: DWOK41
+!!!id: 41447
+!!!signature: 4144700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+8a
+8cc
+8dd
+8dd
+=2
+8ff#
+8dd
+4ee
+4cc}
+!!LO:LB:g=esac
+=3
+{4b
+8a
+8cc
+8dd
+8b
+=4
+8a
+8a
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{4g
+8a
+8cc
+8dd
+8b
+=6
+8b
+8a
+4.dd
+8f#}
+!!LO:LB:g=esac
+=7
+{4g
+8a
+8cc
+8dd
+8b
+=8
+8a
+8a
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=323 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 240} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 240}
+!!!page: 240
+!!!ONB: Converted on 2024/12/26 with esac2hum

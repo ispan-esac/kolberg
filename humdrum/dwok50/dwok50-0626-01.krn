@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK5062600001-zawitaj_ranna_jutrzenko.krn
+!!!OTL: Zawitaj, ranna jutrzenko
+!!!source: DWOK50
+!!!id: 50626
+!!!signature: 5062600001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+2ee
+=2
+4dd
+4ee
+4cc
+=3
+4cc
+2dd
+=4
+4ee
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{4ee
+4ee
+4ee
+=6
+4ff
+4ee
+4dd
+=7
+4.dd
+8b
+4cc}
+!!LO:LB:g=esac
+=8
+{2.ee
+=9
+4dd
+4ee
+4cc
+=10
+4dd
+2cc}
+!!LO:LB:g=esac
+=11
+{2.ee
+=12
+4dd
+2cc
+=13
+4dd
+2cc}
+!!LO:LB:g=esac
+=14
+{4dd
+4dd
+4dd
+=15
+4.ee
+8dd
+4cc
+=16
+8cc
+8b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=402 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 369} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 369}
+!!!page: 369
+!!!ONB: Converted on 2024/12/26 with esac2hum

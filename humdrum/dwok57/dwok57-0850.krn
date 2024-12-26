@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5785000000-jichau_kozak_z_zoloczewa.krn
+!!!OTL: Jichau kozak z Zołoczewa
+!!!source: DWOK57
+!!!id: 57850
+!!!signature: 5785000000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8.ee
+16dd
+8cc#
+8cc#
+=2
+8.b
+16g#
+8e
+8e
+=3
+8a
+8cc#
+8cc#
+8ee
+=4
+4dd
+4cc#}
+!!LO:LB:g=esac
+=5
+{8.ee
+16dd
+8cc#
+8cc#
+=6
+8.b
+16g#
+8e
+8e
+=7
+8e
+8a
+8g#
+8b
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

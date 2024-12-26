@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1707100001-oj_na_tatarach_graja.krn
+!!!OTL: Oj na Tatarach grają
+!!!source: DWOK17
+!!!id: 17071
+!!!signature: 1707100001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{8ee
+8ee
+16ee
+16dd#
+=2
+16ee
+16dd#
+8ee
+16ee
+16dd#
+=3
+16ee
+16dd#
+8b
+16g
+16f#
+=4
+16e
+16g
+8b
+8e}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+16g
+16f#
+=6
+16e
+16g
+8b
+8cc
+=7
+8a
+8a
+16a
+16f#
+=8
+16e
+16g
+8b
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 27} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 27}
+!!!page: 27
+!!!ONB: Converted on 2024/12/26 with esac2hum

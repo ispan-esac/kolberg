@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2124900000-bodaj_cie_bog_skaral.krn
+!!!OTL: Bodaj cię Bóg skarał
+!!!source: DWOK21
+!!!id: 21249
+!!!signature: 2124900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8b
+=2
+16cc
+16a
+8b
+8dd
+=3
+8ee
+8ee
+8b
+=4
+16cc
+16a
+8g#
+8e}
+!!LO:LB:g=esac
+=5
+{8f#
+8e
+8g#
+=6
+16a
+16cc
+8b
+8g#
+=7
+8e
+8e
+8g#
+=8
+16b
+16a
+8g#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 113} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 113}
+!!!page: 113
+!!!ONB: Converted on 2024/12/26 with esac2hum

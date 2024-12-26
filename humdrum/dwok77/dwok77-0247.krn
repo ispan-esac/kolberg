@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7724700000-oj_nie_chce_przedmiescianki.krn
+!!!OTL: Oj nie chcę przedmieścianki
+!!!source: DWOK77
+!!!id: 77247
+!!!signature: 7724700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4cc
+=2
+4dd
+4dd
+4cc#}
+!!LO:LB:g=esac
+=3
+{8dd
+8ee
+4dd
+4cc
+=4
+4a
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4dd
+4a
+=6
+4cc
+4cc
+4g}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+4a
+4f#
+=8
+4a
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 138
+!!!ONB: Converted on 2024/12/26 with esac2hum

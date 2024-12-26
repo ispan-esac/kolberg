@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK7789000010-instrumentalne._marcia.krn
+!!!OTL: Instrumentalne. Marcia
+!!!source: DWOK77
+!!!id: 778901
+!!!signature: 7789000010
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M4/4
+{4gg
+8.ee
+16ee
+2ee
+=2
+8gg
+8ff
+8ee
+8ff
+2dd
+=3
+8cc
+8dd
+8ee
+8ff
+4ff
+8aa
+8ff
+=4
+4ee
+8gg
+8b
+4cc
+8cc
+8cc
+=5
+*M2/4
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 78
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1701100010-mila_cieszmy_sie_nadzieja.krn
+!!!OTL: Miłą cieszmy się nadzieją
+!!!source: DWOK17
+!!!id: 17011
+!!!signature: 1701100010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8.cc
+16g
+16.cc
+32ee
+=2
+8.cc
+16g
+16.cc
+32ee
+=3
+8gg
+8ff
+16dd
+16ff
+=4
+16aa
+16gg
+8.ee
+16b}
+!!LO:LB:g=esac
+=5
+{8.cc
+16g
+16.cc
+32ee
+=6
+8.cc
+16g
+16.cc
+32ee
+=7
+8gg
+8ff
+16dd
+16b
+=8
+16g
+16b
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=27 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 5} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 5}
+!!!page: 5
+!!!ONB: Converted on 2024/12/26 with esac2hum

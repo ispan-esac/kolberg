@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK3610600000-oj_ne_jid_olenu_z_bojaramy.krn
+!!!OTL: Oj ne jid' Ołenu z bojaramy
+!!!source: DWOK36
+!!!id: 36106
+!!!signature: 3610600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/8
+=1
+{8dd
+16b
+16a
+=2
+16b
+16a
+16b
+16a
+=3
+16b
+16a
+8a
+=4
+8dd
+16.dd
+32cc
+=5
+16dd
+16a}
+8r
+!!LO:LB:g=esac
+=6
+{8dd
+16b
+16a
+=7
+16b
+16a
+16b
+16a
+=8
+16b
+16a
+8a}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd#
+=10
+8dd
+8a
+=11
+16dd
+16dd
+16dd
+16dd
+=12
+8dd
+8b
+=13
+8a
+8dd
+=14
+8b
+8b
+=15
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 62
+!!!ONB: Converted on 2024/12/26 with esac2hum

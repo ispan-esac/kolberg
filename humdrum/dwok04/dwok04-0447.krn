@@ -1,0 +1,124 @@
+!!!!SEGMENT: DWOK0444700000-nie_bede_ja_zon_pszenicy.krn
+!!!OTL: Nie będę ja żon pszenicy
+!!!source: DWOK04
+!!!id: K0447
+!!!signature: 0444700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8cc#
+8ee
+8ee
+=2
+8ee
+8ee
+8ee}
+!!LO:LB:g=esac
+=3
+{16cc#
+16ee
+16ee
+16dd
+16cc#
+16b
+=4
+16cc#
+16dd
+8ee
+8b
+=5
+16cc#
+16ee
+16ee
+16dd
+16cc#
+16b
+=6
+16cc#
+16dd
+8ee
+8b}
+!!LO:LB:g=esac
+=7
+{16cc#
+16ee
+16ee
+16dd#
+8ff#
+=
+24dd#
+24ee
+24dd#
+16b
+16dd#
+8ee
+=8
+16cc#
+16ee
+16ee
+16dd#
+8ff#
+=
+24dd#
+24ee
+24dd#
+16b
+16dd#
+8ee}
+!!LO:LB:g=esac
+=9
+{8.cc#
+16b
+16a
+16b
+=10
+16e
+16e
+8g#
+8a
+=11
+16cc#
+16dd
+16cc#
+16b
+16a
+16b
+=12
+16e
+16e
+8g#
+8a}
+!!LO:LB:g=esac
+=13
+{8.cc#
+16b
+16a
+16b
+=14
+16e
+16e
+8g#
+8a
+=15
+16cc#
+16dd
+16cc#
+16b
+16a
+16b
+=16
+16e
+16e
+8g#
+8a}
+==
+*-
+!!!ONB: T. 1-2 przygrywka instrumentalna, dwudźwięki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 258} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 258}
+!!!page: 258
+!!!ONB: Converted on 2024/12/26 with esac2hum

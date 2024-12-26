@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK1926900000-nie_bede_ja_siecki_rzezals.krn
+!!!OTL: Nie będę ja siecki rzezałś
+!!!source: DWOK19
+!!!id: 19269
+!!!signature: 1926900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8g
+8g
+=2
+16a
+16cc
+8a
+8a
+=3
+8ee
+8dd
+16g
+16b
+=4
+16b
+32dd
+32cc
+8a
+16f#
+16d}
+!!LO:LB:g=esac
+=5
+{8d
+16f#
+16g
+16a
+16g
+=6
+16b
+16cc
+8a
+8f#
+=7
+16a
+16b
+8g
+8b
+=8
+16b
+32dd
+32cc
+8a
+8f#}
+!!LO:LB:g=esac
+=9
+{8dd
+8b
+[8g
+=
+24g]
+24f#
+24a
+8cc
+8ee
+=10
+8dd
+8b
+8g
+=11
+16b
+32dd
+32cc
+8a
+16f#
+16d}
+!!LO:LB:g=esac
+=12
+{8dd
+8b
+[8g
+=
+24g]
+24f#
+24a
+8cc
+8ee
+=13
+16dd
+16dd
+8b
+8g
+=14
+16b
+32dd
+32cc
+8a
+16f#
+16d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 83} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

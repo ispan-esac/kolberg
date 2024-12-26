@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4961800002-pszenyce_pszenyczejko_koly_ja_tebe_zala.krn
+!!!OTL: Pszenyce, pszenyczejko, koły ja tebe żała
+!!!source: DWOK49
+!!!id: 49618
+!!!signature: 4961800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24a
+24b
+24cc
+8b
+24a
+24g
+24f#
+=1
+4g
+8g
+=2
+16g
+16a
+8cc
+16cc
+16b
+=3
+4a
+8a}
+!!LO:LB:g=esac
+=
+{48a
+48b
+48cc
+16cc
+16b
+16g
+24a
+24f#
+24g
+=4
+4g
+8g
+=
+48a
+48b
+48cc
+16cc
+16b
+16g
+24a
+24f#
+24g
+=5
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=604 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 514} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 514}
+!!!page: 514
+!!!ONB: Converted on 2024/12/26 with esac2hum

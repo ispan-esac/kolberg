@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK8104200010-proszu_ja_was_wisluchajcie.krn
+!!!OTL: Proszu ja was wisłuchajcie
+!!!source: DWOK81
+!!!id: 81042
+!!!signature: 8104200010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8ee
+8dd
+8ee
+=2
+8ff
+8ee
+8dd
+8cc
+=3
+8ee
+8ee
+8gg
+8ee
+=4
+8ff
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+8gg
+=6
+8ff
+8ee
+8dd
+8cc
+=7
+8dd
+8ee
+8ff
+8ee
+=8
+8dd
+8b
+4cc}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 38} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 38}
+!!!page: 38
+!!!ONB: Converted on 2024/12/26 with esac2hum

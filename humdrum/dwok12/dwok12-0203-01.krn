@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1220300001-slonce_swieci_a_nie_grzeje.krn
+!!!OTL: Słońce świeci a nie grzeje
+!!!source: DWOK12
+!!!id: 12203
+!!!signature: 1220300001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4cc
+4ff
+=2
+8ee
+8gg
+4.ff
+8cc
+=3
+8ee
+8gg
+4ff
+4cc
+=4
+8g
+8g
+4.a
+8f}
+!!LO:LB:g=esac
+=5
+{8f
+8g
+4a
+4cc
+=6
+8b-
+8dd
+4.cc
+8f
+=7
+8a
+8f
+4a
+8b-
+8a
+=8
+8g
+8g
+4a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 105} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK7701200001-uciekla_mi_przepioreczka.krn
+!!!OTL: Uciekła mi przepióreczka
+!!!source: DWOK77
+!!!id: 77012
+!!!signature: 7701200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+4dd
+4dd
+=2
+8dd
+8dd
+4dd
+4ee
+=3
+8dd
+8cc
+2a}
+!!LO:LB:g=esac
+=4
+{8a
+8b
+4cc
+4cc
+=5
+8cc
+8cc
+4cc
+4dd
+=6
+8cc
+8b
+2g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+4dd
+4dd
+=8
+8dd
+8dd
+4b
+8b
+8dd
+=9
+8dd
+8cc
+4.a
+8f#}
+!!LO:LB:g=esac
+=10
+{8f#
+8a
+4cc
+4cc
+=11
+8cc
+8cc
+4a
+4a
+=12
+4b
+2g}
+!!LO:LB:g=esac
+=13
+{4b
+4g
+4e
+=14
+8d
+8f#
+4a
+4cc}
+!!LO:LB:g=esac
+=15
+{4b
+4g
+4e
+=16
+8d
+8f#
+4a
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK5012800001-pid_zelenejkym_hajkom.krn
+!!!OTL: Pid zełenejkym hajkom
+!!!source: DWOK50
+!!!id: 50128
+!!!signature: 5012800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+4ee
+8dd
+=3
+8ee
+4cc}
+!!LO:LB:g=esac
+=4
+{8ee
+8dd
+8cc
+=5
+4b
+8a
+=6
+8a
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8a
+8b
+=8
+8b
+8g
+8a
+=9
+8a
+4dd}
+!!LO:LB:g=esac
+=10
+{8dd
+8cc
+8cc
+=11
+4b
+8a
+=12
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 55} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 55}
+!!!page: 55
+!!!ONB: Converted on 2024/12/26 with esac2hum

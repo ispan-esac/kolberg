@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK57102100000-to_moja_dziewczyna_to_moja_bedzie.krn
+!!!OTL: To moja dziewczyna, to moja będzie
+!!!source: DWOK57
+!!!id: 571021
+!!!signature: 57102100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8dd#
+=2
+8ee
+8ee
+8dd#
+=3
+8ee
+8ee
+8dd#
+=4
+4ee
+32cc
+16.b}
+!!LO:LB:g=esac
+=5
+{8a
+8dd
+16cc
+16b
+=6
+8a
+8dd
+16cc
+16b
+=7
+8cc
+8b
+8g#
+=8
+4a
+8a}
+==
+*-
+!!!ONB: Wariant t. 7: 3b_2_2__-7_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 197
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK3639000000-czyz_ja_w_poli_ne_pszenyczejka.krn
+!!!OTL: Czyż ja w poli ne pszenyczejka
+!!!source: DWOK36
+!!!id: 36390
+!!!signature: 3639000000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8dd
+8ee
+4gg
+4gg
+=2
+8a
+8dd
+4ff
+4ee
+=3
+4b
+2cc}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+4gg
+4gg
+=5
+8g
+8b
+4dd
+8ff
+8ee
+=6
+4g#
+2a}
+!!LO:LB:g=esac
+=7
+*M2/4
+{8a
+8a
+8a
+8a
+=8
+8g#
+8b
+8ee
+8ee
+=9
+8cc#
+8a
+8a
+8a
+=10
+8g#
+8b
+8ee
+8ee}
+!!LO:LB:g=esac
+=11
+*M3/4
+{8a
+8a
+4aa
+4gg
+=12
+4ee
+2ff
+=13
+8b
+8ff
+4.ee
+8cc
+=14
+4b
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 246-247
+!!!ONB: Converted on 2024/12/26 with esac2hum

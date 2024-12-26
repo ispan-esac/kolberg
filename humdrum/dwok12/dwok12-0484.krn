@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK1248400000-grali_trabili_kapela_grala.krn
+!!!OTL: Grali, trąbili, kapela grała
+!!!source: DWOK12
+!!!id: 12484
+!!!signature: 1248400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+8g
+8a
+4b
+4b
+=2
+8a
+8g
+8f#
+8g
+2d
+=3
+4cc
+8cc
+8dd
+4ee
+4ee
+=4
+8cc
+8b
+8cc
+8ee
+2dd}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+8ee
+4cc
+4a
+=6
+8g
+8f#
+8g
+8a
+2b
+=7
+4dd
+8dd
+8ee
+4cc
+4a
+=8
+8f#
+8d
+8e
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 251} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

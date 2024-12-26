@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4720000000-kozak_pana_ne_zna_z_wika.krn
+!!!OTL: Kozak pana ne zna z wika
+!!!source: DWOK47
+!!!id: 47200
+!!!signature: 4720000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8cc
+8cc
+=2
+8b
+8a
+8b
+8g
+=3
+8g
+8g
+8cc
+8cc
+=4
+8cc
+8ee
+4gg}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8ff
+8ff
+=6
+8gg
+8gg
+8ee
+8cc
+=7
+8.dd
+16cc
+8b
+8a
+=8
+8g
+8b
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=250 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 196} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

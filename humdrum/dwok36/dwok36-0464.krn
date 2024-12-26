@@ -1,0 +1,110 @@
+!!!!SEGMENT: DWOK3646400000-lude_idut_u_pole_oraty.krn
+!!!OTL: Lude idut' u połe oraty
+!!!source: DWOK36
+!!!id: 36464
+!!!signature: 3646400000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8b
+8ee
+8ee
+8ee
+=2
+8ff#
+8ee
+8dd
+8cc#
+=3
+4dd
+4b}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8dd
+8dd
+=5
+8dd
+8cc#
+8b
+8a
+=6
+4b
+4g}
+!!LO:LB:g=esac
+=7
+{8b
+8b
+8b
+8a
+=8
+8g
+16f#
+16g
+16a
+16g
+16f#
+16g
+=9
+8f#
+8e
+4ee}
+!!LO:LB:g=esac
+=10
+{8b
+8b
+4b
+=11
+8g
+16f#
+16g
+16a
+16g
+16f#
+16g
+=12
+4e
+4e}
+!!LO:LB:g=esac
+=13
+{4b
+8cc
+8b
+=14
+8a
+16g
+16f#
+16a
+16g
+16f#
+16g
+=15
+4e
+4ee}
+!!LO:LB:g=esac
+=16
+{4b
+8cc
+8b
+=17
+8a
+16g
+16f#
+16a
+16g
+16f#
+16g
+=18
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 298
+!!!ONB: Converted on 2024/12/26 with esac2hum

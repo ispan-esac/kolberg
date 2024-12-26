@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0335-z_tamtej_strony_jezioreczka.krn
+!!!OTL: Z tamtej strony jezioreczka
+!!!source: DWOK06
+!!!id: K0335
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8dd
+8dd
+4b
+4g
+=3
+8g
+8b
+4.dd
+8cc#
+=4
+4a
+2f#}
+!!LO:LB:g=esac
+=5
+{4a
+2cc
+=6
+8b
+8b
+4g
+4d
+=7
+8f#
+8a
+4.cc
+8b
+=8
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 168} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

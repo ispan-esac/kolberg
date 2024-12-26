@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK2831300000-idzie_maciek_przez_wies.krn
+!!!OTL: Idzie Maciek przez wieś
+!!!source: DWOK28
+!!!id: 28313
+!!!signature: 2831300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16g
+8a
+8b-
+=2
+8dd
+4cc
+=3
+16.ee
+32dd
+8cc
+8ee
+=4
+8gg
+4ff}
+!!LO:LB:g=esac
+=5
+{16f
+16f
+8a
+8b-
+=6
+8dd
+4cc
+=7
+16.ee
+32dd
+8cc
+8bb-
+=8
+8aa
+4ff}
+!!LO:LB:g=esac
+=9
+{8ff
+8ff
+8ee
+=10
+16cc
+16cc
+8b-
+8a
+=11
+8a
+8b-
+8cc
+=12
+16a
+16cc
+8b-
+8a}
+!!LO:LB:g=esac
+=13
+{8a
+8b-
+16dd-
+16cc
+=
+16a
+16cc
+8b-
+24a
+24g
+24f
+=14
+16a
+16cc
+8b-
+16dd-
+16cc
+=15
+8a
+4b-}
+!!LO:LB:g=esac
+=16
+{16a
+16cc
+8b-
+16dd-
+16cc
+=17
+16a
+16a
+8b-
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=303 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 284} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 284}
+!!!page: 284
+!!!ONB: Converted on 2024/12/26 with esac2hum

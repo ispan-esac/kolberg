@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5042100000-i_poslal_pan_dragana_idz_mlynarzu_do_pana.krn
+!!!OTL: I posłał pan dragana: Idź, młynarzu, do pana
+!!!source: DWOK50
+!!!id: 50421
+!!!signature: 5042100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4a
+4cc
+=2
+4dd
+4cc
+4a}
+!!LO:LB:g=esac
+=3
+{8dd
+8ee
+4dd
+4ee
+=4
+4dd
+4ee
+4cc}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4b
+4cc
+=6
+4b
+4dd
+4cc}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+4b
+4cc
+=8
+4dd
+4cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 250} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 250}
+!!!page: 250
+!!!ONB: Converted on 2024/12/26 with esac2hum

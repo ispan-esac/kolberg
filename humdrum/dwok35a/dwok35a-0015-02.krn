@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK35A-35A01500002-oj_tam_na_hori.krn
+!!!OTL: Oj tam na hori
+!!!source: DWOK35A
+!!!id: 35A015
+!!!signature: 35A01500002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+16b
+16b
+8dd
+4ee
+=2
+8ff#
+8ff#
+8ff#
+8ee
+16dd#
+16cc
+8b
+=3
+16cc
+16a
+[8b
+8b]
+8g#
+4a}
+!!LO:LB:g=esac
+=4
+{8ee
+8ee
+8ee
+8dd
+8cc
+8b
+=5
+8cc
+8dd
+8a
+[8b
+16b]
+16a
+8cc
+=6
+16cc
+16g#
+8a
+4.a
+8a}
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 22} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 22}
+!!!page: 22
+!!!ONB: Converted on 2024/12/26 with esac2hum

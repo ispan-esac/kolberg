@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5784300022-roman_koni_napowaji.krn
+!!!OTL: Roman koni napowaji
+!!!source: DWOK57
+!!!id: 57843
+!!!signature: 5784300022
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8e
+8e
+8d#
+8B
+=2
+4g
+8b
+8g
+=3
+8b
+8g
+4g}
+!!LO:LB:g=esac
+=4
+{8a
+8cc#
+8b
+8a
+=5
+4a
+8b
+8d#
+=6
+4.e
+8e}
+!!LO:LB:g=esac
+=7
+{8e
+8f#
+8g
+8b
+=8
+4a
+8b
+8d#
+=9
+4.e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

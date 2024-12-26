@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4412100002-o_juz_idemy.krn
+!!!OTL: O, już idemy
+!!!source: DWOK44
+!!!id: 44121
+!!!signature: 4412100002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4dd
+8dd
+8cc
+8dd
+8ee
+=2
+8ff
+8aa
+2dd
+=3
+8dd
+8ff
+4ee
+4cc
+=
+12b
+12a
+12g
+2g}
+!!LO:LB:g=esac
+=4
+{4dd
+8dd
+8cc
+8dd
+8ee
+=5
+4ff
+4ee
+16ee
+16dd
+8b
+=6
+2cc
+4cc}
+==
+*-
+!!!ONB: Jak idą do ślubu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 155} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7621900000-gorzala_lipka_gorzala.krn
+!!!OTL: Gorzała lipka, gorzała
+!!!source: DWOK76
+!!!id: 76219
+!!!signature: 7621900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4cc
+4cc
+4cc
+=2
+4b
+2d
+=3
+8d
+8f#
+2a}
+!!LO:LB:g=esac
+=4
+{4c
+4e
+4g
+=5
+4g
+4f#
+4d
+=6
+8d
+8f#
+2g}
+!!LO:LB:g=esac
+=7
+{4c
+4e
+4g
+=8
+4g
+4f#
+4d
+=9
+8d
+8f#
+2G}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 113} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 113}
+!!!page: 113
+!!!ONB: Converted on 2024/12/26 with esac2hum

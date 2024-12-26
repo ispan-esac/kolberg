@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK2532900000-pojedziemy_se_z_syneckiem.krn
+!!!OTL: Pojedziemy se z syneckiem
+!!!source: DWOK25
+!!!id: 25329
+!!!signature: 2532900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8cc
+8ee
+=2
+4dd
+8b
+8dd
+=3
+8a
+8f#
+8a
+8b
+=4
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8cc
+8ee
+=6
+8dd
+8cc
+8b
+8dd
+=7
+4a
+4b
+=8
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8b
+8cc#
+=10
+8dd
+8cc
+8b
+8dd
+=11
+8a
+8a
+8b
+8cc#
+=12
+8dd
+8cc
+8b
+8dd}
+!!LO:LB:g=esac
+=13
+{8a
+8f#
+8a
+8cc#
+=14
+8dd
+8cc
+8b
+8dd
+=15
+8a
+8f#
+8a
+8b
+=16
+4g}
+4r
+==
+*-
+!!!ONB: Wariant w takcie siódmym 2234#
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 148} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 148}
+!!!page: 148
+!!!ONB: Converted on 2024/12/26 with esac2hum

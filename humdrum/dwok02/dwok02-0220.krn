@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK02-K0220-przepiorecka_w_proso.krn
+!!!OTL: Przepiorecka w proso
+!!!source: DWOK02
+!!!id: K0220
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8f#
+8g
+4a
+=2
+8a
+4dd
+8cc#
+=3
+8b
+8cc#
+8dd
+8cc#
+=4
+8b
+4a
+16b
+16cc#}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc#
+8b
+8a
+=6
+16g#
+16a
+4b
+8a
+=7
+16a
+16f#
+8g
+8g
+16e
+16d
+=8
+8f#
+4a
+16b
+16cc#}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc#
+4b
+=10
+8a
+4b
+8a
+=11
+16g#
+16a
+16b
+16a
+8g
+8c#
+=12
+8d
+4.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 190} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 190}
+!!!page: 190
+!!!ONB: Converted on 2024/12/26 with esac2hum

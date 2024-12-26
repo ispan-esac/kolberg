@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2719500000-wstalem_rano_raniusienko.krn
+!!!OTL: Wstałem rano raniusieńko
+!!!source: DWOK27
+!!!id: 27195
+!!!signature: 2719500000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8.b-
+16cc
+16dd
+16ee-
+=2
+16ff
+16dd
+8ee-
+8gg
+=3
+16ff
+16ee-
+8cc
+8dd
+=4
+4.b-}
+!!LO:LB:g=esac
+=5
+{16f
+16f
+8ee-
+8dd
+=6
+16cc
+16a
+8b-
+8dd
+=7
+16cc
+16b-
+8g
+8a
+=8
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 252} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

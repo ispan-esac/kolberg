@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK02-K0131-i_wyjechal.krn
+!!!OTL: I wyjechal
+!!!source: DWOK02
+!!!id: K0131
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+8dd
+8cc
+8b
+=3
+8cc
+8b
+8a
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+=6
+8cc
+8b
+8dd
+=7
+4.a
+=8
+8b
+8g}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8b
+=10
+4.g
+=11
+8a
+8a
+8e
+=12
+4.d}
+!!LO:LB:g=esac
+=13
+{8d
+8f#
+8g
+=14
+4a
+8e
+=15
+8d
+4a
+=16
+8d
+8f#
+8g
+=17
+4a
+8e
+=18
+4d
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 131} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 131}
+!!!page: 131
+!!!ONB: Converted on 2024/12/26 with esac2hum

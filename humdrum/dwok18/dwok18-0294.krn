@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1829400000-chciala_pani_pic.krn
+!!!OTL: Chciała pani pić
+!!!source: DWOK18
+!!!id: 18294
+!!!signature: 1829400000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8ff
+8ff
+8ff
+8ee
+=2
+4ff
+4cc
+=3
+8ff
+16ee
+16dd
+4cc
+=4
+8ff
+16ee
+16dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8b-
+8b-
+8a
+8cc
+=6
+8b-
+8g
+4f
+=7
+4b-
+4ee-}
+!!LO:LB:g=esac
+=8
+{8dd
+8dd
+8cc
+8a
+=9
+8b-
+8b-
+8f
+8f
+=10
+8f
+8a
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 166} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 166}
+!!!page: 166
+!!!ONB: Converted on 2024/12/26 with esac2hum

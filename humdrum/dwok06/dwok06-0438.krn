@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK06-K0438-a_my_dziady_z_baranowa.krn
+!!!OTL: A my dziady z Baranowa
+!!!source: DWOK06
+!!!id: K0438
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8a
+8b
+4cc#
+4cc#
+=2
+4b
+2e
+=3
+2.a}
+!!LO:LB:g=esac
+=4
+{8cc#
+8dd
+4ee
+4ff#
+=5
+8ee
+8cc#
+4dd
+8b
+8g#
+=6
+2.a}
+!!LO:LB:g=esac
+=7
+{8a
+8b
+4cc#
+4cc#
+=8
+8b
+8a
+4b
+4e
+=9
+2a
+4e
+=10
+2a}
+4r
+!!LO:LB:g=esac
+=11
+{8b
+8dd
+4ee
+4ff#
+=12
+8ee
+8cc#
+4dd
+8b
+8g#
+=13
+2a
+4e
+=14
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 230} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 230}
+!!!page: 230
+!!!ONB: Converted on 2024/12/26 with esac2hum

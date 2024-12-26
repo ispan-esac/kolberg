@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK4125600002-w_ogrodecku_waz_sie_wije.krn
+!!!OTL: W ogródecku wąz się wije
+!!!source: DWOK41
+!!!id: 41256
+!!!signature: 4125600002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16g#
+8a
+8b
+=2
+8cc
+4b
+=3
+16a
+16b
+8a
+16g
+16f
+=4
+4.e}
+!!LO:LB:g=esac
+=5
+{16a
+16g#
+8a
+8b
+=6
+8cc
+4b
+=7
+16a
+16b
+8a
+16g
+16f
+=8
+4.e}
+!!LO:LB:g=esac
+=9
+{16a
+16a
+8e
+16f#
+16g#
+=10
+16a
+16a
+8e
+16f#
+16g#}
+!!LO:LB:g=esac
+=11
+{16a
+16a
+8e
+16f#
+16g#
+=12
+16a
+16a
+8e
+16f#
+16g#}
+!!LO:LB:g=esac
+=13
+{16a
+16b
+8a
+16g
+16f
+=14
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 160} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

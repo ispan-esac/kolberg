@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK10028000010-raz_raz_dziewcze_raz.krn
+!!!OTL: Raz raz dziewcze raz
+!!!source: DWOK10
+!!!id: 10028
+!!!signature: 10028000010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+4dd
+=2
+8b
+8a
+4g
+=3
+8a
+8a
+8cc
+8ee
+=4
+8cc
+8ee
+4dd
+=5
+8b
+8b
+8dd
+8cc
+=6
+8b
+8a
+4g
+=7
+8a
+8b
+8cc
+8b
+=8
+8a
+8a
+4g}
+==
+*-
+!!!ONB: Wersja wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 103} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 103}
+!!!page: 103
+!!!ONB: Converted on 2024/12/26 with esac2hum

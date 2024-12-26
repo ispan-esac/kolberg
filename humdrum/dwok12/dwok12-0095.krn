@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK1209500000-liscie_w_ogrodzie_liscie_padaja.krn
+!!!OTL: Liście w ogrodzie, liście padają
+!!!source: DWOK12
+!!!id: 12095
+!!!signature: 1209500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4g
+4cc
+=2
+8b
+8cc
+4dd
+=3
+8b
+8g
+8a
+8b
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{4g
+4cc
+=6
+8b
+8cc
+4dd
+=7
+8b
+8g
+8a
+8b
+=8
+2cc}
+!!LO:LB:g=esac
+=9
+{4gg
+4ff
+=10
+8ee
+8gg
+8aa
+8ff
+=11
+4dd
+4cc
+=12
+8b
+8cc
+8dd
+8b}
+!!LO:LB:g=esac
+=13
+{4g
+4cc
+=14
+8a
+8a
+4dd
+=15
+8b
+8g
+8a
+8b
+=16
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 46} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

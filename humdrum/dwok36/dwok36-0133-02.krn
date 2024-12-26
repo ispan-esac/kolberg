@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK3613300002-posered_sela.krn
+!!!OTL: Posered seła
+!!!source: DWOK36
+!!!id: 36133
+!!!signature: 3613300002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8a
+8a
+16cc
+16a
+=2
+2b
+=3
+8dd
+8ee
+8dd
+16cc
+16b
+=4
+4.a
+8b}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+8cc
+=6
+2b
+=7
+8dd
+8dd
+8dd
+16cc
+16b
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

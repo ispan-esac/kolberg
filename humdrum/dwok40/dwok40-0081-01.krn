@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK4008100001-pisala_dziewczyna_do_jasieczka_listek.krn
+!!!OTL: Pisała dziewczyna do Jasieczka listek
+!!!source: DWOK40
+!!!id: 40081
+!!!signature: 4008100001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+8cc
+8b
+8g#
+8e
+=2
+8a
+8a
+8cc
+8b
+8a
+8g#}
+!!LO:LB:g=esac
+=3
+{8a
+8b
+4dd
+8cc
+8a
+=4
+8cc
+8ee
+8cc
+8b
+8cc
+8g#}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+4dd
+8cc
+8g#
+=6
+8a
+8cc
+4a}
+4r
+!!LO:LB:g=esac
+=7
+{8a
+8b
+4dd
+8cc
+8a
+=8
+8cc
+8ee
+4cc
+8b
+8g#}
+!!LO:LB:g=esac
+=9
+{8a
+8b
+4dd
+8cc
+8g#
+=10
+8a
+8cc
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 169-170} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, pp. 169-170}
+!!!page: 169-170
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK8303300000-blahoslawy_batejko.krn
+!!!OTL: Błahosław'y batejko
+!!!source: DWOK83
+!!!id: 83033
+!!!signature: 8303300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8dd
+8ee
+8dd
+=2
+8ff
+4ee
+=3
+4.cc
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=
+{24g
+24cc
+24dd
+4ee
+=5
+8ee
+4ff
+=6
+8ff
+8ee
+16cc}
+16r
+!!LO:LB:g=esac
+=7
+{8ee
+8ee
+8ff
+=8
+8ee
+4b
+=9
+4.cc
+=10
+4cc}
+8r
+==
+*-
+!!!ONB: Wariant t. 1-2: +2+3+3_+2_  +4+2+3__; wariant t. 7: +4+3+3_+10
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 50} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

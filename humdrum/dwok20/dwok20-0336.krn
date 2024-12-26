@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2033600000-matulu_moja_stan_w_rogu_stola.krn
+!!!OTL: Matulu moja stań w rogu stoła
+!!!source: DWOK20
+!!!id: 20336
+!!!signature: 2033600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4b
+[4dd
+8dd]
+8cc
+8b
+8cc
+=2
+4.dd
+8cc
+8b
+8a
+8g
+8r
+=3
+4ee
+[4dd
+8dd]
+8cc
+8b
+8a
+=4
+2g
+4d}
+4r
+!!LO:LB:g=esac
+=5
+{4a
+[4a
+8a]
+8g
+4b
+=6
+4.cc
+8b
+8a
+8b
+8g
+8r
+=7
+4a
+[4b
+8b]
+8a
+4g
+=8
+4f#
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=250 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 230} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 230}
+!!!page: 230
+!!!ONB: Converted on 2024/12/26 with esac2hum

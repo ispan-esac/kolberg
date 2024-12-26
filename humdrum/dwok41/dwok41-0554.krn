@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK4155400000-badz_pozdrowiony_blogi_dniu.krn
+!!!OTL: Bądź pozdrowiony błogi dniu
+!!!source: DWOK41
+!!!id: 41554
+!!!signature: 4155400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+{8d
+=1
+4g
+8g
+=2
+8.f#
+16e
+8d
+=3
+4g
+8b
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{4dd
+8b
+=6
+8.dd
+16cc
+8b
+=7
+8a
+16a
+16a
+8a
+=8
+8a
+8r
+8d}
+!!LO:LB:g=esac
+=9
+{4g
+8g
+=10
+8.f#
+16e
+8d
+=11
+4g
+8b
+=12
+8.dd
+16cc
+8b}
+!!LO:LB:g=esac
+=13
+{8a
+16a
+16a
+8a
+=14
+8a
+8b
+8a
+=15
+8.g
+16g
+8g
+=16
+4g
+8dd}
+!!LO:LB:g=esac
+=17
+{8a
+8b
+8cc
+=18
+4b
+8dd
+=19
+8a
+8b
+8cc
+=20
+4b
+8b}
+!!LO:LB:g=esac
+=21
+{8b
+8a
+8g
+=22
+8b
+8a
+8g
+=23
+8dd
+16dd
+16dd
+8dd
+=24
+4.dd}
+==
+*-
+!!!ONB: Pieśń akademików warszawskich, zły podział taktów
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=375 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 292} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 292}
+!!!page: 292
+!!!ONB: Converted on 2024/12/26 with esac2hum

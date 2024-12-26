@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2234500000-a_mam_ci_ja_swinie_bura.krn
+!!!OTL: A mam ci ja świnię burą
+!!!source: DWOK22
+!!!id: 22345
+!!!signature: 2234500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{32a
+32cc
+16ee
+16ee
+16ee
+8ee
+=2
+16gg
+16ee
+16dd
+16b
+8g
+=3
+16cc
+16ee
+8ee
+8ee
+=4
+16gg
+16ee
+16dd
+16b
+8g}
+!!LO:LB:g=esac
+=5
+{16cc
+16a
+8f#
+16g
+16b
+=6
+16dd
+16cc
+8a
+8dd
+=
+24cc
+24a
+24f#
+16a
+16a
+16g
+16b
+=7
+16a
+16a
+16a
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 189} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

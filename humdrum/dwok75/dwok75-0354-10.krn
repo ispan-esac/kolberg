@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK7535400010-instrumentalna_-_marsz_drabant.krn
+!!!OTL: Instrumentalna - Marsz, Drabant
+!!!source: DWOK75
+!!!id: 75354
+!!!signature: 7535400010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8.dd
+16ff
+2dd
+16ff
+8.aa
+=2
+4gg
+2ee
+8ee
+8gg
+=3
+4ff
+2dd
+8dd
+8b
+=4
+4cc
+2cc
+8ee
+8gg}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+4gg
+8gg
+8ff
+=6
+4dd
+4ff
+4aa
+8aa
+8gg
+=7
+4cc
+2ee
+8dd
+8cc
+=8
+4b
+4cc
+2dd}
+==
+*-
+!!!ONB: Wariant t. 5-6: 4_6_+1__+1__+1_7b_  5_7b_+2__+2__+2_+1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 210} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 210}
+!!!page: 210
+!!!ONB: Converted on 2024/12/26 with esac2hum

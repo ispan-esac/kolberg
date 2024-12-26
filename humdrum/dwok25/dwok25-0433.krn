@@ -1,0 +1,110 @@
+!!!!SEGMENT: DWOK2543300000-mazur-instrumentalne.krn
+!!!OTL: Mazur-Instrumentalne
+!!!source: DWOK25
+!!!id: 25433
+!!!signature: 2543300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+16cc
+16dd
+16cc
+16b
+=2
+16cc
+16a
+8f
+8f
+=3
+16c
+16e
+8g
+8g
+=4
+16f
+16a
+8cc
+8cc}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+16cc
+16ff
+16ee
+16dd
+=6
+16cc
+16a
+8f
+16f
+16e
+=7
+16c
+16e
+8g
+16g
+16e
+=8
+16f
+16a
+16b
+16cc
+16dd
+16cc}
+!!LO:LB:g=esac
+=9
+{8.g
+16a
+8b
+=10
+8.cc
+16dd
+16ee
+16cc
+=11
+16dd
+16ff
+16ee
+16ff
+16dd
+16b
+=12
+16cc
+16gg
+16ff#
+16gg
+16ee
+16cc}
+!!LO:LB:g=esac
+=13
+{8.g
+16a
+8b
+=14
+8.cc
+16dd
+16ee
+16gg
+=15
+16gg
+16ff
+8aa
+16dd
+16b
+=16
+8cc
+4cc}
+==
+*-
+!!!ONB: W takcie pierwszym i piątym złe wartości rytmiczne, zapisano dwie szesnastki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 184} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

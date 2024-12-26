@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2641600000-eh_zaplakali_mlodzi_jekruci.krn
+!!!OTL: Eh zapłakali młodzi jekruci
+!!!source: DWOK26
+!!!id: 26416
+!!!signature: 2641600000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4gg
+8dd
+8dd
+4dd
+4ff
+=2
+4cc
+8ee
+8cc
+4dd
+4b
+=3
+8a
+8f
+2g}
+4r
+!!LO:LB:g=esac
+=4
+{4b
+8dd
+8dd
+4dd
+4ff
+=5
+4cc
+8ee
+8cc
+4dd
+4b
+=6
+8a
+8f
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 290
+!!!ONB: Converted on 2024/12/26 with esac2hum

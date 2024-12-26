@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK24106b0001-pod_borem_sosna_stojala.krn
+!!!OTL: Pod borem sosna stojała
+!!!source: DWOK24
+!!!id: 24106b
+!!!signature: 24106b0001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8g
+8b
+=2
+8g
+8f#
+8d
+=3
+4cc
+8a
+=4
+4b}
+8r
+!!LO:LB:g=esac
+=5
+{8d
+8g
+8b
+=6
+8g
+8f#
+8d
+=7
+4cc
+8a
+=8
+4b}
+8r
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+8dd
+=10
+8cc
+8b
+8a
+=11
+16g
+16a
+8b
+8b
+=12
+8a
+8f#
+8d}
+!!LO:LB:g=esac
+=13
+{8d
+8f#
+8g
+=14
+4b
+8f#
+=15
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 231} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 231}
+!!!page: 231
+!!!ONB: Converted on 2024/12/26 with esac2hum

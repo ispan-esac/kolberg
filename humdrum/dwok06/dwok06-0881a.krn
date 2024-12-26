@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK06-K0881a-chalupeczka_niska.krn
+!!!OTL: Chalupeczka niska
+!!!source: DWOK06
+!!!id: K0881a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ff
+16ee
+8dd
+8dd
+=2
+4ee
+8gg
+=3
+16ff
+16ee
+8dd
+8dd
+=4
+4ee
+8cc}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+4dd
+=6
+16cc
+16a
+8b
+8dd
+=7
+16b
+16cc
+4dd
+=8
+16cc
+16a
+8f#
+8g}
+!!LO:LB:g=esac
+=9
+{16.ff
+32ee
+8dd
+16dd
+16cc
+=10
+16ee
+16gg
+16ff#
+16gg
+16ee
+16cc
+=11
+16.ff
+32ee
+16dd
+16cc#
+16dd
+16ee
+=12
+8cc
+4g}
+==
+*-
+!!!ONB: Frazy 1-3; nastepuje zmiana tonacji
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=538 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 512} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 512}
+!!!page: 512
+!!!ONB: Converted on 2024/12/26 with esac2hum

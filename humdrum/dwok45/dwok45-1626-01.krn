@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK45162600001-kiedym_ja_se_kozy_pasal.krn
+!!!OTL: Kiedym ja se kozy pasał
+!!!source: DWOK45
+!!!id: 451626
+!!!signature: 45162600001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4cc
+4cc
+=2
+8f
+8f
+4a
+4a
+=3
+8f
+8f
+4a
+4a}
+!!LO:LB:g=esac
+=4
+{4.f
+8a
+8g
+8c
+=5
+8f
+8a
+4.g
+8c
+=6
+2.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 226} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 226}
+!!!page: 226
+!!!ONB: Converted on 2024/12/26 with esac2hum

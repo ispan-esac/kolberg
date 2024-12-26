@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3612300000-oj_panez_nasz_pane.krn
+!!!OTL: Oj paneż nasz pane
+!!!source: DWOK36
+!!!id: 36123
+!!!signature: 3612300000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M4/4
+{8dd
+8cc
+8cc
+8b
+4.a
+8a
+=2
+*M3/4
+8dd
+16dd
+16ee
+8dd
+16dd
+16cc
+16b
+16a
+8g
+=3
+8dd
+8dd
+8dd
+8cc
+16b
+16a
+8g}
+!!LO:LB:g=esac
+=4
+{16g
+16a
+16b
+16cc
+16b
+16a
+8b
+8dd
+8dd
+=5
+*M4/4
+16ee
+16dd
+16dd
+16cc
+16b
+16g
+8a
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

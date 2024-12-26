@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2724500000-w_pokornosci_sobie_zyla.krn
+!!!OTL: W pokorności sobie żyła
+!!!source: DWOK27
+!!!id: 27245
+!!!signature: 2724500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+8ee
+=2
+8dd
+4ee
+=3
+16dd
+16cc
+4b}
+!!LO:LB:g=esac
+=4
+{16cc
+16dd
+8ee
+8ee
+=5
+8dd
+4ee
+=6
+16dd
+16cc
+4b}
+!!LO:LB:g=esac
+=7
+{16dd
+16cc
+8b
+8a
+=8
+8g#
+4g#
+=9
+8a
+4b}
+!!LO:LB:g=esac
+=10
+{16dd
+16cc
+8b
+8a
+=11
+4ee
+8g#
+=12
+8a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 275} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 275}
+!!!page: 275
+!!!ONB: Converted on 2024/12/26 with esac2hum

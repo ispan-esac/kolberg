@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK2244300010-tracaj_we_stronki_graluchna.krn
+!!!OTL: Trącaj we strónki graluchna
+!!!source: DWOK22
+!!!id: 22443
+!!!signature: 2244300010
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8cc
+8b
+4a
+4ee
+=2
+4ff#
+16ee
+8.ff#
+16ee
+8.ff#
+=3
+8ee
+8cc
+4a
+4b
+=4
+4e
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8a
+8cc
+8ee
+8ff#
+=6
+4ff#
+16ee
+8.ff#
+16ee
+8.ff#
+=7
+8ee
+16cc
+16b
+4a
+8b
+8g#
+=8
+8e
+8g#
+8b
+8g#
+4a}
+!!LO:LB:g=esac
+=
+{4dd
+12cc
+12b
+12a
+8b
+8g#
+=9
+8e
+8g#
+8b
+8g#
+8b
+8ee
+=10
+4dd
+4cc
+8b
+8g#
+=11
+8e
+8g#
+4b
+4a}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 217} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 217}
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK7780900000-ze_w_karczmie_wieczory.krn
+!!!OTL: Ze w karczmie wieczory
+!!!source: DWOK77
+!!!id: 778090
+!!!signature: 7780900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8g
+4.b
+8a
+=2
+8g
+8b
+4.ee
+8dd
+=3
+8dd
+8cc
+8a
+8d
+8f#
+8a
+=
+12cc
+12b
+12a
+4b
+4g}
+!!LO:LB:g=esac
+=4
+{8d
+8g
+4.b
+8a
+=5
+8g
+8b
+4.ee
+8dd
+=6
+8dd
+8cc
+8a
+8d
+8f#
+8a
+=
+12cc
+12b
+12a
+4b
+4g}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+4.gg
+8ee
+=8
+8dd
+8gg
+4gg
+4b
+=9
+8cc
+8d
+4d
+8f#
+8a
+=10
+8g
+8d
+4d
+8g
+8b}
+!!LO:LB:g=esac
+=11
+{8cc
+8ee
+4.gg
+8ee
+=12
+8dd
+8gg
+4gg
+4b
+=13
+8cc
+8d
+4d
+8f#
+8a
+=14
+8cc
+8b
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 13
+!!!ONB: Converted on 2024/12/26 with esac2hum

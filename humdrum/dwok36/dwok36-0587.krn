@@ -1,0 +1,116 @@
+!!!!SEGMENT: DWOK3658700000-oj_wydit_boh_wydit_i_tworec.krn
+!!!OTL: Oj wydit' Boh wydit i Tworeć
+!!!source: DWOK36
+!!!id: 36587
+!!!signature: 3658700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+8cc
+8b
+8a
+8g
+=2
+8a
+8g
+8cc
+8dd
+8ee
+8ee
+=3
+8dd
+8dd
+8dd
+8cc
+8b
+8g
+=4
+8b
+8dd
+2cc}
+!!LO:LB:g=esac
+=5
+{4cc
+8cc
+8b
+8a
+8g
+=6
+8a
+8g
+8cc
+8dd
+8ee
+8ee
+=7
+8dd
+8dd
+8dd
+8cc
+8b
+8g
+=8
+8b
+8dd
+2cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8dd
+4ee
+4ee
+=10
+8ee
+8gg
+8ff
+8ee
+8dd
+8cc
+=11
+8cc
+8dd
+4ee
+4ee
+=12
+8ee
+8gg
+8ff
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=13
+{4cc
+8cc
+8b
+8a
+8g
+=14
+8a
+8g
+8cc
+8dd
+8ee
+8ee
+=15
+8dd
+8dd
+8dd
+8cc
+8b
+8g
+=16
+8b
+8dd
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 392
+!!!ONB: Converted on 2024/12/26 with esac2hum

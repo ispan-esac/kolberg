@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK06-K0788a-nalazlem_u_chlopa_pieniadze_w_kieseni.krn
+!!!OTL: Nalazlem u chlopa pieniadze w kieseni
+!!!source: DWOK06
+!!!id: K0788a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8cc#
+4.dd
+=2
+8dd
+8ee
+8dd
+8b
+=3
+8a
+8g
+8b
+8a
+=4
+8f#
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{4.d
+8f#
+=6
+8g
+8b
+8dd
+8cc#
+=7
+8a
+8g
+8b
+8a
+=8
+8f#
+4g}
+8r
+==
+*-
+!!!ONB: Czesc wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=502 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 476} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 476}
+!!!page: 476
+!!!ONB: Converted on 2024/12/26 with esac2hum

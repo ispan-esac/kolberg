@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK3631300000-byl_to_sobie_sliczny_ptaszek.krn
+!!!OTL: Był to sobie śliczny ptaszek
+!!!source: DWOK36
+!!!id: 36313
+!!!signature: 3631300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{4g
+8b
+4dd
+8ee
+=2
+4dd
+8dd
+8dd
+8b
+8g
+=3
+4cc
+8dd
+4ee
+8gg
+=4
+8gg
+8ff#
+8ee
+4dd
+8b}
+!!LO:LB:g=esac
+=5
+{4cc
+8cc
+8ee
+8dd
+8cc
+=6
+4b
+8b
+8dd
+8cc
+8b
+=7
+4a
+8a
+8a
+8b
+8cc
+=8
+4dd
+8f#
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 193-194
+!!!ONB: Converted on 2024/12/26 with esac2hum

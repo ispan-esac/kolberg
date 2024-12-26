@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK45170200000-wdowa_ja_se_wdowa.krn
+!!!OTL: Wdowa ja se wdowa
+!!!source: DWOK45
+!!!id: 451702
+!!!signature: 45170200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{16ee
+16ee
+4ee
+8cc
+8b
+8a
+=2
+16cc
+16dd
+4ee
+8ee
+8ee
+8ee}
+!!LO:LB:g=esac
+=3
+{16ee
+16ee
+4dd
+8cc
+8b
+8a
+=4
+16a
+16cc
+4ee
+8g#
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 255} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 255}
+!!!page: 255
+!!!ONB: Converted on 2024/12/26 with esac2hum

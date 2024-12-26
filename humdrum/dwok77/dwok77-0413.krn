@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7741300000-o_moj_mocny_boze.krn
+!!!OTL: O mój mocny Boże
+!!!source: DWOK77
+!!!id: 77413
+!!!signature: 7741300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8cc
+4a
+4b
+=2
+2g
+4b}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+4gg
+8gg
+8ff#
+=4
+2dd
+4b}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+4cc
+4a
+=6
+2g
+4b}
+!!LO:LB:g=esac
+=7
+{8cc
+8dd
+4ee
+4f#
+=8
+2g
+4g}
+==
+*-
+!!!ONB: Utwór na 2/4 oznaczony jako krakowiak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 212
+!!!ONB: Converted on 2024/12/26 with esac2hum

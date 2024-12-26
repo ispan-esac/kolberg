@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1219500020-instrumentalne.krn
+!!!OTL: Instrumentalne
+!!!source: DWOK12
+!!!id: 12195
+!!!signature: 1219500020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8.dd
+16g
+16b
+16dd
+=2
+16ff
+16ff
+8ee
+8gg
+=3
+8.dd
+16g
+16b
+16dd
+=4
+16ff
+16ff
+8ee
+8cc}
+!!LO:LB:g=esac
+=5
+{8.dd
+16g
+16b
+16dd
+=6
+16ff
+16ff
+8ee
+8gg
+=7
+8.dd
+16g
+16b
+16dd
+=8
+16ff
+16ff
+8ee
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 100-101} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 100-101}
+!!!page: 100-101
+!!!ONB: Converted on 2024/12/26 with esac2hum

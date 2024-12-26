@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK8416100000-ach_ja_neszczasny_szczo_maju_dijaty.krn
+!!!OTL: Ach, ja neszczasny, szczo maju dijaty
+!!!source: DWOK84
+!!!id: 84161
+!!!signature: 8416100000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=1
+{4dd
+8ee-
+8ee-
+4.dd
+8cc
+=2
+8b-
+8b-
+8a
+8f#
+8g
+8a
+8b-
+8cc}
+!!LO:LB:g=esac
+=3
+{4dd
+8ee-
+8ee-
+4.dd
+8cc
+=4
+8b-
+8b-
+8a
+8f#
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+8cc
+8cc
+8a
+8b-
+8cc
+=6
+8dd
+8dd
+8dd
+8dd
+8dd
+8ee
+8ff#
+8dd}
+!!LO:LB:g=esac
+=7
+{8.gg
+16ff
+16ff
+16ee-
+16ee-
+16dd
+4.dd
+8cc
+=8
+8b-
+8b-
+8.a
+16b-
+4g
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 159} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 159}
+!!!page: 159
+!!!ONB: Converted on 2024/12/26 with esac2hum

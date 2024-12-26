@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK8352400000-nychto_ne_wynen.krn
+!!!OTL: Nychto ne wynen
+!!!source: DWOK83
+!!!id: 83524
+!!!signature: 8352400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4.ee
+8dd
+=2
+8ee
+8dd
+8cc
+8b
+=3
+2a
+=4
+2g
+=5
+8a
+8a
+4g
+=6
+4cc
+8dd
+8dd
+=7
+8gg
+8ff
+4ee}
+!!LO:LB:g=esac
+=8
+{[4ee
+16ee]
+16ff
+16ee
+16dd
+=9
+8ee
+8dd
+8cc
+8b
+=10
+2a
+=11
+2g
+=12
+4cc
+8cc
+8cc
+=13
+4cc
+8dd
+8dd
+=14
+8ee
+8dd
+4a}
+==
+*-
+!!!ONB: Wariant t. 1: 5__6b54_; wariant t. 13-14: 3b__4_46b  5_411__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=418 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 307} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 307}
+!!!page: 307
+!!!ONB: Converted on 2024/12/26 with esac2hum

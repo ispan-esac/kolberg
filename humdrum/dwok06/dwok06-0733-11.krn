@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK0673300011-dyna_ino_dyna.krn
+!!!OTL: Dyna ino dyna
+!!!source: DWOK06
+!!!id: K0733
+!!!signature: 0673300011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+4dd
+8dd
+=2
+8b
+4b
+8dd
+=3
+8ff
+8ff
+8ff
+8gg
+=4
+8ee
+4.cc}
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+8dd
+=6
+8cc
+4a
+8f
+=7
+8f
+8a
+8cc
+8a
+=8
+8b
+4.g}
+==
+*-
+!!!ONB: Część wokalna; Część instrumentalna; z logiki zapisu muzycznego wynika, że mylnie pominięto krzyżyki (fis)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=478 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 452-453} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 452-453}
+!!!page: 452-453
+!!!ONB: Converted on 2024/12/26 with esac2hum

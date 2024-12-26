@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK4300800000-ach_nieszczesny_zasmucony_jest_dzis_dla_mnie_dzien.krn
+!!!OTL: Ach nieszczęsny zasmucony jest dziś dla mnie dzień
+!!!source: DWOK43
+!!!id: 43008
+!!!signature: 4300800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8cc
+4b
+4a
+=2
+8g
+8g
+4g
+4ff
+=3
+8ee
+8dd
+4cc
+4b
+=4
+4cc}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4b
+4a
+=6
+8g
+8g
+4g
+4ff
+=7
+8ee
+8dd
+4cc
+4b
+=8
+4cc}
+4r
+4r
+!!LO:LB:g=esac
+=9
+{8ee
+8ee
+4ee
+4cc
+=10
+8dd
+8dd
+4dd
+4r
+=11
+8dd
+8cc
+4b
+4a
+=12
+8cc
+8a
+4g}
+4r
+!!LO:LB:g=esac
+=13
+{8ee
+8ee
+4ee
+4cc
+=14
+8dd
+8dd
+4dd
+4dd
+=15
+8cc
+8b
+4cc
+8b
+8a
+=16
+4g}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=76 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 33} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 33}
+!!!page: 33
+!!!ONB: Converted on 2024/12/26 with esac2hum

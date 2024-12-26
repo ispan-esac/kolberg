@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2610800000-oj_wywijal_moj_konicek.krn
+!!!OTL: Oj wywijał mój konicek
+!!!source: DWOK26
+!!!id: 26108
+!!!signature: 2610800000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8e
+8e
+4.b
+8g
+=2
+8b
+8dd
+4ee
+4dd
+=3
+8cc
+8b
+[4a
+4a]
+=4
+8a
+8e
+4g
+4e}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4.b
+8g
+=6
+8e
+8e
+8a
+8a
+8e
+8d
+=7
+4e
+8cc
+8b
+4a
+=8
+8e
+8g
+4e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 133
+!!!ONB: Converted on 2024/12/26 with esac2hum

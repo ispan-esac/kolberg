@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4126300012-wieci_miesiac_a_nie_grzeje.krn
+!!!OTL: Świeci miesiąc, a nie grzeje
+!!!source: DWOK41
+!!!id: 41263
+!!!signature: 4126300012
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16cc
+16cc
+8b
+8dd
+=2
+16ff
+16aa
+16gg
+16aa
+16gg
+16ee
+=3
+16cc
+16cc
+8b
+8dd
+=4
+16ff
+16aa
+8.gg
+16ee}
+!!LO:LB:g=esac
+=5
+{16cc
+16cc
+8b
+8dd
+=6
+16a
+16b
+16a
+16g
+16b
+16dd
+=7
+16cc
+16cc
+8b
+8dd
+=8
+8.a
+16g
+16b
+16a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 164-165} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 164-165}
+!!!page: 164-165
+!!!ONB: Converted on 2024/12/26 with esac2hum

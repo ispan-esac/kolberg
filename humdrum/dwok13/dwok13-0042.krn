@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK1304200000-ja_do_dworu_zajade.krn
+!!!OTL: Ja do dworu zajade
+!!!source: DWOK13
+!!!id: 13042
+!!!signature: 1304200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8ff
+=2
+8dd
+8b-
+8dd
+=3
+16cc
+16cc
+8a
+8cc
+=4
+8b-
+8g
+8b-
+=5
+16cc
+16a
+8f
+8f
+=6
+8g
+4c}
+!!LO:LB:g=esac
+=7
+{16f
+16a
+8cc
+8ff
+=8
+8dd
+8b-
+8dd
+=9
+16cc
+16cc
+8a
+8cc
+=10
+8b-
+8g
+8b-
+=11
+16cc
+16a
+8f
+8f
+=12
+8g
+4c}
+!!LO:LB:g=esac
+=13
+{16c
+16e
+4g
+=14
+16f
+16a
+4cc
+=15
+16b-
+16b-
+8g
+8g
+=16
+8cc
+4a}
+!!LO:LB:g=esac
+=17
+{16c
+16e
+4g
+=18
+16f
+16a
+4cc
+=19
+16b-
+16b-
+8g
+8b-
+=20
+16cc
+16a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 25} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 25}
+!!!page: 25
+!!!ONB: Converted on 2024/12/26 with esac2hum

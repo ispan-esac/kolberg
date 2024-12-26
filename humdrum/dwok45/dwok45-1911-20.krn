@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK45191100020-weselmy_sie_pobozanie.krn
+!!!OTL: Weselmy się Pobożanie
+!!!source: DWOK45
+!!!id: 451911
+!!!signature: 45191100020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+4cc
+8cc
+=2
+8dd
+8b-
+4g
+=3
+8a
+4f
+8a
+=4
+8cc
+8b-
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+8ff
+=6
+8dd
+8b-
+4g
+=7
+8a
+4cc
+8a
+=8
+16c
+16d
+16e
+16f
+16g
+16a
+16b-
+16cc}
+!!LO:LB:g=esac
+=9
+{8a
+4f
+8a
+=10
+8cc
+8b-
+4g
+=11
+8a
+4cc
+8a
+=12
+16c
+16d
+16e
+16f
+16g
+16a
+16b-
+16cc}
+!!LO:LB:g=esac
+=13
+{8a
+4f
+8a
+=14
+8cc
+8b-
+4g
+=15
+8a
+4cc
+8a
+=16
+16c
+16d
+16e
+16f
+16g
+16a
+16b-
+16cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 345} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 345}
+!!!page: 345
+!!!ONB: Converted on 2024/12/26 with esac2hum

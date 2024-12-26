@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK2644500002-chodzi_kantar_pod_paninem_oknem.krn
+!!!OTL: Chodzi kantar pod paninem oknem
+!!!source: DWOK26
+!!!id: 26445
+!!!signature: 2644500002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8dd
+8ff
+2gg
+=2
+8dd
+8ee
+4ff
+8dd
+8cc
+=3
+8dd
+8ff
+4gg
+8dd
+8cc
+=4
+8b
+8dd
+4.ff
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+4ee
+8ee
+8ff
+=6
+4dd
+8cc
+8b
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8f#
+4g
+4cc
+=8
+4b
+4g
+4f#
+=9
+8g
+8f#
+4g
+4cc
+=10
+4b
+8dd
+8ff
+8gg
+8ff
+=11
+8ee
+8dd
+8cc
+8b
+4g}
+==
+*-
+!!!ONB: Przy grze w Kantara
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 303
+!!!ONB: Converted on 2024/12/26 with esac2hum

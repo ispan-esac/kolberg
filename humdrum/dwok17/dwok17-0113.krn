@@ -1,0 +1,120 @@
+!!!!SEGMENT: DWOK1711300000-oj_uwiod_zes_mnie_uwiod.krn
+!!!OTL: Oj uwiód żeś mnie uwiód
+!!!source: DWOK17
+!!!id: 17113
+!!!signature: 1711300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+8ff
+16ee
+16dd
+=2
+16cc
+16ee
+8dd
+8b-
+=3
+8g
+8g
+16b
+16g
+=
+24a
+24b
+24cc
+8dd
+24a
+24b-
+24a}
+!!LO:LB:g=esac
+=
+{8gg
+8ff
+24ff
+24ee
+24dd
+=4
+16ee
+16cc
+8dd
+8b
+=
+8g
+8g
+24b
+24a
+24g
+=
+24a
+24b
+24cc
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8ff
+16ff
+16gg
+16ee
+16dd
+=
+24ff
+24gg
+24aa
+8dd
+24cc
+24b
+24a
+=6
+8g
+16g
+16a
+16b
+16g
+=
+24a
+24b
+24cc
+8dd
+24ff
+24ee
+24dd}
+!!LO:LB:g=esac
+=7
+{8ff
+16ff
+16gg
+16ee
+16dd
+=
+16ff
+16aa
+8dd
+24cc
+24b
+24a
+=8
+8g
+16g
+16a
+16b
+16g
+=
+24a
+24b
+24cc
+8dd
+8cc}
+==
+*-
+!!!ONB: Text ob. Ser. XVI n. 456.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 38} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 38}
+!!!page: 38
+!!!ONB: Converted on 2024/12/26 with esac2hum

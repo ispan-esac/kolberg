@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK4127600001-piewa_slowik_na_mogile.krn
+!!!OTL: Śpiewa słowik na mogile
+!!!source: DWOK41
+!!!id: 41276
+!!!signature: 4127600001
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8a
+8a
+4b
+4a
+=2
+4.dd
+8f#
+8b
+8a
+=3
+8a
+8a
+4b
+4a
+=4
+4.dd
+8f#
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{4.a
+8cc#
+8ee
+8gg
+=6
+8ff#
+8ee
+4dd
+4a
+=7
+8a
+8a
+4b
+4c#
+=8
+8d
+8d
+4f#
+4a}
+!!LO:LB:g=esac
+=9
+{4.a
+8cc#
+8ee
+8gg
+=10
+8ff#
+8ee
+4dd
+4a
+=11
+8a
+8a
+4g
+4c#
+=12
+8d
+8d
+4f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 170} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 170}
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

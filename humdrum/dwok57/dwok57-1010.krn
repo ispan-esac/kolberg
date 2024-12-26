@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK57101000000-bodaj_sie_zapadlo.krn
+!!!OTL: Bodaj się zapadło
+!!!source: DWOK57
+!!!id: 571010
+!!!signature: 57101000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8g
+8f#
+8e
+=2
+8d
+4.g
+=3
+8a
+8b
+4cc
+=4
+8dd
+4b
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+8f#
+8e
+=6
+8d
+4.g
+=7
+8f#
+8a
+8cc
+8f#
+=8
+8g
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 191
+!!!ONB: Converted on 2024/12/26 with esac2hum

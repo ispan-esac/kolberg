@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK57104800000-oj_u_sadu_weszni.krn
+!!!OTL: Oj, u sadu weszni
+!!!source: DWOK57
+!!!id: 571048
+!!!signature: 57104800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+8b
+8dd
+8cc
+8b
+=
+12a
+12b
+12b
+8a
+8f#
+8g
+8d}
+!!LO:LB:g=esac
+=2
+{8g
+8b
+8b
+8dd
+8cc
+8b
+=3
+8a
+8b
+8a
+8f#
+8g
+8d}
+!!LO:LB:g=esac
+=4
+{8a
+8a
+8a
+8b
+8a
+8d
+=5
+8g
+8a
+[4b
+8b]
+16a
+16g}
+!!LO:LB:g=esac
+=6
+{8b
+8b
+8cc
+8b
+8b
+8g
+=7
+8a
+16a
+16f#
+4g}
+4r
+==
+*-
+!!!ONB: Wariant t. 2: (1_2_3_)2_-7_1_-5_; wariant t. 7: 3_3_4_3_3_3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

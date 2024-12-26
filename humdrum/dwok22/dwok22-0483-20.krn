@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2248300020-instrumentalna-odsibka.krn
+!!!OTL: Instrumentalna-Odsibka
+!!!source: DWOK22
+!!!id: 22483
+!!!signature: 2248300020
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8ee
+16ee
+16dd#
+=2
+16ee
+16ff
+16ee
+16dd
+8ee
+=3
+16aa
+32gg
+32ff
+8ee
+16dd
+16b
+=4
+16a
+16b
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16b
+16g#
+8.e
+16g#
+=6
+16a
+16b
+8dd
+8ee
+=7
+16b
+16g#
+8.e
+16g#
+=8
+16a
+16b
+8dd
+8cc}
+==
+*-
+!!!ONB: Chodzony (dawny zalotny)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 229} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 229}
+!!!page: 229
+!!!ONB: Converted on 2024/12/26 with esac2hum

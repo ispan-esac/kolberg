@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK1830700000-nie_w_miescie_to_we_wsi.krn
+!!!OTL: Nie w mieście to we wsi
+!!!source: DWOK18
+!!!id: 18307
+!!!signature: 1830700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8b
+=2
+8cc
+4cc
+=3
+8cc
+8ee
+8ee
+=4
+8ff
+4ff}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8cc
+8b
+=6
+8cc
+4cc
+=7
+8cc
+8ee
+8ee
+=8
+8ff
+4ff}
+!!LO:LB:g=esac
+=9
+{8ff
+8ff
+8ff
+=10
+16dd
+16dd
+8dd
+8dd
+=11
+4cc
+8a
+=12
+16b-
+16cc
+8dd
+8dd}
+!!LO:LB:g=esac
+=13
+{4cc
+8a
+=14
+16b-
+16cc
+8dd
+8dd
+=15
+16cc
+16ee
+8ee
+8ee
+=16
+8ff
+4ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 171} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 171}
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

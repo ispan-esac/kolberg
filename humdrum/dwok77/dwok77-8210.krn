@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK7782100000-czy_pamietasz_moja_luba.krn
+!!!OTL: Czy pamiętasz moja luba
+!!!source: DWOK77
+!!!id: 778210
+!!!signature: 7782100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+8cc#
+8dd
+8ee
+8b
+=2
+4dd
+4cc}
+4r
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+8b
+8cc
+8ee
+8dd
+=4
+4b}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8b
+8cc
+8b
+=6
+4b
+4a}
+4r
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+8a
+8a
+8cc
+8b
+=8
+4g}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 24-25
+!!!ONB: Converted on 2024/12/26 with esac2hum

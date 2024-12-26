@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2655600000-maryja_magdalena_w_swiecie_sie_kochala.krn
+!!!OTL: Maryja Magdalena w świecie się kochała
+!!!source: DWOK26
+!!!id: 26556
+!!!signature: 2655600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8a
+8b
+=2
+8cc
+8cc
+8b
+8g
+=3
+8b
+8cc
+8dd
+8cc
+=4
+8b
+4a}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8a
+8b
+=6
+8cc
+8cc
+8b
+8g
+=7
+16b
+16a
+8b
+8cc
+8b
+=8
+8a
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 341
+!!!ONB: Converted on 2024/12/26 with esac2hum

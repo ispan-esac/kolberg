@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3639600001-bidaz_myni_moja_maty.krn
+!!!OTL: Bidaż myni moja maty
+!!!source: DWOK36
+!!!id: 36396
+!!!signature: 3639600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8b
+8dd
+=2
+8cc
+8a
+8g
+8g
+=3
+8cc
+8dd
+8ee
+8ee
+=4
+4.dd
+16cc
+16b
+=5
+4cc}
+4r
+!!LO:LB:g=esac
+=6
+{8cc
+8dd
+8ee
+8ee
+=7
+16dd
+16cc
+16b
+16a
+8g
+8ee
+=8
+8dd
+8b
+8dd
+8a
+=9
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 250
+!!!ONB: Converted on 2024/12/26 with esac2hum

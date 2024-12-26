@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK4929000001-swanejko_pyszna.krn
+!!!OTL: Swanejko pyszna
+!!!source: DWOK49
+!!!id: 49290
+!!!signature: 4929000001
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4dd
+4dd
+4cc
+4cc
+=2
+2dd
+4cc}
+4r
+!!LO:LB:g=esac
+=3
+{4dd
+4dd
+4cc
+4cc
+=4
+2dd
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+4ff
+4ee
+8dd
+8cc
+=6
+2cc
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=417 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 331} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 331}
+!!!page: 331
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK2307300000-smutku_smutku_i_zalosci.krn
+!!!OTL: Smutku smutku i żałości
+!!!source: DWOK23
+!!!id: 23073
+!!!signature: 2307300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+4dd
+=2
+8b
+4b
+=3
+8a
+4cc
+=4
+8b
+16b
+[16a}
+8a]
+!!LO:LB:g=esac
+=5
+{8d
+4cc
+=6
+16b
+16a
+4g
+=7
+8a
+4b
+=8
+8a
+16a
+[16g}
+8g]
+!!LO:LB:g=esac
+=9
+{8b
+4dd
+=10
+8b
+4b
+=11
+8a
+4cc
+=12
+8b
+16b
+[16a}
+8a]
+!!LO:LB:g=esac
+=13
+{8d
+4cc
+=14
+16b
+16a
+4g
+=15
+8a
+4b
+=16
+8a
+16a
+[16g}
+8g]
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 124} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

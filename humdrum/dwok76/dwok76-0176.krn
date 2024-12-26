@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7617600000-w_kalinowym_lasku.krn
+!!!OTL: W kalinowym lasku
+!!!source: DWOK76
+!!!id: 76176
+!!!signature: 7617600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8ee
+4cc
+4ee
+=2
+8gg
+8ff
+4ee
+4dd
+=3
+8cc
+8cc
+4b
+4b
+=4
+4a
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4g
+4b
+=6
+8cc
+8dd
+4ee
+4ee
+=7
+8ff
+8ff
+4ee
+4ee
+=8
+4dd
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 93} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 93}
+!!!page: 93
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2631700000-sialona_rybka_co_nad_weda_siada.krn
+!!!OTL: Sialona rybka co nad wędą siada
+!!!source: DWOK26
+!!!id: 26317
+!!!signature: 2631700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+8ff
+8dd
+8ee
+8cc
+=2
+8.dd
+16dd
+8dd
+8cc
+8b
+8a
+=3
+4g
+8dd
+8dd
+8ee
+8cc
+=4
+8dd
+8ee
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+8dd
+8b
+8g
+=6
+4cc
+4dd
+4ee
+=7
+4dd
+8ff
+8dd
+8ee
+8cc
+=8
+4b
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 245
+!!!ONB: Converted on 2024/12/26 with esac2hum

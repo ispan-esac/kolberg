@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK5059800002-haju-ze_mi_haju.krn
+!!!OTL: Haju-że mi, haju
+!!!source: DWOK50
+!!!id: 50598
+!!!signature: 5059800002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8dd
+4dd
+=2
+8gg
+4ff
+=3
+8ee
+4dd
+=4
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8dd
+4dd
+=6
+8gg
+4ff
+=7
+4.ee
+=8
+4.cc}
+!!LO:LB:g=esac
+=9
+{8dd
+4ee
+=10
+8ff
+4ee
+=11
+8cc
+4cc
+=12
+8cc
+4a}
+!!LO:LB:g=esac
+=13
+{8b
+4b
+=14
+8b
+4g
+=15
+4.a
+=16
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=379 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 348} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 348}
+!!!page: 348
+!!!ONB: Converted on 2024/12/26 with esac2hum

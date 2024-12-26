@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK41103400000-mas_dziewcyno.krn
+!!!OTL: Mas, dziewcyno
+!!!source: DWOK41
+!!!id: 411034
+!!!signature: 41103400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16ee
+16ee
+8dd
+8cc
+=2
+4b
+8a
+=3
+16a
+16a
+8g
+8f#
+=4
+4g
+8e}
+!!LO:LB:g=esac
+=5
+{16e
+16e
+8d
+8c
+=6
+16a
+16a
+4g
+=7
+16a
+16a
+8e
+8g
+=8
+16g
+16f
+4d}
+!!LO:LB:g=esac
+=9
+{16e
+16e
+8d
+8c
+=10
+16a
+16a
+4g
+=11
+16a
+16a
+8e
+8g
+=12
+16g
+16f
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=522 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 435} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 435}
+!!!page: 435
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5021500002-kapala_sie_kasia_w_morzu.krn
+!!!OTL: Kąpała się Kasia w morzu
+!!!source: DWOK50
+!!!id: 50215
+!!!signature: 5021500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8b
+16a
+16b
+=2
+4cc
+8a
+=3
+8a
+4g}
+!!LO:LB:g=esac
+=4
+{16dd
+16b
+8dd
+8dd
+=5
+4ee
+8cc
+=6
+16ee
+16dd
+4dd}
+!!LO:LB:g=esac
+=7
+{16gg
+16dd
+8b
+8b
+=8
+4cc
+16a
+16f#
+=9
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 101} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 101}
+!!!page: 101
+!!!ONB: Converted on 2024/12/26 with esac2hum

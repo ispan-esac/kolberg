@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2901600000-oj_na_kirnycich_taj_na_teplycich.krn
+!!!OTL: Oj na kirnycich taj na teplycich
+!!!source: DWOK29
+!!!id: 29016
+!!!signature: 2901600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8ee
+8dd
+16cc
+16b
+16a
+16g
+16f#
+16e
+=2
+8cc
+8b
+8a
+16g
+16f#
+4e}
+!!LO:LB:g=esac
+=3
+{8e
+16g
+16e
+4g
+4b}
+!!LO:LB:g=esac
+=4
+{8b
+8ee
+8dd
+16cc
+16b
+16a
+16g
+16f#
+16e
+=5
+8cc
+8b
+8a
+16g
+16f#
+4e}
+!!LO:LB:g=esac
+=6
+{8e
+8g
+4g
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 111} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

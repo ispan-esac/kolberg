@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4006900000-zielona_ruta_modry_kwiat.krn
+!!!OTL: Zielona ruta modry kwiat
+!!!source: DWOK40
+!!!id: 40069
+!!!signature: 4006900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{8f
+8a
+8cc
+4cc
+8ee
+=2
+4ff
+8dd
+4cc}
+8r
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+8cc
+4b-
+8g
+=4
+4b-
+8a
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+4b-
+8g
+=6
+4b-
+8a
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 163} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 163}
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

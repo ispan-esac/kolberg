@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK5326700001-hi_ha_hi_ha.krn
+!!!OTL: Hi ha, hi ha
+!!!source: DWOK53
+!!!id: 53267
+!!!signature: 5326700001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{2a
+=2
+2a
+=3
+4a
+4a
+=4
+4a
+4a}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+8dd
+8d
+8d
+=6
+8e
+4.d}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8d
+8d
+=8
+8e
+4.d}
+!!LO:LB:g=esac
+=9
+{8d
+8d
+8.e
+16f#
+=10
+8g
+4.b}
+!!LO:LB:g=esac
+=11
+{16b
+16cc
+8dd
+8.d
+16d
+=12
+8e
+4.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=387 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 347} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 347}
+!!!page: 347
+!!!ONB: Converted on 2024/12/26 with esac2hum

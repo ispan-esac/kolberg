@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK57122800000-wykopaw_ja_kernyczenku.krn
+!!!OTL: Wykopaw ja kernyczeńku
+!!!source: DWOK57
+!!!id: 571228
+!!!signature: 57122800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.cc
+16a
+8g
+8g
+=2
+8.cc
+16a
+8g
+8g}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8g
+8g
+=4
+2ff
+=5
+8ee
+8ee
+8dd
+8dd
+=6
+2cc}
+!!LO:LB:g=esac
+=7
+{8.cc
+16a
+8g
+8g
+=8
+8.cc
+16a
+8g
+8g}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8g
+8g
+=10
+2ff
+=11
+8ee
+8ee
+8dd
+8dd
+=12
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 343
+!!!ONB: Converted on 2024/12/26 with esac2hum

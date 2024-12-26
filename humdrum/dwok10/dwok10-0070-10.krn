@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK1007000010-ty_moja_marynko_otworz_okienko.krn
+!!!OTL: Ty moja Marynko otwórz okienko
+!!!source: DWOK10
+!!!id: 10070
+!!!signature: 1007000010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16a
+8a
+8g
+=2
+8b
+4g
+=3
+16b
+16dd
+8dd
+8cc
+=4
+8ee
+4cc}
+!!LO:LB:g=esac
+=5
+{8.b
+16g
+16a
+16f#
+=6
+16d
+16f#
+8e
+8c
+=7
+16d
+16d
+8f#
+8g
+=8
+8b
+4cc}
+!!LO:LB:g=esac
+=9
+{8.b
+16g
+16a
+16f#
+=10
+16d
+16f#
+8e
+8c
+=11
+16d
+16d
+8f#
+8g
+=12
+8b
+4g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 228} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 228}
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

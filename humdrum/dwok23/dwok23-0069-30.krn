@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2306900030-zaprzagajta_te_to_konie.krn
+!!!OTL: Zaprzągajta te to konie
+!!!source: DWOK23
+!!!id: 23069
+!!!signature: 2306900030
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8b
+8cc
+=2
+16dd
+16dd
+8cc#
+8dd
+=3
+16g
+16g
+8b
+8cc
+=4
+16dd
+16dd
+8cc#
+8dd}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8a
+8b
+=6
+4a
+8cc
+=7
+4a
+8f#
+=8
+4.g}
+==
+*-
+!!!ONB: melodia zwrotek 55-60
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 114} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 114}
+!!!page: 114
+!!!ONB: Converted on 2024/12/26 with esac2hum

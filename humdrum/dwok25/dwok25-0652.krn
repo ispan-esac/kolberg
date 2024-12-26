@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2565200000-cego_jasiu_swiat_marnujes.krn
+!!!OTL: Cego Jasiu świat marnujes?
+!!!source: DWOK25
+!!!id: 25652
+!!!signature: 2565200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+16dd
+16cc
+16b
+16dd
+=2
+16ee
+16ee
+8.gg
+16cc
+=3
+16g
+16b
+16dd
+16cc
+8b
+=4
+16dd
+16cc
+16a
+16f#
+8f#}
+!!LO:LB:g=esac
+=5
+{8d
+16g
+16a
+8b
+=6
+16dd
+16cc
+16a
+16cc
+8cc
+=7
+8b
+16gg
+16dd
+8b
+=8
+16dd
+16cc
+16a
+16f#
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 236} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 236}
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

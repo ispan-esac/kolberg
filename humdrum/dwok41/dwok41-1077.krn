@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK41107700000-a_w_sieni_w_sieni.krn
+!!!OTL: A w sieni w sieni
+!!!source: DWOK41
+!!!id: 411077
+!!!signature: 41107700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{4ee
+4ee
+8cc#
+8dd
+=2
+2ee
+4cc#
+=3
+4ee
+4ee
+4cc#
+=4
+2a
+4e}
+!!LO:LB:g=esac
+=5
+{4b
+4b
+4dd
+=6
+4cc#
+4cc#
+4a
+=7
+8f#
+8d
+4f#
+4a
+=8
+4g#
+2b}
+!!LO:LB:g=esac
+=9
+{4b
+4b
+4dd
+=10
+4cc#
+4cc#
+4a
+=11
+8f#
+8d
+4f#
+4a
+=12
+4g#
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=541 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 454} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 454}
+!!!page: 454
+!!!ONB: Converted on 2024/12/26 with esac2hum

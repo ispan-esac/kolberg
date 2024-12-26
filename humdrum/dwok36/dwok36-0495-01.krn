@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK3649500001-najmensza_ptaszyna_po_dorozi_skacze.krn
+!!!OTL: Najmeńsza ptaszyna po dorozi skacze
+!!!source: DWOK36
+!!!id: 36495
+!!!signature: 3649500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+4b
+=2
+4dd
+16dd
+16cc
+16b
+16g
+=3
+8cc
+8dd
+8ee
+8dd
+=4
+8cc
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+8dd
+=6
+4cc
+8b
+8a
+=7
+8g
+8g
+8a
+8a
+=8
+4.g
+8g}
+!!LO:LB:g=esac
+=9
+{4dd
+8dd
+8dd
+=10
+4cc
+8b
+8a
+=11
+8g
+8g
+8a
+8a
+=12
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 321-322
+!!!ONB: Converted on 2024/12/26 with esac2hum

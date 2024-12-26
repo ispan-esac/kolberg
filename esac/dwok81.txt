@@ -1,0 +1,971 @@
+DWOK81
+CUT[Instrumentalna-Pustyt do chaty]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 3]
+FKT[]
+SIG[8100100011]
+KEY[81001   16  G 2/4]
+MEL[4_322123  4_32211_  4_322123  4_32211_
+    45435654  3432211_  4542+1+2+1_  4542211_ //]
+BEM[Melodia instrumentalna]
+
+DWOK81
+CUT[Instrumentana-Pustyt do chaty]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 3]
+FKT[]
+SIG[8100100012]
+KEY[81001   16  G 2/4]
+MEL[4_322123  4_32211_  4_322123  4_32211_
+    45435654  4542211_  4542+1+2+16  4542211_ //]
+BEM[Wariant melodii instrumentalnej]
+
+DWOK81
+CUT[Pustyt do chaty]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 4]
+FKT[]
+SIG[8100100020]
+KEY[81001   16  G 2/4]
+MEL[4_322_5_  4_322_1_  4_322_5_  4_322_1_ //]
+BEM[Melodia wokalna]
+
+DWOK81
+CUT[Szczodryj weczir]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 4]
+FKT[]
+SIG[8100200000]
+KEY[81002   16  G 3/4]
+MEL[12345__5__  65435_432__
+    3_2_4__4__  5_432__1__ //]
+BEM[Szczodriwka]
+
+DWOK81
+CUT[Ta werbowaja doszczyczka doszczyczka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 5]
+FKT[]
+SIG[8100300000]
+KEY[81003   16  C 3/4]
+MEL[0_+3_+5_+5_+5_+5+4  +4__.+1_+3_+5_  +4+3+27+1___
+    0_+3_+5_+5_+5_+5+4  +4__.+1_+3_+5_  +4_+2_+1___ //]
+BEM[Haiwki-doszczyczka werbowa]
+
+DWOK81
+CUT[Hoj żuczycha rebku imeła]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 5]
+FKT[]
+SIG[8100400000]
+KEY[81004   08  A 3/8 2/4]
+MEL[3b44  3b44  3b3b_  443b  3b43b
+    3b3b4  43b4  423b  3b_2-7  1__ //]
+BEM[Żuk na Wielkanoc]
+
+DWOK81
+CUT[Dajte naneczkoj hołku]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 6]
+FKT[]
+SIG[8100500000]
+KEY[81005   16  A FREI]
+MEL[1_2__5_2_(3b2-7b)2__.21-5_0_
+    1_2__5_3b21_2__.1_0_
+    5_5__3b21_5_5__3b21__
+    1_2_5_  ^_3b21_2__.1_ //]
+BEM[]
+
+DWOK81
+CUT[Marsz weselny]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 7-8, Jasienów polny]
+FKT[]
+SIG[8100600000]
+KEY[81006   16  G 2/4]
+MEL[+1_7+2+1_7+2  +1_7+2+1_7+2  +1_7+2+1_7+2  +1_7+2+1_5_  +15+1+2+3b__
+    +2+2+2+2+2+2+2+2  +3b+3b+3b_+2+2+2_  +1_+1_7_7_  6b_6b_5456b  5___
+    +1_7+2+1_7+2  +1_7+2+1_7+2  +1_7+2+1_7+2  +1_7+2+1_5_  +15+1+2+3b__
+    +2+2+2+2+2+2+2+2  +3b+3b+3b_+2+2+2_  +1_+1_7_7_  6b_6b_5456b  4___
+    +1_7_6b_5_  6b_7+2+1_57  +1_7_6b_5_  4_35(4_5_7b_)
+    4_354_35  4_354_35  4_354_1_  41456b546b  5__7__
+    +1_7_6_5_  1_1_6__  65432__  5_5_543_
+    1_-5_1_1_  43456__  65432__  5__5435
+    54321_-5_  1_212457  +1__6__  +2_221_35
+    4__4__  1_212457  +1_+4_+3__  +2+17+1+2_7+2  +1__1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK81
+CUT[(Łe)żiely berwin berwinko(wija)]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 8]
+FKT[]
+SIG[8100700000]
+KEY[81007   16  G FREI]
+MEL[111345__  666534__  465432232__.2_
+    655543(321)1__.1_  4444654321__.1_ //]
+BEM[Bojary witają pannę młodą]
+
+DWOK81
+CUT[Kołomyjka powolna dla starych]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 9-10]
+FKT[]
+SIG[8100800000]
+KEY[81008   32  G 2/4]
+MEL[560_7b60_7b___  5_6_7b_6_(7_6b_5_)5_4_  560_7b60_7b__7b_6_  7__(6b_5_4_)4___
+    560_7b60_7b___  5_6_7b_6_(7_6b_5_)5_4_  1__(6_7b_6_)4__(6_7b_6_)  4____
+    1__(6_7b_6_)4__(6_7b_6_)  1__(6_7b_6_)(7_6b_5_)5__  1_4_5_6_1_4_5_6_  7__(6b_5_4_)4___
+    1_4_6_4_1_4_6_4_  1_4_6_4_1_4_6_4_  7__(6b_5_4_)7b__(6b_5_4_)  7__(6b_5_4_)4___
+    1__+1_+1_+1_+1_+1_+1_  +1__7__6b__6b__  5__7_7_7_7_7_7_  7b__6b__5__5_4_
+    3b___4__3b_4_  5___7b_6_5_4_  3b__3b__2_1_2_3b_  1____
+    3b___4___  5___5___  3b__3b__2_1_2_3b_  1____
+    6_7b_7b_6_7b__+1__  7b__7b_6_7b__4__  6_7b_7b_6_7b__+1__  7___6b__5_4_
+    6b__6b_5_5_+1_+1_7_  7_6b_6_5_5_+1_+1_7_  6___6___  5__4__3__5__  4____ //]
+BEM[Melodia instrumentalna]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 10-11]
+FKT[]
+SIG[8100900000]
+KEY[81009   16  C FREI]
+MEL[+4#+3+4#_+6_+5_+5___+4#+3+5+5+5_+4_(+2+4+3b)+2_+1_+1___
+    +4#+2+4_+6+5+5___(+5+4+3b)+2_.+1+1___
+    (+2+4+3b)+2__+4+3b+2__(+2+4+3b)+2_.+1+1___
+    (5+1+2)+3b_.+2+4__.5_5_5_5_(5+1+2)+5_(+5+4+3b)+2__+2_+1_
+    (57+1)+2_+1_+4#_+4+2+5_+3b+2(57+1)+2_+1_+5_(+4+3b+2)+2_.+1_ //]
+BEM[Weselna jak się goście rozchodzą]
+
+DWOK81
+CUT[Piszou Semen taj oraty]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 15, Jasienów polny]
+FKT[]
+SIG[8101200000]
+KEY[81012   08  C 3/8]
+MEL[5+1+3  +2+2_  +1+3+2  +2+2_
+    +1+3+2  +2_+1  +2_7  +1_.
+    +1+3+2  +2+2_  7+1+1  +2_.
+    7+1+1  +1_.  +1_.  +1_0 //]
+BEM[]
+
+DWOK81
+CUT[W misti Horodeńci]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 17, Czortowiec, Dżurków]
+FKT[]
+SIG[8101400000]
+KEY[81014   08  A 3/4]
+MEL[111_-5_  1_3b__  222_-5_  1_1__
+    111_5_  5__4_  452_3b_  1__1_ //]
+BEM[]
+
+DWOK81
+CUT[W misti Horodeńci]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 19, Czortowiec, Dżurków]
+FKT[]
+SIG[8101500000]
+KEY[81015   08  G 3/4]
+MEL[5_5_31  2_4__  2_2_-7-5  1_3__
+    1-71_6_  5__3_  322_3_  1__1_ //]
+BEM[]
+
+DWOK81
+CUT[Czy czułe wy lude]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 19]
+FKT[]
+SIG[8101600000]
+KEY[81016   08  A 3/4]
+MEL[13b2_4_  2_-7b_0_  13b5_3b_  1_-7b_0_
+    443b_1_  2_1_0_  223b_-7_  1_1_0_ //]
+BEM[]
+
+DWOK81
+CUT[Oj iszow ja sełom sełom]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 20, Horodnica]
+FKT[]
+SIG[8101700000]
+KEY[81017   16  A 2/4]
+MEL[5__5_4_  3b_2_3b_3b4  4_.6b5_54  3b_.243b21
+    3b_.43b_23b  1_1_1_-5_  3b_.43b_2_  1__1__ //]
+BEM[]
+
+DWOK81
+CUT[Ta zajmu ja woły pasty]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 21]
+FKT[]
+SIG[8101800001]
+KEY[81018   08  G 3/8]
+MEL[444  43b1  444  43b1
+    444  42_  1_.  444
+    43b1  211  1_.  1_1 //]
+BEM[]
+
+DWOK81
+CUT[Ta zajmu ja woły pasty]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 21]
+FKT[]
+SIG[8101800002]
+KEY[81018   16  G 3/8]
+MEL[4_4_4_  (454)3b22_  4_4_4_  (454)3b22_
+    4_4_4_  4_2__  1__.  4_4_4_
+    (454)3b22_  2_1_1_  1__.  1__1_ //]
+BEM[Wariant melodii]
+
+DWOK81
+CUT[Powij witre powij witre]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 23]
+FKT[]
+SIG[8102100010]
+KEY[81021   16  G 2/4 3/8]
+MEL[4_567b__  +1_7b65__  4_221_3_  4_2_1__
+    4_567b__  +1_7b65__  4_(242)1_  1__.  1_0__ //]
+BEM[Partia wokalna]
+
+DWOK81
+CUT[Instrumentalna-Powij witre powij witre]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 23]
+FKT[]
+SIG[8102100020]
+KEY[81021   16  G 2/4 3/8]
+MEL[4_567b__  +17b(7b65)655_  4_21(321)42  1__.  7b_0_0_
+    5_6_7b__  +1_7b65__  5_6_7b__  1__.  5_0__ //]
+BEM[Partia instrumentalna]
+
+DWOK81
+CUT[Jakem buła diwczynoju]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 24, od Horodeńki w Kołomyjskiem]
+FKT[]
+SIG[8102200001]
+KEY[81022   16  G 2/4]
+MEL[3_5_5_5_  5_5_653_  3_5_5_3_  2__4__
+    3_5_5_5_  5_5_654_  3_3_1_1_  1__1__
+    3_4_5_3_  2_1_1_2_  3_5_5_3_  2__1__
+    3_5_5_3_  2_1_2_2_  3_3_1_-7_  1__1__ //]
+BEM[]
+
+DWOK81
+CUT[Jakem buła diwczynoju]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 24, od Horodeńki w Kołomyjskiem]
+FKT[]
+SIG[8102200002]
+KEY[81022   16  G 2/4]
+MEL[3_5_5_5_  5_5_653_  343_5_3_  2__4__
+    345_5_5_  5_5_654_  3_3_1_-7_  1__1__
+    3_4_5_3_  2_1_1_2_  3_5_5_3_  2__1__
+    3_5_5_3_  2_1_2_2_  3_3_1_-7_  1__1__ //]
+BEM[Wariant melodii]
+
+DWOK81
+CUT[I pojichav mij myłeńkij]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 25]
+FKT[]
+SIG[8102300000]
+KEY[81023   08  A 2/4]
+MEL[4455  4444  4455  423b_
+    1122  1112  2111  1_1_ //]
+BEM[]
+
+DWOK81
+CUT[Po sadoczku pochodżaju]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 28]
+FKT[]
+SIG[8102800000]
+KEY[81028   08  A 3/4]
+MEL[553b_5_  423b_43b  21-5_3b_
+    1-7b1_-5_  123b542  1_1_0_ //]
+BEM[]
+
+DWOK81
+CUT[Oj letiła zazułeczka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 30]
+FKT[]
+SIG[8103100000]
+KEY[81031   16  A 2/4]
+MEL[1_5_5_5_  5_5_4_4_  5_6_7b_6_  5___
+    5___  43b211__  1_2_3b_2_  1___ //]
+BEM[]
+
+DWOK81
+CUT[Instrumentalna-Buła chlibaj bukatyna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 31]
+FKT[]
+SIG[8103300010]
+KEY[81033   16  A 2/4]
+MEL[4__.3b2  1___  4__.3b2  4__.3b2  4__.3b2
+    1_1_1_4_  1__2__  4___  4__.3b2  1__4__
+    1__2__  1___  54215421  2_1_1_1_ //]
+BEM[Partia instrumentalna]
+
+DWOK81
+CUT[Buła chlibaj bukatyna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 31]
+FKT[]
+SIG[8103300021]
+KEY[81033   16  B 2/4]
+MEL[3b__3b__  3b__3b__  3b__3b_43b  2b_(3b2b1)1__
+    3b__3b__  3b__3b__  3b__3b_43b  2b_(3b2b1)1__ //]
+BEM[Partia wokalna]
+
+DWOK81
+CUT[Buła chlibaj bukatyna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 31]
+FKT[]
+SIG[8103300022]
+KEY[81033   16  B 2/4]
+MEL[3b__3b43b2b  3b__43b2b1  3b__3b_43b  2b_(3b2b1)1__
+    3b__3b43b2b  3b__43b2b1  3b__3b_43b  2b_(3b2b1)1__ //]
+BEM[Partia wokalna-wariant melodii]
+
+DWOK81
+CUT[Oj ne szumy łuże]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 32]
+FKT[]
+SIG[8103500001]
+KEY[81035   16  E 3/8]
+MEL[5_5_43b  5_4__  5_6b53b2  3b_1__
+    114_3b2  1_3b_45  3b_4_3b2  3b_1__
+    3b_4_3b2  1_13b45  3b_4_3b2  3b_1__ //]
+BEM[]
+
+DWOK81
+CUT[Oj ne szumy łuże]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 32]
+FKT[]
+SIG[8103500002]
+KEY[81035   16  E 3/8]
+MEL[5_6b543b  5_4__  5_6b53b2  3b_1__
+    116b_3b2  1_3b_45  7b6b543b2  3b_1__
+    1_4_3b2  1_13b45  3b_4_3b2  3b_1__ //]
+BEM[Wariant melodii]
+
+DWOK81
+CUT[Instrumentalna-Kołomyjka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 44-45, Kołomyja]
+FKT[]
+SIG[8103600001]
+KEY[81036   16  A 2/4]
+MEL[7b6b56b541_  6b_56b7b_7b_  7b6b56b541_  6b__7b__  7b6b56b4__
+    3b_7b__7b_  4_6b54_1_  4__4__  23b43b5_5_  5__0__
+    -712123b43b  43b4_6b_6b_  43b4_5_5_  4__-4__
+    43b4_5_5_  43b4_3b_3b_  43b4_5_5_  +1__1__ //]
+BEM[Kołomyjka-wariant melodii]
+
+DWOK81
+CUT[Bołsza jeho dneś na zemle trona]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 36]
+FKT[]
+SIG[8103600002]
+KEY[81036   16  A 4/4 5/4]
+MEL[5__5_4_3b___  1_1_5_4_3b_2_1__
+    3b_2_3b_-7_1___  5__5__4_3b_4_2_
+    1_2_3b_4_5___  5_6b_5_4#_5_4_3b_2_
+    3b__3b_5_4__^542  3b_3b_5__4_2_3b_2_1_-5_  3b__3b_2_1_-7_1__ //]
+BEM[Wariant melodii]
+
+DWOK81
+CUT[Oj ne szumy łuże]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 33, Czortowiec]
+FKT[]
+SIG[8103600011]
+KEY[81036   08  A 3/4]
+MEL[5_5_43b  5_4__  5_5_3b4  5_1__
+    3b_4_3b2  13b4_5_  3b_4_3b2  3b_1__
+    3b_4_3b2  13b4_5_  3b_4_3b2  3b_1__ //]
+BEM[]
+
+DWOK81
+CUT[Oj ne szumy łuże]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 33]
+FKT[]
+SIG[8103600012]
+KEY[81036   08  A 3/4]
+MEL[5_5_43b  544__  6b55_3b4  511__
+    3b_4_3b2  13b4_55  3b_4_3b2  3b_1__
+    3b_4_3b2  13b4_55  3b_4_3b2  3b_1__ //]
+BEM[Wariant melodii-partia wokalna]
+
+DWOK81
+CUT[Instrumentalna-Oj ne szumy łuże]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 33, Czortowiec]
+FKT[]
+SIG[8103600021]
+KEY[81036   08  A 3/4]
+MEL[5_543b4  5_4__  5_543b4  5_1__
+    3b_4_3b2  1_13b44  5_4_3b2  3b_1__ //]
+BEM[]
+
+DWOK81
+CUT[Instrumentalna-Oj ne szumy łuże]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 33]
+FKT[]
+SIG[8103600022]
+KEY[81036   08  A 3/4]
+MEL[5_543b4  544__  5_543b4  511__
+    3b_4_3b2  1_13b46b  5_4_3b2  3b_1__ //]
+BEM[Wariant melodii-partia instrumentalna]
+
+DWOK81
+CUT[Y łetiła zazuleczka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 34]
+FKT[]
+SIG[8103700000]
+KEY[81037   16  A 2/4]
+MEL[4_4_5_54  3b_2_2_1_  4_4_5_53b  1__1__
+    4_4_5_54  3b_2_2_2_  211_1_1_  1__1__ //]
+BEM[]
+
+DWOK81
+CUT[Bołsza jeho dneś na zemle trona]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 36]
+FKT[]
+SIG[8103900001]
+KEY[81039   08  A 4/4 5/4]
+MEL[5_423b__  11543b21_
+    3b23b-71__  3b4543b21_
+    123b45__  56b54#543b_
+    3b3b3b54_2_  3b3b5_423b21_  3b_3b21-71_ //]
+BEM[]
+
+DWOK81
+CUT[O ty Jana bohosłowa]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 37]
+FKT[]
+SIG[8103000001]
+KEY[81040   16  C 3/4]
+MEL[+1_+3_+4_+3+2+1__  +3_+3_+4__+3+2+1_
+    +2_+3_+2__5__  +1_+3_+4_(+3+27)+1__
+    +3_+3_+3_+2_+2_+1_  +2_+3_+2__5__
+    +1_+1_+4__+3_+2_  +3_+3_+2__5__
+    +4_+4_+4__(+3_+2_+1_)  +2_+3_+2__5__
+    +1_+1_+4__+3_+2_  +2_+2_+1__.+1_ //]
+BEM[]
+
+DWOK81
+CUT[O ty Jana bohosłowa]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 37]
+FKT[]
+SIG[8104000002]
+KEY[81040   16  C 3/4]
+MEL[+1_+3_+4_+3+2+1__  +3_+5_+4__+3+2+1_
+    +2_+3_+2__+2__  +1_+3_+4_(+3+27)+1__
+    +3_+3_+3_+2_+2_+1_  +2_+3_+2__5__
+    +1_+1_+4__+1__  +2_+2_+1__5__
+    +4__+4__(+3_+2_+1_)  +2_+3_+2__5__
+    +1_+1_+4__+3_+2_  +2_+2_+1__.+1_ //]
+BEM[Wariant melodii]
+
+DWOK81
+CUT[Oj ziszła zora aż po sered mora]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 38]
+FKT[]
+SIG[8104100011]
+KEY[81041   08  A 2/4]
+MEL[13b24  3b21_  3b25_  423b_  3b_2_
+    13b24  3b21-7  1_3b_  21-7_  1__ //]
+BEM[Sw. Warwara-Partia wokalna]
+
+DWOK81
+CUT[Oj ziszła zora aż po sered mora]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 38]
+FKT[]
+SIG[8104100012]
+KEY[81041   16  A 2/4]
+MEL[1_3b_2_4_  3b_2_1__  3b_2_5__  4_2_3b_1_  423b23b21_
+    3b_3b_2_4_  3b_2_1_-7_  1_-5_3b_3b_  2_1_-7_2_  1___ //]
+BEM[Sw. Warwara-wariant melodii]
+
+DWOK81
+CUT[Instrumentalna-Oj ziszła zora]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 38]
+FKT[]
+SIG[8104100020]
+KEY[81041   08  A 2/4]
+MEL[13b24  3b21-7  123b3b  21-7_  1__ //]
+BEM[S. Warwara-Melodia grana na lirze]
+
+DWOK81
+CUT[Proszu ja was wisłuchajcie]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 38]
+FKT[]
+SIG[8104200010]
+KEY[81042   08  C 2/4]
+MEL[+1+3+2+3  +4+3+2+1  +3+3+5+3  +4+3+2_
+    +1+3+2+5  +4+3+2+1  +2+3+4+3  +27+1_ //]
+BEM[Partia wokalna]
+
+DWOK81
+CUT[Instrumentalna-Proszu ja was wisłuchajcie]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 38]
+FKT[]
+SIG[8104200020]
+KEY[81042   08  C 2/4]
+MEL[+1+3+3+5  +4+3+2+1  +2+3+4+3  +47+1_  +1__ //]
+BEM[Partia instrumentalna]
+
+DWOK81
+CUT[Instrumentalna-Kołomyjka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 42]
+FKT[]
+SIG[8104300001]
+KEY[81043   16  C 2/4]
+MEL[5___  7___  +2_+4_+3+4+3+4  +5_+3_+3_+2_
+    +2__+3+4+2+4  +5_+3_+3_+2_  +2_+1_+2_+1_  +1_5_+1_5_
+    5___  7___  +2_+4_+3+4+3+4  +5_+3_+3_+2_
+    +2__+3+4+2+4  +5_+3_+3_+2_  +2_+1_+2_+1_  +1_5_+1_5_
+    +1_+3_+3_+3_  +3_+2_+1_+3_  +1_+3_+3_+3_  +3_+2_+1_5_
+    5_+1_5_+1_  +1__5__  5_+1_5_+1_  +1__5__ //]
+BEM[]
+
+DWOK81
+CUT[Instrumentalna-Kołomyjka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 42]
+FKT[]
+SIG[8104300002]
+KEY[81043   16  C 2/4]
+MEL[5___  7___  +2_+4_+3+4+3+4  +5_+3_+3+2+3+2
+    +2__+3+4+2+4  +5_+3_+3+2+3+2  +2_+1_+2_7_  +1_+1_+1_5_
+    5___  7___  +2_+4_+3+4+3+4  +5_+3_+3+2+3+2
+    +2__+3+4+2+4  +5_+3_+3+2+3+2  +2_+1_+2_7_  +1_+1_+1_5_
+    +1_+3+4+3+5+3+4  +3_+3+2+1_+3+4  +1_+3+4+3+5+3+4  +3_+3+2+1_5_
+    5_+1_5_+1_  +1_+1_+1_5_  5_+1_5_+1_  +1_+1_+1_5_ //]
+BEM[Wariant melodii]
+
+DWOK81
+CUT[Instrumentalna-Kołomyjka dawna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 42]
+FKT[]
+SIG[8104400000]
+KEY[81044   16  C 2/4]
+MEL[+3__+3__  +3__+3__  +3__+3__  +3__+3__
+    +1__+1_5_  +1__+2+3+4+3  +1__+1__  +1__5__ //]
+BEM[Kołomyjka dawna]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 43]
+FKT[]
+SIG[8104500000]
+KEY[81045   16  G 2/4]
+MEL[67b67b5_4_  67b67b+1__  67b67b5_4_  7b__+1__
+    67b67b5_4_  1_4__4_  4_5_4_1_  3_4__1_
+    34567b654  7b6545421  34567b654  2_1_1__
+    34567b654  7b6545421  4_214_21  4_1_1__
+    34567b654  7b6545421  4_21211_  211__1_
+    5__6532  35432_2_  5__6532  4_432__
+    5__6532  35432_2_  5_432_23  2__1__ //]
+BEM[Kołomyjka]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 44]
+FKT[]
+SIG[8104600001]
+KEY[81046   16  G 2/4]
+MEL[1457b6b_54  7_7_7_7_  1457b6b_54  7__+1__
+    1457b6b_53  4_4_4_4_  1457b6b_53  4__4__
+    1457b6b_54  1457b6_54 //]
+BEM[Kołomyjka huculska]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 44]
+FKT[]
+SIG[8104600002]
+KEY[81046   16  G 2/4]
+MEL[1457b6b_54  7_7_6767  1457b6b_54  7__+1__
+    1457b6b_53  4_4_4_4_  +1_+1_+1_+1_  4__4__
+    1457b6b_54  1457b6_54 //]
+BEM[Kołomyjka huculska-wariant]
+
+DWOK81
+CUT[Instrumentalna-Kołomyjka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 44, Jasienów polny]
+FKT[]
+SIG[8104700000]
+KEY[81047   16  C 2/4]
+MEL[+2+3+4+3+4+3+4_  +4_+2_+2_+1_  +2_+4_+3_+4_  +2__+2_+1_
+    +1_5_+1__  +1_+4_+2__  +1__+1__  +1_5_+1__ //]
+BEM[Kołomyjka]
+
+DWOK81
+CUT[Instrumentalna-Kołomyjka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 44-45, Kołomyja]
+FKT[]
+SIG[8104800001]
+KEY[81048   16  A 2/4]
+MEL[7b6b56b541_  6b_6b_7b_7b_  7b6b56b541_  6b__7b__  7b6b56b4_-7b_
+    3b_3b_3b_3b_  4_6b54_1_  4__4__  23b43b4_4_  5__0__
+    -712123b43b  545_5_5_  43b4_5_5_  4__-4__
+    43b4_5_5_  43b4_3b_3b_  43b4_5_5_  +1__1__ //]
+BEM[Kołomyjka]
+
+DWOK81
+CUT[Instrumentalna-Kołomyjka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 45, Jasienów polny]
+FKT[]
+SIG[8104900001]
+KEY[81049   16  C 2/4]
+MEL[+5+4+3+2+4_+2_  +5#_+5#_+6_+5#_  +5+4+3+2+4_5_  +1_+1__+1_
+    +2+17+1+2_5_  +1_+1__.  +4+3b+2+1+3b_5_  +4#_+4#_+5_+5_
+    +4+3b+2+1+3b_5_  +4#_+4#_+5_+5_  +4+3b+2+1+3b_5_  +1_+1__+1_
+    +1_7+1+3b_5_  +1_+1__. //]
+BEM[]
+
+DWOK81
+CUT[Instrumentalna-Kołomyjka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 45, Jasienów polny]
+FKT[]
+SIG[8104900002]
+KEY[81049   16  C 2/4]
+MEL[+5+4+3+2+4_+2_  +5#_+4+5#+6_+5#_  +5+4+3+2+4_5_  7+1+1__++1_
+    ++1++1+7+6+3+2+27  ++1_+1__.  +4+3b+2+1+3b_5_  +4#_+4#_+5_+5_
+    +4+3b+2+1+3b_5_  +4#_+4#_+5_+5_  +4+3b+2+1+3b_5_  +1_+1__++1_
+    ++1_++1_+3b+2+27  +1_+1__. //]
+BEM[Wariant melodii]
+
+DWOK81
+CUT[Instrumentalna-Kołomyjka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 45-46, Kołomyja]
+FKT[]
+SIG[8105000000]
+KEY[81050   16  C 2/4]
+MEL[5_+5__+5_  +5_+5_+3b+2+1_  5_+5__+5_  +3_+2+1+1__
+    5_+5__+5_  +5_+5_+3b+2+1_  +1_+2+3b+1_+2+3b  +1__+1__
+    +1_+15+1_+3_  +1_+15+1_+3_  +4_+4+3+2_+2+1  7_7_5__
+    +1_+155__  +1_+15+1_+3_  +1_+15+1_+3_  7_5_+5__
+    5_+5__+5_  +5_+5_+3b+2+1_  5_+5__+5_  +3_+2+1+1__
+    +2_+4__+3+2  +1+2+3__+2+1  +2_+4__+3+2  +1_+3_+1__ //]
+BEM[]
+
+DWOK81
+CUT[Instrumentalna-Kołomyjka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 46, Jasienów polny]
+FKT[]
+SIG[8105100000]
+KEY[81051   32  C 2/4]
+MEL[+2+30_+4+30_+4+5+4__  +4_+5_+4__+6__+6__  +2_+3_+4_+3_+4_+5_+4__  +2_+3_+4_+3_+4__+4__
+    +4__+4__+4__+4__  +2_+3_+4_+3_+3__+3__  +1___+1__5__  +1__+1__+1__+1__
+    +1__7_+1_+2__7__  5__+1__+1__+1__  +1___+1___ //]
+BEM[Kołomyjka]
+
+DWOK81
+CUT[Instrumentalna-Kołomyjka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 47]
+FKT[]
+SIG[8105200001]
+KEY[81052   16  G 2/4]
+MEL[1_4#_4#_4#_  4#54#_5_21  3b15_2131  5__(321)31
+    1_4#_4#_4#_  4#54#_5_21  3b15_2131  1__1__
+    4#5_4#6_(542)  5_(^42)54#32  5__^4#32  1_3_1_1_
+    4#5_4#6_54  6__(542)54  321_3_1_  ^_1_1__ //]
+BEM[Kołomyjka]
+
+DWOK81
+CUT[Instrumentalna-Kołomyjka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 47]
+FKT[]
+SIG[8105200002]
+KEY[81052   32  G 2/4]
+MEL[1__4#__4#__4#__  4#_5_4#__56542_1_
+    3b_1_56542_1_3_1_  5_6_5_4_(3_2_1_)3_1_
+    1__4#__4#__4#__  4#_5_4#__56542_1_
+    3b_1_56542_1_3_1_  1___1___
+    4#_5__4#_6__(5_4_2_)  5__(^_4_2_)5_4#_3_2_
+    5___^_4#_3_2_  1__3__1__1__
+    4#_5__4#_6__5_4_  6___(5_4_2_)5_4_
+    3_2_1__3__1__  ^__1__1___ //]
+BEM[Kołomyjka-wariant melodii]
+
+DWOK81
+CUT[Instrumentalna-Arkan]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 48, Kołomyja]
+FKT[]
+SIG[8105300000]
+KEY[81053   16  A 4/4]
+MEL[3b_5_5__5__5__  6b__5__4__3b__
+    3b_4_5__5__5__  6b__5__4__3b__
+    7b__5__5__4_3b_  1__1__5___
+    7b__5__5__3b21_  1__1__1___ //]
+BEM[Arkan]
+
+DWOK81
+CUT[Instrumentalna-Hordylanka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 48-49]
+FKT[]
+SIG[8105400000]
+KEY[81054   16  A 2/4]
+MEL[+2b_+1_7b_6b_  54543b__  56b7b_7b6+16  7b__+3b__
+    +2b_+1_7b_6b_  54543b__  123b243b23b  1__+1__
+    23b4_^_7b6b  56b453b__  23b4_^_54  3b_5_-7b_2_
+    23b4_4_7b6b  56b453b21_  23b4_^_3b2  1__1__
+    23b4_^_3b2  1_+1_1_+1_  23b4_^_3b2  1_1_-5_1_ //]
+BEM[Hordylanka]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 49, Podwysokie]
+FKT[]
+SIG[8105500000]
+KEY[81055   16  G 2/4]
+MEL[-5-7123b23b5  456b43__  -7b123b456b4  3___
+    -5-7123b23b5  456b45__  -7b123b456b4  7b56b43__
+    321-7b1232  1___  +3b+2+17+2_7_  +3b+2+17+2_7_  +17676b546b  +1___
+    +176_5__  43456564  7_+1_6b_5_  +17b67b6b546b //]
+BEM[Hordylanka]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 50, Hołosków]
+FKT[]
+SIG[8105600001]
+KEY[81056   16  G 2/4]
+MEL[676_5_5_  5_4_4_1_  67b6_5_5_  5_4_4__
+    67b6_5_5_  5_4_1_4_  1_4_1_4_  4__1__ //]
+BEM[Hucuł]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 50, Hołosków]
+FKT[]
+SIG[8105600002]
+KEY[81056   16  G 2/4]
+MEL[676_5_7b_  5_4_1_4_  67b6_5_5_  5_4_4__
+    67b6_5_5_  5_4_1_4_  1_4_1_4_  1_4_1_5_ //]
+BEM[Hucuł-wariant melodii]
+
+DWOK81
+CUT[Pruda pruda sidyriczka]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 50]
+FKT[]
+SIG[8105700000]
+KEY[81057   08  D 2/4]
+MEL[1555  5553b  1555  3b_1_  1555  3b_1_
+    1111  111-5  1_3b2  1_1_  1__  1__ //]
+BEM[Wertak]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 51, Kołomyja]
+FKT[]
+SIG[8105800001]
+KEY[81058   16  A 2/4]
+MEL[5__^43b  5___  5_5_6b__  5_4__.  4__^3b23b
+    4___  -7b_-7b_5__  3b_3b__.  3b_2_1_3b_  2_1_-7_-5_
+    3b23b21_3b_  2_1_1__  -5-6-7b123b21  -7_-7_-5__  3b13b__1_
+    -7_-7-6b-5__  5_5__54  43b-7b__.  -7b123b4_7b_  5_5_4_3b_
+    -7b123b4_43b  2_.1-7b__  23b4__5_  -7b_-5__.  -5___ //]
+BEM[Z hory]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 51, Kołomyja]
+FKT[]
+SIG[8105800002]
+KEY[81058   16  A 2/4]
+MEL[5__^43b  5___  5_5_6b__  5_4__.  4__^3b23b
+    4___  -7b_-7b_5__  3b_3b__.  3b23b21_3b_  2_1_-7_-5_
+    3b23b21_3b_  2_1_1__  -5-6-7b123b21  -7_-7_-5__  3b13b__1_
+    5_5_5__  5_5__54  43b-7b__.  -7b123b4_7b_  5_5_4_3b_
+    -7b123b4_43b  2_.1-7b__  23b4__5_  -7b_-5__.  -5___ //]
+BEM[Z hory-wariant melodii]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 51-52, Hołosków]
+FKT[]
+SIG[8105900001]
+KEY[81059   16  G 2/4]
+MEL[5___  4___  1___  1___  5__.3_  4__1__  5__.3_  4__1__
+    67b67b6_+1_  67b67b6_5_  67b67b6_+2_
+    +1__5__  4_4_1_4_  4_4_4_4_  1_4_1_4_
+    4__4__  434_6__  434_1__  434_434_  4__1__ //]
+BEM[]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 51-52, Hołosków]
+FKT[]
+SIG[8105900002]
+KEY[81059   16  G 2/4]
+MEL[5___  4___  1___  1___  1___  1___  1___  1___
+    6_5_6_+1_  6_5_6_54  67b67b6_+2_
+    7b__5__  4_4_1_4_  4_4_4_4_  1_4_1_4_
+    4__4__  434_6__  434_1__  434_434_  4__1__ //]
+BEM[Wariant melodii]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 52]
+FKT[]
+SIG[8106000010]
+KEY[81060   16  C 2/4]
+MEL[+3_+1_+4+3+4+5  +3+1+3+5+4+3+27  7+1+2+3+4+3+4+5  +3__5__  +3__+4+3+4+5
+    +3+1+3+5+4+3+27  +1_+2+3+1567  +1___  5__+4+3+4+5  +3+1+3+5+4+3+2+1 //]
+BEM[Fragment w C-dur]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 38]
+FKT[]
+SIG[8106000020]
+KEY[81060   16  F 2/4]
+MEL[12345675  +17+165_3_  1_234342  12345__
+    1__5675  +17+165_3_  1_234342  1_1-7-7__ //]
+BEM[Fragment w F-dur]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 53]
+FKT[]
+SIG[8106100000]
+KEY[81061   16  C 2/4]
+MEL[+5__+4#+2+4#+2  +2+1+3b_+3b__  +3b_+5_+4#+2+4#+2  +2+1+3b_+1__
+    +5__+4#+2+4#+2  +2+1+3b_+3b__  +3b_+5_+4#+2+4#+2  +2+1+3b_+1__
+    57+2+4+3b_+2+1  +3b_+3b__+3b_  57+2+4+3b_+2+1  +3b__+1__
+    57+2+4+3b_+2+1  +3b_+3b__+3b_  57+2+4+3b_+2+1  +1___
+    +4#+5+4#+3b+4#+3b+2+1  +3_+3__+3_  +4#+5+4#+3b+4#+3b+2+1  +3b_+1_+1__
+    +4#+5+4#+3b+4#+3b+2+1  5_+1__+1_  +4#+5+4#+3b+4#+3b+2+1  +1___
+    57+2+4+3b_+2+1  +4#+5+4#+5+4#+3b+2+1  57+2+4+3b_+2+1  +5_7_+1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 54]
+FKT[]
+SIG[8106200001]
+KEY[81062   16  A 2/4]
+MEL[1_3b54#_5_  3b_5_4#_5_  1_3b54#_5_  3b__2_3b_
+    1__-7_1_  -5_1_-7_1_  1_1_1_3b_  -7__1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 54]
+FKT[]
+SIG[8106200002]
+KEY[81062   16  A 2/4]
+MEL[1_3b54#_5_  3b54#54#54#6b  1_3b54#_5_  3b__2_3b_
+    1__-7_1_  -5_1_-7_1_  1_1_1_3b_  -7__1__ //]
+BEM[Melodia instrumentalna-wariant]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 54]
+FKT[]
+SIG[8106300001]
+KEY[81063   16  C 2/4]
+MEL[+3+2#+3_+4+3+4_  +4+3+4_+4_+2_  +3+2#+3_+4+3+4_  +3__+1_5_
+    +1_+1_+1__  +1_+1__+2+3  +4+3+2+3+4+3+2+3  +1__5__  +1+2+3+2+4_+4_
+    +4_+4__+6_  +4_+4__+2_  +1_+1__5_  +1_+1__+2+3  +4+3+1_+1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 54]
+FKT[]
+SIG[8106300002]
+KEY[81063   16  C 2/4]
+MEL[+3+2#+3_+4_+4_  +4+3+4+3+4+3+4+2  +3+2#+3_+4_+4_  +3__+1_5_
+    +1_+1_+1__  +1_+1__+2+3  +4+3+2+3+4+3+2+3  +1__5__  +2+3+4+3+5+4+4+2
+    +2+3+4+3+3__  +4_+3+4+5+4+2_  +1_+1__5_  +1_+1__+2+3  +4+3+1_+1__ //]
+BEM[Melodia instrumentalna-wariant]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 55]
+FKT[]
+SIG[8106400010]
+KEY[81064   32  A FREI]
+MEL[0__3b__4__5___.0__4__3b__(3b_2_1_)1___0__2_4_(5_4_3b_)1___5__2__5___^__3b_2_1___
+    4__4_3b_4___4__4___4___.(5_6b_5_)5___2_4_2___4___.3b_2_1____
+    4__4__4___4___.3b_2_1_2_1__4___.(4_5_4_)3b_2_4__3b_2_1_2_1_2_1___
+    1_2_3b_2_4___^__3b_2_4__3b_2_1__-5___-5__-5__1__2__3b_2_4__3b_2_1___
+    -5_1_2_1_5_4#_3b_2_5___.4#__5_4#_2_1_1___5_4#_2_1_-5___1___.1__6_5_4_3b_4_3b_2_1_1____
+    0__3b_2_2_1_-5__^_-6-71___5__.^_4_3b_2_^__3b_2_2_1_-5__^__-6_-7_1___1___ //]
+BEM[Owczarz-fragment w rytmie swobodnym]
+
+DWOK81
+CUT[Instrumentalna]
+REG[Pokucie]
+TRD[DWOK81 Pokucie, s. 56]
+FKT[]
+SIG[8106400020]
+KEY[81064   16  A 2/4]
+MEL[5__5442  3__5442  3__3232  1___
+    1__.54  4332211_
+    5__4342  123b456b54  5__4342  123b456b54
+    +17b+16b5_54  3b_3b21-51_
+    5__4342  1-51-53__  (5_5_5_)4342  1-51-51__
+    1-51-51-53b2  1-51-51-53b2
+    5__4342  1-51-53_.2  1-51-53b23b5  1-51-53b23b5
+    43b421__  3_-5_1-7b1-5  3b_.21-51-5  3b21_1-51-5
+    1-53b21-53b2  1-51-51__  1-51-53b_.2  1-51-53b_.2
+    3b23b543b21  1__0__ //]
+BEM[Owczarz-Grając na sopiłce fragment w metrum parzystym]

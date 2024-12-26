@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4301300000-jakiem_ja_szed_jedna_drozeczka.krn
+!!!OTL: Jakiem ja szed jedną dróżeczką
+!!!source: DWOK43
+!!!id: 43013
+!!!signature: 4301300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8f
+4a
+4f
+=2
+8b-
+8dd
+8cc
+8b-
+8a
+8f
+=3
+8a
+8cc
+4ff
+4dd
+=4
+8ee
+8gg
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{8ff
+8ff
+4ee
+4dd
+=6
+8cc
+8cc
+8ff
+8cc
+8a
+8f
+=7
+8b-
+8b-
+4g
+8cc
+8b-
+=8
+8a
+8g
+4f}
+4r
+==
+*-
+!!!ONB: WARIANT t. 5: 7+17_6_; wariant t. 7: 442454
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 37} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

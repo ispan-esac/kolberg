@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK7632000010-oj_za_dworem_za_dworem.krn
+!!!OTL: Oj, za dworem, za dworem
+!!!source: DWOK76
+!!!id: 76320
+!!!signature: 7632000010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4b
+8dd
+8cc
+=2
+8b
+8dd
+4gg
+4b
+=
+12cc
+12dd
+12cc
+4a
+8a
+8ee
+=3
+4dd
+4b
+4d}
+!!LO:LB:g=esac
+=4
+{8g
+8b
+4b
+8dd
+8cc
+=5
+8b
+8dd
+4gg
+4b
+=6
+8ff#
+8ee
+8dd
+8b
+4cc
+=7
+8a
+8f#
+4a
+4g}
+==
+*-
+!!!ONB: Pierwsza część melodii, wariant t. 4: 553_-5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 166} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 166}
+!!!page: 166
+!!!ONB: Converted on 2024/12/26 with esac2hum

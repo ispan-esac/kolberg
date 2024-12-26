@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK2303300000-a_poszla_byla_swieta_halina.krn
+!!!OTL: A poszła była święta Halina
+!!!source: DWOK23
+!!!id: 23033
+!!!signature: 2303300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4b
+8cc
+8dd
+=2
+4.ee
+8dd
+=3
+8ee
+8ee
+16ee
+16dd
+8cc
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{4b
+8cc
+8dd
+=6
+4.ee
+8dd
+=7
+8ee
+16ee
+16dd
+8cc
+8b
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 79} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 79}
+!!!page: 79
+!!!ONB: Converted on 2024/12/26 with esac2hum

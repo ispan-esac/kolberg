@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7761700010-oj_da_zycze_ja_zycze.krn
+!!!OTL: Oj da życzę ja życzę
+!!!source: DWOK77
+!!!id: 77617
+!!!signature: 7761700010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4dd
+4ff
+=2
+8ff
+8gg
+4aa
+4aa
+=3
+4aa
+4gg
+4ee
+=4
+8ff
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4dd
+4ff
+=6
+8ff
+8ee
+4cc
+4dd
+=7
+4cc
+4dd
+4ff
+=8
+8ff
+8ee
+4cc
+4g}
+==
+*-
+!!!ONB: Od taktu 9 utwór instrumentalny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 314
+!!!ONB: Converted on 2024/12/26 with esac2hum

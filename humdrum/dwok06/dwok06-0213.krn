@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK06-K0213-stala_dziewcyna.krn
+!!!OTL: Stala dziewcyna
+!!!source: DWOK06
+!!!id: K0213
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8dd
+8dd
+8ff
+=2
+4.dd
+=3
+16dd
+16dd
+8cc
+8b-
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{8dd
+16dd
+16gg
+8ff
+=6
+4.dd
+=7
+16dd
+16dd
+8cc
+8b-
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{16cc
+16g
+8a
+8b
+=10
+4.cc
+=11
+16g
+16g
+8a
+8b
+=12
+4.cc}
+!!LO:LB:g=esac
+=13
+{8g
+8a
+8b
+=14
+4.cc
+=15
+16g
+16g
+8a
+8b
+=16
+4.cc
+=17
+16dd
+16dd
+8cc
+8b-
+=18
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 113} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 113}
+!!!page: 113
+!!!ONB: Converted on 2024/12/26 with esac2hum

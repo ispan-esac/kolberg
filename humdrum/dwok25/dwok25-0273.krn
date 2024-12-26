@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2527300000-a_kto_chce_rozkoszy_uzyc.krn
+!!!OTL: A kto chce rozkoszy użyć
+!!!source: DWOK25
+!!!id: 25273
+!!!signature: 2527300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8b
+8b
+=2
+8.a
+16f#
+8d
+8d
+=3
+8cc
+8cc
+8ee
+8ee
+=4
+8.dd
+16cc
+8b
+8dd}
+!!LO:LB:g=esac
+=5
+{8.a
+16a
+8a
+8cc
+=6
+8b
+8b
+8b
+8dd
+=7
+8.a
+16a
+8a
+8cc
+=8
+8a
+8f#
+8d
+8d}
+!!LO:LB:g=esac
+=9
+{8.a
+16a
+8a
+8cc
+=10
+8b
+8b
+8b
+8dd
+=11
+8.a
+16a
+8a
+8cc
+=12
+8a
+8f#
+8d
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 120} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

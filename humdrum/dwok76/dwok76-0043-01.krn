@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK7604300001-juz_to_siodmy_roczek.krn
+!!!OTL: Już to siódmy roczek
+!!!source: DWOK76
+!!!id: 76043
+!!!signature: 7604300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+4b
+=2
+8b
+4b
+8g
+=3
+8a
+8b
+4cc
+=4
+8cc
+4cc
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b
+=6
+8b
+4b
+8dd
+=7
+8dd
+8cc
+8a
+8f#
+=8
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 29} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 29}
+!!!page: 29
+!!!ONB: Converted on 2024/12/26 with esac2hum

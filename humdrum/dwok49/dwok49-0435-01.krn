@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4943500001-pokirno_sia_witciu_j_matci_klaniaje.krn
+!!!OTL: Pokirno sia witciu j matci kłaniaje
+!!!source: DWOK49
+!!!id: 49435
+!!!signature: 4943500001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/8
+=1
+{8e
+8a
+=2
+8cc
+8b
+=3
+8ee
+16ee
+16dd#
+=4
+16cc
+16a
+8b
+=5
+8cc
+8dd
+=6
+4ee}
+!!LO:LB:g=esac
+=7
+{8ee
+8ee
+=8
+8cc
+8ee
+=9
+8ee
+8dd
+=10
+8cc
+8a
+=11
+8b
+8dd
+=12
+8cc
+8b
+=13
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=518 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 428} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 428}
+!!!page: 428
+!!!ONB: Converted on 2024/12/26 with esac2hum

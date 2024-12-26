@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK5041200001-a_pode_lwowem_na_bloniu_na_bloniu.krn
+!!!OTL: A pode Lwowem na błoniu, na błoniu
+!!!source: DWOK50
+!!!id: 50412
+!!!signature: 5041200001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4g
+8cc
+8cc
+8dd
+8cc
+=2
+8cc
+8ee
+4ff
+4gg
+=3
+4ff
+2dd}
+!!LO:LB:g=esac
+=4
+{4ff
+8ee
+8dd
+8cc
+8ee
+=5
+4g
+8cc
+8b
+8a
+8g
+=6
+8g
+8b
+4cc
+4dd
+=7
+4cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 242} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

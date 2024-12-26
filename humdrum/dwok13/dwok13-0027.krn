@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK1302700000-powiedzze_mi_ma_dziewczyno.krn
+!!!OTL: Powiedzże mi ma dziewczyno
+!!!source: DWOK13
+!!!id: 13027
+!!!signature: 1302700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.b
+16a
+16b
+16cc
+=2
+16ee
+16dd
+8cc#
+8dd
+=3
+16cc
+16cc
+8a
+8f#
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{8.b
+16a
+16b
+16cc
+=6
+16ee
+16dd
+8cc#
+8dd
+=7
+16ee
+16dd
+8cc
+8f#
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16d
+16d
+8e
+8f#
+=10
+8.g
+16b
+8dd
+=11
+16d
+16d
+8f#
+8a
+=12
+8.g
+16b
+8dd}
+!!LO:LB:g=esac
+=13
+{16ee
+16ee
+8dd
+8cc
+=14
+8.b
+16gg
+16ff#
+16ee
+=15
+16ee
+16dd
+8cc
+8f#
+=16
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 17} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 17}
+!!!page: 17
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2505300000-byla_babula_z_radzynia.krn
+!!!OTL: Była Babula z Radzynia
+!!!source: DWOK25
+!!!id: 25053
+!!!signature: 2505300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8dd
+8ee
+4cc
+8a
+8f#
+=2
+4a
+8cc
+8b
+4g}
+4r
+!!LO:LB:g=esac
+=3
+{4dd
+8dd
+8ff#
+4.gg
+8ee
+=4
+8gg
+8ff#
+8dd
+8ee
+4cc
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+8ee
+4cc
+8a
+8f#
+=6
+4a
+8cc
+8b
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=46 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 21} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 21}
+!!!page: 21
+!!!ONB: Converted on 2024/12/26 with esac2hum

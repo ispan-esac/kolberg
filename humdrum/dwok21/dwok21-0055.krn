@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK2105500000-tery_kunie_jasio_mial_hej.krn
+!!!OTL: Ćtery kunie Jasio miał hej
+!!!source: DWOK21
+!!!id: 21055
+!!!signature: 2105500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8cc
+8dd
+=2
+8ee
+8cc
+8g
+=3
+4ff
+8dd}
+!!LO:LB:g=esac
+=4
+{16ff
+16ff
+8ee
+8dd
+=5
+8cc
+8ee
+8dd
+=6
+16ff
+16ff
+8ee
+8dd
+=7
+8cc
+8ee
+8dd}
+!!LO:LB:g=esac
+=8
+{16ff
+16ff
+8ee
+8dd
+=9
+8ee
+8cc
+8g}
+!!LO:LB:g=esac
+=10
+{16g
+16b
+8cc
+16dd
+16cc
+=11
+8ee
+8cc
+8g
+=12
+4ff
+8dd}
+!!LO:LB:g=esac
+=13
+{16ff
+16ff
+8ee
+8dd
+=14
+8cc
+8ee
+8dd
+=15
+16ff
+16ff
+8ee
+8dd
+=16
+8cc
+8ee
+8dd}
+!!LO:LB:g=esac
+=17
+{16ff
+16ff
+8ee
+8dd
+=18
+8ee
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=48 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 30} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 30}
+!!!page: 30
+!!!ONB: Converted on 2024/12/26 with esac2hum

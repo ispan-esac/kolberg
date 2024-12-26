@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2711800000-na_cozes_mnie_matulenko.krn
+!!!OTL: Na coześ mnie matuleńko
+!!!source: DWOK27
+!!!id: 27118
+!!!signature: 2711800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16.a
+32cc
+8cc
+16ee
+16dd
+=2
+16cc
+16b
+8.a
+16cc
+=3
+16b
+16a
+8g#
+8a
+=4
+4.e}
+!!LO:LB:g=esac
+=5
+{16.a
+32cc
+8cc
+16ee
+16dd
+=6
+16cc
+16b
+8.a
+16cc
+=7
+16b
+16a
+8g#
+8a
+=8
+4.e}
+!!LO:LB:g=esac
+=9
+{16.e
+32g
+8g
+16f
+16e
+=10
+16d
+16f
+8.a
+16g}
+!!LO:LB:g=esac
+=11
+{16.e
+32g
+8g
+16f
+16e
+=12
+16d
+16f
+8.a
+16b}
+!!LO:LB:g=esac
+=13
+{16cc
+16a
+8g#
+8a
+=14
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 207} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 207}
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK57171100002-hej_zakuwala_sywa_zazulenka.krn
+!!!OTL: Hej, zakuwała sywa zazułeńka
+!!!source: DWOK57
+!!!id: 571711
+!!!signature: 57171100002
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M4/4
+{4ee
+8dd#
+8ff#
+4ee
+8cc
+8b
+=2
+8a
+8cc
+8b
+8a
+4g#
+4e
+=3
+*M3/4
+8a
+8a
+8cc
+8a
+4cc
+=4
+4ee
+8dd
+8ff
+4ee}
+!!LO:LB:g=esac
+=5
+*M4/4
+{8ee
+8ee
+8dd#
+8ff
+4ee
+4ee
+=6
+8ee
+8ee
+8b
+8a
+4a
+8g#
+8e
+=7
+*M3/4
+8a
+8b
+8cc
+8ee
+8dd
+8cc
+=8
+4ee
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 803
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1253100001-jagem_jechal_z_kemblowa.krn
+!!!OTL: Jagem jechał z Kembłowa
+!!!source: DWOK12
+!!!id: 12531
+!!!signature: 1253100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8b
+8b
+=2
+16b
+16b
+8g
+8dd
+=3
+8cc
+8a
+8d}
+!!LO:LB:g=esac
+=4
+{16g
+16b
+8b
+8g
+=5
+16f#
+16d
+8c
+8e
+=6
+8f#
+8a
+8cc}
+!!LO:LB:g=esac
+=7
+{16g
+16b
+8b
+8g
+=8
+16f#
+16d
+8c
+8e
+=9
+8f#
+8a
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 274} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 274}
+!!!page: 274
+!!!ONB: Converted on 2024/12/26 with esac2hum

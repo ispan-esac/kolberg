@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2651000000-oj_sierota_ja_jasiu.krn
+!!!OTL: Oj sierota ja Jasiu
+!!!source: DWOK26
+!!!id: 26510
+!!!signature: 2651000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8b
+8dd
+=2
+8cc
+8b
+8dd
+=3
+16cc
+16b
+8dd
+16cc
+16g
+=4
+32a
+32g
+16a
+8b
+16g
+16e}
+!!LO:LB:g=esac
+=5
+{16d
+16d
+8f#
+8a
+=6
+16e
+16e
+8f#
+8d
+=7
+16g
+16g
+8e
+8d
+=8
+16e
+16e
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 324
+!!!ONB: Converted on 2024/12/26 with esac2hum

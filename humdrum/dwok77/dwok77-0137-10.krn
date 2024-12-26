@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK7713700010-krew_nie_mliko_krew_nie_woda.krn
+!!!OTL: Krew nie mliko krew nie woda
+!!!source: DWOK77
+!!!id: 77137
+!!!signature: 7713700010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16ee
+16ff#
+8gg
+8dd
+=2
+16ee
+16ee
+8dd
+8cc
+=3
+16ee
+16ff#
+8gg
+8dd
+=4
+16ee
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=
+{8a
+24g
+24f#
+24g
+16a
+16b
+=5
+16cc
+16cc
+8b
+8dd
+=
+8a
+24g
+24f#
+24g
+16b
+16dd
+=6
+16ee
+16cc
+8b
+8g}
+==
+*-
+!!!ONB: Utwór zakodowany w dwóch częściach - takty 1-8 w G-dur, takty 9-16 w C-dur.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

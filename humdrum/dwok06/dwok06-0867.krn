@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK06-K0867-mazur_cyganski.krn
+!!!OTL: Mazur cyganski
+!!!source: DWOK06
+!!!id: K0867
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+16dd
+16cc#
+=2
+8dd
+8dd
+16dd
+16cc#
+=3
+8dd
+8dd
+16dd
+16cc#
+=4
+8dd
+8dd
+8dd}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+16dd
+16ee
+16dd
+16cc#
+=6
+16dd
+16cc#
+8dd
+8b
+=7
+16g
+16b
+16dd
+16ee
+16dd
+16cc#
+=8
+16dd
+16cc#
+8dd
+8b}
+!!LO:LB:g=esac
+=9
+{4cc
+8a
+=10
+8cc
+8cc
+8cc
+=11
+16.cc
+32ee
+8ee
+16cc
+16a
+=12
+16.g
+32b
+8b
+8g}
+!!LO:LB:g=esac
+=13
+{4cc
+8a
+=14
+8cc
+8cc
+8cc
+=15
+16.cc
+32ee
+8ee
+16cc
+16a
+=16
+16.g
+32f#
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=533 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 507-508} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 507-508}
+!!!page: 507-508
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK4401300002-mesyjasz_przyszedl.krn
+!!!OTL: Mesyjasz przyszedł
+!!!source: DWOK44
+!!!id: 44013
+!!!signature: 4401300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+8gg
+8ee
+32ee
+32ff#
+32ee
+32dd
+=3
+8dd
+8.dd
+16cc
+=4
+32cc
+32dd
+32cc
+32b
+8b}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+=6
+8gg
+8ee
+32ee
+32ff#
+32ee
+32dd
+=7
+8dd
+8.dd
+16cc
+=8
+32cc
+32dd
+32cc
+32b
+8b}
+8r
+!!LO:LB:g=esac
+=9
+{8gg
+8gg
+16ff#
+16aa
+=10
+16gg
+16ff#
+8ee
+8dd}
+!!LO:LB:g=esac
+=11
+{16dd
+16ee
+8ee
+8ee
+=12
+16ee
+16dd
+8cc
+8b}
+!!LO:LB:g=esac
+=13
+{4dd
+16cc
+16a
+=14
+16b
+16cc
+4dd
+=15
+4g}
+8r
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 75} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 75}
+!!!page: 75
+!!!ONB: Converted on 2024/12/26 with esac2hum

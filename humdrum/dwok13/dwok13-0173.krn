@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1317300000-oj_a_z_tej_strony_wody.krn
+!!!OTL: Oj a z tej strony wody
+!!!source: DWOK13
+!!!id: 13173
+!!!signature: 1317300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8ee
+8ee
+=2
+16dd
+16dd
+8b
+8dd
+=3
+16dd
+16cc
+16a
+16g#
+8a
+=4
+16b
+16g#
+8e
+8g#}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8a
+8a
+=6
+16b
+16g#
+8b
+8dd
+=7
+16a
+16cc
+16a
+16g#
+8a
+=8
+16b
+16g#
+8e
+8g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 93} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 93}
+!!!page: 93
+!!!ONB: Converted on 2024/12/26 with esac2hum

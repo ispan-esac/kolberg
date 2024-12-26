@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1822100000-zalecali_mi_sie.krn
+!!!OTL: Zalecali mi  się
+!!!source: DWOK18
+!!!id: 18221
+!!!signature: 1822100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16ee
+8dd
+8cc#
+=2
+8dd
+8a
+8cc
+=3
+16cc
+16b
+4g
+=4
+16g
+16a
+8f#
+8d}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8g
+8f#
+=6
+8g
+8a
+8a
+=
+24b
+24cc
+24b
+4b
+=7
+16g
+16a
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 133} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 133}
+!!!page: 133
+!!!ONB: Converted on 2024/12/26 with esac2hum

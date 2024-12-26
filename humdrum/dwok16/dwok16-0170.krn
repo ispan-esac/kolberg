@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1617000000-hej_zascilajcie_stoly.krn
+!!!OTL: Hej zaścilajcie stoły
+!!!source: DWOK16
+!!!id: 16170
+!!!signature: 1617000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4dd
+8cc
+8a
+=2
+4b
+4ee
+=3
+4dd
+4ee
+=4
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{4dd
+8cc
+8a
+=6
+4b
+4cc
+=7
+4dd
+4b
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{4dd
+8cc
+8a
+=10
+4b
+4ee
+=11
+8dd
+8cc
+8ee
+8a
+=12
+4b
+4a}
+!!LO:LB:g=esac
+=13
+{4dd
+8cc
+8a
+=14
+4b
+4cc
+=15
+8dd
+8cc
+8b
+8g
+=16
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 189} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 189}
+!!!ONB: Converted on 2024/12/26 with esac2hum

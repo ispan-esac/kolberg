@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK3621900000-na_hori_soneczko.krn
+!!!OTL: Na hori soneczko
+!!!source: DWOK36
+!!!id: 36219
+!!!signature: 3621900000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{16g
+16g
+16g
+16b-
+4dd
+=
+24ee-
+24dd
+24cc
+8b-
+8a
+8g
+=2
+16ee-
+16dd
+16b-
+16cc
+8g
+8b-}
+!!LO:LB:g=esac
+=3
+{8.cc
+16dd
+16cc
+16b-
+16g
+16b-
+=4
+8cc
+8g
+4f
+=5
+8g
+8b-
+8dd
+8cc
+=6
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

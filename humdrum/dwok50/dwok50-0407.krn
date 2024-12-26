@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK5040700000-pyjte_lude_miod_horiuku.krn
+!!!OTL: Pyjte, lude, miód, horiuku
+!!!source: DWOK50
+!!!id: 50407
+!!!signature: 5040700000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8d
+8d
+8g
+8g
+=2
+8g
+8g
+8a
+8g
+=3
+8g
+16a
+16b
+4cc
+=4
+8b
+8dd
+4a
+=5
+8g
+16a
+16b
+4cc
+=6
+8b
+8dd
+4a}
+!!LO:LB:g=esac
+=7
+{8a
+8dd
+8cc
+8b
+=8
+8cc
+8b
+8a
+8g
+=9
+8a
+8g
+4f
+=10
+8e
+8g
+4f
+=11
+8a
+8g
+4f
+=12
+8e
+8g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 236} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 236}
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

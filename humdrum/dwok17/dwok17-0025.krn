@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1702500000-oj_zeby_nie_kowale_nie_chlopy_nie_rolnicy.krn
+!!!OTL: Oj żeby nie kowale, nie chłopy, nie rolnicy
+!!!source: DWOK17
+!!!id: 17025
+!!!signature: 1702500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+8cc
+8ee
+=2
+16ee
+16dd
+8cc
+8a
+=3
+8ee
+16dd
+16cc
+16b-
+16a
+=4
+16g
+16e
+8f
+8a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+16b
+16cc
+=6
+8dd
+8cc
+8a
+=7
+8cc
+8cc
+8b-
+=8
+16g
+16e
+8f
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 16} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

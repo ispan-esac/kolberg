@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3609900001-u_sobotenku_rano.krn
+!!!OTL: U soboteńku rano
+!!!source: DWOK36
+!!!id: 36099
+!!!signature: 3609900001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8b
+8cc
+=2
+8dd
+8dd
+8cc
+=3
+4.b
+=4
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8cc
+=6
+8dd
+8dd
+8b
+=7
+8b
+4a}
+!!LO:LB:g=esac
+=8
+{16dd
+16dd
+16dd
+16cc
+8a
+=9
+8b
+4g#
+=10
+[4.a}
+=11
+4a]
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 59
+!!!ONB: Converted on 2024/12/26 with esac2hum

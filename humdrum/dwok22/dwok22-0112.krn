@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2211200000-chociaz_ci_ja_malusienka_drobna.krn
+!!!OTL: Chociaż ci ja malusieńka drobna
+!!!source: DWOK22
+!!!id: 22112
+!!!signature: 2211200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4b
+8dd
+=2
+4ee
+8ee
+=3
+16cc
+16b
+8a
+8b
+=4
+8ee
+4a}
+!!LO:LB:g=esac
+=5
+{4b
+8dd
+=6
+4ee
+8dd
+=7
+16cc
+16b
+8a
+8g#
+=8
+4a
+8a}
+!!LO:LB:g=esac
+=9
+{4b
+8dd
+=10
+4ee
+8dd
+=11
+16cc
+16b
+8a
+8g#
+=12
+4a
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 82} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

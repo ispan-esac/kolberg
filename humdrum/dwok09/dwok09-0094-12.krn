@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK0909400012-instrumentalna_-_chodzony_przed_czepinami.krn
+!!!OTL: Instrumentalna - Chodzony przed czepinami
+!!!source: DWOK09
+!!!id: 09094
+!!!signature: 0909400012
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8f#
+8g
+8b
+8.dd
+16cc#
+=2
+8a
+8cc#
+8.dd
+16cc#
+4a}
+!!LO:LB:g=esac
+=3
+{8d
+8f#
+8g
+8b
+8.dd
+16cc#
+=4
+8a
+8cc#
+8.dd
+16cc#
+4a}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8g
+16a
+16b
+4g
+=6
+8a
+16b
+16cc
+8g
+16a
+16b
+4a}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+8g
+16a
+16b
+4g
+=8
+8a
+16b
+16cc
+8g
+16a
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 237} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 237}
+!!!page: 237
+!!!ONB: Converted on 2024/12/26 with esac2hum

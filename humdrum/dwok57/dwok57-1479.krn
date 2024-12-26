@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK57147900000-wyrwu_ja_kwitku.krn
+!!!OTL: Wyrwu ja kwitku
+!!!source: DWOK57
+!!!id: 571479
+!!!signature: 57147900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8ee
+=2
+8cc
+4ee
+=3
+8ee
+8dd
+8a
+=4
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8ee
+=6
+8cc
+4ee
+=7
+4dd
+8a
+=8
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8ee
+=10
+8dd
+4cc
+=11
+8a
+8a
+8a
+=12
+8a
+4g}
+!!LO:LB:g=esac
+=13
+{8ee
+8dd
+8dd
+=14
+8cc
+4a
+=15
+4.a
+=16
+4a}
+8r
+==
+*-
+!!!ONB: Wariant t. 9: 13b3b_5_; wariant t. 13: 6_4_4_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 527
+!!!ONB: Converted on 2024/12/26 with esac2hum

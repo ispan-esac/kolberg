@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2002700000-badz_pozdrowiony_badz_pochwalony.krn
+!!!OTL: Bądź pozdrowiony, bądź pochwalony
+!!!source: DWOK20
+!!!id: 20027
+!!!signature: 2002700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{2cc
+4b-
+4a
+=2
+4g
+4b-
+2a
+=3
+2cc
+4b-
+4a
+=4
+4g
+4b-
+2a}
+!!LO:LB:g=esac
+=5
+{4f
+2f
+4g
+=6
+4g
+4b-
+2a
+=7
+4f
+2f
+4g
+=8
+4g
+4b-
+2a}
+!!LO:LB:g=esac
+=9
+{2cc
+4b-
+4a
+=10
+4g
+4b-
+2a
+=11
+2cc
+4b-
+4a
+=12
+4g
+4b-
+2a
+=13
+4a
+4a
+4g
+4f
+=14
+2g
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 96} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

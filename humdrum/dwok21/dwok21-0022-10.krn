@@ -1,0 +1,36 @@
+!!!!SEGMENT: DWOK2102200010-a_wy_dziewki_roztrzepance.krn
+!!!OTL: A wy dziewki roztrzepańce
+!!!source: DWOK21
+!!!id: 21022
+!!!signature: 2102200010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16b
+8cc
+8dd
+=2
+16cc
+16b
+8cc
+8dd
+=3
+16ff
+16ee
+8cc
+8dd
+=4
+8cc
+4g}
+==
+*-
+!!!ONB: Utwór zakodowany w trzech częśściach. Dłuższy wiersz aż do strofy 6, śśpiewa się na nutę dwóch pierwszych taktów częśści 1 szej, lub częśści 2giej,krótszy wiersz na nutę dwóch drugich taktów częśści pierwszej
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 10-11} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, pp. 10-11}
+!!!page: 10-11
+!!!ONB: Converted on 2024/12/26 with esac2hum

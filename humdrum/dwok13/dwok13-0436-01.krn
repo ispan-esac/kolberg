@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK1343600001-jestem_chlopek_i_wiem_o_tem.krn
+!!!OTL: Jestem chłopek i wiem o tem
+!!!source: DWOK13
+!!!id: 13436
+!!!signature: 1343600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+16a
+16g
+=2
+16f#
+16g
+8a
+8f#
+=3
+8d
+8cc
+16b
+16a
+=4
+16g
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8dd
+16cc
+16b
+=6
+16cc
+16dd
+4ee
+=7
+8dd
+8cc
+16a
+16f#
+=8
+16g
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{16g
+16b
+8dd
+16cc
+16b
+=10
+16cc
+16ee
+8gg
+16ff#
+16ee
+=11
+16dd
+16dd
+8cc
+16a
+16f#
+=12
+16g
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=13
+{8d
+8d
+16g
+16b
+=14
+16g
+16b
+8dd
+8dd
+=15
+8d
+8d
+16f#
+16a
+=16
+16cc
+16b
+16f#
+16g
+8g}
+==
+*-
+!!!ONB: Mazur
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 193} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 193}
+!!!page: 193
+!!!ONB: Converted on 2024/12/26 with esac2hum

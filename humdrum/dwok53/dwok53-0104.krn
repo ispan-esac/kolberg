@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK5310400000-o_kuo_jus_ludit.krn
+!!!OTL: O kuo jus ludit
+!!!source: DWOK53
+!!!id: 53104
+!!!signature: 5310400000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=1
+{2a
+4cc#
+4a
+=2
+2b
+2b
+=3
+4ee
+4dd
+4ee
+4ff#
+=4
+2ee
+2b}
+!!LO:LB:g=esac
+=5
+{4cc#
+4dd
+4ee
+4cc#
+=6
+4dd
+4b
+4a
+4cc#
+=7
+4cc#
+4b
+4g#
+4e
+=8
+2a
+2a}
+!!LO:LB:g=esac
+=9
+{4cc#
+4dd
+4ee
+4cc#
+=10
+4dd
+4b
+4a
+4cc#
+=11
+4cc#
+4b
+4g#
+4e
+=12
+2a
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 242} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

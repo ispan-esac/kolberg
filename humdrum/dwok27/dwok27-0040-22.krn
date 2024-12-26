@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2704000022-ty_wianecku_z_bialy_rozy-instrumentalna.krn
+!!!OTL: Ty wianecku z biały rózy-Instrumentalna
+!!!source: DWOK27
+!!!id: 27040
+!!!signature: 2704000022
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4.b
+=2
+16e
+16a
+16g#
+16a
+8b
+=3
+16cc
+32dd
+32ee
+8ff#
+8ee
+=4
+16dd
+32cc
+32b
+16a
+16cc
+8b}
+!!LO:LB:g=esac
+=5
+{4.b
+=6
+8a
+8ee
+32dd
+32cc
+32b
+32a
+=7
+4b
+8a
+=8
+16b
+16ee
+8dd
+8a
+=9
+4.b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 163} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 163}
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

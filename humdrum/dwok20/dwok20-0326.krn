@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2032600000-otworz_matulu_nowy_dwor.krn
+!!!OTL: Otwórz matulu nowy dwór
+!!!source: DWOK20
+!!!id: 20326
+!!!signature: 2032600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8b
+8b
+=2
+8.cc
+16a
+16b
+16g
+=3
+16a
+16f#
+4g
+=4
+8f#
+8d}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+8a
+16b
+16cc
+=6
+8b
+8b
+8a
+=7
+8g
+8g
+8f#
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8dd
+=10
+8.cc
+16a
+16b
+16g
+=11
+16a
+16f#
+4g
+=12
+8f#
+8d}
+8r
+!!LO:LB:g=esac
+=13
+{8a
+8a
+16b
+16cc
+=14
+8b
+8b
+8a
+=15
+8g
+8g
+8f#
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 227} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 227}
+!!!page: 227
+!!!ONB: Converted on 2024/12/26 with esac2hum

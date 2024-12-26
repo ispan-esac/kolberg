@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7501700000-oj_nie_daj_boze_descu.krn
+!!!OTL: Oj, nie daj Boze descu
+!!!source: DWOK75
+!!!id: 75017
+!!!signature: 7501700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4ee
+4dd#
+4ee
+=2
+8ee
+16cc
+16b
+4a
+4cc
+=3
+4ee
+4dd#
+4ee
+=4
+8ee
+16cc
+16b
+4a
+4e}
+!!LO:LB:g=esac
+=5
+{4g#
+4g#
+4b
+=6
+8a
+8cc
+4a
+4e
+=7
+4g#
+4g#
+4b
+=8
+8a
+8g#
+4a
+4e}
+==
+*-
+!!!ONB: Wariant t. 2: 5_3b21__5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 13} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 13}
+!!!page: 13
+!!!ONB: Converted on 2024/12/26 with esac2hum

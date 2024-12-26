@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3639200001-na_szczoz_myni_zenyty_sia.krn
+!!!OTL: Na szczoż myni żenyty sia
+!!!source: DWOK36
+!!!id: 36392
+!!!signature: 3639200001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8f
+8f
+16e
+16d
+=2
+8c
+8g
+8e
+16f
+16e
+=3
+8d
+8d
+16d
+16f
+8d
+=4
+4c
+4A}
+!!LO:LB:g=esac
+=5
+{8f
+8f
+8f
+16e
+16d
+=6
+8c
+8g
+8e
+16f
+16e
+=7
+8d
+8d
+16d
+16f
+8d
+=8
+4c
+4A}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 248
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK5008200000-diwczyno_moloda_powidz_mi_hde_woda.krn
+!!!OTL: Diwczyno mołoda, powidż mi, hde woda
+!!!source: DWOK50
+!!!id: 50082
+!!!signature: 5008200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+8dd
+=2
+8dd
+4ee
+8dd
+=3
+8dd
+8ee
+4cc
+=4
+8a
+4b
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+4a
+8b
+=6
+8b
+4cc
+8a
+=7
+8a
+8dd
+4cc
+=8
+8a
+4b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 34} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 34}
+!!!page: 34
+!!!ONB: Converted on 2024/12/26 with esac2hum

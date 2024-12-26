@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK3632600000-bodaj_toj_piwen_znudyw.krn
+!!!OTL: Bodaj toj piweń znudyw
+!!!source: DWOK36
+!!!id: 36326
+!!!signature: 3632600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4cc
+4cc
+=2
+4cc
+4dd
+4ee
+=3
+4cc}
+4r
+4r
+!!LO:LB:g=esac
+=4
+{4b
+4dd
+4dd
+=5
+4dd
+4ee
+4ff
+=6
+4dd}
+4r
+4r
+!!LO:LB:g=esac
+=7
+{4cc
+4ee
+4ee
+=8
+4ee
+4ff
+4gg
+=9
+4ff}
+4r
+4r
+!!LO:LB:g=esac
+=10
+{4aa
+4ff
+4dd
+=11
+4b
+4cc
+4dd
+=12
+4cc}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 201
+!!!ONB: Converted on 2024/12/26 with esac2hum

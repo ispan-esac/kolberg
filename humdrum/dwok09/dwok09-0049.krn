@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK0904900000-nie_chciala_nie_chciala.krn
+!!!OTL: Nie chciała, nie chciała
+!!!source: DWOK09
+!!!id: 09049
+!!!signature: 0904900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8.b
+16a
+=2
+8g
+8.b
+16cc
+=3
+16dd
+16ee
+8cc#
+8dd
+=4
+8a
+4d}
+!!LO:LB:g=esac
+=5
+{16d
+16r
+8.ccc
+16a
+=6
+16g
+16r
+8.b
+16a
+=7
+16g
+16f#
+8g
+8a
+=8
+8b
+4d}
+!!LO:LB:g=esac
+=9
+{16d
+16r
+8.ccc
+16a
+=10
+16g
+16r
+8.b
+16a
+=11
+16g
+16f#
+8g
+8a
+=12
+8b
+4g}
+==
+*-
+!!!ONB: U Kolberga błędnie podane metrum 3/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 193} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 193}
+!!!page: 193
+!!!ONB: Converted on 2024/12/26 with esac2hum

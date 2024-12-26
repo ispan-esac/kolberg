@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3913000001-u_jeziora_bystrej_wody.krn
+!!!OTL: U jeziora bystrej wody
+!!!source: DWOK39
+!!!id: 39130
+!!!signature: 3913000001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8cc
+4.ee
+8ee
+=2
+8gg
+8ff
+4.ff
+8ff}
+!!LO:LB:g=esac
+=3
+{8ee
+8ff
+4.gg
+8ee
+=4
+8ee
+8dd
+4.dd
+8dd}
+!!LO:LB:g=esac
+=5
+{8ff
+8ff
+4.aa
+8ff
+=6
+8aa
+8gg
+4.gg
+8ee}
+!!LO:LB:g=esac
+=7
+{8gg
+8gg
+4.ff
+8b
+=8
+8dd
+8cc
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 177} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

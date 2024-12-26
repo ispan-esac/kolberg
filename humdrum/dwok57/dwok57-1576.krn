@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK57157600000-czerez_horu_stezeczka.krn
+!!!OTL: Czerez horu steżeczka
+!!!source: DWOK57
+!!!id: 571576
+!!!signature: 57157600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8cc
+8dd
+8ee
+=2
+8f#
+8e
+4d
+=3
+8e
+8e
+8e
+8e
+=4
+4d
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8g
+8g
+=6
+8f#
+8e
+4d
+=7
+8d
+8e
+8e
+8e
+=8
+4d
+4dd}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8a
+8dd
+=10
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 620
+!!!ONB: Converted on 2024/12/26 with esac2hum

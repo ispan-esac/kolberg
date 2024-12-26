@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK8313500000-o_dzien_doby_o_dzien_dobry.krn
+!!!OTL: O dzień doby, o dzień dobry
+!!!source: DWOK83
+!!!id: 83135
+!!!signature: 8313500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4b
+=2
+8a
+8b
+4cc
+4cc
+=3
+8b
+8a
+4g
+4g
+=4
+8b
+8a
+2a}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4dd
+4dd
+=6
+8dd
+8cc
+4ee
+4dd
+=7
+8b
+8a
+4g
+4f#
+=8
+4g
+2g}
+==
+*-
+!!!ONB: Wstawka skrzypiec: 3  321-7-6-7  1_1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 122} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 122}
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

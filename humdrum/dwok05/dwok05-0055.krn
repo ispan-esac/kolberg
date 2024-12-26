@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK0505500000-pasterze_biezeli.krn
+!!!OTL: Pasterze bieżeli
+!!!source: DWOK05
+!!!id: K0055
+!!!signature: 0505500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+8cc
+8a
+8b-
+8dd
+=2
+8cc
+8cc
+8cc
+8a
+8b-
+8dd
+=3
+8b-
+8a
+4g
+8cc
+8b-
+=4
+8a
+8g
+4f}
+4r
+!!LO:LB:g=esac
+=5
+{8f
+8a
+8cc
+8a
+8b-
+8dd
+=6
+8cc
+8cc
+8cc
+8a
+8b-
+8dd
+=7
+8b-
+8a
+4g
+4cc
+=8
+8a
+8g
+4f}
+4r
+!!LO:LB:g=esac
+=9
+{4a
+4a
+4a
+=10
+8a
+8cc
+8cc
+8cc
+8b-
+8g
+=11
+4a
+4a
+4a
+=12
+8a
+8cc
+8cc
+8cc
+8b-
+8dd}
+!!LO:LB:g=esac
+=13
+{8b-
+8a
+4g
+4cc
+=14
+8a
+8g
+4f}
+4r
+==
+*-
+!!!ONB: U Kolberga w t. 4, 8, 14 błędny zapis rytmu: 0
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=270 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 242} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

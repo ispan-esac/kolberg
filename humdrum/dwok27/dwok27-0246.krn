@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK2724600000-lec_glosie_po_rosie.krn
+!!!OTL: Leć głosie po rosie
+!!!source: DWOK27
+!!!id: 27246
+!!!signature: 2724600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16b
+16ff
+8ee
+8dd
+=2
+8ff
+4ee
+=3
+16b
+16dd
+8cc
+8b
+=4
+8ee
+4a}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8cc
+8b
+=6
+8cc
+4a
+=7
+16b
+16dd
+8a
+8g
+=8
+8b
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=295 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 276} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 276}
+!!!page: 276
+!!!ONB: Converted on 2024/12/26 with esac2hum

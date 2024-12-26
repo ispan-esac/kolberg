@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK2230900000-ciebie_wawrzyncze_swiety_za_patrona.krn
+!!!OTL: Ciebie Wawrzyńcze święty za Patrona
+!!!source: DWOK22
+!!!id: 22309
+!!!signature: 2230900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4ee
+4.ff
+8dd
+=2
+4.cc
+8b-
+4a
+=3
+4b-
+4g
+8a
+8b-
+=4
+4.cc
+8b-
+4a}
+!!LO:LB:g=esac
+=5
+{4ee
+4.ff
+8dd
+=6
+4.cc
+8b-
+4a
+=7
+4b-
+4g
+8a
+8b-
+=8
+4.cc
+8b-
+4a}
+!!LO:LB:g=esac
+=9
+{4g
+4g
+4g
+=10
+4.a
+8b-
+4cc
+=11
+8g
+8g
+4g
+4b-
+=12
+4.a
+8b-
+4cc
+=13
+4a
+4.b-
+8g
+=14
+4f
+4f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 176-177} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, pp. 176-177}
+!!!page: 176-177
+!!!ONB: Converted on 2024/12/26 with esac2hum

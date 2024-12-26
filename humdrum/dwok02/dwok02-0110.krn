@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK02-K0110-ctery_swiece.krn
+!!!OTL: Ctery swiece
+!!!source: DWOK02
+!!!id: K0110
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8dd
+8ee
+=2
+4dd
+8a
+=3
+8dd
+8a
+8d}
+!!LO:LB:g=esac
+=4
+{16f#
+16g
+8g
+8b
+=5
+8dd
+4cc
+=6
+8b
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 85} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

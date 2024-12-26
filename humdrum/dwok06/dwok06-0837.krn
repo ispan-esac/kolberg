@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK06-K0837-kozak_-_instrumentalna.krn
+!!!OTL: Kozak - Instrumentalna
+!!!source: DWOK06
+!!!id: K0837
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8b
+8cc
+=2
+8dd
+8ee
+4dd
+=3
+8g
+8b
+8b
+8cc
+=4
+4dd
+4dd}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8b
+8cc
+=6
+8dd
+8ee
+4dd
+=7
+8g
+8b
+8b
+8cc
+=8
+4dd
+4dd}
+!!LO:LB:g=esac
+=9
+{8d
+16a
+16f#
+8a
+8cc
+=10
+8g
+16b
+16g
+8b
+8dd
+=11
+8dd
+8ee
+8cc
+8a
+=12
+8a
+8g
+4g}
+!!LO:LB:g=esac
+=13
+{8d
+16a
+16f#
+8a
+8cc
+=14
+8g
+16b
+16g
+8b
+8dd
+=15
+8dd
+8ee
+8cc
+8a
+=16
+8a
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=522 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 496} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 496}
+!!!page: 496
+!!!ONB: Converted on 2024/12/26 with esac2hum

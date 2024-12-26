@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK7722200001-hulalem_ci_hulal_dwadziescia_lat_i_dwa.krn
+!!!OTL: Hulałem ci hulał dwadzieścia lat i dwa
+!!!source: DWOK77
+!!!id: 77222
+!!!signature: 7722200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+4dd
+=2
+8cc
+8a
+8a
+=3
+16g
+16b
+4g
+=4
+8f#
+8a
+8a}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+4b
+=6
+8cc
+8a
+8a
+=7
+16g
+16b
+4g
+=8
+8f#
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 128
+!!!ONB: Converted on 2024/12/26 with esac2hum

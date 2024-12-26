@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2610600001-od_onej_gory_jada_mazury.krn
+!!!OTL: Od onej góry jadą Mazury
+!!!source: DWOK26
+!!!id: 26106
+!!!signature: 2610600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8f#
+8g
+8b
+4.dd
+8ff#
+=2
+8gg
+8ff#
+8gg
+8ee
+2dd}
+!!LO:LB:g=esac
+=3
+{8g
+8g
+8g
+8b
+4.dd
+8ff#
+=4
+8gg
+8gg
+8gg
+8ee
+2dd}
+!!LO:LB:g=esac
+=5
+{4b
+4b
+8b
+8b
+8b
+8dd
+=6
+4a
+4a
+8a
+8a
+8a
+8ee
+=7
+8dd
+8ee
+8dd
+8cc
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 132
+!!!ONB: Converted on 2024/12/26 with esac2hum

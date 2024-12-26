@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK45107900000-hej_madziar_pije.krn
+!!!OTL: Hej, Madziar pije
+!!!source: DWOK45
+!!!id: 451079
+!!!signature: 45107900000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4gg
+8gg
+8aa
+=2
+4gg
+4ee
+=3
+4gg
+8gg
+8aa
+=4
+4gg
+4ee}
+!!LO:LB:g=esac
+=5
+{4aa
+8aa
+8gg
+=6
+4ff
+4ee
+=7
+8dd
+8cc
+4dd
+=8
+2cc}
+!!LO:LB:g=esac
+=9
+{4g
+8a
+8b
+=10
+4cc
+4cc
+=11
+4g
+8g
+8a
+=12
+4b
+4cc}
+!!LO:LB:g=esac
+=13
+{4aa
+8aa
+8gg
+=14
+4ff
+4ee
+=15
+8dd
+8cc
+4dd
+=16
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 62} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 62}
+!!!page: 62
+!!!ONB: Converted on 2024/12/26 with esac2hum

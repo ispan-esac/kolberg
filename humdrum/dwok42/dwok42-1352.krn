@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK42135200000-kalina_malina.krn
+!!!OTL: Kalina, malina
+!!!source: DWOK42
+!!!id: 421352
+!!!signature: 42135200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+4dd
+8cc#
+=3
+16dd
+16ee
+8dd
+8cc#
+=4
+4dd
+8b
+=5
+16dd
+16ee
+8dd
+8cc#
+=6
+4dd
+8b}
+!!LO:LB:g=esac
+=7
+{16dd
+16dd
+8cc
+8a
+=8
+4g
+8b
+=9
+16d
+16d
+8e
+8f#
+=10
+4g
+8b}
+!!LO:LB:g=esac
+=11
+{16dd
+16dd
+8cc
+8a
+=12
+4g
+8b
+=13
+16d
+16d
+8e
+8f#
+=14
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=18 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 9} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 9}
+!!!page: 9
+!!!ONB: Converted on 2024/12/26 with esac2hum

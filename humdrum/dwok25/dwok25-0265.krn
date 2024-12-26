@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2526500000-i_zabujaly_siwe_labedzie.krn
+!!!OTL: I zabujały siwe łabędzie
+!!!source: DWOK25
+!!!id: 25265
+!!!signature: 2526500000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=1
+{4ee
+8ee
+8ee
+4b
+4dd
+=2
+16cc
+8.b
+8a
+8a
+4e
+4g
+=3
+8f#
+8f#
+2e}
+4r
+!!LO:LB:g=esac
+=4
+{4e
+8e
+8e
+4g
+4b
+=5
+16cc
+8.b
+8a
+8a
+4e
+4g
+=6
+8f#
+8f#
+2e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 117} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 117}
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

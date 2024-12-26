@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK5322700000-o_is_kur_tie_o_kano_tie.krn
+!!!OTL: O is kur tie, o kano tie
+!!!source: DWOK53
+!!!id: 53227
+!!!signature: 5322700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+4ee
+=2
+4dd
+4a
+=3
+4cc
+4a
+=4
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4cc
+=6
+4dd
+4b
+=7
+2a
+=8
+2dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=369 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 329} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 329}
+!!!page: 329
+!!!ONB: Converted on 2024/12/26 with esac2hum

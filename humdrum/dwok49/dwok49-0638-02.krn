@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4963800002-na_wodu_husy_na_wodu.krn
+!!!OTL: Na wodu, husy, na wodu
+!!!source: DWOK49
+!!!id: 49638
+!!!signature: 4963800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+4ee
+8dd
+=3
+8ee
+8dd
+16cc
+16b}
+!!LO:LB:g=esac
+=4
+{8a
+8ee
+8dd
+=5
+4ee
+16cc
+16b
+=6
+16cc
+16a
+8g
+8a
+=7
+8a
+4g}
+!!LO:LB:g=esac
+=8
+{8g
+8a
+8b
+=9
+4cc
+8a
+=10
+8b
+8g
+8b
+=11
+8b
+4a}
+!!LO:LB:g=esac
+=12
+{8g
+8a
+8b
+=13
+4cc
+8a
+=14
+8b
+8g
+8a
+=15
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=612 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 522} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 522}
+!!!page: 522
+!!!ONB: Converted on 2024/12/26 with esac2hum

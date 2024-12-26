@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK06039500002-kasia_moja_kasia.krn
+!!!OTL: Kasia moja Kasia
+!!!source: DWOK06
+!!!id: K0395
+!!!signature: 06039500002
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{8dd
+8b
+16cc#
+16dd
+=2
+16ee
+16cc#
+4a
+=3
+8dd
+8b
+16cc#
+16dd
+=4
+16ee
+16cc#
+4a}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+16b
+16cc#
+=6
+8dd
+8.b
+16a
+=7
+16f#
+16g
+8e
+16e
+16c#
+=8
+16e
+16f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 207} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 207}
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

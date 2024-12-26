@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK18298b0020-instrumentalna-siano_grabila.krn
+!!!OTL: Instrumentalna-Siano grabiła
+!!!source: DWOK18
+!!!id: 18298b
+!!!signature: 18298b0020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8.ff
+16cc
+8a
+8cc
+8cc
+8cc
+=2
+8.ff
+16dd
+8b-
+8dd
+8dd
+8dd
+=3
+8.ff
+16cc
+8a
+8cc
+8cc
+8cc
+=4
+8dd
+8cc
+8b-
+8g
+4f}
+!!LO:LB:g=esac
+=5
+{8.f
+16a
+8a
+8a
+8a
+8a
+=6
+8.b-
+16dd
+8dd
+8dd
+8dd
+8dd
+=7
+8.a
+16cc
+8cc
+8cc
+8cc
+8cc
+=8
+8dd
+8cc
+8b-
+8g
+4f}
+==
+*-
+!!!ONB: Przy weselu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 168} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

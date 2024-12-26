@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK3918500001-oj_hulal_parobeczek_przez_caluche_lato.krn
+!!!OTL: Oj hulał parobeczek przez caluche lato
+!!!source: DWOK39
+!!!id: 39185
+!!!signature: 3918500001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4gg
+4aa
+4gg
+=2
+8aa
+8gg
+4ff
+4dd
+=3
+8cc
+8ee
+4cc
+4dd
+=4
+4b
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4b
+4g
+=6
+8b
+8dd
+4ff
+4gg
+=7
+8cc
+8ee
+4cc
+4dd
+=8
+4b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 214} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 214}
+!!!page: 214
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2647200000-zeby_to_tak_reka_kosic.krn
+!!!OTL: Zeby to tak ręką kosić
+!!!source: DWOK26
+!!!id: 26472
+!!!signature: 2647200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8dd
+8ff
+16ee
+16cc
+=2
+16ff
+16dd
+16ff
+16gg
+16ee
+16cc}
+!!LO:LB:g=esac
+=3
+{8dd
+16ff
+16gg
+16ee
+16cc
+=4
+16ff
+16dd
+16b
+16dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+16cc
+16ee
+=6
+16dd
+16ff
+16gg
+16ff
+16ee
+16cc}
+!!LO:LB:g=esac
+=7
+{8dd
+16b
+16g
+16cc
+16ee
+=8
+16ff
+16dd
+16b
+16dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 314
+!!!ONB: Converted on 2024/12/26 with esac2hum

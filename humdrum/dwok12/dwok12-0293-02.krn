@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1229300002-poszed_jas_do_lasa.krn
+!!!OTL: Poszed Jaś do lasa
+!!!source: DWOK12
+!!!id: 12293
+!!!signature: 1229300002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8b
+8a
+=2
+8g#
+4e
+8r
+=3
+8a
+8cc
+8ee
+16dd
+16cc
+=4
+8b
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+16dd
+16cc
+=6
+8b
+8dd
+8dd
+16cc
+16b
+=7
+8a
+8cc
+8ee
+16cc
+16a
+=8
+8g#
+4e}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 157} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 157}
+!!!page: 157
+!!!ONB: Converted on 2024/12/26 with esac2hum

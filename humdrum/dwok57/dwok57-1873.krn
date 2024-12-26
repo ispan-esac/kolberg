@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK57187300000-a_tam_je_w_pole_dubyna.krn
+!!!OTL: A tam je w połe dubyna
+!!!source: DWOK57
+!!!id: 571873
+!!!signature: 57187300000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4cc
+8cc
+8cc
+=2
+4cc
+4g
+=3
+4a
+4b
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{4ee
+8ee
+8ee
+=6
+4ee
+4cc
+=7
+4ff
+4ee
+=8
+2dd}
+!!LO:LB:g=esac
+=9
+{4dd
+8dd
+8dd
+=10
+4dd
+4g
+=11
+8cc
+8dd
+8ee
+8dd}
+!!LO:LB:g=esac
+=12
+{8cc
+8b
+4a
+=13
+8g
+8g
+4a
+=14
+8g
+8cc
+8ee
+8dd
+=15
+8cc
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 940
+!!!ONB: Converted on 2024/12/26 with esac2hum

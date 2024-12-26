@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4117000010-idzie_chmura_bedzie_deszcz.krn
+!!!OTL: Idzie chmura będzie deszcz
+!!!source: DWOK41
+!!!id: 41170
+!!!signature: 4117000010
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16d
+16f#
+8.a
+16f#
+=2
+8g
+8b-
+8dd}
+!!LO:LB:g=esac
+=3
+{16d
+16f#
+8.a
+16f#
+=4
+8g
+8b-
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8.a
+16f#
+=6
+8g
+8b-
+8dd}
+!!LO:LB:g=esac
+=7
+{16d
+16f#
+8.a
+16f#
+=8
+8g
+8b-
+8g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 112} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 112}
+!!!page: 112
+!!!ONB: Converted on 2024/12/26 with esac2hum

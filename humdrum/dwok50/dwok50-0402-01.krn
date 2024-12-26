@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5040200001-oj_a_s_noczy_o_piwnoczy.krn
+!!!OTL: Oj, a s noczy o piwnoczy
+!!!source: DWOK50
+!!!id: 50402
+!!!signature: 5040200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4a
+4b
+=2
+8cc
+8b
+4a
+4g
+=3
+8g
+8b
+4a
+4b
+=4
+4cc
+2a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4a
+4dd
+=6
+8cc
+8b
+4a
+4g
+=7
+8f#
+8g
+4a
+8b
+8f#
+=8
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 231} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 231}
+!!!page: 231
+!!!ONB: Converted on 2024/12/26 with esac2hum

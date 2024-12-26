@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK3050300010-oj_ziszla_zora_az_po_sered_mora.krn
+!!!OTL: Oj ziszła zora aż po sered mora
+!!!source: DWOK30
+!!!id: 30503
+!!!signature: 3050300010
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8b
+8dd
+=2
+8cc
+8b
+4a
+=3
+8cc
+8b
+4ee
+=4
+8dd
+8b
+16cc
+16a
+8b
+=
+16cc
+16dd
+24b
+24cc
+24b
+16cc
+16b
+8a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8b
+8dd
+=6
+8cc
+8b
+8a
+8g#
+=7
+8a
+8e
+4cc
+=8
+8b
+8a
+8g#
+8b
+=9
+2a}
+==
+*-
+!!!ONB: O św. Barbarze - Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 277} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 277}
+!!!page: 277
+!!!ONB: Converted on 2024/12/26 with esac2hum

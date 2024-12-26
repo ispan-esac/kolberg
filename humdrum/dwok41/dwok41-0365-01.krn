@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK4136500001-przylecialo_stado_gesi.krn
+!!!OTL: Przyleciało stado gęsi
+!!!source: DWOK41
+!!!id: 41365
+!!!signature: 4136500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8a
+16a
+16cc
+=2
+16ee
+16ee
+8dd
+8b
+=3
+16g
+16b
+8a
+16b
+16dd
+=4
+16ee
+16ee
+8cc
+16a
+16f#}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+8cc
+=6
+16ee
+16ff#
+8dd
+8b
+=7
+16cc
+16a
+8.e
+16c
+=8
+16e
+16e
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 207} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 207}
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

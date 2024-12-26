@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1621600000-won_swatkowie_won.krn
+!!!OTL: Won swatkowie won
+!!!source: DWOK16
+!!!id: 16216
+!!!signature: 1621600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+4b
+=2
+8a
+4cc
+=3
+8b
+4g}
+!!LO:LB:g=esac
+=4
+{8cc
+8b
+8a
+=5
+4g
+8g
+=6
+8f#
+8d}
+8r
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+8g
+=8
+8a
+4b
+=9
+4.cc
+=10
+8b
+4g}
+!!LO:LB:g=esac
+=11
+{4.a
+=12
+8b
+8f#
+8g
+=13
+4a
+8f#
+=14
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=223 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 203} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 203}
+!!!ONB: Converted on 2024/12/26 with esac2hum

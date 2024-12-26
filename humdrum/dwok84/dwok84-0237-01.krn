@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK8423700001-iszou_czumak_z_donu.krn
+!!!OTL: Iszou czumak z Donu
+!!!source: DWOK84
+!!!id: 84237
+!!!signature: 8423700001
+**kern
+*clefG2
+*k[b-]
+*d:
+=1
+*M2/4
+{8g
+16g
+16a
+8b-
+8g
+=2
+*M3/8
+8f
+4d}
+!!LO:LB:g=esac
+=3
+*M2/4
+{8b-
+8dd
+8a
+8dd
+=
+!!UNCATEGORIZED MEASURE
+24b-
+24a
+24g
+8f#
+=4
+*M2/4
+8b-
+8dd
+8a
+8dd
+=
+!!UNCATEGORIZED MEASURE
+24b-
+24a
+24g
+8f#}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8g
+8a
+8b-
+16a
+16g
+=5
+*M3/8
+8f#
+4d
+=6
+*M2/4
+8d
+8b-
+16a
+16g
+16f#
+16e
+=7
+*M3/8
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 224} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 224}
+!!!page: 224
+!!!ONB: Converted on 2024/12/26 with esac2hum

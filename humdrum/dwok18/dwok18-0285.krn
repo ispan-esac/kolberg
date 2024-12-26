@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK1828500000-a_mam_ci_ja_kobzalickow_piwnicke.krn
+!!!OTL: A mam ci ja kobzalicków piwnickę
+!!!source: DWOK18
+!!!id: 18285
+!!!signature: 1828500000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=1
+{8cc
+8dd
+8ee
+8ee
+16b
+16cc
+16b
+16dd
+=2
+4cc
+4b
+4a}
+!!LO:LB:g=esac
+=3
+{8d
+8e
+8f
+8f
+8d
+8g
+=4
+4f
+4e
+4d}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ee
+8ee
+8b
+8dd
+=6
+8cc
+8g#
+2a}
+!!LO:LB:g=esac
+=7
+{8f
+8d
+8c
+8e
+4f
+=8
+8f
+8d
+8c
+8e
+4f}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+8b-
+8b-
+8g
+8b-
+=10
+8a
+8f
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 163} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 163}
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

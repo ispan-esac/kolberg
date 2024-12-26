@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2909700000-ni_ma_pana_doma_pojichaw_do_lwowa.krn
+!!!OTL: Ni ma pana doma pojichaw do Lwowa
+!!!source: DWOK29
+!!!id: 29097
+!!!signature: 2909700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+8r
+{8dd
+8dd
+=2
+8dd
+8cc
+8g
+=3
+16b
+16a
+16g
+16r
+8a
+=4
+8cc
+4b
+=5
+4dd
+16b
+16cc
+=6
+16b
+16a
+8g}
+8r
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8dd
+=8
+8dd
+4dd
+=9
+16dd
+16b
+4cc
+=10
+8cc
+8dd
+8cc
+=11
+8cc
+4cc
+=12
+8ee
+4dd}
+!!LO:LB:g=esac
+=13
+{8dd
+8cc
+8g
+=14
+8b
+8a
+8f#
+=15
+4.g
+=16
+8g}
+8r
+8r
+==
+*-
+!!!ONB: Nuta weselna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 207} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 207}
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

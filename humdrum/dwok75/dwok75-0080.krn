@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7508000000-dziwuja_sie_ludzie.krn
+!!!OTL: Dziwują się ludzie
+!!!source: DWOK75
+!!!id: 75080
+!!!signature: 7508000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4cc
+4cc
+4ee
+=2
+4ff
+4ee
+4ee
+=3
+8cc
+8ee
+4ff
+4ee
+=4
+4dd
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+4dd
+=6
+4cc
+4a
+4f
+=7
+8f
+8a
+4cc
+4cc
+=8
+4dd
+4b
+4g}
+==
+*-
+!!!ONB: Wariant t. 3: 667b_6_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 56} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

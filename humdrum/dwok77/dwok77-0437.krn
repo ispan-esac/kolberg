@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7743700000-ozenil_sie_pan_jasienko.krn
+!!!OTL: Ożenił się pan Jasieńko
+!!!source: DWOK77
+!!!id: 77437
+!!!signature: 7743700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4ee
+=2
+8dd
+8ee
+8dd
+8cc
+4b
+=3
+4.dd
+8cc
+8a
+8b
+=4
+4g}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{8a
+8g
+4b
+4dd
+=6
+8cc
+8b
+4a
+4g
+=7
+4.dd
+8cc
+8a
+8b
+=8
+4g}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

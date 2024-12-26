@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK5064400000-trudno_znesty_toj_rozluki.krn
+!!!OTL: Trudno znesty toj rozłuki
+!!!source: DWOK50
+!!!id: 50644
+!!!signature: 5064400000
+**kern
+*clefG2
+*k[]
+*a:
+*M6/8
+=1
+{8a
+8cc
+8ee
+8a
+8cc
+8ee
+=2
+4dd
+8dd
+4ee
+8cc
+=3
+8a
+8cc
+8cc
+8b
+8dd
+8ff
+=4
+8ee
+8ee
+8g#
+4a
+8a}
+!!LO:LB:g=esac
+=5
+{8gg
+8gg
+8gg
+8gg
+8gg
+8gg
+=6
+8aa
+8aa
+8gg
+4ff
+8ee
+=7
+8dd
+8ff
+8ff
+8ff
+8ff
+8aa
+=8
+8gg
+8gg
+8ff
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=9
+{4ee
+8a
+4ee
+8a
+=
+8dd
+8dd
+24dd
+24ee
+24ff
+8.ee
+16dd
+8cc}
+!!LO:LB:g=esac
+=10
+{8cc
+8cc
+8cc
+8cc
+8dd
+8ff
+=11
+8ee
+8ee
+8g#
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=420 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 387} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 387}
+!!!page: 387
+!!!ONB: Converted on 2024/12/26 with esac2hum

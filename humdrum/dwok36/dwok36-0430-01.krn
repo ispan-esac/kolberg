@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK3643000001-joj_nikomu_bo_ja_tak_ne_dywuju.krn
+!!!OTL: Joj nikomu bo ja tak ne dywuju
+!!!source: DWOK36
+!!!id: 36430
+!!!signature: 3643000001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=1
+{8b
+8a
+8b
+8cc
+4.dd
+8b
+=2
+4ee
+8dd
+8cc
+8b
+8cc
+4a
+=3
+4dd
+4dd
+4a
+4dd
+=4
+2.b}
+4r
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8g
+8b
+4dd
+4cc
+=6
+8b
+8a
+8g
+8f#
+4e
+4dd
+=7
+4b
+4a
+4g
+8f#
+8f#
+=8
+2.e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 274-275
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK1251800002-jakem_jechal_od_rawicza.krn
+!!!OTL: Jak'em jechał od Rawicza
+!!!source: DWOK12
+!!!id: 12518
+!!!signature: 1251800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4dd
+8dd
+8ee
+=2
+8cc
+8a
+4cc
+4ee
+=3
+4dd
+4dd
+8dd
+8ee
+=4
+8cc
+8a
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{4b
+4b
+8b
+8b
+=6
+8b
+8b
+4cc
+4a
+=7
+4b
+4b
+8b
+8dd
+=8
+8a
+8a
+4a
+4g}
+!!LO:LB:g=esac
+=9
+{4b
+8b
+8b
+8cc
+8a
+=10
+4b
+8b
+8b
+8cc
+8a
+=11
+8b
+8b
+4b
+4dd
+=12
+8a
+8a
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 268-269} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 268-269}
+!!!page: 268-269
+!!!ONB: Converted on 2024/12/26 with esac2hum

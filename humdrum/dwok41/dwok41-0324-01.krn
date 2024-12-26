@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK4132400001-slonce_siada_rosa_pada.krn
+!!!OTL: Słońce siada, rosa pada
+!!!source: DWOK41
+!!!id: 41324
+!!!signature: 4132400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{4a
+8a
+8a
+8b
+8cc#
+=2
+4dd
+8cc
+4b
+8dd
+=3
+4dd
+8a
+8a
+8b
+8cc#
+=4
+4.dd
+4.g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+8gg
+8ff#
+8ee
+=6
+4ee
+8dd
+4b
+8dd
+=7
+8dd
+8cc
+8cc
+4cc
+8f#
+=8
+4.a
+4.g}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8dd
+8gg
+8ff#
+8ee
+=10
+4ee
+8dd
+4b
+8dd
+=11
+8dd
+8cc
+8cc
+4cc
+8f#
+=12
+4.a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 192} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 192}
+!!!page: 192
+!!!ONB: Converted on 2024/12/26 with esac2hum

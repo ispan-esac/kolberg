@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK5545200000-jide_mylyj_j-u_w_dorohu.krn
+!!!OTL: Jide myłyj j-u w dorohu
+!!!source: DWOK55
+!!!id: 55452
+!!!signature: 5545200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8dd
+8dd
+8b
+=2
+8b
+8a
+8r
+=3
+8cc#
+8cc#
+8b
+=4
+8b
+8a}
+8r
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8b
+=6
+8cc
+4a
+=7
+8cc
+4a
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8b
+=10
+8cc
+8a
+8r
+=11
+8a
+8a
+8a
+=12
+8b
+8a}
+8r
+!!LO:LB:g=esac
+=13
+{8b
+8a
+8a
+=14
+4a
+8a
+=15
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 104} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 104}
+!!!page: 104
+!!!ONB: Converted on 2024/12/26 with esac2hum

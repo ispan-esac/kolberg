@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2604300000-tria_sunt_vere.krn
+!!!OTL: Tria sunt vere
+!!!source: DWOK26
+!!!id: 26043
+!!!signature: 2604300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4a
+4b
+=2
+4a
+4g
+4a
+=3
+2g}
+4r
+!!LO:LB:g=esac
+=4
+{4.dd
+8dd
+4ee
+=5
+4dd
+4cc
+4dd
+=6
+2b}
+4r
+!!LO:LB:g=esac
+=7
+{4dd
+2dd
+=8
+8cc
+8b
+8cc
+8dd
+4ee
+=9
+4cc
+2cc
+=10
+4a
+8b
+8cc
+4dd}
+!!LO:LB:g=esac
+=11
+{4g
+4b
+4dd
+=12
+4dd
+8cc
+8b
+8cc
+8dd
+=13
+4b}
+4r
+4r
+==
+*-
+!!!ONB: W takcie ósmym za dużo o ćwierćnutę, zapisano poprawnie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

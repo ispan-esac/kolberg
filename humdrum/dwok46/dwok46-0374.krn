@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK4637400000-oj_prosila_ja_boga_da.krn
+!!!OTL: Oj, prosiła ja Boga da
+!!!source: DWOK46
+!!!id: 46374
+!!!signature: 4637400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8cc
+8ee
+=2
+16ee
+16gg
+8.ff
+16g
+=3
+8cc
+8a
+8a
+=4
+16g
+16b
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8ee
+=6
+16ee
+16gg
+8.ff
+16g
+=7
+8dd
+8cc
+8a
+=8
+16g
+16b
+8dd
+8cc}
+!!LO:LB:g=esac
+=9
+{8b
+8g
+8g
+=10
+16a
+16b
+8cc
+8ee
+=11
+8b
+8g
+8g
+=12
+16a
+16b
+8dd
+8cc}
+!!LO:LB:g=esac
+=13
+{8b
+8g
+8g
+=14
+16cc
+16dd
+8ee
+8gg
+=15
+8b
+8g
+8g
+=16
+16a
+16b
+8dd
+8cc}
+==
+*-
+!!!ONB: Wariant t. 3: +4+2+1_6_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 239} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 239}
+!!!page: 239
+!!!ONB: Converted on 2024/12/26 with esac2hum

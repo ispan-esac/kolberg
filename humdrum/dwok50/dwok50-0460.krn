@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK5046000000-starsza_siestra_bratsia_miala.krn
+!!!OTL: Starsza siestra bratsia miała
+!!!source: DWOK50
+!!!id: 50460
+!!!signature: 5046000000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8e
+8a
+4b
+4a
+=2
+*M2/4
+8b
+8cc
+8dd
+8cc
+=3
+8b
+8cc
+8dd
+8cc}
+!!LO:LB:g=esac
+=4
+*M3/4
+{8b
+8a
+4b
+4e
+=5
+*M2/4
+8f#
+8g
+8a
+8g}
+!!LO:LB:g=esac
+=6
+*M3/4
+{8a
+8cc
+4b
+4e
+=7
+8a
+8a
+4g
+4e}
+==
+*-
+!!!ONB: wariant t. 7: 11-7b-5-5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 276} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 276}
+!!!page: 276
+!!!ONB: Converted on 2024/12/26 with esac2hum

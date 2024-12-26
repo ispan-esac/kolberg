@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1001300001-a_gdy_na_woz_siadala.krn
+!!!OTL: A gdy na wóz siadała
+!!!source: DWOK10
+!!!id: 10013
+!!!signature: 1001300001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8g#
+4a
+4cc
+=2
+4ee
+4ee
+4b
+=3
+8b
+8g#
+4a
+4cc
+=4
+8ee
+8ff
+4ee
+4b}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+4a
+4cc
+=6
+8e
+8f
+4e
+4b
+=7
+8e
+8g#
+4.b
+8g#
+=8
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=99 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 83} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7504800000-hej_zielenze_sie_zielen.krn
+!!!OTL: Hej, zieleńże się, zieleń
+!!!source: DWOK75
+!!!id: 75048
+!!!signature: 7504800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4gg
+4gg
+4ff
+=2
+8ee
+8gg
+4gg
+4ff
+=3
+4ee
+4ee
+4dd
+=4
+8cc
+16b-
+16a
+4g
+4f}
+!!LO:LB:g=esac
+=5
+{4g
+4b
+4cc
+=6
+8ee
+8cc
+4ff
+4ff
+=7
+4ee
+4ee
+4dd
+=8
+8cc
+16b-
+16a
+4g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 31} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 31}
+!!!page: 31
+!!!ONB: Converted on 2024/12/26 with esac2hum

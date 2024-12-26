@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK5307100000-ej_skauda_skauda.krn
+!!!OTL: Ej, skauda, skauda
+!!!source: DWOK53
+!!!id: 53071
+!!!signature: 5307100000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M6/8
+{8ee
+=1
+4.ee
+8ee
+8cc#
+8ee
+=2
+8dd
+8b
+8dd
+8cc#
+8a
+8ee
+=3
+4.b
+8b
+8a#
+8b
+=4
+4.dd
+8cc#
+8r
+8ff#}
+!!LO:LB:g=esac
+=5
+{4ee
+8ee
+8dd
+8cc#
+8dd
+=6
+4.ee
+8cc#
+8r
+8ff#
+=7
+4ee
+8ee
+8dd
+8cc#
+8dd
+=8
+4.b
+8e
+8r
+8ee}
+!!LO:LB:g=esac
+=9
+{4.ee
+8ee
+8cc#
+8ee
+=10
+8dd
+8b
+8dd
+8cc#
+8a
+8ee
+=11
+4.b
+8b
+8a#
+8b
+=12
+4.dd
+8cc#
+8r
+8ff#}
+!!LO:LB:g=esac
+=13
+{4ee
+8ee
+8dd
+8cc#
+8dd
+=14
+4.ee
+8cc#
+8r
+8ff#
+=15
+4ee
+8ee
+8dd
+8cc#
+8dd
+=16
+4.b
+8e}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 220} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 220}
+!!!page: 220
+!!!ONB: Converted on 2024/12/26 with esac2hum

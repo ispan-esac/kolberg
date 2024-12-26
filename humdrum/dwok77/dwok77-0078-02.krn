@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7707800002-z_poniedzialku_na_swieto.krn
+!!!OTL: Z poniedziałku na święto
+!!!source: DWOK77
+!!!id: 77078
+!!!signature: 7707800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8cc
+8ee
+=2
+8dd
+8cc
+8ee}
+!!LO:LB:g=esac
+=3
+{16a
+16g
+8b
+8cc
+=4
+8b
+8g
+8f#}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+16cc
+16b
+8dd
+=6
+8cc
+8g
+8a}
+!!LO:LB:g=esac
+=7
+{16b
+16b
+8cc
+8g
+=8
+8a
+8f#
+8g}
+==
+*-
+!!!ONB: Kolberg zanotował drugą wersję taktów 3 i 4 - zapisane w 2 wariancie.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

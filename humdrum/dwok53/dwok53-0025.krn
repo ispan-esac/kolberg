@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5302500000-o_sakalaj_sakaleli.krn
+!!!OTL: O! Sakałaj sakaleli!
+!!!source: DWOK53
+!!!id: 53025
+!!!signature: 5302500000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=1
+{4a
+4b
+4cc#
+4dd
+=2
+4b
+4a
+4g#
+4e}
+!!LO:LB:g=esac
+=3
+{4cc#
+4dd
+2ee
+=4
+4ff#
+2ee
+4cc#}
+!!LO:LB:g=esac
+=5
+{4ee
+4ee
+4ee
+4b
+=6
+4cc#
+4a
+4g#
+4e}
+!!LO:LB:g=esac
+=7
+{4g#
+4a
+2ee
+=8
+4g#
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 194} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 194}
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK0909100001-a_w_tym_debiczu_gesty_sad.krn
+!!!OTL: A w tym Dębiczu gęsty sad
+!!!source: DWOK09
+!!!id: 09091
+!!!signature: 0909100001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8f
+8f
+8g
+=2
+4a
+16g
+16f
+=3
+4cc
+8dd
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{8f
+8f
+8g
+=6
+4a
+16g
+16f
+=7
+4cc
+8dd
+=8
+4cc}
+8r
+!!LO:LB:g=esac
+=9
+{16a
+16cc
+8cc
+8dd
+=10
+16b-
+16a
+8b-
+8cc
+=11
+16a
+16g
+8a
+8b-
+=12
+16g
+16f#
+8g
+8cc}
+!!LO:LB:g=esac
+=13
+{4a
+8g
+=14
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 235-236} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, pp. 235-236}
+!!!page: 235-236
+!!!ONB: Converted on 2024/12/26 with esac2hum

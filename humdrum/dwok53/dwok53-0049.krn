@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK5304900000-musu_svotelej_pujkus.krn
+!!!OTL: Musu svotelej, pujkus
+!!!source: DWOK53
+!!!id: 53049
+!!!signature: 5304900000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{4ee
+4cc#
+4ee
+=2
+4dd
+2cc#}
+!!LO:LB:g=esac
+=3
+{4ee
+4cc#
+4ee
+=4
+4dd
+2cc#}
+!!LO:LB:g=esac
+=5
+{4ee
+4b
+4b
+=6
+4a
+4cc#
+4cc#}
+!!LO:LB:g=esac
+=7
+{4dd
+4b
+4a
+=8
+4cc#
+2cc#}
+!!LO:LB:g=esac
+=9
+{4ee
+4b
+4b
+=10
+4a
+4cc#
+4cc#}
+!!LO:LB:g=esac
+=11
+{4dd
+4b
+4a
+=12
+4cc#
+2cc#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 207} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 207}
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4412400000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK44
+!!!id: 44124
+!!!signature: 4412400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4cc
+=2
+8dd
+8cc
+4b
+4g
+=3
+2dd
+8cc
+8ee
+=4
+2.dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+4b
+4g
+=6
+2dd
+4cc
+=7
+4b
+4a
+4g
+=8
+8a
+8b
+2d
+=9
+2dd
+4cc
+=10
+8b
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 157} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 157}
+!!!page: 157
+!!!ONB: Converted on 2024/12/26 with esac2hum

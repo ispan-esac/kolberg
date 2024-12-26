@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK25664a0000-da_paslem_konie_na_wygonie.krn
+!!!OTL: Da pasłem konie na wygonie
+!!!source: DWOK25
+!!!id: 25664a
+!!!signature: 25664a0000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.b
+32f#
+8g
+16b
+16cc
+=2
+16.ee
+32ee
+8dd
+8gg
+=3
+16.b
+32f#
+8g
+16b
+16cc
+=4
+16ee
+16ee
+8dd
+8a}
+!!LO:LB:g=esac
+=5
+{16.b
+32f#
+8g
+16b
+16cc
+=6
+16.ee
+32ee
+8dd
+8gg
+=7
+16.b
+32f#
+8g
+16b
+16cc
+=8
+16ee
+16dd
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 239} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 239}
+!!!page: 239
+!!!ONB: Converted on 2024/12/26 with esac2hum

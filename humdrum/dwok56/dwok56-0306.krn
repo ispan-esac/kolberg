@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK5630600000-na_stolec_marysiu_na_stolec.krn
+!!!OTL: Na stolec Marysiu, na stolec
+!!!source: DWOK56
+!!!id: 56306
+!!!signature: 5630600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+8ee
+8cc
+=2
+8ff
+8ee
+8cc
+=3
+8ee
+4ee
+=4
+4ff}
+8r
+!!LO:LB:g=esac
+=5
+{8ff
+16ee
+16dd
+8cc
+=
+8ff
+24ee
+24dd
+24cc
+8cc
+=6
+8ee
+8ee
+8ff
+=7
+4ff}
+8r
+!!LO:LB:g=esac
+=8
+{16ee
+16ee
+16ee
+16dd
+8cc
+=
+8ee
+24ee
+24dd
+24cc
+8dd
+=
+24ff
+24ee
+24b
+4cc
+=9
+4cc}
+8r
+==
+*-
+!!!ONB: Wariant t. 3: +3_+3_+2+3; wariant t. 4: +4+3+4+30_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=383 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 279} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 279}
+!!!page: 279
+!!!ONB: Converted on 2024/12/26 with esac2hum

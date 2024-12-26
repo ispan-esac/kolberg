@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2502600000-na_polu_wierzba.krn
+!!!OTL: Na polu wierzba
+!!!source: DWOK25
+!!!id: 25026
+!!!signature: 2502600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+4cc
+=2
+8b
+4dd
+=3
+8cc
+4a
+=4
+8cc
+4ee
+=5
+8dd
+4ee
+=6
+8cc
+4a}
+!!LO:LB:g=esac
+=7
+{8cc
+4ee
+=8
+8gg
+4ee
+=9
+8dd
+4dd
+=10
+8ee
+4g
+=11
+8a
+4cc
+=12
+8ee
+4dd
+=13
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 11} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 11}
+!!!page: 11
+!!!ONB: Converted on 2024/12/26 with esac2hum

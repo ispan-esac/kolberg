@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK2833000000-u_szenkarza_na_dole.krn
+!!!OTL: U szenkarza na dole
+!!!source: DWOK28
+!!!id: 28330
+!!!signature: 2833000000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M4/4
+{4g
+4b
+4a
+4cc
+=2
+8a
+8f#
+2.g
+=3
+4dd
+4gg
+4ee
+4gg
+=4
+8ee
+8ee
+2.dd}
+!!LO:LB:g=esac
+=5
+{4dd
+4gg
+4ee
+4cc
+=6
+8cc
+8a
+2.g
+=7
+*M2/4
+8g
+8b
+8a
+8cc
+=8
+8a
+8f#
+4g}
+!!LO:LB:g=esac
+=9
+*M4/4
+{4g
+4b
+4a
+8cc
+8b
+=10
+8a
+8f#
+2.g
+=11
+4dd
+4gg
+4ee
+8gg
+8ff#
+=12
+8ee
+8ee
+2.dd}
+!!LO:LB:g=esac
+=13
+{4dd
+4gg
+4ee
+8cc
+8b
+=14
+8cc
+8a
+2.g
+=15
+*M2/4
+8b
+8dd
+8dd
+8dd
+=16
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=317 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 298} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 298}
+!!!page: 298
+!!!ONB: Converted on 2024/12/26 with esac2hum

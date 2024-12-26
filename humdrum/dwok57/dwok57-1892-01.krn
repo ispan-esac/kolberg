@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK57189200001-napyjmo_si_kumciu.krn
+!!!OTL: Napyjmo si, kumciu
+!!!source: DWOK57
+!!!id: 571892
+!!!signature: 57189200001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8e
+8ee
+8ee
+8ee
+8dd
+8b
+=2
+8cc
+8dd
+8dd
+8dd
+16cc
+16b
+16a
+16g#}
+!!LO:LB:g=esac
+=3
+*M2/4
+{8a
+8b
+8cc
+8a
+=4
+4b
+4e
+=5
+8e
+8a
+8a
+8e
+=6
+4g
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 954
+!!!ONB: Converted on 2024/12/26 with esac2hum

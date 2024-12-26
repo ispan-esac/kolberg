@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK05-K0058-swiety_szczepan_po_kolendzie.krn
+!!!OTL: Swiety Szczepan po kolendzie
+!!!source: DWOK05
+!!!id: K0058
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8g
+8a
+8b-
+=2
+8cc
+8dd
+8cc
+8b-
+=3
+4cc
+8cc
+8b-
+=4
+2a}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+8f
+8g
+=6
+8a
+8cc
+8cc
+8b-
+=7
+4a
+4g
+=8
+2f}
+!!LO:LB:g=esac
+=9
+{8a
+8g
+8f
+8g
+=10
+8a
+8cc
+8cc
+8b-
+=11
+4a
+4g
+=12
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 243} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 243}
+!!!page: 243
+!!!ONB: Converted on 2024/12/26 with esac2hum

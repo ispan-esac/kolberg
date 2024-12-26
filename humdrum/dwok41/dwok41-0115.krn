@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK4111500000-co_ja_za_dziewczyna.krn
+!!!OTL: Co ja za dziewczyna
+!!!source: DWOK41
+!!!id: 41115
+!!!signature: 4111500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+4dd
+=2
+8gg
+4gg
+8dd
+=3
+8ee
+8ee
+4dd
+=4
+8cc
+4cc
+8b}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+=6
+8gg
+4gg
+8dd
+=7
+8ee
+8ee
+4dd
+=8
+8cc
+4cc
+8b}
+!!LO:LB:g=esac
+=9
+{8b
+4.dd
+=10
+8b
+8dd
+8ee
+8cc}
+!!LO:LB:g=esac
+=11
+{8a
+4.cc
+=12
+8a
+8cc
+8ee
+8dd}
+!!LO:LB:g=esac
+=13
+{8b
+8dd
+4a
+=14
+8f#
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=162 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 83} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

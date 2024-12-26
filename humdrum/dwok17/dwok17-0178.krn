@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1717800000-jade_ja_se_od_kulika.krn
+!!!OTL: Jadę ja se od Kulika
+!!!source: DWOK17
+!!!id: 17178
+!!!signature: 1717800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8f
+8a
+8g
+=2
+8f
+8a
+8a
+8cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8a
+8cc
+8g
+=4
+8b-
+8a
+8a
+8a}
+!!LO:LB:g=esac
+=5
+{8cc
+8a
+8cc
+8ff
+=6
+8ff
+8dd
+8cc
+8cc}
+!!LO:LB:g=esac
+=7
+{8cc
+8a
+8cc
+8g
+=8
+8b-
+8a
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 58} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

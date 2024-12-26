@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK2644700000-rozmaryn_pannom.krn
+!!!OTL: Rozmaryn pannom
+!!!source: DWOK26
+!!!id: 26447
+!!!signature: 2644700000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8g
+4g
+=2
+8ee
+4.cc
+=3
+8g
+8f
+4f
+=4
+8dd
+4.b}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8ff
+8dd
+=6
+8gg
+8ff
+8ee
+8g
+=7
+8a
+8a
+4b
+=8
+8dd
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 305
+!!!ONB: Converted on 2024/12/26 with esac2hum

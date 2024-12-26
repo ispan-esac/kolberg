@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK3914500002-tailam_sie_tailam_juz_wiecej_nie_bade.krn
+!!!OTL: Taiłam się, taiłam, już więcej nie bądę
+!!!source: DWOK39
+!!!id: 39145
+!!!signature: 3914500002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4e
+4ee
+8dd
+8ee
+=2
+8cc
+8b
+2a
+=3
+8cc
+8ee
+2dd
+=4
+8cc
+8b
+2e}
+!!LO:LB:g=esac
+=
+{12e
+12g#
+12b
+4dd
+8cc
+8b
+=5
+8e
+8g
+4f#
+4d
+=
+12e
+12g#
+12b
+4dd
+8cc
+8b
+=6
+8e
+8g
+4f#
+4d}
+!!LO:LB:g=esac
+=7
+{8e
+8g
+4f#
+4a
+=8
+4g#
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 187} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

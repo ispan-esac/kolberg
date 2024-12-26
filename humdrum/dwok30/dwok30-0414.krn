@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3041400000-jidut_laszki_na_try_szlaszki.krn
+!!!OTL: Jidut Laszki na try szlaszki
+!!!source: DWOK30
+!!!id: 30414
+!!!signature: 3041400000
+**kern
+*clefG2
+*k[f#]
+*e:
+=1
+*M3/4
+{8b
+8b
+4g
+4ee
+=2
+8dd
+16cc
+16b
+4a
+4b
+=3
+16a
+16g
+16f#
+16g
+4g
+4b
+=4
+16a
+16g
+8f#
+4f#
+4a}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8e
+8f#
+8g
+8b
+=6
+4a
+4b
+=7
+4.e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 223} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 223}
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

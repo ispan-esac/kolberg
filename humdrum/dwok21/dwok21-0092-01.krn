@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2109200001-niescesliwy_ten_ganecek_oj_oj_oj.krn
+!!!OTL: Niescęśliwy ten ganecek oj oj oj
+!!!source: DWOK21
+!!!id: 21092
+!!!signature: 2109200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8a
+8b
+=2
+8.cc
+16b
+16dd
+16b
+=3
+16.g
+32a
+8a
+8b
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8a
+8b
+=6
+8.cc
+16b
+16dd
+16b
+=7
+16.g
+32a
+8a
+16b
+16a
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{16d
+16d
+8g
+8b
+=10
+16a
+16a
+8b
+8g
+=11
+16d
+16d
+8g
+8b
+=12
+16a
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=13
+{16d
+16f#
+8f#
+16e
+16f#
+=14
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 46} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

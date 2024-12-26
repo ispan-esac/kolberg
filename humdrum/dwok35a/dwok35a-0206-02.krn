@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK35A-35A20600002-tam_tudy_lezyt.krn
+!!!OTL: Tam tudy łeżyt
+!!!source: DWOK35A
+!!!id: 35A206
+!!!signature: 35A20600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16g
+16a
+16g
+8b
+=2
+8cc
+8b
+8g
+=3
+8cc
+8cc
+8b
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=
+{24g
+24a
+24b
+8cc
+8a
+=5
+16b
+16g
+8cc
+8f#
+=6
+4g}
+8r
+!!LO:LB:g=esac
+=7
+{8b
+8cc
+8a
+=8
+16b
+16g
+8a
+8g
+=9
+8cc
+8b
+8g}
+!!LO:LB:g=esac
+=10
+{8cc
+8b
+16a
+16g
+=11
+16b
+16a
+8g
+8f#
+=12
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 113} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 113}
+!!!page: 113
+!!!ONB: Converted on 2024/12/26 with esac2hum

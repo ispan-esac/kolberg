@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK2305900000-samopiata_anno_swieta.krn
+!!!OTL: Samopiąta Anno święta
+!!!source: DWOK23
+!!!id: 23059
+!!!signature: 2305900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+8g
+=2
+8a
+4g
+=3
+8a
+4b
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8g
+=6
+4b
+8g
+=7
+8b
+4a
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8b
+=10
+4dd
+8cc
+=11
+8b
+4cc
+=12
+4.a}
+!!LO:LB:g=esac
+=13
+{8b
+8b
+8b
+=14
+4dd
+8cc
+=15
+8b
+4a
+=16
+4.g}
+!!LO:LB:g=esac
+=17
+{8g
+8g
+8g
+=18
+4a
+8g
+=19
+8f#
+4a
+=20
+4g
+8f#
+=21
+4.e
+=22
+4.d}
+!!LO:LB:g=esac
+=23
+{8dd
+8dd
+8dd
+=24
+4ee
+8dd
+=25
+8b
+4dd
+=26
+4cc
+8b
+=27
+4.a
+=28
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 102} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 102}
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

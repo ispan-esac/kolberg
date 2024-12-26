@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5322100000-o_as_uzaugau_tarp_suseduzelu.krn
+!!!OTL: O! As uzaugau tarp suseduzelu
+!!!source: DWOK53
+!!!id: 53221
+!!!signature: 5322100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4b
+4b
+=2
+4dd
+4cc
+=3
+4.b
+8a}
+!!LO:LB:g=esac
+=4
+{4g
+4g
+=5
+4b
+4b
+=6
+4a
+4g}
+!!LO:LB:g=esac
+=7
+{4b
+4b
+=8
+4dd
+4cc
+=9
+4.b
+8a
+=10
+2g}
+!!LO:LB:g=esac
+=11
+{4b
+4b
+=12
+4dd
+4cc
+=13
+4.b
+8a
+=14
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=367 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 327} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 327}
+!!!page: 327
+!!!ONB: Converted on 2024/12/26 with esac2hum

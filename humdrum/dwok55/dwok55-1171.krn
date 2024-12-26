@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK55117100000-oj_diwczyna_po_hrebe_chodyla.krn
+!!!OTL: Oj, diwczyna po hrebe chodyła
+!!!source: DWOK55
+!!!id: 551171
+!!!signature: 55117100000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8a
+8a
+4cc
+4a
+=2
+*M2/4
+8cc
+8ee
+8dd
+8cc
+=
+!!UNCATEGORIZED MEASURE
+16dd
+16cc
+16b
+16a
+4a}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8a
+8a
+48a
+48b
+48cc
+48b
+48a
+8a
+=3
+*M2/4
+8cc
+8ee
+8dd
+8cc
+=
+!!UNCATEGORIZED MEASURE
+16dd
+16cc
+16b
+16a
+4a}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8a
+8a
+48a
+48b
+48cc
+48b
+48a
+8a
+=4
+*M2/4
+8cc
+8ee
+8dd
+8cc
+=5
+16dd
+16cc
+16b
+16a
+4a}
+==
+*-
+!!!ONB: DWOK 55 nr 1171
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=417 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 392} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 392}
+!!!page: 392
+!!!ONB: Converted on 2024/12/26 with esac2hum

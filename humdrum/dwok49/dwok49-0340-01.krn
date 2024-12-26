@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4934000001-mowliat_batejka_mowlat.krn
+!!!OTL: Mowliat batejka, mowl'at
+!!!source: DWOK49
+!!!id: 49340
+!!!signature: 4934000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16b
+8a
+16cc
+16b
+=2
+8b
+8.g
+16g}
+!!LO:LB:g=esac
+=3
+{16a
+16a
+8cc
+8b
+=4
+8.a
+16g
+16cc
+16b}
+!!LO:LB:g=esac
+=5
+{16a
+16g
+8b
+8a
+=6
+8g
+4g
+=7
+8cc
+4b}
+!!LO:LB:g=esac
+=8
+{16b
+16cc
+16cc
+16b
+8b
+=9
+16a
+16g
+8.g
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=480 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 390} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 390}
+!!!page: 390
+!!!ONB: Converted on 2024/12/26 with esac2hum

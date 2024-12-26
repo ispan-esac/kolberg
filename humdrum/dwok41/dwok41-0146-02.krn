@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK4114600002-obertasik_obertasik.krn
+!!!OTL: Obertasik, obertasik
+!!!source: DWOK41
+!!!id: 41146
+!!!signature: 4114600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc
+8ee
+16ff#
+16dd
+=2
+16cc
+16ee
+8b
+8dd}
+!!LO:LB:g=esac
+=3
+{16a
+16cc
+8ee
+16ff#
+16dd
+=4
+16cc
+16ee
+8b
+16g
+16f#}
+!!LO:LB:g=esac
+=
+{24d
+24e
+24f#
+8g
+16g
+16d
+=5
+16cc#
+16dd
+8cc
+16a
+16f#}
+!!LO:LB:g=esac
+=
+{24d
+24e
+24f#
+8g
+16g
+16d
+=6
+16b
+16d
+8a
+16a
+16f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 102} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 102}
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

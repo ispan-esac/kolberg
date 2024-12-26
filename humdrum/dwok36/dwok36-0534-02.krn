@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK3653400002-oj_powij_witronku.krn
+!!!OTL: Oj powij witrońku
+!!!source: DWOK36
+!!!id: 36534
+!!!signature: 3653400002
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{8ee
+16ee
+16dd
+8cc
+8ee
+=2
+8e
+32c
+32c
+32B
+32c
+8d
+16c
+16B
+=3
+8ee
+8ee
+16a
+16b
+16cc
+16b
+=4
+8a
+8g#
+4e}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8a
+16cc
+16a
+4ee
+8ff#
+8ee
+=6
+*M2/4
+8dd
+8dd
+4b
+=7
+*M3/4
+4dd
+4cc
+8cc
+8b
+=8
+*M2/4
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 350-351
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1317700002-oj_nie_placz_mi_dziewcze.krn
+!!!OTL: Oj nie płacz mi dziewcze
+!!!source: DWOK13
+!!!id: 13177
+!!!signature: 1317700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4ee
+=2
+8dd
+8a
+8cc
+8b
+4g
+=3
+8g
+8e
+4a
+4f#
+=4
+8d
+8f#
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4.a
+8f#
+=6
+8g
+8b
+8cc
+8b
+4g
+=7
+8g
+8g
+4.a
+8f#
+=8
+8d
+8f#
+8g
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 94} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 94}
+!!!page: 94
+!!!ONB: Converted on 2024/12/26 with esac2hum

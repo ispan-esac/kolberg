@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK42181800010-ej_ciezko_ciezko.krn
+!!!OTL: Ej cięzko cięzko
+!!!source: DWOK42
+!!!id: 421818
+!!!signature: 42181800010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8dd
+8ee
+4.dd
+8b
+=2
+8g
+8b
+8dd
+8cc
+4a
+4r
+=3
+4dd
+8dd
+8ee
+4.dd
+8b
+=4
+8g
+8b
+8dd
+8cc
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 223} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 223}
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

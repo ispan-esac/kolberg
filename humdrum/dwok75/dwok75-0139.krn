@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7513900000-bartoszu_bartoszu.krn
+!!!OTL: Bartoszu, Bartoszu
+!!!source: DWOK75
+!!!id: 75139
+!!!signature: 7513900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8a
+4cc
+=2
+8f
+8a
+4cc
+=3
+8b-
+4dd
+8dd
+=4
+8cc
+8cc
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{8g
+8b-
+8a
+8g
+=6
+4a
+4c
+=7
+8c
+8e
+4g
+=8
+8f
+4a
+8cc}
+!!LO:LB:g=esac
+=9
+{8g
+8b-
+8a
+8g
+=10
+4a
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 101} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 101}
+!!!page: 101
+!!!ONB: Converted on 2024/12/26 with esac2hum

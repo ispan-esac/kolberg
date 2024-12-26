@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK3134100000-staryj_chokiv.krn
+!!!OTL: Staryj chokiv
+!!!source: DWOK31
+!!!id: 31341
+!!!signature: 3134100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{2cc
+=2
+8dd
+8ff
+16ee
+16ff
+16ee
+16ff
+=3
+8gg
+8ee
+16ee
+16dd
+16ee
+16dd
+=4
+8dd
+8ff
+16ee
+16ff
+8aa
+=5
+4gg#
+8ee
+8dd}
+!!LO:LB:g=esac
+=6
+{8dd
+8cc
+16dd
+16cc
+16dd
+16cc
+=7
+8cc
+8g
+8cc
+8g
+=8
+8g
+8cc
+16g
+16cc
+16g
+16cc
+=9
+4g
+4g}
+!!LO:LB:g=esac
+=10
+{8dd
+8ff
+8ee
+8ff
+=11
+4gg
+8ee
+8dd
+=12
+8dd
+8ff
+8ee
+8ff
+=13
+4gg#
+4ee}
+!!LO:LB:g=esac
+=14
+{8dd
+8cc
+8dd
+8cc
+=15
+8cc
+8g
+8cc
+8g
+=16
+8g
+8cc
+8g
+8cc
+=17
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 41} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 41}
+!!!page: 41
+!!!ONB: Converted on 2024/12/26 with esac2hum

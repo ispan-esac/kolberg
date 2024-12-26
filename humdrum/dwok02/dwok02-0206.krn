@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK02-K0206-ach_ona_widze_nie_ublagana.krn
+!!!OTL: Ach ona widze nie ublagana
+!!!source: DWOK02
+!!!id: K0206
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=1
+{4dd
+8.dd
+16cc
+4b-
+4b-
+=2
+8cc
+8dd
+8.ee-
+16cc
+4a
+4f
+=3
+4b-
+8a
+8b-
+8cc
+8dd
+8.ee-
+16cc
+=4
+4b-
+4a
+4b-}
+4r
+!!LO:LB:g=esac
+=5
+{4ff
+8.ff
+16ee-
+4dd
+4dd
+=6
+8ee-
+8ff
+8.gg
+16ee-
+4cc
+4a
+=7
+4b-
+8a
+8b-
+8cc
+8dd
+8.ee-
+16cc
+=8
+4b-
+4a
+4b-}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 175} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 175}
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

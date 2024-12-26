@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK35A-35A09400002-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK35A
+!!!id: 35A094
+!!!signature: 35A09400002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+{12ff
+12ee
+12dd
+8ff
+8ee
+8ff
+8gg
+=1
+8ff
+8ee
+8ee
+8dd
+4cc
+=2
+16dd
+16ee
+16ff
+16ee
+8dd
+8ee
+4gg
+=
+4dd
+12b
+12a
+12g
+4g}
+!!LO:LB:g=esac
+=3
+{8g
+8a
+4b
+4g
+=
+4.cc
+8ee
+12gg
+12aa
+12gg
+=4
+4ff
+2aa
+=
+12ee
+12dd
+12cc
+2cc}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b
+4cc
+=
+12ee
+12ff
+12ee
+2a
+=6
+2cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 66} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

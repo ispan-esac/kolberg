@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK2214400000-hola_hola_matulu_moja.krn
+!!!OTL: Hola hola matulu moja
+!!!source: DWOK22
+!!!id: 22144
+!!!signature: 2214400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4cc
+8a
+=2
+4cc
+8a
+=3
+16b-
+16a
+8b-
+8dd
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{4cc
+8a
+=6
+4cc
+8a
+=7
+16b-
+16a
+8b-
+8dd
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16f
+16a
+8cc
+8cc
+=10
+16cc
+16cc
+8a
+8f
+=11
+16f
+16e
+8f
+8a
+=12
+16g
+16g
+8e
+8c
+=13
+16g
+16g
+8b-
+16g
+16e
+=14
+4.f}
+!!LO:LB:g=esac
+=15
+{16f
+16e
+8f
+8a
+=16
+16g
+16g
+8e
+8c
+=17
+16f
+16e
+8f
+8a
+=18
+16d
+16g
+8e
+8c
+=19
+16g
+16g
+8b-
+8g
+=20
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 96} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

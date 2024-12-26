@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK25277000-sama_ja_nie_wiem_co_za_natura.krn
+!!!OTL: Sama ja nie wiem co za natura
+!!!source: DWOK25
+!!!id: 25277
+!!!signature: 25277000
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{8g
+8g
+8g
+4ff
+8dd
+=2
+8b
+8dd
+8dd
+4ee
+8cc}
+!!LO:LB:g=esac
+=3
+{8g
+8g
+8g
+4ff
+8dd
+=4
+8b
+8dd
+8dd
+4ee
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+4cc
+8a
+=6
+8f
+8a
+8a
+4a
+8g}
+!!LO:LB:g=esac
+=7
+{8g
+8g
+8g
+4ff
+8dd
+=8
+8b
+8dd
+8dd
+4dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 122} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 122}
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK18232b0001-jedzie_jas_jedzie_jas.krn
+!!!OTL: Jedzie Jaś jedzie Jaś
+!!!source: DWOK18
+!!!id: 18232b
+!!!signature: 18232b0001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+8dd
+8cc#
+=2
+8dd
+8ee
+8dd
+8cc#
+=3
+8a
+8g
+8a
+8b
+=4
+8cc
+8dd
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8f#
+8g
+8a
+8b
+=6
+8cc
+8b
+8g
+8a}
+==
+*-
+!!!ONB: Weselna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 138} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 138}
+!!!page: 138
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1238300011-maryniu_co_mi_dasz.krn
+!!!OTL: Maryniu, co mi dasz
+!!!source: DWOK12
+!!!id: 12383
+!!!signature: 1238300011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8cc
+8ee
+4a
+=2
+8b
+8dd
+4g
+=3
+8b
+16a
+16g
+8f#
+8d
+=4
+8g
+8b
+4dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8a
+8cc
+=6
+8b
+8dd
+4g
+=7
+8b
+16a
+16g
+8f#
+8d
+=8
+8d
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 199} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2629400000-rozbujal_sie_wrony_koniecenko.krn
+!!!OTL: Rozbujał się wrony konieceńko
+!!!source: DWOK26
+!!!id: 26294
+!!!signature: 2629400000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4g
+4dd
+4b
+4cc
+=2
+8cc
+8b
+8cc
+8dd
+4b
+4g
+=3
+4dd
+8dd
+8ee
+4ff
+4gg
+=4
+1dd}
+!!LO:LB:g=esac
+=5
+{4dd
+4gg
+4ff
+4cc
+=6
+8cc
+8ee
+8dd
+8cc
+4a
+4g
+=7
+4b
+8b
+8cc
+4dd
+4b
+=8
+1g}
+!!LO:LB:g=esac
+=9
+{4dd
+4gg
+4ff
+4dd
+=10
+8cc
+8ee
+8dd
+8cc
+4b
+4g
+=11
+4a
+8b
+8cc
+8dd
+8b
+8cc
+8dd
+=12
+1g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

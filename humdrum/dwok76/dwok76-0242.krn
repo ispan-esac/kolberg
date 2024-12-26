@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK7624200000-dobrze_to_dobrze...chowac_golabka.krn
+!!!OTL: Dobrze to, dobrze...chować gołąbka
+!!!source: DWOK76
+!!!id: 76242
+!!!signature: 7624200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4b
+4.dd
+8b
+=2
+8b
+8a
+2a
+=3
+4cc
+4.ee
+8ee
+=4
+4dd
+2b}
+!!LO:LB:g=esac
+=5
+{4b
+8dd
+8dd
+8cc
+8a
+=6
+4b
+8dd
+8dd
+8cc
+8a
+=7
+4b
+4.cc
+8f#
+=8
+4a
+2g}
+==
+*-
+!!!ONB: Wariant t. 3: 4_6_.4;  7: 3_4_.2
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 124} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

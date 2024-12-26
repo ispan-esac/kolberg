@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK5316900000-o_ir_atleke_juods_vabalelis.krn
+!!!OTL: O! Ir atleke juods vabalelis
+!!!source: DWOK53
+!!!id: 53169
+!!!signature: 5316900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4e
+4a
+4e
+=2
+2a
+4cc
+=3
+4ee
+4dd
+4cc
+=4
+2b
+4e}
+!!LO:LB:g=esac
+=5
+{4dd
+4cc
+4b
+=6
+2a
+8cc
+8b
+=7
+4a
+4f#
+4d
+=8
+2e
+4e}
+!!LO:LB:g=esac
+=9
+{4dd
+4cc
+4b
+=10
+2a
+8cc
+8b
+=11
+4a
+4f#
+4d
+=12
+2e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=337 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 299} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 299}
+!!!page: 299
+!!!ONB: Converted on 2024/12/26 with esac2hum

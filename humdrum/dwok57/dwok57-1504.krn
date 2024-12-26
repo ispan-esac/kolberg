@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK57150400000-tam_miasteczko_na_wzgoreczku.krn
+!!!OTL: Tam miasteczko na wzgóreczku
+!!!source: DWOK57
+!!!id: 571504
+!!!signature: 57150400000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8d
+8d
+4g
+4f#
+=2
+8e
+8e
+4cc
+4b
+=3
+8f#
+8a
+4dd
+4cc
+=4
+2.b
+=5
+8f#
+8a
+4dd
+4cc
+=6
+2.b
+=7
+8d
+8d
+4g
+4f#
+=8
+8e
+8e
+4cc
+4b}
+!!LO:LB:g=esac
+=
+=
+!!LO:LB:g=esac
+=9
+8a
+8a
+4g
+4f#
+=10
+2.b
+=11
+8a
+8a
+4g
+4f#
+=12
+2e
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 546
+!!!ONB: Converted on 2024/12/26 with esac2hum

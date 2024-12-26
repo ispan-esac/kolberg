@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1335100001-dej_sie_namowic_kochanko.krn
+!!!OTL: Dej się namówić kochanko
+!!!source: DWOK13
+!!!id: 13351
+!!!signature: 1335100001
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8a
+8a
+4dd
+8a
+8cc#
+=2
+4.dd
+8cc#
+8a
+8f#
+=
+8a
+8cc#
+4dd
+12a
+12b
+12cc#
+=3
+8dd
+8ee
+8dd
+8cc#
+8a
+8f#}
+!!LO:LB:g=esac
+=4
+{8d
+8f#
+8g
+[8e
+4e]
+=5
+8e
+8g
+4b
+8a
+8f#
+=6
+8d
+8f#
+8g
+[8e
+4e]
+=7
+8e
+8e
+8a
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 152} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 152}
+!!!page: 152
+!!!ONB: Converted on 2024/12/26 with esac2hum

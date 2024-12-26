@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1819200000-gorzala_lipka_i_jawor.krn
+!!!OTL: Gorzała lipka i jawór
+!!!source: DWOK18
+!!!id: 18192
+!!!signature: 1819200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8cc#
+=2
+4dd
+8a
+=3
+16g
+16b
+4a
+=4
+8g
+8b
+8cc#
+=5
+4dd
+16cc#
+16a
+=6
+16g
+16b
+4a}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+8g#
+=8
+4a
+8g
+=9
+16b
+16cc#
+4dd
+=10
+8cc
+8a
+8a
+=11
+4b
+8a
+=12
+16g
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 120} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

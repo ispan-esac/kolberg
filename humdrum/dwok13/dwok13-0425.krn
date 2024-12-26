@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1342500000-oj_pojedz_jasiu.krn
+!!!OTL: Oj pojedź Jasiu
+!!!source: DWOK13
+!!!id: 13425
+!!!signature: 1342500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+4dd
+8cc
+=2
+8ee
+8ee
+8dd
+8a
+=3
+8g
+4dd
+8a
+=4
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8.b
+16g
+=6
+8a
+8a
+8.b
+16g
+=7
+8a
+8a
+8b
+8dd
+=8
+8b
+8a
+4g}
+==
+*-
+!!!ONB: Krakowiak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 177} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

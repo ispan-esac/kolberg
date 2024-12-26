@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK1710600000-hej_zielen_ze_sie_zielen.krn
+!!!OTL: Hej zieleń że się zieleń
+!!!source: DWOK17
+!!!id: 17106
+!!!signature: 1710600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16ff
+16ff
+8ee
+16dd
+16b
+=2
+16cc
+16cc
+16b
+16cc
+16dd
+16ee}
+!!LO:LB:g=esac
+=3
+{8.a
+16g
+16a
+16b-
+=4
+16cc
+16cc
+16b-
+16cc
+16dd
+16g}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+8dd
+=6
+16cc
+16b
+8cc
+16a
+16f}
+!!LO:LB:g=esac
+=7
+{8.a
+16g
+16a
+16b-
+=8
+16cc
+16b
+8cc
+16a
+16f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 36} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 36}
+!!!page: 36
+!!!ONB: Converted on 2024/12/26 with esac2hum

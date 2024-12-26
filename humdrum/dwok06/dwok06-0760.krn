@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK06-K0760-matulenku_moja.krn
+!!!OTL: Matulenku moja
+!!!source: DWOK06
+!!!id: K0760
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+4dd
+8dd
+=2
+8dd
+8dd
+8.cc
+16a
+=3
+8b
+4dd
+8dd
+=4
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+4a
+8cc
+=6
+8b
+8a
+4g
+=7
+8a
+4dd
+8dd
+=8
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{8d
+[8dd
+16dd]
+16ee
+16dd
+16cc#
+=10
+8dd
+8ee
+8cc
+8a
+=11
+8b
+[8dd
+16dd]
+16ee
+16dd
+16a
+=12
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=13
+{8b
+4a
+8cc
+=14
+8d
+16e
+16f#
+4g
+=15
+8a
+4dd
+8ee
+=16
+8cc
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=489 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 463} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 463}
+!!!page: 463
+!!!ONB: Converted on 2024/12/26 with esac2hum

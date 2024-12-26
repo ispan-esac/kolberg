@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK06-K0550b-miesiacu_co_sie_po_scianie_snujesz.krn
+!!!OTL: Miesiacu co sie po scianie snujesz
+!!!source: DWOK06
+!!!id: K0550b
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+{16g
+16b
+=1
+8.dd
+16cc
+16b
+16dd
+8dd
+8cc
+8a
+=2
+4g
+8b
+8d
+8r
+16d
+16cc}
+!!LO:LB:g=esac
+=3
+{4cc
+8b
+8b
+8a
+16g
+16ee
+=4
+4dd
+8cc
+8b
+8r
+16g
+16b}
+!!LO:LB:g=esac
+=5
+{8.dd
+16cc
+16b
+16g
+8b
+8a
+16b
+16cc
+=6
+4dd
+8gg
+4ee}
+8r
+!!LO:LB:g=esac
+=7
+{8ee
+8.dd
+16dd
+8dd
+8cc
+16f#
+16a
+=8
+4.a
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=338 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 312-313} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 312-313}
+!!!page: 312-313
+!!!ONB: Converted on 2024/12/26 with esac2hum

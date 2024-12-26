@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK3651400000-czerez_teren_tam_dorozka_bula.krn
+!!!OTL: Czerez tereń tam dorożka buła
+!!!source: DWOK36
+!!!id: 36514
+!!!signature: 3651400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8ee
+4dd
+=2
+8cc
+8a
+4g
+=3
+8a
+8a
+4a
+=4
+8g
+8g
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ee
+8cc
+=6
+8ff
+8ee
+4dd
+=7
+8g
+8g
+4cc}
+!!LO:LB:g=esac
+=8
+{8cc
+8ee
+8dd
+8b
+=9
+8cc
+8a
+4g
+=10
+8a
+8a
+4a
+=11
+8g
+8g
+4g}
+!!LO:LB:g=esac
+=12
+{8cc
+8dd
+8ee
+8cc
+=13
+8ff
+8ee
+4dd
+=14
+8g
+8g
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 335-336
+!!!ONB: Converted on 2024/12/26 with esac2hum

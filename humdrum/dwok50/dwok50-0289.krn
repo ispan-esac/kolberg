@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5028900000-oj_zal_i_tuha_ne_ma_moho_druha.krn
+!!!OTL: Oj, żal i tuha, ne ma moho druha
+!!!source: DWOK50
+!!!id: 50289
+!!!signature: 5028900000
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M2/4
+=1
+{4gg
+4ff
+=2
+16ee-
+16dd
+8gg
+4g}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee-
+8dd
+8dd
+=4
+8gg
+4.g}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff
+8ee-
+8ee-
+=6
+8dd
+8ff
+4ee-}
+!!LO:LB:g=esac
+=7
+{8dd
+8ff
+8ee-
+8ee-
+=8
+8cc
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 144} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 144}
+!!!page: 144
+!!!ONB: Converted on 2024/12/26 with esac2hum

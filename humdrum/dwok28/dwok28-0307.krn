@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK2830700000-ozenil_sie_sajdak_majdak.krn
+!!!OTL: Ożenił się sajdak majdak
+!!!source: DWOK28
+!!!id: 28307
+!!!signature: 2830700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8gg
+8dd
+8dd
+8dd
+=2
+8dd
+8dd
+8b
+8b
+=3
+8a
+8a
+8d
+8d
+=4
+4g
+4dd}
+!!LO:LB:g=esac
+=5
+{8gg
+8dd
+8dd
+8dd
+=6
+8dd
+8dd
+8dd
+8b
+=7
+8a
+8a
+8d
+8d
+=8
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{8a
+8d
+8d
+8d
+=10
+4g
+4b
+=11
+8cc
+8d
+8d
+8f#
+=12
+4g
+4b}
+!!LO:LB:g=esac
+=13
+{8d
+8d
+8d
+8d
+=14
+8d
+8d
+8g
+8b
+=15
+8cc
+8d
+8d
+8f#
+=16
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 282} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 282}
+!!!page: 282
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3640000000-pod_biloju_berezoju.krn
+!!!OTL: Pod biłoju berezoju
+!!!source: DWOK36
+!!!id: 36400
+!!!signature: 3640000000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+=1
+{8e
+8e
+8e
+8cc
+=2
+4.b
+8a
+=3
+8b
+8a
+8g#
+8b
+=4
+8a
+8a
+8a
+8cc
+=5
+8e
+8g#
+8f#
+8f#
+=6
+4e
+8b
+8g#}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8a
+8cc
+=8
+8e
+8g#
+8f#
+8f#
+=9
+4.e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

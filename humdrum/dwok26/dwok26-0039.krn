@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK2603900000-stoi_bylicka.krn
+!!!OTL: Stoi bylicka
+!!!source: DWOK26
+!!!id: 26039
+!!!signature: 2603900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+{12a
+12g
+12b
+4cc
+4ee
+=
+4.dd
+8cc
+12a
+12b
+12g
+=1
+4b
+4.dd
+8cc
+=2
+8a
+8b
+4g}
+4r
+!!LO:LB:g=esac
+=
+{12a
+12g
+12b
+4cc
+4ee
+=
+4.dd
+8cc
+12a
+12b
+12g
+=
+12b
+12cc
+12b
+4.dd
+8cc
+=3
+8a
+8b
+4g}
+4r
+!!LO:LB:g=esac
+=4
+{2b
+8cc
+8ee
+=5
+4.dd
+8cc
+8a
+8b
+=6
+4g
+2d}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+4dd
+4b
+=8
+8dd
+8ee
+4cc
+8a
+8b
+=9
+2.g}
+==
+*-
+!!!ONB: W zapisie za mało o jedną ósemkę w takcie 13, wpisana ćwierćnuta
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 89
+!!!ONB: Converted on 2024/12/26 with esac2hum

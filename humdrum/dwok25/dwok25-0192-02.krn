@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2519200002-niescesliwe_te_pokoje.krn
+!!!OTL: Niescęśliwe te pokoje
+!!!source: DWOK25
+!!!id: 25192
+!!!signature: 2519200002
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{8.a
+16b
+8cc
+8cc
+8.ee
+16cc
+8b
+8g#
+=2
+8.e
+16g#
+8b
+8b
+8.dd
+16cc
+8b
+8a
+=3
+4ee
+16ee
+8.g#
+4a}
+4r
+!!LO:LB:g=esac
+=4
+{8e
+8a
+8a
+8a
+8g#
+8f#
+8g#
+8e
+=5
+8e
+8a
+8a
+8a
+8g#
+8f#
+8g#
+8b
+=6
+4ee
+8g#
+8b
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 84} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 84}
+!!!page: 84
+!!!ONB: Converted on 2024/12/26 with esac2hum

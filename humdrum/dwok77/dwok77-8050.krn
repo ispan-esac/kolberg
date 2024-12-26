@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7780500000-tatulinku_matulinku.krn
+!!!OTL: Tatulinku, matulinku
+!!!source: DWOK77
+!!!id: 778050
+!!!signature: 7780500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8dd
+4.ee
+8b
+=2
+8dd
+8dd
+4ee
+4b
+=3
+8dd
+8dd
+4.ee
+8cc
+=4
+8b
+8g
+4f#
+4d}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+4e
+4d
+=6
+8g
+8g
+4b
+4dd
+=7
+8dd
+8dd
+4.ee
+8cc
+=8
+8b
+8g
+4f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 9
+!!!ONB: Converted on 2024/12/26 with esac2hum

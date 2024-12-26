@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1909000000-zagrajze_mi_zagraj.krn
+!!!OTL: Zagrajze mi zagraj
+!!!source: DWOK19
+!!!id: 19090
+!!!signature: 1909000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16dd
+16b
+16dd
+16ee
+8ff
+8cc
+=2
+8ee
+4gg
+8gg
+=3
+8aa
+8gg
+16ff
+16cc
+8dd
+=4
+8ee
+4gg
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ff
+8cc
+=6
+8ee
+4cc
+8g
+=7
+8ff
+8ee
+4dd
+=8
+16g
+16b
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=46 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 32} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 32}
+!!!page: 32
+!!!ONB: Converted on 2024/12/26 with esac2hum

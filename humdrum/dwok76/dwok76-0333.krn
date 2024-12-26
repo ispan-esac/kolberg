@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7633300000-coz_mi_po_tem_orac_kotem.krn
+!!!OTL: Cóż mi po tem, orać kotem
+!!!source: DWOK76
+!!!id: 76333
+!!!signature: 7633300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8dd
+8dd
+4ee
+4cc
+=3
+8b
+8a
+4g
+4cc
+=4
+8b
+8a
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b
+4b
+=6
+8b
+8b
+4cc
+4a
+=7
+8a
+8f#
+4d
+4a
+=8
+8a
+8a
+4b
+4g}
+==
+*-
+!!!ONB: Wariant  t. 7: 2-7-5_4_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 174} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

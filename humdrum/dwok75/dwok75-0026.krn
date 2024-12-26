@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7502600000-oj_tam_sie_ptasek_cisnie.krn
+!!!OTL: Oj, tam się ptasek ciśnie
+!!!source: DWOK75
+!!!id: 75026
+!!!signature: 7502600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4ee
+4gg
+=2
+8gg
+8gg
+4ee
+4gg}
+!!LO:LB:g=esac
+=3
+{4gg
+4ff
+4ee
+=4
+8dd
+8b
+4cc
+4a}
+!!LO:LB:g=esac
+=5
+{4g
+4b
+4dd
+=6
+8ff
+8ee
+4cc
+4ee}
+!!LO:LB:g=esac
+=7
+{4ee
+4ff
+4dd
+=8
+8b
+8a
+4cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 17} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 17}
+!!!page: 17
+!!!ONB: Converted on 2024/12/26 with esac2hum

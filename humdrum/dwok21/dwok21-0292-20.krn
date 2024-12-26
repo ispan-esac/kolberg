@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2129200020-gadala_mi_fujarecka.krn
+!!!OTL: Gadała mi fujarecka
+!!!source: DWOK21
+!!!id: 21292
+!!!signature: 2129200020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8cc
+8ee
+=2
+16ee
+16dd
+8cc
+8b
+=3
+16g
+16cc
+8b
+8b
+=4
+16b
+32a
+32f#
+8g
+8d}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8a
+8f#
+=6
+16f#
+16a
+8g
+8d
+=7
+16g
+16cc
+8b
+8f#
+=8
+16a
+16f#
+8g
+8d}
+==
+*-
+!!!ONB: część wokalna, u Kolberga w drugiej częśści jest metrum 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 122} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 122}
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

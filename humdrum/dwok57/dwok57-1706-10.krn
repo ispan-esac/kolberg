@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK57170600010-czerwonaja_kalyna.krn
+!!!OTL: Czerwonaja kałyna
+!!!source: DWOK57
+!!!id: 571706
+!!!signature: 57170600010
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+4ee
+8dd#
+=2
+8ff#
+8ee
+4dd
+=3
+16cc
+16a
+4.r
+=4
+8a
+4ee
+8dd#
+=5
+8ff#
+8ee
+4dd
+=6
+16cc
+16a}
+4.r
+!!LO:LB:g=esac
+=7
+{8ee
+4dd
+8dd
+=8
+4dd
+8ee
+8cc
+=9
+4a
+4g
+=10
+8a
+4cc
+8ee
+=11
+4dd
+8dd
+8cc
+=12
+2a}
+==
+*-
+!!!ONB: Wariant t. 7: 1_4__4_; wariant t. 9: 3b_1_-7b__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 796
+!!!ONB: Converted on 2024/12/26 with esac2hum

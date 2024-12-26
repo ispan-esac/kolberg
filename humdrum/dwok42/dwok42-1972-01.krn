@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK42197200001-kupilem_capecke.krn
+!!!OTL: Kupiłem capeckę
+!!!source: DWOK42
+!!!id: 421972
+!!!signature: 42197200001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8dd
+8ff
+4ee
+=2
+8dd
+8ff
+4ee
+=3
+8dd
+16cc
+16b
+8a
+8cc
+=4
+4ee
+4ee}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8b
+=6
+8cc
+8ee
+4dd
+=7
+8cc
+16dd
+16cc
+8b
+8b
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{4ee
+4ee
+=10
+8dd
+8ff
+4ee
+=11
+8dd
+8b
+8cc
+8dd
+=12
+4ee
+4ee}
+!!LO:LB:g=esac
+=13
+{4a
+4cc
+=14
+8cc
+8ee
+4dd
+=15
+8ee
+8cc
+8b
+8b
+=16
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=613 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 604} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 604}
+!!!page: 604
+!!!ONB: Converted on 2024/12/26 with esac2hum

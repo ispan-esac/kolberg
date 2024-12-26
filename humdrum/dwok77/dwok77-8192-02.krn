@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK7781900002-a_jakie_skrzydelka_jego.krn
+!!!OTL: A jakie skrzydełka jego
+!!!source: DWOK77
+!!!id: 778192
+!!!signature: 7781900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4b
+8cc
+4dd
+8ee
+=2
+4dd
+8cc
+4dd
+8g
+=3
+4a
+8b
+4cc
+8b
+=4
+4dd
+8cc
+4b
+8b}
+!!LO:LB:g=esac
+=5
+{8gg
+8ff#
+8ee
+4dd
+8dd
+=6
+4cc
+8f#
+4g
+8gg
+=7
+8ee
+8gg
+8ee
+8dd
+8b
+8dd
+=8
+4cc
+8f#
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 23
+!!!ONB: Converted on 2024/12/26 with esac2hum

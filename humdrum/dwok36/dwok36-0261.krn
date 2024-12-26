@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK3626100000-oj_ty_kazesz_mij_mylenki.krn
+!!!OTL: Oj ty każesz mij myłeńki
+!!!source: DWOK36
+!!!id: 36261
+!!!signature: 3626100000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16cc
+16b
+16a
+16g#
+16a
+16cc
+16ee
+16cc
+=2
+8b
+8a
+8.g#
+16e
+=3
+8ee
+8ee
+16cc
+16ee
+16gg
+16ee
+=4
+8dd
+8dd#
+8ee
+8b}
+!!LO:LB:g=esac
+=5
+{16cc
+16b
+16a
+16g#
+16a
+16cc
+16ee
+16cc
+=6
+8b
+8a
+8.g#
+16e
+=7
+8e
+8g#
+8e
+16cc
+16b
+=8
+4a
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 156
+!!!ONB: Converted on 2024/12/26 with esac2hum

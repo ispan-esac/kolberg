@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK06-K0735-rudawa_rudawa.krn
+!!!OTL: Rudawa Rudawa
+!!!source: DWOK06
+!!!id: K0735
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+8dd
+=2
+8dd
+8dd
+8.cc
+16a
+=3
+8b
+4dd
+8b
+=4
+8a
+8a
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+4b
+8b
+=6
+8d
+8f#
+4a
+=7
+8g
+4b
+8b
+=8
+8a
+8a
+8cc
+8a}
+!!LO:LB:g=esac
+=9
+{8g
+4b
+8b
+=10
+8d
+8f#
+4a
+=11
+8g
+4b
+8b
+=12
+8a
+8a
+8cc
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=479 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 453} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 453}
+!!!page: 453
+!!!ONB: Converted on 2024/12/26 with esac2hum

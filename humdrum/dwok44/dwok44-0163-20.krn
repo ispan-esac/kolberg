@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4416300020-koziolek_z_soli.krn
+!!!OTL: Koziołek z soli
+!!!source: DWOK44
+!!!id: 44163
+!!!signature: 4416300020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+8a
+8a
+=2
+8g
+8b
+8cc
+8cc
+=3
+4.b
+8a
+=4
+8a
+8b
+8f
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8a
+8a
+=6
+8g
+8b
+8cc
+8cc
+=7
+4.b
+8a
+=8
+8a
+8b
+8f
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 177} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

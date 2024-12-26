@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1917100000-moj_jasienku_nie_bijze_ja.krn
+!!!OTL: Mój Jasieńku nie bijze ją
+!!!source: DWOK19
+!!!id: 19171
+!!!signature: 1917100000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+16a
+8cc
+8ee-
+=2
+16gg
+16ff
+8ff
+8dd
+=3
+16f
+16a
+8cc
+8dd
+=4
+16b-
+16g
+8g
+8e-}
+!!LO:LB:g=esac
+=5
+{16f
+32a
+32b-
+8cc
+8gg
+=6
+16gg
+16ff
+8ff
+8dd
+=7
+16f
+32a
+32b-
+8cc
+8dd
+=8
+16b-
+16g
+8g
+8e-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 56} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK05-K0038-stoji_w_oknie_przezrocystem.krn
+!!!OTL: Stoji w oknie przezrocystem
+!!!source: DWOK05
+!!!id: K0038
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4cc
+8ee
+=2
+8gg
+4gg
+=3
+8aa
+8gg
+16ff
+16ee
+=4
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{8gg
+8gg
+16ff
+16ee
+=6
+16dd
+16ee
+4cc
+=7
+4f
+8a
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{4cc
+8ee
+=10
+8gg
+4gg
+=11
+8aa
+8gg
+16ff
+16ee
+=12
+4dd}
+8r
+!!LO:LB:g=esac
+=13
+{8gg
+8gg
+16ff
+16ee
+=14
+16dd
+16ee
+4cc
+=15
+4f
+8a
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 233} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

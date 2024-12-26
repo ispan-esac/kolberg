@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK5064000000-darmo_mi_matko_nie_stawiaj_krosienka.krn
+!!!OTL: Darmo mi, matko, nie stawiaj krosienka
+!!!source: DWOK50
+!!!id: 50640
+!!!signature: 5064000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8b
+8a
+8b
+8cc
+4dd
+4g
+=2
+8b
+8a
+8a
+8g
+4a
+4a}
+!!LO:LB:g=esac
+=3
+{8a
+8b
+8cc
+8dd
+4ee
+4cc
+=4
+4ee
+8dd
+8cc#
+2dd}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8b
+8cc
+4dd
+4g
+=6
+8b
+8a
+8a
+8g
+4a
+4a}
+!!LO:LB:g=esac
+=7
+{4ee
+8dd
+8cc#
+4dd
+4f#
+=8
+8a
+8g
+8g
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=417 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 384} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 384}
+!!!page: 384
+!!!ONB: Converted on 2024/12/26 with esac2hum

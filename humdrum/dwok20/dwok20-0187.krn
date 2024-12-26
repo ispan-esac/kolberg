@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK2018700000-wy_druzebkowie_ktorzy_konikow_nie_macie.krn
+!!!OTL: Wy druzebkowie którzy koników nie macie
+!!!source: DWOK20
+!!!id: 20187
+!!!signature: 2018700000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{8cc
+8ee
+8ee
+8dd
+4ee
+4cc
+=2
+8ee
+8ee
+8gg
+8dd
+4.ee
+16cc
+16b
+=3
+4a
+4g}
+2r
+!!LO:LB:g=esac
+=4
+{8ee
+8dd
+4ee
+8cc
+8aa
+4r
+=5
+8ee
+8dd
+4ee
+8cc
+8a
+4r
+=6
+8ee
+8dd
+4ee
+4.cc
+16b
+16a
+=7
+4g
+4a}
+2r
+!!LO:LB:g=esac
+=8
+{8cc
+8ee
+8ee
+8dd
+4ee
+4cc
+=9
+8ee
+8ee
+8gg
+8dd
+4.ee
+16cc
+16b
+=10
+4a
+4g}
+2r
+!!LO:LB:g=esac
+=11
+{8ee
+8dd
+4ee
+8cc
+8aa
+4r
+=12
+8ee
+8dd
+4ee
+8cc
+8a
+4r
+=13
+8ee
+8dd
+8ee
+8b
+4.cc
+16b
+16a
+=14
+4g
+4a}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 183} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 183}
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

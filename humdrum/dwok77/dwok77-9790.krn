@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7797900000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK77
+!!!id: 779790
+!!!signature: 7797900000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8cc#
+8ee
+4dd
+4b
+=2
+4dd#
+4ee
+4a
+=3
+8cc#
+8ee
+4dd
+8b
+8g#
+=4
+4e
+4g#
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+8g#
+4a
+4cc#
+=6
+4dd
+4cc#
+4a
+=7
+8cc#
+8a
+4dd
+8b
+8g#
+=8
+4e
+4g#
+4a}
+==
+*-
+!!!ONB: Wariant w takcie siodmym 554_-7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

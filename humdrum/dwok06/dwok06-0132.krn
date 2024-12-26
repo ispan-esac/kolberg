@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK06-K0132-instrumentalna_dla_gosci_weselnych.krn
+!!!OTL: Instrumentalna dla gosci weselnych
+!!!source: DWOK06
+!!!id: K0132
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8cc#
+8dd
+=2
+8b
+8dd
+8cc#
+8dd
+=3
+8a
+8cc
+8b
+8cc
+=4
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8cc#
+8dd
+=6
+8ee
+8dd
+8cc#
+8dd
+=7
+8ee
+8cc
+8a
+8f#
+=8
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8b
+8cc
+=10
+8b
+8dd
+8cc#
+8dd
+=11
+8a
+8cc
+8b
+8cc
+=12
+4b
+4dd}
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+8a
+8g
+=14
+8b
+8dd
+8cc#
+8dd
+=15
+8b
+8cc
+8a
+8f#
+=16
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 66} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

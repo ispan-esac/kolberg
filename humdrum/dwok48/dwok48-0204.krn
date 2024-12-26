@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK4820400000-niech_nam_zyje_gospodarz.krn
+!!!OTL: Niech nam żyje gospodarz
+!!!source: DWOK48
+!!!id: 48204
+!!!signature: 4820400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8b
+8b
+=2
+8a
+8a
+4g
+=3
+4b
+4dd
+=4
+8cc
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8b
+8b
+=6
+8a
+8a
+8g
+8g
+=7
+4b
+4dd
+=8
+8cc
+8cc
+4b}
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+8dd
+8dd
+=10
+8dd
+8cc
+4cc
+=11
+8a
+8cc
+8cc
+8cc
+=12
+8cc
+8b
+4b}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+8b
+8b
+=14
+8a
+8a
+8dd
+8dd
+=15
+8g
+8g
+8b
+8b
+=16
+8a
+8a
+8dd
+8dd}
+!!LO:LB:g=esac
+=17
+{4gg
+4dd
+=18
+4b}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 231} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 231}
+!!!page: 231
+!!!ONB: Converted on 2024/12/26 with esac2hum

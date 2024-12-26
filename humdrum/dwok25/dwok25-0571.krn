@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2557100000-wieci_miesiac_swieca_gwiazdy.krn
+!!!OTL: Świeci miesiąc, świecą gwiazdy
+!!!source: DWOK25
+!!!id: 25571
+!!!signature: 2557100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16cc
+8dd
+8dd
+=2
+16ff
+16dd
+8.cc
+16a
+=3
+16cc
+16cc
+8dd
+8dd
+=4
+16ff
+16dd
+8.cc
+16a}
+!!LO:LB:g=esac
+=5
+{16cc
+16a
+8f
+16g
+16e
+=6
+16f
+32g
+32a
+8b-
+8dd
+=7
+16cc
+16a
+8f
+16g
+16e
+=8
+16f
+32g
+32a
+8b-
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=242 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 217} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 217}
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

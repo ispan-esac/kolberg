@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK06-K0155-leci_sokol_leci.krn
+!!!OTL: Leci sokol leci
+!!!source: DWOK06
+!!!id: K0155
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8g
+8a
+8b-
+8cc
+=2
+8dd
+4a
+8r
+=3
+8dd
+8dd
+8cc
+8ee-
+=4
+8dd
+4a}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b-
+8cc
+=6
+8dd
+4a
+8cc
+=7
+8b-
+8dd
+8cc
+16b-
+16a
+=8
+8g
+8g
+8r
+8b-}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+8b-
+8cc
+=10
+8a
+4.f#
+=11
+8g
+8a
+8f#
+8d
+=12
+8f#
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 80} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

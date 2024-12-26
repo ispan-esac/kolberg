@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4643000000-oj_na_podolu_woda_topi.krn
+!!!OTL: Oj, na podolu woda topi
+!!!source: DWOK46
+!!!id: 46430
+!!!signature: 4643000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8b
+4dd
+4cc
+=2
+8dd
+8dd
+4b
+8a
+8a
+=
+8g
+8b
+4dd
+12cc
+12b
+12a
+=3
+4.g
+8b
+8a
+8cc}
+!!LO:LB:g=esac
+=4
+{8g
+8b
+4dd
+4ee
+=5
+4dd
+8cc
+8b
+8a
+8dd
+=
+8g
+8b
+4dd
+12cc
+12b
+12a
+=6
+4.g
+8b
+8a
+8cc}
+==
+*-
+!!!ONB: przekodować do G?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=303 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 269} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 269}
+!!!page: 269
+!!!ONB: Converted on 2024/12/26 with esac2hum

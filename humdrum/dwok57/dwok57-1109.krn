@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK57110900000-tam_za_luhom_ore_pluhom.krn
+!!!OTL: Tam za łuhom ore płuhom
+!!!source: DWOK57
+!!!id: 571109
+!!!signature: 57110900000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8cc
+=2
+8b
+8b
+8b
+8g#
+=3
+8a
+8b
+8cc
+8cc
+=4
+4b
+8a
+8g#}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8cc
+=6
+8b
+8a
+8g#
+8g#
+=7
+8e
+8e
+8e
+8g#
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

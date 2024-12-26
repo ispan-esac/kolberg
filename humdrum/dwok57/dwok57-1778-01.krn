@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK57177800001-dribna_ryba_w_wodi.krn
+!!!OTL: Dribna ryba w wodi
+!!!source: DWOK57
+!!!id: 571778
+!!!signature: 57177800001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/8
+{8cc
+4ee
+=2
+16ff#
+8.ee
+8dd
+=3
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=4
+{8cc
+4ee
+=
+!!UNCATEGORIZED MEASURE
+8ff#
+8.ee
+8dd
+=5
+*M3/8
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=6
+{8b
+8.dd
+16dd
+=7
+*M2/8
+4dd
+=8
+*M3/8
+8ee
+8dd
+8cc
+=
+!!UNCATEGORIZED MEASURE
+16a
+[16e}
+4e]
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8a
+12cc
+12b
+12a
+=9
+*M3/8
+8ee
+8dd
+8cc
+=10
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 863
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK8420400000-jichau_kozak_dorohoju.krn
+!!!OTL: Jichau kozak d'orohoju
+!!!source: DWOK84
+!!!id: 84204
+!!!signature: 8420400000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8g
+8g
+4.cc
+8g
+=2
+8cc
+8b
+8a
+8g
+8b
+8dd}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8e
+8d
+4a
+=4
+8g
+8a
+4g
+4g}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8g
+8g
+8cc
+8cc
+=6
+8dd
+8cc
+8b
+8a
+=7
+4.g
+8g}
+==
+*-
+!!!ONB: Wariant t. 1: 114_.5
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 193} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 193}
+!!!page: 193
+!!!ONB: Converted on 2024/12/26 with esac2hum

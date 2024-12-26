@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1260700002-idzie_swinia_przez_ulice_krzywo_ogon_nosi.krn
+!!!OTL: Idzie świnia przez ulicę krzywo ogon nosi
+!!!source: DWOK12
+!!!id: 12607
+!!!signature: 1260700002
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=1
+{8d
+8dd
+8cc#
+8dd
+=2
+8cc#
+8ee
+8a
+8a
+=3
+8a
+8b-
+8a
+8g
+=4
+8f
+8e
+4d}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8f
+8d
+=6
+8a
+8a
+8f
+8d
+=7
+8c#
+8b-
+8a
+8g
+=8
+4f
+4d}
+!!LO:LB:g=esac
+=9
+{8a
+8g
+8f
+8d
+=10
+8a
+8g
+8f
+8d
+=11
+8c#
+8b-
+8a
+8g
+=12
+8f
+8e
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=623 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 607} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 607}
+!!!page: 607
+!!!ONB: Converted on 2024/12/26 with esac2hum

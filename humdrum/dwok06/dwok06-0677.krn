@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK0667700000-piewa_slowik_spiewa.krn
+!!!OTL: Śpiewa słowik śpiewa
+!!!source: DWOK06
+!!!id: K0677
+!!!signature: 0667700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8b-
+8.cc
+16b
+=2
+8cc
+4ff
+8dd
+=3
+8cc
+8dd
+8.cc
+16b
+=4
+8cc
+4ff
+8dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16cc
+16b
+16cc
+4gg
+=6
+8ff
+4a
+8b-
+=7
+16b
+16cc
+16dd
+16cc
+4g
+=8
+16b-
+16a
+4f
+8f}
+!!LO:LB:g=esac
+=9
+{16dd
+16cc
+16b
+16cc
+4gg
+=10
+8ff
+4a
+8b-
+=11
+16b
+16cc
+16dd
+16cc
+4g
+=12
+16b-
+16a
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=447 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 421} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 421}
+!!!page: 421
+!!!ONB: Converted on 2024/12/26 with esac2hum

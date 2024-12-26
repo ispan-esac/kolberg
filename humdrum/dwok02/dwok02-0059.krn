@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK02-K0059-ctery_swiece_zgorzalo.krn
+!!!OTL: Ctery swiece zgorzalo
+!!!source: DWOK02
+!!!id: K0059
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8a
+8cc#
+4a
+4cc#
+=2
+4dd
+4dd
+4cc#
+=3
+2dd
+4a}
+!!LO:LB:g=esac
+=4
+{8cc#
+8cc#
+4a
+4cc#
+=
+2dd
+12a
+12g
+12b
+=5
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 62} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 62}
+!!!page: 62
+!!!ONB: Converted on 2024/12/26 with esac2hum

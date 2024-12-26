@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK57141100000-i_szumyt_i_hudyt.krn
+!!!OTL: I szumyt, i hudyt
+!!!source: DWOK57
+!!!id: 571411
+!!!signature: 57141100000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8b-
+8f
+4dd
+=2
+8b-
+8f
+4dd
+=3
+8b-
+8f
+4dd
+=4
+16cc
+16b-
+16a
+16g
+4f}
+!!LO:LB:g=esac
+=5
+{8d
+8f
+8f
+8f
+=6
+8d
+8g
+8g
+8g
+=7
+8f
+8f
+8.ee-
+16a
+=8
+16b-
+16cc
+16dd
+16ee-
+4ff}
+!!LO:LB:g=esac
+=9
+{8d
+8f
+8f
+8f
+=10
+8d
+8g
+8g
+8g
+=11
+8f
+8f
+8.ee-
+16a
+=12
+8b-
+8b-
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 468
+!!!ONB: Converted on 2024/12/26 with esac2hum

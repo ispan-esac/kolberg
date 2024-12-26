@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1915500000-kochanie_kochanie_w_ktorej_zes_ty_stronie.krn
+!!!OTL: Kochanie kochanie w której ześ ty stronie
+!!!source: DWOK19
+!!!id: 19155
+!!!signature: 1915500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+4cc
+16a
+16b-
+=2
+8cc
+8b-
+4b-
+=3
+8a
+4cc
+16a
+16b-
+=4
+8cc
+8b-
+4b-}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+16dd
+16ee
+=6
+8ff
+8dd
+4dd
+=7
+8cc
+4ff
+8dd
+=8
+8cc
+8dd
+8b-
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 51} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 51}
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

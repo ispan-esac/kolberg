@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK3021100000-oj_tam_pid_dubom.krn
+!!!OTL: Oj tam pid dubom
+!!!source: DWOK30
+!!!id: 30211
+!!!signature: 3021100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8ee
+=2
+8dd
+8b
+8cc
+=3
+8cc
+8ee
+8ee
+=4
+8dd
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+8cc
+=6
+8dd
+8b
+8cc
+=7
+8ee
+8ee
+8g#
+=8
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 129} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 129}
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK8201100000-a_z_tycha_witrec.krn
+!!!OTL: A z tycha witrec
+!!!source: DWOK82
+!!!id: 82011
+!!!signature: 8201100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+8cc
+8a
+8dd
+=3
+8dd
+8b
+8f#
+=4
+8g
+4g}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8b
+=6
+4dd
+8cc
+=7
+8dd
+8b
+8f#
+=8
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 14} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 14}
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

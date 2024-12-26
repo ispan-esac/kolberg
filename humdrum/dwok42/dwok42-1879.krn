@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK42187900000-boze_moj_boze.krn
+!!!OTL: Boże mój Boże
+!!!source: DWOK42
+!!!id: 421879
+!!!signature: 42187900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{8ff
+8ff
+8ff
+4ee
+8dd
+=2
+8cc
+8dd
+8cc
+4a
+8f}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+8cc
+4dd
+8g
+=4
+4b-
+8a
+4f
+8r
+=5
+8f
+8e
+8f
+4g
+8e}
+!!LO:LB:g=esac
+=6
+{8f
+8f
+8f
+4a
+8cc
+=7
+8ff
+8ff
+8ff
+4ee
+8g
+=8
+4b-
+8a
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 269} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 269}
+!!!page: 269
+!!!ONB: Converted on 2024/12/26 with esac2hum

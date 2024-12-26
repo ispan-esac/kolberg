@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK02-K0192-a_z_podola_wolki_moje.krn
+!!!OTL: A z podola Wolki moje
+!!!source: DWOK02
+!!!id: K0192
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+32e
+32f#
+8g
+16a
+16b
+=2
+16cc
+16ee
+8.dd
+16cc
+=3
+8b
+8a
+16g
+16f#
+=4
+16d
+16f#
+4g}
+!!LO:LB:g=esac
+=5
+{16.a
+32a
+8f#
+16e
+16d
+=6
+16.d
+32f#
+8g
+8b
+=7
+8b
+8a
+16g
+16f#
+=8
+16d
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 155} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

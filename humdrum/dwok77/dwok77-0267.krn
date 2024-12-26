@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7726700000-oj_dana_moja_dana_da_oszukalam_pana.krn
+!!!OTL: Oj dana moja dana da oszukałam pana
+!!!source: DWOK77
+!!!id: 77267
+!!!signature: 7726700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8gg
+8gg
+8gg
+=2
+16gg
+16ff
+8dd
+16ff
+16aa}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+8ee
+=4
+16gg
+16ff
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+=6
+16dd
+16ff
+8dd
+8ff}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+8ee
+=8
+16gg
+16ff
+8dd
+16b
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 146
+!!!ONB: Converted on 2024/12/26 with esac2hum

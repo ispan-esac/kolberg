@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1914600002-dana_moja_dana.krn
+!!!OTL: Dana moja dana
+!!!source: DWOK19
+!!!id: 19146
+!!!signature: 1914600002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+{8.cc
+16cc
+16b
+=1
+8cc
+8cc
+8a
+8f
+=2
+8ff
+4ff
+16ff
+16dd
+=3
+8cc
+8cc
+8a
+8f}
+!!LO:LB:g=esac
+=4
+{8g
+8g
+8b-
+8dd
+=5
+8a
+8f
+8a
+8cc
+=6
+8b-
+8g
+8b-
+8dd
+=7
+8cc
+8cc
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 48} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 48}
+!!!page: 48
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7729900001-slomiane_woly_mial_na_piecu_orywal.krn
+!!!OTL: Słomiane woły miał na piecu orywał
+!!!source: DWOK77
+!!!id: 77299
+!!!signature: 7729900001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ff
+8ee
+8dd
+8ff
+=2
+8dd
+4.g}
+!!LO:LB:g=esac
+=3
+{8ee
+8ff
+8ee
+16dd
+16cc
+=4
+16b
+16a
+4.g}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8b
+8cc
+=
+8dd
+24ee
+24dd
+24ee
+4g}
+!!LO:LB:g=esac
+=6
+{8cc
+8cc
+8b
+8g
+=7
+8a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

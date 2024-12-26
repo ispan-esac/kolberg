@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3401200001-oj_kalyno_malyno.krn
+!!!OTL: Oj kalyno malyno
+!!!source: DWOK34
+!!!id: 34012
+!!!signature: 3401200001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8a
+4g
+8cc
+8ee
+=2
+2dd
+4a
+=3
+8cc
+8a
+4g
+8cc
+8ee
+=4
+4dd
+4a}
+4r
+!!LO:LB:g=esac
+=5
+{4ee
+8cc
+8ee
+8gg
+8gg
+=6
+4dd
+4ff
+8gg
+8ee
+=7
+8cc
+8a
+4g
+8cc
+8ee
+=8
+4dd
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=29 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 12} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 12}
+!!!page: 12
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK7772100000-a_ty_nie_wiesz_chlopie_glupi.krn
+!!!OTL: A ty nie wiesz chłopie głupi
+!!!source: DWOK77
+!!!id: 77721
+!!!signature: 7772100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8dd
+4b
+4g
+=2
+8dd
+8dd
+4b
+4g
+=3
+8g
+8cc
+2ee}
+!!LO:LB:g=esac
+=4
+{8cc
+8cc
+4a
+4a
+=5
+8cc
+8cc
+4a
+4a
+=6
+8a
+8b
+2g}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+4b
+4b
+=8
+8dd
+8dd
+4b
+4b
+=9
+8g
+8cc
+2ee}
+!!LO:LB:g=esac
+=10
+{8ee
+8ee
+4a
+4a
+=11
+8ee
+8ee
+4cc
+4a
+=12
+8a
+8b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 362
+!!!ONB: Converted on 2024/12/26 with esac2hum

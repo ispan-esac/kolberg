@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3631600000-oto_przy_tym_strumyku.krn
+!!!OTL: Oto przy tym strumyku
+!!!source: DWOK36
+!!!id: 36316
+!!!signature: 3631600000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4a
+4a
+8a
+8cc
+8.ee
+16cc
+=2
+4b
+4a
+2g#}
+!!LO:LB:g=esac
+=3
+{4cc
+4cc
+8cc
+8ee
+8gg
+8ee
+=4
+4dd
+4gg
+2ee}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+8a
+8cc
+8ee
+8cc
+=6
+4b
+4a
+2g#}
+!!LO:LB:g=esac
+=7
+{4e
+4e
+8e
+8g#
+8b
+8g#
+=8
+4a
+4e
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

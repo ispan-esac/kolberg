@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK06-K0560-przykry_na_swiecie_zycia_mego_stanie.krn
+!!!OTL: Przykry na swiecie zycia mego stanie
+!!!source: DWOK06
+!!!id: K0560
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4cc
+8cc
+8b-
+=2
+8b-
+8a
+4a
+=3
+8a
+8g
+8b-
+8a
+=4
+8a
+8g
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+8cc
+8b-
+=6
+8b-
+8a
+4a
+=7
+8a
+8g
+8b-
+8a
+=8
+8a
+8g
+4g}
+!!LO:LB:g=esac
+=9
+{4a
+8b-
+8g
+=10
+8a
+8cc
+8b-
+8g
+=11
+8a
+8a
+8b-
+8b-
+=12
+4cc
+4cc}
+!!LO:LB:g=esac
+=13
+{8b-
+8a
+8b-
+8cc
+=14
+8dd
+8ee
+8ff
+8dd
+=15
+8cc
+8b-
+8a
+8g
+=16
+4g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=344 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 318} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 318}
+!!!page: 318
+!!!ONB: Converted on 2024/12/26 with esac2hum

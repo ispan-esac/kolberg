@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK0650900000-co_ma_wisiec_nie_utonie.krn
+!!!OTL: Co ma wisieć nie utonie
+!!!source: DWOK06
+!!!id: K0509
+!!!signature: 0650900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+{8cc
+8cc
+=1
+4.cc
+8a
+4.g
+8cc
+=2
+4a
+4f}
+4r
+!!LO:LB:g=esac
+=-
+{8cc
+8cc
+=3
+4.cc
+8a
+4.g
+8a
+=4
+4f
+4f}
+4r
+!!LO:LB:g=esac
+=-
+{8f
+8f
+=5
+4.b-
+8b-
+8b-
+8ff
+8ee
+8dd
+=6
+8dd
+8cc
+4cc}
+4r
+!!LO:LB:g=esac
+=-
+{8cc
+8cc
+=7
+4.cc
+8e
+4e
+4cc
+=8
+4cc
+4f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=312 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 286} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 286}
+!!!page: 286
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,112 @@
+!!!!SEGMENT: DWOK1307000000-niechze_ja_lepiej_nie_zyje.krn
+!!!OTL: Niechże ja lepiej nie żyję
+!!!source: DWOK13
+!!!id: 13070
+!!!signature: 1307000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16cc
+8b
+8gg
+=2
+16b
+16a
+8g
+8dd
+=3
+8.d
+16cc
+16b
+16a
+=4
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16cc
+8b
+8gg
+=6
+16b
+16a
+8g
+8dd
+=7
+8.d
+16cc
+16b
+16a
+=8
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{16f#
+16g
+8a
+8dd
+=10
+16g
+16a
+8b
+8ee
+=11
+16cc#
+16b
+8a
+8gg
+=12
+4ff#
+8dd}
+!!LO:LB:g=esac
+=13
+{16a
+16b
+8cc
+8a
+=14
+16b
+16cc
+8dd
+8g
+=15
+8.d
+16cc
+16b
+16a
+=16
+8ee
+4dd}
+!!LO:LB:g=esac
+=17
+{16a
+16b
+8cc
+8a
+=18
+16b
+16cc
+8dd
+8gg
+=19
+8.d
+16cc
+16b
+16a
+=20
+8a
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 70} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

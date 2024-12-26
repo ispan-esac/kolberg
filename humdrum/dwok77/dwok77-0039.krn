@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK7703900000-cztery_lata_wierniem.krn
+!!!OTL: Cztery lata wierniem
+!!!source: DWOK77
+!!!id: 77039
+!!!signature: 7703900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4.ee
+8dd#
+=2
+8ee
+8dd#
+4ee
+4b
+=3
+8b
+8g#
+4.e
+8g}
+!!LO:LB:g=esac
+=4
+{8a
+8b
+4.cc
+8cc
+=5
+8b
+8g
+4e
+4g
+=6
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

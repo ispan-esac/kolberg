@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK8366400000-as_as_as_dobre_nam_tu_w_was.krn
+!!!OTL: As, as, as, dobre nam tu w was
+!!!source: DWOK83
+!!!id: 83664
+!!!signature: 8366400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4b
+4cc
+2dd
+=2
+8b
+8b
+8cc
+8a
+2g}
+!!LO:LB:g=esac
+=3
+{8g
+8g
+4a
+8b
+8b
+4cc
+=4
+8b
+8b
+8a
+8a
+8b
+8b
+4cc}
+!!LO:LB:g=esac
+=5
+{4b
+4cc
+2dd
+=6
+8b
+8b
+8cc
+8a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 18} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 18}
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

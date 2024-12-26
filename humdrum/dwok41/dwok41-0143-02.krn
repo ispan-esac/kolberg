@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK4114300002-pojedziemy_do_dobrzynia.krn
+!!!OTL: Pojedziemy do Dobrzynia
+!!!source: DWOK41
+!!!id: 41143
+!!!signature: 4114300002
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=
+{24f
+24g
+24a
+8b-
+16dd
+16ff
+=1
+16ee-
+16cc
+16b-
+16a
+16b-
+16dd}
+!!LO:LB:g=esac
+=
+{24f
+24g
+24a
+8b-
+16dd
+16ff
+=2
+16ee-
+16cc
+8a
+8f}
+!!LO:LB:g=esac
+=3
+{8g
+16g
+16f
+16a
+16cc
+=4
+16b-
+16g
+8a
+8cc}
+!!LO:LB:g=esac
+=5
+{8g
+16g
+16f
+16a
+16cc
+=6
+16b-
+16g
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 100} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

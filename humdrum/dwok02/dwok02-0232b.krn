@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK02-K0232b-a_pytal_sie_ojciec_syna.krn
+!!!OTL: A pytal sie ojciec syna
+!!!source: DWOK02
+!!!id: K0232b
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+=1
+{8g#
+8b
+16b
+16a
+8f#
+=2
+8d#
+8e
+4g#
+=3
+8g#
+8b
+16b
+16a
+8f#
+=4
+8d#
+8e
+16g#
+16f#
+8e}
+!!LO:LB:g=esac
+=5
+{8g#
+8b
+16b
+16a
+8f#
+=6
+8cc#
+8cc#
+8cc#
+8b
+=7
+8g#
+8b
+16b
+16a
+8f#
+=8
+8d#
+8e
+16g#
+16f#
+8e}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 194-195} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 194-195}
+!!!page: 194-195
+!!!ONB: Converted on 2024/12/26 with esac2hum

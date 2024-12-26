@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK04-K0150-zlapalem_rybke.krn
+!!!OTL: Zlapalem rybke
+!!!source: DWOK04
+!!!id: K0150
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8dd
+4dd
+8cc
+8dd
+8b-
+=2
+16g
+16a
+4g
+8d
+8f
+8d}
+!!LO:LB:g=esac
+=3
+{8f
+4f
+8f
+8a
+8f
+=4
+16b-
+16a
+4g
+8d
+8f
+8d
+=5
+8f
+4f
+8a
+8a
+8g
+=6
+16g
+16a
+4g
+8d
+8f
+8d}
+!!LO:LB:g=esac
+=7
+{8f
+4f
+8f
+8a
+8f
+=8
+8g
+8b-
+8b-
+8cc
+8dd
+8b-
+=9
+8a
+4a
+8g
+8a
+8f
+=10
+16g
+16a
+4g
+8d
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=99 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 85} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

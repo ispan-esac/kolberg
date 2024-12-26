@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4638600000-a_na_tej_gorze_stoja_zolnierze.krn
+!!!OTL: A na tej gorze stoją zołnierze
+!!!source: DWOK46
+!!!id: 46386
+!!!signature: 4638600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8cc
+16b
+16a
+=2
+2g}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+8dd
+16b
+16g
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+8ee
+=6
+8b
+8a
+16b
+16cc
+8dd}
+!!LO:LB:g=esac
+=7
+{8b
+8g#
+8e
+16f#
+16g#
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=283 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 249} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 249}
+!!!page: 249
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7705700010-a_jechalem_z_warsawy.krn
+!!!OTL: A jechałem z Warsawy
+!!!source: DWOK77
+!!!id: 77057
+!!!signature: 7705700010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.g
+16dd
+16ee
+16ee
+=2
+16b
+16dd
+8cc
+8ee}
+!!LO:LB:g=esac
+=3
+{8.g
+16dd
+16ee
+16ee
+=4
+16b
+16dd
+8cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8.a
+16a
+16b
+16g
+=6
+16a
+16cc
+8g
+8b}
+!!LO:LB:g=esac
+=7
+{8.a
+16f#
+16g
+16b
+=8
+16a
+16f#
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 55
+!!!ONB: Converted on 2024/12/26 with esac2hum

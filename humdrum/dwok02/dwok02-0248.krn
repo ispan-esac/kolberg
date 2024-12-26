@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK02-K0248-da_ona_go_w_leb_lup_lup.krn
+!!!OTL: Da ona go w leb lup lup
+!!!source: DWOK02
+!!!id: K0248
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+16ee
+16dd
+=2
+16ff
+16dd
+8b
+8cc
+=3
+16dd
+16ee
+8cc
+8b
+=4
+16a
+16g
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{16dd
+16ee
+8cc
+8a
+=6
+16g
+16ff
+8ff
+8ff
+=
+16dd
+16dd
+8cc
+24cc
+24b
+24g
+=7
+16a
+16g
+8b
+8cc}
+!!LO:LB:g=esac
+=8
+{16aa
+16ff
+8ee
+16ee
+16dd
+=9
+16ff
+16dd
+8b
+8cc
+=10
+16dd
+16ee
+8cc
+8b
+=11
+16a
+16g
+8b
+8cc}
+!!LO:LB:g=esac
+=12
+{16cc
+16ff
+8cc
+8a
+=13
+16g
+16ff
+8ff
+8ff
+=
+16dd
+16dd
+8cc
+24cc
+24b
+24g
+=14
+16a
+16g
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 202} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 202}
+!!!page: 202
+!!!ONB: Converted on 2024/12/26 with esac2hum

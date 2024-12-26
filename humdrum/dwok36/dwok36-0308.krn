@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK3630800000-chodyla_brodyla_bilymy_nozynkamy.krn
+!!!OTL: Chodyła brodyła biłymy nożyńkamy
+!!!source: DWOK36
+!!!id: 36308
+!!!signature: 3630800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+8b
+=2
+8dd
+4dd
+=3
+8gg
+8aa
+8gg
+=4
+8dd
+8gg
+8ff#
+=5
+4dd
+16ee
+16ff#
+=6
+4gg}
+8r
+!!LO:LB:g=esac
+=7
+{8dd
+8ee
+8dd
+=8
+8cc
+4a
+=9
+8g
+8b
+8dd
+=10
+8cc
+8a
+8f#
+=11
+4.g
+=12
+4g}
+8r
+!!LO:LB:g=esac
+=13
+{8dd
+8ee
+8dd
+=14
+8cc
+8a
+8f#
+=15
+8g
+8b
+8dd
+=16
+8cc
+8a
+8f#
+=17
+4.g
+=18
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 190
+!!!ONB: Converted on 2024/12/26 with esac2hum

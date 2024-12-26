@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK06-K0781a-podejciez_mi_flaske.krn
+!!!OTL: Podejciez mi flaske
+!!!source: DWOK06
+!!!id: K0781a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.cc
+16dd
+8ee
+8ff
+=2
+4gg
+4ff
+=3
+8ee
+8ee
+4dd
+=4
+8cc
+8ee
+4gg}
+!!LO:LB:g=esac
+=5
+{8.cc
+16dd
+8ee
+8ff
+=6
+4gg
+4ff
+=7
+8ee
+8ee
+4dd
+=8
+8ff
+8dd
+4cc}
+==
+*-
+!!!ONB: czesc 1 - w tonacji C; nastepuje modulacja
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=499 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 473} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 473}
+!!!page: 473
+!!!ONB: Converted on 2024/12/26 with esac2hum

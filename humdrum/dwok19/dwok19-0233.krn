@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1923300000-da_juz_to_siodmy_rok.krn
+!!!OTL: Da juz to siódmy rok
+!!!source: DWOK19
+!!!id: 19233
+!!!signature: 1923300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+8dd
+8dd
+8cc#
+=3
+8dd
+8dd
+8cc#
+=4
+16dd
+16cc#
+4dd
+=5
+8a
+8g
+8f#}
+!!LO:LB:g=esac
+=6
+{16g
+16a
+8.ee
+16a
+=7
+8b
+8a
+8cc
+=8
+16g
+16a
+4dd
+=9
+8b
+8g
+8f#}
+!!LO:LB:g=esac
+=10
+{16g
+16a
+8.ee
+16a
+=11
+8b
+8a
+8cc
+=12
+16g
+16a
+8dd
+8a
+=13
+8b
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 72-73} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, pp. 72-73}
+!!!page: 72-73
+!!!ONB: Converted on 2024/12/26 with esac2hum

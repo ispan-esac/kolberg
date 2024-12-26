@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK1931900002-darmo_byss_sie_nie_zalicasl.krn
+!!!OTL: Darmo byśś się nie zalicaśł
+!!!source: DWOK19
+!!!id: 19319
+!!!signature: 1931900002
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8dd
+16b-
+16dd
+16ff
+16dd
+=2
+16ff
+16ee-
+8cc
+8b-
+=3
+16dd
+16ff
+8ff
+16ee-
+16dd
+=4
+16dd
+16ee-
+8cc
+8b-}
+!!LO:LB:g=esac
+=5
+{16dd
+16ff
+8ff
+16ff
+16gg
+=6
+16gg
+16ee-
+8cc
+8b-
+=7
+16dd
+16ff
+8ff
+16ee-
+16dd
+=8
+16dd
+16ee-
+8cc
+8b-}
+!!LO:LB:g=esac
+=9
+{16f
+16a
+8cc
+8cc
+=10
+16ff
+16a
+8b-
+16b-
+16dd
+=11
+16a
+16cc
+8cc
+16f
+16a
+=12
+16g
+16g
+8e
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 97-98} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, pp. 97-98}
+!!!page: 97-98
+!!!ONB: Converted on 2024/12/26 with esac2hum

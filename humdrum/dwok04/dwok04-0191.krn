@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK0419100000-dzien_dobry_panience.krn
+!!!OTL: Dzień dobry panience
+!!!source: DWOK04
+!!!id: K0191
+!!!signature: 0419100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4cc
+8cc
+=2
+16cc
+16cc
+8a
+8cc
+=3
+4dd
+8ff
+=4
+16dd
+16dd
+8b-
+8cc}
+!!LO:LB:g=esac
+=5
+{8b-
+8dd
+16g
+16b-
+=6
+8a
+8cc
+16f
+16a
+=7
+8g
+8g
+16f
+16g
+=8
+8a
+4cc}
+!!LO:LB:g=esac
+=9
+{8b-
+8dd
+16g
+16b-
+=10
+8a
+8cc
+16f
+16a
+=11
+8g
+8g
+16f
+16g
+=12
+8a
+4f}
+==
+*-
+!!!ONB: U Kolberga w t. 3 błędny zapis rytmiczny: 6_+1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 102} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 102}
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

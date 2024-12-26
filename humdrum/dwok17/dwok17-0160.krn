@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK1716000000-siedmiu_mi_sie_zalecialo.krn
+!!!OTL: Siedmiu mi się zaleciało
+!!!source: DWOK17
+!!!id: 17160
+!!!signature: 1716000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16b
+8g
+8a
+=2
+16cc
+16b
+8g
+8a
+=3
+16cc
+16b
+8f#
+8a
+=4
+[8g
+16g]
+16f#
+8d}
+!!LO:LB:g=esac
+=
+{24d
+24e
+24f#
+4a
+=5
+4g
+16b
+16dd
+=
+24d
+24e
+24f#
+8a
+16f#
+16d
+=6
+8g
+8g
+16b
+16dd}
+!!LO:LB:g=esac
+=7
+{16cc
+16b
+8a
+8f#
+=
+[8g
+24g]
+24f#
+24e
+8d
+=8
+16cc
+16b
+16a
+16b
+16a
+16f#
+=
+[8g
+24g]
+24f#
+24e
+8d}
+==
+*-
+!!!ONB: Text. Ser. I. n. 79. Nuta zbliżona ob. Ser. II. nr 255. 310. Ser. I. n. 70, 74, 111, 134, 410, 464. Wariant t. 3-4: 431-72_  1_(^-7-6)-5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=76 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 54} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 54}
+!!!page: 54
+!!!ONB: Converted on 2024/12/26 with esac2hum

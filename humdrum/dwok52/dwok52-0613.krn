@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5261300000-majorim_dieti_slawa_dieti_bielawo_cara.krn
+!!!OTL: Majorim dieti, sława dieti bieławo cara
+!!!source: DWOK52
+!!!id: 52613
+!!!signature: 5261300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8cc
+8cc
+8ff
+8ff
+=2
+8ee
+8ee
+8ff
+8dd
+=3
+8cc
+8cc
+8ff
+8ff
+=4
+8ee
+8ee
+4ff}
+!!LO:LB:g=esac
+=5
+{8gg
+8gg
+8dd
+8dd
+=6
+8gg
+8gg
+8gg
+8ff
+=7
+8ee
+8ee
+8ee
+8dd
+=8
+8cc
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=455 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 390} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 390}
+!!!page: 390
+!!!ONB: Converted on 2024/12/26 with esac2hum

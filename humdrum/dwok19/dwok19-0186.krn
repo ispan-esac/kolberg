@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1918600000-moja_gorzalino.krn
+!!!OTL: Moja gorzalino
+!!!source: DWOK19
+!!!id: 19186
+!!!signature: 1918600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+4b
+=2
+8dd
+8dd
+8cc
+=3
+16a
+16cc
+4ee
+=4
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+4b
+=6
+8dd
+8dd
+8cc
+=7
+16a
+16f#
+4g
+=8
+8b
+8a
+8cc}
+!!LO:LB:g=esac
+=9
+{16a
+16f#
+4g
+=10
+8b
+8a
+8d
+=11
+16a
+16f#
+4g
+=12
+8b
+8a
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 60} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

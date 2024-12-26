@@ -1,0 +1,113 @@
+!!!!SEGMENT: DWOK2738300000-gdziez_to_jedzies_jasiu.krn
+!!!OTL: Gdziez to jedzies Jasiu
+!!!source: DWOK27
+!!!id: 27383
+!!!signature: 2738300000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{8a
+8g#
+8a
+8cc
+4b
+4g#
+=2
+8a
+8g#
+8a
+8b
+4g#
+4e
+=3
+4a
+4ee
+8b
+8dd
+8cc
+8b
+=4
+1a}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+8b
+8dd
+8dd
+8b
+=6
+4a
+4b
+8e
+8a
+8g#
+8e
+=7
+8a
+8g#
+8a
+8cc
+4b
+4g#
+=8
+1e}
+!!LO:LB:g=esac
+=9
+{8a
+8g#
+8a
+8cc
+4b
+4g#
+=10
+8a
+8g#
+8a
+8b
+4g#
+4e
+=11
+4cc
+4ee
+8b
+8dd
+8cc
+8b
+=12
+1a}
+!!LO:LB:g=esac
+=13
+{4dd
+4dd
+8b
+8dd
+8ee
+16cc
+16b
+=14
+4a
+4b
+8e
+8a
+8g#
+8e
+=15
+8a
+8g#
+8a
+8cc
+4b
+4g#
+=16
+1e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=359 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 340} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 340}
+!!!page: 340
+!!!ONB: Converted on 2024/12/26 with esac2hum

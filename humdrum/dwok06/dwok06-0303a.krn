@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK06-K0303a-wysed_pan_na_ganek.krn
+!!!OTL: Wysed pan na ganek
+!!!source: DWOK06
+!!!id: K0303a
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4cc
+8b
+8cc
+=2
+8a
+8cc
+8b
+8cc}
+!!LO:LB:g=esac
+=3
+{8g
+8a
+8b-
+8cc
+=4
+4f
+4a
+=5
+8g
+8a
+8b-
+8cc
+=6
+4f
+4a}
+!!LO:LB:g=esac
+=7
+{4cc
+8ee
+8ee
+=8
+8ff
+8ff
+4a
+=9
+8g
+8a
+8b-
+8cc
+=10
+4f
+4a}
+!!LO:LB:g=esac
+=11
+{4cc
+8ee
+8ee
+=12
+8ff
+8ff
+4a
+=13
+8g
+8a
+8b-
+8cc
+=14
+4f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 153} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 153}
+!!!page: 153
+!!!ONB: Converted on 2024/12/26 with esac2hum

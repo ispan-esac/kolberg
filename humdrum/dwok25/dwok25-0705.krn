@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2570500000-wedle_lublina_lublina.krn
+!!!OTL: Wedle Lublina, Lublina
+!!!source: DWOK25
+!!!id: 25705
+!!!signature: 2570500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8ee
+8ee
+=2
+8dd
+8a
+8cc
+8b
+=3
+8a
+8g
+8b
+8ee
+=4
+8dd
+8a
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+8b
+8ee
+=6
+8dd
+8a
+8cc
+8b
+=7
+8a
+8g
+8b
+8ee
+=8
+8dd
+8f#
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 250} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 250}
+!!!page: 250
+!!!ONB: Converted on 2024/12/26 with esac2hum

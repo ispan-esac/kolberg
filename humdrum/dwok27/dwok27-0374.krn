@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2737400000-oj_plakala_dziewcyna.krn
+!!!OTL: Oj płakała dziewcyna
+!!!source: DWOK27
+!!!id: 27374
+!!!signature: 2737400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16g#
+16a
+8cc
+8ee
+=2
+16dd
+16cc
+8b
+8dd
+=3
+16g#
+16a
+8cc
+8ee
+=4
+16dd
+16cc
+8b
+8e}
+!!LO:LB:g=esac
+=5
+{16g#
+16a
+8e
+8d
+=6
+16f#
+16a
+8g#
+8e
+=7
+16g#
+16a
+8e
+8d
+=8
+16e
+16g#
+8e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=354 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 335} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 335}
+!!!page: 335
+!!!ONB: Converted on 2024/12/26 with esac2hum

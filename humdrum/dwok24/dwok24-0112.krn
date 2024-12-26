@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK2411200000-zaprasajcie_dobrych_ludzi.krn
+!!!OTL: Zaprasajcie dobrych ludzi
+!!!source: DWOK24
+!!!id: 24112
+!!!signature: 2411200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+8g
+8a
+=2
+16g
+16a
+8cc
+8a
+=3
+4g
+8a
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8ee
+8dd
+=6
+16cc
+16b
+8a
+8g
+=7
+8a
+4g
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{16a
+16a
+8b
+8a
+=10
+16g
+16a
+8cc
+8a
+=
+4g
+24a
+24b
+24cc
+=11
+4.dd}
+!!LO:LB:g=esac
+=12
+{16dd
+16dd
+8ee
+8dd
+=13
+16cc
+16b
+8a
+8g
+=14
+8a
+4g
+=15
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 234} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 234}
+!!!page: 234
+!!!ONB: Converted on 2024/12/26 with esac2hum

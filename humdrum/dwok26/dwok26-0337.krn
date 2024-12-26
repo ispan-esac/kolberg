@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2633700000-i_wysed_pan_starosta.krn
+!!!OTL: I wysed pan starosta
+!!!source: DWOK26
+!!!id: 26337
+!!!signature: 2633700000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8dd
+8dd
+8b
+8dd
+=2
+8ee
+8ee
+16cc
+16b
+8a
+=3
+8b
+8dd
+8dd
+8gg
+=4
+8ee
+8ee
+4ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8a
+8b
+=6
+8g
+8g
+8a
+8e
+=7
+8g
+8g
+8e
+8d
+=8
+4e
+4b}
+!!LO:LB:g=esac
+=9
+{8cc
+8b
+8a
+8a
+=10
+8e
+8g
+8a
+8f#
+=11
+8g
+8g
+8a
+8g
+=12
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

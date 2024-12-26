@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK0910300010-piasek_grabila_siano_wiazala._do_przodka.krn
+!!!OTL: Piasek grabiła, siano wiązała. Do przodka
+!!!source: DWOK09
+!!!id: 09103
+!!!signature: 0910300010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+8dd
+8dd
+4dd
+=2
+8cc
+8dd
+8ee
+8ee
+4ee}
+!!LO:LB:g=esac
+=3
+{8a
+8b
+8cc
+8b
+8cc
+8b
+=4
+8a
+8g
+8f#
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8dd
+8dd
+4dd
+=6
+8cc
+8dd
+8ee
+8ee
+4ee}
+!!LO:LB:g=esac
+=7
+{8a
+8b
+8cc
+8b
+4cc
+=8
+8a
+8g
+8f#
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 242} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

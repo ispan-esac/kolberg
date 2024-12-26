@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK5629600000-przy_weselu.krn
+!!!OTL: Przy weselu
+!!!source: DWOK56
+!!!id: 56296
+!!!signature: 5629600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*MX
+=1
+{16d
+16e
+16f#
+16g
+16a
+16b
+4cc
+8b
+8a
+8b
+8g
+2a
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=2
+{16d
+16e
+16f#
+16g
+16a
+16b
+4.cc
+2.dd
+=3
+8cc
+8b
+8a
+8b
+8a
+8f#
+1g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=377 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 273} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 273}
+!!!page: 273
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1811500000-a_lub_ci_bieda_lub_nedza.krn
+!!!OTL: A lub ci bieda lub nędza
+!!!source: DWOK18
+!!!id: 18115
+!!!signature: 1811500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4a
+8a
+8a
+=2
+8b
+4cc
+8a
+=3
+4.b
+8a
+=4
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8dd
+8b
+=6
+8dd
+4.ee
+=7
+4.dd
+8g}
+!!LO:LB:g=esac
+=8
+{4dd
+8dd
+8dd
+=9
+8b
+4cc
+8a
+=10
+4.b
+8a
+=11
+4g}
+4r
+==
+*-
+!!!ONB: Po ślubie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 97} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 97}
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

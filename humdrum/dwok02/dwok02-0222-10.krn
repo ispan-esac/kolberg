@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK0222200010-oj_wysoka_lescyna.krn
+!!!OTL: Oj wysoka lescyna
+!!!source: DWOK02
+!!!id: K0222
+!!!signature: 0222200010
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8dd
+4ff
+8ff
+=2
+8gg
+8ff
+8ff
+8ee-
+=3
+8dd
+4dd
+16cc
+16b-
+=4
+8a
+8cc
+8cc
+8b-}
+!!LO:LB:g=esac
+=5
+{8b-
+4dd
+16cc
+16b-
+=6
+8a
+8cc
+8ee-
+8ee-
+=7
+8ff
+4dd
+16cc
+16b-
+=8
+8a
+8cc
+8cc
+8b-}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 190-191} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 190-191}
+!!!page: 190-191
+!!!ONB: Converted on 2024/12/26 with esac2hum

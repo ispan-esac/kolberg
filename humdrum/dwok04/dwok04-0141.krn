@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK04-K0141-lec_glosie_po_rosie.krn
+!!!OTL: Lec glosie po rosie
+!!!source: DWOK04
+!!!id: K0141
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8g
+4a
+=2
+8a
+4a
+8f
+=3
+8g
+8a
+4b-
+=4
+8b-
+4b-
+8g}
+!!LO:LB:g=esac
+=5
+{8f
+8g
+4a
+=6
+8a
+4a
+8cc
+=7
+8cc
+8b-
+8g
+8e
+=8
+8f
+4f}
+8r
+!!LO:LB:g=esac
+=9
+{8f
+8a
+4cc
+=10
+8cc
+4cc
+8a
+=11
+8b-
+8cc
+4dd
+=12
+8ee
+4ff
+8dd}
+!!LO:LB:g=esac
+=13
+{8a
+16f
+16a
+4cc
+=14
+8cc
+4cc
+8a
+=15
+8cc
+8b-
+8g
+8e
+=16
+8f
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 82} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

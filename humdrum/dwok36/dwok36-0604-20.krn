@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK3660400020-kozak_mamciu_hulaje-instrumentalna.krn
+!!!OTL: Kozak mamciu hulaje-instrumentalna
+!!!source: DWOK36
+!!!id: 36604
+!!!signature: 3660400020
+**kern
+*clefGv2
+*k[f#]
+*G:
+*M2/4
+=1
+{16c
+16g
+16cc
+16ee
+16G
+16g
+16b
+16dd
+=2
+16D
+16f#
+16a
+16dd
+16G
+16g
+16b
+16dd}
+!!LO:LB:g=esac
+=3
+{16c
+16g
+16cc
+16ee
+16G
+16g
+16b
+16dd
+=4
+16D
+16f#
+16a
+16dd
+4b}
+!!LO:LB:g=esac
+=5
+{16c
+16g
+16cc
+16ee
+16G
+16g
+16b
+16dd
+=6
+16D
+16f#
+16a
+16dd
+16G
+16g
+16b
+16dd}
+!!LO:LB:g=esac
+=7
+{16c
+16g
+16cc
+16ee
+16G
+16g
+16b
+16dd
+=8
+16D
+16f#
+16a
+16dd
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 399
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1921600010-a_nad_stokiem_moje_wolsy-instrumentalna.krn
+!!!OTL: A nad stokiem, moje wołśy-Instrumentalna
+!!!source: DWOK19
+!!!id: 19216
+!!!signature: 1921600010
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/8
+=1
+{4.gg
+=2
+16ff#
+16gg
+8aa
+8gg
+=3
+16ff
+16dd
+8ee-
+8gg
+=4
+16ff#
+16gg
+8aa
+8gg
+=5
+16ff
+16dd
+8ee-
+8gg}
+!!LO:LB:g=esac
+=6
+{8ff
+16ee-
+16dd
+8cc
+=7
+16b
+16cc
+8ee-
+8gg
+=8
+16ff
+32dd
+32cc
+8dd
+8gg
+=9
+16ff
+16dd
+16cc
+16ee-
+8gg
+=10
+8ff
+16ee-
+16dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 68} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 68}
+!!!page: 68
+!!!ONB: Converted on 2024/12/26 with esac2hum

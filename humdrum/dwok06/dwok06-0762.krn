@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK06-K0762-nie_umiem_ja_spiewac.krn
+!!!OTL: Nie umiem ja spiewac
+!!!source: DWOK06
+!!!id: K0762
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8dd
+=2
+4ee
+4dd
+=3
+8cc
+8cc
+4b
+=4
+8a
+4cc
+8ee}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8dd
+=6
+4ee
+4dd
+=7
+8cc
+8cc
+4b
+=8
+8cc
+4g
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=490 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 464} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 464}
+!!!page: 464
+!!!ONB: Converted on 2024/12/26 with esac2hum

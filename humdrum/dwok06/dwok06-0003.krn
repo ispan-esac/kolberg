@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0003-porachuj_dziewcyno_gwiazdecki.krn
+!!!OTL: Porachuj dziewcyno gwiazdecki
+!!!source: DWOK06
+!!!id: K0003
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+4dd
+=2
+8ee
+4ee
+8ee
+=3
+8ee
+8dd
+4ee
+=4
+8b
+4b
+8b}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4ee
+=6
+16cc
+16b
+4a
+8b
+=7
+8cc
+8b
+4dd
+=8
+16cc
+16b
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 13} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 13}
+!!!page: 13
+!!!ONB: Converted on 2024/12/26 with esac2hum

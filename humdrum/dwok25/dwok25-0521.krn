@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2552100000-idzie_woda_od_ogroda.krn
+!!!OTL: Idzie woda od ogroda
+!!!source: DWOK25
+!!!id: 25521
+!!!signature: 2552100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16cc
+8ee
+8ff
+=2
+16ee
+16cc
+8ff
+8b-
+=3
+16a
+16cc
+8ee
+8ff
+=4
+16ee
+16cc
+8dd
+8b-}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8.g
+16b-
+=6
+16a
+16cc
+8ff
+8dd
+=7
+16a
+16cc
+8.g
+16b-
+=8
+16a
+16c
+8e
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 205} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 205}
+!!!ONB: Converted on 2024/12/26 with esac2hum

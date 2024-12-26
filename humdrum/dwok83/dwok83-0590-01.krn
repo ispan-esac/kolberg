@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK8359000001-rozlecialy_mi_sie_siwe_golabenki.krn
+!!!OTL: Rozleciały mi sie siwe gołąbeńki
+!!!source: DWOK83
+!!!id: 83590
+!!!signature: 8359000001
+**kern
+*clefG2
+*k[]
+*a:
+*MX
+=1
+{12a
+12cc
+12dd
+4ee
+4ee
+4ee
+12cc
+12b
+12a}
+!!LO:LB:g=esac
+=2
+{8cc
+8cc
+4ee
+4b
+4g#
+2e}
+!!LO:LB:g=esac
+=3
+{8.cc
+16dd
+8ee
+8dd#
+4cc
+8ee
+8dd#
+8cc
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=488 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 377} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 377}
+!!!page: 377
+!!!ONB: Converted on 2024/12/26 with esac2hum

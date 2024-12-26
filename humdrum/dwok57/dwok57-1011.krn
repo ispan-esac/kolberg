@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK57101100000-w_koho_czorny_wusok.krn
+!!!OTL: W koho Czorny wusok
+!!!source: DWOK57
+!!!id: 571011
+!!!signature: 57101100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4ee
+4ff
+=2
+8g
+8b
+8cc
+8cc
+=3
+8ee
+8ee
+4ff
+=4
+8g
+8b
+4cc}
+!!LO:LB:g=esac
+=5
+{4ee
+8ff
+8ff
+=6
+8gg
+8gg
+8aa
+8aa
+=7
+8ee
+8gg
+4ff
+=8
+8g
+8b
+4cc}
+!!LO:LB:g=esac
+=9
+{4ee
+8ff
+8ff
+=10
+8g
+8b
+8cc
+8cc
+=11
+4ee
+8ff
+8ff
+=12
+8g
+8b
+4cc}
+!!LO:LB:g=esac
+=13
+{4ee
+8ff
+8ff
+=14
+8gg
+8gg
+8aa
+8aa
+=15
+8ee
+16dd
+16ee
+4ff
+=16
+8g
+8b
+4cc}
+==
+*-
+!!!ONB: Wariant t. 3: +3_+5_+4__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 192
+!!!ONB: Converted on 2024/12/26 with esac2hum

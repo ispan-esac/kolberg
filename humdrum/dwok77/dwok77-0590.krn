@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK7759000000-a_juzci_ja_jestem_panna.krn
+!!!OTL: A jużci ja jestem panną
+!!!source: DWOK77
+!!!id: 77590
+!!!signature: 7759000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8dd
+4ee
+4ee
+=2
+8ee
+8ee
+4cc
+4cc
+=3
+2ff
+4ff
+=
+12ff
+12ee
+12ff
+2dd}
+!!LO:LB:g=esac
+=4
+{8cc
+8dd
+4ee
+4ee
+=5
+4ee
+4cc
+4cc
+=6
+2dd
+4cc
+=
+12b
+12g
+12b
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 302
+!!!ONB: Converted on 2024/12/26 with esac2hum

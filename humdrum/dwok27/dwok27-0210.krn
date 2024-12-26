@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2721000000-zielona_ruta_modry_kwiat.krn
+!!!OTL: Zielona ruta modry kwiat
+!!!source: DWOK27
+!!!id: 27210
+!!!signature: 2721000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8ee
+=2
+4dd
+8b
+=3
+16cc
+16dd
+4ee}
+!!LO:LB:g=esac
+=4
+{8ee
+8ee
+8ee
+=5
+4dd
+8b
+=6
+16b
+16g#
+4a}
+!!LO:LB:g=esac
+=7
+{8e
+8e
+8dd
+=8
+4b
+8g#
+=9
+16e
+16g#
+4a}
+!!LO:LB:g=esac
+=10
+{8e
+8ee
+8dd
+=11
+4b
+8g#
+=12
+16e
+16g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 259} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 259}
+!!!page: 259
+!!!ONB: Converted on 2024/12/26 with esac2hum

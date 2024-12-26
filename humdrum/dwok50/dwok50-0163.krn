@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5016300000-ty_diwczyno_molodaja.krn
+!!!OTL: Ty, diwczyno mołodaja
+!!!source: DWOK50
+!!!id: 50163
+!!!signature: 5016300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8e
+8a
+8b
+=2
+8cc
+8b
+8a
+8e}
+!!LO:LB:g=esac
+=3
+{8a
+8e
+8a
+8b
+=4
+8cc
+8b
+8a
+8e}
+!!LO:LB:g=esac
+=5
+{4a
+4g#
+=6
+8a
+8b
+4cc}
+!!LO:LB:g=esac
+=7
+{8b
+8a
+8dd
+8cc
+=8
+8b
+8g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 74} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 74}
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

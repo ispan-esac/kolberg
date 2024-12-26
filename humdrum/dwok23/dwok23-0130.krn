@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK2313000000-cego_places_cego_krzycys.krn
+!!!OTL: Cego płaces cego krzycys
+!!!source: DWOK23
+!!!id: 23130
+!!!signature: 2313000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16.a
+32cc
+8ee
+8ee
+=2
+16dd
+16cc
+8a
+8cc
+=3
+16dd
+16ff
+8ee
+16b
+16g#}
+!!LO:LB:g=esac
+=4
+{16.a
+32cc
+8ee
+8ee
+=5
+16ee
+16dd
+8b
+8g#
+=6
+8a
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 153} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 153}
+!!!page: 153
+!!!ONB: Converted on 2024/12/26 with esac2hum

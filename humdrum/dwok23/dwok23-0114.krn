@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK2311400000-siuha_siuha_ptasku.krn
+!!!OTL: Siuha siuha ptasku
+!!!source: DWOK23
+!!!id: 23114
+!!!signature: 2311400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8a
+8b
+8a
+4b
+4d
+=2
+8g
+8a
+8b
+8a
+4b
+4g
+=3
+4b
+4ee
+4dd
+4a
+=4
+2b}
+2r
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8cc
+8ee
+4dd
+4a
+=6
+8b
+8a
+8g
+8f#
+4e
+4d
+=7
+4g
+4b
+4dd
+4a
+=8
+2g}
+2r
+!!LO:LB:g=esac
+=9
+{8b
+8a
+8cc
+8ee
+4dd
+4a
+=10
+8b
+8a
+8g
+8f#
+4e
+4d
+=11
+8g
+8a
+8b
+8cc
+4dd
+8a
+8f#
+=12
+2g}
+2r
+==
+*-
+!!!ONB: Takty 4, 8 i 12 niepełne, dodano pauzę półnutową
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 146} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 146}
+!!!page: 146
+!!!ONB: Converted on 2024/12/26 with esac2hum

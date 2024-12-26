@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2558200000-da_wyganiaj_woly.krn
+!!!OTL: Da wyganiaj woły
+!!!source: DWOK25
+!!!id: 25582
+!!!signature: 2558200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{32b
+32cc
+16ee
+8gg
+8dd
+=2
+8aa
+8gg
+16ff#
+16dd
+=
+24b
+24cc
+24ee
+8gg
+16ff#
+16dd
+=3
+8ee
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=4
+{16b
+16cc
+8ee
+8g
+=5
+8a
+8g
+16ff#
+16dd
+=6
+16b
+16cc
+8ee
+8g
+=7
+8a
+8g
+16b
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 219} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 219}
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

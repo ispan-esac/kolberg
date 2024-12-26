@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK3414200000-na_hory_smuh_na_dolu_woda.krn
+!!!OTL: Na hory smuh na dołu woda
+!!!source: DWOK34
+!!!id: 34142
+!!!signature: 3414200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+8b
+8cc
+2dd
+=2
+8dd
+8cc
+8b
+8dd
+2b}
+!!LO:LB:g=esac
+=3
+{4g
+8b
+8cc
+2dd
+=4
+8dd
+8cc
+8b
+8dd
+2b}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+4.dd
+8ee
+=6
+8dd
+8cc
+8b
+8cc
+8dd
+4b}
+8r
+!!LO:LB:g=esac
+=7
+{8g
+8a
+8b
+8cc
+4.dd
+8ee
+=8
+8dd
+8cc
+8b
+8cc
+8dd
+4b}
+8r
+==
+*-
+!!!ONB: Melodia bez numeru dołączona do baśni nr 12
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 105} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

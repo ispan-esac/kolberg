@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK5054100000-umar_macius_umarl_juz_lezy_na_desce.krn
+!!!OTL: Umar Maciuś, umarł, już leży na desce
+!!!source: DWOK50
+!!!id: 50541
+!!!signature: 5054100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8e
+4f#
+4g#
+=2
+2a
+4b
+=3
+8cc
+8b
+4a
+4b
+=4
+4ee
+2a}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+4f#
+4g#
+=6
+2a
+4b
+=7
+8cc
+8b
+4a
+4b
+=8
+4ee
+2a}
+!!LO:LB:g=esac
+=9
+{8ee
+8ee
+4cc
+4ee
+=10
+8dd
+8cc
+4b
+4dd
+=11
+8cc
+8b
+4a
+4cc
+=12
+8b
+8g#
+4e
+4e}
+!!LO:LB:g=esac
+=13
+{8e
+8e
+4f#
+4g#
+=14
+2a
+4b
+=15
+4.cc
+8b
+4dd
+=16
+8cc
+8b
+2a}
+==
+*-
+!!!ONB: wariant t. 12: 2-72_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=347 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 318-319} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, pp. 318-319}
+!!!page: 318-319
+!!!ONB: Converted on 2024/12/26 with esac2hum

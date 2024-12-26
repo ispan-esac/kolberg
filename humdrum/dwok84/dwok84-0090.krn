@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK8409000000-poszly_pany_po_sliwcy.krn
+!!!OTL: Poszły pany po śliwcy
+!!!source: DWOK84
+!!!id: 84090
+!!!signature: 8409000000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M2/4
+{8cc
+8cc
+8b
+8a
+=2
+8a
+8g
+4cc
+=3
+8cc
+8b
+4dd
+=4
+8dd
+8cc
+4ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8b
+8a
+=6
+8a
+8g
+4cc
+=7
+8cc
+8b
+4dd
+=8
+2cc}
+!!LO:LB:g=esac
+=9
+*M4/4
+{4g
+4b
+4dd
+4ff
+=10
+4aa
+4gg
+8ee
+8ee
+8ee
+8ee
+=11
+4gg
+4ff
+8dd
+8dd
+8dd
+8dd
+=12
+4ff
+4ee
+8cc
+8cc
+8cc
+8cc}
+!!LO:LB:g=esac
+=13
+{4g
+4b
+4dd
+4ff
+=14
+4aa
+4gg
+8ee
+8ee
+8ee
+8ee
+=15
+4gg
+4ff
+8dd
+8dd
+8dd
+8dd
+=16
+2cc}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 103-104} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, pp. 103-104}
+!!!page: 103-104
+!!!ONB: Converted on 2024/12/26 with esac2hum

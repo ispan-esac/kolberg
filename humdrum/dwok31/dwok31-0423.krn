@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK3142300000-szczoz_ja_tebe_ja_prosyla.krn
+!!!OTL: Szczoż ja tebe ja prosyła
+!!!source: DWOK31
+!!!id: 31423
+!!!signature: 3142300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+4gg#
+8aa
+=2
+8gg#
+8ff
+8ee
+8dd
+=3
+16cc
+16b
+8cc
+8dd
+8b
+=4
+8g
+8g
+8cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8gg#
+8gg#
+8aa
+=6
+8gg#
+4ff
+16ee
+16dd
+=7
+8cc
+16b
+16cc
+8dd
+16cc
+16b
+=8
+8a
+8a
+8dd
+8dd}
+!!LO:LB:g=esac
+=9
+{8cc
+16b
+16cc
+8dd
+8b
+=10
+8g
+8g
+8cc
+8cc
+=11
+8dd
+8dd
+8ee
+8ee
+=12
+8a
+8a
+8dd
+8dd}
+!!LO:LB:g=esac
+=13
+{8cc
+16b
+16cc
+8dd
+8b
+=14
+8g
+8g
+8cc
+8cc
+=15
+8dd
+8dd
+8ee
+8ee
+=16
+8a
+8a
+8a
+8a}
+==
+*-
+!!!ONB: Hordylanka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 48} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 48}
+!!!page: 48
+!!!ONB: Converted on 2024/12/26 with esac2hum

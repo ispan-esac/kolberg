@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7772600000-oj_dabrowa_bozycie.krn
+!!!OTL: Oj dąbrowa bożycie
+!!!source: DWOK77
+!!!id: 77726
+!!!signature: 7772600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{2ee
+8b
+8dd
+=2
+8b
+8dd
+4ee
+4cc
+=3
+4cc
+4b
+4dd
+=4
+8b
+8b
+4a
+4cc}
+!!LO:LB:g=esac
+=5
+{4g#
+4b
+4dd
+=6
+8dd
+8dd
+4ee
+4cc
+=7
+4cc
+4b
+4dd
+=8
+8b
+8b
+4a
+4cc}
+==
+*-
+!!!ONB: takty 2-4:  441_3b_  3b_4_5_  3b21_3b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 364
+!!!ONB: Converted on 2024/12/26 with esac2hum

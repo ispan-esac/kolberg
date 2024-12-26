@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1258000002-oj_dana_dana_sluzylem_u_pana.krn
+!!!OTL: Oj dana dana służyłem u Pana
+!!!source: DWOK12
+!!!id: 12580
+!!!signature: 1258000002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8f
+8cc
+16cc
+16b
+=2
+4cc
+8cc
+=3
+16ee
+16ee
+8ff
+16dd
+16b
+=4
+4cc
+8dd
+=5
+16ee
+16dd
+8ff
+16dd
+16b
+=6
+4cc
+8cc}
+!!LO:LB:g=esac
+=7
+{16a
+16cc
+8cc
+16cc
+16b
+=8
+4g
+8b-
+=9
+16a
+16g
+8a
+8a
+=10
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=309 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 293} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 293}
+!!!page: 293
+!!!ONB: Converted on 2024/12/26 with esac2hum

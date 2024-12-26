@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK35B-35B10800002-tlyn_bojazn_serce.krn
+!!!OTL: Tłyń(?) bojaźń serce
+!!!source: DWOK35B
+!!!id: 35B108
+!!!signature: 35B10800002
+**kern
+*clefG2
+*k[b-]
+*d:
+{8f
+=
+!!UNCATEGORIZED MEASURE
+8f
+8g
+4g
+12g
+12a
+12a
+=1
+*M3/4
+2.a}
+!!LO:LB:g=esac
+=2
+{8b-
+8a
+8g
+8a
+4e
+=3
+8f
+8e
+4.d
+8g}
+!!LO:LB:g=esac
+=4
+{8g
+8a
+8b-
+8a
+4g
+=5
+8a
+8b-
+4.cc
+8b-
+=6
+8a
+8f#
+2g}
+!!LO:LB:g=esac
+=7
+*M2/4
+{4b-
+8a
+8g
+=8
+*M3/4
+8b-
+8a
+4.g
+8f#
+=9
+8f#
+8g
+4a
+4g
+=10
+8f#
+8g
+2g}
+!!LO:LB:g=esac
+=11
+{2a
+8e
+8g
+=12
+8f
+8e
+2d}
+==
+*-
+!!!ONB: U Kolberga tylko metrum 3/4, niezgodne z zapisem rytmu w t. 9; błędy w zapisie rytmu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 190} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 190}
+!!!page: 190
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK8410800000-jak_ja_bula_molodaja.krn
+!!!OTL: Jak ja buła mołodaja
+!!!source: DWOK84
+!!!id: 84108
+!!!signature: 8410800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8cc
+8cc
+8ee
+8ee
+=2
+8dd
+8b
+8g
+8g
+=3
+8cc
+8cc
+8ee
+8ee
+=4
+4dd
+4gg}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+8cc
+8a
+=6
+8b
+8dd
+8g
+8b
+=7
+8a
+8ee
+8dd
+8f#
+=8
+4g
+4gg}
+!!LO:LB:g=esac
+=9
+{8ee
+8dd
+8cc
+8a
+=10
+8b
+8dd
+8g
+8b
+=11
+8a
+8ee
+8dd
+8f#
+=12
+4g
+4g}
+==
+*-
+!!!ONB: Wariant t. 1-2: 446_  531_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 118} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 118}
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

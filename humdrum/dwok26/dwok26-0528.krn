@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2652800000-bedzies_jasiu_gral.krn
+!!!OTL: Będzies Jasiu grał
+!!!source: DWOK26
+!!!id: 26528
+!!!signature: 2652800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8f#
+8a
+=2
+16g
+16b
+8cc
+8ee
+=3
+16dd
+16b
+8a
+8f#
+=4
+16g
+16b
+8cc
+8ee}
+!!LO:LB:g=esac
+=5
+{16dd
+16b
+8a
+8f#
+=6
+16g
+16b
+8cc
+8a
+=7
+16g
+16e
+8d
+8f#
+=8
+16a
+16a
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 331
+!!!ONB: Converted on 2024/12/26 with esac2hum

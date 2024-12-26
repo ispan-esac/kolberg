@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK3913300001-ieluszenko_wsiala_modrzuszenko_weszlo.krn
+!!!OTL: Żieluszeńko wsiała, modrzuszeńko weszło
+!!!source: DWOK39
+!!!id: 39133
+!!!signature: 3913300001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8cc
+8cc
+=2
+4.ee
+8dd
+=3
+8b
+8dd
+8dd
+8cc
+=4
+4.a
+8a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8cc
+8ee
+=6
+4.gg
+8ee
+=7
+8ee
+8dd
+8gg
+8ff
+=8
+4ee
+4cc}
+!!LO:LB:g=esac
+=9
+{8a
+8g#
+8a
+8cc
+=10
+4.ee
+8dd
+=11
+8b
+8dd
+8dd
+16cc
+16b
+=12
+4.a
+8a}
+!!LO:LB:g=esac
+=13
+{8a
+8g#
+8a
+8cc
+=14
+4.ee
+8dd
+=15
+8b
+8dd
+8dd
+16cc
+16b
+=16
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 178} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 178}
+!!!page: 178
+!!!ONB: Converted on 2024/12/26 with esac2hum

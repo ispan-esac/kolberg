@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK1705000000-a_moja_dziewcyno.krn
+!!!OTL: A moja dziewcyno
+!!!source: DWOK17
+!!!id: 17050
+!!!signature: 1705000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+32b
+32cc
+8dd
+8g
+=2
+16a
+32b
+32cc
+8ee
+8dd}
+!!LO:LB:g=esac
+=3
+{16a
+32b
+32cc
+8dd
+8f#
+=4
+16g
+32f#
+32e
+8d
+8f#}
+!!LO:LB:g=esac
+=5
+{16e
+32f#
+32e
+8c
+8e
+=6
+16f#
+32e
+32f#
+8a
+8f#}
+!!LO:LB:g=esac
+=7
+{16e
+32f#
+32e
+8c
+8e
+=8
+16g
+32f#
+32e
+8d
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=44 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 22} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 22}
+!!!page: 22
+!!!ONB: Converted on 2024/12/26 with esac2hum

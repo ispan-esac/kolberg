@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3920600000-gdziezes_ty_bywal_kozle_baranie.krn
+!!!OTL: Gdzieżeś ty bywał, koźle, baranie?
+!!!source: DWOK39
+!!!id: 39206
+!!!signature: 3920600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+4dd
+8b
+=3
+8b
+4cc
+=4
+8a
+4a
+=5
+4g}
+8r
+!!LO:LB:g=esac
+=6
+{8g
+8g
+8g
+=7
+8g
+8g
+8g
+=8
+8b
+4cc
+=9
+8a
+4a
+=10
+4g}
+8r
+==
+*-
+!!!ONB: t. 3-5, 8-10 przesunięcie metryczne
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 226} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 226}
+!!!page: 226
+!!!ONB: Converted on 2024/12/26 with esac2hum

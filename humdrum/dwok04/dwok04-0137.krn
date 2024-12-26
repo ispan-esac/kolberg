@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK04-K0137-stane_ja_sie_wodna_rybeczka.krn
+!!!OTL: Stane ja sie wodna rybeczka
+!!!source: DWOK04
+!!!id: K0137
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8g
+8b
+8b
+8b
+8a
+8g
+=2
+8a
+8a
+8a
+4a
+8f#
+=3
+8a
+8cc
+8dd
+4ee
+8f#
+=4
+8g
+8b
+8b
+4b
+8g}
+!!LO:LB:g=esac
+=5
+{4g
+8b
+8b
+8a
+8g
+=6
+4a
+8a
+4.a
+=7
+8a
+8cc
+8dd
+4ee
+8f#
+=8
+4g
+8b
+8b
+8r
+8g}
+!!LO:LB:g=esac
+=9
+{4d
+8f#
+4f#
+8d
+=10
+8e
+8g
+8a
+4b
+8c#
+=11
+8d
+8f#
+8a
+8dd
+8cc#
+8b
+=12
+8a
+8f#
+8f#
+4.f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 80} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

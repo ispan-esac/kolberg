@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK0307000010-pod_borem_chojka.krn
+!!!OTL: Pod borem chojka
+!!!source: DWOK03
+!!!id: K0071a
+!!!signature: 0307000010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8.a
+16f#
+=2
+16g
+16f#
+4r
+=3
+16d
+16f#
+8.a
+16d
+=4
+8g}
+4r
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8cc
+=6
+16b
+16a
+8b
+16g
+16f#
+=7
+16d
+16f#
+8.a
+16f#
+=8
+16g
+16f#
+4r
+=9
+16d
+16f#
+8.a
+16d
+=10
+4g}
+8r
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 299} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 299}
+!!!page: 299
+!!!ONB: Converted on 2024/12/26 with esac2hum

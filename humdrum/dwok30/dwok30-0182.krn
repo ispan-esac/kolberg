@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3018200000-na_popowi_sinozaty.krn
+!!!OTL: Na popowi sinożaty
+!!!source: DWOK30
+!!!id: 30182
+!!!signature: 3018200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8dd
+8dd
+=2
+8ee
+8a
+4cc
+=3
+8b
+8b
+8a
+8g
+=4
+4dd
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8a
+8g
+=6
+8f#
+8g
+8a
+8d
+=7
+8cc
+8cc
+8b
+8a
+=8
+4a
+4g}
+==
+*-
+!!!ONB: Według melodyi czeskiej
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 115} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

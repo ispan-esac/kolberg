@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK04-K0127a-jedzie_jasio_od_torunia.krn
+!!!OTL: Jedzie Jasio od Torunia
+!!!source: DWOK04
+!!!id: K0127a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+16b
+16cc
+8dd
+=2
+16dd
+16dd
+8b
+8g
+=3
+16a
+16f#
+8d
+8b
+=
+8g
+24g
+24a
+24b
+24dd
+24cc
+24b}
+!!LO:LB:g=esac
+=4
+{16a
+16f#
+8d
+8b
+=
+8g
+24g
+24a
+24b
+24dd
+24cc
+24b
+=5
+16a
+16f#
+8d
+8d
+=6
+4g}
+8r
+!!LO:LB:g=esac
+=
+{24d
+24d
+24d
+8d
+24d
+24e
+24f#
+=
+8g
+24g
+24a
+24b
+24dd
+24cc
+24b
+=
+24a
+24a
+24a
+8d
+24d
+24e
+24f#
+=7
+4g}
+8r
+==
+*-
+!!!ONB: Wariant 1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 76} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 76}
+!!!page: 76
+!!!ONB: Converted on 2024/12/26 with esac2hum

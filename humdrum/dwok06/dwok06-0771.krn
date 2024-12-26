@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK06-K0771-powiedzialy_panny_ze_ja_nie_jest_ladny.krn
+!!!OTL: Powiedzialy panny, ze ja nie jest ladny
+!!!source: DWOK06
+!!!id: K0771
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{2dd
+=2
+2dd}
+!!LO:LB:g=esac
+=3
+{8b
+8g
+8d
+8d
+=4
+8f#
+4g
+8r
+=5
+8b
+8dd
+4dd
+=6
+8cc#
+4a}
+8r
+!!LO:LB:g=esac
+=7
+{8b
+8g
+8d
+8f#
+=8
+8g
+4e
+8r
+=9
+8g
+8b
+8g
+8e
+=10
+8f#
+4d}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=494 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 468} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 468}
+!!!page: 468
+!!!ONB: Converted on 2024/12/26 with esac2hum

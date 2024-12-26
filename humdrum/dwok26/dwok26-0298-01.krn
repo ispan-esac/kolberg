@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2629800001-kedyzes_bywal_moj_jasieniecku.krn
+!!!OTL: Kędyześ bywał mój Jasieniecku
+!!!source: DWOK26
+!!!id: 26298
+!!!signature: 2629800001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+8ee
+4dd
+=3
+8cc
+8a
+8cc
+=4
+8a
+4e}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8a
+=6
+8cc
+4a
+=7
+8g
+4e
+=8
+4.e}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8a
+=10
+8cc
+4a
+=11
+8e
+8e
+8g
+=12
+8e
+4d}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+16a
+16b
+=14
+8cc
+4a
+=15
+4.e
+=16
+8e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK8402500002-oj_prystupy_bratyku_i_ku_mni.krn
+!!!OTL: Oj, prystupy bratyku i ku mni
+!!!source: DWOK84
+!!!id: 84025
+!!!signature: 8402500002
+**kern
+*clefG2
+*k[]
+*a:
+*MX
+=1
+{4ee
+24dd#
+24b
+24dd#
+4ee
+16ee
+16dd#
+8ee
+16ee
+16dd#
+16cc
+16b
+16ee
+16dd#
+4a}
+!!LO:LB:g=esac
+=2
+{4b
+8ee
+32cc
+16.b
+8g
+4a
+16e
+16f
+16g#
+16a
+16cc
+16dd#
+16ee
+8ee
+16cc
+16b
+8b
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 60} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

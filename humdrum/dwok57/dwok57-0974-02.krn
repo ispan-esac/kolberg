@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK5797400002-buwaj_my_zdorowa_ty_diwczyno_moja.krn
+!!!OTL: Buwaj my zdorowa, ty diwczyno moja
+!!!source: DWOK57
+!!!id: 57974
+!!!signature: 5797400002
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8ee
+8ee
+4b
+4dd#
+=2
+2ee
+16ee
+16ff#
+8gg
+=3
+8ff#
+8ee
+4b
+8a
+8g
+=4
+16g
+16f#
+8e
+2e}
+!!LO:LB:g=esac
+=
+{8ee
+8ee
+4b
+12b
+12cc
+12dd
+=5
+2ee
+4gg
+=6
+8ff#
+8ee
+4b
+4a
+=7
+16g
+16f#
+8e
+2e}
+!!LO:LB:g=esac
+=8
+{16e
+16g#
+8a
+4b
+8ee
+8b
+=9
+16dd
+16cc
+16b
+16a
+4a
+8g#
+8e
+=10
+8g#
+8a
+4b
+4ee}
+!!LO:LB:g=esac
+=11
+{8cc
+8b
+4a
+4g#
+=12
+8ee
+8ee
+4b
+4dd#
+=13
+2ee
+4gg
+=14
+8ff#
+8ee
+4b
+4a
+=15
+4g
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 168-169
+!!!ONB: Converted on 2024/12/26 with esac2hum

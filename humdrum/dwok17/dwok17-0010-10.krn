@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK1701000010-dalej_dalej_do_mazura.krn
+!!!OTL: Dalej dalej do mazura
+!!!source: DWOK17
+!!!id: 17010
+!!!signature: 1701000010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16ee
+8ee
+8ee
+=2
+16dd#
+16ee
+8.ff#
+16ee
+=3
+16ee
+16ee
+8ee
+8ee
+=4
+16dd#
+16ee
+8.ff#
+16ee}
+!!LO:LB:g=esac
+=5
+{16ee
+16ee
+8ee
+8ee
+=6
+16dd#
+16ee
+8.ff#
+16ee
+=7
+16ee
+16ee
+8ee
+8ee
+=8
+16dd#
+16ee
+8.ff#
+16ee}
+!!LO:LB:g=esac
+=9
+{16e
+16g#
+8g#
+8g#
+=10
+16a
+16b
+8cc
+8cc
+=11
+16b
+16b
+8.ee
+16g#
+=12
+16cc
+16cc
+8b
+8a}
+!!LO:LB:g=esac
+=13
+{16e
+16g#
+8g#
+8g#
+=14
+16a
+16b
+8cc
+8cc
+=15
+16ff
+16ff
+8.ee
+16dd
+=16
+16a
+16a
+8b
+8a}
+==
+*-
+!!!ONB: U Kolberga błąd w zapisie rytmicznym t. 16: 112__1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 4} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 4}
+!!!page: 4
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK06-K0131-ozlecialy_mi_sie_siwe_golebie.krn
+!!!OTL: Ozlecialy mi sie siwe golebie
+!!!source: DWOK06
+!!!id: K0131
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8a
+8b
+8cc
+8b
+8a
+=2
+8cc
+8ee
+8dd
+8cc
+8b
+8a
+=3
+8b
+8a
+8g#
+8e
+4d
+=4
+8f
+8d
+2e}
+!!LO:LB:g=esac
+=5
+{8e
+8a
+8b
+8cc
+8b
+8a
+=6
+8b
+8cc
+8b
+8a
+8g#
+8a
+=7
+8cc
+8ee
+4dd#
+4ee
+=8
+8cc
+8a
+4b}
+4r
+!!LO:LB:g=esac
+=9
+{4a
+8cc
+8b
+4a
+=10
+8cc
+16r
+16ee
+4cc
+8b
+8a}
+!!LO:LB:g=esac
+=11
+{8cc
+16r
+16ee
+4dd#
+4ee
+=12
+8cc
+8b
+2b}
+!!LO:LB:g=esac
+=13
+{8cc
+8ee
+4dd#
+4ee
+=14
+8cc
+8b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 65-66} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 65-66}
+!!!page: 65-66
+!!!ONB: Converted on 2024/12/26 with esac2hum

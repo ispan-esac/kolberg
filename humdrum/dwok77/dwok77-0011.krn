@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7701100000-na_boru_sosna.krn
+!!!OTL: Na boru sosna
+!!!source: DWOK77
+!!!id: 77011
+!!!signature: 7701100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4a
+4.cc
+8a
+=2
+8dd
+8b
+2g
+=3
+4a
+4.cc
+8a
+=4
+8dd
+8b
+2g}
+!!LO:LB:g=esac
+=5
+{4cc
+2ee
+=6
+4ff
+2dd
+=7
+4ee
+4.cc
+8a
+=8
+4a
+2g
+=9
+4a
+4.cc
+8ee
+=10
+8dd
+8b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 27
+!!!ONB: Converted on 2024/12/26 with esac2hum

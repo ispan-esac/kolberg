@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK1309300000-wszystkich_dzis_ciekawosc_budzi.krn
+!!!OTL: Wszystkich dziś ciekawość budzi
+!!!source: DWOK13
+!!!id: 13093
+!!!signature: 1309300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8cc
+8cc
+8b-
+8g
+=2
+8f
+8f
+8a
+8f
+=3
+8e
+8e
+8g
+8e
+=4
+8f
+8g
+8a
+8b-}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8b-
+8g
+=6
+8f
+8f
+8a
+8f
+=7
+8e
+8e
+8g
+8e
+=8
+8f
+8g
+8a
+8b-}
+!!LO:LB:g=esac
+=9
+{4cc
+8b-
+8e
+=10
+8f
+8f
+4a
+=11
+8e
+8e
+8g
+8e
+=12
+8f
+8g
+8a
+8b-}
+!!LO:LB:g=esac
+=13
+{4cc
+8b-
+8e
+=14
+8f
+8f
+4a
+=15
+8e
+8e
+8g
+8e
+=16
+2f}
+==
+*-
+!!!ONB: Furman
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 53} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 53}
+!!!page: 53
+!!!ONB: Converted on 2024/12/26 with esac2hum

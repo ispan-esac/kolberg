@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4936100002-padaj_padaj_kasunejko.krn
+!!!OTL: Padaj, padaj, Kasunejko
+!!!source: DWOK49
+!!!id: 49361
+!!!signature: 4936100002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16dd
+16dd
+8cc
+16dd
+32dd
+32cc
+=2
+4b
+32cc
+32b
+16a}
+!!LO:LB:g=esac
+=3
+{16dd
+16dd
+8cc
+16dd
+32dd
+32cc
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+16cc
+32cc
+32b
+16a
+16b
+=6
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=489 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 399} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 399}
+!!!page: 399
+!!!ONB: Converted on 2024/12/26 with esac2hum

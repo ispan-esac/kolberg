@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK1800700000-u_nasego_pana.krn
+!!!OTL: U nasego pana
+!!!source: DWOK18
+!!!id: 18007
+!!!signature: 1800700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+4dd
+=2
+8dd
+8cc#
+8a
+=3
+16cc#
+16ee
+4dd
+=4
+8b
+8a
+8cc}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+4g
+=6
+8g
+8a
+8d
+=7
+16d
+16f#
+4a
+=8
+8f#
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 57} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

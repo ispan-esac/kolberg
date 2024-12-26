@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK5060600002-wyszeu_czurylo_z_mista.krn
+!!!OTL: Wyszeu Czuryło z mista
+!!!source: DWOK50
+!!!id: 50606
+!!!signature: 5060600002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8e
+8a
+16a
+16g#
+=2
+8a
+8b
+8a
+=3
+16g#
+16f
+4e}
+!!LO:LB:g=esac
+=4
+{8e
+8a
+16a
+16g#
+=5
+8a
+8b
+8a
+=6
+16g#
+16f
+4e}
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+8a
+=8
+16a
+16g
+4g
+=9
+8d
+4g}
+!!LO:LB:g=esac
+=10
+{16a
+16b
+16cc
+16b
+16a
+16f#
+=11
+8a
+8.g
+16f#
+=12
+8e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=391 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 358} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 358}
+!!!page: 358
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,1423 @@
+DWOK47
+CUT[U n'aszoho żuczka]
+REG[Podole]
+TRD[DWOK47 Podole s. 59]
+FKT[]
+SIG[4703000001]
+KEY[47030   08  G 2/4]
+MEL[345_  345_
+    5654  321_
+    3_3_  345_
+    5654  321_ //]
+BEM[]
+
+DWOK47
+CUT[U n'aszoho żuczka]
+REG[Podole]
+TRD[DWOK47 Podole s. 59]
+FKT[]
+SIG[4703000002]
+KEY[47030   08  G 2/4]
+MEL[345_  3455
+    5654  3211
+    3232  345_
+    5654  3211 //]
+BEM[]
+
+DWOK47
+CUT[Czotyry bratia sino kosyło]
+REG[Podole]
+TRD[DWOK47 Podole s. 60 od Płoskirowa, Śpiewana często na hajiłkach]
+FKT[]
+SIG[4703100000]
+KEY[47031   16  G 3/4]
+MEL[1_+1_+1_+1_7__  +1_6_4_5_3__
+    3_1_1_3_4__  5_4_3_5_3__
+    1_3_3_4_5__  6b54_4_3_1__ //]
+BEM[Wariant t. 1: 1_+1_+1_+1_7_+2_]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 61 Kamieniec Podolski]
+FKT[]
+SIG[4703200000]
+KEY[47032   16  G 3/4]
+MEL[1_+1_+1_+1_7__  +1_6_4_5_3__
+    1_3_3_4_5__  6b54_4_3_1__
+    1_+1_+1_+1_7__  +1_6_4_5_3__
+    3_1_1_3_4__  5_4_3_5_3__
+    1_3_3_4_5__  6b54_4_3_1__ //]
+BEM[Wariant t. 1 i 5: 1_+1_+1_+1_7_+2_]
+
+DWOK47
+CUT[Szczastływa Marynia u Boha]
+REG[Podole]
+TRD[DWOK47 Podole s. 73]
+FKT[]
+SIG[4703900000]
+KEY[47039   16  A 3/8 2/4]
+MEL[3b_5_4_  4_4__  (43b4)5__
+    3b_5_4_  3b_4__  4_5__
+    5_4__  4_3b_2_  1__1__ //]
+BEM[]
+
+DWOK47
+CUT[Oj, winkuż mij]
+REG[Podole]
+TRD[DWOK47 Podole s. 74]
+FKT[]
+SIG[4704000001]
+KEY[47040   16  A 3/8 4/8]
+MEL[5_  5__4_  4__.  2__2_
+    3b_  5__4_  4_43b21  3b21_0_
+    3b_5_4_  4_5_43b21  3b21__
+    3b_5_4_  3b_4__  5_5__
+    3b_5_4_  3b_4__  5_5__
+    3b_5_4_  3b_4__  5_5__
+    6b55_4_  4_3b_2_  1__1_ //]
+BEM[U Kolberga wątpliwy zapis metrorytmiczny]
+
+DWOK47
+CUT[Oj, winkuż mij]
+REG[Podole]
+TRD[DWOK47 Podole s. 74]
+FKT[]
+SIG[4704000002]
+KEY[47040   16  A 3/8 4/8]
+MEL[5_  5__4_  4_43b21  3b__2_
+    3b_  5__4_  5_43b21  3b21_0_
+    3b_5_4_  5__43b21  3b21__
+    3b_5_4_  3b_4_(43b4)  5_5__
+    3b_5_4_  3b_4_(43b4)  5_5__
+    3b_5_4_  3b_4_(43b4)  5_5__
+    6b55_4_  4_3b_2_  1__1_ //]
+BEM[U Kolberga wątpliwy zapis metrorytmiczny]
+
+DWOK47
+CUT[Jak tobi, Maryniu, ne wstydno]
+REG[Podole]
+TRD[DWOK47 Podole s. 75]
+FKT[]
+SIG[4704100000]
+KEY[47041   08  A 3/8]
+MEL[3b54  43b2  3b4_  45_
+    3b54  43b2  3b4_  45_
+    544  43b2  1_.  1_. //]
+BEM[]
+
+DWOK47
+CUT[Oj, tam na hori malowały malari]
+REG[Podole]
+TRD[DWOK47 Podole s. 94 od Husiatynia]
+FKT[]
+SIG[4708400000]
+KEY[47084   08  A 2/4]
+MEL[-5_1_  -7-71_
+    2231  -7-71_
+    2231  -7-71-6
+    2231  -7-71-6
+    -5-5-6-6  -5-55_ //]
+BEM[]
+
+DWOK47
+CUT[Jedna hora wysokaja]
+REG[Podole]
+TRD[DWOK47 Podole s. 96 od Winnicy]
+FKT[]
+SIG[4708600000]
+KEY[47086   16  A 2/4]
+MEL[+1_055_5_  4_4_5_.4  3b_.23b_4_  5__5__
+    +1_055_5_  4_4_46b54  3b21-7123b1  2_-7_-5_0_
+    -5-72-75_.-7  123b243b21  -7-5-725_4_  43b23b1__ //]
+BEM[Wariant t. 5: +1_055_6b_; wariant t. 11: -7-5-724_5_]
+
+DWOK47
+CUT[U poli kłyn, d'erewo rizno]
+REG[Podole]
+TRD[DWOK47 Podole s. 98 od Berszudy]
+FKT[]
+SIG[4709000000]
+KEY[47090   16  E 3/4]
+MEL[5_4_5_7_+1__  7b_6b54_7b_5_3b_
+    4_5_1__-7b__  3b_53b4_7b6b5_3b_
+    4_5_1__-7b__  3b_53b4_7b6b5_1_ //]
+BEM[Wariant t. 2: (7b+17b)6b54_7b_5_3b_]
+
+DWOK47
+CUT[Sedyt hołub na penioczku]
+REG[Podole]
+TRD[DWOK47 Podole s. 101 od Płoskirowa]
+FKT[]
+SIG[4709500000]
+KEY[47095   16  G 3/4 4/4]
+MEL[1_4_3_4_5_4_  +1_+2+17b65__.^_54  567b_+1_4_5654  3_1_^_234__
+    1_-7b_3b_2_1__  657b6543__134__  1_-7b_3b_2_1_1_ //]
+BEM[Wariant t. 5: 1_-7b_3b_241__; wariant t. 7: 1_-7b_3b_241_1_]
+
+DWOK47
+CUT[Sedyt hołub na dubońku]
+REG[Podole]
+TRD[DWOK47 Podole s. 102 od Latyczowa (Dijakowce)]
+FKT[]
+SIG[4709600001]
+KEY[47096   16  G 2/4]
+MEL[1_4_3_4_  5__+1__  7b_5__^4  5__.4_  5__3__  1__4__
+    1_-7b_3b_2_  1__6__  5_3__1_  4__1_-7b_  3b_2_1__ //]
+BEM[t. 4-6 wariant A: 5_7b_4__  5_3_1_3_4__; wariant B: 567b+14__  56531_234__]
+
+DWOK47
+CUT[Sedyt hołub na dubońku]
+REG[Podole]
+TRD[DWOK47 Podole s. 102 od Latyczowa (Dijakowce)]
+FKT[]
+SIG[4709600002]
+KEY[47096   16  G 2/4]
+MEL[1_4_3_4_  5_4_+1_+2+1  7b65__^4  567b_+1_4_  56543__  1_234__
+    1_-7b_3b_24  1__657b6  543__13  4__1_-7b_  3b_241__ //]
+BEM[t. 4-6 wariant A: 5_7b_4__  5_3_1_3_4__; wariant B: 567b+14__  56531_234__]
+
+DWOK47
+CUT[Sedyt hołub na dubońku]
+REG[Podole]
+TRD[DWOK47 Podole s. 104 od Proskurowa]
+FKT[]
+SIG[4709700001]
+KEY[47097   16  C 2/4]
+MEL[5_+1_7_+1_  +2__+1__  +5__+6+5+4+3  +2___
+    +2+1+2+3+4_+5_  +1__+2+3+2+1  7__5_67  +1__.5_
+    5_4_7b_6+1  5__.+3+2  +4+3+2+17__  ^_57+1__  5_4_7b_6+1  5___ //]
+BEM[U Kolberga wątpliwy zapis metrorytmiczny t. 11-14]
+
+DWOK47
+CUT[Sedyt hołub na dubońku]
+REG[Podole]
+TRD[DWOK47 Podole s. 104 od Proskurowa]
+FKT[]
+SIG[4709700002]
+KEY[47097   16  C 2/4]
+MEL[5_+1_7_+1_  +2_+1_+5__  +6+5+4+3+2__
+    +2+1+2+3+4_+5_  +1__+2_+3_  +1_7_5_67  +1___ //]
+BEM[Takt od 1-8]
+
+DWOK47
+CUT[Kryczyt hołub na duboczku]
+REG[Podole]
+TRD[DWOK47 Podole s. 105 od Kamieńca Podolsk(iego)]
+FKT[]
+SIG[4709800000]
+KEY[47098   16  C 2/4]
+MEL[5_+1_7_+1_  +2_+1_+5_+6+5  +4+3+2__^+1
+    +2+3+4_+5_+2_  +2+3+2+17__  5_67+1__
+    5_4_7b_6+1  5__+3+2+4+3  +2+17__57  +1__5_4_  7b_6+15__ //]
+BEM[U Kolberga wątpliwy zapis metrorytmiczny t. 8-11]
+
+DWOK47
+CUT[Sokił, mamciu, sokił, mamciu]
+REG[Podole]
+TRD[DWOK47 Podole s. 106 od Jampola]
+FKT[]
+SIG[4710000001]
+KEY[47100   16  F 3/4]
+MEL[1_1_3b__1__  3b_5_4__.3b_  4_6b_5__.4_  3b__5___
+    1_1_3b__1__  3b_5_4__5_3b_  2_1_5__4__  1___1__ //]
+BEM[]
+
+DWOK47
+CUT[Sokił, mamciu, sokił, mamciu]
+REG[Podole]
+TRD[DWOK47 Podole s. 106 od Jampola]
+FKT[]
+SIG[4710000002]
+KEY[47100   16  F 3/4]
+MEL[1_1_3b__1__  3b_5_4__5_3b_  4_6b_5__.42  (4_3b_5_)5___
+    1_1_3b__1__  3b_5_4__5_3b_  2_1_5__4__  1___1__ //]
+BEM[]
+
+DWOK47
+CUT[Zajichała Kateryna szyśćma kińmi iz Wołynia]
+REG[Podole]
+TRD[DWOK47 Podole s. 113 Podole]
+FKT[]
+SIG[4710900000]
+KEY[47109   16  A 2/4]
+MEL[3b_5_5_5_  6b54_43b2_  3b_5_5_5_  6b54_43b2_
+    1_3b_5_3b_  2_-7_-5__  1_1_2__
+    1_3b_5_3b_  2_1_-7_-5_  1_1_1__ //]
+BEM[]
+
+DWOK47
+CUT[Ty diwczyno sywa utko]
+REG[Podole]
+TRD[DWOK47 Podole s. 116 od Bracławia]
+FKT[]
+SIG[4711500001]
+KEY[47115   16  C 3/4]
+MEL[+1_5_7__5__  +1_5_7__5__  +1_.+2+3_+1_+3_.+2  +1_765__.5_
+    +1_5_7__5__  +1_5_7__5__  +1_.+2+3_+1_+3_.+2  +1_5_+1__.+1_ //]
+BEM[]
+
+DWOK47
+CUT[Ty diwczyno sywa utko]
+REG[Podole]
+TRD[DWOK47 Podole s. 116 od Bracławia]
+FKT[]
+SIG[4711500002]
+KEY[47115   16  C 3/4]
+MEL[+1_567_.65__  +1_567_.65__  +1_.+2+3_+2+1+3_.+2  +1_765__.5_
+    +1_567_.65_.+2  +1_567_.65__  +1_.+2+3_+2+1+3_.+2  +1_5_+1__.+1_ //]
+BEM[]
+
+DWOK47
+CUT[Po sadoczku prochadżaju]
+REG[Podole]
+TRD[DWOK47 Podole s. 117 od Hajsyna]
+FKT[]
+SIG[4711600001]
+KEY[47116   16  A 3/4]
+MEL[-5_1_3b__5__  5__.5_4_2_
+    4_.54__2__  1_-6b_-5__5__
+    3b_.54__2__  1_-6b_-5__-5__ //]
+BEM[]
+
+DWOK47
+CUT[Po sadoczku prochadżaju]
+REG[Podole]
+TRD[DWOK47 Podole s. 117 od Hajsyna]
+FKT[]
+SIG[4711600002]
+KEY[47116   16  A 3/4]
+MEL[-5_123b_215__  5__.5_43b23b
+    4_.543b212_-7_  1_-7b-6b-5__5__
+    3b_.543b212_-7_  1_-7b-6b-5__-5__ //]
+BEM[]
+
+DWOK47
+CUT[Oj, jarom, jarom, ber'ezynoju]
+REG[Podole]
+TRD[DWOK47 Podole s. 123 od Satanowa]
+FKT[]
+SIG[4712600001]
+KEY[47126   08  A 3/8]
+MEL[13b3b  3b_3b  6b54  3b_3b
+    6b54  3b_3b  3b3b2  1_1
+    -5-7-7  1_3b  3b3b2  1_3b
+    -5-6-7  111  3b3b2  1_1 //]
+BEM[]
+
+DWOK47
+CUT[Oj, jarom, jarom, ber'ezynoju]
+REG[Podole]
+TRD[DWOK47 Podole s. 123 od Satanowa]
+FKT[]
+SIG[4712600002]
+KEY[47126   08  A 3/8]
+MEL[13b3b  3b_5  6b6b4  3b_5
+    6b6b4  3b_5  53b2  1_3b
+    -5-7-7  1_3b  53b2  1_3b
+    -5-6-7  1_1  3b3b2  1_1 //]
+BEM[]
+
+DWOK47
+CUT[Oj, ne pijde dryben]
+REG[Podole]
+TRD[DWOK47 Podole s. 126 od Hajsyna]
+FKT[]
+SIG[4712900000]
+KEY[47129   08  G 4/4]
+MEL[1_5_.^55  4_6b__54
+    3b2154543b  23b451__  -5__.0_
+    -7b3b5__.  4__.53b  23b1__0_ //]
+BEM[U Kolberga wątpliwy zapis metrorytmiczny t. 3-4]
+
+DWOK47
+CUT[Tecz'e riczka newełyczka]
+REG[Podole]
+TRD[DWOK47 Podole s. 127 od Berszudy (Uście)]
+FKT[]
+SIG[4713000001]
+KEY[47130   08  F 4/4]
+MEL[1_5__64  3_1__46  6_5__64  3_1__
+    64  5_3__42  1_-7b__34  5_3__3_  3_1__1_ //]
+BEM[U Kolberga wątpliwy zapis metrorytmiczny t. 3-4]
+
+DWOK47
+CUT[Tecz'e riczka newełyczka]
+REG[Podole]
+TRD[DWOK47 Podole s. 127 od Berszudy (Uście)]
+FKT[]
+SIG[4713000002]
+KEY[47130   08  F 4/4]
+MEL[165__(654)  321__46  6_5__(654)  321__
+    (654)  513__(432)  12-7b__(346b)  513__32  321__1_ //]
+BEM[U Kolberga wątpliwy zapis metrorytmiczny t. 3-4]
+
+DWOK47
+CUT[Ostoróżno, diwczynońko]
+REG[Podole]
+TRD[DWOK47 Podole s. 129 od Olhopola]
+FKT[]
+SIG[4713100000]
+KEY[47131   16  E 2/4]
+MEL[1_2_3b_4_  5_5_5_7_  +1__+3b__  +2757+1__  ^__7_6_  5___
+    7b_7b_7b_+1_  7b6b545_3b_  4__7b_.6b  5_43b2__  1___ //]
+BEM[Wariant t. 10: 5_43b2_5_]
+
+DWOK47
+CUT[Iszła Handzia po buraki]
+REG[Podole]
+TRD[DWOK47 Podole s. 131 od Zbaraża]
+FKT[]
+SIG[4713200000]
+KEY[47132   16  A 2/4]
+MEL[3b_5_5_5_  4_5_6b_4_
+    5_5_5_3b_  4_3b_2_1_
+    3b_5_-5_-7_  1_2_3b_21
+    3b_5_5_5_  4_3b_2_1_ //]
+BEM[]
+
+DWOK47
+CUT[Łetiw oreł ponad more]
+REG[Podole]
+TRD[DWOK47 Podole s. 133 od Zbaraża]
+FKT[]
+SIG[4713400000]
+KEY[47134   16  D 4/4 3/4]
+MEL[3b_4_  5__5__  5_+3b_+2_+1_  +1__7__0__
+    7_+1_  +2___^_.2_  3b__2__0__
+    5_5_  +1__.+1_+17b6b5  6b__4__0__  5_5_5__6_7_  +1_+3b_+5___
+    +4+3b+2+17__.+2_  +2__+1__0__ //]
+BEM[]
+
+DWOK47
+CUT[Wczoraj była nedilońka]
+REG[Podole]
+TRD[DWOK47 Podole s. od Winnicy]
+FKT[]
+SIG[4713500000]
+KEY[47135   16  G 2/4]
+MEL[+1_.55_5_  4#_4#_5_.4  3b_2_3b_4_  5__5__
+    +1_.55_5_  4#_4#_5_.4  3b_3b_2_-7_  1__1__
+    2__5_.4  3b_3b21__  -7_-7_-5_-6-7  1_3b21_0_
+    2__5_.4  3b_3b21__  -7_-7_-5_-6-7  1_3b21_0_ //]
+BEM[]
+
+DWOK47
+CUT[Zajizdyw ja k'onyka]
+REG[Podole]
+TRD[DWOK47 Podole s. 136 od Olhopola]
+FKT[]
+SIG[4713800000]
+KEY[47138   16  A 2/4]
+MEL[3b_5_243b2  1_3b_-7b__  -7b_243b21-7  1_2_-5__
+    3b_5_243b2  1_3b_-7b__  -7b_243b21-7  1__-5__
+    3b57b543b21  -7b_1_-7b__  3b_5_243b2  -5_3b_1__ //]
+BEM[]
+
+DWOK47
+CUT[Kumki, kumoczki, wy hołuboczki moji]
+REG[Podole]
+TRD[DWOK47 Podole s. 137 Obodówka]
+FKT[]
+SIG[4713900000]
+KEY[47139   16  A 2/4]
+MEL[1_3b_5__  43b2__.  3b_4_5_5_  3b_4_5__
+    7b__.6b_  5_43b2__  3b_4_5_5_  3b_2_1__ //]
+BEM[]
+
+DWOK47
+CUT[Kotyły sia wozy z hory]
+REG[Podole]
+TRD[DWOK47 Podole s. 140 Tarnopol]
+FKT[]
+SIG[4714100000]
+KEY[47141   16  G 2/4]
+MEL[+1_.55_5_  4#_4#_5_.4  3b_2_3b_4_  5_.4#5__
+    +1_.55_5_  4#_4#_5_.4  3b_3b_2_.-7  1__1__
+    -7_2_5_.-7  1_3b_3b_21  -7_2_5_.-7  1__1__
+    -5_-725_.-7  1_3b_3b_21  -5_-725_.-7  1__1_0_
+    -7_2_5_.-7  1_3b_3b_21  -7_2_5_.-7  1__1__
+    -5_-725_.-7  1_3b_3b_21  -5_-725_.-7  1__1_0_ //]
+BEM[Wariant t. 4: 5__5__]
+
+DWOK47
+CUT[Daj, pusty mene, moja maty]
+REG[Podole]
+TRD[DWOK47 Podole s. 142 Ożohowce, Podole]
+FKT[]
+SIG[4714400001]
+KEY[47144   16  G 2/4 3/4 4/4]
+MEL[1_3_5__^6546_54  3_2_1__0__
+    4__5__6__5__  ^65_4__0__  6_5_4_3_321_4_5_
+    6__5__4_3_4_2_  1__2__4__5__
+    6__5__4_3_4_2_  1___1__0__ //]
+BEM[]
+
+DWOK47
+CUT[Daj, pusty mene, moja maty]
+REG[Podole]
+TRD[DWOK47 Podole s. 142 Ożohowce, Podole]
+FKT[]
+SIG[4714400002]
+KEY[47144   16  G 2/4 3/4 4/4]
+MEL[1_3_5__^6546_54  3_2_1__0__
+    4__5__6_5_5__  ^65_4__0__  6_5_543_321_4_5_
+    6_5_5_4_4_3_4_2_  1__2__4__5__
+    6_5_5_4_4_3_4_2_  1___1__0__ //]
+BEM[]
+
+DWOK47
+CUT[Czerez horu wysokoju]
+REG[Podole]
+TRD[DWOK47 Podole s. 146 od Tarnopola, Zbaraża]
+FKT[]
+SIG[4714800000]
+KEY[47148   08  G 2/4]
+MEL[555+1  5554#  555+1  5_54#
+    555+1  5542  3b3b2-7  1_5_
+    3b3b2-7  1_+1_ //]
+BEM[U Kolberga zapis w dwudźwiękach]
+
+DWOK47
+CUT[Proszu tebe, atamane]
+REG[Podole]
+TRD[DWOK47 Podole s. 150 od Czortkowa]
+FKT[]
+SIG[4715300000]
+KEY[47153   16  F 3/4]
+MEL[4_3_2_6_5_-7_  1_.23_.11__
+    5__+1_.7+2+176  6_.55__0__
+    4_3_2_6_5_-7_  1_.23_.11__
+    4_3_2_6_5_-7_  2_.11__0__
+    4_3_2_6_5_-7_  1_.23_.11__
+    4_3_2_6_5_-7_  2_.11__0__ //]
+BEM[]
+
+DWOK47
+CUT[Wijut witry, wijut bujny]
+REG[Podole]
+TRD[DWOK47 Podole s. 152 od Trembowli, Tarnopola]
+FKT[]
+SIG[4715400000]
+KEY[47154   16  A 2/4]
+MEL[5_.13b23b4  5_.13b23b4  5_+1_7b_.6b  5_.3b3b__
+    4_.56b54_  5_3b_2_.1  -7_6b_5_-7_  123b45__
+    5_+1_7b_.6b  5_3b_2_.1  -7_6b_5_.-7  1__1__ //]
+BEM[]
+
+DWOK47
+CUT[Koły lubysz, luby duże]
+REG[Podole]
+TRD[DWOK47 Podole s. 154 Tarnopol]
+FKT[]
+SIG[4715500000]
+KEY[47155   16  B 2/4]
+MEL[3b_.543b21  3b_3b_2-71_
+    3b_.543b21  3b_3b_2-71_
+    -7_.-53b21_  2_5_3b21_
+    -7_.-53b21_  -7-5-7_1_1_
+    -7_.-53b21_  2_5_3b21_
+    -7_.-53b21_  -7-5-7_1_1_ //]
+BEM[]
+
+DWOK47
+CUT[Koły lubysz, luby duże]
+REG[Podole]
+TRD[DWOK47 Podole s. 156 od Kamieńca. Szumka]
+FKT[]
+SIG[4715600000]
+KEY[47156   16  A 2/4]
+MEL[3b_.53b21_  3b_3b_2-71_
+    3b_.53b21_  3b_3b_2-71_
+    -7_.-53b21_  2_5_3b21_
+    -7_.-53b21_  -7-5-7_1_1_ //]
+BEM[]
+
+DWOK47
+CUT[Sywa zazułeńka, oj, w haj połetiła]
+REG[Podole]
+TRD[DWOK47 Podole s. 157 od Berszudy (Uście)]
+FKT[]
+SIG[4715700000]
+KEY[47157   08  G 3/4]
+MEL[-5-71_2_  -7_1__  225_5_  2_2__
+    5_.7b65  4_.3b21  -7_2_-7-6  -5__5_
+    5_.7b65  4_.3b21  -712_-7-6  -5__-5_ //]
+BEM[Wariant t. 2: (-7-6-5)1__; wariant t. 4: 252__]
+
+DWOK47
+CUT[Oj, je w poli kernyczeńka]
+REG[Podole]
+TRD[DWOK47 Podole s. 158 Satanów]
+FKT[]
+SIG[4715800000]
+KEY[47158   08  G 2/4]
+MEL[3555  3555  6666  5_+1_  6666  5__
+    3555  3555  6666  5_+1_  6666  5__
+    3_1_  6__  67+16  5553  5654
+    3522  1__ //]
+BEM[]
+
+DWOK47
+CUT[Oj, haju, haju, wełyki żalu]
+REG[Podole]
+TRD[DWOK47 Podole s. 159 od Bracławia (Rajgorod)]
+FKT[]
+SIG[4715900000]
+KEY[47159   16  G 3/8]
+MEL[214_5_  6__.  565432  1__.
+    465432  1__5_  432_3_  -6__1_
+    465432  1__5_  432_3_  2__. //]
+BEM[Wariant t. 11: 432_3-6]
+
+DWOK47
+CUT[Neszczesływyj toj czołowik]
+REG[Podole]
+TRD[DWOK47 Podole s. 163 Czortków]
+FKT[]
+SIG[4716500010]
+KEY[47165   16  G 2/4]
+MEL[13_.55_.  66_.55_.  5_67b+1__  7b_+2_5__
+    +1+1_.44_.  33_.22_.  55_.5__  6_6_5__
+    +1+1_.44_.  33_.22_.  55_.5__  11_.1__ //]
+BEM[Wariant t. 4: 7b+2+2_5__]
+
+DWOK47
+CUT[Neszczesływyj toj czołowik]
+REG[Podole]
+TRD[DWOK47 Podole s. 163 Czortków]
+FKT[]
+SIG[4716500020]
+KEY[47165   16  C 2/4]
+MEL[55_.+1__  +2_+27+1__  55_.+1__  +2_+27+1__ //]
+BEM[Wariant t. 3: 55_.+1_+3_]
+
+DWOK47
+CUT[Oj, pid wyszneju]
+REG[Podole]
+TRD[DWOK47 Podole s. 167 Satanów]
+FKT[]
+SIG[4716800010]
+KEY[47168   08  G 2/4]
+MEL[113_  2_-5_  113_  2_-5_
+    1113  4665  554-7  1_1_ //]
+BEM[]
+
+DWOK47
+CUT[Oj, pid wyszneju]
+REG[Podole]
+TRD[DWOK47 Podole s. 167 Satanów]
+FKT[]
+SIG[4716800020]
+KEY[47168   08  G 2/4]
+MEL[-5_1_  -7-6-5_  -5_1_  -7-6-5_
+    -5113  4665  554-7  1_1_ //]
+BEM[]
+
+DWOK47
+CUT[Oj, uczora z weczora]
+REG[Podole]
+TRD[DWOK47 Podole s. 174 Ożohowce, Podole]
+FKT[]
+SIG[4717500001]
+KEY[47175   16  G 2/4]
+MEL[6_.55_5_  5_5_4__  3_3_2_.-7  -5_-5_-5__
+    1__3__  5__.43  2__5__  1___ //]
+BEM[]
+
+DWOK47
+CUT[Oj, uczora z weczora]
+REG[Podole]
+TRD[DWOK47 Podole s. 174 Ożohowce, Podole]
+FKT[]
+SIG[4717500002]
+KEY[47175   16  G 2/4]
+MEL[6_.55_5_  5_5_4_2_  3_3_2_.-7  -5_-5_-5_-5_
+    1__3_4_  5__.43  2__5__  1___ //]
+BEM[]
+
+DWOK47
+CUT[Star'a maty syna ożenyła]
+REG[Podole]
+TRD[DWOK47 Podole s. 179 od Olhopola]
+FKT[]
+SIG[4717900000]
+KEY[47179   08  A 4/4]
+MEL[055_  5__3b_1_  4_4_4_5_  3b_5_.43b2
+    1__3b_1_  -7__-5__  1_3b_2_1_  5__^43b2  1__ //]
+BEM[Wariant t. 2: 5__4#3b21]
+
+DWOK47
+CUT[Ne chody, Hryciu, wo weczernyci]
+REG[Podole]
+TRD[DWOK47 Podole s. 181 od Hajsyna, Humania]
+FKT[]
+SIG[4718000000]
+KEY[47180   16  A 4/4]
+MEL[1__3b_3b_5__.4_  3b__7b_.6b5_4_3b_2_
+    1__3b_3b_5_4_3b_2_  3b__2_2_1__1__ //]
+BEM[]
+
+DWOK47
+CUT[Oj, wyletił sokił ta z lisa na pole]
+REG[Podole]
+TRD[DWOK47 Podole s. 183 od Bracławia, Mohylowa. Andante.]
+FKT[]
+SIG[4718200000]
+KEY[47182   16  A 2/4]
+MEL[-5_1_1_3b_  5__.3b_  5_5_6b_5_  4_3b_2_1_
+    3b_5_4_1_  3b__2_1_  3b_5_4_3b2  1__.1_
+    3b_5_4_1_  3b__4_1_  3b_5_4_5_  1__.1_ //]
+BEM[Wariant t. 1: 1_1_1_3b_]
+
+DWOK47
+CUT[Jaś na wojnie wojuje]
+REG[Podole]
+TRD[DWOK47 Podole s. 184 Zawadyńce pod Kamieńcem]
+FKT[]
+SIG[4718400000]
+KEY[47184   16  A 2/4]
+MEL[1_3b45_5_  4_4_5__  4_4_5_4_  3b_2_1__
+    -7_112__  4_4_5_4_  3b_2_1__ //]
+BEM[]
+
+DWOK47
+CUT[Mene maty porodyła temneńkoji noczy]
+REG[Podole]
+TRD[DWOK47 Podole s. 184 Tarnop(ol)]
+FKT[]
+SIG[4718500000]
+KEY[47185   16  C 2/4]
+MEL[+3b+3b_.+1+3b_.  +2_.75_5_  +3b+3b_.+4_+4#_  +5__5__
+    +3b_.+2+1+3b_.  +2_.7755_  6b_6b55_7_  +1__+1_0_ //]
+BEM[]
+
+DWOK47
+CUT[Horiwoczka, okowyta, lublu tebe pyty]
+REG[Podole]
+TRD[DWOK47 Podole s. 190 Podole, od Husiatyna]
+FKT[]
+SIG[4719000000]
+KEY[47190   16  F 2/4]
+MEL[5_+1_+1_+1_  +1_+1+2+3b__  +2_+1_+1_+1_  5__5__
+    4_6b_6b_6b_  5_56b7b__  3b_3b_2_2_  1__1__ //]
+BEM[Wariant t. 5: 456b__6b_]
+
+DWOK47
+CUT[Kozak pana ne zna z wika]
+REG[Podole]
+TRD[DWOK47 Podole s. 196 Czortków]
+FKT[]
+SIG[4720000000]
+KEY[47200   16  C 2/4]
+MEL[5_5_+1_+1_  7_6_7_5_  5_5_+1_+1_  +1_+3_+5__
+    5_5_+4_+4_  +5_+5_+3_+1_  +2_.+17_6_  5_7_+2__ //]
+BEM[]
+
+DWOK47
+CUT[Horeż moje, hore, neszczasływa dola]
+REG[Podole]
+TRD[DWOK47 Podole s. 200 z Podola]
+FKT[]
+SIG[4720900000]
+KEY[47209   08  A 3/4]
+MEL[5_.313  542__  4_6_54  6_5__
+    -724_6_  56531_  -724_32  2_1_0_
+    -724_6_  56531_  -724_32  2_1_0_ //]
+BEM[Wariant t. 3-4: (434)6_54  655__]
+
+DWOK47
+CUT[Dobryj weczer, kocjurbycho]
+REG[Podole]
+TRD[DWOK47 Podole s. 202 od Zbaraża]
+FKT[]
+SIG[4721300000]
+KEY[47213   16  C 2/4]
+MEL[+3_+5_+5+4+4+3  +3_+5_+5+4+4+3
+    +6_+4_+2_7_  +1_+1_+1_+1_  5__5__  +1_+1_+1_+1_
+    +6_+4_+2_7_  +1_+1_+1_+1_  5__5__  +1_+1_+1_+1_ //]
+BEM[]
+
+DWOK47
+CUT[Oj, jest' w poli kernyczeńka]
+REG[Podole]
+TRD[DWOK47 Podole s. 207 od Kamieńca]
+FKT[]
+SIG[4721900000]
+KEY[47219   16  F 3/4]
+MEL[5__.1_6_5_  5_4_3__4__  6__.4_+1_+1_  7_.65__.+1_
+    2_3_4__6__  5_3_5__+1__  7__.6_5_4_  3_2_1__^__
+    2_3_4__6__  5_3_5__+1__  7__.6_5_4_  3_2_1__.3_ //]
+BEM[Wariant t. 1: 5__.3_6_5_; wariant t. 3: 6__.6_+1_+1_]
+
+DWOK47
+CUT[Oj, po horach, po dołynach]
+REG[Podole]
+TRD[DWOK47 Podole s. 208 od Mohylowa]
+FKT[]
+SIG[4722000001]
+KEY[47220   16  D 4/4]
+MEL[1_3b_5_5_5__4_3b_  3b_.22___0__
+    2_3b_4_4_4__.4_  3b__5___0__
+    1_3b_5_5_5__.+1_  +2__+1___
+    5__  +1__.4_5_4_6b_.2  3b__1___0__ //]
+BEM[]
+
+DWOK47
+CUT[Oj, po horach, po dołynach]
+REG[Podole]
+TRD[DWOK47 Podole s. 208 od Mohylowa]
+FKT[]
+SIG[4722000002]
+KEY[47220   16  D 4/4]
+MEL[1_3b_5_5_5_6b54_3b_  3b_.22___0__
+    2_3b_4_4_4_6b_5_4_  3b_5_5___0__
+    1_3b_5_5_5_+3b_+2_+17  +2_+1_+1___
+    5_7_  +1__.6b_5_6b54_.2  3b_1_1___0__ //]
+BEM[]
+
+DWOK47
+CUT[Powij witre na Ukrainu]
+REG[Podole]
+TRD[DWOK47 Podole s. 209 od Kamieńca]
+FKT[]
+SIG[4722100000]
+KEY[47221   16  D 2/4]
+MEL[1_3b_5_5_  5_5_4_3b_  3b__2__
+    2_3b_4_4_  4_6b_5_4_  3b_5_5__
+    1__3b_5_  5_+3b_+2_+1_  7+2+1_+1_57b
+    7b_.6b5_4_  5_.23b_1_  1__0__ //]
+BEM[]
+
+DWOK47
+CUT[Czy seż taja krynyczeńka]
+REG[Podole]
+TRD[DWOK47 Podole s. 210 znana na Ukrainie i Podolu]
+FKT[]
+SIG[4722200000]
+KEY[47222   08  G 2/4]
+MEL[1-712  3321  -7542  1_.0
+    1-712  3321  -7542  1_.0
+    -6_1#_  2342  -5_-7_  1231
+    -6_1#_  2342  -725-7  1_.0 //]
+BEM[]
+
+DWOK47
+CUT[O, jak tużyt, myła]
+REG[Podole]
+TRD[DWOK47 Podole s. 211 Nowy Konstantynów]
+FKT[]
+SIG[4722300001]
+KEY[47223   16  A 3/4]
+MEL[-5_1_3b__2__  4__2___
+    1_3b_5__4__  2__-5___
+    -5_1_3b__2__  7b__7b_6b_5__
+    3b_1_5__.-7_  1___1__ //]
+BEM[]
+
+DWOK47
+CUT[O, jak tużyt, myła]
+REG[Podole]
+TRD[DWOK47 Podole s. 211 Nowy Konstantynów]
+FKT[]
+SIG[4722300002]
+KEY[47223   16  A 3/4]
+MEL[-5_1_3b_43b2_3b_  4_3b_2___
+    1_3b_5_6b54_3b_  2_-7_-5___
+    -5_1_3b_43b2_3b_  7b__7b_6b_5_4_
+    3b_1_5__.-7_  1___1__ //]
+BEM[]
+
+DWOK47
+CUT[Towarzyszko życia wiosny]
+REG[Podole]
+TRD[DWOK47 Podole s. 212 Kamieniec]
+FKT[]
+SIG[4722400000]
+KEY[47224   08  G 3/4]
+MEL[54#5_+1_  54#5_.1  222_.4  3b21_1_
+    555_+1_  54#53b21  222_.4  3b21_1_
+    -5-7-7_-5_  123b_3_  555_4_  3b21_1_
+    -5-7-7_-5_  123b234  555_4_  3b21_1_ //]
+BEM[]
+
+DWOK47
+CUT[Czom ja w łuzi ne kałyna]
+REG[Podole]
+TRD[DWOK47 Podole s. 213 Satanów]
+FKT[]
+SIG[4722500000]
+KEY[47225   16  E 2/4]
+MEL[3b__3b_5_  7b__.3b_  2__7b_6b_  5_-7_1__
+    3b__+1_.7b  7b__.3b_  2_4_7b_6b_  5_-7_1__
+    3b_3b_2_1_  -726b55__  3b_3b_2_1_  -726b55__
+    5__+3b_.+2  +1_+1_+1_3b_  2_4_6b_.5  5_-7_1__ //]
+BEM[Wariant t. 10: -726b55_2_; wariant t. 12: -726b55_5_; wariant t. 14: +1__.3b_]
+
+DWOK47
+CUT[Buwaj meni zdorowa, diwczynońko moja]
+REG[Podole]
+TRD[DWOK47 Podole s. 215 od Kamieńca]
+FKT[]
+SIG[4722700000]
+KEY[47227   08  A 3/4]
+MEL[5_.23b4  5_4_2_  3b3b2_1_  -7_.-5-5_
+    5_.23b4  5_4_2_  3b3b2_1_  -7_.-5-5_
+    -5-72_5_  3b3b2_1_  -712_5_  3b3b2_1_
+    3b3b2_1_  -7_.-5-5_  -725_.4  3b_.11_ //]
+BEM[Wariant t. 2 i 6: 554_2_]
+
+DWOK47
+CUT[Hej, kozacze, w imie Boha]
+REG[Podole]
+TRD[DWOK47 Podole s. 216 od Winnicy]
+FKT[]
+SIG[4722800000]
+KEY[47228   16  G 2/4]
+MEL[-6_1_1_1_  1_1_2_3_  4_.-6-6_-6_  -6_-5#_-6__
+    4_.32_.1  -7_.-6-6_.-5  -5_.11_1_  1_1_6__
+    5_5_5_5_  5_.35_+1_  6_6_5__  -7_-6-71_0_ //]
+BEM[]
+
+DWOK47
+CUT[Piszłaby ja na muzyki]
+REG[Podole]
+TRD[DWOK47 Podole s. 221 od Kamieńca, Satanowa. Tropak dworski]
+FKT[]
+SIG[4723200000]
+KEY[47232   16  F 2/4]
+MEL[1_+1_7_+2_  +1_+1_5_.3  4_6_3_3_  2_-7_1__
+    135+1767+2  +1_+1_5_.3  4_6_3_3_  2_-7_1__
+    4__4__  3_3_5_3_  5__7__  +2_+2_+1765
+    +1_+1_3__  2_2_4__  7_7_6_.7  +1_+1_1__
+    4__4__  32345_3_  5__7__  +2_+2_+1765
+    +1_+1_3__  2_2_4__  7_7_6_.7  +1_+1_+1__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna-Tropak]
+REG[Podole]
+TRD[DWOK47 Podole s. 223 od Szarogroda, Uszycy]
+FKT[]
+SIG[4723300000]
+KEY[47233   16  E 2/4]
+MEL[1_+1_7_7_  +1_+1_6b_6b_  5_.43_5_  4_2_3_1_
+    1_+1_757+2  +1_+1_6b56b4  5_.43235  4324321-7
+    1_123_3_  4_.56b_6b_  5_.43_5_  4_2_3_1_
+    1_123_3_  4_.56b56b+1  5_4_3235  4324321-7 //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna-Szumka młynarska]
+REG[Podole]
+TRD[DWOK47 Podole s. 224 od Uszycy, Mohylowa]
+FKT[]
+SIG[4723400001]
+KEY[47234   16  G 2/4]
+MEL[5_.43b_.5  4_4_2_-7b_  5_.43b_.5  4__.2_
+    5_.43b_.2  1_1_-7_-5_  -5_-7b_-5_-7b_  1_1_3b_3b_
+    5_.43b_.5  4_4_2_-7b_  5_.43b_.5  4__.2_
+    5_.43b_.2  1_1_-7_-5_  -5_-7b_-5_-7b_  1__1__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna-Szumka młynarska]
+REG[Podole]
+TRD[DWOK47 Podole s. 224 od Uszycy, Mohylowa]
+FKT[]
+SIG[4723400002]
+KEY[47234   16  G 2/4]
+MEL[5_.43b57b5  4_4_2_4_  5_.43b57b5  4_2_4_4#_
+    56b543b43b2  1_1_-7_-5_  -5-72-7-5-72-7  1_1_3b_3b_
+    5_.43b57b5  4_4_2_4_  5_.43b57b5  4_2_4_4#_
+    56b543b43b2  1_1_-7_-5_  -5-72-7-5-72-7  1__1__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna-Szumka-dumka]
+REG[Podole]
+TRD[DWOK47 Podole s. 225 od Kamieńca]
+FKT[]
+SIG[4723500000]
+KEY[47235   16  A 2/4]
+MEL[+1__7_+1_  5_6b54_4_  5_7b_6b_+1_  5__+1_0_
+    4_543b_1-7  1_3b45_4_  3b_5_2_-7_  1__2__
+    46b543b21-7  123b45_+1_  3b_5_2_5_  1__2__
+    1_3b453b21  6b_6b55__  556b55__
+    123b453b21  6b_6b55__  556b55__
+    4_5_3b_1_  -7_2_2_3b_  4_5_3b_1_  -7_-5_1__
+    44453b23b1  -7123b4_23b  44453b23b1  -75-5-71_3b_
+    2__4_2_  -7_2_2__  3b_5_4_2_  -7123b2__  3b54#543b21  5__5__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 226 Podole]
+FKT[]
+SIG[4723600000]
+KEY[47236   16  G 2/4]
+MEL[5__6b_6b_  5__4_3b2  1_1_-7b_-5_  1_2_3b_4_
+    5__6b_6b_  5__4_3b2  1_(3b13b)5_-7_  1___
+    4__.3b_  5_2_3b_4_  5__6b_6b_  5_.7+2_7_
+    +1__6b_6b_  5__4_3b2  1_3b_5_-7b_  1___ //]
+BEM[Wariant t. 15: 3b13b_5_-7b_]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 227 Ożohowce, Jachnowce]
+FKT[]
+SIG[4723700000]
+KEY[47237   16  C 2/4]
+MEL[+1__+1_5_  7_7_7_5_  +17+1+2+3_+1_  +2_+4#_+5_5_
+    +1_+1_+1_5_  7_767_5_  7_+1_+2_+25
+    7_5_+5_+2+1  7_+1_+2+3+2+1  7_5_5_5_
+    7_+1_+2+3+2+1  7_5_+5_+2+1  7_+1_+2_+25  7_5_5_5_ //]
+BEM[Wariant t. 3-4: +17+1_+2+3+3+1  +2_+4#_+5_57]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 227 Ożohowce, Jachnowce]
+FKT[]
+SIG[4723800000]
+KEY[47238   16  G 2/4]
+MEL[5__5_5_  434_5754  5_5_3_3_  4_3_2_1_
+    123_3_1_  3_4_5754  575_5_3_  4_3_2_1_
+    +1_5_3_5_  4_3_2_1_  +1_5_3_5_  4_3_2_1_ //]
+BEM[Wariant t. 1: 5__.5_; wariant t. 5: 1_3__3_]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 228 Podole, Dniestr]
+FKT[]
+SIG[4723900000]
+KEY[47239   16  G 2/4]
+MEL[5_.6b5_4_  3b_-7b_3b_4_  5_.6b5_4_  3b__7b_.6b
+    5_.43b_2_  1_1_-7_-5_  3b54_3b_2_  1__+1_.6b
+    5_.43b_2_  1_1_-7_-5_  3b54_3b_2_  1__1__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 228 od Kamieńca]
+FKT[]
+SIG[4724000000]
+KEY[47240   16  A 2/4]
+MEL[1_.3b2_.4  3b_.54_.6b  5_.43b_1_  2_-7_-5__
+    1_.3b2_.4  3b_.54_.6b  5_4_-5_-6-7  1__0__
+    3b_5_7b_+1_  7b_5_4_6b_  5_.43b213b  2_-7_-5__
+    1-513b2-724  3b13b54246b  5_4_-5_-6-7  1__0__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna-Mówią ludzie]
+REG[Podole]
+TRD[DWOK47 Podole s. 229 Zawadyńce pod Kamieńcem]
+FKT[]
+SIG[4724100000]
+KEY[47241   08  G 2/4]
+MEL[324-7  2111  3222  4333
+    324-7  2111  32-72  2111 //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 229 Ożohowce, Jachnowce]
+FKT[]
+SIG[4724200000]
+KEY[47242   16  G 2/4]
+MEL[5_+1_7_+1_  5_7_6_4_  5_5_+17+1_  5_7_6_4_
+    3_3_4_2_  1_7_6_4_  3_3_4_2_  1_1_1__
+    3__4__  5_7_6_4_  3_3_4_2_
+    1_7_6_4_  3_314_2-7  1_1_1__ //]
+BEM[Wariant t. 1: 57+1_7_+1_; wariant t. 6: 1_7_6764; wariant t. 11: 313_4_2_]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 230 Ożohowce, Jachnowc]
+FKT[]
+SIG[4724300001]
+KEY[47243   16  A 2/4]
+MEL[1_5_4#_6_  5_5_5_2_  3b23b45_2_
+    1_5_4#_6_  5_5_5_2_  3b23b21__
+    1__2321  -7_-7_-7-5-6b-7  1-71_23b2-7
+    1__2321  -7_-7_-7-5-6b-7  1_1_1__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 230 Ożohowce, Jachnowc]
+FKT[]
+SIG[4724300002]
+KEY[47243   16  A 2/4]
+MEL[1_5_4#_6_  5_5_4_2_  3b23b45__
+    1_5_4#_6_  5_5_5_2_  3b23b21__
+    1__2321  -7_-7_-7-5-6b-7  1-71_23b2_
+    1_1_2321  -7_-7_-7-5-6b-7  1_1_1__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 230 od Litynia, Latyczowa]
+FKT[]
+SIG[4724400000]
+KEY[47244   16  A 2/4]
+MEL[3b_3b_5_5_  4_6_5_2_  3b23b45_5_  45425__
+    1_2_3b23b1  2_5__-7_  1_2_3b23b1
+    -7_-7__-5_  -4_.-5-6b_-6b_  -5_-7_-5__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 231 od Mohylowa]
+FKT[]
+SIG[4724500000]
+KEY[47245   16  E 2/4]
+MEL[1_3b_5_3b_  1_3b_5_+1_  +1+2+3b+17_+16b  543b21_+1_  +1__7_+1_  5_3b_1_5_
+    -7__2_5_  4#_5_3b_5_  -7__2_5_  4#_5_3b_1_ //]
+BEM[Wariant t. 1-2: 123b45_3b_  123b45_+1_]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 231 Ożohowce, Jachnowce]
+FKT[]
+SIG[4724600001]
+KEY[47246   16  F 2/4]
+MEL[5_5_4_4_  3_3_345_  5_5_4_4_  3_321_1_
+    1__+1_+1_  +1_6567+16  5_4_4_4_  3_321-71_ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 231 Ożohowce, Jachnowce]
+FKT[]
+SIG[4724600002]
+KEY[47246   16  F 2/4]
+MEL[565_4_4_  3_31345_  5_5_4_4_  3_321-71_
+    1_57+1_+1_  +1_6567+16  5_4_4_4_  3_321-71_ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 232 z Tarnopolskiego]
+FKT[]
+SIG[4724700001]
+KEY[47247   16  A 2/4]
+MEL[+1_7_7_6b_  5_4_424_  5_7b_57b5_  5__4_2_
+    5_4#_4#_3b_  3b_2_1-51_  1_1_1-51_  1__1__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 232 z Tarnopolskiego]
+FKT[]
+SIG[4724700002]
+KEY[47247   16  A 2/4]
+MEL[+1_7_7_6b_  6b_7_6b54_  7b_5_5_5_  5__4_2_
+    5_4#_4#_3b_  3b_2_1-51_  1-51_1-51_  1__1__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 232 od Humania]
+FKT[]
+SIG[4724800000]
+KEY[47248   16  A 2/4]
+MEL[1_5_3_1_  23423__  1_5_3_1_  23423__
+    1_5_3_1_  2_4_3_1-5  1_5_3_1_  2_4_3__
+    2_1_-7_-6_  -5_-6-71__  2321-7_-5_  -5_-6-71__
+    2_1_-7_-6_  -5-5-7_1_3_  4321-7_-5_  -5_-7_1__
+    -5-7253135  2-7253135  2-7253135  23423__
+    -5_5_3_5_  2_5_3_5_  2_5_3_5_  2_2_3__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 233 od Bałty]
+FKT[]
+SIG[4724900000]
+KEY[47249   16  F 2/4]
+MEL[5_5_6_6_  57b57b6_4_  5_5_6_6_  57b57b6_4_
+    5_5_6_6_  57b57b6_4_  3_3_2_2_  1___
+    +1_.76_7_  +1___  +1_.76_7_  +1___
+    +1_.53_5_  5_5_6_6_  57b57b6_4_  3_3_2_2_  1___
+    +1_.76543  3_3_2_2_  1___
+    +1_.76543  3_3_2_2_  1___ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 233 od Uszycy]
+FKT[]
+SIG[4725000000]
+KEY[47250   16  C 2/4]
+MEL[5_5_6_6_  57+27+1_+1_  5_5_6_6_  57+27+1__
+    5_5_+4_.+3  +27+2+4+3+1+3+5  5_5_+4_.+3  +2_+2_+1__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 234 Ożohowce, Jachnowce]
+FKT[]
+SIG[4725100000]
+KEY[47251   16  F 2/4]
+MEL[7_7_+2_7_  +17+165_.3  4_4_4342  12345__
+    5_7_+17+16  5_5_4342  3_5_4342  1_3_-5__
+    1_3_4342  1-713-5_-5_  1_3_4342  1_3_-5__ //]
+BEM[Wariant t. 1: 7_7_+2_+17]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 234 Ożohowce, Jachnowce]
+FKT[]
+SIG[4725200000]
+KEY[47252   16  A 2/4]
+MEL[1_2_3b_5_  43b24543b2  123b_3b23b1  23b1_2__
+    3b_1_1-7b24  23b21-7_1_  -5_-7b_-7b-5-6b-7b  1__2__
+    3b_1_1-7b24  23b21-7_1_  -5_-7b_-7b-5-6b-7b  1__2__ //]
+BEM[Wariant t. 2: 425_5_5_]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 235 Ożohowce, Jachnowce]
+FKT[]
+SIG[4725300000]
+KEY[47253   16  A 2/4]
+MEL[1_1_3b23b_  212-7b1__
+    3b_4_5_5_  4#_2_3b__
+    5_5_4_4_  3b_3b21__
+    1_3b45_2-7  1_1_1__ //]
+BEM[Wariant t. 1: 1_5__3b_; wariant t. 4: 4#_6_5__]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 235 od Olhopola]
+FKT[]
+SIG[4725400000]
+KEY[47254   16  A 2/4]
+MEL[3b_5_43b21  -5_-7_1__
+    3b_5_43b21  -5_-7_2__
+    5_.6b543b2  1_2_3b1-7-5
+    3b_5_43b21  -5_-7_1__ //]
+BEM[Wariant t. 6: 1_2_43b21-75]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 236 od Kamienia Podolskiego]
+FKT[]
+SIG[4725500000]
+KEY[47255   16  A 2/4]
+MEL[-5_1_^-7-6-5  -5_-7_1-7-5-7  1_2_3b23b1  2_5__-7_
+    -5_1_^-7-6-5  -5_-7_1-7-5-7  1_2_3b_53b  2_2__-5_
+    1_1_^1-7-5  -5_-7_1-7-5-3  -4_-5_-6b_-6b_  -5__-5__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 236 Ożohowce, Jachnowce]
+FKT[]
+SIG[4725600001]
+KEY[47256   16  G 2/4]
+MEL[+1_5_6564  5_535_5_  4_4_4564  5__5__
+    +1_56654_  3_323_1_  1_2_3b_3b2  1__1__
+    1_2_3b23b2  1_+1_+1_+1_  +2_7_5_67b
+    +1_+1_+1_+1_  +2_+2_757b_  +1_+1_+1_+1_ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 236 Ożohowce, Jachnowce]
+FKT[]
+SIG[4725600002]
+KEY[47256   16  G 2/4]
+MEL[+1_5+16_54  5_535_5_  6_6_4564  5__5__
+    +1_56654_  3_3232-7b_  1_2_3b23b2  1__1__
+    1_2_3b23b2  1_+1_+17+1_  +2_7_5_67b
+    +1_+17+1_+1_  +2_+2_757b+2  +1_+1_+17b+1_ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 237 od Litynia]
+FKT[]
+SIG[4725700000]
+KEY[47257   16  A 2/4]
+MEL[5_.-7123b4  5_.-7123b4  5_+1_3b23b5  43b23b2__
+    4_.53b21_  -7_.12_-5_  123b45_.-7  1__5__
+    4_.53b21_  -7_.12_-5_  123b45_.-7  1__1__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 238 Ożohowce, Jachnowce]
+FKT[]
+SIG[4725800000]
+KEY[47258   16  C 2/4]
+MEL[3_.45654  3_345654  3_345654  3_5_3_5_
+    5_+4_+4+3+4+2  +1_+3_+4+3+2+1  7_7_7675  +1_5_+1_5_ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 238 Ożohowce, Jachnowce]
+FKT[]
+SIG[4725900001]
+KEY[47259   16  A 2/4]
+MEL[14#5_5_5_  4#_.24_6_  5_5_5_5_  4#_.45432
+    1_1_3b_3b_  23b245_42  1_1_-7_-7_  -5__-5_-5_ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 238 Ożohowce, Jachnowce]
+FKT[]
+SIG[4725900002]
+KEY[47259   16  A 2/4]
+MEL[14#5_5_5_  4#_.24_6_  5_5_5_5_  4#_.4543b2
+    1-7b13b2123b  2_4#_5_42  1_1_-7_-7-6b  -5__-5_-5_ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 239 Ożohowce, Jachnowce]
+FKT[]
+SIG[4726000000]
+KEY[47260   16  G 2/4]
+MEL[6567+1_+1_  +1_+1_+1_5_  6567+1_+1_  +1__5__
+    456_6564  5_5_5_5_  6_6_5553  1__1__ //]
+BEM[Wariant t. 4: +1__7565]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 239 Ożohowce, Jachnowce]
+FKT[]
+SIG[4726100000]
+KEY[47261   16  A 2/4]
+MEL[3b23b4#5_5_  2_23b4_4_  3b23b4#5_5_  43b23b4_4_
+    3b_1_2__  1_24#5_-7_  1_1_-7_-7_  -5-7b24#5_-7b_
+    1_1_-7_-7_  2-724#5_-7_  1__1__  2_4#_5__ //]
+BEM[Wariant t. 2: 43b23b4_4_]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 240 od Humania]
+FKT[]
+SIG[4726200000]
+KEY[47262   16  G 2/4]
+MEL[3b_5__43b  2_4__3b2  3b_5__43b  2_4__5_
+    3b_3b21_13b  2_-7_1_.2  3b_3b21_13b  5_-7_1__
+    3b_3b21_13b  2_-7_1_.2  3b_3b21_13b  5_-7_1__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 240 Ożohowce, Jachnowce]
+FKT[]
+SIG[4726300001]
+KEY[47263   16  A 2/4]
+MEL[24#  5__.5_  4#_5_4_2_  4#_5_6_5_  4#_5_4_2_
+    1_1_3b23b_  3b_1_-7_-5_  -7_1_2_3b_  2_1_-7_ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 240 Ożohowce, Jachnowce]
+FKT[]
+SIG[4726300002]
+KEY[47263   16  A 2/4]
+MEL[24#  5__.5_  4#_5_4_2_  4#_5_6_5_  4#_5_4231
+    1__2_(23b1)  13b1_-7_-5_  -7_1_2_3b_  2_1_-7_ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 240 Kamieniec]
+FKT[]
+SIG[4726400000]
+KEY[47264   16  G 4/4]
+MEL[4__6_4_+1__.6_  5_4_3_4_5_3_1__
+    2__6__5_6_5_43  2__2_321__1__
+    2_3_4_5_6__.5_  -5__-5_-7_1__1__ //]
+BEM[Wariant t. 2: 5__+1_2_6_5_4_3_]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 241 od Husiatyna, Latyczowa]
+FKT[]
+SIG[4726500000]
+KEY[47265   16  A 4/4]
+MEL[1__3b_.15__3b_.1  -7__-5_.-71__1_0_
+    1__3b_.15__3b_.1  -7__-5_.-71__1_0_
+    3b__5_.7b7b__6b_5_  4__7b_.6b5__.3b_
+    1__3b_.15__3b_.1  -7__-5_.-71__1_0_ //]
+BEM[Wariant t. 3: 3b__5_.7b5__6b_5_]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 241 od Bracławia]
+FKT[]
+SIG[4726600000]
+KEY[47266   16  G 4/4]
+MEL[5__6b_6b_5__4_3b2  1_1_-7_.-51_2_3b_4_
+    5__6b_6b_5__4_3b2  1_3b_5_-7_1__1__
+    4__3b_3b_4_2_3b_4_  5__6b_6b_5_.7+2_7_
+    +1__6b_6b_5__4_3b2  1_(3b13b)5_.-71__1__ //]
+BEM[Wariant t. 4-5: 1_(3b13b)5_-7_1__1__  4__5_5_4_2_3b_4_]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 242 Podole]
+FKT[]
+SIG[4726700000]
+KEY[47267   16  C 3/4]
+MEL[5_.55_+3b_+2_+1_  +1_.77__0__  5_.55_+3b_+2_+1_  +1_.77__0__
+    7b___+1_.7b  7b6b56b4__7b_.6b  5___6b_7_  +1__0__0__
+    7b___+1_.7b  7b6b56b4__7b_.6b  5___6b_7_  +1__0__0__ //]
+BEM[]
+
+DWOK47
+CUT[Instrumentalna]
+REG[Podole]
+TRD[DWOK47 Podole s. 242 z Tarnopolskiego]
+FKT[]
+SIG[4726800000]
+KEY[47268   16  C 3/4]
+MEL[+5_+5__+5_+4#+5+7b+6b  +6b_+5_5__0__  +5_+5_+4#_+5_+7b_+6b_  +6b_+5_5__0__
+    +5_+5_+4#_+5_+6b_+5_  +7b__.+6b_+5_+4_  +3b__.5_+3b_+2_  +2__+1__0__ //]
+BEM[Wariant t. 5-6: +5_+5_+4#_+4_+5_  +7b__.+6b_+4__]

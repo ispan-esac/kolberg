@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK1812300002-zabila_kwika_barsc_bedzie.krn
+!!!OTL: Zabiła kwika barsc będzie
+!!!source: DWOK18
+!!!id: 18123
+!!!signature: 1812300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8cc
+=2
+8cc
+4b
+=3
+8dd
+8dd
+8cc
+=4
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8a
+=6
+16a
+16g
+8b
+8cc
+=7
+16b
+16b
+8b
+8a
+=8
+8a
+8g}
+8r
+==
+*-
+!!!ONB: Do barszczu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 99} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 99}
+!!!page: 99
+!!!ONB: Converted on 2024/12/26 with esac2hum

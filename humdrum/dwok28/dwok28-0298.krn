@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2829800000-hulaj_bujaj_jeleniu.krn
+!!!OTL: Hulaj bujaj jeleniu
+!!!source: DWOK28
+!!!id: 28298
+!!!signature: 2829800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+8ee
+8cc
+=2
+16dd
+16ff
+4dd}
+!!LO:LB:g=esac
+=3
+{16ff
+16ee
+8ee
+16ee
+16cc
+=4
+16dd
+16ee
+4dd}
+!!LO:LB:g=esac
+=5
+{16dd
+[16cc
+8cc]
+16dd
+16ee
+=6
+16ff
+16ee
+4cc}
+!!LO:LB:g=esac
+=7
+{16ff
+16ee
+8ee
+16ee
+16cc
+=8
+16dd
+16ee
+4dd}
+!!LO:LB:g=esac
+=9
+{16dd
+[16cc
+8cc]
+16dd
+16ee
+=10
+16ff
+16ee
+4cc}
+!!LO:LB:g=esac
+=11
+{4.g
+=12
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=296 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 277} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 277}
+!!!page: 277
+!!!ONB: Converted on 2024/12/26 with esac2hum

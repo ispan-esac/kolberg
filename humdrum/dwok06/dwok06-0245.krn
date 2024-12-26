@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK06-K0245-gorzala_lipka_i_jawor.krn
+!!!OTL: Gorzala lipka i jawor
+!!!source: DWOK06
+!!!id: K0245
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8f
+8a
+8cc
+=2
+4ff
+8dd
+=3
+8dd
+8dd
+8cc
+=4
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+=6
+4cc
+8g
+=7
+8b-
+8b-
+8a
+=8
+8b-
+8b-
+8a}
+!!LO:LB:g=esac
+=9
+{8f
+8a
+8cc
+=10
+4ff
+8dd
+=11
+8dd
+8dd
+8cc
+=12
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+8a
+=14
+4cc
+8g
+=15
+8b-
+8b-
+8a
+=16
+8b-
+8b-
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 124} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

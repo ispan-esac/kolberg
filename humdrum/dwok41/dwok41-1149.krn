@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK41114900000-a_biedac_nam_mazury.krn
+!!!OTL: A biedać nam Mazury
+!!!source: DWOK41
+!!!id: 411149
+!!!signature: 41114900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8cc
+8dd
+4ee
+4cc
+=2
+4ff
+4ff
+4ff}
+!!LO:LB:g=esac
+=3
+{8ee
+8gg
+4ee
+4cc
+=4
+4ff
+4ff
+4ff}
+!!LO:LB:g=esac
+=5
+{8ff
+8gg
+4aa
+4ff
+=6
+4dd
+4dd
+4dd}
+!!LO:LB:g=esac
+=7
+{8cc
+8dd
+4ee
+4cc
+=8
+4ff
+4ff
+4ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=583 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 496} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 496}
+!!!page: 496
+!!!ONB: Converted on 2024/12/26 with esac2hum

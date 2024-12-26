@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7761000000-oj_nie_kochajze_dworaka.krn
+!!!OTL: Oj nie kochajże dworaka
+!!!source: DWOK77
+!!!id: 77610
+!!!signature: 7761000000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{8g
+8b-
+4.dd
+8b-
+=2
+8a
+8cc
+4ee-
+4gg
+=3
+8gg
+8ff
+4dd
+4cc
+=4
+8a
+8cc
+4a
+4f}
+!!LO:LB:g=esac
+=5
+{8g
+8b-
+4.dd
+8b-
+=6
+8a
+8cc
+4ee-
+4cc
+=7
+8ff
+8ff
+4dd
+4cc
+=8
+8a
+8cc
+4a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 311
+!!!ONB: Converted on 2024/12/26 with esac2hum

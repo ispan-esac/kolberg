@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK7781100000-mialam_sie_kochac_w_tym_roku.krn
+!!!OTL: Miałam się kochać w tym roku
+!!!source: DWOK77
+!!!id: 778110
+!!!signature: 7781100000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8cc#
+8dd
+4.ee
+8dd#
+=2
+8ff#
+8ee
+4ee
+4e
+=3
+8a
+8b
+4.cc#
+8b
+=
+12dd
+12cc#
+12b
+4cc#
+4ee}
+!!LO:LB:g=esac
+=4
+{8cc#
+8dd
+4.ee
+8dd#
+=5
+8ff#
+8ee
+4ee
+4e
+=6
+8a
+8b
+4.cc#
+8b
+=7
+8cc#
+8b
+4cc#
+4a}
+!!LO:LB:g=esac
+=8
+{8cc#
+8b
+4.b
+8a
+=9
+8g#
+8b
+4ee
+4gg#
+=10
+8bb
+8aa
+4.ff#
+8dd#
+=11
+8ee
+8ff#
+4gg#
+4ee}
+!!LO:LB:g=esac
+=12
+{8dd
+8cc#
+4.cc#
+8b
+=13
+8a
+8cc#
+4.ff#
+8ee
+=14
+8ee
+8dd
+4dd
+4e
+=15
+8a
+8b
+4cc#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

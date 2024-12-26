@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK02-K0313-oj_da_rozwijaj_sie.krn
+!!!OTL: Oj da rozwijaj sie
+!!!source: DWOK02
+!!!id: K0313
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4.d
+=2
+16g
+16a
+8b
+8cc
+=3
+8dd
+8dd
+8cc#
+=4
+16dd
+16ee
+8dd
+8cc#
+=5
+8a
+4g}
+!!LO:LB:g=esac
+=6
+{16f#
+16a
+8cc
+8b
+=7
+8f#
+8f#
+8e
+=8
+16f#
+16a
+8.cc
+16b-
+=9
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 230} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 230}
+!!!page: 230
+!!!ONB: Converted on 2024/12/26 with esac2hum

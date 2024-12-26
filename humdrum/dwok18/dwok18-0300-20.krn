@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1830000020-oj_niemas_ci_to_niemas-instrumentalna.krn
+!!!OTL: Oj niemas ci to niemas-Instrumentalna
+!!!source: DWOK18
+!!!id: 18300
+!!!signature: 1830000020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4g
+16a
+16b-
+=2
+16cc
+16cc
+8dd
+8b-
+=3
+4g
+16a
+16b-
+=4
+16cc
+16cc
+8a
+8b-}
+!!LO:LB:g=esac
+=5
+{4g
+16a
+16b-
+=6
+16cc
+16cc
+8dd
+8b-
+=7
+8g
+8g
+16a
+16b-
+=8
+16cc
+16cc
+8a
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 168} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

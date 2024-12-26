@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2018600000-te_koniki_te_siwase.krn
+!!!OTL: Te koniki te siwase
+!!!source: DWOK20
+!!!id: 20186
+!!!signature: 2018600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16cc
+8cc
+8cc
+=2
+16b
+16cc
+8dd
+8dd
+=3
+16cc
+16cc
+8cc
+8cc
+=4
+16b
+16cc
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8ff
+8dd
+=6
+4ee
+8cc
+=7
+16b
+16dd
+8ff
+8dd
+=8
+4cc
+8g}
+!!LO:LB:g=esac
+=9
+{16b
+16dd
+8ff
+8dd
+=10
+4ee
+8cc
+=11
+16b
+16dd
+8ff
+8dd
+=12
+8cc
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 182} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 182}
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

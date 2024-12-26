@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK8308000000-siadla_mucha_na_konopie.krn
+!!!OTL: Siadła mucha na konopie
+!!!source: DWOK83
+!!!id: 83080
+!!!signature: 8308000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8a
+8a
+8g
+8a
+8b
+=2
+8cc
+8cc
+8cc
+8g
+4g
+=3
+8a
+8a
+8a
+8g
+8a
+8b
+=4
+4cc
+2cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+4dd
+4cc
+=6
+8cc
+8b-
+8a
+8g
+4g
+=7
+8a
+8dd
+8cc
+8g
+4g
+=8
+4a
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 83} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

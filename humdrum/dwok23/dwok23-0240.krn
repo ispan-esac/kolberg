@@ -1,0 +1,117 @@
+!!!!SEGMENT: DWOK2324000000-matko_boska_czestochowska.krn
+!!!OTL: Matko Boska Częstochowska
+!!!source: DWOK23
+!!!id: 23240
+!!!signature: 2324000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4cc
+4ff
+=2
+8ee
+8gg
+4ff
+4dd
+=3
+8dd
+8dd
+2cc
+=4
+8dd
+8dd
+2cc}
+!!LO:LB:g=esac
+=5
+{8b-
+8a
+4g
+4cc
+=6
+2.f}
+!!LO:LB:g=esac
+=7
+{8f
+8a
+4cc
+4ff
+=8
+8ee
+8gg
+4ff
+4dd
+=9
+8dd
+8dd
+2cc
+=10
+8dd
+8dd
+2cc}
+!!LO:LB:g=esac
+=11
+{8b-
+8a
+4g
+4b-
+=12
+2.f}
+!!LO:LB:g=esac
+=13
+{8f
+8a
+4cc
+4ff
+=14
+8ee
+8gg
+4ff
+4dd
+=15
+8dd
+8dd
+2cc
+=16
+8dd
+8dd
+2cc}
+!!LO:LB:g=esac
+=17
+{8b-
+8a
+4g
+4cc
+=18
+2.f}
+!!LO:LB:g=esac
+=19
+{8a
+8cc
+4g
+4b-
+=20
+8a
+8cc
+2b-
+=21
+8a
+8cc
+4g
+4b-
+=22
+8a
+8cc
+2b-}
+==
+*-
+!!!ONB: Pieśń kompanij od Krakowa idących do Częstochowy
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=251 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 237} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 237}
+!!!page: 237
+!!!ONB: Converted on 2024/12/26 with esac2hum

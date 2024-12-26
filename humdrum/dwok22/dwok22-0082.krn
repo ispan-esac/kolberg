@@ -1,0 +1,117 @@
+!!!!SEGMENT: DWOK2208200000-kto_wypije_i_wysiacy.krn
+!!!OTL: Kto wypije i wysiący
+!!!source: DWOK22
+!!!id: 22082
+!!!signature: 2208200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16d
+8g
+8g
+=2
+4a
+8f#
+=3
+4a
+8g}
+!!LO:LB:g=esac
+=4
+{16d
+16d
+8g
+8g
+=5
+4a
+8f#
+=6
+4a
+8g}
+!!LO:LB:g=esac
+=7
+{16d
+16cc
+8cc
+8cc
+=8
+4b
+8g
+=9
+8b
+4a}
+!!LO:LB:g=esac
+=10
+{16b
+16a
+8b
+8cc
+=11
+4dd
+8f#
+=12
+8a
+4g}
+!!LO:LB:g=esac
+=13
+{4dd
+8b
+=14
+4dd
+8b
+=15
+16dd
+16dd
+8cc
+8a
+=16
+4cc
+8b}
+!!LO:LB:g=esac
+=17
+{16d
+16d
+8f#
+8a
+=18
+16g
+16g
+8b
+8b
+=19
+16dd
+16dd
+8cc
+8a
+=20
+4cc
+8b}
+!!LO:LB:g=esac
+=21
+{16d
+16d
+8f#
+8a
+=22
+16g
+16g
+8b
+8b
+=23
+16dd
+16dd
+8cc
+8a
+=24
+4cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 70} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

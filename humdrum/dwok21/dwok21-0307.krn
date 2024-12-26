@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2130700000-oj_niedalecko_pojdzies_ino.krn
+!!!OTL: Oj niedalecko pojdzies ino
+!!!source: DWOK21
+!!!id: 21307
+!!!signature: 2130700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4cc
+16b-
+16a
+=2
+16cc
+16g
+8f
+8a
+=3
+16cc
+16cc
+8b-
+8a
+=4
+8b-
+8g
+8e}
+!!LO:LB:g=esac
+=5
+{16f
+16g
+8b-
+8a
+=6
+8cc
+8g
+8f
+=7
+16a
+16cc
+8b-
+8a
+=8
+8g
+8d
+8c}
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 126} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 126}
+!!!page: 126
+!!!ONB: Converted on 2024/12/26 with esac2hum

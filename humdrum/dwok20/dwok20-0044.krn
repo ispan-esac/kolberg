@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2004400000-przychodziemy_po_dyngusie.krn
+!!!OTL: Przychodziemy po dyngusie
+!!!source: DWOK20
+!!!id: 20044
+!!!signature: 2004400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4b
+4dd
+4cc
+4a
+=2
+8cc
+8b
+8a
+8f#
+4g
+4d
+=3
+4g
+4a
+4b
+4cc
+=4
+4a
+4b
+4g
+4d}
+!!LO:LB:g=esac
+=5
+{4b
+4dd
+4cc
+8a
+8b
+=6
+8cc
+8b
+8a
+8f#
+8g
+8f#
+4d
+=7
+8g
+8g
+4a
+4b
+4cc
+=8
+4a
+4b
+8g
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 105} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

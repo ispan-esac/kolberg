@@ -1,0 +1,115 @@
+!!!!SEGMENT: DWOK5061100000-gdy_na_wybrzezach_twojej_ojczyzny.krn
+!!!OTL: Gdy na wybrzeżach twojej ojczyzny
+!!!source: DWOK50
+!!!id: 50611
+!!!signature: 5061100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{8f
+8a
+8cc
+8ff
+8ee
+8dd
+=2
+8cc
+8dd
+8cc
+4a
+8f}
+!!LO:LB:g=esac
+=3
+{8f
+8a
+8cc
+8g
+8cc
+8ee
+=4
+8gg
+8ff
+8ee
+8dd
+8cc
+8b-}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+8cc
+8ff
+8ee
+8dd
+=6
+8cc
+8dd
+8cc
+4a
+8f}
+!!LO:LB:g=esac
+=7
+{8f
+8a
+8cc
+8g
+8cc
+8ee
+=8
+8gg
+8ff
+8ee
+8dd
+8cc
+8b-}
+!!LO:LB:g=esac
+=9
+{8b-
+8a
+8b-
+8g
+8a
+8b-
+=10
+8cc
+8b
+8cc
+8a
+8b-
+8b}
+!!LO:LB:g=esac
+=11
+{8cc
+8b
+8cc
+4aa
+8ff
+=12
+8a
+8g
+8a
+4ff
+8cc}
+!!LO:LB:g=esac
+=13
+{8g
+8b-
+8dd
+4cc
+8e
+=14
+8f
+8a
+8cc
+4ff
+8ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=393 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 360-361} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, pp. 360-361}
+!!!page: 360-361
+!!!ONB: Converted on 2024/12/26 with esac2hum

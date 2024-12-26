@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2719900000-on_idzie_droga_ona_len_piele.krn
+!!!OTL: On idzie drogą ona len piele
+!!!source: DWOK27
+!!!id: 27199
+!!!signature: 2719900000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=1
+{4a
+8a
+8b
+8cc#
+8b
+4b
+=2
+4b
+8b
+8cc#
+8dd
+8cc#
+4cc#}
+!!LO:LB:g=esac
+=3
+{4a
+8a
+8b
+8dd
+8cc#
+8b
+8g#
+=4
+4a
+8e
+8e
+4f#
+4e}
+!!LO:LB:g=esac
+=5
+{4a
+8g#
+8e
+4f#
+4e
+=6
+4a
+8g#
+8e
+4f#
+4e}
+!!LO:LB:g=esac
+=7
+{4a
+8a
+8b
+8dd
+8cc#
+8b
+8g#
+=8
+4a
+8e
+8e
+4f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 254} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 254}
+!!!page: 254
+!!!ONB: Converted on 2024/12/26 with esac2hum

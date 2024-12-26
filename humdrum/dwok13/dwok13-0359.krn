@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1335900000-po_furmanie_bicz_ostanie.krn
+!!!OTL: Po furmanie bicz ostanie
+!!!source: DWOK13
+!!!id: 13359
+!!!signature: 1335900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8dd
+8ff
+=2
+16gg
+16ee
+8dd
+8ff
+=3
+16gg
+16ee
+8cc
+8dd
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{16g
+16b-
+8a
+8f
+=6
+16g
+16b-
+8a
+8f
+=7
+16g
+16g
+8b
+8cc
+=8
+16cc
+16b
+4g}
+==
+*-
+!!!ONB: Alternatywnie możliwe kodowanie w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 154} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 154}
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

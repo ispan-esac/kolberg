@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK04-K0110-przyjechalo_ctyrych_rekrutantow_z_wojny.krn
+!!!OTL: Przyjechalo ctyrych rekrutantow z wojny
+!!!source: DWOK04
+!!!id: K0110
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{8cc
+8cc
+8cc
+8cc
+4b
+4g
+=2
+8a
+8a
+8a
+8b
+4dd
+4g
+=3
+4a
+8cc
+8a
+4.g
+8f}
+!!LO:LB:g=esac
+=4
+{8e
+8d
+8c
+8e
+4g
+4cc
+=5
+4a
+8cc
+8a
+4.g
+8f
+=6
+8e
+8d
+8c
+8e
+4g
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 69-70} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 69-70}
+!!!page: 69-70
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1815600000-da_ja_sobie_da_ide.krn
+!!!OTL: Da ja sobie da idę
+!!!source: DWOK18
+!!!id: 18156
+!!!signature: 1815600000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{16e
+16g
+8b
+8dd
+=2
+16a
+16cc
+8b
+8a
+=3
+8e
+8g
+8d
+=4
+16e
+16g
+8f#
+8e}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8dd
+=6
+16a
+16cc
+8b
+8a
+=7
+16e
+16f#
+8g
+8d
+=8
+16e
+16g
+8f#
+8e}
+==
+*-
+!!!ONB: Starościny po obiedzie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 110} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 110}
+!!!page: 110
+!!!ONB: Converted on 2024/12/26 with esac2hum

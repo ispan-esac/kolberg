@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4033100000-nie_wiesz_panie_co_ja_wiem.krn
+!!!OTL: Nie wiesz panie co ja wiem
+!!!source: DWOK40
+!!!id: 40331
+!!!signature: 4033100000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8g#
+8a
+8b
+=2
+4cc
+4ee
+=3
+4.cc
+8b}
+!!LO:LB:g=esac
+=4
+{8a
+8g#
+8a
+8cc
+=5
+4b
+4a
+=6
+4.g#
+8e}
+!!LO:LB:g=esac
+=7
+{8a
+8g#
+8a
+8cc
+=8
+4b
+4a
+=9
+4.g#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=397 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 334} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 334}
+!!!page: 334
+!!!ONB: Converted on 2024/12/26 with esac2hum

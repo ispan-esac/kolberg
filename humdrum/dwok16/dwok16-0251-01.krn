@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1625100001-przyjechal_do_nij_oj_czterema_konmi.krn
+!!!OTL: Przyjechał do nij, oj czterema końmi
+!!!source: DWOK16
+!!!id: 16251
+!!!signature: 1625100001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8.ee
+16cc
+=2
+4.ee
+=3
+16dd
+16dd
+8dd
+8a
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8.ee
+16cc
+=6
+8ee
+[4dd
+=7
+8dd]
+4ee
+=8
+16cc
+16a}
+4r
+!!LO:LB:g=esac
+=9
+{16ee
+16cc
+8dd
+8ee
+=10
+8dd
+4b
+=11
+16a
+16a
+8a
+8a
+=12
+4.g}
+!!LO:LB:g=esac
+=13
+{16ee
+16cc
+8.dd
+16ee
+=14
+8dd
+4b
+=15
+4.a
+=16
+8a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 212} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 212}
+!!!ONB: Converted on 2024/12/26 with esac2hum

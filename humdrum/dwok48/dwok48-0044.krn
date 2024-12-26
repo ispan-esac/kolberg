@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK4804400000-jasio_od_wody_kasia_do_wody.krn
+!!!OTL: Jasio od wody, Kasia do wody
+!!!source: DWOK48
+!!!id: 48044
+!!!signature: 4804400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16g
+8.g
+16b
+8.cc
+=2
+2dd
+=3
+16ee
+8.cc
+16cc
+8.ee
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{16cc
+8cc
+32b
+32a
+16g
+8.g
+=6
+16b
+8.cc
+16dd
+8.b
+=7
+2g}
+==
+*-
+!!!ONB: Wariant t. 2: 4__6__.4_6__.; wariant t. 5: 3_4__.5_3__2-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 114} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 114}
+!!!page: 114
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK5008600001-oj_po_pid_haj_fesie_tylatka_pasala.krn
+!!!OTL: Oj, po pid haj Fesie tylatka pasała
+!!!source: DWOK50
+!!!id: 50086
+!!!signature: 5008600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+4b
+=2
+8b
+4cc
+8cc
+=3
+8dd
+8b
+4b
+=4
+8cc
+4cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8b
+4b
+=6
+8g
+4a
+8a
+=7
+8b
+16a
+16g
+4f#
+=8
+8g
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=53 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 36} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 36}
+!!!page: 36
+!!!ONB: Converted on 2024/12/26 with esac2hum

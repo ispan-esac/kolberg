@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1701100021-mila_cieszmy_sie_nadzieja_-_instrumentalna.krn
+!!!OTL: Miłą cieszmy się nadzieją - Instrumentalna
+!!!source: DWOK17
+!!!id: 17011
+!!!signature: 1701100021
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.dd
+16ee
+16.dd
+32cc
+=2
+8.b
+16b
+16dd
+16gg
+=3
+8.ff#
+16dd
+16.ee
+32ff#
+=4
+8.gg
+16ee
+16dd
+16cc}
+!!LO:LB:g=esac
+=5
+{8.b
+16ee
+16.dd
+32cc
+=6
+8.e
+16a
+16g
+16b
+=7
+8.dd
+16cc
+16a
+16f#
+=8
+16a
+16f#
+8.g
+16b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=27 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 5} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 5}
+!!!page: 5
+!!!ONB: Converted on 2024/12/26 with esac2hum

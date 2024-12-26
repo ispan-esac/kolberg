@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2533900000-a_gdzie_to_ten_kusy_jan.krn
+!!!OTL: A gdzie to ten kusy Jan
+!!!source: DWOK25
+!!!id: 25339
+!!!signature: 2533900000
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M2/4
+=1
+{8ff
+8ff
+8ee
+8ee
+=2
+8ff
+16ee-
+16dd-
+4cc
+=3
+8dd-
+8ff
+8gg
+8ee
+=4
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8b
+8b
+=6
+8cc
+16b-
+16a-
+4g
+=7
+8b-
+8dd
+8cc
+8a
+=8
+4b-
+4g}
+==
+*-
+!!!ONB: Wariant w takcie ósmym zapisu 4_3_2__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 153} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 153}
+!!!page: 153
+!!!ONB: Converted on 2024/12/26 with esac2hum

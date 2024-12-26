@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2010700000-znac_sierotke_znac.krn
+!!!OTL: Znać sierotkę znać
+!!!source: DWOK20
+!!!id: 20107
+!!!signature: 2010700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+8dd
+8b
+=2
+4cc
+8dd
+8b
+=3
+4.cc
+8g}
+!!LO:LB:g=esac
+=4
+{8b-
+8g
+8b-
+8dd
+=5
+4cc
+8b
+8f#
+=6
+2g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8g
+8f#
+=8
+4g
+4b
+=9
+4.cc
+8g}
+!!LO:LB:g=esac
+=10
+{8b-
+8g
+8b-
+8dd
+=11
+4cc
+8b
+8f#
+=12
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 149} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 149}
+!!!page: 149
+!!!ONB: Converted on 2024/12/26 with esac2hum

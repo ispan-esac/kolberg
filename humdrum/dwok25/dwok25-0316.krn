@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK2531600000-nie_wyganiaj_owcarecku.krn
+!!!OTL: Nie wyganiaj owcarecku
+!!!source: DWOK25
+!!!id: 25316
+!!!signature: 2531600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4.g
+=
+24g
+24a
+24b
+8cc
+8dd
+=
+24dd
+24ee
+24ff
+8ee
+8ee
+=
+24dd
+24ee
+24ff
+8ee
+8ee}
+!!LO:LB:g=esac
+=
+{24dd
+24ee
+24ff
+8dd
+16gg
+16ff
+=2
+16dd
+16ff
+16ee
+16dd
+16ee
+16cc
+=
+24dd
+24ee
+24ff
+8dd
+16gg
+16ff
+=3
+4.g}
+!!LO:LB:g=esac
+=
+{24g
+24a
+24b
+8cc
+8dd
+=4
+16g
+16b-
+16a
+16g
+16a
+16f
+=
+24g
+24a
+24b
+8cc
+8dd
+=5
+16g
+16b-
+16a
+16g
+16a
+16f}
+!!LO:LB:g=esac
+=
+{24g
+24a
+24b
+8cc
+16cc
+16b-
+=6
+4.g
+=
+24g
+24a
+24b
+8cc
+16cc
+16b-
+=7
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 142} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 142}
+!!!page: 142
+!!!ONB: Converted on 2024/12/26 with esac2hum

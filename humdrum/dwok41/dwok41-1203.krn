@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK41120300000-sialem_proso_na_zagonie.krn
+!!!OTL: Siałem, proso na zagonie
+!!!source: DWOK41
+!!!id: 411203
+!!!signature: 41120300000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8g
+8g
+4.dd
+8cc
+=2
+8dd
+8b-
+4a
+4g
+=3
+8f#
+8a
+8cc
+8ee-
+8dd
+8f#
+=4
+2.g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4.dd
+8cc
+=6
+8dd
+8b-
+4a
+4g
+=7
+8f#
+8a
+8cc
+8ee-
+8dd
+8f#
+=8
+2.g}
+!!LO:LB:g=esac
+=9
+{4f#
+4.f#
+8d
+=10
+8b-
+8a
+2g}
+!!LO:LB:g=esac
+=11
+{4f#
+4.f#
+8d
+=12
+8b-
+8a
+2g}
+!!LO:LB:g=esac
+=13
+{8dd
+8dd
+4.dd
+8ff#
+=14
+4gg
+2dd}
+!!LO:LB:g=esac
+=15
+{8cc
+8ee-
+4dd
+4f#
+=16
+8a
+8g
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=616 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 529} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 529}
+!!!page: 529
+!!!ONB: Converted on 2024/12/26 with esac2hum

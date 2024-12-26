@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2702800000-a_wyjrzyjcie_druzbeckowie.krn
+!!!OTL: A wyjrzyjcie druzbeckowie
+!!!source: DWOK27
+!!!id: 27028
+!!!signature: 2702800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8g#
+8a
+4cc
+4b
+=2
+8dd
+4ee
+8cc
+4b
+=3
+8dd
+8b
+4cc
+4dd
+=4
+2ee}
+4r
+!!LO:LB:g=esac
+=5
+{8g#
+8a
+4cc
+4dd
+=6
+8ee
+4ee
+8dd
+4ee
+=7
+8dd
+8cc
+4b
+4g#
+=8
+2a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 158} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 158}
+!!!page: 158
+!!!ONB: Converted on 2024/12/26 with esac2hum

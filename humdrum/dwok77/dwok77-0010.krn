@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK7701000000-przyjechalismy_na_rozpleciny.krn
+!!!OTL: Przyjechaliśmy na rozpleciny
+!!!source: DWOK77
+!!!id: 77010
+!!!signature: 7701000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4cc
+4cc
+=2
+4b
+2cc
+=3
+4.ee
+8dd
+8cc
+8b
+=4
+4a
+2g}
+!!LO:LB:g=esac
+=5
+{4g
+4a
+4b
+=6
+4cc
+2dd
+=7
+2cc
+8b
+8a
+=8
+4g}
+4r
+4r
+!!LO:LB:g=esac
+=9
+{4g
+4cc
+4cc
+=10
+4b
+2cc
+=11
+4.ee
+8dd
+8cc
+8b
+=12
+4a
+2g}
+!!LO:LB:g=esac
+=13
+{4g
+4a
+4b
+=14
+4cc
+2dd
+=15
+2cc
+8b
+8a
+=16
+4g}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

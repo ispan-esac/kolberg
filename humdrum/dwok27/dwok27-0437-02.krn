@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2743700002-a_w_niedziele_po_obiedzie.krn
+!!!OTL: A w niedzielę po obiedzie
+!!!source: DWOK27
+!!!id: 27437
+!!!signature: 2743700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+4cc
+=2
+8b
+4a
+=3
+8g
+4b
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+4cc
+=6
+8b
+4a
+=7
+8g
+4b
+=8
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{8f#
+4g
+=10
+8b
+4cc
+=11
+16b
+32a
+32b
+4cc
+=12
+4.a}
+!!LO:LB:g=esac
+=13
+{8f#
+4g
+=14
+8b
+4cc
+=15
+16b
+16cc
+8.a
+16f#
+=16
+4.g}
+==
+*-
+!!!ONB: Podane metrum 3/4 zapisano poprawnie na 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=386 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 367} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 367}
+!!!page: 367
+!!!ONB: Converted on 2024/12/26 with esac2hum

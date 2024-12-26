@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK1300500001-slyszalem_o_jednej_pani.krn
+!!!OTL: Słyszałem o jednej pani
+!!!source: DWOK13
+!!!id: 13005
+!!!signature: 1300500001
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+16f
+8.b-
+16a
+=2
+16g
+16g
+8ee-
+8dd
+=3
+16dd
+16cc
+8g
+8a
+=4
+16cc
+16b-
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16f
+16f
+8.b-
+16a
+=6
+16g
+16g
+8ee-
+8dd
+=7
+16dd
+16cc
+8g
+8a
+=8
+16cc
+16b-
+8a
+8b-}
+!!LO:LB:g=esac
+=9
+{16cc
+16cc
+8a
+8f
+=10
+16dd
+16b-
+8b-
+8b-
+=11
+16cc
+16cc
+8a
+8f
+=12
+16dd
+16b-
+8b-
+8b-}
+!!LO:LB:g=esac
+=13
+{16f
+16f
+8.b-
+16a
+=14
+16g
+16g
+8ee-
+8dd
+=15
+16dd
+16cc
+8g
+8a
+=16
+16.cc
+32b-
+8a
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=29 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 5} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 5}
+!!!page: 5
+!!!ONB: Converted on 2024/12/26 with esac2hum

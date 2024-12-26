@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1224000011-juz_was_bogu_oddaje.krn
+!!!OTL: Już was Bogu oddaję
+!!!source: DWOK12
+!!!id: 12240
+!!!signature: 1224000011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16a
+8cc
+8ee
+=2
+8dd
+16b
+16a
+8g
+=3
+16f#
+16a
+8cc
+8a
+=4
+8g
+16b
+16a
+8g}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8cc
+8a
+=6
+8g
+8b
+8dd
+=7
+16cc
+16a
+8f#
+8d
+=8
+8g
+16b
+16a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 127} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 127}
+!!!page: 127
+!!!ONB: Converted on 2024/12/26 with esac2hum

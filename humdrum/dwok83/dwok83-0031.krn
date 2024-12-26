@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK8303100000-oj_kumy_mam_kume_mam.krn
+!!!OTL: Oj, kumy mam, kume mam
+!!!source: DWOK83
+!!!id: 83031
+!!!signature: 8303100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+16dd
+16dd
+8cc
+8g
+=3
+16g
+16g
+8b
+8g
+=4
+8a
+4d}
+!!LO:LB:g=esac
+=5
+{8e
+8g
+8e
+=6
+16d
+16d
+8f#
+8a
+=7
+16g
+16g
+8b
+8g
+=8
+16g
+16a
+4d}
+==
+*-
+!!!ONB: Wariant t. 5: -6-61_-6_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 48} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 48}
+!!!page: 48
+!!!ONB: Converted on 2024/12/26 with esac2hum

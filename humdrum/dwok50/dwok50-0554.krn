@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK5055400000-na_hori_loza_na_dole_druha.krn
+!!!OTL: Na hori łoza, na dole druha
+!!!source: DWOK50
+!!!id: 50554
+!!!signature: 5055400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8b
+8b
+=2
+4b
+8g
+=3
+8cc
+8cc
+8cc
+=4
+4a
+8g}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8a
+8a
+=6
+4a
+8g
+=7
+16g
+16a
+8b
+8a
+=8
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=353 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 324} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 324}
+!!!page: 324
+!!!ONB: Converted on 2024/12/26 with esac2hum

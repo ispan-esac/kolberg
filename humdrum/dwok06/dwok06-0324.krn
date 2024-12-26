@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0324-szla_dziewczyna_po_wode.krn
+!!!OTL: Szla dziewczyna po wode
+!!!source: DWOK06
+!!!id: K0324
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8b
+8dd
+=2
+8cc
+8a
+4g
+=3
+8a
+8b
+8cc
+8a
+=4
+8g
+8f
+4e}
+!!LO:LB:g=esac
+=5
+{8e
+8d
+8e
+8f
+=6
+4g
+4ee
+=7
+8dd
+8dd
+8b
+8b
+=8
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 163} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 163}
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

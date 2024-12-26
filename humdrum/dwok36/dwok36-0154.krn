@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK3615400000-witer_bude_moroz_bude.krn
+!!!OTL: Witer bude moroz bude
+!!!source: DWOK36
+!!!id: 36154
+!!!signature: 3615400000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=1
+{4.dd
+8ee
+8dd
+8b
+4a
+=2
+8dd
+8cc#
+4a
+4b
+4f#}
+!!LO:LB:g=esac
+=3
+{4g
+4b
+4a
+4dd
+=4
+8f#
+8a
+8g
+8f#
+4e
+4d}
+!!LO:LB:g=esac
+=5
+{4b
+4b
+4e
+4ff#
+=6
+8dd
+8cc#
+8dd
+8b
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 86
+!!!ONB: Converted on 2024/12/26 with esac2hum

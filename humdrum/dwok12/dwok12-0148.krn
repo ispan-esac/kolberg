@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK1214800000-a_pod_zielonym_debem.krn
+!!!OTL: A pod zielonym dębem
+!!!source: DWOK12
+!!!id: 12148
+!!!signature: 1214800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8cc
+8cc
+=2
+16cc
+16ee
+8gg
+8ee
+=3
+16dd
+16b
+8g
+8b
+=4
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+=6
+16cc
+16ee
+8gg
+8ee
+=7
+16dd
+16b
+8g
+8b
+=8
+8cc
+4a}
+!!LO:LB:g=esac
+=9
+{8cc
+8dd
+8b
+=10
+16cc
+16ee
+8dd
+8b
+=11
+16cc
+16ee
+16dd
+16b
+16g
+16b
+=12
+8cc
+4ee}
+!!LO:LB:g=esac
+=13
+{8cc
+8dd
+8b
+=14
+16cc
+16ee
+8dd
+8b
+=15
+16cc
+16ee
+16dd
+16b
+16g
+16b
+=16
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 73-74} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 73-74}
+!!!page: 73-74
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK7768300000-siedzi_zajacek_pod_miedza_pod_miedza.krn
+!!!OTL: Siedzi zającek pod miedzą pod miedzą
+!!!source: DWOK77
+!!!id: 77683
+!!!signature: 7768300000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+4r
+{8a
+8b
+8cc
+8b
+4a
+=2
+4b
+4e
+2a
+=3
+4b
+4e
+2a}
+!!LO:LB:g=esac
+=4
+4r
+{8a
+8b
+8cc
+8b
+4a
+=5
+4b
+4e
+2a
+=6
+4b
+4e
+2a}
+!!LO:LB:g=esac
+=7
+{8a
+8b
+8cc
+8b
+8dd
+8cc
+8b
+8a
+=8
+8a
+8b
+8cc
+8b
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=9
+{4b
+4e
+2a
+=10
+4b
+4e
+2a}
+==
+*-
+!!!ONB: Prawdopodobnie błędny zapis melorytmiczny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 344-345
+!!!ONB: Converted on 2024/12/26 with esac2hum

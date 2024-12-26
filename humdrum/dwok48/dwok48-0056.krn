@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4805600000-wista_koniu_wista.krn
+!!!OTL: Wiśta, koniu, wiśta
+!!!source: DWOK48
+!!!id: 48056
+!!!signature: 4805600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+4g
+=2
+8f#
+4a
+8a
+=3
+8a
+8cc
+4a
+=4
+8g
+4b
+8b}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4g
+=6
+8f#
+4a
+8a
+=7
+8a
+8cc
+4a
+=8
+8f#
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 124} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

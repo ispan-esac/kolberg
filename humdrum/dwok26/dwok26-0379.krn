@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2637900000-z_tamtej_strony_jeziora.krn
+!!!OTL: Z tamtej strony jeziora
+!!!source: DWOK26
+!!!id: 26379
+!!!signature: 2637900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8cc
+8cc
+8b
+8dd
+=2
+8.cc
+16a
+4f
+=3
+8ff
+8ff
+8ff
+8ff
+=4
+4dd
+4b-}
+!!LO:LB:g=esac
+=5
+{8.dd
+16cc
+8a
+8a
+=6
+8cc
+8a
+4f
+=7
+8g
+8g
+8g
+8g
+=8
+4a
+4f}
+!!LO:LB:g=esac
+=9
+{8.dd
+16cc
+8a
+8a
+=10
+8cc
+8a
+8f
+8f
+=11
+8g
+8g
+8g
+8g
+=12
+4f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 270
+!!!ONB: Converted on 2024/12/26 with esac2hum

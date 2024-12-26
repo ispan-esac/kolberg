@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK5719630001-ta_piszla_tiosza_ta_na_targ_targowat.krn
+!!!OTL: Ta piszła Tiosza ta na targ targowat'
+!!!source: DWOK57
+!!!id: 571963
+!!!signature: 5719630001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+4ee
+=2
+4ee
+4ee
+=3
+8dd
+8dd
+8dd
+8a
+=4
+8cc
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8dd
+8dd
+=6
+8a
+8a
+8cc
+8a}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8dd
+8dd
+=8
+8a
+8a
+8cc
+8a}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8dd
+8dd
+=10
+8a
+8a
+8cc
+8a}
+!!LO:LB:g=esac
+=11
+{4a
+4ee
+=12
+4ee
+4ee
+=13
+8dd
+8a
+4cc
+=14
+8b
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1007
+!!!ONB: Converted on 2024/12/26 with esac2hum

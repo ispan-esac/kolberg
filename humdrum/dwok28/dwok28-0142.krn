@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK2814200000-a_na_jasiowej_rosie.krn
+!!!OTL: A na Jasiowej rosie
+!!!source: DWOK28
+!!!id: 28142
+!!!signature: 2814200000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{8a
+8ff
+8ee
+=2
+8cc#
+4a
+=3
+8cc#
+4dd}
+!!LO:LB:g=esac
+=4
+{8g
+8a
+8cc#
+=5
+8dd
+4aa
+=6
+8ff#
+4dd}
+!!LO:LB:g=esac
+=7
+{8ff
+16dd
+16cc#
+8a
+=8
+8g
+8dd
+8ee
+=9
+8cc#
+4a}
+!!LO:LB:g=esac
+=10
+{8a
+8ff
+8ee
+=11
+8cc#
+4a
+=12
+8cc#
+4dd}
+!!LO:LB:g=esac
+=13
+{8g
+8a
+8cc#
+=14
+8dd
+4aa
+=15
+8ff#
+4dd}
+!!LO:LB:g=esac
+=16
+{8ff
+16dd
+16cc#
+8a
+=17
+8g
+8dd
+8ee
+=18
+8cc#
+4a}
+==
+*-
+!!!ONB: zakodować w A?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 193} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 193}
+!!!page: 193
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK04-K0380-a_pod_borem_orywat.krn
+!!!OTL: A pod borem orywat
+!!!source: DWOK04
+!!!id: K0380
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8b
+8cc
+8dd
+=2
+8ee
+8b
+8.cc
+16a
+=3
+8g
+8a
+8g
+8b
+=4
+8dd
+8b
+4cc}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8cc
+8dd
+=6
+8ee
+8b
+4cc
+=7
+8a
+8a
+8g
+8b
+=8
+8dd
+8b
+4cc}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+4cc
+=10
+8a
+16g
+16b
+4cc
+=11
+8g
+8b
+4cc
+=12
+8dd
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 221} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 221}
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

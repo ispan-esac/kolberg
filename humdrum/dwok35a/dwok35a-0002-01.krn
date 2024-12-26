@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK35A-35A00200001-boh_predwiczny_nam_narodyv_sia.krn
+!!!OTL: Boh predwiczny nam narodyv sia
+!!!source: DWOK35A
+!!!id: 35A002
+!!!signature: 35A00200001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4cc
+8b
+16a
+16g
+=2
+2g
+=3
+8cc
+8cc
+8dd
+8dd
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{4cc
+8b
+16a
+16g
+=6
+2g
+=7
+16cc
+16dd
+8ee
+8dd
+8dd
+=8
+2ee}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+4ff
+=10
+8gg
+8gg
+4cc
+=11
+8ee
+8gg
+4dd
+=12
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=13
+{8cc
+8cc
+8dd
+8dd
+=14
+2cc}
+==
+*-
+!!!ONB: Pieśń, kolęda kościelna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 16} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

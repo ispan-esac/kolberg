@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK2300300000-pomalutku_jozefie.krn
+!!!OTL: Pomalutku Józefie
+!!!source: DWOK23
+!!!id: 23003
+!!!signature: 2300300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+16b
+16a
+4g
+=3
+16b
+16a
+8b
+8cc
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8cc
+=6
+16b
+16a
+4g
+=7
+16b
+16a
+8b
+8cc
+=8
+8b
+4a}
+!!LO:LB:g=esac
+=9
+{16f#
+16g
+8.a
+16b
+=10
+8a
+8f#
+8d
+=11
+16g
+16a
+8b
+16cc
+16b
+=12
+16a
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=13
+{16f#
+16g
+8.a
+16b
+=14
+8a
+8f#
+8d
+=15
+16g
+16a
+8b
+16cc
+16b
+=16
+16a
+16a
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 55} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 55}
+!!!page: 55
+!!!ONB: Converted on 2024/12/26 with esac2hum

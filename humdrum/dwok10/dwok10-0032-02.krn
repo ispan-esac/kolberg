@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK1003200002-na_cos_ty_mnie_bral_kiedys_ty_mnie_znal.krn
+!!!OTL: Na coś ty mnie brał kiedyś ty mnie znał
+!!!source: DWOK10
+!!!id: 10032
+!!!signature: 1003200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8a
+8b
+=2
+4.g
+=3
+16b
+16dd
+8ee
+8cc
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8dd
+8b
+=6
+16g
+16g
+8e
+8c
+=7
+16e
+16g
+8a
+8f#
+=8
+4.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 107} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

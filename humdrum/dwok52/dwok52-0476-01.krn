@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK5247600001-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK52
+!!!id: 52476
+!!!signature: 5247600001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8cc
+8b
+8cc
+4dd
+=2
+8cc
+8dd
+4ee
+4ff
+=
+[4gg
+12gg]
+12aa
+12gg
+16ff
+16ee
+16ff
+16dd}
+!!LO:LB:g=esac
+=
+{4gg
+24ee
+24ff
+24ee
+24dd
+24cc
+8dd
+8gg
+=
+16ff
+16gg
+16ff
+16dd
+4ee
+12dd
+12cc
+12b
+=3
+4cc
+2dd
+=4
+2.cc}
+==
+*-
+!!!ONB: Kiedy młodą na posad sadzą i rozplatają kosę, Wesele
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=362 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 301} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 301}
+!!!page: 301
+!!!ONB: Converted on 2024/12/26 with esac2hum

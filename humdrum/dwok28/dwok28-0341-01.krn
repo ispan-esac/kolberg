@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2834100001-ach_zbujaly_sie_siwe_labedzie.krn
+!!!OTL: Ach zbujały się siwe łabędzie
+!!!source: DWOK28
+!!!id: 28341
+!!!signature: 2834100001
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=1
+{4g
+8b-
+8a
+4g
+4g
+=2
+4dd
+8ff
+8ee-
+4dd
+4gg
+=3
+8ff
+8dd
+2cc}
+4r
+!!LO:LB:g=esac
+=4
+{4dd
+8b-
+8b-
+4b-
+4ff
+=5
+4dd
+8cc
+8cc
+4g
+4b-
+=6
+8a
+8a
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=323 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 304} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 304}
+!!!page: 304
+!!!ONB: Converted on 2024/12/26 with esac2hum

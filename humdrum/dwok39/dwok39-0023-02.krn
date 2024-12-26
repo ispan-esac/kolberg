@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK3902300002-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK39
+!!!id: 39023
+!!!signature: 3902300002
+**kern
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=1
+{8dd
+8cc
+8dd
+8ee
+4ff
+4dd
+=2
+4cc
+8cc
+8g
+8b-
+8g
+4a}
+!!LO:LB:g=esac
+=3
+{8dd
+8cc
+8dd
+8ee
+4ff
+4dd
+=4
+4cc
+8cc
+8g
+8b-
+8g
+4a}
+!!LO:LB:g=esac
+=5
+{4g
+8g
+8a
+4b-
+4g
+=
+4cc
+8cc
+8b-
+4dd
+12dd
+12cc
+12b-}
+!!LO:LB:g=esac
+=6
+{4g
+4a
+4b-
+4cc
+=7
+4dd
+8dd
+8cc
+8b-
+8g
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 95} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 95}
+!!!page: 95
+!!!ONB: Converted on 2024/12/26 with esac2hum

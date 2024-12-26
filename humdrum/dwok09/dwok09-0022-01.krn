@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK0902200001-przynosimy_plon_jegomosci_w_dom.krn
+!!!OTL: Przynosimy plon jegomości w dom
+!!!source: DWOK09
+!!!id: 09022
+!!!signature: 0902200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+4.dd
+=3
+16dd
+16ee
+8cc#
+8a
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8.cc
+16b
+=6
+16b
+16g
+8a
+8g
+=7
+16b
+16dd
+8.cc
+16b
+=8
+16b
+16a
+8f#
+8d
+=9
+16d
+16f#
+8a
+8b
+=10
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 160} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

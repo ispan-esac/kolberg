@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2647700000-oj_zabili_da_na_polu_slowika.krn
+!!!OTL: Oj zabili da na polu słowika
+!!!source: DWOK26
+!!!id: 26477
+!!!signature: 2647700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8ee
+=2
+16dd
+16cc
+8ee
+16b
+16g#}
+!!LO:LB:g=esac
+=3
+{8a
+16b
+16cc
+8dd
+=4
+16cc
+16a
+8b
+8g#}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+8a
+=6
+16cc
+16b
+8dd
+16b
+16g#}
+!!LO:LB:g=esac
+=7
+{8a
+16cc
+16b
+8dd
+=8
+16cc
+16a
+8b
+16g#
+16e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 315
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7737500000-oj_zaplaces_dziewcyno.krn
+!!!OTL: Oj zapłaces dziewcyno
+!!!source: DWOK77
+!!!id: 77375
+!!!signature: 7737500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8.cc
+16ee
+=2
+16.ee
+32dd
+8cc
+8b
+=3
+8dd
+8.dd
+16cc
+=4
+16.b
+32a
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8.cc
+16cc
+=6
+16b
+16a
+8cc
+16b
+16g
+=7
+8a
+8.cc
+16b
+=8
+16.b
+32a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

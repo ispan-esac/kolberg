@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK7748500010-sierota_sie_zeni.krn
+!!!OTL: Sierota sie zeni
+!!!source: DWOK77
+!!!id: 77485
+!!!signature: 7748500010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4ee
+4dd
+8dd
+8b
+=2
+8cc
+8ee
+4dd
+4dd
+=3
+8cc
+8ee
+4dd
+8dd
+8b
+=4
+8cc
+8a
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{4a
+8a
+8g
+8b
+8dd
+=6
+8cc
+8a
+4b
+4cc
+=7
+4dd
+8a
+8g
+8b
+8dd
+=8
+8cc
+8a
+4g
+4g}
+==
+*-
+!!!ONB: Od taktu 9 utwór instrumentalny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 249-250
+!!!ONB: Converted on 2024/12/26 with esac2hum

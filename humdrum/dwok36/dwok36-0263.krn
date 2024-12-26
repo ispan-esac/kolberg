@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK3626300000-ach_ja_neszczasny_szczo_maju_dilaty.krn
+!!!OTL: Ach ja neszczasny szczo maju diłaty
+!!!source: DWOK36
+!!!id: 36263
+!!!signature: 3626300000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{8ee
+8ff
+8ff
+8ee
+=2
+8dd
+8cc
+8cc
+8b
+=3
+*M3/4
+4a
+8b
+8cc
+4dd}
+!!LO:LB:g=esac
+=4
+*M2/4
+{8ee
+8ff
+8ff
+8ee
+=5
+8gg#
+8aa
+8ff
+8ee
+=6
+*M3/4
+16ee
+8.cc
+8b
+8a
+4a}
+!!LO:LB:g=esac
+=7
+*M2/4
+{8bb
+8gg#
+8ee
+8gg#
+=8
+8aa
+8bb
+16ccc
+16bb
+8aa
+=9
+8bb
+8gg#
+8ee
+8gg#
+=10
+8aa
+8ff
+8ee
+8dd}
+!!LO:LB:g=esac
+=11
+{8cc
+8dd
+8dd
+8ee
+=12
+16gg#
+16aa
+8ff
+8ee
+8dd
+=13
+4cc
+8b
+8a
+=14
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 157-158
+!!!ONB: Converted on 2024/12/26 with esac2hum

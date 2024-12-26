@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1646500000-od_lublina_chmara_idzie.krn
+!!!OTL: Od Lublina chmara idzie
+!!!source: DWOK16
+!!!id: 16465
+!!!signature: 1646500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8ee
+=2
+16dd
+16b
+8a
+8cc
+=3
+8dd
+8ee
+8a}
+!!LO:LB:g=esac
+=4
+{16g
+16b
+8dd
+8ee
+=5
+16dd
+16b
+8a
+8b
+=6
+8g
+8f#
+8d}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8cc
+=8
+16b
+16a
+8g
+8f#
+=9
+8g
+8b
+8a}
+!!LO:LB:g=esac
+=10
+{16g
+16a
+8b
+8cc
+=11
+16b
+16a
+8g
+8f#
+=12
+8g
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 285} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 285}
+!!!ONB: Converted on 2024/12/26 with esac2hum

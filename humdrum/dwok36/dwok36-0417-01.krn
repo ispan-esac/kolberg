@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK3641700001-oj_zazuryly_sia_moji_worozejki.krn
+!!!OTL: Oj zażuryły sia moji worożejki
+!!!source: DWOK36
+!!!id: 36417
+!!!signature: 3641700001
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+=1
+{8ee
+8ee
+8b
+8cc#
+=2
+4dd
+8cc#
+8b
+=3
+8a
+8a
+8dd
+8ee
+=4
+4b
+4b}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8b
+8cc#
+=6
+4.dd
+8cc#
+=7
+2b}
+!!LO:LB:g=esac
+=8
+{8g#
+8b
+8dd
+16cc#
+16b
+=9
+4a
+8dd
+8cc
+=10
+8b
+8a
+8g
+8f#
+=11
+4e
+8ee
+8ee}
+!!LO:LB:g=esac
+=12
+{8b
+8b
+8a
+8a
+=13
+4g
+8f#
+8f#
+=14
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 265
+!!!ONB: Converted on 2024/12/26 with esac2hum

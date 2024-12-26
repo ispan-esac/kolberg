@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK57179700000-protiw_horba_roste_werba.krn
+!!!OTL: Protiw horb'a rost'e werb'a
+!!!source: DWOK57
+!!!id: 571797
+!!!signature: 57179700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+4dd
+=2
+8dd
+4dd
+=3
+8dd
+4dd
+=4
+8dd
+4dd
+=5
+8dd
+8dd
+8b
+=6
+8a
+4cc
+=7
+4.b
+=8
+4a}
+8r
+!!LO:LB:g=esac
+=9
+{8dd
+4dd
+=10
+8dd
+8dd
+8cc
+=11
+8b
+4a
+=12
+8cc
+4dd
+=13
+8dd
+8dd
+8cc
+=14
+8a
+4a
+=15
+4.a
+=16
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 884
+!!!ONB: Converted on 2024/12/26 with esac2hum

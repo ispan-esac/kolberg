@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1303600000-na_jarmarczek_sie_wyprawie.krn
+!!!OTL: Na jarmarczek się wyprawię
+!!!source: DWOK13
+!!!id: 13036
+!!!signature: 1303600000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16dd
+16dd
+8.ff
+16dd
+=2
+16ee-
+16dd
+8cc
+8b-
+=3
+16a
+16b-
+8.cc
+16dd
+=4
+16a
+16b-
+8dd
+8f}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8.ff
+16dd
+=6
+16ee-
+16dd
+8cc
+8b-
+=7
+16a
+16b-
+8.cc
+16dd
+=8
+16ee-
+16ee-
+8dd
+8f}
+!!LO:LB:g=esac
+=9
+{16a
+16b-
+8.cc
+16a
+=10
+8b-
+4ff
+=11
+16ee-
+16ee-
+8.dd
+16f
+=12
+16a
+16cc
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 21-22} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 21-22}
+!!!page: 21-22
+!!!ONB: Converted on 2024/12/26 with esac2hum

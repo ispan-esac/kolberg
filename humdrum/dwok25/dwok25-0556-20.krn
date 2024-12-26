@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2555600020-a_moje_dziewcyny-instrumentalna.krn
+!!!OTL: A moje dziewcyny-Instrumentalna
+!!!source: DWOK25
+!!!id: 25556
+!!!signature: 2555600020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8a
+16a
+16f
+16dd
+16b-
+=2
+16a
+16cc
+16ee
+16ff
+16dd
+16b-
+=3
+8a
+16a
+16f
+16dd
+16b-
+=4
+16a
+16cc
+8c
+8c}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+16ee
+16ff
+16dd
+16b-
+=6
+16a
+16cc
+8g
+16g
+16b-
+=7
+16a
+16cc
+8f
+16ff
+16dd
+=8
+16a
+16cc
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 213} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 213}
+!!!page: 213
+!!!ONB: Converted on 2024/12/26 with esac2hum

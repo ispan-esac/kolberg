@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK42158500000-stasio_mnie_przywioz.krn
+!!!OTL: Stasio mnie przywióz
+!!!source: DWOK42
+!!!id: 421585
+!!!signature: 42158500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8d
+8b
+8b
+8b
+8dd
+8dd
+=2
+8dd
+8cc
+8b
+4cc
+8a}
+!!LO:LB:g=esac
+=3
+{8f#
+8a
+8a
+8a
+8cc
+8f#
+=4
+8a
+8g
+8r
+4r
+8r
+=5
+8cc
+8ee
+8ee
+8gg
+8ff#
+8ee}
+!!LO:LB:g=esac
+=6
+{8ee
+8dd
+8dd
+8gg
+8b
+8b
+=7
+8dd
+8ee
+8dd
+8dd
+8cc
+8f#
+=8
+8a
+8g}
+8r
+4r
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 110} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 110}
+!!!page: 110
+!!!ONB: Converted on 2024/12/26 with esac2hum

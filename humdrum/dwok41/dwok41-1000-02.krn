@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK41100000002-rodzino_moja.krn
+!!!OTL: Rodzino moja
+!!!source: DWOK41
+!!!id: 411000
+!!!signature: 41100000002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8ff
+8ff
+=2
+8ff
+4ee
+=3
+8ee
+8dd
+8dd
+=4
+4cc
+16b
+16g}
+!!LO:LB:g=esac
+=
+{24g
+24a
+24b
+4cc
+=5
+8ee
+8ff
+8ee
+=6
+16ee
+16dd
+4cc
+=
+24g
+24a
+24b
+4dd
+=7
+4dd
+8cc
+=8
+8b
+8cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=505 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 418} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 418}
+!!!page: 418
+!!!ONB: Converted on 2024/12/26 with esac2hum

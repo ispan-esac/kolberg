@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK5060700001-polska_korono_co_slychac_o_tobie.krn
+!!!OTL: Polska korono, co słychać o tobie
+!!!source: DWOK50
+!!!id: 50607
+!!!signature: 5060700001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+8cc
+8b
+4a
+=
+12a
+12b
+12cc
+2b
+=2
+8b
+8b
+8cc
+8b
+8a
+8g#
+=3
+4a
+2a}
+!!LO:LB:g=esac
+=4
+{4cc
+8cc
+8b
+4a
+=
+12a
+12b
+12cc
+2b
+=5
+8b
+8b
+8cc
+8b
+8a
+8g#
+=6
+4a
+2a}
+!!LO:LB:g=esac
+=7
+{4ee
+8ee
+8dd
+4cc
+=8
+4dd
+2dd
+=9
+8cc
+8cc
+8ee
+8dd
+4cc
+=10
+4b
+2b}
+!!LO:LB:g=esac
+=11
+{8cc
+8cc
+8cc
+8b
+4a
+=12
+4b
+2b
+=13
+8b
+8b
+8cc
+8b
+8a
+8g
+=14
+4a
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=391 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 358} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 358}
+!!!page: 358
+!!!ONB: Converted on 2024/12/26 with esac2hum

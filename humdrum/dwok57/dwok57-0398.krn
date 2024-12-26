@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK5793800000-stylyj_si_stelyj.krn
+!!!OTL: Styłyj si, stełyj
+!!!source: DWOK57
+!!!id: 57398
+!!!signature: 5793800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M9/8
+=1
+{8b
+8dd
+8dd
+8cc
+4.ee
+8dd
+8cc
+=2
+8ee
+8ee
+[4dd
+8dd]
+8b
+8g
+8g}
+8r
+!!LO:LB:g=esac
+=3
+{16g
+16b
+8dd
+8dd
+8cc
+8ee
+4.dd}
+8r
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8dd
+8cc
+4.ee
+8dd
+8cc
+=5
+8ee
+8ee
+4.dd
+8b
+4g}
+8r
+!!LO:LB:g=esac
+=6
+{8cc
+8cc
+4a
+4dd
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 143
+!!!ONB: Converted on 2024/12/26 with esac2hum

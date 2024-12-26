@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK4660500000-kiedy_dzien_w_okienko_swita.krn
+!!!OTL: Kiedy dzień w okienko świta
+!!!source: DWOK46
+!!!id: 46605
+!!!signature: 4660500000
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{8ee
+8dd
+8cc
+8b
+8a
+8b
+=2
+4.cc
+4g}
+8r
+!!LO:LB:g=esac
+=3
+{8a
+8f
+8a
+8cc
+8b
+8a
+=4
+4.a
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8dd
+8b
+8ee
+8dd
+8b
+8ee
+=6
+4.dd
+4cc}
+8r
+!!LO:LB:g=esac
+=7
+{8cc
+8a
+8b
+8cc
+8a
+8b
+=8
+4.cc
+4b}
+8r
+!!LO:LB:g=esac
+=9
+{8dd
+8b
+8g
+8dd
+8b
+8g
+=10
+8cc
+8ee
+8gg
+4g}
+8r
+!!LO:LB:g=esac
+=11
+{8g
+8ff
+8ee
+8dd
+8cc
+8b
+=12
+4.gg
+4g}
+8r
+!!LO:LB:g=esac
+=13
+{8g
+8ff
+8ee
+8dd
+8cc
+8b
+=14
+4.dd
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=416 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 382} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 382}
+!!!page: 382
+!!!ONB: Converted on 2024/12/26 with esac2hum

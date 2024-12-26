@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK5314600000-oj_oj_oj_dieve_dievolau.krn
+!!!OTL: Oj oj oj! Dieve, Dievolau
+!!!source: DWOK53
+!!!id: 53146
+!!!signature: 5314600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+8b
+8a
+8b
+8cc
+=2
+4b
+8a
+8g
+4b
+=3
+8b
+8cc
+4dd
+8dd
+8cc#
+=4
+4dd
+4b
+4dd}
+!!LO:LB:g=esac
+=5
+{8a
+8dd
+4b
+8a
+8g
+=6
+4dd
+4dd
+4cc
+=7
+4cc
+4b
+4r
+=8
+2.g}
+!!LO:LB:g=esac
+=9
+{8a
+8dd
+4b
+8a
+8g
+=10
+4dd
+4dd
+4cc
+=11
+4cc
+4b
+4r
+=12
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=313 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 277} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 277}
+!!!page: 277
+!!!ONB: Converted on 2024/12/26 with esac2hum

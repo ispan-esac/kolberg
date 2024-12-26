@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4470000002-nie_daj_me_matusiu.krn
+!!!OTL: Nie daj me, matusiu
+!!!source: DWOK44
+!!!id: 44700
+!!!signature: 4470000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+4dd
+8dd
+=2
+8dd
+8cc#
+4a
+=3
+8b
+4g
+8b
+=4
+8b
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+4g
+8g
+=6
+8g
+8f#
+4d
+=7
+8d
+4g
+8b
+=8
+8b
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=409 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 351-352} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, pp. 351-352}
+!!!page: 351-352
+!!!ONB: Converted on 2024/12/26 with esac2hum

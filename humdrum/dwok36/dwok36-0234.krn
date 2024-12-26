@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK3623400000-oj_dolom_dolom.krn
+!!!OTL: Oj dołom dołom
+!!!source: DWOK36
+!!!id: 36234
+!!!signature: 3623400000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4a
+8a
+8g#
+8a
+8cc
+4b
+=2
+8cc
+8b
+8a
+8g#
+4.e
+8e
+=3
+8b
+8b
+8cc
+8b
+2a
+=4
+4e
+8g#
+8f
+2e}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8g#
+8a
+8cc
+4b
+=6
+8cc
+8b
+8a
+8g#
+4e
+4d
+=7
+8g#
+8g#
+8b
+8e
+4a
+8b
+8g#
+=8
+2e
+4e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 133
+!!!ONB: Converted on 2024/12/26 with esac2hum

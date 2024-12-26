@@ -1,0 +1,117 @@
+!!!!SEGMENT: DWOK1002600000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK10
+!!!id: 10026
+!!!signature: 1002600000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4gg
+4gg
+4ff
+4aa
+=2
+4aa
+8gg
+8aa
+8gg
+8ff
+8dd
+8ee
+=3
+4ff
+4ee
+4dd
+4cc
+=4
+4cc
+4b
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4ee
+4gg
+=6
+4gg
+4ff
+4ff
+8dd
+8ee
+=7
+4ff
+4ee
+4dd
+4cc
+=8
+4cc
+4b
+4b
+4g
+=9
+2ee
+4dd
+4cc}
+!!LO:LB:g=esac
+=10
+{8ee
+8cc
+8ee
+8gg
+4ff
+8dd
+8ee
+=11
+4ff
+4ee
+4dd
+4cc
+=12
+8ee
+8cc
+8ee
+8gg
+4ff
+8dd
+8ee
+=13
+4ff
+4ee
+4ff
+8ff
+8aa}
+!!LO:LB:g=esac
+=14
+{4gg
+4gg
+4ff
+8ff
+8aa
+=15
+2gg
+8gg
+8ff
+8dd
+8ee
+=16
+2cc
+8b
+8cc
+8dd
+8ee
+=17
+2cc}
+2r
+==
+*-
+!!!ONB: W ostatnim takcie brakuje pauzy półnutowej, została dodana
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 101} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 101}
+!!!page: 101
+!!!ONB: Converted on 2024/12/26 with esac2hum

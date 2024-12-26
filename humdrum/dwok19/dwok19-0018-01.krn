@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK1901800001-hej_do_ciotki_na_plotki.krn
+!!!OTL: Hej do ciotki na plotki
+!!!source: DWOK19
+!!!id: 19018
+!!!signature: 1901800001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8g#
+4a
+=2
+8ee
+8ee
+8dd
+8a
+=3
+8a
+8cc
+4b
+=4
+8a
+8f
+4e}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+8a
+8cc
+=6
+8cc
+8cc
+4dd
+=7
+8cc
+8cc
+8b
+8g#
+=8
+8a
+8f
+4e}
+!!LO:LB:g=esac
+=9
+{8e
+16f#
+16g#
+8.a
+16b
+=10
+16cc
+16b
+16a
+16g#
+4a
+=11
+8ee
+8cc
+8.a
+16b
+=12
+16cc
+16b
+16a
+16g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=24 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 10} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 10}
+!!!page: 10
+!!!ONB: Converted on 2024/12/26 with esac2hum

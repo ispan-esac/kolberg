@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1902700000-sslonecko_juz_zaslso.krn
+!!!OTL: Sśłonecko juz zasłśo
+!!!source: DWOK19
+!!!id: 19027
+!!!signature: 1902700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+4cc#
+=2
+8a
+4cc#
+8cc
+=3
+8dd
+8dd
+4cc#
+=4
+8a
+4cc#
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc#
+8a
+8f#
+=6
+4e
+4g
+=7
+8d
+8f#
+4g
+=8
+8b
+4dd
+8b}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc#
+8a
+8f#
+=10
+4e
+4g
+=11
+8d
+8f#
+4g
+=12
+8b
+4dd
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 12} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 12}
+!!!page: 12
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK1901400001-jedna_drugiej_szepce.krn
+!!!OTL: Jedna drugiej szepce
+!!!source: DWOK19
+!!!id: 19014
+!!!signature: 1901400001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8ee
+8.gg
+16ee
+=2
+8gg
+4ff
+8ee
+=3
+8dd
+8ee
+8ff
+8ee
+=4
+8ff
+4dd
+8ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8ee
+16dd
+16cc
+=6
+4b
+4dd
+=7
+8g
+16b
+16dd
+8ff
+8b
+=8
+8cc
+4cc
+8cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8gg
+16ee
+16cc
+=10
+16cc
+16b
+[8dd
+8dd]
+8g
+=11
+8g
+16b
+16dd
+16ff
+16dd
+16b
+16g
+=12
+8cc
+4cc
+8ee}
+!!LO:LB:g=esac
+=13
+{8ee
+8cc
+8a
+8d
+=14
+8g
+4g
+8g
+=15
+8ee
+8cc
+16a
+16f#
+16d
+16f#
+=16
+16g
+16b
+4dd
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=22 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 8} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 8}
+!!!page: 8
+!!!ONB: Converted on 2024/12/26 with esac2hum

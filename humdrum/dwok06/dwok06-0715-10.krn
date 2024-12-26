@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK0671500010-po_zielonym_gaju_skacze_sobie_sroczka.krn
+!!!OTL: Po zielonym gaju skacze sobie sroczka
+!!!source: DWOK06
+!!!id: K0715
+!!!signature: 0671500010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+8g
+=2
+8a
+8b
+4cc
+=3
+8g
+4b
+8d
+=4
+8e
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+4dd
+8g
+=6
+8a
+8b
+4cc
+=7
+8g
+4b
+8b
+=8
+8a
+8a
+4g}
+==
+*-
+!!!ONB: Część wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=470 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 444} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 444}
+!!!page: 444
+!!!ONB: Converted on 2024/12/26 with esac2hum

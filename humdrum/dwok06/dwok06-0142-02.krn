@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK0614200002-instrumentalna._polski_do_kola.krn
+!!!OTL: Instrumentalna. Polski Do koła
+!!!source: DWOK06
+!!!id: K0142
+!!!signature: 0614200002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8a
+8cc#
+8ee
+8ee
+8ee
+8gg#
+=2
+8ff#
+8ff#
+2ee}
+!!LO:LB:g=esac
+=3
+{16a
+16b
+16cc#
+16dd
+8ee
+8ee
+8ee
+16gg#
+16ff#
+=4
+8dd
+8dd
+2cc#}
+!!LO:LB:g=esac
+=5
+{8.b
+16g#
+8e
+8g#
+16a
+16b
+16cc#
+16dd
+=6
+8ee
+8cc#
+8a
+16a
+16g#
+8a
+8cc#}
+!!LO:LB:g=esac
+=7
+{16e
+16f#
+16g#
+16a
+8b
+8dd
+8.ff#
+16ee
+=8
+16dd
+16cc#
+16b
+16a
+4g#
+8a}
+8r
+==
+*-
+!!!ONB: gra skrzypek
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 69} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 69}
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

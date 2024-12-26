@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK02-K0190-nie_wyganiaj_owcarecku.krn
+!!!OTL: Nie wyganiaj owcarecku
+!!!source: DWOK02
+!!!id: K0190
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16ff#
+8dd
+8ff#
+=2
+16dd
+16ff#
+8.gg
+16ee
+=3
+16cc
+16ee
+8cc
+8a
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+16cc
+16a
+8f#
+=6
+16g
+16g
+8b
+8dd
+=7
+16cc
+16ee
+16cc
+16a
+8f#
+=8
+16g
+16g
+8b
+8dd
+=9
+16cc
+16ee
+16cc
+16a
+8f#
+=10
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 190} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 190}
+!!!page: 190
+!!!ONB: Converted on 2024/12/26 with esac2hum

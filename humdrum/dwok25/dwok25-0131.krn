@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2513100000-przedzierzgne_sie_siwa_golebica.krn
+!!!OTL: Przedzierzgnę się siwą gołębicą
+!!!source: DWOK25
+!!!id: 25131
+!!!signature: 2513100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4.ee
+8cc
+=2
+8dd
+8dd
+8dd
+8gg
+8ee
+8cc
+=3
+8b
+8dd
+4b
+4g
+=4
+8a
+8a
+8a
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{4.ee
+8cc
+8dd
+8ff
+=6
+8ee
+8dd
+2ee
+=7
+4.ee
+8cc
+8dd
+8ff
+=8
+8ee
+8dd
+2a}
+==
+*-
+!!!ONB: Wariant w takcie drugim 5557b53b
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 54} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 54}
+!!!page: 54
+!!!ONB: Converted on 2024/12/26 with esac2hum

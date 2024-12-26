@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2920700000-ja_utwori_nenku_lisku.krn
+!!!OTL: Ja utwori neńku lisku
+!!!source: DWOK29
+!!!id: 29207
+!!!signature: 2920700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8dd
+8dd
+=2
+8cc
+8a
+8b
+=3
+4a
+8a
+=4
+8a
+8cc
+8b
+=5
+16dd
+16cc
+4b
+=6
+16a
+16g
+4g}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8dd
+=8
+8dd
+4ee
+=9
+16dd
+16b
+4dd
+=10
+8dd
+8dd
+8cc
+=11
+8b
+8a
+8g
+=12
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 283} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 283}
+!!!page: 283
+!!!ONB: Converted on 2024/12/26 with esac2hum

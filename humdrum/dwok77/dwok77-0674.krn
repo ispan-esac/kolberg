@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7767400000-dyc_ci_dziewczyno_mowiono.krn
+!!!OTL: Dyć ci dziewczyno mówiono
+!!!source: DWOK77
+!!!id: 77674
+!!!signature: 7767400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.dd
+8a
+8b
+8g
+=2
+8f#
+8a
+4cc
+4ee}
+!!LO:LB:g=esac
+=3
+{4.dd
+8a
+8b
+8g
+=4
+8f#
+8a
+4e
+4d}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+4.b
+8g
+=6
+8f#
+8a
+4.b
+8g}
+!!LO:LB:g=esac
+=7
+{8f#
+8a
+4b
+4g
+=8
+8f#
+8a
+4e
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 341
+!!!ONB: Converted on 2024/12/26 with esac2hum

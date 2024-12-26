@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK3617900001-nad_wodoju_martyn.krn
+!!!OTL: Nad wodoju Martyn
+!!!source: DWOK36
+!!!id: 36179
+!!!signature: 3617900001
+**kern
+*clefG2
+*k[b-]
+*d:
+=1
+*M2/4
+{8ff
+8aa
+8aa
+8aa
+=2
+*M3/4
+8bb-
+8aa
+16gg
+16ff
+8ee
+8aa
+8aa
+=3
+8bb-
+8aa
+16gg
+16ff
+8ee
+8aa
+8aa}
+!!LO:LB:g=esac
+=4
+{8ff
+8ff
+4gg
+16gg
+16ff
+8ee
+=5
+*M2/4
+8dd
+8dd
+8cc#
+8cc#
+=6
+4aa
+16gg
+16ff
+8ee
+=7
+8dd
+8r
+8ee
+8aa}
+!!LO:LB:g=esac
+=8
+*M3/4
+{8ff
+8ff
+4gg
+16gg
+16ff
+8ee
+=9
+*M2/4
+8dd
+8dd
+8cc#
+8cc#
+=10
+4aa
+16gg
+16ff
+8ee
+=11
+8dd
+8r
+8ee
+8aa}
+!!LO:LB:g=esac
+=12
+*M3/4
+{8ff
+8ff
+4gg
+16gg
+16ff
+8ee
+=13
+*M2/4
+8dd
+8dd
+8dd
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 99
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK3113600000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK31
+!!!id: 31136
+!!!signature: 3113600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4gg#
+16ee
+16ff#
+16ee
+16dd#
+=2
+16dd
+16b
+8dd#
+8ee
+8ee
+=3
+8gg#
+8gg#
+16ee
+16ff#
+16ee
+16dd#
+=4
+16cc
+16b
+16b
+16g#
+4a}
+!!LO:LB:g=esac
+=5
+{4gg#
+4ee
+=6
+16dd
+16b
+8dd#
+4ee
+=7
+4gg#
+4ee
+=8
+16cc
+16b
+16b
+16g#
+4a}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+16dd
+16cc
+16dd
+16b
+=10
+8a
+8a
+16g
+16f
+16f
+16e
+=11
+8a
+16a
+16cc
+8dd
+8dd
+=12
+4a
+16g
+16f
+16f
+16e}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+16dd
+16cc
+16dd
+16b
+=14
+8a
+8a
+16g
+16f
+16f
+16e
+=15
+8a
+16a
+16cc
+4dd
+=16
+4a
+4a}
+==
+*-
+!!!ONB: Peredok
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 22} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 22}
+!!!page: 22
+!!!ONB: Converted on 2024/12/26 with esac2hum

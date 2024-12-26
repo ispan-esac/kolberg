@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2651100001-oj_dziwuja_sie_ludzie.krn
+!!!OTL: Oj dziwują się ludzie
+!!!source: DWOK26
+!!!id: 26511
+!!!signature: 2651100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8b
+=2
+16a
+16cc
+8ee
+8dd
+=3
+8dd
+8cc
+8b
+=4
+16d
+16f#
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8a
+8a
+=6
+8g
+8g
+8b
+=7
+8dd
+8dd
+8ff#
+=8
+16gg
+16ee
+8cc#
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 325
+!!!ONB: Converted on 2024/12/26 with esac2hum

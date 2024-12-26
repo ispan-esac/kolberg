@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1713800000-ej_gorzaleczko_moja.krn
+!!!OTL: Ej gorzałeczko moja
+!!!source: DWOK17
+!!!id: 17138
+!!!signature: 1713800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24d
+24e
+24f#
+8g
+16b
+16cc#
+=1
+16dd
+16b
+8dd
+8ee}
+!!LO:LB:g=esac
+=2
+{16dd
+16b
+8g
+16b
+16cc#
+=3
+16dd
+16b
+8dd
+8cc#}
+!!LO:LB:g=esac
+=4
+{16a
+16f#
+8d
+16e
+16f#
+=5
+16g
+16b
+8dd
+8ee}
+!!LO:LB:g=esac
+=6
+{16a
+16f#
+8d
+16e
+16f#
+=7
+16g
+16e
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 47} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

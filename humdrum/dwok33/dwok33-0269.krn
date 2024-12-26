@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK3326900000-po_cozes_tu_staroscino_zjechala.krn
+!!!OTL: Po cożeś tu starościno zjechała
+!!!source: DWOK33
+!!!id: 33269
+!!!signature: 3326900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8cc
+8b
+=2
+8dd
+8b
+8g
+=3
+8b
+4dd
+=4
+16dd
+16b
+8cc
+8b
+=5
+8dd
+8b
+16a
+16f#
+=6
+4g}
+8r
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8a
+=8
+8b
+8cc
+8b
+=9
+8g
+8b
+8a
+=10
+8b
+8cc
+8b
+=11
+8dd
+8b
+16a
+16f#
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=347 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 305} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 305}
+!!!page: 305
+!!!ONB: Converted on 2024/12/26 with esac2hum

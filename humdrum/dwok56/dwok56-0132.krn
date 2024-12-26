@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK5613200000-tam_na_riczonci_jaworiw_czowen.krn
+!!!OTL: Tam na riczońci jaworiw czówen
+!!!source: DWOK56
+!!!id: 56132
+!!!signature: 5613200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4b
+8a
+8g
+=2
+4b
+2cc
+=3
+4b
+4b
+8cc
+8b
+=4
+8a
+8f#
+2g
+=5
+2a
+8b
+8a
+=6
+4f#
+4g}
+4r
+!!LO:LB:g=esac
+=7
+{4g
+4b
+4a
+=8
+4b
+2cc
+=9
+4b
+8b
+8a
+4g
+=10
+2a
+4a
+=11
+4f#
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 150} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 150}
+!!!page: 150
+!!!ONB: Converted on 2024/12/26 with esac2hum

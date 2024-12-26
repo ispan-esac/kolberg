@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK2530600020-a_za_struga_moje_bycki-instrumentalna.krn
+!!!OTL: A za strugą moje bycki-Instrumentalna
+!!!source: DWOK25
+!!!id: 25306
+!!!signature: 2530600020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+16dd
+16cc
+8b
+8g
+=3
+8a
+8a
+8b}
+!!LO:LB:g=esac
+=4
+{16g
+16a
+8b
+8cc
+=5
+16cc
+16cc
+8b
+8g
+=6
+8f#
+8f#
+8d}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8cc
+=8
+16dd
+16cc
+8b
+8g
+=9
+8a
+8a
+8b}
+!!LO:LB:g=esac
+=10
+{16g
+16a
+8b
+8cc
+=
+16dd
+16dd
+8b
+24g
+24f#
+24g
+=11
+8f#
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 139} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 139}
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

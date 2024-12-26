@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK2317000000-zasialismy_grosku_przy_przylozku.krn
+!!!OTL: Zasialiśmy grosku przy przyłozku
+!!!source: DWOK23
+!!!id: 23170
+!!!signature: 2317000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8dd
+8cc
+=2
+8b
+8a
+4g
+=3
+4.a
+8b
+=4
+8cc#
+4.dd}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+8cc
+=6
+8b
+8a
+4g
+=7
+4.a
+8b
+=8
+8f#
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 169} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 169}
+!!!page: 169
+!!!ONB: Converted on 2024/12/26 with esac2hum

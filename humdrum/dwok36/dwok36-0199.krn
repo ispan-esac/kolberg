@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3619900000-plyne_czowen_wody_powen.krn
+!!!OTL: Płyne czowen wody powen
+!!!source: DWOK36
+!!!id: 36199
+!!!signature: 3619900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4.cc
+8dd
+=2
+4cc
+4cc
+4f
+=3
+8b-
+8cc
+8dd
+8cc
+4b-
+=4
+8a
+8b-
+2cc}
+!!LO:LB:g=esac
+=5
+{8cc
+16dd
+16ee
+4.ff
+8cc
+=6
+8dd
+16b-
+16a
+4g
+4f
+=7
+8g
+8a
+8b-
+8dd
+4cc
+=8
+4g
+2f}
+==
+*-
+!!!ONB: powinno być metrum 3/4 i tak zapisano
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 109-110
+!!!ONB: Converted on 2024/12/26 with esac2hum

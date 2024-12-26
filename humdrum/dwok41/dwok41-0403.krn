@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4140300000-gdzie_to_jedziesz_jasio.krn
+!!!OTL: Gdzie to (jedziesz), Jasio?
+!!!source: DWOK41
+!!!id: 41403
+!!!signature: 4140300000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4ff
+4aa
+8gg
+8ff
+8ee
+8dd
+=2
+4cc
+4ee
+8g
+8a
+8b
+8g}
+!!LO:LB:g=esac
+=3
+{4g
+4b
+4cc
+4ee
+=4
+4a
+4a
+4g
+4r
+=5
+8a
+8a
+8a
+8b
+4g
+4a}
+!!LO:LB:g=esac
+=6
+{8b
+8g
+8a
+8b
+4cc
+4g
+=
+12a
+12a
+12b
+4cc
+4dd
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=302 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 221} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 221}
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK57200600000-hop_tup_hop_tup.krn
+!!!OTL: Hop tup, hop tup
+!!!source: DWOK57
+!!!id: 572006
+!!!signature: 57200600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+4dd
+=2
+4b
+4a
+=3
+8g
+8b
+8a
+8cc
+=4
+8b
+8dd
+8a
+8a}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8dd
+8cc
+=6
+8b
+8dd
+8a
+8a
+=7
+8g
+8b
+8a
+8cc
+=8
+8b
+8dd
+8a
+8a}
+==
+*-
+!!!ONB: Wariant t. 1-2: 5654  3522
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1058
+!!!ONB: Converted on 2024/12/26 with esac2hum

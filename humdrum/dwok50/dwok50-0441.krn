@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK5044100000-zolnierze_zolnierze_coscie_za_zolnirze.krn
+!!!OTL: Zołnierze, żołnierze, coście za żółnirze
+!!!source: DWOK50
+!!!id: 50441
+!!!signature: 5044100000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8.a
+16b
+8cc
+8dd
+=2
+8cc
+4.b
+=3
+8.a
+16b
+8cc
+8dd
+=4
+8cc
+4.b}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+4a
+=6
+8g#
+4b
+8g#
+=7
+8e
+8e
+8f#
+8g#
+=8
+8a
+4.cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8b
+4a
+=10
+8g#
+4b
+8g#
+=11
+8e
+8e
+8g#
+8b
+=12
+8a
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 263} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 263}
+!!!page: 263
+!!!ONB: Converted on 2024/12/26 with esac2hum

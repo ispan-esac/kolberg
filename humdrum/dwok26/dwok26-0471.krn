@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2647100000-a_ja_sobie_jedynacka.krn
+!!!OTL: A ja sobie jedynacka
+!!!source: DWOK26
+!!!id: 26471
+!!!signature: 2647100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16ee
+8ee
+8ee
+=2
+16dd
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=3
+{16cc
+16ee
+8ee
+8ee
+=4
+16dd
+16cc
+8b
+8dd}
+!!LO:LB:g=esac
+=5
+{16cc
+16a
+8f#
+8g
+=6
+16a
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=7
+{16cc
+16a
+8f#
+8g
+=8
+16a
+16cc
+8b
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 314
+!!!ONB: Converted on 2024/12/26 with esac2hum

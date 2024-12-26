@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5036300000-tam_w_miasteczku_przy_dworeczku.krn
+!!!OTL: Tam w miasteczku przy dworeczku
+!!!source: DWOK50
+!!!id: 50363
+!!!signature: 5036300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+4ee
+=2
+8ff
+4ff
+=3
+8ee
+4ee
+=4
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8dd
+4dd
+=6
+8ee
+4ee
+=7
+8a
+4cc
+=8
+8b
+4a}
+!!LO:LB:g=esac
+=9
+{8cc
+4cc
+=10
+8dd
+4ff
+=11
+4.ee}
+!!LO:LB:g=esac
+=12
+{8cc
+4cc
+=13
+8dd
+4dd
+=14
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 189} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

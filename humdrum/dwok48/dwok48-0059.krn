@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4805900000-za_dunajem_za_dunajem_murowany_dom.krn
+!!!OTL: Za dunajem, za dunajem murowany dom
+!!!source: DWOK48
+!!!id: 48059
+!!!signature: 4805900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+4ee
+=2
+8gg
+4gg
+=3
+8dd
+4dd
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+=6
+8ee
+4gg
+=7
+4.dd}
+!!LO:LB:g=esac
+=8
+{8g
+4b
+=9
+8dd
+4dd
+=10
+8ee
+4dd
+=11
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=12
+{8cc
+4cc
+=13
+8b
+4dd
+=14
+4.cc}
+==
+*-
+!!!ONB: Wariant t. 5: +1+2+3_+1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 128} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 128}
+!!!page: 128
+!!!ONB: Converted on 2024/12/26 with esac2hum

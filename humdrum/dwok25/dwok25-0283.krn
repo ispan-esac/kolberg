@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2528300000-jaki_to_jest_pociag_diabli.krn
+!!!OTL: Jaki to jest pociąg diabli
+!!!source: DWOK25
+!!!id: 25283
+!!!signature: 2528300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16ee
+8dd
+8cc#
+=2
+16dd
+16g
+8b
+8dd
+=3
+16ee
+16ff#
+8gg
+8ee
+=4
+16dd
+16g
+8b
+8dd}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8dd
+8cc
+=6
+16b
+16d
+8g
+8b
+=7
+16a
+16d
+8e
+8f#
+=8
+16g
+16b
+8ee
+8dd}
+!!LO:LB:g=esac
+=9
+{16cc
+16ee
+8dd
+8cc
+=10
+16b
+16d
+8g
+8b
+=11
+16a
+16d
+8e
+8f#
+=12
+16g
+16a
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 126} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 126}
+!!!page: 126
+!!!ONB: Converted on 2024/12/26 with esac2hum

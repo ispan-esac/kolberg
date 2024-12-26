@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK3653100000-ukraino_moja_luba.krn
+!!!OTL: Ukraino moja luba
+!!!source: DWOK36
+!!!id: 36531
+!!!signature: 3653100000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4.g
+8cc
+4cc
+4cc
+=2
+4.dd
+8g
+4a
+4b
+=3
+4.cc
+8cc
+4cc
+4cc
+=4
+4dd
+4g
+4cc
+4b}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+4a
+4e
+=6
+4f
+4d
+2e
+=7
+8f
+4.f
+8e
+4.e
+=8
+4e
+4c
+4A}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 348
+!!!ONB: Converted on 2024/12/26 with esac2hum

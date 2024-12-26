@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK06-K0665-oj_w_lesie_oj_w_lesie.krn
+!!!OTL: Oj w lesie oj w lesie
+!!!source: DWOK06
+!!!id: K0665
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+4cc
+16ee
+16dd
+=2
+16ee
+16ff
+8gg
+4ee
+=3
+8dd
+4ff
+8gg
+=4
+8ff
+16ee
+16dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8g
+4cc
+16ee
+16dd
+=6
+8ee
+16ee
+16dd
+4ee
+=7
+8g
+4ff
+8ff
+=8
+8ff
+16ee
+16dd
+4cc}
+!!LO:LB:g=esac
+=9
+{8g
+4cc
+16ee
+16dd
+=10
+8ee
+16cc
+16b
+8cc
+8g
+=11
+8g
+4b
+8dd
+=12
+8ff
+16ee
+16dd
+8cc
+8g}
+!!LO:LB:g=esac
+=13
+{8g
+4ee
+8dd
+=14
+8cc
+16cc
+16b
+8cc
+8cc
+=15
+8g
+4dd
+16dd
+16ee
+=16
+8dd
+16cc
+16b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=439 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 413-414} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 413-414}
+!!!page: 413-414
+!!!ONB: Converted on 2024/12/26 with esac2hum

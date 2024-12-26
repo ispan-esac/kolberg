@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK5785400000-oj_sidila_kumunoczka_konec_stola.krn
+!!!OTL: Oj, sidiła kumunoczka konec stoła
+!!!source: DWOK57
+!!!id: 57854
+!!!signature: 5785400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8ee
+8ee
+8ee
+=2
+8ee
+8ee
+8ee
+8dd
+=3
+8gg
+8gg
+4aa
+=4
+2ee
+=5
+8cc
+8ee
+8ee
+8ee
+=6
+8dd
+8dd
+8cc
+8ee
+=7
+8dd
+8dd
+4ee
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

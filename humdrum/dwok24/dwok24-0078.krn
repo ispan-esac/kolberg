@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK2407800000-u_sasiada_wilk_wyje.krn
+!!!OTL: U sąsiada wilk wyje
+!!!source: DWOK24
+!!!id: 24078
+!!!signature: 2407800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4b
+4dd
+4b
+=2
+4cc
+4ee
+2dd
+=3
+4cc
+4f#
+2g}
+!!LO:LB:g=esac
+=4
+{8g
+8a
+8b
+8cc
+4dd
+4b
+=5
+4cc
+4ee
+2dd
+=6
+4cc
+4f#
+2g}
+!!LO:LB:g=esac
+=7
+{4g
+8b
+8cc
+4dd
+4dd
+=8
+8cc
+8cc
+8cc
+8ee
+4dd
+4b
+=9
+8cc
+8cc
+8cc
+8f#
+4g
+4g}
+!!LO:LB:g=esac
+=10
+{8g
+8a
+8b
+8cc
+4dd
+4dd
+=11
+8cc
+8cc
+8cc
+8ee
+4dd
+4b
+=12
+8cc
+8cc
+8cc
+8f#
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 208} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 208}
+!!!page: 208
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7780300000-a_uwazajcie_panienki.krn
+!!!OTL: A uważajcie panienki
+!!!source: DWOK77
+!!!id: 778030
+!!!signature: 7780300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8d
+8f#
+8a
+4cc
+8b
+=2
+4a
+8g
+4.b}
+!!LO:LB:g=esac
+=3
+{8d
+8f#
+8a
+4cc
+8b
+=4
+4a
+8f#
+4.g}
+!!LO:LB:g=esac
+=5
+{8dd
+8b
+8b
+4cc
+8b
+=6
+4a
+8ee
+4.dd}
+!!LO:LB:g=esac
+=7
+{8dd
+8b
+8b
+4cc
+8b
+=8
+4a
+8f#
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 8
+!!!ONB: Converted on 2024/12/26 with esac2hum

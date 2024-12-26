@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3907400000-pod_berlinem_pod_berlinem.krn
+!!!OTL: Pod Berlinem, pod Berlinem
+!!!source: DWOK39
+!!!id: 39074
+!!!signature: 3907400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8d
+4g
+4g
+=2
+8a
+8cc
+4.dd
+8a
+=3
+8cc
+8cc
+4b
+4a
+=4
+2.g}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+4g
+4f#
+=6
+8e
+8cc
+4.a
+8d
+=7
+8g
+8g
+4.f#
+8e
+=8
+2.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 134} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 134}
+!!!page: 134
+!!!ONB: Converted on 2024/12/26 with esac2hum

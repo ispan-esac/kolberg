@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK5056800001-chtiu_mene_medwed_jisty.krn
+!!!OTL: Chtiu mene medwed jisty
+!!!source: DWOK50
+!!!id: 50568
+!!!signature: 5056800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8g
+8b
+=2
+4cc
+8b
+16a
+16b
+=3
+4g
+4b}
+!!LO:LB:g=esac
+=4
+{8g
+8b
+8g
+8b
+=5
+4cc
+8b
+16a
+16b
+=6
+4g
+4b}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8g
+8b
+=8
+4cc
+8b
+16a
+16b
+=9
+4a
+4dd}
+!!LO:LB:g=esac
+=10
+{8dd
+8dd
+8dd
+8dd
+=11
+4cc
+8b
+16a
+16b
+=12
+4g
+8b
+16a
+16b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=360 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 331} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 331}
+!!!page: 331
+!!!ONB: Converted on 2024/12/26 with esac2hum

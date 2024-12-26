@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7769600000-oj_badz_dobra_dziewczyno.krn
+!!!OTL: Oj bądź dobra dziewczyno
+!!!source: DWOK77
+!!!id: 77696
+!!!signature: 7769600000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{8a
+8b-
+4ee-
+4gg
+=2
+8gg
+8ff
+4dd
+4ff
+=3
+4gg
+4ee-
+4cc
+=4
+8cc
+8a
+4b-
+4f}
+!!LO:LB:g=esac
+=5
+{8a
+8b-
+4dd
+4dd
+=6
+8cc
+8ee-
+4cc
+4cc
+=7
+4ee-
+4dd
+4b-
+=8
+8b-
+8a
+4b-
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 351
+!!!ONB: Converted on 2024/12/26 with esac2hum

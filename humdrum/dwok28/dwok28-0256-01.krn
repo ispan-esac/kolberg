@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2825600001-u_jeziora_bystrej_wody.krn
+!!!OTL: U jeziora bystrej wody
+!!!source: DWOK28
+!!!id: 28256
+!!!signature: 2825600001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8a
+8a
+4.ee
+8cc
+=2
+*M2/4
+8ee
+8ee
+8ee
+8ee
+=3
+8dd
+8dd
+8dd
+8ee
+=4
+8cc
+8a
+8g
+8e}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8g
+8g
+4a
+4e
+=6
+4dd
+4ee
+8cc
+8a
+=7
+4dd
+4ee
+8dd
+8b
+=8
+8cc
+8b
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 256} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 256}
+!!!page: 256
+!!!ONB: Converted on 2024/12/26 with esac2hum

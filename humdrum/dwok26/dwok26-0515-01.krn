@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2651500001-oj_pocozescie_przysli_oleksianscy_pysni.krn
+!!!OTL: Oj pocozeście przyśli Oleksiańscy pyśni
+!!!source: DWOK26
+!!!id: 26515
+!!!signature: 2651500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8b
+8cc
+=2
+8dd
+8dd
+8b
+=3
+16ee
+16dd
+8cc
+8a
+=4
+8g
+8g
+16e
+16d}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8cc
+8a
+=6
+8g
+8b
+16a
+16g
+=7
+16b
+16g
+8a
+8a
+=8
+8g
+8g
+16e
+16d}
+!!LO:LB:g=esac
+=9
+{16b
+16dd
+8cc
+8a
+=10
+8g
+8b
+16a
+16g
+=11
+16b
+16g
+8a
+8a
+=12
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 326
+!!!ONB: Converted on 2024/12/26 with esac2hum

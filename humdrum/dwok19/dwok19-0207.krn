@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK1920700000-sumials_gaj_sumials_gaj.krn
+!!!OTL: Sumiałś gaj, sumiałś gaj
+!!!source: DWOK19
+!!!id: 19207
+!!!signature: 1920700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16b
+16dd
+4ee
+=2
+8b
+8dd
+8ff#
+=3
+32ee
+32ff#
+32ee
+32dd
+4ee
+=4
+8b
+8dd
+8dd
+=5
+16ee
+32cc
+32b
+8a
+8a
+=6
+8b
+32f#
+16.g#
+32f#
+16.g#}
+!!LO:LB:g=esac
+=7
+{16b
+16dd
+4a
+=8
+32b
+16.cc
+32b
+16.a
+32f#
+16.g#
+=9
+16b
+16dd
+4a
+=10
+8b
+32f#
+16.g#
+32f#
+16.g#}
+!!LO:LB:g=esac
+=11
+{16b
+16dd
+4e
+=12
+32b
+16.cc
+32b
+16.a
+32f#
+16.g#
+=13
+16b
+16dd
+8a
+8a
+=14
+8b
+32f#
+16.g#
+32f#
+16.g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 65} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 65}
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

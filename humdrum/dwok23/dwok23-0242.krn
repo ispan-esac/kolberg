@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK2324200000-o_wielka_matko_od_boga_wybrana.krn
+!!!OTL: O wielka Matko od Boga wybrana
+!!!source: DWOK23
+!!!id: 23242
+!!!signature: 2324200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8cc
+8dd
+8.cc
+16b-
+=2
+4b-
+4a
+=3
+8a
+8g
+8.b-
+16a
+=4
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+8.cc
+16b-
+=6
+4b-
+4a
+=7
+8a
+8g
+8.b-
+16a
+=8
+4a
+4g}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8b-
+8g
+=10
+8a
+8cc
+8b-
+8g
+=11
+8a
+8g
+8a
+8b-
+=12
+4cc
+4cc}
+!!LO:LB:g=esac
+=13
+{8b-
+8a
+8b-
+8cc
+=14
+8dd
+8ee
+8ff
+8dd
+=15
+8cc
+8b-
+8.a
+16g
+=16
+4g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=251 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 237-238} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, pp. 237-238}
+!!!page: 237-238
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK3038600000-zabrale_nas_w_nekrute.krn
+!!!OTL: Zabrałe nas w nekrute
+!!!source: DWOK30
+!!!id: 30386
+!!!signature: 3038600000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8a
+8g#
+8a
+8b
+=2
+8cc
+8cc
+4ee
+=3
+8b
+8b
+4ee
+=4
+8cc
+8cc
+4ee}
+!!LO:LB:g=esac
+=5
+{8a
+8g#
+8a
+8b
+=6
+8cc
+8cc
+8ee
+8ee
+=7
+8b
+8b
+8ee
+8ee
+=8
+8a
+8a
+4a}
+!!LO:LB:g=esac
+=9
+{4.gg
+8ff
+=10
+4.ee
+8ee
+=11
+4dd
+4b
+=12
+4cc
+4cc}
+!!LO:LB:g=esac
+=13
+{4.ee
+8dd
+=14
+4.cc
+8a
+=15
+4g#
+4e
+=16
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 208} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 208}
+!!!page: 208
+!!!ONB: Converted on 2024/12/26 with esac2hum

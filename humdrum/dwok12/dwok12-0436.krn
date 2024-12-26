@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK1243600000-stala_sie_u_nas_pewna_pogloska.krn
+!!!OTL: Stała się u nas pewna pogłoska
+!!!source: DWOK12
+!!!id: 12436
+!!!signature: 1243600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{8ff
+8ee
+8dd
+4cc
+8a
+=2
+8g
+8a
+8b-
+8dd
+8cc}
+8r
+!!LO:LB:g=esac
+=3
+{8ff
+8ee
+8dd
+4cc
+8a
+=4
+8b-
+8a
+8g
+8a
+8f}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8g
+8a
+8a
+8a
+=6
+8b
+8b
+8g
+8cc
+8cc
+8cc}
+!!LO:LB:g=esac
+=7
+{4cc
+16cc
+16ff
+4ff
+8r
+=8
+4gg
+16gg
+16ff
+4ff}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 227} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 227}
+!!!page: 227
+!!!ONB: Converted on 2024/12/26 with esac2hum

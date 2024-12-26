@@ -1,0 +1,33 @@
+!!!!SEGMENT: DWOK1255100021-instrumentalna-owczarkowie_skurwysynowie.krn
+!!!OTL: Instrumentalna-Owczarkowie skurwysynowie
+!!!source: DWOK12
+!!!id: 12551
+!!!signature: 1255100021
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16cc
+4ff
+=2
+8dd
+8dd
+8ff
+=3
+8cc
+8a
+8a
+=4
+8b-
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 282} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 282}
+!!!page: 282
+!!!ONB: Converted on 2024/12/26 with esac2hum

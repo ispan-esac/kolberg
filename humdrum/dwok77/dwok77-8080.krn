@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK7780800000-z_basia_mam_sie_zenic.krn
+!!!OTL: Z Basią mam się żenić
+!!!source: DWOK77
+!!!id: 778080
+!!!signature: 7780800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8cc
+8a
+4cc
+=2
+8cc
+4b
+8b
+=3
+8dd
+8dd
+4cc
+=4
+8g
+4b
+8b}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8a
+8cc
+=6
+8cc
+4b
+8dd
+=7
+8ee
+8cc
+8a
+8f#
+=8
+8a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 13
+!!!ONB: Converted on 2024/12/26 with esac2hum

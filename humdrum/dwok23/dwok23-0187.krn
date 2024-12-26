@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2318700000-przylecial_ci_sokol.krn
+!!!OTL: Przyleciał ci sokół
+!!!source: DWOK23
+!!!id: 23187
+!!!signature: 2318700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8a
+8cc
+8ee
+=2
+8dd
+8b
+4g
+=3
+8a
+8cc
+8dd
+8b
+=4
+4cc
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8dd
+8ee
+=6
+8cc
+8a
+4g
+=7
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=8
+{8a
+8cc
+8dd
+8ee
+=9
+4cc
+4a
+=10
+4g}
+4r
+==
+*-
+!!!ONB: Przed wyjazdem do kościoła
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 178} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 178}
+!!!page: 178
+!!!ONB: Converted on 2024/12/26 with esac2hum

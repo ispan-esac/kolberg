@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK42143800000-pojechal_pan_starosta.krn
+!!!OTL: Pojechał pan starosta
+!!!source: DWOK42
+!!!id: 421438
+!!!signature: 42143800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8b
+8g
+8b
+=2
+8dd
+8cc
+4a
+=3
+8b
+8b
+8g
+8b
+=4
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8a
+8a
+=6
+8cc
+8ee
+8dd
+8dd
+=7
+8dd
+8b
+8g
+8b
+=8
+8a
+8f#
+4d}
+==
+*-
+!!!ONB: wariant w takcie 5 i 6 132_  465_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 46} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

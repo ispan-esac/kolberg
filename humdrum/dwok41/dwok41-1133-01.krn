@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK41113300001-oj_zabili_zabili.krn
+!!!OTL: Oj, zabili, zabili
+!!!source: DWOK41
+!!!id: 411133
+!!!signature: 41113300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+16b
+16cc
+8dd
+8g
+=3
+8dd
+8dd
+8dd
+=4
+16b
+16cc
+8dd
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8g
+=6
+16f#
+16a
+8dd
+8a
+=7
+8g
+8b
+8g
+=8
+16f#
+16d
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=576 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 489} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 489}
+!!!page: 489
+!!!ONB: Converted on 2024/12/26 with esac2hum

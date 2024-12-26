@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2710900000-a_siadaj_siadaj.krn
+!!!OTL: A siadaj siadaj
+!!!source: DWOK27
+!!!id: 27109
+!!!signature: 2710900000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4a
+8cc
+8dd
+=2
+4.ee
+8ff
+=3
+8ee
+8ee
+8dd
+8cc
+=4
+2b}
+!!LO:LB:g=esac
+=5
+{4a
+8cc
+8dd
+=6
+4.ee
+8ff
+=7
+8ee
+8ee
+8dd
+8cc
+=8
+2b}
+!!LO:LB:g=esac
+=9
+{8ee
+8ee
+8dd
+8cc
+=10
+4b
+4a
+=11
+8cc
+8b
+8cc
+8dd
+=12
+4ee
+4dd}
+!!LO:LB:g=esac
+=13
+{4cc
+8dd
+8cc
+=14
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 199} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

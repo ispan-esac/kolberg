@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK7765400000-woly_nie_jadly_krowa_nie_pila.krn
+!!!OTL: Woły nie jadły krowa nie piła
+!!!source: DWOK77
+!!!id: 77654
+!!!signature: 7765400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+8dd
+8ee
+4dd
+=2
+8dd
+8cc
+8b
+8cc
+4a}
+!!LO:LB:g=esac
+=3
+{8a
+8f#
+8d
+8d
+4cc
+=4
+8a
+8a
+8a
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+8ee
+4dd
+=6
+8dd
+8cc
+8b
+8cc
+4a}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8a
+8b
+4cc
+=8
+8a
+8a
+8a
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 330
+!!!ONB: Converted on 2024/12/26 with esac2hum

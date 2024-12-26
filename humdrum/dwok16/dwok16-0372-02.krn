@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1637200002-a_przez_progi_nadobna_marysiu.krn
+!!!OTL: A przez progi nadobna Marysiu
+!!!source: DWOK16
+!!!id: 16372
+!!!signature: 1637200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+4dd
+=2
+8dd
+16b
+16cc
+16dd
+16ee
+=3
+16dd
+16dd
+16dd
+16cc
+[8dd
+=4
+8dd]
+8dd
+16b
+16a
+=5
+8g
+8g
+16f#
+32d}
+32r
+!!LO:LB:g=esac
+=6
+8r
+{16d
+16f#
+8g
+=7
+16a
+16g
+8b
+16dd
+[16dd
+=8
+8dd]
+8dd
+8b
+=9
+16g
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 243} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 243}
+!!!ONB: Converted on 2024/12/26 with esac2hum

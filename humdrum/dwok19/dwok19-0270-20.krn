@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1927000020-leci_konik_droga-instrumentalna.krn
+!!!OTL: Leci konik drogą-Instrumentalna
+!!!source: DWOK19
+!!!id: 19270
+!!!signature: 1927000020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+16cc
+16ee
+8dd
+=2
+16b
+16dd
+16cc
+16ee
+8dd
+=3
+16a
+16f#
+16a
+16b
+8cc
+=4
+16b
+16f#
+16a
+16f#
+8g}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+16cc
+16ee
+8dd
+=6
+16b
+16dd
+16cc
+16ee
+8dd
+=7
+16a
+16f#
+16a
+16b
+8cc
+=8
+16b
+16f#
+16a
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=15 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. } @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. }
+!!!ONB: Converted on 2024/12/26 with esac2hum

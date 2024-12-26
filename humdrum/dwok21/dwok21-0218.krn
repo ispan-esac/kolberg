@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK2121800000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK21
+!!!id: 21218
+!!!signature: 2121800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4.dd
+16b
+16dd
+=2
+4.dd
+16b
+16cc
+=3
+8dd
+8b
+8ee
+8dd
+=4
+8dd
+8b
+8ee
+8dd}
+!!LO:LB:g=esac
+=5
+{4.cc
+16a
+16b
+=6
+4.cc
+16a
+16b
+=7
+8cc
+16a
+16cc
+8ee
+8dd
+=8
+8cc
+16a
+16cc
+8ee
+8dd}
+!!LO:LB:g=esac
+=9
+{8dd
+16b
+16dd
+8ee
+16dd
+16cc
+=10
+8b
+16b
+16a
+16f#
+16g
+16f#
+16d
+=11
+8cc
+16a
+16cc
+8ee
+8f#
+=12
+8a
+8g
+4d}
+!!LO:LB:g=esac
+=13
+{8dd
+16b
+16dd
+8gg
+8dd
+=14
+8b
+16b
+16a
+16f#
+16g
+16f#
+16d
+=15
+8cc
+16a
+16cc
+8ee
+8f#
+=16
+8a
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 105} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

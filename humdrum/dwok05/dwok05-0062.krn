@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK05-K0062-krolowie_jada_przez_pole.krn
+!!!OTL: Krolowie jada przez pole
+!!!source: DWOK05
+!!!id: K0062
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4a
+8b-
+8g
+2cc
+=2
+4a
+8b-
+8g
+2cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8dd
+8cc
+8b-
+8a
+8g
+8g
+8f
+=4
+8cc
+8dd
+8cc
+8b-
+8a
+8g
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 251} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

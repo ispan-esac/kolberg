@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1256200000-nie_pojde_ja_za_owczarka_za_psa.krn
+!!!OTL: Nie pójdę ja za owczarka za psa
+!!!source: DWOK12
+!!!id: 12562
+!!!signature: 1256200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16cc
+16ee-
+8.gg
+16dd
+=2
+16ff
+16ff
+8ee-
+8dd
+=3
+16cc
+16ee-
+4ff}
+!!LO:LB:g=esac
+=4
+{16cc
+16ee-
+8.gg
+16dd
+=5
+16ff
+16ff
+8ee-
+8dd
+=6
+16cc
+16a
+4b-}
+!!LO:LB:g=esac
+=7
+{16f
+16a
+8.b-
+16dd
+=8
+16ff
+16ff
+8ee-
+8dd
+=9
+16cc
+16ee-
+4ff}
+!!LO:LB:g=esac
+=10
+{16f
+16a
+8.b-
+16dd
+=11
+16ff
+16ff
+8ee-
+8dd
+=12
+16cc
+16a
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=302 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 286} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 286}
+!!!page: 286
+!!!ONB: Converted on 2024/12/26 with esac2hum

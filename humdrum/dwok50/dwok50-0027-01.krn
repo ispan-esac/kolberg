@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK5002700001-ej_worle_worle_sywyj_sokole.krn
+!!!OTL: Ej, worle, worle, sywyj sokołe
+!!!source: DWOK50
+!!!id: 50027
+!!!signature: 5002700001
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{8a
+8e
+8a
+8b
+4.cc
+8b
+=2
+8a
+8a
+8g#
+8b
+2e}
+!!LO:LB:g=esac
+=3
+{8cc
+8b
+8cc
+8dd
+4.ee
+8dd
+=4
+8cc
+8cc
+8b
+8cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=24 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 11} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 11}
+!!!page: 11
+!!!ONB: Converted on 2024/12/26 with esac2hum

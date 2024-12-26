@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7505700002-oj_swici_miesiac_w_okno.krn
+!!!OTL: Oj, świci miesiąc w okno
+!!!source: DWOK75
+!!!id: 75057
+!!!signature: 7505700002
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{4dd
+4dd
+4ff
+=2
+4ee
+4gg
+4gg
+=3
+4ff
+4dd
+8.dd
+16cc
+=4
+8a
+8f
+4g
+8aa
+8b-}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4ff
+=6
+8ee
+8cc
+4dd
+4b-
+=7
+4dd
+4dd
+4cc
+=8
+8b-
+16a
+16f
+4g
+8a
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 37} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

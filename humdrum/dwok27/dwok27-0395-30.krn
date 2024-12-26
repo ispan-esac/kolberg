@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2739500030-a_za_lasem_moje_wolki-instrumentalna.krn
+!!!OTL: A za lasem moje wołki-Instrumentalna
+!!!source: DWOK27
+!!!id: 27395
+!!!signature: 2739500030
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8ee
+8ee
+16a
+16f#
+=2
+16d
+16cc
+16b
+16cc
+16ee
+16a
+=3
+16b
+16cc
+16dd
+16ee
+16a
+16f#
+=4
+16d
+16b
+16b
+16cc
+32a
+32g
+16f#}
+!!LO:LB:g=esac
+=
+{16.d
+32b
+8b
+24a
+24g
+24f#
+=
+16g
+16b
+16cc#
+16dd
+24a
+24g
+24f#
+=
+16.d
+32b
+8b
+24a
+24g
+24f#
+=
+16.d
+32g
+8g
+24a
+24g
+24f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=367 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 348} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 348}
+!!!page: 348
+!!!ONB: Converted on 2024/12/26 with esac2hum

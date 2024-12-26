@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK04-K0211a-moij_matki.krn
+!!!OTL: Moij matki
+!!!source: DWOK04
+!!!id: K0211a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4ee
+4ee
+=2
+4dd
+4dd
+4cc
+=3
+8dd
+8ee
+4dd
+4ee
+=
+4a
+12cc
+12b
+12a
+4g}
+!!LO:LB:g=esac
+=4
+{4a
+4.cc
+8dd
+=5
+8ee
+8ff
+4ee
+4g
+=
+4a
+12a
+12b
+12cc
+4a}
+!!LO:LB:g=esac
+=6
+{8a
+8a
+4ee
+4ee
+=
+4dd
+12ff
+12ee
+12dd
+4cc
+=7
+8dd
+8ee
+4dd
+4ee
+=
+4a
+12cc
+12b
+12a
+4g}
+!!LO:LB:g=esac
+=8
+{8a
+8b
+4.cc
+8g
+=9
+8ee
+8gg
+4ee
+4g
+=
+4a
+12dd
+12cc
+12b
+4a}
+==
+*-
+!!!ONB: Wariant alternatywny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 109} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 109}
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

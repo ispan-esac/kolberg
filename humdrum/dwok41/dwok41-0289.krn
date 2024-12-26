@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4128900000-oj_nie_przebieraj_marys.krn
+!!!OTL: Oj, nie przebieraj, Maryś
+!!!source: DWOK41
+!!!id: 41289
+!!!signature: 4128900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4dd
+4g
+4b
+=2
+8cc
+8cc
+4dd
+4ee
+=3
+4ff
+4g
+4b
+=4
+8cc
+8cc
+4ee
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4g
+8a
+8b
+=6
+8cc
+8cc
+4dd
+4ee
+=7
+8ee
+8ff
+4g
+8a
+8b
+=8
+8cc
+8cc
+4ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 176} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 176}
+!!!page: 176
+!!!ONB: Converted on 2024/12/26 with esac2hum

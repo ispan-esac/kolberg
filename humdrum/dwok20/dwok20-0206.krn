@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK2020600000-a_na_onej_gorze_stoja_tam_zolnierze.krn
+!!!OTL: A na onej górze stoją tam żołnierze
+!!!source: DWOK20
+!!!id: 20206
+!!!signature: 2020600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8cc
+8b
+8cc
+8dd
+8ee
+8b
+=2
+8cc
+8b
+8cc
+8dd
+8ee
+8b
+=3
+8cc
+8cc
+4a
+8dd
+8cc
+=4
+8b
+8a
+8g
+8a
+8b
+8dd
+=5
+8cc
+8cc
+4a
+4dd
+=6
+8b
+8a
+4g}
+4r
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+8cc
+8dd
+8ee
+8b
+=8
+8cc
+8b
+8cc
+8dd
+8ee
+8b
+=9
+8cc
+8cc
+4a
+8dd
+8cc
+=10
+8b
+8a
+8g
+8a
+8b
+8dd
+=11
+8cc
+8cc
+4a
+8dd
+8cc
+=12
+8b
+8a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 188} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

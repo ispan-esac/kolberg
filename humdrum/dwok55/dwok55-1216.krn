@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK55121600000-instrumentalna_-_hora_bukowinska.krn
+!!!OTL: Instrumentalna - Hora bukowińska
+!!!source: DWOK55
+!!!id: 551216
+!!!signature: 55121600000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8d
+8f#
+8g
+8a
+=2
+8b-
+8a
+8cc
+8cc
+=3
+8b-
+8a
+8dd
+8ee
+=4
+8dd
+8b-
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{4cc
+4cc
+=6
+8cc
+8b-
+8a
+8g
+=7
+2dd
+=8
+8dd
+8b-
+8a
+8g
+=9
+2dd
+=10
+8dd
+8b-
+8a
+8g}
+!!LO:LB:g=esac
+=11
+{8.d
+16f#
+8g
+8a
+=12
+8b-
+8a
+8b-
+8b-
+=13
+8b-
+8a
+8dd
+8ee
+=14
+8dd
+8b-
+8a
+8g}
+!!LO:LB:g=esac
+=15
+{4cc
+4cc
+=16
+4b-
+4a
+=17
+2g}
+==
+*-
+!!!ONB: DWOK 55 nr 1216
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=438 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 411} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 411}
+!!!page: 411
+!!!ONB: Converted on 2024/12/26 with esac2hum

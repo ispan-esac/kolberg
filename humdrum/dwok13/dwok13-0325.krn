@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1332500000-oj_wojskowych_trzeba_kochac.krn
+!!!OTL: Oj wojskowych trzeba kochać
+!!!source: DWOK13
+!!!id: 13325
+!!!signature: 1332500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc
+8.ee
+16b
+=2
+16a
+16cc
+8ee
+8dd
+=3
+16a
+16cc
+8.ee
+16b
+=4
+16dd
+16cc
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8.g
+16b
+=6
+16a
+16cc
+8ee
+8dd
+=7
+16d
+16f#
+8.g
+16b
+=8
+16dd
+16cc
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 144} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 144}
+!!!page: 144
+!!!ONB: Converted on 2024/12/26 with esac2hum

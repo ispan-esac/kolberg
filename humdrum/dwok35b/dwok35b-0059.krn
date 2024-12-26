@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK35B-35B05900000-za_wroty_dudka_hraje.krn
+!!!OTL: Za wroty dudka hraje
+!!!source: DWOK35B
+!!!id: 35B059
+!!!signature: 35B05900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.cc#
+16b
+8dd
+8dd
+=2
+8cc#
+8b
+8dd
+8dd
+=3
+8.cc#
+16b
+8dd
+8dd
+=4
+16cc#
+16b
+16b
+16g
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{8.g
+16a
+8b-
+8a
+=6
+8g
+8a
+8b-
+8a
+=7
+8.g
+16a
+8b
+8a
+=8
+16cc#
+16b
+16b
+16g
+8g
+8g}
+==
+*-
+!!!ONB: Wariant taktu siódmego 4#_3_5_5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 161} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 161}
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

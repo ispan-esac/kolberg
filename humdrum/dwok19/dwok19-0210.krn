@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1921000000-oj_posslam_do_ogrodu.krn
+!!!OTL: Oj posśłam do ogrodu
+!!!source: DWOK19
+!!!id: 19210
+!!!signature: 1921000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+8dd
+8b-
+=2
+16.a
+32f
+8g
+8e
+=3
+8f
+8g
+8b-
+=4
+16.a
+32f
+8g
+8e}
+!!LO:LB:g=esac
+=5
+{8f
+8g
+8b-
+=6
+16.a
+32cc
+8dd
+8b-
+=7
+8a
+8g
+8b-
+=8
+16.a
+32f
+8g
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 66} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

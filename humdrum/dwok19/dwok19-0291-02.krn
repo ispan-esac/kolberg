@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1929100002-sieroty_sieroty_duzo_was_na_sswiecie.krn
+!!!OTL: Sieroty sieroty duzo was na śświecie
+!!!source: DWOK19
+!!!id: 19291
+!!!signature: 1929100002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{24g
+24a
+24b
+8cc
+8dd
+=
+24dd
+24ee
+24ff
+4gg
+=1
+16ff
+16ee
+8dd
+16cc
+16a
+=2
+4b
+8b}
+!!LO:LB:g=esac
+=
+{24dd
+24ee
+24ff
+8gg
+16dd
+16b
+=3
+16cc
+16ee
+8dd
+8g
+=4
+16b
+16a
+8cc
+16b
+16a
+=5
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 89} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 89}
+!!!page: 89
+!!!ONB: Converted on 2024/12/26 with esac2hum

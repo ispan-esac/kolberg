@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2414500000-zabierojcie_sie.krn
+!!!OTL: Zabierojcie się
+!!!source: DWOK24
+!!!id: 24145
+!!!signature: 2414500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4b
+8b
+8cc
+4dd
+4cc#
+=2
+8dd
+8ee
+8dd
+8cc
+4b
+8a
+8g}
+!!LO:LB:g=esac
+=3
+{4b
+4cc
+2dd
+=4
+4dd
+8dd
+8ee
+4dd
+4cc#}
+!!LO:LB:g=esac
+=5
+{4b
+8b
+8cc
+4b
+4a
+=6
+8dd
+8ee
+8dd
+8cc
+4b
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{4d
+8e
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 252} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

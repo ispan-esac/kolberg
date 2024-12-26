@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK57206000000-zywnyh_czetwer_po_weczery.krn
+!!!OTL: Zywnyh czetwer po weczery
+!!!source: DWOK57
+!!!id: 572060
+!!!signature: 57206000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4a
+16b
+16a
+=2
+4g#
+8cc
+=3
+4b
+8a
+=4
+8g#
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8b
+=6
+4.cc
+=7
+8b
+4a
+=8
+8b
+4cc}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8b
+=10
+4.cc
+=11
+8b
+4a
+=12
+8g#
+4a}
+==
+*-
+!!!ONB: Wariant t. 9: 1_3b_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1121
+!!!ONB: Converted on 2024/12/26 with esac2hum

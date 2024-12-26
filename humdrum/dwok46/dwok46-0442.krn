@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4644200000-pojade_pojade_do_owicza_po_bicz.krn
+!!!OTL: Pojadę, pojadę do Łowicza po bicz
+!!!source: DWOK46
+!!!id: 46442
+!!!signature: 4644200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4ee
+=2
+8a
+8cc
+8b
+8f#
+4g
+=3
+8a
+8cc
+4b
+4g
+=4
+2f#
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+4ee
+=6
+8a
+8cc
+8b
+8f#
+4g
+=7
+8a
+8cc
+4b
+4g
+=8
+2f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=308 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 274} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 274}
+!!!page: 274
+!!!ONB: Converted on 2024/12/26 with esac2hum

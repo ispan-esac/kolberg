@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4805200000-oj_wyjde_ja.krn
+!!!OTL: Oj, wyjdę ja
+!!!source: DWOK48
+!!!id: 48052
+!!!signature: 4805200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16b-
+16cc
+8dd
+8ee-
+=2
+16dd
+16cc
+8dd
+8b-
+=3
+16b-
+16cc
+8dd
+8ee-
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{16b-
+16cc
+8dd
+8ee-
+=6
+16dd
+16cc
+8dd
+8b-
+=7
+16a
+16b-
+8cc
+8dd
+=8
+4b-}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 121} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 121}
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

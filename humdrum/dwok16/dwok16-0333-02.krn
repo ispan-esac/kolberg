@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1633300002-oj_w_lesie_w_lesie.krn
+!!!OTL: Oj w lesie w lesie
+!!!source: DWOK16
+!!!id: 16333
+!!!signature: 1633300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8b
+8a
+=2
+8cc
+8b
+8g
+=3
+8cc
+8b
+8a
+=4
+4g
+16f#
+16d}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+=6
+8f#
+4g
+=7
+8a
+8a
+8b
+=8
+8cc
+4b
+=9
+8a
+8g
+8b
+=10
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=254 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 234} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 234}
+!!!ONB: Converted on 2024/12/26 with esac2hum

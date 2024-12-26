@@ -1,0 +1,6378 @@
+DWOK19
+CUT[Albośwa to jacy tacy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 1 od Jędrzejowa, Pińczowa]
+FKT[]
+SIG[1900100000]
+KEY[19001   16  F 2/4]
+MEL[1_2_3_4#_  5_4#_6_5_  5_4#_6_5_  5_4#56_5_
+    5_1_3_4#_  5_4#_6_5_  5_1_3_4#_  5_4#5+1765
+    5_5_2__  3_1__1_  -5_-5-7-7__  1_3__4#_
+    5_5_2__  431__3_  -5_-5-7-7__  2_1__1_ //]
+BEM[]
+
+DWOK19
+CUT[Abośwa to nie Krakusy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 2 od Wodzisłśawia, Książa]
+FKT[]
+SIG[1900200010]
+KEY[19002   16  G 2/4]
+MEL[1_2_3_4#_  5_4#_64#_.  5_4#564#_.  54#_.64#_.  54#_.64#_.
+    5_6_42_.  1__3__  5_654-7_.  1__3__
+    7_6542_.  1_2_3_4#_  5_654-7_.  21_.31_. //]
+BEM[]
+
+DWOK19
+CUT[Abośwa to nie Krakusy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 2 od Wodzisłśawia, Książa]
+FKT[]
+SIG[1900200020]
+KEY[19002   16  G 2/4]
+MEL[21_.31_.  2_321_-6_  2__-7-5_.  -7_2_1_-6_  -6-5_.-7-5_.  -6-5_.-7-5_.
+    21_.31_.  2_321_-6_  2__-7-5_.  2_321_-6_  -6-5_.-7-5_.  -6-5_.-7-5_. //]
+BEM[]
+
+DWOK19
+CUT[Albośmy to jacy cudzy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 4 od Proszowic, Koszyc]
+FKT[]
+SIG[1900300010]
+KEY[19003   16  G 2/4]
+MEL[1_1-71_1-7  1_34#6_5_  +1_4#_6_5_  1_34#6_5_  +1_4#_6_5_  3_4#_6_5_
+    3_3_5__  -7_1__3_  5_3_5__  -7_1__1_
+    3_34#5__  -7_1__3_  5_34#5__  -7_1__-5_ //]
+BEM[]
+
+DWOK19
+CUT[Albośmy to jacy cudzy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 4 od Proszowic, Koszyc]
+FKT[]
+SIG[1900300020]
+KEY[19003   16  G 2/4]
+MEL[-5_1-71234  5654#6_5_  5654#6_5_  5654#6_5_  5654#6_5_
+    56534_2_  3_3__3_  5654#5__  -7_1__3_  5_34#5__  -7_1__1_ //]
+BEM[]
+
+DWOK19
+CUT[A ja sobie Krakowiacek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 5 od Miechowa]
+FKT[]
+SIG[1900400000]
+KEY[19004   16  G 2/4]
+MEL[1_2_3_4_  5_5_5_4#_  6_5_5_4#_  6_5_5_4#_  6_5_5_4#_
+    5_4#_2__  4#_5__1_  344_-5__  -7_1__.
+    54#4#_2__  4#_5__1_  354_2_3_  -713__. //]
+BEM[]
+
+DWOK19
+CUT[A ja sobie Krakowiacek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 6 od Pilicy]
+FKT[]
+SIG[1900500000]
+KEY[19005   16  G 2/4]
+MEL[1_2_3_4_  5_4#_6_6_  5_4#_6_6_  5_54#6_6_  5_54#6_6_
+    5_54#4#__  4#_5__3_  3_342_-7_  1__3__
+    5_54#4#_2_  4#_5_5_3_  3_452_34  1_3_3_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Alboż my to jacy tacy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 6 Słśomniki]
+FKT[]
+SIG[1900600010]
+KEY[19006   16  G 2/4]
+MEL[1_2_3_4_  5_4#_6_5_  5_5_6_5_  5_4#_6_5_  5+15_6_5_  564#_655_
+    5_542__  2_5__3_  3_542_-7_  1__32-7_
+    56542__  2_5__3_  3_542_-7_  1__32-7_ //]
+BEM[]
+
+DWOK19
+CUT[Alboż my to jacy tacy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 6 Słśomniki]
+FKT[]
+SIG[1900600020]
+KEY[19006   16  G 2/4]
+MEL[1_542_2-7  1_2_3_4_  5_542_-7_  1__32-7_
+    1_542_-7-5  1-7123234  5_542_-7_  1__32-7_ //]
+BEM[]
+
+DWOK19
+CUT[A toć ja Krakowiacek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 6 od Olkusza, Ogrodzieńca]
+FKT[]
+SIG[1900700011]
+KEY[19007   08  G 2/4]
+MEL[135_  135_  53_6  4#5_3  64#_5  36_4#
+    53_6  4#5_3  64#_5  36_4#
+    54#2_  13_1  1-7-5_  -71_3  1-7-5-7  11_. //]
+BEM[]
+
+DWOK19
+CUT[A toć ja Krakowiacek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 6 od Olkusza, Ogrodzieńca]
+FKT[]
+SIG[1900700012]
+KEY[19007   16  G 2/4]
+MEL[1_3_5__  1_3_5__  5_3__6_  4#_5__3_  6_4#__5_  3_6__4#_
+    5_3__6_  4#_5__3_  6_4#__5_  3_6__4#_
+    5_4#_2__  4_3__3_  1_-7_-5__  -7_1__3_  1_1-7-5_-7_  211__. //]
+BEM[]
+
+DWOK19
+CUT[A toć ja Krakowiacek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 6 od Olkusza, Ogrodzieńca]
+FKT[]
+SIG[1900700020]
+KEY[19007   16  G 2/4]
+MEL[1_135__  3_135__  5_3__6_  5_3_6_4#_  5_3_6_4#_
+    5_3__6_  4#_5__3_  54#4#_2_.4  433__1_
+    1-7-7_-5_.-7  133__1_  1-7-7_-5_.-7  211__. //]
+BEM[]
+
+DWOK19
+CUT[Azeby ja jadłśa piłśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 7 od Kielc, Radoszyc]
+FKT[]
+SIG[1900800001]
+KEY[19008   08  G 2/4]
+MEL[1234  3242  3242  3242
+    3242  3252
+    324_  13_3  324_  -71_1 //]
+BEM[]
+
+DWOK19
+CUT[Azeby ja jadłśa piłśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 7 od Kielc, Radoszyc]
+FKT[]
+SIG[1900800002]
+KEY[19008   16  G 2/4]
+MEL[1_2_3_4_  3_2_5_2_  3_2_4_2_  3_2_4_2_
+    3_2_4_2_  3_2_5_2_
+    3_2_4__  213__35  544_4__  -711__1_ //]
+BEM[]
+
+DWOK19
+CUT[Sama ja se sama]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 7 od Wolbromia, Sśłomnik]
+FKT[]
+SIG[1900900011]
+KEY[19009   16  F 2/4]
+MEL[3_4_5_.5  5_54#5_3_  5_54#5_6_  5__3__  1_3_3_4_  3__1__
+    -7_2_^32-7  1_3_^235  4_2__5_  3__1__ //]
+BEM[Skalmierzak]
+
+DWOK19
+CUT[Sama ja se sama]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 7 od Wolbromia, Słśomnik]
+FKT[]
+SIG[1900900012]
+KEY[19009   16  F 2/4]
+MEL[3_4_5_.5  5_54#5_3_  5_54#5_6_  5__3__  1_3_3_4_  3__1__
+    -7_2_^32_  1_3_^23_  4_2_2_5_  3__1__ //]
+BEM[Skalmierzak]
+
+DWOK19
+CUT[Sama ja se sama]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 7 od Wolbromia, Słśomnik]
+FKT[]
+SIG[1900900020]
+KEY[19009   16 Bb 2/4]
+MEL[3_4#_5__  5_3__.  3_.4#5_.6  5_3__.
+    3_4#_5__  5_+1__.  3_.4#5_.6  5_3__.
+    1_3_5_.4#  2_1__.  3_323_5_  2_1__1_
+    1_3_5_.4#  2_1__.  3_323_5_  2_1__1_ //]
+BEM[]
+
+DWOK19
+CUT[Majątecku nie mam]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 7 od Chęcin]
+FKT[]
+SIG[1901000011]
+KEY[19010   16  C 2/4]
+MEL[5_7_7__  7_+1__+1_  +2_+3_+4__  +4_+3__+3_
+    +2_+4_+4__  +4_+3__+3_  +4_+2_7__  +2_+1__+1_ //]
+BEM[]
+
+DWOK19
+CUT[Majątecku nie mam]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 7 od Chęcin]
+FKT[]
+SIG[1901000012]
+KEY[19010   16  C 2/4]
+MEL[577_7__  7+1+1__+1_  +2_+3_+4__  +4+3+3__+3_
+    +2_+4_+4__  +5+4+3__+3_  +3+4+2_7__  +2+1+1__+1_ //]
+BEM[]
+
+DWOK19
+CUT[Majątecku nie mam]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 7 od Chęcin]
+FKT[]
+SIG[1901000020]
+KEY[19010   16  C 2/4]
+MEL[6_+2_+1_.7  +1_5__55  6_+2_+1_7_  +1_3__5_
+    6_+2_+1_.7  +1_+3__55  6_+2_+1_7_  +1_+1__. //]
+BEM[]
+
+DWOK19
+CUT[W kośściele zagrają]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 8 od Wodzisłśawia]
+FKT[]
+SIG[1901100011]
+KEY[19011   16  C 2/4]
+MEL[5_67+1__  7_+2__7_  5_67+1__  +3_+2__76
+    5_67+1__  +2_+4__+4_  +3_+5_+3__  +2_+4__+4_  +3_+5_+3__  +3+2+2__7_ //]
+BEM[]
+
+DWOK19
+CUT[W kośściele zagrają]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 8 od Wodzisłśawia]
+FKT[]
+SIG[1901100012]
+KEY[19011   16  C 2/4]
+MEL[5_67+1__  7_+2__7_  5_67+1__  +3_+2__76
+    5_67+1__  +2+3+4__+4+3  +3_+5_+3+5+3+1  +2+3+4__+4+3  +3_+5_+3+1+1_  +3+2+2__76 //]
+BEM[]
+
+DWOK19
+CUT[W kośściele zagrają]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 8 od Wodzisśławia]
+FKT[]
+SIG[1901100020]
+KEY[19011   16  C 2/4]
+MEL[5_67+1_.7  +2__+1765  5_67+1_.7  +2_+4__+4+3  +5_+5+3+3_.+1  +2__+1765
+    5_67+17+1+3  +2__+1765  5_67+1_.7  +2_+4__+4+3  +5_+5+3+3_.+1  +2__+1765 //]
+BEM[]
+
+DWOK19
+CUT[A zkądze sie  bierze ta Prosowska]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 8 od Proszowic]
+FKT[]
+SIG[1901200010]
+KEY[19012   16  C 2/4]
+MEL[5_+4_+3_+2_  +3_+1__+3_  +2_5_6_7_  +2+1+1__.
+    5_+4_+3_+2_  +3_+1__+3_  +2_5_6_7_  +2+1+3__+5_ //]
+BEM[]
+
+DWOK19
+CUT[A zkądze sie  bierze ta Prosowska]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 8 od Proszowic]
+FKT[]
+SIG[1901200020]
+KEY[19012   16  C 2/4]
+MEL[+1+2+3+4+5+4#+5+6  +5+4#+5+3+1_+3_  +2_5_6_7_  +2+1+1__.
+    +1+2+3+4+5+4#+5+6  +5+4#+5+3+1_+3_  +2_5_6_7_  +2+1+3__. //]
+BEM[]
+
+DWOK19
+CUT[Kochajże mnie panno]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 8 Kielce]
+FKT[]
+SIG[1901300010]
+KEY[19013   16  C 2/4]
+MEL[5_5_6_.7  +1_+1__+3_  +5_+4_+4_.7  +2_+1__0_
+    5_5_6_.7  +2_+1__+3_  +5+6+5_+4_.7  +2_+1__+3_ //]
+BEM[]
+
+DWOK19
+CUT[Kochajże mnie panno]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 8 Kielce]
+FKT[]
+SIG[1901300020]
+KEY[19013   16  C 2/4]
+MEL[+3_+2_+4_7_  +2_+1__5_  +1_7_+2_7_  +2_+1__+1_
+    +2_+1__+1_  +1767+2_7_  +1_+3__+3_
+    +3+2+1#+2+4_7_  +2_+1__5_  +1_7_+2_7_  +2_+1__+1_
+    +2_+1__+1_  +1767+2_7_  +1_+3__+3_ //]
+BEM[]
+
+DWOK19
+CUT[Jedna drugiej szepce]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 8 od Kielc]
+FKT[]
+SIG[1901400001]
+KEY[19014   16  C 2/4]
+MEL[+1_+3_+5_.+3  +5_+4__+3_  +2_+3_+4_+3_  +4_+2__+3_
+    +1_+1_+3_+2+1  7__+2__  5_7+2+4_7_  +1_+1__+1_
+    +1_+3_+5_+3+1  +17+2_^_5_  5_7+2+4+275  +1_+1__+3_
+    +3_+1_6_2_  5_5__5_  +3_+1_64#24#  57+2__+2_ //]
+BEM[]
+
+DWOK19
+CUT[Jedna drugiej szepce]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 8 od Kielc]
+FKT[]
+SIG[1901400002]
+KEY[19014   16  C 2/4]
+MEL[+1_+3_+5_.+3  +5+4+4__+3_  +2_+3_+4_+3_  +4+2+2__+3_
+    +1_+1_+3_+2+1  7__+2__  5_7+2+4_7_  +1_+1__+1_
+    +1_+3_+5_+3+1  +17+2_^_5_  5_7+2+4+275  +1_+1__+3_
+    +3_+1_6_2_  5_5__5_  +3_+1_64#24#  57+2__+2_ //]
+BEM[]
+
+DWOK19
+CUT[Leciałśa, krzyczałśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 9 Kielce]
+FKT[]
+SIG[1901500001]
+KEY[19015   16  F 2/4]
+MEL[5_3_1_.3  432__1_  4_5_6_.6  5+1+1__0_
+    5_651_.3  432__3_  -7_2_5_.5  3_1__0_
+    3_5_+1_.+2  +1_7__^_  6_6_+1_6_  6_5__^_
+    +1_.76543  432__1_  -7_2_5_.5  5_1__. //]
+BEM[]
+
+DWOK19
+CUT[Leciałśa, krzyczałśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 9 Kielce]
+FKT[]
+SIG[1901500002]
+KEY[19015   16  F 2/4]
+MEL[5_3_1_.3  432__1_  4_5_6_.6  5+1+1__0_
+    5_651_.3  432__3_  -7_2_5_.5  3_1__0_
+    3_5_+1_.+2  +177__^_  6_+1_+1_+1_  +155__^_
+    +1_.76543  432_^321  -7_2_5_.5  511__. //]
+BEM[]
+
+DWOK19
+CUT[Padśa rosa padśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 9 od Wodzisłśawia (Nawarzyce, Konary)]
+FKT[]
+SIG[1901600001]
+KEY[19016   16  G 2/4]
+MEL[1_3_5_5_  4_1__.  3_1_-7__  2_4__1_
+    3_5_5_2_  4_1__.  3_1_-7__  4_2__1_
+    3_1_-7__  6_4_421_  3_1_-7__  421__. //]
+BEM[]
+
+DWOK19
+CUT[Padśa rosa padśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 9 od Wodzisłśawia (Nawarzyce, Konary)]
+FKT[]
+SIG[1901600002]
+KEY[19016   16  G 2/4]
+MEL[1_3_5_5_  4_1__.  3_1_-7__  2_4__1_
+    3_5_5_2_  421__.  3_1_-7__  4_2__1_
+    3_1_-7__  6_4_421_  3_1_-7__  421__. //]
+BEM[]
+
+DWOK19
+CUT[Co mnie ciesy, to mnie ciesy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 9 od Jędrzejowa, Sobkówa]
+FKT[]
+SIG[1901700000]
+KEY[19017   08  G 2/4]
+MEL[-5-713  554#2  -5-713  564#2
+    11-7-5  132_  1342  1-6-5_
+    11-7-5  132_  3542  1-6-5_ //]
+BEM[]
+
+DWOK19
+CUT[Hej do ciotki na plotki]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 10 od Chęcin]
+FKT[]
+SIG[1901800001]
+KEY[19018   16  A 2/4]
+MEL[-5_-7_1__  5_5_4_1_  1_3b_2__  1_-6b_-5__
+    -5_-7_1_3b_  3b_3b_4__  3b_3b_2_-7_  1_-6b_-5__
+    -5_-6-71_.2  3b21-71__  5_3b_1_.2  3b21-71__ //]
+BEM[]
+
+DWOK19
+CUT[Hej do ciotki na plotki]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 10 od Chęcin]
+FKT[]
+SIG[1901800002]
+KEY[19018   16  A 2/4]
+MEL[-5_-7_1__  5_5_4_1_  1_3b_2__  1_-6b_-5__
+    -5_-7_1_3b_  3b_3b_4__  3b_3b_2_-7_  1_-6b_-5__
+    -5_-6-71_.2  3b21-71__  5_5_1_.2  3b21-71__ //]
+BEM[]
+
+DWOK19
+CUT[Dziękuję Ci Jasiu]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 10 od Wodzisłśawia (Konary)]
+FKT[]
+SIG[1901900001]
+KEY[19019   16  G 2/4]
+MEL[-5_-6-71__  3_5__5_  6_5_4#__  4#_5__5_
+    5_321__  1_3__3_  2_-7_-5__  -5-71__1_ //]
+BEM[]
+
+DWOK19
+CUT[Dziękuję Ci Jasiu]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 10 od Wodzisłśawia (Konary)]
+FKT[]
+SIG[1901900002]
+KEY[19019   16  G 2/4]
+MEL[-5_-6-71__  3_5__5_  6_5_4#__  4#55__54#
+    5_321__  133__3_  2_-7-6-5__  -5-71__1_ //]
+BEM[]
+
+DWOK19
+CUT[Jezeliś śleśśnicy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 10 od Kielc]
+FKT[]
+SIG[1902000000]
+KEY[19020   16  G 2/4]
+MEL[3_4#_5__  3_3__21  -7_2_4__  3_5__4_
+    354#65__  3_3__21  -7_2_4__  -7_2__1_ //]
+BEM[]
+
+DWOK19
+CUT[Utonie, utonie wiaderecko z wodą]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 10 od Sobkowa, Jędrzejowa]
+FKT[]
+SIG[1902100001]
+KEY[19021   16  F 2/4]
+MEL[3_4_5__  3_+1__7_  6_5_4_2_  3_5__.
+    7_+1_5__  6_5__42  1_6_5_4_  2_1__. //]
+BEM[]
+
+DWOK19
+CUT[Utonie, utonie wiaderecko z wodą]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 10 od Sobkowa, Jędrzejowa]
+FKT[]
+SIG[1902100002]
+KEY[19021   16  F 2/4]
+MEL[3_4_5__  3_+1__7_  6_5_4_42  3_5__.
+    57+1_5__  6_5__42  1_6_5_42  2_1__. //]
+BEM[]
+
+DWOK19
+CUT[Konik zmok i ja zmok]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 11 od Jędrzejowa]
+FKT[]
+SIG[1902200000]
+KEY[19022   16  G 2/4]
+MEL[3_4_5_6_  5_5_5__  3_4_5__  5__4321
+    -5-6-712__  1_3_3__  3_4_5_6_  5_3_4321 //]
+BEM[]
+
+DWOK19
+CUT[Hola wraz]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 11 od Daleszyc, Pierzchnicy]
+FKT[]
+SIG[1902300011]
+KEY[19023   16  G 2/4]
+MEL[3__5__  6_4#_5__  1_3_3__  5_-7_1__
+    3_4_5__  5_4#_5__  3_4_5_6_  5_-7_1__
+    3_4_5_6_  5_4#_5_6_  3_4#_5_6_  5_-7_1__
+    4_4_3__  -7_-7_1__  4_4_3__  5_-7_1__ //]
+BEM[]
+
+DWOK19
+CUT[Hola wraz]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 11 od Daleszyc, Pierzchnicy]
+FKT[]
+SIG[1902300012]
+KEY[19023   16  G 2/4]
+MEL[3_4_5__  6_4#_5_32  1_3_3234  5_-7_1__
+    3_4_5__  5_4#_5__  3_4_5_6_  5_-7_1__
+    3_4_5_6_  5_4#_5_6_  5_4#_5_6_  5_-7_1_1_
+    4_4_3_3_  4_4_3_52  4_4_3_3_  5_-7_1_1_ //]
+BEM[]
+
+DWOK19
+CUT[Hola wraz]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 11 od Daleszyc, Pierzchnicy]
+FKT[]
+SIG[1902300020]
+KEY[19023   16  G 2/4]
+MEL[3_.45_6_  5_4#_5_4_  3_.45_6_  5_-7_1__
+    3_.45_6_  5_4#_6542  3_.45_6_  542-71__
+    -5_4_0_3_  0_2_0_3_  0_240_13  5_-7_1__
+    -5-724-5_3_  -5_2_-5_3_  -5_24-5_13  552-71__ //]
+BEM[Biegany v. Suwany]
+
+DWOK19
+CUT[Kiebyśś byłśa chłśopca miałśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 11 od Szydłśowa]
+FKT[]
+SIG[1902400001]
+KEY[19024   16  G 2/4]
+MEL[3_5_5__  5_3_3_1_  1_3_3_4#_  5__3__
+    3_+1_7_5_  6_4#_5_+2_  +1_+1_7_5_  6__5__
+    +1_+1_7_5_  6_4#_5_+2_  +1_+1_7_5_  6_4#_5__ //]
+BEM[]
+
+DWOK19
+CUT[Kiebyśś byłśa chłśopca miałśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 11 od Szydłśowa]
+FKT[]
+SIG[1902400002]
+KEY[19024   16  G 2/4]
+MEL[3_5_5_54  5_3_3_21  1_3_3234#  5__3__
+    3_+1_7_5_  6_4#_5_+2_  +1_+1_7_5_  6__5__
+    +1_+1_7_5_  6_4#_5_+2_  +1_+1_7_5_  6_4#_5__ //]
+BEM[]
+
+DWOK19
+CUT[Jedzie Jaśś, jedzie Jaśś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 12 od Sobkowa, Jędrzejowa]
+FKT[]
+SIG[1902500000]
+KEY[19025   08  C 2/4]
+MEL[57+1_  +3+2_7  57+1_  +3+2_7
+    57+1_  +3+4_+6  +3+5+3_  +3+2_7 //]
+BEM[]
+
+DWOK19
+CUT[Warszawa i Kraków]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 12 Szydłów]
+FKT[]
+SIG[1902600001]
+KEY[19026   16  G 2/4]
+MEL[5__.5_  5_5_5_5_
+    7_+1_5__  324__5_  3_234__  -7_1__5_
+    4_6__7_  +2+17+15__  43234__  -7_1__-5_
+    4_6_6_7_  +2+17+15__  43234__  -7_1__3_ //]
+BEM[]
+
+DWOK19
+CUT[Warszawa i Kraków]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 12 Szydśłów]
+FKT[]
+SIG[1902600002]
+KEY[19026   16  G 2/4]
+MEL[5__.5_  5_5_5_5_
+    5_7+15__  324__5_  43234__  -7_1__3_
+    4_6__7_  +2+17+15__  43234__  -7_1__-5_
+    4_6_6_7_  +2+17+15__  43234__  -7_1__3_ //]
+BEM[]
+
+DWOK19
+CUT[Sśłonecko juz zasłśo]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 12 od Rakowa (Potok)]
+FKT[]
+SIG[1902700000]
+KEY[19027   08  G 2/4]
+MEL[554#_  24#_4  554#_  24#_6
+    54#2-7  -6_1_  -5-71_  35_3
+    54#2-7  -6_1_  -5-71_  35_3 //]
+BEM[]
+
+DWOK19
+CUT[Uciekaj zydzie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 13 od Szkalmierza (Kaźmierza W.)]
+FKT[]
+SIG[1902800000]
+KEY[19028   16  F 2/4]
+MEL[+1_+1_5__  7_+1__.  6_+1_5_3_  4__6__
+    5_5_2__  4_3__1_  3_5_2_-7_  1__3__
+    +1_+1_5__  7_+1__.  7_+1_5_3_  4__6__
+    5_5_2__  4_3__5_  4#_5_2_-7_  1__3_.5 //]
+BEM[6 takt vel: 4#_5__1_ ]
+
+DWOK19
+CUT[Ładny kwiatek róży]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 13 od Pierzchnicy]
+FKT[]
+SIG[1902900010]
+KEY[19029   16  F 2/4]
+MEL[3_5__.  +1_+1_7_6_  65+1__1_  3_.5544_
+    3_5__.  6_6_5_4_  5_5__1_  3_.54_4_ //]
+BEM[]
+
+DWOK19
+CUT[Ładny kwiatek róży]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 13 od Pierzchnicy]
+FKT[]
+SIG[1902900021]
+KEY[19029   16  F 2/4]
+MEL[4_3__3_  -7_.21_1_  3_1__1_  -7_.22_1_ //]
+BEM[]
+
+DWOK19
+CUT[Ładny kwiatek róży]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 13 od Pierzchnicy]
+FKT[]
+SIG[1902900022]
+KEY[19029   16  F 2/4]
+MEL[433__5_  -7_.21_43  3_1__5_  -7_.22_1_ //]
+BEM[]
+
+DWOK19
+CUT[Hola moja hola]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 13 od Jędrzejowa]
+FKT[]
+SIG[1903000010]
+KEY[19030   16  C 2/4]
+MEL[3_5__+1_  +3_+1__5_  4_6__4_  3_5_+1__
+    3_5__+1_  +3_+1_+1+3+15  4_4__32  32351__ //]
+BEM[]
+
+DWOK19
+CUT[Hola moja hola]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 13 od Jędrzejowa]
+FKT[]
+SIG[1903000020]
+KEY[19030   32  C 2/4]
+MEL[3__5___6_7_  7+1_.7+1_.5___  7+1_.7+1_.+3__.+1_  5_3_5_+1_1___
+    3__5___6_7_  7+1_.7+1_.5__3__  7+1_.7+1_.+3__.+1_  7__+2__+1___ //]
+BEM[]
+
+DWOK19
+CUT[Piękna śpani, piękna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 14 od Jędrzejowa]
+FKT[]
+SIG[1903100001]
+KEY[19031   16  G 2/4]
+MEL[4_4_5_.4  4_3__21  -7_-7_-5_-7_  1_3__5_
+    6_.54542  4_3__21  -71-7-6-5_.-7  1_1__. //]
+BEM[]
+
+DWOK19
+CUT[Piękna śpani, piękna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 14 od Jędrzejowa]
+FKT[]
+SIG[1903100002]
+KEY[19031   16  G 2/4]
+MEL[4_4_5_.4  433__21  -71-7-6-5_-6-7  1_3__5_
+    6_.54542  4_3__21  -71-7-55_.-7  1_1__. //]
+BEM[]
+
+DWOK19
+CUT[A jak ci ja zacnę]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 14 od Kurozwęk]
+FKT[]
+SIG[1903200010]
+KEY[19032   16  G 2/4]
+MEL[2_2_4__  3_1__1_  2_2_-7__  211__1_
+    2_2_4_2_  231__1_  322_-7__  213__(353) //]
+BEM[]
+
+DWOK19
+CUT[A jak ci ja zacnę]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 14 od Kurozwęk]
+FKT[]
+SIG[1903200021]
+KEY[19032   16  G 2/4]
+MEL[1__3_1-7  -5_-722_1_  1__3_1-7  -5_-722_1_
+    1__3_5_  4#_2_4#_5_  1__3_1-7  -5_-722_1_ //]
+BEM[]
+
+DWOK19
+CUT[A jak ci ja zacnę]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 14 od Kurozwęk]
+FKT[]
+SIG[1903200022]
+KEY[19032   16  G 2/4]
+MEL[1__3_1-7  -5_-722_1_  1__3_1-7  -5_-722_1_
+    1__3_4#5  5_4#22_4#5  1__3_1-7  -5_-722_1_ //]
+BEM[]
+
+DWOK19
+CUT[Ej skrzypecku źle mi gras]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 14 od Chmielnika, Jędrzejowa]
+FKT[]
+SIG[1903300000]
+KEY[19033   16  G 2/4]
+MEL[2_6_5_.3  4_2_3__  2_6_5_.3  4_2_1__
+    2_2_3_.5  4_2_3__  2_2_5_.3  4_2_1__ //]
+BEM[]
+
+DWOK19
+CUT[Oj oj odbuchuje mi się cukrem]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 15 od Kurzelowa]
+FKT[]
+SIG[1903400001]
+KEY[19034   16  C 2/4]
+MEL[+5__+5__  +3_+3_+4_+2_  +1__5__  +5__+5__  +3_+3_+4_+2_  +1__5__
+    +3__+4__  +5_+5_+6_+4_  +3_+3_+4_+2_  +5_+5_+6_+4_  +3_+3_+4_+2_  +1__5__ //]
+BEM[]
+
+DWOK19
+CUT[Oj oj odbuchuje mi się cukrem]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 15 od Kurzelowa]
+FKT[]
+SIG[1903400002]
+KEY[19034   16  C 2/4]
+MEL[+5__+5__  +3_+3_+4_+2_  +1__5__  +5__+5__  +3_+3_+4_+2_  +1__5__
+    +3__+4_+2_  +5_+5_+6_+4_  +3_+3_+4_+2_  +5_+5_+6_+4_  +3+1+3+5+4_+2_  +1__5__ //]
+BEM[]
+
+DWOK19
+CUT[A ja sobie kobietka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 15 od Kurozwęk, Szydłśowa]
+FKT[]
+SIG[1903500010]
+KEY[19035   16  C 2/4]
+MEL[5_7_+1_+3_  +5_+3_+1__  +3_+3_+3_7_  +1__+3__
+    5_7_+1_+3_  +5+6+5_+5_7+1  +3_+3_+3_7+1  +1__5__ //]
+BEM[]
+
+DWOK19
+CUT[A ja sobie kobietka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 15 od Kurozwęk, Szydłśowa]
+FKT[]
+SIG[1903500021]
+KEY[19035   16  C 2/4]
+MEL[+1_+3_+5_5_  7_+2_+4_+3_  +1_+3_+1_+3_  +2_7_+1__ //]
+BEM[]
+
+DWOK19
+CUT[A ja sobie kobietka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 15 od Kurozwęk, Szydłśowa]
+FKT[]
+SIG[1903500022]
+KEY[19035   16  C 2/4]
+MEL[5+1+3_+5_5_  57+2_+4_+3_  5+1+3_+5_+3_  +27+1_+1_5_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 16 od Kurozwęk (Kotuszów)]
+FKT[]
+SIG[1903600001]
+KEY[19036   16  G 2/4]
+MEL[2_354_2_  3_-5_1__  1_243531  2_-7_1__
+    1_243_3_  2_2_3__  4_423531  2_2_1__ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 16 od Kurozwęk (Kotuszów)]
+FKT[]
+SIG[1903600002]
+KEY[19036   16  G 2/4]
+MEL[2_354_2_  3_3_1__  1_243531  242-71__
+    1_243_3_  2_243465  4_423531  242-71__ //]
+BEM[]
+
+DWOK19
+CUT[Zebym byłś zegarkiem]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 16 od Staszowa (Oględów)]
+FKT[]
+SIG[1903700001]
+KEY[19037   32  G 2/4]
+MEL[3b__5___^__  4__6b__5__.4_  3b__2___2__  -5__-6_-7_1___
+    -5__-6-7_.-5__-6-7_.  1__2__5__.4_  3b__2___-7__  -5__-6_-7_1___ //]
+BEM[]
+
+DWOK19
+CUT[Zebym byłś zegarkiem]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 16 od Staszowa (Oględów)]
+FKT[]
+SIG[1903700002]
+KEY[19037   32  G 2/4]
+MEL[3b__5___^__  4_3_4_6b_5__.4_  3b__2___5__  -5__-6_-7_1___
+    -5__-6-7_.-5__-6-7_.  1__2__5__.4_  3b__2__4__3b_2_  -5__-6_-7_1___ //]
+BEM[]
+
+DWOK19
+CUT[Idzie woda z ogroda-Weselna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 16 Szydłów]
+FKT[]
+SIG[1903800011]
+KEY[19038   16  G 2/4]
+MEL[-5_-7_2_.-7  1_1__3_  43234_.2  5_5__^_
+    6_4_2_.4  3_3__1_  -7-6-712_.-7  -5_-5__.
+    6_4_2_.4  433__1_  -7-6-712_.-7  1_1__. //]
+BEM[]
+
+DWOK19
+CUT[Idzie woda z ogroda-Weselna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 16 Szydłów]
+FKT[]
+SIG[1903800012]
+KEY[19038   16  G 2/4]
+MEL[-5_-7_2_.-7  1_3__5_  6_6_4_.2  5_5__^_
+    6_4_2_.4  3_3__1_  -7-6-712_.-7  -5_-5__.
+    6_4_2_.4  433__1_  -7-6-712_.-7  1_1__. //]
+BEM[]
+
+DWOK19
+CUT[Idzie woda z ogroda-Weselna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 16 Szydłów]
+FKT[]
+SIG[1903800020]
+KEY[19038   16  G 2/4]
+MEL[-7_2_5_.-7  1_3__21  -7_2_5_.-7  -6_1__.
+    -7_2_5_.-7  1_3__2_  4#_6_+1_.4#  6_5__. //]
+BEM[]
+
+DWOK19
+CUT[A ja ogrodnicek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 17 od Rakowa (Potok)]
+FKT[]
+SIG[1903900011]
+KEY[19039   16  C 2/4]
+MEL[+2_+1_7__  6_5__+1_  7_+1_+2__  +3_+4__+6_
+    +5_+6_+5__  +4_+3__+5_  +2_+1_7__  +2+3+1__+1_ //]
+BEM[]
+
+DWOK19
+CUT[A ja ogrodnicek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 17 od Rakowa (Potok)]
+FKT[]
+SIG[1903900012]
+KEY[19039   16  C 2/4]
+MEL[+2_+1_7__  675__+1_  7_+1_+2__  +3+2+4__+6_
+    +5_+6_+5__  +4+3+3__+5_  +2_+1_7__  +2+3+1__+1_ //]
+BEM[]
+
+DWOK19
+CUT[A ja ogrodnicek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 17 od Rakowa (Potok)]
+FKT[]
+SIG[1903900021]
+KEY[19039   16  C 2/4]
+MEL[7_6_5__  +2+3+5__+6_  7_6_5__  +2+3+1__. //]
+BEM[]
+
+DWOK19
+CUT[A ja ogrodnicek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 17 od Rakowa (Potok)]
+FKT[]
+SIG[1903900022]
+KEY[19039   16  C 2/4]
+MEL[7_6_5__  +5_+5__+6_  7_6_5__  +2+3+1__. //]
+BEM[]
+
+DWOK19
+CUT[A moja dziewcyno]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 17 od Oleśśnicy (Sichów m.)]
+FKT[]
+SIG[1904000000]
+KEY[19040   16  F 2/4]
+MEL[+2___  +2__.7_  +1_6_+1_+3_  +275__7+2  +1_6_+1_+3_
+    +275__7+2  +1_6_+1_+3_  +275__3_
+    4_2_4__  3_5__+1_  7_+2_7_5_  +1__+1__
+    4_234_4_  3_5__+1_  7_+2_7_5_  +1+3+16+1+3+16 //]
+BEM[]
+
+DWOK19
+CUT[Krakowiacek ci ja]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 17 od Rakowa (Potok)]
+FKT[]
+SIG[1904100000]
+KEY[19041   16  G 2/4]
+MEL[1_1_3__  3_4__2_  1_1_3__  3_4__2_
+    1_1_3__  5_4__6_  654#53__  3_4__2_ //]
+BEM[]
+
+DWOK19
+CUT[Matusku, Matusku]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 17 od Szydłśowa, Rakowa]
+FKT[]
+SIG[1904200000]
+KEY[19042   08  G 2/4]
+MEL[135_  531_  345_  2-7-5_
+    1234  3234  354_  2-71_ //]
+BEM[]
+
+DWOK19
+CUT[Sumiał śgaj, sumiał śgaj]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 18 od Kurozwęk (Kotuszów)]
+FKT[]
+SIG[1904300000]
+KEY[19043   16  G 2/4]
+MEL[1_.23_4_  3_3_4_2_  234#_5__  5_4#_5__
+    1_.23_4_  323_4_2_  234#_5__  -51-7_1__ //]
+BEM[]
+
+DWOK19
+CUT[A cóześ śty za dziewecka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 18 od Stopnicy]
+FKT[]
+SIG[1904400000]
+KEY[19044   16  G 2/4]
+MEL[5__6_6_  5_.4321_  5_5_6_6_  5_.4321_
+    2_2_135_  4_4_321_  2_2_135_  4_4_3_5_
+    1__2__  1_-6_-5-62_  1__2__  -6__-5__ //]
+BEM[]
+
+DWOK19
+CUT[Na górę wlaz, z góry złśaziłś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 18 od Staszowa (Sichów)]
+FKT[]
+SIG[1904500001]
+KEY[19045   08  G 2/4]
+MEL[4642  1354  4642  3321 //]
+BEM[]
+
+DWOK19
+CUT[Na górę wlaz, z góry złśaziłś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 18 od Staszowa (Sichów)]
+FKT[]
+SIG[1904500002]
+KEY[19045   16  G 2/4]
+MEL[4_6_4_2_  3_3_5_4_  4_6_4_2_  345_2_1_ //]
+BEM[]
+
+DWOK19
+CUT[Zebyś śty sśłonecko na wyrobku byśło]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 18 od Oleśśnicy, Staszowa]
+FKT[]
+SIG[1904600001]
+KEY[19046   16  G 2/4]
+MEL[6_+1__^_  6_6_4_6_  +1_6_+1_6_  6_5__.
+    5_+1__^_  6_6_4_2_  2_2_5_5_  3_1__. //]
+BEM[]
+
+DWOK19
+CUT[Zebyś śty słonecko na wyrobku byłśo]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 18 od Oleśśnicy, Staszowa]
+FKT[]
+SIG[1904600002]
+KEY[19046   16  G 2/4]
+MEL[6_+1__^_  +1_+2+14_6_  +1_+2+1+1_6_  6_5__.
+    5_+1__^_  6_6_4_2_  2_2_5_5_  3_1__. //]
+BEM[]
+
+DWOK19
+CUT[Ja ułśan, ty ułśan-Pieśń przy szopce]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 18 od Oleśśnicy, Pacanowa]
+FKT[]
+SIG[1904700001]
+KEY[19047   16  F 2/4]
+MEL[+1_+1_+1__  5+1765__  5_.42_4_  3__1__
+    4_.32654  3_3_1__  2_2_-7_2_  4_3_1__ //]
+BEM[]
+
+DWOK19
+CUT[Ja ułśan, ty ułśan-Pieśń przy szopce]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 18 od Oleśśnicy, Pacanowa]
+FKT[]
+SIG[1904700002]
+KEY[19047   16  F 2/4]
+MEL[+1_+1_+1__  +1_+1_+1__  5_.42_4_  3_3_1__
+    4_.32654  3_3_1_3_  2_2_-7_2_  4_3_1__ //]
+BEM[]
+
+DWOK19
+CUT[Posed ci ja, posed]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 19 od Pacanowa]
+FKT[]
+SIG[1904800001]
+KEY[19048   16  G 2/4]
+MEL[3_5__1_  -7_2_1__  3_5__1_  2_2_1__
+    3_5__6_  4#_5__3_  3_5__1_  2_-7_1__ //]
+BEM[]
+
+DWOK19
+CUT[Posed ci ja, posed]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 19 od Pacanowa]
+FKT[]
+SIG[1904800002]
+KEY[19048   16  G 2/4]
+MEL[3_5__1_  -5-72_1__  3_5__13  2_2-71__
+    3_5__6_  4#_5__31  3_5__31  4_2-71__ //]
+BEM[]
+
+DWOK19
+CUT[A bodajżeś śkata zjadłśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 19 od Szydłśowa Pierzchnicy]
+FKT[]
+SIG[1904900000]
+KEY[19049   16  G 2/4]
+MEL[1_-7_1_2_  3_3_3_1_  3_3_3_1_
+    2_4_6__  5_3__1_  2_4_6__  5_3__1_
+    2_1_2_3_  4__3_1_  4_5_3_31
+    321_2_3_  4__3_1_  4_5_3_31
+    -6_1_3__  2_-7__-5_  -6-4#-613__  2_-7__-5_ //]
+BEM[]
+
+DWOK19
+CUT[Ojze ino ojze nie ten mój co orze]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 20 od Stopnicy (Solec)]
+FKT[]
+SIG[1905000001]
+KEY[19050   16  A 2/4]
+MEL[324#__6_  5_4#_5__  324__1_  3_4#_5__
+    6_5#__6_  5_4#_5__  324__1_  3_2_1__ //]
+BEM[]
+
+DWOK19
+CUT[Ojze ino ojze nie ten mój co orze]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 20 od Stopnicy (Solec)]
+FKT[]
+SIG[1905000002]
+KEY[19050   16  A 2/4]
+MEL[324#__6_  5_4#_5__  324__1_  3_4#_5__
+    6_7__6_  5_4#_5__  324__1_  3_2_1__ //]
+BEM[]
+
+DWOK19
+CUT[Ojze ino ojze na górę drabinka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 20 od Stopnicy (Solec)]
+FKT[]
+SIG[1905100000]
+KEY[19051   08  C 2/4]
+MEL[+1+4_+2  +3+17_  65_7  +1+3+2_
+    +1+4_+2  +3+17_  65_7  +165_ //]
+BEM[]
+
+DWOK19
+CUT[Oj Boze mój, Boze]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 20 od Stopnicy (Solec)]
+FKT[]
+SIG[1905200000]
+KEY[19052   08  G 2/4]
+MEL[354#5  62_.  354#5  62_.
+    135_  43_1  243-7  12_. //]
+BEM[]
+
+DWOK19
+CUT[Swacikowie jadą, biczami trzaskają]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 20 od Stopnicy (Solec)]
+FKT[]
+SIG[1905300011]
+KEY[19053   08  F 2/4]
+MEL[5+1+1_  64#_5  34#5_  531_
+    34#5_  5333  34#5_  531_ //]
+BEM[Weselna]
+
+DWOK19
+CUT[Swacikowie jadą, biczami trzaskają]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 20 od Stopnicy (Solec)]
+FKT[]
+SIG[1905300012]
+KEY[19053   32  F 2/4]
+MEL[57_.+1__+1___  6__4#__5___  3__4#__5___  5_3_3_2_1___
+    1_3_3_4#_5___  5__3_4_3_2_3_4_  5_6_7_+1_5___  5_3_3_2_1___ //]
+BEM[Weselna]
+
+DWOK19
+CUT[Swacikowie jadą, biczami trzaskają]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 20 od Stopnicy (Solec)]
+FKT[]
+SIG[1905300020]
+KEY[19053   16  F 2/4]
+MEL[-71_.-71_.  2_-7_-5__  -5_-7_2_34#  5_321__
+    -71_.-71_.  2_-7-6-5__  -5_-7_2_34#  5_321__ //]
+BEM[Weselna]
+
+DWOK19
+CUT[A pobiegłśa pobiegłśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 21 od Stopnicy (Zborów)]
+FKT[]
+SIG[1905400001]
+KEY[19054   16  A 2/4]
+MEL[1_.35_5_  6_6_5__  4_4_3_1_  3_-7_1__
+    4_.23_1_  2_2_5__  4_2_3_1_  3_-7_1__ //]
+BEM[]
+
+DWOK19
+CUT[A pobiegśła pobiegłśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 21 od Stopnicy (Zborów)]
+FKT[]
+SIG[1905400002]
+KEY[19054   16  A 2/4]
+MEL[1_.35_5_  676_5__  4_4_3_1_  3_-7_1__
+    4_.23_5_  3_6_5__  4_4_3_1_  345_1__ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Pod Krakowem Olkusem]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 21 od Stopnicy]
+FKT[]
+SIG[1905500010]
+KEY[19055   16  C 2/4]
+MEL[6_+1_6_5_  +1_+1_5__  67+1_6_5_  +1_+1_5__ //]
+BEM[]
+
+DWOK19
+CUT[Pod Krakowem Olkusem]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 21 od Stopnicy]
+FKT[]
+SIG[1905500020]
+KEY[19055   16  C 2/4]
+MEL[5_7_+1_+3_  +2_+4_+1__  +2_+2_+1_+3_  +2_+4_+1__
+    +4_+6_+4_+3_  +2+3+4_+1_+1_  +2_+4_+1__  +2+3+4_+1_+1_ //]
+BEM[]
+
+DWOK19
+CUT[Krakowiacek ci ja]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 21 od Wiśślicy (Chotel czerwony)]
+FKT[]
+SIG[1905600001]
+KEY[19056   16  G 2/4]
+MEL[3_5_6543  244__-5_  -5_-7_-5_-7_  1__3__
+    -5_-7_-5_-7_  1__3__  -5_-7_2_-7_  1__1__ //]
+BEM[]
+
+DWOK19
+CUT[Krakowiacek ci ja]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 21 od Wiśślicy (Chotel czerwony)]
+FKT[]
+SIG[1905600002]
+KEY[19056   16  G 2/4]
+MEL[123_2343  234__-5_  -7_-7_1-7-5-7  1__3__
+    -5_-6-71-7-6-7  1_3_4321  -5_-7_2_-7_  1__3__ //]
+BEM[]
+
+DWOK19
+CUT[Oj kanalija zona]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 21 od Wiśślicy]
+FKT[]
+SIG[1905700001]
+KEY[19057   16  C 2/4]
+MEL[5_+4_+4_+6_  +4_+3_+1__  +2_+2_7_+2_  +4_+3_+1__
+    +2_+2_+3_+3_  +4_+4_+3_+3_  +2_+2_+3_+3_  +4_+3_+1__ //]
+BEM[]
+
+DWOK19
+CUT[Oj kanalija zona]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 21 od Wiśślicy]
+FKT[]
+SIG[1905700002]
+KEY[19057   16  C 2/4]
+MEL[5_+4_+4_+6_  +4_+4+3+1__  +2_+2_7_+2_  +4_+4+3+1__
+    +2_+2_+3+1+3+5  +4_+4_+3+5+3+1  +2_+2_+3_+3_  +4+4+4+3+1_+1_ //]
+BEM[]
+
+DWOK19
+CUT[Daj daj daj daj moja Maryśś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 22 od Wiśślicy (Chotel czerwony)]
+FKT[]
+SIG[1905800011]
+KEY[19058   16  C 2/4]
+MEL[+1__+3__  +1__+3__  +4_.+3+2_+3_  +1__+3__
+    +2_.+17_6_  5_7_+2_+3_  +4_.+3+2_+3_  +1__+3__
+    +2_.+17_6_  567+1+2_+3_  +4_.+3+2_+3_  +1__+3__ //]
+BEM[Skalmierzak]
+
+DWOK19
+CUT[Daj daj daj daj moja Maryśś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 22 od Wiśślicy (Chotel czerwony)]
+FKT[]
+SIG[1905800012]
+KEY[19058   16  C 2/4]
+MEL[+5__+3__  +5__+3__  +4_.+3+2_+3_  +1__+3__
+    +2_.+17_6_  5_7_+2_+3_  +4_.+3+2_+3_  +1__+3__
+    +2_.+17_6_  567+1+2_+3_  +4_.+3+2_+3_  +1__+3__ //]
+BEM[Skalmierzak]
+
+DWOK19
+CUT[Daj daj daj daj moja Maryśś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 22 od Wiśślicy (Chotel czerwony)]
+FKT[]
+SIG[1905800020]
+KEY[19058   16  C 2/4]
+MEL[+1+2+3+4+5+6+5+4#  +5_+6_+5+6+5+4#  +5_+6_+7+6+5+4#
+    +5+6+5_+4__  +3_+2_+1__  5+1+2+3+4_+4_  +3_+2_+1__
+    +5+6+5_+4__  +3_+2_+1__  5+1+2+3+4_+4_  +3_+2_+1__ //]
+BEM[Skalmierzak-instrumentalna]
+
+DWOK19
+CUT[Na cóz ja tez teraz]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 22 od Wiśślicy]
+FKT[]
+SIG[1905900001]
+KEY[19059   16  G 2/4]
+MEL[5__54#2_  1_3_2_-7_  1__1_-7_  1_3_2_1_
+    -715_54#32  -713_2_1-7  1__1_-7_  1_352_1_ //]
+BEM[Skalmierzak]
+
+DWOK19
+CUT[Na cóz ja tez teraz]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 22 od Wiśślicy]
+FKT[]
+SIG[1905900002]
+KEY[19059   16  G 2/4]
+MEL[5__54#2_  1_3_12-7_  1__1_1-7  1_352_1_
+    3_5_54#32  -713_2_1-7  1__1_1-7  1_352_1_ //]
+BEM[Skalmierzak]
+
+DWOK19
+CUT[Hej hej! Dalej chłśopcy dalej]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 22-23 od Wiśślicy, Buska]
+FKT[]
+SIG[1906000001]
+KEY[19060   16  C 2/4]
+MEL[5___  5___  +3_.+3+4_+4_  +3_+1__.  +3_.+3+4_+4_  +3_+1__.
+    +3_.+3+4_+4_  +3__+5__  +3_+3_+4_+4_  +3_+1__.
+    +3_+3_+3_+1_  5_7_+2_+1_  +3_+3_+3_+1_  5_7_+2_+1_
+    +3_+3_+3_+1_  +3_+5_+4#_+5_  +3_+3_+3_+1_  5_7_+2_+1_ //]
+BEM[Skalmierzak]
+
+DWOK19
+CUT[Hej hej! Dalej chłśopcy dalej]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 22-23 od Wiśślicy, Buska]
+FKT[]
+SIG[1906000002]
+KEY[19060   16  C 2/4]
+MEL[+5___  +5___  +3_.+3+4_+4_  +3_+1__.  +3_.+3+4_+4_  +3_+1__.
+    +3_.+3+4_+4_  +3_+3_+3_+5_  +3_+3_+4_+4_  +3_+1__.
+    +3_+3_+3_+1_  5_7_+2_+1_  +3_+3_+3_+1_  5_7_+2_+1_
+    +3_+3_+3_+1_  +3_+5_+4#_+5_  +3_+5_+3_+1_  5_7_+2_+1_ //]
+BEM[Skalmierzak]
+
+DWOK19
+CUT[Oj śśpi bida śśpi]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 23 od Skalmierza]
+FKT[]
+SIG[1906100000]
+KEY[19061   08  G 2/4]
+MEL[5_.5  4#51_  2213  431_
+    221_  221_  2213  431_ //]
+BEM[]
+
+DWOK19
+CUT[O dy dy dy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 23 od Buska]
+FKT[]
+SIG[1906200001]
+KEY[19062   16  G 2/4]
+MEL[3_.45_6_  5_5_5_5_  3_.45_64#  5_1_3_1_
+    1_.454#64#  5_+1_7+1+2+1  1_.454#64#  5_1_3_1_
+    2_4_3_1_  2_2_3_1_  2_4_3_1_  2_2_3_1_ //]
+BEM[]
+
+DWOK19
+CUT[O dy dy dy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 23 od Buska]
+FKT[]
+SIG[1906200002]
+KEY[19062   16  G 2/4]
+MEL[3_.45_6_  5_5_5_5_  3_.45_64#  5_1_3_1_
+    1_.454#64#  5_+1_7+1+2+1  1_.454#64#  5_1_3_1_
+    4_4_3531  2_2_3135  4_4_3531  2_2_3_1_ //]
+BEM[]
+
+DWOK19
+CUT[Zebyś śmnie miałś bracie zabić]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 24 od Wiśślicy]
+FKT[]
+SIG[1906300000]
+KEY[19063   16  C 2/4]
+MEL[+1_+1_+2_+2_  +3_+3_+2_7_  +1_3__+2+4  +3_+1_+2_7_
+    +1_3__+2+4  +2_+1_5__  +3_3__+2_  +3_+3_+2_7_
+    +1_+1_+2+4+2+4  +3+5+3+5+2+4+27  +1_+1__+2+4  +3_+1_+2_7_
+    +1_+1__+2+4  +2_+1_+2__  +3_+1__+2+4  +3+5+3+5+2+4+27 //]
+BEM[Goniony]
+
+DWOK19
+CUT[Instrumentalna-Skalmierzak]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 24 od Wiśślicy (Kuchary)]
+FKT[]
+SIG[1906400001]
+KEY[19064   16  G 2/4]
+MEL[1_.45654#  5__5__  5_5_54#5_  54#5_2_1_
+    3__5_32  1_1_5_1_  3__5_32  1_1_-7_1_
+    3__5_32  1_1_5_1_  3__5_32  1_1_-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Skalmierzak]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 24 od Wiśślicy (Kuchary)]
+FKT[]
+SIG[1906400002]
+KEY[19064   16  G 2/4]
+MEL[1_.45654#  5654#54#21  5_5_54#5_  54#5_2_1_
+    3__5_32  1_1_5_1_  3__5_32  1_1_-7_1_
+    3__5_32  1_1_5_1_  3__5_32  1_1_-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[A idę ja, idę]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 24 od Wiśślicy (Sokolina)]
+FKT[]
+SIG[1906500001]
+KEY[19065   16  E 2/4]
+MEL[1__3b_3b_  5__3b_1_  3b__5__  5_5_5_5_
+    2__4_3b2  1_1_4#_5_  2__4_3b2  1_1_-7_1_
+    2__4_3b2  1_1_4#_5_  2__4_3b2  1_1_-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[A idę ja, idę]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 24 od Wiśślicy (Sokolina)]
+FKT[]
+SIG[1906500002]
+KEY[19065   16  E 2/4]
+MEL[1__3b23b4  5__3b21_  3b_4#_5_5_  5654#565_
+    2__4_3b2  1_1_4#_5_  2__4_3b2  1_1_-7_1_
+    2__4_3b2  1_1_4#_5_  2__4_3b2  1_1_-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[U nasego pana, zupan po kolana]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 24 od Wiśślicy, Buska]
+FKT[]
+SIG[1906600001]
+KEY[19066   16  G 2/4]
+MEL[5___  5___  3_5__.  3_5_5_4_  6_6_5_4_  3_-5__.
+    -5_-7_2_-7_  1_3__5_  4_.32_2_  3_-5__.  -5_-7_2_.1  3_1__. //]
+BEM[]
+
+DWOK19
+CUT[U nasego pana, zupan po kolana]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 24 od Wiśślicy, Buska]
+FKT[]
+SIG[1906600002]
+KEY[19066   16  G 2/4]
+MEL[5___  5___  3_5__.  3_5_5_4_  6_6_534_  3-5-5__.
+    -5_-7_2_-7_  1_3__5_  4_.32_2_  3_-5__.  -5_-7_2_.1  311__. //]
+BEM[]
+
+DWOK19
+CUT[Dana ino, dana]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 25 od Wiśślicy (Chotel czerwony)]
+FKT[]
+SIG[1906700010]
+KEY[19067   16  G 2/4]
+MEL[1__.3_  5__.3_  5_4#_2_34  5__.3_  5_4#_2_-7_  1_3__.
+    1__.(323)  5__.(323)  5_4#_2_34  5__.(323)  5_4#_2_-7_  1_3__. //]
+BEM[]
+
+DWOK19
+CUT[Dana ino, dana]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 25 od Wiśślicy (Chotel czerwony)]
+FKT[]
+SIG[1906700020]
+KEY[19067   16  G 2/4]
+MEL[5654#2__  4#_5__.  5654#2__  -7_1__.
+    5654#2__  4#_5__.  5654#2_.3  -7_1__.
+    -5-6-712_3_  -7_1__.  -7_1_2_3_  1-7-5__. //]
+BEM[]
+
+DWOK19
+CUT[Kazaśł ci mi ojciec]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 25 od Buska]
+FKT[]
+SIG[1906800001]
+KEY[19068   16  C 2/4]
+MEL[+5_+5_+3__  +3_+1__+2+3  +4_+3_+2__  7_+2__+2_
+    +3_+2_+1__  7_6__6_  5_7_+2__  +4_+2__+1_ //]
+BEM[]
+
+DWOK19
+CUT[Kazałś ci mi ojciec]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 25 od Buska]
+FKT[]
+SIG[1906800002]
+KEY[19068   16  C 2/4]
+MEL[+5_+5_+3__  +3+2+1__+2+3  +4_+3_+2_+1_  +17+2__+2_
+    +3_+3+2+1__  766_^+176  5_7+1+2__  +4_+2__+1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj konie, moje konie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 25 od Wiśślicy, Buska]
+FKT[]
+SIG[1906900001]
+KEY[19069   16  C 2/4]
+MEL[6+1+2__+3_  +2_+4+3+2_+3_  +4_.+3+2_+1_  +2__75_.
+    4_4__4_  656_7_5_  +1_.+2+3_+4_  +2__75_. //]
+BEM[]
+
+DWOK19
+CUT[Oj konie, moje konie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 25 od Wiśślicy, Buska]
+FKT[]
+SIG[1906900002]
+KEY[19069   16  C 2/4]
+MEL[6+1+2__+3_  +2_+4+3+2_+3_  +4_.+3+2_+4_  +2__75_.
+    6_6__6_  656_7_5_  +1_.+2+3_+4_  +2__75_. //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Uszczyknęłśa z wdzięków piękny róży]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 26 od Wiśślicy]
+FKT[]
+SIG[1907000010]
+KEY[19070   16  F 2/4]
+MEL[5__.5_  5__.5_  5_5_5_5_  5_5_5_5_
+    5_5_3_5_  3_5_3_5_  5_5_135+1  135+1135+1
+    +1_+1_3__  5_5__3_ //]
+BEM[]
+
+DWOK19
+CUT[Uszczyknełśa z wdzięków piękny róży]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 26 od Wiśślicy]
+FKT[]
+SIG[1907000020]
+KEY[19070   32  F 2/4]
+MEL[5__.654__2__  3__5___3__  5__.654__-7__  2__1___.
+    5__.654__2__  3__5___3__  6__5__4__-7__  2_1_1___. //]
+BEM[]
+
+DWOK19
+CUT[Uszczyknełśa z wdzięków piękny róży]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 26 od Wiśślicy]
+FKT[]
+SIG[1907000030]
+KEY[19070   16  C 2/4]
+MEL[5_7+1+2_+4_  +3_+3__+3_  +6_+5_+4_+3+4  +6+5+3__+1_
+    5_(67+1)+2_+4_  +3_+5__(+4+3+2)  +2_+3_+4_7_  +2+1+1__. //]
+BEM[Melodia drugiej zwrotki]
+
+DWOK19
+CUT[Nie pójdę, nie pójdę za kmiecego syna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 26 od Skalmierza (Charzewice)]
+FKT[]
+SIG[1907100010]
+KEY[19071   16  G 2/4]
+MEL[3_4#_5_6_  5_2__.  2_34#2_34#  5__3__
+    3_4#_5_6_  5_2__.  5_2_1_-7_  1__1__ //]
+BEM[]
+
+DWOK19
+CUT[Nie pójdę, nie pójdę za kmiecego syna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 26 od Skalmierza (Charzewice)]
+FKT[]
+SIG[1907100021]
+KEY[19071   16  G 2/4]
+MEL[5__6543  5_5_6543  3_4_5_6_  5_2__.
+    5__6543  5_5_6543  5_2_1_-7_  1_1__. //]
+BEM[]
+
+DWOK19
+CUT[Nie pójdę, nie pójdę za kmiecego syna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 26 od Skalmierza (Charzewice)]
+FKT[]
+SIG[1907100022]
+KEY[19071   16  G 2/4]
+MEL[5__6543  5_5_6543  3_44#5_6_  5_2__.
+    5__6543  5_5_6543  5_2_1_-7_  1_1__. //]
+BEM[]
+
+DWOK19
+CUT[Płśakałśa dziewcyna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 27 od Wiśślicy (Plechów)]
+FKT[]
+SIG[1907200000]
+KEY[19072   16  A 2/4]
+MEL[3b_5__5_  5_5_3b__  4_6b__4_  3b_2_1__
+    1_3b__3b_  3b_5_1__  3b_1__1-7  1_2_1__
+    13b5__53b  5_543b__  4_6b__54  3b_3b21__
+    1_3b__3b_  23b53b1_1_  3b_1__1-7  1_23b1__ //]
+BEM[]
+
+DWOK19
+CUT[Ojze ino ojze]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 27 od Wiśślicy (Kuchary)]
+FKT[]
+SIG[1907300001]
+KEY[19073   16 Bb 2/4]
+MEL[-5_2_4__  5_3__5_  4_2_4__  5_3__1_
+    5_3_5_6_  4_2__2_  3_1_-4__  -5_2__4_
+    5_3_5_65  4_2__4_  3_5_3__  21-4__-5_ //]
+BEM[]
+
+DWOK19
+CUT[Ojze ino ojze]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 27 od Wiśślicy (Kuchary)]
+FKT[]
+SIG[1907300002]
+KEY[19073   16 Bb 2/4]
+MEL[-7_2_4__  5_3__5_  4_4_6__  5_3__1_
+    5_3_5_6_  4_2__2_  3_1_-6__  -7_2__34
+    5_3_5_65  4_2__4_  34543__  21-6__-7_ //]
+BEM[]
+
+DWOK19
+CUT[Moja rodzinecko]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 27 od Wiśślicy (Kuchary)]
+FKT[]
+SIG[1907400000]
+KEY[19074   16  G 2/4]
+MEL[1_2__4_  6_6__3_  1_2__4_  3_5_3__
+    1_-7__24  6_6__5_  2_4__3_  5_3_2__
+    1_2__4_  6_6__53  1_2__4_  3_5_3__
+    1_2__4_  6_6__53  2_4__3_  5_432__ //]
+BEM[]
+
+DWOK19
+CUT[O Boże mój, Boże]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 28 Skalmierz]
+FKT[]
+SIG[1907500011]
+KEY[19075   16  G 2/4]
+MEL[3_4_5__  1_1__.  2_4_2_.-7  -5_-5__.
+    1_345__  6_6__4_  2_342_34  2_1__. //]
+BEM[]
+
+DWOK19
+CUT[O Boże mój, Boże]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 28 Skalmierz]
+FKT[]
+SIG[1907500012]
+KEY[19075   16  G 2/4]
+MEL[3_4_5_.3  1_1__.  2_342_.-7  -5_-5__.
+    1_345_3_  6_6__4_  2_342_34  2_1__. //]
+BEM[]
+
+DWOK19
+CUT[O Boże mój, Boże]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 28 Skalmierz]
+FKT[]
+SIG[1907500021]
+KEY[19075   16  G 2/4]
+MEL[5_4_3_2_  1_1__23  4_3_2_1_  -7_-5__24
+    3_2_1_-7_  -6_4__6_  5_3_4_-7_  1_1__. //]
+BEM[]
+
+DWOK19
+CUT[O Boże mój, Boże]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 28 Skalmierz]
+FKT[]
+SIG[1907500022]
+KEY[19075   16  G 2/4]
+MEL[5_543_32  1_1__23  45432321  -7_2__24
+    3_2_1_-7_  -6_4__6_  5_3_4_-7_  1_1__. //]
+BEM[]
+
+DWOK19
+CUT[A za borem za lasem]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 28 od Działśoszyc]
+FKT[]
+SIG[1907600000]
+KEY[19076   08  G 2/4]
+MEL[1313  2_42  1313  2_-71
+    -5-712  3_12  -5-712  3_-71 //]
+BEM[]
+
+DWOK19
+CUT[Da jak'em konie pasałś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 28 od Działśoszyc]
+FKT[]
+SIG[1907700000]
+KEY[19077   16  A 2/4]
+MEL[3b_3b_5_43b  2_4_3b__  3b_1_3b_3b2  1_1-7-5__
+    1_1_3b_3b2  1_1_-7_2_  1__3b_3b2  1_-7_-5__ //]
+BEM[]
+
+DWOK19
+CUT[Jasiu mój, tu mi stój]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 28 od Skalmierza]
+FKT[]
+SIG[1907800000]
+KEY[19078   08  C 2/4]
+MEL[+1+2+4_  +5+3_+2  +4+1_.  +3+2+17
+    +1+2+4_  +5+3_+2  +4+1_.  +3+2+17 //]
+BEM[]
+
+DWOK19
+CUT[Pojechałśa niewiasta]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 29 od Skalmierza]
+FKT[]
+SIG[1907900001]
+KEY[19079   16  G 2/4]
+MEL[2_4_6_6_  5_5_5__  4_6_5_3_  4_2_1__
+    2_4_3_1_  2_-7_-4__  -5__1_23  4_3_1__ //]
+BEM[]
+
+DWOK19
+CUT[Pojechałśa niewiasta]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 29 od Skalmierza]
+FKT[]
+SIG[1907900002]
+KEY[19079   16  G 2/4]
+MEL[2_4_6_6_  5_5_5_3_  4_6_5_3_  4_2_1__
+    2_4_3_1_  2_-7_-6_-6_  -5_-6-71_35  4_3_1__ //]
+BEM[]
+
+DWOK19
+CUT[Kochajze mnie kochaj]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 29 od Skalmierza]
+FKT[]
+SIG[1908000001]
+KEY[19080   16 Bb 2/4]
+MEL[4_4_5_.3  2_3__-6-5  -7_1_2_4_  3_6__2_
+    4_6_5_.3  2_3__-6-5  1_2_3_.1  -7_-6__1_ //]
+BEM[]
+
+DWOK19
+CUT[Kochajze mnie kochaj]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 29 od Skalmierza]
+FKT[]
+SIG[1908000002]
+KEY[19080   16 Bb 2/4]
+MEL[4_4_5_.3  2_3__-6-5  -7_1_2_4_  3_6__42
+    4_6_5_.3  2_3__-6-5  1_2_3_.1  -7_-6__1-7 //]
+BEM[]
+
+DWOK19
+CUT[Nie umiem ja śśpiewać]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 29 od Skalmierza]
+FKT[]
+SIG[1908100010]
+KEY[19081   16  G 2/4]
+MEL[1_5__3_  2_4_6_54  3_5__3_  4_321__
+    135__3_  4_2_4_54  345__32  4_321__ //]
+BEM[]
+
+DWOK19
+CUT[Nie umiem ja śśpiewać]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 29 od Skalmierza]
+FKT[]
+SIG[1908100020]
+KEY[19081   16  G 2/4]
+MEL[-5-71__21  -7_1_2_1_  3_5__43  -5-71_2_1_
+    -5-71__21  -5-71_2_1_  3_5__43  -5-71_2_1_
+    3_5_^_43  566_655_  135_5_43  -5-71_211_
+    3_5_^_43  566_655_  566_655_  -5-71_211_ //]
+BEM[]
+
+DWOK19
+CUT[Moja panna kieby igłśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 30 od Skalmierza (Charzewice)]
+FKT[]
+SIG[1908200001]
+KEY[19082   16  G 2/4]
+MEL[4_4_3_2_  5__6_+1_  4_6__4_  3__2_1_
+    -5_-5__.  -7_1_3_5_  -5_-5__.  2_2_2_1_
+    -5_-5__.  -711_355_  -5_-5__.  322_231_ //]
+BEM[]
+
+DWOK19
+CUT[Moja panna kieby igłśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 30 od Skalmierza (Charzewice)]
+FKT[]
+SIG[1908200002]
+KEY[19082   16  G 2/4]
+MEL[4_4_3_2_  5_5_67+1_  4_6__4_  355_2_1_
+    -5_-5__.  -7_1_3_5_  -5_-5__.  2_2_2_1_
+    -5_-5__.  -711_355_  -5_-5__.  322_231_ //]
+BEM[]
+
+DWOK19
+CUT[Kurzyłśa się dróżka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 30 Od Koszyc (Włśostowice)]
+FKT[]
+SIG[1908300010]
+KEY[19083   08  G 2/4]
+MEL[-5_-72  4434  5-7_-7  1_-7-6
+    -5_-72  4434  5-7-7-7  1_-71 //]
+BEM[]
+
+DWOK19
+CUT[Kurzyłśa się dróżka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 30 Od Koszyc (Włśostowice)]
+FKT[]
+SIG[1908300020]
+KEY[19083   08  G 2/4]
+MEL[-6_14  665#6  554#5  3_3_
+    -5_-72  4434  5-7_-7  1_1_
+    -6_14  665#6  554#6  5_31
+    -5-5-72  4434  5-7-7-7  1_11 //]
+BEM[Melodia drugiej zwrotki]
+
+DWOK19
+CUT[Krakowiaka grajcie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 30 od Koszyc (Wśłostowice)]
+FKT[]
+SIG[1908400001]
+KEY[19084   16  G 2/4]
+MEL[1_1_3_.5  544__.  3_5_1_-7_  2-7-5__.
+    1_1_1_3_  322__4_  5_5_544_  433__.
+    1_1_3_3_  322_2_4_  433_3_1_  2-7-5__. //]
+BEM[]
+
+DWOK19
+CUT[Krakowiaka grajcie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 30 od Koszyc (Włśostowice)]
+FKT[]
+SIG[1908400002]
+KEY[19084   16  G 2/4]
+MEL[1_1_3_.5  544__.  3_5_1-7-7_  2-7-5__.
+    1_1_1_3_  322__4_  5_5_544_  433__.
+    1_1_3_3_  322_2_4_  433_3_1_  2-7-5__. //]
+BEM[]
+
+DWOK19
+CUT[Bez te Wśłostowice]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 31 od Koszyc (Włśostowice)]
+FKT[]
+SIG[1908500001]
+KEY[19085   16  G 2/4]
+MEL[3_3_5_.3  4_2__-5_  -7_2_424_  3_1__.
+    3_3_5_.3  4_2__6_  4_4_2_-7_  1_1__.
+    313_5_.3  432__6_  464_21-7_  1_3__. //]
+BEM[]
+
+DWOK19
+CUT[Bez te Wśłostowice]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 31 od Koszyc (Włśostowice)]
+FKT[]
+SIG[1908500002]
+KEY[19085   16  G 2/4]
+MEL[3_3_5_.3  4_2__-5_  -7_2_464_  5_3__.
+    3_3_5_.3  4_2__6_  4_4_2_-7_  1_1__.
+    313_5_.3  432__6_  464_21-7_  1_3__. //]
+BEM[]
+
+DWOK19
+CUT[Oj wysoka lescyna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 31 Pińczów]
+FKT[]
+SIG[1908600000]
+KEY[19086   16  G 2/4]
+MEL[3_5__5_  6_4_4_4_  3_3__21  -7_2_2_1_
+    1_3__21  -7_2_4_4_  5_3__21  -7_2_2_1_ //]
+BEM[]
+
+DWOK19
+CUT[Cegoz ty poglądas sierotko]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 31 Brzesko nowe]
+FKT[]
+SIG[1908700001]
+KEY[19087   16  C 2/4]
+MEL[5_7_+1_+3_  +4__+1__  +3_+5__+2_  +2_+4__+3_
+    +2_+1_+3_+5_  +4__+1__  +3_+2__7b_  6_+1_6_6_
+    5_5_7_+2_  +4__+1__  +3_+2__7b_  4_+1_4__ //]
+BEM[]
+
+DWOK19
+CUT[Cegoz ty poglądas sierotko]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 31 Brzesko nowe]
+FKT[]
+SIG[1908700002]
+KEY[19087   16  C 2/4]
+MEL[5_67+1_+2+3  +4_+3_+1__  +3_+5__+2_  +4_+5_+3_+3_
+    +2_+1_+3_+5_  +4__+1__  +3_+2__7b_  6_+1_5_5_
+    5_5_7_+2_  +4__+1__  +3_+2__7b_  6_+1__5_ //]
+BEM[]
+
+DWOK19
+CUT[O li li, o li li]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 32 od Działśoszyc, Pińczowa]
+FKT[]
+SIG[1908800000]
+KEY[19088   16  C 2/4]
+MEL[5_7_+1_+2_  +4_+3_+1__  +3+4+5__+3_  +2+3+5+4+2__
+    5_7_+1__  +4_+3_+1__  +3+2+2__+17  6_7_5__
+    +3_+5__+4+2  +4_+3_+1__  +2_+4+3+2_+3+1  6_+175__
+    5_7_+1_+2_  +4_+3__+1_  +2_+4+3+2_+3+1  6_7_5__ //]
+BEM[]
+
+DWOK19
+CUT[Z tamtej strony Tyńca]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 32 od Słśomnik]
+FKT[]
+SIG[1908900000]
+KEY[19089   16  C 2/4]
+MEL[+1_+2__+4_  +3_+3_+2__  +4__+3+2+1_  +2+3+1_7__
+    +1_+2__+4_  +3_+3_+2__  7_+1__6_  5_67+1__ //]
+BEM[]
+
+DWOK19
+CUT[Zagrajze mi zagraj]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 32 od Działśoszyc]
+FKT[]
+SIG[1909000000]
+KEY[19090   16  C 2/4]
+MEL[+27+2+3+4_+1_  +3_+5__+5_  +6_+5_+4+1+2_  +3_+5__+3_
+    +2_+2_+4_+1_  +3_+1__5_  +4_+3_+2__  57+1__+1_ //]
+BEM[]
+
+DWOK19
+CUT[Jasiu baśłamucie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 33 od Proszowic]
+FKT[]
+SIG[1909100001]
+KEY[19091   08  C 2/4]
+MEL[5+1_7  +1+2+3+4  +3+5_^  +5+5+2_
+    +3+5+3+1  +2_5_  +2+4_+3  +27+1_ //]
+BEM[]
+
+DWOK19
+CUT[Jasiu bałśamucie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 33 od Proszowic]
+FKT[]
+SIG[1909100002]
+KEY[19091   08  C 2/4]
+MEL[5+1_7  +1+2+3+4  +3+5_^  +5+6+5+2
+    +3+5+3+1  +2757  +4+4_+3  +37+1_ //]
+BEM[]
+
+DWOK19
+CUT[Od Krakowa jadę]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 33 od Słśomnik, Nuta ob. nr 49]
+FKT[]
+SIG[1909200000]
+KEY[19092   16  F 2/4]
+MEL[1_2_3_4_  5_5__.  6_7_+1__  +2__7_5_  5_67+1__  +2__7_5_
+    4_6_+1__  6_2__.  2_4_6__  5__3_1_
+    5_67+1_+1_  6_2__34  2_346__  5__3_1_ //]
+BEM[]
+
+DWOK19
+CUT[A moja dziewcyno]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 33 od Słśomnik, Miechowa]
+FKT[]
+SIG[1909300000]
+KEY[19093   16  C 2/4]
+MEL[67+2__7_  5_67+1__  7+1+3__+4+3  +3_+2+3+4__
+    +2_+2__7_  5_67+1__  +1_+3__+1_  7_6_5_0_ //]
+BEM[]
+
+DWOK19
+CUT[Idzie woda idzie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 33 od Słśomnik (Goszcza)]
+FKT[]
+SIG[1909400000]
+KEY[19094   16  C 2/4]
+MEL[5___  67+2__+4+3  +4_+3+2+1_+3_  +5_+5_+4__  +2+3+1__+1_
+    67+2__+2+3  +4_+3+2+1__  +2_7_+1__  675__5_ //]
+BEM[]
+
+DWOK19
+CUT[Nie bijze mnie bicem]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 34 od Słśomnik (Goszcza)]
+FKT[]
+SIG[1909500010]
+KEY[19095   16  C 2/4]
+MEL[5_7_+2_+1_  +3_+5__.  +6_+5__.  +2_+2_+4_+3_
+    +2_+1_+3_+1_  7_5__.  7_+2__.  7_7_+1_5_
+    +2_+1_+3_+1_  675__.  7_+2__.  7_7_+1_5_ //]
+BEM[]
+
+DWOK19
+CUT[Nie bijze mnie bicem]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 34 od Sśłomnik (Goszcza)]
+FKT[]
+SIG[1909500020]
+KEY[19095   16  G 2/4]
+MEL[-5_-7_2_1_  3_5_6_4_  2_2_4_3_  2_1_3_1_
+    -5_-7_2_1_  3_5_6543  2_2_4_3_  2_1_3_1_ //]
+BEM[Goniony]
+
+DWOK19
+CUT[Instrumentalna-Przebiegany]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 34 od Słśomnik (Prędocin)]
+FKT[]
+SIG[1909600000]
+KEY[19096   16  C 2/4]
+MEL[+1_+5_+4__  +1_+2__5_  67+2_+4+3+4_  +5__+2__
+    +3+2+3_+4__  +1_+2__5_  676_+1_7_  6__5__ //]
+BEM[]
+
+DWOK19
+CUT[Ty Jasieńku bryłśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 34 od Sśłomnik, Miechowa]
+FKT[]
+SIG[1909700000]
+KEY[19097   16  A 2/4]
+MEL[3b_.4543b2  1_-7__^_  -5_.-6-7-5-6-7  1_3b__.
+    3b_.21_1_  1_-7__^_  -5_.-6-7-5-6-7  1_1__. //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Flisak v. Jesiotr]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 34 od Brzeska (Nękanowice)]
+FKT[]
+SIG[1909800000]
+KEY[19098   16  G 2/4]
+MEL[1_3_4#_2_  654#_5_32  1_3_54#2-7  1_321__
+    1_3_4#_2_  654#_5_32  1_3_54#2-7  1_321__
+    -5-6-7_1_3_  1_3_1_3_  -5-6-7_1231  -7_2_1__
+    -5-6-7_123_  123_123_  543_1231  -7_2_1__ //]
+BEM[]
+
+DWOK19
+CUT[Ozenił śsię Jadam z zydówecką]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 35 od Miechowa (Słśawice)]
+FKT[]
+SIG[1909900001]
+KEY[19099   16  C 2/4]
+MEL[4_6_+1__  5_7__+2_  +1_6_+1__  5_7__+2_
+    +1_+3_+2_7_  5__2__  4_4__3_  1_3_5_2_ //]
+BEM[]
+
+DWOK19
+CUT[Ozenił śsię Jadam z zydówecką]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 35 od Miechowa (Sśławice)]
+FKT[]
+SIG[1909900002]
+KEY[19099   16  C 2/4]
+MEL[4_6_+1__  5_7__+2_  +1_46+1__  5_7__+2_
+    +1_+3_+2_7_  5__2__  4_4__3_  1_3_5_2_ //]
+BEM[]
+
+DWOK19
+CUT[A w Wiśślicy bydłśo rycy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 35 od Miechowa (Kalina)]
+FKT[]
+SIG[1910000001]
+KEY[19100   16  C 2/4]
+MEL[5_7_+1__  5_7__+2_  +1_57+1__  5_7__+2_
+    +1_+3+2+1__  6__4_2_  4_431__  3_5__2_
+    +1_+3+2+1_+1_  6_6_4246  2_4_1_1_  3_5_5_2_ //]
+BEM[]
+
+DWOK19
+CUT[A w Wiśślicy bydłśo rycy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 35 od Miechowa (Kalina)]
+FKT[]
+SIG[1910000002]
+KEY[19100   16  C 2/4]
+MEL[5_7_+1_+1_  5_5_7_+2_  +1_57+1_+1_  5_5_7_7+2
+    +1_+3+2+1__  6__4_2_  4_431__  3_5__2_
+    +1_+3+2+1_+1_  6_6_4246  2_4_1_1_  3_5_5_2_ //]
+BEM[]
+
+DWOK19
+CUT[A kto śłysy, a kto gołśy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 35 od Miechowa]
+FKT[]
+SIG[1910100010]
+KEY[19101   16 Bb 2/4]
+MEL[4_3_1_1_  2_2_3_5_  346_3_1_  2_-7_1_1_
+    4_3_1_1_  2_2_-7_1_  23421231  -7_-7_1_1_ //]
+BEM[Goniony]
+
+DWOK19
+CUT[A kto łśysy, a kto gołśy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 35 od Miechowa]
+FKT[]
+SIG[1910100021]
+KEY[19101   16 Bb 2/4]
+MEL[3_3_4_2_  1__-5_-5_  -6_-6_-7_2_  1__-5__  -6_1_-712-7  1__-5_-5_ //]
+BEM[Goniony]
+
+DWOK19
+CUT[A kto łśysy, a kto gołśy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 35 od Miechowa]
+FKT[]
+SIG[1910100022]
+KEY[19101   16 Bb 2/4]
+MEL[3_3_4_2_  1__-5-6-7-5  -6_-6_-7_2_  1__-5__  -6_1_-712-7  1__-5_-5_ //]
+BEM[Goniony]
+
+DWOK19
+CUT[Płśynie cyranecka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 36 od Skałśy (Minoga)]
+FKT[]
+SIG[1910200000]
+KEY[19102   16  G 2/4]
+MEL[1_2_3_4#_  5_5__.  6_5_4#_5_  3_1__.
+    3_5_4_.3  1_2__.  3_3_4_.5  2_1__. //]
+BEM[]
+
+DWOK19
+CUT[Idzie stary przez bór]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 36 od Skałśy, Wolbroma]
+FKT[]
+SIG[1910300001]
+KEY[19103   16  G 2/4]
+MEL[3_5__31  3_5__31  3_5_6_6_  4_2__.
+    2_4__2-7  -5_4__2-7  -5_-5_5_5_  3_1__. //]
+BEM[]
+
+DWOK19
+CUT[Idzie stary przez bór]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 36 od Skałśy, Wolbroma]
+FKT[]
+SIG[1910300002]
+KEY[19103   16  G 2/4]
+MEL[1_3__1_  1_3__1_  1_3_3135  4_2__.
+    2_4__2_  -5_4__2_  -5_-5_5_5_  3_1__. //]
+BEM[]
+
+DWOK19
+CUT[Oj nie chodź kole wody]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 36-37 od Słśawkowa]
+FKT[]
+SIG[1910400001]
+KEY[19104   16  G 2/4]
+MEL[3_5__5_  5_5_3_5_  3_2_3_4_  6_5__.
+    3_5_4_.2  -7_-5__.  -7_-7_-7_.2  4_3__^_
+    5_6_4_.2  -7_-5__.  -6_-5_-6_-7_  211__. //]
+BEM[]
+
+DWOK19
+CUT[Oj nie chodź kole wody]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 36-37 od Słśawkowa]
+FKT[]
+SIG[1910400002]
+KEY[19104   16  G 2/4]
+MEL[3_5__5_  5_5_3_5_  3_3_3_4_  6_5__.
+    3_5_4_.2  -7_-5__.  -7_-7_-7_.2  4_3__^_
+    5_6_4_.2  -7_-5__.  -6_-5_-6_-7_  211__. //]
+BEM[]
+
+DWOK19
+CUT[Kumo moja kumo]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 37 od Żarnowca]
+FKT[]
+SIG[1910500011]
+KEY[19105   16  C 2/4]
+MEL[+1_+3_+5__  +5_+3_+5__  +5_+3_+3_+1_  +4__+2__
+    +1_+3_+4__  +2_7_5__  4_6_6_+1_  7__5__ //]
+BEM[]
+
+DWOK19
+CUT[Kumo moja kumo]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 37 od Żarnowca]
+FKT[]
+SIG[1910500012]
+KEY[19105   16  C 2/4]
+MEL[+1_+3_+5__  +5_+3_+5__  +3+1+3+5+3+1+3+5  +4__+2__
+    +1_+3_+4__  +2_7_5__  4_6_6_+1_  7__5__ //]
+BEM[]
+
+DWOK19
+CUT[Kumo moja kumo]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 37 od Żarnowca]
+FKT[]
+SIG[1910500020]
+KEY[19105   16  C 2/4]
+MEL[+5_+5_+5_7_  +1_+3_+3+1+3+4  +5_+6_+5_7_  +1_6_6_4_
+    5_7_7775  +1_+3_+3_+3_  +5_+6_+5_7_  +1_646_5_ //]
+BEM[]
+
+DWOK19
+CUT[A moja matusiu]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 37 od Żarek, Szczekocin]
+FKT[]
+SIG[1910600000]
+KEY[19106   08  G 2/4]
+MEL[246_  53_5  423_  1-7_-5
+    -5-72_  31_3  423_  1-7_-5 //]
+BEM[]
+
+DWOK19
+CUT[Da w której to stronie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 37 Sśławków]
+FKT[]
+SIG[1910700000]
+KEY[19107   16  G 2/4]
+MEL[1_2_3_4_  5_3__.  5_4_2_.4  3_5__.
+    4_6_6_5_  653__.  5_4_2_.4  3_1__. //]
+BEM[]
+
+DWOK19
+CUT[Nie życzę ja kochać górnika nikomu]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 38 od Olkusza]
+FKT[]
+SIG[1910800000]
+KEY[19108   16  A 2/4]
+MEL[-5_-7_1_3b_  2_-7__.  1_2__-5_  -7_-6_-4#_-5_
+    -5_-7_1_3b_  2_-7__.  13b2__-5_  -7_-6_-4#-5-5_ //]
+BEM[]
+
+DWOK19
+CUT[Pod zieloną miedzą]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 38 Siewierz]
+FKT[]
+SIG[1910900000]
+KEY[19109   16  F 2/4]
+MEL[6_5_4_.-7  1_1__.  655_4_.-7  1_3__.
+    4_6__^_  5_+1_+1_6_  5_5_4_.-7  1_1__.
+    466__^_  5_+1_+176_  655_4_.2  3_5__. //]
+BEM[]
+
+DWOK19
+CUT[Połśamałś mi się wóz]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 39 od Ogrodzieńca]
+FKT[]
+SIG[1911000010]
+KEY[19110   16  C 2/4]
+MEL[+3_+3_+2_7_  +1_+1__5_  7_7_+1_5_  7+1+3__+5_
+    +5_+5_+4_+2_  +1_+3__5_  7_7_+1_5_  7_+1__+1_ //]
+BEM[]
+
+DWOK19
+CUT[Pośłamałś mi się wóz]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 39 od Ogrodzieńca]
+FKT[]
+SIG[1911000021]
+KEY[19110   16  C 2/4]
+MEL[+1_+1_+3_7_  +1__5__  7+1+1_+3_7_  +1__5__
+    +1_+1_+2_+3_  +2_+4__.  +2_+1_+2#+37_  +1__5__ //]
+BEM[Piu mosso]
+
+DWOK19
+CUT[Połśamałś mi się wóz]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 39 od Ogrodzieńca]
+FKT[]
+SIG[1911000022]
+KEY[19110   16  C 2/4]
+MEL[+1_+1_+3_7_  +1__5__  7+1+1_+3_7_  +1__5__
+    7+1+1_+2_+3_  +2_+4__.  +2_+1_+2#+37_  +1__5__ //]
+BEM[Piu mosso]
+
+DWOK19
+CUT[Oj przeleciaśł sokółś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 39 od Słśawkowa]
+FKT[]
+SIG[1911100000]
+KEY[19111   08  G 2/4]
+MEL[11_1  -722_  13_3  244_
+    35_5  642_  11_-5  -5-72_
+    35_5  644_  11_-5  -5-72_ //]
+BEM[]
+
+DWOK19
+CUT[A w nasej wsi kośściółś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 39 od Szczekocin]
+FKT[]
+SIG[1911200000]
+KEY[19112   16  F 2/4]
+MEL[+1_+1_7+1+2+1  7_5__.  6_+1_7_+2_  7_5__.
+    4_6_+1_6_  655__31  -7_2_42-72  435__.
+    4_6_+1__  655__31  -7_2_4_2_  431__. //]
+BEM[]
+
+DWOK19
+CUT[Trzymajze się trzymaj]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 39 od Ogrodzieńca]
+FKT[]
+SIG[1911300010]
+KEY[19113   16  C 2/4]
+MEL[1_3_5_+1_  +177__.  +2_+2_7567  +2+1+1__.
+    1_3_5_+1_  +3+2+2__+2+3  +4+3+4+27567  +2+1+1__. //]
+BEM[]
+
+DWOK19
+CUT[Trzymajze się trzymaj]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 39 od Ogrodzieńca]
+FKT[]
+SIG[1911300020]
+KEY[19113   16  C 2/4]
+MEL[+5_.+4+3+1+2+3  +5+4+4__.  +6_+4_+4_+6_  +6+5+5__+1_
+    +5_.+4+3+1+1+3  +5_+4__.  +6_+4_+4_+6_  +6_+5__1_ //]
+BEM[]
+
+DWOK19
+CUT[Sokółś leci lasem]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 40 od Olkusza]
+FKT[]
+SIG[1911400000]
+KEY[19114   16  G 2/4]
+MEL[-5_-7_2_4_  2_-7_1231  -7_2__12  3_1_-7_-5_
+    -5-6-712_4_  5_3__5_  6_4__2_  3_1_-7_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Idzie woda między dęby]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 40 Słśawków]
+FKT[]
+SIG[1911500010]
+KEY[19115   16  F 2/4]
+MEL[1_3_3_3_  4_6_6_54  3_5_5_31  -71234_2_
+    1_3_5_67  +1_6_7654  3_5_5_31  -71234_2_ //]
+BEM[]
+
+DWOK19
+CUT[Idzie woda między dęby]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 40 Słśawków]
+FKT[]
+SIG[1911500020]
+KEY[19115   16  F 2/4]
+MEL[1_3__3_  4_6__4_  3_5__43  2_3_4_2_
+    1_3__3_  4_6__54  3_5__43  2_3_4_2_ //]
+BEM[]
+
+DWOK19
+CUT[Oj umareś śJasieniu]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 40 od Żarnowca]
+FKT[]
+SIG[1911600000]
+KEY[19116   08  A 2/4]
+MEL[13b56  3b4_1  3b3b24  31_-7
+    13b45  54_5  3b3b24  3b1_-7 //]
+BEM[]
+
+DWOK19
+CUT[A moja dziewcyno zal mi cię]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 41 od Żarnowca]
+FKT[]
+SIG[1911700010]
+KEY[19117   16  A 2/4]
+MEL[3b_5__5_  6b_2_3b_2_  1_3b_3b_.-7  2_4_5__
+    3b_5__5_  6b_2_3b__  1_1_3b__  2_4_1__ //]
+BEM[]
+
+DWOK19
+CUT[A moja dziewcyno zal mi cię]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 41 od Żarnowca]
+FKT[]
+SIG[1911700020]
+KEY[19117   16  A 2/4]
+MEL[3b_5__5_  5_5_4_5_  3b_3b_2_3b_  3b_2__-7_
+    2_4__4_  4_4__4_  -5_-5_-5_-5_  3b_1__. //]
+BEM[]
+
+DWOK19
+CUT[O dajze, o dajze koniowi siemienia]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 41 od Pilicy]
+FKT[]
+SIG[1911800001]
+KEY[19118   16 Bb 2/4]
+MEL[-5_4_4__  5_3__21  -5-6-7_-7__  1_3__5_
+    6_5_4__  1_3__5_  4342-7-5-6-7  213__.
+    6_5_4__  1_3__5_  -5-6-7_-7__  2_1__1_ //]
+BEM[]
+
+DWOK19
+CUT[O dajze, o dajze koniowi siemienia]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 41 od Pilicy]
+FKT[]
+SIG[1911800002]
+KEY[19118   16 Bb 2/4]
+MEL[-5_4_4__  533__21  -5-6-7_-7__  133__5_
+    6_5_4__  1_3__5_  4342-7-5-6-7  213__.
+    6_5_4__  1_3__5_  -5-6-7_-7__  2_1__1_ //]
+BEM[]
+
+DWOK19
+CUT[Moja Hanuśś, moje złśoto]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 41 od Sśławkowa]
+FKT[]
+SIG[1911900000]
+KEY[19119   08  G 2/4]
+MEL[3343  2654  3343  21-71
+    -725-7  21-61  -725-7  21-6-5 //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Flisak v. Włóczek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 41 od Siewierza]
+FKT[]
+SIG[1912000000]
+KEY[19120   16  G 2/4]
+MEL[+1__.5_  +1__.5_  +1__.5_  +1__7_5_  67+1_6_4#_  5___
+    1__.5_  +1_5_3_1_  +1_5_31-71  +1__7_5_  67+2+16_4#_  5___
+    1_3_3235  5_4_2_-5_  1_3_3235  5_4_2_-5_
+    1_3_3__  5_4_2_-7_  1_6_6__  5_7_+2_+1_ //]
+BEM[]
+
+DWOK19
+CUT[A wesele to tu]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 42 od Olkusza, Słśawkowa]
+FKT[]
+SIG[1912100001]
+KEY[19121   16  G 2/4]
+MEL[1_3_5__  4_2_5__  4_2_1__  -5_-7_1__
+    -7_2_2_1_  1_3_3_3_  3_2_2_1-7  -5_-6-71__ //]
+BEM[]
+
+DWOK19
+CUT[A wesele to tu]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 42 od Olkusza, Słśawkowa]
+FKT[]
+SIG[1912100002]
+KEY[19121   16  G 2/4]
+MEL[1_3_5__  4_2_5__  4_2_1__  -5_-7_1__
+    -7_2_2_-7_  3_5_5_5_  4_2_2_1-7  -5_-6-71__ //]
+BEM[]
+
+DWOK19
+CUT[Zeby ja wiedziałśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 42 od Pilicy]
+FKT[]
+SIG[1912200000]
+KEY[19122   16  C 2/4]
+MEL[5_5_+1__  6_5__5_  7_7_+2__  +1_+3__+3+1
+    +3_+3_+1__  6_5__35  7_7_+2__  +1_+1__+1_ //]
+BEM[]
+
+DWOK19
+CUT[Siedem lat wojowałś, sabli nie wyjmowałś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 42 od Pilicy (Szyce)]
+FKT[]
+SIG[1912300010]
+KEY[19123   16  F 2/4]
+MEL[3_5__+1_  +2_7_+1__  7_5__56  4_423__
+    3_5__7+1  +2_7_+1__  3_5__6_  4_421__ //]
+BEM[]
+
+DWOK19
+CUT[Siedem lat wojowałś, sabli nie wyjmowałś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 42 od Pilicy (Szyce)]
+FKT[]
+SIG[1912300021]
+KEY[19123   16  F 2/4]
+MEL[-5_-7_1_3_  4_423_5_  4_423_1_  2_-7_1__ //]
+BEM[]
+
+DWOK19
+CUT[Siedem lat wojowałś, sabli nie wyjmowałś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 42 od Pilicy (Szyce)]
+FKT[]
+SIG[1912300022]
+KEY[19123   16  F 2/4]
+MEL[-5_-7_1_3_  4_423_5_  4_423_1_  2_2_1__ //]
+BEM[]
+
+DWOK19
+CUT[Stoji gruska w polu]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 43 od Wolbroma]
+FKT[]
+SIG[1912400001]
+KEY[19124   16  G 2/4]
+MEL[1_2_3__  4_4_2__  1_2_3__  434_2__
+    3_5__6_  5_4_3_2_  1_2__3_  4_1_2__ //]
+BEM[]
+
+DWOK19
+CUT[Stoji gruska w polu]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 43 od Wolbroma]
+FKT[]
+SIG[1912400002]
+KEY[19124   16  G 2/4]
+MEL[1_2_3__  4_4_2__  1_2_3__  434_2__
+    3_5__6_  5_4_3_2_  1_2_3__  431_2__ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Krakowiak obiegany]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 43 od Pilicy (Siadcza)]
+FKT[]
+SIG[1912500000]
+KEY[19125   16  G 2/4]
+MEL[1__3__  432_3_3_  -7_1_2_2_  1__-5__
+    432_3_3_  -7_1_2_2_  1__-5__
+    1__3__  4_2_4_2_  3_5_4#_6_  4__-5__
+    1_3_432_  -7_1_2_2_  1__-5__
+    1__3__  43234323  3_5_4#565  4__-5__
+    1_3_4321  -7_1_2_2_  1__-5__ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Polka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 43 od Siewierza]
+FKT[]
+SIG[1912600001]
+KEY[19126   16  G 2/4]
+MEL[3_5_3_5_  3_5_6543  2__4__  4_6_5_3_
+    132_132_  12354321  -7_2_2_-5_  -5_-6-71__
+    1_3_4321  -7-5-6-71__  1_3_4321  -7_2_2_2_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Polka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 43 od Siewierza]
+FKT[]
+SIG[1912600002]
+KEY[19126   16  G 2/4]
+MEL[3_5_3_5_  3_5_6_4_  2_4_434_  4_6_5432
+    132_132_  12354321  -7_2_-7_-5_  -5_-6-71__
+    1_3_4321  -7-5-6-71__  1_3_4321  -7_2_2_2_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Mijany na kształśt Marsza]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 43 od Słśawkowa]
+FKT[]
+SIG[1912700001]
+KEY[19127   16  C 2/4]
+MEL[+3__+4_.+3  +2__7_+1_  +2__+3_.+2  +1__0__
+    +3__+4_.+3  +2_+1_7_+1_  +2__+3_.+2  +1_5_6_5_
+    +5__+4#_+6_  +5__+4#_+2_  +5__+3_+1_  +5_+4_+2_7_
+    +1__+4_.+3  +2_+1_7_+1_  +2_5_6_7_  +1__0__ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Mijany na kształśt Marsza]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 43 od Słśawkowa]
+FKT[]
+SIG[1912700002]
+KEY[19127   16  C 2/4]
+MEL[+3__+4_.+3  +2__7_+1_  +2__+3_.+2  +1__0__
+    +3__+4_.+3  +2_+1_7_+1_  +2__+3_.+2  +1_5_6_5_
+    +5__+4#_+6_  +5__+4#_+2_  +5__+3_+1_  +5_+4_+2_7_
+    +1__+4_.+3  +2_+1_7_+1_  +2__+3_+2_  +1__0__ //]
+BEM[]
+
+DWOK19
+CUT[Oj zebyś świedziaśła]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 44 od Pilicy (Szyce)]
+FKT[]
+SIG[1912800001]
+KEY[19128   16  A 2/4]
+MEL[5__.5_  4#_5_6b_5_  4#_5_6b_5_  4_3b_3b_2_  4_3b_1__
+    -7_1_3b_3b_  2_4_1__  -7_1_3b_2_  4_3b21__ //]
+BEM[]
+
+DWOK19
+CUT[Oj zebyś świedziałśa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 44 od Pilicy (Szyce)]
+FKT[]
+SIG[1912800002]
+KEY[19128   16  A 2/4]
+MEL[5__.5_  4#_5_6b_5_  4#_5_6b_5_  4_3b_3b_2_  4_3b21__
+    -7_1_3b_3b_  2_4_1__  -7_1_3b_2_  4_3b21__ //]
+BEM[]
+
+DWOK19
+CUT[Ojze ino figi migi]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 44 od Pilicy (Giebłśo)]
+FKT[]
+SIG[1912900001]
+KEY[19129   16  A 2/4]
+MEL[5__.5_  5_5_4_4_  5_3b_1__  4#5654_4_  543b21_1_
+    1_3b_4_1_  2_4_5_-7_  1_3b_4_4_  5_3b_1__ //]
+BEM[]
+
+DWOK19
+CUT[Ojze ino figi migi]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 44 od Pilicy (Giebśło)]
+FKT[]
+SIG[1912900002]
+KEY[19129   16  A 2/4]
+MEL[5__.5_  5_5_4_4_  5_3b_1__  4#5654_4_  543b21_1_
+    1_3b_4_1_  2_3b45_-7_  1_23b4_42  543b21_1_ //]
+BEM[]
+
+DWOK19
+CUT[Owczarek-A za rzeką wołśki hej rycą]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 44 od Ogrodzieńca]
+FKT[]
+SIG[1913000000]
+KEY[19130   16  G 2/4]
+MEL[1_2_3_4#_  5__.3_  5__4#2_.  -7-5_.^__
+    1_2_3_4#_  5__.1_  21_.^__
+    1_2_3_4#_  5__.3_  5__4#2_.  -7-5_.^__
+    1_2_3_4#_  5__.1_  21_.^__ //]
+BEM[]
+
+DWOK19
+CUT[W kalinowym lasku]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 44-45 od Żarnowca (Koryczany)]
+FKT[]
+SIG[1913100000]
+KEY[19131   16  G 2/4]
+MEL[1_3_5__  6_4#_2_-5_  1_3_5__  654#_2-7-5_
+    -5_-7_1_1_  2_4#_5_4#_  1_3_5__  2__-7_-5_
+    -5_-7_1_1_  2_4#_5_4#2  1_3_5__  2_2-7-7_-5_
+    -5_-7_1__  2__1_-7_  -5_-7_1__  2__1-7-5_ //]
+BEM[]
+
+DWOK19
+CUT[Powolny-Poblad wianek poblad]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 45 od Pilicy (Giebśło)]
+FKT[]
+SIG[1913200010]
+KEY[19132   08  G 2/4]
+MEL[1_23  4_5_  6_42
+    1_23  4_53  1_2_
+    1_23  4_53  123-7
+    1_23  4_53  1_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Powolny-Poblad wianek poblad]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 45 od Pilicy (Giebłśo)]
+FKT[]
+SIG[1913200020]
+KEY[19132   16  G 2/4]
+MEL[1_3_5__  345_5642  1_3_5__  342__-7-5 //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Ober-walc]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 45 od Pilicy (Giebśło)]
+FKT[]
+SIG[1913300000]
+KEY[19133   16  C 2/4]
+MEL[+1+3+2+17+2+16  5_43465_  5_43465_
+    57+2+17+2+16  5_43465_  5_43465_
+    5__6__  7__+1__  +2_+1_+3__
+    5__6__  7__+1__  7_+2_+1__ //]
+BEM[]
+
+DWOK19
+CUT[Śpiewajze sśłowiku]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 45 od Ogrodzieńca]
+FKT[]
+SIG[1913400001]
+KEY[19134   16  G 2/4]
+MEL[135__57  6_1_3__  655__13  3_234_2_
+    1_-5__.  -6_-6_-7_2_  1_-5__.  313_4_2_
+    1_-5__.  -6_-6_-7_-5_  -7_1__.  -61-6_-7_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Śpiewajze słśowiku]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 45 od Ogrodzieńca]
+FKT[]
+SIG[1913400002]
+KEY[19134   16  G 2/4]
+MEL[135__67  +1+3+176__  5_4__1_  5_654_2_
+    1_-5__.  -6_-6_-7_2_  1_-5__.  313_4_2_
+    1_-5__.  -6_-6_-7_-5_  -7_1__.  -61-6_-7_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Nie bij mnie pani matko]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 46 od Ogrodzieńca]
+FKT[]
+SIG[1913500000]
+KEY[19135   16  A 2/4]
+MEL[4_5_6b_.4  5_3b__.  5_4_1__  2_1__3b_
+    4_5_6b_.4  1_3b__.  5_4_1__  2_1__3b_ //]
+BEM[]
+
+DWOK19
+CUT[A bodaj ześ śpowymyśślałś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 46 od Żarnowca]
+FKT[]
+SIG[1913600010]
+KEY[19136   16  G 2/4]
+MEL[5_5_4_4_  1_3_2_2_  1_1_2_4_  3_1_2_2_
+    5_5_4_4_  3_3_2_2_  1_1_2_4_  3_312_2_ //]
+BEM[]
+
+DWOK19
+CUT[A bodaj ześ śpowymyśślałś]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 46 od Żarnowca]
+FKT[]
+SIG[1913600020]
+KEY[19136   16  G 2/4]
+MEL[3__-5__  -5-6-712342
+    3__-5__  -5_-6-71_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Ja ci powiadam, nie kochaj wojaka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 46 od Bendzina]
+FKT[]
+SIG[1913700001]
+KEY[19137   16  G 2/4 3/8]
+MEL[5_4#56_5_  5_4#56_5_  5_4#_2__  1_3__3_
+    5_4#_2_  4_3_3_  5_4#_2_  4_3_3_
+    5_4#56_5_  5_4#_2__  1___  5_4#56_5_  5_4#_2__  1___ //]
+BEM[]
+
+DWOK19
+CUT[Ja ci powiadam, nie kochaj wojaka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 46 od Bendzina]
+FKT[]
+SIG[1913700002]
+KEY[19137   16  G 2/4 3/8]
+MEL[5_4#56_5_  5_4#56_5_  5_4#_2__  1_3__3_
+    5_4#_2_  4_313_  5_4#_2_  4_313_
+    5_4#56_5_  5_4#_2__  1___  5_4#56_5_  5_4#_2__  1___ //]
+BEM[]
+
+DWOK19
+CUT[Już to siódmy roczek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 46-47 od Pilicy]
+FKT[]
+SIG[1913800001]
+KEY[19138   16  F 2/4]
+MEL[5__.65  4#5653_1_  2_32-7__  1_3__1_
+    2_324__  6_5__3_  34542__  1_3__1_
+    -5_324__  6_5__31  34542__  -713__5_ //]
+BEM[]
+
+DWOK19
+CUT[Już to siódmy roczek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 46-47 od Pilicy]
+FKT[]
+SIG[1913800002]
+KEY[19138   16  F 2/4]
+MEL[5__.+15  4#5653_1_  2_32-7__  1_3__1_
+    2_324__  6_5__3_  34542__  1_3__1_
+    -5_324__  6_5__31  34542__  -713__5_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Polka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 47 od Pilicy]
+FKT[]
+SIG[1913900000]
+KEY[19139   08  D 2/4]
+MEL[+17+16  5333  4222  1357
+    +1+3+16  5313  4222  1_1_
+    3331  3_.+1  777+2  +1+1+1+3
+    +1531  3_.+1  777+2  +1_+1_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Żydowski taniec]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 47 od Pilicy]
+FKT[]
+SIG[1914000000]
+KEY[19140   16  A 2/4]
+MEL[2_.-71_1_  23b2-71_1_  2_5_2_5_  3b53b21__
+    2_.-71_1_  23b2-71_1_  255_255_  3b53b21__
+    1_2_3b21_  3b_5_4_2_  3b43b_3b2-7_  1__1__
+    2_5_5_5_  4_6b_5_.2  3b43b_3b44_  5__5__ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Mijana polka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 47 od Wolbromia]
+FKT[]
+SIG[1914100000]
+KEY[19141   16  G 2/4]
+MEL[3__5__  3_2_2__  4__2_-7_  1_6_654_
+    32345_3_  3_2_234_  4_2342-7-5  1_1_1__
+    5__5_5_  5_5_6__  5__4_-7_  1_1_1__
+    555_5_5_  5_5_6_2_  565342-7-5  1_1_3_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Polka-Flisak]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 47 od Olsztyna, Częstochowy]
+FKT[]
+SIG[1914200000]
+KEY[19142   16  G 2/4]
+MEL[56543_+1_  7_6_7__  7+1765_67  5_4#_5__
+    56543_5_  4_2_7_+2_  4_434_6_  +1__+1__
+    5_3_+1__  7_6_4__  2_+1_+1_7_  +1_+2_+3__
+    5__+1__  7_6_4__  3_2_3_4#_  5_4#_5__ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Jesiotr (taniec flisaków)]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 48 od Bendzina (Ząbkowice)]
+FKT[]
+SIG[1914300000]
+KEY[19143   16  C 2/4]
+MEL[55+1_55+1_  +3_+3_+3+2+1_  55+1_55+1_  +3_+3_+3+2+1_
+    +4_+3_+2_+1_  7_6_5__  567_567_  +1+2+3_+1__
+    +4+4+3_+2_+1_  776_5__  5_7_+2_+2_  +1_+3_+5_+6_ //]
+BEM[]
+
+DWOK19
+CUT[Ojze moja]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 48 od Szczekocin, Obiegany]
+FKT[]
+SIG[1914400010]
+KEY[19144   16  A 2/4]
+MEL[1_23b4_3b2  5_6b_4_.5  6_5_4_3b2  1_1_-7__
+    1_2_3b_2_  1_23b4_.5  6_5_3b_2_  1__-7__ //]
+BEM[]
+
+DWOK19
+CUT[Ojze moja]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 48 od Szczekocin, Obiegany]
+FKT[]
+SIG[1914400020]
+KEY[19144   16  A 2/4]
+MEL[1_3b_5_5_  4_3b21_-7_  1_3b21_-7_  1_3b21_-7_
+    -5_-7-6-5_.-7  1__-7__  -5_-7-6-5_.-7  1_1_5__ //]
+BEM[]
+
+DWOK19
+CUT[Jasiu baśłamucie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 48 od Pilicy (Szyce)]
+FKT[]
+SIG[1914500000]
+KEY[19145   16  C 2/4]
+MEL[7_+2_+4__  +3_+5__+2_  +4_+4_+1__  +2_+1__75
+    7_+2_+4__  +3_+3__+2_  +2_+4_+1__  7_+1__5_ //]
+BEM[]
+
+DWOK19
+CUT[Dana moja dana]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 48 od Pilicy]
+FKT[]
+SIG[1914600001]
+KEY[19146   16  F 2/4]
+MEL[5__.54#  5_5_3_1_  +1_+1__6_  5_5_3_1_
+    2_2_4_6_  3__3__  4_2_4_6_  5__3__ //]
+BEM[]
+
+DWOK19
+CUT[Dana moja dana]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 48 od Pilicy]
+FKT[]
+SIG[1914600002]
+KEY[19146   16  F 2/4]
+MEL[5_.54#  5_5_3_1_  +1_+1__+16  5_5_3_1_
+    2_2_4_6_  3_1_3_5_  4_2_4_6_  5_5_3_1_ //]
+BEM[]
+
+DWOK19
+CUT[W Krakowie na śławie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 49 od Pilicy (Szyce)]
+FKT[]
+SIG[1914700001]
+KEY[19147   16  G 2/4]
+MEL[1_5__5_  3_3_3__  1_6__5_  4_3_4__
+    234__4_  4__2_1_  1-75__5_  4_3_1__ //]
+BEM[]
+
+DWOK19
+CUT[W Krakowie na łśawie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 49 od Pilicy (Szyce)]
+FKT[]
+SIG[1914700002]
+KEY[19147   16  G 2/4]
+MEL[5_5__5_  5_5_3__  1_6__5_  4_3_4__
+    4_4__4_  4_3_2_1_  1-75__5_  43311__ //]
+BEM[]
+
+DWOK19
+CUT[Oj jechali furmani]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 49 Pilica]
+FKT[]
+SIG[1914800000]
+KEY[19148   16 Bb 2/4]
+MEL[2_5__2_  -7_2_-5_-5_  4_2__-7_  1_3_1_1_
+    5_5__54#  4#5653_3_  4_2__-7_  1_3_1_1_ //]
+BEM[]
+
+DWOK19
+CUT[Przeleciałśa gąska]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 49 od Pilicy (Strzegowa)]
+FKT[]
+SIG[1914900000]
+KEY[19149   16  G 2/4]
+MEL[2_4_6__  6_5__34  5_4_3_2_  3_2__1_
+    2_4_6__  6_5__5_  5_4_3_2_  3_2__^_ //]
+BEM[Blednie zapisane metrum 2/3 poprawiono na 2/4]
+
+DWOK19
+CUT[Mówiłem ja tobie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 50 od Olkusza]
+FKT[]
+SIG[1915000000]
+KEY[19150   16  A 2/4]
+MEL[3b_5_5__  6b_5__43b  3b_23b4_.3b  3b_2__1_
+    -7_-7_-5__  5_5__3b_  1_23b4_.3b  2_1__. //]
+BEM[]
+
+DWOK19
+CUT[Załozył sie djabeł z jezem]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 50 od Olkusza]
+FKT[]
+SIG[1915100000]
+KEY[19151   08  G 2/4]
+MEL[5654  33_5  422_  35_1
+    5654  3335  4222  3553 //]
+BEM[]
+
+DWOK19
+CUT[Poszła dziewka prać]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 50 od Olkusza]
+FKT[]
+SIG[1915200000]
+KEY[19152   16  C 2/4]
+MEL[5__.7+1  +1_+3_+4__  +3_+3__+2_  +2_7_+1__
+    +3_+3__+3_  +3_+1+3+4_+5_  +3_+3__+4_  +2_7_+1_65 //]
+BEM[]
+
+DWOK19
+CUT[Na pustki mnie brali]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 51 od Wolbroma]
+FKT[]
+SIG[1915300000]
+KEY[19153   16  F 2/4]
+MEL[5_5__67  +1_(313)4_6_  5_5__67  +1_3_4_2_
+    1_1_1_23  23423_5_  1_1__23  4_2_2_1_ //]
+BEM[]
+
+DWOK19
+CUT[Moje dziewce co to mas]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 51 od Pilicy, Szczekocin]
+FKT[]
+SIG[1915400000]
+KEY[19154   16  C 2/4]
+MEL[+3_+5__+5+4#  +5_+4#_+5_.+4  +3_+6__+6_  +4_+4_+3_.+1
+    +3_+5__+5+4#  +5_+6_+5_.+4  +3_+6__+5+6  +4_+4_+3_.+1
+    7_+2__+4+2  +1_5_5_5_  4_6__6_  +1_+1__5_
+    7_+2__+4+2  +1_5_5_5_  4_6_6_6_  +1_+1__5_
+    4_6_65#6_  +1_+1_7_+2_  4_6_65#6_  +1__5__ //]
+BEM[]
+
+DWOK19
+CUT[Kochanie kochanie w której ześ ty stronie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 51 od Olkusza, Pilicy]
+FKT[]
+SIG[1915500000]
+KEY[19155   16  F 2/4]
+MEL[3_5__34  5_4_4__  3_5__34  5_4_4__
+    3_5__67  +1_6_6__  5_+1__6_  5_6_4_2_ //]
+BEM[]
+
+DWOK19
+CUT[A ja wiem nie powiem co w olsynie trzescy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 52 od Wolbroma]
+FKT[]
+SIG[1915600011]
+KEY[19156   16  G 2/4]
+MEL[3_5__3_  3_6_5_1_  3_5__3_  4_2_2_1_ //]
+BEM[]
+
+DWOK19
+CUT[A ja wiem nie powiem co w olsynie trzescy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 52 od Wolbroma]
+FKT[]
+SIG[1915600012]
+KEY[19156   16  G 2/4]
+MEL[3_5__33  3_6_5_1_  3_5__3_  4_2_2_1_ //]
+BEM[]
+
+DWOK19
+CUT[A ja wiem nie powiem co w olsynie trzescy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 52 od Wolbroma]
+FKT[]
+SIG[1915600021]
+KEY[19156   16  G 2/4]
+MEL[1_3_3_3_  3_5_3_5_  5_323_4_  4_2_2_1_
+    1_1_1-7-6-5  -5_-7_-7_1_  1_3_1-7-6-5  -5-6-712_1_ //]
+BEM[]
+
+DWOK19
+CUT[A ja wiem nie powiem co w olsynie trzescy]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 52 od Wolbroma]
+FKT[]
+SIG[1915600022]
+KEY[19156   16  G 2/4]
+MEL[1_323_32  32353235  35323_4_  42222_1_
+    1_1_1-7-6-5  -5_-7_-7_1_  1_3_1-7-6-5  -5-6-712_1_ //]
+BEM[]
+
+DWOK19
+CUT[Cem ze się ciesyć mam]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 52 od Wolbroma]
+FKT[]
+SIG[1915700001]
+KEY[19157   16  A 2/4]
+MEL[1_5__4_  5_3b__5_  7b_6b_5_4_  5_3b__.
+    1_3b__3b_  3b_3b_2_-7_  2_3b_4_6b_  5_3b__. //]
+BEM[]
+
+DWOK19
+CUT[Cem ze się ciesyć mam]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 52 od Wolbroma]
+FKT[]
+SIG[1915700002]
+KEY[19157   16  A 2/4]
+MEL[3b_5__54  5_3b__5_  7b_6b_5_4_  5_3b__.
+    3b_5__3b5  3b_3b_2_-7_  2_3b_4_6b_  5_3b__. //]
+BEM[]
+
+DWOK19
+CUT[Co mi po zabawie, co mi po uciese]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 52 od Wolbroma]
+FKT[]
+SIG[1915800010]
+KEY[19158   16  F 2/4]
+MEL[1_3_5__  5_5__2_  4_2_2__  -713__1_
+    1_3_5__  5_5__2_  4_6_6__  655__3_ //]
+BEM[]
+
+DWOK19
+CUT[Co mi po zabawie, co mi po uciese]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 52-53 od Wolbroma]
+FKT[]
+SIG[1915800020]
+KEY[19158   16  F 2/4]
+MEL[-5_-7_2_4_  1_3_2_4_  1_3_2_4_  3_1_-7_-5_
+    -5_-7_2_4_  -713_2_4_  -713_2_4_  431_-7_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Brzdęcały podkówki]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 53 od Olkusza]
+FKT[]
+SIG[1915900000]
+KEY[19159   16  F 2/4]
+MEL[4__-6_1_  4__-6_1_  4_4_4_4_  6_.55__
+    5_.7+1_+1_  +1_3_5__  4_6_5_-7_  1_1_5__
+    4__1_1_  4__1_1_  4_4_4_4_  6_.55__
+    +1_+27+1_+2+1  +1_+2+15_.3  4_6_5_-7_  1__1__ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Kozak]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 53 od Lelowa]
+FKT[]
+SIG[1916000000]
+KEY[19160   16  C 2/4]
+MEL[7_+2_+1_+3_  +4_+2_+1_.6  7_+2_+1_+3_  7_+2_+1_.6
+    57+27+1_+3_  +4+6+4+2+1+2+3+1  7_+2_+1+2+3+1  7_+27+1_.6 //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Kozak]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 53 od Szczekocin]
+FKT[]
+SIG[1916100000]
+KEY[19161   16  C 2/4]
+MEL[+3_+3_+2_+2_  +1_+1_5__  6_6_7__  +1_+1_5__
+    +3_+3_+2_+2_  +1_+1_5__  6_6_7_7_  +1_+1_5__
+    +3__+2+176  5_5_3__  5_5_4__  3_3_1__
+    +3__+2+176  5_5_3__  5_5_4_4_  3_3_5_+1_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Kozak dworski]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 53 Pińczów]
+FKT[]
+SIG[1916200001]
+KEY[19162   16  G 2/4]
+MEL[5_543_32  1_123231  4_432_21  -7_-7-6-5-6-7-5
+    1_35542-7  1_3_-5_-72  1_3_542-7  1_231__ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Kozak dworski]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 53 Pińczów]
+FKT[]
+SIG[1916200002]
+KEY[19162   16  G 2/4]
+MEL[5_543_32  1_123231  4_432_21  -7_-7-6-5-6-7-5
+    1_35542-7  1_3_-5_-72  1_35542-7  1_231__ //]
+BEM[]
+
+DWOK19
+CUT[Od Krakowa jedzie rataj]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 54 Kielce]
+FKT[]
+SIG[1916300000]
+KEY[19163   32  G 3/8]
+MEL[1_3_5__3__  5_4_2_-7_2_3_  1_3_5__6__  5_4_4__2__
+    1_3_5__3_1_  1_.-7-7__-5__  2_.43_4_2_-7_  1_1_3__1__
+    3_5_4#_5_3_1_  1_.-7-7__-5__  2_.43_4_2_-7_  1_+1_7__+1__ //]
+BEM[]
+
+DWOK19
+CUT[Moja Maryś tupnij nózką]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 54 od Kielc, Radoszyc]
+FKT[]
+SIG[1916400000]
+KEY[19164   16  G 3/8]
+MEL[135424  356_42  135_24  312-7-5_
+    135_24  31-5_-7_  135_24  312-7-5_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Z tamtej strony Jędrzejewa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 54 od Kielc]
+FKT[]
+SIG[1916500000]
+KEY[19165   32  C 3/8]
+MEL[+5__+3__+4_+2_  +1_.+3+3_+1_+5__  +2_7_5_7_+2_+4_  +3_+1_5_+1_+3_+4#_
+    +5__+6__+4_+2_  +1_.+3+3_+1_+3_+5_  +2_7_5_7_+2__  +1__+1__+1__
+    7_.+2+1#_+2_7_5_  4#_+1_7_+1_6_4_  2_+1_7_+1_6_4#_  2_.57__+2__
+    7_.+2+1#_+2_7_5_  4#_+1_7_+1_6__  2_+1_7_+1_6_4#_  5__5___ //]
+BEM[Mazur]
+
+DWOK19
+CUT[Niewiele nas takich jak ja]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 55 od Kielc, Daleszyc]
+FKT[]
+SIG[1916600000]
+KEY[19166   32  G 3/8]
+MEL[2_4_5__3__  2__1___  2__4__.-6_  -7_2_3__1__
+    2_4_5__3__  2__1___  2__4__.6_  6_.55__3__ //]
+BEM[]
+
+DWOK19
+CUT[Wolałbym sie przebić kołkiem]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 55 od Kielc]
+FKT[]
+SIG[1916700000]
+KEY[19167   32  C 3/8]
+MEL[5_7_+1__+3__  +5_+5_+4__+2__  +2_+4#_+5__+5__  +6_.+5+4__+2__
+    +2_+4#_+5__7__  +2__+1__6__  6_+1_+3__+2__  +3_.+27__5__
+    (5_6_7_)+1__+3__  +5_+5_+4__+2__  (+2_+3_+4#_)+5__+5__  +6_.+5+4__+2__
+    (+2_+3_+4#_)+5__7__  +2_+2_+1__6__  (6_7_+1_)+3__+2__  +3_.+27__5__ //]
+BEM[Zakodować od G]
+
+DWOK19
+CUT[Instrumentalna-Mazur]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 55 Kielce]
+FKT[]
+SIG[1916800000]
+KEY[19168   32  C 3/8]
+MEL[+1_.+3+5__+5__  +6_.+5+3_+4_+2_7_  5_.+1+3__+6__  (5_7_+2_)+4__+2_7_
+    +1_.+3+5__+5__  +6_.+5+3_+4_+2_7_  5_.+1+3_+2_+4_+6_  (+2_7_+2_)+4__+2_7_
+    +1_.+3+5__++1__  +6_.+2+4__+6__  +6_.+5+4#_+5_+3_+1_  7_.+2+3_+4_+2_7_
+    +1_.+3+5__++1__  ++1_.+2+4__+6__  +6_.+5+4#_+5_+3_+1_  7_.+2+3_+4_+2_7_
+    5_.+1+3__.+1_  +4_.+2+3__+1__  7_0+25___  7_.+1+3__+1__
+    5_.+1+3__.+1_  +4_.+2+3__+1__  7_0+25__.+2_  7_.+1+3__+1__ //]
+BEM[]
+
+DWOK19
+CUT[Chodziłam se koło rzecki]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 56 od Daleszyc, Łagowa]
+FKT[]
+SIG[1916900000]
+KEY[19169   16  G 3/8]
+MEL[565_.4  334_2_  565_.4  331_2_
+    -5-71_.2  324_2_  465_.4  331_2_ //]
+BEM[]
+
+DWOK19
+CUT[Oj śpiewałaby ja se]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 56 od Kielc]
+FKT[]
+SIG[1917000000]
+KEY[19170   16  A 3/8]
+MEL[-5_-7_1_  3b3b2_4_  6b_4_5_  3b3b2_4_
+    2_-7_1_  3b45_5_  5_-7_1_  3b1-7_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Mój Jasieńku nie bijze ją]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 56 od Kielc, Chęcin]
+FKT[]
+SIG[1917100000]
+KEY[19171   32 Bb 3/8]
+MEL[-5_-7_2__4__  6_5_5__3__  -5_-7_2__3__  1_-6_-6__-4__
+    -5_-712__6__  6_5_5__3__  -5_-712__3__  1_-6_-6__-4__ //]
+BEM[]
+
+DWOK19
+CUT[O dla Boga desc idzie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 56 od Kielc, (Zagórze)]
+FKT[]
+SIG[1917200000]
+KEY[19172   16  G 3/8]
+MEL[334_3_  2_-7_1_  314_3_  2_-7_1_
+    334_3_  2_6_5_  354_3_  2_-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[Utonął zawiślacek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 57 od Kielc, (Masłów)]
+FKT[]
+SIG[1917300000]
+KEY[19173   16  A 3/8]
+MEL[1_2_3b_  443b_2_  1_-7_1_  1_-7_1_
+    112_3b_  443b_2_  1_-7_1_  1_-7_1_
+    1-7123b4  56b543b2  -5_-7_-5_  -5_-7_-5_
+    -5-51_3b_  243b_2_  1_-7_-5_  1_-7_-5_  5_-5_0_ //]
+BEM[]
+
+DWOK19
+CUT[Oj dzieci moje]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 57 od Kielc]
+FKT[]
+SIG[1917400000]
+KEY[19174   32  A 3/8]
+MEL[3b_.21__1_-7_  5__5__3b__  2_4_6b___  5__5__4__
+    3b_4_5__5__  1_-7_1__3b_3b_  2_-7_-5___  -5__-7__1__ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Mazur]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 57 od Kielc]
+FKT[]
+SIG[1917500000]
+KEY[19175   32  G 3/8]
+MEL[5__.6_5_3_  5__.6_5_3_  1__1_3_5__  1__1_3_5__
+    4__.7_6_5_  6__.7_6_5_  4_6_+1_7_+2_+1_  4_6_+1_7_+2_+1_
+    +1__7__6__  5_4_3__5__  5__4__2_-5_  1_.23_4_5__
+    +1__7__6__  5_4_3_2_3_5_  5_4_3_4_2_-5_  1_.23__1__
+    -5__.-7_2_4_  6_.53__5__  5_.42__4_3_  1_3_5_4_6_5_
+    -5__.-7_2_4_  6_.57__+1__  5_.42__4_3_  1_3_1__1__ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Mazur]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 58 od Kielc, Jędrzejowa]
+FKT[]
+SIG[1917600010]
+KEY[19176   32  C 3/8]
+MEL[5_.5+1__3__  5_.42__2__  5_6_7_+1_+2_7_  +1_+2_+3_7_+1__
+    5_.5+1__3__  5_.42__2__  5_6_7_+1_+2_7_  +1_+2_+3_7_+1_6_
+    +3__.+2_+1__  7__+2_+1_7__  +2_+3_+4_+2_7__  +1_7_+1_+3_+1__
+    +3__.+2_+1__  7_+1_+2_+1_7__  +2_+3_+4_+2_7__  +1_7_+1_+3_+6_+5_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-Mazur]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 58 od Kielc, Jędrzejowa]
+FKT[]
+SIG[1917600020]
+KEY[19176   16  G 3/8]
+MEL[135_+17  653-713  5_4-5-72  453_5_
+    -5-72_4_  653-713  5_4-5-72  453_1_ //]
+BEM[]
+
+DWOK19
+CUT[Grajcie no Wojciechu grajcie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 58 Kielce]
+FKT[]
+SIG[1917700000]
+KEY[19177   16  G 3/8]
+MEL[553_2-7  1-71_+1_  553_2-7  1_.234
+    553_2-7  1-71_+1_  553_2-7  1_.234
+    32-7_-7-5  1-71_4_  324_32  1_.-7-6-5
+    32-7_-7-5  1-71_4_  324_32  1_.-7-6-5 //]
+BEM[]
+
+DWOK19
+CUT[A kadyz to kady]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 58 od Kielc]
+FKT[]
+SIG[1917800000]
+KEY[19178   32  E 3/8]
+MEL[1_3_5__7b__  7b_6b54__5__  5_5_+1__.7b_  5_4_5___
+    1_3_5__7b__  7b_6b54__+1__  5_5_5__.3b_  2_3_1___ //]
+BEM[]
+
+DWOK19
+CUT[Jedno Be drugie Ka]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 58 Kielce]
+FKT[]
+SIG[1917900000]
+KEY[19179   16  F 3/8]
+MEL[3_5__  352_4_  135__  652_4_
+    3_5__  67+1_76  6_5__  352_4_
+    135__  67+1_76  655_5_  352_4_ //]
+BEM[]
+
+DWOK19
+CUT[Oj dalej chłopcy dalej]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 59 od Kielc, Chęcin]
+FKT[]
+SIG[1918000001]
+KEY[19180   16  C 3/8]
+MEL[5_+1_+3_  +5_+4#_+4#+6  +5+5+4#_+4#+6  +5_+4#_+4#+6  +5_+3__
+    +5_+2__  +3+1+3_+4_  +2_5__  +1_+5__
+    +5_+27+2+4  +3+1+3_+4_  +2+4+2_5_  7_+1__
+    5_7_+1_  67+1_6_  5_7_+1_  67+1_64 //]
+BEM[]
+
+DWOK19
+CUT[Oj dalej chłopcy dalej]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 59 od Kielc, Chęcin]
+FKT[]
+SIG[1918000002]
+KEY[19180   16  C 3/8]
+MEL[5_+1_+3_  +5_+4#_+4#+6  +5+5+4#_+4#+6  +5+5+4#_+4#+6  +5_+3__
+    +5_+2__  +3+1+3_+4_  +2_5__  +1_+5__
+    +5_+27+2+4  +3+1+3_+4_  +2+4+2_5_  7_+1__
+    5_7_+1_  67+1_6_  5_7_+1_  67+1_64 //]
+BEM[]
+
+DWOK19
+CUT[O jesce by ja jesce]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 59 od Kurozwęk]
+FKT[]
+SIG[1918100000]
+KEY[19181   16  C 3/8]
+MEL[5_+1_+3_  +2+2+3_+1_  5_+15+1+3  +2+2+3_+1_
+    55+1_+3_  +2+2+3_+5_  +4+4+3+1+3+5  +2+2+3_+1_ //]
+BEM[]
+
+DWOK19
+CUT[Dziękuję Ci matko moja]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 59 od Kielc, Chęcin]
+FKT[]
+SIG[1918200000]
+KEY[19182   16  G 3/8]
+MEL[3_5_64  35+1_6_  5_3__  -724_3_
+    3_5_64  351_3_  -6_-5__  -723_1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj dobrze temu dobrze]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 60 od Chęcin]
+FKT[]
+SIG[1918300000]
+KEY[19183   16  G 3/8]
+MEL[111_3_  5_4_2_  431_2_  -5_-7_1_
+    431_3_  5_4_2_  431_2_  -5_-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[Wyleciał gołąbek]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 60 od Chęcin]
+FKT[]
+SIG[1918400000]
+KEY[19184   16  G 3/8]
+MEL[-713_4_  5_2__  356_6_  5_4_.2
+    -713_4_  5_-5_.-7  144_3_  2_1__ //]
+BEM[]
+
+DWOK19
+CUT[Oj poćciwa dziewcyna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 60 od Sobkowa]
+FKT[]
+SIG[1918500000]
+KEY[19185   16  F 3/8]
+MEL[346_5_  3_4_6_  346_5_  5_1__
+    346_65  7b_7b_6_  7b64_5_  5_1__ //]
+BEM[]
+
+DWOK19
+CUT[Moja gorzalino]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 60 od Chmielnika]
+FKT[]
+SIG[1918600000]
+KEY[19186   16  G 3/8]
+MEL[-713__  5_5_4_  246__  5_5_4_
+    -713__  5_5_4_  2-71__  3_2_4_
+    2-71__  3_2_-5_  2-71__  3_2_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Za co mię ty Jasiu bijes]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 61 od Sobkowa, (Łukowa)]
+FKT[]
+SIG[1918700000]
+KEY[19187   16  C 3/8]
+MEL[+4+27_+2_  +4+27_+1_  642_4_  642_1_
+    646_+1_  757_+2_  +4+27_+2_  +4+27_5_
+    646_+1_  757_+2_  +4+27_+2_  +4+27_+1_ //]
+BEM[]
+
+DWOK19
+CUT[Znijwa Jasiu znijwa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 61 od Chmielnika]
+FKT[]
+SIG[1918800001]
+KEY[19188   32 Bb 3/8]
+MEL[5___4__  3_3_2__2__  1_1_-7__-7__  -6__-5___
+    -7_1_2__4__  3__2___  1_.12__-7__  -6__-5___ //]
+BEM[]
+
+DWOK19
+CUT[Znijwa Jasiu znijwa]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 61 od Chmielnika]
+FKT[]
+SIG[1918800002]
+KEY[19188   32 Bb 3/8]
+MEL[5___4__  3_3_2__2__  1_1_-7__-7__  -6__-5___
+    -7_1_2__4__  3__2__-7__  1_.12__-7__  -6__-5___ //]
+BEM[]
+
+DWOK19
+CUT[Kary konik kary kary]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 61 od Chmielnika, (Sędziejowice)]
+FKT[]
+SIG[1918900000]
+KEY[19189   16  C 3/8]
+MEL[57+1_+3_  +2+4+3_.+2  +2+16_4_  5_6__
+    57+1_+1_  +2+2+3__  +2+16_4_  5_6__ //]
+BEM[]
+
+DWOK19
+CUT[Ja do Kasie, niema Kasie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 62 od Chmielnika, Chęcin]
+FKT[]
+SIG[1919100000]
+KEY[19191   16  F 3/8]
+MEL[531_1_  456_.4  531_13  456_.4
+    57+1_+17  57+1_.6  57+1_+17  57+1_.6 //]
+BEM[]
+
+DWOK19
+CUT[A moja gospodyni]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 62 od Chmielnika, Sędziejowice]
+FKT[]
+SIG[1919200000]
+KEY[19192   16  C 3/8]
+MEL[+3_+1_+3_  +3+2+4_56  (57+2)+4_+3+4  +3+4+6_+5+4
+    +3_+1_+3_  +3+2+4_5_  7+2+4_+3_  +3+27_+1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj druzba ci ja druzba]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 62 od Chmielnika, (Sędziejowice)]
+FKT[]
+SIG[1919300000]
+KEY[19193   16  C 3/8]
+MEL[5_7_+1_  6+1+2_+27  5_7_.+1  642_2_
+    1_3_5_  246_6_  5_3_5_  642_2_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 62 od Pińczowa]
+FKT[]
+SIG[1919400000]
+KEY[19194   16  G 3/8]
+MEL[(567)+1_.4  54(357)+1_  57+1_.4  5432(123)
+    (567)4564  57+2+17+1  574564  5432(123) //]
+BEM[]
+
+DWOK19
+CUT[A od kogo to do kogo]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 62 od Chmielnika]
+FKT[]
+SIG[1919500000]
+KEY[19195   16  F 3/8]
+MEL[135_7_  +166_5_  57+1_7_  +166_5_
+    134_.3  422_5_  135_.3  422_1_ //]
+BEM[]
+
+DWOK19
+CUT[Wisi jabko wisi]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 63 od Pińczowa]
+FKT[]
+SIG[1919600000]
+KEY[19196   32  G 3/8]
+MEL[5___4_-7_  2_.45__3__  5___4_-7_  2_4_1__3__
+    3__2__-7__  2_.45__3__  3__2__-7__  2_4_1__3__ //]
+BEM[]
+
+DWOK19
+CUT[Ozeń ze się Jasiu]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 63 od Chmielnika]
+FKT[]
+SIG[1919700000]
+KEY[19197   16  G 3/8]
+MEL[5__35  4#65_.3  231_3_  2-71__
+    -5-71_2_  4#_5_.3  231_3_  2_-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[Pod Prosowicami]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 63 od Pińczowa]
+FKT[]
+SIG[1919800000]
+KEY[19198   16  F 3/8]
+MEL[+1__7+2  +165_6_  4_5_64  245_31
+    4_5_7_  +165_6_  4__6_  245_1_ //]
+BEM[]
+
+DWOK19
+CUT[O z góry woda idzie]
+REG[]
+TRD[DWOK19 Kieleckie 2 s. 63 od Chmielnika]
+FKT[]
+SIG[1919900000]
+KEY[19199   16  F 3/8]
+MEL[+1+17_5_  6_+1_6_  +1+17_5_  6_2_4_
+    357+175  6_2_4_  357_5_  6_2_4_ //]
+BEM[]
+
+DWOK19
+CUT[Jak pojedziesz w pole orać]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 64, od Daleszyc]
+FKT[]
+SIG[1920000000]
+KEY[19200   16  G 3/8]
+MEL[-5-71_3_  554#_2_  4#65_3_  554#_2_
+    24#5_-7_  221_-6_  -6-71_3_  22-7_-5_   //]
+BEM[zakodowac od D]
+
+DWOK19
+CUT[Cerwona capecka strusie piórko za nią]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 64, od Kurozwęk (Kotuszów, Jasień)]
+FKT[]
+SIG[1920100000]
+KEY[19201   16  G 3/8]
+MEL[135_5_  6_4__  3_1__  22-7_-5_
+    -5-71_1_  2_4__  3_1__  22-7_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Za stodołą za wujową]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 64, od Kurozwęk (Kotuszów)]
+FKT[]
+SIG[1920200000]
+KEY[19202   16  C 3/8]
+MEL[5_+1_+3_  +3+3+2_+1_  +5_+5_.+4#  +2+3+2_+1_
+    55+1_+4_  +3+3+2_+1_  5_+5_.+4#  +2+3+2_+1_ //]
+BEM[podane jest metrum 2/8 poprawiono na 3/8]
+
+DWOK19
+CUT[Ho! a za strugą wołśaski za strugą]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 64, od Szydłśowa. Pasterska]
+FKT[]
+SIG[1920300001]
+KEY[19203   16  A 3/8]
+MEL[5__.  3b56_4#_  5_5_4#_  2-71__
+    3b3b2_4_  2-71__  5_4#__  2-71__ //]
+BEM[]
+
+DWOK19
+CUT[Ho! a za strugą wołśaski za strugą]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 64, od Szydłśowa. Pasterska]
+FKT[]
+SIG[1920300002]
+KEY[19203   16  A 3/8]
+MEL[5__.  3b56_4#_  5_5_4#_  2-71__
+    3b3b2_4_  2-71_(234#)  (565)4#__  2-71__ //]
+BEM[]
+
+DWOK19
+CUT[A ino ja z bata trzasnę]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 65, od Szydłśowa. Pasterska]
+FKT[]
+SIG[1920400000]
+KEY[19204   32  C 3/8]
+MEL[5_7_+1__+3_+4_  +3_.+3+2_7_+1__  (+2_+3_+4#_)+5__+4#_+2_  +3__+2_7_+1__
+    (5_6_7_)+1__+3_+4_  +3_.+3(+2_+1_7_)+1__  (+2_+3_+4#_)+5__+4#_+2_  +3_.+3+2_+1_7_+1_
+    +5__.+6_+5_+4#_  +5__.+6_+5_+4#_  +5_.+4#+5_+6_+5_+4#_  +5_.+4#+5_+6_+5_+4#_
+    +5_.+4#+5_+6_+5_+2_  +3_.+3+2_+1_7_+1_  +3_+5_+1__+3_+2_  +3_.+3+2_+1_7_+1_
+    +2+3+4#+5+1__+3_+1_  +3_.+3+2_+1_7_+1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj zalecaśłem ci sie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 65, od Chmielnika]
+FKT[]
+SIG[1920500000]
+KEY[19205   32  G 3/8]
+MEL[5__5__3__  5_.42_4_3__  5__1__3__  5_.42_3_1__
+    -5__1__3__  5_.42_4_6_5_  -5__1__3__  5_.42_3_1__ //]
+BEM[]
+
+DWOK19
+CUT[Tego roku tej jesieni]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 65, od Chmielnika, Pinczowa]
+FKT[]
+SIG[1920600000]
+KEY[19206   16 Bb 3/8]
+MEL[3_1_3_  432654  3_1_23  42-721_
+    2_-7_2_  1-6-5-72_  2_-7_2-7  1-6-4#-6-5_ //]
+BEM[]
+
+DWOK19
+CUT[Sumiałś gaj, sumiałś gaj]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 65, od Oleśśnicy (Sichów m.)]
+FKT[]
+SIG[1920700000]
+KEY[19207   32  A 3/8]
+MEL[2_4_5___  2__4__6__  56545___  2__4__4__  5_3b21__1__  2__-6-7_.-6-7_.
+    2_4_1___  23b_.21_.-6-7_.  2_4_1___  2__-6-7_.-6-7_.
+    2_4_-5___  23b_.21_.-6-7_.  2_4_1__1__  2__-6-7_.-6-7_. //]
+BEM[]
+
+DWOK19
+CUT[Za wołśami-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 66, od Chmielnika (Sędziejowice)]
+FKT[]
+SIG[1920800000]
+KEY[19208   32  G 3/8]
+MEL[1_.33_2_-7_-5_  1_.32__-7__  1234#5__1__  321-71___  1_34#5__1__  2_-7_1___
+    1_3_5__5__  5_321__3__  2_-7_1___  1_3_5__5__  5_321__3__  2_-7_1___
+    4#_5_6_5_3_2_  4#_5_6_5_3_2_  1__2_-7_1__  2_-7_1___  1_3_2_3_1_3_  2_-7_1___ //]
+BEM[]
+
+DWOK19
+CUT[Cyja grobla tego staw]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 66, od Pierzchnicy]
+FKT[]
+SIG[1920900000]
+KEY[19209   16  G 3/8]
+MEL[134_6_  5_5_4#_  654_5_  2_1_-7_
+    134_5_  2_1_2_  324_1_  2_1_-7_ //]
+BEM[]
+
+DWOK19
+CUT[Oj posśłam do ogrodu]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 66, od Daleszyc]
+FKT[]
+SIG[1921000000]
+KEY[19210   32  F 3/8]
+MEL[5__6__4__  3_.12__-7__  1__2__4__  3_.12__-7__
+    1__2__4__  3_.56__4__  3__2__4__  3_.12__-7__ //]
+BEM[]
+
+DWOK19
+CUT[A dałśaśś mnie dałśa za to pijacysko]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 67, od Staszowa (Oględów)]
+FKT[]
+SIG[1921100000]
+KEY[19211   16  G 3/8]
+MEL[(-5-6-7)2_4_  4_6_5_  542_(2-72)  (432)1__
+    -5-72_-72  (432)1_35  5_2_-72  421__ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 67, od Szydłśowca (Tuczepy)]
+FKT[]
+SIG[1921200000]
+KEY[19212   16  C 3/8]
+MEL[57+1_+2+4  +5+2+4_+6_  +5+2+4_+6_
+    +2+4+6__  +5+2+4_+6_  +2+4+6__  +5+2+4_+6_
+    5_.7+27  +1_6_+27  5_.7+27  +16465_
+    5_.7+27  +1646+27  5_.7+27  +16465_ //]
+BEM[]
+
+DWOK19
+CUT[Oj da wcora i z wiecora]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 67, od Oleśśnicy (Siechów małśy)]
+FKT[]
+SIG[1921300000]
+KEY[19213   16  G 3/8]
+MEL[352__  43-7_1_  352_.3  446_5_
+    357__  6#6#765_  357_.+1  6#6#7_5_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna-pasterska]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 67, od Oleśśnicy (Siechów m.). Pasterska]
+FKT[]
+SIG[1921400000]
+KEY[19214   16  C 3/8]
+MEL[+5__.  +5__+5_  +6+5+4#_+5_  +6+5+4#_+2_
+    +2+5+4#+5+37  +1+3+4_+2_  +2+5+4#+5+37  +1+3+4_+2_
+    +275_7_  +1+3+4_+6_  +275_67  +1+3+4_+2_
+    +275675  +1+3+4_+6_  +275_67  +1+3+4_+2_ //]
+BEM[]
+
+DWOK19
+CUT[Nie będę ja roli oraśł-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 68, Kurozwęki, Raków. Pasterska]
+FKT[]
+SIG[1921500010]
+KEY[19215   16  C 3/8]
+MEL[+5__.  +2+4+6_+5_  +2+4+6_+5_  +2+4+6_+5_  +4+4+3_+1_  +4_+27+1_ //]
+BEM[]
+
+DWOK19
+CUT[Nie będę ja roli orałś]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 68, Kurozwęki, Raków, Pasterska]
+FKT[]
+SIG[1921500020]
+KEY[19215   16  C 3/8]
+MEL[+1+2+3_+3+2  +3+2+1_+2+3  +4_+2+17_
+    57+1_+17  +16646+1  7+2^_76
+    57+1_+17  +164_6+1  7+2^_5_ //]
+BEM[]
+
+DWOK19
+CUT[A nad stokiem, moje wołśy-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 68, od Kurozwęk, Szydłśowa. Pasterska]
+FKT[]
+SIG[1921600010]
+KEY[19216   32  C 3/8]
+MEL[+5___.  +4#_+5_+6__+5__  +4_+2_+3b__+5__  +4#_+5_+6__+5__  +4_+2_+3b__+5__
+    +4__+3b_+2_+1__  7_+1_+3b__+5__  +4_+2+1+2__+5__  +4_+2_+1_+3b_+5__  +4__+3b_+2_+1__ //]
+BEM[]
+
+DWOK19
+CUT[A nad stokiem, moje wołśy]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 68, od Kurozwęk, Szydłśowa. Pasterska]
+FKT[]
+SIG[1921600020]
+KEY[19216   32  C 3/8]
+MEL[+1_+2_+3__+3_+2_  +3_+1_+3__+5__  +4__+2__7__
+    5_67+1__+1__  +1_+1_6__4__  5__7__+2__
+    +1_+2_+3__+3_+2_  +3_+1_+3__+5__  +4__+2__7__
+    5_67+1__+1_7_  +1_+1_6__4__  5__7__+2__ //]
+BEM[]
+
+DWOK19
+CUT[Owczarska-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 68, od Kurozwęk (Jasień)]
+FKT[]
+SIG[1921700010]
+KEY[19217   16  C 3/8]
+MEL[(567)+1_+2+4  (+3+4+6)+5_+2+4  (+3+4+6)+5_+2+4  (+3+4+6)+5_+5_
+    (567)+1_+4+3  (+2+17)6_+2_  (567)+1_+4+3  (+2+17)6_4_
+    (567)+1_+4+3  (+2+17)6_+2_  (567)+1_+4+3  (+2+17)6_4_ //]
+BEM[]
+
+DWOK19
+CUT[Owczarska-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 68, od Kurozwęk (Jasień)]
+FKT[]
+SIG[1921700020]
+KEY[19217   16  F 3/8]
+MEL[243_31  (124)3_3_  241_31  (124)3_3_ //]
+BEM[]
+
+DWOK19
+CUT[W sieni obarek matulu]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 69, od Pińczowa. Owczarska]
+FKT[]
+SIG[1921800000]
+KEY[19218   16  C 3/8]
+MEL[57+1_+2_  +2+4+3_5_  7+2+1_6_  467_5_
+    57+1_+2_  +4+4+3_5_  7+2+1_6_  467_5_ //]
+BEM[]
+
+DWOK19
+CUT[Poco ześś ty wołśki przygnałś]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 69, od Kurozwęk, Chmielnika]
+FKT[]
+SIG[1921900000]
+KEY[19219   32  G 3/8]
+MEL[1_3_5__6__  5_4#_2__5__  1_3_5__6__  5_4#_2_4#_5_3_
+    1_.31_3_1_3_  5_4#_2_4_3_-5_  1_.31__3__  5_4#_2_4_3_-5_
+    1_3_-5___  5__2__4_3_  1__-5___  -6_-5_-6_-7_1__
+    1_3_-5__-5__  1_3_2_4_3__  1_-7_-5__1__  -6_-5_-6_-7_1__ //]
+BEM[metrum powinno być na 3/8]
+
+DWOK19
+CUT[Seroko wysoko]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 69, od Kurozwęk (Kotuszów)]
+FKT[]
+SIG[1922000000]
+KEY[19220   32  G 3/8]
+MEL[1_3_5_6_5_4#_  5__.6_5_3_  1_3_2__4_3_  3_3_2__-5__
+    1_3_2__3__  2_431__3__  1_3_2__4_3_  1_3_2__-5__ //]
+BEM[]
+
+DWOK19
+CUT[Jaki tez to cas nastaje]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 69, od Chmielnika]
+FKT[]
+SIG[1922100000]
+KEY[19221   16 Bb 3/8]
+MEL[332_1_  -712_4_  332_1_  -6-71_-5_
+    3_4_2_  1-72_4_  3_2_-7_  1-71_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Kazałśa mi matka]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 70, od Kielc]
+FKT[]
+SIG[1922200000]
+KEY[19222   32  G 3/8]
+MEL[3__5__3__  -7_2_4__2__  3__5__.4_  5_6_4__2__
+    5_4#_5__3_1_  -7_2_4__6__  3_.4#5__3__  -7_2_4__2__ //]
+BEM[]
+
+DWOK19
+CUT[Oj zajęto, zajęto]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 70, od Chmielnika (Sędziejowice)]
+FKT[]
+SIG[1922300001]
+KEY[19223   32  G 3/8]
+MEL[1_2_3__4__  5__6__5__  4_6_5__3__  5__2__1__
+    3__3__5__  1__3__2__  3_.23_4_5__  1__2__1__ //]
+BEM[]
+
+DWOK19
+CUT[Oj zajęto, zajęto]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 70, od Chmielnika (Sędziejowice)]
+FKT[]
+SIG[1922300002]
+KEY[19223   32  G 3/8]
+MEL[1_2_3__4__  5__6__5__  4_6_5__3__  5__2__1__
+    13_.34_.5__  1__3__2__  3_.23_4_5__  1__2__1__ //]
+BEM[]
+
+DWOK19
+CUT[Z karcmy idę sfrasowany]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 70, od Szydłśowa]
+FKT[]
+SIG[1922400000]
+KEY[19224   32  G 3/8]
+MEL[3_1_3__5__  7__+1__6_4_  3_1_3__4__  6_564__6_4_
+    5_7_+2__+1__  6_564__2_4_  5_7_+2__+1__  7__+1__6_4_ //]
+BEM[]
+
+DWOK19
+CUT[A mój Boze co za umyśśl]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 70, od Szydłśowa]
+FKT[]
+SIG[1922500000]
+KEY[19225   16 Bb 3/8]
+MEL[24#5_-7_  132_1_  24#5_-7_  13235_
+    245__  32-7_23  1__-7_  22-7-6-5_ //]
+BEM[]
+
+DWOK19
+CUT[Na zielonej łśące trawka się kołśyse]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 71, od Chmielnika (Sędziejowice)]
+FKT[]
+SIG[1922600000]
+KEY[19226   16  G 3/8]
+MEL[113_5_  4_3__  132_2_  1_-5__
+    -5_-7_2_  1_3_.2  31-7_2_  1_-5__
+    113_5_  453_.2  132_2_  1_-5__
+    1-5-7_2_  143_.2  31-7_2_  1_-5__ //]
+BEM[]
+
+DWOK19
+CUT[Oj dyna moja dyna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 71, od Chmielnika (Sędziejowice)]
+FKT[]
+SIG[1922700000]
+KEY[19227   16  G 3/8]
+MEL[135_54#  2__4#_  535_54#  2__-7_
+    131_1-7  -5_-7_2_  1_1_-7_  -5__-5_ //]
+BEM[]
+
+DWOK19
+CUT[Jak'em ja byłś pod Skalmirzem]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 71, od Staszowa (Oględów)]
+FKT[]
+SIG[1922800000]
+KEY[19228   16  C 3/8]
+MEL[57+1_+3_  +5_+5_+4+2  +4+4+3_+5+1  +2_+2_75
+    57+1_+3_  +2_+4_+2_  +2+4+3_+1_  7_+2_5_ //]
+BEM[w pierwszym takcie zapis trzy szesnastki i ósemka, zapisano poprawnie]
+
+DWOK19
+CUT[Niewola byłśa Jadwidze]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 72, od Pierzchnicy]
+FKT[]
+SIG[1923000000]
+KEY[19230   16 Bb 3/8]
+MEL[-5_-7_2_  4__2_  4_6_.5  -5_-7_2_  4__2_  1_3_1_ //]
+BEM[]
+
+DWOK19
+CUT[Kajześś wianek podziałśa?]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 72, od Staszowa]
+FKT[]
+SIG[1923100000]
+KEY[19231   16 Bb 3/8]
+MEL[135_4_  6_5_2_  465_.4  3_-5_-7_
+    132_4_  3_5_2_  135_.4  3_-5_-7_ //]
+BEM[]
+
+DWOK19
+CUT[Kukuśłecka kuka, w lesie na drzewinie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 72, od Staszowa (Oględów)]
+FKT[]
+SIG[1923200000]
+KEY[19232   16  G 3/8]
+MEL[246434  5_2_3_  246434  5_321_
+    245_-7_  1_243_  245_-7_  1_3_1_ //]
+BEM[]
+
+DWOK19
+CUT[Da juz to siódmy rok]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 72-73, od Staszowa, Kurozwęk]
+FKT[]
+SIG[1923300000]
+KEY[19233   16  G 3/8]
+MEL[123_4_  5_5_4#_  5_5_4#_  54#5__  2_1_-7_
+    126_.2  3_2_4_  125__  3_1_-7_
+    126_.2  3_2_4_  125_2_  3_1_-7_ //]
+BEM[]
+
+DWOK19
+CUT[Oj u mnie wsyćkie myśśli]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 73, od Pacanowa (Zborów)]
+FKT[]
+SIG[1923400000]
+KEY[19234   16  C 3/8]
+MEL[576_5_  7+2+4_+4_  (+1+3+4)+5_+5_  (+6+5+4)+2__
+    576_5_  7+2+1_+1_  57+1_+2_  +4+2+1__ //]
+BEM[]
+
+DWOK19
+CUT[Oj pomaluśśku smycek]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 73, od Pacanowa (Beszowa)]
+FKT[]
+SIG[1923500000]
+KEY[19235   16  G 3/8]
+MEL[-5-71_5_  4_5_2_  213_5_  4_1_2_  465_4_  132__
+    -5-71_2_  421_2_  -5-71_2_  (432)1_2_
+    465_4_  1_312_  465_42  132__ //]
+BEM[Wariant w takcie piątym zapisu nutowego 465_42]
+
+DWOK19
+CUT[Oj kazali mi iśść]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 74, od Staszowa (Oględów)]
+FKT[]
+SIG[1923600000]
+KEY[19236   16  G 3/8]
+MEL[24#5_.3  2-71__  24#5_.3  2-71__
+    2_4_1_  24341_  24#5_.3  2-71__ //]
+BEM[]
+
+DWOK19
+CUT[Oj łśazę ja da i łśazę]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 74, od Pacanowa]
+FKT[]
+SIG[1923700000]
+KEY[19237   16  C 3/8]
+MEL[+1_+2_+1+3  +2_7_+27  +1_+2_+1+3  +2+17_+1_
+    +1_+2_+1+3  +2757+27  +1_+2_+1+3  +2+17_+15 //]
+BEM[]
+
+DWOK19
+CUT[Oj dana moja dana]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 74, od Pacanowa (Zborów)]
+FKT[]
+SIG[1923800000]
+KEY[19238   16 Bb 3/8]
+MEL[355_6_  4_2-7-5_  131_31  4_2-7-5_
+    131_35  246_6_  531353  4_2-7-5_ //]
+BEM[]
+
+DWOK19
+CUT[Owczarek-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 75, od Oleśnicy (Sichów małśy). Owczarek]
+FKT[]
+SIG[1923900001]
+KEY[19239   32  C 3/8]
+MEL[+5___.  +3_+4#_+5__+6__  +4#__+5__+6__  +5_+4#_+2___  +1_.+3+5_+4#_+2__
+    (5_6_7_)+1__+2_+1_  +3_+1_+2_+5_+2_+1_  +3_+5_+4#_+5_+2_+4_  +3_+1_+2__.+1_
+    +3_+5_+4#_+5_+2_+1_  +3_+1_+2_+5_+2_+1_  +3_+5_+4#_+5_+2_+4_  +3_+1_+2__.+1_ //]
+BEM[]
+
+DWOK19
+CUT[Owczarek-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 75, od Oleśśnicy (Sichów maśły). Owczarek]
+FKT[]
+SIG[1923900002]
+KEY[19239   32  C 3/8]
+MEL[+5___.  +3_+4#_+5__+6__  +4#__+5_+4#_+5_+6_  +5_+4#_+2___  +1_.+3+5_+4#_+2__  +5_+4#_+2___
+    +1_+3_+5_+4#_+2_7_  (5_6_7_)+1__+2_+1_  +3__+5__+2_+4_  +3_+1_+2_+5_+2_+1_  +3_+5_+4#_+5_+2_+4_
+    +3_+1_+2__.+1_  +3_+5_+4#_+5_+2_+1_  +3_+5_+6_+5_+2_+1_  +3_+5_+4#_+5_+2_+4_  +3_+3_+2__.+1_ //]
+BEM[]
+
+DWOK19
+CUT[Owczarek-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 75, od Oleśśnicy(Sichów duży)]
+FKT[]
+SIG[1924000000]
+KEY[19240   16  A 3/8]
+MEL[5__5_  243b_24#  5_(3b2-7)1_
+    24(3b2-7)1_  243b_24#  5_(3b2-7)1_
+    (-5-6-7)1_2_  254#52_  254#52_  (-5-6-7)1_2_  24#5_.4#  23b2-71_
+    (-5-6-7)1_2_  254#52_  254#52_  (-5-6-7)1_3b_  24#5_.4#  23b2-71_ //]
+BEM[]
+
+DWOK19
+CUT[A ide ja ide bez puste pole]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 75, od Oleśśnicy]
+FKT[]
+SIG[1924100000]
+KEY[19241   16  C 3/8]
+MEL[+1+2+3__  +2+4+1__  +2+4+3_.+2  +5_+1__
+    +1+2+3__  +2+4+1__  +2+4+3_.+2  +5_+1__ //]
+BEM[]
+
+DWOK19
+CUT[Oj bodaj cie chłśopaku]
+REG[]
+TRD[DWOK19, Kieleckie 2. s. 75, od Oleśśnicy (Sichów d.)]
+FKT[]
+SIG[1924300000]
+KEY[19243   16  G 3/8]
+MEL[232_4#_  565_.4#  232_4#_  565_.4#
+    232_4#_  124_1_  232_4#_  124_1_ //]
+BEM[]
+
+DWOK19
+CUT[Kajześś wtencas byłśa]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 76, od Stopnicy]
+FKT[]
+SIG[1924400010]
+KEY[19244   32  C 3/8]
+MEL[+4__+2___  +3_+1_+2_7_5__  4__5__7__  +1_+3_+5_+4_+6__
+    +4__+2__+4__  +3_+1_+2_765__  4__5__6_7_  +1_+3_+2_7_+1__ //]
+BEM[]
+
+DWOK19
+CUT[Kajześś wtencas byłśa-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 76, od Stopnicy]
+FKT[]
+SIG[1924400020]
+KEY[19244   32  C 3/8]
+MEL[+4__+2_+4_+3_+1_  +2_(765)4__(5_6_7_)  +1_+3_+2_+1_7_+1_
+    +4__+2_+4_+3_+1_  +2_(765)4__(5_6_7_)  +1_+3_+5_+4_+6__ //]
+BEM[]
+
+DWOK19
+CUT[A bieda nam Mazury]
+REG[]
+TRD[DWOK19, Kieleckie 2. s. 76, od Stopnicy (Solec)]
+FKT[]
+SIG[1924500000]
+KEY[19245   16  C 3/8]
+MEL[+1+2+3_+3_  +4_+4_+5+4  +3+2+1_+1_  +4_+4_+5+4
+    +3_+5_+3+1  7_+2_7_  575_67  +1_+1+2+3_
+    +1+2+3_+3_  +3+4+3+4+5+4  +3+5+3_+1_  +3+4+3+4+5+4
+    (+3+2+3)+5_+3+1  (767)+2_+2_  +275_67  +1_+1_+1_ //]
+BEM[]
+
+DWOK19
+CUT[Zeby się zrównaśły doliny z górami]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 76, od Stopnicy (Solec)]
+FKT[]
+SIG[1924600000]
+KEY[19246   16  A 3/8]
+MEL[(-5-6-7)1_2_  3b22__  (4#55)5_.2  (3b2-7)1__
+    -5-71_3b_  2_-7_1_  241_3b_  21-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[Po ćtery po ćtery za Jasiem chodziłśy]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 77, od Szydśłowa (Tuczępy)]
+FKT[]
+SIG[1924700011]
+KEY[19247   16  A 3/8]
+MEL[13b5_5_  4_2__  421_3b_  1_2__
+    -5-72_2_  13b5__  42-7242  1_2__
+    (-5-6-7)2_2_  13b5__  (542)-72(43b2)  1_2__ //]
+BEM[]
+
+DWOK19
+CUT[Po ćtery po ćtery za Jasiem chodziśły]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 77, od Szydłśowa (Tuczępy)]
+FKT[]
+SIG[1924700012]
+KEY[19247   16  A 3/8]
+MEL[3b_5_5_  4_2_-72  (43b2)1_3b_  1_2__
+    -5-72_2_  13b5__  42-7242  1_2__
+    (-5-6-7)2_2_  13b5__  (542)-72(43b2)  1_2__ //]
+BEM[]
+
+DWOK19
+CUT[Po ćtery po ćtery za Jasiem chodziłśy-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 77, od Szydśowa (Tuczępy)]
+FKT[]
+SIG[1924700020]
+KEY[19247   16  A 3/8]
+MEL[2_-724#2  12-7241  12-724#2  62-7241 //]
+BEM[]
+
+DWOK19
+CUT[W Warsawie na Pradze, w Toruniu na błśoniu]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 77, od Buska]
+FKT[]
+SIG[1924800010]
+KEY[19248   16  G 3/8]
+MEL[1_1_3_  544_2_  4_1_3_  1-6-7_2_
+    -5_1_3_  324_2_  4_1_3_  1-6-7_2_ //]
+BEM[]
+
+DWOK19
+CUT[W Warsawie na Pradze, w Toruniu na bśłoniu-Instrumentalne]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 77, od Buska]
+FKT[]
+SIG[1924800020]
+KEY[19248   16  G 3/8]
+MEL[-5_3__  243_2_  1_3__  2-7-6_1_ //]
+BEM[]
+
+DWOK19
+CUT[Pojąn'eśś mnie, sanuj ze mnie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 78, od Wodzisśławia]
+FKT[]
+SIG[1925000000]
+KEY[19250   16  C 3/8]
+MEL[+3+3+2_7_  +1+3+4__  +3+3+2_+2_  +1+3+4_+4_
+    +3+3+2_+5_  +1+1675_  +1_675_  6+1675_ //]
+BEM[]
+
+DWOK19
+CUT[A Janie mój Janie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 78, od Stopnicy (Solec. Zborów)]
+FKT[]
+SIG[1925100000]
+KEY[19251   32  G 3/8]
+MEL[5___5__  5_5_6__6__  4__3__1__  2_.23__1__
+    4_4_3__1__  2_2_3__5__  4__3__1__  2_2_3__1__ //]
+BEM[]
+
+DWOK19
+CUT[Moja matko wydaj za mąz]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 78, od Wiśślicy]
+FKT[]
+SIG[1925200000]
+KEY[19252   16  C 3/8]
+MEL[+5+6+4_+2_  +4+4+3_5_  +1+17_+2_  7+16_5_
+    7+16_5_  7+16_5_  7+1+2+3+4+3  7+16_5_ //]
+BEM[]
+
+DWOK19
+CUT[Oj darmo Jasiu jedzies]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 79, od Wiśślicy (Kuchary)]
+FKT[]
+SIG[1925500000]
+KEY[19255   16  G 3/8]
+MEL[135_4_  3_2_5_  43-5__  -7_1_2_
+    135_4_  3_2_65  43-5__  -7_1_21 //]
+BEM[]
+
+DWOK19
+CUT[Nie darmo, nie darmo-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 79, od Wiśślicy (Chotel ziel.)]
+FKT[]
+SIG[1925600020]
+KEY[19256   16  C 3/8]
+MEL[5_+1__  6+17_7+2  5_+1__  6+17_75  6+17+275  6+17+275 //]
+BEM[]
+
+DWOK19
+CUT[Ojze ino dana dyna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 79, od Wiśślicy]
+FKT[]
+SIG[1925700000]
+KEY[19257   16  A 3/8]
+MEL[-5-72_4_  3b21__  2_2_-7_  -6-4-6_-5_
+    -5-72_4_  3b21_3b_  2_2_-7_  -6-4-6_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Gospodarz sie zaturbowałś]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 80, od Buska]
+FKT[]
+SIG[1925800000]
+KEY[19258   16  G 3/8]
+MEL[556_2_  443_5_  556_2_  443_-5_
+    -7-51_-6_  -4-61-7-5_  -7-51_-6_  -4-61-72_ //]
+BEM[]
+
+DWOK19
+CUT[Hulaj Jasiu, hulaj, hulaj]
+REG[]
+TRD[DWOK19, Kieleceki 2, s. 80, od Koszyc]
+FKT[]
+SIG[1926000000]
+KEY[19260   16  G 3/8]
+MEL[-5-71_3_  465_.-5  -5-71243  223_-5_
+    -7_1_3_  425_.-5  -5-71243  (2-72)3_1_ //]
+BEM[]
+
+DWOK19
+CUT[Gospodarz-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 80, od Koszyc (Wśłostowice). Taniec]
+FKT[]
+SIG[1926100000]
+KEY[19261   32  G 3/8]
+MEL[-5_-7_2_3_4__  3__2__-7_-5_  1_3_5___  3_1_2__-7_-5_  2_2_1___
+    -5_-7_2_3_4__  3_1_2__-7_-5_  1_345___  3_1_2__-7_-5_  2_2_1___
+    -5_-7_2_346__  5_3_5__4_2_  4__3_1_4_2_  -7_2_1___
+    -5_-7_2_346__  5_3_5_6_4_2_  4_5_3_1_3_4_  2_2_1___
+    3__2___  -7_-5_2_2_1__  3_1_2__-7_-5_  2_2_1___
+    3_1_2___  -7_-5_2_2_1__  3_1_2__-7_-5_  2_2_1___ //]
+BEM[]
+
+DWOK19
+CUT[Na wojenkę nie pojadę]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 81, od Koszyc]
+FKT[]
+SIG[1926200000]
+KEY[19262   16  C 3/8]
+MEL[5_7_+2_  +1+1+3_+17  557_+2_  +1+16_+17
+    557_+2_  +1+1+3_+5_  +5+5+6_+4+3  +1+1+3_+17 //]
+BEM[]
+
+DWOK19
+CUT[Pijes pijes pijanico!]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 81, od Koszyc]
+FKT[]
+SIG[1926300000]
+KEY[19263   32  G 3/8]
+MEL[1__1__3_3_  4_6_6__6__  567+15__3__  2__(2_3_4_)2_-7_
+    1__1__3_1_  -7_2_4__2_-7_  1__1__3_1_  -7_2_3_4_2_-7_ //]
+BEM[]
+
+DWOK19
+CUT[Żebyśście mi wódki dali]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 81, od Działśoszyc]
+FKT[]
+SIG[1926400000]
+KEY[19264   16  F 3/8]
+MEL[355_+1_  +164_3_  5_5_1_  1-72_4_
+    3_5_.1  -724_4_  6_5_.1  -722_4_
+    355_+1_  +16433_  655_31  1-7244_
+    335_.1  -724_4_  655_.1  -724_4_ //]
+BEM[]
+
+DWOK19
+CUT[A poszśłam za starego]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 81, od Szkalmierza (Ziemblice)]
+FKT[]
+SIG[1926500000]
+KEY[19265   16 Bb 3/8]
+MEL[-5-72_4_  3_5_6_  542_-7_  -6_1_-5_
+    -5-72_4_  3_1_4_  42-7_-5_  -6_1_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Dworecek z descułśek]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 82, od Szkalmierza]
+FKT[]
+SIG[1926600010]
+KEY[19266   16  F 3/8]
+MEL[+1_+1_6_  7+2+1_6_  7+2+1_7_  6_3__
+    1_3_5_  224_6_  +1+17_5_  6_3__ //]
+BEM[]
+
+DWOK19
+CUT[Dworecek z descułśek-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 82, od Szkalmierza]
+FKT[]
+SIG[1926600020]
+KEY[19266   32  F 3/8]
+MEL[2_3_4_3_6_4_  346_5__1__  2_4_6__5__  4_6_5__3__ //]
+BEM[]
+
+DWOK19
+CUT[Pije hultaj pije w karcmie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 82, od Szkalmierza (Charzewice)]
+FKT[]
+SIG[1926700000]
+KEY[19267   16  G 3/8]
+MEL[5__5_  565_4_  321_35  421__
+    -5_3_3_  234_4_  321_35  421__ //]
+BEM[]
+
+DWOK19
+CUT[Wędrowałśa dziewcyna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 83, od Szkalmierza]
+FKT[]
+SIG[1926800000]
+KEY[19268   16  G 3/8]
+MEL[4_4_2_  531_-5_  4_42-7-5  132__
+    4_4_6_  53135_  4_42-7-5  135__ //]
+BEM[]
+
+DWOK19
+CUT[Nie będę ja siecki rzezałś]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 83, od Koszyc]
+FKT[]
+SIG[1926900000]
+KEY[19269   32  G 3/8]
+MEL[-5_-7_1__1__  2_4_2__2__  6__5__1_3_  3_542__-7_-5_
+    -5__-7_1_2_1_  3_4_2__-7__  2_3_1__3__  3_542__-7__
+    5__3__1__  (^_-7_2_)4__6__  5__3__1__  3_542__-7_-5_
+    5__3__1__  (^_-7_2_)4__6__  5_5_3__1__  3_542__-7_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Leci konik drogą]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 83, od Szkalmierza]
+FKT[]
+SIG[1927000010]
+KEY[19270   16  G 3/8]
+MEL[135_.3  1_1_1_  -724__  -5_-5_-5_
+    135_.3  1_1_6_  644_2_  -722_1_ //]
+BEM[]
+
+DWOK19
+CUT[Leci konik drogą-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, 2. 83, od Szkalmierza]
+FKT[]
+SIG[1927000020]
+KEY[19270   16  G 3/8]
+MEL[35465_  35465_  2-7234_  3-72-71_
+    35465_  35465_  2-7234_  3-72-71_ //]
+BEM[]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 84, Wiśślica]
+FKT[]
+SIG[1927100000]
+KEY[19271   32  C 3/8]
+MEL[5_7_+1__+1_7_  +1_.5+1__+3__  +2__.+1_7_6_  5_7_6_7_+2__
+    5_7_+1__+1_7_  +1_.5+1__+3__  +2__.+1_7_6_  5_7_6_7_5__
+    +1_+3_+5__.+3_  +5_+3_+2_+3_+5__  +6__+4__.+2_  +4_+2_7__+2__
+    +1_+3_+5__.+3_  +5_+3_+1__+3__  +2__.+1_7_6_  5_7_6_7_5__ //]
+BEM[]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 84, od Wiśślicy, Szkalmierza]
+FKT[]
+SIG[1927200001]
+KEY[19272   32  G 3/8]
+MEL[1___3__  2__-7__-5__  1__.-5_1_3_  2_-7_-5_-7_-5__
+    1___3__  2__-7__2__  1__.3_5_3_  2_-7_-5_-7_-5__
+    1_3_5__.3_  4_6_+1__+1__  5__.3_1_3_  5_4_-5_-7_-5__
+    1_3_5__.3_  4_6_+1__+1__  5__.3_1_3_  5_4_2_-7_-5__
+    -5__3___  -7_2_4__6__  5__4#5_.35_.  45_.2_-7_1__ //]
+BEM[W takcie ósmym zapisu są łśącznie 4 ósemki zamiast trzech. Zamieniono dwie pierwsze ósemki na dwie szesnastki]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 84, od Wiśślicy, Szkalmierza]
+FKT[]
+SIG[1927200002]
+KEY[19272   32  G 3/8]
+MEL[1___3__  2__-7__-5__  1__.-5_1_3_  2_-7_-5_-7_-5__
+    1___3__  2__-7__2__  1__.3_5_3_  2_-7_-5_-7_-5__
+    1_3_5__.3_  4_6_+1__+1__  5__.3_1_3_  5_4_-5_-7_-5__
+    1_3_5__.3_  4_6_+1__+1__  5__.3_1_3_  5_4_2_-7_-5__
+    -5_1_3__2_1_  -7_2_6__6__  5__4#5_.35_.  45_.2_-7_1__ //]
+BEM[W takcie ósmym zapisu są łśącznie 4 ósemki zamiast trzech. Zamieniono dwie pierwsze ósemki na dwie szesnastki]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 84, od Słśomnik (Goszcza, Niedźwiedź)]
+FKT[]
+SIG[1927300000]
+KEY[19273   16  F 3/8]
+MEL[5__+17  6567+16  5__+1_  644_2_
+    5__+13  244_6_  5_.331  422_1_ //]
+BEM[]
+
+DWOK19
+CUT[Pole moje pole]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 84, od Proszowic]
+FKT[]
+SIG[1927400000]
+KEY[19274   16  G 3/8]
+MEL[365_4_  3_1__  132_1_  -7_-5__
+    1_3_3_  (135)+1_5_  4_654_  (467b)+1_5_ //]
+BEM[]
+
+DWOK19
+CUT[Poborowscy parobcy]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 85, od Proszowic (Zębocin)]
+FKT[]
+SIG[1927500000]
+KEY[19275   16  G 3/8]
+MEL[135_54#  654_32  354_3_  3_2__
+    132_-7-5  134_31  324_3_  1_-5__ //]
+BEM[]
+
+DWOK19
+CUT[Oj płśynie wódeczka]
+REG[]
+TRD[DWOK19, Kieleckie 2. s. 85, od Słśomnik (Goszcza)]
+FKT[]
+SIG[1927600000]
+KEY[19276   16  F 3/8]
+MEL[+1_7_+1_  5_6_5_  5_7_.6  5__5_
+    +1_7_+1_  5_6_4_  3_5_.2  1__1_ //]
+BEM[]
+
+DWOK19
+CUT[A ja sobie z góry jadę]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 85, od Słśomnik (Goszcza)]
+FKT[]
+SIG[1927700000]
+KEY[19277   16  C 3/8]
+MEL[7+2+1_+3_  +2+2+2_+1_  +3+5+4_+3_  +2_+2_+1_
+    57+1_7_  +1_6_4_  567_7_  7_+1_5_ //]
+BEM[]
+
+DWOK19
+CUT[Powiadają ludzie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 85, od Proszowic]
+FKT[]
+SIG[1927800000]
+KEY[19278   16  C 3/8]
+MEL[+3+3+4_+2_  +3_+1__  +3+5+4_+2_  +3_+1__
+    5_7_+1_  +2+2+3_+1_  77+1_6_  7_5__ //]
+BEM[Wariant w takcie piątym zapisu +17+1_6_]
+
+DWOK19
+CUT[Hosa hosa, zimna rosa]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 86, od Miechowa]
+FKT[]
+SIG[1928000000]
+KEY[19280   16 Bb 3/8]
+MEL[243_3_  421_1_  231_.-6  -5-5-7_2_
+    246_5_  42-7_1_  231_.-5  -7-5-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[Moja matko byłś tu Jadam]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 86, od Miechowa]
+FKT[]
+SIG[1928100000]
+KEY[19281   16  G 3/8]
+MEL[124_.6  543_2-7  124_.3  -5-72_-7_
+    124_.3  265_42  324_.3  -5-72_-7-5 //]
+BEM[]
+
+DWOK19
+CUT[Oj furmani, furmani]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 87, od Książa]
+FKT[]
+SIG[1928200000]
+KEY[19282   16  C 3/8]
+MEL[+1_+2+3+4_  +5+3+2_7_  +1_5_7_  +1+3+2__
+    +5_+6_+4_  +5+3+2+3+27  +1_5_7_  +165__ //]
+BEM[]
+
+DWOK19
+CUT[Oj Jasiu kulasiu]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 87, od Książa]
+FKT[]
+SIG[1928300000]
+KEY[19283   16  C 3/8]
+MEL[57+1_+2_  7_6_+1_  675_3_  5_2__
+    57+1_7_  6_5_3_  135_4_  1_2__ //]
+BEM[]
+
+DWOK19
+CUT[Kochałśem cię, Kasiu, kochaśłem kochałśem]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 87, od Miechowa]
+FKT[]
+SIG[1928400000]
+KEY[19284   16  G 3/8]
+MEL[467b_5_  3b_1__  -7b24_3b_  -7b_1__
+    467b_6_  454_31  -7b24_31  -7b_1__ //]
+BEM[]
+
+DWOK19
+CUT[Nie chodź kole wody]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 87, od Książa, Jędrzejowa]
+FKT[]
+SIG[1928500000]
+KEY[19285   16  C 3/8]
+MEL[+1+3+5_+4_  +1_+2_7_  645__  6+1+2_7_
+    +1+3+5_+4_  +1_+2_7_  645__  6+1+2_7_ //]
+BEM[]
+
+DWOK19
+CUT[Łącka zielona nie posiecona]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 88, od Skałśy (Ojców)]
+FKT[]
+SIG[1928600000]
+KEY[19286   16  G 3/8]
+MEL[5_54#5_  2-71_24  5_54#5_  2-71__
+    245_54#  5_2-71_  5_54#5_  2-71__ //]
+BEM[]
+
+DWOK19
+CUT[Z pola do wsi wiatr wieje]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 88, od Skaśły (Biaśły-kośściółś)]
+FKT[]
+SIG[1928700000]
+KEY[19287   32  G 3/8]
+MEL[5_5_6__5__  2_-7_-5__-6-7_.  1__3__(5_6_5_)
+    (5_4#_5_)6__(5_6_5_)  2_-7_-5__-6-7_.  (1_-7_1_)3__(1_2_1_) //]
+BEM[]
+
+DWOK19
+CUT[Pastuszek-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 88, od Sśłomnik]
+FKT[]
+SIG[1928800000]
+KEY[19288   16  C 3/8]
+MEL[+5__+5_  +4#+5+6_+5_  +4#+5+6_+5_  +4+3b+2_+5_  +4_+3b+2+1_
+    7+1+2_+5_  +4+3b+2_+5_  7+1+2_+5_  +4_+3b+2+1_
+    +1+2+3_+3_  +3_+1_+2+3  +4_+275_
+    57+1_+1_  +164_4_  6+1+2_5_ //]
+BEM[]
+
+DWOK19
+CUT[W ogródecku białśa róza]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 88, od Olkusza]
+FKT[]
+SIG[1928900000]
+KEY[19289   16  C 3/8]
+MEL[(+3+5+4)+3_+1_  (+3+5+4)+2_75  7+2+4+3+1_  645__
+    7+2+4+3+1_  (+2+3+4)+2_75  7+2+4+3+1_  645__ //]
+BEM[]
+
+DWOK19
+CUT[A bodajeśś przepadśła]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 89, od Olkusza]
+FKT[]
+SIG[1929000000]
+KEY[19290   16  C 3/8]
+MEL[67+1_+2_  +3_+3_+2_  +4#+3+2_75  6_+1_7_
+    7+2+3+275  6_+1_+1_  +3+2+4+275  6_+1_7_ //]
+BEM[]
+
+DWOK19
+CUT[Sieroty sieroty duzo was na śświecie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 89, od Olkusza]
+FKT[]
+SIG[1929100001]
+KEY[19291   16  C 3/8]
+MEL[57+1_+2_  +2+4+5__  +4+3+2_+1_  7__7_
+    +2+4+5_+2_  +1_+2__  76+1_7_  5__5_ //]
+BEM[]
+
+DWOK19
+CUT[Sieroty sieroty duzo was na śświecie]
+REG[]
+TRD[DWOK19, KIeleckie 2, s. 89, od Olkusza]
+FKT[]
+SIG[1929100002]
+KEY[19291   16  C 3/8]
+MEL[(567)+1_+2_  (+2+3+4)+5__  +4+3+2_+16  7__7_
+    (+2+3+4)+5_+27  +1+3+2_5_  76+1_76  5__5_ //]
+BEM[]
+
+DWOK19
+CUT[Śpiewali ptaskowie jak ja rano wstałśa]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 89, od Sśławkowa]
+FKT[]
+SIG[1929200000]
+KEY[19292   16  C 3/8]
+MEL[+4_+5_+4_  +3+5+1__  +2_+3_+2_  675__  67+1_+1_
+    +1_7+1+2+3  +4_+5_+4_  +3+2+1__ //]
+BEM[Wariant w takcie piątym zapisu 67+1+15]
+
+DWOK19
+CUT[O moja ty dziewcyno]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 90, od Wolbroma]
+FKT[]
+SIG[1929300001]
+KEY[19293   32  A 3/8]
+MEL[3b__5__5__  5_.46b__5__  4_6b_5__2__  4__1___
+    3b_5_2___  -7__1__3b__  2_.44__5__  3b__1___ //]
+BEM[]
+
+DWOK19
+CUT[O moja ty dziewcyno]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 90, od Wolbroma]
+FKT[]
+SIG[1929300002]
+KEY[19293   32  A 3/8]
+MEL[3b__5__5__  5_.6b7b__6b_5_  4_6b_5__4_2_  4__1___
+    3b_5_2__-5__  -7__1__3b__  2_.44__4_5_  3b__1___ //]
+BEM[]
+
+DWOK19
+CUT[Oj śśniłśo mi się w nocy]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 90]
+FKT[]
+SIG[1929400000]
+KEY[19294   16  F 3/8]
+MEL[(432)1_3_  5_6_2_  431_3_  5_2_4_
+    (432)1_3_  5_6_2_  (543)1_3_  5_2_4_ //]
+BEM[]
+
+DWOK19
+CUT[Oj doktorze, doktorze który rany gojis]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 90, od Szczekocin]
+FKT[]
+SIG[1929500000]
+KEY[19295   16  G 3/8]
+MEL[+1_5_67  +17+2_+1_  +175_6_  421__
+    4_1_2_  435_4_  575_6_  421__ //]
+BEM[]
+
+DWOK19
+CUT[A bo ja to pani matko kobyłśa!]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 90, od Pilicy]
+FKT[]
+SIG[1929600000]
+KEY[19296   32  G 3/8]
+MEL[-7_-7_2__2__  2_-7_-6__-7__  2__4__5__
+    5_3_3__2__  2_1-7-6__-7__  2__3__2__ //]
+BEM[]
+
+DWOK19
+CUT[Oj durna byłśa Polka]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 91, od Pilicy]
+FKT[]
+SIG[1929700000]
+KEY[19297   16  G 3/8]
+MEL[1_3_5_  431_23  4_6_5_  465_42
+    1_3_5_  431_2_  4_3_-5_  -721_-6-5 //]
+BEM[]
+
+DWOK19
+CUT[Matusiu matusiu A zeń ze się synusiu]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 91, od Wolbroma]
+FKT[]
+SIG[1929800000]
+KEY[19298   32  C 3/8]
+MEL[7+1+3_+4__+3__  +1__+3__+2__  +1_+3_+4__+3__  +1__6__5__
+    7_+2_5__7__  +1__6__5__  +2_+4_+3__+2__  +2__+4__+3__ //]
+BEM[]
+
+DWOK19
+CUT[Zebym wołśków nie zgubiłśa]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 91, od Wolbroma]
+FKT[]
+SIG[1929900000]
+KEY[19299   16  F 3/8]
+MEL[57+1_.6  66+1_76  57+1_.6  465_5_
+    (567)+1_.6  66+3_+2+1  (567)+1_.6  467_7_ //]
+BEM[]
+
+DWOK19
+CUT[Oj Kasiu moja Kasiu]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 92, od Żarnowca]
+FKT[]
+SIG[1930000001]
+KEY[19300   16  G 3/8]
+MEL[1_3_1_  124_2_  246_6_  425__
+    4_2_1_  134_2_  24#5_1_  3_1__ //]
+BEM[]
+
+DWOK19
+CUT[Oj Kasiu moja Kasiu]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 92, od Żarnowca]
+FKT[]
+SIG[1930000002]
+KEY[19300   16  G 3/8]
+MEL[1_3_3_  134_2_  246_6_  425__
+    542_1_  134_2_  24#531_  3_1__ //]
+BEM[]
+
+DWOK19
+CUT[Oj pali mi się pali]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 92, od Pilicy (Szyce)]
+FKT[]
+SIG[1930100000]
+KEY[19301   16  C 3/8]
+MEL[5_7_+2_  +4+6+5_+3_  +2_7_+2_  +4+2+1_+3_
+    5_7_+2_  +4+4+2_+4+3  5_7_5_  7+2+1_64 //]
+BEM[]
+
+DWOK19
+CUT[Kochałśa ja ciebie i nakochałśa się]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 93, od Pilicy (Kidów)]
+FKT[]
+SIG[1930200010]
+KEY[19302   16  G 3/8]
+MEL[135_4_  2_1__  423_1_  2-7-5__
+    -721_-6_  -721_23  4_3_1_  2-7-5__ //]
+BEM[]
+
+DWOK19
+CUT[Kochałśa ja ciebie i nakochałśa się-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 93, od Pilicy (Kidów)]
+FKT[]
+SIG[1930200020]
+KEY[19302   16  G 3/8]
+MEL[1_-7_2_  465_3_  423_1_  42-7_-5_
+    13542_  246_5_  42531_  2-7-5_1_ //]
+BEM[]
+
+DWOK19
+CUT[Cy ja matko nie wasa]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 93, od Pilicy (Kidów)]
+FKT[]
+SIG[1930300010]
+KEY[19303   16  A 3/8]
+MEL[3b_5_5_  53b6b_5_  3b_1_-7_  124_1_
+    3b_5_5_  546b_54  3b21_-7_  124_1_ //]
+BEM[]
+
+DWOK19
+CUT[Cy ja matko nie wasa-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 93, od Pilicy (Kidów)]
+FKT[]
+SIG[1930300020]
+KEY[19303   16  A 3/8]
+MEL[3b_1_-7_  1246b41  3b21_-7_  124_1_ //]
+BEM[]
+
+DWOK19
+CUT[Z pola do wsi wiatr wieje]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 93, od Wolbroma]
+FKT[]
+SIG[1930400000]
+KEY[19304   16  G 3/8]
+MEL[443_1_  3_5_2_  443_1_  2_-6_-5_
+    -723_-6_  1_-7_2_  465_3_  2_-6_-5_ //]
+BEM[]
+
+DWOK19
+CUT[A w niedzielę rano]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 94, od Pilicy (Szyce)]
+FKT[]
+SIG[1930500000]
+KEY[19305   16  G 3/8]
+MEL[245_6_  4_2__  245_3_  1_2__
+    245_6_  4_2__  245_3_  1_2__ //]
+BEM[zakodowac od A]
+
+DWOK19
+CUT[Bodaj cię piorun trzas]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 94, od Pilicy]
+FKT[]
+SIG[1930600010]
+KEY[19306   32  G 3/8]
+MEL[3b_4_5__5__  5_5_2__4__  3b_2_1__1__  -5__-7___
+    -7_2_4__.1_  2_4_3b__5__  5_3b21__3b__  -5__-7___ //]
+BEM[]
+
+DWOK19
+CUT[Bodaj cię piorun trzas-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 94, od Pilicy]
+FKT[]
+SIG[1930600020]
+KEY[19306   32  G 3/8]
+MEL[1__3b__3b__  5_5_2__4_3b_  1__1_-7_1_2_  3b_.1-5__-7__ //]
+BEM[]
+
+DWOK19
+CUT[Moja Maryśś nic nie mamy]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 94, od Pilicy (Kidów)]
+FKT[]
+SIG[1930700000]
+KEY[19307   16  G 3/8]
+MEL[123_4_  5_6__  4_3__  123_2_  1_2__  -6_-5__
+    123_4_  5_6__  4_3__  123_2_  1_2__  -6_-5__ //]
+BEM[]
+
+DWOK19
+CUT[Oj biją ci mnie biją-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 95, od Pilicy]
+FKT[]
+SIG[1930800011]
+KEY[19308   16  G 3/8]
+MEL[1_2_6_  432_3_  1_2__  -713_1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj biją ci mnie biją-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 95, od Pilicy]
+FKT[]
+SIG[1930800012]
+KEY[19308   16  G 3/8]
+MEL[1_4346  43243-7  1_2_-5-6  -713_1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj biją ci mnie biją]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 95, od Pilicy]
+FKT[]
+SIG[1930800020]
+KEY[19308   16  G 3/8]
+MEL[-5-51_3_  44213_  4_2_3_  112_-5_
+    -5-51_3_  4_6_5_  4_243-7  112_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Widziałśem cię widziaśł]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 95, od Pilicy]
+FKT[]
+SIG[1930900000]
+KEY[19309   16  G 3/8]
+MEL[135_5_  564__  231__  4_2_-7_
+    123_1_  2_4__  231__  4_2_-7_ //]
+BEM[Wariant w takcie trzecim 423_.5. W takcie pierwszym jest w oryginale szesnastka ósemka, zapisane z poprawką jako dwie szesnastki]
+
+DWOK19
+CUT[Nie będę ja nie będę ja]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 95, od Pilicy]
+FKT[]
+SIG[1931100000]
+KEY[19311   16  G 3/8]
+MEL[24#5_1_  332_-7_  1__-7_  242_-7_
+    24#5_1_  335_-7_  1_-6_-71  222_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Jezeli mnie chces Jasieńku]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 96, od Pilicy, Wolbroma]
+FKT[]
+SIG[1931200000]
+KEY[19312   16  G 3/8]
+MEL[2_.465  465_31  2_.135  421_31
+    2_.131  -6-5-7_24  2_.331  -6-5-7_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Moje dziewce, gębe mas]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 96, od Pilicy]
+FKT[]
+SIG[1931300000]
+KEY[19313   16  G 3/8]
+MEL[131_-7-6  -5-72_42  131_-7-6  -5-72__
+    131_34  556_5_  131_34  556_5_ //]
+BEM[]
+
+DWOK19
+CUT[Ojze ino ojze jesce]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 96, od Pilicy (Kidów)]
+FKT[]
+SIG[1931400000]
+KEY[19314   16  G 3/8]
+MEL[11-7_2_  465_.2  11-7_2_  421_.-6
+    -6-6-4_-6_  112_.-6  -6-6-4_-6_  1-6-5_.-5 //]
+BEM[]
+
+DWOK19
+CUT[Mazur ci ja rześśki]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 96-97, od Pilicy. Mazur]
+FKT[]
+SIG[1931500010]
+KEY[19315   16  C 3/8]
+MEL[5+1+3_+3_  +3+2+4_+4_  +3+2+17+1_  +17+2__
+    5+1+3_+3_  +3+2+4_+4_  +3+2+1767  +2+1+1__
+    5+1+3_.+2  +17+2__  +2+3+4+27+2  +2+1+3__
+    5+1+3_.+2  +17+2__  567567  +2+1+1__ //]
+BEM[]
+
+DWOK19
+CUT[Mazur ci ja-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s.97, od Pilicy]
+FKT[]
+SIG[1931500020]
+KEY[19315   16  G 3/8]
+MEL[5_3_1_  5_3_1_  -513423  213_1_ //]
+BEM[wariant w takcie drugim zapisu nutowego 551]
+
+DWOK19
+CUT[Z wiecora mi gęby dała]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 97, od Pilicy]
+FKT[]
+SIG[1931600000]
+KEY[19316   16  G 3/8]
+MEL[135_5_  234_4_  532_-7_  1_-5__
+    132_-7_  134_4_  354_2_  1-6-5__ //]
+BEM[]
+
+DWOK19
+CUT[Maśłagose Małaśgose na górecce stoji]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 97, od Szczekocin]
+FKT[]
+SIG[1931700010]
+KEY[19317   16  G 3/8]
+MEL[(435)6_4_  2_3_1_  352__  4_6_5_
+    356_4_  2_3_1_  352__  4_3_1_ //]
+BEM[w takcie czwartym za drugim razem jest zapis rytmiczny szesnastka i dwie ósemki. Poprawiono na trzy ósemki]
+
+DWOK19
+CUT[Małaśgose Małaśgose na górecce stoji]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 97, od Szczekocin]
+FKT[]
+SIG[1931700020]
+KEY[19317   16  G 3/8]
+MEL[13542_  -5__.  131_4_  -7__.
+    13542_  -5__.  431_4_  -7__. //]
+BEM[]
+
+DWOK19
+CUT[Strzegowscy pacholcy objedli się rząsy]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 97, od Pilicy (Strzegowa)]
+FKT[]
+SIG[1931800000]
+KEY[19318   16  G 3/8]
+MEL[1_3__  432_1_  4_3_1_  422_1_
+    4_6__  543_1_  5_3_1_  -722_1_ //]
+BEM[]
+
+DWOK19
+CUT[Darmo byśś się nie zalicałś]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 97-98, od Pilicy (Strzegowa)]
+FKT[]
+SIG[1931900001]
+KEY[19319   16 Bb 3/8]
+MEL[3_1353  542_1_  355_43  342_1_
+    355_56  642_1_  355_43  342_1_
+    -5-72_2_  3-71_1-6  -7__-5_  -6-6-4#_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Darmo byśś się nie zalicaśł]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 97-98, od Pilicy (Strzegowa)]
+FKT[]
+SIG[1931900002]
+KEY[19319   16 Bb 3/8]
+MEL[3_1353  542_1_  355_43  342_1_
+    355_56  642_1_  355_43  342_1_
+    -5-72_2_  5-71_13  -722_-5-7  -6-6-4#_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Hoj!pod zielony gaj tam mi Maryśś gęby daj]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 98, od Pilicy (Szyce)]
+FKT[]
+SIG[1932000000]
+KEY[19320   32  G 3/8]
+MEL[5___.  1_3_4__2_-7_  1___.  3_3_4__2__  -7_-5_1___
+    1_3_4__2__  4_6_5___  3_234__2__  4_6_5___
+    3_5_4__2__  -7_-5_1___ //]
+BEM[Wariant w takcie czwartym zapisu 3_234__2__]
+
+DWOK19
+CUT[Jak ja wlize na brzyze]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 98, od Pilicy (Dzwonowice)]
+FKT[]
+SIG[1932100001]
+KEY[19321   16  G 3/8]
+MEL[234_4_  351__  567_7_  675__
+    6_7_5_  542_1_  234_4_  351__ //]
+BEM[]
+
+DWOK19
+CUT[Jak ja wlize na brzyze]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 98, od Pilicy (Dzwonowice)]
+FKT[]
+SIG[1932100002]
+KEY[19321   32  G 3/8]
+MEL[2_3_4__4__  3_5_1___  5_7_+1__7__  6_7_5___
+    6__7__5__  5_432__1__  1_234__4__  3_5_1___ //]
+BEM[]
+
+DWOK19
+CUT[Kasiu moja, Kasiu trza do ciebie casu]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 98, od Pilicy (Szyce)]
+FKT[]
+SIG[1932200000]
+KEY[19322   16  G 3/8]
+MEL[354#_2_  4#_5_31  354#_2-7  2_-7_1_
+    -5-71_31  3_542_  354#_2_  2_-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[Moja pani matko dajcie mnię za Jasia]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 99, od Pilicy (Giebłśo)]
+FKT[]
+SIG[1932300000]
+KEY[19323   16  G 3/8]
+MEL[-6_1__  2_-7_-7_  2_1__  -5_-6_1_
+    -6_1_3_  22-7-6-7_  2_1_-6_  -5-5-6_1_ //]
+BEM[w pierwszym takcie w wersji pierwszej jest 6_1_ a powinno być 6_1__, inaczej takt wypada na 2/8 a nie na 3/8. Poprawiono]
+
+DWOK19
+CUT[Oj nie bij descu nie bij]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 99, od Szczekocin]
+FKT[]
+SIG[1932400000]
+KEY[19324   32  A 3/8]
+MEL[2__4__5__  6_4#_5__3b_2_  1__3b_2_1_-7_  1_3b2-7__1__
+    -5_-6-71__3b_1_  2_4_5__3b_2_  1__3b_2_1_-7_  1_3b2-7__1__ //]
+BEM[]
+
+DWOK19
+CUT[Ozeniśł się równy z równą]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 99, od Szczekocin]
+FKT[]
+SIG[1932500000]
+KEY[19325   16  E 3/8]
+MEL[7b_.453b  2-7b1242  1_.3b53b  2-7b1242
+    1_.3b53b  47b67b42  1_.3b53b  2-7b1242 //]
+BEM[]
+
+DWOK19
+CUT[Nas parobek nasej dziwce]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 99, od Szczekocin]
+FKT[]
+SIG[1932600000]
+KEY[19326   16  G 3/8]
+MEL[345_65  342_5_  345_65  342-71_
+    -5-51_35  342_5_  -5-51_35  342-71_ //]
+BEM[]
+
+DWOK19
+CUT[Oj nasa gospodyni da dobrze sobie żyje]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 100, od Pilicy (Giebłśo)]
+FKT[]
+SIG[1932700000]
+KEY[19327   32  F 3/8]
+MEL[2__4__4__  4_2_5__3__  1__3__3__  3_5_6__.42
+    -7_1_2_3_4__  4_4_5__3_2_  1__1__-6__  1_3_2_1_-7__ //]
+BEM[]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 100, od Pilicy]
+FKT[]
+SIG[1932800000]
+KEY[19328   16  G 3/8]
+MEL[4_.654  321353  4_^222  1_1__
+    434654  321354  2-7-5-6-7-5  12345_
+    4_.654  3_+1_+1_  654_2_  1357+1_
+    6_.+176  53+1_+1_  6_5_42  1357+1_ //]
+BEM[]
+
+DWOK19
+CUT[Hojze chłśopacy, hojze zywo]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 100, od Pilicy (Kidów)]
+FKT[]
+SIG[1932900000]
+KEY[19329   16  G 3/8]
+MEL[2454#52  245_6_  245_2_  1-6-5_-7_
+    243_-7_  1-6-5_-7_  223_3_  32-7_-7_ //]
+BEM[]
+
+DWOK19
+CUT[Od Krakowa chmura idzie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 100, od Pilicy (Kidów)]
+FKT[]
+SIG[1933000000]
+KEY[19330   16  C 3/8]
+MEL[57+2_+2+4  +4+4+3_+5_  +3+3+1_.5  553_5_
+    57+2_+4_  +3+2+1_+3_  +3_+1_.5  553_5_ //]
+BEM[]
+
+DWOK19
+CUT[Ctery lata wiernie sśłuzyłś]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 101, od Pilicy]
+FKT[]
+SIG[1933100000]
+KEY[19331   16  C 3/8]
+MEL[57+1_+2_  +3+2+4_+3_  +3+2+3_+4_  +2__+2_
+    +3+2+3_+4_  7__7_
+    +2+4+5_+2_  +4+27_5_  57+2_+1_  5__5_
+    57+2_+1_  3__3_ //]
+BEM[]
+
+DWOK19
+CUT[Dana moja dyna dana]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 101, od Pilicy (Szyce)]
+FKT[]
+SIG[1933200000]
+KEY[19332   16  G 3/8]
+MEL[-5-71_34  554_6_  425_2_  13542_
+    134_2_  13542_  134_2_  -5-721-6_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 101, od Pilicy (Szyce)]
+FKT[]
+SIG[1933300001]
+KEY[19333   16  G 3/8]
+MEL[57+1_+1_  +2+27_5_  57+1_.5  46+175_
+    134_3_  134_6_  +1+17_+2_  7+17_+2_  7+17_+2_
+    7+157b+2_  57+1_.5  46+175_
+    +1+17_+2_  57+1_5_  46+175_
+    +1+17_+2_  57+17+15  46+175_ //]
+BEM[]
+
+DWOK19
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 101, od Pilicy (Szyce)]
+FKT[]
+SIG[1933300002]
+KEY[19333   16  G 3/8]
+MEL[57+1_+1_  +2+27_+1_  57+1_.5  46+175_
+    134543  134567  +1+17_+2_  7+17_+2_  7+17_+2_
+    7+157b+2_  57+1_.5  46+175_
+    +1+17_+2_  57+1_5_  46+175_
+    +1+17_+2_  57+17+15  46+175_ //]
+BEM[]
+
+DWOK19
+CUT[Kwitnie lipka i jawór-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2. s. 102, od Pilicy (Szyce)]
+FKT[]
+SIG[1933400011]
+KEY[19334   16  G 3/8]
+MEL[(-5-71)3__  1_3_42  13432-7  -5_2_1_ //]
+BEM[]
+
+DWOK19
+CUT[Kwitnie lipka i jawór-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2. s. 102, od Pilicy (Szyce)]
+FKT[]
+SIG[1933400012]
+KEY[19334   16  G 3/8]
+MEL[(-5-71)3_2_  1_3_43  53432-7  -5_2_1_ //]
+BEM[]
+
+DWOK19
+CUT[Kwitnie lipka i jawór]
+REG[]
+TRD[DWOK19, Kieleckie 2. s. 102, od Pilicy (Szyce)]
+FKT[]
+SIG[1933400020]
+KEY[19334   16  G 3/8]
+MEL[-5-71_3_  5_2_1_  356_4_  5_2_1_
+    -5-71_3_  2_2_1_  -72-6_-5_  -7_2_1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj kara pana Boga wisiałśa nade mną]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 102, od Wolbroma]
+FKT[]
+SIG[1933500001]
+KEY[19335   32  G 3/8]
+MEL[-5_-7_1__3b__  5_5_4#__2__  4#_6_5__4#__  5__3b___
+    2_4#_5__2_-7_  1__3b__1_2_  4_3b21__3b_1_  2__-7___ //]
+BEM[]
+
+DWOK19
+CUT[Oj kara pana Boga wisiałśa nade mną]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 102, od Wolbroma]
+FKT[]
+SIG[1933500002]
+KEY[19335   32  G 3/8]
+MEL[-5_-7_1__3b_4_  5_5_4#__2__  4#_6_5__4#__  5__3b_2_1__
+    2_4#_5__2_-7_  1__3b_2_1_2_  4_3b21_2_3b_5_  2_1_-7__-5__ //]
+BEM[]
+
+DWOK19
+CUT[Lądem panno lądem]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 102, od Szczekocin]
+FKT[]
+SIG[1933600000]
+KEY[19336   32  G 3/8]
+MEL[-7_2_4__6__  5__3__.1_  -7_2_4__2_-7_  1_3_1___
+    (1_2_3_)-5__-7__  2_4_6__5_3_  2_.3-5__-7__  2_1_-6__1_-6_ //]
+BEM[]
+
+DWOK19
+CUT[Tu mnie nocka zadybałśa]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 103, od Szczekocin]
+FKT[]
+SIG[1933700000]
+KEY[19337   16  A 3/8]
+MEL[-724_6b_  54#5_3b2  -724_1_  3b__.
+    -724_1_  3b21_-5_  -724_1_  3b__. //]
+BEM[]
+
+DWOK19
+CUT[Oj pojźryj mi na kośłmirz]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 103, od Pilicy]
+FKT[]
+SIG[1933800000]
+KEY[19338   32  A 3/8]
+MEL[3b_2_1___  -7_1_2__-7__  -5_-7_-7__2_-7-6  -5_-6-71___
+    3b_2_1___  -7_1_2__-7_-6_  -5_-7_-6_-7_2_4_  5_3b21___ //]
+BEM[]
+
+DWOK19
+CUT[Od kogo to do kogo to]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 103-104, od Pilicy (Giebłśo)]
+FKT[]
+SIG[1933900000]
+KEY[19339   32  G 3/8]
+MEL[5_4#_2___  4#_6_5__.3_  5_4#_2__2__  4#_6_5__.3_
+    5_4#_2__2_-7_  -5_-7_1__3__  2__4__2_-7_  -5_.-71__3__
+    2__4__2_-7_  -5_.-71__3__ //]
+BEM[wariant w takcie czwartym zapisu -5_-7_1__3_1_]
+
+DWOK19
+CUT[Oj umarłśa mi matka]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 104, od Kromośłowa]
+FKT[]
+SIG[1934000000]
+KEY[19340   16  G 3/8]
+MEL[57+1_.5  4_2_1_  431_.3  2_-7_1_
+    435_.3  4_2_1_  431_.3  2_-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 104, Ogrodzieniec]
+FKT[]
+SIG[1934100000]
+KEY[19341   16  G 3/8]
+MEL[5_3_1_  5_3_1_  -5-5-5-72_  1-71234
+    (565)3_1_  (565)3_1_  -5-72432  1_1__
+    2_-7_-5_  2_-7_-5_  24#6+176  5_5__
+    (232)-7_-5-7  (232)-7_-5-7  24#6+176  5_7_5_
+    333_3_  4_3__  -5-5-5-724  313__
+    333_3_  463__  -5-5-5-724  3135+1_ //]
+BEM[]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 104-105, od Żarek]
+FKT[]
+SIG[1934200011]
+KEY[19342   16  F 3/8]
+MEL[5_+1__  65#6__  2_4_6_  531__
+    4_.567  +1_+1__  4#56_.5  243_1_ //]
+BEM[]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 104-105, od Żarek]
+FKT[]
+SIG[1934200012]
+KEY[19342   16  F 3/8]
+MEL[5_3_+1_  65#6__  234346  531__
+    434567  +17+2+176  4#56_.5  243_1_ //]
+BEM[]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 104-105, od Żarek]
+FKT[]
+SIG[1934200020]
+KEY[19342   16  C 3/8]
+MEL[1_.234  4#56_5_  5_4_24  321_3_
+    4_.567b  7+1+2_+1_  (+1+2+1)7b_57b  654__ //]
+BEM[]
+
+DWOK19
+CUT[Oj u Guzika w sadzie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 105, od Pilicy (Kidów)]
+FKT[]
+SIG[1934300000]
+KEY[19343   16  C 3/8]
+MEL[7+2+4_.+2  +3+17_57  665_57  +1+17_57
+    645_57  +1+17_57  665_57  +1+1+2_.7 //]
+BEM[]
+
+DWOK19
+CUT[Jaka tez to jaka bida]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 105, Żarki]
+FKT[]
+SIG[1934400000]
+KEY[19344   16  C 3/8]
+MEL[+3+3+1_6_  5575+1_  +3+3+1_76  5557+2+1
+    +3+3+3_+1_  +2+3+4+6+5_  +3+3+5_+3+1  +2+3+4+6+5+4 //]
+BEM[]
+
+DWOK19
+CUT[Oj panie mój panie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 105, od Włśodowic, Mrzygśłoda]
+FKT[]
+SIG[1934500000]
+KEY[19345   16  A 3/8]
+MEL[5_.4#56b  5_3b21_  4_.3b21  21-7__
+    1_2_-7_  1_3b21_  4_.3b21  21-7__ //]
+BEM[]
+
+DWOK19
+CUT[Tobie byłśo dobrze ale mnie nie bardzo]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 106, od Ogrodzieńca]
+FKT[]
+SIG[1934600000]
+KEY[19346   16  A 3/8]
+MEL[-4_-6b-4-6b1  -7b23b2-7b-4  1__2_  -7b-5-7b_-7b-6b
+    1__2_  3b45_52  1__2_  -7b-5-7b_-7b-6b //]
+BEM[wariant w takcie drugim zapisu -7b-55_52]
+
+DWOK19
+CUT[Siekierecka za dwa złśote]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 106, od Ogrodzieńca]
+FKT[]
+SIG[1934700000]
+KEY[19347   16  G 3/8]
+MEL[5_.4#54#  553_43  5_.654#  553_43
+    111-7-5_  -724_43  111-7-5_  -6-5-6-71_ //]
+BEM[]
+
+DWOK19
+CUT[Pocóześś ty wołśki przygnałś]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 106, od Kromołśowa]
+FKT[]
+SIG[1934800001]
+KEY[19348   16  G 3/8]
+MEL[+1_.+156  52421_  5_.4#56  52(542)1_
+    -7-5-7_2_  52421_  -7-5-7123  (542)425_ //]
+BEM[W pierwszym takcie przy powtórzeniu brakuje kropki przy pierwszej nucie, dopisano ją przy zapisie. Po takcie trzecim i czwartym brak znaku powtórzenia, na co wskazują dwa warianty melodii. Przy zapisie uwzględniono powtórzenie]
+
+DWOK19
+CUT[Owca leci, owca becy]
+REG[]
+TRD[DWOK19, Kieleckie 19, s. 106, od Kromołśowa]
+FKT[]
+SIG[1934900000]
+KEY[19349   32  A 3/8]
+MEL[5_5_4#__5__  4_3b21_2_3b_21  -7_-6-5-7__2__  4_3b21__3b_1_
+    -7_-5_-7__2__  3b_2_1__2_1_  -7_-6-5-7__2__  4_3b21__3b__ //]
+BEM[]
+
+DWOK19
+CUT[Nie wierz nie wierz]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 107, Ogrodzieniec]
+FKT[]
+SIG[1935000000]
+KEY[19350   16  A 3/8]
+MEL[5__3b_  5__3b_  246b_6b_  53b1__
+    -7_-7_-5_  1_1_3b_  244_5_  3b_1__ //]
+BEM[]
+
+DWOK19
+CUT[Walc-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 107, Ogrodzieniec]
+FKT[]
+SIG[1935100000]
+KEY[19351   32  D 3/8]
+MEL[3_.55__3__  2__4__2__  7_+2_+4_+6_+4_+2_  +3_+1_7_+2_+1__
+    1_.55__3__  5__4__2__  +2__7_5_6_7_  +1___.
+    +3__+1__.3_  5__4__2__  +2__7_5_6_7_  +1__+1___
+    +3__+1__.3_  5__4__2__  +2__7_5_6_7_  +1_7_+1_+2_+3__ //]
+BEM[]
+
+DWOK19
+CUT[Kazę na kominie napalić chłśopcami]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 107, od Ogrodzieńca (Podzamcze)]
+FKT[]
+SIG[1935200000]
+KEY[19352   16  C 3/8]
+MEL[57+2_7_  +1_5__  7+1+2_+4_  +3_+5__
+    +5_+3_+4_  +3+17_4_  57+2_7_  +1_5__ //]
+BEM[]
+
+DWOK19
+CUT[Oj rodzina rodzina marnie wyginęłśa]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 108, od Słśawkowa]
+FKT[]
+SIG[1935300000]
+KEY[19353   16  E 3/8]
+MEL[23b5__  46b+1_7b_  6b6b5_.3b  241__
+    23b5__  3b24_5_  6b45_.3b  2_1__ //]
+BEM[]
+
+DWOK19
+CUT[Oj już wiecór już wiecór]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 108, od Szczekocin]
+FKT[]
+SIG[1935400000]
+KEY[19354   16  G 3/8]
+MEL[355_6_  243__  2-71__  243__
+    221_3_  5_4_6_  22-7_1_  2_4_3_ //]
+BEM[]
+
+DWOK19
+CUT[Oj chodziłśa po boru]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 108, od Olkusza]
+FKT[]
+SIG[1935500000]
+KEY[19355   16  C 3/8]
+MEL[+3_+3_+5_  +3+3+2_+4_  +2__5_  7+1+3_+5_
+    +5+4+3_+5_  +3+3+2_+4_  +2__5_  77+2_+1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj kolib ze się kolib]
+REG[]
+TRD[DWOK19, Kielcekie 2, s. 109, od Orodzieńca (Podzamcze). Kołśyskowa]
+FKT[]
+SIG[1935600000]
+KEY[19356   16  C 3/8]
+MEL[+1_+3_+4_  +4+2+3_5_  7_+1_+2_  +2+1+3_+2_
+    +1_+3_+4+5  +4+2+3_5_  7_+17+2+4  +2+1+3_+2_ //]
+BEM[]
+
+DWOK19
+CUT[A w zimie w zimie duzy mróz]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 109, od Ogrodzieńca. Kołśyskowa]
+FKT[]
+SIG[1935700000]
+KEY[19357   32  A 3/8]
+MEL[3b__5__4#__  2___-7__  1_3b21___
+    3b__5__4#__  2___-7_-5_  1_3b4#5___ //]
+BEM[]
+
+DWOK19
+CUT[Ojze ino o dyna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 109, Żarki, Lelow. Kujawiak]
+FKT[]
+SIG[1935800000]
+KEY[19358   16  G 3/8]
+MEL[556_4_  5_3_33  223_5_  4_3_33
+    223_1_  2_2_31  223_5_  4_3_11 //]
+BEM[]
+
+DWOK19
+CUT[Oj po boru po lesie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 109, od Żarek]
+FKT[]
+SIG[1935900000]
+KEY[19359   16  G 3/8]
+MEL[1_3_4_  557b_7b_  443_5_  221__
+    1_3_4_  554_1_  1_324_  221__ //]
+BEM[]
+
+DWOK19
+CUT[Oj śłącka nie posiecona]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 110, od Ogrodzieńca. Polski]
+FKT[]
+SIG[1936000000]
+KEY[19360   08  C 3/4]
+MEL[+1+2_+2+2+1  +3+5+4+3+1_  +1+2_554  5+1765_
+    +1+2_+2+2+1  +3+5+4+3+17  +1+2_754  5+1765_ //]
+BEM[]
+
+DWOK19
+CUT[Oj Boze mój Boze]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 110, od Ogrodzieńca]
+FKT[]
+SIG[1936100000]
+KEY[19361   16  G 3/8]
+MEL[1_-7_2_  -7-61_2_  4_3_1_  212_-7_
+    1_3_2_  -7-61_2_  4_3_5_  21-7_2_ //]
+BEM[]
+
+DWOK19
+CUT[Oj uderzyłś konicek uderzyłś uderzyłś]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 110, od Kromołśowa]
+FKT[]
+SIG[1936200000]
+KEY[19362   16  G 3/8]
+MEL[3_5_7b_  7b6+1_7b_  645_3_  2_1__
+    3_5_4_  213_4_  445_3_  2_1__ //]
+BEM[]
+
+DWOK19
+CUT[Oj nie pójdę ja za cię]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 110, od Kromołśowa]
+FKT[]
+SIG[1936300000]
+KEY[19363   16  C 3/8]
+MEL[+3_+3_+4_  +2+2+1_+3_  +3+27_5_  7_+1__
+    +3_+3_+4_  +27+1_+3_  +1+27_5_  7_+1__ //]
+BEM[]
+
+DWOK19
+CUT[Majątecku nimam śślachcic mie nie weźnie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 111, od Ogrodzieńca]
+FKT[]
+SIG[1936400000]
+KEY[19364   16  G 3/8]
+MEL[464_3_  1_-7_-5_  464_3_  5_4_6_
+    -4-5-7_3_  3_4_2_  1-6-7231  -6_-7_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Oj dobry nas pan dobry-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 111, od Olkusza. Mazur]
+FKT[]
+SIG[1936500010]
+KEY[19365   16  G 3/8]
+MEL[3_2_34  54#5_31  3_246_  5_-7_1_
+    5_2_34  54#5_31  3_246_  5_-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj dobry nas pan dobry-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 111, od Olkusza. Mazur]
+FKT[]
+SIG[1936500020]
+KEY[19365   16  D 3/8]
+MEL[3_5_67  +17+1_53  4_4_2-7  113_1_
+    345_67  +17+1_53  464_2-7  213_5_ //]
+BEM[]
+
+DWOK19
+CUT[Kaj to jedzies ogolony?]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 111, od Pilicy (Szyce)]
+FKT[]
+SIG[1936600000]
+KEY[19366   16  G 3/8]
+MEL[134_.6  757_+2_  134_.6  754_2_
+    334_.2  31-7_-5_  334_.2  313_5_ //]
+BEM[]
+
+DWOK19
+CUT[Cięgiem ino cięgiem]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 112, od Ogrodzieńca]
+FKT[]
+SIG[1936700010]
+KEY[19367   16  C 3/8]
+MEL[5_57+2+3  +4_+3_+1_  +4_+2_5_  646_+17
+    5_7+1+2+3  +4+4+3+1+3+6  +4+4+2_54  646_+17 //]
+BEM[]
+
+DWOK19
+CUT[Cięgiem ino cięgiem-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 112, od Ogrodzieńca]
+FKT[]
+SIG[1936700020]
+KEY[19367   32  C 3/8]
+MEL[5__5_7_+2_7_  6_.46__+1_7_  5__7_+1_+3_+1_  6_.46__+1_7_
+    +2__+3_+1_+3_+5_  +4_+6_+5_+3_+6_+4_  5__+2_7_+2_+4_  6_4_6__+1_7_ //]
+BEM[]
+
+DWOK19
+CUT[Mocny miłśy Boze]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 112, od Bendzina (Ząbkowice)]
+FKT[]
+SIG[1936800000]
+KEY[19368   16  G 3/8]
+MEL[13-7_2_  1_3_5_  335_2_  1_-7_-5_
+    135_4#_  2_4#_5_  3354#2_  131-7-5_ //]
+BEM[]
+
+DWOK19
+CUT[Cyśś się ty dziewcyno w lesie wychowaśła]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 113, od Bendzina]
+FKT[]
+SIG[1936900000]
+KEY[19369   16  G 3/8]
+MEL[3_3_5_  4#4#6_5_  1_3_5_  223_-7_
+    1_3_3_  244_5_  3_3_54#  223_-7_ //]
+BEM[]
+
+DWOK19
+CUT[Świder jaje zniós matulu]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 113, od Pilicy (Szyce)]
+FKT[]
+SIG[1937000000]
+KEY[19370   16  G 3/8]
+MEL[354#_6_  5__.  354_6_  5_.654
+    343_-5_  1_.-712  343_2_  1_.235
+    323_2_  1__-71  345_3_  1_.2-71 //]
+BEM[ostatnie dwa takty nie mają powtórzenia, uwzględniono powtórzenie z zapisem drugiego wariantu]
+
+DWOK19
+CUT[Oj syćko mi to miśło da i syćko]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 113, od Bendzina (Ząbkowice)]
+FKT[]
+SIG[1937100000]
+KEY[19371   32  G 3/8]
+MEL[2__4__.6_  5_2_4__6__  5_.31__.1_  -5_-6-72__1__
+    1_2_4__.6_  5_2_4__6__  5_.31__.(1-7-6)  -5_-6-72__1__
+    3_0_2__.2_  1_235__1__  3_0_2__.2_  -5_-6-71__3__ //]
+BEM[]
+
+DWOK19
+CUT[Hajze ino hajze ino-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 114, od Bendzina (Gołśonóg). Polski]
+FKT[]
+SIG[1937200010]
+KEY[19372   16  C 3/4]
+MEL[5_67+1__6__  5_3_1_3_5_6_  4_6_+1__6__  5__7__+1__
+    5_67+1__+4__  +2_7_5_67+1_6_  4_6_+1__6__  5__7__+1__ //]
+BEM[]
+
+DWOK19
+CUT[Hajze ino hajze ino]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 114, od Bendzina (Gołśonóg). Polski]
+FKT[]
+SIG[1937200020]
+KEY[19372   32  C 3/8]
+MEL[5_7_+1__+3__  +4_+3_+1__+3__  +2_7_5__.3_  4_6_4__5__
+    5_67+1__+2_+3_  +4_+3_+1_+2_+3_+1_  +2_+175__.3_  4_564__5__ //]
+BEM[]
+
+DWOK19
+CUT[Walc-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 114, od Bendzina (Gołśonóg)]
+FKT[]
+SIG[1937300000]
+KEY[19373   32  C 3/8]
+MEL[5__5_+1_+3_+1_  7__5_7_+2_+1_  6__6_4_6_4_  5__5_7_+2_7_
+    +1__+3_+1_+3_+1_  7__5_7_+2_+1_  6__6_4_6_4_  5__5_7_+2_7_
+    +1__5_+1_+3_+4#_  +5_+4#_+2_+4#_+6_+4#_
+    +5_+3_+1_+2_+3_+4#_  +5_+4#_+2_+4#_+6_+4#_  +4_.+3+1__+3__  +5___5__
+    5_7_+2__+2__  +6_+5_+3_+1_+3_+3_  (+3_+5_+3_)+2__+2_7_  (6_4_6_)+1__+1_7_
+    5_7_+2__7__  (6_4_6_)+1__+1_+3_  (+3_+5_+3_)+2__+2_7_  (6_4_6_)+1__+1_7_ //]
+BEM[]
+
+DWOK19
+CUT[Oj niemas ci to niemas jako dworakowi]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 114, Ząbkowice]
+FKT[]
+SIG[1937400000]
+KEY[19374   16  C 3/8]
+MEL[5_+4__  +3+2+3_+1_  +3_+5__  +2+4+2_7_
+    5_+4_+4_  +3+2+3_5_  +1_+3__  +276_5_ //]
+BEM[]
+
+DWOK19
+CUT[Oj od samej Warsawy da koralik się tocy]
+REG[]
+TRD[DWOK19, Kieleckie 2, od Bendzina]
+FKT[]
+SIG[1937500000]
+KEY[19375   16  G 3/8]
+MEL[4_2_4_  313_5_  4_2_4_  31-7_-5_
+    -6_-5_-6_  134_2_  1_-5_-7_  21-7_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Oj dziwują się ludzie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 115, od Bendzina (Gołśonóg)]
+FKT[]
+SIG[1937600000]
+KEY[19376   16  C 3/8]
+MEL[65+1_+3_  +5_+4_+2_  756_65  7_+2_+1_
+    65+1_+3_  +5_+4_+2_  756_65  7_+2_+1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj Boże miłśy Boże]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 115, od Bendzina (Ząbkowice)]
+FKT[]
+SIG[1937700000]
+KEY[19377   16  A 3/8]
+MEL[-5_-7_2_  243b_1_  3b_5_.2  43b2_1_
+    -5_-7_2-7  243b_1_  3b_5_.2  43b2_5_ //]
+BEM[]
+
+DWOK19
+CUT[W kalinowym lasku]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 116, od Olkusza (Olelin)]
+FKT[]
+SIG[1937800000]
+KEY[19378   16  G 3/8]
+MEL[-613b_5_  4#_2__  -613b_5_  4#_2_2_
+    -613b__  5_3b_1_  -613b_1_  -6-72_.-7
+    -613b__  5_3b_1_  513b_1_  -6-72_.-7 //]
+BEM[]
+
+DWOK19
+CUT[Jasieniu Jasieniu bądź ze mi rad]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 116, od Słśawkowa]
+FKT[]
+SIG[1938000000]
+KEY[19380   16  C 3/8]
+MEL[3_4#5#6_  +1_7_6_  +1_7_6_  5__.
+    +1_7_6_  5_642_  4_4665  3__.
+    +1_7_6_  5_642_  4_4665  3__. //]
+BEM[]
+
+DWOK19
+CUT[W Krakowiem się urodziłśa]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 117, od Siewierza]
+FKT[]
+SIG[1938100001]
+KEY[19381   16  C 3/8]
+MEL[+1+1+1_+3_  +5+4+3_+2_  +1+17_7_  6_5__
+    555_7_  +1+2+3_+3_  +4+4+3_+3_  +2_+1__ //]
+BEM[]
+
+DWOK19
+CUT[W Krakowiem się urodziłśa]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 117, od Siewierza]
+FKT[]
+SIG[1938100002]
+KEY[19381   16  C 3/8]
+MEL[+1+3+3_+3_  +5+4+3_+2_  +1+37_+2_  676_5_
+    577_7_  +1+3+3_+3_  +4+4+3_+5_  +2+3+2_+1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj idę ja do domu kieby do zakonu-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 117, od Wśłodowic]
+FKT[]
+SIG[1938200010]
+KEY[19382   16  G 3/8]
+MEL[-5_1_23  421_3_  4_3_1_  24345_
+    -5_1_23  (432)143_  4_3_1_  243_1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj idę ja do domu kieby do zakonu]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 117, od Wśłodowic]
+FKT[]
+SIG[1938200020]
+KEY[19382   16  G 3/8]
+MEL[5_5_5_  555_3_  564_2_  3_1__
+    -7-6-5_-5_  1_1_1_  234_4_  3_1__ //]
+BEM[]
+
+DWOK19
+CUT[Oj Boze mój Boze]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 118, od Siewierza (Mierzęcice)]
+FKT[]
+SIG[1938500000]
+KEY[19385   32  G 3/8]
+MEL[1__3__1__  2_4_2__-7__  1__3__1__  2_4_2__-7__
+    1__3__5__  6_4_2__3_4#_  5__3__1__  2_342__-7__ //]
+BEM[]
+
+DWOK19
+CUT[Oj wośły moje wołśy]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 118, od Siewierza]
+FKT[]
+SIG[1938600000]
+KEY[19386   16  G 3/8]
+MEL[4_3_5_  654_1_  243_5_  2_1__
+    -5_-7_1_  232_-7_  1-7-5_-6_  -4_-5__ //]
+BEM[]
+
+DWOK19
+CUT[Siwy koń siwy koń siodełecko niesie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 119, od Siewierza (Mierzęcice)]
+FKT[]
+SIG[1938900002]
+KEY[19389   16  G 3/8]
+MEL[123_4_  5_6_5_  654_5_  3_2_1_
+    356_4_  3_5_2_  134_5_  6_2_1_ //]
+BEM[]
+
+DWOK19
+CUT[A zalicałś mi się owcarek]
+REG[]
+TRD[DWOK19, Kielecekie 2, s. 119, od Siewierza]
+FKT[]
+SIG[1939000000]
+KEY[19390   16  G 3/8]
+MEL[123_4_  432_4_  3_1_3_  432_1_
+    3_5_6_  432_4_  321_3_  432_5_ //]
+BEM[]
+
+DWOK19
+CUT[Dana ino dana]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 120, od Wśłodowic]
+FKT[]
+SIG[1939100000]
+KEY[19391   16  G 3/8]
+MEL[467_6_  5_1__  5_4_3_  2-5-7_1_
+    234_3_  5_1__  4_4_3_  2-5-7_1_ //]
+BEM[]
+
+DWOK19
+CUT[Oj jesce by ja jesce ale konik nie chce]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 120, od Siewierza]
+FKT[]
+SIG[1939200000]
+KEY[19392   16  A 3/8]
+MEL[-722_-7_  1_3b_2_  1-7-5__  1_-6b_-4_
+    3b22_-7_  1_3b_2_  1-7-5__  -7_2_4_ //]
+BEM[]
+
+DWOK19
+CUT[Oj Jasiu mój Jasiu]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 120, od Słśawkowa]
+FKT[]
+SIG[1939300000]
+KEY[19393   16  A 3/8]
+MEL[2_3b_5_  4_2_1_  3b3b2_.-7  -5_-5-71_
+    223b_5_  5_421_  3b3b2_.-7  -5_-5-71_ //]
+BEM[]
+
+DWOK19
+CUT[Mocny miłśy Boze]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 121, od Siewierza]
+FKT[]
+SIG[1939600000]
+KEY[19396   16  A 3/8]
+MEL[3b_5__  456b_5_  4_1__  3b45_7b_
+    5_5__  456b_5_  4_1__  3b41_3b_ //]
+BEM[]
+
+DWOK19
+CUT[Oj rola moja rola]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 121, od Siewierza]
+FKT[]
+SIG[1939700000]
+KEY[19397   16  A 3/8]
+MEL[3b_5_6_  421_-7_  13b2_4_  3b_5__
+    3b_5_6_  421_-7-5  13b2_4_  2_1__ //]
+BEM[]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 122, od Słśawkowa]
+FKT[]
+SIG[1940100011]
+KEY[19401   16  C 3/8]
+MEL[5_+1_+3+1  5_+1_+3+1  +1_+1_+3_  +5_+4+2+1_ //]
+BEM[]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 122, od Słśawkowa]
+FKT[]
+SIG[1940100012]
+KEY[19401   16  C 3/8]
+MEL[5+1(+17+1)+3+1  5+1(+17+1)+3+1  +17+1_+3+5  +5_+4+2+1_ //]
+BEM[]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 122, od Sśławkowa]
+FKT[]
+SIG[1940100020]
+KEY[19401   16  G 3/8]
+MEL[554#531  -5-72342  554#51_  4_2-71_ //]
+BEM[Wariant w takcie trzecim zapisu nutowego 554#531]
+
+DWOK19
+CUT[Z kąd jedzies?]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 122, od Siewierza. Mazur]
+FKT[]
+SIG[1940200000]
+KEY[19402   16  G 3/8]
+MEL[5_-5_-7_  1-71234  5_-5_-7_  1__.
+    5_2_4_  321_6_  5_-5-724  321_+1_
+    5_-5_-72  1__.  765432  1__. //]
+BEM[]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 122, od Siewierza]
+FKT[]
+SIG[1940300000]
+KEY[19403   16  G 3/8]
+MEL[+1_.567  +1_5_67  +17+1567  +17+1564
+    3_2_2-7  123_4_  576_62  123_4_
+    31212-7  123_4_  576_62  123_4_ //]
+BEM[wariant w pierwszym takcie 5_.567]
+
+DWOK19
+CUT[Walc-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 123, od Siewierza (Sączów)]
+FKT[]
+SIG[1940400000]
+KEY[19404   16  G 3/8]
+MEL[3__5_  -5__.  ^_-5-72-7  1_135_
+    3__5_  -5__.  ^_-5-72-7  13535+1
+    3_5_5_  5_4_4_  -5_4_2_  1_35+1_
+    355_5_  5_434_  2464+27  +1__. //]
+BEM[]
+
+DWOK19
+CUT[Walc-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 123, od Siewierza]
+FKT[]
+SIG[1940500000]
+KEY[19405   16  G 3/8]
+MEL[111_2_  333_4_  555_3_  1__13
+    242_-7_  -5__-72  111_6_  5__+1_
+    111_2_  333_4_  555_3_  1__13
+    242_-7_  -5__-72  1_3_2_  1__0_
+    4__4_  3_2_1_  3_3_2_  1_-7_-6_
+    -5_4342  -5_4342  -7-5-4#-5-6-7  1__1_
+    4__4_  3_2_1_  3_3_2_  1_-7_-6_
+    -5_4342  -5_4342  -7-5-4#-5-6-7  1-5135_ //]
+BEM[]
+
+DWOK19
+CUT[Oj dolej że mi dolej]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 123, od Lelowa]
+FKT[]
+SIG[1940600010]
+KEY[19406   16  G 3/8]
+MEL[4_3_5_  432_3_  1_-7_2_  1-7-5__
+    1_3_5_  432_3_  4_2_32  1-71__ //]
+BEM[]
+
+DWOK19
+CUT[Oj dolej że mi dolej]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 123, od Lelowa]
+FKT[]
+SIG[1940600020]
+KEY[19406   16  G 3/8]
+MEL[-7_2_3_  42-7_1_  2_3_1_  42-7_-5_  -723_2_  1-71__ //]
+BEM[Takt przedostatni w zapisie Kolberga jest na 2/8, zapisano rytm jak w takcie poprzednim]
+
+DWOK19
+CUT[Kto tańcuje choć nie umie]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 123, od Kurzelowa]
+FKT[]
+SIG[1940700000]
+KEY[19407   16  G 3/8]
+MEL[5_.246  552_43  5_.246  552_43
+    1-6-5_-7_  132_43  1-6-5_-7_  132_43 //]
+BEM[]
+
+DWOK19
+CUT[A miałśem ja dwa domy]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 124, od Lelowa (Chrząstów)]
+FKT[]
+SIG[1940800000]
+KEY[19408   16  A 3/8]
+MEL[123b_4_  5_5_4_  5_5_4_  3b3b2_.-7  1_1_-7_
+    124_.3b  1_3b_5_  554_.2  1_1_-7_
+    123b_4_  5_5_4_  5_5_4_  3b3b2_.-7  1_1_-7_
+    124_.3b  1243b5_  554_.2  1_1_-7_ //]
+BEM[]
+
+DWOK19
+CUT[Dałśam gęby a już nie dam]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 124, od Lelowa]
+FKT[]
+SIG[1940900000]
+KEY[19409   32  G 3/8]
+MEL[1_2_4_2_4_6_  4_2_1_3_2_-7_  1_2_4__.-5_  1_32-7__1__
+    1_2_4__.1_  3_3_2__2__  1_2_4__.1_  4_32-7__1__ //]
+BEM[]
+
+DWOK19
+CUT[Mazur-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 124, od Słśawkowa]
+FKT[]
+SIG[1941000000]
+KEY[19410   16  G 3/8]
+MEL[3_4_5_  353_31  234345  64242-7
+    2_3_1-6  -5-5-7_2_  2_3_-61  -7_-6_-5_ //]
+BEM[]
+
+DWOK19
+CUT[Polonez-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 128, Lelów]
+FKT[]
+SIG[1942900010]
+KEY[19429   16  C 3/4]
+MEL[+3_+3__+4+3+2_+1_  +1_7_+2__.6_  6_5_+4__+3_+2_  +2_7+2+2__+1_0_
+    +3_+3__+4+3+2+17+1  +1767+2__.6_  6_5_+4__+3_+2_  +2_+1_+3__+150_ //]
+BEM[Caśła melodia utrzymana jest w 3/4 a nie jak napisałś Kolberg 3/8]
+
+DWOK19
+CUT[Polonez-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 128, Lelów]
+FKT[]
+SIG[1942900020]
+KEY[19429   16  G 3/4]
+MEL[5_5__5_6_7_  +1_.+2+3_+1_5_3_  5_4_6__.-7_  1_3_5__1__
+    5_5__5_6_7_  +1_.+2+3__.+1_  5_4_6_4_2_-7_  3_3_5_-712345 //]
+BEM[Całśa druga część utrzymana jest w metrum 3/4 mimo że Kolberg tego nie zaznacza, zapisano jako 3/4]
+
+DWOK19
+CUT[Moja panienko daj mi gębiny]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 129, od Szczekocin]
+FKT[]
+SIG[1943000000]
+KEY[19430   16  C 3/4]
+MEL[+3_+5_+6__+2_7_  +1_+1_+2_7_5__  4_4_5_7_+1__  +1_+1_+2_7_5__
+    +3_+5_+6_+4_+2_75  +1_+1_+2_+275__  2_4_5_7_+1_+3_  +3_+1_+2_7_+1__ //]
+BEM[Melodia jest na 3/4 a nie na 3/8]
+
+DWOK19
+CUT[Polski weselny-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 129, Ogrodzieniec]
+FKT[]
+SIG[1943100001]
+KEY[19431   16  G 3/4]
+MEL[1_3_2__-5__  5_5_3_5_4_2_  1_3_2__-5__  -5_-6-71___
+    1_3_2__-5__  -5-6-7134312_-5_  12352__-5__  -5_-6-71___
+    3_5_6_4_3_1_  1_2343231__  -5_-6-71_234_2_  3_1_-7_2_1__ //]
+BEM[Melodia jest na 3/4 a nie na 3/8]
+
+DWOK19
+CUT[Polski weselny-Instrumentalna]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 129, Ogrodzieniec]
+FKT[]
+SIG[1943100002]
+KEY[19431   16  G 3/4]
+MEL[1_3_2__-5__  5_5_3_5_4_2_  1_3_2__-5__  -5_-6-71___
+    1_3_2__-5__  -5-6-7134312_-5_  12352__-5__  -5_-6-71___
+    3_5_6_4_3_1_  3_2343231__  -5_-6-71_234342  3_1_-7_2_1__ //]
+BEM[Melodia jest na 3/4 a nie na 3/8]
+
+DWOK19
+CUT[Z wysokich parnasów]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 129, od Kielc]
+FKT[]
+SIG[1943200000]
+KEY[19432   16  C 3/4]
+MEL[+1_.+2+3_+4_+5_+6_  +4_.+27_5_5_5_  5_.67_+1_+2_+3_  +1__+1__+1__
+    +1_.+2+3_+4_+5_+6_  +4_.+27_+2_7_5_  5_.67_+1_+2_+3_  +1__+1__+1__
+    +1__+3_+1_7_5_  6__6_7_+1_5_  +1_.+2+3_+1_7_5_  6_.56_7_+1_5_
+    +1_.+2+3_+1_+2_7_  +1__+1__+1__ //]
+BEM[melodia jest na 3/4 a nie na 3/8]
+
+DWOK19
+CUT[Chwałśa bądź Bogu naszemu]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 135, Książ wielki]
+FKT[]
+SIG[1943800000]
+KEY[19438   16  F 3/8]
+MEL[3_3_3_  5__.  4_3_24  3__0_  3_3_3_  5__.  4_3_24  3__0_
+    1_2_3_  3__.  2_5__  4_3__  3_3_3_  3__.  2__1_  -7_-6__
+    1_2_3_  3__.  2_5__  4_3__  1_2_3_  3__.  2__1_  -7_-6__ //]
+BEM[]
+
+DWOK19
+CUT[Sśłuzyłśem u pana na pierse lato]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 156, Chomentów]
+FKT[]
+SIG[1947100000]
+KEY[19471   08  A 2/4]
+MEL[-5_-6-7  1_.2  3b543b  2__  -5-5-6-7  1_.2  3b543b  2__
+    3b543b  23b1_  3b543b  23b1_
+    3b542  3b_4_  3b542  3b543b  2_1_ //]
+BEM[]
+
+DWOK19
+CUT[Nie darmo, nie darmo]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 79, od Wiśślicy (Chotel ziel.]
+FKT[]
+SIG[1925600010]
+KEY[192561  16  C 3/8]
+MEL[+3_+4_+2+4  +3+3+4_+2+1  +1_+4__  +3+3+2_75
+    +1_+4__  +6+5+4_+2+1  +3+5+4_+2+4  +3+5+4_+27 //]
+BEM[]
+
+DWOK19
+CUT[Po co ześście przyjechali]
+REG[]
+TRD[DWOK19, Kieleckie 2, s. 80, od Koszyc (Wśłostowice), Weselna]
+FKT[]
+SIG[1925900000]
+KEY[192590  32  G 3/8]
+MEL[(-5_-6_-7_)1_2_3_4_  5_4#_5__5__  5_4#_5_6_5_4#_  5_3_4__6__  5_1_3__5__
+    4___-5__  1_.13__5__  4___-5__  -5_.13__1__
+    4___-5__  1_.13__5_6_  4___-5__  -5_.13__1__ //]
+BEM[Wariant w takcie trzecim zapisu nutowego (5_6_7_)+1__6__]

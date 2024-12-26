@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2412900002-usiundzze_naso_panno_mloda.krn
+!!!OTL: Usiundżze naso panno młoda
+!!!source: DWOK24
+!!!id: 24129
+!!!signature: 2412900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8b
+8cc
+=2
+16dd
+16dd
+16ee
+16dd
+16cc
+32b
+32g
+=3
+16dd
+16ee
+16dd
+16cc
+32cc
+32b
+32a
+32b
+=4
+4g
+8d}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8dd
+=6
+8g
+4b
+=7
+8cc
+8cc
+8dd
+=8
+8g
+8b
+8a
+=9
+8g
+4f#
+=10
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 245} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 245}
+!!!page: 245
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2216500000-pare_koni_jasio_mial.krn
+!!!OTL: Parę koni Jasio miał
+!!!source: DWOK22
+!!!id: 22165
+!!!signature: 2216500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+8dd
+4a
+=3
+4g}
+8r
+!!LO:LB:g=esac
+=4
+{16b
+16cc
+8dd
+8ff#
+=5
+16ee
+16dd
+8.cc
+16g
+=6
+8b
+4d
+=7
+16g
+16a
+8cc
+8g
+=8
+8b
+4f#
+=9
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 105} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

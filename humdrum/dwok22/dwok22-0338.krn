@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2233800000-kup_my_capke_kup_my_pas.krn
+!!!OTL: Kup my capkę kup my pas
+!!!source: DWOK22
+!!!id: 22338
+!!!signature: 2233800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8ee
+8dd
+16cc
+16b
+=2
+8a
+8ee
+4g#
+=3
+8a
+8ee
+8dd
+16cc
+16b
+=4
+8a
+8a
+4g#}
+!!LO:LB:g=esac
+=5
+{4a
+8ee
+8g#
+=6
+8b
+8cc
+4dd
+=7
+4ee
+8a
+8dd
+=8
+8cc
+8b
+4g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 188} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

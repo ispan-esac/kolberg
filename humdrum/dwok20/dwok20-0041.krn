@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK2004100000-dobranoc_glowo_swieta.krn
+!!!OTL: Dobranoc Głowo święta
+!!!source: DWOK20
+!!!id: 20041
+!!!signature: 2004100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4f
+4a
+4a
+=2
+8b-
+8a
+4g
+4a
+=3
+8f
+8e
+4f
+4g
+=4
+4f
+4e}
+4r
+!!LO:LB:g=esac
+=5
+{8f
+8g
+4a
+4a
+=6
+8b-
+8a
+4g
+4a
+=7
+8f
+8e
+4f
+4g
+=8
+4f
+4e}
+4r
+!!LO:LB:g=esac
+=9
+{8g
+8g
+4g
+4g
+=10
+4.a
+8g
+8b-
+8a
+=11
+8g
+8g
+4g
+4g
+=12
+4.a
+8cc
+8b-
+8a}
+!!LO:LB:g=esac
+=13
+{8g
+8e
+4f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 103} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 103}
+!!!page: 103
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4659600000-a_bodaj_was_bog_pokaral_cala_rodzine.krn
+!!!OTL: A bodaj was Bóg pokarał, całą rodzinę
+!!!source: DWOK46
+!!!id: 46596
+!!!signature: 4659600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16a
+16a
+8a
+8b
+=2
+16cc
+16cc
+8b
+8a
+=3
+16g
+16g
+8b
+8cc
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{16cc
+16cc
+16cc
+16ee
+8ee
+=6
+16ee
+16ff
+16gg
+16ee
+8cc
+=7
+16dd
+16dd
+16dd
+16cc
+8b
+=8
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=408 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 374} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 374}
+!!!page: 374
+!!!ONB: Converted on 2024/12/26 with esac2hum

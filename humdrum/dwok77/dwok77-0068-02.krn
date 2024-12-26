@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7706800002-oj_tatareczka_proso.krn
+!!!OTL: Oj tatareczka proso
+!!!source: DWOK77
+!!!id: 77068
+!!!signature: 7706800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{2dd
+8cc#
+8ee
+=2
+8dd
+8b
+4.a
+8d
+=3
+4g
+4f#
+4a
+=4
+8g
+8b
+2a}
+!!LO:LB:g=esac
+=5
+{4dd
+4cc#
+4cc#
+=6
+8dd
+8b
+4.a
+8e
+=7
+4f
+2e
+=8
+8d
+8f#
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

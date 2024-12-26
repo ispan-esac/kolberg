@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK3913700001-z_tamte_strone_jeziora_kania_wode_pije.krn
+!!!OTL: Z tamte strone jęziora kania wodę pije
+!!!source: DWOK39
+!!!id: 39137
+!!!signature: 3913700001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8ee
+8gg
+8ff
+=2
+8ee
+8dd
+4a
+=3
+8cc
+8ee
+8gg
+8ff
+=4
+4ee
+4a}
+!!LO:LB:g=esac
+=5
+{8ff
+16ff
+16ee
+4dd
+=6
+8ee
+16cc
+16a
+4g#
+=7
+8a
+8a
+8dd
+8dd
+=8
+4a
+4ee}
+!!LO:LB:g=esac
+=9
+{8ff
+16ff
+16ee
+4dd
+=10
+8ee
+16cc
+16a
+4g#
+=11
+8a
+8a
+8dd
+8dd
+=12
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 181-182} @EN{Oskar Kolberg Complete Works 39: Pomerania, pp. 181-182}
+!!!page: 181-182
+!!!ONB: Converted on 2024/12/26 with esac2hum

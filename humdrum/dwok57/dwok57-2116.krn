@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK57211600000-jak_wspaniala_nasza_postac.krn
+!!!OTL: Jak wspaniała nasza postać
+!!!source: DWOK57
+!!!id: 572116
+!!!signature: 57211600000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8.g
+16b
+4.b
+8dd
+=2
+8.dd
+16g
+4g
+4f#
+=3
+8.d
+16f#
+4a
+4cc
+=4
+8cc
+8f#
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8.g
+16b
+4.b
+8dd
+=6
+8.dd
+16g
+4g
+4f#
+=7
+8.d
+16f#
+4a
+4cc
+=8
+8cc
+8f#
+4g}
+4r
+!!LO:LB:g=esac
+=9
+*M4/4
+{8ee
+8ee
+4cc
+2ee
+=10
+4dd
+4b
+2dd
+=11
+4cc
+4a
+2cc
+=12
+4b
+4dd
+2gg}
+!!LO:LB:g=esac
+=13
+{8ee
+8ee
+4cc
+2ee
+=14
+4dd
+4b
+2dd
+=15
+4ff#
+4ff#
+4.ff#
+8ff#
+=16
+4ee
+4ff#
+2gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1176
+!!!ONB: Converted on 2024/12/26 with esac2hum

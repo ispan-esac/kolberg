@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3921000002-a_to_skomor_z_debu_spad.krn
+!!!OTL: A to skomor z dębu spad
+!!!source: DWOK39
+!!!id: 39210
+!!!signature: 3921000002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8cc
+8cc
+4ff
+4ff
+=2
+8ee
+8gg
+2cc}
+!!LO:LB:g=esac
+=3
+{8dd
+8ee
+4ff
+4dd
+=4
+8cc
+8b-
+2a}
+!!LO:LB:g=esac
+=5
+{4cc
+8g
+8b-
+8a
+8g
+=6
+4cc
+8g
+8b-
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+4ff
+4dd
+=8
+8b-
+8g
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 228-229} @EN{Oskar Kolberg Complete Works 39: Pomerania, pp. 228-229}
+!!!page: 228-229
+!!!ONB: Converted on 2024/12/26 with esac2hum

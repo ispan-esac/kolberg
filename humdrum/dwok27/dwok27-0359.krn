@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2735900000-wielcy_panowie_i_co_bankrutuja.krn
+!!!OTL: Wielcy panowie i co bankrutują
+!!!source: DWOK27
+!!!id: 27359
+!!!signature: 2735900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+8e
+8e
+8g
+8g
+=2
+8cc
+8cc
+8b
+8cc
+8dd
+8b}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+8e
+8e
+8g
+8g
+=4
+8cc
+16dd
+16cc
+8b
+8cc
+8dd
+8b}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+4a
+4ff
+=6
+4ee
+8dd
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=346 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 327} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 327}
+!!!page: 327
+!!!ONB: Converted on 2024/12/26 with esac2hum

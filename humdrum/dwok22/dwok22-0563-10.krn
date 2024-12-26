@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2256300010-uciekala_po_rowie.krn
+!!!OTL: Uciekała po rowie
+!!!source: DWOK22
+!!!id: 22563
+!!!signature: 2256300010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8cc
+8ee
+4ee
+4ee
+=2
+8ff#
+8dd
+8dd
+[8ee
+8ee]
+8a
+=3
+8cc
+8ee
+4ee
+4ee
+=4
+16ff#
+16ee
+16dd
+16cc#
+8dd
+[8b
+8b]
+8a}
+!!LO:LB:g=esac
+=5
+{8cc
+8a
+4g
+4g
+=6
+8b
+8dd
+4cc
+8a
+8b
+=7
+8cc
+8a
+4g
+4g
+=8
+16b
+16dd
+16ee
+16dd
+4cc
+8a
+8g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=270 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 252} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

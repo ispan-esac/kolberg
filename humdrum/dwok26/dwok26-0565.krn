@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2656500000-sla_sierotka_bez_wies.krn
+!!!OTL: Sła sierotka bez wieś
+!!!source: DWOK26
+!!!id: 26565
+!!!signature: 2656500000
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M2/4
+=1
+{8cc
+8ee-
+8dd
+8b
+=2
+8cc
+4.g
+=3
+16g
+16cc
+8ee-
+8dd
+8b
+=4
+8cc
+4dd
+8b}
+!!LO:LB:g=esac
+=5
+{16g
+16f
+8g
+8g
+8g
+=6
+8b
+4cc
+8g
+=7
+8b
+8dd
+8cc
+8g
+=8
+8b
+4.g}
+!!LO:LB:g=esac
+=9
+{16d
+16f
+8g
+8g
+8g
+=10
+8b
+4cc
+8g
+=11
+8b
+8dd
+8cc
+8cc
+=12
+8b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 346
+!!!ONB: Converted on 2024/12/26 with esac2hum

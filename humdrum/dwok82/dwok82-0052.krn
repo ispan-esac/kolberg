@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK8205200000-oj_ty_diwczynko_roby_ne_roby.krn
+!!!OTL: Oj ty diwczynko roby ne roby
+!!!source: DWOK82
+!!!id: 82052
+!!!signature: 8205200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8cc
+8cc
+8cc
+=2
+4.b
+8cc
+=3
+8a
+8cc
+8b-
+8g
+=4
+2f}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8cc
+8cc
+=6
+4.b
+8cc
+=7
+8a
+8b-
+8g
+8e
+=8
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 38} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 38}
+!!!page: 38
+!!!ONB: Converted on 2024/12/26 with esac2hum

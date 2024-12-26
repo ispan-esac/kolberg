@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK1831400000-od_krakowa_ciemna_chmura.krn
+!!!OTL: Od Krakowa ciemna chmura
+!!!source: DWOK18
+!!!id: 18314
+!!!signature: 1831400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.a
+32a
+8a
+8cc
+=2
+16.a
+32a
+8a
+32f#
+16.d
+=3
+8g
+8b
+8dd}
+!!LO:LB:g=esac
+=4
+{16.a
+32a
+8a
+8cc
+=5
+16.a
+32a
+8a
+32f#
+16.d
+=6
+8g
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 173} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

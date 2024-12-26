@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK5016100001-a_czias_maty_zyto_ziaty.krn
+!!!OTL: A czias, maty, żyto żiaty
+!!!source: DWOK50
+!!!id: 50161
+!!!signature: 5016100001
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8a
+8dd
+8dd
+8dd
+=2
+8dd
+8dd
+8dd
+8dd
+=3
+8a
+8cc#
+8cc#
+8cc#
+=4
+16dd
+16cc#
+16b
+16cc#
+4cc#}
+!!LO:LB:g=esac
+=5
+{8a
+8dd
+8dd
+8dd
+=6
+8dd
+8cc#
+16cc#
+16b
+8a
+=7
+8a
+8a
+8a
+8a
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 74} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 74}
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

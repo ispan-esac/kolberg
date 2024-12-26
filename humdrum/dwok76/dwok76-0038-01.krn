@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7603800001-w_warszawie_na_pradze.krn
+!!!OTL: W warszawie na pradze
+!!!source: DWOK76
+!!!id: 76038
+!!!signature: 7603800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4g
+4b
+=2
+8dd
+8dd
+4cc
+4a
+=3
+4cc
+4g
+4b
+=4
+8g
+8e
+4e
+4f#}
+!!LO:LB:g=esac
+=5
+{4g
+4g
+4b
+=6
+8b
+8b
+4cc
+4a
+=7
+4cc
+4g
+4b
+=8
+8g
+8e
+4e
+4f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=63 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 27} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 27}
+!!!page: 27
+!!!ONB: Converted on 2024/12/26 with esac2hum

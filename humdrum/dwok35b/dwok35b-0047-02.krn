@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK35B-35B04700002-oj_zakwytla_kalonyjka_hw_ploti.krn
+!!!OTL: Oj zakwytła kałonyjka h(w) płoti
+!!!source: DWOK35B
+!!!id: 35B047
+!!!signature: 35B04700002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{16a
+16cc
+8ee
+4.ee
+8ee
+=2
+8b
+16ee
+16dd
+16cc
+16b
+32a
+32b
+32cc
+32a
+4b
+=3
+16g#
+16f#
+8d
+2e}
+!!LO:LB:g=esac
+=4
+{8e
+8g#
+16g#
+16e
+16f#
+16g#
+4a
+=5
+16b
+16cc
+32a
+32b
+32cc
+32a
+4.b
+8g#
+=6
+16g#
+16f#
+8e
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 156} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 156}
+!!!page: 156
+!!!ONB: Converted on 2024/12/26 with esac2hum

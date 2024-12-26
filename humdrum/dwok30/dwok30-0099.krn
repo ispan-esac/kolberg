@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK3009900000-sim_michiw_horichiw.krn
+!!!OTL: Sim michiw horichiw
+!!!source: DWOK30
+!!!id: 30099
+!!!signature: 3009900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8b
+=2
+8dd
+8dd
+8b
+=3
+8cc
+8a
+8b
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8d
+=6
+8g
+8b
+8b
+=7
+8cc
+8a
+8b
+=8
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 69} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 69}
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

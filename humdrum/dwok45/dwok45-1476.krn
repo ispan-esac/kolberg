@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK45147600000-pasla_husi_pasla_husi.krn
+!!!OTL: Pasła husi, pasła husi
+!!!source: DWOK45
+!!!id: 451476
+!!!signature: 45147600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8ee
+=2
+8dd
+8dd
+8cc
+8cc
+=3
+8ff
+8ff
+8ff
+8ee
+=4
+8cc
+8cc
+4dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ee
+8ee
+=6
+8dd
+8dd
+8cc
+8cc
+=7
+8ff
+8ff
+8ff
+8ee
+=8
+8cc
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 185} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 185}
+!!!page: 185
+!!!ONB: Converted on 2024/12/26 with esac2hum

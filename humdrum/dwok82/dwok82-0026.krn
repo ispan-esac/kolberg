@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK8202600000-szob_tak_tobe_jak_meni.krn
+!!!OTL: Szob tak tobe jak meni
+!!!source: DWOK82
+!!!id: 82026
+!!!signature: 8202600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+16cc
+16ee
+=
+16ee
+16ee
+8dd
+24cc
+24b
+24a
+=2
+16a
+16cc
+16ee
+16cc
+8ee
+=
+8.dd
+16ee
+24cc
+24b
+24a}
+!!LO:LB:g=esac
+=3
+{16ee
+16cc
+16dd
+16ee
+8cc
+=4
+16ee
+16ee
+16dd
+32cc
+32b
+8a
+=5
+16cc
+16ee
+8dd
+32ee
+32dd
+32cc
+32b
+=6
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 21} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 21}
+!!!page: 21
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK8424400000-jak_zaprosyt_na_chrystiny.krn
+!!!OTL: Jak zaprosyt na chrystiny
+!!!source: DWOK84
+!!!id: 84244
+!!!signature: 8424400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8ff#
+8ff#
+=2
+8dd
+8dd
+8ff#
+8ff#
+=3
+8gg
+8gg
+8cc
+8gg
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8dd
+=6
+8g
+8a
+8b
+8cc
+=7
+8dd
+8dd
+8dd
+8dd
+=8
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{4cc
+8cc
+8cc
+=10
+4ff#
+8ff#
+8ee
+=11
+4dd
+8dd
+8ee
+=12
+4ff#
+8ff#
+8ee}
+!!LO:LB:g=esac
+=13
+{4cc
+8cc
+8cc
+=14
+4ff#
+8ff#
+8ee
+=15
+8dd
+8cc
+8b-
+8a
+=16
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=289 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 227} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 227}
+!!!page: 227
+!!!ONB: Converted on 2024/12/26 with esac2hum

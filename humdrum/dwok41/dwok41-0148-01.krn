@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK4114800001-karczmareczko_moja.krn
+!!!OTL: Karczmareczko moja
+!!!source: DWOK41
+!!!id: 41148
+!!!signature: 4114800001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16ee
+8ee
+8cc
+=2
+8.ff
+16cc
+16a
+16f
+=3
+16g
+16b-
+8a
+8g
+=4
+16f
+16f
+8a
+8cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8ee
+8cc
+=6
+8.ff
+16cc
+16a
+16f
+=7
+16g
+16b-
+8a
+8g
+=8
+16f
+16f
+8a
+8f}
+!!LO:LB:g=esac
+=9
+{16a
+16cc
+8cc
+8a
+=10
+16g
+16b-
+8b-
+8g
+=11
+16g
+16b-
+8a
+8g
+=12
+16f
+16f
+8a
+8cc}
+!!LO:LB:g=esac
+=13
+{16a
+16cc
+8cc
+8a
+=14
+16g
+16b-
+8b-
+8g
+=15
+16g
+16b-
+8b-
+8g
+=16
+16f
+16f
+8a
+8f}
+==
+*-
+!!!ONB: Złodziejska
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 102} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 102}
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

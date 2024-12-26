@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK5053700000-a_mlody_zmysliwczyk_caly_dzien_polowal.krn
+!!!OTL: A młody zmyśliwczyk cały dzień polował
+!!!source: DWOK50
+!!!id: 50537
+!!!signature: 5053700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8d
+8f#
+8g
+8f#
+4g
+4f#
+=2
+8e
+8f#
+8g
+8e
+8e
+8d
+4d}
+!!LO:LB:g=esac
+=3
+{8d
+8f#
+8g
+8f#
+4g
+4f#
+=4
+8e
+8f#
+8g
+8e
+8e
+8d
+4d}
+!!LO:LB:g=esac
+=5
+{4dd
+8b
+8a
+2g
+=6
+8dd
+8dd
+8cc
+8b
+2a}
+!!LO:LB:g=esac
+=7
+{8g
+8cc
+8b
+8a
+4g
+4b
+=8
+8d
+8d
+8e
+8f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=344 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 315} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 315}
+!!!page: 315
+!!!ONB: Converted on 2024/12/26 with esac2hum

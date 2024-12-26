@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK4401200000-stoi_w_okienecku.krn
+!!!OTL: Stoi w okienecku
+!!!source: DWOK44
+!!!id: 44012
+!!!signature: 4401200000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M4/4
+{8g
+8a
+8b
+8g
+4cc
+4ee
+=2
+8ee
+8dd
+8dd
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=3
+{8g
+8a
+8b
+8g
+4cc
+4ee
+=4
+8ee
+8dd
+8dd
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8cc
+8ee
+4gg
+=6
+*M3/4
+8cc
+8ee
+4dd
+4cc}
+!!LO:LB:g=esac
+=7
+*M2/4
+{8cc
+8ee
+4gg
+=8
+*M4/4
+8cc
+8ee
+8dd
+8dd
+2cc}
+==
+*-
+!!!ONB: Kolęda na Nowy Rok
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 74} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 74}
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

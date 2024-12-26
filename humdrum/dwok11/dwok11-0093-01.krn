@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK1109300001-ozenil_sie_kudla_w_piatek_do_poludnia.krn
+!!!OTL: Ożenił się Kudła w Piątek do południa
+!!!source: DWOK11
+!!!id: 11093
+!!!signature: 1109300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8dd
+=2
+16dd
+16b
+8ee
+8dd
+=3
+4cc
+8a
+=4
+16ee
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{4a
+8d
+=6
+16g
+16g
+8b
+8dd
+=7
+4cc
+8a
+=8
+16ee
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{4a
+8d
+=10
+16g
+16g
+8b
+16ee
+16dd
+=11
+4cc
+8a
+=12
+16ee
+16dd
+8b
+8g}
+==
+*-
+!!!ONB: W takcie 7 brakuje wartosci rytmicznych, zapisano jak w takcie 3
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 200-201} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, pp. 200-201}
+!!!page: 200-201
+!!!ONB: Converted on 2024/12/26 with esac2hum

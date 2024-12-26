@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK57118500001-czom_solowij_ne_spiwaje.krn
+!!!OTL: Czom sołowij ne śpiwaje
+!!!source: DWOK57
+!!!id: 571185
+!!!signature: 57118500001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4dd
+4a
+=2
+8dd
+8ee
+4.ff
+8aa
+=3
+8gg
+8gg
+4cc
+4dd
+=4
+4gg
+2ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+4cc
+4a
+=6
+8dd
+8ee
+8ff
+8dd
+8aa
+8aa
+=7
+8gg
+8gg
+4cc
+4dd
+=8
+4cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 306
+!!!ONB: Converted on 2024/12/26 with esac2hum

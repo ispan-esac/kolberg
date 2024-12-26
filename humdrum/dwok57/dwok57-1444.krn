@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK57144400000-jak_ja_bula_mala_mala.krn
+!!!OTL: Jak ja buła mała, mała
+!!!source: DWOK57
+!!!id: 571444
+!!!signature: 57144400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8g
+8f#
+8e
+=2
+8d
+8g
+8.f#
+16e
+=3
+8d
+8f#
+8a
+8cc
+=4
+8b
+8b
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{4b
+8a
+8cc
+=6
+8g
+8g
+8.f#
+16e
+=7
+8d
+8f#
+8a
+8f#
+=8
+8g
+8g
+8b
+8b}
+!!LO:LB:g=esac
+=9
+{8g
+16g
+16b
+8a
+8cc
+=10
+8b
+8b
+8.f#
+16e
+=11
+8d
+8f#
+8f#
+8f#
+=12
+8g
+8g
+8g
+8g}
+==
+*-
+!!!ONB: Wariant t. 1: -5_1_-7_-7_; wariant t. 8: 1_1_3_35
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 500
+!!!ONB: Converted on 2024/12/26 with esac2hum

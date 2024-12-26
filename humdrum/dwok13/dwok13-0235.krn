@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1323500000-oj_i_wszystkie_konie_dobre.krn
+!!!OTL: Oj i wszystkie konie dobre
+!!!source: DWOK13
+!!!id: 13235
+!!!signature: 1323500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.dd
+16b
+16b
+16a
+=2
+16cc
+16a
+8a
+8g
+=3
+8.b
+16d
+16f#
+16a
+=4
+16cc
+16a
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8.b
+16d
+16f#
+16a
+=6
+16cc
+16ee
+8dd
+8dd
+=7
+8.b
+16d
+16f#
+16a
+=8
+16cc
+16a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 114} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 114}
+!!!page: 114
+!!!ONB: Converted on 2024/12/26 with esac2hum

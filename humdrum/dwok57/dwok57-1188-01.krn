@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK57118800001-a_po_pole_bujny_witer_wije.krn
+!!!OTL: A po połe bujny witer wije
+!!!source: DWOK57
+!!!id: 571188
+!!!signature: 57118800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8ee
+8ee
+8ee
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=3
+{8a
+8b
+4a
+4a
+=4
+8dd
+8ee
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+4a
+4a
+=6
+4dd
+4b
+8b
+8dd
+=7
+4a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 309
+!!!ONB: Converted on 2024/12/26 with esac2hum

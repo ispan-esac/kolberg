@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK1236800011-kot_kot_matulinku.krn
+!!!OTL: Kot, kot, matulińku
+!!!source: DWOK12
+!!!id: 12368
+!!!signature: 1236800011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8ee
+=2
+16cc
+16cc
+8b
+8dd
+=3
+8b
+4a
+=4
+16g
+16a
+8b
+8dd
+=5
+16cc
+16cc
+8b
+8dd
+=6
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 192} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 192}
+!!!page: 192
+!!!ONB: Converted on 2024/12/26 with esac2hum

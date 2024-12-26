@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK2731200000-kapala_sie_kasia_w_morzu.krn
+!!!OTL: Kąpała się Kasia w morzu
+!!!source: DWOK27
+!!!id: 27312
+!!!signature: 2731200000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{16a
+16ff
+8ee
+8cc
+=2
+16ff
+16dd
+8a
+8g
+=3
+16g
+16a
+8cc
+8g
+=4
+16cc
+16dd
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16ff
+16ee
+8.cc
+16dd
+=6
+16ff
+16dd
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=326 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 307} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 307}
+!!!page: 307
+!!!ONB: Converted on 2024/12/26 with esac2hum

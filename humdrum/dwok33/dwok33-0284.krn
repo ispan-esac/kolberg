@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK3328400000-w_sobotonku_wu_weczor.krn
+!!!OTL: W sobotońku wu weczor
+!!!source: DWOK33
+!!!id: 33284
+!!!signature: 3328400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+16a
+16b
+16cc
+16b
+=2
+8dd
+8cc
+16b
+16g
+=3
+16a
+16g
+8b
+8cc
+=4
+8b
+16a
+16g
+16f#
+16d}
+!!LO:LB:g=esac
+=5
+{4a
+8b
+=6
+16a
+16f#
+4g
+=7
+4a
+8cc
+=8
+8cc
+4b}
+!!LO:LB:g=esac
+=9
+{8a
+8g
+8b
+=10
+8b
+8a
+8f#
+=11
+4.g
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=351 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 309} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 309}
+!!!page: 309
+!!!ONB: Converted on 2024/12/26 with esac2hum

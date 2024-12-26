@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2608700000-oj_poznac_poznac.krn
+!!!OTL: Oj poznać poznać
+!!!source: DWOK26
+!!!id: 26087
+!!!signature: 2608700000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{8g
+8dd
+8dd
+=2
+8cc#
+4a
+=3
+8cc#
+8b
+8cc#
+=4
+8dd
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8dd
+8dd
+=6
+8cc#
+4a
+=7
+8b
+8e
+8f#
+=8
+8g
+4e}
+!!LO:LB:g=esac
+=9
+{16e
+16f#
+8g
+8b
+=10
+16b
+16a
+8f#
+8d
+=11
+8f#
+4a
+=12
+8dd
+4b}
+!!LO:LB:g=esac
+=13
+{16e
+16f#
+8g
+8b
+=14
+16b
+16a
+8f#
+8d
+=15
+8f#
+4a
+=16
+8g
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

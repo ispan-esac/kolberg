@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK3404200000-oj_nima_to_tak_nikomu.krn
+!!!OTL: Oj nima to tak nikomu
+!!!source: DWOK34
+!!!id: 34042
+!!!signature: 3404200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8ee
+8ee
+8dd
+8ee
+8dd
+=2
+8cc
+8b
+8cc
+8b
+4a
+=3
+8a
+8ee
+8dd
+8cc
+8b
+8a
+=4
+4dd
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{4a
+2ee
+=6
+8a
+8ee
+8dd
+8cc
+8b
+8a
+=7
+4dd
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=32 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 15} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 15}
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

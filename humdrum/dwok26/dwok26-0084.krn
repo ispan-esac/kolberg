@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2608400000-ej_wykrec_ze_sie_wilku.krn
+!!!OTL: Ej wykręć ze się wilku
+!!!source: DWOK26
+!!!id: 26084
+!!!signature: 2608400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+8dd
+8ff
+=2
+16ee
+16gg
+8ff
+16ff
+16dd
+=3
+16ee
+16ee
+8dd
+8b
+=4
+8cc
+4g}
+!!LO:LB:g=esac
+=5
+{8f
+8g
+8b
+=6
+16cc
+16ee
+8ff
+8ff
+=7
+16ee
+16ee
+8dd
+16b
+16g
+=8
+8cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

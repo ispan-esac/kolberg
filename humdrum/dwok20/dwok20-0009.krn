@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2000900000-juz_teraz_wszyscy_wraz.krn
+!!!OTL: Już teraz wszyscy wraz
+!!!source: DWOK20
+!!!id: 20009
+!!!signature: 2000900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+4g
+=2
+8a
+8a
+4a
+=3
+8b
+8cc
+8dd
+8b
+=4
+8a
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4dd
+=6
+8cc
+8cc
+4cc
+=7
+8b
+8cc
+8dd
+8b
+=8
+8a
+8f#
+4g}
+!!LO:LB:g=esac
+=9
+{8dd
+8ee
+8dd
+8b
+=10
+8cc
+8cc
+8cc
+8a
+=11
+8b
+8cc
+8dd
+8b
+=12
+8a
+8g
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 80} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

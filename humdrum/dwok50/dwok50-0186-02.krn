@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK5018600002-bodaj_sie_kohut_znudyl.krn
+!!!OTL: Bodaj sie kohut znudył
+!!!source: DWOK50
+!!!id: 50186
+!!!signature: 5018600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8d
+8d
+=2
+4cc
+8b
+=3
+16a
+16g
+4b}
+!!LO:LB:g=esac
+=4
+{8d
+8d
+8f#
+=5
+4a
+8g
+=6
+16d
+16f#
+4g}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+8g
+=8
+4b
+8g
+=9
+16e
+16d
+4f#}
+!!LO:LB:g=esac
+=10
+{8d
+8d
+8d
+=11
+4a
+8g
+=12
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 85} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

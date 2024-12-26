@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5766700000-a_jak_ja_se_zaspiwaju.krn
+!!!OTL: A jak ja se zaspiwaju
+!!!source: DWOK57
+!!!id: 57667
+!!!signature: 5766700000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8dd
+8dd
+16dd
+16cc
+8b
+=2
+8dd
+8dd
+8dd
+8dd
+=3
+8dd
+8dd
+16dd
+16cc
+8b
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+8a
+=6
+8a
+8a
+8a
+8a
+=7
+8a
+8a
+8b
+8a
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

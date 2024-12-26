@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK57134200000-czyz_ja_sobi_ne_kalynonka_bula.krn
+!!!OTL: Czyż ja sobi ne kałynońka buła
+!!!source: DWOK57
+!!!id: 571342
+!!!signature: 57134200000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8a
+8cc
+8ee
+8dd
+4cc
+=2
+8cc
+8cc
+4ee
+8dd
+8a
+=3
+8cc
+8b
+2a}
+!!LO:LB:g=esac
+=4
+{8a
+8cc
+8ee
+8dd
+4cc
+=5
+8cc
+8cc
+4ee
+8dd
+8a
+=6
+8cc
+8b
+2a}
+!!LO:LB:g=esac
+=7
+*M2/4
+{8dd
+8dd
+8dd
+16cc
+16b
+=8
+8cc
+8ee
+8ee
+8ee
+=9
+8dd
+8dd
+16ee
+16dd
+16cc
+16b
+=10
+8a
+8ee
+8ee
+8ee}
+!!LO:LB:g=esac
+=11
+*M3/4
+{4ee
+4.dd
+8a
+=12
+8a
+8cc
+2ee
+=13
+4ee
+4.dd
+8a
+=14
+8cc
+8b
+2a}
+==
+*-
+!!!ONB: Wariant t. 12: 123b45___
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 420
+!!!ONB: Converted on 2024/12/26 with esac2hum

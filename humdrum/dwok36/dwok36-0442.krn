@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK3644200000-sama_jedna_na_tym_swiecie.krn
+!!!OTL: Sama jedna na tym świecie
+!!!source: DWOK36
+!!!id: 36442
+!!!signature: 3644200000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4.a
+8g#
+4.a
+8g#
+=2
+8a
+8b
+4cc
+4b
+4a
+=3
+4.b
+8b
+4b
+4b
+=4
+4b
+4cc
+4b
+4g#}
+!!LO:LB:g=esac
+=5
+{4.a
+8g#
+4.a
+8g#
+=6
+8a
+8b
+4cc
+4b
+4a
+=7
+4g#
+4b
+4.ee
+8dd
+=8
+4cc
+4b
+4.a
+8a}
+!!LO:LB:g=esac
+=9
+{4.cc
+8b
+4.cc
+8g
+=10
+4cc
+4gg
+4ff
+4ee
+=11
+4.dd
+8g
+4g
+4g
+=12
+4g
+4ee
+4dd
+8cc
+8b}
+!!LO:LB:g=esac
+=13
+{4.a
+8g#
+4.a
+8g#
+=14
+8a
+8b
+4cc
+4b
+4a
+=15
+4g#
+4b
+4.ee
+8dd
+=16
+4cc
+4b
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 281
+!!!ONB: Converted on 2024/12/26 with esac2hum

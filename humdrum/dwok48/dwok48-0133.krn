@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK4813300000-na_krakowskiej_sali.krn
+!!!OTL: Na krakowskiej sali
+!!!source: DWOK48
+!!!id: 48133
+!!!signature: 4813300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+4cc
+=2
+8b
+4g
+8g
+=3
+8b
+8b
+4cc
+=4
+8b
+4g
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4gg
+=6
+8ff#
+4ee
+8dd
+=7
+8ee
+8dd
+8ee
+8ff#
+=8
+8gg
+4.g}
+==
+*-
+!!!ONB: Wariant t. 3-4: 3_354_2_  3_1__11; wariant t. 8: +1_+1__.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 181} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 181}
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

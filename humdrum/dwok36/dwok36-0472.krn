@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK3647200000-kuda_jidesz_opentany.krn
+!!!OTL: Kuda jidesz opentany
+!!!source: DWOK36
+!!!id: 36472
+!!!signature: 3647200000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8dd
+8ff#
+8ff#
+16ff#
+16ee
+=2
+8ff#
+8ff#
+8dd
+8dd
+=3
+8a
+8gg
+8gg
+16gg
+16ff#
+=4
+8aa
+16gg
+16ff#
+8ee
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ff#
+16ff#
+16ee
+=6
+8ff#
+8ff#
+8dd
+8ff#
+=7
+8ee
+8ee
+8a
+8cc#
+=8
+8dd
+16dd
+16cc#
+8dd
+8ff#
+=9
+8ee
+8ee
+8a
+16b
+16cc#
+=10
+8dd
+8dd
+8dd
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 304
+!!!ONB: Converted on 2024/12/26 with esac2hum

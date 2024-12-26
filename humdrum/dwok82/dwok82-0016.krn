@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK8201600000-udoptanaja_stezenka.krn
+!!!OTL: Udoptanaja steżeńka
+!!!source: DWOK82
+!!!id: 82016
+!!!signature: 8201600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16b
+4cc
+=2
+16b
+16a
+4g
+=3
+8.b
+32a
+32f#
+8g
+=4
+8a
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+4cc
+=6
+8cc
+8b
+16a
+16g
+=7
+16b
+16b
+4cc
+=8
+16b
+16a
+4g
+=
+[8b
+24b]
+24a
+24f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 16} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

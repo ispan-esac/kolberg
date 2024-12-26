@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK57156400000-przy_dolinie_potok_plynie.krn
+!!!OTL: Przy dolinie potok płynie
+!!!source: DWOK57
+!!!id: 571564
+!!!signature: 57156400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8cc
+8g
+8b
+4dd
+=2
+8dd
+8b
+8g
+8dd
+4dd
+=3
+8dd
+8dd
+4ff
+4ee
+=4
+2.cc
+=5
+8g
+8b
+8dd
+8ff
+4aa
+=6
+8gg
+8gg
+8cc
+8ee
+4gg
+=7
+8ff
+8ff
+4a
+4b
+=8
+2.cc}
+==
+*-
+!!!ONB: Wariant t. 6: +5+5+1+3+5+3
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 607
+!!!ONB: Converted on 2024/12/26 with esac2hum

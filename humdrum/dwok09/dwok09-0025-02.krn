@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK0902500002-ani_wilczek_niedzioleczki.krn
+!!!OTL: Ani wilczek niedziołeczki
+!!!source: DWOK09
+!!!id: 09025
+!!!signature: 0902500002
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{16g
+16a
+8b
+8b
+=2
+16b
+16ee
+8dd
+8cc#
+=3
+16a
+16b
+8a
+8g
+=4
+8f#
+4e}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8e
+=6
+8dd
+8dd
+8cc#
+=7
+16a
+16b
+8a
+8g
+=8
+8f#
+4e}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+8b
+8e
+=10
+8dd
+8dd
+8cc#
+=11
+16a
+16b
+8a
+8g
+=12
+8f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=188 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 164} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 164}
+!!!page: 164
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK4436500020-kiedy_wiszel_kolerwac.krn
+!!!OTL: Kiedy wiszeł kolerwać
+!!!source: DWOK44
+!!!id: 44365
+!!!signature: 4436500020
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16ff
+16ff
+8ee
+8dd
+=2
+8cc
+4dd}
+!!LO:LB:g=esac
+=3
+{16g
+16g
+8g
+8f
+=4
+16g
+16a
+4b-}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8ee-
+8dd
+=6
+16cc
+16b-
+8a
+8f
+=7
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 238} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 238}
+!!!page: 238
+!!!ONB: Converted on 2024/12/26 with esac2hum

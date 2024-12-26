@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK3642300001-joj_ne_szumy_luze.krn
+!!!OTL: Joj ne szumy łuże
+!!!source: DWOK36
+!!!id: 36423
+!!!signature: 3642300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8ee
+8cc
+=2
+4.dd
+16b
+16g
+=3
+8cc
+8dd
+8ee
+8dd
+=4
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ee
+8ee
+=6
+8dd
+8dd
+8ee
+16cc
+16b
+=7
+8a
+8b
+8cc
+8a
+=8
+4.g
+8g}
+!!LO:LB:g=esac
+=9
+{16cc
+16g
+8cc
+8ee
+8ee
+=10
+16dd
+16g
+8dd
+8ee
+16cc
+16b
+=11
+8a
+8b
+8cc
+8a
+=12
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 269-270
+!!!ONB: Converted on 2024/12/26 with esac2hum

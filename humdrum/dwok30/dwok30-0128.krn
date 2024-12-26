@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK3012800000-hoj_u_haju_kalyna.krn
+!!!OTL: Hoj u haju kalyna
+!!!source: DWOK30
+!!!id: 30128
+!!!signature: 3012800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4cc
+4dd
+=2
+4ee
+8cc
+8ee
+=3
+8dd
+8dd
+4cc}
+!!LO:LB:g=esac
+=4
+{4ee
+4ff
+=5
+4gg
+8ee
+8gg
+=6
+8ff
+8ff
+4ee}
+!!LO:LB:g=esac
+=7
+{8cc
+8dd
+8ee
+8cc
+=8
+4ee
+8cc
+8ee
+=9
+8dd
+8dd
+4cc}
+!!LO:LB:g=esac
+=10
+{8gg
+8g
+4g
+=11
+8a
+8a
+4g
+=12
+8gg
+8g
+4g
+=13
+8a
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 90} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

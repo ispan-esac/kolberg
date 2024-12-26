@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK2208400000-instrumentalna-wiwat_skrzypka.krn
+!!!OTL: Instrumentalna-Wiwat skrzypka
+!!!source: DWOK22
+!!!id: 22084
+!!!signature: 2208400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8gg
+8gg
+=2
+8cc
+8a
+8cc
+8cc
+=3
+8a
+8b
+8cc
+8cc
+=4
+8a
+8g
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+16gg
+16ff#
+8gg
+=6
+8cc
+8a
+16cc
+16b
+8cc
+=7
+8a
+8b
+16cc
+16b
+8cc
+=8
+8a
+8g
+16b
+16cc
+8dd}
+!!LO:LB:g=esac
+=9
+{8d
+8g
+8d
+8g
+=10
+8cc
+8a
+4a
+=11
+8d
+8b
+16dd
+16ee
+8dd
+=12
+8cc
+8b
+16cc
+16b
+8cc}
+!!LO:LB:g=esac
+=13
+{8d
+8b
+16cc
+16dd
+8cc
+=14
+8dd
+8b
+16g
+16f#
+8g
+=15
+8d
+8b
+8cc
+8cc
+=16
+8dd
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 71} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 71}
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,33 @@
+!!!!SEGMENT: DWOK7680300000-opowiesc_o_organiscie-a_cy_przywiod.krn
+!!!OTL: Opowieść o organiście-A cy przywiód
+!!!source: DWOK76
+!!!id: 76803
+!!!signature: 7680300000
+**kern
+*clefG2
+*k[]
+*C:
+*MX
+=1
+{4.dd
+8dd
+8dd
+8dd
+8dd
+8dd
+8ee
+4dd
+16dd
+16cc
+16b
+16cc
+8b}
+8r
+==
+*-
+!!!ONB: Opowieść o organiście
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=434 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 398} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 398}
+!!!page: 398
+!!!ONB: Converted on 2024/12/26 with esac2hum

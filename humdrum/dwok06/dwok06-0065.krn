@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK06-K0065-instrumentalna_-_marsz.krn
+!!!OTL: Instrumentalna - Marsz
+!!!source: DWOK06
+!!!id: K0065
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+8.g
+16g
+8g
+8a
+8b
+8g
+=2
+4f#
+8.f#
+16f#
+8f#
+8g
+8a
+8b
+=3
+4cc
+8.cc
+16cc
+8cc
+8ee
+8dd
+8cc
+=4
+4b
+8.b
+16b
+4b}
+4r
+!!LO:LB:g=esac
+=5
+{4.d
+8f#
+8g
+8f#
+8g
+8e
+=6
+4.d
+8f#
+8g
+8f#
+8g
+8e
+=7
+8d
+8cc
+8b
+8a
+4g
+4f#
+=8
+4g
+8.g
+16g
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{4.gg
+8dd
+8gg
+8dd
+8b
+8g
+=10
+4.cc
+8a
+8cc
+8a
+8f#
+8d
+=11
+8g
+8cc
+8b
+8a
+4g
+4f#
+=12
+4g
+4g
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 39} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 39}
+!!!page: 39
+!!!ONB: Converted on 2024/12/26 with esac2hum

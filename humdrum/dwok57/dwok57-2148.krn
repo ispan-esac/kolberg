@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK57214800000-instrumentalna_-_kolomyjka.krn
+!!!OTL: Instrumentalna - Kołomyjka
+!!!source: DWOK57
+!!!id: 572148
+!!!signature: 57214800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+4cc
+=2
+8b
+8b
+4a
+=3
+8b
+8b
+8cc
+8cc
+=4
+8b
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8cc
+8cc
+=6
+8dd
+8dd
+8ee
+8ee
+=7
+8dd
+8dd
+8cc
+8cc
+=8
+8b
+8b
+4a}
+!!LO:LB:g=esac
+=9
+{16bb
+8.bb
+16ccc
+8.ccc
+=10
+16ddd
+8.ddd
+16eee
+8.eee
+=11
+16ddd
+8.ddd
+16ccc
+8.ccc
+=12
+16bb
+8.bb
+4aa}
+==
+*-
+!!!ONB: Melodia w dwudźwiękach
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1200
+!!!ONB: Converted on 2024/12/26 with esac2hum

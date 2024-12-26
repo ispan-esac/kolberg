@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK4820100000-kto_poczciw_kto_cnote_ceni.krn
+!!!OTL: Kto poczciw, kto cnotę ceni
+!!!source: DWOK48
+!!!id: 48201
+!!!signature: 4820100000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{4ee-
+4cc
+4a
+=2
+4ee-
+4cc
+4a
+=3
+2b-
+4dd
+=4
+2.f}
+!!LO:LB:g=esac
+=5
+{4ee-
+4cc
+4a
+=6
+4ee-
+4cc
+4a
+=7
+2b-
+4dd
+=8
+2.f}
+!!LO:LB:g=esac
+=9
+{4.dd
+8dd
+4dd
+=10
+4dd
+4dd
+4ee-
+=11
+4gg
+2gg}
+!!LO:LB:g=esac
+=12
+{4.ff
+8ff
+4ff
+=13
+4ff
+4ee-
+4a
+=14
+2.cc
+=15
+4b-}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 229} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 229}
+!!!page: 229
+!!!ONB: Converted on 2024/12/26 with esac2hum

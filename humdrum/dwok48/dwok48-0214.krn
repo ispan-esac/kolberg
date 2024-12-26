@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4821400000-oj_parobeczek_ci_ja.krn
+!!!OTL: Oj, parobeczek ci ja
+!!!source: DWOK48
+!!!id: 48214
+!!!signature: 4821400000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8e
+4a
+16a
+16g#
+=2
+8a
+8b
+8cc#
+8dd
+=3
+8ee
+8ee
+8.ff#
+16ee
+=4
+8ee
+4dd
+8cc#}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8b
+16b
+16g#
+=6
+8b
+8b
+8g#
+8e
+=7
+8ee
+16dd#
+16ff#
+8.ee
+16dd
+=8
+8dd
+4cc#}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=283 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 239} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 239}
+!!!page: 239
+!!!ONB: Converted on 2024/12/26 with esac2hum

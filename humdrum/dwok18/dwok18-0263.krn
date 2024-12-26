@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK1826300000-posla_do_karcemki.krn
+!!!OTL: Posła do karcemki
+!!!source: DWOK18
+!!!id: 18263
+!!!signature: 1826300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+8ee
+8dd#
+8ff#
+8ee
+=2
+8dd
+8ee
+8dd
+8cc
+8b
+8g
+=3
+8a
+8cc
+8ee
+8dd#
+8ff#
+8ee
+=4
+8dd
+8ee
+8dd
+8cc
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+2g
+=6
+8a
+8b
+2cc
+=7
+8dd
+8dd
+8ee
+8b
+8cc
+8ee
+=8
+8dd
+8b
+2a}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+2g
+=10
+8a
+8cc
+2dd
+=11
+8dd
+8dd
+8ee
+8b
+8cc
+8ee
+=12
+8dd
+8b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 152} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 152}
+!!!page: 152
+!!!ONB: Converted on 2024/12/26 with esac2hum

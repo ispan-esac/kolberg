@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK4103500000-a_ja_jade_do_kalisza.krn
+!!!OTL: A ja jadę do Kalisza
+!!!source: DWOK41
+!!!id: 41035
+!!!signature: 4103500000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16d
+16f#
+8a
+16cc#
+16b
+=2
+16g
+16f#
+16g
+16b
+8a}
+!!LO:LB:g=esac
+=3
+{16d
+16f#
+8a
+16cc#
+16b
+=4
+16g
+16e
+8f#
+8d}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8g
+16e
+16f#
+=6
+16g
+16a
+16dd
+16cc#
+8a}
+!!LO:LB:g=esac
+=7
+{16f#
+16a
+8g
+16e
+16f#
+=8
+16g
+16e
+16c#
+16e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 44} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 44}
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK1221900000-pani_palac_buduje.krn
+!!!OTL: Pani pałac buduje
+!!!source: DWOK12
+!!!id: 12219
+!!!signature: 1221900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8b
+8g
+=2
+8f#
+8a
+4cc
+=3
+8dd
+8dd
+4b
+=4
+8f#
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+4g
+=6
+8a
+8a
+4g
+=7
+8dd
+8dd
+8b
+8g
+=8
+8f#
+16f#
+16a
+8g
+8g}
+!!LO:LB:g=esac
+=9
+{8d
+8d
+4g
+=10
+16a
+16cc
+16a
+16f#
+4g
+=11
+8dd
+8dd
+8b
+8g
+=12
+16f#
+16d
+16f#
+16a
+8g
+8g}
+==
+*-
+!!!ONB: wariant w takcie trzecim 5_5_3_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 113-114} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 113-114}
+!!!page: 113-114
+!!!ONB: Converted on 2024/12/26 with esac2hum

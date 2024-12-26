@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK42183100000-we_dworze_w_dyspudzie.krn
+!!!OTL: We dworze w Dyspudzie
+!!!source: DWOK42
+!!!id: 421831
+!!!signature: 42183100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+4ee
+8ee
+=2
+8dd
+16ee
+16ff
+4gg
+=3
+8ee
+4ee
+8ee
+=4
+8dd
+16ee
+16ff
+4gg}
+!!LO:LB:g=esac
+=5
+{8ff
+4aa
+8ee
+=6
+8gg
+16ff
+16ee
+4dd
+=7
+8gg
+4gg
+8ff
+=8
+8dd
+8b
+4cc}
+==
+*-
+!!!ONB: wariant w takcie 1: +1+2+3__+3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 230} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 230}
+!!!page: 230
+!!!ONB: Converted on 2024/12/26 with esac2hum

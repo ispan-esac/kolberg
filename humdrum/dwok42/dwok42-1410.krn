@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK42141000000-o_moja_matulu._toc_was_pan_bog_skarze.krn
+!!!OTL: O, moja matulu. toć was Pan Bóg skarze
+!!!source: DWOK42
+!!!id: 421410
+!!!signature: 42141000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16b-
+16dd
+8ff
+8ee
+=2
+4cc
+8g
+=3
+16f
+16a
+8cc
+8g
+=4
+4f
+8a}
+!!LO:LB:g=esac
+=5
+{16b-
+16dd
+8ff
+8ee
+=6
+4cc
+8g
+=7
+16a
+16a
+8b-
+8g
+=8
+4f
+8f}
+!!LO:LB:g=esac
+=9
+{4b-
+8b-
+=10
+16a
+16g
+8a
+8f
+=11
+4cc
+8cc
+=12
+16b-
+16cc
+8dd
+8b-}
+!!LO:LB:g=esac
+=13
+{16b-
+16dd
+8ff
+16ee
+16dd
+=14
+4cc
+8b-
+=15
+16a
+16a
+8b-
+16g
+16e
+=16
+4f
+8f}
+==
+*-
+!!!ONB: wariant w takcie 14 i 15 565_52  335_2-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 33-34} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 33-34}
+!!!page: 33-34
+!!!ONB: Converted on 2024/12/26 with esac2hum

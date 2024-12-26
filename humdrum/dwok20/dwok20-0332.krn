@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK2033200000-a_chmielu_chmielu_ty_rozbojniku.krn
+!!!OTL: A chmielu chmielu, ty rozbójniku
+!!!source: DWOK20
+!!!id: 20332
+!!!signature: 2033200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ff#
+8ee
+=2
+8dd
+4ee
+=3
+8ee
+8ff#
+8ee
+=4
+8dd
+4a}
+!!LO:LB:g=esac
+=5
+{8g#
+8a
+8cc
+=6
+8cc
+8b
+8dd
+=7
+8ee
+16dd
+16cc
+8ee
+=8
+8dd
+4a}
+!!LO:LB:g=esac
+=9
+{8dd
+8a
+8cc
+=10
+16dd
+16ee
+8a
+8dd
+=11
+8dd
+8a
+8cc
+=12
+16dd
+16ee
+8a
+8cc
+=13
+16dd
+16ee
+8dd
+8a
+=14
+4.b}
+!!LO:LB:g=esac
+=15
+{8dd
+8a
+8cc
+=16
+16dd
+16ee
+8a
+8dd
+=17
+8dd
+8a
+8cc
+=18
+16dd
+16ee
+8a
+8cc
+=19
+16dd
+16ee
+8dd
+8cc
+=20
+4.b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 228} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 228}
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

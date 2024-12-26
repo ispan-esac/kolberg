@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1718800020-tam_sie_ptaszek_cisnie_-_krakowiak_czesc_instrumentalna.krn
+!!!OTL: Tam się ptaszek ciśnie - Krakowiak część instrumentalna
+!!!source: DWOK17
+!!!id: 17188
+!!!signature: 1718800020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.b
+16cc
+16dd
+16ee
+16dd
+16cc
+=2
+8b
+8f#
+8g
+8g
+=3
+8b
+8d
+8f#
+8a
+=4
+8cc
+8a
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{8.b
+16cc
+16dd
+16ee
+16dd
+16cc
+=6
+8b
+8f#
+8g
+8g
+=7
+8b
+8d
+8f#
+8a
+=
+8g
+24a
+24g
+24f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 60} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

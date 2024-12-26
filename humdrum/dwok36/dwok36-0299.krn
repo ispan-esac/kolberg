@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3629900000-ty_dumajesz_durniu.krn
+!!!OTL: Ty dumajesz durniu
+!!!source: DWOK36
+!!!id: 36299
+!!!signature: 3629900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8d
+4g
+4g
+=2
+8f#
+8e
+2d
+=3
+8g
+8b
+4b
+4b
+=4
+4a
+2b}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+4dd
+=6
+8a
+8b
+2cc
+=7
+8.b
+16a
+8g
+8f#
+4e
+=8
+8d
+8f#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

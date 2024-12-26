@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1930900000-widzialsem_cie_widziasl.krn
+!!!OTL: Widziałśem cię widziaśł
+!!!source: DWOK19
+!!!id: 19309
+!!!signature: 1930900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16dd
+16ee
+4cc
+=3
+16a
+16b
+4g
+=4
+8cc
+8a
+8f#}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8g
+=6
+8a
+4cc
+=7
+16a
+16b
+4g
+=8
+8cc
+8a
+8f#}
+==
+*-
+!!!ONB: Wariant w takcie trzecim 423_.5. W takcie pierwszym jest w oryginale szesnastka ósemka, zapisane z poprawką jako dwie szesnastki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 95} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 95}
+!!!page: 95
+!!!ONB: Converted on 2024/12/26 with esac2hum

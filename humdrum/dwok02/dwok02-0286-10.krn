@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK0228600010-instrumentalna_-_mazurek.krn
+!!!OTL: Instrumentalna - Mazurek
+!!!source: DWOK02
+!!!id: K0286
+!!!signature: 0228600010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.dd
+16ee
+16dd
+16b
+=2
+8dd
+8g
+8dd
+=3
+16d
+16f#
+16a
+16cc
+8ee
+=4
+16ee
+16dd
+4b}
+!!LO:LB:g=esac
+=5
+{8.dd
+16ee
+16dd
+16b
+=6
+8dd
+8g
+8dd
+=7
+16d
+16f#
+16a
+16cc
+8ee
+=8
+16ee
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+16a
+16b
+16a
+16f#
+=10
+16g
+16g
+8b
+16dd
+16gg
+=11
+16gg
+16aa
+16ff#
+16dd
+16ee
+16ff#
+=12
+16gg
+16dd
+16cc
+16b
+16a
+16g}
+!!LO:LB:g=esac
+=13
+{16d
+16d
+8a
+16a
+16f#
+=14
+16g
+16b
+8g
+16dd
+16gg
+=15
+16ff#
+32r
+32aa
+16ff#
+16dd
+16ee
+16ff#
+=16
+8gg
+4gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 217} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 217}
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

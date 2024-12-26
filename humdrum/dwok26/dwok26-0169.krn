@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK2616900000-na_cem_bande_spal.krn
+!!!OTL: Na cem bande spał
+!!!source: DWOK26
+!!!id: 26169
+!!!signature: 2616900000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8b
+8dd
+8ee
+8cc
+=2
+8a
+8a
+8b
+8g#
+=3
+8b
+8dd
+8ee
+8cc
+=4
+8a
+8a
+8b
+8g#}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8ee
+8cc
+=6
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

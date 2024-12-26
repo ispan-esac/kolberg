@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2574900010-hop_hop_hop_hop_mazura.krn
+!!!OTL: Hop hop hop hop Mazura
+!!!source: DWOK25
+!!!id: 25749
+!!!signature: 2574900010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+8g
+=2
+16d
+16f#
+8a
+8cc
+=3
+16ee
+16dd
+8b
+8g
+=4
+16f#
+16d
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8g
+=6
+16d
+16f#
+16a
+16b
+16cc
+16a
+=7
+16ee
+16dd
+16cc#
+16dd
+16b
+16g
+=8
+16f#
+16d
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 265} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 265}
+!!!page: 265
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK7747800000-wysoko_daleko_listek_na_drzewinie.krn
+!!!OTL: Wysoko daleko listek na drzewinie
+!!!source: DWOK77
+!!!id: 77478
+!!!signature: 7747800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+16b
+16cc
+8dd
+=2
+16ee
+16dd
+4cc#
+=3
+16dd
+16ee
+16dd
+16cc
+8a
+=4
+16a
+16g
+4g}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8dd
+8a
+=6
+8cc
+4cc
+=7
+16b
+16b
+8a
+8f#
+=8
+4a
+8g}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+16b
+16cc
+8dd
+=10
+16ee
+16dd
+4cc#
+=11
+16dd
+16ee
+16dd
+16cc
+8a
+=12
+8g
+4g}
+!!LO:LB:g=esac
+=13
+{16b
+16dd
+8dd
+8a
+=14
+8cc
+8cc
+8g
+=15
+16b
+16b
+8a
+8f#
+=16
+8a
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 245
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,130 @@
+!!!!SEGMENT: DWOK4704000002-oj_winkuz_mij.krn
+!!!OTL: Oj, winkuż mij
+!!!source: DWOK47
+!!!id: 47040
+!!!signature: 4704000002
+**kern
+*clefG2
+*k[]
+*a:
+*M4/8
+{8ee
+=1
+*M3/8
+4ee
+8dd
+=2
+8dd
+16dd
+16cc
+16b
+16a
+=3
+*M4/8
+4cc
+8b}
+!!LO:LB:g=esac
+=-
+{8cc
+=4
+*M3/8
+4ee
+8dd
+=5
+8ee
+16dd
+16cc
+16b
+16a
+=6
+16cc
+16b
+8a}
+8r
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+8dd
+=8
+*M4/8
+4ee
+16dd
+16cc
+16b
+16a
+=9
+*M3/8
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=10
+{8cc
+8ee
+8dd
+=
+!!UNCATEGORIZED MEASURE
+8cc
+8dd
+24dd
+24cc
+24dd
+=11
+*M3/8
+8ee
+4ee}
+!!LO:LB:g=esac
+=12
+{8cc
+8ee
+8dd
+=
+!!UNCATEGORIZED MEASURE
+8cc
+8dd
+24dd
+24cc
+24dd
+=13
+*M3/8
+8ee
+4ee}
+!!LO:LB:g=esac
+=14
+{8cc
+8ee
+8dd
+=
+!!UNCATEGORIZED MEASURE
+8cc
+8dd
+24dd
+24cc
+24dd
+=15
+*M3/8
+8ee
+4ee}
+!!LO:LB:g=esac
+=16
+{16ff
+16ee
+8ee
+8dd
+=17
+8dd
+8cc
+8b
+=18
+*M4/8
+4a
+8a}
+==
+*-
+!!!ONB: U Kolberga wątpliwy zapis metrorytmiczny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 74} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 74}
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

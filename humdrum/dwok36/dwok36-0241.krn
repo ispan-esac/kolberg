@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK3624100000-a_kin_bizyt_trawa_szumyt.krn
+!!!OTL: A kiń biżyt' trawa szumyt'
+!!!source: DWOK36
+!!!id: 36241
+!!!signature: 3624100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8cc
+8cc
+=2
+8dd
+8dd
+8cc
+8a
+=3
+8g
+8g
+8cc
+8cc
+=4
+4dd
+8ee
+8dd
+=5
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=6
+{8cc
+8.ee
+16dd
+8ee
+=7
+8cc
+8a
+8g
+8f
+=8
+8g
+8d
+4g
+=9
+8cc
+8b
+8cc
+8a
+=10
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4009200010-lec_glosie_po_rosie.krn
+!!!OTL: Leć, głosie, po rosie
+!!!source: DWOK40
+!!!id: 40092
+!!!signature: 4009200010
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8e
+8e
+4b
+=2
+8a
+8f#
+4b
+=3
+8cc
+16b
+16a
+16f#
+16g
+8e
+=4
+4f#
+8d
+8B}
+!!LO:LB:g=esac
+=5
+{8e
+8g
+8f#
+8e
+=6
+8e
+8g
+8b
+16a
+16f#
+=
+8g
+24a
+24g
+24a
+8b
+8g
+=7
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 179} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 179}
+!!!page: 179
+!!!ONB: Converted on 2024/12/26 with esac2hum

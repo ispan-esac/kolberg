@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK1012700000-o_moj_ptaszku_kregulaszku.krn
+!!!OTL: O mój ptaszku  kregulaszku
+!!!source: DWOK10
+!!!id: 10127
+!!!signature: 1012700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8cc
+8ee
+4cc
+4a
+=3
+8g
+8b
+4dd
+4b
+=4
+2cc
+4a}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+4dd
+=6
+8f#
+8a
+4cc
+4cc
+=7
+8g
+8b
+4cc
+4b
+=8
+4a
+16g
+16f#
+16e
+16f#
+4d}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+4dd
+4dd
+=10
+8cc
+8ee
+4cc
+4a
+=11
+8g
+8b
+4dd
+4b
+=12
+2cc
+4a}
+!!LO:LB:g=esac
+=13
+{8g
+8b
+4dd
+4dd
+=14
+8f#
+8a
+4cc
+8cc
+8a
+=15
+8g
+8b
+4cc
+4b
+=16
+4a
+16g
+16f#
+16e
+16f#
+4d}
+==
+*-
+!!!ONB: w zapisie Kolberga takt drugi niepełny, zapisano poprawnie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 275} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 275}
+!!!page: 275
+!!!ONB: Converted on 2024/12/26 with esac2hum

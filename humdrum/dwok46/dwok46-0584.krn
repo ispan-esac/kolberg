@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK4658400000-potok_plynie_dolina_nad_potokiem_jawory.krn
+!!!OTL: Potok płynie doliną, nad potokiem jawory
+!!!source: DWOK46
+!!!id: 46584
+!!!signature: 4658400000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8b-
+8b-
+8dd
+8dd
+=2
+8cc
+8b-
+4a
+=3
+8b-
+8b-
+8dd
+8dd
+=4
+8cc#
+8cc#
+4dd}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+16g
+16b-
+16dd
+16b-
+=6
+8a
+8g
+4f#
+=7
+16d
+16f#
+16a
+16f#
+8d
+8cc
+=8
+8b-
+16dd
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=396 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 362-363} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, pp. 362-363}
+!!!page: 362-363
+!!!ONB: Converted on 2024/12/26 with esac2hum

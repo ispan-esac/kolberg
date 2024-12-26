@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK5303100000-o_kuo_jeskaj.krn
+!!!OTL: O, kuo jeskaj
+!!!source: DWOK53
+!!!id: 53031
+!!!signature: 5303100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4d
+4g
+4cc
+4b
+=2
+4a
+4b
+4g
+4b}
+!!LO:LB:g=esac
+=3
+{4a
+4a
+4f#
+4a
+=4
+4g
+4f#
+4d
+4b}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+4f#
+4a
+=6
+4g
+4f#
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 197} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 197}
+!!!page: 197
+!!!ONB: Converted on 2024/12/26 with esac2hum

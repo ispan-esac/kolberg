@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK1940300000-mazur-instrumentalna.krn
+!!!OTL: Mazur-Instrumentalna
+!!!source: DWOK19
+!!!id: 19403
+!!!signature: 1940300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.gg
+16dd
+16ee
+16ff#
+=2
+8gg
+8dd
+16ee
+16ff#
+=3
+16gg
+16ff#
+16gg
+16dd
+16ee
+16ff#
+=4
+16gg
+16ff#
+16gg
+16dd
+16ee
+16cc}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+16a
+16f#
+=6
+16g
+16a
+8b
+8cc
+=7
+16dd
+16ff#
+8ee
+16ee
+16a
+=8
+16g
+16a
+8b
+8cc}
+!!LO:LB:g=esac
+=9
+{16b
+16g
+16a
+16g
+16a
+16f#
+=10
+16g
+16a
+8b
+8cc
+=11
+16dd
+16ff#
+8ee
+16ee
+16a
+=12
+16g
+16a
+8b
+8cc}
+==
+*-
+!!!ONB: wariant w pierwszym takcie 5_.567
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 122} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 122}
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK5522000001-oj_na_hori_dwa_duby.krn
+!!!OTL: Oj, na hori dwa duby
+!!!source: DWOK55
+!!!id: 55220
+!!!signature: 5522000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4a
+4b
+=2
+4g
+4f#
+=3
+8g
+8f#
+4d
+=4
+8a
+8b
+8dd
+8a
+=5
+8dd
+8cc
+8g
+8b
+=6
+8a
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=63 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 46} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

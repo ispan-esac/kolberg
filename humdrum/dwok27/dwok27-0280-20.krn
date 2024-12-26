@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2728000020-oj_sluzba_sluzba.krn
+!!!OTL: Oj słuzba słuzba
+!!!source: DWOK27
+!!!id: 27280
+!!!signature: 2728000020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8b
+=2
+8cc
+4a
+=3
+16f#
+16e
+4d}
+!!LO:LB:g=esac
+=4
+{8g
+8b
+8b
+=5
+8cc
+4a
+=6
+16f#
+16e
+4d}
+!!LO:LB:g=esac
+=7
+{16b
+16cc
+16b
+16a
+8g
+=8
+4e
+8d
+=9
+8f#
+4a}
+!!LO:LB:g=esac
+=10
+{16b
+16cc
+16b
+16a
+8g
+=11
+4e
+8g
+=12
+8f#
+4d}
+==
+*-
+!!!ONB: Melodia kolejnych zwrotek
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=310 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 291} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 291}
+!!!page: 291
+!!!ONB: Converted on 2024/12/26 with esac2hum

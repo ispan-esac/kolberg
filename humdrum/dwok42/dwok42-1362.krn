@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK42136200000-i_chodzila_wedle_rzeczki.krn
+!!!OTL: I chodziła wedle rzeczki
+!!!source: DWOK42
+!!!id: 421362
+!!!signature: 42136200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4.cc
+8ee
+=2
+8dd
+8b
+4g
+4a
+=3
+8g
+8a
+4.cc
+8a
+=4
+8g
+8b
+4g
+4f#}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4.cc
+8a
+=6
+8g
+8b
+4g
+4dd
+=7
+8g
+8a
+4.cc
+8a
+=8
+8dd
+8b
+4g
+4f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=23 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 14} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 14}
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

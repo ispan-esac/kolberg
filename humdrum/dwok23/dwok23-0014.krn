@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2301400000-wstawszy_pasterz_bardzo_rano.krn
+!!!OTL: Wstawszy pasterz bardzo rano
+!!!source: DWOK23
+!!!id: 23014
+!!!signature: 2301400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16ee
+8dd
+8b
+=2
+4cc
+8a
+=3
+8dd
+4b}
+!!LO:LB:g=esac
+=4
+{16dd
+16ee
+8dd
+8b
+=5
+4cc
+8a
+=6
+16dd
+16cc
+4b}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8b
+=8
+4cc
+8ee
+=9
+8ee
+4dd}
+!!LO:LB:g=esac
+=10
+{16g
+16a
+8b
+8b
+=11
+4cc
+8a
+=12
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 60} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

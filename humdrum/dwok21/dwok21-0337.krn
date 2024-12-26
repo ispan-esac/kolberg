@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2133700000-przysiegalam_przed_bogiem.krn
+!!!OTL: Przysięgałam przed Bogiem
+!!!source: DWOK21
+!!!id: 21337
+!!!signature: 2133700000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16ee-
+16dd
+4cc
+=2
+8ee-
+8.gg
+16ff
+=3
+16ee-
+16dd
+8cc
+16ee-
+16dd
+=4
+16ee-
+16ff
+8.gg
+16ff}
+!!LO:LB:g=esac
+=5
+{16ee-
+16dd
+8cc
+16ee-
+16dd
+=6
+16f
+16a
+4b-
+=7
+16ee-
+16dd
+8cc
+8dd
+=8
+16f
+16f
+16f
+16a
+16cc
+16b-}
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 133} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 133}
+!!!page: 133
+!!!ONB: Converted on 2024/12/26 with esac2hum

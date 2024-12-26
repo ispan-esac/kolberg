@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK4122800000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK41
+!!!id: 41228
+!!!signature: 4122800000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16e
+16g#
+8a
+16cc#
+16a
+=2
+16b
+16dd
+8ff#
+8ee
+=3
+16ee
+16dd#
+8b
+16dd#
+16ff#
+=4
+16ee
+16g#
+8a
+16g#
+16f#}
+!!LO:LB:g=esac
+=5
+{16e
+16g#
+8a
+16cc#
+16a
+=6
+16b
+16dd
+8ff#
+8ee
+=7
+16ee
+16dd#
+8b
+16b
+16g#
+=8
+8e
+16f#
+16e
+16g#
+16b}
+!!LO:LB:g=esac
+=9
+{8a
+8cc#
+8a
+=10
+16b
+16dd
+8ff#
+8b
+=11
+8b
+8g#
+16a
+16g#
+=12
+8b
+16f#
+16e
+16g#
+16b}
+!!LO:LB:g=esac
+=13
+{8a
+8cc#
+8a
+=14
+16b
+16dd
+8ff#
+8b
+=15
+8b
+8g#
+16a
+16g#
+=16
+8b
+16f#
+16e
+16g#
+16b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 136} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 136}
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

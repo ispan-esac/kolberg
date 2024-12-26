@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2323600000-gdysmy_przyszli_do_kosciola_krolowa.krn
+!!!OTL: Gdyśmy przyszli do kościoła Królowa
+!!!source: DWOK23
+!!!id: 23236
+!!!signature: 2323600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8g
+4g
+4b
+=2
+8a
+8g
+4a
+4cc
+=3
+8b
+8a
+2b}
+!!LO:LB:g=esac
+=4
+{8d
+8g
+4g
+4b
+=5
+8a
+8g
+4a
+4cc
+=6
+8b
+8a
+2b}
+!!LO:LB:g=esac
+=7
+{4dd
+8dd
+8cc
+4b
+=8
+4cc
+8cc
+8b
+4a
+=9
+8g
+8b
+4dd
+4cc
+=10
+8b
+8a
+2g}
+==
+*-
+!!!ONB: Gdy kompanija weszła do kościoła
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 235} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 235}
+!!!page: 235
+!!!ONB: Converted on 2024/12/26 with esac2hum

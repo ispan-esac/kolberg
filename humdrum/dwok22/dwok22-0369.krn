@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK2236900000-instrumentalna-chodzony.krn
+!!!OTL: Instrumentalna-Chodzony
+!!!source: DWOK22
+!!!id: 22369
+!!!signature: 2236900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8b
+8dd
+8ee
+16ee
+16ff#
+8ee
+=2
+8ee
+8dd
+16dd
+16cc#
+8dd
+8ee
+16dd
+16cc
+=3
+8d
+8g
+8b
+8ee
+8ee
+8ff#
+=4
+8ee
+8dd
+16dd
+16cc#
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8b
+8b
+4a
+=6
+8d
+8f#
+8g
+16a
+16b
+8dd
+8ee
+=7
+16dd
+16ee
+8dd
+8b
+8b
+4a
+=8
+8d
+8f#
+8b
+16cc
+16dd
+4b}
+!!LO:LB:g=esac
+=9
+{8d
+8g
+4g
+8d
+16g
+16f#
+=10
+8d
+8f#
+8g
+[8b
+8b]
+16cc
+[16b
+=11
+8b]
+8b
+4G
+8d
+16g
+16f#
+=12
+8d
+8f#
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 196} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

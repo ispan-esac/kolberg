@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4821000000-nuz_zywo_w_hopki.krn
+!!!OTL: Nuż żywo w hopki
+!!!source: DWOK48
+!!!id: 48210
+!!!signature: 4821000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8.dd
+16cc#
+=2
+8ee
+4dd
+=3
+8dd
+8.dd
+16cc#
+=4
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8a
+8.cc
+16a
+=6
+8b
+4dd
+=7
+8a
+8.cc
+16a
+=8
+8b
+4g}
+!!LO:LB:g=esac
+=9
+{8ee
+8.gg
+16ee
+=10
+8dd
+4b
+=11
+8cc
+8.a
+16cc
+=12
+8b
+4dd}
+!!LO:LB:g=esac
+=13
+{8ee
+8.gg
+16ee
+=14
+8dd
+4b
+=15
+8cc
+8.a
+16f#
+=16
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 236} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 236}
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

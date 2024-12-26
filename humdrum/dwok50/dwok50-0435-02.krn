@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK5043500002-za_moje_spiwania_za_moje_wykrzyki.krn
+!!!OTL: Za moje śpiwania, za moje wykrzyki
+!!!source: DWOK50
+!!!id: 50435
+!!!signature: 5043500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8g
+8a
+=2
+8b
+8b
+8g
+=3
+8d
+8g
+8a
+=4
+8b
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8d
+8g
+8a
+=6
+8dd
+8dd
+8cc
+=7
+8b
+8b
+8a
+=8
+16a
+16g
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 259} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 259}
+!!!page: 259
+!!!ONB: Converted on 2024/12/26 with esac2hum

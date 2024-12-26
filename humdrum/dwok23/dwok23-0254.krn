@@ -1,0 +1,112 @@
+!!!!SEGMENT: DWOK2325400000-wielbij_caly_swiecie.krn
+!!!OTL: Wielbij cały świecie
+!!!source: DWOK23
+!!!id: 23254
+!!!signature: 2325400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.g
+16d
+4g
+4a
+=2
+4b
+4a
+4r
+=3
+8a
+8b
+4cc
+4ee
+=4
+4cc
+4b}
+4r
+!!LO:LB:g=esac
+=5
+{8.g
+16d
+4g
+8a
+8cc
+=6
+4b
+4a
+4r
+=7
+8a
+8b
+8cc
+8dd
+8ee
+8dd
+=8
+4cc
+4b}
+4r
+!!LO:LB:g=esac
+=9
+{8b
+8cc
+4dd
+4gg
+=10
+8ee
+8dd
+8cc
+8b
+4cc
+=11
+8a
+8b
+4cc
+4ee
+=12
+8dd
+8cc
+8b
+8a
+4b}
+!!LO:LB:g=esac
+=13
+{8b
+8cc
+4dd
+4dd
+=14
+8ee
+8dd
+4cc
+4cc
+=15
+8a
+8b
+4cc
+4cc
+=16
+8dd
+8cc
+4b
+4b}
+!!LO:LB:g=esac
+=17
+{8cc
+8a
+4.f#
+8a
+=18
+8a
+8g
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 243} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 243}
+!!!page: 243
+!!!ONB: Converted on 2024/12/26 with esac2hum

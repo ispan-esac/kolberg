@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK8105600001-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK81
+!!!id: 81056
+!!!signature: 8105600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16ee
+16ff#
+8ee
+8dd
+8dd
+=2
+8dd
+8cc
+8cc
+8g
+=3
+16ee
+16ff
+8ee
+8dd
+8dd
+=4
+8dd
+8cc
+4cc}
+!!LO:LB:g=esac
+=5
+{16ee
+16ff
+8ee
+8dd
+8dd
+=6
+8dd
+8cc
+8g
+8cc
+=7
+8g
+8cc
+8g
+8cc
+=8
+4cc
+4g}
+==
+*-
+!!!ONB: Hucuł
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 50} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

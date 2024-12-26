@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK1706300000-a_cyje_to_koniki.krn
+!!!OTL: A cyje to koniki
+!!!source: DWOK17
+!!!id: 17063
+!!!signature: 1706300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16a
+16a
+8g
+16a
+16b
+=2
+16cc
+16cc
+8dd
+8ff
+=3
+16ee
+16gg
+16ff
+16ee
+16dd
+16b
+=4
+8cc
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+8b
+=6
+8cc
+8dd
+8b
+=7
+16a
+16a
+8g
+16a
+16b
+=8
+8cc
+8g
+8f}
+!!LO:LB:g=esac
+=9
+{16a
+16g
+8b
+8cc
+=10
+8cc
+8dd
+8b
+=11
+16a
+16g
+8b
+8cc
+=12
+8cc
+8g
+8f}
+!!LO:LB:g=esac
+=13
+{16a
+16g
+8b
+8cc
+=14
+8cc
+8g
+8f
+=15
+16a
+16g
+8b
+8cc
+=16
+8cc
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 25} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 25}
+!!!page: 25
+!!!ONB: Converted on 2024/12/26 with esac2hum

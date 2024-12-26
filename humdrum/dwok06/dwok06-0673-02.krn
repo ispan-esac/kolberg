@@ -1,0 +1,110 @@
+!!!!SEGMENT: DWOK06067300002-ach_moj_los_dziewczyno.krn
+!!!OTL: Ach moj los dziewczyno
+!!!source: DWOK06
+!!!id: K0673
+!!!signature: 06067300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8.g
+16b
+=2
+8b
+4a
+16a
+16g#
+=3
+8a
+8cc
+8.d
+16f#
+=4
+8g
+4b
+16b
+16a#}
+!!LO:LB:g=esac
+=5
+{8b
+16cc
+16dd
+8.g
+16b
+=6
+8b
+4a
+16a
+16g#
+=7
+8.a
+16ee
+8dd
+8f#
+=8
+16a
+16g
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8g
+8gg
+8gg
+8ff#
+=10
+8ff#
+4ee
+16ee
+16dd#
+=11
+16ee
+16ff#
+16gg
+16ff#
+16aa
+16gg
+16ff#
+16ee
+=12
+16ee
+16dd
+16cc#
+16ee
+8.dd
+16cc}
+!!LO:LB:g=esac
+=13
+{16b
+16cc
+16cc#
+16dd
+8.g
+16b
+=14
+8b
+4a
+16a
+16g#
+=15
+16a
+16b
+16cc
+16ee
+8dd
+8f#
+=16
+16a
+16g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=445 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 419} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 419}
+!!!page: 419
+!!!ONB: Converted on 2024/12/26 with esac2hum

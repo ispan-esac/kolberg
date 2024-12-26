@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK1903400002-oj_oj_odbuchuje_mi_sie_cukrem.krn
+!!!OTL: Oj oj odbuchuje mi się cukrem
+!!!source: DWOK19
+!!!id: 19034
+!!!signature: 1903400002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4gg
+4gg
+=2
+8ee
+8ee
+8ff
+8dd
+=3
+4cc
+4g
+=4
+4gg
+4gg
+=5
+8ee
+8ee
+8ff
+8dd
+=6
+4cc
+4g}
+!!LO:LB:g=esac
+=7
+{4ee
+8ff
+8dd
+=8
+8gg
+8gg
+8aa
+8ff
+=9
+8ee
+8ee
+8ff
+8dd
+=10
+8gg
+8gg
+8aa
+8ff
+=11
+16ee
+16cc
+16ee
+16gg
+8ff
+8dd
+=12
+4cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=29 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 15} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 15}
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

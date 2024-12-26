@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK03-K0060b-a_wiernie_ja_panu_bogu_sluzyla.krn
+!!!OTL: A wiernie ja panu Bogu sluzyla
+!!!source: DWOK03
+!!!id: K0060b
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+4cc
+4cc
+=2
+8dd
+8cc
+4b
+4a
+=3
+4.dd
+8ee
+8cc
+8b}
+!!LO:LB:g=esac
+=4
+{8cc
+8b
+8cc
+8a
+8cc
+8ee
+=5
+8dd
+8cc
+4b
+4a
+=6
+4.b
+8g#
+8a
+8b}
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+8a
+8g#
+8a
+8e
+=8
+8f#
+8g#
+8a
+8g#
+8a
+8cc
+=9
+4b
+4g#
+4a}
+!!LO:LB:g=esac
+=10
+{8cc
+8b
+8a
+8g#
+8a
+8e
+=11
+8f#
+8g#
+4a
+8a
+8cc
+=12
+4ee
+4g#
+4a}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 293} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 293}
+!!!page: 293
+!!!ONB: Converted on 2024/12/26 with esac2hum

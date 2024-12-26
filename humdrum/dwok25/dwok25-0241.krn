@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2524100000-chciala_pani_piwa_pic.krn
+!!!OTL: Chciała Pani piwa pić
+!!!source: DWOK25
+!!!id: 25241
+!!!signature: 2524100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8cc
+8ee
+=2
+8dd
+8b
+4g
+=3
+8f
+8a
+8g
+8f
+=4
+8e
+8f
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+=6
+8dd
+8b
+4g
+=7
+8g
+8ff
+8dd
+8b
+=8
+8dd
+8ee
+4cc}
+==
+*-
+!!!ONB: Wariant w takcie siódmym +2+4+27
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 105} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

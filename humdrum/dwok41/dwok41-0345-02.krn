@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4134500002-oj_szyneczko_kochana.krn
+!!!OTL: Oj, szyneczko kochana
+!!!source: DWOK41
+!!!id: 41345
+!!!signature: 4134500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4b
+4cc
+=2
+8dd
+8ff#
+4gg
+4a
+=3
+4g
+4a
+4b
+=4
+8cc
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4b
+4cc
+=6
+8dd
+8ff#
+4.gg
+8a
+=7
+4g
+4a
+4b
+=8
+8cc
+8dd
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 200} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 200}
+!!!page: 200
+!!!ONB: Converted on 2024/12/26 with esac2hum

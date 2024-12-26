@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK7765800000-moja_kumo_kumulecku_prose_was.krn
+!!!OTL: Moja kumo kumulecku prose was
+!!!source: DWOK77
+!!!id: 77658
+!!!signature: 7765800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8b
+4dd
+4ff
+=2
+8dd
+8b
+4dd
+4ff#
+=3
+4gg
+4ee
+16cc
+8.b}
+!!LO:LB:g=esac
+=4
+{8g
+8a
+4dd
+4ff
+=5
+8dd
+8b
+4g
+4b
+=6
+4cc
+4ee
+16cc
+8.b}
+==
+*-
+!!!ONB: W takcie 6 wariant:  +2_7_5__5_7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 332
+!!!ONB: Converted on 2024/12/26 with esac2hum

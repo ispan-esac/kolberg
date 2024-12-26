@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4129200002-zielona_rutka_modry_kwiat.krn
+!!!OTL: Zielona rutka, modry kwiat
+!!!source: DWOK41
+!!!id: 41292
+!!!signature: 4129200002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{8f
+8a
+8cc
+8a
+4b-
+4g
+=2
+4b-
+4a
+2f}
+!!LO:LB:g=esac
+=3
+{8b-
+8a
+8b-
+8dd
+4ff
+4dd
+=4
+4ff
+4ee
+4cc
+4f}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+8cc
+8dd
+4b-
+4g
+=6
+4e
+8e
+8g
+2cc
+=7
+8f
+8a
+8cc
+8dd
+4b-
+4g
+=8
+4b-
+4a
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 177} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

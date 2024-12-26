@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1217600020-instrumentalna-a_mam_ci_ja_ogrodeczek.krn
+!!!OTL: Instrumentalna-A mam ci ja ogródeczek
+!!!source: DWOK12
+!!!id: 12176
+!!!signature: 1217600020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16e
+16d
+8f#
+8a
+=2
+8e
+8.g
+16f#
+=3
+16e
+16d
+8f#
+8a
+=4
+4g
+16f#
+16d}
+!!LO:LB:g=esac
+=5
+{16e
+16d
+8f#
+8a
+=6
+8e
+8.g
+16f#
+=7
+16e
+16d
+8f#
+8a
+=8
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 89} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 89}
+!!!page: 89
+!!!ONB: Converted on 2024/12/26 with esac2hum

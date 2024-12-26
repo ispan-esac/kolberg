@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK3149600000-ta_jak_mene_yzjezaly.krn
+!!!OTL: Ta jak mene yzjezaly
+!!!source: DWOK31
+!!!id: 31496
+!!!signature: 3149600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16dd
+16ee
+8ff
+8ff
+16ff
+16ee
+=2
+8ff
+8ff
+8.ee
+16dd
+=3
+16cc#
+16dd
+16ee
+16dd
+16cc
+16b
+16a
+16g
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16ee
+8ff
+8ff
+16ff
+16ee
+=6
+8ff
+8ff
+8.ee
+16dd
+=7
+16cc#
+16dd
+16ee
+16dd
+16cc
+16b
+16a
+16g
+=8
+2g}
+!!LO:LB:g=esac
+=9
+{8d
+8d
+8g
+8g
+=10
+8dd
+8dd
+4cc#
+=11
+16cc
+16dd
+16ee
+16dd
+16cc
+16b
+16a
+16g
+=12
+2dd}
+!!LO:LB:g=esac
+=13
+{8d
+8d
+8g
+8g
+=14
+8dd
+8dd
+4cc#
+=15
+16cc
+16dd
+16ee
+16dd
+16cc
+16b
+16a
+16g
+=16
+2g}
+==
+*-
+!!!ONB: Horodenka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 56} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

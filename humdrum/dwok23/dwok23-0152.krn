@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2315200000-pod_borem_sosnia.krn
+!!!OTL: Pod borem sośnia
+!!!source: DWOK23
+!!!id: 23152
+!!!signature: 2315200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16b-
+8.cc
+16a
+=2
+4.f
+=3
+16a
+16b-
+8.cc
+16ee
+=4
+4.ff}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8gg
+8ff
+=6
+16ee-
+16cc
+8dd
+8b-
+=7
+16a
+16b-
+8.cc
+16dd
+=8
+4.b-}
+!!LO:LB:g=esac
+=9
+{16cc
+16ee
+8gg
+8ff
+=10
+16ee-
+16cc
+8dd
+8b-
+=11
+16a
+16b-
+8.cc
+16dd
+=12
+4.b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 162} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 162}
+!!!page: 162
+!!!ONB: Converted on 2024/12/26 with esac2hum

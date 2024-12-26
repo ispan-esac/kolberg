@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK3900800002-plon_niesiemy_plon.krn
+!!!OTL: Plon niesiemy, plon
+!!!source: DWOK39
+!!!id: 39008
+!!!signature: 3900800002
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8b
+8b
+8b
+8a
+8cc
+16a
+16f#
+=2
+2g}
+4r
+!!LO:LB:g=esac
+=3
+{8b
+8b
+8b
+8a
+8cc
+16a
+16f#
+=4
+2g}
+4r
+!!LO:LB:g=esac
+=5
+*M2/4
+{8b
+8cc
+8dd
+8b
+=6
+4.dd
+16cc
+16a
+=7
+*M3/4
+4b
+4g}
+4r
+!!LO:LB:g=esac
+=8
+*M2/4
+{8b
+8b
+8b
+8a
+=9
+[4cc
+8cc]
+16g
+16f#
+=10
+*M3/4
+2g}
+4r
+==
+*-
+!!!ONB: Wieniec
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 74} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 74}
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

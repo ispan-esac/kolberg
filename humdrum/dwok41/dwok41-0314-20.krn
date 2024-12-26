@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4131400020-instrumentalna-a_ja_jade_konie_stoja.krn
+!!!OTL: Instrumentalna-A ja jadę, konie stoją
+!!!source: DWOK41
+!!!id: 41314
+!!!signature: 4131400020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8a
+8cc
+4cc
+8a
+8f
+=2
+8a
+8cc
+4cc
+8a
+8f
+=
+12g
+12a
+12b-
+4g
+4e
+=3
+8f
+8a
+4cc
+4ff}
+!!LO:LB:g=esac
+=4
+{8cc
+8dd
+8ee
+8cc
+8dd
+8ee
+=5
+8ff
+8cc
+4a
+4f
+=
+12g
+12a
+12b-
+4g
+4e
+=6
+8f
+8g
+4a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 187} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

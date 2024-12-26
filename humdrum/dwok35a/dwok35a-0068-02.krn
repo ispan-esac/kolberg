@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK35A-35A06800002-oj_nasijala_tre_hradki_rutki.krn
+!!!OTL: Oj nasijała tre hradki rutki
+!!!source: DWOK35A
+!!!id: 35A068
+!!!signature: 35A06800002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8dd
+8a
+8b
+=
+24cc
+24b
+24cc
+4dd#
+=2
+8ee
+16dd
+16a
+8cc
+=
+24b
+24a
+24b
+4a
+=3
+8cc
+16b
+16a
+16cc
+16b
+=4
+8dd
+4a
+=5
+4b
+32cc
+32b
+16a
+=6
+4b}
+8r
+!!LO:LB:g=esac
+=7
+{8dd
+16dd
+16a
+16cc
+16b
+=
+24dd
+24cc
+24a
+8.b
+16g#
+=8
+4.a
+=9
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 57} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

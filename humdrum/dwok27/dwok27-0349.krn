@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK2734900000-na_podolu_bialy_kamien.krn
+!!!OTL: Na Podolu biały kamień
+!!!source: DWOK27
+!!!id: 27349
+!!!signature: 2734900000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{4dd
+4dd
+8a
+8g
+=2
+8a
+8cc
+4.ee
+8cc
+=3
+4dd
+4dd
+8a
+8g
+=4
+8a
+8cc
+4.a
+8a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+4.ee
+8cc
+=6
+*M2/4
+8a
+8a
+8gg
+8ff
+=7
+8ee
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=8
+*M3/4
+{8dd
+8ff
+4.ee
+8cc
+=9
+4cc
+8a
+8ee
+8dd
+8b
+=10
+8dd
+8ff
+4.ee
+8a
+=11
+8dd
+8cc
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=342 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 323} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 323}
+!!!page: 323
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4134700002-oj_czuch_czuch_nie_dala.krn
+!!!OTL: Oj, czuch (czuch), nie dała
+!!!source: DWOK41
+!!!id: 41347
+!!!signature: 4134700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4gg
+16dd
+16ee
+16dd
+16cc
+=2
+8b
+8b
+4a
+=3
+4b
+8cc
+8ee
+=4
+8b
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{4b
+8cc
+8ee
+=6
+8dd
+8ff#
+4gg
+=7
+4b
+8cc
+8ee
+=8
+8b
+16b
+16dd
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 200} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 200}
+!!!page: 200
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK41105500000-dana_ide_w_karczmie_stoja.krn
+!!!OTL: Dana idę, w karczmie stoją
+!!!source: DWOK41
+!!!id: 411055
+!!!signature: 41105500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4ee
+4cc
+=2
+8b
+8dd
+4ee
+4cc}
+!!LO:LB:g=esac
+=3
+{8b
+8dd
+4ee
+4cc
+=4
+8b
+8a
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4ee
+4cc
+=6
+8dd
+8ee
+4ff#
+4ff#}
+!!LO:LB:g=esac
+=7
+{8ee
+8ee
+4ee
+4cc
+=8
+8b
+8a
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=531 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 444} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 444}
+!!!page: 444
+!!!ONB: Converted on 2024/12/26 with esac2hum

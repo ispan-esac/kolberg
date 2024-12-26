@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK3630600000-ne_znuczaj_sia_z_mene_molodoji.krn
+!!!OTL: Ne znuczaj sia z mene mołodoji
+!!!source: DWOK36
+!!!id: 36306
+!!!signature: 3630600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8f#
+4g#
+4e
+=2
+8a
+8g#
+4a
+4cc
+=3
+2b
+4a
+=4
+2.g#}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+4cc
+4a
+=6
+8b
+8g#
+4e
+4g#
+=7
+4a
+2e}
+!!LO:LB:g=esac
+=8
+{8e
+8f#
+4g#
+4e
+=9
+8a
+8g#
+4a
+4cc
+=10
+2b
+4a
+=11
+2.g#}
+!!LO:LB:g=esac
+=12
+{8cc
+8b
+4cc
+4a
+=13
+8b
+8g#
+4e
+4g#
+=14
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 188-189
+!!!ONB: Converted on 2024/12/26 with esac2hum

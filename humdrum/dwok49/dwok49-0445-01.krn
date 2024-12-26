@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4944500001-dezeste_bywaly_sywyi_sokoly.krn
+!!!OTL: Deżeśte bywały, sywyi sokoły
+!!!source: DWOK49
+!!!id: 49445
+!!!signature: 4944500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16cc
+8b
+8dd
+=
+8.cc
+16b
+24b
+24a
+24g
+=2
+16b
+16cc
+8b
+8a
+=
+4g
+24f#
+24e
+24d}
+!!LO:LB:g=esac
+=3
+{16cc
+16b
+8g
+16a
+16g
+=
+4a
+24b
+24a
+24g
+=4
+16a
+16g
+8b
+16a
+16g
+=5
+8f#
+4g
+=6
+8g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=522 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 432} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 432}
+!!!page: 432
+!!!ONB: Converted on 2024/12/26 with esac2hum

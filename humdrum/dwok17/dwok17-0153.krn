@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1715300000-instrumentalna_-_owczarek.krn
+!!!OTL: Instrumentalna - Owczarek
+!!!source: DWOK17
+!!!id: 17153
+!!!signature: 1715300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{24g
+24b
+24cc
+8ff
+8ee
+=1
+16dd
+16cc
+8dd
+16b
+16a
+=2
+8g
+8ff
+8ee
+=3
+16dd
+16cc
+4dd}
+!!LO:LB:g=esac
+=
+{24g
+24b
+24cc
+8ff
+8ee
+=
+16dd
+16cc
+8dd
+24b
+24a
+24g
+=4
+8f
+8b-
+8a
+=5
+16g
+16f
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 52} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

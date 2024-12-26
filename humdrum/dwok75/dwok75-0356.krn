@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK7535600000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK75
+!!!id: 75356
+!!!signature: 7535600000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8e
+8a
+8g#
+8a
+=2
+8cc
+8cc
+4b
+=3
+8a
+8cc
+8b
+16ee
+16cc
+=4
+4b
+4b}
+!!LO:LB:g=esac
+=5
+{8e
+8a
+8g#
+8a
+=6
+8cc
+8cc
+4b
+=7
+8a
+8a
+8g#
+8g#
+=8
+4e
+4e}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8dd#
+8ee
+=10
+8cc
+8cc
+8b
+8b
+=11
+8b
+8ee
+8dd
+8ee
+=12
+4b
+4ee}
+!!LO:LB:g=esac
+=13
+{16dd
+16cc
+16b
+16cc
+8a
+8a
+=14
+8a
+8cc
+8ee
+8ee
+=15
+8a
+8a
+8g#
+8g#
+=16
+4e
+4e}
+==
+*-
+!!!ONB: Wariant t. 2 i 6: 6b_6b_5_3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 211} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 211}
+!!!page: 211
+!!!ONB: Converted on 2024/12/26 with esac2hum

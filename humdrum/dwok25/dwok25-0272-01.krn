@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK2527200001-dziekuje_ci_matko_zes_mnie_wychowala.krn
+!!!OTL: Dziękuję ci matko żeś mnie wychowała
+!!!source: DWOK25
+!!!id: 25272
+!!!signature: 2527200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+4g
+=2
+4g
+4g
+=3
+8f#
+8g
+8a
+8b
+=4
+4.g
+8e
+=5
+8e
+8g
+8a
+8a
+=6
+4d
+4d}
+!!LO:LB:g=esac
+=7
+{8g
+8a
+8b
+8cc
+=8
+4.dd
+8cc
+=9
+8b
+8g
+8ee
+8dd
+=10
+8cc
+8b
+4a}
+!!LO:LB:g=esac
+=11
+{8g
+8g
+4a
+=12
+8d
+8d
+4cc
+=13
+8b
+16cc
+16b
+8a
+8f#
+=14
+4g
+4g}
+!!LO:LB:g=esac
+=15
+{8g
+8g
+4a
+=16
+8d
+8d
+4cc
+=17
+8b
+16cc
+16b
+8a
+8f#
+=18
+4g
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 120} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

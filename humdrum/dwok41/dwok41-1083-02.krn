@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK41108300002-ej_zarosla_mi_drozka.krn
+!!!OTL: Ej, zarosła mi drózka
+!!!source: DWOK41
+!!!id: 411083
+!!!signature: 41108300002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8ee
+8dd#
+8ee
+=2
+16ff#
+16ee
+8b
+8a
+=3
+8b
+8g#
+8b
+=4
+16a
+16g
+8e
+8e}
+!!LO:LB:g=esac
+=5
+{16e
+16g#
+8b
+8g#
+=6
+16a
+16cc
+8ee
+16b
+16a
+=7
+8b
+8g#
+8b
+=8
+16a
+16g
+8e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=544 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 457} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 457}
+!!!page: 457
+!!!ONB: Converted on 2024/12/26 with esac2hum

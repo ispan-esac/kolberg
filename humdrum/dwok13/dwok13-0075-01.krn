@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK1307500001-moja_luba_gdzie_ty_gdzie.krn
+!!!OTL: Moja luba gdzie ty gdzie
+!!!source: DWOK13
+!!!id: 13075
+!!!signature: 1307500001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4.cc
+8ff
+4.ff
+8a
+=2
+4.cc
+8b-
+4g
+4r
+=3
+4.b-
+8a
+8g
+8b-
+8cc
+8b-
+=4
+2.a}
+4r
+!!LO:LB:g=esac
+=5
+{4.cc
+8ff
+4.ff
+8a
+=6
+4.cc
+8b-
+4g
+4r
+=7
+4.b-
+8a
+8g
+8cc
+8e
+8g
+=8
+2.f}
+4r
+!!LO:LB:g=esac
+=9
+{4.g
+8a
+4.b-
+8e
+=10
+4.f
+8g
+4.a
+8ff
+=11
+4.ee
+8ee
+8ee
+16ff
+16ee
+8dd
+8ee
+=12
+2.ff}
+4r
+!!LO:LB:g=esac
+=13
+{4.cc
+8ff
+4.ff
+8ee
+=14
+8ee
+8dd
+4ff
+4ff
+8ee
+8dd
+=15
+4.cc
+8a
+4g
+4g
+=16
+2.f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 43-44} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 43-44}
+!!!page: 43-44
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK06-K0223-chodzila_dziewcyna.krn
+!!!OTL: Chodzila dziewcyna
+!!!source: DWOK06
+!!!id: K0223
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+4ee
+8ee
+=2
+8a
+8b
+4cc
+=3
+8dd
+4dd
+8dd
+=4
+8dd
+8dd
+4b}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8.ee
+16dd
+=6
+8cc
+4a}
+8r
+!!LO:LB:g=esac
+=7
+{8a
+16f
+16e
+8d
+8e
+=8
+8d
+4f}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+16f
+16e
+8d
+8f
+=10
+8a
+4e}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 116} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 116}
+!!!page: 116
+!!!ONB: Converted on 2024/12/26 with esac2hum

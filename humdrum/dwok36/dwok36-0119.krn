@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK3611900000-do_wboru_bojary.krn
+!!!OTL: Do wboru bojary
+!!!source: DWOK36
+!!!id: 36119
+!!!signature: 3611900000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M3/4
+{16cc
+16cc
+16cc
+16dd
+8cc
+16b
+16a
+4g
+=2
+*M2/4
+8a
+8b
+4cc}
+!!LO:LB:g=esac
+=3
+*M3/4
+{16cc
+16cc
+16cc
+16dd
+8cc
+16b
+16a
+4g
+=
+!!UNCATEGORIZED MEASURE
+8a
+8b
+4cc}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{16cc
+16b
+48b
+48cc
+48dd
+16cc
+16b
+16b
+16a
+4g
+=4
+*M2/4
+8a
+8b
+4cc}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8dd
+16dd
+16cc
+8b
+=6
+8b
+8a
+4g
+=7
+8a
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 67-68
+!!!ONB: Converted on 2024/12/26 with esac2hum

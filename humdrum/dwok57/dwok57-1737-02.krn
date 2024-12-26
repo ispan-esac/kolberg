@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK57173700002-w_czystym_polu_bereza_stojala.krn
+!!!OTL: W czystym polu bereza stojała
+!!!source: DWOK57
+!!!id: 571737
+!!!signature: 57173700002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8b
+8dd
+16cc
+16b
+=2
+8cc
+16b
+16a
+4g
+=3
+8a
+8cc
+8b
+8a
+=4
+4.g
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ee
+8cc
+=6
+8dd
+8ff
+8ee
+16dd
+16b
+=7
+4.cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 826
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2230700000-zaspiewajmy_naboznie.krn
+!!!OTL: Zaśpiewajmy nabożnie
+!!!source: DWOK22
+!!!id: 22307
+!!!signature: 2230700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+2ee
+=2
+8dd
+8ee
+8ff
+8ee
+8dd
+8cc
+=3
+8ee
+8ff
+8ff
+8ee
+4dd}
+!!LO:LB:g=esac
+=4
+{4cc
+2ee
+=5
+8dd
+8ee
+8ff
+8ee
+8dd
+8cc
+=6
+8dd
+8ee
+8ff
+8dd
+4cc}
+!!LO:LB:g=esac
+=7
+{4cc
+2ee
+=8
+4dd
+4ff
+4dd
+=9
+4ee
+8ff
+8ee
+4dd}
+!!LO:LB:g=esac
+=10
+{4cc
+2ee
+=11
+4cc
+4ff
+4dd
+=12
+4ee
+8ff
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 175} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 175}
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

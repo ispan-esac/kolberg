@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2303400000-placzcie_anieli_placzcie_duchy_swiete.krn
+!!!OTL: Płaczcie Anieli płaczcie duchy święte
+!!!source: DWOK23
+!!!id: 23034
+!!!signature: 2303400000
+**kern
+*clefG2
+*k[]
+*a:
+*M6/4
+=1
+{4a
+4ee
+4dd
+4cc
+2b
+=2
+4a
+4g#
+4a
+4cc
+4b
+4a}
+!!LO:LB:g=esac
+=3
+{4a
+4ee
+4dd
+4cc
+2b
+=4
+4a
+4g#
+4a
+4cc
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{4e
+4a
+4a
+4b
+2g
+=6
+4cc
+4b
+4cc
+4dd
+4ee
+4ee}
+!!LO:LB:g=esac
+=7
+{4a
+4ee
+4dd
+4cc
+2b
+=8
+4dd
+4dd
+4ee
+8dd
+8cc
+4b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 81} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 81}
+!!!page: 81
+!!!ONB: Converted on 2024/12/26 with esac2hum

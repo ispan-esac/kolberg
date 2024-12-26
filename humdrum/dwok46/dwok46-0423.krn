@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4642300000-daj_sie_namowic_bladusiu.krn
+!!!OTL: Daj się namówić, bladusiu
+!!!source: DWOK46
+!!!id: 46423
+!!!signature: 4642300000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{4g
+8g
+8a
+8b
+8cc
+=2
+8dd
+8dd
+4b
+4gg
+=3
+4ee
+4b
+8cc
+8ee
+=4
+8dd
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{4e
+8g
+8a
+8b
+8ee
+=6
+8cc
+8cc
+4a
+4f#
+=7
+8a
+8cc
+4b
+4g
+=8
+8e
+8g
+4b
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=300 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 266} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 266}
+!!!page: 266
+!!!ONB: Converted on 2024/12/26 with esac2hum

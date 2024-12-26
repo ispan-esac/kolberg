@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3023500000-a_u_naszych_bohaczok.krn
+!!!OTL: A u naszych bohaczok
+!!!source: DWOK30
+!!!id: 30235
+!!!signature: 3023500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16a
+8.a
+16cc
+8.cc
+=2
+16ee
+8.ee
+4e
+=3
+16a
+8.a
+16cc
+8.cc
+=4
+16ee
+8.ee
+4e}
+!!LO:LB:g=esac
+=5
+{16ee
+8.ee
+16ee
+8.ee
+=6
+16dd
+8.dd
+4ee
+=7
+16cc
+8.cc
+16ee
+8.ee
+=8
+16g#
+8.g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 141} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 141}
+!!!page: 141
+!!!ONB: Converted on 2024/12/26 with esac2hum

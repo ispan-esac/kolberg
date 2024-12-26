@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK04-K0375-moja_gospodyni.krn
+!!!OTL: Moja gospodyni
+!!!source: DWOK04
+!!!id: K0375
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8dd
+16cc
+16b
+=2
+8g
+8b
+4a
+=3
+4dd
+8cc
+16b
+16a
+=4
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8a
+8cc
+=6
+8b
+8b
+4a
+=7
+8g
+8b
+8a
+8cc
+=8
+8b
+16g
+16f#
+4d}
+!!LO:LB:g=esac
+=9
+{4dd
+8dd
+16cc
+16b
+=10
+8g
+8b
+4a
+=11
+4dd
+8cc
+16b
+16a
+=12
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+8a
+8cc
+=14
+8b
+8b
+8a
+16a
+16f#
+=15
+8g
+8b
+8a
+8cc
+=16
+8b
+16g
+16f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 219} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 219}
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

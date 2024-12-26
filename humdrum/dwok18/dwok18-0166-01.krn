@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK1816600001-instrumentalna-taniec_obchodny.krn
+!!!OTL: Instrumentalna-Taniec Obchodny
+!!!source: DWOK18
+!!!id: 18166
+!!!signature: 1816600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+4ee
+8cc
+=2
+4b
+4g
+=3
+8a
+8g
+8b
+8dd
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{8dd
+4ee
+8cc
+=6
+4b
+4g
+=7
+8a
+8g
+8b
+8dd
+=8
+2cc}
+!!LO:LB:g=esac
+=9
+{8dd
+4ee
+8ee
+=10
+8ee
+8dd
+8ff#
+8aa
+=11
+4gg
+4ff}
+!!LO:LB:g=esac
+=12
+{8dd
+4ee
+8ee
+=13
+8ee
+8dd
+8ff#
+8aa
+=14
+4gg
+4ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 115} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

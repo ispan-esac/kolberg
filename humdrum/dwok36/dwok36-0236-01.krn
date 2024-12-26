@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3623600001-boze_z_neba_wysokoho.krn
+!!!OTL: Boże z neba wysokoho
+!!!source: DWOK36
+!!!id: 36236
+!!!signature: 3623600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.dd
+8b
+8cc
+8ee
+=2
+8dd
+16cc
+16b
+4cc
+8b
+8r
+=3
+4.ee
+8dd
+8ee
+8ff#
+=4
+8gg
+16ff#
+16ee
+4ee
+8dd}
+8r
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8dd
+4dd
+4gg
+=6
+8gg
+8ff#
+4gg
+4dd
+=7
+4.gg
+8b
+8cc
+8ee
+=8
+8dd
+16cc
+16b
+4a
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

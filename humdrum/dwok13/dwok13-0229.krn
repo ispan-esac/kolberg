@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1322900000-czego_placzecie_oczuszki.krn
+!!!OTL: Czego płaczecie oczuszki
+!!!source: DWOK13
+!!!id: 13229
+!!!signature: 1322900000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{16g
+16a
+8.b
+16e
+=2
+16b
+16b
+8e
+8f#
+=3
+16g
+16a
+8.b
+16e
+=4
+16g
+16f#
+8d#
+8e}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8.b
+16b
+=6
+16ee
+16ee
+8b
+8a
+=7
+16dd
+16dd
+8.b
+16e
+=8
+16g
+16f#
+8d#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 112} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 112}
+!!!page: 112
+!!!ONB: Converted on 2024/12/26 with esac2hum

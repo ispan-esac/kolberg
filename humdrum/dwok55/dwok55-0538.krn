@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5553800000-o_ty_hora_kreminnaja.krn
+!!!OTL: O ty, hora kreminnaja
+!!!source: DWOK55
+!!!id: 55538
+!!!signature: 5553800000
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M2/4
+=1
+{8ee
+8ee
+8dd
+8dd
+=2
+8b
+8ee
+8ee
+8ee
+=3
+8ee
+8ee
+8dd
+8dd
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8dd
+8dd
+=6
+8b
+8b
+8b
+8dd
+=7
+8ee
+8ee
+8dd
+8dd
+=8
+4b
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 130} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 130}
+!!!page: 130
+!!!ONB: Converted on 2024/12/26 with esac2hum

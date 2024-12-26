@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK2800200000-tobie_nad_pomysl.krn
+!!!OTL: Tobie nad pomysł
+!!!source: DWOK28
+!!!id: 28002
+!!!signature: 2800200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{2f
+4a
+4b-
+=2
+2cc
+2cc
+=3
+4dd
+4ee
+4ff
+4ee
+=4
+2dd
+2cc}
+!!LO:LB:g=esac
+=5
+{2cc
+4cc
+4cc
+=6
+2dd
+2cc
+=7
+4a
+4b-
+4cc
+4b-
+=8
+4a
+4g
+2f}
+!!LO:LB:g=esac
+=9
+{2cc
+4a
+4b-
+=10
+2cc
+2cc
+=11
+4b-
+4a
+4g
+4b-
+=12
+4a
+4g
+2f}
+!!LO:LB:g=esac
+=13
+{2f
+4g
+4a
+=14
+4.b-
+8a
+2g
+=15
+2f}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 64} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 64}
+!!!page: 64
+!!!ONB: Converted on 2024/12/26 with esac2hum

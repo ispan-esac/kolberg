@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK41117500002-moja_matka_rano_wstala.krn
+!!!OTL: Moja matka rano wstała
+!!!source: DWOK41
+!!!id: 411175
+!!!signature: 41117500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8ee
+8a
+=2
+8cc
+8dd
+8g}
+!!LO:LB:g=esac
+=3
+{16b
+16dd
+8ee
+8a
+=4
+16cc
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16d
+8.f#
+16a
+=6
+16cc
+16ee
+8dd
+8b}
+!!LO:LB:g=esac
+=7
+{16d
+16d
+8.f#
+16a
+=8
+16cc
+16cc
+16b
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=594 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 507-508} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 507-508}
+!!!page: 507-508
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK2524600000-na_podolu_w_scyrnem_polu.krn
+!!!OTL: Na Podolu w scyrnem polu
+!!!source: DWOK25
+!!!id: 25246
+!!!signature: 2524600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4ee
+8dd#
+=2
+8ee
+16dd#
+8.b
+=3
+4dd#
+8ff#
+=4
+8ee
+16dd#
+8.b}
+!!LO:LB:g=esac
+=5
+{16g#
+16a
+8cc
+8ee
+=6
+16dd
+16cc
+8b
+8a
+=7
+4b
+8e
+=8
+8g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 107} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

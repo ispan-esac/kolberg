@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2215900000-w_ciemnym_lasku_ptasek_spiewa.krn
+!!!OTL: W ciemnym lasku ptasek śpiewa
+!!!source: DWOK22
+!!!id: 22159
+!!!signature: 2215900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16ee
+8dd
+16b
+16a
+=2
+16cc
+16ee
+16dd
+16cc#
+8dd
+=3
+16ee
+16cc
+8b
+8dd
+=4
+16cc
+16a
+16a
+16g
+8g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8cc
+8a
+=6
+16cc
+16ee
+16dd
+16cc#
+8dd
+=7
+16cc
+16cc
+8b
+8dd
+=8
+16cc
+16a
+16a
+16g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 103} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 103}
+!!!page: 103
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4933500002-hej_latali_ptaszenkowie_po_polu.krn
+!!!OTL: Hej, latali ptaszenkowie po polu
+!!!source: DWOK49
+!!!id: 49335
+!!!signature: 4933500002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8e
+4a
+=2
+8b
+4cc
+=3
+8ee
+4dd
+=4
+16cc
+16a
+4b
+=5
+8cc#
+4dd#
+=6
+4ee}
+8r
+!!LO:LB:g=esac
+=7
+{8ff#
+4ee
+=8
+8dd
+4cc
+=9
+8ee
+4dd
+=10
+16cc
+16a
+4dd
+=11
+8cc
+8b
+8g#
+=12
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=470 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 382} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 382}
+!!!page: 382
+!!!ONB: Converted on 2024/12/26 with esac2hum

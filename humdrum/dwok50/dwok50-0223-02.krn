@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK5022300002-jak_ja_husy_pasala_pasala.krn
+!!!OTL: Jak ja husy pasała, pasała
+!!!source: DWOK50
+!!!id: 50223
+!!!signature: 5022300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8dd
+4ee
+8dd
+=3
+8dd
+4ee
+8dd}
+!!LO:LB:g=esac
+=4
+{8dd
+8ee
+8dd
+8cc
+=5
+8b
+8g
+4a
+=6
+8a
+4g
+8a
+=7
+8b
+4g
+8g}
+!!LO:LB:g=esac
+=8
+{8b
+8dd
+8dd
+8cc
+=9
+8b
+8g
+4a
+=10
+8a
+4ee
+8dd}
+!!LO:LB:g=esac
+=11
+{8dd
+8ee
+8dd
+8cc
+=12
+8b
+8g
+4a
+=13
+8a
+4g
+8a
+=14
+8b
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 106} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 106}
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

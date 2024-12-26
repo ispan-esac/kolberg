@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7714300000-oj_kumo_moja_kumo.krn
+!!!OTL: Oj kumo moja kumo
+!!!source: DWOK77
+!!!id: 77143
+!!!signature: 7714300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16.cc
+32dd
+8ee
+8ff#
+=2
+16gg
+16gg
+8aa
+8aa
+=3
+8gg
+8gg
+8cc
+=4
+16dd
+16ee
+8cc
+32b
+16.g}
+!!LO:LB:g=esac
+=5
+{16.cc
+32dd
+8ee
+8ff#
+=6
+16dd
+16ee
+8cc
+16dd
+16b
+=7
+16cc
+16dd
+8ee
+8ff
+=8
+16dd
+16ee
+8cc
+32b
+16.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

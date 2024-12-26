@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7731300000-wyjechalem_za_zelechow.krn
+!!!OTL: Wyjechalem za Zelechów
+!!!source: DWOK77
+!!!id: 77313
+!!!signature: 7731300000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8b-
+8b-
+8a
+8g
+=2
+8b-
+8dd
+8ff
+8ff}
+!!LO:LB:g=esac
+=3
+{8ff
+8ee-
+8.cc
+16g
+=4
+8b-
+8b-
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8b-
+8b-
+8a
+8g
+=6
+8b-
+8dd
+8ff
+8g}
+!!LO:LB:g=esac
+=7
+{8b-
+8dd
+8.cc
+16g
+=8
+8b-
+8b-
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 167
+!!!ONB: Converted on 2024/12/26 with esac2hum

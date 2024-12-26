@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1234000000-poszla_panna_po_wode.krn
+!!!OTL: Poszła panna po wodę
+!!!source: DWOK12
+!!!id: 12340
+!!!signature: 1234000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8a
+8a
+8cc
+=2
+8cc
+8b-
+4b-
+=3
+8e
+8g
+8g
+8b-
+=4
+8b-
+8a
+4a}
+!!LO:LB:g=esac
+=5
+{8f
+8ff
+8ff
+8ee
+=6
+2dd
+=7
+8cc
+8dd
+8cc
+8b-
+=8
+4a}
+4r
+!!LO:LB:g=esac
+=9
+{8f
+8a
+8a
+8cc
+=10
+2b-
+=11
+8e
+8g
+8g
+8b-
+=12
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 180} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 180}
+!!!page: 180
+!!!ONB: Converted on 2024/12/26 with esac2hum

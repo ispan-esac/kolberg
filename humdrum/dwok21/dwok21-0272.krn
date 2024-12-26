@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2127200000-zarzeli_konie_zarzeli.krn
+!!!OTL: Zarżeli konie zarżeli
+!!!source: DWOK21
+!!!id: 21272
+!!!signature: 2127200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24d
+24d
+24f#
+8g
+16a
+16f#
+=1
+8.g
+16a
+16cc
+16b
+=2
+16cc
+16ee
+8dd
+16a
+16f#
+=3
+8.g
+16f#
+8d}
+!!LO:LB:g=esac
+=
+{24g
+24b
+24cc
+8dd
+8b
+=4
+8.dd
+16cc#
+16cc
+16b
+=5
+16cc
+16ee
+8dd
+16a
+16f#
+=6
+8.g
+16f#
+8d}
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8. W takcie 3 i 7 błąd w rytmie: druga wartośść powinna być szesnastką
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 118} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 118}
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,121 @@
+!!!!SEGMENT: DWOK57170800001-hej_zletiw_zletiw_czorny_worel.krn
+!!!OTL: Hej złetiw, złetiw Czorny woreł
+!!!source: DWOK57
+!!!id: 571708
+!!!signature: 57170800001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{4ee
+8ff#
+8ee
+=2
+4dd#
+8ee
+8dd
+=3
+16cc
+16b
+8a
+8g#
+8e
+=4
+8a
+8b
+8cc
+8dd
+=5
+4ee
+16dd
+16cc
+16b
+16cc}
+!!LO:LB:g=esac
+=6
+{8ee
+8ee
+8ff#
+8ee
+=7
+8dd#
+8ee
+16cc
+16b
+8a
+=8
+4a
+8cc
+8b
+=9
+8a
+8ee
+16dd
+16cc
+16b
+16cc
+=10
+2a}
+!!LO:LB:g=esac
+=11
+*M5/8
+{8a
+4cc
+8b
+8dd
+=12
+*M2/4
+16cc
+16b
+16cc
+16g
+4a
+=13
+*M5/8
+8a
+4cc
+8b
+8dd
+=
+!!UNCATEGORIZED MEASURE
+24cc
+24b
+24cc
+4g#
+4a}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8dd
+8dd
+8dd
+4ee
+=14
+*M5/8
+8cc
+8b
+8a
+8g#
+8e
+=15
+8a
+4cc
+8a
+8ee
+=16
+16dd
+16cc
+16b
+16cc
+8g#
+4a}
+==
+*-
+!!!ONB: Wariant t. 2: 4#_2_5_4_; wariant t. 5: 5_6b_43b23b; wariant t. 15: 4_4_4_5_4_; wariant t. 17: 1_3b_1_1_5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 799
+!!!ONB: Converted on 2024/12/26 with esac2hum

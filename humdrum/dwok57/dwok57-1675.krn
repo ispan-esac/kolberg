@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK57167500000-sered_noczy_o_piwnoczy.krn
+!!!OTL: Sered noczy o piwnoczy
+!!!source: DWOK57
+!!!id: 571675
+!!!signature: 57167500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8ee
+8ff#
+8ee
+=2
+8dd#
+8ee
+8b
+8dd#
+=3
+8ee
+8ee
+8ff#
+8ee
+=4
+4dd#
+4ee}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8ee
+8dd#
+=6
+8.cc
+16a
+8g#
+8e
+=7
+8a
+8cc
+8ee
+8dd#
+=8
+4cc
+4a}
+==
+*-
+!!!ONB: Wariant t. 5: 3b_1_5_4#_; wariant t. 8: 3b_1_1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 753
+!!!ONB: Converted on 2024/12/26 with esac2hum

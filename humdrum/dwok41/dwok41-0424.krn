@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK4142400000-da_i_tys_sie_jasiu_upil.krn
+!!!OTL: Da, i tyś się, Jasiu, upił
+!!!source: DWOK41
+!!!id: 41424
+!!!signature: 4142400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.a
+16b
+16cc
+16ff#
+=2
+16ee
+16cc
+8ff#
+16dd
+16b}
+!!LO:LB:g=esac
+=3
+{8.a
+16b
+16cc
+16ff#
+=4
+16ee
+16dd
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8.a
+16b
+16cc
+16cc
+=6
+16a
+16b
+8a
+8b}
+!!LO:LB:g=esac
+=7
+{8.a
+16b
+16cc
+16cc
+=8
+16a
+16dd
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=312 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 229} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 229}
+!!!page: 229
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2401300001-na_tej_gorze.krn
+!!!OTL: Na tej górze
+!!!source: DWOK24
+!!!id: 24013
+!!!signature: 2401300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+8dd
+8dd
+=2
+8ee
+8ee
+4dd
+=3
+8.b
+16a
+8g
+8g
+=4
+8f#
+8d
+4g}
+!!LO:LB:g=esac
+=5
+{8.b
+16cc
+8dd
+8ee
+=6
+8dd
+8a
+8cc
+8b
+=7
+8.b
+16cc
+8dd
+8ee
+=8
+8dd
+8f#
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 83} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

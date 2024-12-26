@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK45148500000-poznac_tyz_to_poznac.krn
+!!!OTL: Poznać tyż to, poznać
+!!!source: DWOK45
+!!!id: 451485
+!!!signature: 45148500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8ee
+4ff#
+4ee
+=2
+4dd
+2dd
+=3
+8b
+8dd
+4cc
+8b
+8g
+=4
+8a
+[8g}
+2g]
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4cc
+4b
+=6
+4dd
+2g
+=7
+8b
+8dd
+4cc
+8b
+8g
+=8
+8a
+[8g}
+2g]
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 189} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

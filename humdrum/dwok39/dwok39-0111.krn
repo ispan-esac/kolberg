@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK3911100000-gdzie_to_dziewcze_idziesz_gdzie_to_wandrujesz.krn
+!!!OTL: Gdzie to, dziewcze, idziesz, gdzie to wandrujesz?
+!!!source: DWOK39
+!!!id: 39111
+!!!signature: 3911100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.dd
+8dd
+8dd
+8ee
+=2
+8ff#
+8gg
+4dd
+4r
+=3
+4.dd
+8b
+8dd
+8cc
+=4
+4a
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4a
+4g
+=6
+8g
+8g
+4ee
+4dd
+=7
+4.cc
+8a
+8dd
+8dd
+=8
+4dd
+4dd}
+4r
+!!LO:LB:g=esac
+=9
+{8g
+8g
+4a
+4g
+=10
+8g
+8g
+4ee
+4dd
+=11
+4.cc
+8a
+8dd
+8dd
+=12
+4dd
+4dd}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 161} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 161}
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

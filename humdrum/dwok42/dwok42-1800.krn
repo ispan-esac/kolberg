@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK42180000000-i_wygnala_przezegnala.krn
+!!!OTL: I wygnała, przezegnała
+!!!source: DWOK42
+!!!id: 421800
+!!!signature: 42180000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8b
+8cc
+4.dd
+8cc
+=2
+8ee
+8dd
+4cc
+4a
+=3
+8cc
+8dd
+4b
+4g
+=4
+2.e}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4.dd
+8cc
+=6
+8ee
+8dd
+4b
+4g
+=7
+8cc
+8dd
+4b
+4g
+=8
+2.e}
+==
+*-
+!!!ONB: wariant w taktach 3 i 7: 3b42_-7b-6
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=223 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 214} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 214}
+!!!page: 214
+!!!ONB: Converted on 2024/12/26 with esac2hum

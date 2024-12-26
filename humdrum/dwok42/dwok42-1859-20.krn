@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK42185900020-moja_andziu_czy_to_ladnie.krn
+!!!OTL: Moja Andziu czy to ładnie
+!!!source: DWOK42
+!!!id: 421859
+!!!signature: 42185900020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8b
+4dd
+4cc
+=2
+4ee
+2cc
+=3
+8g
+8b
+4dd
+4cc
+=4
+4ee
+2cc}
+!!LO:LB:g=esac
+=5
+{4.g
+8f#
+8e
+8g
+=6
+8g
+8g
+4cc
+4dd
+=7
+8ee
+8g
+4a
+4b
+=8
+4cc
+2cc}
+!!LO:LB:g=esac
+=9
+{8g
+8cc
+4ee
+4cc
+=10
+4dd
+2cc
+=11
+8g
+8cc
+4ee
+4cc
+=12
+4dd
+2cc}
+!!LO:LB:g=esac
+=13
+{4.g
+8f#
+8e
+8g
+=14
+4g
+4cc
+4dd
+=15
+8ee
+8g
+4a
+4b
+=16
+4cc
+2cc}
+==
+*-
+!!!ONB: wariant w takcie 9 i 11: +1+1+3_+1_, wariant w takci 14{ 55+1_+2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 248-249} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 248-249}
+!!!page: 248-249
+!!!ONB: Converted on 2024/12/26 with esac2hum

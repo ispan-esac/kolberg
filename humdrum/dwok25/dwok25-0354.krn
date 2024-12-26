@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2535400000-a_w_niedziele_za_rana.krn
+!!!OTL: A w niedzielę za rana
+!!!source: DWOK25
+!!!id: 25354
+!!!signature: 2535400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8dd
+8ff#
+=2
+8dd
+8ee
+4cc
+=3
+8dd
+8g
+8a
+8cc
+=4
+8a
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8dd
+8ee
+=6
+8dd
+8cc#
+4dd
+=7
+8g
+8a
+8b
+8dd
+=8
+4cc
+4b
+=9
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 161} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 161}
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

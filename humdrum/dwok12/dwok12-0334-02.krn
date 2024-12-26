@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1233400002-cyli_pod_lescyna.krn
+!!!OTL: Cyli pod lescyną
+!!!source: DWOK12
+!!!id: 12334
+!!!signature: 1233400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16g
+8b
+8dd
+=2
+8ee
+4dd
+=3
+16dd
+16cc
+8a
+8cc
+=4
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{16b
+16f#
+8g
+8b
+=6
+8ee
+4dd
+=7
+16dd
+16cc
+8a
+8f#
+=8
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{4f#
+8g
+=10
+8b
+4g
+=11
+4e
+8a
+=12
+8g#
+4a}
+!!LO:LB:g=esac
+=13
+{4a
+8dd
+=14
+8b
+4g
+=15
+4e
+8a
+=16
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 176} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 176}
+!!!page: 176
+!!!ONB: Converted on 2024/12/26 with esac2hum

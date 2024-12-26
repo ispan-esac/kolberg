@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4141200000-a_pomalutku_z_moja.krn
+!!!OTL: A pomalutku z moją
+!!!source: DWOK41
+!!!id: 41412
+!!!signature: 4141200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4cc
+4cc
+=2
+8cc
+8ee
+4g
+4cc}
+!!LO:LB:g=esac
+=3
+{4b
+4dd
+4dd
+=4
+8dd
+8ff
+4g
+4cc}
+!!LO:LB:g=esac
+=5
+{4ee
+4gg
+4gg
+=6
+8gg
+8cc
+4ee
+4cc}
+!!LO:LB:g=esac
+=7
+{4dd
+4ff
+4ff
+=8
+8ff
+8g
+4b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=308 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 225} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 225}
+!!!page: 225
+!!!ONB: Converted on 2024/12/26 with esac2hum

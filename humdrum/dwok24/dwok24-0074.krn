@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2407400000-nasemu_panu_cepy.krn
+!!!OTL: Nasemu panu cepy
+!!!source: DWOK24
+!!!id: 24074
+!!!signature: 2407400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+8b
+8cc#
+=2
+4.dd
+8b
+=3
+4dd
+4dd
+=4
+8dd
+8cc
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{4g
+8b
+8cc#
+=6
+4.dd
+8b
+=7
+8dd
+8ee
+8dd
+8cc#
+=8
+8dd
+8cc
+8a
+8g}
+!!LO:LB:g=esac
+=9
+{4.cc
+8b
+=10
+8dd
+4b
+8a
+=11
+2dd}
+!!LO:LB:g=esac
+=12
+{8g
+4b
+8cc
+=13
+8a
+4.f#
+=14
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 205} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 205}
+!!!page: 205
+!!!ONB: Converted on 2024/12/26 with esac2hum

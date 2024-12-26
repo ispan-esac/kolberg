@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2418700002-pod_borem_sosna_pod_nia_topola.krn
+!!!OTL: Pod borem sosna pod nią topola
+!!!source: DWOK24
+!!!id: 24187
+!!!signature: 2418700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8dd
+8cc#
+=2
+4.a
+=3
+16cc
+16ee
+16dd
+16a
+8b
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8a
+16f#
+16d
+=6
+16f#
+16g
+8b
+8dd
+=7
+16dd
+16cc#
+16cc
+16a
+8b
+=8
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=314 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 290} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 290}
+!!!page: 290
+!!!ONB: Converted on 2024/12/26 with esac2hum

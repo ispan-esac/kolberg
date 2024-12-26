@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK5034000001-oj_kywala_molodycia_palczykom_na_mene.krn
+!!!OTL: Oj, kywała mołodycia palczykom na mene
+!!!source: DWOK50
+!!!id: 50340
+!!!signature: 5034000001
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8b
+8dd
+4dd
+4cc
+=2
+*M2/4
+8b
+8dd
+8dd
+8cc
+=3
+8b
+8dd
+8cc
+8b
+=4
+4a
+4g}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8a
+16a
+16cc
+4b
+4g
+=6
+*M2/4
+8b
+8b
+8dd
+8cc
+=7
+8b
+8dd
+8cc
+8b
+=8
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 177} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

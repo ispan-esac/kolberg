@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK57135300000-dolom_dolom_taj_szcze-j_dolynoju.krn
+!!!OTL: Dołom, dołom, taj szcze-j dołynoju
+!!!source: DWOK57
+!!!id: 571353
+!!!signature: 57135300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8g
+=2
+8cc
+8cc
+8ee
+8ee
+=3
+4.dd
+8b
+=4
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ee
+8ee
+=6
+8dd
+8ff
+16ee
+16dd
+16cc
+16b
+=7
+2a
+=8
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{8g
+8g
+8a
+8b
+=10
+8cc
+8a
+8dd
+8dd
+=11
+2g
+=12
+4g}
+4r
+!!LO:LB:g=esac
+=13
+{8g
+8g
+8a
+8b
+=14
+8cc
+8a
+8dd
+8dd
+=15
+2g
+=16
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 429
+!!!ONB: Converted on 2024/12/26 with esac2hum

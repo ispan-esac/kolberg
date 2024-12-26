@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK06-K0312-niescesliwe_to_bedzie.krn
+!!!OTL: Niescesliwe to bedzie
+!!!source: DWOK06
+!!!id: K0312
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=1
+{4cc#
+4cc#
+4cc#
+4cc#
+=2
+4ee
+8ee
+8cc#
+4a
+4r
+=3
+8b
+8dd
+8b
+8g#
+4a}
+4r
+!!LO:LB:g=esac
+=4
+{4cc#
+4cc#
+4cc#
+4cc#
+=5
+4ee
+8ee
+8cc#
+4.a
+8cc#
+=6
+8b
+8dd
+8b
+8g#
+4a}
+4r
+!!LO:LB:g=esac
+=7
+{8e
+8a
+8a
+8a
+8g#
+8a
+8b
+8a
+=8
+8e
+8a
+8a
+8a
+8g#
+8a
+8b
+8a
+=9
+4ee
+4a
+8b
+8cc#
+8dd
+8b
+=10
+4a}
+4r
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 157} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 157}
+!!!page: 157
+!!!ONB: Converted on 2024/12/26 with esac2hum

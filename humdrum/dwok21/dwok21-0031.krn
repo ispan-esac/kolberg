@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK2103100000-dziwna_ja_dziwna_matke_mam.krn
+!!!OTL: Dziwną ja dziwną matkę mam
+!!!source: DWOK21
+!!!id: 21031
+!!!signature: 2103100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+4cc
+=2
+8g
+8.cc
+16ee
+=3
+4dd
+8ee
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{8ff
+8gg
+16ff
+16ee
+=6
+4dd
+8ee
+=7
+8cc
+8dd
+16cc
+16b
+=8
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{8ff
+8ff
+8ee
+=10
+4dd
+8ee
+=11
+4cc}
+8r
+!!LO:LB:g=esac
+=12
+{8g
+4cc
+=13
+8g
+8.ff
+16ee
+=14
+8dd
+4ee
+=15
+4cc}
+8r
+!!LO:LB:g=esac
+=16
+{16ff
+16ee
+8gg
+16ff
+16ee
+=17
+8dd
+4ee
+=18
+16cc
+16b
+8dd
+16cc
+16b
+=19
+4a
+8g}
+!!LO:LB:g=esac
+=20
+{8ff
+8ff
+8ee
+=21
+4dd
+8ee
+=22
+4cc}
+8r
+==
+*-
+!!!ONB: W 2 takcie brakuje kropki na drugiej wartości
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 18} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 18}
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK5323700000-o_mergyte_akis_manu_podaboju.krn
+!!!OTL: O mergyte! Akis manu podaboju
+!!!source: DWOK53
+!!!id: 53237
+!!!signature: 5323700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=1
+{4ee
+4cc#
+4a
+4a
+=2
+4ff#
+4ee
+4ff#
+4dd}
+!!LO:LB:g=esac
+=3
+{4b
+4b
+4dd
+4ff#
+=4
+4ee
+4ee
+4ee
+4cc#}
+!!LO:LB:g=esac
+=5
+{4a
+4cc#
+4cc#
+4b
+=6
+4dd
+4dd
+4dd
+4ff#}
+!!LO:LB:g=esac
+=7
+{4ee
+4ee
+4ee
+4cc#
+=8
+4b
+4b
+2a}
+!!LO:LB:g=esac
+=9
+{4a
+4cc#
+4cc#
+4b
+=10
+4dd
+4dd
+4dd
+4ff#}
+!!LO:LB:g=esac
+=11
+{4ee
+4ee
+4ee
+4cc#
+=12
+4b
+4b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=373 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 333} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 333}
+!!!page: 333
+!!!ONB: Converted on 2024/12/26 with esac2hum

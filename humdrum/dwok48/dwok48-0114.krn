@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK4811400000-w_zielonym_gaiku_ptaszeta_spiewaja.krn
+!!!OTL: W zielonym gaiku ptaszęta śpiewają
+!!!source: DWOK48
+!!!id: 48114
+!!!signature: 4811400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8g
+8a
+8b-
+=2
+4cc
+4cc
+=3
+8cc
+8ee
+8ff
+8dd
+=4
+4cc
+8ff}
+8r
+!!LO:LB:g=esac
+=5
+{8f
+8g
+8a
+8b-
+=6
+4cc
+8dd
+8a
+=7
+8b-
+8g
+8cc
+16a
+16cc
+=8
+4f
+8f}
+8r
+!!LO:LB:g=esac
+=9
+{8f
+8g
+8a
+8b-
+=10
+4cc
+16dd
+16cc
+16b-
+16a
+=
+8b-
+8g
+8cc
+24a
+24g
+24f
+=11
+4f
+8f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 165} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 165}
+!!!page: 165
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1824000000-nie_dajze_mi_boze.krn
+!!!OTL: Nie dajze mi Boze
+!!!source: DWOK18
+!!!id: 18240
+!!!signature: 1824000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16a
+8cc
+8cc
+=2
+8b
+8dd
+8ee
+=3
+16cc
+16a
+8cc
+8b
+=4
+8g
+8e
+8d}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8cc
+8cc
+=6
+8b
+8g
+8e
+=7
+16f#
+16a
+8cc
+8b
+=8
+8g
+8e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 141} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 141}
+!!!page: 141
+!!!ONB: Converted on 2024/12/26 with esac2hum

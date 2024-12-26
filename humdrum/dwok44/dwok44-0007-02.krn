@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK4400700002-pasly_sie_owce.krn
+!!!OTL: Pasły sie owce
+!!!source: DWOK44
+!!!id: 44007
+!!!signature: 4400700002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4b
+8b
+8a
+=2
+4a
+2g
+=3
+4cc
+4dd
+4ff
+=4
+2.ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+4b
+8b
+8a
+=6
+4a
+2g
+=7
+4cc
+4dd
+4ff
+=8
+2.ee}
+!!LO:LB:g=esac
+=9
+{4ee
+4gg
+4ff
+=10
+4ee
+4ee
+4dd}
+!!LO:LB:g=esac
+=11
+{8ee
+8ff
+4gg
+8gg
+8ff
+=12
+4ee
+4ee
+4dd}
+!!LO:LB:g=esac
+=13
+{4cc
+4b
+4cc
+=14
+4ee
+4dd
+4b
+=15
+2.cc}
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 69} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 69}
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

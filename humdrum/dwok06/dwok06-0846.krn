@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0846-oj_nie_jedz_jasiu.krn
+!!!OTL: Oj nie jedz Jasiu
+!!!source: DWOK06
+!!!id: K0846
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+8ee
+8dd
+=2
+16ee
+16ee
+8dd
+8cc
+=3
+16ee
+16gg
+8ff
+8ee
+=4
+4gg
+8dd}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+8dd
+=6
+16ee
+16ee
+8dd
+8cc
+=7
+16b
+16dd
+8a
+8b
+=8
+4cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=525 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 499} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 499}
+!!!page: 499
+!!!ONB: Converted on 2024/12/26 with esac2hum

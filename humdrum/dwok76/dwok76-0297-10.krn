@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK7629700010-uciekaj_no_ydzie.krn
+!!!OTL: Uciekaj no, Żydzie
+!!!source: DWOK76
+!!!id: 76297
+!!!signature: 7629700010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+4cc
+8a
+=2
+8cc
+8b-
+4b-
+=3
+8a
+4cc
+8a
+=4
+8cc
+8b-
+4b-}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+8cc
+=6
+8dd
+8ee
+4ff
+=7
+8a
+4cc
+8a
+=8
+8cc
+8b-
+4b-}
+==
+*-
+!!!ONB: Część wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 155} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

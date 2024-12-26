@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK7623800000-od_podola_wiater_wieje.krn
+!!!OTL: Od Podola wiater wieje
+!!!source: DWOK76
+!!!id: 76238
+!!!signature: 7623800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8g
+8a
+8g
+8g
+8f
+=2
+8f
+8e
+4e
+4r
+=3
+8.a
+16a
+8a
+8cc
+8b
+8a
+=4
+8a
+8g
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4dd
+4f
+=6
+8cc
+8cc
+4.b
+8a
+=7
+8g
+8g
+8a
+8g
+8g
+8f
+=8
+8f
+8e
+4e}
+4r
+==
+*-
+!!!ONB: wariant t. 1 5_5_5_5_5_4_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 122} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 122}
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

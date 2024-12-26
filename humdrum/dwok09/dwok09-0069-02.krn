@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK0906900002-ty_bestyja_ty_psiajucho.krn
+!!!OTL: Ty bestyja, ty psiajucho
+!!!source: DWOK09
+!!!id: 09069
+!!!signature: 0906900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+16ff#
+16ee
+16cc
+16a
+=2
+16f#
+16a
+16cc
+16a
+8b}
+!!LO:LB:g=esac
+=3
+{16b
+16dd
+16ff#
+16ee
+16cc
+16a
+=4
+16e
+16d
+16f#
+16d
+8g}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8a
+16cc
+16ee
+=6
+16dd
+16b
+8.g
+16b
+=7
+16dd
+16cc
+4a}
+!!LO:LB:g=esac
+=8
+{16a
+16cc
+8a
+16cc
+16ee
+=9
+16dd
+16b
+8.g
+16b
+=10
+16g
+16f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 215} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 215}
+!!!page: 215
+!!!ONB: Converted on 2024/12/26 with esac2hum

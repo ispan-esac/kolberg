@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1109500000-instrumentalna-walc.krn
+!!!OTL: Instrumentalna-walc
+!!!source: DWOK11
+!!!id: 11095
+!!!signature: 1109500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8gg
+16ff#
+16ee
+=2
+4.dd
+=3
+8dd
+16b
+16g
+16a
+16f#
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{8dd
+16b
+16g
+16a
+16g
+=6
+16f#
+16g
+16a
+16b
+8cc
+=7
+16b
+16dd
+16b
+16g
+16a
+16f#
+=8
+4.g}
+==
+*-
+!!!ONB: Walc weselny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 203} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 203}
+!!!page: 203
+!!!ONB: Converted on 2024/12/26 with esac2hum

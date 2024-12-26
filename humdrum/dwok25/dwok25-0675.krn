@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK2567500000-za_co_z_klechy_rewerende_zdjeto.krn
+!!!OTL: Za co z klechy rewerendę zdjęto
+!!!source: DWOK25
+!!!id: 25675
+!!!signature: 2567500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+4ee
+=2
+8cc
+4g
+=3
+16b
+16cc
+8dd
+8ee
+=4
+8ff#
+4gg}
+!!LO:LB:g=esac
+=5
+{8dd
+4ff
+=6
+16dd
+16cc
+8b
+8g
+=7
+16b
+16cc
+8dd
+8ee
+=8
+8b
+4cc}
+!!LO:LB:g=esac
+=9
+{8ff
+4ee
+=10
+8cc
+4g
+=11
+16b
+16cc
+8dd
+8ee
+=12
+8ff#
+4gg}
+!!LO:LB:g=esac
+=
+{8dd
+12ff
+12ff
+12ee
+=13
+16dd
+16cc
+8b
+16b
+16g
+=14
+16b
+16cc
+8dd
+8ee
+=15
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 242} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

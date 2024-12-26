@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK2576200000-nasza_wiara_birbantowa.krn
+!!!OTL: Nasza wiara birbantowa
+!!!source: DWOK25
+!!!id: 25762
+!!!signature: 2576200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8g
+8g
+16g
+16f#
+=2
+8g
+8a
+8b
+8g
+=3
+4dd
+4a
+=4
+8a
+8a
+8f#
+8d}
+!!LO:LB:g=esac
+=5
+{8d
+8g
+8g
+16g
+16f#
+=6
+8g
+8a
+8b
+8g
+=7
+4dd
+4a
+=8
+8a
+8a
+8f#
+8d}
+!!LO:LB:g=esac
+=9
+{8ee
+8cc
+8cc
+8cc
+=10
+8cc
+8cc
+8ee
+8ee
+=11
+4dd
+4g
+=12
+8g
+16b
+16dd
+8gg
+8g}
+!!LO:LB:g=esac
+=13
+{8cc
+8a
+8a
+8a
+=14
+8a
+8a
+8cc
+8cc
+=15
+8b
+8b
+8a
+8a
+=16
+4g
+4g}
+==
+*-
+!!!ONB: Wariant w ostatnim takcie 1_1_1_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 272} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 272}
+!!!page: 272
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4653300000-o_ktrotko_sie_podkasala_czarne_lasy_pokazala.krn
+!!!OTL: O, ktrótko się podkasała, czarne lasy pokazała
+!!!source: DWOK46
+!!!id: 46533
+!!!signature: 4653300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8cc
+4.ee
+8cc
+=2
+8dd
+8ee
+4.ff
+8dd}
+!!LO:LB:g=esac
+=3
+{8cc
+8dd
+4ee
+4cc
+=4
+8dd
+8ee
+4ff
+4dd}
+!!LO:LB:g=esac
+=5
+{8ccc
+8gg
+4.ee
+8cc
+=6
+8b
+8dd
+4dd
+4ff}
+!!LO:LB:g=esac
+=7
+{8aa
+8ff
+4.dd
+8b
+=8
+8cc
+8ee
+4ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=357 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 323} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 323}
+!!!page: 323
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK02-K0093-a_druzbowie_koleja.krn
+!!!OTL: A druzbowie koleja
+!!!source: DWOK02
+!!!id: K0093
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16g
+16b
+8cc
+8dd
+8ee
+=2
+8dd
+8a
+4dd
+=3
+4a
+8d}
+8r
+!!LO:LB:g=esac
+=4
+{8f#
+8g
+8b
+8dd
+=5
+4cc
+8b
+8f
+=6
+4g
+8d}
+8r
+==
+*-
+!!!ONB: U Kolberga błędnie podane metrum 3/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 78} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 78}
+!!!page: 78
+!!!ONB: Converted on 2024/12/26 with esac2hum

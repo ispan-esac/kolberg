@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0802-te_sama_skrzypecku.krn
+!!!OTL: Te sama skrzypecku
+!!!source: DWOK06
+!!!id: K0802
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8b
+8dd
+8cc
+=2
+8ee
+4.gg
+=3
+8aa
+4ff
+8dd
+=4
+8ff
+8gg
+8ee
+8cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+8dd
+16cc
+16b
+=6
+8a
+4.cc
+=7
+4dd
+4dd
+=8
+8ee
+8cc
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=508 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 482} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 482}
+!!!page: 482
+!!!ONB: Converted on 2024/12/26 with esac2hum

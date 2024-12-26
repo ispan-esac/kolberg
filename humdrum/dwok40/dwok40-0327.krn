@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK4032700000-oj_kot_kot_matulenku.krn
+!!!OTL: Oj kot kot matuleńku
+!!!source: DWOK40
+!!!id: 40327
+!!!signature: 4032700000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M4/4
+{4g
+4a
+4b
+4dd
+=2
+8cc
+8b
+8a
+8dd
+4g}
+4r
+!!LO:LB:g=esac
+=3
+{4g
+4a
+4b
+4dd
+=4
+8cc
+8b
+8a
+8dd
+4g}
+4r
+!!LO:LB:g=esac
+=5
+*M2/4
+{8g
+8b
+8dd
+8cc
+=6
+8b
+8a
+8g
+8f#
+=7
+8e
+8e
+8e
+8e
+=8
+4d
+4a}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8dd
+8cc
+=10
+8b
+8a
+8g
+8f#
+=11
+8e
+8e
+8e
+8e
+=12
+4d
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=394 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 331} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 331}
+!!!page: 331
+!!!ONB: Converted on 2024/12/26 with esac2hum

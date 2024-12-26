@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1918200000-dziekuje_ci_matko_moja.krn
+!!!OTL: Dziękuję Ci matko moja
+!!!source: DWOK19
+!!!id: 19182
+!!!signature: 1918200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+16ee
+16cc
+=2
+16b
+16dd
+8gg
+8ee
+=3
+8dd
+4b
+=4
+16f#
+16a
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+16ee
+16cc
+=6
+16b
+16dd
+8g
+8b
+=7
+8e
+4d
+=8
+16f#
+16a
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 59} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 59}
+!!!page: 59
+!!!ONB: Converted on 2024/12/26 with esac2hum

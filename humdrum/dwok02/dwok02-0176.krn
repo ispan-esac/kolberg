@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK02-K0176-gdzie_odjezdzasz.krn
+!!!OTL: Gdzie odjezdzasz
+!!!source: DWOK02
+!!!id: K0176
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8dd
+8dd
+=2
+8ee
+8dd
+8cc
+8b
+=3
+8a
+8b
+8cc
+8b
+=4
+8dd
+8cc
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{4a
+4d
+=6
+8f#
+8g
+8a
+8b
+=7
+4cc
+4b}
+!!LO:LB:g=esac
+=8
+{4a
+4d
+=9
+8g
+8cc
+8b
+8a
+=10
+4g
+4g}
+!!LO:LB:g=esac
+=11
+{4a
+4d
+=12
+8f#
+8g
+8a
+8b
+=13
+4cc
+4b}
+!!LO:LB:g=esac
+=14
+{4a
+4d
+=15
+8g
+8cc
+8b
+8a
+=16
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 145} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 145}
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

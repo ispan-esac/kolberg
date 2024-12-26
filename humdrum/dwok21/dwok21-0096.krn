@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2109600000-z_tamtej_strony_jeziora.krn
+!!!OTL: Z tamtej strony jeziora
+!!!source: DWOK21
+!!!id: 21096
+!!!signature: 2109600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8b
+8a
+=2
+4cc
+8dd
+8b
+=3
+2ee}
+!!LO:LB:g=esac
+=4
+{8ff#
+8ee
+8dd
+8b
+=5
+4ee
+8dd
+8b
+=6
+2a}
+!!LO:LB:g=esac
+=7
+{4ee
+4ee
+=8
+4dd
+4b
+=9
+8a
+8cc
+8b
+8a
+=10
+4g
+4e}
+!!LO:LB:g=esac
+=11
+{8a
+8cc
+8b
+8a
+=12
+4ee
+8dd
+8b
+=13
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 47} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

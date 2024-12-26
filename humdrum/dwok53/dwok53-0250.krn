@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5325000000-vaj_aj_aj_aj_ka_daryti.krn
+!!!OTL: Vaj aj aj aj! Ką daryti?
+!!!source: DWOK53
+!!!id: 53250
+!!!signature: 5325000000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4g
+4a
+4b
+=2
+4cc
+4a
+4g
+4a}
+!!LO:LB:g=esac
+=3
+{4cc
+4g
+4a
+4b
+=4
+4cc
+4a
+4g
+4a}
+!!LO:LB:g=esac
+=5
+{4g
+4b
+4dd
+4b
+=6
+4cc
+4ee
+4ee
+4ee}
+!!LO:LB:g=esac
+=7
+{4dd
+4dd
+4gg
+4b
+=8
+4dd
+4cc
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=377 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 337} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 337}
+!!!page: 337
+!!!ONB: Converted on 2024/12/26 with esac2hum

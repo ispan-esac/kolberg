@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2907800000-na_dobryj_den_zelman.krn
+!!!OTL: Na dobryj den Zelman
+!!!source: DWOK29
+!!!id: 29078
+!!!signature: 2907800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8ee
+8ee
+8ee
+=2
+8ee
+8dd
+8dd
+8cc
+=3
+8cc
+8ee
+8ee
+8ee
+=4
+8ee
+8dd
+8dd
+8cc#}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+8ee
+=6
+8ee
+8dd
+8dd
+8cc
+=7
+8cc
+8b
+4a}
+!!LO:LB:g=esac
+=8
+{8cc
+8ee
+8ee
+8ee
+=9
+8ee
+8dd
+8dd
+8cc
+=10
+8cc
+8b
+4a}
+!!LO:LB:g=esac
+=11
+{4cc
+8b
+8b
+=12
+4a}
+4r
+==
+*-
+!!!ONB: Zelman
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 177} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

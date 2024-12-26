@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK4812600000-umar_maciek_umar.krn
+!!!OTL: Umar Maciek, umar
+!!!source: DWOK48
+!!!id: 48126
+!!!signature: 4812600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+4a
+=2
+8ee
+8dd
+8dd
+8cc
+=3
+4b
+4a
+=4
+8g
+8g
+8f#
+8d}
+!!LO:LB:g=esac
+=5
+{4g
+4a
+=6
+8g
+8b
+8cc
+8cc
+=7
+4b
+8a
+8f#
+=8
+8g
+8g
+8f#
+8d}
+!!LO:LB:g=esac
+=9
+{4e
+8d
+8f#
+=10
+8g
+16a
+16b
+8cc
+8ee
+=11
+4b
+16a
+16b
+16a
+16f#
+=12
+8g
+8a
+8f#
+8d}
+==
+*-
+!!!ONB: Wariant t. 2-3: 6_5_5_2_  3__2_-7_; wariant t. 7: 3__2__; wariant t. 11: 3_4_232-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 174} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

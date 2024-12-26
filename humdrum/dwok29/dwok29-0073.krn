@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2907300000-worotariu_worotareczku.krn
+!!!OTL: Worotariu worotareczku
+!!!source: DWOK29
+!!!id: 29073
+!!!signature: 2907300000
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M2/4
+=1
+{8b
+8dd
+8dd
+16ee
+16dd
+=2
+4cc
+8cc
+8cc
+=3
+4cc
+4g}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8dd
+16ee
+16dd
+=5
+4cc
+4cc
+=6
+4cc
+4g}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+8dd
+16ee
+16dd
+=8
+4cc
+8cc
+8g
+=9
+8b
+8dd
+8dd
+16ee
+16dd
+=10
+4cc
+8cc
+8g}
+==
+*-
+!!!ONB: Worotarie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 173} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

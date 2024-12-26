@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK4126200000-z_poniedzialku_na_swieto.krn
+!!!OTL: Z poniedziałku na święto
+!!!source: DWOK41
+!!!id: 41262
+!!!signature: 4126200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4cc
+8a
+8f#
+=2
+8d
+8f#
+8a
+8cc
+4dd
+=3
+8b
+8dd
+4cc
+8a
+8f#}
+!!LO:LB:g=esac
+=4
+{4d
+8e
+8f#
+4g
+=5
+8e
+8f#
+4g
+8dd
+8cc
+=6
+8b
+8g
+4e
+8e
+8c}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+2a
+=8
+8e
+8f#
+4g
+8dd
+8cc
+=9
+8b
+8g
+4e
+8e
+8c#
+=10
+8d
+8f#
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 164} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 164}
+!!!page: 164
+!!!ONB: Converted on 2024/12/26 with esac2hum

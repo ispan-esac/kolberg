@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK8357400001-oj_maty_syna_oj_wychowala.krn
+!!!OTL: Oj, maty syna, oj, wychowała
+!!!source: DWOK83
+!!!id: 83574
+!!!signature: 8357400001
+**kern
+*clefG2
+*k[]
+*C:
+=1
+{8cc
+16ee
+16ff
+4ff
+8ff
+8ee
+=2
+*M3/4
+16dd
+16ee
+16dd
+16ee
+2cc
+=3
+8dd
+8ee
+4ff
+8ff
+8ee
+=4
+*M2/4
+4ee}
+4r
+!!LO:LB:g=esac
+=5
+*M3/4
+{8ee
+8gg
+4gg
+8ee
+8ff#
+=6
+2.gg
+=7
+4ff#
+4ff#
+4cc
+=
+!!UNCATEGORIZED MEASURE
+12cc
+12dd
+12ee
+2cc}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8ee
+8gg
+4gg
+8ee
+8ff#
+=8
+*M3/4
+2.gg
+=9
+4ff#
+4ff#
+4cc
+=10
+12cc
+12dd
+12ee
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=471 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 360} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 360}
+!!!page: 360
+!!!ONB: Converted on 2024/12/26 with esac2hum

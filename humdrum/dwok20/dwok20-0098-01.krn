@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2009800001-oj_dobra_nocka_kole_polnocka.krn
+!!!OTL: (Oj) dobra nocka kole północka
+!!!source: DWOK20
+!!!id: 20098
+!!!signature: 2009800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4b
+8cc
+=2
+8dd
+4dd
+=3
+8ee
+8ee
+8dd
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8cc
+=6
+8dd
+4ee
+=7
+4dd
+8b
+=8
+4a}
+8r
+!!LO:LB:g=esac
+=9
+{8dd
+8ee
+8dd
+=10
+8a
+4cc
+=11
+8dd
+8ee
+8dd
+=12
+8b
+4a}
+!!LO:LB:g=esac
+=13
+{8b
+8b
+8cc
+=14
+8dd
+4ee
+=15
+4.b
+=16
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 146} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 146}
+!!!page: 146
+!!!ONB: Converted on 2024/12/26 with esac2hum

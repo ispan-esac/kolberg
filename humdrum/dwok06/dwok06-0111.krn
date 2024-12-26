@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK06-K0111-a_moja_dziewcyno.krn
+!!!OTL: A moja dziewcyno
+!!!source: DWOK06
+!!!id: K0111
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8f#
+4g
+=2
+8b
+4dd
+8dd
+=3
+8dd
+8cc#
+4dd
+=4
+8a
+4g
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+8cc#
+4dd
+=6
+8f#
+4g
+8b
+=7
+8a
+8cc
+4b
+=8
+8a
+4g
+8g}
+!!LO:LB:g=esac
+=9
+{8g
+8f#
+4g
+=10
+8b
+4dd
+8dd
+=11
+8dd
+8cc#
+4dd
+=12
+8a
+4g
+8b}
+!!LO:LB:g=esac
+=13
+{8a
+8cc#
+4dd
+=14
+8a
+4g
+8b
+=15
+8a
+8cc
+4b
+=16
+8a
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 57} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

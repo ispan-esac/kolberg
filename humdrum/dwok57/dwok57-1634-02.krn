@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK57163400002-nad_wodoju_jawor_zelenenki.krn
+!!!OTL: Nad wodoju jawor zełeneńki
+!!!source: DWOK57
+!!!id: 571634
+!!!signature: 57163400002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4cc
+4dd
+=2
+4ee
+4g
+=3
+16g
+16cc
+8cc
+8b
+8a
+=4
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{16cc
+16cc
+8cc
+8dd
+8cc
+=6
+16dd
+16ee
+16ee
+16dd
+16ee
+16ff
+16dd
+16b
+=7
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 704
+!!!ONB: Converted on 2024/12/26 with esac2hum

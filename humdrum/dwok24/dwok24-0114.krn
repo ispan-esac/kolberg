@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2411400000-nie_wypil.krn
+!!!OTL: Nie wypił
+!!!source: DWOK24
+!!!id: 24114
+!!!signature: 2411400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4cc
+8ff
+8ff
+=2
+4ff
+4gg
+=3
+8gg
+8dd
+8ff
+8dd
+=4
+4cc
+4dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+8dd
+=6
+8cc
+8ee
+8dd
+8dd
+=7
+8cc
+8ee
+8ee
+8ee
+=8
+4gg
+4dd}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8dd
+8dd
+=10
+8cc
+8ee
+8dd
+8dd
+=11
+8cc
+8ee
+8ee
+8ee
+=12
+4gg
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 235} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 235}
+!!!page: 235
+!!!ONB: Converted on 2024/12/26 with esac2hum

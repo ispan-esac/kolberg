@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4958700002-oj_a_mnie_by_tu_swaszczyc_mnie_by_tu_kumowac.krn
+!!!OTL: Oj, a mnie by tu swaszczyć, mnie by tu kumować
+!!!source: DWOK49
+!!!id: 49587
+!!!signature: 4958700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+8b
+8cc
+=2
+8dd
+8dd
+8b
+8dd
+=3
+8dd
+8cc
+8g
+8a
+=4
+16a
+16cc
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{4g
+8b
+8cc
+=6
+8dd
+8dd
+8b
+8cc
+=7
+8cc
+8b
+8g
+8a
+=8
+8f#
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=585 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 495} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 495}
+!!!page: 495
+!!!ONB: Converted on 2024/12/26 with esac2hum

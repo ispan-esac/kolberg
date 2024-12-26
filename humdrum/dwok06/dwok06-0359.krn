@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK06-K0359-zeslala_sie_jedna_z_druga.krn
+!!!OTL: Zeslala sie jedna z druga
+!!!source: DWOK06
+!!!id: K0359
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8b
+8b
+=2
+4.b
+8dd
+=3
+4dd
+8cc}
+8r
+!!LO:LB:g=esac
+=4
+{4d
+8f#
+8a
+=5
+4.a
+8cc
+=6
+4cc
+8b}
+8r
+!!LO:LB:g=esac
+=7
+{4dd
+8b
+8b
+=8
+4.b
+8dd
+=9
+4dd
+8cc}
+8r
+!!LO:LB:g=esac
+=10
+{4d
+8f#
+8a
+=11
+4.a
+8cc
+=12
+4b
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 181} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 181}
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

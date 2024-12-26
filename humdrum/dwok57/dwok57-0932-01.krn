@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK5793200001-oj_szczos_meni_nenci_moja.krn
+!!!OTL: Oj, szczoś meni, neńci moja
+!!!source: DWOK57
+!!!id: 57932
+!!!signature: 5793200001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{8a
+8ee
+8ee
+8ee
+=2
+8ee
+8ee
+8dd
+8dd}
+!!LO:LB:g=esac
+=3
+*M3/4
+{8ee
+8ee
+4aa
+8ee
+8ee
+=4
+*M2/4
+8ee
+8ff#
+4gg
+=5
+2ee}
+!!LO:LB:g=esac
+=6
+{8aa
+8aa
+8ee
+8ee
+=7
+8dd
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=8
+*M3/4
+{8cc
+8cc
+4ee
+8dd
+8dd
+=9
+4cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

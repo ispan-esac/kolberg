@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK2611200000-zebys_ty_chmielu.krn
+!!!OTL: Zebyś ty chmielu
+!!!source: DWOK26
+!!!id: 26112
+!!!signature: 2611200000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{8a
+8dd
+16dd
+16ee
+=2
+8ff
+4ee
+=3
+16cc
+16dd
+4cc
+=4
+8b-
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+16dd
+16cc#
+16dd
+16ee
+=
+24ff
+24gg
+24ff
+8ee
+8dd
+=6
+16cc
+16dd
+8cc
+8g
+=7
+8b-
+4a}
+!!LO:LB:g=esac
+=8
+{8cc
+8dd
+16a
+16b-
+=9
+16cc
+16cc
+8g
+16a
+16b-
+=10
+8cc
+8dd
+16a
+16b-
+=11
+16cc
+16cc
+8g
+16a
+16b-}
+!!LO:LB:g=esac
+=12
+{16cc
+16dd
+4cc
+=13
+8b-
+4a}
+==
+*-
+!!!ONB: Zakodować w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

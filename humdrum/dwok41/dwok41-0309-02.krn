@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4130900002-a_z_wieczora_czarna_chmura_deszcz_leje.krn
+!!!OTL: A z wieczora czarna chmura, deszcz leje
+!!!source: DWOK41
+!!!id: 41309
+!!!signature: 4130900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+8b
+8a
+=2
+8b
+8cc
+8b
+8a
+=3
+4dd
+8dd
+8ee
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8cc#
+8dd
+8ee
+8ff#
+=6
+8ee
+8dd
+8cc
+8b
+=7
+4dd
+8a
+8cc
+=8
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 184} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

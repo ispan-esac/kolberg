@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK3646600000-oj_chodyla_po_sadu.krn
+!!!OTL: Oj chodyła po sadu
+!!!source: DWOK36
+!!!id: 36466
+!!!signature: 3646600000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=1
+{16ff
+16ff
+16ff
+16gg
+8aa
+8aa
+=2
+8gg#
+16gg#
+16ee
+8aa
+8aa
+=3
+16ff
+16ee
+16ff
+16gg
+8aa
+8aa
+=4
+4gg#
+4aa}
+!!LO:LB:g=esac
+=5
+{8dd
+16dd
+16ee
+8ff
+8ff
+=6
+8ee
+16ee
+16gg
+16ff
+16ee
+16dd
+16cc#
+=7
+8dd
+8dd
+8ee
+8cc#
+=8
+4a
+4aa}
+!!LO:LB:g=esac
+=9
+{8dd
+16dd
+16ee
+8ff
+8ff
+=10
+8ee
+16ee
+16gg
+16ff
+16ee
+16dd
+16cc#
+=11
+8dd
+8dd
+8cc#
+8cc#
+=12
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 300
+!!!ONB: Converted on 2024/12/26 with esac2hum

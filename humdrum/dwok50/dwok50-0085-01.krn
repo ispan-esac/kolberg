@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK5008500001-krasna_diwojka_krasna_diwojka.krn
+!!!OTL: Krasna diwojka, krasna diwojka
+!!!source: DWOK50
+!!!id: 50085
+!!!signature: 5008500001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8ee
+=2
+8cc
+4ee
+=3
+8ee
+8dd
+8dd
+=4
+16a
+16b
+4cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8ee
+=6
+8cc
+4ee
+=7
+4dd
+8ee
+=8
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=9
+{8e
+8a
+8b
+=10
+8cc
+4dd
+=11
+8ee
+8dd
+8cc
+=12
+8a
+4a}
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+8ee
+=14
+8dd
+4cc
+=15
+4.a
+=16
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 35} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 35}
+!!!page: 35
+!!!ONB: Converted on 2024/12/26 with esac2hum

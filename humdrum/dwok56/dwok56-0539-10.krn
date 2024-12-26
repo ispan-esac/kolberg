@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK5653900010-wolno.krn
+!!!OTL: wolno
+!!!source: DWOK56
+!!!id: 56539
+!!!signature: 5653900010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8ee
+16ff
+16ee
+8dd
+16ff
+16ee
+16dd
+16cc
+=2
+8dd
+8b
+4cc
+4g}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+16ff
+16ee
+8dd
+16ff
+16ee
+16dd
+16cc
+=4
+8gg
+16g
+16b
+4cc
+4ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=490 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 386} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 386}
+!!!page: 386
+!!!ONB: Converted on 2024/12/26 with esac2hum

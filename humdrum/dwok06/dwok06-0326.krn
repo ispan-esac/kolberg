@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK06-K0326-bodaj_to_nikt_dobry.krn
+!!!OTL: Bodaj to nikt dobry
+!!!source: DWOK06
+!!!id: K0326
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+4dd
+=2
+16ee
+16cc
+8dd
+8b
+=3
+16a
+16cc
+4g
+=4
+8b
+8dd
+8ff}
+!!LO:LB:g=esac
+=5
+{8ee
+4dd
+=6
+16ee
+16cc
+8dd
+8b
+=7
+16a
+16cc
+4g
+=8
+8a
+8a
+8g}
+!!LO:LB:g=esac
+=9
+{8cc
+8dd
+8ff
+=10
+16ee
+16cc
+8dd
+8b
+=11
+16a
+16cc
+4g
+=12
+8b
+8dd
+8ff}
+!!LO:LB:g=esac
+=13
+{8ee
+8dd
+8ff
+=14
+16ee
+16cc
+8dd
+8b
+=15
+16a
+16cc
+4g
+=16
+8a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=190 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 164} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 164}
+!!!page: 164
+!!!ONB: Converted on 2024/12/26 with esac2hum

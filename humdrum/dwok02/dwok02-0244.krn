@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK02-K0244-a_graj_zywiej_skrzypecku.krn
+!!!OTL: A graj zywiej skrzypecku
+!!!source: DWOK02
+!!!id: K0244
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8cc#
+8ee
+8ee
+=2
+16ff#
+16ee
+8dd#
+8ee
+=3
+8b
+8dd
+8dd
+=
+24b
+24g#
+24b
+8cc#
+8a}
+!!LO:LB:g=esac
+=4
+{8a
+8cc#
+8cc#
+=
+24cc#
+24a
+24cc#
+8dd
+8b
+=5
+8b
+8dd
+16ff#
+16dd
+=
+24b
+24g#
+24b
+8cc#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=211 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 200} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 200}
+!!!page: 200
+!!!ONB: Converted on 2024/12/26 with esac2hum

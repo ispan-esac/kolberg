@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK1105700002-siadala_siadala_kapusta_padala.krn
+!!!OTL: Siadała, siadała, kapusta padała
+!!!source: DWOK11
+!!!id: 11057
+!!!signature: 1105700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+4dd
+=3
+8dd
+8ee
+8dd
+8cc#
+=4
+8dd
+8a
+8f#
+8d}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+=6
+4dd
+4dd
+=7
+8dd
+8ee
+8dd
+8cc#
+=8
+4dd
+4dd}
+!!LO:LB:g=esac
+=9
+{4dd
+8dd
+8ee
+=10
+4cc
+8cc
+8a
+=11
+8cc
+8b
+8a
+8b
+=12
+8g
+8b
+8dd
+8gg}
+!!LO:LB:g=esac
+=13
+{4dd
+8dd
+8ee
+=14
+4cc
+8cc
+8a
+=15
+8cc
+8b
+8a
+8b
+=16
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 174} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

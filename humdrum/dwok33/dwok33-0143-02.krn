@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3314300002-obecjila_nam_maty.krn
+!!!OTL: Obecjiła nam maty
+!!!source: DWOK33
+!!!id: 33143
+!!!signature: 3314300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+4cc
+=2
+8b
+4g
+=
+[4b
+24b]
+24a
+24f#
+=3
+4g
+8a
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+4cc
+=6
+8cc
+4b
+=7
+16b
+16f#
+4g}
+!!LO:LB:g=esac
+=8
+{8b
+4cc
+=9
+8b
+4g
+=10
+4b
+8a
+=11
+4g}
+8r
+==
+*-
+!!!ONB: Wariant melodii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 249} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 249}
+!!!page: 249
+!!!ONB: Converted on 2024/12/26 with esac2hum

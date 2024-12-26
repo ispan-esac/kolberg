@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK4640200000-ebys_byla_nie_kumeczka.krn
+!!!OTL: Żebyś była nie kumeczka
+!!!source: DWOK46
+!!!id: 46402
+!!!signature: 4640200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8ee
+4.gg#
+8ee
+=2
+8dd
+8ff
+4ee
+8cc
+8b}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+4.aa
+8ee
+=4
+8dd
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=
+{12cc
+12b
+12a
+4g#
+8a
+8b
+=5
+8cc
+8ee
+4dd
+4cc}
+!!LO:LB:g=esac
+=6
+{8b
+8a
+4g#
+4b
+=7
+8dd
+8cc
+4b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 257} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 257}
+!!!page: 257
+!!!ONB: Converted on 2024/12/26 with esac2hum

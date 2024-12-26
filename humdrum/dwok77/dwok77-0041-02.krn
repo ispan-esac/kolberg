@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK7704100002-a_z_gory_jada_mazury.krn
+!!!OTL: A z góry jadą Mazury
+!!!source: DWOK77
+!!!id: 77041
+!!!signature: 7704100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+4dd
+=3
+8ee
+8dd
+8cc
+8ee
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+8a
+=6
+8a
+8cc
+8cc
+8b
+=7
+4dd
+4dd
+=8
+8a
+8cc
+8cc
+8b}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8b
+8b
+=10
+2a}
+!!LO:LB:g=esac
+=11
+{8f#
+8a
+8cc
+8a
+=12
+8g
+8b
+8b
+8a
+=13
+8f#
+8a
+8cc
+8a
+=14
+8g
+8b
+8b
+8a}
+!!LO:LB:g=esac
+=15
+{8g
+8b
+8b
+8b
+=16
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

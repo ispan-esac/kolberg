@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK2729200000-wyjechalo_trzech_panicow.krn
+!!!OTL: Wyjechało trzech paniców
+!!!source: DWOK27
+!!!id: 27292
+!!!signature: 2729200000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8d
+8d
+8f#
+8g
+=2
+8a
+8a
+8f#
+8d
+=3
+8g
+8b
+8cc
+8b
+=4
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{8dd
+8a
+8b
+8a
+=6
+8g
+8f#
+8e
+8d
+=7
+8f#
+8f#
+8g
+8f#
+=8
+4d
+4d}
+!!LO:LB:g=esac
+=9
+{8d
+8d
+8f#
+8g
+=10
+8a
+8a
+8f#
+8d
+=11
+8a
+8cc#
+8dd
+8cc#
+=12
+4a
+4a}
+!!LO:LB:g=esac
+=13
+{8dd
+8a
+8b
+8a
+=14
+8g
+8f#
+8e
+8d
+=15
+8f#
+8f#
+8g
+8f#
+=16
+4d
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 296} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 296}
+!!!page: 296
+!!!ONB: Converted on 2024/12/26 with esac2hum

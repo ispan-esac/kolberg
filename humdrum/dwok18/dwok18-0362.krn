@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1836200000-a_tusze_ja_tusze.krn
+!!!OTL: A tuszę ja tuszę
+!!!source: DWOK18
+!!!id: 18362
+!!!signature: 1836200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+4cc
+=2
+8cc
+4b
+=3
+8dd
+4cc
+=4
+8a
+8g}
+8r
+!!LO:LB:g=esac
+=5
+{8dd
+4b
+=6
+8b
+8dd
+8cc
+=7
+8a
+8g}
+8r
+=8
+8r
+8r
+8r
+!!LO:LB:g=esac
+=9
+{8dd
+4dd
+=10
+8dd
+4gg
+=11
+8ee
+4cc
+=12
+8a
+4g}
+!!LO:LB:g=esac
+=13
+{8dd
+4b
+=14
+8b
+8dd
+8cc
+=15
+8a
+8g}
+8r
+=16
+8r
+8r
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 198} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 198}
+!!!page: 198
+!!!ONB: Converted on 2024/12/26 with esac2hum

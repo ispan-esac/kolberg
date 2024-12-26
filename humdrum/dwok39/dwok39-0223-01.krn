@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK3922300001-byscie_widzieli_koledzy_moje.krn
+!!!OTL: Byście widzieli, koledzy moje
+!!!source: DWOK39
+!!!id: 39223
+!!!signature: 3922300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+8g
+8b
+4dd
+4dd
+=2
+8ee
+8ee
+8dd
+8cc
+4b
+4a
+=3
+4b
+8b
+8cc
+4dd
+4dd
+=4
+4a
+8dd
+8cc
+2b}
+!!LO:LB:g=esac
+=5
+{4g
+8g
+8b
+4dd
+4dd
+=6
+8ee
+8ee
+8dd
+8cc
+4b
+4a
+=7
+4b
+8b
+8cc
+4dd
+4dd
+=8
+4a
+8dd
+8cc
+2b}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8b
+8b
+8b
+8a
+8a
+8g}
+!!LO:LB:g=esac
+=10
+{8g
+8ee
+8ee
+8ee
+8ee
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=11
+{8b
+8a
+8b
+8cc
+4dd
+4dd
+=12
+4a
+8dd
+8cc
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=293 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 241} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

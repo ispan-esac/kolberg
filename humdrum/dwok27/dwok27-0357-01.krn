@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2735700001-a_w_warsawie_na_ulicy.krn
+!!!OTL: A w Warsawie na ulicy
+!!!source: DWOK27
+!!!id: 27357
+!!!signature: 2735700001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8ee
+=2
+16ee
+16gg
+8ff
+16dd
+16ee
+=3
+16ff
+16dd
+8cc
+8b-
+=4
+16a
+16cc
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8b-
+8b-
+=6
+16a
+16cc
+8g
+8f
+=7
+16a
+16a
+8b-
+16b-
+16g
+=8
+16a
+16cc
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=345 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 326} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 326}
+!!!page: 326
+!!!ONB: Converted on 2024/12/26 with esac2hum

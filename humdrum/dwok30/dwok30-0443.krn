@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK3044300000-koby_pyty.krn
+!!!OTL: Koby pyty
+!!!source: DWOK30
+!!!id: 30443
+!!!signature: 3044300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8b
+16dd
+16b
+8dd
+16cc
+16b
+=2
+8b
+16dd
+16b
+8b
+16b
+16a
+=3
+8b
+16dd
+16b
+16ee
+16dd
+16cc
+16b
+=4
+8dd
+16cc
+16b
+16dd
+16cc
+16b
+16a}
+!!LO:LB:g=esac
+=5
+{16dd
+16a
+8a
+8a
+16b
+16a
+=6
+8a
+16b
+16a
+8a
+16a
+16b
+=7
+16dd
+16cc
+8cc
+16cc
+16b
+16b
+16a
+=8
+4a
+16a
+16b
+8cc}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8a
+8b
+=10
+8a
+8a
+8a
+8a
+=11
+8dd
+8cc
+8b
+8a
+=12
+4a
+4a}
+==
+*-
+!!!ONB: Kołomyjka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=251 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 238-239} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, pp. 238-239}
+!!!page: 238-239
+!!!ONB: Converted on 2024/12/26 with esac2hum

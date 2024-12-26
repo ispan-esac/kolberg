@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2823300000-wcoraj_nie_dzisiaj.krn
+!!!OTL: Wcoraj nie dzisiaj
+!!!source: DWOK28
+!!!id: 28233
+!!!signature: 2823300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+8.cc
+16dd
+=2
+16cc
+16cc
+8b
+8dd
+=3
+16a
+16a
+8.cc
+16dd
+=4
+16cc
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8cc
+8a
+=6
+16g
+16g
+8b
+8dd
+=7
+16f#
+16a
+8cc
+8a
+=8
+16cc
+16cc
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 246} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 246}
+!!!page: 246
+!!!ONB: Converted on 2024/12/26 with esac2hum

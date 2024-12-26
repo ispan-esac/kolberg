@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK3920700000-gdziezes_tys_bywal_kozle_baranie.krn
+!!!OTL: Gdzieżeś tyś bywał, koźle, baranie?
+!!!source: DWOK39
+!!!id: 39207
+!!!signature: 3920700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+4dd
+8b
+=3
+8b
+8cc
+8a
+=4
+4a
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8g
+=6
+8g
+8g
+8g
+=7
+8b
+8cc
+8a
+=8
+4a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 227} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 227}
+!!!page: 227
+!!!ONB: Converted on 2024/12/26 with esac2hum

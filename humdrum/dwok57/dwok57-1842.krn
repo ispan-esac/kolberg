@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK57184200000-ny_ma_u_swity_tak_nikomu.krn
+!!!OTL: Ny ma u swity tak nikomu
+!!!source: DWOK57
+!!!id: 571842
+!!!signature: 57184200000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8ee
+8ee
+4dd#
+4ee
+=2
+8cc
+8g#
+4a
+4e}
+!!LO:LB:g=esac
+=3
+*M2/4
+{8a
+8cc
+8b
+8cc
+=4
+*M3/4
+8b
+8g#
+4a
+4e}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+2ee
+=6
+8ee
+8ee
+8ee
+8ee
+8dd#
+8dd#
+=7
+4ee
+2a}
+==
+*-
+!!!ONB: Wariant t. 2: 3b2-7_1__-5__; wariant t. 6: 5_5_5_5_4#34_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 919
+!!!ONB: Converted on 2024/12/26 with esac2hum

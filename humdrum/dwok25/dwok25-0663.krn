@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK2566300000-zebyty_mnie_jak_ja_tobie.krn
+!!!OTL: Zebyty mnie, jak ja tobie
+!!!source: DWOK25
+!!!id: 25663
+!!!signature: 2566300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8dd
+=2
+16.cc
+32cc
+8aa
+8f
+=3
+16a
+16cc
+8cc
+8dd
+=4
+16b-
+16g
+8e
+8c}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b-
+16a
+16g
+=6
+16.a
+32a
+8b-
+8g
+=7
+16a
+16b-
+8cc
+8dd
+=8
+16b-
+16g
+8e
+8c}
+!!LO:LB:g=esac
+=9
+{16f
+16a
+8cc
+8dd
+=10
+16.cc
+32cc
+8aa
+8f
+=11
+16a
+16cc
+8cc
+8dd
+=12
+16b-
+16g
+8e
+8c}
+!!LO:LB:g=esac
+=13
+{16g
+16a
+8b-
+16a
+16g
+=14
+16.a
+32a
+8b-
+8g
+=15
+16a
+16b-
+8cc
+8dd
+=16
+16b-
+16g
+8e
+8c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 238} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 238}
+!!!page: 238
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK06-K0660-oj_dziewcze_gdzie_mieszkasz.krn
+!!!OTL: Oj dziewcze gdzie mieszkasz
+!!!source: DWOK06
+!!!id: K0660
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{16f
+16a
+4cc
+16dd
+16cc
+=2
+16b
+16cc
+16dd
+16cc
+16b-
+16a
+16g
+16f
+=3
+16dd
+16cc
+16dd
+16ee
+8ff
+8dd
+=4
+16dd
+16cc
+4cc
+8cc}
+!!LO:LB:g=esac
+=5
+{4b-
+8gg
+8ee
+=6
+8ff
+4a
+8cc
+=7
+8cc
+8b
+8b-
+8g
+=8
+16f
+16a
+4cc
+8cc}
+!!LO:LB:g=esac
+=9
+{4b-
+8gg
+8ee
+=10
+8ff
+4a
+8dd
+=11
+8cc
+8b
+8b-
+8g
+=12
+8g
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=436 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 410-411} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 410-411}
+!!!page: 410-411
+!!!ONB: Converted on 2024/12/26 with esac2hum

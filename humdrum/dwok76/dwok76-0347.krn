@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7634700000-kozuszek_barani_czapeczka.krn
+!!!OTL: Kożuszek barani, czapeczka
+!!!source: DWOK76
+!!!id: 76347
+!!!signature: 7634700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4cc
+4b
+4d
+=2
+8d
+16e
+16f#
+2g
+=3
+4cc
+4b
+4d
+=4
+8d
+16e
+16f#
+2g}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4dd
+4dd
+=6
+8dd
+8ee
+4dd
+4cc
+=7
+8a
+8b
+4cc
+4cc
+=8
+8dd
+8dd
+4cc
+8a
+8a}
+==
+*-
+!!!ONB: Wariant t.8: 5_6_3__2_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=216 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 180} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 180}
+!!!page: 180
+!!!ONB: Converted on 2024/12/26 with esac2hum

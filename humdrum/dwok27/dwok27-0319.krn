@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2731900000-spadla_z_gorki_do_komorki.krn
+!!!OTL: Spadła z górki do komórki
+!!!source: DWOK27
+!!!id: 27319
+!!!signature: 2731900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8a
+8b
+=2
+16cc
+16dd
+8b
+8a
+=3
+16g
+16g
+8a
+8b
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8a
+8b
+=6
+16cc
+16dd
+8b
+16b
+16a
+=7
+16g
+16g
+8a
+16b
+16g
+=8
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=327 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 308} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 308}
+!!!page: 308
+!!!ONB: Converted on 2024/12/26 with esac2hum

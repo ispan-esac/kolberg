@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4712900000-oj_ne_pijde_dryben.krn
+!!!OTL: Oj, ne pijde dryben
+!!!source: DWOK47
+!!!id: 47129
+!!!signature: 4712900000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=1
+{4g
+[4.dd
+8dd]
+8dd
+8dd
+=2
+4cc
+2ee-
+8dd
+8cc}
+!!LO:LB:g=esac
+=3
+{8b-
+8a
+8g
+8dd
+8cc
+8dd
+8cc
+8b-
+=4
+8a
+8b-
+8cc
+8dd
+2g
+=5
+2.d}
+4r
+!!LO:LB:g=esac
+=6
+{8f
+8b-
+2.dd
+=7
+2.cc
+8dd
+8b-
+=8
+8a
+8b-
+2g}
+4r
+==
+*-
+!!!ONB: U Kolberga wątpliwy zapis metrorytmiczny t. 3-4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 126} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 126}
+!!!page: 126
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2228200000-kubas_kubasiu_gdzie_jedziesz.krn
+!!!OTL: Kubaś Kubasiu gdzie jedziesz
+!!!source: DWOK22
+!!!id: 22282
+!!!signature: 2228200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+{4dd
+8a
+16g
+8b
+8g
+4r
+=1
+8a
+8b
+8.cc
+16a
+8b
+8g}
+4r
+=2
+1r
+!!LO:LB:g=esac
+=3
+{8g
+8a
+8.cc
+16a
+8g
+8a
+8.cc
+16a
+=4
+8g
+4cc
+8a
+8b
+8g}
+4r
+=5
+1r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 159} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 159}
+!!!page: 159
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK1917700000-grajcie_no_wojciechu_grajcie.krn
+!!!OTL: Grajcie no Wojciechu grajcie
+!!!source: DWOK19
+!!!id: 19177
+!!!signature: 1917700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16dd
+8b
+16a
+16f#
+=2
+16g
+16f#
+8g
+8gg
+=3
+16dd
+16dd
+8b
+16a
+16f#
+=4
+8.g
+16a
+16b
+16cc}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8b
+16a
+16f#
+=6
+16g
+16f#
+8g
+8gg
+=7
+16dd
+16dd
+8b
+16a
+16f#
+=8
+8.g
+16a
+16b
+16cc}
+!!LO:LB:g=esac
+=9
+{16b
+16a
+8f#
+16f#
+16d
+=10
+16g
+16f#
+8g
+8cc
+=11
+16b
+16a
+8cc
+16b
+16a
+=12
+8.g
+16f#
+16e
+16d}
+!!LO:LB:g=esac
+=13
+{16b
+16a
+8f#
+16f#
+16d
+=14
+16g
+16f#
+8g
+8cc
+=15
+16b
+16a
+8cc
+16b
+16a
+=16
+8.g
+16f#
+16e
+16d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 58} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

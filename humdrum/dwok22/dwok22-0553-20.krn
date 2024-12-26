@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2255300020-a_w_kamienny_dobrzy_ludzie.krn
+!!!OTL: A w Kamienny dobrzy ludzie
+!!!source: DWOK22
+!!!id: 22553
+!!!signature: 2255300020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16g
+16b-
+8dd
+16cc
+16b-
+=2
+16g
+16dd
+8g
+8a
+=3
+16g
+16b-
+8dd
+16cc
+16a
+=4
+16f
+16a
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{16a
+32cc
+32g
+8f
+8f
+=6
+16a
+16b-
+8cc
+16g
+16f
+=7
+16a
+16cc
+8f
+16f
+16c
+=8
+16f
+16a
+8g
+8f}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 249} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 249}
+!!!page: 249
+!!!ONB: Converted on 2024/12/26 with esac2hum

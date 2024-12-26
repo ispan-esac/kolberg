@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK7503500000-zeby_nie_ta_baba_jucha.krn
+!!!OTL: Zeby nie ta baba jucha
+!!!source: DWOK75
+!!!id: 75035
+!!!signature: 7503500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8g#
+4a
+4a
+=2
+8a
+8b
+4cc
+4b}
+!!LO:LB:g=esac
+=3
+{8dd
+16cc
+16b
+4a
+4a
+=4
+8a
+8g#
+4f#
+4e}
+!!LO:LB:g=esac
+=5
+{8a
+16b
+16cc#
+4dd
+4dd
+=6
+8dd
+8ee
+4ff
+4ee}
+!!LO:LB:g=esac
+=7
+{8gg
+16ff
+16ee
+4dd
+4dd
+=8
+8dd
+8cc
+4b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 23} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 23}
+!!!page: 23
+!!!ONB: Converted on 2024/12/26 with esac2hum

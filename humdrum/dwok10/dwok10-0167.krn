@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK1016700000-najswietsza_panna_maryja.krn
+!!!OTL: Najświętsza Panna Maryja
+!!!source: DWOK10
+!!!id: 10167
+!!!signature: 1016700000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+{4cc
+4cc
+12dd
+12ee
+12ff
+4gg
+=1
+4b
+8dd
+8ee
+8ff
+8ee
+4dd}
+!!LO:LB:g=esac
+=
+{4cc
+4cc
+12dd
+12ee
+12ff
+4gg
+=2
+4b
+8dd
+8ee
+8ff
+8ee
+4dd}
+!!LO:LB:g=esac
+=3
+{4ee
+4gg
+8ff
+8ee
+4dd
+=4
+8ee
+8dd
+4cc
+4dd
+4cc}
+!!LO:LB:g=esac
+=5
+{4ee
+4gg
+8ff
+8ee
+4dd
+=6
+8ee
+8dd
+4cc
+4dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=399 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 383} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 383}
+!!!page: 383
+!!!ONB: Converted on 2024/12/26 with esac2hum

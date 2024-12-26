@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1833500000-sedl_se_wojtus_borem_lasem.krn
+!!!OTL: Sedł se Wojtuś borem lasem
+!!!source: DWOK18
+!!!id: 18335
+!!!signature: 1833500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4.cc
+8b
+=2
+8cc
+8dd
+4cc
+4a
+=3
+8cc
+8b-
+4.g
+8f#
+=4
+8g
+8a
+4f
+4c}
+!!LO:LB:g=esac
+=5
+{8f
+8f
+4e
+4c
+=6
+8f
+8f
+4a
+4cc
+=7
+8g
+8b-
+4.a
+8g
+=8
+8f
+8g
+4a
+4f}
+==
+*-
+!!!ONB: Podane metrum 3/8, poprawiono na 3/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 182} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 182}
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

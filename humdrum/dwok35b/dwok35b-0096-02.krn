@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK35B-35B09600002-a_sio_kania_bura.krn
+!!!OTL: A sio kania bura
+!!!source: DWOK35B
+!!!id: 35B096
+!!!signature: 35B09600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{8a
+[8cc
+24cc]
+24b
+24a
+=1
+8b
+8.a
+16g
+=2
+8b
+4g
+=
+8a
+[8cc
+24cc]
+24b
+24a
+=3
+8b
+8.a
+16g
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{16a
+32cc
+32a
+8b
+8g
+=6
+16a
+32cc
+32a
+8b
+8g
+=7
+16a
+32cc
+32a
+8b
+8g
+=8
+16a
+16b
+16cc
+16a
+16b
+16g
+=9
+16a
+16b
+16cc
+16a
+8b}
+==
+*-
+!!!ONB: Śpiewają dzieci pasąc w polu kaczki i gęsi
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 180} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 180}
+!!!page: 180
+!!!ONB: Converted on 2024/12/26 with esac2hum

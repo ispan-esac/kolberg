@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK45186800020-siedziala_nad_woda.krn
+!!!OTL: Siedziała nad wodą
+!!!source: DWOK45
+!!!id: 451868
+!!!signature: 45186800020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8aa
+8gg
+4ff
+=2
+8cc
+4dd
+8cc
+=3
+8ff
+8ff
+8ee
+8dd
+=4
+8dd
+4.cc}
+!!LO:LB:g=esac
+=5
+{8a
+8b-
+4cc
+=6
+8cc
+4ff
+8dd
+=7
+8cc
+8a
+8b-
+8e
+=8
+8g
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=341 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 325} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 325}
+!!!page: 325
+!!!ONB: Converted on 2024/12/26 with esac2hum

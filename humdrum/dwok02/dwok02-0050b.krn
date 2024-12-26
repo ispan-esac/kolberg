@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK02-K0050b-do_rozgi.krn
+!!!OTL: Do rozgi
+!!!source: DWOK02
+!!!id: K0050b
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8dd
+8dd
+8ee
+=2
+16ee
+16a
+4dd
+=3
+8cc#
+8cc#
+8g
+=4
+4b-
+8a}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b-
+16b-
+16a
+=6
+4cc#
+8dd
+=
+8ee
+24cc#
+24b
+24a
+8g
+=7
+16g
+16a
+8b-
+16b-
+16a
+=8
+8cc#
+8cc#
+8g
+=9
+4b-
+8a}
+!!LO:LB:g=esac
+=10
+{8aa
+8aa
+8bb
+=11
+16bb
+16ee
+4aa
+=12
+8gg#
+8gg#
+8dd
+=13
+4ff
+8ee}
+!!LO:LB:g=esac
+=14
+{16dd
+16ee
+8ff
+16ff
+16ee
+=15
+4gg#
+8aa
+=
+8bb
+24gg#
+24ff
+24ee
+8dd}
+!!LO:LB:g=esac
+=16
+{16dd
+16ee
+8ff
+16ff
+16ee
+=17
+8gg#
+8gg#
+8dd
+=18
+4ff
+8ee}
+==
+*-
+!!!ONB: we wsi Dzwikozy
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 53} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 53}
+!!!page: 53
+!!!ONB: Converted on 2024/12/26 with esac2hum

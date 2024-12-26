@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3661700000-hej_matyz_moja_maty.krn
+!!!OTL: Hej matyż moja maty
+!!!source: DWOK36
+!!!id: 36617
+!!!signature: 3661700000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4cc
+8ee
+8cc
+=2
+8dd
+8dd
+8cc
+8g
+=3
+4cc
+8ee
+8cc
+=4
+8dd
+8dd
+4ee}
+!!LO:LB:g=esac
+=5
+{4a
+8cc
+8cc
+=6
+8b
+8g#
+8a
+8e
+=7
+8a
+8a
+8cc
+8cc
+=8
+8b
+8g#
+8a
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 405
+!!!ONB: Converted on 2024/12/26 with esac2hum

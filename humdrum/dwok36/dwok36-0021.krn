@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK3602100000-oj_horosze_horosze.krn
+!!!OTL: Oj horosze horosze
+!!!source: DWOK36
+!!!id: 36021
+!!!signature: 3602100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+4g
+=2
+8dd
+4cc
+=3
+8b
+4a
+=4
+16b
+16a
+8g}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+=6
+8cc
+4b
+=7
+8a
+4f#
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+4cc
+=10
+8cc
+4b
+=11
+8b
+4a
+=12
+16a
+16g
+4cc}
+!!LO:LB:g=esac
+=13
+{8cc
+4b
+=14
+8a
+4f#
+=15
+4.g
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

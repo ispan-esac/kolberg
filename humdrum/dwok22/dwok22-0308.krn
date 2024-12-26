@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2230800000-o_tym_swietym_wawrzyncze.krn
+!!!OTL: O tym świętym Wawrzyńcze
+!!!source: DWOK22
+!!!id: 22308
+!!!signature: 2230800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4dd
+2ff
+=2
+4cc
+2a
+=3
+4b-
+4g
+8a
+8b-
+=4
+2.cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+2ff
+=6
+8cc
+8b-
+2a
+=7
+4b-
+4g
+8a
+8b-
+=8
+2.cc}
+!!LO:LB:g=esac
+=9
+{4b-
+4g
+8a
+8b-
+=10
+4.dd
+8cc
+4b-
+=11
+4.a
+8b-
+4dd
+=12
+2cc}
+4r
+!!LO:LB:g=esac
+=13
+{4b-
+4g
+4b-
+=14
+4.dd
+8cc
+4b-
+=15
+4.a
+8b-
+4g
+=16
+2f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 176} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 176}
+!!!page: 176
+!!!ONB: Converted on 2024/12/26 with esac2hum

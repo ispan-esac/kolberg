@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK1703000000-stoji_lipa_pod_nia_korzen.krn
+!!!OTL: Stoji lipa, pod nią korzeń
+!!!source: DWOK17
+!!!id: 17030
+!!!signature: 1703000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{24d
+24e
+24f
+8g
+16g
+16d
+=1
+16e
+16c
+8d
+16g
+16f}
+!!LO:LB:g=esac
+=2
+{16d
+16f
+8g
+16g
+16d
+=3
+16e
+16c
+8d
+8b}
+!!LO:LB:g=esac
+=4
+{16d
+16f
+8c
+16c
+16g
+=
+24c
+24d
+24e
+8e
+16d
+16b}
+!!LO:LB:g=esac
+=5
+{16d
+16f
+8c
+16c
+16g
+=6
+16c
+16e
+8d
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 17} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 17}
+!!!page: 17
+!!!ONB: Converted on 2024/12/26 with esac2hum

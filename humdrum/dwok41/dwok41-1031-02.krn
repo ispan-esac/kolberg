@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK41103100002-matulu_matulu_przedaj_te_boczule.krn
+!!!OTL: Matulu, Matulu przedaj te boczulę
+!!!source: DWOK41
+!!!id: 411031
+!!!signature: 41103100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.dd
+16cc
+4b
+=2
+8.dd
+16cc
+4b
+=3
+8.gg
+16ff#
+16ee
+16dd
+16cc
+16b
+=4
+8dd
+4.cc}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8cc
+4a
+=6
+16a
+16cc
+8cc
+4a
+=7
+8ee
+8ee
+8dd
+8f#
+=8
+8a
+4.g}
+!!LO:LB:g=esac
+=9
+{16dd
+16dd
+8dd
+8ee
+8ff#
+=10
+8gg
+4.b
+=11
+8ee
+8dd
+8cc
+8f#
+=12
+8a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=520 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 433} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 433}
+!!!page: 433
+!!!ONB: Converted on 2024/12/26 with esac2hum

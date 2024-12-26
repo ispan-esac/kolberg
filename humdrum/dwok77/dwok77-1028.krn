@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK77102800000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK77
+!!!id: 771028
+!!!signature: 77102800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ee
+8ee
+4dd
+4cc
+=2
+8b
+8b
+4a
+4g
+=3
+8ee
+8ee
+4dd
+4cc
+=4
+8b
+8b
+4a
+4g
+=5
+8g
+8a
+4.g
+8f
+=6
+4e
+2g}
+!!LO:LB:g=esac
+=7
+{8g
+8g
+4a
+4b
+=8
+8cc
+8dd
+2ee
+=9
+8g
+8a
+4.g
+8f
+=10
+4e
+2g
+=11
+8g
+8g
+4.ff
+8b
+=12
+8dd
+8cc
+2cc}
+==
+*-
+!!!ONB: wariant w takcie czwartym i ósmym 345__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 140
+!!!ONB: Converted on 2024/12/26 with esac2hum

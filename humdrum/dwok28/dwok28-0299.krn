@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2829900000-poszla_panna_po_wode.krn
+!!!OTL: Poszła panna po wodę
+!!!source: DWOK28
+!!!id: 28299
+!!!signature: 2829900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16f
+8f
+8f
+=2
+8ff
+8ff
+8ff
+=3
+16f
+16f
+8aa
+8aa
+=4
+16g
+16e
+8f}
+8r
+!!LO:LB:g=esac
+=5
+{16a
+16f
+8cc
+16a
+16f
+=6
+4g
+8f
+=7
+16e
+16g
+8b-
+16g
+16e
+=8
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=296 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 277} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 277}
+!!!page: 277
+!!!ONB: Converted on 2024/12/26 with esac2hum

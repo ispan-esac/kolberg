@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK06-K0513-trawka_ponad_woda.krn
+!!!OTL: Trawka ponad woda
+!!!source: DWOK06
+!!!id: K0513
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16a
+16a
+8d
+8f#
+=2
+4a
+8dd
+=3
+16a
+16a
+8d
+8f#
+=4
+4a
+8a}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8.gg
+16ee
+=6
+16dd
+16dd
+8f#
+8a
+=7
+16a
+16a
+8g
+8e
+=8
+8f#
+4a}
+!!LO:LB:g=esac
+=9
+{16a
+16a
+8.gg
+16ee
+=10
+16dd
+16dd
+8f#
+8a
+=11
+16a
+16a
+8.g
+16c#
+=12
+8d
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 289} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 289}
+!!!page: 289
+!!!ONB: Converted on 2024/12/26 with esac2hum

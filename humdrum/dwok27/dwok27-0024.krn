@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2702400000-a_trzeba_dac.krn
+!!!OTL: A trzeba dać
+!!!source: DWOK27
+!!!id: 27024
+!!!signature: 2702400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+16b
+16cc
+4dd
+4dd
+=2
+4ee
+4a
+4ee
+=3
+8dd
+8cc
+8a
+8f#
+8d
+16e
+16f#
+=4
+4g
+4d
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8a
+8f#
+8d
+16e
+16f#
+=6
+4g
+4b
+4g
+=7
+8g
+8cc
+8a
+8f#
+8d
+16e
+16f#
+=8
+4g
+4d
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 155} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

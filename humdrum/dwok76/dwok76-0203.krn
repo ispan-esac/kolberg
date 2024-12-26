@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7620300000-oj_wczora_i_z_wieczora.krn
+!!!OTL: Oj, wczora i z wieczora
+!!!source: DWOK76
+!!!id: 76203
+!!!signature: 7620300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4ee-
+4cc
+=2
+8g
+8g
+4a-
+4f
+=3
+4g
+4a
+4b
+=4
+8cc
+8f#
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{4g
+4ee-
+4cc
+=6
+8g
+8g
+4a-
+4f
+=7
+4g
+4a
+4b
+=
+12cc
+12d
+12f#
+4a
+4g}
+==
+*-
+!!!ONB: Wariant w t. 6 142b_-7b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 106} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 106}
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

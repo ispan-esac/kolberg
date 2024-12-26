@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK1802000000-a_wychodzze_bo_juz_cas.krn
+!!!OTL: A wychodźze bo juz cas
+!!!source: DWOK18
+!!!id: 18020
+!!!signature: 1802000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+8dd
+4cc#
+=3
+8dd
+4ee
+=4
+4dd
+8b}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+=6
+8.cc
+16b
+16a
+16g
+=7
+8g
+8.cc
+32b
+32a
+=8
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 67} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 67}
+!!!page: 67
+!!!ONB: Converted on 2024/12/26 with esac2hum

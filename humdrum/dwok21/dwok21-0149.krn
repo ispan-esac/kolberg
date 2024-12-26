@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK2114900000-chodzilem_tam_kolo_dwora.krn
+!!!OTL: Chodziłem tam koło dwora
+!!!source: DWOK21
+!!!id: 21149
+!!!signature: 2114900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+8ee
+=2
+16ff
+16ee
+8.dd
+16dd
+=3
+16g
+16b
+8dd
+8dd
+=4
+8ee
+4cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8ee
+8ee
+=6
+16ee
+16ee
+16ff
+16ee
+16dd
+16cc
+=7
+16g
+16b
+16dd
+16dd
+16dd
+16dd
+=8
+8ee
+4cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8.cc
+16b
+=10
+16a
+16a
+8cc
+8a
+=11
+16g
+16g
+16g
+16g
+16a
+16f
+=12
+8g
+4e}
+!!LO:LB:g=esac
+=13
+{8cc
+8.cc
+16b
+=14
+16a
+16a
+8cc
+8a
+=15
+16g
+16g
+8.a
+16f
+=16
+8g
+4c}
+==
+*-
+!!!ONB: W pierwszym takcie zamiast dwóch szesnastek, szesnastka z kropką, zapisano pierwszą szesnastkę bez kropki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 73} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK0414500022-bodaj_zes_mi_kochaneczko.krn
+!!!OTL: Bodaj żeś mi kochaneczko
+!!!source: DWOK04
+!!!id: K0145
+!!!signature: 0414500022
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16e
+16g
+8g
+8cc
+=2
+16cc
+16a
+8a
+8f
+=3
+16b-
+16dd
+16dd
+16b-
+16dd
+16ee
+=4
+8ff
+4cc}
+!!LO:LB:g=esac
+=5
+{16dd
+16ff
+8.dd
+16b-
+=6
+16a
+16cc
+8cc
+8a
+=7
+16g
+16g
+8cc
+8cc
+=8
+8cc
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 83-84} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 83-84}
+!!!page: 83-84
+!!!ONB: Converted on 2024/12/26 with esac2hum

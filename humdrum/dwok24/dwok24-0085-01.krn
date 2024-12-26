@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2408500001-zawarujze_panno_mloda.krn
+!!!OTL: Zawarujże panno młoda
+!!!source: DWOK24
+!!!id: 24085
+!!!signature: 2408500001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16cc
+8cc
+8ee
+=2
+16dd
+16cc
+8b
+8g
+=3
+4a
+8b
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{16cc
+16cc
+8cc
+8ee
+=6
+16dd
+16cc
+8b
+8g
+=7
+4a
+8b
+=8
+4cc}
+8r
+!!LO:LB:g=esac
+=9
+{16cc
+16cc
+8cc
+8ee
+=10
+16dd
+16cc
+8b
+8dd
+=11
+8gg
+4ee
+=12
+4gg
+8dd}
+!!LO:LB:g=esac
+=13
+{16ee
+16ee
+8gg
+8ee
+=14
+16dd
+16cc
+8b
+8g
+=15
+4a
+8b
+=16
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=246 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 222} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 222}
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

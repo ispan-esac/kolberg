@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2545300020-a_pomalutku_z_moja-instrumentalna.krn
+!!!OTL: A pomalutku z moją-Instrumentalna
+!!!source: DWOK25
+!!!id: 25453
+!!!signature: 2545300020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16ee
+8dd
+16cc
+16a
+=2
+16f#
+16a
+16cc
+16ee
+8dd
+=3
+16cc
+16ee
+8dd
+16cc
+16a
+=4
+16f#
+16d
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8dd
+16cc
+16a
+=6
+16d
+16f#
+16a
+16b
+16cc
+16a
+=7
+16cc
+16ee
+8dd
+16cc
+16a
+=8
+16f#
+16d
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 189} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

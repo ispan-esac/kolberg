@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0880-nie_lubie_ja_stacha.krn
+!!!OTL: Nie lubie ja Stacha
+!!!source: DWOK06
+!!!id: K0880
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+16r
+{16cc
+8dd
+8ff
+=2
+8ee
+8ee
+8cc
+=3
+16b
+16dd
+4g
+=4
+8cc
+8ee
+8gg}
+!!LO:LB:g=esac
+=5
+16r
+{16gg
+8dd
+8ff
+=6
+8ee
+8ee
+8cc
+=7
+16b
+16dd
+4g
+=8
+8a
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=538 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 512} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 512}
+!!!page: 512
+!!!ONB: Converted on 2024/12/26 with esac2hum

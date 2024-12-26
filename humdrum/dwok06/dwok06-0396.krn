@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK06-K0396-da_jak_bedziesz_wyganiala.krn
+!!!OTL: Da jak bedziesz wyganiala
+!!!source: DWOK06
+!!!id: K0396
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16f#
+16g
+16a
+16b
+16cc
+=2
+16dd
+16cc#
+16ee
+16dd
+16cc#
+16dd
+=3
+16.dd
+32cc#
+16ee
+16dd
+16cc#
+16dd}
+!!LO:LB:g=esac
+=4
+{16.dd
+32cc#
+8a
+16f#
+16d
+=5
+4g
+16a
+16b
+=6
+16a
+16cc
+8a
+16f#
+16d
+=7
+4g
+8g}
+!!LO:LB:g=esac
+=8
+{16.a
+32cc
+8a
+16f#
+16d
+=9
+16g
+16f#
+16g
+16a
+16b
+16g
+=10
+16a
+16cc
+8a
+16f#
+16d
+=11
+4g
+16a
+16b}
+!!LO:LB:g=esac
+=12
+{16.dd
+32cc
+8a
+16f#
+16d
+=13
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 208} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 208}
+!!!page: 208
+!!!ONB: Converted on 2024/12/26 with esac2hum

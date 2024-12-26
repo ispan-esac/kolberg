@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK2903000000-oj_czerczyku_wasylczyku.krn
+!!!OTL: Oj czerczyku Wasylczyku
+!!!source: DWOK29
+!!!id: 29030
+!!!signature: 2903000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8b
+8g
+=2
+4a
+8g
+=3
+8b
+4dd
+=4
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8g
+=6
+4a
+8dd
+=7
+8cc
+8b
+8f#
+=8
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 122} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 122}
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

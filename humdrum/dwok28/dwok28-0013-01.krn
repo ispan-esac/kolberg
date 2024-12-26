@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2801300001-w_dzien_bozego_narodzenia.krn
+!!!OTL: W dzień Bożego narodzenia
+!!!source: DWOK28
+!!!id: 28013
+!!!signature: 2801300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4b
+8cc
+=2
+8b
+4a
+=3
+4b
+8cc
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8ee
+8.ee
+16dd
+=6
+8cc
+4b
+=7
+8ee
+8.ee
+16dd
+=8
+16dd
+16cc
+4b}
+!!LO:LB:g=esac
+=9
+{4ee
+8ff#
+=10
+8gg
+4ee
+=11
+4dd
+8cc
+=12
+8b
+8a}
+8r
+!!LO:LB:g=esac
+=13
+{8ee
+8.ee
+16b
+=14
+8cc
+8b
+8r
+=15
+8cc
+8b
+8cc
+=16
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 69} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 69}
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

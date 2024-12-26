@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2710200000-cemuzes_mnie_bral.krn
+!!!OTL: Cemuześ mnie brał
+!!!source: DWOK27
+!!!id: 27102
+!!!signature: 2710200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16ff
+16ee
+8cc
+8ee
+=2
+4.ff
+=3
+16gg
+16ee
+8cc
+8ee
+=4
+4.ff}
+!!LO:LB:g=esac
+=5
+{16b-
+16dd
+8dd
+8ff
+=6
+16cc
+16cc
+8a
+8f
+=7
+16b-
+16g
+8g
+8g
+=8
+16f
+16a
+8a
+8cc}
+!!LO:LB:g=esac
+=9
+{16b-
+16dd
+8dd
+8ff
+=10
+16cc
+16cc
+8a
+8f
+=11
+16b-
+16g
+8g
+8g
+=12
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 194} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 194}
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

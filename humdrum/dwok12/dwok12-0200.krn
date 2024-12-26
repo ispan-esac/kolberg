@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK1220000000-lec_glosie_po_rosie.krn
+!!!OTL: Leć głosie po rosie
+!!!source: DWOK12
+!!!id: 12200
+!!!signature: 1220000000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4.e
+8g#
+4.b
+8b
+=2
+2.ee
+4dd
+=3
+2b
+4b
+4dd#
+=4
+2ee
+4dd#
+4ee
+=5
+2b
+4ee
+4ee}
+!!LO:LB:g=esac
+=6
+{4dd
+4b
+4cc
+8b
+8g#
+=7
+2e
+4g#
+4a
+=8
+4b
+4ee
+4.ee
+8dd
+=9
+2dd
+2dd#}
+!!LO:LB:g=esac
+=10
+{4ee
+4ee
+4dd
+4b
+=11
+8cc
+8b
+8a
+8g#
+4a
+4aa}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 103} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 103}
+!!!page: 103
+!!!ONB: Converted on 2024/12/26 with esac2hum

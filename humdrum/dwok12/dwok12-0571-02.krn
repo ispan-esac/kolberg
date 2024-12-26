@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1257100002-a_wej_go_tam.krn
+!!!OTL: A wej go tam!
+!!!source: DWOK12
+!!!id: 12571
+!!!signature: 1257100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+{2d
+=1
+8f#
+8g
+4a
+4cc
+=2
+8b
+8dd
+4.ee
+8a
+=
+8cc
+8ee
+4dd
+12cc
+12a
+12b
+=3
+8g
+8d
+4.c
+8d}
+!!LO:LB:g=esac
+=4
+{8d
+8a
+4g
+8f#
+16d
+16c
+=5
+8d
+16f#
+16g
+4a
+8dd
+8a
+=6
+8d
+8a
+4g
+8f#
+16d
+16c
+=7
+8d
+8d
+4.c
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 289} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 289}
+!!!page: 289
+!!!ONB: Converted on 2024/12/26 with esac2hum

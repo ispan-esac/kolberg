@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK8368800000-nie_mam_ojca_nie_mam_matki.krn
+!!!OTL: Nie mam ojca, nie mam matki
+!!!source: DWOK83
+!!!id: 83688
+!!!signature: 8368800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4.a
+8f
+8cc
+8cc
+=2
+8b-
+8a
+4cc
+4g
+=3
+4.b-
+8cc
+8dd
+8dd
+=4
+8cc
+8b
+4cc
+4g}
+!!LO:LB:g=esac
+=5
+{4.dd
+8ee
+8gg
+8ff
+=6
+8ee
+8dd
+4cc
+4ff
+=7
+4.cc
+16b
+16cc
+8dd
+8cc
+=8
+8.b-
+16g
+4g
+4f}
+!!LO:LB:g=esac
+=9
+{4.dd
+8ee
+8gg
+8ff
+=10
+8ee
+8dd
+8cc
+8ff
+4ff
+=11
+4.cc
+16b
+16cc
+8ee
+8dd
+=12
+8.b-
+16g
+4g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 47} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

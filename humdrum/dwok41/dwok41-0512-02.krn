@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK4151200002-panno_maryja.krn
+!!!OTL: Panno Maryja
+!!!source: DWOK41
+!!!id: 41512
+!!!signature: 4151200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{2dd
+4cc
+4ee
+=2
+2dd
+8b
+8a
+4g
+=3
+2dd
+4cc
+4ee
+=4
+2dd
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{4b
+4dd
+4dd
+4ee
+=6
+4cc
+4a
+4b
+4g
+=7
+2dd
+2ee
+=8
+4cc
+4a
+8a
+8b
+4g}
+!!LO:LB:g=esac
+=9
+{2dd
+4a
+[4cc}
+=10
+2cc]
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=344 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 261} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 261}
+!!!page: 261
+!!!ONB: Converted on 2024/12/26 with esac2hum

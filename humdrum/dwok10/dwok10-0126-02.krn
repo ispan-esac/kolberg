@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK1012600002-oj_siadaj_siadaj.krn
+!!!OTL: Oj siadaj, siadaj
+!!!source: DWOK10
+!!!id: 10126
+!!!signature: 1012600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+8a
+8a
+4g
+8b
+8cc
+=2
+8dd
+8ee
+8cc
+8b
+2a
+=3
+4dd
+8dd
+8cc
+8b
+8a
+8dd
+8a
+=4
+8g
+8f#
+8g
+8g
+2g}
+!!LO:LB:g=esac
+=5
+{4b
+8a
+8a
+4g
+8b
+8cc
+=6
+8dd
+8ee
+8cc
+8b
+2a
+=7
+8g
+8b
+8cc
+8b
+4d
+8f#
+8a
+=8
+8g
+8f#
+4g
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 275} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 275}
+!!!page: 275
+!!!ONB: Converted on 2024/12/26 with esac2hum

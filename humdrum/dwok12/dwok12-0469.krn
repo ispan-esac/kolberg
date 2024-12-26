@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK1246900000-bodaj_te_szynkarki.krn
+!!!OTL: Bodaj te szynkarki
+!!!source: DWOK12
+!!!id: 12469
+!!!signature: 1246900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.g
+16a
+8b
+8b
+=2
+4dd
+4a
+=3
+8.a
+16f#
+8d
+8d
+=4
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8.a
+16f#
+8d
+8d
+=6
+8d
+8g
+8b
+8dd
+=7
+8.a
+16f#
+8d
+8d
+=8
+4b
+4g}
+!!LO:LB:g=esac
+=9
+{8.g
+16a
+8b
+8b
+=10
+4dd
+4a
+=11
+8.a
+16f#
+8d
+8d
+=12
+4b
+4g}
+!!LO:LB:g=esac
+=13
+{8.a
+16f#
+8d
+8d
+=14
+8d
+8g
+8b
+8dd
+=15
+8.a
+16f#
+8d
+8d
+=16
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 242} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

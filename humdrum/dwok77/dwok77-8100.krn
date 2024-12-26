@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7781000000-ludzie_na_mnie_narzekaja.krn
+!!!OTL: Ludzie na mnie narzekają
+!!!source: DWOK77
+!!!id: 778100
+!!!signature: 7781000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4g
+4dd
+=2
+8dd
+8cc
+4.a
+8g
+=3
+8f#
+8a
+4d
+4f#
+=4
+8g
+8a
+4.b
+8dd}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4ee
+8ee
+8dd
+=6
+8dd
+8cc
+4.a
+8g
+=7
+8f#
+8a
+4d
+4a
+=8
+8g
+8a
+4b
+4g}
+==
+*-
+!!!ONB: wariant w takcie piątym 131_3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

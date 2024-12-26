@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2550000000-oj_bierze_mnie_tesknica.krn
+!!!OTL: Oj bierze mnie tęsknica
+!!!source: DWOK25
+!!!id: 25500
+!!!signature: 2550000000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16d
+16f#
+8a
+8e
+=2
+16f#
+16f#
+8a
+8e
+=3
+16d
+16f#
+8a
+16g
+16e
+=4
+8d
+8g
+8f#}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+8dd
+=
+24cc#
+24b
+24cc#
+8ee
+8dd
+=6
+16ff#
+16ee
+8dd
+8b
+=7
+16a
+16e
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 200} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 200}
+!!!page: 200
+!!!ONB: Converted on 2024/12/26 with esac2hum

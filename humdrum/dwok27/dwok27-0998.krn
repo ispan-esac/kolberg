@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2799800000-witaj_krolowo_nieba.krn
+!!!OTL: Witaj królowo nieba
+!!!source: DWOK27
+!!!id: 27998
+!!!signature: 2799800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{2cc
+2dd
+=2
+2cc
+4b-
+4a
+=3
+2g
+2f}
+!!LO:LB:g=esac
+=4
+{2ff
+2ee
+=5
+2dd
+2ff
+=6
+4ee
+4dd
+2cc}
+!!LO:LB:g=esac
+=7
+{2ff
+2cc
+=8
+2dd
+4b-
+4dd
+=9
+2cc
+2a}
+!!LO:LB:g=esac
+=10
+{2cc
+2cc
+=11
+2dd
+2b-
+=12
+2cc
+2f}
+==
+*-
+!!!ONB: Pieśń najczęściej przy pogrzebach w Płockiem śpiewana
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=415 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 396} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 396}
+!!!page: 396
+!!!ONB: Converted on 2024/12/26 with esac2hum

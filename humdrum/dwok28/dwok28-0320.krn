@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2832000000-ne_podolu_bialy_kamien.krn
+!!!OTL: Ne Podolu biały kamień
+!!!source: DWOK28
+!!!id: 28320
+!!!signature: 2832000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8dd
+8dd
+4.ee
+8b
+=2
+8dd
+8cc
+4b
+4a
+=3
+8dd
+8dd
+4.cc
+8a
+=4
+8b
+8a
+4g#
+4e}
+!!LO:LB:g=esac
+=5
+{4g#
+4a
+8e
+8d
+=6
+8e
+8g#
+4e
+8cc
+8b
+=7
+4g#
+4a
+8e
+8d
+=8
+8e
+8g#
+4.e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=310 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 291} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 291}
+!!!page: 291
+!!!ONB: Converted on 2024/12/26 with esac2hum

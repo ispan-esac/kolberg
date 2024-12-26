@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2305000000-o_przenajswietsza_hostyjo.krn
+!!!OTL: O przenajświętsza Hostyjo
+!!!source: DWOK23
+!!!id: 23050
+!!!signature: 2305000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*MX
+=1
+{4f
+16g
+16a
+4g
+8e
+8f
+4g
+4f
+=2
+4g
+4a
+4b-
+4a
+4g
+8f
+4f}
+!!LO:LB:g=esac
+=3
+{4a
+4cc
+4b-
+4a
+4g
+4f
+=4
+4g
+4a
+4b-
+4a
+4g
+8f
+4f}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+4cc
+4dd
+4cc
+8b-
+8cc
+8a
+4a
+=6
+4g
+4a
+4b-
+4a
+4g
+4f}
+!!LO:LB:g=esac
+=7
+{4f
+16g
+16a
+4g
+8e
+8f
+4g
+4f
+=8
+4g
+4a
+4b-
+4a
+4g
+8f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 95} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 95}
+!!!page: 95
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2315000010-a_wyjrzyjze_za_oknisko.krn
+!!!OTL: A wyjrzyjże za oknisko
+!!!source: DWOK23
+!!!id: 23150
+!!!signature: 2315000010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.ee
+16dd
+8cc
+8cc
+=2
+8.ee
+16dd
+8cc
+8cc
+=3
+8ee
+8ee
+8ee
+8ff
+=4
+8dd
+8dd
+4dd}
+!!LO:LB:g=esac
+=5
+{8.ee
+16dd
+8cc
+8cc
+=6
+8.ee
+16dd
+8cc
+8cc
+=7
+8ee
+8ee
+8ee
+8ff
+=8
+8dd
+8dd
+4dd}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 160} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

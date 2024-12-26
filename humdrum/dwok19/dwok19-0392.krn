@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1939200000-oj_jesce_by_ja_jesce_ale_konik_nie_chce.krn
+!!!OTL: Oj jesce by ja jesce ale konik nie chce
+!!!source: DWOK19
+!!!id: 19392
+!!!signature: 1939200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16g#
+16b
+8b
+8g#
+=2
+8a
+8cc
+8b
+=3
+16a
+16g#
+4e
+=4
+8a
+8f
+8d}
+!!LO:LB:g=esac
+=5
+{16cc
+16b
+8b
+8g#
+=6
+8a
+8cc
+8b
+=7
+16a
+16g#
+4e
+=8
+8g#
+8b
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 120} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

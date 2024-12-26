@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK4151400000-gdy_w_czystem_polu_sloneczko_swieci.krn
+!!!OTL: Gdy w czystem polu słoneczko świeci
+!!!source: DWOK41
+!!!id: 41514
+!!!signature: 4151400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4d
+4g
+4b
+=2
+2dd
+4b
+=3
+8a
+8cc
+4b
+4a
+=4
+2g
+4b}
+!!LO:LB:g=esac
+=5
+{4d
+4g
+4b
+=6
+2dd
+4b
+=7
+4a
+4cc
+8b
+8a
+=8
+2g
+4g}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+4f#
+4d
+=10
+8g
+8a
+4.b
+8g
+=11
+8a
+8b
+4.cc
+8a
+=12
+8ee
+8dd
+4cc#
+4dd}
+!!LO:LB:g=esac
+=13
+{8a
+8b
+4cc
+4f#
+=14
+2g
+4b
+=15
+8a
+8b
+4cc
+4f#
+=16
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=345 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 262} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 262}
+!!!page: 262
+!!!ONB: Converted on 2024/12/26 with esac2hum

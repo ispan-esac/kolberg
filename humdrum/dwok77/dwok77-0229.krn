@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7722900000-na_wojenke_nie_pojade.krn
+!!!OTL: Na wojenkę nie pojadę
+!!!source: DWOK77
+!!!id: 77229
+!!!signature: 7722900000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{4.dd
+8a
+8b
+8g
+=2
+8f#
+8a
+4cc#
+4ee
+=3
+4.dd
+8a
+8b
+8g
+=4
+8a
+8g
+4e
+4d}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+4b
+4g
+=6
+8f#
+8a
+4b
+4d
+=7
+8f#
+8a
+4b
+4g
+=8
+8a
+8g
+4f#
+4d}
+==
+*-
+!!!ONB: Wariant w t. 2: 357_+2+1 
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 130
+!!!ONB: Converted on 2024/12/26 with esac2hum

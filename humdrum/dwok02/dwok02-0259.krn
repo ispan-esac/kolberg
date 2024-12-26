@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK02-K0259-oj_cy_ja_niescesliwy.krn
+!!!OTL: Oj cy ja niescesliwy
+!!!source: DWOK02
+!!!id: K0259
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16a
+16cc
+8ee
+8ee
+=3
+16g
+16b
+8dd
+8dd
+=4
+16a
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{4a
+8cc
+=6
+16b
+16g
+8b
+8dd
+=7
+4a
+8cc
+=8
+16b
+16g
+8a
+8g}
+!!LO:LB:g=esac
+=9
+{16cc
+16ee
+16gg
+16ff#
+8gg
+=10
+16dd
+16ff
+8aa
+8aa
+=11
+16cc
+16ee
+16gg
+16ff#
+16gg
+16aa
+=12
+16dd
+16ff
+8ee
+8g}
+!!LO:LB:g=esac
+=13
+{16dd
+16b
+8dd
+8ff
+=14
+16ee
+16ee
+8gg
+8ee
+=15
+16dd
+16b
+8dd
+8ff
+=16
+16ee
+16cc
+8dd
+8cc}
+==
+*-
+!!!ONB: Calosc - zmiana tonacji we frazach 3-4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 206-207} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 206-207}
+!!!page: 206-207
+!!!ONB: Converted on 2024/12/26 with esac2hum

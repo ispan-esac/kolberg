@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1710000000-ej_glosie_bo_moj_glosie.krn
+!!!OTL: Ej głosie bo mój głosie
+!!!source: DWOK17
+!!!id: 17100
+!!!signature: 1710000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+16ee
+16cc
+8.ff
+16ee
+=3
+8dd
+8dd
+8cc
+=4
+16a
+16a
+8dd
+8b}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8cc
+=6
+16a
+16a
+8b
+8dd
+=7
+8g
+8b
+8cc
+=8
+16a
+16a
+8dd
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 35} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 35}
+!!!page: 35
+!!!ONB: Converted on 2024/12/26 with esac2hum

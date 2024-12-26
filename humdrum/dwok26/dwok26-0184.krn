@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK2618400000-matulu_moja_dodaj_zawoja.krn
+!!!OTL: Matulu moja dodaj zawoja
+!!!source: DWOK26
+!!!id: 26184
+!!!signature: 2618400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4b
+8dd
+8ee
+=2
+8.dd
+16cc
+8b
+8cc
+=3
+4dd
+8b
+8a
+=4
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{4a
+8a
+8b
+=6
+4.cc
+8b
+=7
+4a
+8a
+8g
+=8
+8f#
+4.g}
+!!LO:LB:g=esac
+=9
+{4dd
+8dd
+8ee
+=10
+8.dd
+16cc
+8b
+8cc
+=11
+8dd
+4b
+8a
+=12
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=13
+{4a
+8a
+8b
+=14
+4.cc
+8b
+=15
+8a
+8b
+8a
+8g
+=16
+8f#
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 167
+!!!ONB: Converted on 2024/12/26 with esac2hum

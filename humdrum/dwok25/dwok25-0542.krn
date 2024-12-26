@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK2554200000-oj_i_wzianes_mi_wianecek.krn
+!!!OTL: Oj i wziąneś mi wianecek
+!!!source: DWOK25
+!!!id: 25542
+!!!signature: 2554200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+16a
+8b-
+8dd
+=2
+16gg
+16ee-
+8cc
+16ee-
+16gg
+=3
+8ff
+8dd
+8ff
+=4
+16gg
+16ee-
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{16a
+16b-
+8dd
+8g
+=6
+8a
+8cc
+8g
+=7
+16cc
+16b-
+8dd
+8g
+=8
+8a
+8cc
+8g}
+!!LO:LB:g=esac
+=9
+{16f
+16a
+8b-
+16dd
+16ff
+=10
+16gg
+16ee-
+8ee-
+8gg
+=11
+8ff
+8dd
+16dd
+16ff
+=12
+16gg
+16ee-
+8cc
+16b-
+16g}
+!!LO:LB:g=esac
+=13
+{16a
+16b-
+8dd
+8g
+=14
+16a
+16cc
+8cc
+16cc
+16g
+=15
+16cc
+16b-
+8dd
+8g
+=16
+16a
+16a
+8cc
+16b-
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 210} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 210}
+!!!page: 210
+!!!ONB: Converted on 2024/12/26 with esac2hum

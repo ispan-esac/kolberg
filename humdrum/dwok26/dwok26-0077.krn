@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2607700000-talara_bitego.krn
+!!!OTL: Talara bitego
+!!!source: DWOK26
+!!!id: 26077
+!!!signature: 2607700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8ee
+8dd
+=2
+8cc
+8g
+8b
+=3
+16cc
+16cc
+8ee
+8dd
+=4
+8cc
+8g
+8b}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+=6
+4cc
+8r
+=7
+8cc
+8ee
+16dd
+16b
+=8
+4cc}
+8r
+!!LO:LB:g=esac
+=9
+{16ee
+16ee
+8gg
+8gg
+=10
+16gg
+16dd
+8ff
+8ff
+=11
+16ee
+16ee
+8gg
+8gg
+=12
+16gg
+16dd
+8ff
+8ff}
+!!LO:LB:g=esac
+=13
+{8cc
+8ee
+8dd
+=14
+4cc
+8r
+=15
+8cc
+8ee
+8dd
+=16
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 116
+!!!ONB: Converted on 2024/12/26 with esac2hum

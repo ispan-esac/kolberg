@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2606200000-skowronecek_spiewa.krn
+!!!OTL: Skowronecek śpiewa
+!!!source: DWOK26
+!!!id: 26062
+!!!signature: 2606200000
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/8
+=1
+{16g
+16f#
+8g
+8b
+=2
+8cc
+4g
+=3
+16b
+16cc
+8ee-
+8ee-
+=4
+4dd
+8b}
+!!LO:LB:g=esac
+=5
+{16dd
+16ff
+8ee-
+8cc
+=6
+16ee-
+16dd
+8b
+8g
+=7
+16g
+16f#
+8g
+8f#
+=8
+8g
+4b}
+!!LO:LB:g=esac
+=9
+{16dd
+16ff
+8ee-
+8cc
+=10
+16ee-
+16dd
+8b
+8g
+=11
+16g
+16f#
+8g
+8b
+=12
+8cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 108
+!!!ONB: Converted on 2024/12/26 with esac2hum

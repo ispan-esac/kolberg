@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK2105600000-ctery_konie_jasio_mial.krn
+!!!OTL: Ctery kónie Jasio miał
+!!!source: DWOK21
+!!!id: 21056
+!!!signature: 2105600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8a
+8f#
+=2
+8d
+8f#
+8d
+=3
+16f#
+16g
+8a
+8f#
+=4
+8b
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16b
+16g
+8a
+8g
+=6
+8b
+8dd
+8cc
+=7
+16b
+16g
+8a
+8f#
+=8
+8d
+8f#
+8d}
+!!LO:LB:g=esac
+=9
+{16f#
+16g
+8a
+16a
+16f#
+=10
+8d
+8f#
+8d
+=11
+16f#
+16g
+8a
+16a
+16f#
+=12
+8b
+8dd
+8cc}
+!!LO:LB:g=esac
+=13
+{16b
+16dd
+8a
+16a
+16g
+=14
+8b
+8dd
+8cc
+=15
+16b
+16g
+8a
+16a
+16f#
+=16
+8d
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=48 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 30} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 30}
+!!!page: 30
+!!!ONB: Converted on 2024/12/26 with esac2hum

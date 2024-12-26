@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK1832600000-na_dolinie_wolki_pasla.krn
+!!!OTL: Na dolinie wołki pasła
+!!!source: DWOK18
+!!!id: 18326
+!!!signature: 1832600000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16g#
+8a
+16b
+16cc#
+=2
+16dd
+16ee
+8ff#
+16dd
+16b
+=3
+16a
+16g#
+8a
+16b
+16cc#
+=4
+8.dd
+16a
+16cc#
+16b}
+!!LO:LB:g=esac
+=5
+{16a
+16cc#
+8a
+16b
+16cc#
+=6
+16b
+16b
+8dd
+16dd
+16b
+=7
+16a
+16g#
+8a
+16b
+16cc#
+=8
+8.dd
+16a
+16cc#
+16b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 177} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

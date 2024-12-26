@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK05-K0060-w_dzien_bozego_narodzenia.krn
+!!!OTL: W dzien Bozego narodzenia
+!!!source: DWOK05
+!!!id: K0060
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+8g
+=2
+4g
+8d
+=3
+4g
+8a
+=4
+4b}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8g
+=6
+4g
+8d
+=7
+4g
+8a
+=8
+4b}
+8r
+!!LO:LB:g=esac
+=9
+{8dd
+4dd
+=10
+16b
+16cc
+8cc
+8a
+=11
+8b
+4b
+=12
+16g
+16a
+8a
+8d}
+!!LO:LB:g=esac
+=13
+{8g
+8a
+8b
+=14
+8cc
+4a
+=15
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 244} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 244}
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

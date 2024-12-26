@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2721900000-a_pod_moja_klacza_podkowy_kolacza.krn
+!!!OTL: A pod moją klaczą podkowy kołaczą
+!!!source: DWOK27
+!!!id: 27219
+!!!signature: 2721900000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8f
+8f
+8f
+8f
+=2
+4b-
+4g
+=3
+8f
+8f
+8f
+8f
+=4
+4b-
+4g}
+!!LO:LB:g=esac
+=5
+{8f
+8f
+8f
+8f
+=6
+4b-
+4dd
+=7
+8cc
+8b-
+8a
+8a
+=8
+4b-
+4b-}
+!!LO:LB:g=esac
+=9
+{4ee-
+4ee-
+=10
+8dd
+8ff
+4dd
+=11
+8cc
+8b-
+8a
+8b-
+=12
+8cc
+8dd
+4ee-}
+!!LO:LB:g=esac
+=13
+{4ee-
+8dd
+8ff
+=14
+4dd
+8cc
+8b-
+=15
+8a
+8b-
+8cc
+8cc
+=16
+4b-
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 265} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 265}
+!!!page: 265
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2740300000-a_wyjrzyj_tam_na_polecko.krn
+!!!OTL: A wyjrzyj tam na polecko
+!!!source: DWOK27
+!!!id: 27403
+!!!signature: 2740300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16e
+16a
+16cc
+16b
+8a
+=2
+16g#
+16b
+8a
+8e
+=3
+16e
+16a
+16cc
+16b
+8a
+=4
+16g#
+16e
+8d
+8e}
+!!LO:LB:g=esac
+=5
+{16d
+16d
+8d
+8e
+=6
+16f#
+16a
+8g#
+8d
+=7
+16e
+16a
+16cc
+16b
+8a
+=8
+16g#
+16e
+8d
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=369 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 350} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 350}
+!!!page: 350
+!!!ONB: Converted on 2024/12/26 with esac2hum

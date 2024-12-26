@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK02-K0235a-jezeli_w_twojej_postaci.krn
+!!!OTL: Jezeli w twojej postaci
+!!!source: DWOK02
+!!!id: K0235a
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+4f
+8a
+=2
+8cc
+16dd
+16cc
+8a
+8f
+=3
+16dd
+16ee
+4ff
+16ee
+16dd
+=4
+16dd
+16cc
+4cc
+8cc}
+!!LO:LB:g=esac
+=5
+{16b-
+16cc
+4dd
+16cc
+16b-
+=6
+16b-
+16a
+4a
+8cc
+=7
+8g
+8dd
+8cc
+8e
+=8
+16g
+16f
+4.f}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 196} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

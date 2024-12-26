@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK57122500001-tam_pid_wyszniamy_pid_czereszniamy.krn
+!!!OTL: Tam pid wyszniamy, pid czereszniamy
+!!!source: DWOK57
+!!!id: 571225
+!!!signature: 57122500001
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+=1
+*M4/4
+{4cc
+8b
+8a
+4cc
+8a
+8g#
+=2
+4a
+8b
+8g#
+4e
+4e}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+4g#
+4a
+8cc
+8a
+=4
+*M2/4
+2b}
+!!LO:LB:g=esac
+=5
+*M4/4
+{4cc
+8b
+8a
+4cc
+8a
+8g#
+=
+!!UNCATEGORIZED MEASURE
+8a
+8cc
+8b
+8a
+4g#
+4e}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8g#
+8g#
+4g#
+4a
+12g#
+12f#
+12e
+=6
+*M4/4
+2e}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 340
+!!!ONB: Converted on 2024/12/26 with esac2hum

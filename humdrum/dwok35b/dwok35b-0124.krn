@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK35B-35B12400000-instrumentalna._ciurylo.krn
+!!!OTL: Instrumentalna. Ciuryło
+!!!source: DWOK35B
+!!!id: 35B124
+!!!signature: 35B12400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc#
+8dd
+8dd
+=2
+8dd
+16cc#
+16b
+8cc
+=3
+8dd
+16b
+16a
+8g}
+!!LO:LB:g=esac
+=
+{24a
+24b
+24cc#
+8dd
+8dd
+=4
+8dd
+16cc#
+16b
+8cc
+=
+8dd
+24cc#
+24b
+24a
+8g}
+!!LO:LB:g=esac
+=
+{24a
+24b
+24g
+8cc
+16b
+16a
+=
+8g
+24a
+24b
+24f
+8g
+=
+24a
+24b
+12a
+8cc
+16b
+16a
+=5
+8g
+16a
+16b
+8g}
+!!LO:LB:g=esac
+=6
+{16a
+16g
+8cc
+16cc
+16b
+=
+24a
+24b
+24g
+8cc
+16b
+16a
+=
+8g
+24a
+24b
+24a
+8f
+=7
+8g
+4g}
+==
+*-
+!!!ONB: Wariant t. 7-8: (2_31)4_4_  1_231_  
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 197} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 197}
+!!!page: 197
+!!!ONB: Converted on 2024/12/26 with esac2hum

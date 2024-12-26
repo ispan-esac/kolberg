@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK35B-35B07200000-w_czystym_poli_bereza_stojala.krn
+!!!OTL: W czystym poli bereza stojała
+!!!source: DWOK35B
+!!!id: 35B072
+!!!signature: 35B07200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8dd
+8dd
+=2
+8dd
+8ee
+8dd
+8b
+=3
+8cc
+8ee
+8dd
+8b
+=4
+4cc
+4a}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+=6
+4dd
+4g
+=7
+4cc
+4ee
+=8
+4dd
+4g
+=9
+8a
+8b
+8cc
+8dd
+=10
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 168} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

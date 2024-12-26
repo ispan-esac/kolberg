@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2237100000-ide_bez_bor_bez_chojaki.krn
+!!!OTL: Idę bez bór bez chojaki
+!!!source: DWOK22
+!!!id: 22371
+!!!signature: 2237100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16a
+16b
+16cc
+16b
+16dd
+=2
+16d
+16f#
+16g
+16a
+16b
+16dd
+=3
+16b
+16a
+8g
+8g
+=4
+16d
+16f#
+8g
+8d}
+!!LO:LB:g=esac
+=5
+{16b
+16b
+8cc
+8b
+=6
+16d
+16f#
+8g
+16b
+16dd
+=7
+16b
+16a
+8b
+8g
+=8
+16d
+16f#
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 196} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

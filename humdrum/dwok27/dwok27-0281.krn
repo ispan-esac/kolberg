@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2728100000-jedna_dziewcyna.krn
+!!!OTL: Jedna dziewcyna
+!!!source: DWOK27
+!!!id: 27281
+!!!signature: 2728100000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8a
+8cc#
+8ee
+=2
+16ee
+16dd#
+4b
+=3
+8g#
+4e}
+!!LO:LB:g=esac
+=4
+{8a
+8cc#
+8ee
+=5
+16ee
+16dd#
+4b
+=6
+8g#
+4e}
+!!LO:LB:g=esac
+=7
+{8a
+8g#
+8a
+=8
+4f#
+8a
+=9
+8cc#
+4a}
+!!LO:LB:g=esac
+=10
+{8g#
+8b
+8f#
+=11
+4a
+8g#
+=12
+8e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=310 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 291} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 291}
+!!!page: 291
+!!!ONB: Converted on 2024/12/26 with esac2hum

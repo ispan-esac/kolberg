@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK45143600000-wlosy_moje_wlosy.krn
+!!!OTL: Włosy moje, włosy
+!!!source: DWOK45
+!!!id: 451436
+!!!signature: 45143600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.dd
+8cc#
+8a
+32b
+16.cc
+=2
+4dd
+8cc
+8g}
+4r
+!!LO:LB:g=esac
+=3
+{4.dd
+8cc#
+8a
+32b
+16.cc
+=4
+4dd
+8cc
+8g}
+4r
+!!LO:LB:g=esac
+=5
+{8cc#
+8dd
+8cc#
+8g
+8a
+8f#
+=6
+8g
+8b
+2dd}
+!!LO:LB:g=esac
+=7
+{8ee
+8dd
+8cc#
+8g
+8a
+8g
+=8
+8a
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 167} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 167}
+!!!page: 167
+!!!ONB: Converted on 2024/12/26 with esac2hum

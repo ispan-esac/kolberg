@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK1924100000-a_ide_ja_ide_bez_puste_pole.krn
+!!!OTL: A ide ja ide bez puste pole
+!!!source: DWOK19
+!!!id: 19241
+!!!signature: 1924100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+4ee
+=2
+16dd
+16ff
+4cc
+=3
+16dd
+16ff
+8.ee
+16dd
+=4
+8gg
+4cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+4ee
+=6
+16dd
+16ff
+4cc
+=7
+16dd
+16ff
+8.ee
+16dd
+=8
+8gg
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 75} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 75}
+!!!page: 75
+!!!ONB: Converted on 2024/12/26 with esac2hum

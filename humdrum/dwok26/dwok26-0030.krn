@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2603000000-a_posla_byla_swianta_halina.krn
+!!!OTL: A posła była świanta Halina
+!!!source: DWOK26
+!!!id: 26030
+!!!signature: 2603000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8cc
+8b
+=2
+4cc
+8a
+=3
+8b
+8dd
+8dd
+=4
+4cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+=6
+8ee
+8dd
+8cc
+=7
+8ee
+16ee
+16dd
+8cc
+=8
+8b
+4a}
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+8dd
+=10
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK4486600021-dziwczyno_moja_cos_porobila.krn
+!!!OTL: Dziwczyno moja coś porobiła?
+!!!source: DWOK44
+!!!id: 44866
+!!!signature: 4486600021
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4cc
+8b
+8a
+4.ee
+8dd
+=2
+4cc
+8dd
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=3
+{4ee
+8ee
+8dd
+4.ee
+8a
+=4
+4cc
+8dd
+8cc
+4b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=465 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 407} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 407}
+!!!page: 407
+!!!ONB: Converted on 2024/12/26 with esac2hum

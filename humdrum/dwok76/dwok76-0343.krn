@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7634300000-oj_moj_panie_wrzosku.krn
+!!!OTL: Oj, mój panie Wrzosku
+!!!source: DWOK76
+!!!id: 76343
+!!!signature: 7634300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8a
+8g
+4b
+4dd
+=2
+4ff
+8ff
+8ee
+4cc
+=3
+8ee
+8gg
+4aa
+4ff
+=4
+4dd
+2g}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+4b
+4dd
+=6
+4ff
+8ff
+8ee
+4cc
+=7
+8a
+8g
+4b
+4dd
+=8
+4a
+2cc}
+==
+*-
+!!!ONB: Wariant t.3: +3+5+6+3+4_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 179} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 179}
+!!!page: 179
+!!!ONB: Converted on 2024/12/26 with esac2hum

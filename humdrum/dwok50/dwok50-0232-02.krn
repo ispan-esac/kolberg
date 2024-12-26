@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5023200002-placzu-ze_ja_placzu.krn
+!!!OTL: Płaczu-że ja, płaczu
+!!!source: DWOK50
+!!!id: 50232
+!!!signature: 5023200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4cc
+=2
+4dd
+2dd}
+!!LO:LB:g=esac
+=3
+{8dd
+8gg
+4gg
+4ee-
+=4
+4dd
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee-
+4dd
+4cc
+=6
+8b
+8g
+2f}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+4dd
+4cc
+=8
+4g
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 111} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

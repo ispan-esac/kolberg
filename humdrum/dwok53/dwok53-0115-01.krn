@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK5311500001-mergiala_mano.krn
+!!!OTL: Mergiała mano
+!!!source: DWOK53
+!!!id: 53115
+!!!signature: 5311500001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4e
+4a
+4b
+=2
+8cc
+8a
+2b
+=3
+4ee
+4dd
+4ee
+=4
+8cc
+8b
+2a}
+!!LO:LB:g=esac
+=5
+{2dd
+4b
+=6
+8dd
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=7
+{4g#
+4e
+4g#
+=8
+4a
+4b
+4g
+=9
+2.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 251} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

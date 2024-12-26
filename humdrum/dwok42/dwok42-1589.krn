@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK42158900000-o_kocham_cie_nad_me_zycie.krn
+!!!OTL: O, kocham cię nad me życie
+!!!source: DWOK42
+!!!id: 421589
+!!!signature: 42158900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8f
+4f
+4a
+=2
+8cc
+8dd
+4ee
+4ff
+=3
+4.gg
+8ee
+8ff
+8dd
+=4
+2cc
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4ff
+4ff
+=6
+8dd
+8g
+4b-
+4dd
+=7
+8dd
+8cc
+4e
+4e
+=8
+2f
+4f}
+!!LO:LB:g=esac
+=9
+{8f
+8g
+4a
+4c
+=10
+8f
+8g
+4a
+4c
+=11
+8f
+8e
+4f
+4a
+=12
+4dd
+2cc}
+!!LO:LB:g=esac
+=13
+{8c
+8c
+4b-
+4b-
+=14
+8a
+8g
+4a
+4f
+=15
+8e
+8e
+4d
+4e
+=16
+4g
+2f}
+==
+*-
+!!!ONB: wariant w takcie 11: 1-71_34
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 113} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 113}
+!!!page: 113
+!!!ONB: Converted on 2024/12/26 with esac2hum

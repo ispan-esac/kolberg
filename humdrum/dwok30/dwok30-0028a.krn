@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK30028a0000-oj_u_pole_kraj_dorohy.krn
+!!!OTL: Oj u pole kraj dorohy
+!!!source: DWOK30
+!!!id: 30028a
+!!!signature: 30028a0000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8cc
+8g
+8cc
+8g
+8cc
+8ee
+=2
+2gg
+4gg}
+!!LO:LB:g=esac
+=3
+{8gg
+8ee
+8gg
+8ee
+8gg
+16ff
+16ee
+=4
+2dd
+4dd}
+!!LO:LB:g=esac
+=5
+{4.ff
+8ee
+8ff
+8dd
+=6
+8.ee
+16ee
+4.ee
+16dd
+16cc}
+!!LO:LB:g=esac
+=7
+{4.dd
+8ee
+8dd
+8cc
+=8
+8.b
+16a
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 26} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 26}
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

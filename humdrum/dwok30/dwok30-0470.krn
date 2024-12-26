@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3047000000-nyma_w_swiki_tak_nikomu.krn
+!!!OTL: Nyma w świki tak nikomu
+!!!source: DWOK30
+!!!id: 30470
+!!!signature: 3047000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8ee
+8dd
+8cc
+8b
+8g#
+=2
+4a
+2e
+=3
+8a
+8a
+8g#
+8e
+8e
+8d
+=4
+4a
+2e}
+!!LO:LB:g=esac
+=5
+{4cc
+2ee
+=6
+8dd
+8ee
+8dd
+8cc
+8b
+8a
+=7
+4ee
+2a}
+==
+*-
+!!!ONB: Burłak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 253} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 253}
+!!!page: 253
+!!!ONB: Converted on 2024/12/26 with esac2hum

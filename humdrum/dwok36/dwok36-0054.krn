@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK3605400000-oj_sonenko_sonenko.krn
+!!!OTL: Oj soneńko soneńko
+!!!source: DWOK36
+!!!id: 36054
+!!!signature: 3605400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8cc
+8cc
+=2
+4cc
+4cc
+=3
+[4b
+16b]
+16a
+8g
+=4
+4b
+8cc
+8b
+=5
+4a
+4f#
+=6
+2g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8cc
+8cc
+=8
+4cc
+8dd
+8cc
+=9
+[4b
+16b]
+16a
+8g
+=10
+4b
+8cc
+8b
+=11
+4a
+4f#
+=12
+2g}
+!!LO:LB:g=esac
+=13
+{8a
+8f#
+8g
+8a
+=14
+4cc
+4b
+=15
+8a
+8a
+8g
+8a
+=16
+4g
+4f#
+=17
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 29
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK1702300000-byla_to_swieta_dorota.krn
+!!!OTL: Była to święta Dorota
+!!!source: DWOK17
+!!!id: 17023
+!!!signature: 1702300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+{12f
+12g
+12a
+4b-
+12cc
+12b-
+12a
+=1
+4g
+4f}
+4r
+!!LO:LB:g=esac
+=
+{8f
+16a
+16b-
+4cc
+12dd
+12dd
+12b-
+=2
+8b-
+8a
+4a}
+4r
+!!LO:LB:g=esac
+=
+{12f
+12g
+12a
+4b-
+12cc
+12b-
+12a
+=3
+4g
+4f}
+4r
+!!LO:LB:g=esac
+=
+{8f
+8g
+8a
+8b-
+12b-
+12g
+12e
+=4
+4f
+4f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 14} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 14}
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

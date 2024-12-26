@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK1340300001-powiadali_powiadali.krn
+!!!OTL: Powiadali powiadali
+!!!source: DWOK13
+!!!id: 13403
+!!!signature: 1340300001
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8g
+8a
+8b
+8cc
+=2
+8dd
+8ff#
+8ee
+8dd
+=3
+*M3/4
+8cc
+8a
+8cc
+8b
+8.dd
+16cc
+=4
+4a
+4f#
+4d}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8dd
+8dd
+8cc
+8a
+=6
+8g
+8g
+8g
+8a
+=7
+*M3/4
+8b
+8b
+8cc
+8ee
+8.dd
+16cc
+=8
+4a
+4f#
+4d}
+==
+*-
+!!!ONB: Weselna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 169} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 169}
+!!!page: 169
+!!!ONB: Converted on 2024/12/26 with esac2hum

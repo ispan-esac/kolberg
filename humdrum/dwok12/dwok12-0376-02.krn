@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK1237600002-oj_da_w_tej_sieni.krn
+!!!OTL: Oj da w tej sieni
+!!!source: DWOK12
+!!!id: 12376
+!!!signature: 1237600002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8g
+8ff
+8ff
+=2
+16dd
+16ee
+4cc
+=3
+8dd
+8g
+8b
+=4
+8cc
+4gg}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff
+8ff
+=6
+16dd
+16ee
+4cc
+=7
+8dd
+8g
+8b-
+=8
+8a
+4f}
+!!LO:LB:g=esac
+=9
+{8a
+16a
+16g
+16a
+16b
+=10
+8cc
+16dd
+16cc
+16b
+16a
+=11
+8b
+8g
+8g
+=12
+8ff
+4ff}
+!!LO:LB:g=esac
+=13
+{8a
+16a
+16g
+16a
+16b
+=14
+8cc
+16dd
+16cc
+16b-
+16a
+=15
+8b-
+8g
+8g
+=16
+8a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 196} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

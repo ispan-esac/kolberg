@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK8305200001-bud_zdrowa_pani_matko.krn
+!!!OTL: Bud' zdrowa, pani matko
+!!!source: DWOK83
+!!!id: 83052
+!!!signature: 8305200001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16cc
+16dd
+16cc
+16dd
+16ee
+=2
+8ff
+4ee
+=3
+4.cc
+=4
+16b
+16g}
+4r
+!!LO:LB:g=esac
+=5
+{16g
+16cc
+16dd
+16cc
+8ee
+=6
+8ff
+4ff
+=7
+8ff
+4ee}
+!!LO:LB:g=esac
+=8
+{8ee
+8ee
+16dd
+16cc
+=9
+8ee
+4dd
+=10
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 62-63} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, pp. 62-63}
+!!!page: 62-63
+!!!ONB: Converted on 2024/12/26 with esac2hum

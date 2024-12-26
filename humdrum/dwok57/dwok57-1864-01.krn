@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK57186400001-a_chodyla_szczebetala.krn
+!!!OTL: A chodyła, szczebetała
+!!!source: DWOK57
+!!!id: 571864
+!!!signature: 57186400001
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8a
+8dd
+8dd
+8dd
+=2
+8cc
+8ee
+8ee
+8ee
+=3
+16ee
+16dd#
+8b
+8dd#
+8b
+=4
+4ee
+4ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd#
+8ee
+8dd#
+=6
+8cc#
+8ee
+8ff#
+8ee
+=7
+8dd#
+8b
+8b
+8g#
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 933
+!!!ONB: Converted on 2024/12/26 with esac2hum

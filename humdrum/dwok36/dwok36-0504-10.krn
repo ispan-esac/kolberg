@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK3650400010-oczy_czorny_browy_kary.krn
+!!!OTL: Oczy czorny browy kary
+!!!source: DWOK36
+!!!id: 36504
+!!!signature: 3650400010
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8ee
+8ee
+8ee
+8a
+=2
+8cc#
+16dd
+16cc#
+8b
+8a
+=3
+8ee
+8ee
+16b
+16cc#
+16dd
+16cc#
+=4
+4ee
+8dd
+8cc#}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8g#
+8e
+=6
+16a
+16cc#
+8ee
+8dd
+8cc#
+=7
+16b
+16cc#
+16dd
+16cc#
+8b
+16a
+16b
+=8
+4cc#
+4a}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8g#
+8e
+=10
+16a
+16cc#
+8ee
+8dd
+8cc#
+=11
+16b
+16cc#
+16dd
+16cc#
+8b
+16a
+16b
+=12
+4cc#
+4a}
+==
+*-
+!!!ONB: melodia ma akompaniament
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 328-329
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK57107400001-na_szerokij_ulicy.krn
+!!!OTL: Na szerokij ulicy
+!!!source: DWOK57
+!!!id: 571074
+!!!signature: 57107400001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8cc
+8cc
+=2
+8b
+8dd
+4cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+8ee
+8ee
+=4
+16dd
+16ff
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+4dd
+=6
+8ee
+8dd
+4cc
+=7
+8cc
+8aa
+4gg}
+!!LO:LB:g=esac
+=8
+{8ff
+8ee
+4dd
+=9
+8ee
+8dd
+4cc
+=10
+8dd
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 239
+!!!ONB: Converted on 2024/12/26 with esac2hum

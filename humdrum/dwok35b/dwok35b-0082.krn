@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK35B-35B08200000-prosyv_kym_kymonki.krn
+!!!OTL: Prosyv kym kymońki
+!!!source: DWOK35B
+!!!id: 35B082
+!!!signature: 35B08200000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=1
+{4g
+4a
+2b
+=2
+4dd
+4cc
+2b
+=3
+8dd
+8cc
+8b
+8cc
+2b}
+!!LO:LB:g=esac
+=4
+{4b
+4b
+4a
+4b
+=5
+4g
+4e
+2b}
+!!LO:LB:g=esac
+=6
+{8e
+8f#
+8g
+8a
+4b
+4b
+=7
+4dd
+4cc
+4b
+4b
+=8
+8dd
+8b
+4cc
+4b
+4b}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8b
+8b
+8b
+8b
+8cc
+8b
+=10
+4d
+4f#
+4e
+4e
+=11
+8b
+8b
+8b
+8b
+8b
+8b
+8cc
+8b
+=12
+4d
+4f#
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 173} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

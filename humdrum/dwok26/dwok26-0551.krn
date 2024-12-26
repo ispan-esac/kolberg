@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2655100000-kolys_ze_sie_kolysko.krn
+!!!OTL: Kołys ze się kołysko
+!!!source: DWOK26
+!!!id: 26551
+!!!signature: 2655100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+16cc
+16b
+16dd
+16ff
+=2
+8aa
+8gg
+8ff
+=3
+16ee
+16cc
+8dd
+8cc
+=4
+8g
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8cc
+8dd
+=6
+8ee
+8dd
+8cc
+=7
+16ee
+16cc
+16dd
+16b
+16cc
+16b
+=8
+8g
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 337
+!!!ONB: Converted on 2024/12/26 with esac2hum

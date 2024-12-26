@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1226100010-albo_mnie_zabija_albo_mnie_powiesza.krn
+!!!OTL: Albo mnie zabiją albo mnie powieszą
+!!!source: DWOK12
+!!!id: 12261
+!!!signature: 1226100010
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8b-
+4dd
+=2
+16dd
+16dd
+16dd
+16cc
+8a
+=3
+8f
+4cc
+=4
+16ee-
+16gg
+8ee
+8ff}
+!!LO:LB:g=esac
+=5
+{8b-
+4dd
+=6
+16dd
+16dd
+16dd
+16cc
+8a
+=7
+8f
+4cc
+=8
+16ee-
+16ff
+8dd
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 138} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 138}
+!!!page: 138
+!!!ONB: Converted on 2024/12/26 with esac2hum

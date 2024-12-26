@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1105900020-tancowalbym_cala_nocke_biedna.krn
+!!!OTL: Tańcowałbym całą nockę biedną
+!!!source: DWOK11
+!!!id: 11059
+!!!signature: 1105900020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8f#
+8a
+8g
+8b
+8dd
+=2
+8ee
+8dd
+8cc
+8b
+8g
+8f#
+=3
+8d
+8f#
+8a
+8g
+8b
+8dd
+=4
+8ee
+8dd
+8cc
+8b
+8g
+8f#}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8a
+8g
+8b
+8d
+=6
+8f#
+8a
+8cc
+8b
+8g
+8f#
+=7
+8d
+8f#
+8a
+8g
+8b
+8d
+=8
+8f#
+8a
+8cc
+8b
+8g
+8f#}
+==
+*-
+!!!ONB: Ksebka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 175} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 175}
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK4407700002-kiebys_ty_chmielu.krn
+!!!OTL: Kiebyś ty chmielu
+!!!source: DWOK44
+!!!id: 44077
+!!!signature: 4407700002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8ee
+=2
+2cc
+=3
+8dd
+8ee
+8ff
+8ee
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ee
+8ee
+=6
+2cc
+=7
+8dd
+8ee
+8ff
+8ee
+=8
+2dd}
+!!LO:LB:g=esac
+=9
+{4ff
+8ee
+8dd
+=10
+8ff
+8ff
+8ee
+8cc}
+!!LO:LB:g=esac
+=11
+{4ff
+8ee
+8dd
+=12
+8ff
+8ff
+8ee
+8cc}
+!!LO:LB:g=esac
+=13
+{8ff
+8ff
+8ee
+8dd
+=14
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 119} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 119}
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

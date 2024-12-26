@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK57104500000-tam_we_lwowi_w_krajnim_domi.krn
+!!!OTL: Tam we Lwowi, w krajnim domi
+!!!source: DWOK57
+!!!id: 571045
+!!!signature: 57104500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+8cc
+8cc
+8b
+8dd
+=2
+4a
+2g}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+8gg
+8gg
+8ee
+8cc
+=4
+4ee
+2dd}
+!!LO:LB:g=esac
+=5
+{4.gg
+8dd
+8ee
+8cc
+=6
+8b
+8b
+4a
+4g}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+8ee
+8ee
+8dd
+8f#
+=8
+4a
+2g}
+==
+*-
+!!!ONB: Wariant t. 8: 23211___
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 213
+!!!ONB: Converted on 2024/12/26 with esac2hum

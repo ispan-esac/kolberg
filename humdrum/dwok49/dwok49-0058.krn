@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK4905800000-hej_nam_hej_wszystek_nam_dzis_swiat_wesolyj.krn
+!!!OTL: Hej nam hej, wszystek nam dziś świat wesołyj
+!!!source: DWOK49
+!!!id: 49058
+!!!signature: 4905800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.dd
+16dd
+2ee
+=2
+8gg
+8ee
+4ee
+4ee
+=3
+4.dd
+8b
+8cc
+8b}
+!!LO:LB:g=esac
+=4
+{8.dd
+16dd
+2ee
+=5
+8gg
+8ee
+4ee
+4ee
+=6
+4.dd
+8b
+8cc
+8b}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+4dd
+4dd
+=8
+8dd
+8dd
+4ee
+4ee}
+!!LO:LB:g=esac
+=9
+{8gg
+8ee
+4ee
+4ee
+=10
+4.dd
+8b
+8cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 149-150} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, pp. 149-150}
+!!!page: 149-150
+!!!ONB: Converted on 2024/12/26 with esac2hum

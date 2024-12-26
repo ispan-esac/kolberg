@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK06-K0141a-nie_dla_ciebie_starosta.krn
+!!!OTL: Nie dla ciebie starosta
+!!!source: DWOK06
+!!!id: K0141a
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8a
+8a
+8g
+=2
+8b-
+8dd
+4ff
+=3
+8ff
+8dd
+8cc
+8a
+=4
+8g
+8b-
+4f}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8g
+=6
+8b-
+8dd
+4cc
+=7
+8a
+8a
+8a
+8g
+=8
+8g
+8b-
+4f}
+==
+*-
+!!!ONB: Wariant alternatywny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 69} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 69}
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2110400003-idzie_maciek_prosto_droga.krn
+!!!OTL: Idzie Maciek prosto drogą
+!!!source: DWOK21
+!!!id: 21104
+!!!signature: 2110400003
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M3/8
+{16g
+16b
+8cc
+8dd
+=2
+16dd
+16cc
+8.ee
+16dd
+=3
+16cc
+16b
+8cc
+8dd
+=4
+16dd
+16cc
+8.ee
+16dd}
+!!LO:LB:g=esac
+=5
+{4ff
+8ee
+=6
+16.dd
+32dd
+8ee
+8dd
+=7
+16dd
+16ee
+8dd
+8cc
+=8
+16b
+16a
+8b
+8g
+=9
+*M2/4
+16g
+16g
+16g
+16g
+16g
+16g
+16g
+16g
+=10
+*M3/8
+16g
+16b
+4cc}
+==
+*-
+!!!ONB: U Kolberga uwaga: W pierwszej i czwartej zwrotce opuszczają się takty ósmy i dziewiąty,     w trzeciej i piątej, zamiast taktu dziewiątego, śśpiewa się żywo wariant
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 50} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

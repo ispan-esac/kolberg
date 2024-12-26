@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK7509900000-kobyla_w_olsynie.krn
+!!!OTL: Kobyła w olsynie
+!!!source: DWOK75
+!!!id: 75099
+!!!signature: 7509900000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16g
+16b
+4dd
+=2
+8b
+8dd
+8dd}
+!!LO:LB:g=esac
+=3
+{16b
+16b
+8dd
+8cc
+=4
+8a
+8f#
+8d}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+4g
+=6
+8a
+8b
+8b}
+!!LO:LB:g=esac
+=7
+{16a
+16cc#
+4dd
+=8
+8a
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 67} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 67}
+!!!page: 67
+!!!ONB: Converted on 2024/12/26 with esac2hum

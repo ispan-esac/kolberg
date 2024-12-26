@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK4472500001-han_ta_moja_frajerecka.krn
+!!!OTL: Hań ta moja frajerecka
+!!!source: DWOK44
+!!!id: 44725
+!!!signature: 4472500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+16b
+[16b
+8b]
+=2
+8.cc
+16d
+16e
+16f#
+=3
+16g
+[16g}
+8g]
+8r
+!!LO:LB:g=esac
+=4
+{16g
+16a
+16b
+[16b
+8b]
+=5
+8.cc
+16d
+16e
+16f#
+=6
+16g
+[16g}
+8g]
+8r
+!!LO:LB:g=esac
+=7
+{8.ee
+16dd
+16cc
+16b
+=8
+16ee
+16dd
+4b
+=9
+16cc
+16a
+4a}
+!!LO:LB:g=esac
+=10
+{16cc
+16cc
+8cc
+8cc
+=11
+16b
+16b
+8b
+8b
+=12
+8.cc
+16d
+16e
+16f#
+=13
+16g
+[16g}
+8g]
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=417 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 359} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 359}
+!!!page: 359
+!!!ONB: Converted on 2024/12/26 with esac2hum

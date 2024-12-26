@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7749800000-idzie_zolnierz_borem_lasem.krn
+!!!OTL: Idzie żołnierz borem lasem
+!!!source: DWOK77
+!!!id: 77498
+!!!signature: 7749800000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8g
+8b
+4.dd
+8b
+=2
+*M2/4
+8dd
+8dd
+8b
+8g
+=3
+8dd
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=4
+*M3/4
+{8a
+8a
+4cc
+4a
+=5
+*M2/4
+8dd
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=6
+*M3/4
+{8a
+8a
+4cc
+4a
+=7
+*M2/4
+8dd
+8dd
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 259
+!!!ONB: Converted on 2024/12/26 with esac2hum

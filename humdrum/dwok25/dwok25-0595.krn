@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2559500000-o_moj_jasiu.krn
+!!!OTL: O moj Jasiu
+!!!source: DWOK25
+!!!id: 25595
+!!!signature: 2559500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16dd
+8b
+8b
+=
+24b
+24cc
+24ee
+8dd
+8a
+=
+24b
+24cc
+24dd
+8b
+24b
+24a
+24f#
+=
+24g
+24a
+24b
+8cc
+8g}
+!!LO:LB:g=esac
+=2
+{16cc
+16dd
+8b
+16b
+16a
+=3
+16g
+16a
+8b
+16b
+16g
+=4
+16cc
+16dd
+8b
+16a
+16f#
+=5
+16g
+16b
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 222} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 222}
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

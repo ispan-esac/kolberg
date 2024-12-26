@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1242500002-zasieje_ja_rutke.krn
+!!!OTL: Zasieję ja rutkę
+!!!source: DWOK12
+!!!id: 12425
+!!!signature: 1242500002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8cc
+8ee
+=2
+4cc
+8b
+=3
+16a
+16b
+8cc
+8ee
+=4
+4dd
+8g}
+!!LO:LB:g=esac
+=5
+{16ee
+16ff
+8gg
+16ff
+16ee
+=6
+4dd
+16cc
+16b
+=7
+16a
+16b
+8cc
+16a
+16f
+=8
+4.g}
+==
+*-
+!!!ONB: Alternatywnie można zakodować w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 220} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 220}
+!!!page: 220
+!!!ONB: Converted on 2024/12/26 with esac2hum

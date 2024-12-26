@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1259600000-da_moj_maciosiu.krn
+!!!OTL: Da mój Maciosiu
+!!!source: DWOK12
+!!!id: 12596
+!!!signature: 1259600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8g
+8b
+=2
+4.dd
+=3
+16dd
+16dd
+8a
+8b
+=4
+4.g
+=5
+16dd
+16dd
+8a
+8b
+=6
+4.g}
+!!LO:LB:g=esac
+=7
+{16a
+16a
+8cc
+8cc
+=8
+16g
+16g
+8b
+8b
+=9
+16a
+16a
+8cc
+8cc
+=10
+16g
+16g
+8b
+8b}
+!!LO:LB:g=esac
+=11
+{16d
+16d
+8a
+8b
+=12
+4.g
+=
+24dd
+24a
+24dd
+8a
+8b
+=13
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=317 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 301} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 301}
+!!!page: 301
+!!!ONB: Converted on 2024/12/26 with esac2hum

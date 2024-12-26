@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4822200000-parobeczki_od_polanca.krn
+!!!OTL: Parobeczki od Połańca
+!!!source: DWOK48
+!!!id: 48222
+!!!signature: 4822200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ee
+8ee
+4ee
+4cc
+=2
+8a
+8a
+4b
+4g
+=3
+8ff
+8ee
+4ff
+4dd
+=4
+2gg
+4ff}
+!!LO:LB:g=esac
+=5
+{8ee
+8ff
+4dd
+4cc
+=6
+8a
+8a
+4b
+4g
+=7
+8g
+8g
+4a
+4b
+=8
+2cc
+4cc}
+==
+*-
+!!!ONB: Wariant t. 7: 556_(767)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=289 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 245} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 245}
+!!!page: 245
+!!!ONB: Converted on 2024/12/26 with esac2hum

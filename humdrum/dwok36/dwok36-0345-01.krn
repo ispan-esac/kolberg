@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK3634500001-oj_swataj_mene_hryciu.krn
+!!!OTL: Oj swataj mene Hryciu
+!!!source: DWOK36
+!!!id: 36345
+!!!signature: 3634500001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4cc
+8cc
+8cc
+=2
+8b
+8b
+8b
+8e
+=3
+8a
+8b
+8cc
+8cc
+=4
+8ee
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8a
+=6
+8g#
+8g#
+8g#
+8e
+=7
+8a
+8b
+8cc
+8ee
+=8
+8b
+8g#
+8a
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 215
+!!!ONB: Converted on 2024/12/26 with esac2hum

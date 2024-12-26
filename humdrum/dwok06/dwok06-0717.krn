@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK06-K0717-chlopiec_sobie_jestem.krn
+!!!OTL: Chlopiec sobie jestem
+!!!source: DWOK06
+!!!id: K0717
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+16b
+16g
+=2
+8f#
+8a
+4cc
+=3
+8b
+4g
+16a
+16g
+=4
+8f#
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8d
+4g
+16a
+16g
+=6
+8f#
+8a
+4cc
+=7
+8ee
+4dd
+16b
+16g
+=8
+8f#
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{8b
+4dd
+8b
+=10
+8.ee
+16dd
+16cc
+16b
+16cc
+16a
+=11
+8g
+4b
+8d
+=12
+8f#
+8a
+4cc}
+!!LO:LB:g=esac
+=13
+{8d
+4g
+16a
+16g
+=14
+8f#
+8a
+16cc
+16b
+16cc
+16a
+=15
+8.ee
+16dd
+16cc
+16b
+16cc
+16a
+=16
+8f#
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=471 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 445} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 445}
+!!!page: 445
+!!!ONB: Converted on 2024/12/26 with esac2hum

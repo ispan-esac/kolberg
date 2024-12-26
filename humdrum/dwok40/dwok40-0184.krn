@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4018400000-a_ty_ptaszku_gregolaszku.krn
+!!!OTL: A ty, ptaszku gregolaszku
+!!!source: DWOK40
+!!!id: 40184
+!!!signature: 4018400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16b
+8cc
+8dd
+=2
+16ee
+16ee
+8.dd
+16ee
+=
+24cc
+24b
+24a
+8b
+8g#
+=3
+4a}
+8r
+!!LO:LB:g=esac
+=4
+{16b
+16a
+8g#
+8e
+=5
+16g#
+16b
+8.dd
+16ee
+=6
+16cc
+16a
+8b
+8g#
+=7
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=293 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 234} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 234}
+!!!page: 234
+!!!ONB: Converted on 2024/12/26 with esac2hum

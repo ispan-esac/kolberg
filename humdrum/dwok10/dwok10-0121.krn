@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK1012100000-instrumentalna-wiwat.krn
+!!!OTL: Instrumentalna-Wiwat
+!!!source: DWOK10
+!!!id: 10121
+!!!signature: 1012100000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8dd
+8a
+8b
+8cc#
+=2
+4dd
+8a
+8f#
+=3
+8g
+8b
+8dd
+8cc#
+=4
+4a
+4a}
+!!LO:LB:g=esac
+=5
+{8dd
+8a
+8b
+8cc#
+=6
+4dd
+8a
+8f#
+=7
+8e
+8g
+8b
+8a
+=8
+2d}
+!!LO:LB:g=esac
+=9
+{8d
+8e
+8f#
+8g
+=10
+4a
+8a
+8f#
+=11
+8e
+8f#
+8g
+8b
+=12
+8b
+8a
+4a}
+!!LO:LB:g=esac
+=13
+{8d
+8e
+8f#
+8g
+=14
+4a
+8a
+8f#
+=15
+8e
+8f#
+8g
+8e
+=16
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 266} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 266}
+!!!page: 266
+!!!ONB: Converted on 2024/12/26 with esac2hum

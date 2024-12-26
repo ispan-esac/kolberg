@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1701600000-piekna_duszo_sliczny_kwiecie.krn
+!!!OTL: Piękna duszo, śliczny kwiecie
+!!!source: DWOK17
+!!!id: 17016
+!!!signature: 1701600000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8g
+8g
+8g
+8dd
+4cc
+=2
+8dd
+8ee
+4ff
+4dd
+=3
+8ff
+8cc
+4dd
+4b-
+=
+12a
+12cc
+12b-
+8a
+8g}
+4r
+!!LO:LB:g=esac
+=4
+{4.dd
+8dd
+16dd
+16cc
+16b-
+16a
+=
+12g
+12b-
+12cc
+2dd
+=5
+4.ff#
+8cc
+8dd
+8b-
+=
+12a
+12cc
+12b-
+8a
+8g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=30 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 8} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 8}
+!!!page: 8
+!!!ONB: Converted on 2024/12/26 with esac2hum

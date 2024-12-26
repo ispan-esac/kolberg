@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK7727100000-a_moja_marysiu_gdzies_gebe_podziala.krn
+!!!OTL: A moja Marysiu gdzieś gębę podziała
+!!!source: DWOK77
+!!!id: 77271
+!!!signature: 7727100000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8cc
+8cc
+4cc
+=2
+8b-
+4dd
+8dd
+=3
+8ff
+8ff
+4ee-
+=4
+8dd
+4ff
+8dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+4cc
+=6
+8b-
+4dd
+8dd
+=7
+8ff
+8ff
+8ee-
+8a
+=8
+4.b-
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 148
+!!!ONB: Converted on 2024/12/26 with esac2hum

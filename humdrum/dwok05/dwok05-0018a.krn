@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK05-K0018a-zydzie_zydzie_mesyjasz_sie_rodzi.krn
+!!!OTL: Zydzie zydzie Mesyjasz sie rodzi
+!!!source: DWOK05
+!!!id: K0018a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{2gg
+4ee
+=2
+2gg
+4ee
+=3
+8ee
+8gg
+4ff
+4ee
+=4
+4dd
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{8gg
+8gg
+4gg
+4ee
+=6
+8gg
+8gg
+4gg
+4ee
+=7
+8ee
+8gg
+4ff
+4ee
+=8
+4dd
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 212} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 212}
+!!!page: 212
+!!!ONB: Converted on 2024/12/26 with esac2hum

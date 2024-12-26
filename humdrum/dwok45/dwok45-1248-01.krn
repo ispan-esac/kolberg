@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK45124800001-lipniczanie_jaworzanie.krn
+!!!OTL: Lipniczanie, jaworzanie
+!!!source: DWOK45
+!!!id: 451248
+!!!signature: 45124800001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+4r
+{12g
+12a
+12b
+4cc
+=
+12dd
+12cc
+12dd
+8ee
+8dd
+4cc
+=1
+8ff#
+8gg
+4aa
+4gg
+=2
+8ff#
+8cc
+2dd}
+!!LO:LB:g=esac
+=
+{8ff
+8ee
+12dd
+12cc
+12dd
+4ee
+=3
+8dd
+8b
+4g
+4e-
+=4
+8b
+8cc
+4dd
+4b
+=5
+8g
+8a
+2g}
+!!LO:LB:g=esac
+=6
+{8ff
+8ee
+4dd
+4dd
+=7
+8dd
+8b
+4g
+4e-
+=8
+8b
+8cc
+4dd
+4b
+=9
+8g
+8a
+2g}
+==
+*-
+!!!ONB: tekst niezgodny z melodią, drugi zapis z teki 43/1352 k. 112 zaginął - odpis J. Majchrzaka: tylko tekst
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 115} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

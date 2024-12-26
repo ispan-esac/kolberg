@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK5307000000-ej_mergiala_kur_buvaj.krn
+!!!OTL: Ej, mergiała, kur buvaj?
+!!!source: DWOK53
+!!!id: 53070
+!!!signature: 5307000000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4a
+4b
+8cc
+8b
+4a
+=2
+8dd
+8cc
+8b
+8cc
+4a}
+4r
+!!LO:LB:g=esac
+=3
+{4cc
+4dd
+4ee
+8ff
+8dd
+=4
+4.ee
+8dd
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{4ee
+4ff
+8ee
+8dd
+8cc
+8b
+=6
+4cc
+8b
+8cc
+4a}
+4r
+!!LO:LB:g=esac
+=7
+{4cc
+4ee
+8dd
+8cc
+8b
+8cc
+=8
+2a
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 219} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 219}
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

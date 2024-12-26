@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK57200200000-ach_ja_bydna_maty.krn
+!!!OTL: Ach, ja bydna maty
+!!!source: DWOK57
+!!!id: 572002
+!!!signature: 57200200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8g
+4a
+4a
+=2
+8g
+8b-
+2a
+=3
+8g
+8a
+4.g
+8f
+=4
+4e
+2f}
+!!LO:LB:g=esac
+=5
+{8f
+8g
+4a
+4a
+=6
+8g
+8b-
+2a
+=7
+8g
+8a
+4.g
+8f
+=8
+4e
+2f}
+!!LO:LB:g=esac
+=9
+{8f
+8g
+4a
+4a
+=10
+8g
+8f
+4.g
+8a
+=11
+8f
+8g
+4a
+4a
+=12
+8g
+8f
+4.g
+8a}
+!!LO:LB:g=esac
+=13
+{8f
+8f
+4.f
+8d
+=14
+4d
+2a
+=15
+8g
+8a
+4.g
+8f
+=16
+8e
+2f}
+8r
+==
+*-
+!!!ONB: Wariant t. 2 i 6: 2__3__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1054
+!!!ONB: Converted on 2024/12/26 with esac2hum

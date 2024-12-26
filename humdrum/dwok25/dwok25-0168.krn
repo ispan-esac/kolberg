@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK2516800000-a_kiedy_ja_gnalam_przez_bor.krn
+!!!OTL: A kiedy ja gnałam przez bór
+!!!source: DWOK25
+!!!id: 25168
+!!!signature: 2516800000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16ff#
+16ee
+4gg
+=2
+8ff#
+8ee
+8dd
+=3
+16ff#
+16aa
+4gg
+=4
+8ee
+8dd
+8a}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8ee
+=6
+16dd
+16cc
+8b
+8a
+=7
+16b
+16dd
+4cc
+=8
+8b
+8a
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 71} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 71}
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum

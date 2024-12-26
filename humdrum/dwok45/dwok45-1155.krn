@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK45115500000-leciala_gasecka_leciala.krn
+!!!OTL: Leciała, gąsecka, leciała
+!!!source: DWOK45
+!!!id: 451155
+!!!signature: 45115500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8e
+4.g
+=2
+8e
+8g
+8a
+8g
+=3
+8ee
+4.ee
+=4
+8ff
+8ee
+8dd
+8cc
+=5
+8dd
+4.dd
+=6
+8cc
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{8e
+4.g
+=8
+8e
+8g
+8a
+8g
+=9
+8ee
+4.ee
+=10
+8ff
+8ee
+4dd
+=11
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 83-84} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, pp. 83-84}
+!!!page: 83-84
+!!!ONB: Converted on 2024/12/26 with esac2hum

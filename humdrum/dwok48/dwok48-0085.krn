@@ -1,0 +1,110 @@
+!!!!SEGMENT: DWOK4808500000-posluchajcie_panieneczki.krn
+!!!OTL: Posłuchajcie, panieneczki
+!!!source: DWOK48
+!!!id: 48085
+!!!signature: 4808500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16cc
+16ee
+8ee
+8ee
+=2
+16dd
+16dd
+8ee
+16cc
+16b
+=3
+16cc
+16ee
+8ee
+8ee
+=4
+4dd
+8b
+=5
+16cc
+16b
+8e
+8g#
+=6
+4a}
+8r
+!!LO:LB:g=esac
+=7
+{16cc
+16ee
+8ee
+8ee
+=8
+16dd
+16dd
+8ff#
+16cc
+16b
+=9
+16cc
+16ee
+8ee
+8ee
+=10
+4dd
+8b
+=11
+16cc
+16b
+8e
+8g#
+=12
+4a}
+8r
+!!LO:LB:g=esac
+=13
+{16a
+16cc
+8b
+8cc
+=14
+16dd
+16dd
+8.ee
+16cc
+=15
+16a
+16cc
+8b
+8cc
+=16
+16dd
+16gg
+8.ee
+16cc}
+!!LO:LB:g=esac
+=17
+{16cc
+16b
+8e
+8g#
+=18
+4a
+8cc
+=19
+16cc
+16b
+8.ee
+16g#
+=20
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 145-146} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, pp. 145-146}
+!!!page: 145-146
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK06067200001-powiadaja_ludzie_i_coz_im_to_szkodzi.krn
+!!!OTL: Powiadaja ludzie i coz im to szkodzi
+!!!source: DWOK06
+!!!id: K0672
+!!!signature: 06067200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+4g
+=2
+16b
+16a
+4a
+16a
+16g#
+=3
+8a
+16b
+16cc
+8.f#
+16a
+=4
+8g
+4b
+16b
+16a#}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+16cc#
+16dd
+8g
+8b
+=6
+16b
+16a
+4a
+16a
+16g#
+=7
+16a
+16b
+16cc
+16a
+8f#
+8a
+=8
+8g
+4b
+8g}
+!!LO:LB:g=esac
+=9
+{8g
+8gg
+8.gg
+16ff#
+=10
+16ff#
+16ee
+4ee
+8ee
+=11
+8ee
+8gg
+8cc
+8ee
+=12
+16ee
+16dd
+4dd
+8cc}
+!!LO:LB:g=esac
+=13
+{16b
+16cc
+16cc#
+16dd
+8g
+8b
+=14
+16b
+16a
+4a
+16a
+16g#
+=15
+16a
+16b
+16cc
+16a
+8.f#
+16a
+=16
+8g
+4b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=444 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 418} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 418}
+!!!page: 418
+!!!ONB: Converted on 2024/12/26 with esac2hum

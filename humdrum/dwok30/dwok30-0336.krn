@@ -1,0 +1,39 @@
+!!!!SEGMENT: DWOK3033600000-prodaj_mylyj_czobany.krn
+!!!OTL: Prodaj mylyj czobany
+!!!source: DWOK30
+!!!id: 30336
+!!!signature: 3033600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16cc
+8.ee
+16ee
+16ff
+8ee
+=2
+16cc
+8.ee
+8ee
+8ee
+=3
+16dd
+8.cc
+16b
+16g#
+8a
+=4
+4dd
+4cc
+=5
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 182} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 182}
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

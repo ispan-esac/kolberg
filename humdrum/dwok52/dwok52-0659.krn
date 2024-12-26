@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK5265900000-szczera_milosc_na_swiecie.krn
+!!!OTL: Szczera miłość na świecie
+!!!source: DWOK52
+!!!id: 52659
+!!!signature: 5265900000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+8gg
+8gg
+16gg
+16ff#
+=2
+8gg
+8aa
+4ff
+=3
+8dd
+8dd
+8ff
+8aa
+=4
+8aa
+8gg
+4gg}
+!!LO:LB:g=esac
+=5
+{8ee
+8gg
+8gg
+16gg
+16ff#
+=6
+8gg
+8aa
+4ff
+=7
+8ff
+8aa
+8ff
+8dd
+=8
+8dd
+8cc
+4cc}
+!!LO:LB:g=esac
+=9
+{8gg
+8aa
+8ff
+8dd
+=10
+8cc
+8cc
+8ee
+8gg
+=11
+8gg
+8aa
+8ff
+8dd
+=12
+8dd
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=484 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 419} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 419}
+!!!page: 419
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5247900002-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK52
+!!!id: 52479
+!!!signature: 5247900002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8dd
+8ee
+8ff
+8ee
+=2
+8gg
+4ff
+16dd
+16b
+=3
+2cc}
+!!LO:LB:g=esac
+=4
+{4ee
+4gg
+=5
+8ff
+8aa
+[4gg}
+=6
+2gg]
+!!LO:LB:g=esac
+=7
+{8gg
+8ee
+8ff
+8aa
+=8
+8aa
+8gg
+4gg
+=9
+4ee
+8dd
+8cc
+=10
+4dd
+8b
+8dd
+=11
+2cc}
+==
+*-
+!!!ONB: Druga wersja melodii, Do domu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 302} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 302}
+!!!page: 302
+!!!ONB: Converted on 2024/12/26 with esac2hum

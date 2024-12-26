@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK25243b0001-u_mojej_matki_przed_samemi_wrotki.krn
+!!!OTL: U mojej matki przed samemi wrotki
+!!!source: DWOK25
+!!!id: 25243b
+!!!signature: 25243b0001
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4cc
+8dd
+8cc
+4b
+4a
+=2
+8cc
+8ee
+8dd
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=3
+{4cc
+8dd
+8cc
+4dd
+4g
+=4
+8g
+8a
+8b
+8cc
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8a
+4g#
+4a
+=6
+1e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 106} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 106}
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

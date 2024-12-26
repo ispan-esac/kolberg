@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK3908500002-jak_sie_bedziesz_zenic.krn
+!!!OTL: Jak się będziesz żenić
+!!!source: DWOK39
+!!!id: 39085
+!!!signature: 3908500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8g
+8a
+=2
+8b
+4b
+=3
+16a
+16a
+8cc
+8f#
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8d
+8g
+8a
+=6
+8b
+4b
+=7
+16a
+16a
+8cc
+8f#
+=8
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{16cc
+16dd
+8ee
+8ee
+=10
+16dd
+16b
+8g
+8g
+=11
+16cc
+16cc
+8a
+8a
+=12
+16g
+16f#
+16g
+16b
+8dd}
+!!LO:LB:g=esac
+=13
+{16cc
+16dd
+8ee
+8ee
+=14
+16dd
+16b
+8g
+8g
+=15
+16cc
+16cc
+8a
+8a
+=16
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 141-142} @EN{Oskar Kolberg Complete Works 39: Pomerania, pp. 141-142}
+!!!page: 141-142
+!!!ONB: Converted on 2024/12/26 with esac2hum

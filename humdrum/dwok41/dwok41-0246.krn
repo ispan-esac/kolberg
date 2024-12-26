@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4142600000-jesdem_sobie_chlopak_chwat.krn
+!!!OTL: Jesdem sobie chłopak chwat
+!!!source: DWOK41
+!!!id: 41246
+!!!signature: 4142600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8d
+4b
+4g
+=2
+8f#
+8f#
+2g}
+!!LO:LB:g=esac
+=3
+{8d
+8d
+4b
+4g
+=4
+8f#
+8f#
+2g}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+4b
+4dd
+=6
+8cc
+8b
+2g}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+4b
+4d
+=8
+8f#
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=313 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 230} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 230}
+!!!page: 230
+!!!ONB: Converted on 2024/12/26 with esac2hum

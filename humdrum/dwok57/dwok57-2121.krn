@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK57212100000-jechal_kozak_zaporozski.krn
+!!!OTL: Jechał kozak zaporożski
+!!!source: DWOK57
+!!!id: 572121
+!!!signature: 57212100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16d
+8g
+8b
+=2
+16g
+16d
+8g
+8b
+=3
+16g
+16g
+8.a
+16g
+=4
+8g
+4f#}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+8cc
+=6
+16ee
+16dd
+8.dd
+16b
+=7
+16dd
+16dd
+8cc
+8cc
+=8
+8b
+4dd}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+8a
+8cc
+=10
+16ee
+16dd
+8.gg
+16b
+=11
+16dd
+16dd
+8cc
+8f#
+=12
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1180
+!!!ONB: Converted on 2024/12/26 with esac2hum

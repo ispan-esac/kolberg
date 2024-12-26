@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK3652900002-kowala_zuzula_z_pod_kalynonki.krn
+!!!OTL: Kowała zuzula z pod kałynońki
+!!!source: DWOK36
+!!!id: 36529
+!!!signature: 3652900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16cc
+8cc
+8cc
+=2
+4b
+8g
+=3
+8cc
+8cc
+8ee
+=4
+4dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+=6
+4b
+8g
+=7
+8a
+8cc
+8f#
+=8
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 347
+!!!ONB: Converted on 2024/12/26 with esac2hum

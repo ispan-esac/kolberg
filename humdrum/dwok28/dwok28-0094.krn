@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2809400000-zakukala_kukawenka.krn
+!!!OTL: Zakukała kukaweńka
+!!!source: DWOK28
+!!!id: 28094
+!!!signature: 2809400000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=1
+{8g#
+8a
+4b
+4b
+=2
+4ee
+8dd#
+8b
+4a
+=3
+4b
+4dd#
+4ee}
+!!LO:LB:g=esac
+=4
+{8ee
+8ff#
+4ee
+4b
+=5
+4ee
+8dd#
+8b
+4a
+=6
+8g#
+8g#
+2a}
+!!LO:LB:g=esac
+=7
+{8g#
+8a
+4b
+4b
+=8
+4ee
+8dd#
+16b
+16cc
+4a
+=9
+4b
+4dd#
+4ee}
+!!LO:LB:g=esac
+=10
+{8ee
+8ff#
+4ee
+4b
+=11
+4ee
+16ee
+16dd#
+16b
+16cc
+4a
+=12
+8g#
+8g#
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 158} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 158}
+!!!page: 158
+!!!ONB: Converted on 2024/12/26 with esac2hum

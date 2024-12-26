@@ -1,0 +1,117 @@
+!!!!SEGMENT: DWOK2403800001-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK24
+!!!id: 24038
+!!!signature: 2403800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8b
+=2
+8g
+16b
+16g
+8b
+=3
+8dd
+16b
+16dd
+8ee
+=4
+4cc
+16b
+16dd}
+!!LO:LB:g=esac
+=5
+{8cc
+16a
+16f#
+8a
+=6
+16d
+16f#
+16a
+16f#
+8a
+=7
+16cc
+16b
+16dd
+16cc
+16b
+16a
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16cc
+16ee
+16ee
+16cc
+8ee
+=10
+16cc
+16ee
+16ee
+16cc
+8ee
+=11
+16gg
+16ff#
+16aa
+16gg
+16ff#
+16ee
+=12
+4.dd}
+!!LO:LB:g=esac
+=13
+{8gg
+8b
+8b
+=14
+8b
+8dd
+8dd
+=15
+8dd
+16b
+16dd
+8ee
+=16
+4cc
+16b
+16dd}
+!!LO:LB:g=esac
+=17
+{8cc
+16a
+16f#
+8a
+=18
+16d
+16f#
+16a
+16f#
+8a
+=19
+16cc
+16b
+16dd
+16cc
+16b
+16a
+=20
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 107} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

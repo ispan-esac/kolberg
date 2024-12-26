@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2640600000-poszla_kasia_po_wode.krn
+!!!OTL: Poszła Kasia po wodę
+!!!source: DWOK26
+!!!id: 26406
+!!!signature: 2640600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.dd
+8b
+8dd
+8b
+=2
+8cc
+8ee
+4cc
+4r
+=3
+8cc
+8ee
+4dd
+8cc
+8b
+=4
+8a
+8a
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8b
+8g
+8a
+8cc
+=6
+8b
+16b
+16a
+8b
+8g
+8a
+8b
+=7
+8cc
+8ee
+4dd
+8cc
+8b
+=8
+8a
+8f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 284
+!!!ONB: Converted on 2024/12/26 with esac2hum

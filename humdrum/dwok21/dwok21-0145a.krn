@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK21145a0000-byl_tu_mazur_bardzo_bogaty.krn
+!!!OTL: Był tu Mazur bardzo bogaty
+!!!source: DWOK21
+!!!id: 21145a
+!!!signature: 21145a0000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4g
+8g
+8b-
+=2
+4cc
+4r
+=3
+8ee-
+8dd
+8g
+8b-
+=4
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8b-
+8g
+8b-
+=6
+4cc
+4r
+=7
+8ee-
+8dd
+8g
+8b-
+=8
+4cc}
+4r
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8cc
+8cc
+=10
+8b-
+8g
+8.cc
+16b-
+=11
+8a
+8cc
+8cc
+8cc
+=12
+8b-
+8g
+8.cc
+16a}
+!!LO:LB:g=esac
+=13
+{8f
+8g
+8a
+8b-
+=14
+8cc
+8cc
+8cc
+8ff
+=15
+8dd
+8dd
+8g
+8b
+=16
+4cc}
+4r
+==
+*-
+!!!ONB: U Kolberga dwie pieśni z numerem 145, dodano litery wariantu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 70} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

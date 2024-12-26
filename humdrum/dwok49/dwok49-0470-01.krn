@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4947000001-juz_misiaczok_nad_wodamy.krn
+!!!OTL: Już misiaczok nad wodamy
+!!!source: DWOK49
+!!!id: 49470
+!!!signature: 4947000001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8gg
+8ff
+=2
+8ee
+4dd
+=3
+4cc
+8cc}
+!!LO:LB:g=esac
+=4
+{16ee
+16ff
+8gg
+8ee
+=5
+8gg
+4ff
+=6
+8gg
+4ee}
+!!LO:LB:g=esac
+=7
+{8gg
+8gg
+8ff
+=8
+8ee
+4dd
+=9
+4.cc
+=10
+8cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=532 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 442} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 442}
+!!!page: 442
+!!!ONB: Converted on 2024/12/26 with esac2hum

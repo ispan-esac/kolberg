@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2223700000-oj_u_nasego_pana.krn
+!!!OTL: Oj u nasego pana
+!!!source: DWOK22
+!!!id: 22237
+!!!signature: 2223700000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8g
+8b-
+8dd
+=2
+16.cc#
+32dd
+8ee
+8dd
+=3
+8dd
+8cc#
+8dd
+=4
+16.cc
+32b-
+16g
+16f#
+8d}
+!!LO:LB:g=esac
+=5
+{8g
+8b-
+8f#
+=6
+16g
+16b
+8dd
+8a
+=7
+8g
+8b-
+8a
+=8
+16.cc
+32b-
+16g
+16f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 138} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 138}
+!!!page: 138
+!!!ONB: Converted on 2024/12/26 with esac2hum

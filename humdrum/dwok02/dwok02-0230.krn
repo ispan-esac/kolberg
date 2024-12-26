@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK02-K0230-oj_wieza_mnie_wieza.krn
+!!!OTL: Oj wieza mnie wieza
+!!!source: DWOK02
+!!!id: K0230
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8b
+4f#
+8g
+=3
+8b
+16b
+16a
+8b
+8cc
+=4
+8dd
+4.dd
+=5
+8b
+16b
+16a
+8b
+8cc
+=6
+8dd
+4.dd}
+!!LO:LB:g=esac
+=7
+{8dd
+8ee
+8.cc
+16a
+=8
+8b
+4.dd
+=9
+8dd
+8dd
+8cc
+8a
+=10
+8f#
+4.g}
+!!LO:LB:g=esac
+=11
+{8d
+16g
+16f#
+8g
+8a
+=12
+16b
+16dd
+4.dd
+=13
+16dd
+16cc#
+16dd
+16ee
+8cc
+8a
+=14
+8f#
+4g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 193-194} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 193-194}
+!!!page: 193-194
+!!!ONB: Converted on 2024/12/26 with esac2hum

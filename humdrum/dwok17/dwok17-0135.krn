@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1713500000-oj_niech_mnie_matka_bije.krn
+!!!OTL: Oj niech mnie matka bije
+!!!source: DWOK17
+!!!id: 17135
+!!!signature: 1713500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8ff
+8ff
+8ee
+=2
+16cc
+16ee
+8ff
+8dd}
+!!LO:LB:g=esac
+=3
+{8ff
+8ff
+8ee
+=4
+16cc
+16a
+8g
+8b-}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8ee
+=6
+16dd
+32ee
+32ff
+8dd
+8b-}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+8ee
+=8
+16dd
+32cc
+32a
+8g
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 46} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

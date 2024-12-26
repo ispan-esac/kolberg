@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK57123300002-zalitaw_zalitau_sywy_sokolonko.krn
+!!!OTL: Zalitaw, zalitau sywy sokołońko
+!!!source: DWOK57
+!!!id: 571233
+!!!signature: 57123300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+{8g
+8a
+8b
+8cc
+4.dd
+24cc
+24b
+24a
+=1
+8b
+8a
+16g
+16f#
+8e
+4d
+4d}
+!!LO:LB:g=esac
+=
+{8g
+8a
+16cc
+16b
+8a
+4dd
+12cc
+12b
+12a
+=2
+[4a
+8a]
+8g
+16f#
+16e
+8d}
+4r
+!!LO:LB:g=esac
+=
+{8g
+8a
+8b
+8cc
+4.dd
+24cc
+24b
+24a
+=3
+16cc
+16b
+8a
+16g
+16f#
+16e
+16ff#
+4d
+4d}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+16cc
+16b
+8a
+16b
+16cc
+8b
+8g
+8f#
+=5
+2g
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 348
+!!!ONB: Converted on 2024/12/26 with esac2hum

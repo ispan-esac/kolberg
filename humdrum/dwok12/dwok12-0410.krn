@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK1241000000-pod_krakowem_bialy_kamien.krn
+!!!OTL: Pod Krakowem biały kamień
+!!!source: DWOK12
+!!!id: 12410
+!!!signature: 1241000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4b
+8cc
+=2
+8.dd
+16cc
+8b
+=3
+4a
+8d
+=4
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{4b
+8cc
+=6
+8.dd
+16cc
+8b
+=7
+4a
+8d
+=8
+8f#
+4g}
+!!LO:LB:g=esac
+=9
+{8b
+8g
+8b
+=10
+16cc
+16b
+4a
+=11
+16g
+16f#
+8e
+8a
+=12
+4a
+8a}
+!!LO:LB:g=esac
+=13
+{4d
+8e
+=14
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 211-212} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 211-212}
+!!!page: 211-212
+!!!ONB: Converted on 2024/12/26 with esac2hum

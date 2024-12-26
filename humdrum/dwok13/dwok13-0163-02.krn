@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1316300002-do_boru_nie_pojde.krn
+!!!OTL: Do boru nie pójdę
+!!!source: DWOK13
+!!!id: 13163
+!!!signature: 1316300002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16cc#
+4ee
+=
+24a
+24g#
+24b
+8dd
+8cc#
+=2
+16a
+16cc#
+8b
+16b
+16g#
+=3
+16a
+16f#
+4e}
+!!LO:LB:g=esac
+=4
+{16a
+16cc#
+8b
+8g#
+=5
+16a
+16f#
+8e
+8g#
+=6
+16a
+16cc#
+16b
+16cc#
+16dd
+16b
+=7
+16a
+16f#
+4e}
+==
+*-
+!!!ONB: Mazurek
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 89} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 89}
+!!!page: 89
+!!!ONB: Converted on 2024/12/26 with esac2hum

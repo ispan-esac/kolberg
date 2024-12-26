@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1221400000-rybka_wode_zamacila.krn
+!!!OTL: Rybka wodę zamąciła
+!!!source: DWOK12
+!!!id: 12214
+!!!signature: 1221400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+8dd
+16b-
+16a
+=2
+16g
+16g
+8e
+8c
+=3
+16e
+16f
+8a
+8b-
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{16.a
+32a
+8b-
+8a
+=6
+16g
+16g
+8e
+8c
+=7
+16.a
+32a
+8g
+8e
+=8
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 111} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK5007500000-a_skadzes_ty_panie_bracie_czy_nie_z_kalamajki.krn
+!!!OTL: A skądżeś ty, panie bracie, czy nie z Kałamajki
+!!!source: DWOK50
+!!!id: 50075
+!!!signature: 5007500000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8g
+8g
+8dd
+8dd
+=2
+8dd
+8dd
+16b-
+16a
+8g
+=3
+8g
+8cc
+8cc
+8cc
+=4
+4dd
+4b-}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b-
+8g
+8g
+=6
+16g
+16a
+8b-
+8g
+8f#
+=7
+8g
+8a
+8b-
+8f#
+=8
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+8b-
+8g
+8g
+=10
+16g
+16a
+8b-
+8g
+8f#
+=11
+8g
+8a
+8b-
+8f#
+=12
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 32} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 32}
+!!!page: 32
+!!!ONB: Converted on 2024/12/26 with esac2hum

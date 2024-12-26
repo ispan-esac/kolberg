@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3628600000-temna_nyczka_newydnaja.krn
+!!!OTL: Temna nyczka newydnaja
+!!!source: DWOK36
+!!!id: 36286
+!!!signature: 3628600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8cc
+=2
+8g
+8cc
+8b
+8a
+=3
+4e
+4e
+=4
+4.ee
+8cc
+=5
+8dd
+8cc
+8b
+8a
+=6
+2g}
+!!LO:LB:g=esac
+=7
+{8a
+8b
+8cc
+8cc
+=8
+8g
+8cc
+8b
+8a
+=9
+4e
+4d
+=10
+4g
+8e
+8cc
+=11
+8b
+8g#
+8a
+8a
+=12
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK3314200000-wytaj_wytaj_swatyj_korowaju.krn
+!!!OTL: Wytaj wytaj śwatyj korowaju
+!!!source: DWOK33
+!!!id: 33142
+!!!signature: 3314200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+8dd
+8b
+8g
+=3
+8a
+8dd
+8ee
+=4
+8dd
+8b
+8f#
+=5
+[4.g
+=6
+8g]
+8g}
+8r
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8cc
+=8
+8dd
+4b
+=9
+8a
+8dd
+8ee
+=10
+8dd
+8b
+8f#
+=11
+[4.g
+=12
+8g]
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 249} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 249}
+!!!page: 249
+!!!ONB: Converted on 2024/12/26 with esac2hum

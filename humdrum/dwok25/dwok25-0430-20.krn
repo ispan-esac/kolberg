@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2543000020-moja_matus_bardzo_dziwna-instrumentalna.krn
+!!!OTL: Moja matuś bardzo dziwna-Instrumentalna
+!!!source: DWOK25
+!!!id: 25430
+!!!signature: 2543000020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc
+8ee
+16b
+16dd
+=2
+16a
+16cc
+8ee
+16b
+16dd
+=3
+16a
+16cc
+8ee
+16b
+16dd
+=4
+16b
+16g
+8d
+8f#}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8g
+16b
+16dd
+=6
+16a
+16cc
+8ee
+16cc
+16a
+=7
+8f#
+8g
+16b
+16dd
+=8
+16b
+16g
+8d
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 183} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 183}
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

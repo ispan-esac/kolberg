@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK35A-35A00600002-oj_juz_to_w_lesie_i_drewo.krn
+!!!OTL: Oj już to w lesie i drewo
+!!!source: DWOK35A
+!!!id: 35A006
+!!!signature: 35A00600002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8g
+8g
+8cc
+8cc
+8dd
+8cc
+=2
+8cc
+8ee
+8ff
+8ee
+4gg
+=3
+8ff
+8ff
+2dd}
+!!LO:LB:g=esac
+=4
+{8ff
+8ff
+8ee
+8dd
+8cc
+8ee
+=5
+8g
+8g
+8cc
+8b
+8a
+8g
+=6
+8g
+8b
+8cc
+8b
+4dd
+=7
+8cc
+8cc
+2a}
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=54 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 18-19} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, pp. 18-19}
+!!!page: 18-19
+!!!ONB: Converted on 2024/12/26 with esac2hum

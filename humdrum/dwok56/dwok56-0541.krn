@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK5654100000-czerwonaja_kalynonka.krn
+!!!OTL: Czerwonaja kałynońka
+!!!source: DWOK56
+!!!id: 56541
+!!!signature: 5654100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*MX
+=1
+{8cc
+8b
+8a
+8f#
+8g
+8b
+4cc
+4b}
+!!LO:LB:g=esac
+=2
+{4dd
+8a
+4cc
+4b
+4a
+4g
+=3
+8cc
+8b
+8a
+8g
+8b
+4cc
+8b}
+!!LO:LB:g=esac
+=4
+{4cc
+8b
+8a
+8f#
+4g
+4.a
+8f#
+2d
+=5
+8cc
+8b
+8a
+8f#
+8g
+8b
+4cc
+8b
+8a
+4f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=490 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 386} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 386}
+!!!page: 386
+!!!ONB: Converted on 2024/12/26 with esac2hum

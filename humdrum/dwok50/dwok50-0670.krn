@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5067000000-instrumentalna_-_marsz.krn
+!!!OTL: Instrumentalna - Marsz
+!!!source: DWOK50
+!!!id: 50670
+!!!signature: 5067000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8d
+8g
+8a
+=2
+4b
+8a
+8f#
+=3
+8g
+8d
+8g
+8a
+=4
+4b
+8a
+8f#}
+!!LO:LB:g=esac
+=5
+{8.b
+16a
+8cc
+8b
+=6
+8a
+8g
+8a
+8b
+=7
+8d
+8d
+8e
+8f#
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=439 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 406} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 406}
+!!!page: 406
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK5307400002-is_pasiszero_pasibalnojo.krn
+!!!OTL: Is pasiszero, pasibałnojo
+!!!source: DWOK53
+!!!id: 53074
+!!!signature: 5307400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4a
+4.dd
+8cc#
+=2
+2.dd
+4a}
+!!LO:LB:g=esac
+=3
+{8a
+8g
+8f#
+8e
+4.e
+8d
+=4
+4g
+4a
+4.dd
+8cc#}
+!!LO:LB:g=esac
+=5
+{4dd
+8a
+8f#
+2a
+=6
+2.g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 223} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 223}
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

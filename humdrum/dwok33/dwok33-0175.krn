@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3317500000-u_naszoj_marysi_terem_budujut.krn
+!!!OTL: U naszoj Marysi terem budujut
+!!!source: DWOK33
+!!!id: 33175
+!!!signature: 3317500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8cc
+16b
+16g
+=2
+8a
+4b
+=3
+4.cc
+=4
+16a
+16g
+[4cc
+=5
+8cc]
+8b
+8f#
+=6
+4g}
+8r
+!!LO:LB:g=esac
+=7
+8r
+{8d
+8g
+=8
+8a
+4b
+=9
+4.cc
+=10
+16a
+16g
+[4cc
+=11
+8cc]
+4b
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 263} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 263}
+!!!page: 263
+!!!ONB: Converted on 2024/12/26 with esac2hum

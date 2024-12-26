@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK7704700000-piewajze_slowiku.krn
+!!!OTL: Śpiewajże słowiku
+!!!source: DWOK77
+!!!id: 77047
+!!!signature: 7704700000
+**kern
+*clefG2
+*k[]
+*C:
+*M9/8
+=1
+{8b
+8cc
+8ee
+4.gg
+8dd
+4cc
+=2
+8b
+8g
+8a
+4g
+8b
+4dd
+8cc}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+8cc
+4.ee
+8dd
+4cc
+=4
+8b
+8dd
+4a
+8g
+8b
+4dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

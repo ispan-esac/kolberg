@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1246200000-czem_noladni_graja_do_domu.krn
+!!!OTL: Czem noładni grają do domu
+!!!source: DWOK12
+!!!id: 12462
+!!!signature: 1246200000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8g
+8dd
+8dd
+=2
+8cc#
+8dd
+8dd
+=3
+8g
+8dd
+8dd
+=4
+8cc#
+8dd
+8dd}
+!!LO:LB:g=esac
+=5
+{16b-
+16a
+8g
+8dd
+=6
+16a
+16f#
+16d
+16f#
+16a
+16cc
+=7
+16b-
+16a
+8g
+8dd
+=8
+16b-
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 239} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 239}
+!!!page: 239
+!!!ONB: Converted on 2024/12/26 with esac2hum

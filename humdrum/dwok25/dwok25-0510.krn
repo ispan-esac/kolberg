@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2551000000-oj_dana_moja_dana.krn
+!!!OTL: Oj dana moja dana
+!!!source: DWOK25
+!!!id: 25510
+!!!signature: 2551000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16b
+16dd
+8ff
+16ff
+16ee
+=2
+8cc
+16cc
+16ee
+8dd
+=3
+16b
+16dd
+8ff
+8ee
+=4
+8cc
+16cc
+16b
+8g}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8a
+16a
+16g
+=6
+16b
+16cc
+8ee
+16dd
+16cc
+=7
+16b
+16dd
+8a
+8a
+=8
+16b
+16cc
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 203} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 203}
+!!!ONB: Converted on 2024/12/26 with esac2hum

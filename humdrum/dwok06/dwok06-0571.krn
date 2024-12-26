@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK06-K0571-kaz_przyniesc_wina_moj_grzegorzu_mily.krn
+!!!OTL: Kaz przyniesc wina moj Grzegorzu mily
+!!!source: DWOK06
+!!!id: K0571
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8b
+8cc
+=2
+16dd
+16b
+4g
+=3
+16g
+16g
+8ff
+8ff
+=4
+16ff
+16ee
+4ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8cc
+=6
+16dd
+16b
+4g
+=7
+16g
+16g
+8ff
+8ff
+=8
+16ff
+16ee
+4ee}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8aa
+=10
+16aa
+16gg
+4gg
+=11
+16g
+16g
+8g
+8ff
+=12
+16ff
+16ee
+4ee}
+!!LO:LB:g=esac
+=13
+{16ff
+16dd
+4dd
+=14
+16ee
+16cc
+4cc
+=15
+8a
+8ff
+8dd
+=16
+16b
+16dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=351 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 325-326} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 325-326}
+!!!page: 325-326
+!!!ONB: Converted on 2024/12/26 with esac2hum

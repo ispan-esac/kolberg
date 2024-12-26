@@ -1,0 +1,125 @@
+!!!!SEGMENT: DWOK57206300002-o_jak_czud_welyki.krn
+!!!OTL: O, jak czud wełyki
+!!!source: DWOK57
+!!!id: 572063
+!!!signature: 57206300002
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{16cc
+16b
+8a
+16cc
+16b
+16a
+16g#
+=2
+8.a
+16g#
+16g#
+16e
+8r
+=3
+16cc
+16b
+8dd
+16cc
+16b
+16a
+16g#
+=4
+*M3/4
+4a}
+!!LO:LB:g=esac
+=-
+{8g#
+8g#
+8g#
+8g#
+=
+!!UNCATEGORIZED MEASURE
+8a
+16g#
+16e
+8r
+=5
+*M2/4
+16cc
+16b
+8dd
+16cc
+16b
+16a
+16g#
+=
+!!UNCATEGORIZED MEASURE
+4a}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{4cc
+4cc
+8b
+8dd
+4cc
+=6
+*M4/4
+8a
+8cc
+8b
+8a
+8g#
+8e
+4e}
+!!LO:LB:g=esac
+=7
+{4cc
+4cc
+8b
+8dd
+8cc
+16b
+16a
+=8
+4a
+8b
+8a
+8g#
+8e
+4e}
+!!LO:LB:g=esac
+=9
+{4g#
+4e
+8cc
+8b
+8a
+8g#
+=10
+4.a
+8g#
+8g#
+8e
+4r
+=11
+8cc
+8b
+8dd
+8cc
+8cc
+8b
+8a
+8g#
+=12
+2a}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1124-1125
+!!!ONB: Converted on 2024/12/26 with esac2hum

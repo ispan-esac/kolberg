@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4961700002-w_sobotu_piznejko_zachodyt_soniejko.krn
+!!!OTL: W sobotu piznejko zachodyt sóniejko
+!!!source: DWOK49
+!!!id: 49617
+!!!signature: 4961700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8b
+16ee
+16dd
+=
+4cc
+24b
+24a
+24g
+=2
+8cc
+8b
+16a
+16b
+=
+4g
+24f#
+24e
+24d}
+!!LO:LB:g=esac
+=3
+{8b
+8g
+16b
+16g
+=4
+4a
+8a
+=5
+16cc
+16cc
+8g
+8f#
+=6
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=603 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 513} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 513}
+!!!page: 513
+!!!ONB: Converted on 2024/12/26 with esac2hum

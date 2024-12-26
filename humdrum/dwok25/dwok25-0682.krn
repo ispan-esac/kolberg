@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2568200000-szla_szla_szla_nocka_ja_zaszla.krn
+!!!OTL: Szła, szła, szła nocka ją zaszła
+!!!source: DWOK25
+!!!id: 25682
+!!!signature: 2568200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4dd
+4dd
+=2
+8dd
+8ee
+8cc
+8a
+4f#}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+8g
+8b
+4g
+=4
+8d
+8cc
+8cc
+8a
+4f#}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+16g
+16a
+8b
+4g
+=6
+8d
+8cc
+8cc
+8a
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 244} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 244}
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

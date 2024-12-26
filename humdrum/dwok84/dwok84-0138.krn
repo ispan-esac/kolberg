@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK8413800000-u_naszego_mlynarza.krn
+!!!OTL: U naszego młynarza
+!!!source: DWOK84
+!!!id: 84138
+!!!signature: 8413800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8g
+8b
+=2
+4dd
+8ee
+8a
+=3
+4dd
+8dd
+8cc
+=4
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8g
+8b
+=6
+16a
+16g
+8a
+4f#
+=7
+8g
+8g
+8e
+8e
+=8
+8f#
+8a
+4d}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+8b
+8cc
+=10
+4dd
+4dd
+=11
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 142} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 142}
+!!!page: 142
+!!!ONB: Converted on 2024/12/26 with esac2hum

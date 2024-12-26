@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK2019300000-wyjechal_w_pole_krzyknal_na_konie.krn
+!!!OTL: Wyjechał w pole, krzyknął na konie
+!!!source: DWOK20
+!!!id: 20193
+!!!signature: 2019300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16.f
+32a
+8a
+8a
+=2
+4.cc
+=3
+16.ff
+32cc
+8cc
+16b-
+16g
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{16.f
+32a
+16a
+16f
+16a
+16b-
+=6
+4.cc
+=7
+16.ff
+32cc
+8cc
+16b-
+16g
+=8
+4.cc}
+!!LO:LB:g=esac
+=9
+{16.a
+32cc
+16cc
+16b-
+8g
+=10
+16e
+16f
+8a
+8f}
+!!LO:LB:g=esac
+=11
+{16.a
+32cc
+8cc
+16b-
+16g
+=12
+16e
+16f
+8a
+8c
+=13
+16e
+16f
+16a
+16g
+8e
+=14
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 185} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 185}
+!!!page: 185
+!!!ONB: Converted on 2024/12/26 with esac2hum

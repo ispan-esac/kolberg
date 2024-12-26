@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5647300000-treba_druzbi_swyni_pasty.krn
+!!!OTL: Treba drużbi swyni pasty
+!!!source: DWOK56
+!!!id: 56473
+!!!signature: 5647300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8a
+8a
+=2
+8a
+4a
+=3
+8b
+8g#
+8e}
+!!LO:LB:g=esac
+=4
+{16a
+16cc
+8a
+8a
+=5
+8a
+8a
+8g#
+=6
+8b
+4a}
+!!LO:LB:g=esac
+=7
+{16a
+16cc
+8a
+8a
+=8
+8a
+8b
+8g#
+=9
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=446 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 342} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 342}
+!!!page: 342
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK04-K0201a-spadla_z_wisni.krn
+!!!OTL: Spadla z wisni
+!!!source: DWOK04
+!!!id: K0201a
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{4dd
+8dd
+=2
+16dd
+16cc#
+4cc#
+=3
+4ee
+8ee
+=4
+16ee
+16dd
+4dd}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+16dd
+16cc#
+16b
+16a
+=6
+8.b
+16g
+16f#
+16e
+=7
+4a
+8c#
+=8
+16d
+16f#
+4a}
+!!LO:LB:g=esac
+=9
+{16f#
+16a
+16dd
+16cc#
+16b
+16a
+=10
+8.b
+16g
+16f#
+16e
+=11
+4a
+8c#
+=12
+16e
+16d
+4d}
+==
+*-
+!!!ONB: Wariant alternatywny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 106} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 106}
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK5795500002-oj_haju_mij_zelenenkij.krn
+!!!OTL: Oj, haju mij zełeneńkij
+!!!source: DWOK57
+!!!id: 57955
+!!!signature: 5795500002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8a
+8a
+16b
+16cc
+=2
+8ee
+8ee
+8ff#
+8ee
+=3
+16dd
+16cc
+16b
+16a
+8a
+8cc
+=4
+16dd
+16cc
+16b
+16cc
+4a}
+!!LO:LB:g=esac
+=5
+{8e
+8a
+8a
+16b
+16cc
+=6
+16ff
+16ee
+16dd#
+16ee
+8ff
+8ee
+=7
+16ff
+16ee
+16dd
+16ee
+16dd
+16cc
+16b
+16cc
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 152
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK1219400001-jechal_zolnierz_z_wojny.krn
+!!!OTL: Jechał żołnierz z wojny
+!!!source: DWOK12
+!!!id: 12194
+!!!signature: 1219400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8cc
+8cc
+8cc
+8.cc
+16b
+16a
+16g
+=2
+8b
+8b
+8b
+4b
+16a
+16g}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8a
+4dd
+8dd
+=4
+8.g
+16f#
+16g
+16a
+4b
+16a
+16g}
+!!LO:LB:g=esac
+=5
+{4cc
+8ee
+8.cc
+16b
+16a
+16g
+=6
+4b
+8b
+4.b}
+!!LO:LB:g=esac
+=7
+{4a
+8a
+4dd
+8dd
+=8
+4g
+8g
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 99} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 99}
+!!!page: 99
+!!!ONB: Converted on 2024/12/26 with esac2hum

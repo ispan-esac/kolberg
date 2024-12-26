@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK4803100000-kuba_starszy_bracie_kup_mi_czepiec.krn
+!!!OTL: Kuba, starszy bracie, kup mi czepiec
+!!!source: DWOK48
+!!!id: 48031
+!!!signature: 4803100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4a
+2g
+=2
+8a
+8b
+4a
+4g
+=3
+8dd
+8dd
+4cc
+4b
+=4
+4a
+2g}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+4a
+4g
+=6
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 98} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

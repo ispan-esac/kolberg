@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK06-K0078-koziolek_soli.krn
+!!!OTL: Koziolek soli
+!!!source: DWOK06
+!!!id: K0078
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+4ee
+=2
+8ee
+8dd
+4cc
+=3
+8ee
+8ff#
+4gg
+=4
+8gg
+8ee
+4ff}
+!!LO:LB:g=esac
+=5
+{8gg
+8ff
+4ee
+=6
+8ee
+8dd
+4dd
+=7
+8dd
+8cc
+4ee
+=8
+4cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 45} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 45}
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

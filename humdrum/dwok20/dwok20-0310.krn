@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2031000000-przyjechalem_tu_na_rozpleciny.krn
+!!!OTL: Przyjechałem tu na rozpleciny
+!!!source: DWOK20
+!!!id: 20310
+!!!signature: 2031000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8cc
+8dd
+=2
+4.cc
+=3
+8ee
+8dd
+16cc
+16a
+=4
+4.g
+=5
+8a
+8a
+8b
+=6
+16cc
+16b
+4dd
+=7
+8.cc
+16a
+16g}
+16r
+!!LO:LB:g=esac
+=8
+{16g
+16g
+8cc
+8dd
+=9
+4.cc
+=10
+8ee
+8dd
+8dd
+=11
+16cc
+16a
+4g
+=12
+8a
+16a
+16g
+8b
+=13
+16cc
+16b
+4dd
+=14
+8.cc
+16a
+16g}
+16r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 223} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 223}
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

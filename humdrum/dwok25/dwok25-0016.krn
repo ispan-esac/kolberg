@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2501600000-a_ja_takij_panny_nie_chce.krn
+!!!OTL: A ja takij panny nie chcę
+!!!source: DWOK25
+!!!id: 25016
+!!!signature: 2501600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8b
+8g
+=2
+16b
+16dd
+8ee
+8cc
+=3
+16cc
+16ee
+8cc
+8a
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8b
+8dd
+=6
+16ee
+16ee
+8gg
+8ee
+=7
+16cc
+16ee
+8cc
+8a
+=8
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=32 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 7} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 7}
+!!!page: 7
+!!!ONB: Converted on 2024/12/26 with esac2hum

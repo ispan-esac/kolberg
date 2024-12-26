@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK3613600000-tupu_tupu_po_pomosci.krn
+!!!OTL: Tupu tupu po pomości
+!!!source: DWOK36
+!!!id: 36136
+!!!signature: 3613600000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8cc#
+8ee
+8b
+8ee
+=2
+8cc#
+8ee
+8b
+8ee
+=3
+8cc#
+8ee
+8b
+8ee
+=4
+8cc#
+8ee
+8b
+8ee}
+!!LO:LB:g=esac
+=5
+{8cc#
+8ee
+8b
+8ee
+=6
+8cc#
+8ee
+8b
+8ee
+=7
+8cc#
+8ee
+8b
+8ee
+=8
+8cc#
+8ee
+8b
+8ee}
+!!LO:LB:g=esac
+=9
+{4cc#
+4b
+=10
+8a
+8cc#
+4ff#
+=11
+16a
+16a
+16cc#
+16ee
+16e
+16g#
+16b
+16ee
+=12
+8a
+8a
+4a}
+!!LO:LB:g=esac
+=13
+{4cc#
+4b
+=14
+8A
+8a
+4ff#
+=15
+16A
+16a
+16cc#
+16ee
+16E
+16g#
+16b
+16ee
+=16
+8a
+8a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 74-75
+!!!ONB: Converted on 2024/12/26 with esac2hum

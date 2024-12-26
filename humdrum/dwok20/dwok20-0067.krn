@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK2006700000-u_nasego_pana_zielona_podloga.krn
+!!!OTL: U nasego pana zielona podłoga
+!!!source: DWOK20
+!!!id: 20067
+!!!signature: 2006700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+4ff
+=2
+16ee
+16ff
+8gg
+8ff
+=3
+8cc
+4f
+=4
+16f
+16g
+16a-
+16f
+8g}
+!!LO:LB:g=esac
+=5
+{8f
+8g
+8b-
+=6
+16g
+16e
+8f
+8a
+=7
+16f
+16g
+8e
+8c
+=8
+8e
+4f}
+!!LO:LB:g=esac
+=9
+{8cc
+4ff
+=10
+16ee
+16ff
+16gg
+16ee
+8ff
+=11
+8cc
+4ff
+=12
+16f
+16g
+16a-
+16f
+8g}
+!!LO:LB:g=esac
+=13
+{8f
+8g
+8b-
+=14
+16b-
+16g
+8a
+8a
+=15
+16f
+16g
+8e
+8c
+=16
+8e
+4f}
+==
+*-
+!!!ONB: U Kolberga melodia jest zapisana na 3/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 128} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 128}
+!!!page: 128
+!!!ONB: Converted on 2024/12/26 with esac2hum

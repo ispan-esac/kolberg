@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK2611500000-instrumentalna-polski.krn
+!!!OTL: Instrumentalna-Polski
+!!!source: DWOK26
+!!!id: 26115
+!!!signature: 2611500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.d
+16e
+16f#
+8g
+16a
+16b
+=
+12cc
+12dd
+12cc
+4b
+12a
+12b
+12cc
+=2
+2dd
+4ee}
+!!LO:LB:g=esac
+=
+{12dd
+12ee
+12dd
+4b
+4dd
+=
+12cc
+12dd
+12cc
+4b
+12d
+12e
+12f#
+=3
+2g
+4d}
+!!LO:LB:g=esac
+=4
+{8f#
+8g
+4b
+4dd
+=
+12cc
+12dd
+12cc
+4b
+12d
+12e
+12f#
+=5
+4g
+2a}
+!!LO:LB:g=esac
+=6
+{8f#
+8g
+4b
+4dd
+=
+12cc
+12dd
+12cc
+4b
+12d
+12e
+12f#
+=7
+2g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

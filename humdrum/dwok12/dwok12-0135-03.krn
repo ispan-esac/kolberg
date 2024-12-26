@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1213500003-o_ty_ptaszku_skowronaszku.krn
+!!!OTL: O ty ptaszku skowronaszku
+!!!source: DWOK12
+!!!id: 12135
+!!!signature: 1213500003
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.g
+8a
+8b
+8cc
+=2
+8a
+8a
+4f#
+4d
+=3
+4.g
+8a
+8cc
+8ee
+=4
+2.dd}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4.dd
+8cc
+=6
+8b
+8a
+4f#
+4d
+=7
+4.a
+8f#
+8a
+8b
+=8
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 65-66} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 65-66}
+!!!page: 65-66
+!!!ONB: Converted on 2024/12/26 with esac2hum

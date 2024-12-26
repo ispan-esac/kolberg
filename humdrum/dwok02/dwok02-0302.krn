@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK02-K0302-oj_wez_ze_torbe_na_chlib.krn
+!!!OTL: Oj wez ze torbe na chlib
+!!!source: DWOK02
+!!!id: K0302
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4gg
+16dd
+16ff
+=2
+16aa
+16gg
+8dd
+16ff
+16ee
+=3
+8cc
+4g
+=4
+16a
+16cc
+8b
+8dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8gg
+8ff
+=6
+16ee
+16cc
+8b
+8dd
+=7
+8a
+4g
+=8
+16a
+16cc
+8b
+8dd}
+!!LO:LB:g=esac
+=9
+{4cc
+16dd
+16ff
+=10
+8ee
+8dd
+8dd
+=11
+16cc
+16a
+4g
+=12
+8cc
+8ee
+8gg}
+!!LO:LB:g=esac
+=13
+{8ff
+8cc
+16dd
+16ff
+=14
+8ee
+8dd
+8dd
+=15
+16cc
+16a
+4g
+=16
+8cc
+8b
+8dd}
+==
+*-
+!!!ONB: Niezgodnosc fraz muzycznych i tekstowych
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 225} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 225}
+!!!page: 225
+!!!ONB: Converted on 2024/12/26 with esac2hum

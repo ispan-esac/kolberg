@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2521400000-cztery_lata_temu.krn
+!!!OTL: Cztery lata temu
+!!!source: DWOK25
+!!!id: 25214
+!!!signature: 2521400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8.b
+16a
+=2
+16b
+16a
+8b
+8cc
+=3
+8a
+16a
+16g
+16a
+16b
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+8.dd
+16cc#
+=6
+16dd
+16cc#
+8dd
+8ee
+=7
+8cc
+16cc
+16b
+16cc
+16dd
+=8
+4.b}
+!!LO:LB:g=esac
+=9
+{8a
+16a
+16g
+16a
+16b
+=10
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 94} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 94}
+!!!page: 94
+!!!ONB: Converted on 2024/12/26 with esac2hum

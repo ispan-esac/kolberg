@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3641200002-jak_bylyna_ta_topola.krn
+!!!OTL: Jak byłyna ta topola
+!!!source: DWOK36
+!!!id: 36412
+!!!signature: 3641200002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4.ee
+8dd
+16cc
+16b
+16a
+16a
+=2
+4cc
+2b
+=3
+8b
+8dd
+4ee
+8ee
+8dd
+=4
+8cc
+8b
+4a}
+4r
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4ee
+4aa
+=6
+8aa
+8gg
+4ff
+16ee
+16dd
+8cc
+=7
+8ee
+8ee
+4.ee
+8a
+=8
+4b
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 261
+!!!ONB: Converted on 2024/12/26 with esac2hum

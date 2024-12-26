@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK1001700011-tys_od_pola_ja_od_pola.krn
+!!!OTL: Tys od pola, ja od pola
+!!!source: DWOK10
+!!!id: 10017
+!!!signature: 1001700011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.dd
+16dd
+4b
+4b
+=2
+8.a
+16b
+4cc
+4cc
+=3
+8dd
+8dd
+4b
+4g
+=4
+8.a
+16a
+4f#
+4d}
+!!LO:LB:g=esac
+=5
+{4g
+4b
+4b
+=6
+8.cc
+16cc
+4.cc
+8b
+=7
+8a
+8cc
+8a
+8f#
+4d
+=8
+8.dd
+16dd
+4.dd
+8dd}
+!!LO:LB:g=esac
+=9
+{4g
+4b
+4b
+=10
+8.cc
+16cc
+4.cc
+8b
+=11
+8a
+8cc
+8a
+8f#
+4d
+=12
+4f#
+4a
+4g}
+==
+*-
+!!!ONB: Mazur chodzony
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 89} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 89}
+!!!page: 89
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4444800000-tam_na_hori.krn
+!!!OTL: Tam na hori
+!!!source: DWOK44
+!!!id: 44448
+!!!signature: 4444800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+4b
+=2
+4cc
+8dd
+=3
+8cc
+4b
+=4
+4a
+8a}
+!!LO:LB:g=esac
+=5
+{8a
+4b
+=6
+4cc
+8dd
+=7
+8cc
+4b
+=8
+4a
+8a}
+!!LO:LB:g=esac
+=9
+{16cc
+16b
+8a
+8e
+=10
+16a
+16b
+8cc
+8ee
+=11
+16cc
+16b
+8a
+8e
+=12
+16a
+16b
+8cc
+8dd}
+!!LO:LB:g=esac
+=13
+{8cc
+4dd
+=14
+4ee
+8dd
+=15
+8cc
+4b
+=16
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=318 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 264} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 264}
+!!!page: 264
+!!!ONB: Converted on 2024/12/26 with esac2hum

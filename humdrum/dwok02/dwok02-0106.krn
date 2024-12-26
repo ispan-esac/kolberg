@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK02-K0106-oj_chmielu_chmielu.krn
+!!!OTL: Oj chmielu chmielu
+!!!source: DWOK02
+!!!id: K0106
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*d:
+=1
+*M3/4
+{4dd
+4dd
+8ff
+8ee
+=2
+8cc#
+8a
+2dd
+=3
+8cc#
+8dd
+4cc
+8b-
+8g
+=4
+2.a}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+8ff
+8ee
+=6
+8cc#
+8a
+2dd
+=7
+8cc#
+8dd
+4cc
+8b-
+8g
+=8
+2.a}
+!!LO:LB:g=esac
+=9
+*M3/8
+{8cc
+8g
+16a
+16b
+=10
+16cc
+16a
+8g
+16a
+16b
+=11
+16cc
+16dd
+8cc
+16b-
+16g
+=12
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 84} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 84}
+!!!page: 84
+!!!ONB: Converted on 2024/12/26 with esac2hum

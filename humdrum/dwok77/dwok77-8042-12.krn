@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7780400012-tam_trawka_nad_woda.krn
+!!!OTL: Tam trawka nad wodą
+!!!source: DWOK77
+!!!id: 778042
+!!!signature: 7780400012
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16ee
+16ee
+16dd
+16cc
+16b
+16a
+=2
+16g#
+16b
+4e
+=3
+16a
+16g#
+16a
+16b
+16cc
+16dd
+=4
+4ee
+8ee}
+!!LO:LB:g=esac
+=5
+{16ee
+16ee
+16dd
+16cc
+16b
+16a
+=6
+16g#
+16b
+4e
+=7
+16a
+16g#
+16a
+16b
+16cc
+16dd
+=8
+4ee
+8ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 8
+!!!ONB: Converted on 2024/12/26 with esac2hum

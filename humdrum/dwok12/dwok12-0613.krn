@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1261300000-a_w_niedziele_po_obiedzie.krn
+!!!OTL: A w niedzielę po obiedzie
+!!!source: DWOK12
+!!!id: 12613
+!!!signature: 1261300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+4dd
+=2
+8b
+4b
+=3
+8g
+8b
+8a
+=4
+4g
+8r
+=5
+8dd
+8dd
+8cc
+=6
+8b
+8b
+8a
+=7
+8g
+8b
+8a
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8g
+4g
+=10
+8dd
+8cc
+8b
+=11
+8b
+8b
+8cc
+=12
+4a
+8r
+=13
+8g
+8g
+8b
+=14
+8dd
+8cc
+8b
+=15
+8b
+8b
+8a
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=629 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 613} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 613}
+!!!page: 613
+!!!ONB: Converted on 2024/12/26 with esac2hum

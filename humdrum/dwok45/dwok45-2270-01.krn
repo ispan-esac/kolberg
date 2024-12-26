@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK45227000001-chodzila_chodzila.krn
+!!!OTL: Chodziła, chodziła
+!!!source: DWOK45
+!!!id: 452270
+!!!signature: 45227000001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+4ee
+=2
+4ff
+8ff
+16ee
+16gg}
+!!LO:LB:g=esac
+=3
+{8ff
+8ee
+4dd
+=4
+4cc
+8cc
+16ee
+16gg}
+!!LO:LB:g=esac
+=5
+{8ee
+8b
+4cc
+=6
+4dd
+8dd
+16b
+16a
+=7
+8g
+8a
+4b
+=8
+4cc
+8cc
+8cc}
+==
+*-
+!!!ONB: Jaworzyńska
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=493 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 475} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 475}
+!!!page: 475
+!!!ONB: Converted on 2024/12/26 with esac2hum

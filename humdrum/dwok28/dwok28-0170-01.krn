@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK2817000001-bodaj_ty_chmielu.krn
+!!!OTL: Bodaj ty chmielu
+!!!source: DWOK28
+!!!id: 28170
+!!!signature: 2817000001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8a
+8b
+=2
+8cc
+4b
+=3
+8cc
+8g
+8b-
+=4
+8g
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+=6
+8cc
+4b
+=7
+8cc
+8g
+8b-
+=8
+8g
+4a}
+!!LO:LB:g=esac
+=9
+{8cc
+8g
+16a
+16b
+=10
+16cc
+16b
+8g
+16a
+16b
+=11
+8cc
+8g
+16a
+16b
+=12
+16cc
+16b
+8g
+16a
+16b}
+!!LO:LB:g=esac
+=13
+{16cc
+16dd
+8cc
+8b-
+=14
+8g
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 220} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 220}
+!!!page: 220
+!!!ONB: Converted on 2024/12/26 with esac2hum

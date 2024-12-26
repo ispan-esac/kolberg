@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK02-K0039-a_sokoliku_na_koniku.krn
+!!!OTL: A sokoliku na koniku
+!!!source: DWOK02
+!!!id: K0039
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{8a
+8cc#
+8dd
+=2
+8dd
+8cc#
+8a
+=3
+4dd
+8dd
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8cc#
+8dd
+=6
+8dd
+8cc#
+8g
+=7
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=56 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 45} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 45}
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7703000000-za_to_mi_sie_podobacie.krn
+!!!OTL: Za to mi się podobacie
+!!!source: DWOK77
+!!!id: 77030
+!!!signature: 7703000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+8.b
+16g
+=2
+16f#
+16d
+8f#
+8g
+=3
+16a
+16cc
+8.b
+16g
+=4
+16f#
+16d
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8.g
+16b
+=6
+16cc
+16ee
+8.dd
+16b
+=7
+16a
+16a
+8.b
+16g
+=8
+16f#
+16d
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 41
+!!!ONB: Converted on 2024/12/26 with esac2hum

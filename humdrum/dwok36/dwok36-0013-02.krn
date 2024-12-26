@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK3601300002-oj_pope_pope_batku_nasz.krn
+!!!OTL: Oj pope pope bat'ku nasz
+!!!source: DWOK36
+!!!id: 36013
+!!!signature: 3601300002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/8
+=1
+{16e
+16a
+16b
+16ee
+=2
+16ee
+16a
+16b
+16g#
+=3
+4a
+=4
+16b
+16ee
+16ee
+16cc#
+=5
+4ee}
+!!LO:LB:g=esac
+=6
+{16ff#
+16ee
+16b
+16ee
+=
+24ee
+24dd#
+24a
+16b
+16g#
+=7
+4a
+=8
+16b
+16a
+16g
+16ee
+=9
+4ee}
+!!LO:LB:g=esac
+=10
+{16ff#
+16ee
+16b
+16ee
+=11
+16cc
+16a
+8b
+=12
+4ee
+=13
+16cc
+16a
+16b
+16g#
+=14
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 11
+!!!ONB: Converted on 2024/12/26 with esac2hum

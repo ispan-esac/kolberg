@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK4152700002-hej_hi_ha_hi_ptaszek_nad_krzewina.krn
+!!!OTL: Hej, hi, ha, hi ptaszek nad krzewiną
+!!!source: DWOK41
+!!!id: 41527
+!!!signature: 4152700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{2a
+=2
+2a
+=3
+2a
+=4
+2a}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8a
+8a
+=6
+8cc
+4.a
+=7
+8dd
+8dd
+8.d
+16d
+=8
+8e
+4.d}
+!!LO:LB:g=esac
+=9
+{8d
+8d
+8.e
+16f#
+=10
+8g
+4.b
+=11
+8dd
+8dd
+8.d
+16d
+=12
+8e
+4.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=354 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 271-272} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 271-272}
+!!!page: 271-272
+!!!ONB: Converted on 2024/12/26 with esac2hum

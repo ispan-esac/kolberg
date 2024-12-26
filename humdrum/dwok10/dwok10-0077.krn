@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK1007700000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK10
+!!!id: 10077
+!!!signature: 1007700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8dd
+4ee
+4ee
+=2
+8ff
+8ee
+4dd
+4ee
+=3
+8cc
+8b
+4cc
+4ee
+=4
+8dd
+8cc
+4b}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4ee
+4ee
+=6
+8ff
+8ee
+4dd
+8ee
+8dd
+=7
+8cc
+8b
+4cc
+4ee
+=8
+8dd
+8cc
+4b}
+4r
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+4dd
+4b
+=10
+4.ee
+8gg
+8ff
+8ee
+=11
+8dd
+8cc
+4dd
+4g
+=12
+4.ee
+8gg
+8ff
+8ee
+=13
+8dd
+8b
+4cc}
+4r
+!!LO:LB:g=esac
+=14
+{8dd
+8dd
+4dd
+4b
+=15
+4.ee
+8gg
+8ff
+8ee
+=16
+8dd
+8cc
+4dd
+4dd
+=17
+4.ee
+8gg
+8ff
+8ee
+=18
+8dd
+8b
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 232} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 232}
+!!!page: 232
+!!!ONB: Converted on 2024/12/26 with esac2hum

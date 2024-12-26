@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK41101700002-a_z_gory_z_gory_jada_mazury.krn
+!!!OTL: A z góry, z góry jadą Mazury
+!!!source: DWOK41
+!!!id: 411017
+!!!signature: 41101700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+2dd}
+!!LO:LB:g=esac
+=3
+{8ee
+8gg
+8ee
+8ee
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8gg
+8ee
+8ee
+=6
+2dd}
+!!LO:LB:g=esac
+=7
+{4dd
+16dd
+8.cc#
+=8
+8a
+8a
+8dd
+8a}
+!!LO:LB:g=esac
+=9
+{4dd
+16dd
+8.cc#
+=10
+8a
+8a
+8b
+8g}
+!!LO:LB:g=esac
+=11
+{8f#
+8g
+8a
+8f#
+=12
+2g}
+!!LO:LB:g=esac
+=13
+{8b
+8dd
+8dd
+8dd
+=14
+8cc
+8a
+8cc
+8cc}
+!!LO:LB:g=esac
+=15
+{8b
+8b
+8dd
+8b
+=16
+8a
+8a
+8f#
+8d}
+!!LO:LB:g=esac
+=17
+{8f#
+8g
+8a
+8a
+=18
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=513 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 426} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 426}
+!!!page: 426
+!!!ONB: Converted on 2024/12/26 with esac2hum

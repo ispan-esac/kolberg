@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK3648400000-instrumentalna-czumak.krn
+!!!OTL: Instrumentalna-Czumak
+!!!source: DWOK36
+!!!id: 36484
+!!!signature: 3648400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4gg
+8b
+8dd
+=2
+8cc
+8cc
+8b
+8dd
+=3
+8g
+8g
+8b
+8dd
+=4
+16cc
+16cc
+16b
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8b
+8dd
+=6
+8cc
+8cc
+8b
+8dd
+=7
+8g
+8g
+8b
+8dd
+=8
+16cc
+16cc
+16b
+16a
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 314
+!!!ONB: Converted on 2024/12/26 with esac2hum

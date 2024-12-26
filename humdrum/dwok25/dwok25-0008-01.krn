@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2500800001-kedy_tam_jedzies_jasiu_kochanie.krn
+!!!OTL: Kędy tam jedzies Jasiu kochanie
+!!!source: DWOK25
+!!!id: 25008
+!!!signature: 2500800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8cc
+8b
+4dd
+4ee
+=2
+4cc
+8a
+8g
+4b
+4a
+=3
+4b
+8dd
+8cc
+4b
+8a
+8g
+=4
+4f#
+8a
+8f#
+4d
+4d}
+!!LO:LB:g=esac
+=5
+{4d
+8f#
+8d
+4g
+4a
+=6
+4b
+8a
+8g
+4cc
+4a
+=7
+4b
+8dd
+8cc
+4b
+8a
+8g
+=8
+4f#
+8a
+8f#
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=29 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 4} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 4}
+!!!page: 4
+!!!ONB: Converted on 2024/12/26 with esac2hum

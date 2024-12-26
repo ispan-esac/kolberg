@@ -1,0 +1,2539 @@
+DWOK30
+CUT[Oj buv Sawa w Merenowie]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 1]
+FKT[]
+SIG[3000100000]
+KEY[30001   16  A 3/8]
+MEL[1_4_4_  4_3b43b1  1_4_4_  4_3b43b1
+    1_2_4_  4_3b_1_  3b_1__  1__1_
+    1_2_4_  4_3b43b1  1_2_4_  3b_1__
+    1_3b__  1_2__  1__.  1__0_ //]
+BEM[]
+
+DWOK30
+CUT[W Horodenci w sławnym misti]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 4]
+FKT[]
+SIG[3000400000]
+KEY[30004   16  A 3/8]
+MEL[5_5_5_  4__.  5_5_5_  4__.
+    5_4_5_  4_2_13b  4__1_  3b_1_0_
+    5_4_5_  4_1_3b_  3b_3b_4_  3b_1_-7b_
+    1_3b_4_  3b_1__  1__.  3b_1_0_ //]
+BEM[]
+
+DWOK30
+CUT[W pietnyciu na czestnyj chrest]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 10]
+FKT[]
+SIG[3000900000]
+KEY[30009   16  A 2/4]
+MEL[4_4_5__  4_4_4_2_  2_4_4_5_  4_2_2_1_
+    1_3b_3b21_  1_1_1-7b1_  123b_1_3b_  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Ne mih Iwan w świti żyty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 18]
+FKT[]
+SIG[3001800000]
+KEY[30018   16  A 2/4]
+MEL[1_5_5_5_  5__5__  5__3b__
+    3b_5_4_42  3b__3b_2_  1__3b__
+    1_1_1_1-7b  4__3b_2_  1__4__
+    1_1_1_-7b_  4__3b__  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Hej u misti na rynoczku]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 20]
+FKT[]
+SIG[3002100000]
+KEY[30021   16  A 2/4]
+MEL[-4_1_1_1_  11_.-7b-7b_.  1_2_3b_2_  1___
+    -7b__-7b_-5_  -6b_-7b-5-6b_-5_  -4___ //]
+BEM[]
+
+DWOK30
+CUT[Ja w misteczku Beristeczku]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 21]
+FKT[]
+SIG[3002200000]
+KEY[30022   32  A 2/4]
+MEL[1__3b2_.1__1__  3b__3b2_.1__1__  3b_3b__.4_4__.  5____
+    5__4__3b__1__  4__4__3b__3b_2_  1____ //]
+BEM[]
+
+DWOK30
+CUT[Oj u misteczku ja w Beresteczku]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 22]
+FKT[]
+SIG[3002300000]
+KEY[30023   16  A 3/8]
+MEL[5_5_5_  4_2_3b_  5_5_5_  4_2_1_
+    2143b21  2_1_1_  1__1_ //]
+BEM[]
+
+DWOK30
+CUT[Oj u misti na rynoczku]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 23]
+FKT[]
+SIG[3002400000]
+KEY[30024   16  D 2/4]
+MEL[1_+1_+1_+1_  +1_+2_+1_7b_  6_+1_4_5_  4_3_2_.2
+    1_1_1_6_  +1___  6_+1_4_5_  4_3_2__  1___ //]
+BEM[]
+
+DWOK30
+CUT[Hej u misti na rynoczku]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 24]
+FKT[]
+SIG[3002500000]
+KEY[30025   16  G 2/4]
+MEL[1_6_6_6_  6_6_544_  5_5_5_5_  5_6_432_
+    4_5_6__  4_3_2_2_  5_5_1_1_ //]
+BEM[]
+
+DWOK30
+CUT[I czoh myła dumku dumasz]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 25]
+FKT[]
+SIG[3002600000]
+KEY[30026   16  A 3/4]
+MEL[2__4__.2_  4_4_4_4_2_21
+    2__4__.2_  1_1_1_1_2_1_
+    2__4__.2_  1_1_1_1_1_1_ //]
+BEM[]
+
+DWOK30
+CUT[Oj u pole kraj dorohy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 26]
+FKT[]
+SIG[30028a0000]
+KEY[30028a  16  G 3/4]
+MEL[4_1_4_1_4_6_  +1___+1__
+    +1_6_+1_6_+1_7b6  5___5__
+    7b__.6_7b_5_  6_.66__.54
+    5__.6_5_4_  3_.22__1__ //]
+BEM[]
+
+DWOK30
+CUT[Kozak konia napowav]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 27]
+FKT[]
+SIG[30028b0000]
+KEY[30028b  16  C 2/4]
+MEL[55_.77_.  +1+1_.+3__  55_.77_.  +1_+3_+5__
+    +4+2_.+2+2_.  +1+1_.+3__  +2_5_5_5_  +1_+3_+5__
+    +4+2_.+2+2_.  +1+1_.+3__  +2_5_5_5_  +1__+1__ //]
+BEM[Kozak i Dziuba. Piesn piastunek]
+
+DWOK30
+CUT[Chodyt Turczyn po rynoczku]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 27-28]
+FKT[]
+SIG[3002900000]
+KEY[30029   16  A 2/4]
+MEL[3b_5_5_5_  5_5_4_43b  7b_5_7b_6b_  5___
+    4_4_3b_3b2  4_3b_2_1_  4_1_3b_1_  1___ //]
+BEM[]
+
+DWOK30
+CUT[Oj u Lwowi na rynoczku]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 29]
+FKT[]
+SIG[3003100000]
+KEY[30031   08  E 2/4]
+MEL[1555  5544  7b_7b+1  5__
+    5+1+1+1  443b5  4_3b3b  1__ //]
+BEM[]
+
+DWOK30
+CUT[Hoj u połe deren]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 31]
+FKT[]
+SIG[3003500000]
+KEY[30035   16  C 2/4]
+MEL[+1_5_+1__  +1_6_5__  +1_5_+1_5_  +1_6_5__
+    +3_+1_+5__  +4_+2_+4_+2_  +4+2+2_+1__ //]
+BEM[]
+
+DWOK30
+CUT[Oj na hori tam deren]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 32]
+FKT[]
+SIG[3003600000]
+KEY[30036   08  C 2/4]
+MEL[5+1+1+1  +156_  5+135  321_
+    +1_+2+1  +3_.5  +1+1+1_ //]
+BEM[]
+
+DWOK30
+CUT[Hej u poły buw deren]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 32]
+FKT[]
+SIG[3003700000]
+KEY[30037   16  A 2/4]
+MEL[-5_5_5_5_  5_6b_5__  4_4_4_4_  4_5_6b54_
+    1_1_1_1_  3b_5_3b__  3b_5_3b23b_  3b23b_1__ //]
+BEM[]
+
+DWOK30
+CUT[Oj pojichav Jwaseńko]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 35]
+FKT[]
+SIG[3004100000]
+KEY[30041   08  G 3/4]
+MEL[1_.333  332_2_  5_5_65  3__.
+    3_.633  221_3_  2_2_1-7  -6__0_ //]
+BEM[]
+
+DWOK30
+CUT[Piszov Wasyl mołodeńki]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 37]
+FKT[]
+SIG[3004300000]
+KEY[30043   08  C 3/8]
+MEL[5+1+3  +2+2_  +1+3+2  +2+2_
+    +1+3+2  +2+2+1  +2_7  7+1_
+    +1+3+2  +2+2_  7+1_  +1+2_
+    7+37  +1+1_  +1_.  +1_0 //]
+BEM[]
+
+DWOK30
+CUT[Yj piszov Jwaseńko]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 38]
+FKT[]
+SIG[3004400000]
+KEY[30044   16  A 2/4]
+MEL[1__1_1_  3b3b_.3b3b_.  3b3b_.1_2_  3b_1__0_
+    3b3b_.3b23b_  11_.1_2_  3b_1_1_1_  1_-5__0_ //]
+BEM[]
+
+DWOK30
+CUT[Ozenyła maty mołodoho syna]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 39]
+FKT[]
+SIG[3004500000]
+KEY[30045   08  A 2/4]
+MEL[3b53b5  413b1  443b3b  1_-7b_
+    3b_41  3b54_  1__ //]
+BEM[]
+
+DWOK30
+CUT[Mała udowońka jedneho synońka]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 40]
+FKT[]
+SIG[3004600000]
+KEY[30046   08  A 3/4]
+MEL[552_4#_  5__7b_  552_1_  -7b_-5__
+    -5-7b1541  3b_1__ //]
+BEM[]
+
+DWOK30
+CUT[Mała wdowa syna to hoj ożenyła]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 41]
+FKT[]
+SIG[3004700000]
+KEY[30047   08  A 3/4 2/4]
+MEL[115443b  115443b
+    4554  5_.3b  543b2  1_.1
+    4554  5_.3b  543b2  1_.1 //]
+BEM[]
+
+DWOK30
+CUT[Oj mała wdowa jednoho syna]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 41]
+FKT[]
+SIG[3004900000]
+KEY[30049   16  A 3/8]
+MEL[3b_5_5_  423b_1_  3b_5_5_  423b_1_
+    3b_5_5_  4_5__  454_3b2  3b_1__ //]
+BEM[]
+
+DWOK30
+CUT[Iwan konie napowaje]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 42]
+FKT[]
+SIG[30050a0000]
+KEY[30050a  16  A 2/4]
+MEL[4_4_4_4_  544_4_2_  3b10__0_
+    1_2_3b_4_  (4_3b_2_)3b_1_  3b_3b_0__
+    5_4_4_4_  5_4_4_2_  3b10_0__
+    4_4_4_3b1  1__1__  ^_1_0__ //]
+BEM[]
+
+DWOK30
+CUT[Oj u lisi kalynoczka]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 45]
+FKT[]
+SIG[3005300000]
+KEY[30053   16  A 2/4]
+MEL[1_2_3b_3b_  2_1_1_-7b_  1_2_3b_3b_  2_1_1_-7b_
+    1_3b_1_-7b_  -5_-5_3b_2_  1_3b_1_-7b_  -5_-5_-5_-5_
+    -7b13b_21-7b_  -5_-5_3b_2_  -7b13b_21-7b_  -5_-5_-5__ //]
+BEM[Serpen-taniec wielkanocny]
+
+DWOK30
+CUT[Maty syna hodowała]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 46]
+FKT[]
+SIG[3005500000]
+KEY[30055   16  A 2/4]
+MEL[5_5_5_5_  5_2_3b21_  4_4_4_1_  3b_1__1_
+    2_4_4_4_  4_2_3b21_  3b3b_.1_1_  1__.1_ //]
+BEM[]
+
+DWOK30
+CUT[Czy czuły wy lude]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 47]
+FKT[]
+SIG[3005600000]
+KEY[30056   08  G 3/4]
+MEL[555_31  2_4__  222_-5_  1_3__
+    111_6_  5__4_  352_-7_  1__2_
+    1-71_6_  5__4_  352_2-7  1__1_ //]
+BEM[]
+
+DWOK30
+CUT[Oj słuzyła Nasti u pana]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 51]
+FKT[]
+SIG[3005800000]
+KEY[30058   32  A 3/8]
+MEL[4_4_4__1__  4__4__^3b21  4__.2_3b_1_
+    2_.43b__1__  1__1___  4__2__3b_1_
+    2_4_3b__1__  1__1___  1___1__ //]
+BEM[]
+
+DWOK30
+CUT[O Wasylu Wasyleńku]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 52]
+FKT[]
+SIG[3006000000]
+KEY[30060   16  G 6/8]
+MEL[1_3__1_5__  4_2__-7_-5__
+    1_3__1_543_  2__.5__0_
+    5_54#_.565__  4_3__454__
+    3_3__2_2__  3__.3__0_ //]
+BEM[]
+
+DWOK30
+CUT[Po tim boci po ostroci]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 53]
+FKT[]
+SIG[30062a0000]
+KEY[30062a  08  A 3/4]
+MEL[555_42  3b55_42  3b55_42  3b11_1_
+    3b55_42  113b_5_  413b_3b_  1__1_ //]
+BEM[W publikacji jest dwa razy numer 62 dodano rozszerzenie literowe]
+
+DWOK30
+CUT[Neszczaslywy Prokopońko]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 53]
+FKT[]
+SIG[30062b0000]
+KEY[30062b  08  G 2/4]
+MEL[123b4  5_6b_  4_5_  3b210
+    123b4  5_6b_  4_5_  3b210
+    4_12  3b_3b_  1-712  3b_3b_
+    3b23b4  3b_1_  2-710 //]
+BEM[W publikacji jest dwa razy numer 62 dodano rozszerzenie literowe]
+
+DWOK30
+CUT[Oj żerży żerży bułanyj koniu]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 54]
+FKT[]
+SIG[3006300000]
+KEY[30063   16  A 3/8]
+MEL[5_5_5_  3b_5__  4_4_4_  1_3b__
+    3b_5_5_  3b_5__  4__.  3b_1_0_
+    1_3b_5_  4_4__  1_1_2_  -7b_-7b__
+    3b3b5__  4_4__  1__.  3b__0_ //]
+BEM[]
+
+DWOK30
+CUT[Hoj wylikiv sokił]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 54]
+FKT[]
+SIG[3006400000]
+KEY[30064   08  G 2/4]
+MEL[5556  5_1_  4_5_  4321
+    2221  1_1_  4_5_  432_  1_0_ //]
+BEM[]
+
+DWOK30
+CUT[Oj ne pidu do diwczyny]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 55]
+FKT[]
+SIG[3006600000]
+KEY[30066   16  C 2/4]
+MEL[+4_+4_+4_+4_  +4_+4_+4_+4_  +3_+3_+3_(+3+2+1)  +1__+1_5_
+    +1_+15+1_+3+2  +1_+1_+1_+1_  +1_+15+15+1_  +1__+1__ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Hej sam idu konia wedu]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 56]
+FKT[]
+SIG[3006800000]
+KEY[30068   16  A 2/4]
+MEL[44_.55_.  44_.55_.  44_.55_.  421_1__
+    44_.55_.  421_3b_5_  421_3b21_  1__1__ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Płyne czoven wody poven]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 57]
+FKT[]
+SIG[3007100000]
+KEY[30071   16  A 2/4]
+MEL[2_243b_3b_  2-7243b_3b_  2_243b__  21-7_1__
+    -5_-5_1_1_  -7_-7_1_1_  2_243b__  21-7_1__ //]
+BEM[Kozaczek]
+
+DWOK30
+CUT[Cetże myła cetże myła]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 58]
+FKT[]
+SIG[3007300000]
+KEY[30073   16  A 3/8]
+MEL[4_5_43  4_5_43  4_5_43  4_5__
+    3b45_3b1  -7-5-7_12  3b45_3b1  -7_1__ //]
+BEM[]
+
+DWOK30
+CUT[Sedyt hołub nad wodo]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 59]
+FKT[]
+SIG[3007600000]
+KEY[30076   32  D 2/4]
+MEL[1__7b_6_5__5_4#_  5__5__5_4#_5__  5__7b_6_5__5__  4__.3b21___
+    1__7b_6_6_5_5_4_  4_3b_3b_2_2_-7_1__  1__3b__2_1_2_-7_  1___1__0__ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Oj ty horo kamnienaja]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 60]
+FKT[]
+SIG[3007700000]
+KEY[30077   32  A 2/4]
+MEL[1__4__4_3_4__  4__4__4_3_4__  6b__6b_5_4__4__  3b__.211___
+    3b__3b__2__3b__  1__1__1_-5_1__  1__3b__2__3b__  1___1___ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Chto wysoko taj litaje]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 61]
+FKT[]
+SIG[3008000000]
+KEY[30080   16  F 2/4]
+MEL[+1_+1_+1_76  5_5_5_5_  +1_+1_+2+176  5__5__
+    4_4_4_32  3_4_5_3_  2_3_4_2_  1__5_3_
+    4_4_4_32  3_4_5_3_  2_3_4_2_  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Kowała zazulka w wysznejim sadoczku]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 63]
+FKT[]
+SIG[3008300000]
+KEY[30083   16  A 3/4]
+MEL[4_2_2_3b_423b_  4_2_2_3b_423b_
+    4_4_4_2_5__  1_-7b_1__-7b__
+    1_2_3b_1_4_2_  3b__1__0__
+    4_4_4__5__  1_-7b_1__-7b__
+    1_2_3b__4__  3b__1__0__ //]
+BEM[]
+
+DWOK30
+CUT[Oj wyjdu ja na horońku]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 63]
+FKT[]
+SIG[3008400000]
+KEY[30084   16  E 3/8]
+MEL[4_5__  7b__6b5  4_5__  4_3b__
+    4_5__  7b__6b5  +1_+1__
+    +1_7b__  6b_5__  7b__6b5  4_3b__
+    5_4__  3b__2_  1_1__ //]
+BEM[]
+
+DWOK30
+CUT[Dbaj maty dbaj]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 64-65]
+FKT[]
+SIG[3008700000]
+KEY[30087   16  A 2/4]
+MEL[5__6b_5_  5_4_5__  4__3b_1_  2_2_1__
+    5_5_6b_5_  4__3b_1_  4__3b_2_  1__-5__
+    5_5_6b_5_  4_213b__  4_4_3b_2_  1__-5__
+    4_4_3b_1_  5__3b_2_  1___
+    5_5_6b_5_  4__3b__  4__3b_2_  1__-5__
+    5_5_6b_5_  4__3b__  4_4_3b_2_  1__-5__
+    4_4_3b_1_  5__3b_2_  1___ //]
+BEM[]
+
+DWOK30
+CUT[Oj huk maty huk]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 66]
+FKT[]
+SIG[3009000000]
+KEY[30090   08  G 2/4]
+MEL[2_1_  4_5_  6__  111_  7b_6_  5_4_
+    1_1_  7b_6_  6543  2_1_
+    111_  7b_6_  6543  2_1_
+    4_5_  6_54  2__ //]
+BEM[]
+
+DWOK30
+CUT[Teczericzka ne welyczka]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 66]
+FKT[]
+SIG[3009100000]
+KEY[30091   32  E 2/4]
+MEL[5__4#_5_5__4_3b_  3b__2_3b_3b_-7_1__  5__4#_5_5__4_3b_  3b__.211___
+    5__4#_5_5__4_3b_  2_1_4_3b_2_1_1__  1__1__1__1__  1___1__0__ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Chotiła mene maty za muż daty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 66]
+FKT[]
+SIG[3009200000]
+KEY[30092   16  G 2/4]
+MEL[112_3_4_  5__5__  6__6__  5__.4_
+    324_3_2_  1__-5_0_
+    4__3__  5__.4_  2__3__  5__.4_
+    124_3_2_  1__1_0_ //]
+BEM[]
+
+DWOK30
+CUT[Hej iszov ja sełom sełom]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 68]
+FKT[]
+SIG[3009400000]
+KEY[30094   16  A 2/4]
+MEL[5_6b_5_4_  3b_2_3b_3b4  5_.6b5_54  3b_.243b21
+    2_2_2_23b  1_1_1_2_  2_.3b2_-7_  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Oj zajmyv ja woły pasty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 68]
+FKT[]
+SIG[3009500000]
+KEY[30095   16  G 2/4]
+MEL[1_5_5_5_  5_5_5_5_  5_5_5_5_  +1__1__
+    1_1_2_-7_  1_1_1_-5_  1-7-6-51_-5_  1__-5__
+    1_1_2_-7_  1_1_1_-5_  1_1_1-7-6-5  1__1__ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Sim michiw horichiw]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 69]
+FKT[]
+SIG[3009900000]
+KEY[30099   08  G 3/8]
+MEL[553  553  423  31_
+    22-5  133  423  31_ //]
+BEM[]
+
+DWOK30
+CUT[Ej u połe kraj dorohy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 70]
+FKT[]
+SIG[3010000000]
+KEY[30100   08  G 3/4]
+MEL[225543  2_1_0_
+    225_43  5_2_0_
+    5_.654  332_1_
+    225543  2_1_0_ //]
+BEM[]
+
+DWOK30
+CUT[Meży dwoma horońkamy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 71]
+FKT[]
+SIG[3010100000]
+KEY[30101   08  A 3/4]
+MEL[13b554#2  4#65__
+    13b554#2  4#65__
+    13b5_.4  3b21_-7_
+    523b45-5  -5-71__ //]
+BEM[]
+
+DWOK30
+CUT[Oj tam oj tam pid lypkuju]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 71]
+FKT[]
+SIG[3010200000]
+KEY[30102   16  F 3/8]
+MEL[6_+1__  6_+1__  6_+1_.6  5_5__
+    3_5__  3_5__  3_4_.2  1_1__ //]
+BEM[]
+
+DWOK30
+CUT[Oj w poly kraj dorohy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 72]
+FKT[]
+SIG[3010300000]
+KEY[30103   16  G 2/4]
+MEL[1_-7_1_-6-5  1__2__  3___
+    5_5_4#_5_  3__1__  3___
+    1_3_2_1-7  -6__2__  1___
+    1_3_2_1-7  -6__3__  -6___ //]
+BEM[]
+
+DWOK30
+CUT[Hoj plynut husońki]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 73]
+FKT[]
+SIG[3010500000]
+KEY[30105   08  G 2/4]
+MEL[2556  5_2_  4_5_  4321
+    2222  2_1_  4_5_  432_  1_0_ //]
+BEM[]
+
+DWOK30
+CUT[Ani spaty ni drymaty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 73]
+FKT[]
+SIG[3010600000]
+KEY[30106   16  A 3/4]
+MEL[2__4__3b_2_  1_-5_-7b__-5__
+    5__6__4#_2_  2_4#_5___
+    2__4__3b_2_  1_-5_-7b__-5__
+    5__6__4#_2_  4_3b21___ //]
+BEM[]
+
+DWOK30
+CUT[Hej ty zoro weczirnaja]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 75]
+FKT[]
+SIG[3010900000]
+KEY[30109   16  A 3/4]
+MEL[5___^_6_  5_5_4_2_1_1_
+    3b_5_4_2_3b_4_  5___0__
+    5___^_6_  5_5_43b2_1_1_
+    3b_5_4_4_3b_3b2  1___. //]
+BEM[]
+
+DWOK30
+CUT[Hej w połe kernyci]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 76]
+FKT[]
+SIG[3011000000]
+KEY[30110   08  A 2/4]
+MEL[1113b  5_43b  456b5  43b21
+    3b3b53b  43b21  3b3b22  1_.1 //]
+BEM[]
+
+DWOK30
+CUT[Oj u czystim poli tymi dolynami]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 76-77]
+FKT[]
+SIG[3011100000]
+KEY[30111   16  A 2/4]
+MEL[3b_5_3b_5_  4_23b43b21  4_3b_2_2-7  1__-5__
+    4_23b43b21  1_3b_23b43b  1__0__ //]
+BEM[]
+
+DWOK30
+CUT[Hoj po hori hori]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 77]
+FKT[]
+SIG[3011200000]
+KEY[30112   16  A 3/4]
+MEL[-5__1__13b_.  21_.1___
+    2_-7_-5__1__  -7b-5_.-5___
+    2__4_5_3b_2_  3b_1_1___ //]
+BEM[]
+
+DWOK30
+CUT[Oj jichaly tre kozakie z Wengier]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 80]
+FKT[]
+SIG[3011500000]
+KEY[30115   08  A 2/4]
+MEL[5454  5_3b_  443b2  1_-7b_
+    1122  443b2  1_1_ //]
+BEM[]
+
+DWOK30
+CUT[A ja tebe Krysztalu pytaju]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 82]
+FKT[]
+SIG[3011800000]
+KEY[30118   16  A 3/8]
+MEL[1_1__  3b_3b_1_  3b_5__  5_5__  4#_3b21_  5__1_
+    1_1__  3b_3b__  4_4__  3b_2__  1__.  1_0__ //]
+BEM[]
+
+DWOK30
+CUT[A u połe kernyczeńka]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 87]
+FKT[]
+SIG[3012300000]
+KEY[30123   16  D 2/4]
+MEL[1_4_4_4_  4_6_5432  5_5_3_2_  1___
+    7b_5_+1__  6_3_4__  5_5_3_2_  1___
+    1_4_4_4_  4_6_5432  5_5_3_2_  1___
+    7b_5_+1__  6_5_4__  5_5_3_2_  1___ //]
+BEM[]
+
+DWOK30
+CUT[Oj horoju pszynyczeńka]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 88]
+FKT[]
+SIG[3012400000]
+KEY[30124   16  E 2/4]
+MEL[1_5_5_5_  55_.44_.  56_.7b6_.  5___
+    5__43b21  3b5_.43b21  1__0__
+    1_5_5_5_  55_.44_.  56_.7b+1_.  5___
+    5__4__  3b5_.4_3b_  1__0__ //]
+BEM[]
+
+DWOK30
+CUT[Oj sad wynohrad]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 88]
+FKT[]
+SIG[3012500000]
+KEY[30125   16  A 2/4]
+MEL[5__5__  5_545__  3b_23b4_23b  4_3b21__
+    1_3b_21-5_  1_3b_211_  4_4_4_3b_  2_-7_1__
+    1_3b_21-5_  1_3b_2_1_  4_4_4__  2_-7_1__ //]
+BEM[]
+
+DWOK30
+CUT[Hoj u haju kalyna]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 90]
+FKT[]
+SIG[3012800000]
+KEY[30128   08  G 2/4]
+MEL[4_5_  6_46  554_
+    6_7b_  +1_6+1  7b7b6_
+    4564  6_46  554_
+    +111_  221_  +111_  221_ //]
+BEM[]
+
+DWOK30
+CUT[Ja ne spała seji noczy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 91]
+FKT[]
+SIG[3012900000]
+KEY[30129   16  A 2/4]
+MEL[3b4_.54_.  3b4_.54_.  3b4_.54_1  21_.1_-5_
+    3b4_.54_.  54_13b4_.  54_112_.  1__.1_ //]
+BEM[]
+
+DWOK30
+CUT[Hej ty diwczyno czerwona kalyno]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 94]
+FKT[]
+SIG[3013600000]
+KEY[30136   16  A 2/4]
+MEL[5__5_4_  3b_1_5_4_  5_5_5_4_  3b_1_-7b__
+    1__3b_1_  -7b__-7b__  3b3b3b_4_4_  5_1__.
+    1__3b_1_  -7b__-7b__  3b3b3b_4_4_  5_1__. //]
+BEM[]
+
+DWOK30
+CUT[Powij witre powij witre]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 97]
+FKT[]
+SIG[3014100001]
+KEY[30141   16  G 2/4]
+MEL[4_567b__  +1_7b65__  4_2_1_3_  4_2_1__
+    4_2_2_2_  1__1_0_ //]
+BEM[Pasając woły]
+
+DWOK30
+CUT[Powij witre powij witre]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 97]
+FKT[]
+SIG[3014100002]
+KEY[30141   16  G 2/4]
+MEL[4_567b_7b_  +1_7b65_5_  4_221_43  4_2_1__
+    4_222_42  1__1_0_ //]
+BEM[Pasając woły]
+
+DWOK30
+CUT[Oj pytav sie bohackij syn]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 100]
+FKT[]
+SIG[3014800000]
+KEY[30148   16  G 3/8]
+MEL[1_4_3_  2_1__  -6_-6_-6_  -6_-5__
+    1_4_3_  2_1__  1__.  1-60_0_
+    2_1_-6_  -6_-5__  1_-6_-6_  -5__.
+    2_1_-6_  -6_-5__  -5__.  -5_0__ //]
+BEM[]
+
+DWOK30
+CUT[De mij mylyj prebuwaje]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 102]
+FKT[]
+SIG[3015500000]
+KEY[30155   08  F 3/4]
+MEL[5_.365  422_1_
+    6_.567  +166_5_
+    57+2_.4  35+1_.3
+    5_.365  4-7-7_1_ //]
+BEM[]
+
+DWOK30
+CUT[Oj haj maty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 104]
+FKT[]
+SIG[3015800000]
+KEY[30158   32  D 2/4]
+MEL[5_4_3b__3b_2_3b__  5_4_3b__3b_2_3b__
+    5_4_3b_2_3b__5_4#_  4#__.(3b21)1___
+    5_4_3b_2_3b__5_4_  3b__5_4_3b_2_1__
+    3b__5_4_3b_2_1_-7_  1___1___ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Posijałam rutu krutu]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 107]
+FKT[]
+SIG[3016300000]
+KEY[30163   32  A 2/4]
+MEL[1__4_3_4__1__  1__3b_2_3b__1__  1__4_3_4__1__  3b__.211___
+    1__4_3_4__1__  1__3b_1_3b__1__  1__3b__2_1_2_-7_  1___1___ //]
+BEM[Kolomyjka]
+
+DWOK30
+CUT[Oj dolyno dolynoczko]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 109]
+FKT[]
+SIG[3016600000]
+KEY[30166   08  A 3/8]
+MEL[44_  44_  44_  44_
+    442  13b_  2_.  1_0
+    44_  443b  21_  3b4_
+    443b  11_  1_.  1_0 //]
+BEM[]
+
+DWOK30
+CUT[Oj dolyno dolynoczko]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 109]
+FKT[]
+SIG[3016700000]
+KEY[30167   16  A 3/8]
+MEL[5_4#__  5_4__  5_4_.2  5_4__
+    5_4#_.2  1_3b__  2__1_  3b_1_0_
+    4_3b__  2_1__  1_1_.-7b  1_3b_.2
+    4_3b__  1_2__  1__.  3b_1_0_ //]
+BEM[]
+
+DWOK30
+CUT[Oj diwczyno czornobrywa]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 110]
+FKT[]
+SIG[3016800000]
+KEY[30168   16  A 2/4]
+MEL[11_-513b_.  3b3b_.3b3b_.  3b3b_13b5_4  3b__3b__
+    11_-513b_.  11_.11_.  11_-513b_2  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Tecze woda berehamy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 111]
+FKT[]
+SIG[3017000000]
+KEY[30170   32  A 2/4]
+MEL[4__4__4__3b_1_  2__3b__2__1_3b_  2__3b__2__3b__  2__123b21___
+    2__4__4__3b_1_  2__3b__2__1_3b_  2__4__1__-7_-5_  1___1___ //]
+BEM[]
+
+DWOK30
+CUT[I pojichav mij myłenkij]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 115]
+FKT[]
+SIG[3018100000]
+KEY[30181   16  A 2/4]
+MEL[4_4_5_5_  4_4_4_2_  4_4_5_5_  4_2_3b__
+    1_1_2_2_  211_1_-7b_  -7b11_1_1_  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Na popowi sinożaty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 115]
+FKT[]
+SIG[3018200000]
+KEY[30182   08  G 2/4]
+MEL[5555  624_  3321  5_2_
+    3321  -712-5  4432  2_1_ //]
+BEM[Według melodyi czeskiej]
+
+DWOK30
+CUT[Newir diwko parobkowe]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 115]
+FKT[]
+SIG[3018300010]
+KEY[30183   16  A 2/4]
+MEL[3b_4_5_3b_  1_1_1_2_  3b_3b_4_2_  3b__1_-7b_
+    3b_4_5_3b_  1_1_1_2_  3b_3b_-7_-7-5  1__1__ //]
+BEM[Partia wokalna]
+
+DWOK30
+CUT[Newir diwko parobkowe]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 115]
+FKT[]
+SIG[3018300020]
+KEY[30183   16  A 2/4]
+MEL[2_4_4_4_  4_4_3b_1_  2_4_4_5_  3b__1_-7b_
+    2_4_4_4_  4_4_5_3b_  1_3b_-7_-7-5  1__1__ //]
+BEM[Partia instrumentalna]
+
+DWOK30
+CUT[Oj zrodyła werba hruszy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 115]
+FKT[]
+SIG[3018400000]
+KEY[30184   16  D 2/4]
+MEL[1_+17+1_+1_  +1_+17+1_+1_  +1_+17+17+17  +1__1__
+    7b_7b_6_6_  5_5_4_4_  3b_3b1212-7  1__1__ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Każut meni szczob sie winczate]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 117]
+FKT[]
+SIG[3018500000]
+KEY[30185   08  A 2/4]
+MEL[3b555  7b_55  4_-7b_
+    -7b-7b-7b4  5_3b2  1_1_
+    53b11  2_-7-6  -5_5_
+    53b11  2_-5-7  1_1_ //]
+BEM[]
+
+DWOK30
+CUT[Oj koby ja buła znala]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 117]
+FKT[]
+SIG[3018600000]
+KEY[30186   16  C 2/4]
+MEL[5_.7+2_+4_  +3_+1_+1_+1_  5_.7+2_+4_  +3_+1_+1_+1_
+    +4__+4_+2_  +1_7_+1_6_  5_.7+2_+4_  +3_+1_+1_+1_ //]
+BEM[]
+
+DWOK30
+CUT[Wczoraj buła nediłońka]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 118]
+FKT[]
+SIG[3018800000]
+KEY[30188   16  G 2/4]
+MEL[+1_.55_5_  4#_4#_5_.4  3b_2_3b_4_  5__5__
+    +1_.55_5_  4#_4#_5_.4  3b_3b_2123b  1__1__
+    2__5_.4  3b_3b21__  -7_-7_-5_-6-7  1_3b21_0_
+    2__5_.4  3b_3b21__  -7_-7_-5_-6-7  1_3b21_0_ //]
+BEM[]
+
+DWOK30
+CUT[Jedna hora wysokaja]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 119]
+FKT[]
+SIG[30189a0000]
+KEY[30189a  16  A 2/4]
+MEL[5_5_4#_4#_  5_5_4_4_  5_5_4#_4#_  3b21_1__
+    3b_3b_4#_4#_  3b13b_4_2_  3b13b_5_-7_  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Jedna hora wysokaja]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 121]
+FKT[]
+SIG[3019300000]
+KEY[30193   16  A 2/4]
+MEL[5_4_3b_4_  5__3b21-7b  43b1_3b_1_  -7b___
+    3b_3b_4_4_  5__43b21  5_4_3b_5_  1___ //]
+BEM[]
+
+DWOK30
+CUT[Sołoweju ptaszku czom ty ne spywajesz]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 122]
+FKT[]
+SIG[3019400000]
+KEY[30194   08  G 3/4]
+MEL[3b553b43b  3b553b43b  5__6b5  413b_2_  1__. //]
+BEM[]
+
+DWOK30
+CUT[Ne hude hołube na chaki]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 127]
+FKT[]
+SIG[3020500000]
+KEY[30205   16  A 2/4]
+MEL[5__543b_  5__3b__  3b_4_3b2-7_  1__-7_-5_
+    3b_3b_4_4_  5_423b2-7_  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Hoj zacwyła kalynoczka w łuzi]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 127]
+FKT[]
+SIG[3020600000]
+KEY[30206   16  A 2/4]
+MEL[4__4__  4__4_2_  1_3b21_1_  1__-7b_-5_
+    1_2_3b_3b_  4_5_4_3b2  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Ta zacwyła kalynoczka w łuzi]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 127]
+FKT[]
+SIG[3020700000]
+KEY[30207   16  A 2/4]
+MEL[1_1_3b_3b1  3b_5_5_5_  4_.3b43b21
+    1_1_3b_3b1  4_4_3b_3b1  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Po szczo ja chodev]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 127]
+FKT[]
+SIG[3020800000]
+KEY[30208   08  G 3/4]
+MEL[5_+1_5_  5__3b_  255_.2  3b55__
+    55+1_5_  5__3b_  255_.2  3b_1__
+    1_1_-5_  1__2_  3b_5_.3b  2_5__
+    1_1_-5_  1__2_  3b55_.-7  2_1_0_ //]
+BEM[Dworska]
+
+DWOK30
+CUT[Oj tam pid dubom]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 129]
+FKT[]
+SIG[3021100000]
+KEY[30211   08  A 3/8]
+MEL[3b55  423b  3b55  423b
+    543b  423b  55-7  1_1 //]
+BEM[]
+
+DWOK30
+CUT[Po sadoczku pochodzaju]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 132]
+FKT[]
+SIG[3021600000]
+KEY[30216   16  A 3/4]
+MEL[5_5_3b__5__  4_2_4__4__
+    5_3b21__3b_1_  2_1-7-5__-5__
+    1_2_3b_5_4_3b_  5__1__0__ //]
+BEM[]
+
+DWOK30
+CUT[Ej w poly mohyła]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 133]
+FKT[]
+SIG[3021700000]
+KEY[30217   08  A 4/4]
+MEL[0_-5_1_.-7b  -6_-7b_-5__
+    0_3b_^_.2  113b_2__
+    0_2_^_.3b  21-7b-6-7b-5-5_
+    0_1_^_.2  3b23b-71_10
+    0_-5_1_.-7b  -6_-7b_-5__
+    0_3b_^_.2  113b_2__
+    0_2_^_.3b  21-7b-6-7b-5-5_
+    0_1_^_.2  3b_3b_1_10 //]
+BEM[]
+
+DWOK30
+CUT[Cze ja w polu rodeła sie]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 133]
+FKT[]
+SIG[3021800000]
+KEY[30218   08  G 6/8]
+MEL[1_3b5_5  +1_55_3b
+    5_54_3b  5_-71_1
+    2_-7-5_-7  1_3b5_3b
+    5_54_3b  5_-71_1
+    2_-7-5_-7  1_23b_1
+    5_54_3b  5_-71_1 //]
+BEM[Dworska]
+
+DWOK30
+CUT[Ach ja neszczaslewy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 133-134]
+FKT[]
+SIG[3021900000]
+KEY[30219   16  G 4/4]
+MEL[5_5_+1_5_5__.4_  2_2_2_.-71_2_3b_4_
+    5_5_+1_5_5__4_2_  3b_3b_2_.-71__1__
+    4_4_4_4_4_2_3b_4_  5_5_5_7_+1_7_+1_5_
+    4_4_4_4_5__.3b_  3b_3b_2_.-71__1__ //]
+BEM[Dworska]
+
+DWOK30
+CUT[Horeż myni hore]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 134]
+FKT[]
+SIG[3022000000]
+KEY[30220   08  A 3/4]
+MEL[5_.313  3_2_0_
+    4_.346  655_0_
+    -724_6_  55531_
+    -724342  2_1_0_ //]
+BEM[Dworska]
+
+DWOK30
+CUT[Powij witre powij]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 135]
+FKT[]
+SIG[3022100000]
+KEY[30221   16  E 2/4]
+MEL[+1_+1_6b__  +1__+2_+1_  +1_+1_7b6b5_  4__4_3_
+    4_5_6b54_  4__3b21_  2_3b_4__  1__2_3b_
+    4_5_6b54_  4__3b21_  2_3b_4__  1__1_1_ //]
+BEM[Andante]
+
+DWOK30
+CUT[Oj kazała meni maty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 135]
+FKT[]
+SIG[3022200000]
+KEY[30222   16  A 2/4]
+MEL[54_.3b_3b_  54_.3b_3b_  54_.3b_3b_  543b21_1_
+    3b3b_.3b_5_  3b2_.1_1_  4_4_3b_5_  3b__1__
+    3b3b_.3b_5_  3b2_.1_1_  4_4_3b_5_  -5__-5__ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Sywy oczy maju]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 135]
+FKT[]
+SIG[3022300000]
+KEY[30223   16  E 2/4]
+MEL[+3b_.+2+1_7_  +1__5__  +3b_.+2+1_7_  +1__5_0_
+    7b_.+17b_6b_  5_4_3b_2_  123b45_.+1  +1__+1_0_ //]
+BEM[Andante]
+
+DWOK30
+CUT[Doliw doliw kaczuryku]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 136]
+FKT[]
+SIG[3022400000]
+KEY[30224   32  D 2/4]
+MEL[1__4_3_4__4_3_  4__4__4_3_4__  4__7b_6_6_5_5_4_  4#__.3b21___
+    1__1__1__1__  1__1__1__1__  1__3b__2_1_2_-7_  1___1___ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Oj ne szumy dibrowońko]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 136]
+FKT[]
+SIG[3022500000]
+KEY[30225   16  A 2/4]
+MEL[3b_4_4_(3b21)  4_4_543b2  4_.23b21_
+    3b_4_4_(3b21)  1_1__.  4_.23b21_
+    3b_4_4_3b1  1_1__.  1_1_0__ //]
+BEM[]
+
+DWOK30
+CUT[Dibrowo zelena]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 137]
+FKT[]
+SIG[3022600000]
+KEY[30226   16  E 2/4]
+MEL[3b_5__.  6_5_421_  2_4__3b_  5_3b_2-71_  5_4__3b2  5_3b_2-71_ //]
+BEM[]
+
+DWOK30
+CUT[Oj na hori jasenec]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 138]
+FKT[]
+SIG[3022800000]
+KEY[30228   16  C 2/4]
+MEL[+1_+2_+3_+1_  +2_7_5__  +1_+2_+3_+1_  +2_7_5__
+    +1_+2_+3_+2+3  +4_+2_+3_+1_  +1_+2_+3_+27  +1__+1__ //]
+BEM[]
+
+DWOK30
+CUT[Kazała Sałocha]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 139]
+FKT[]
+SIG[3023100000]
+KEY[30231   16  G 3/8]
+MEL[-7b_3b_5_  -7b_3b_5_  7b_7b_.6b  6b55__
+    -7b_3b_5_  -7b_3b_5_  7b_7b_.6b  6b55__
+    +155_.4  3b21_1_  255_.-7  13b5__
+    +155_.4  3b21_1_  255_.-7  1-71__ //]
+BEM[]
+
+DWOK30
+CUT[A ja swomu myłeńkomu]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 140]
+FKT[]
+SIG[3023200000]
+KEY[30232   16  A 2/4]
+MEL[25_.56_.  55_.4_1_  25_.56_.  5__2__
+    55_.4_42  3b_3b255_.  44_.44_.  1__1__ //]
+BEM[Kolomyjka]
+
+DWOK30
+CUT[A u naszych bohaczok]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 141]
+FKT[]
+SIG[3023500000]
+KEY[30235   16  A 2/4]
+MEL[11_.3b3b_.  55_.-5__  11_.3b3b_.  55_.-5__
+    55_.55_.  44_.5__  3b3b_.55_.  -7-7_.1__ //]
+BEM[]
+
+DWOK30
+CUT[A mij myłyj jak wyjidzav]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 141]
+FKT[]
+SIG[3023600000]
+KEY[30236   08  A 2/4]
+MEL[44_.  55_.  54_2  3b1_0
+    44_.  55_.  4__  3b10_
+    44_.  55_.  54_2  13b_.
+    54_2  3b1_.  1__  1_0_ //]
+BEM[]
+
+DWOK30
+CUT[Oj diwczyna po hrybe chodyła]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 142]
+FKT[]
+SIG[3023800000]
+KEY[30238   08  A 2/4]
+MEL[5_6b_  5_3b_  4543b  1_-7b_
+    3b453b  4543b  1_.1 //]
+BEM[]
+
+DWOK30
+CUT[Oj na hori bujnyj witer wije]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 144]
+FKT[]
+SIG[3023900000]
+KEY[30239   16  A 3/4]
+MEL[1_1_3b_1_1__  3b_5_5__4_3b_  43b211___
+    1_1_3b__1__  3b__5__4_3b_  4__1___ //]
+BEM[]
+
+DWOK30
+CUT[Oj mołoda bodnariwno]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 144]
+FKT[]
+SIG[3024000000]
+KEY[30240   16  A 2/4]
+MEL[25_.55_.  55_.44_.  5_567b_6_  5___
+    54_.25_.  44_.25_.  4_413b_2_  1___ //]
+BEM[]
+
+DWOK30
+CUT[W Kataryny czorne oczy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 146]
+FKT[]
+SIG[3024300000]
+KEY[30243   08  G 2/4]
+MEL[3555  6_5_  4_3_
+    1333  4_3_  2_1_
+    1333  4_42  6_5_
+    1333  4_42  2_1_ //]
+BEM[]
+
+DWOK30
+CUT[Mekietycha chlib sadzaje]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 148]
+FKT[]
+SIG[3024700000]
+KEY[30247   08  C 2/4]
+MEL[+1+3+3+3  +3+2+4+2  +1+3+3+3  +3+2+4+2
+    +1+35_  +1+35_  667_  +1+1+1_
+    +1+3+3+3  +3+2+4+2  +1+3+3+3  +3+2+4+2
+    +1+35_  +1+35_  667_  +1+1+1_ //]
+BEM[]
+
+DWOK30
+CUT[Wże try dni i try nediły]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 148]
+FKT[]
+SIG[3024800000]
+KEY[30248   16  A 4/4]
+MEL[5__.6b_4__.5_  3b_1_5_.3b2_-7_-5__
+    5__5_6b_4__.5_  (3b_2_1_)5_.-71__1__
+    1_2_3b_4_5__5__  6b_6b_6b55_5__5__  6b_6b_6b55_5__5__
+    5__5_6b_4__.5_  3b_.15_3b_2_-7_-5__
+    5__5_6b_4__.5_  (3b_2_1_)5_.-71__1__
+    5__5_6b_4__.5_  3b_.15_3b_2_-7_-5__
+    5__5_6b_4__.5_  (3b_2_1_)5_.-71__1__ //]
+BEM[]
+
+DWOK30
+CUT[Meży dwoma berehamy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 149]
+FKT[]
+SIG[3024900000]
+KEY[30249   16  G 2/4]
+MEL[5_5_5_5_  424_5_5_  234_5_5_  +1__1__
+    543_2_-5_  1_2_3_5_  1_2_3_5_  4__-5__
+    5_5_5_5_  4_4_5_5_  3_4_5_5_  +1__1__
+    4_3_2_-5_  1_2_3_5_  1_2_3_5_  2__-5__ //]
+BEM[]
+
+DWOK30
+CUT[Jak sia majesz czernyce]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 150]
+FKT[]
+SIG[3025000000]
+KEY[30250   16  F 2/4]
+MEL[1_.35_5_  3_5_1__  -7_2_1__
+    -7_2_1_1_  -7-72_1_1_  -7_2_1_1_  -7-72_1_1_
+    6_6_5_.3  3_1_5_3_  3_1_5_3_
+    3_1_5_5_  5_5_6_7_  +1___ //]
+BEM[Dworska]
+
+DWOK30
+CUT[Po pid hajem Fesi]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 137]
+FKT[]
+SIG[3025100000]
+KEY[30251   16  A 2/4]
+MEL[3b_2_1_-7_  1__-5__  3b_2_1_-7_  1__-5__
+    3b_3b_4_6b_  5__5__  5_3b15_-7_  1__1__
+    3b_3b_4_6b_  5__4#__  5_3b_5_-7_  1__-5__ //]
+BEM[Dworska]
+
+DWOK30
+CUT[Po pid hajem Fesia]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 151]
+FKT[]
+SIG[3025200000]
+KEY[30252   16  D 2/4]
+MEL[1_.3b2_.4  3b_.54_.6b  55_.5_67  +1__+1_0_
+    1_.3b2_.4  3b_.54_.6b  55_.5_67  +1__+1_0_
+    +3b_.+2+1_7_  +1_.55__  +3b_.+2+1_7_  +1_.55__
+    7b_.+17b6b56b  5_.43b23b4  5_567567  +1__+1_0_ //]
+BEM[Dworska]
+
+DWOK30
+CUT[A w kowalychi sobaki lychi]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 152]
+FKT[]
+SIG[3025400000]
+KEY[30254   16  A 3/8]
+MEL[1_4_4_  4_543b2  1_43b21  4_543b2
+    411_1_  1_4_.3b  2_2_2_  2_2__
+    1_4_4_  4_5__  1_43b21  4_5__
+    4_1_1_  1_4_.3b  2_2_2_  2_2__ //]
+BEM[]
+
+DWOK30
+CUT[Oj żurawie żurawie]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 155]
+FKT[]
+SIG[3025800000]
+KEY[30258   16  C 2/4]
+MEL[+1_7+2+1_6_  5_5_3__  +1_7_+1_6_  5_5_3__
+    4_353432  34321__  4_3_4_2_  3_3_1__ //]
+BEM[Żurawel. Taniec weselny]
+
+DWOK30
+CUT[Hoj ty Dżuryło hoj ty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 155]
+FKT[]
+SIG[30259a0000]
+KEY[30259a  16  A 3/8]
+MEL[3b_5_5_  5_4#__  5_3b__
+    3b_5_5_  5_4#__  5_3b__
+    3b_43b21  1_-7__  5_5__
+    3b_43b21  1_-7__  1_1__ //]
+BEM[Dżuryło. Taniec]
+
+DWOK30
+CUT[Hoj ty Dżuryło hoj ty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 156]
+FKT[]
+SIG[30259b0000]
+KEY[30259b  16  A 3/8]
+MEL[3b45__  6b54_43b  453b__
+    3b45__  6b54_43b  453b__
+    123b23b4  543b4(3b21)  +1_+1__
+    123b__  543b_2_  1_1__ //]
+BEM[Dżuryło. Taniec]
+
+DWOK30
+CUT[Oj pid wyszneju]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 167]
+FKT[]
+SIG[3030600000]
+KEY[30306   08  G 2/4]
+MEL[5_53  1_1_  2342  1_1_
+    3335  4666  5777  +1_+1_ //]
+BEM[]
+
+DWOK30
+CUT[Dałas mene moja maty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 172]
+FKT[]
+SIG[3031600000]
+KEY[30316   16  G 2/4]
+MEL[123b45_5_  4#_4#_5_.4  3b_3b54_.2  3b_3b_2_.-7
+    123b45_5_  4#_4#_5_.4  3b_3b54_.2  3b21_5__
+    1_2_1_-7_  1_2_1_-7_  1_3b_5_.4  3b_3b_2_.1
+    1_2_1_-7_  1_2_1_-7_  1_3b_5_.-7  1_1_1_0_ //]
+BEM[Weselna]
+
+DWOK30
+CUT[Oj na hori dub]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 167]
+FKT[]
+SIG[3032700000]
+KEY[30327   08  A 2/4]
+MEL[113b1  -7b_.^  3b3b45  1_.1
+    3b3b45  11-7b-7b  3b3b45  1_.1 //]
+BEM[]
+
+DWOK30
+CUT[Oj tam za horoju]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 177]
+FKT[]
+SIG[3032800000]
+KEY[30328   08  E 3/4]
+MEL[115_4_  57b+1__  7b+17b54_  46b5__
+    456b43b_  46b5__  451_4_  3b11__
+    456b_3b_  4_5__  451_4_  3b_1__ //]
+BEM[]
+
+DWOK30
+CUT[Oj zacweła kalynoczka w łuzi]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 177]
+FKT[]
+SIG[3032900001]
+KEY[30329   16  A 2/4]
+MEL[-51_.3b3b_  3b5_.55_.  4__3b__
+    3b3b_.55_.  44_.3b3b_.  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Oj zacweła kalynoczka w łuzi]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 177]
+FKT[]
+SIG[3032900002]
+KEY[30329   16  A 2/4]
+MEL[-51_.3b_.1  3b5_.55_.  4_1_3b_1_
+    3b3b_.55_.  4_.13b3b_.  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[A u nowej świtłońci]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 178]
+FKT[]
+SIG[3033000000]
+KEY[30330   32  A 2/4]
+MEL[3b_1__.-7_-7__-5_  1_2__.3b_2_3b_1_  1_1__.-7_-7__-5_  1_2__.3b___
+    3b_3b__.4_4__.  5____  5__.3b15__-7__  1____ //]
+BEM[]
+
+DWOK30
+CUT[Ni mamko ne można]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 179]
+FKT[]
+SIG[3033200000]
+KEY[30332   08  E 3/4]
+MEL[5_.6b56b  5_4_0_  3b_.23b4  5_1_0_
+    111_5_  5_2_0_  6b_.552  43b3b_0_
+    +1+1+1_.5  6b6b6b_.4  +2_.754  3b_5_0_
+    6b_.453b  6b_.453b  1_.55-7  211_0_ //]
+BEM[Dworska]
+
+DWOK30
+CUT[Bidum sobi kupyła]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 180]
+FKT[]
+SIG[3033300000]
+KEY[30333   16  A 2/4]
+MEL[123b43b21-7  1_3b22_.1  -7_-7_-5_-7_  1__-5__
+    123b43b21-7  1_3b22_.1  -7_-7_-5_-7_  1__1__
+    1_1_-7_.-5  1_1_-7_.-5  123b45_.4  3b_3b21__
+    123b45_5_  4#_4#_5_.4  3b_3b_21-7_  1_-5_1_1_ //]
+BEM[]
+
+DWOK30
+CUT[Prodaj mylyj czobany]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 181]
+FKT[]
+SIG[3033500000]
+KEY[30335   16  A 2/4]
+MEL[3b5_.5_5_  5_5_54_3b  54_.43b_2  -71_.1__
+    44_3b22_1  44_3b55_4  44_3b2_2_  11_.1__ //]
+BEM[]
+
+DWOK30
+CUT[Prodaj mylyj czobany]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 182]
+FKT[]
+SIG[3033600000]
+KEY[30336   16  A 2/4]
+MEL[3b5_.56b5_  3b5_.5_5_  43b_.2-71_  4__3b__  1___ //]
+BEM[]
+
+DWOK30
+CUT[Oj umru ja każe umru]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 185]
+FKT[]
+SIG[3034400000]
+KEY[30344   08  G 2/4]
+MEL[6665  67+17  67+1_  776_
+    5553  4543  554_  331_ //]
+BEM[]
+
+DWOK30
+CUT[Ottam pry dołyni]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 188]
+FKT[]
+SIG[30349b0000]
+KEY[30349b  08  A 2/4]
+MEL[5_5_  546b5  3b555  546b5
+    5542  3b3b22  3b3b2-7  123b4
+    5542  3b3b22  3b3b2-7  1111 //]
+BEM[]
+
+DWOK30
+CUT[A wyszeńka czereszeńka]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 189]
+FKT[]
+SIG[3035000000]
+KEY[30350   16  A 2/4]
+MEL[24_.44_.  44_.53b21  4_2112_.  4_2_1__
+    24_.44_.  44_.5_2_  2_2_12_.  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[A szczoż to je za zilaczko]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 192]
+FKT[]
+SIG[3035700000]
+KEY[30357   08  F 2/4]
+MEL[3331  4442  5553  5_+1_
+    6664  5553  4442  5_+1_
+    6664  5553  4442  1_1_ //]
+BEM[]
+
+DWOK30
+CUT[Oj piszła syritka]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 193]
+FKT[]
+SIG[3035800000]
+KEY[30358   16  A 2/4]
+MEL[2_4_43b2_  4_43b2_1_  2_4_43b2_  4__3b12_
+    2_4_43b21  2_3b21__  2_4_3b21_  -7__1__ //]
+BEM[]
+
+DWOK30
+CUT[Bo pomerła maty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 194]
+FKT[]
+SIG[3035900000]
+KEY[30359   16  A 3/4]
+MEL[2_2_4__3b22_  4_4_^3b2_1_.-7b  5_4_3_4_^_2_  ^__2_1_0__
+    5_5_4__(2_1_4_)  4_2_1__.5_  5_5_4_2_1_2_  1___1__
+    2_2_4__3b__  4_4_^3b2_1_.-7b  5_4_3_4_^_2_  ^__2_1_0__
+    5_5_4__2__  4_2_1__.1_  5_5_4_2_1_2_  1___1__ //]
+BEM[]
+
+DWOK30
+CUT[A wyjdu ja do cerkowy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 196]
+FKT[]
+SIG[3036100000]
+KEY[30361   08  E 2/4]
+MEL[47b7b7b  7b6b5b4  7b6b5b4  4_7b_
+    7b444  43b21  43b21  1_1_ //]
+BEM[]
+
+DWOK30
+CUT[Hoj łekiła zazułeczka czerez more w haj]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 199]
+FKT[]
+SIG[3036800000]
+KEY[30368   08  A 2/4]
+MEL[13b3b3b  3b3b2-7b  446b6b  5__
+    46b55  443b5  443b3b  1__ //]
+BEM[]
+
+DWOK30
+CUT[Buła chliba bukatyna]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 202]
+FKT[]
+SIG[3037200010]
+KEY[30372   16  A 2/4]
+MEL[4__.3b2  4__.3b2  4_4_543b2
+    1_1_1_4_  1__2__  4__.4_
+    4_3b21_4_  1__2__  1__.1_ //]
+BEM[Partia wokalna]
+
+DWOK30
+CUT[Buła chliba bukatyna]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 202]
+FKT[]
+SIG[3037200021]
+KEY[30372   16  A 2/4]
+MEL[4_4_3b_4_  3b24__4_  4_4_1_2_  4_3b_2__
+    54215421  2_1_1_-7b_  5_4_2_1_  2___ //]
+BEM[Partia instrumentalna]
+
+DWOK30
+CUT[Buła chliba bukatyna]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 202]
+FKT[]
+SIG[3037200022]
+KEY[30372   16  A 2/4]
+MEL[4_(454)3b_(454)  3b24__4_  4_(454)3b_4_  (454)3b22__
+    54215421  2_1_1_2_  5_4_2_1_  2___ //]
+BEM[Partia instrumentalna]
+
+DWOK30
+CUT[Radyly sie dwa wijty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 203]
+FKT[]
+SIG[3037400000]
+KEY[30374   16  A 2/4]
+MEL[55_.3b3b_.  55_.4__  55_.3b3b_.  11_.-7b__
+    3b3b_.44_.  5__43b23b  1___
+    3b3b_.44_.  5__4_3b_  1___ //]
+BEM[]
+
+DWOK30
+CUT[Stała nam si nowyna]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 203]
+FKT[]
+SIG[3037500000]
+KEY[30375   16  A 2/4]
+MEL[1_.23b_3b_  2_3b_1__  3b_.45_5_  4_4_5__
+    3b_.45_5_  4_4_3b_1_  -7_-7_-5_-6-7  1_1_5__
+    3b_.45_5_  4_4_3b_1_  -7_-7_-5_-6-7  1_1_1__ //]
+BEM[]
+
+DWOK30
+CUT[Oj pije żownir pije]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 208]
+FKT[]
+SIG[3038500000]
+KEY[30385   16  G 2/4]
+MEL[5_54#5_54#  5___  5_534_43  2___
+    3_342_3_  2_2_-5_4_  33_.23_.  1___ //]
+BEM[]
+
+DWOK30
+CUT[Zabrałe nas w nekrute]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 208]
+FKT[]
+SIG[3038600000]
+KEY[30386   08  E 2/4]
+MEL[4345  6b6b+1_  55+1_  6b6b+1_
+    4345  6b6b+1+1  55+1+1  444_
+    +3b_.+2b  +1_.+1  7b_5_  6b_6b_
+    +1_.7b  6b_.4  3_1_  1__ //]
+BEM[]
+
+DWOK30
+CUT[Żuryla si maty mnoju]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 211]
+FKT[]
+SIG[3039200000]
+KEY[30392   08  G 3/4]
+MEL[-5-72-71-7  -6-4#-5__  356243  2-71__ //]
+BEM[]
+
+DWOK30
+CUT[Oj ty giwczyno]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 211]
+FKT[]
+SIG[3039400000]
+KEY[30394   16  G 3/8]
+MEL[5_4_3_  3_2b_1_  5_4_34  4_321b-7b
+    -7b-5-5_-6b_  2_-7_1_  111_1_  1__1_
+    -7b-5-5_-6b_  2_-7_1_  111_1_  1__1_ //]
+BEM[]
+
+DWOK30
+CUT[Oj zacwyła czeremszyna z risna]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 214]
+FKT[]
+SIG[3039700000]
+KEY[30397   16  A 3/4]
+MEL[1_3b_5__5__  5_7_675_4_2_  2_5_4__4__  4_5_4_3b_5_1_
+    1_1_1__1__  1_5_4_3b_5_1_  1_1_1__1__  3b_5_4_3b_5__  1___0__
+    1_1_1__1__  1_5_4_3b_5_1_  1_1_1__1__  3b_5_4_3b_5__  1___0__ //]
+BEM[]
+
+DWOK30
+CUT[A wże roczok i szest' negil]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 215]
+FKT[]
+SIG[3039900000]
+KEY[30399   16  A 3/4]
+MEL[1_1_4__3b_1_  4_3b21__-7b__  4_5_6b_5_5_4_  5__1___
+    1_1_4__3b__  4_3b_1__-7b__  4_5_6b_5_5_4_  5__1___ //]
+BEM[]
+
+DWOK30
+CUT[Berhom berhom tam doriżka buła]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 216]
+FKT[]
+SIG[3040100000]
+KEY[30401   08  G 2/4]
+MEL[1_4_  4_1_  222_  111_
+    4564  7b65_  114_ //]
+BEM[]
+
+DWOK30
+CUT[Hoja w lisi bereza stojala]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 216]
+FKT[]
+SIG[3040200000]
+KEY[30402   16  A 2/4]
+MEL[-5-5_13b3b_.  55_.65_.  4#_.23b210
+    -5-5_13b3b_.  44_23b2_1  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Oj uw lisi a w zelenim haju]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 217]
+FKT[]
+SIG[3040400000]
+KEY[30404   08  A 2/4]
+MEL[111-7b  224_  6b43b_
+    4-7b5_  43b2_  551_ //]
+BEM[]
+
+DWOK30
+CUT[Ja w łuzi kalina]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 217]
+FKT[]
+SIG[3040500000]
+KEY[30405   16  A 3/4]
+MEL[3b_5___^_  6b_5_4_1_3b21_  3b_4___^_  5_3b_2_1_^__
+    3b_5___^_  6b_5_4__3b__  3b_4___^_  5_3b_2_1_^__ //]
+BEM[]
+
+DWOK30
+CUT[A w łuzi kalyna]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 218]
+FKT[]
+SIG[3040600000]
+KEY[30406   16  A 3/4]
+MEL[3b_5__4_6b_5_  4__3b_1_0__  3b_5__4_6b_5_  4_1_3b_1_0__
+    4_4_4__2__  4_3b21_-7b_^__  123b_5__4_1_  3b_1_1___ //]
+BEM[]
+
+DWOK30
+CUT[Stojit jawir nad wodoju]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 220]
+FKT[]
+SIG[3040700000]
+KEY[30407   16  E 3/4]
+MEL[4__5__4_2_  4_3b11__-7b__  4__5__4_2_  2_3b_4___
+    4__5__4_2_  4_3b11__-7b__  1__2__2_4_  4_3b21___
+    4__5__4_2_  4_3b11__-7b__  1__2__2__  4_3b21___ //]
+BEM[]
+
+DWOK30
+CUT[Ottam przy dolyni]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 221]
+FKT[]
+SIG[3041100000]
+KEY[30411   08  A 2/4]
+MEL[3b5_.  6b543b  54_.  53b21
+    3b5_.  6b541  3b4_.  53b21 //]
+BEM[]
+
+DWOK30
+CUT[Jidut Laszki na try szlaszki]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 223]
+FKT[]
+SIG[3041400000]
+KEY[30414   16  E 3/4 2/4]
+MEL[5_5_3b__+1__  7b_6b54__5__  43b23b3b__5__  43b2_2__4__
+    1_2_3b_5_  4__5__  1__.1_ //]
+BEM[]
+
+DWOK30
+CUT[Oj u misti w Jezupołe]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 227]
+FKT[]
+SIG[3041900000]
+KEY[30419   16  A 3/8]
+MEL[4_4__  4_4_2_  4_4_21  4_.221
+    4_4__  2_1__  1_1__  4_.221
+    4_4__  2_1__  1_1__  1__1_ //]
+BEM[]
+
+DWOK30
+CUT[Oj na hori dwa duby]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 228]
+FKT[]
+SIG[3042100000]
+KEY[30421   08  G 2/4]
+MEL[3_3_  3_21  1-6-5_  2342  5_43  221_
+    3_3_  3_1_  -6-6-5_  1-51-5  5_43  221_ //]
+BEM[]
+
+DWOK30
+CUT[Cy ja tobi moja maty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 229]
+FKT[]
+SIG[3042400000]
+KEY[30424   08  G 2/4]
+MEL[-5111  1321  111_  -7-6-5_
+    425_  432_  551_
+    -5111  1321  -622_  -7-6-5_
+    425_  432_  551_ //]
+BEM[]
+
+DWOK30
+CUT[Oj ne szumy łuże]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 230]
+FKT[]
+SIG[3042600000]
+KEY[30426   16  E 3/8]
+MEL[5_6b_54  5_3b__  6b54_3b2  3b_1__
+    3b_4_3b2  1_3b_45  6b54_3b2  3b_1__
+    114_3b2  1_13b44  5_4_3b2  3b_1__ //]
+BEM[]
+
+DWOK30
+CUT[Czas do domu czas]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 233]
+FKT[]
+SIG[3043200000]
+KEY[30432   16  E 3/4]
+MEL[1_2_3b__4__  5___0__  6b_.54__3b_2_  1___0__
+    5_5_5_4_6b_5_  5_4_4__3b_2_  5_5_5_4_6b_5_  5_4_4__3b_2_
+    1_.23b__4__  5___+1__  6b___4__  5___0__
+    6b_5_4__3b_.2  1___0__ //]
+BEM[]
+
+DWOK30
+CUT[Oj suk ne werba]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 234]
+FKT[]
+SIG[3043300000]
+KEY[30433   16  A 2/4]
+MEL[5__5__  5__3b_2_  44_.3b1_.  1_1_-7b__
+    44_.3b_3b1  4_423b_1_  44_.3b1_.  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Myła moja żinko myła]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 234]
+FKT[]
+SIG[3043400000]
+KEY[30434   16  A 2/4]
+MEL[5_6b_5_5_  55_.3b21_  55_.44_1  3b_1_1__
+    5_6b_5_2_  55_.3b21_  55_.44_1  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Napyjmo sie kumko]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 235]
+FKT[]
+SIG[3043700000]
+KEY[30437   16  A 2/4]
+MEL[1_1_3b_21  2__-5__  1_123b_21  2__-5__
+    5_5_6b_5_  4_4_5_3b2  1_13b5_-7_  1__1__ //]
+BEM[]
+
+DWOK30
+CUT[Napyjmo sie kumciu lubciu]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 236]
+FKT[]
+SIG[3043800000]
+KEY[30438   32  A 2/4]
+MEL[1__3b__2__2-7_.  -5___-5___  1__1_3b_2__2-7_.  -5___-5___
+    3b__5__4#__2_4#_  5__5__3b__2_-7_  2__2_-7_2__2_3b_  1___1___ //]
+BEM[]
+
+DWOK30
+CUT[Koby pyty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 238-239]
+FKT[]
+SIG[3044300000]
+KEY[30443   16  A 2/4]
+MEL[2_424_3b2  2_422_21  2_42543b2  4_3b243b21
+    411_1_21  1_211_12  43b3b_3b221  1__123b_
+    1_1_1_2_  1_1_1_1_  4_3b_2_1_  1__1__ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Szkoda lisa Łebedyna]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 242]
+FKT[]
+SIG[3045200000]
+KEY[30452   32  A 3/8]
+MEL[3b_5_5__5__  5__5___  5__4_3b_2_1_
+    5_4_4__4__  4__4___  5__4_3b_2_1_
+    5_43b1__1__  1__1___  5__4_3b_2_1_
+    5_43b1__1__  1__1___  1___1__ //]
+BEM[Dożynkowa]
+
+DWOK30
+CUT[Buv Hryćko mudry rodom z Kołomyji]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 248]
+FKT[]
+SIG[3046300000]
+KEY[30463   08  G 2/4]
+MEL[5_55  5_.4  3322  1_1_
+    5_55  5_.4  3322  1_1_
+    1333  2342  1333  2342
+    1_3-5  1_35  1_3-5  1_35
+    1_23  1_0_  1_23  1_0_ //]
+BEM[Hryćko Fylozof]
+
+DWOK30
+CUT[Oj hostyw Dżuman]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 249]
+FKT[]
+SIG[3046400000]
+KEY[30464   08  A 2/4]
+MEL[1555  5__  43b45  4__
+    4_.7b  5543b  214_  443b5  1__
+    4_.7b  5543b  214_  443b5  1__ //]
+BEM[Czumak]
+
+DWOK30
+CUT[Pojihav Czumak w dorohu]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 250]
+FKT[]
+SIG[3046500000]
+KEY[30465   08  A 4/4]
+MEL[3b_5_43b21  -7-7-5__10
+    3b55_43b21  -7-7-5__10
+    5_.6b5542  3b_5_43b21  -7__-5_0_
+    3b_5_43b21  -7__-5_0_
+    3b_.43b3b21  -5__1_0_ //]
+BEM[]
+
+DWOK30
+CUT[Piszov czumak ju w dorohu]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 251]
+FKT[]
+SIG[3046600000]
+KEY[30466   16  A 2/4]
+MEL[5_545_3b_  4_5_6b_7b6b  5_545_3b_  4_3b_2_1_
+    -5_-5-41_23b  4_523b_5_  -5_-5_1_23b  4__3b__
+    -5_-5-41_23b  443b223b1_ //]
+BEM[]
+
+DWOK30
+CUT[Nyma w świki tak nikomu]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 253]
+FKT[]
+SIG[3047000000]
+KEY[30470   08  A 3/4]
+MEL[3b543b2-7  1_-5__  11-7-5-5-4  1_-5__
+    3b_5__  4543b21  5_1__ //]
+BEM[Burłak]
+
+DWOK30
+CUT[Oj zibrały sia burłaki]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 254]
+FKT[]
+SIG[3047100001]
+KEY[30471   08  A 4/4]
+MEL[-5  1_.23b_.4  5_.23b3b21
+    6b_.6b+1_7b6b  5__3b_0_
+    4_.57b6b54  5_.23b3b21
+    -7_6b_5_-7_  1_.23b_.3
+    4_.556b54  5_.23b3b21
+    -7_6b_5_-7_  1__1_0 //]
+BEM[Dworska]
+
+DWOK30
+CUT[Oj zibrały sia burłaki]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 254]
+FKT[]
+SIG[3047100002]
+KEY[30471   16  A 4/4]
+MEL[-5_  1_1-71_2_3b_3b23b_4_  5__.2_3b_3b_2_1_
+    6b_(6b7b6b)5_6b_+1__7b_6b_  5___3b__0__
+    4__.5_7b_6b_5_4_  5__.2_3b_3b_2_1_
+    -7__6b__5__-7__  1_1-71_2_3b43b23b_3_
+    4__.5_5_6b_5_4_  5__.2_3b_3b_2_1_
+    -7__6b__5__-7__  1___1__0_ //]
+BEM[Dworska]
+
+DWOK30
+CUT[Ide deszczyk obłohamy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 255]
+FKT[]
+SIG[3047500001]
+KEY[30475   32  D 2/4]
+MEL[4#__5__7b__6__  4#__5__7b__6__  4#__5__7b__6__  4#__.(3b21)1___
+    4#__5__7b__6__  4__3b__3b__2__  1__3b__2__1__  1___1___ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Ide deszczyk obłohamy]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 255]
+FKT[]
+SIG[3047500002]
+KEY[30475   32  D 2/4]
+MEL[4#__5__7b__6_5_  4#__5__7b__6_5_  4#__5__7b__6__  4#__.(3b21)1___
+    4#__5__7b__6_5_  4_3b_3b__3b_2_2__  1__3b__2_1_1_-7_  1___1___ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Oj idu ja do ktornyci]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 255-256]
+FKT[]
+SIG[3047600000]
+KEY[30476   32  G 2/4]
+MEL[5__5__4#__4#_6_  5__5__4#__4#_6_  5__5__4#__4#__  5__.4_3b__.21
+    2__5__-5__-7__  1__1__1__3b__  2__5__-5__-7__  1___1__0__ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Czoban wivci korniaje]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 256]
+FKT[]
+SIG[3047800000]
+KEY[30478   08  A 2/4]
+MEL[13b44  3b21_  3b242  1_4_
+    43b22  1-7b-5_  1-72-5  1_1_ //]
+BEM[Czoban]
+
+DWOK30
+CUT[A zza hore wysokoji]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 256]
+FKT[]
+SIG[3047900000]
+KEY[30479   16  A 2/4]
+MEL[7_54#6_5_  4_2_4_5_  7654#655_  4#__3b_21
+    1_43b2_-5_  -5-6-711-51_  1_43b2_-5_  1__1__ //]
+BEM[Kolomyjka]
+
+DWOK30
+CUT[Cy ja tobi nekazała]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 257]
+FKT[]
+SIG[3048000000]
+KEY[30480   16  G 2/4]
+MEL[4#_5_6_7b_  6_5_4#_3b_  5_543b21-7  1__3b_.1
+    4#_5_6_7b_  6_5_4#_3b_  5_543b21-7  1__1__ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Każut lude szczo sud bude]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 257]
+FKT[]
+SIG[3048100000]
+KEY[30481   16  E 2/4]
+MEL[4_4_4_4_  4_5_3_1_  4_4_1_1_  3b_2_1__
+    3b_3b_2_-7_  2_2_1_1_  3b_2_2_-7_  1__1__
+    -7b14_4_3_  345_3_1_  ^_4_4_3_  321-7b-7b__
+    -7b13b_3b_2_  -7b_-7b_-7b_-7b_  -7b13b_-7b_1_  1__1__ //]
+BEM[Łegin]
+
+DWOK30
+CUT[Piszła tuha za tuhoju]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 258]
+FKT[]
+SIG[3048200000]
+KEY[30482   16  E 2/4]
+MEL[5_+1_5_5_  4_5_6b_5_  5_+1_5_5_  54456b_5_
+    5_4_3b_2_  1_2_3b_4_  544_3b_2_  5_-7_1_1_ //]
+BEM[Hultaj]
+
+DWOK30
+CUT[Oj poduta dorożeńka]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 258]
+FKT[]
+SIG[3048300000]
+KEY[30483   16  A 2/4]
+MEL[55_.55_.  4#4#_.4#4#_.  55_.55_.  5__3b__
+    12_.3b2_.  11_.1-5_.  12_.3b2_.  1__-5__
+    12_.3b2_.  11_.1-5_.  12_.3b2_.  1__1__ //]
+BEM[Rekrut]
+
+DWOK30
+CUT[Czołowicze durnowaty na szczo żinku prodawaty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 258]
+FKT[]
+SIG[3048400000]
+KEY[30484   16  G 2/4]
+MEL[3_354_2_  3_5_4_2_  3_354_2_  3_-7_1_-5_
+    -5-71_1_2_  313_4_2_  5_5_4_2_  32-7_1_-5_
+    -5-71_1_2_  3_3_4_2_  5_5_4_2_  3_-7_1_-5_ //]
+BEM[Kozaczek]
+
+DWOK30
+CUT[Iszov tiutun dorohoju]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 259]
+FKT[]
+SIG[3048500000]
+KEY[30485   16  E 2/4]
+MEL[6b_+1_+1_+1_  +1+1_.+17b+1_  +1+1_.+17b6b_  +1__6b54_
+    6b54_6b545  44_.41_.  2_3_4_5_  11_.1__
+    454_6b545  44_.41_.  2_3_4_5_  11_.1__ //]
+BEM[Kołomyjka]
+
+DWOK30
+CUT[Zaspiwajmo sobi po popiwski]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 260]
+FKT[]
+SIG[3048700000]
+KEY[30487   16  G 2/4]
+MEL[12345_5_  6_6_5_5_  544_3_.5
+    544_3_.1  1234331_ //]
+BEM[]
+
+DWOK30
+CUT[Oj swysnu wysknu w horiszok]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 260]
+FKT[]
+SIG[3048800000]
+KEY[30488   16  A 3/8]
+MEL[1_5_5_  5__5_  43b2_2_
+    1_5_5_  5__5_  43b2_2_
+    1_5_5_  5_5__  544_4_  4_4__
+    5_3b13b5  4_5__  1__1_ //]
+BEM[]
+
+DWOK30
+CUT[Stojała na kołodci]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 261]
+FKT[]
+SIG[3048900000]
+KEY[30489   08  G 3/8]
+MEL[133  32_  2-6_
+    -611  12_  1-6_
+    133  32_  2-6_
+    -611  12_  1-6_ //]
+BEM[W czasie zabaw na Wełykdeń]
+
+DWOK30
+CUT[Preczystaja Diwo Maty]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 263]
+FKT[]
+SIG[3049100000]
+KEY[30491   08  C 4/4]
+MEL[+1_+1_+1+2+3_  +2+17+1+2+3+2_
+    +3__+2+3+4_  +3_+2_0_0_
+    +1_+1_+1+2+3_  +2+17+1+2+3+2_
+    +3__+2+3+4_  +3_+2_0_0_
+    +5_+5+6+5+4+3_  +4_+2+3+4+3+2_
+    +3_+3_+3+4+5+3  +2+17+1+2_+2_
+    +1+1+4_+3_+27  +1__0__ //]
+BEM[O Matce Boskiej]
+
+DWOK30
+CUT[Pasly pasteri wiwci na hori]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 264]
+FKT[]
+SIG[3049200000]
+KEY[30492   16  A 2/4]
+MEL[3b__2_3b_  2_0_3b__  2_1_2_1_  -7_1_0_1_
+    1_1_3b_.2  3b_2__1_  3b_2_1_-7_  1__0__
+    1_2_3b_3b_  2_2_0__  1_2_3b_3b_  2_2_1__  -7_1__0_
+    1_2_3b__  ^_213b__  ^__2_3b_  2_0_0__
+    0_2_1_2_  3b_2_1__  -7_1__1_
+    3b__.3b_  2_2_1_3b_  2__.2_  3b_2_1__  -7_1__1_ //]
+BEM[Obrona Matki Boskiej]
+
+DWOK30
+CUT[O Jezu mij przenajsłodszyj]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 267]
+FKT[]
+SIG[3049400000]
+KEY[30494   16  C 2/4]
+MEL[+1_+3_+2_+3_  +4_+3_+2_+1_  +3_+4_+5_.+3  +4_+2__0_
+    +1_+3_+2_+3_  +4_+3_+2_+1_  +2_+3_+4_.+3  +2_+1__0_ //]
+BEM[]
+
+DWOK30
+CUT[O jak czud welykij]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 268]
+FKT[]
+SIG[3049500000]
+KEY[30495   16  A 3/4]
+MEL[3b__2_1_-7_2_  1___-5__  1_2_3b__21-72  1___-5__
+    -5__-7_-7_-7_-72  -7__-5__0__  1_2_3b_2_3b_-7_  1___.
+    3b_2_3b23b23b_2_  1_3b_2_1_-7_-5_  1_2_3b23b23b23b2  1_3b_2_1_-7_-5_
+    -712_3b_2_-7__  1___-5__  1_2_3b_2_1_-7_  1___1__ //]
+BEM[O św Michale]
+
+DWOK30
+CUT[Boł sza jeho dneś na zemle trona]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 269-270]
+FKT[]
+SIG[3049600000]
+KEY[30496   16  A 4/4]
+MEL[5__4_2_3b___  1_1_5_4_3b_2_1__
+    3b_2_3b_-7_1___  3b_4_5_4_3b_2_1__
+    1_2_3b_4_5___  5_6b_5_4#_5__3b__
+    3b_5_4_2_3b_3b_5__  4_2_3b_2_1__3b__  3b_2_1_-7_1___
+    5__4_2_1___  1_1_5_4_3b_2_1__  3b_2_3b__1___
+    3b_4_5__5__4_3b_  4_2_3b__1_2_3b_4_  5___5_6b_5_4_
+    5_4_3b__3b_3b_3b_5_  4__45423b_3b_5__  4_2_3b_2_1_-5_3b__  3b_2_1_-7_1___ //]
+BEM[O św Mikołaju]
+
+DWOK30
+CUT[Wa jest Boh na nebi]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 271]
+FKT[]
+SIG[3049700000]
+KEY[30497   16  A 2/4]
+MEL[1__3b_3b_  2__2_1_  3b__1_1_  3b_2__0_
+    1_2_3b_2_  1_-7_0__  1_1_1_2_  1_1_-7_-5_
+    1_2_3b_4_  543b2543b2  1__0__ //]
+BEM[O św Mikołaju]
+
+DWOK30
+CUT[O ty Jana bohosłowa]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 272]
+FKT[]
+SIG[3049800000]
+KEY[30498   16  C 3/4]
+MEL[+1_+3_+4+3+27+1__  +3_+3_+4__+3+2+1_
+    7_+3_+2__+2__  +1_+3_+4+3+27+1__
+    +4_+3_+3_+2_+2_+1_  +2_+3_+2__5__
+    +1_+1_+4__+3__  +2_+2_+1__+1__
+    +4_+3_+3_+2_+2_+1_  +2_+3_+2__5__
+    +1_+1_+4__+3__  +2_+2_+1__+1__ //]
+BEM[O św. Janie]
+
+DWOK30
+CUT[Bo kto chce na pomoc]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 273]
+FKT[]
+SIG[3049900000]
+KEY[30499   16  A 3/4]
+MEL[3b_5__4_6b_5_  5__4__3b__  5_4__4_4_2_  3b_1_0__0__
+    3b_5__4_6b_5_  5__4__3b__  5_4__4_4_2_  3b_1_0__0__
+    4__5_423b_2_  1_-7_1_2_3b__  5_4_6b_5_43b24  3b__3b__1__ //]
+BEM[O św Onufrym]
+
+DWOK30
+CUT[Bo kto chce na pomoc]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 273]
+FKT[]
+SIG[3050000000]
+KEY[30500   16  A 3/4]
+MEL[5__.4#_7_6_  5_3b_546b_5_.2  3b__.1_2__
+    4__.5_4_2_  1_-7_1_3b_3b44_  3b__.1_1__ //]
+BEM[]
+
+DWOK30
+CUT[Oj ziszła zora aż po sered mora]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 277]
+FKT[]
+SIG[3050300010]
+KEY[30503   16  A 2/4]
+MEL[1_3b_2_4_  3b_2_1__  3b_2_5__  4_2_3b12_  3b4(23b2)3b21_
+    3b_3b_2_4_  3b_2_1_-7_  1_-5_3b__  2_1_-7_2_  1___ //]
+BEM[O św. Barbarze - Partia wokalna]
+
+DWOK30
+CUT[Oj ziszła zora aż po sered mora]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 277]
+FKT[]
+SIG[3050300020]
+KEY[30503   16  A 2/4]
+MEL[13b3b_2_4_  3b_2_1_-7_  1-52_3b_3b_  2_1_-7-5-7_  1___ //]
+BEM[O sw. Barbarze - Melodia grana na lirze]
+
+DWOK30
+CUT[A kto chce na pomoc]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 276]
+FKT[]
+SIG[3050300000]
+KEY[30503   16  A 3/4]
+MEL[2_4_4__^3b21  4_4_(^_2_1_)1__  5_4_4_2_4_2_  2__2_1_0__
+    2_4_4__^3b21  4_4_(^_2_1_)1__  4_5_4__(^_2_12)  1___-7b__
+    2_4_4__^3b21  4_4_(^_2_1_)1__  5_4_4_2_4_2_  2__2_1_0__
+    2_4_4__^3b21  4_4_(^_2_1_)1__  4_5_4__(^_2_1_)  1___-7b__ //]
+BEM[O św. Antonim Podolskim (Padewskim)]
+
+DWOK30
+CUT[Oj jedyny czołowik]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 280]
+FKT[]
+SIG[3050500001]
+KEY[30505   16  A 4/4]
+MEL[0__4__4__2__  3b__.1_1__0__  0__4__4__4__  6b__^_4_4_3b_0__
+    0__4__4__4__  4__.5_4__3b_20  0__6b__5__4__  4__.3b_4_2_3b_20
+    0__3b__3b__4__  6b__5__4__3b_1_  1__4__^_5_3b_2_  3b__.1_1__0__ //]
+BEM[O św. Łazarzu]
+
+DWOK30
+CUT[Oj jedyny czołowik]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 280]
+FKT[]
+SIG[3050500002]
+KEY[30505   16  A 4/4]
+MEL[0__4__4_4_2__  3b__.1_1__0__  0__4__4_4_4__  6b__^_4_4_3b_0__
+    0__4__4__4__  4__.5_4_2_3b23b0  0__6b__5__4__  4__.3b_4_2_3b23b0
+    0__3b__3b_3b_4__  6b__5__4_2_3b21_  1__4__^_5_3b_2_  3b__.1_1__0__ //]
+BEM[O św. Łazarzu]
+
+DWOK30
+CUT[Oj jedyny czołowik]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 283]
+FKT[]
+SIG[3050600010]
+KEY[30506   16  E 2/4]
+MEL[1_4_4_4_  6b_5_4_4_  5__4_3_  4_3_0__
+    3_4_6b_5_  4_1_3b_1_  1_4__12  3b_1__0_ //]
+BEM[O św. Łazarzu - partia wokalna]
+
+DWOK30
+CUT[Oj jedyny czołowik]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 283-284]
+FKT[]
+SIG[3050600020]
+KEY[30506   16  E 2/4]
+MEL[+1__7b57b5  56b56b5_1_  +1__56b56b  5_4_^__
+    57b57b+2_+1_  7b57b_5151  +1__56b5_  1__56b51
+    7b57b57b_+1_  7b57b54__  1___  1___ //]
+BEM[O św. Łazarzu - Przygrywka i towarzyszenie śpiewu na lirze]
+
+DWOK30
+CUT[Płacz dusza hriszna]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 284]
+FKT[]
+SIG[3050700000]
+KEY[30507   16  E 4/4]
+MEL[6b__5_3_4__3_1_  6b__5_3_4__3_1_
+    143_4_456b__5_3_  4__1___0__
+    4_6b_6b_7b_6b__4_3_  4_6b_5_4_3__.1_
+    143_4_5_6b__5_3_  4__1___0__ //]
+BEM[Gorzki żal]
+
+DWOK30
+CUT[Proszu ja was wisłuchajcie]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 285]
+FKT[]
+SIG[3050800000]
+KEY[30508   08  C 2/4]
+MEL[+1__  +1+3+2+3  +4+3+2+1  +2+3+4+3  +4+3+2_
+    +1+3+2+5  +4+3+2+1  +2+3+4+3  +27+1_ //]
+BEM[O sądzie ostatecznym]
+
+DWOK30
+CUT[Któz ny znaje iz was dida]
+REG[Pokucie]
+TRD[DWOK30 Pokucie, s. 286]
+FKT[]
+SIG[3050900000]
+KEY[30509   16  A 3/4]
+MEL[1__3b_2_1_-7_  1__3b_2_1_-7-5  1__3b_2_1_-7_  1_3b21_-7_1__
+    3b__5_4_3b_2_  123b_3b_2_1_-7_  3b__5_4_3b_2_  1_21-7___
+    -5-71_3b_2_1_-7_  123b21-71_1__ //]
+BEM[]

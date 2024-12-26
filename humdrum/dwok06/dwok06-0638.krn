@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK06-K0638-zaszumialy_bory_zaszumialy_lasy.krn
+!!!OTL: Zaszumialy bory zaszumialy lasy
+!!!source: DWOK06
+!!!id: K0638
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{16b-
+16a
+16b-
+16cc
+4dd
+=2
+8dd
+4dd
+8b-
+=3
+8ee-
+8ee-
+8.ee-
+16dd
+=4
+16dd
+16cc
+4cc
+8b-}
+!!LO:LB:g=esac
+=5
+{16a
+16g
+16a
+16b-
+4cc
+=6
+8cc
+4cc
+8ee-
+=7
+8gg
+8ff
+8.ff
+16ee-
+=8
+8dd
+4dd
+8dd}
+!!LO:LB:g=esac
+=9
+{8.ee-
+16dd
+8cc
+8cc
+=10
+8dd
+4b-
+16a
+16g
+=11
+16f
+16g
+16a
+16b-
+8cc
+8a
+=12
+16b-
+16cc
+16dd
+16ee-
+16ff
+16ee-
+16gg
+16ff}
+!!LO:LB:g=esac
+=13
+{16ee-
+16ff
+16ee-
+16dd
+8cc
+8ff
+=14
+8dd
+4b-
+16a
+16g
+=15
+16f
+16g
+16a
+16b-
+8cc
+8a
+=16
+8b-
+4.b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=421 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 395-396} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 395-396}
+!!!page: 395-396
+!!!ONB: Converted on 2024/12/26 with esac2hum

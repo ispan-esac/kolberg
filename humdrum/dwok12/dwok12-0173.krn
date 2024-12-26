@@ -1,0 +1,117 @@
+!!!!SEGMENT: DWOK1217300000-siano_czerpala_wode_wiazala.krn
+!!!OTL: Siano czerpała, wodę wiązała
+!!!source: DWOK12
+!!!id: 12173
+!!!signature: 1217300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+8g
+8b
+4dd
+=2
+8dd
+8cc
+8ee
+8dd
+4a
+=3
+4dd
+8a
+8a
+8cc
+8b
+=4
+8g
+8b
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8g
+8b
+4dd
+=6
+8dd
+8cc
+8ee
+16dd
+16cc
+4a
+=7
+4dd
+8a
+8a
+8cc
+8b
+=8
+8g
+8b
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+8a
+8f#
+4g
+=10
+8d
+8f#
+8a
+8f#
+4g
+=11
+4dd
+8a
+8a
+8cc
+8b
+=12
+8g
+8g
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=13
+{8d
+8f#
+8a
+8f#
+4g
+=14
+8d
+8f#
+8a
+8f#
+4g
+=15
+4dd
+8a
+8a
+8cc
+8b
+=16
+8g
+8b
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 88} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

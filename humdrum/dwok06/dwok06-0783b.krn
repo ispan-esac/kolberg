@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK06-K0783b-swieci_miesiac_swieci.krn
+!!!OTL: Swieci miesiac swieci
+!!!source: DWOK06
+!!!id: K0783b
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+4dd
+8ff
+=2
+8ee
+8ee
+8dd
+8b
+=3
+8cc
+8cc
+4dd
+=4
+8cc
+4ee
+8gg}
+!!LO:LB:g=esac
+=5
+{8b
+4dd
+8ff
+=6
+8ee
+8ee
+8dd
+8b
+=7
+8cc
+8cc
+4dd
+=8
+8b
+4cc
+8g}
+==
+*-
+!!!ONB: Czesc 2 w C - przygrywka instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=500 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 474} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 474}
+!!!page: 474
+!!!ONB: Converted on 2024/12/26 with esac2hum

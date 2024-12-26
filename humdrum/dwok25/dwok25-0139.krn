@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2513900000-cztery_lata_wierniem_sluzyl.krn
+!!!OTL: Cztery lata wierniem służył
+!!!source: DWOK25
+!!!id: 25139
+!!!signature: 2513900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+16dd
+16ee
+8a
+8cc
+=3
+16dd
+16ee
+8a
+8cc
+=4
+16cc
+16ee
+8ee
+8ee
+=5
+4.dd}
+!!LO:LB:g=esac
+=6
+{16ee
+16dd
+8.cc
+16a
+=7
+16cc
+16b
+8b
+8b
+=8
+16a
+16b
+8cc
+8ee
+=9
+4.dd}
+!!LO:LB:g=esac
+=10
+{16ee
+16dd
+8.cc
+16a
+=11
+16cc
+16b
+8b
+8b
+=12
+16a
+16b
+8cc
+8f#
+=13
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 58} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

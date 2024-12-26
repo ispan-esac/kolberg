@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1639400000-powstanmy_panowie_powstanmy_swiadkowie.krn
+!!!OTL: Powstańmy panowie, powstańmy świadkowie
+!!!source: DWOK16
+!!!id: 16394
+!!!signature: 1639400000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{8cc
+8b
+8cc
+8dd
+4ee
+4cc
+=2
+8g
+8ff
+8ee
+8dd
+4cc
+4g}
+!!LO:LB:g=esac
+=3
+{8cc
+8b
+8cc
+8dd
+4ee
+4cc
+=4
+8g
+8ff
+8ee
+8dd
+4cc
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4g
+4cc
+4g
+=6
+8cc
+8ff
+8ee
+8dd
+4cc
+4g}
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+8cc
+8dd
+8cc
+8b
+8cc
+8dd
+=8
+8cc
+8ff
+8ee
+8dd
+8cc
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 249} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 249}
+!!!ONB: Converted on 2024/12/26 with esac2hum

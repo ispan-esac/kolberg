@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK3001800000-ne_mih_iwan_w_switi_zyty.krn
+!!!OTL: Ne mih Iwan w świti żyty
+!!!source: DWOK30
+!!!id: 30018
+!!!signature: 3001800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8ee
+8ee
+8ee
+=2
+4ee
+4ee
+=3
+4ee
+4cc}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+8dd
+16dd
+16b
+=5
+4cc
+8cc
+8b
+=6
+4a
+4cc}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8a
+16a
+16g
+=8
+4dd
+8cc
+8b
+=9
+4a
+4dd}
+!!LO:LB:g=esac
+=10
+{8a
+8a
+8a
+8g
+=11
+4dd
+4cc
+=12
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 18} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 18}
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

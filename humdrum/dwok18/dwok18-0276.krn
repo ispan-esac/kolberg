@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1827600000-w_tencas-es_mnie_jasiu_zdradzil.krn
+!!!OTL: W tencas-eś mnie Jasiu zdradził
+!!!source: DWOK18
+!!!id: 18276
+!!!signature: 1827600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8b
+8cc
+=2
+16cc
+16g
+8f
+8g
+=3
+16g
+32a
+32b
+8dd
+8gg
+=4
+16gg
+16aa
+8ff#
+8dd}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8ff
+8ee
+=6
+16cc
+16g
+8f
+8g
+=7
+16g
+16b
+8dd
+8b
+=8
+16cc
+16g
+8f
+8g}
+==
+*-
+!!!ONB: Zakodować od G?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 160} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

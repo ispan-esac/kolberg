@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK57140200000-ozenyu_si_salymin.krn
+!!!OTL: Ożenyu si Sałymin
+!!!source: DWOK57
+!!!id: 571402
+!!!signature: 57140200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8g
+8g
+8g
+=2
+8a
+8a
+4g
+=3
+8a
+8b
+8cc
+8a
+=4
+8dd
+8dd
+4g}
+!!LO:LB:g=esac
+=5
+{4dd
+4g
+=6
+8d
+8f#
+4a
+=7
+8d
+8f#
+8g
+8f#
+=8
+8e
+8d
+4a}
+!!LO:LB:g=esac
+=9
+{8d
+8e
+8f#
+8g
+=10
+4a
+8f#
+8d}
+==
+*-
+!!!ONB: Między t. 4 i 5 u Kolberga takt pusty z adnotacją „cmok”; wariant t. 1-2: 1111  2211
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 459
+!!!ONB: Converted on 2024/12/26 with esac2hum

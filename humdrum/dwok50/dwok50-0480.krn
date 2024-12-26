@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK50480000000-a_wid_krakowa_czorna_chmarka.krn
+!!!OTL: A wid Krakowa czorna chmarka
+!!!source: DWOK50
+!!!id: 50480
+!!!signature: 50480000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+16cc
+16ee
+8cc
+8a
+=3
+8b
+8g
+8a
+=4
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+=6
+16cc
+16ee
+8cc
+8a
+=7
+8b
+8g
+8a
+=8
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=9
+{8d
+8g
+8g
+=10
+16a
+16b
+4cc
+=11
+8b
+8g
+8g
+=12
+16a
+16b
+4cc}
+!!LO:LB:g=esac
+=13
+{8b
+8g
+8a
+=14
+16a
+16f#
+4g}
+==
+*-
+!!!ONB: wariant t. 10 i 12: 234_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=316 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 287} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 287}
+!!!page: 287
+!!!ONB: Converted on 2024/12/26 with esac2hum

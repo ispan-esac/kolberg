@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7707300000-a_czyje_to_koniki.krn
+!!!OTL: A czyje to koniki
+!!!source: DWOK77
+!!!id: 77073
+!!!signature: 7707300000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16b-
+16dd
+8ee
+8ff
+=2
+8dd
+8ff
+8ff
+=3
+16ee
+16cc
+8ee
+8ff
+=4
+8dd
+8b-
+8f}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8cc
+8b-
+=6
+8dd
+8ff
+8ff
+=7
+16ee-
+16cc
+8a
+8b-
+=8
+8dd
+8b-
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 62
+!!!ONB: Converted on 2024/12/26 with esac2hum

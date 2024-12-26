@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK57158500000-na_pole_kernyci.krn
+!!!OTL: Na połe kernyci
+!!!source: DWOK57
+!!!id: 571585
+!!!signature: 57158500000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+=1
+*M3/4
+{8b-
+8dd
+8dd
+8dd
+8cc
+8a
+=2
+8b-
+8dd
+8dd
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=3
+*M4/4
+{8b-
+8b-
+8f
+8f
+4.dd
+8cc
+=4
+8b-
+8b-
+8cc
+8cc
+4.b-
+8b-}
+==
+*-
+!!!ONB: Wariant t. 3-4: 1-71_-5_-5_3__.2_  1-71_2_2_1__.1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 629
+!!!ONB: Converted on 2024/12/26 with esac2hum

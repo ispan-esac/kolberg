@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK41121500012-za_krakusa_ludzie_zyli.krn
+!!!OTL: Za Krakusa ludzie żyli
+!!!source: DWOK41
+!!!id: 411215
+!!!signature: 41121500012
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+16cc
+16b
+=2
+8a
+8cc
+8cc
+8cc
+=3
+8b
+8dd
+8dd
+16cc
+16b
+=4
+8a
+4.cc}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+16cc
+16b
+=6
+8a
+8cc
+8cc
+8cc
+=7
+8b
+8dd
+8f#
+8a
+=8
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=626 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 539} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 539}
+!!!page: 539
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2214900000-wysla_na_polecko_zytecko_sie_klosi.krn
+!!!OTL: Wysła na polecko żytecko się kłosi
+!!!source: DWOK22
+!!!id: 22149
+!!!signature: 2214900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4ee
+8cc
+8a
+=2
+8b
+8dd
+8dd
+8cc
+8a
+8f#
+=3
+8d
+8g
+8f#
+8g
+8a
+8f#
+=4
+8g
+8b
+8b
+8a
+8f#
+8d}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4b
+8g
+8f#
+=6
+8d
+8f#
+8a
+8f#
+8g
+8dd
+=7
+8a
+8cc
+4b
+8g
+8f#
+=8
+8d
+8f#
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 98} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

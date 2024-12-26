@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK5618400000-z_czego_budujecie_jaworowe_mosty.krn
+!!!OTL: Z czego budujecie jaworowe mosty
+!!!source: DWOK56
+!!!id: 56184
+!!!signature: 5618400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8a
+8b
+8cc
+4dd
+4dd
+=2
+8dd
+8ee
+8dd
+8cc
+4b
+4dd}
+!!LO:LB:g=esac
+=3
+{4.cc
+8a
+8b
+8dd
+16b
+16a
+8g
+=4
+4.cc
+8a
+8b
+8dd
+16b
+16a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 201} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 201}
+!!!page: 201
+!!!ONB: Converted on 2024/12/26 with esac2hum

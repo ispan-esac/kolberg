@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK2325100000-uwazcie_chrzescianie_w_serca_zalosci.krn
+!!!OTL: Uważcie chrześcianie w serca żałości
+!!!source: DWOK23
+!!!id: 23251
+!!!signature: 2325100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+8cc
+8a
+=3
+8dd
+16dd
+16b
+8cc
+16a
+16f#
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+=6
+4dd
+4a
+=7
+8dd
+8b
+8cc
+8f#
+=8
+2g}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+8b
+8cc
+=10
+4dd
+4a
+=11
+8dd
+8b
+8cc
+8f#
+=12
+2g}
+!!LO:LB:g=esac
+=13
+{8b
+16dd
+16b
+16ee
+16dd
+16cc
+16b
+=14
+2a
+=15
+8a
+16b
+16cc
+16dd
+16cc
+16b
+16a
+=16
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 242} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2824500000-kasia_po_sadzie_chodzila.krn
+!!!OTL: Kasia po sadzie chodziła
+!!!source: DWOK28
+!!!id: 28245
+!!!signature: 2824500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8d
+8f#
+8a
+8cc
+8b
+8a
+=2
+8g
+8a
+8b
+4g}
+8r
+!!LO:LB:g=esac
+=3
+{8d
+8f#
+8a
+8cc
+8b
+8a
+=4
+8g
+8a
+8b
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8a
+8cc
+8ee
+8ee
+=6
+8ee
+8dd
+8dd
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+8a
+8cc
+8b
+8a
+=8
+8g
+8a
+8b
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=270 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 251} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

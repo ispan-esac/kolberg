@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK3401700000-w_batenkam_bula.krn
+!!!OTL: W bateńkam buła
+!!!source: DWOK34
+!!!id: 34017
+!!!signature: 3401700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8g#
+4a
+4e
+=2
+2g#
+4e
+=3
+8cc
+8g#
+4a
+4e
+=4
+4g#
+2a
+=5
+8g#
+8e}
+4r
+4r
+!!LO:LB:g=esac
+=6
+{8cc
+8g#
+2a
+=7
+4e
+2g#
+=8
+8a
+8b
+8cc
+8b
+4g#
+=9
+2e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=32 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 15} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 15}
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

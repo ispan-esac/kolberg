@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK02-K0285-napijwa_sie_marys.krn
+!!!OTL: Napijwa sie Marys
+!!!source: DWOK02
+!!!id: K0285
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4g
+8g
+=2
+16g
+16g
+8g
+8g
+=3
+4a
+8g
+=4
+16d
+16f
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{4gg
+8gg
+=6
+16gg
+16gg
+8gg
+8gg
+=7
+4aa
+8ff#
+=8
+16dd
+16ff#
+8aa
+8gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 217} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 217}
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

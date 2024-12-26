@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK2738700000-mazur_ja_mazur.krn
+!!!OTL: Mazur ja Mazur
+!!!source: DWOK27
+!!!id: 27387
+!!!signature: 2738700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.g
+32a
+8b
+8cc
+=2
+4dd
+8b
+=3
+16.b
+32cc
+8cc
+8a
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16.g
+32b
+8b
+8cc
+=6
+4dd
+16b
+16g
+=7
+16.b
+32cc
+8cc
+16a
+16f#
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{16.g
+32b
+8b
+8g
+=10
+16b
+16cc
+8dd
+8a
+=11
+16.g
+32b
+8b
+16a
+16g
+=12
+16b
+16cc
+8dd
+16a
+16f#}
+!!LO:LB:g=esac
+=13
+{16.d
+32cc
+8cc
+8a
+=14
+16.g
+32b
+8b
+16b
+16g
+=15
+16d
+16cc
+8cc
+8a
+=16
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=361 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 342} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 342}
+!!!page: 342
+!!!ONB: Converted on 2024/12/26 with esac2hum

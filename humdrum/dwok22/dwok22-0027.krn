@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK2202700000-witam_cie_witam_przenajswietsze_cialo.krn
+!!!OTL: Witam cię witam przenajświętsze ciało
+!!!source: DWOK22
+!!!id: 22027
+!!!signature: 2202700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/2
+=1
+{4f
+4f
+4f
+4g
+2f
+=2
+4f
+4a
+4a
+8g
+8f
+4g
+4f}
+!!LO:LB:g=esac
+=3
+{4g
+4e
+4g
+4g
+2g
+=4
+4g
+4b-
+4b-
+8a
+8g
+8a
+8g
+4f}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+4a
+4a
+2a
+=6
+4a
+4cc
+4cc
+8b-
+8a
+2b-}
+!!LO:LB:g=esac
+=7
+{4g
+4e
+4g
+4g
+2g
+=8
+4g
+4b-
+4b-
+8a
+8g
+2a
+=9
+4a
+4b-
+4cc
+4a
+4g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 33-34} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, pp. 33-34}
+!!!page: 33-34
+!!!ONB: Converted on 2024/12/26 with esac2hum

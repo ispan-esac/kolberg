@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK4135800000-z_tamtej_strony_jeziora_lipka_zielona.krn
+!!!OTL: (Z tamtej strony jeziora lipka zielona)
+!!!source: DWOK41
+!!!id: 41358
+!!!signature: 4135800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+{8g
+8g
+8cc
+24b
+24cc
+24dd
+=
+8cc
+24b
+24cc
+24dd
+4cc}
+!!LO:LB:g=esac
+=
+{8dd
+8ee
+8ff
+24ff
+24gg
+24ff
+=
+8ee
+24dd
+24cc
+24b
+4a}
+!!LO:LB:g=esac
+=1
+{8ee
+16ee
+16cc
+8dd
+8g
+=
+8cc
+8b
+8dd
+24cc
+24b
+24a
+=2
+4a
+4g}
+!!LO:LB:g=esac
+=
+{8cc
+8b
+8cc
+24dd
+24ee
+24ff
+=
+8ee
+24dd
+24cc
+24b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=283 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 204} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 204}
+!!!page: 204
+!!!ONB: Converted on 2024/12/26 with esac2hum

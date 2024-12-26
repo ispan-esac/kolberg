@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7744600011-oj_pojdzmy_do_domu.krn
+!!!OTL: Oj pójdźmy do domu
+!!!source: DWOK77
+!!!id: 77446
+!!!signature: 7744600011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8cc#
+8dd
+=2
+16a
+16cc#
+4dd
+=3
+8b
+8dd
+8dd
+=4
+16a
+16cc#
+4dd}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+=6
+16ee
+16cc
+8b
+8g
+=7
+8cc
+8b
+8g
+=8
+16d
+16f#
+4g}
+==
+*-
+!!!ONB: Od taktu 9 część instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

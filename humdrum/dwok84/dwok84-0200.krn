@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK8420000000-czlowik_kaze_proso.krn
+!!!OTL: Człowik każe proso
+!!!source: DWOK84
+!!!id: 84200
+!!!signature: 8420000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+8dd
+8dd
+=2
+4gg
+4b
+=3
+8cc
+8b
+8a
+8dd
+=4
+2b}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+=6
+8g
+8b
+4b
+=7
+8a
+8b
+8cc
+8ee
+=8
+8dd
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 190} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 190}
+!!!page: 190
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK3612000000-wity_misiaciu_z_raju.krn
+!!!OTL: Świty misiaciu z raju
+!!!source: DWOK36
+!!!id: 36120
+!!!signature: 3612000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+{8a
+8a
+8ee
+8ee
+8ff
+=1
+2ee
+8cc
+8b
+=2
+2a}
+4r
+!!LO:LB:g=esac
+=3
+{8g#
+8a
+4cc
+8ee
+8ee
+=4
+2ee
+8cc
+8b
+=5
+2a}
+4r
+!!LO:LB:g=esac
+=6
+{8b
+8cc
+4ee
+4ee
+=7
+4ee
+2ee
+=8
+8ee
+8cc
+2b}
+!!LO:LB:g=esac
+=9
+{8a
+8b
+4cc
+4cc
+=10
+8cc
+8a
+2b
+=11
+8a
+8g#
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 68
+!!!ONB: Converted on 2024/12/26 with esac2hum

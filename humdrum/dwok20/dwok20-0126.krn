@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2012600000-a_jak_ci_przyjdzie_sobota.krn
+!!!OTL: A jak ci przyjdzie sobota
+!!!source: DWOK20
+!!!id: 20126
+!!!signature: 2012600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+8r
+{8g
+8b
+8b
+8g
+8b
+=2
+8cc
+8dd
+4cc
+4g
+=3
+8r
+8g
+8b
+8b
+8b
+8b
+=4
+4.cc
+8b
+4g}
+!!LO:LB:g=esac
+=5
+8r
+{8g
+8b
+8b
+8g
+8b
+=6
+8cc
+8dd
+4cc
+4g
+=7
+8r
+8g
+8b
+8b
+16b
+16g
+16b
+16dd
+=8
+4.cc
+8b
+4g}
+==
+*-
+!!!ONB: W drugim takcie druga wartość jest zanotowana z kropką, zapisano poprawnie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 154} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 154}
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

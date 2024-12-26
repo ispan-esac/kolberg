@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK8424500001-uryla_sia_popadia_sweju_bydoju.krn
+!!!OTL: Żuryła sia popadia sweju bydoju
+!!!source: DWOK84
+!!!id: 84245
+!!!signature: 8424500001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16a
+16b
+8cc
+8ee
+8ee
+=2
+8dd
+16dd
+16ee
+16ff
+16ee
+8dd
+=3
+8cc
+8cc
+8b
+16cc
+16b
+=4
+2a
+=5
+16a
+16b
+8cc
+8ee
+8ee
+=6
+8dd
+16dd
+16ee
+16ff
+16ee
+8dd
+=7
+8cc
+8cc
+8b
+16cc
+16b
+=8
+2a
+=9
+4dd
+16dd
+16cc
+16dd
+16b
+=10
+2g
+=11
+4gg
+16gg
+16ff
+16gg
+16ff
+=12
+2ee}
+!!LO:LB:g=esac
+=13
+{8.bb
+16gg#
+8ee
+8ee
+=14
+8dd
+16dd
+16ee
+16ff
+16ee
+8dd
+=15
+8cc
+8cc
+8b
+16cc
+16b
+=16
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 229} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 229}
+!!!page: 229
+!!!ONB: Converted on 2024/12/26 with esac2hum

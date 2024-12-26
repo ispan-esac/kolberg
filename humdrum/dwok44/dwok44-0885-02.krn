@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK4488500002-kied_ja_z_karczmy.krn
+!!!OTL: Kied ja z karczmy
+!!!source: DWOK44
+!!!id: 44885
+!!!signature: 4488500002
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/4
+=1
+{8cc
+8dd
+4ee-
+4ee-
+=2
+8dd
+8ff
+8ee-
+8dd
+4cc
+=3
+8ff
+8ff
+8ee-
+8dd
+4cc}
+!!LO:LB:g=esac
+=4
+{2dd
+4b
+=5
+8g
+8a
+4b
+4cc
+=6
+2dd
+4b
+=7
+8b
+8g
+4b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=473 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 415} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 415}
+!!!page: 415
+!!!ONB: Converted on 2024/12/26 with esac2hum

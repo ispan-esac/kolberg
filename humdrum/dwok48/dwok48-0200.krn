@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4820000000-w_tym_kielichu_podle_zycie.krn
+!!!OTL: W tym kielichu podłe życie
+!!!source: DWOK48
+!!!id: 48200
+!!!signature: 4820000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+8b
+8g
+8.dd
+16b
+=2
+8b
+4.a}
+4r
+!!LO:LB:g=esac
+=3
+{8a
+8b
+8cc
+8cc
+8ee
+8dd
+=4
+8cc
+4.b}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8g
+8.dd
+16b
+=6
+8b
+4.a}
+4r
+!!LO:LB:g=esac
+=7
+{8ee
+8ee
+8dd
+8dd
+8cc
+8f#
+=8
+8a
+4.g}
+4r
+==
+*-
+!!!ONB: Wariant t. 7: 6_6_5_5_4_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 229} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 229}
+!!!page: 229
+!!!ONB: Converted on 2024/12/26 with esac2hum

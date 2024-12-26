@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2634300000-a_wiem_ci_ja_wiem.krn
+!!!OTL: A wiem ci ja wiem
+!!!source: DWOK26
+!!!id: 26343
+!!!signature: 2634300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16dd
+16ee
+8dd
+8dd
+=3
+16b
+16b
+8dd
+16cc
+16b
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8a
+8a
+=6
+16g
+16b
+8dd
+16dd
+16cc
+=7
+16b
+16g
+8cc
+16a
+16f#
+=8
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 256
+!!!ONB: Converted on 2024/12/26 with esac2hum

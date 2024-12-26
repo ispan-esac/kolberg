@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK57130400002-kolo_haju_pochodzaju.krn
+!!!OTL: Koło haju pochodżaju
+!!!source: DWOK57
+!!!id: 571304
+!!!signature: 57130400002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16cc
+16dd
+8ee
+16ff
+16ee
+8ff
+=2
+8ff
+8ff
+16ff
+16ee
+8ff
+=3
+8ff
+8ff
+8ff
+8ee
+=4
+4gg
+4gg}
+!!LO:LB:g=esac
+=5
+{16ff
+16ee
+8ee
+8ee
+8ee
+=6
+8ee
+8ee
+8ee
+8ff
+=7
+8ff
+8ee
+16ee
+16dd
+8cc
+=8
+4cc
+4gg}
+!!LO:LB:g=esac
+=9
+{8ee
+16ff
+16ee
+16dd
+16ee
+8cc
+=10
+16dd
+16ee
+8cc
+8ee
+8ff
+=11
+8ff
+8ee
+16ee
+16dd
+8cc
+=12
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 396
+!!!ONB: Converted on 2024/12/26 with esac2hum

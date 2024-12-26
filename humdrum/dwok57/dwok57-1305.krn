@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK57130500000-kolo_haju_pochodzaju.krn
+!!!OTL: Koło haju pochodżaju
+!!!source: DWOK57
+!!!id: 571305
+!!!signature: 57130500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8dd
+8a
+8cc
+=2
+8b
+8b
+8a
+8f#
+=3
+8g
+8dd
+8a
+8cc
+=4
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{8g
+8dd
+8a
+8cc
+=6
+8b
+8b
+8a
+8f#
+=7
+8g
+8g
+8f#
+8f#
+=8
+4g
+4g}
+==
+*-
+!!!ONB: Wariant t. 3-4: 135_2_4_  3__2_-7_; wariant t. 7: 1_1_-5_-7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 396
+!!!ONB: Converted on 2024/12/26 with esac2hum

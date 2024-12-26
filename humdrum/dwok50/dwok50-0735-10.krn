@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK5073500010-instrumentalna_-_mazur.krn
+!!!OTL: Instrumentalna - Mazur
+!!!source: DWOK50
+!!!id: 50735
+!!!signature: 5073500010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16ee
+16dd
+16cc
+16b
+16cc
+=2
+16b
+16a
+8g
+16f#
+16e
+=3
+16d
+16a
+8cc
+16cc
+16a
+=4
+16b
+16a
+16b
+16cc
+8dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16ee
+16dd
+16cc
+16b
+16cc
+=6
+16b
+16a
+8g
+16f#
+16e
+=7
+16d
+16a
+8cc
+16a
+16f#
+=8
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=462 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 429-430} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, pp. 429-430}
+!!!page: 429-430
+!!!ONB: Converted on 2024/12/26 with esac2hum

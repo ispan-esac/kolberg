@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4809900000-oj_jakem_sie_zalical.krn
+!!!OTL: Oj, jakem się zalicał
+!!!source: DWOK48
+!!!id: 48099
+!!!signature: 4809900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+16dd
+16dd
+8b
+8dd
+=3
+8cc
+8ee
+8ee
+=4
+16ee
+16ff#
+8gg
+8gg}
+!!LO:LB:g=esac
+=5
+{16ee
+16dd
+8gg
+16dd
+16b
+=6
+8b
+4a
+=7
+16f#
+16a
+8cc
+16cc
+16a
+=8
+8a
+4g}
+==
+*-
+!!!ONB: Wariant t. 3: 4_6_65; wariant t. 5-6: 65+1_3_  322__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 154} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 154}
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

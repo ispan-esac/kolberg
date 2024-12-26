@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK02-K0236-na_brzegu_dunaju.krn
+!!!OTL: Na brzegu dunaju
+!!!source: DWOK02
+!!!id: K0236
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8cc
+8a
+8b
+=2
+4.g
+8b
+=3
+8cc
+8ee
+8gg
+16gg
+16ff#
+=4
+4.dd
+8b}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8a
+8b
+=6
+4.g
+8b
+=7
+8cc
+8dd
+8ee
+8f#
+=8
+8g
+4.g}
+!!LO:LB:g=esac
+=9
+{8f#
+8f#
+8d
+16e
+16f#
+=10
+4.g
+8b
+=11
+8cc
+16b
+16cc
+8a
+16f#
+16a
+=12
+4.g
+8b}
+!!LO:LB:g=esac
+=13
+{8g
+8f#
+8d
+16e
+16f#
+=14
+4.g
+8b
+=15
+8b
+8a
+8e
+8f#
+=16
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 196} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

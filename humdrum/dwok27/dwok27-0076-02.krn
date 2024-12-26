@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2707600002-a_w_tym_kole_moj_miesiacku.krn
+!!!OTL: A w tym kole mój miesiącku
+!!!source: DWOK27
+!!!id: 27076
+!!!signature: 2707600002
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{16a
+16a
+8a
+8cc#
+=2
+16dd
+16cc#
+8a
+8g
+=3
+8.gg
+16dd
+8gg
+=4
+4.ee}
+!!LO:LB:g=esac
+=5
+{8.dd
+16ee
+16gg
+16ff
+=6
+16ee
+16dd
+8a
+8g
+=
+4cc
+24g
+24a
+24b-
+=7
+4.a}
+==
+*-
+!!!ONB: zakodować w A
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 182} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 182}
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

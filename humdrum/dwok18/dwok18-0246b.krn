@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK18246b0000-lec_glosie_po_rosie.krn
+!!!OTL: Leć głosie po rosie
+!!!source: DWOK18
+!!!id: 18246b
+!!!signature: 18246b0000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16b
+8cc
+8a
+=2
+8b
+4g#
+=3
+16cc
+16ee
+8dd#
+8ff#
+=4
+8dd#
+4ee}
+!!LO:LB:g=esac
+=5
+{16dd
+16b
+8a
+8cc
+=6
+8b
+4g#
+=7
+16e
+16f#
+8g#
+8f#
+=8
+8g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 143} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 143}
+!!!page: 143
+!!!ONB: Converted on 2024/12/26 with esac2hum

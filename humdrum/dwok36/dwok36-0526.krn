@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK3652600000-hej_na_te_chlopci_taj_z_chaty.krn
+!!!OTL: Hej na te chłopci taj z chaty
+!!!source: DWOK36
+!!!id: 36526
+!!!signature: 3652600000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=1
+{4b
+8b
+8g
+4dd
+4dd
+=2
+4dd
+8cc
+8b
+4cc
+4d
+=3
+4d
+4cc
+4f#
+4f#
+=4
+8e
+8d#
+8e
+8g
+2b}
+!!LO:LB:g=esac
+=5
+{4.b
+8f#
+4a
+4a
+=6
+4a
+8g
+8f#
+4g
+4g
+=7
+4f#
+4f#
+4d#
+4B
+=8
+8e
+8d#
+8e
+8g
+2b}
+!!LO:LB:g=esac
+=9
+{4.b
+8f#
+4a
+4a
+=10
+4a
+8g
+8f#
+4g
+4g
+=11
+4f#
+4f#
+4b
+4d#
+=12
+4.f#
+8e
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 345
+!!!ONB: Converted on 2024/12/26 with esac2hum

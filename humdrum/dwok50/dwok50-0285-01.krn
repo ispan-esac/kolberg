@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK5028500001-ej_w_hori_hajom_ta_dolom_hajom.krn
+!!!OTL: Ej, w hori hajom, ta dołom hajom
+!!!source: DWOK50
+!!!id: 50285
+!!!signature: 5028500001
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8dd
+16dd
+16b
+8dd
+8g
+=2
+8b
+16b
+16cc
+8b
+8a}
+!!LO:LB:g=esac
+=3
+*M3/8
+{16g
+16a
+16b
+16g
+16f#
+16e
+=4
+16d
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 142} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 142}
+!!!page: 142
+!!!ONB: Converted on 2024/12/26 with esac2hum

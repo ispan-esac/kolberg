@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2500900000-a_gdzie_mnie_odjezdzas_walusienku.krn
+!!!OTL: A gdzie mnie odjezdzas Walusieńku
+!!!source: DWOK25
+!!!id: 25009
+!!!signature: 2500900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8f#
+8g
+8b
+8cc
+8a
+8g
+=2
+8f#
+4.g
+8b
+8cc
+=3
+4.dd
+8cc
+8b
+8g}
+!!LO:LB:g=esac
+=4
+{4dd
+8b
+8cc
+8dd
+8cc
+=5
+8a
+8g
+8b
+8a
+8cc
+[8f#
+=6
+8f#]
+4.g
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{4dd
+8b
+8cc
+8dd
+8cc
+=8
+8a
+8g
+8b
+8a
+8cc
+[8f#
+=9
+8f#]
+4.g
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=30 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 5} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 5}
+!!!page: 5
+!!!ONB: Converted on 2024/12/26 with esac2hum

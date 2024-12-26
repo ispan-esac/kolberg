@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK4113800000-ach_ach_laboga_coz_za_nielaska.krn
+!!!OTL: Ach, ach laboga cóż za niełaska
+!!!source: DWOK41
+!!!id: 41138
+!!!signature: 4113800000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+=1
+*M3/4
+{4dd
+4b-
+4cc
+=2
+4.dd
+8cc
+8b-
+8a
+=3
+8g
+8b-
+4a
+4b-
+=4
+2.g}
+!!LO:LB:g=esac
+=5
+{4dd
+4b-
+4cc
+=6
+4.dd
+8cc
+8b-
+8a
+=7
+8g
+8b-
+4a
+4b-
+=8
+2.g}
+!!LO:LB:g=esac
+=9
+*M2/4
+{8d
+8d
+4g
+=10
+8f#
+8g
+4a}
+!!LO:LB:g=esac
+=11
+{8a
+8a
+4cc
+=12
+8b-
+8cc
+4dd}
+!!LO:LB:g=esac
+=13
+{8b-
+8a
+4b-
+=14
+8g
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 97} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 97}
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

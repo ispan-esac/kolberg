@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK7714000000-darmo_mi_sie_nie_zalicaj.krn
+!!!OTL: Darmo mi się nie zalicaj
+!!!source: DWOK77
+!!!id: 77140
+!!!signature: 7714000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4ee
+4cc
+=2
+8b
+8g
+4f#
+4f#
+=3
+8g
+8b
+4a
+4cc
+=4
+8b
+8g
+4f#
+4f#}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4a
+4cc
+=6
+8b
+8dd
+8ee
+8dd
+8cc
+8a
+=7
+8g
+8b
+4a
+4cc
+=8
+8b
+8g
+4f#
+4f#}
+==
+*-
+!!!ONB: Wariant w t. 2: 31-7_-2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 89
+!!!ONB: Converted on 2024/12/26 with esac2hum

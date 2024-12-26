@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK57166300000-oj_jak_piszly_rybaczenki.krn
+!!!OTL: Oj, jak piszły rybaczeńki
+!!!source: DWOK57
+!!!id: 571663
+!!!signature: 57166300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+4g
+=2
+8b
+4dd
+=3
+8a
+4a
+=4
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+4g
+=6
+8b
+4dd
+=7
+8a
+4dd
+=8
+4.dd}
+!!LO:LB:g=esac
+=9
+{8ee
+4ee
+=10
+8a
+4ee
+=11
+8dd
+4g
+=12
+8dd
+4dd}
+!!LO:LB:g=esac
+=13
+{8cc
+4e
+=14
+8f#
+4a
+=15
+4g}
+8r
+==
+*-
+!!!ONB: Wariant t. 10: 266; wariant t. 14: -7_.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 739
+!!!ONB: Converted on 2024/12/26 with esac2hum

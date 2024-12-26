@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1929000000-a_bodajess_przepadsla.krn
+!!!OTL: A bodajeśś przepadśła
+!!!source: DWOK19
+!!!id: 19290
+!!!signature: 1929000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16a
+16b
+8cc
+8dd
+=2
+8ee
+8ee
+8dd
+=3
+16ff#
+16ee
+8dd
+16b
+16g
+=4
+8a
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+16ee
+16dd
+16b
+16g
+=6
+8a
+8cc
+8cc
+=7
+16ee
+16dd
+16ff
+16dd
+16b
+16g
+=8
+8a
+8cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 89} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 89}
+!!!page: 89
+!!!ONB: Converted on 2024/12/26 with esac2hum

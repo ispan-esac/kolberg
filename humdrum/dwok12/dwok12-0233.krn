@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK1223300000-a_gdzie_to_jedzieszza_kalisz.krn
+!!!OTL: A gdzie to jedziesz?Za Kalisz
+!!!source: DWOK12
+!!!id: 12233
+!!!signature: 1223300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8g
+8a
+8b
+4cc
+8a
+=2
+4dd
+8b
+4g
+8r
+=3
+8b
+8cc
+8dd
+4ee
+8cc
+=4
+4a
+8f#
+4d}
+8r
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8a
+4cc
+8a
+=6
+4b
+8b
+4.g
+=7
+4a
+8f#
+4f#
+8g
+=8
+4a
+8f#
+4.d}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+8a
+4cc
+8a
+=10
+4b
+8b
+4.g
+=11
+8a
+8f#
+8f#
+4f#
+8g
+=12
+4a
+8f#
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 124} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

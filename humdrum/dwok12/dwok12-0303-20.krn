@@ -1,0 +1,115 @@
+!!!!SEGMENT: DWOK1230300020-instrumentalna-powiedziales_ze_mnie_wezniesz.krn
+!!!OTL: Instrumentalna-Powiedziałeś że mnie weźniesz
+!!!source: DWOK12
+!!!id: 12303
+!!!signature: 1230300020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16ff
+8gg
+16gg
+16ff
+=2
+16ee
+16dd
+8gg
+16dd
+16cc
+=3
+16ee
+16ff
+8gg
+16gg
+16ff
+=4
+16dd
+16b
+4g}
+!!LO:LB:g=esac
+=
+{16dd
+16ff
+16ee
+16ff
+24gg
+24ff
+24ee
+=
+24dd
+24ee
+24ff
+8gg
+16dd
+16cc
+=
+24dd
+24ee
+24ff
+8cc
+16ff
+16ee
+=5
+8dd
+4g}
+!!LO:LB:g=esac
+=6
+{16dd
+16ff
+8gg
+16gg
+16ff
+=7
+16ee
+16dd
+8gg
+16dd
+16cc
+=8
+16ee
+16ff
+8gg
+16gg
+16ff
+=9
+16dd
+16b
+4g}
+!!LO:LB:g=esac
+=
+{16dd
+16ff
+16ee
+16ff
+24gg
+24ff
+24ee
+=
+24dd
+24ee
+24ff
+8gg
+16dd
+16cc
+=
+24dd
+24ee
+24ff
+8cc
+16ff
+16ee
+=10
+8dd
+4g}
+==
+*-
+!!!ONB: U Kolberga w taktach 5,6,7 brak oznaczenia triol, zapisano poprawnie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 162} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 162}
+!!!page: 162
+!!!ONB: Converted on 2024/12/26 with esac2hum

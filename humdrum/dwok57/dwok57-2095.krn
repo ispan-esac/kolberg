@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK57209500000-ach_kiedyz_sie_skoncza_moje_udreczenia.krn
+!!!OTL: Ach, kiedyż się skończą moje udręczenia
+!!!source: DWOK57
+!!!id: 572095
+!!!signature: 57209500000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=1
+{8a
+8a
+8.dd
+16b-
+4a
+4g
+=2
+8f
+8f
+8a
+8c#
+8d
+8e
+8f
+8g}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8.dd
+16b-
+4.a
+8g
+=4
+8f
+8f
+8a
+8c#
+4d
+4d}
+!!LO:LB:g=esac
+=5
+{8f
+8f
+8e
+8f
+4.g
+8c
+=6
+8d
+8e
+8f
+8g
+4.a
+8d}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8dd
+8b-
+4.a
+8d
+=8
+16f
+16e
+8f
+8a
+8c#
+4d
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1153
+!!!ONB: Converted on 2024/12/26 with esac2hum

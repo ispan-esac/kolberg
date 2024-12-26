@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK1235100001-z_tej_ta_strony_zarzecza.krn
+!!!OTL: Z tej ta strony zarzecza
+!!!source: DWOK12
+!!!id: 12351
+!!!signature: 1235100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8.dd
+16cc
+=2
+8b
+8dd
+4g
+=3
+8cc
+8b
+8a
+8f#
+=4
+16g
+16a
+8b
+16g
+16a
+8b}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8a
+8f#
+=6
+8g
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 185} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 185}
+!!!page: 185
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2618900000-o_boze_boze_co_mnie_maz_bije.krn
+!!!OTL: O Boże Boże co mnie mąż bije
+!!!source: DWOK26
+!!!id: 26189
+!!!signature: 2618900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+2dd
+=3
+8cc#
+8dd
+16ee
+16dd
+8cc#
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+=6
+8b
+8g
+8b
+8dd
+=7
+4a
+4a
+=8
+8g
+8e
+8e
+8d
+=9
+8f#
+8a
+8a
+8b
+=10
+2g}
+!!LO:LB:g=esac
+=11
+{4dd
+4dd
+=12
+8b
+8g
+8b
+8dd
+=13
+4a
+4a
+=14
+8b
+8e
+8e
+8d
+=15
+8f#
+8a
+8a
+8b
+=16
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 169
+!!!ONB: Converted on 2024/12/26 with esac2hum

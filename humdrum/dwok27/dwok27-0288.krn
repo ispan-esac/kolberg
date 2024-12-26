@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2728800000-miedzy_ogrody_tam_bystre_wody.krn
+!!!OTL: Między ogrody tam bystre wody
+!!!source: DWOK27
+!!!id: 27288
+!!!signature: 2728800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8ff
+8ff
+=2
+4ee
+8cc
+=3
+8a
+8ff
+8dd
+=4
+4ee
+8cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8a
+=6
+8cc
+8cc
+8ee
+=7
+8dd
+8ee
+8cc
+=8
+4a
+8a}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8a
+=10
+8cc
+8cc
+8ee
+=11
+8dd
+8ee
+16cc
+16b
+=12
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=313 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 294} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 294}
+!!!page: 294
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK1647900001-sluzyl_jasio_u_pana_za_wielkiego_dworzana.krn
+!!!OTL: Służył Jasio u pana za wielkiego dworzana
+!!!source: DWOK16
+!!!id: 16479a
+!!!signature: 1647900001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+16g#
+16a
+4b
+4ee
+=2
+8dd#
+8ee
+2b
+=3
+8dd
+16cc
+16b
+4a
+4b
+=4
+8b
+8g
+2e}
+!!LO:LB:g=esac
+=5
+{8g#
+8a
+2ee
+=6
+8dd
+16cc
+16b
+4a
+4ee
+=7
+8cc
+8b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=314 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 294} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 294}
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK42137200000-w_sadzie_wisnie.krn
+!!!OTL: W sadzie wiśnie
+!!!source: DWOK42
+!!!id: 421372
+!!!signature: 42137200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8ee
+4dd
+4a
+=2
+8dd
+8ee
+4dd
+4a
+=3
+4b
+8dd
+8cc
+8b
+8a
+=4
+4g
+2d}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+4e
+4g
+=6
+8f#
+8f#
+4f#
+4a
+=7
+4b
+8dd
+8cc
+8b
+8a
+=8
+4g
+4f#
+4d}
+==
+*-
+!!!ONB: wariant w takcie drugim 546_5__2__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=27 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 18} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 18}
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK7625700010-eby_ja_wiedziala.krn
+!!!OTL: Żeby ja wiedziała
+!!!source: DWOK76
+!!!id: 76257
+!!!signature: 7625700010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+4cc
+=2
+8a
+4g
+8g
+=3
+8.g
+16b
+8dd
+8cc
+=4
+8ee
+4.cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+4cc
+=6
+8a
+4g
+8g
+=7
+8.a
+16g
+8a
+8b
+=8
+8cc
+4.cc}
+==
+*-
+!!!ONB: Część wokalna, wariant t. 5: +3_+2_+3_+1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 133} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 133}
+!!!page: 133
+!!!ONB: Converted on 2024/12/26 with esac2hum

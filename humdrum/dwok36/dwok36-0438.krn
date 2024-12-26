@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3643800000-nastupaje_czorna_chmara.krn
+!!!OTL: Nastupaje czorna chmara
+!!!source: DWOK36
+!!!id: 36438
+!!!signature: 3643800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4.a
+8g
+8a
+8dd
+=2
+4.cc
+8dd
+8cc
+8g
+=3
+4.a
+8g
+8a
+8dd
+=4
+4cc
+2g}
+!!LO:LB:g=esac
+=5
+{4.cc
+8dd
+8ee
+8ff
+=6
+8dd
+8ee
+4a
+4ff
+=7
+8ee
+8dd
+4cc
+4g
+=8
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 279
+!!!ONB: Converted on 2024/12/26 with esac2hum

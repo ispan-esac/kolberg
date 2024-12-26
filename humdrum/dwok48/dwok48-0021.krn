@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4802100000-prosili_mnie_na_wesele.krn
+!!!OTL: Prosili mnie na wesele
+!!!source: DWOK48
+!!!id: 48021
+!!!signature: 4802100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16ee
+8ee
+8ee
+=2
+16cc
+16b
+8a
+8a
+=3
+16b
+16cc
+8b
+8ee
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{16a
+16ee
+8ee
+8ee
+=6
+16cc
+16b
+8a
+8a
+=7
+16b
+16b
+8b
+8ee
+=8
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 94} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 94}
+!!!page: 94
+!!!ONB: Converted on 2024/12/26 with esac2hum

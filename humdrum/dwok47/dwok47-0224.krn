@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK4722400000-towarzyszko_zycia_wiosny.krn
+!!!OTL: Towarzyszko życia wiosny
+!!!source: DWOK47
+!!!id: 47224
+!!!signature: 4722400000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8dd
+8cc#
+4dd
+4gg
+=2
+8dd
+8cc#
+4.dd
+8g
+=3
+8a
+8a
+4.a
+8cc
+=4
+8b-
+8a
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4dd
+4gg
+=6
+8dd
+8cc#
+8dd
+8b-
+8a
+8g
+=7
+8a
+8a
+4.a
+8cc
+=8
+8b-
+8a
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+4f#
+4d
+=10
+8g
+8a
+4b-
+4b
+=11
+8dd
+8dd
+4dd
+4cc
+=12
+8b-
+8a
+4g
+4g}
+!!LO:LB:g=esac
+=13
+{8d
+8f#
+4f#
+4d
+=14
+8g
+8a
+8b-
+8a
+8b
+8cc
+=15
+8dd
+8dd
+4dd
+4cc
+=16
+8b-
+8a
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 212} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 212}
+!!!page: 212
+!!!ONB: Converted on 2024/12/26 with esac2hum

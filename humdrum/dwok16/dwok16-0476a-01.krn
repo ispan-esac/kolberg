@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK1647600001-oj_tam_w_lubinie.krn
+!!!OTL: Oj tam w Lubinie
+!!!source: DWOK16
+!!!id: 16476a
+!!!signature: 1647600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+4dd
+8dd
+=3
+8dd
+8gg
+8ff#
+=4
+4gg
+8dd
+=5
+4ee
+8dd
+=6
+8cc
+4b}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8cc
+=8
+8dd
+4dd
+=9
+8cc
+4b
+=10
+8g
+4b
+=11
+8g
+8b
+8cc
+=12
+4dd
+8dd
+=13
+8cc
+4b
+=14
+4g
+8g}
+!!LO:LB:g=esac
+=15
+{8g
+8b
+8cc
+=16
+8dd
+4dd
+=17
+8cc
+8b
+8g
+=18
+8g
+4b
+=19
+8g
+8b
+8cc
+=20
+4dd
+8dd
+=21
+8cc
+8b
+8g
+=22
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 291} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 291}
+!!!ONB: Converted on 2024/12/26 with esac2hum

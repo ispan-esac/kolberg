@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4655100000-nad_pilica_we_wsi_brogu.krn
+!!!OTL: Nad Pilicą, we wsi Brogu
+!!!source: DWOK46
+!!!id: 46551
+!!!signature: 4655100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8cc
+8b-
+4a
+4a
+=2
+8g
+8f
+4g
+4f}
+!!LO:LB:g=esac
+=3
+{8ff
+8ee
+4dd
+4dd
+=4
+8dd
+8ff
+8ee
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4ee
+4cc
+=6
+8cc
+8ee
+4ff
+4a}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+4.g
+8g
+=8
+8a
+8g
+4g
+4f}
+==
+*-
+!!!ONB: war. t. 6: (565)+1_3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=370 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 336} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 336}
+!!!page: 336
+!!!ONB: Converted on 2024/12/26 with esac2hum

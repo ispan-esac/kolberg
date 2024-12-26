@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3401100002-neszczaslywyj_czolowik_na_swit_narodywsia.krn
+!!!OTL: Neszczasływyj czołowik na świt narodywsia
+!!!source: DWOK34
+!!!id: 34011
+!!!signature: 3401100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4b
+8dd
+8dd
+=2
+4cc
+2b
+=3
+4g
+4b
+8dd
+8dd
+=4
+4cc
+2b}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4.dd
+8ee
+=6
+8dd
+8cc
+8b
+8a
+4g
+=7
+4b
+4dd
+8a
+8a
+=8
+2g
+4g}
+==
+*-
+!!!ONB: Inna melodya
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=29 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 12} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 12}
+!!!page: 12
+!!!ONB: Converted on 2024/12/26 with esac2hum

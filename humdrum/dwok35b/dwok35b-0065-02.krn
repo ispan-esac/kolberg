@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK35B-35B06500002-oj_iszol-ze_ja_bez_lis_temnejki.krn
+!!!OTL: Oj iszoł-że ja bez lis temnejki
+!!!source: DWOK35B
+!!!id: 35B065
+!!!signature: 35B06500002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8a
+8b
+8dd
+=2
+4cc
+8b
+8g#
+=3
+8a
+8a
+8b
+16b
+16g#
+=4
+2e}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8dd
+8ff#
+=6
+4ee
+8dd
+8a
+=7
+8cc
+8cc
+8b
+16b
+16dd
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 165} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 165}
+!!!page: 165
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK1223500000-o_wy_matusiu_wy_moja.krn
+!!!OTL: O wy matusiu, wy moja
+!!!source: DWOK12
+!!!id: 12235
+!!!signature: 1223500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.a
+16gg
+8ee
+8dd
+4b
+=2
+4dd
+4ee
+8cc
+16a
+16r
+=3
+8.a
+16gg
+8ee
+8dd
+4b
+=4
+4b
+4a
+8f#
+16d}
+16r
+!!LO:LB:g=esac
+=5
+{8.d
+16f#
+8a
+8a
+4b
+=6
+4b
+4dd
+8cc
+16a
+16r
+=7
+8.a
+16f#
+8a
+8cc
+4b
+=8
+4g
+4a
+8f#
+16d}
+16r
+!!LO:LB:g=esac
+=9
+{8.d
+16f#
+8a
+8a
+4b
+=10
+4b
+4dd
+8cc
+16a
+16r
+=11
+8.a
+16f#
+8a
+8cc
+4b
+=12
+4g
+4a
+8f#
+16g}
+16r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 124-125} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 124-125}
+!!!page: 124-125
+!!!ONB: Converted on 2024/12/26 with esac2hum

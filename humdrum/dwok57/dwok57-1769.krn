@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK57176900000-tam_na_hori_dwa_duby.krn
+!!!OTL: Tam na hori dwa duby
+!!!source: DWOK57
+!!!id: 571769
+!!!signature: 57176900000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4ff
+8ee
+8dd
+4ee
+4g
+=2
+8a
+8a
+2.g
+=3
+8cc
+8dd
+8ee
+8ff
+4gg
+8gg
+8ff
+=4
+8ee
+8gg
+2.cc}
+!!LO:LB:g=esac
+=5
+{4cc
+4dd
+4ee
+4g
+=6
+8a
+8a
+2.g
+=7
+8cc
+8dd
+8ee
+8ff
+4gg
+8gg
+8ff
+=8
+8ee
+8gg
+2.cc}
+==
+*-
+!!!ONB: Wariant t. 3 i 7: +1+2+3+4+5+6+5+4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 855
+!!!ONB: Converted on 2024/12/26 with esac2hum

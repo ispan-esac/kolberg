@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK1201400000-wyjechali_mazurowie_z_pola.krn
+!!!OTL: Wyjechali Mazurowie z pola
+!!!source: DWOK12
+!!!id: 12014
+!!!signature: 1201400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+4dd
+=2
+8ff#
+4ee
+=3
+16dd
+16cc
+8b
+8a
+=4
+8dd
+4b}
+!!LO:LB:g=esac
+=5
+{8dd
+4dd
+=6
+8ff#
+4ee
+=7
+16dd
+16cc
+8b
+8a
+=8
+16g
+16f#
+4e}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+8b
+8ee
+=10
+16dd
+16cc
+8b
+8a
+=11
+8dd
+4dd}
+!!LO:LB:g=esac
+=12
+{8b
+4a
+=13
+8cc
+4ee
+=14
+16dd
+16cc
+8b
+8a
+=15
+16g
+16f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=24 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 8} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 8}
+!!!page: 8
+!!!ONB: Converted on 2024/12/26 with esac2hum

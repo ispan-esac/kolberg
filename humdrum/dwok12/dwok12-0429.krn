@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1242900000-rozlecialy_sie_golebie.krn
+!!!OTL: Rozleciały się gołębie
+!!!source: DWOK12
+!!!id: 12429
+!!!signature: 1242900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16ee
+16ee
+8dd
+8cc
+=3
+16b
+16dd
+4b
+=4
+16a
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+16cc
+16b
+=6
+8.a
+16g
+16a
+16b
+=7
+16cc
+16cc
+4b
+=8
+16a
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 223} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 223}
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

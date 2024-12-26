@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2648000000-zebys_byla_nie_marysia.krn
+!!!OTL: Zebyś była nie Marysia
+!!!source: DWOK26
+!!!id: 26480
+!!!signature: 2648000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16b
+16dd
+8ee
+8dd
+=2
+16b
+16g
+8cc
+8g}
+!!LO:LB:g=esac
+=3
+{8f
+8ff
+8gg
+=4
+16ff
+16dd
+8gg
+8dd}
+!!LO:LB:g=esac
+=
+{24g
+24cc
+24dd
+8ee
+8dd
+=
+24cc
+24b
+24g
+8cc
+16g
+16e}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+8a
+=6
+16a
+16g
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 316
+!!!ONB: Converted on 2024/12/26 with esac2hum

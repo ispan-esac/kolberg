@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK5304300000-vaj_geriau_geriau.krn
+!!!OTL: Vaj! Geriau, geriau
+!!!source: DWOK53
+!!!id: 53043
+!!!signature: 5304300000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=1
+{4a
+4b
+4cc#
+4dd
+=2
+2.cc#
+4ee}
+!!LO:LB:g=esac
+=3
+{4dd
+4cc#
+4b
+4cc#
+=4
+1b}
+!!LO:LB:g=esac
+=5
+{4a
+4b
+4cc#
+4dd
+=6
+2.dd
+4ee}
+!!LO:LB:g=esac
+=7
+{1cc#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 204} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 204}
+!!!page: 204
+!!!ONB: Converted on 2024/12/26 with esac2hum

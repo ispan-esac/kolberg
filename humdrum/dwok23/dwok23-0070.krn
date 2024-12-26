@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK2307000000-u_naszego_pana_bialy_kominecek.krn
+!!!OTL: U naszego pana biały kominecek
+!!!source: DWOK23
+!!!id: 23070
+!!!signature: 2307000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8b
+=2
+8b
+4.g
+=3
+8dd
+8cc
+8.b
+16g
+=4
+8b
+4.g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8dd
+=6
+8b
+4.g
+=7
+8dd
+8cc
+8.b
+16g
+=8
+8b
+4.g}
+!!LO:LB:g=esac
+=9
+{8g
+4b
+8b
+=10
+8b
+8b
+8a
+8f#
+=11
+8g
+8a
+8.b
+16dd
+=12
+8b
+4.g}
+!!LO:LB:g=esac
+=13
+{8g
+4b
+8b
+=14
+8b
+8b
+8a
+8d
+=15
+16g
+16f#
+16g
+16a
+8.b
+16dd
+=16
+8b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 117} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 117}
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK1216100001-juzci_sie_ozenil.krn
+!!!OTL: Jużci się ożenił
+!!!source: DWOK12
+!!!id: 12161
+!!!signature: 1216100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8ee
+=2
+4dd
+8b
+=3
+16dd
+16cc
+8b
+8g
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8dd
+8ee
+=6
+4dd
+8b
+=7
+16dd
+16cc
+8b
+8g
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{8ee
+16dd
+16cc
+16a
+16cc
+=10
+8dd
+8a
+8g
+=11
+8ee
+16dd
+16cc
+16a
+16cc
+=12
+8d
+8f#
+8g}
+!!LO:LB:g=esac
+=13
+{16b
+16a
+8cc
+16b
+16g
+=14
+4.a}
+!!LO:LB:g=esac
+=15
+{8ee
+16dd
+16cc
+16a
+16cc
+=16
+8dd
+8a
+8g
+=17
+8ee
+16dd
+16cc
+16a
+16cc
+=18
+8d
+8f#
+8g}
+!!LO:LB:g=esac
+=19
+{16b
+16a
+8cc
+16b
+16g
+=20
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 82} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

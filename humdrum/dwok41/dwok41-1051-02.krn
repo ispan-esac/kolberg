@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK41105100002-lata_ptaszek_lata.krn
+!!!OTL: Lata ptaszek, lata
+!!!source: DWOK41
+!!!id: 411051
+!!!signature: 41105100002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16g
+16b
+8dd
+8ff
+8b
+=2
+8cc
+4ee
+8g
+=3
+8.cc
+16b
+16dd
+16cc
+16b
+16a
+=4
+16a
+16g
+4.g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+8ff
+8b
+=6
+8cc
+4ee
+8gg
+=7
+8gg
+8ff
+8ff
+8b
+=8
+8cc
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=529 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 442} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 442}
+!!!page: 442
+!!!ONB: Converted on 2024/12/26 with esac2hum

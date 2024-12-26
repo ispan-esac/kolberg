@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK7743400000-da_dobrze_jezdzic_wozem.krn
+!!!OTL: Da dobrze jeździć wozem
+!!!source: DWOK77
+!!!id: 77434
+!!!signature: 7743400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+8gg
+8gg
+=2
+16aa
+32ff
+32ee
+8dd
+8ff
+=3
+8ee
+16cc
+16ee
+8gg
+=4
+16aa
+32ff
+32ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8ee
+16cc
+16a
+8f
+=6
+16g
+32b
+32cc
+8dd
+8ff
+=7
+8ee
+16cc
+16a
+8f
+=8
+16g
+32a
+32b
+8dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

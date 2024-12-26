@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1923400000-oj_u_mnie_wsyckie_myssli.krn
+!!!OTL: Oj u mnie wsyćkie myśśli
+!!!source: DWOK19
+!!!id: 19234
+!!!signature: 1923400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8a
+8g
+=2
+16b
+16dd
+8ff
+8ff
+=
+24cc
+24ee
+24ff
+8gg
+8gg
+=
+24aa
+24gg
+24ff
+4dd}
+!!LO:LB:g=esac
+=3
+{16g
+16b
+8a
+8g
+=4
+16b
+16dd
+8cc
+8cc
+=5
+16g
+16b
+8cc
+8dd
+=6
+16ff
+16dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 73} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

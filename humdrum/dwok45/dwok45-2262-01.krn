@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK45226200001-kiej_w_okienku_siano.krn
+!!!OTL: Kiej w okienku siano
+!!!source: DWOK45
+!!!id: 452262
+!!!signature: 45226200001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4dd
+4ee
+=2
+4ff#
+4aa
+4ff#
+=3
+4gg
+4aa
+4gg
+=4
+4ff#
+2ff#
+=5
+2.cc}
+!!LO:LB:g=esac
+=6
+{4cc
+4dd
+4ee
+=7
+4ff#
+4ff#
+4ff#
+=8
+4gg
+4ff#
+4ee
+=9
+4ff#
+2dd
+=10
+2.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=488 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 470} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 470}
+!!!page: 470
+!!!ONB: Converted on 2024/12/26 with esac2hum

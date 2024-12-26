@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2706100000-a_siadaj_siadaj_marys_kochanie.krn
+!!!OTL: A siadaj siadaj Maryś kochanie
+!!!source: DWOK27
+!!!id: 27061
+!!!signature: 2706100000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4cc
+4cc
+4ee
+=2
+4dd
+8b
+8a
+4a
+4g}
+!!LO:LB:g=esac
+=3
+{4dd
+8dd
+8dd
+4.dd
+8g
+=4
+4b
+8dd
+8ee
+4ff
+4ee}
+!!LO:LB:g=esac
+=5
+{4gg
+4gg
+8gg
+8ff
+4ee
+=6
+4ee
+4ee
+4ee
+4dd}
+!!LO:LB:g=esac
+=7
+{4dd
+8ee
+8dd
+4ee
+4cc
+=8
+4b
+4dd
+4cc
+4cc}
+!!LO:LB:g=esac
+=9
+{8b
+8cc
+8dd
+8ee
+4.ff
+8dd
+=10
+8ee
+8cc
+8dd
+8b
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 177} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

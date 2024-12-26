@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK1311200002-mila_cieszmy_sie_nadzieja.krn
+!!!OTL: Miłą cieszmy się nadzieją
+!!!source: DWOK13
+!!!id: 13112
+!!!signature: 1311200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.b
+16cc
+16a
+16f#
+=2
+16g
+16b
+8dd
+8dd
+=3
+8.ee
+16dd
+16cc
+16a
+=4
+16g
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8.b
+16cc
+16a
+16f#
+=6
+16g
+16b
+8dd
+8dd
+=7
+8.ee
+16dd
+16cc
+16a
+=8
+16g
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+16a
+16b
+=10
+16g
+16e
+8f#
+8d
+=11
+16d
+16f#
+8a
+16a
+16b
+=12
+16g
+16e
+8f#
+8d}
+!!LO:LB:g=esac
+=13
+{8.b
+16cc
+16a
+16f#
+=14
+16g
+16b
+16dd
+16cc#
+8dd
+=15
+8.dd
+16ee
+16cc
+16a
+=16
+16g
+16a
+16b
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 64} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 64}
+!!!page: 64
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2553900000-da_nie_sama_nie_sama.krn
+!!!OTL: Da nie sama nie sama
+!!!source: DWOK25
+!!!id: 25539
+!!!signature: 2553900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16ee
+8gg
+8gg
+=2
+8ff
+8dd
+8dd
+=3
+16dd
+16ee
+8cc
+16cc
+16a
+=4
+8cc
+8dd
+8g}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+8ee
+8ee
+=6
+8dd
+8ff
+16dd
+16g
+=7
+16b
+16cc
+8ee
+8ee
+=8
+8dd
+8dd
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 209} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 209}
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK5046600001-slaba_ja_slaba_o_juz_ja_umru.krn
+!!!OTL: Słaba ja, słaba, o, już ja umru
+!!!source: DWOK50
+!!!id: 50466
+!!!signature: 5046600001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+4cc
+=2
+8b
+4dd
+=3
+4.cc}
+!!LO:LB:g=esac
+=4
+{8cc
+4ee
+=5
+8dd
+4ff
+=6
+4.ee}
+!!LO:LB:g=esac
+=7
+{8cc
+4ee
+=8
+8gg
+4ff
+=9
+8ee
+8ee
+8dd
+=10
+8cc
+4ee}
+!!LO:LB:g=esac
+=11
+{8dd
+16dd
+8.cc
+=12
+8b
+4dd
+=13
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=310 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 281} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 281}
+!!!page: 281
+!!!ONB: Converted on 2024/12/26 with esac2hum

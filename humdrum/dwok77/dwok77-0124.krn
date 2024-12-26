@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7712400000-oj_zieleni_sie_trawka.krn
+!!!OTL: Oj zieleni się trawka
+!!!source: DWOK77
+!!!id: 77124
+!!!signature: 7712400000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8.b
+16dd
+4dd
+4ff#
+=2
+4ee
+4cc#
+4ee
+=3
+8.b
+16dd
+4dd
+4ff#
+=4
+4ee
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4dd
+4b
+=6
+4a
+4cc#
+4ee
+=7
+8b
+8dd
+4dd
+4b
+=8
+4a
+4cc#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

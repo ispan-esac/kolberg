@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK4819200000-wszystko_z_czasem_ulatuje.krn
+!!!OTL: Wszystko z czasem ulatuje
+!!!source: DWOK48
+!!!id: 48192
+!!!signature: 4819200000
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M6/8
+=1
+{4dd
+16dd
+16cc#
+4cc#
+16cc#
+16ff#
+=2
+4ff#
+8a#
+4b
+8f#}
+!!LO:LB:g=esac
+=3
+{4dd
+16dd
+16cc#
+4cc#
+8cc#
+=4
+4ee
+8ee
+4ff#
+8f#}
+!!LO:LB:g=esac
+=5
+{4ff#
+8ff#
+8.gg
+16ff#
+16ff#
+16ee
+=6
+4ee
+8ee
+8.ff#
+16ee
+16dd
+16cc#}
+!!LO:LB:g=esac
+=7
+{4dd
+8ff#
+8.ee
+16dd
+16cc#
+16b
+=8
+4ff#
+8a#
+4b
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 222-223} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, pp. 222-223}
+!!!page: 222-223
+!!!ONB: Converted on 2024/12/26 with esac2hum

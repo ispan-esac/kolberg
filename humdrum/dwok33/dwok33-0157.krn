@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK3315700000-klycze_pawlusiu_klycze_marysiu.krn
+!!!OTL: Klycze Pawlusiu klycze Marysiu
+!!!source: DWOK33
+!!!id: 33157
+!!!signature: 3315700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+8cc
+8b
+8g
+=3
+8g
+8cc
+16b
+16g
+=4
+8b
+4cc
+=5
+8cc
+8b
+8f#
+=6
+4g}
+8r
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8a
+=8
+8cc
+4b
+=9
+8g
+8a
+8g
+=10
+8b
+4cc
+=11
+8cc
+4b
+=12
+4g}
+8r
+!!LO:LB:g=esac
+=13
+{8g
+8b
+8cc
+=14
+8cc
+4b
+=15
+8b
+8dd
+8cc
+=16
+8cc
+4b}
+!!LO:LB:g=esac
+=17
+{8b
+8dd
+8cc
+=18
+16b
+16f#
+8g
+8a
+=19
+8b
+8dd
+8cc
+=20
+16b
+16f#
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 255} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 255}
+!!!page: 255
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK4456400000-nie_daj_mnie_matko.krn
+!!!OTL: Nie daj mnie, matko
+!!!source: DWOK44
+!!!id: 44564
+!!!signature: 4456400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+4dd
+8b
+=2
+8dd
+8cc
+4cc
+=3
+8b
+4dd
+8b
+=4
+8dd
+8cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8b
+4dd
+16ee
+16ff
+=6
+8gg
+8ff
+4ee
+=7
+8dd
+4gg
+8ff
+=8
+8ee
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 305} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 305}
+!!!page: 305
+!!!ONB: Converted on 2024/12/26 with esac2hum

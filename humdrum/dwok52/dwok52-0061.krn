@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK5206100000-stojala_panna_pod_laszkom.krn
+!!!OTL: Stojała panna pod laszkom
+!!!source: DWOK52
+!!!id: 52061
+!!!signature: 5206100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4cc
+4dd
+=2
+4.ee
+8dd
+4ee
+=3
+4ee
+4dd
+4cc
+=4
+2.cc}
+!!LO:LB:g=esac
+=5
+{8ee
+16ee
+16dd
+4cc
+4dd
+=6
+4.ee
+8dd
+4ee
+=7
+4ee
+4dd
+4cc
+=8
+2.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 116} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 116}
+!!!page: 116
+!!!ONB: Converted on 2024/12/26 with esac2hum

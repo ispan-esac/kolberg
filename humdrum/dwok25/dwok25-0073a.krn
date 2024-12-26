@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK25073a0000-juz_mi_wychodzi_szesnascie_latek.krn
+!!!OTL: Już mi wychodzi szesnaście latek
+!!!source: DWOK25
+!!!id: 25073a
+!!!signature: 25073a0000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8e
+8.dd
+16b
+=2
+8dd
+4cc#
+=3
+16cc#
+16b
+8.b
+16g#
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8e
+8.dd
+16b
+=6
+16dd
+16cc#
+4cc#
+=7
+16cc#
+16b
+8.b
+16g#
+=8
+16b
+16a
+4a}
+!!LO:LB:g=esac
+=9
+{16a
+16b
+8cc#
+8dd
+=10
+16cc#
+16e
+8a
+8cc#
+=11
+4ee
+16dd
+16b
+=12
+8b
+4dd}
+!!LO:LB:g=esac
+=13
+{16ff#
+16dd
+8dd
+8dd
+=14
+16cc#
+16e
+8a
+8cc#
+=15
+4cc#
+16b
+16g#
+=16
+8b
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=53 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 28} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 28}
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum

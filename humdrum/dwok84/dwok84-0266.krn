@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK8426600000-kolyb_myni_z_ranku_kawy_filizanku.krn
+!!!OTL: Kołyb myni z ranku kawy filiżanku
+!!!source: DWOK84
+!!!id: 84266
+!!!signature: 8426600000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8gg
+8gg
+8ff#
+8ee
+=2
+4dd
+4b
+=3
+8cc
+8cc
+8a
+8a
+=4
+4g
+4b}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff#
+8dd
+8ff#
+=6
+4ee
+4dd
+=7
+8cc#
+8cc
+8a
+8cc
+=8
+4dd
+4dd}
+==
+*-
+!!!ONB: Wariant t. 5: +3+3+1+3
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=306 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 244} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 244}
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

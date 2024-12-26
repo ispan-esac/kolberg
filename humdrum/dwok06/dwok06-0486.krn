@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK06-K0486-nie_wiem_co_czynic.krn
+!!!OTL: Nie wiem co czynic
+!!!source: DWOK06
+!!!id: K0486
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8e
+8.a
+16cc#
+=2
+16cc#
+16b
+4b
+=3
+8g#
+8.g#
+16b
+=4
+16b
+16a
+4a}
+!!LO:LB:g=esac
+=5
+{8e
+8.a
+16cc#
+=6
+16cc#
+16b
+4b
+=7
+8g#
+8.g#
+16b
+=8
+16b
+16a
+4a}
+!!LO:LB:g=esac
+=9
+{8ee
+8.ee
+16dd
+=10
+16dd
+16cc#
+4cc#
+=11
+8dd
+8.dd
+16cc#
+=12
+16cc#
+16b
+4b}
+!!LO:LB:g=esac
+=13
+{8e
+8.a
+16cc#
+=14
+16cc#
+16b
+4b
+=15
+8g#
+8.g#
+16b
+=16
+16b
+16a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=296 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 270} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 270}
+!!!page: 270
+!!!ONB: Converted on 2024/12/26 with esac2hum

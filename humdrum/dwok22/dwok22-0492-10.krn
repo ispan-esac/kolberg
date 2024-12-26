@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK2249200010-czemu_nie_orzesz_chlopalu.krn
+!!!OTL: Czemu nie orzesz chłopalu
+!!!source: DWOK22
+!!!id: 22492
+!!!signature: 2249200010
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+{8dd
+8dd
+8cc#
+8dd
+8b
+=1
+8b
+8b
+4ee
+4dd
+=2
+4.a
+8b
+8cc
+8dd
+=3
+8ee
+8ee
+4ee
+4d}
+!!LO:LB:g=esac
+=4
+{4dd
+8dd
+8cc#
+8dd
+8dd
+=5
+8gg
+8gg
+4ee
+8dd
+16cc
+16b
+=6
+4.a
+8b
+8cc
+8dd
+=
+8ee
+8ee
+12ee
+12ff#
+12ee
+4ee}
+!!LO:LB:g=esac
+=7
+{4.g
+8a
+8b
+8cc
+=8
+8dd
+8dd
+4ee
+4dd
+=9
+4.a
+8g
+8f#
+8e
+=10
+8d
+8f#
+4g
+4d}
+!!LO:LB:g=esac
+=11
+{4.g
+8a
+8b
+8cc
+=12
+8dd
+8dd
+4ee
+4dd
+=13
+4.a
+8g
+8f#
+8e
+=14
+8.dd
+16dd
+4cc#
+4dd}
+==
+*-
+!!!ONB: Partia wokalna-Kujawiak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 231} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 231}
+!!!page: 231
+!!!ONB: Converted on 2024/12/26 with esac2hum

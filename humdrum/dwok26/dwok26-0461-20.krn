@@ -1,0 +1,39 @@
+!!!!SEGMENT: DWOK2646100020-descyk_pada_zmocy_mie-instrumentalna.krn
+!!!OTL: Descyk pada zmocy mię-Instrumentalna
+!!!source: DWOK26
+!!!id: 26461
+!!!signature: 2646100020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16f
+8g
+16e
+16c
+=2
+16f
+16a
+8cc
+16b-
+16g
+=3
+16f
+16f
+8g
+16e
+16c
+=4
+8f
+8f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 311
+!!!ONB: Converted on 2024/12/26 with esac2hum

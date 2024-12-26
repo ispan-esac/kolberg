@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5052300000-ej_heja_ze_mi_heja_ej_sztery_beczki_heja.krn
+!!!OTL: Ej, heja że mi, heja, ej, sztery beczki heja
+!!!source: DWOK50
+!!!id: 50523
+!!!signature: 5052300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8dd
+8dd
+=2
+16cc
+16b
+8dd
+8a
+=3
+8dd
+8cc
+8dd
+=4
+16b
+16a
+8a
+8dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc
+=6
+16b
+16a
+8g#
+8a
+=7
+8dd
+8dd
+8cc
+=8
+16b
+16dd
+4b
+=9
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=337 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 308} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 308}
+!!!page: 308
+!!!ONB: Converted on 2024/12/26 with esac2hum

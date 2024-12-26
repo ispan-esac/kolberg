@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK0902100001-przede_dworem_wielka_burza.krn
+!!!OTL: Przede dworem wielka burza
+!!!source: DWOK09
+!!!id: 09021
+!!!signature: 0902100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4.cc
+8a
+=2
+8f#
+8g
+4b
+4b
+=3
+8b
+8dd
+4.g
+8a
+=4
+8f#
+8g
+4b
+4b}
+!!LO:LB:g=esac
+=5
+{8f#
+8g
+4b
+4cc
+=6
+2dd
+4d
+=7
+8cc
+8b
+4a
+4f#
+=8
+2g
+8f#
+8d}
+!!LO:LB:g=esac
+=9
+{8f#
+8g
+4b
+4cc
+=10
+2.dd
+=11
+8cc
+8b
+4a
+4f#
+=12
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 159} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 159}
+!!!page: 159
+!!!ONB: Converted on 2024/12/26 with esac2hum

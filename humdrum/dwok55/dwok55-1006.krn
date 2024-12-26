@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK55100600000-kaze_w_mene_u_horodci_trawa_zelenenka.krn
+!!!OTL: Każe w mene u horodci trawa zełeneńka
+!!!source: DWOK55
+!!!id: 551006
+!!!signature: 55100600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8dd#
+8cc
+8cc
+=2
+8b
+8a
+8cc
+8dd
+=3
+8ee
+8dd#
+16cc
+16b
+8a
+=4
+4cc
+4dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd#
+8cc
+8cc
+=6
+8b
+8a
+8a
+8a
+=7
+16cc
+16b
+8a
+8a
+8e
+=8
+4a
+4a}
+==
+*-
+!!!ONB: DWOK 55 nr 1006
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=352 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 327} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 327}
+!!!page: 327
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2609800000-idzcie_druhny_swinia_droga.krn
+!!!OTL: Idźcie druhny świnią drogą
+!!!source: DWOK26
+!!!id: 26098
+!!!signature: 2609800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8ee
+=2
+8dd
+8b
+8b
+8g
+=3
+8b
+8dd
+8dd
+8ee
+=4
+8dd
+8b
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8a
+8a
+8cc
+=6
+8b
+8dd
+8dd
+8a
+=7
+8cc
+8a
+8a
+8f#
+=8
+8g
+8g
+8b
+8g}
+==
+*-
+!!!ONB: zakodowana melodia dwóch zwrotek
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

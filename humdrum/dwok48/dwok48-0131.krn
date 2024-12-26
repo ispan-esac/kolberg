@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK4813100000-ebym_wiedzial_zes_ty_mazur.krn
+!!!OTL: Żebym wiedział, żeś ty Mazur
+!!!source: DWOK48
+!!!id: 48131
+!!!signature: 4813100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ee
+16ee
+8cc
+8cc
+=2
+16g
+16g
+8a
+8a
+=3
+16g
+16g
+8ff
+8ff
+=4
+16ee
+16dd
+8ee
+8ee}
+!!LO:LB:g=esac
+=5
+{16gg
+16ff
+16ee
+16dd
+8cc
+=6
+16g
+16g
+8a
+8g
+=7
+16g
+16g
+8.ee
+16b
+=8
+16dd
+16cc
+8b
+8cc}
+!!LO:LB:g=esac
+=9
+{8ee
+8cc
+8cc
+=10
+16g
+16g
+16a
+16b
+16a
+16g
+=11
+16g
+16g
+8b
+8b
+=12
+16g
+16b
+16dd
+16ff
+8ee}
+!!LO:LB:g=esac
+=13
+{8ee
+4cc
+=14
+8f
+4a
+=15
+16g
+16g
+8a
+8b
+=16
+8cc
+4cc}
+==
+*-
+!!!ONB: Wariant t. 5: +3__+1_; wariant t. 10-11: 556_6_  557+17_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 180} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 180}
+!!!page: 180
+!!!ONB: Converted on 2024/12/26 with esac2hum

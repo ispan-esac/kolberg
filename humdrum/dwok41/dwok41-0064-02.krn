@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4106400002-a_chocby_ja_ujrzal_chociaz_przepioreczke.krn
+!!!OTL: A choćby ja ujrzał chociaż przepióreczkę
+!!!source: DWOK41
+!!!id: 41064
+!!!signature: 4106400002
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{16b
+16dd#
+8ee
+8dd#
+=2
+4ee
+8b
+=3
+16dd#
+16ff#
+8ee
+8dd#
+=4
+4ee
+8ee}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8ee
+16cc
+16b
+=6
+16a
+16b
+8e
+16g
+16f#
+=7
+16e
+16g
+8f#
+8g
+=8
+4e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 57-58} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 57-58}
+!!!page: 57-58
+!!!ONB: Converted on 2024/12/26 with esac2hum

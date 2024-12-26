@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK41113000001-a_u_mojej_matuli.krn
+!!!OTL: A u mojej matuli
+!!!source: DWOK41
+!!!id: 411130
+!!!signature: 41113000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+4ee
+=3
+2dd}
+!!LO:LB:g=esac
+=4
+{8gg
+8dd
+8b
+8cc
+=5
+4dd
+4ee
+=6
+2a}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+8dd
+8cc
+=8
+4b
+4a}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+8b
+8cc
+=10
+4dd
+8ee
+8ff#}
+!!LO:LB:g=esac
+=11
+{8gg
+8dd
+8ee
+8cc
+=12
+4b
+4a
+=13
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=574 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 487} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 487}
+!!!page: 487
+!!!ONB: Converted on 2024/12/26 with esac2hum

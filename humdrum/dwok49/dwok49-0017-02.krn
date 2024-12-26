@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4901700002-oj_i_wczora_z_wieczora.krn
+!!!OTL: Oj, i wczora z wieczora
+!!!source: DWOK49
+!!!id: 49017
+!!!signature: 4901700002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+4ee
+=2
+8dd
+8cc
+8dd
+8b
+=3
+2cc}
+!!LO:LB:g=esac
+=4
+{8ee
+4.gg
+=5
+8aa
+8gg
+8ff
+8ee
+=6
+8dd
+4.aa
+=7
+8gg
+8ff
+8ee
+8dd}
+!!LO:LB:g=esac
+=8
+{16cc
+16ee
+4.gg
+=9
+16ff
+16ee
+8cc
+8dd
+8b
+=10
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 109} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 109}
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK4474300002-e_skros_tobi_ja_dziewcze.krn
+!!!OTL: E, skróś tobi ja, dziewcze
+!!!source: DWOK44
+!!!id: 44743
+!!!signature: 4474300002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{4ee
+8ee
+8dd
+=2
+4ee
+4ff#
+=3
+8ff#
+8ee
+4dd}
+!!LO:LB:g=esac
+=4
+{4cc#
+4b
+=5
+8cc#
+8dd
+4ee
+=6
+8a
+8b
+4cc#}
+!!LO:LB:g=esac
+=7
+{4b
+8b
+8a
+=8
+4cc#
+4b
+=9
+2a}
+!!LO:LB:g=esac
+=10
+{4a
+8cc#
+8dd
+=11
+4ee
+8a
+8b
+=12
+4cc#
+8b
+8a
+=13
+8cc#
+8dd
+8cc#
+8b
+=14
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=428 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 370} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 370}
+!!!page: 370
+!!!ONB: Converted on 2024/12/26 with esac2hum

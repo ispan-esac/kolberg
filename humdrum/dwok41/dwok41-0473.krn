@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK4147300000-mowili_se_chlopcy.krn
+!!!OTL: Mówili se chłopcy
+!!!source: DWOK41
+!!!id: 41473
+!!!signature: 4147300000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8g
+8a
+8b-
+8b-
+=2
+8b-
+4a
+8f#
+=3
+8g
+8a
+8b-
+32b-
+16.cc
+=4
+8b-
+4.a}
+!!LO:LB:g=esac
+=5
+{8b-
+32a
+16.b-
+4g
+=6
+8b-
+4dd
+8d
+=7
+8d
+8e
+4f#
+=8
+8f#
+4g
+8a}
+!!LO:LB:g=esac
+=9
+{8b-
+32a
+16.b-
+4g
+=10
+8a
+4dd
+8d
+=11
+8d
+8e
+4f#
+=12
+8f
+4a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=334 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 251} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

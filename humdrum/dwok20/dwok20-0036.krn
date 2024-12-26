@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2003600000-bylac_to_byla_swieta_helina.krn
+!!!OTL: Byłać to była święta Helina
+!!!source: DWOK20
+!!!id: 20036
+!!!signature: 2003600000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=1
+{4a
+8a
+8a
+4.b
+8g
+=2
+4b
+8dd
+8b
+2a
+=3
+4a
+8a
+8a
+4.b
+8g
+=4
+8g
+8b
+8dd
+8b
+2a}
+!!LO:LB:g=esac
+=5
+{8a
+8f#
+8a
+8a
+4.b
+8g
+=6
+8b
+8a
+8g
+8f#
+2e
+=7
+8a
+8a
+8a
+8cc
+4.b
+8g
+=
+8b
+24a
+24b
+24a
+8g
+24f#
+24g
+24f#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 100} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

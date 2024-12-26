@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2124700000-ojze_moja_matulu.krn
+!!!OTL: Ojze moja matulu
+!!!source: DWOK21
+!!!id: 21247
+!!!signature: 2124700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8b
+8b
+=2
+16cc
+16ee
+8dd
+8dd
+=3
+16cc
+16cc
+8b
+8b
+=4
+16g
+16f#
+4d}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8.d
+16f#
+=6
+16g
+16b
+8.d
+16f#
+=7
+16g
+16b
+8cc
+8b
+=8
+8g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 112} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 112}
+!!!page: 112
+!!!ONB: Converted on 2024/12/26 with esac2hum

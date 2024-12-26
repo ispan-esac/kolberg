@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK41106400002-kapala_sie_kasia_w_morzu.krn
+!!!OTL: Kąpała się Kasia w morzu
+!!!source: DWOK41
+!!!id: 411064
+!!!signature: 41106400002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4.ee
+8dd#
+8ee
+8b
+=2
+8b
+8dd
+8ee
+8b
+4b}
+!!LO:LB:g=esac
+=3
+{4.dd
+8ee
+8ff#
+8dd
+=4
+8ee
+16cc
+16b
+4a
+16g#
+8.e}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+4g#
+8b
+8dd
+=6
+8cc
+8b
+4a
+4b}
+!!LO:LB:g=esac
+=7
+{8e
+8g#
+4g#
+8b
+8dd
+=8
+8cc
+8b
+4a
+16g#
+8.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=535 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 448} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 448}
+!!!page: 448
+!!!ONB: Converted on 2024/12/26 with esac2hum

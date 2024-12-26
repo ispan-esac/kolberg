@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1320200000-do_ciebie_jade_jedyna.krn
+!!!OTL: Do ciebie jadę jedyna
+!!!source: DWOK13
+!!!id: 13202
+!!!signature: 1320200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16e
+8g
+8b
+=2
+16dd
+16ee
+8cc
+8a
+=3
+16g
+16e
+8g
+8b
+=4
+16dd
+16ee
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{16g
+16e
+8g
+8b
+=6
+16b
+16a
+8cc
+8a
+=7
+16g
+16e
+8g
+8b
+=8
+16b
+16a
+8cc
+8a}
+==
+*-
+!!!ONB: Weselna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 103} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 103}
+!!!page: 103
+!!!ONB: Converted on 2024/12/26 with esac2hum

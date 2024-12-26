@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2216000000-sa_na_boru_syski.krn
+!!!OTL: Są na boru syski
+!!!source: DWOK22
+!!!id: 22160
+!!!signature: 2216000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8cc
+8b
+=2
+8g
+4d
+=3
+16g
+16a
+8b
+8dd
+=4
+8ee
+4a}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+8cc
+8b
+=6
+8a
+4f#
+=7
+4.d
+=8
+8g
+4a
+=9
+4.dd}
+!!LO:LB:g=esac
+=10
+{16a
+16b
+8cc
+8b
+=11
+8a
+4f#
+=12
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 103} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 103}
+!!!page: 103
+!!!ONB: Converted on 2024/12/26 with esac2hum

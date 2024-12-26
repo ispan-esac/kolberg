@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK1601100000-wstancie_pasterze_mali.krn
+!!!OTL: Wstańcie pasterze mali
+!!!source: DWOK16
+!!!id: 16011
+!!!signature: 1601100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4f
+4g
+2a
+=2
+8b-
+8a
+4b-
+2a
+=3
+4f
+4g
+2a
+=4
+8b-
+8a
+8b-
+8g
+2a}
+!!LO:LB:g=esac
+=5
+{8f
+8g
+8a
+8b-
+2cc
+=6
+8dd
+8cc
+8b-
+8a
+2b-
+=7
+4g
+4a
+4.b-
+8dd
+=8
+8cc
+8b-
+4a
+2a}
+!!LO:LB:g=esac
+=9
+{8f
+8g
+8a
+8b-
+2cc
+=10
+4dd
+4b-
+2b-
+=11
+4g
+4a
+4.b-
+8dd
+=12
+8cc
+8b-
+8a
+8g
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 110} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 110}
+!!!ONB: Converted on 2024/12/26 with esac2hum

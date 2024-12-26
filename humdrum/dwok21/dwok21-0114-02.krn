@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2111400002-carna_rola_nie_orana.krn
+!!!OTL: Carna rola nie orana
+!!!source: DWOK21
+!!!id: 21114
+!!!signature: 2111400002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16ee
+8dd
+8ff
+=2
+4ee
+8g
+=3
+4b
+8cc}
+!!LO:LB:g=esac
+=4
+{16cc
+16ee
+8dd
+8ff
+=5
+4gg
+8g
+=6
+8b
+8.cc
+16b}
+!!LO:LB:g=esac
+=7
+{16ee
+16gg
+8gg
+8ff
+=8
+8ee
+8ee
+16dd
+16cc
+=9
+16ee
+16gg
+8gg
+8ff
+=10
+8ee
+8dd
+8ff}
+!!LO:LB:g=esac
+=11
+{4gg
+8g
+=12
+8b
+4cc}
+==
+*-
+!!!ONB: U Kolberga w 3 takcie wariantu bśłąd rytmiczny: najpierw na trzecią wartość powinna być ósemka, przy powtórzeniu pierwsza wartość powinna być ósemką
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 56} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK5262500000-umarl_maciek.krn
+!!!OTL: Umarł Maciek
+!!!source: DWOK52
+!!!id: 52625
+!!!signature: 5262500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4f
+8g
+8a
+=2
+8b-
+8a
+4b-
+4dd}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+4cc
+8dd
+8ee
+=4
+4ff
+8ee
+8gg
+4ff}
+!!LO:LB:g=esac
+=
+{12cc
+12dd
+12ee
+4ff
+8ff
+8ee
+=5
+8cc
+8a
+4b-
+8b-
+8g}
+!!LO:LB:g=esac
+=
+{12f
+12g
+12a
+4f
+8g
+8a
+=6
+8b-
+8a
+8b-
+8cc
+8dd
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=463 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 398} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 398}
+!!!page: 398
+!!!ONB: Converted on 2024/12/26 with esac2hum

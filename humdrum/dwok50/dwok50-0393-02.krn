@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK5039300002-a_tam_w_polu_pry_podolu.krn
+!!!OTL: A tam w polu pry podolu
+!!!source: DWOK50
+!!!id: 50393
+!!!signature: 5039300002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16e
+16a
+8b
+8a
+=2
+16cc
+16dd
+8dd
+16cc
+16b}
+!!LO:LB:g=esac
+=3
+{16a
+16cc
+8b
+8e
+=4
+32e
+32f#
+16g#
+8a
+8g#}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8b
+8e
+=6
+16a
+16a
+16g#
+16e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 223} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 223}
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK03-K0004-pomalusku_jozefie.krn
+!!!OTL: Pomalusku Jozefie
+!!!source: DWOK03
+!!!id: K0004
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8g
+4a
+4b-
+=2
+4a
+4f
+4a
+=3
+8cc
+8a
+4b-
+4cc
+=4
+4dd
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8e
+8f
+4.g
+8a
+=6
+4g
+4e
+4c
+=7
+8f
+8g
+4a
+4b-
+=8
+8g
+8g
+4a
+4f}
+!!LO:LB:g=esac
+=9
+{8e
+8f
+4g
+4a
+=10
+4g
+4e
+4c
+=11
+8f
+8g
+4a
+8b-
+8a
+=12
+8g
+8g
+4f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 209} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 209}
+!!!page: 209
+!!!ONB: Converted on 2024/12/26 with esac2hum

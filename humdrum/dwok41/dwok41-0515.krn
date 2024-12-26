@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK4151500000-gdy_ciebie_ujrze_nie_wladam_soba.krn
+!!!OTL: Gdy Ciebie ujrzę, nie władam sobą
+!!!source: DWOK41
+!!!id: 41515
+!!!signature: 4151500000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{4.a
+8dd
+4dd
+=2
+4dd
+2cc#
+=3
+4.a
+8dd
+4dd
+=4
+4dd
+2cc#}
+!!LO:LB:g=esac
+=5
+{4.a
+8cc#
+4ee
+=6
+2gg
+4cc#
+=7
+4dd
+4.a
+8cc#
+=8
+4ee
+2dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=346 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 263} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 263}
+!!!page: 263
+!!!ONB: Converted on 2024/12/26 with esac2hum

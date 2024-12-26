@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7770400000-oj_macie_mnie_zabic.krn
+!!!OTL: Oj macie mnie zabić
+!!!source: DWOK77
+!!!id: 77704
+!!!signature: 7770400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16g
+16a
+4b-
+=2
+8a
+8cc
+8cc}
+!!LO:LB:g=esac
+=3
+{16g
+16a
+4b-
+=4
+16a
+16cc
+8cc
+8cc}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+4cc
+=6
+16g
+16f
+8e
+8g}
+!!LO:LB:g=esac
+=7
+{16c
+16d
+8e
+8c
+=8
+8f
+8f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 354
+!!!ONB: Converted on 2024/12/26 with esac2hum

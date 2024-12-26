@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK57189300001-szoz_to_nam_po_domci.krn
+!!!OTL: Szoż to nam po domci
+!!!source: DWOK57
+!!!id: 571893
+!!!signature: 57189300001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ff
+8aa
+8aa
+8aa
+=2
+4aa
+4ff
+=3
+8ff
+8gg
+8.gg
+16ff
+=4
+4ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff
+8ee
+8dd
+=6
+4ee
+4a
+=7
+8dd
+8dd
+8dd
+8a
+=8
+4cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 955
+!!!ONB: Converted on 2024/12/26 with esac2hum

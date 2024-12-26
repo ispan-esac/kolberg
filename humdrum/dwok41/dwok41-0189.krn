@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK4118900000-gospodarz_stary.krn
+!!!OTL: Gospodarz stary
+!!!source: DWOK41
+!!!id: 41189
+!!!signature: 4118900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+8b
+=2
+4dd
+8b}
+!!LO:LB:g=esac
+=3
+{16b
+16dd
+8dd
+16ee
+16dd
+=4
+4cc
+8a
+=5
+16b
+16dd
+8dd
+16ee
+16dd
+=6
+4cc
+8a}
+!!LO:LB:g=esac
+=7
+{8.cc
+16b
+16dd
+16cc
+=8
+16b
+16g
+8f#
+8d
+=9
+16f#
+16a
+8cc
+16a
+16f#
+=10
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 122} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 122}
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

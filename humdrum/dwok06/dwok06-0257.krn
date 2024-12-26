@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK06-K0257-chocbym_ja_jezdzil.krn
+!!!OTL: Chocbym ja jezdzil
+!!!source: DWOK06
+!!!id: K0257
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{8g
+8a
+8b
+4cc
+8cc
+=2
+8ee
+8dd
+8ee
+4a
+8a
+=3
+8dd
+8dd
+8ee
+4dd
+8cc
+=4
+8b
+8a
+8b
+4g
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+4cc
+8cc
+=6
+4ee
+8ee
+4.a
+=7
+4dd
+8dd
+4ee
+8dd
+=8
+8g
+8a
+8b
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 129} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 129}
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

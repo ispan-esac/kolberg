@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1335500000-w_jezioreczku_czysta_woda.krn
+!!!OTL: W jezioreczku czysta woda
+!!!source: DWOK13
+!!!id: 13355
+!!!signature: 1335500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16ff#
+8.gg
+16ee
+=2
+16dd
+16b
+8a
+8cc
+=3
+16dd
+16ff#
+8.gg
+16ee
+=4
+16dd
+16b
+8a
+8cc}
+!!LO:LB:g=esac
+=5
+{8.ee
+16f#
+16g
+16b
+=6
+16dd
+16b
+8a
+8cc
+=7
+8.ee
+16f#
+16g
+16b
+=8
+16dd
+16b
+8a
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 153} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 153}
+!!!page: 153
+!!!ONB: Converted on 2024/12/26 with esac2hum

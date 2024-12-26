@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK3641300001-tam_za_horoju_za_wysokoju.krn
+!!!OTL: Tam za horoju za wysokoju
+!!!source: DWOK36
+!!!id: 36413
+!!!signature: 3641300001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8dd
+=2
+8cc
+4b
+=3
+8cc
+8ee
+8dd
+=4
+8cc
+4ee}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+8e
+=6
+8a
+4cc
+=7
+8ee
+8ee
+8dd
+=8
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 262
+!!!ONB: Converted on 2024/12/26 with esac2hum

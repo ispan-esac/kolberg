@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1209700000-z_gory_woda_leje_na_dole_sie_sieje.krn
+!!!OTL: Z góry woda leje, na dole się sieje
+!!!source: DWOK12
+!!!id: 12097
+!!!signature: 1209700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+4dd
+=2
+8ee
+8ff#
+8gg
+8ee
+=3
+4dd
+4dd
+=4
+8a
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{4g
+4b
+=6
+8a
+8a
+8cc
+8ee
+=7
+4dd
+4dd
+=8
+8a
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=9
+{4g
+4b
+=10
+8a
+8a
+8cc
+8ee
+=11
+4dd
+4dd
+=12
+8a
+8cc
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=63 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 47} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

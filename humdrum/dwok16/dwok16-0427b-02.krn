@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1642700002-leci_sowa_poprzod_sokola.krn
+!!!OTL: Leci sowa poprzód sokoła
+!!!source: DWOK16
+!!!id: 16427b
+!!!signature: 1642700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8ee
+=
+24cc
+24b
+24g
+16a
+16f#
+8d
+=2
+16g
+16b
+8dd
+16ee
+16ee
+=
+8.cc
+16a
+24a
+24f#
+24d}
+!!LO:LB:g=esac
+=3
+{8cc
+16a
+16cc
+16b
+16g
+=4
+16b
+16b
+16a
+16f#
+8d
+=5
+8cc
+16a
+16cc
+16b
+16g
+=6
+4d
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 266} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 266}
+!!!ONB: Converted on 2024/12/26 with esac2hum

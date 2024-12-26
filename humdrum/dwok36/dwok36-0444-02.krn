@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK3644400002-szumlat_luhy_szumlat.krn
+!!!OTL: Szumlat' łuhy szumlat'
+!!!source: DWOK36
+!!!id: 36444
+!!!signature: 3644400002
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8.cc
+16ee
+16dd
+16a
+16b
+32a
+32cc
+=2
+4dd
+4g
+=3
+8e
+8cc
+8b
+16a
+16b
+=4
+8e
+8a
+4d}
+!!LO:LB:g=esac
+=5
+{8.g
+16a
+8b
+8ee
+=6
+8dd
+8b
+8ee
+16dd
+32cc
+32b
+=7
+8cc
+8b
+16a
+16e
+16g
+16f#
+=8
+4.e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 283
+!!!ONB: Converted on 2024/12/26 with esac2hum

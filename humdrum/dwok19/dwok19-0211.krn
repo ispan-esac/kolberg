@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1921100000-a_dalsass_mnie_dalsa_za_to_pijacysko.krn
+!!!OTL: A dałśaśś mnie dałśa za to pijacysko
+!!!source: DWOK19
+!!!id: 19211
+!!!signature: 1921100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24d
+24e
+24f#
+8a
+8cc
+=1
+8cc
+8ee
+8dd
+=
+16dd
+16cc
+8a
+24a
+24f#
+24a
+=
+24cc
+24b
+24a
+4g}
+!!LO:LB:g=esac
+=2
+{16d
+16f#
+8a
+16f#
+16a
+=
+24cc
+24b
+24a
+8g
+16b
+16dd
+=3
+8dd
+8a
+16f#
+16a
+=4
+16cc
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 67} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 67}
+!!!page: 67
+!!!ONB: Converted on 2024/12/26 with esac2hum

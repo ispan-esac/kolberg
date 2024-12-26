@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3637100001-oj_wyrosla_czerwona_kalyna.krn
+!!!OTL: Oj wyrosła czerwona kałyna
+!!!source: DWOK36
+!!!id: 36371
+!!!signature: 3637100001
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4cc
+4dd
+4ee
+4dd
+=2
+8cc
+8cc
+8dd
+8b
+4a
+4a
+=3
+8cc
+8b
+8cc
+8dd
+4cc
+4dd
+=4
+2ee
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8b
+8b
+4a
+4a
+=6
+8cc
+8b
+8cc
+8dd
+8ee
+8cc
+4dd
+=7
+2a
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

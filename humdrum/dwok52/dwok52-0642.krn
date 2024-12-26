@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK5264200000-poznalem_dziewczyne_z_samego_wsi_konca.krn
+!!!OTL: Poznałem dziewczynę z samego wsi końca
+!!!source: DWOK52
+!!!id: 52642
+!!!signature: 5264200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8g
+8b
+8d
+=2
+4ee
+4dd
+=3
+8ee
+8cc
+8a
+8f#
+=4
+4cc
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8b
+8g
+=6
+4ee
+4dd
+=7
+8ee
+8cc
+8a
+8f#
+=8
+4a
+4g}
+!!LO:LB:g=esac
+=9
+{8d
+8e
+8f#
+8d
+=10
+8g
+8d
+4b
+=11
+8dd
+8cc
+8a
+8cc
+=12
+8ee
+8dd
+4b}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+8b
+8g
+=14
+8ee
+8dd
+4dd
+=15
+16dd
+16ee
+8cc
+8a
+8f#
+=16
+8a
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=476 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 411} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 411}
+!!!page: 411
+!!!ONB: Converted on 2024/12/26 with esac2hum

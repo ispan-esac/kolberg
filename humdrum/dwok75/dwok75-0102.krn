@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK7510200000-oj_dziwuja_sie_ludzie.krn
+!!!OTL: Oj, dziwują sie ludzie
+!!!source: DWOK75
+!!!id: 75102
+!!!signature: 7510200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4ff
+4ff
+4ff
+=2
+8ee
+8ff
+4ee
+4ee
+=3
+4ee
+4.dd
+8b
+=4
+8g
+8g
+4b
+4cc}
+!!LO:LB:g=esac
+=5
+{4cc
+4dd
+4b
+=6
+8cc
+8ee
+4ff
+4ff
+=7
+4cc
+4.dd
+8b
+=8
+8g
+8g
+4b
+4cc}
+!!LO:LB:g=esac
+=9
+{4ff
+4ff
+8gg
+8ee
+=10
+8ff
+8gg
+4ee
+8ff
+8ee
+=11
+8gg
+8ee
+4.dd
+8b
+=12
+8g
+8g
+4b
+4cc}
+!!LO:LB:g=esac
+=13
+{4cc
+4.dd
+8b
+=14
+8cc
+8cc
+4dd
+4ff
+=15
+4ee
+4.dd
+8b
+=16
+8g
+8g
+4b
+4cc}
+==
+*-
+!!!ONB: Wariant t. 2: +4+4+3_+3_; wariant t. 5: +3_+2_7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 69} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 69}
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4460500000-ej_dyc_se_leluja.krn
+!!!OTL: Ej, dyć se leluja
+!!!source: DWOK44
+!!!id: 44605
+!!!signature: 4460500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4dd
+4dd
+=2
+8dd
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=3
+{4b
+4dd
+4b
+=4
+8a
+8a
+2g}
+!!LO:LB:g=esac
+=5
+{4cc
+4cc
+4cc
+=6
+8dd
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=7
+{4cc
+4dd
+4b
+=8
+8a
+8a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=378 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 320} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 320}
+!!!page: 320
+!!!ONB: Converted on 2024/12/26 with esac2hum

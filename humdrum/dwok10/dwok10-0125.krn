@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK1012500000-wstan_otworzyc_mala_niech_se_nie_stoje.krn
+!!!OTL: Wstań otworzyć mała niech se nie stoję
+!!!source: DWOK10
+!!!id: 10125
+!!!signature: 1012500000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16g
+16dd
+8cc
+8a
+=2
+16b-
+16g
+4a
+=3
+16b-
+16g
+8f#
+8g
+=4
+4.d}
+!!LO:LB:g=esac
+=5
+{16d
+16a
+8g
+8f#
+=6
+16d
+16f#
+8g
+8a
+=7
+16b-
+16g
+8f#
+8g
+=8
+4.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 271} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 271}
+!!!page: 271
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3905500000-w_ciemnym_lasku_ptaszek_spiwa.krn
+!!!OTL: W ciemnym lasku ptaszek śpiwa
+!!!source: DWOK39
+!!!id: 39055
+!!!signature: 3905500000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{8cc
+8b
+4g
+4b
+4dd
+=2
+8ff
+8ee
+4gg
+4ff
+4dd
+=3
+8ff
+8ee
+4gg
+4ff
+4dd}
+!!LO:LB:g=esac
+=4
+{4cc
+4g
+4f
+4a
+=5
+8cc
+8b
+4dd
+4g
+8ff
+8ee}
+!!LO:LB:g=esac
+=6
+{4cc
+4g
+4f
+4a
+=7
+8cc
+8b
+4dd
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=175 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 123} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

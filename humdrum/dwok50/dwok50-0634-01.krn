@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK5063400001-co_sie_dzialo_przed_laty.krn
+!!!OTL: Co sie działo przed laty
+!!!source: DWOK50
+!!!id: 50634
+!!!signature: 5063400001
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8a
+8a
+8a
+8b
+=2
+4.cc
+8g
+=3
+8b
+8g
+4g}
+!!LO:LB:g=esac
+=4
+{8g
+8dd
+8dd
+8dd
+=5
+8dd
+8dd
+8ee
+8dd}
+!!LO:LB:g=esac
+=6
+{8dd
+16cc
+16b
+16a
+16g
+8b
+=7
+4cc
+4a}
+!!LO:LB:g=esac
+=8
+*M3/4
+{8dd
+8dd
+8cc
+8b
+16a
+16g
+8b
+=9
+*M2/4
+8cc
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=411 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 378} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 378}
+!!!page: 378
+!!!ONB: Converted on 2024/12/26 with esac2hum

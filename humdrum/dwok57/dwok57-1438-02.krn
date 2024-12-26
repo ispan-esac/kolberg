@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK57143800002-oj_tam_w_lisi.krn
+!!!OTL: Oj, tam w lisi
+!!!source: DWOK57
+!!!id: 571438
+!!!signature: 57143800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8g
+8b
+=2
+8dd
+8dd
+32dd
+32ee
+32dd
+32cc
+8b
+=3
+8dd
+8dd
+32dd
+32ee
+32dd
+32cc
+8b}
+!!LO:LB:g=esac
+=4
+{8cc
+8cc
+16cc
+16b
+16cc
+16dd
+=5
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=6
+{4b
+8a
+8g
+=7
+16g
+16ee
+16ee
+16dd
+4dd}
+!!LO:LB:g=esac
+=8
+{8b
+8b
+8cc
+16a
+16f#
+=9
+8g
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 491
+!!!ONB: Converted on 2024/12/26 with esac2hum

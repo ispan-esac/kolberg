@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK4305000001-szla_mamelka_na_ziele.krn
+!!!OTL: Szła mamelka na ziele
+!!!source: DWOK43
+!!!id: 43050
+!!!signature: 4305000001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+8ee
+8ee
+8ee
+=2
+8ee
+8ff
+4gg
+=3
+8aa
+16aa
+16gg
+4ff
+=4
+8gg
+16gg
+16ff
+4ee}
+!!LO:LB:g=esac
+=5
+{8cc
+16cc
+16g
+8cc
+16cc
+16g
+=6
+8cc
+8ee
+4gg
+=7
+8aa
+16aa
+16gg
+4ff
+=8
+8gg
+16gg
+16ff
+4ee}
+!!LO:LB:g=esac
+=9
+{8gg
+8gg
+16aa
+16gg
+16ff
+16ee
+=10
+8dd
+8dd
+4dd}
+!!LO:LB:g=esac
+=11
+{8gg
+8gg
+8aa
+16ee
+16dd
+=12
+8cc
+8cc
+4cc}
+!!LO:LB:g=esac
+=13
+{8ccc
+8ccc
+4ccc
+=14
+8aa
+8aa
+4aa
+=15
+8gg
+8gg
+8aa
+16ff
+16dd
+=16
+8cc
+8cc
+4cc}
+==
+*-
+!!!ONB: Straszak lub grażat. Taniec z klaskaniem rąk
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 65} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 65}
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

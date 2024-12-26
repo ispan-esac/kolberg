@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK3303600000-o_moja_mamulenko_moja_zoronko.krn
+!!!OTL: O moja mamuleńko moja zorońko
+!!!source: DWOK33
+!!!id: 33036
+!!!signature: 3303600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+16a
+16a
+8a
+8a
+8g#
+8a
+=2
+4g#
+8b
+8a
+4a
+=3
+2e}
+4r
+!!LO:LB:g=esac
+=4
+{8a
+16a
+16a
+8b
+8a
+8g#
+8a
+=5
+4g#
+8cc
+8b
+4a
+=6
+2e}
+4r
+!!LO:LB:g=esac
+=7
+{8g#
+16b
+16b
+4b
+4b
+=8
+8.g#
+16b
+4a
+4e
+=9
+8g#
+8b
+8b
+8b
+4b
+=10
+8cc
+8b
+4a
+4e}
+==
+*-
+!!!ONB: Zawodzenie dorosłego syna przy ciele zmarłej matki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 188} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

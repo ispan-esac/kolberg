@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK06-K0569-wszystko_co_zyje_na_swiecie.krn
+!!!OTL: Wszystko co zyje na swiecie
+!!!source: DWOK06
+!!!id: K0569
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4.cc
+8b-
+4a
+4a
+=2
+4b-
+4b-
+4dd
+4cc
+=3
+4cc
+4a
+4b-
+4g
+=4
+4a
+4f
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{4g
+4a
+4b-
+4g
+=6
+4a
+4b-
+4dd
+4cc
+=7
+8cc
+8dd
+8ee
+8ff
+2a
+=8
+2g
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=351 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 325} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 325}
+!!!page: 325
+!!!ONB: Converted on 2024/12/26 with esac2hum

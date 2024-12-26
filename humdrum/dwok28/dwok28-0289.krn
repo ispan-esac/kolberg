@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2828900000-smuzkiem_dziewczyno_smuzkiem.krn
+!!!OTL: Smużkiem dziewczyno smużkiem
+!!!source: DWOK28
+!!!id: 28289
+!!!signature: 2828900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8b
+8b
+8g#
+=2
+4a
+8b
+=3
+8cc
+4a
+=4
+8cc
+8b
+8g#
+=5
+4a
+8b
+=6
+8cc
+4a}
+!!LO:LB:g=esac
+=7
+{8e
+8g#
+8g#
+=8
+4a
+8e
+=9
+8g#
+4a
+=10
+8e
+8g#
+8g#
+=11
+4a
+8b
+=12
+8g#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 273} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 273}
+!!!page: 273
+!!!ONB: Converted on 2024/12/26 with esac2hum

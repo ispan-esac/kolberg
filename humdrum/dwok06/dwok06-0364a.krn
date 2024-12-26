@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK06-K0364a-byl_tu_chopek_we_wsi.krn
+!!!OTL: Byl tu chopek we wsi
+!!!source: DWOK06
+!!!id: K0364a
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8d
+8f#
+8.a
+16f#
+=2
+8g
+4.b
+=3
+8b
+8cc#
+8.dd
+16cc#
+=4
+8ee
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8.a
+16f#
+=6
+8g
+4b
+16b
+16g
+=7
+8b
+8cc#
+8dd
+8cc#
+=8
+8ee
+4dd}
+8r
+!!LO:LB:g=esac
+=9
+{8dd
+4dd
+16dd
+16cc#
+=10
+8dd
+16dd
+16cc#
+8b
+16a
+16g
+=11
+16f#
+16g
+4a
+16cc#
+16dd
+=12
+8a
+16b
+16a
+16g
+16f#
+16e
+16d}
+!!LO:LB:g=esac
+=13
+{8d
+16e
+16f#
+8d
+16e
+16f#
+=14
+8g
+16b
+16a
+8b
+8b
+=15
+4a
+4cc#
+=16
+16dd
+16cc#
+4.dd}
+==
+*-
+!!!ONB: Dwie ostatnie linie oddzielic jako przegrywke instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 184} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

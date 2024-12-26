@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK02-K0108-oj_na_rozplecinach.krn
+!!!OTL: Oj na rozplecinach
+!!!source: DWOK02
+!!!id: K0108
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4b
+8b
+8cc
+=2
+4dd
+8dd
+8b
+=3
+8cc
+8g}
+4r
+!!LO:LB:g=esac
+=4
+{4b
+8b
+8dd
+=5
+4cc
+8b
+8f#
+=6
+4g}
+4r
+!!LO:LB:g=esac
+=7
+{4b
+8b
+8cc
+=8
+8dd
+8ee
+8dd
+8b
+=9
+4cc
+8b
+8cc
+=10
+4dd
+8b
+8f#
+=11
+2g}
+!!LO:LB:g=esac
+=12
+{4b
+4b
+=13
+4b
+8dd
+8ee
+=14
+4cc
+8b
+8f#
+=15
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 84-85} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 84-85}
+!!!page: 84-85
+!!!ONB: Converted on 2024/12/26 with esac2hum

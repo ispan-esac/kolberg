@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK42152400000-a_tam_pod_kosinem.krn
+!!!OTL: A tam pod Kosinem
+!!!source: DWOK42
+!!!id: 421524
+!!!signature: 42152400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8b
+8b
+8a
+=2
+8a
+4dd
+8cc
+=3
+8b
+8a
+8g
+8b
+=4
+8cc
+4ee
+8gg}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8b
+8a
+=6
+8dd
+4dd
+8cc
+=7
+8b
+8a
+8g
+8b
+=8
+8cc
+4.cc}
+==
+*-
+!!!ONB: warint w takcie 7: 7_6_5_67
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 84} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 84}
+!!!page: 84
+!!!ONB: Converted on 2024/12/26 with esac2hum

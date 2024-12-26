@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2705600002-pod_borem_pod_borem.krn
+!!!OTL: Pod borem pod borem
+!!!source: DWOK27
+!!!id: 27056
+!!!signature: 2705600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8f#
+8g
+8a
+8b
+8cc
+8b
+8a
+8b
+=2
+8cc
+8b
+8a
+8f#
+4g
+4d}
+!!LO:LB:g=esac
+=3
+{4a
+8a
+8f#
+4.a
+8b
+=4
+8cc
+8b
+8a
+8f#
+4g
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+4.a
+8b
+=6
+8d
+8d
+8d
+8f#
+4g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 175} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 175}
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

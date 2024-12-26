@@ -1,0 +1,112 @@
+!!!!SEGMENT: DWOK2244900020-instrumentalna-ksebka.krn
+!!!OTL: Instrumentalna-Ksebka
+!!!source: DWOK22
+!!!id: 22449
+!!!signature: 2244900020
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8a
+8a
+8a
+=
+24dd
+24b
+24cc#
+8ee
+16cc#
+16b
+=2
+8a
+8a
+8b
+=
+24b
+24cc#
+24dd
+8b
+16a
+16g#}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8a
+=
+24dd
+24b
+24cc#
+8ee
+16cc#
+16b
+=4
+8a
+8a
+8a
+=
+24b
+24cc#
+24dd
+8b
+24a
+24g#
+24e}
+!!LO:LB:g=esac
+=
+{24e
+24f#
+24g#
+8b
+8b
+=5
+16b
+16dd#
+8ee
+16cc#
+16b
+=6
+8a
+8a
+8a
+=
+24b
+24cc#
+24dd
+8b
+8b}
+!!LO:LB:g=esac
+=
+{24e
+24f#
+24g#
+8b
+8b
+=7
+16b
+16dd#
+8ee
+16cc#
+16b
+=8
+8a
+8a
+8a
+=
+24b
+24cc#
+24dd
+8b
+24b
+24a
+24g#}
+==
+*-
+!!!ONB: melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=237 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 219} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 219}
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

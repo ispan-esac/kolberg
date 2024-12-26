@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2603300000-hej_posly_byly.krn
+!!!OTL: Hej posły były
+!!!source: DWOK26
+!!!id: 26033
+!!!signature: 2603300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8dd
+8ee
+4dd
+4b
+=2
+8dd
+8dd
+8dd
+8ee
+4dd
+4b
+=3
+4dd
+8dd
+8ee
+4dd
+4cc
+=4
+4b
+4b
+2g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8cc
+4b
+4g
+=6
+8a
+8a
+8a
+8a
+4b
+4g
+=7
+4a
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2521000000-corulenku_anulenku.krn
+!!!OTL: Córuleńku Anuleńku
+!!!source: DWOK25
+!!!id: 25210
+!!!signature: 2521000000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8d
+8f#
+8g
+8b-
+=2
+8a
+8g
+8f#
+8g
+=3
+8a
+8g
+8f#
+8g
+=4
+4a
+4d}
+!!LO:LB:g=esac
+=5
+{4dd
+4a
+=6
+8a
+8g
+8f#
+8g
+=7
+4a
+4d}
+!!LO:LB:g=esac
+=8
+{8d
+8f#
+8g
+8b-
+=9
+8a
+8g
+8f#
+8g
+=10
+4a
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 92} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 92}
+!!!page: 92
+!!!ONB: Converted on 2024/12/26 with esac2hum

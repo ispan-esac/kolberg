@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK7730500000-a_nie_chciala_mu_oj_na_polu_dac.krn
+!!!OTL: A nie chciała mu oj na polu dać
+!!!source: DWOK77
+!!!id: 77305
+!!!signature: 7730500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8b
+8dd
+8dd
+8b
+4cc
+=2
+8ee
+8gg
+8gg
+8ff
+4ff}
+!!LO:LB:g=esac
+=3
+{8b
+8dd
+8dd
+8cc
+8ee
+8cc
+=4
+8b
+8b
+8cc
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 164
+!!!ONB: Converted on 2024/12/26 with esac2hum

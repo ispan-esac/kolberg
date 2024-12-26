@@ -1,0 +1,115 @@
+!!!!SEGMENT: DWOK3915600001-czego_kalino_w_dole_stoisz.krn
+!!!OTL: Czego, kalino, w dole stoisz
+!!!source: DWOK39
+!!!id: 39156
+!!!signature: 3915600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8a
+=2
+8cc#
+4a
+=3
+16a
+16b
+4g
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8cc#
+=6
+8ee
+4dd
+=7
+16dd
+16cc#
+4a
+=8
+16a
+16cc#
+4dd}
+!!LO:LB:g=esac
+=9
+{16dd
+16ee
+16dd
+16cc#
+8a
+=10
+8cc
+4a
+=11
+16a
+16b
+4g
+=12
+8b
+4dd}
+!!LO:LB:g=esac
+=13
+{16dd
+16ee
+16dd
+16cc#
+8a
+=14
+8cc
+4a
+=15
+16a
+16b
+4g
+=16
+8a
+4g}
+!!LO:LB:g=esac
+=17
+{16dd
+16ee
+16dd
+16cc#
+8a
+=18
+8cc
+4a
+=19
+16a
+16b
+4g
+=20
+8b
+4dd}
+!!LO:LB:g=esac
+=21
+{16dd
+16ee
+16dd
+16cc#
+8a
+=22
+8cc
+4a
+=23
+16a
+16b
+4g
+=24
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 195} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 195}
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,113 @@
+!!!!SEGMENT: DWOK1805400000-a_ktozto_tam_stoji_u_furtecki.krn
+!!!OTL: A któżto tam stoji u furtecki
+!!!source: DWOK18
+!!!id: 18054
+!!!signature: 1805400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+4.ee
+=2
+8ff
+8ff
+8ee
+8dd
+=3
+8ee
+8ee
+8ff
+8ee
+=4
+8ee
+4.dd}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4dd
+=6
+8b
+4dd
+8dd
+=7
+8dd
+8ff
+8ee
+8dd
+=8
+16ee
+16cc
+4.g}
+!!LO:LB:g=esac
+=9
+{8cc
+4.ee
+=10
+8ff
+8ff
+8ee
+8dd
+=11
+8ee
+8gg
+16gg
+16ff
+8ee
+=12
+16ff
+16ee
+4.dd}
+!!LO:LB:g=esac
+=13
+{8b
+8cc
+4dd
+=14
+16b
+16cc
+4dd
+16ee
+16ff
+=15
+8dd
+8ff
+8ee
+8dd
+=16
+8ee
+4.cc}
+!!LO:LB:g=esac
+=17
+{16g
+16a
+16b
+16cc
+8.dd
+16b
+=18
+8cc
+4ee
+8ee
+=19
+16g
+16a
+16b
+16cc
+8.dd
+16b
+=20
+8cc
+4ee
+8ee}
+==
+*-
+!!!ONB: Przy oświadczynach
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 79} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 79}
+!!!page: 79
+!!!ONB: Converted on 2024/12/26 with esac2hum

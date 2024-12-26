@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK5060800000-hu_ha_hu_ha_wiatr_gra_krew_gra.krn
+!!!OTL: Hu ha, hu ha, wiatr gra, krew gra
+!!!source: DWOK50
+!!!id: 50608
+!!!signature: 5060800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16cc
+8g
+8g
+=2
+16cc
+16cc
+8g
+8g
+=3
+16e
+16d
+8c
+8c
+=4
+16e
+16d
+8c
+8c}
+!!LO:LB:g=esac
+=5
+{16d
+16d
+8B
+8d
+=6
+4.g
+=7
+16f#
+16f#
+8e
+8f#
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16d
+16d
+8B
+8d
+=10
+4.g
+=11
+16f#
+16a
+8cc
+8f#
+=12
+4.g}
+==
+*-
+!!!ONB: wariant t. 10: 1_3_21
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=392 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 359} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 359}
+!!!page: 359
+!!!ONB: Converted on 2024/12/26 with esac2hum

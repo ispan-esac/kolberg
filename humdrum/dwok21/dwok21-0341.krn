@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2134100000-dziwka_mi_sie_spodobala.krn
+!!!OTL: Dziwka mi sie spodobała
+!!!source: DWOK21
+!!!id: 21341
+!!!signature: 2134100000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=
+{24cc#
+24ee
+24dd
+8cc#
+8a
+=1
+16b
+16g
+8e
+8dd
+=2
+16cc#
+16dd
+8cc#
+8a
+=3
+16b
+16g
+8e
+8d}
+!!LO:LB:g=esac
+=
+{24f#
+24g
+24e
+8d
+16f#
+16a#
+=4
+16b
+16g
+8e
+8a
+=5
+16f#
+16e
+8d
+8a#
+=6
+16b
+16g
+8e
+8d}
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=152 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 134} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 134}
+!!!page: 134
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK57168300000-a_tam_w_lisi_kraj_dorohy.krn
+!!!OTL: A tam w lisi kraj dorohy
+!!!source: DWOK57
+!!!id: 571683
+!!!signature: 57168300000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8g
+8b
+8b
+8dd
+8cc
+8b
+=2
+*M2/4
+8a
+8f#
+4g
+=3
+*M3/4
+8b
+8cc
+4dd
+8ee
+8a
+=4
+8cc
+8b
+2a}
+!!LO:LB:g=esac
+=5
+{4.dd
+8ee
+8dd
+8cc
+=6
+8b
+8b
+4a
+4g
+=7
+8g
+8b
+8b
+8dd
+8cc
+8b
+=8
+4f#
+2g}
+==
+*-
+!!!ONB: Wariant t. 6-7: 332-71_  333543
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 770
+!!!ONB: Converted on 2024/12/26 with esac2hum

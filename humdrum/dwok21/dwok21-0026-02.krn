@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2102600002-na_zielonej_lace_z_tamtej_strony_dwora.krn
+!!!OTL: Na zielonej łące z tamtej strony dwora
+!!!source: DWOK21
+!!!id: 21026
+!!!signature: 2102600002
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{16a
+16a
+8a
+8a
+=2
+4ff
+8cc#
+=3
+16dd
+16ee
+8gg
+8ff
+=4
+8ee
+8cc#
+8a}
+!!LO:LB:g=esac
+=5
+{4cc#
+8ee
+=6
+4dd
+8a
+=7
+16g
+16a
+8b-
+8a
+=8
+8dd
+4cc#}
+!!LO:LB:g=esac
+=9
+{8cc#
+8cc#
+8ee
+=10
+4dd
+8a
+=11
+16g
+16a
+8b-
+8a
+=12
+8dd
+8cc#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=32 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 14} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 14}
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

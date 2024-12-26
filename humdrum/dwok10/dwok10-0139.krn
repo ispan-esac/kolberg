@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1013900000-to_z_nia_do_pszeniczki_to_z_nia_do_zyta.krn
+!!!OTL: To z nią do pszeniczki, to z nią do żyta
+!!!source: DWOK10
+!!!id: 10139
+!!!signature: 1013900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4cc
+8b
+=2
+16cc
+16dd
+8ee
+8ee
+=3
+4cc
+8b
+=4
+16a
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+8b
+=6
+16a
+16a
+8b
+8g
+=7
+4cc
+8b
+=8
+16a
+16a
+8b
+8dd
+=9
+4cc
+8b
+=10
+16a
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 281-282} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, pp. 281-282}
+!!!page: 281-282
+!!!ONB: Converted on 2024/12/26 with esac2hum

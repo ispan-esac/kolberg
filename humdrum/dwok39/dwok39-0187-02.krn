@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK3918700002-nie_pojde_ja_na_zulawy.krn
+!!!OTL: Nie pójdę ja na Zuławy
+!!!source: DWOK39
+!!!id: 39187
+!!!signature: 3918700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4cc
+4cc
+=2
+8cc
+8ee
+4ee
+8dd
+8b
+=3
+8cc
+8ee
+4ee
+8dd
+8b
+=4
+8cc
+8ee
+4ee
+4gg
+=5
+2.dd}
+!!LO:LB:g=esac
+=6
+{8g
+8b
+4cc
+4ee
+=7
+8cc
+8cc
+4a
+4f
+=8
+8a
+8a
+4a
+8cc
+8b
+=9
+2.g}
+!!LO:LB:g=esac
+=10
+{8g
+8b
+4cc
+4ee
+=11
+8cc
+8cc
+4a
+4f
+=12
+8a
+8a
+4a
+8cc
+8b
+=13
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 216} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 216}
+!!!page: 216
+!!!ONB: Converted on 2024/12/26 with esac2hum

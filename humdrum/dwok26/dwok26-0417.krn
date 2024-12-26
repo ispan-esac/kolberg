@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2641700000-jedzie_jas_z_wojenki.krn
+!!!OTL: Jedzie Jaś z wojenki
+!!!source: DWOK26
+!!!id: 26417
+!!!signature: 2641700000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8d
+8d
+8e
+8g#
+=2
+4a
+8a
+8cc#
+=3
+2dd
+=4
+8dd
+8a
+8b
+8g
+=5
+4f#
+8g
+8e
+=6
+2d}
+!!LO:LB:g=esac
+=7
+{8.a
+16b
+8a
+8g
+=8
+4f#
+8g
+8e
+=9
+8d
+8d
+8e
+8g#
+=10
+4a
+4e}
+!!LO:LB:g=esac
+=11
+{8a
+8a
+8b
+8g
+=12
+4f#
+8g
+8e
+=13
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 291
+!!!ONB: Converted on 2024/12/26 with esac2hum

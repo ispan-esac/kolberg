@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK3911200001-u_jezioreczka_u_zimnej_wody.krn
+!!!OTL: U jezioreczka, u zimnej wody
+!!!source: DWOK39
+!!!id: 39112
+!!!signature: 3911200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8dd
+8dd
+4ee
+4dd
+=2
+4cc
+8b
+8g
+4a
+4d}
+!!LO:LB:g=esac
+=
+{4d
+8g
+8b
+4cc
+12a
+12b
+12cc
+=
+4dd
+12b
+12a
+12f#
+4g
+4d}
+!!LO:LB:g=esac
+=
+{4d
+8g
+8b
+4cc
+12a
+12b
+12cc
+=
+4dd
+12b
+12a
+12f#
+4g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 163} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 163}
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

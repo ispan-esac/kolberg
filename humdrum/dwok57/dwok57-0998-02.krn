@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK5799800002-kazala_mene_maty_za_perszoho_daty.krn
+!!!OTL: Kazała mene maty za perszoho daty
+!!!source: DWOK57
+!!!id: 57998
+!!!signature: 5799800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+4cc
+16cc
+16dd
+8b
+=2
+4a
+2g}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+8gg
+8ee
+8ee
+8cc
+=4
+4ee
+2dd}
+!!LO:LB:g=esac
+=5
+{4dd
+8gg
+8ee
+8ee
+8cc
+=6
+8cc
+8ee
+8dd
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+4cc
+8dd
+8b
+=8
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 185
+!!!ONB: Converted on 2024/12/26 with esac2hum

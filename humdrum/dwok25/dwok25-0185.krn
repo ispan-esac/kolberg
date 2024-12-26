@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2518500000-za_stodola_sowka_siada.krn
+!!!OTL: Za stodołą sówka siada
+!!!source: DWOK25
+!!!id: 25185
+!!!signature: 2518500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16ee
+8gg
+16gg
+16ff#
+=2
+4dd
+8ff#
+=3
+8gg
+4ee
+=4
+16cc
+16ee
+8gg
+16gg
+16ff#
+=5
+4dd
+8ff
+=6
+8dd
+4cc}
+!!LO:LB:g=esac
+=7
+{16cc
+16dd
+8ee
+8ee
+=8
+4dd
+8b
+=9
+8g
+4b
+=10
+16cc
+16dd
+8ee
+8ee
+=11
+4dd
+8ff
+=12
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 80} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

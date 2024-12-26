@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK02-K0116-da_moj_wianecku.krn
+!!!OTL: Da moj wianecku
+!!!source: DWOK02
+!!!id: K0116
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{8dd
+8dd
+8ff
+=2
+8ee
+4dd
+=3
+4cc
+8g
+=4
+8b-
+4a}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ff
+=6
+8ee
+4dd
+=7
+4cc
+8g
+=8
+8b-
+4a}
+!!LO:LB:g=esac
+=9
+{16g
+16f
+8g
+8a
+=10
+4cc
+8dd
+=11
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=12
+{16g
+16f
+8g
+8a
+=13
+4cc
+8g
+=14
+8b-
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 87} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 87}
+!!!page: 87
+!!!ONB: Converted on 2024/12/26 with esac2hum

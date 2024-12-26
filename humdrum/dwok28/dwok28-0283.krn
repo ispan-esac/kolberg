@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK2828300000-niescesliwy_ganecek.krn
+!!!OTL: Niescęśliwy ganecek
+!!!source: DWOK28
+!!!id: 28283
+!!!signature: 2828300000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M4/4
+{4g
+4b
+4b
+4g
+=2
+4g
+8dd
+8cc
+2b
+=3
+8a
+8ee
+8dd
+8cc
+4b}
+4r
+!!LO:LB:g=esac
+=4
+{4g
+4b
+4b
+4b
+=5
+8g
+8dd
+8dd
+8cc
+2b
+=6
+8cc
+8ee
+8dd
+8cc
+4b}
+4r
+!!LO:LB:g=esac
+=7
+*M2/4
+{8g
+8g
+8b
+8b
+=8
+8a
+8a
+8cc
+8ee
+=9
+4dd
+4d
+=10
+4g}
+4r
+!!LO:LB:g=esac
+=11
+{8g
+8g
+8b
+8b
+=12
+8a
+8a
+8cc
+8ee
+=13
+8dd
+8b
+8cc
+8a
+=14
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 271} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 271}
+!!!page: 271
+!!!ONB: Converted on 2024/12/26 with esac2hum

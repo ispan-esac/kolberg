@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK45185400020-zawolano_do_broni.krn
+!!!OTL: Zawołano: Do broni
+!!!source: DWOK45
+!!!id: 451854
+!!!signature: 45185400020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8ee
+8ee
+8gg
+8ff#
+4ee
+=2
+8dd
+8dd
+8b
+8cc
+4dd
+=3
+8a
+8b
+4cc
+4cc
+=4
+8b
+8cc
+2dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8gg
+8ff#
+4ee
+=6
+8dd
+8dd
+8b
+8cc
+4dd
+=7
+8a
+8b
+4cc
+4f#
+=8
+4g
+2g}
+!!LO:LB:g=esac
+=9
+{4.g
+8a
+4b
+=10
+2g
+4d
+=11
+4.g
+8a
+4b
+=12
+2g
+4d}
+!!LO:LB:g=esac
+=13
+{4.g
+8a
+4b
+=14
+2g
+4d
+=15
+4.g
+8a
+4b
+=16
+2g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=328 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 314} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 314}
+!!!page: 314
+!!!ONB: Converted on 2024/12/26 with esac2hum

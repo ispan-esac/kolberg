@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK06069000002-sokol_leci_lasem.krn
+!!!OTL: Sokol leci lasem
+!!!source: DWOK06
+!!!id: K0690
+!!!signature: 06069000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+4b
+8b
+=2
+8b
+8cc
+8dd
+8ee
+=3
+4cc
+4a
+=4
+8a
+8cc
+4dd}
+!!LO:LB:g=esac
+=5
+{8g
+4b
+8f#
+=6
+8g
+8g
+8f#
+8e
+=7
+4f#
+4d
+=8
+8d
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=455 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 429-430} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 429-430}
+!!!page: 429-430
+!!!ONB: Converted on 2024/12/26 with esac2hum

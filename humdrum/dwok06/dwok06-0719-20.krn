@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK0671900020-szukales_mnie_szukales.krn
+!!!OTL: Szukałeś mnie szukałeś
+!!!source: DWOK06
+!!!id: K0719
+!!!signature: 0671900020
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8f
+16a
+16cc
+8.cc
+16a
+=2
+8b-
+4dd
+8dd
+=3
+8a
+8cc
+16ee-
+16dd
+16ee-
+16gg
+=4
+16gg
+16ff
+16ee
+16ff
+16ee-
+16dd
+16cc
+16b-}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+4cc
+=6
+8b-
+4dd
+8dd
+=7
+8a
+8gg
+16ff
+16ee-
+16dd
+16ee-
+=8
+16cc
+16b-
+16a
+16b-}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=472 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 446} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 446}
+!!!page: 446
+!!!ONB: Converted on 2024/12/26 with esac2hum

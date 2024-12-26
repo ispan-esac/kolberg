@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK4715700000-sywa_zazulenka_oj_w_haj_poletila.krn
+!!!OTL: Sywa zazułeńka, oj, w haj połetiła
+!!!source: DWOK47
+!!!id: 47157
+!!!signature: 4715700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8f#
+4g
+4a
+=2
+4f#
+2g
+=3
+8a
+8a
+4dd
+4dd
+=4
+4a
+2a}
+!!LO:LB:g=esac
+=5
+{4.dd
+8ff
+8ee
+8dd
+=6
+4.cc
+8b-
+8a
+8g
+=7
+4f#
+4a
+8f#
+8e
+=8
+2d
+4dd}
+!!LO:LB:g=esac
+=9
+{4.dd
+8ff
+8ee
+8dd
+=10
+4.cc
+8b-
+8a
+8g
+=11
+8f#
+8g
+4a
+8f#
+8e
+=12
+2d
+4d}
+==
+*-
+!!!ONB: Wariant t. 2: (-7-6-5)1__; wariant t. 4: 252__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=211 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 157} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 157}
+!!!page: 157
+!!!ONB: Converted on 2024/12/26 with esac2hum

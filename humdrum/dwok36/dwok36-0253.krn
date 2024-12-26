@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3625300000-tuman_jarom.krn
+!!!OTL: Tuman jarom
+!!!source: DWOK36
+!!!id: 36253
+!!!signature: 3625300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4.dd
+8cc
+8b
+8a
+4g
+=2
+4ee
+4dd
+4a
+4g
+=3
+8a
+8cc
+4b
+8a
+8g
+4b
+=4
+4e
+2.d}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+2a
+8a
+8cc
+=6
+4ee
+8dd
+8b
+8cc
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 149
+!!!ONB: Converted on 2024/12/26 with esac2hum

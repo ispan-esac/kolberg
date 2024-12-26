@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK3010300000-oj_w_poly_kraj_dorohy.krn
+!!!OTL: Oj w poly kraj dorohy
+!!!source: DWOK30
+!!!id: 30103
+!!!signature: 3010300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8f#
+8g
+16e
+16d
+=2
+4g
+4a
+=3
+2b}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+8cc#
+8dd
+=5
+4b
+4g
+=6
+2b}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8a
+16g
+16f#
+=8
+4e
+4a
+=9
+2g}
+!!LO:LB:g=esac
+=10
+{8g
+8b
+8a
+16g
+16f#
+=11
+4e
+4b
+=12
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 72} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 72}
+!!!page: 72
+!!!ONB: Converted on 2024/12/26 with esac2hum

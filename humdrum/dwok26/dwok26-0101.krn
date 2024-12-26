@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2610100000-oj_nimas_tego_na_swiecie.krn
+!!!OTL: Oj nimas tego na świecie
+!!!source: DWOK26
+!!!id: 26101
+!!!signature: 2610100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8cc
+8cc
+=2
+8cc
+8b
+8cc
+=3
+8dd
+4cc
+=4
+4.b}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+=6
+8g
+8f#
+8d
+=7
+8e
+4f#
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{4a
+16g
+16a
+=10
+8b
+8g
+8d
+=11
+8cc
+4cc
+=12
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+8b
+=14
+8g
+8f#
+8d
+=15
+8e
+4f#
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

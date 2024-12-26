@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK5646500000-oj_de_sia_dila_de_sia_podila.krn
+!!!OTL: Oj, de sia diła, de sia podiła
+!!!source: DWOK56
+!!!id: 56465
+!!!signature: 5646500000
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/8
+=1
+{8B-
+8e-
+8f
+=2
+8g
+4a-
+=3
+8b-
+8a-
+8g
+=4
+8f
+4e-}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8a-
+=6
+8g
+4e-
+=7
+4.f
+=8
+4.B-}
+!!LO:LB:g=esac
+=9
+{8b-
+8a-
+16g
+16f
+=10
+8g
+4a-
+=11
+8b-
+8a-
+8g
+=12
+8f
+4e-}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+8a-
+=14
+8g
+8.f
+16d
+=15
+4.e-
+=16
+8e-}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=440 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 336} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 336}
+!!!page: 336
+!!!ONB: Converted on 2024/12/26 with esac2hum

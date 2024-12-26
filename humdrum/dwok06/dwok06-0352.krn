@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK06-K0352-wszyscy_sie_zenicie.krn
+!!!OTL: Wszyscy sie zenicie
+!!!source: DWOK06
+!!!id: K0352
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8cc
+4cc
+=2
+8cc
+4cc
+8cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+4cc
+=4
+8cc
+4b-
+8b-
+=5
+8a
+8a
+4cc
+=6
+8cc
+4b-
+8g}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+4cc
+=8
+8cc
+4dd
+8b-
+=9
+8a
+8a
+4cc
+=10
+8cc
+4b-
+8g}
+!!LO:LB:g=esac
+=11
+{8a
+8a
+4cc
+=12
+8cc
+4dd
+8b-
+=13
+8a
+8a
+4cc
+=14
+8cc
+4b-
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 177} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

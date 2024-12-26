@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2646300000-ej_i_pij_piwko.krn
+!!!OTL: Ej i pij piwko
+!!!source: DWOK26
+!!!id: 26463
+!!!signature: 2646300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16ee
+16gg#
+8.aa
+16ee
+=2
+16.dd
+32dd
+8a
+16cc
+16b}
+!!LO:LB:g=esac
+=3
+{16ee
+16gg#
+8.aa
+16ee
+=4
+16dd
+16dd
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8.g#
+16b
+=6
+16.dd
+32dd
+8a
+8cc}
+!!LO:LB:g=esac
+=7
+{16cc
+16ee
+8.g#
+16b
+=8
+16dd
+16dd
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 311
+!!!ONB: Converted on 2024/12/26 with esac2hum

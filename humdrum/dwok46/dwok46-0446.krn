@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK4644600000-ja_myslala_zes_ty_slachcic.krn
+!!!OTL: Ja myślała, żeś ty ślachcic
+!!!source: DWOK46
+!!!id: 46446
+!!!signature: 4644600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8cc
+4ee
+4gg
+=2
+8dd
+8b
+4b
+4g
+=3
+8cc
+8a
+4f#
+4d
+=4
+8g
+8b
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8a
+4f#
+4d
+=6
+8g
+8b
+4dd
+4ee
+=7
+8cc
+8a
+4f#
+4d
+=8
+8g
+8b
+4b
+4a}
+==
+*-
+!!!ONB: Wariant t. 6: 355_6_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=310 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 276} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 276}
+!!!page: 276
+!!!ONB: Converted on 2024/12/26 with esac2hum

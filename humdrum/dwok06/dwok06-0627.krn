@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK06-K0627-jak-ci_ja_pojade.krn
+!!!OTL: Jak-ci ja pojade
+!!!source: DWOK06
+!!!id: K0627
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+4b
+=2
+8dd
+4ee
+8dd
+=3
+8dd
+8dd
+4b
+=4
+8dd
+4ee
+16dd
+16b}
+!!LO:LB:g=esac
+=5
+{16dd
+16ee
+8dd
+4cc
+=6
+8a
+4g
+8b
+=7
+8dd
+8dd
+4cc
+=8
+8a
+4g
+16b
+16g}
+!!LO:LB:g=esac
+=9
+{16dd
+16ee
+8dd
+4cc
+=10
+8a
+4g
+8b
+=11
+8dd
+8dd
+4cc
+=12
+8a
+4g
+16b
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=414 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 388} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 388}
+!!!page: 388
+!!!ONB: Converted on 2024/12/26 with esac2hum

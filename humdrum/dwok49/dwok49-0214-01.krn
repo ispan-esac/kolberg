@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK4921400001-oj_sobosiu_sobosejko.krn
+!!!OTL: Oj, sobosiu, sobosejko
+!!!source: DWOK49
+!!!id: 49214
+!!!signature: 4921400001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/8
+{8e
+8a
+8b
+=2
+8cc
+8dd
+16dd
+16a
+=3
+4.b
+=4
+16b
+16a}
+4r
+!!LO:LB:g=esac
+=5
+*M4/8
+{8dd
+8cc
+4b
+=6
+*M3/8
+8cc
+8cc
+16dd
+16cc
+=7
+8b
+4a}
+!!LO:LB:g=esac
+=8
+*M4/8
+{8dd
+8dd
+8dd
+8cc
+=9
+*M3/8
+8b
+4g#
+=10
+4.a
+=11
+8a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=352 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 270} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 270}
+!!!page: 270
+!!!ONB: Converted on 2024/12/26 with esac2hum

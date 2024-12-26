@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1827700000-ty_moja_matulu_przygan_mu.krn
+!!!OTL: Ty moja matulu przygań mu
+!!!source: DWOK18
+!!!id: 18277
+!!!signature: 1827700000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{8dd
+8ff
+8ff
+8ee-
+8dd
+8ee-
+=2
+8ff
+8dd
+2b-
+=3
+8ee-
+8dd
+8cc
+8b-
+8a
+8b-
+=4
+8cc
+8a
+2f}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff
+4.b-
+8dd
+=6
+8cc
+8a
+2f
+=7
+8dd
+8ff
+8ff
+8ee-
+8dd
+8b-
+=8
+8cc
+8cc
+2b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 160} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

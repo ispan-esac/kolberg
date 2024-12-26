@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK41109400000-oj_wianku_ty.krn
+!!!OTL: Oj, wianku, ty
+!!!source: DWOK41
+!!!id: 411094
+!!!signature: 41109400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4ff
+4dd
+4ff
+=2
+8ff
+8ee
+4.cc
+8g
+=3
+4b
+4dd
+4dd
+=4
+8ff
+8ee
+4.cc
+8g}
+!!LO:LB:g=esac
+=5
+{4b
+4dd
+4dd
+=6
+8.ff
+16ee
+4dd
+8dd
+8cc
+=7
+4b
+4dd
+4ff
+=8
+8ff
+8ee
+4.cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=552 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 465} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 465}
+!!!page: 465
+!!!ONB: Converted on 2024/12/26 with esac2hum

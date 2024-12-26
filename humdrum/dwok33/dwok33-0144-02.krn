@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK3314400002-juze_zachodiat_weczernyi_hodyny.krn
+!!!OTL: Juże zachodiat weczernyi hodyny
+!!!source: DWOK33
+!!!id: 33144
+!!!signature: 3314400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+8dd
+4b
+=
+8b
+24cc
+24b
+24cc
+8dd
+=3
+8b
+8f#
+8g}
+!!LO:LB:g=esac
+=4
+{8dd
+16dd
+16cc
+8ee
+=
+8dd
+8b
+24b
+24a
+24f#
+=5
+8g
+4a}
+!!LO:LB:g=esac
+=
+{8b
+24cc
+24b
+24cc
+8dd
+=6
+16b
+16cc
+16dd
+16b
+16a
+16f#
+=7
+4.g}
+==
+*-
+!!!ONB: Wariant melodii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 250} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 250}
+!!!page: 250
+!!!ONB: Converted on 2024/12/26 with esac2hum

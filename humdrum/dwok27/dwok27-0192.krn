@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2719200000-z_tamtej_strony_jezioreczka.krn
+!!!OTL: Z tamtej strony jezioreczka
+!!!source: DWOK27
+!!!id: 27192
+!!!signature: 2719200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+16cc
+16b
+8a
+=2
+16b
+16cc
+8dd
+8cc
+=3
+16ee
+16gg
+8ff
+8ee
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{16ee
+16gg
+16ff
+16ee
+8dd
+=6
+16ee
+16cc
+8a
+8g
+=7
+16b
+16dd
+8cc
+8b
+=8
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=270 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 251} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

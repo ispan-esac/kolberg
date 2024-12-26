@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK5266400000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK52
+!!!id: 52664
+!!!signature: 5266400000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{2aa
+=2
+4gg
+4bb
+=3
+4aa
+4ee
+=4
+8aa
+8gg
+8ff#
+8ee
+=5
+8aa
+8gg
+8ff#
+8ee
+=6
+4dd
+4a}
+!!LO:LB:g=esac
+=7
+{4dd
+8ee
+8ff#
+=8
+8gg
+8ff#
+4ee
+=9
+2aa}
+!!LO:LB:g=esac
+=10
+{4gg
+4bb
+=11
+4aa
+4ee
+=12
+8aa
+8gg
+8ff#
+16ee
+16cc#
+=13
+2dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=489 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 424} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 424}
+!!!page: 424
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,119 @@
+!!!!SEGMENT: DWOK7750100000-i_wyjechal_jasienko.krn
+!!!OTL: I wyjechał Jasieńko
+!!!source: DWOK77
+!!!id: 77501
+!!!signature: 7750100000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8g
+8b
+4dd
+4gg
+=2
+8ff#
+8aa
+2gg}
+!!LO:LB:g=esac
+=3
+{8gg
+8dd
+4ee
+4cc
+=4
+8b
+8dd
+2a}
+!!LO:LB:g=esac
+=5
+*M4/4
+{8dd
+8ee
+8dd
+8cc
+8cc
+8b
+8a
+8f#
+=6
+8g
+8g
+8a
+16a
+16cc
+4.dd
+8ff#}
+!!LO:LB:g=esac
+=7
+*M3/4
+{8gg
+8dd
+4ee
+4cc
+=8
+8b
+8dd
+2a}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+4dd
+4gg
+=10
+8ff#
+8aa
+2gg}
+!!LO:LB:g=esac
+=11
+{8gg
+8dd
+4ee
+4cc
+=12
+8b
+8dd
+2a}
+!!LO:LB:g=esac
+=13
+*M4/4
+{8dd
+8ee
+8dd
+8cc
+8cc
+8b
+8a
+8f#
+=
+!!UNCATEGORIZED MEASURE
+8g
+8g
+8a
+16a
+16cc
+4dd
+8ee
+4ff#}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8gg
+8dd
+4ee
+4cc
+=14
+*M3/4
+8b
+8dd
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 261
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5040900002-stala_nam_sie_w_seli_nowyna.krn
+!!!OTL: Stała nam sie, w seli nowyna
+!!!source: DWOK50
+!!!id: 50409
+!!!signature: 5040900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8a
+8a
+=2
+8g
+8b
+8a
+8a
+=3
+8dd
+8dd
+8ee
+16ee
+16ff#
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff#
+8.ee
+16dd
+=6
+8cc
+8b
+8a
+8dd
+=7
+8cc
+8b
+8a
+16a
+16b
+=8
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 238} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 238}
+!!!page: 238
+!!!ONB: Converted on 2024/12/26 with esac2hum

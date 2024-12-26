@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK1645600000-po_co_zes_mnie_jasiu_do_sadenka_zawiod.krn
+!!!OTL: Po co żeś mnie Jasiu do sadeńka zawiód
+!!!source: DWOK16
+!!!id: 16456
+!!!signature: 1645600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16b
+16dd#
+4b
+=2
+8dd#
+8ee
+8ee
+=3
+16dd#
+16ee
+4b
+=4
+8b
+8ee
+8ee}
+!!LO:LB:g=esac
+=5
+{16dd
+32cc
+32b
+8.a
+16g#
+=6
+8a
+8b
+8cc
+=7
+16b
+16a
+4e
+=8
+8e
+8e#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 281} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 281}
+!!!ONB: Converted on 2024/12/26 with esac2hum

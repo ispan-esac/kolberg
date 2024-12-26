@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1935300000-oj_rodzina_rodzina_marnie_wyginelsa.krn
+!!!OTL: Oj rodzina rodzina marnie wyginęłśa
+!!!source: DWOK19
+!!!id: 19353
+!!!signature: 1935300000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{16f#
+16g
+4b
+=2
+16a
+16cc
+8ee
+8dd
+=3
+16cc
+16cc
+8.b
+16g
+=4
+16f#
+16a
+4e}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+4b
+=6
+16g
+16f#
+8a
+8b
+=7
+16cc
+16a
+8.b
+16g
+=8
+8f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 108} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 108}
+!!!page: 108
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK5037700002-ide_turec_dorohoju.krn
+!!!OTL: Ide Turec dorohoju
+!!!source: DWOK50
+!!!id: 50377
+!!!signature: 5037700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+16cc
+64cc
+64b
+64a
+64g
+16a
+16f#
+8g}
+!!LO:LB:g=esac
+=3
+{16g
+16a
+8b
+8cc
+=4
+16cc
+16g
+8b
+16dd
+16b}
+!!LO:LB:g=esac
+=5
+{16cc
+16cc
+8ee
+8dd
+=6
+16cc
+64cc
+64dd
+64cc
+64a
+8a
+8a
+=7
+4dd
+8b}
+!!LO:LB:g=esac
+=8
+{16cc
+16cc
+8ee
+8dd
+=
+24cc
+24b
+24g
+16a
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 204} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 204}
+!!!page: 204
+!!!ONB: Converted on 2024/12/26 with esac2hum

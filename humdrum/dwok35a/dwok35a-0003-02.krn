@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK35A-35A00300002-boh_predwicznyj_narodyv_sia.krn
+!!!OTL: Boh predwicznyj narodyv sia
+!!!source: DWOK35A
+!!!id: 35A003
+!!!signature: 35A00300002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4cc
+8b
+16a
+16b
+=2
+2g
+=3
+16b
+16cc
+8cc
+8dd
+16ee
+16ff
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{8cc
+16dd
+16ee
+4ff
+=6
+8ee
+16dd
+16cc
+8.ee
+16dd
+=7
+8ee
+16ff
+16gg
+8.dd
+16cc
+=8
+8b
+16a
+16b
+8.g
+16a}
+!!LO:LB:g=esac
+=9
+{16a
+16b
+8cc
+16dd
+16ee
+8b
+=10
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 16} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

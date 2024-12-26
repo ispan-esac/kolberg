@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2516700000-pognala_dziewcyna_bez_bor.krn
+!!!OTL: Pognała dziewcyna bez bór
+!!!source: DWOK25
+!!!id: 25167
+!!!signature: 2516700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16ee
+8ff
+8ee
+=2
+8cc
+4b-
+=3
+16cc
+16ee
+8ff
+8ee
+=4
+8cc
+4f}
+!!LO:LB:g=esac
+=5
+{4cc
+8b-
+=6
+16dd
+16b-
+8g
+8e-
+=7
+16g
+16b-
+8a
+8g
+=8
+4f
+8a}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8b-
+=10
+16dd
+16b-
+8g
+8e-
+=11
+16g
+16b-
+8a
+16g
+16e
+=12
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 167} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 167}
+!!!page: 167
+!!!ONB: Converted on 2024/12/26 with esac2hum

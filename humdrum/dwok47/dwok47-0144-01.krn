@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK4714400001-daj_pusty_mene_moja_maty.krn
+!!!OTL: Daj, pusty mene, moja maty
+!!!source: DWOK47
+!!!id: 47144
+!!!signature: 4714400001
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M4/4
+{8g
+8b
+[4dd
+16dd]
+16ee
+16dd
+16cc
+8ee
+16dd
+16cc
+=2
+*M3/4
+8b
+8a
+4g}
+4r
+!!LO:LB:g=esac
+=3
+*M4/4
+{4cc
+4dd
+4ee
+[4dd
+=4
+*M3/4
+16dd]
+16ee
+8dd
+4cc
+4r
+=5
+*M4/4
+8ee
+8dd
+8cc
+8b
+16b
+16a
+8g
+8cc
+8dd}
+!!LO:LB:g=esac
+=6
+{4ee
+4dd
+8cc
+8b
+8cc
+8a
+=7
+4g
+4a
+4cc
+4dd}
+!!LO:LB:g=esac
+=8
+{4ee
+4dd
+8cc
+8b
+8cc
+8a
+=9
+2g
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 142} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 142}
+!!!page: 142
+!!!ONB: Converted on 2024/12/26 with esac2hum

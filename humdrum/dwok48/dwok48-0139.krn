@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK4813900000-kiedy_ja_zapukam_moje_dziewcze_posc_mnie.krn
+!!!OTL: Kiedy ja zapukam, moje dziewczę, pość mnie
+!!!source: DWOK48
+!!!id: 48139
+!!!signature: 4813900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+4g
+=2
+8g
+4f#
+8a
+=3
+8cc
+8cc
+4a
+=4
+8a
+4dd
+8dd}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4g
+=6
+8g
+4f#
+8a
+=7
+8a
+8cc
+8a
+8f#
+=8
+8g
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=224 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 184} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

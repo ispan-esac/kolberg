@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2569100002-le_orzes_zle_orzes.krn
+!!!OTL: Żle orzes, źle orzes
+!!!source: DWOK25
+!!!id: 25691
+!!!signature: 2569100002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8cc#
+4ee
+8aa
+=2
+8.ee
+16cc#
+4cc#
+=3
+8b
+4dd
+8dd
+=4
+8dd
+8dd
+8ee
+8dd}
+!!LO:LB:g=esac
+=5
+{8b
+4dd
+8b
+=6
+8.a
+16a
+8a
+8cc#
+=7
+8b
+4dd
+8b
+=8
+8.b
+16a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 246} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 246}
+!!!page: 246
+!!!ONB: Converted on 2024/12/26 with esac2hum

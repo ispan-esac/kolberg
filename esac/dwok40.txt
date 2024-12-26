@@ -1,0 +1,1472 @@
+DWOK40
+CUT[Plon niesiem, plon]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 96, od Osterode]
+FKT[]
+SIG[4000500001]
+KEY[40005   08  G 3/4]
+MEL[1__32  -4-5-3__
+    1__32  -4-5-3__
+    1-51_4_  3__2_
+    1-71_32  -4-5-3__
+    1-51_4_  3__2_
+    1-71_32  -4-5-3__
+    -7_32-4-5  -3__. //]
+BEM[2 głos]
+
+DWOK40
+CUT[Plon niesiem, plon]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 96, od Osterode]
+FKT[]
+SIG[4000500002]
+KEY[40005   08  G 3/4]
+MEL[3__54  231__
+    3__54  231__
+    123_6_  5__4_
+    323_54  231__
+    123_6_  5__4_
+    323_54  231__
+    2_5423  1__. //]
+BEM[1 głos]
+
+DWOK40
+CUT[Oj, lenku, lenku]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 99, od Osterode Kraplewo]
+FKT[]
+SIG[4000600000]
+KEY[40006   16  G 2/4]
+MEL[5_4_3_2_  2_1_1__  4_5_6_6_  4_3_2__
+    2_1_-7_1_  2__.34  5_6_5_3_  1_-7_-6__
+    4_2_2_-5_  1_3_5__  4_2_2_-5_  1_3_5__
+    4__6_4_  3__1_3_  5_4_2_-7_  1__1__ //]
+BEM[]
+
+DWOK40
+CUT[Pośpieszmy na pola]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 102]
+FKT[]
+SIG[40006a0001]
+KEY[40006a  16  F 3/8]
+MEL[1_  1_.-71_  3_.21_  -7_.-6-7_  1_-5_1_
+    1_.11_  -7_.-7-7_  -7_.10-6  1_-7_4_
+    3_.45_  6_.54_  3_.42_  -7_1_3_
+    3_.31_  -7_.23_  3_.12-7  1_1_ //]
+BEM[Kwitnący len]
+
+DWOK40
+CUT[Pośpieszmy na pola]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 102]
+FKT[]
+SIG[40006a0002]
+KEY[40006a  16  F 3/8]
+MEL[1_  3_.23_  5_.43_  2_.12_  3_3_1_
+    3_.33_  2_.22_  2_.304  6_5_4_
+    5_.67_  +1_.76_  5_.64_  4_3_5_
+    +1_.53_  2_.46_  5_.342  1_1_ //]
+BEM[Kwitnący len]
+
+DWOK40
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 111]
+FKT[]
+SIG[4000800001]
+KEY[40008   16  G 3/4]
+MEL[345654323_1_  -712321-7-6-7_-5_
+    345654323_1_  1-7-6-71___
+    2__1-7-6-71__  -712321-7-6-7_-5_
+    4_4_4_654321  -71231___ //]
+BEM[]
+
+DWOK40
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 111]
+FKT[]
+SIG[4000800002]
+KEY[40008   16  G 3/4]
+MEL[345654323_3_  -712321-7-6-7_-5_
+    345654323_3_  1-7-6-71__-5__
+    2__1-7-6-71__  -712321-7-6-7_-5_
+    4_4_4_654321  -71231___ //]
+BEM[]
+
+DWOK40
+CUT[Obejrzyj się ma najmilsza]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 136, Kraplewo]
+FKT[]
+SIG[4002800000]
+KEY[40028   16  C 2/4 3/4]
+MEL[+1_5_3_5_  +1_5_3_5_  +1_+1_6_7+1  +2__5__
+    5_7_+2__.+1_  +4+3+2+3+4__+3__  5_7_+2__.+1_  +4+3+2+3+4__+3__
+    5_7_+2__.+1_  +4+3+2+3+4__+3__ //]
+BEM[w rękopisie Gizewiusza zamiast taktów 7-10 jest melodia: +2_+1+2+3__+2__  +1__+1__0__]
+
+DWOK40
+CUT[A w niedziele raniusieńko]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 152, od Osterode]
+FKT[]
+SIG[4005100000]
+KEY[40051   08  G 3/8]
+MEL[55_  42_  3b1_  -7-5_
+    11_  3b4_  5_.  ^_0
+    55_  42_  3b1_  -7b-5_
+    -7b2_  53b_  1_.  ^_0
+    3b1_  -7b_.  22_  45_  1_.  ^_0 //]
+BEM[]
+
+DWOK40
+CUT[Leciała woda]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 155, Od Osterode]
+FKT[]
+SIG[4005600000]
+KEY[40056   16  C 3/8]
+MEL[+1_+1_+1_  7__5_  +1+3+4__
+    +4_+3+4+2_  7_5_5_  421__ //]
+BEM[]
+
+DWOK40
+CUT[Hej, kieni jedziesz]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 160, od Rozóg (Szymonki)]
+FKT[]
+SIG[4006500000]
+KEY[40065   08  G 3/4]
+MEL[1_1234  5_3553  5_+1_.6  +175_7_
+    6_4446  5_3335  3_4_.2  3_1_0_ //]
+BEM[]
+
+DWOK40
+CUT[Zielona ruta modry kwiat]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 163, od Osterode, Paśnima]
+FKT[]
+SIG[4006900000]
+KEY[40069   08  F 6/8]
+MEL[1355_7  +1_65_0
+    5554_2  4_35_0
+    5554_2  4_31_0 //]
+BEM[]
+
+DWOK40
+CUT[Z poniedziałku na święto]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 169, od Szczytna (Jedwabno)]
+FKT[]
+SIG[4008000001]
+KEY[40080   16  D 3/8]
+MEL[46+1_.6  4_6_5_
+    46+1_.6  446_5_
+    534_5_  642_.-7  135__
+    534_5_  642_.2  231__ //]
+BEM[]
+
+DWOK40
+CUT[Z poniedziałku na święto]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 169, od Szczytna (Jedwabno)]
+FKT[]
+SIG[4008000002]
+KEY[40080   16  D 3/8]
+MEL[46+1_.6  4_6_5_
+    46+1_.6  146_5_
+    534_5_  642_.-7  135__
+    534_5_  642_-7_  231__ //]
+BEM[]
+
+DWOK40
+CUT[Pisała dziewczyna do Jasieczka listek]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 169-170, od Dąbrówna (Gilgenburg)]
+FKT[]
+SIG[4008100001]
+KEY[40081   08  A 3/4]
+MEL[113b2-7-5  113b21-7
+    124_3b1  3b53b23b-7
+    124_3b-7  13b1_0_
+    124_3b1  3b53b_2-7
+    124_3b-7  13b1_0_ //]
+BEM[]
+
+DWOK40
+CUT[Pisała dziewczyna do Jasieczka listek]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 169, od Dąbrówna (Gilgenburg)]
+FKT[]
+SIG[4008100002]
+KEY[40081   08  A 3/4]
+MEL[113b21-7  113b21-7
+    124_3b1  3b53b23b-7
+    124_3b-7  13b1_0_
+    124_3b1  3b53b_2-7
+    124_3b-7  13b1_0_ //]
+BEM[]
+
+DWOK40
+CUT[o, dajże mi Boże]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 173, od Olsztynka, Paśnima]
+FKT[]
+SIG[4008400001]
+KEY[40084   16  G 3/8]
+MEL[543_.4  566__  543_.2  211__
+    543_.4  566__  543_.2  211__
+    133_2_  243_5_
+    133_2_  243_5_
+    123_4_  5_+1__
+    132_.-7  211__ //]
+BEM[]
+
+DWOK40
+CUT[o, dajże mi Boże]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 173, od Olsztynka, Paśnima]
+FKT[]
+SIG[4008400002]
+KEY[40084   16  G 3/8]
+MEL[543_.4  566__  543_.2  211__
+    543_.4  566__  543_.2  211__
+    133_2_  443_5_
+    133_2_  443_5_
+    123_4_  5_+1__
+    132_.-7  211__ //]
+BEM[]
+
+DWOK40
+CUT[W sadzie, sadeńku liście padają]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 174, od Szczytna (Jeruty)]
+FKT[]
+SIG[4008500000]
+KEY[40085   08  G 4/4]
+MEL[5_565_1_  3_422_1_
+    5_6_5_1_  35421_1_
+    22213_4_
+    22213_42
+    35421_.1 //]
+BEM[]
+
+DWOK40
+CUT[Leć, głosie, po rosie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 179, od Sensburga]
+FKT[]
+SIG[4009200010]
+KEY[40092   16  E 2/4]
+MEL[1_1_5__  4_2_5__  6b_5423b1_  2__-7b_-5_
+    1_3b_2_1_  1_3b_5_42  3b_(43b4)5_3b_  1__1__ //]
+BEM[]
+
+DWOK40
+CUT[Instrumentalna-Leć głosie po rosie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 179, od Sensburga]
+FKT[]
+SIG[4009200020]
+KEY[40092   16  E 2/4]
+MEL[1_1_5__  4_425__  56b5423b1_  2__-7b_-5_
+    1_3b_2_1_  1_3b_3b542  56b5423b-7_  1__1__ //]
+BEM[]
+
+DWOK40
+CUT[Spod tego gaju spod zielonego]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 183]
+FKT[]
+SIG[4009900000]
+KEY[40099   16  A 3/4]
+MEL[-7b_1_1__1_3b_  1__-7b___  -7b_1_1__1_3b_  1__-7b___
+    -7b__.2_4_2_  4_5_3b__1__  ^___1__
+    1_3b_5__3b__  4_56b5___  4__5_4_3b__  1__-7b___
+    -7b_2_4__2__  4_5_3b__1__  ^___1__ //]
+BEM[]
+
+DWOK40
+CUT[Oj, nie ma rżanki ani owsianki]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 186-187, Kraplewo]
+FKT[]
+SIG[4010400001]
+KEY[40104   16  C 3/8]
+MEL[5_5_7_  +1_+3__  +2_+5_+4_  +3+2+1__
+    +1_+2_+4_  +5_+4_+5_  +2__.
+    +4_+2_+4_  +3_+2__  +3_+2_5_  7_5__
+    5_6_+1_  +3_+1_7_  5__. //]
+BEM[]
+
+DWOK40
+CUT[Oj, nie ma rżanki ani owsianki]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 186, Kraplewo]
+FKT[]
+SIG[4010400002]
+KEY[40104   16  C 3/8]
+MEL[5_5_7_  +1_+3__  +2_+5_+4_  +3+2+1__
+    +1_+2_+4_  +5_+4_+5_  +2__.
+    +4_+2_+4_  +3_+2__  +3_+2_5_  7_5__
+    5_6_+1_  +2+3+1_7_  5__. //]
+BEM[]
+
+DWOK40
+CUT[Oj nie ma wsianki]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 189]
+FKT[]
+SIG[4010500001]
+KEY[40105   16  A 3/8]
+MEL[-5_-5_-7b_  2_1__  23b5_4_  23b1__
+    -7b_2_43b  5__.  2__.
+    4_.254  23b1__  242_-7b_  -5_-4__
+    -5_.-7b23b  1-7b2_.-7b  -5__. //]
+BEM[]
+
+DWOK40
+CUT[Oj nie ma wsianki]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 189]
+FKT[]
+SIG[4010500002]
+KEY[40105   16  A 3/8]
+MEL[-5_-5_-7b_  2_1__  23b5_4_  23b1__
+    -7b_2_43b  5_-7b24_  2__.
+    4_.254  23b1__  242_-7b_  -5_-4__
+    -5_.-7b23b  1-7b2_.-7b  -5__. //]
+BEM[]
+
+DWOK40
+CUT[Na ostrodzkiem polu]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 205]
+FKT[]
+SIG[4013500000]
+KEY[40135   32  G 3/4]
+MEL[-5__-7__2___.4_3_  -7__1___0___0__  5__6__4___.5_4_  3__5___0___0__
+    -7__2__4___.2_3_  1_-7_-5___0___0__  -5__-7__2___.4_3_  -7__1___0___0__
+    -7__2__4___.2_43  1-6-7_-5___0___0__  -5__-7__2___.4_3_  -7__1___0___0__ //]
+BEM[]
+
+DWOK40
+CUT[Z tamtej strony jeziorecka]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 213, od Niborga, Chorzeli]
+FKT[]
+SIG[4014900001]
+KEY[40149   08  A 2/4]
+MEL[-5-5-7-5  -7121  254#5  2__
+    3b_5_  43b2-5  -721-7  -5__ //]
+BEM[]
+
+DWOK40
+CUT[Z tamtej strony jeziorecka]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 213, od Niborga, Chorzeli]
+FKT[]
+SIG[4014900002]
+KEY[40149   08  A 2/4]
+MEL[-5-5-7-5  -7121  254#5  2__
+    3b45_  43b2-5  -721-7  -5__ //]
+BEM[]
+
+DWOK40
+CUT[Załosne serce cóz mi za radę das]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 229, od Olsztynka]
+FKT[]
+SIG[4017600001]
+KEY[40176   08  A 3/4]
+MEL[13b5_.4  2_-7b__  4_2_3b_  1-7b-5__
+    543b_-5_  1_3b_4_  23b542_  1_1__
+    543b_-5_  1_3b_4_  23b542_  1_1__ //]
+BEM[]
+
+DWOK40
+CUT[Załosne serce cóz mi za radę das]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 229, od Olsztynka]
+FKT[]
+SIG[4017600002]
+KEY[40176   16  A 3/4]
+MEL[1_3b_5__.4_  2__-7b___  4__2__3b_2_  1_-7b_-5___
+    5_4_3b__-5__  1_2_3b__4__  2_3b45_4_2__  1__1___
+    5_4_3b__-5__  1_2_3b__4__  2_3b45_4_2__  1__1___ //]
+BEM[]
+
+DWOK40
+CUT[Na ostródzkim polu]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 230, od Osterode]
+FKT[]
+SIG[4017700000]
+KEY[40177   16  C 2/4]
+MEL[5_+1_+1_+1_  +3_+2_+1__  5_+2_+2_+2_  +4_+3_+2__
+    +1_+3_+3_+3+4  +5__.+17  6_+1_7_+2_  +1__+1__ //]
+BEM[]
+
+DWOK40
+CUT[Za oną góreczką]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 231, od Działdowa]
+FKT[]
+SIG[4017900000]
+KEY[40179   16  G 9/8]
+MEL[5__5_4__2_1__3_  -7__2_4__2-71__3_
+    -5_-7_2_4_2_-7_1_2_3_  -5_-7_2_4_2_-7_1__1_ //]
+BEM[]
+
+DWOK40
+CUT[A w sadeczku jabłoneczka]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 233, od Działdowa]
+FKT[]
+SIG[4018300000]
+KEY[40183   08  C 2/4]
+MEL[+17+1+2  +3+5+4+3  +2+17+2  5__
+    +17+1+2  +3+5+4+2  7567  +1_0_
+    +3_+2_  +1765
+    +3_+1_  7+1+2+3
+    +457+2  +1_0_ //]
+BEM[]
+
+DWOK40
+CUT[A ty, ptaszku gregolaszku]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 234, od Kurzętnika, Dąbrówna]
+FKT[]
+SIG[4018400000]
+KEY[40184   16  A 3/8]
+MEL[123b_4_  554_.5  (3b21)2_-7_  1__0_
+    21-7_-5_  -724_.5  3b12_-7_  1__0_ //]
+BEM[]
+
+DWOK40
+CUT[A ty ptasku krogulasku]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 235 od Szczytna (Rozogi)]
+FKT[]
+SIG[4018500000]
+KEY[40185   16  A 3/8]
+MEL[5_5_64#  5_5_4#2  5_5_24  3b__0_
+    4_4_21  3b_3b_1-7b  2_4_23b  1__0_ //]
+BEM[]
+
+DWOK40
+CUT[Była niedziołeczka była nieszczęśliwa]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 236, od Osterode]
+FKT[]
+SIG[4018700000]
+KEY[40187   16  E 3/4]
+MEL[1_1_1_5_3b21_  5_4#_5__.7b6b  5__4__2__
+    2_4_5__.2_  5_4_3b_2_1__  3b_2_4_5_3b21_ //]
+BEM[]
+
+DWOK40
+CUT[Oj, zarosła mnie dróżka]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 237, od Osterode (Kraplewo)]
+FKT[]
+SIG[4018800000]
+KEY[40188   32  E 3/8]
+MEL[4_6b_5__4__  5_7b_+1___  +3b_+2_+1__5__  7b__5___  +3b_+2_+1__5__  7b__5___
+    1_3b_5__+1__  7b__.5_7b6b5_  4_6b_5__3b_2_  3b__1___ //]
+BEM[]
+
+DWOK40
+CUT[Nie masz, nie masz kochaneczka]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 238, od Osterode]
+FKT[]
+SIG[4018900001]
+KEY[40189   16  G 2/4]
+MEL[1_-7b_1_23b  4__5_2_  3b_2_1__
+    3b_-7b_3b_4_  5__.46b  5__1_-6b_
+    1_-7b_1_23b  4__5_24  3b_2_1__ //]
+BEM[]
+
+DWOK40
+CUT[Nie masz, nie masz kochaneczka]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 238, od Osterode]
+FKT[]
+SIG[4018900002]
+KEY[40189   16  G 2/4]
+MEL[1_-7b_1_23b  4__5_24  3b_2_1__
+    3b_-7b_3b_4_  5__.46b  5__1_-6b_
+    1_-7b_1_23b  4__5_24  3b_2_1__ //]
+BEM[]
+
+DWOK40
+CUT[Przy dolinie wódka płynie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 243]
+FKT[]
+SIG[4019900001]
+KEY[40199   08  G 3/4]
+MEL[5_.313  554_2_
+    5_.311  22-7_-5_
+    -5-72_-5_  113_5_
+    4_.224  553_1_ //]
+BEM[]
+
+DWOK40
+CUT[Przy dolinie wódka płynie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 243]
+FKT[]
+SIG[4019900002]
+KEY[40199   08  G 3/4]
+MEL[5_.313  554_2_
+    5_.313  22-7_-5_
+    -5-72_-5_  113_5_
+    4_.224  553_1_ //]
+BEM[]
+
+DWOK40
+CUT[Daj mi, świecie, zaprzestać]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 245, od Osterode (Morągi)]
+FKT[]
+SIG[4020200000]
+KEY[40202   16  C 3/8]
+MEL[+4_+4_+6_  +6+5+3_+1_  +1+3+5+4+3_  +2__5_
+    7__+2_  +4+3+164_  6+1+3_+3_  +2__5_ //]
+BEM[]
+
+DWOK40
+CUT[Deszczek pada, roska siada]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 248, od Osterode (Kraplewa)]
+FKT[]
+SIG[4020600000]
+KEY[40206   32  A 3/8]
+MEL[-5_3b_2__.5_  4_2_3b_2_1__  5_4#_5__.7b6  5__4#__2__
+    2_4_5__2__  5_4_3b_2_1__  3b_2_4__5_4_  3b_2_1___ //]
+BEM[]
+
+DWOK40
+CUT[Jak wiele wełenki]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 252, od Niborga Działdowa]
+FKT[]
+SIG[4021200000]
+KEY[40212   16  A 3/8]
+MEL[1_4_6_  653_1_  345_32  1_-5__
+    -7__2_  431_-6-4  -61-7_-6_  -5__-5_ //]
+BEM[]
+
+DWOK40
+CUT[Wyjrzała oknem dokąd ta droga]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 253-254, Od Osterode]
+FKT[]
+SIG[4021500000]
+KEY[40215   08  E 4/4]
+MEL[1_16b56b42  243b11-7b-7b_
+    3b_557b_.6b  53b57b53b1_
+    6b5445_.1  3b243b1_1_ //]
+BEM[]
+
+DWOK40
+CUT[Siwa garlica gdy pary pozbędzie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 255-256, od Działdowa Brodnicy]
+FKT[]
+SIG[4021700000]
+KEY[40217   16  D 3/8]
+MEL[135_+1_  +3__7_  +2+17_6_  5__3_
+    234_2_  +2__+1_  765_.2  4__3_
+    135_+1_  6__4_  642_2_  4__32
+    135_+1_  6__6_  642432  1_1_0_ //]
+BEM[]
+
+DWOK40
+CUT[Kiedy ja szed od swej najmilszej]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 261]
+FKT[]
+SIG[4022400001]
+KEY[40224   16  G 3/4]
+MEL[1_3_5__.6_  5_4#_5_6_5_3_  2_2_4__2__  5_.51___
+    2_2_4__-5__  1_-7_1_3_5_3_  2_2_4__6__  5_5_1___ //]
+BEM[]
+
+DWOK40
+CUT[Kiedy ja szed od swej najmilszej]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 261]
+FKT[]
+SIG[4022400002]
+KEY[40224   16  G 3/4]
+MEL[1_3_5__.6_  5_5_5_65433_  -7_2_4__2__  5_.53___
+    -7_2_4__-5__  1_-7_1_3_531_  -7_2_4__6__  5_5_3___ //]
+BEM[]
+
+DWOK40
+CUT[Zaletki moje na cóż mi wyszły]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 264, od Osterode]
+FKT[]
+SIG[4022700000]
+KEY[40227   16  A 3/4]
+MEL[1_3b_5__.6b_  5_4_2__-7b__
+    3b_2_4__.5_  3b_2_1_-7_-5__
+    1__3b__1__  -7b___-5__  1__3b__4__  5___.
+    -7b_2_4__.23b  1___1__ //]
+BEM[]
+
+DWOK40
+CUT[Oj, już cię odjeżdżam]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 271]
+FKT[]
+SIG[4024000001]
+KEY[40240   16  G 3/4]
+MEL[5_.55_3_4_2_  1_.11_2_3_4_
+    5_.55_3_4_2_  1_.11_2_3_4_
+    5__5_5_5_3_  4_5_6___
+    5__5_3_4_2_  3_2_1__0__ //]
+BEM[]
+
+DWOK40
+CUT[Oj, już cię odjeżdżam]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 271]
+FKT[]
+SIG[4024000002]
+KEY[40240   16  G 3/4]
+MEL[5_.55_3_4_2_  1_.11_3_2_4_
+    5_.55_3_4_2_  1_.11_3_2_4_
+    5__5_5_5_3_  4_5_6___
+    5__5_3_4_4_  3_2_1__0__ //]
+BEM[]
+
+DWOK40
+CUT[Ach, mój najmilsy kochany]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 275]
+FKT[]
+SIG[4024500001]
+KEY[40245   16  G 3/4]
+MEL[1_3_5__.6_  5_6_5__.31
+    -7_2_4__2__  5_3_1___
+    2_2_4__.2_  1_1_3__.1_
+    -7_2_4__6__  5_5_1___ //]
+BEM[]
+
+DWOK40
+CUT[Ach, mój najmilsy kochany]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 275]
+FKT[]
+SIG[4024500002]
+KEY[40245   16  G 3/4]
+MEL[1_3_5__.6_  5_6_5_654#531
+    -7_2_4__6__  5_3_1___
+    -7_2_4__.2_  1_1_3_5_4321
+    -7_2_4__6__  5_5_1___ //]
+BEM[]
+
+DWOK40
+CUT[W ciemnym lasku ptasek śpiewa]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 292, od Szczytna (Jedwabno)]
+FKT[]
+SIG[4027300001]
+KEY[40273   16  F 3/8]
+MEL[132_4_  531_1_
+    +17+1_6_  565_.4
+    35+1_6_  562_4_
+    314_4_  532_1_ //]
+BEM[]
+
+DWOK40
+CUT[W ciemnym lasku ptasek śpiewa]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 292, od Szczytna (Jedwabno)]
+FKT[]
+SIG[4027300002]
+KEY[40273   16  F 3/8]
+MEL[132_43  531_1_
+    +17+1_6_  565_.4
+    35+176_  562_4_
+    314_4_  (543)2_1_ //]
+BEM[]
+
+DWOK40
+CUT[Cztery konie Jasiek miał]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 296]
+FKT[]
+SIG[4027800000]
+KEY[40278   16  A 2/4]
+MEL[5_3b_3b_5_  5_4_2__
+    3b_2_1_23b  2_-7b_-5__
+    1__5__  ^___
+    6b_5_4_3b2  3b_-7_1__ //]
+BEM[]
+
+DWOK40
+CUT[Stoji młynarczyk w olszynie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 303, Osterode]
+FKT[]
+SIG[4029000000]
+KEY[40290   08  G 4/4]
+MEL[1_345_1_  2_543_0_
+    32345_1_  2_3_1_0_
+    5435+1_6_  56543_2_
+    32345_1_  2_3_1_0_ //]
+BEM[]
+
+DWOK40
+CUT[A baczyszże, Jaśku coś mi obiecował]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 312, od Osterode]
+FKT[]
+SIG[4030100001]
+KEY[40301   32  A 3/8]
+MEL[1_2_3b__2__  4__2___  3b_2_-7b__2__  2__1___
+    1_2_3b__2__  4_5_2___  3b_2_-7b__2__  2__1___
+    3b_2_-7b__-5__  1_2_3b_2_1__  3b_2_-7b__-5__  1_2_3b_2_1__
+    2_123b__2_5_  4_5_2___  4_3b2-7b__2__  2__1___ //]
+BEM[]
+
+DWOK40
+CUT[A baczyszże, Jaśku coś mi obiecował]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 312, od OSterode]
+FKT[]
+SIG[4030100002]
+KEY[40301   32  A 3/8]
+MEL[1_2_3b__2__  4_5_2___  3b_2_-7b__2__  2__1___
+    1_2_3b__2__  4_5_2___  3b_2_-7b__2__  2__1___
+    3b_2_-7b__-5__  1_2_3b_2_1__  3b_2_-7b__-5__  1_2_3b_2_1__
+    2_123b__2_5_  4_5_2___  4_3b2-7b__2__  2_1_1___ //]
+BEM[]
+
+DWOK40
+CUT[Niescęśliwy ten ganecek]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 316, od Szczytna (Rozogi)]
+FKT[]
+SIG[4030400000]
+KEY[40304   16  G 2/4]
+MEL[1_2_3b_2_  4_3b_2_1_
+    5__1__  -7_2_1__
+    1_2_3b_2_  4_3b_2_1_
+    5__1__  -7_2_1__
+    -5_1_1_1_  1_-5_-7b_.-6b
+    -5_1_1_1_  1_-5_-7b_.-6b
+    -5_-5_-4_-6b_  -5_-7_-5__ //]
+BEM[]
+
+DWOK40
+CUT[A w lesie w leszczynie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 323-324, od Lubawy]
+FKT[]
+SIG[4031600011]
+KEY[40316   08  C 3/4]
+MEL[5555+15  +2+17665
+    5555+1+3  +2+17+2+2+1
+    5555+15  +2+17665
+    5555+1+3  +2+17+2+2+1 //]
+BEM[]
+
+DWOK40
+CUT[A w lesie w leszczynie]
+REG[]
+TRD[DWOK40 Mazury Pruskie, s. 324, od Lubawy]
+FKT[]
+SIG[4031600020]
+KEY[40316   08  A 3/4]
+MEL[5__3b_  3b_1__  5__1_  -7_-5__
+    -5-6-7_1_  2_1__  2_1_0_ //]
+BEM[]
+
+DWOK40
+CUT[A w lesie w leszczynie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 323-324, od Lubawy]
+FKT[]
+SIG[4031600021]
+KEY[40316   08  C 3/4]
+MEL[5555+1+1  +2+17665
+    5555+1+3  +2+17+2+4+3
+    5555+1+1  +2+17665
+    5555+1+3  +2+17+2+4+3 //]
+BEM[]
+
+DWOK40
+CUT[Kąpała się Kasia w morzu]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 327, od Szczytna (Rozogi)]
+FKT[]
+SIG[4032200000]
+KEY[40322   08  A 2/4]
+MEL[-5555  64#51
+    3b542  3b1-7-5
+    2_-7b-5  -7b124
+    3b12-7b  -5__ //]
+BEM[]
+
+DWOK40
+CUT[Oj kot kot matuleńku]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 331, od Szczytna (Rozogi v. Friedrichsfelde)]
+FKT[]
+SIG[4032700000]
+KEY[40327   08  G 4/4 2/4]
+MEL[1_2_3_5_  43251_0_
+    1_2_3_5_  43251_0_
+    1354  321-7  -6-6-6-6  -5_2_
+    1354  321-7  -6-6-6-6  -5_1_ //]
+BEM[]
+
+DWOK40
+CUT[Nie wiesz panie co ja wiem]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 334, od Działdowa, Niborga]
+FKT[]
+SIG[4033100000]
+KEY[40331   08  A 2/4]
+MEL[1-712  3b_5_  3b_.2
+    1-713b  2_1_  -7_.-5
+    1-713b  2_1_  -7_.-5 //]
+BEM[]
+
+DWOK40
+CUT[Za borami, za lasami]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 337, od Działdowa]
+FKT[]
+SIG[4033200001]
+KEY[40332   16  A 3/8]
+MEL[5__4_  5_2_0_
+    4__5_  2_-7-50_
+    -5-71_3b_  2-71_3b_
+    4__5_  2_-7-50_ //]
+BEM[Przy weselu]
+
+DWOK40
+CUT[Za borami, za lasami]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 337, od Działdowa]
+FKT[]
+SIG[4033200002]
+KEY[40332   16  A 3/8]
+MEL[5__4_  5_420_
+    4__5_  2_-7-50_
+    -5-71_3b_  2-71_3b_
+    4__5_  2_-7-50_ //]
+BEM[Przy weselu]
+
+DWOK40
+CUT[Z tamtę stronę jeziora]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 338, od Lubawy, Dąbrówna]
+FKT[]
+SIG[4033300000]
+KEY[40333   16  A 2/4]
+MEL[-5_1_-7_1_  2__4__  5__3b21_
+    2_4_4_6_  5__4_3b2  1__0__
+    5__4_4_  5__1__  3b_2_4_3b2  1__-7b__
+    1_3b_2_4_  5__4_3b2  1__0__ //]
+BEM[]
+
+DWOK40
+CUT[O, moja synowa]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 344, mel. Od Niborga Janowa]
+FKT[]
+SIG[4034100000]
+KEY[40341   08  C 4/4]
+MEL[5_+1_7+1+27  +1_5__0_
+    +1_+5_+4_+3+1  +2_+1__0_
+    +2_+5_+4+3+2+1  +3_5__0_
+    6_+1_7+1+27  +1__+1_0_ //]
+BEM[]
+
+DWOK40
+CUT[Był też to tu pan]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 345-346, od Osterode (Kraplewo)]
+FKT[]
+SIG[4034200000]
+KEY[40342   08  A 3/4]
+MEL[-5-6b1_-7b_  -5__.
+    123b_43b  2__.
+    3b3b2_4_  3b2-7b_2_
+    11-7b-5-5_  -5-7b2_3b2
+    1-6b-5_-7b_  1__. //]
+BEM[]
+
+DWOK40
+CUT[Od gąsiora do gąsiora]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 348, od Lubawy Brodnicy]
+FKT[]
+SIG[4034500000]
+KEY[40345   16  G 3/8]
+MEL[352_1_  352_1_  222_34  5_1__
+    222_1_  135_4_  222_3_  -6_-5__
+    432__  135552  432__  1-7-5_-5_ //]
+BEM[]
+
+DWOK40
+CUT[Nie ma lepszej wygody]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 350, od OSterode (Kraplewo)]
+FKT[]
+SIG[4034800000]
+KEY[40348   16  A 3/8]
+MEL[13b2_1_  (23b4)5__
+    7b6b5_2_  4_2__  7b6b5_2_  4_2__
+    -5-7b2_5_  4_.2(43b2)
+    13b2_-7b-6  -5__-5_ //]
+BEM[]
+
+DWOK40
+CUT[Zdrowa pani chorzała]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 352, od Ełku, Szczytna]
+FKT[]
+SIG[4034900000]
+KEY[40349   08  C 2/4]
+MEL[5+17+2  +165_
+    647+2  535_
+    +1_+27  +1+35_
+    5+4+3+3  57+1_ //]
+BEM[]
+
+DWOK40
+CUT[Kiedy będziem maszerować]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 389, od Działdowa]
+FKT[]
+SIG[4038700000]
+KEY[40387   08  G 3/4 2/4]
+MEL[135_.3  5531  5531
+    224_2_  5531  224_2_  5531 //]
+BEM[]
+
+DWOK40
+CUT[Na podolu równe pole]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 391, od OSterode]
+FKT[]
+SIG[4038800000]
+KEY[40388   16  A 3/4]
+MEL[1_1_5__.3b_  5_5_7b__5__  4_4_4__.3b_  4_7b_5__1__
+    3b_3b_4__.3b_  4_7b_5__1__  5_43b1__1__ //]
+BEM[]
+
+DWOK40
+CUT[Pod zielonym laskiem ptaszeczki śpiewają]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 400-401, od Lubawy]
+FKT[]
+SIG[4040200001]
+KEY[40402   08  E 3/4]
+MEL[-7b24_.5  3b_1__  13b5_.4  2_-7b__
+    -7b24_.5  3b_1__  -7b24_.5  13b1__ //]
+BEM[]
+
+DWOK40
+CUT[Pod zielonym laskiem ptaszeczki śpiewają]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 400-401, od Lubawy]
+FKT[]
+SIG[4040200002]
+KEY[40402   08  E 3/4]
+MEL[-7b24_.5  3b_1__  13b5_.4  2_-7b__
+    -7b24_.5  3b_1__  -7b24_.5  (123b)1__ //]
+BEM[]
+
+DWOK40
+CUT[Na pierwszego maja wojnę zaczynano]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 401, od Osterode (Kraplewo)]
+FKT[]
+SIG[4040300000]
+KEY[40403   16  E 3/4]
+MEL[1_1_5__6__  5___1__  (1_3b_5_)5__.4_  2__-7b___
+    -7b_2_4__.54  3b_2_1___  (1_3b_5_)5__.4_  2__-7b___
+    -7b_2_4__.54  3b_2_1___ //]
+BEM[]
+
+DWOK40
+CUT[Powiedają ludzie co wojna będzie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 403, od Działdowa]
+FKT[]
+SIG[4040400001]
+KEY[40404   08  G 3/4]
+MEL[135_53  432__  2_6_6_  531__
+    111353  2-72464  345_1_  2_1__ //]
+BEM[]
+
+DWOK40
+CUT[Powiedają ludzie co wojna będzie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 403, od Działdowa]
+FKT[]
+SIG[4040400002]
+KEY[40404   08  G 3/4]
+MEL[135_53  432__  226_6_  531__
+    111353  2-72464  345_1_  2_1__ //]
+BEM[]
+
+DWOK40
+CUT[Mam we świat wędrować]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 407]
+FKT[]
+SIG[4040900000]
+KEY[40409   08  E 3/4]
+MEL[5_6b_5_  6b7b+1__  55+1_.5  3b21_0_
+    554_.3b  456b_7b_  554_.5  3b21_0_ //]
+BEM[]
+
+DWOK40
+CUT[Kiedy mak zakście]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 413-414, Lec]
+FKT[]
+SIG[4041600000]
+KEY[40416   08  G 3/8]
+MEL[-5-51  3_3  222  1_1
+    334  5_5  666  5_5
+    555  4_4  333  2_-5
+    112  3_3  222  1_1 //]
+BEM[]
+
+DWOK40
+CUT[A wy panny kraplewianki]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 416-417, od Lubawy]
+FKT[]
+SIG[4042000000]
+KEY[40420   08  G 2/4]
+MEL[1333  4321  21-7-6  -6_-5_
+    -7123  466_  6543  1_1_
+    2_22  5_22  3234#  5_22
+    4_43  5_51  21-72  1_11 //]
+BEM[]
+
+DWOK40
+CUT[Gody moje gody]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 429, od Osterode]
+FKT[]
+SIG[4044000000]
+KEY[40440   08  A 3/4]
+MEL[1_2_3b_  1_3b2-7_  3b21_-6b_  12-7b-6-5_
+    -4_-5__  -7b1-7b__  2_-7b__  3b__23b  1_-7b_-5_  -5-71__ //]
+BEM[prawdopodobnie metrum 6/4]
+
+DWOK40
+CUT[Chłopek ci ja, chłopek]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 431, Działdów]
+FKT[]
+SIG[4044400000]
+KEY[40444   16  C 3/8]
+MEL[5+1+1_+1_  7_+2__  +1+2+3_+3_  +2_+4__
+    +3+2+1_7_  +156_5_  7+2+4_7_  +2_+1__ //]
+BEM[]
+
+DWOK40
+CUT[Lament Mazura w Polsce będący]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 432, od Niborga Działdowa]
+FKT[]
+SIG[4044500000]
+KEY[40445   16  A 3/8]
+MEL[-5-6-7_1_  23b1__  1-71_2_  -7_-5__
+    5_5_.4  3b21__  3b_2_.1  -725__
+    5_5_.4  3b21__  3b_2_.1  -7-6-5__ //]
+BEM[]
+
+DWOK40
+CUT[Śmierć ci i kucharce borgować nie będzie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 435]
+FKT[]
+SIG[4045100001]
+KEY[40451   08  G 4/4]
+MEL[55535_.3  35425_31
+    35565_.4  31421_1-5
+    13213564  13213142
+    3_2_1__ //]
+BEM[]
+
+DWOK40
+CUT[Śmierć ci i kucharce borgować nie będzie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 435]
+FKT[]
+SIG[4045100002]
+KEY[40451   08  G 4/4]
+MEL[55565_.3  55425_31
+    35565_.4  31421_1-5
+    13333564  13333142
+    3_2_1__ //]
+BEM[]
+
+DWOK40
+CUT[Polanowski z Party]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 439]
+FKT[]
+SIG[4045600001]
+KEY[40456   08  G 3/4]
+MEL[662_4#_  5_1__
+    3_2_6_  5_1__
+    3_2_4#_  5_1_3_
+    2_-6_2_  -5_-5__ //]
+BEM[]
+
+DWOK40
+CUT[Polanowski z Party]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 439]
+FKT[]
+SIG[4045600002]
+KEY[40456   08  G 3/4]
+MEL[662_4#_  5_1__
+    3_2_6_  5_3__
+    3_2_6_  5_1_3_
+    22-6_2_  -5_-5__ //]
+BEM[]
+
+DWOK40
+CUT[Poszedł myśliwy na polowanie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 442, od Olszynka Szczytna]
+FKT[]
+SIG[4046100000]
+KEY[40461   08  C 4/4]
+MEL[5_+1+1+1_.3  4_6+1+175_
+    557+2+4_.7  +1+3+3+3+3+2+2_
+    +4+27_5_.4  35+1_+1_.5
+    55+4+2+1_.+3  5_67+1_+1_ //]
+BEM[]
+
+DWOK40
+CUT[Kieniżeś bywał]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 446]
+FKT[]
+SIG[4046700000]
+KEY[40467   08  F 2/4]
+MEL[1_13  5_3_  6_64  5_3_  6_64  5_3_
+    4_42  3_31  2_22  135_
+    4_42  3_31  2_2-7  1_1_ //]
+BEM[]
+
+DWOK40
+CUT[Cztery mile z Warszawą]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 455, od Działdowa]
+FKT[]
+SIG[4047800000]
+KEY[40478   16  F 3/8]
+MEL[223_2_  223_2_  2+17_6_  5__4_
+    332_1_  665_4_  2+17_6_  5__4_
+    332_1_  665_4_  243_2_  1__1_ //]
+BEM[]
+
+DWOK40
+CUT[Cap trap klap]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 488]
+FKT[]
+SIG[4052200000]
+KEY[40522   08  G 6/8]
+MEL[11-711-7  1123_2
+    332332  3345_3
+    5+13542  4643_2
+    111-6-6-6  42-7110 //]
+BEM[]
+
+DWOK40
+CUT[Ty dziewczę piękne]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 494]
+FKT[]
+SIG[4052600000]
+KEY[40526   04  C 3/4]
+MEL[5+1+1  +1_+2  +3+3+3  6_+1
+    +2+2+2  5_5  666  5_5
+    +1_+2  +3_+3  +2_+2  +100
+    +1_+2  +3_+3  +2+2+2  +100 //]
+BEM[]
+
+DWOK40
+CUT[Z tamtej strony zielonego dwora]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 495]
+FKT[]
+SIG[4052800000]
+KEY[40528   08  G 3/4]
+MEL[135_53  565_2_  4_3__  565_2_  4_3__
+    2__1_  -7_-5__  5__+1_  6__43  265_-7_  2_1__ //]
+BEM[]
+
+DWOK40
+CUT[Ciężkie kajdany te mię zraniły]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 501]
+FKT[]
+SIG[4053900001]
+KEY[40539   08  A 6/4]
+MEL[1_-5_3_3_2__  3_1_-6_2_-7__
+    -6_-6_-6_-7_1__  -5_-5_-3_-5_-3__
+    1_2_3_432__  3_1_-7_2_1_0_ //]
+BEM[]
+
+DWOK40
+CUT[Ciężkie kajdany te mię zraniły]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 501]
+FKT[]
+SIG[4053900002]
+KEY[40539   08  A 3/4]
+MEL[1_-5_3_  3_2__  3_1_-6_  2_-7__
+    -6_-6_-6_  -7_1__  -5_-5_-3_  -5_-3__
+    1_2_3_  432__  3_1_-7_  2_1_0_ //]
+BEM[prawdopodobnie metrum 3/4]
+
+DWOK40
+CUT[Na polu sośnia stojała]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 502]
+FKT[]
+SIG[4054000000]
+KEY[40540   08  G 3/4]
+MEL[5_5_6_  5__2_  431__
+    5_5_6_  5__2_  431__
+    221_5_  4_3_5_
+    221_5_  4_3_5_
+    421__ //]
+BEM[]
+
+DWOK40
+CUT[Wsiadę na brunaczka]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 505]
+FKT[]
+SIG[4054400000]
+KEY[40544   16  G 4/4]
+MEL[1_1_1_1_5_.31__  4_6b_4_7b_5_.31__
+    6b_5_4_3b_1__-7b__  1_3b_2_3b_1__1__ //]
+BEM[]
+
+DWOK40
+CUT[Lądem dziewczę, lądem]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 509]
+FKT[]
+SIG[4055100001]
+KEY[40551   16  A 2/4]
+MEL[1_.23b_2_  3b_2_3b_5_  4_5_2_.-7  -5__0__
+    2_.43b_2_  3b_2-71_2_  -7_2_1_.1 //]
+BEM[]
+
+DWOK40
+CUT[Lądem dziewczę, lądem]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 509]
+FKT[]
+SIG[4055100002]
+KEY[40551   16  A 3/4 5/4]
+MEL[1_.23b_2_3b_2_  3b_5_4_5_2_.-7-5__0__
+    2_.43b_2_3b_2-7  1_2_-7_2_1_.1 //]
+BEM[]
+
+DWOK40
+CUT[Z tamtej strony jeziora]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 510]
+FKT[]
+SIG[4055300000]
+KEY[40553   16  C 2/8]
+MEL[1234  5_.7  +1__
+    7+1+2+3  6_.4  5_0_
+    +1_57  6_6_  5654  2_.1
+    3234  6_.2  1__ //]
+BEM[]
+
+DWOK40
+CUT[Szumiała leszczyna]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 517, Rozogi]
+FKT[]
+SIG[4056600000]
+KEY[40566   08  G 2/4]
+MEL[355_  355_  4445  3_1_
+    244_  133_  2444  3_1_ //]
+BEM[]
+
+DWOK40
+CUT[Gdzie pojedziesz, Janku]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 518]
+FKT[]
+SIG[4056900000]
+KEY[40569   08  C 4/4]
+MEL[5_+1_+1_+3_  +1__7__  +176_565_  4__3_0_
+    1_3_5_5_  +3_.+2+1__  +4+3+2+1767_  +1__+1_0_ //]
+BEM[]
+
+DWOK40
+CUT[Dzieweczka płakała]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 521]
+FKT[]
+SIG[4057400000]
+KEY[40574   08  C 4/4]
+MEL[5_  +1__6b_+1_  7_5_0_5_  +2__7_+1_  +3b_+2_0_
+    5_  +1__6b_+1_  7_5_0_5_  +2__7_+1_  +3b_+2_0_
+    +2_  +3b_+1__6b_  7b_5_0_5_  +275_6b7b+1_  +1_0_0_ //]
+BEM[]
+
+DWOK40
+CUT[A na morzu leży kamień]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 531]
+FKT[]
+SIG[4058600001]
+KEY[40586   08  G 2/4 3/4]
+MEL[5431  5565
+    5421  5431
+    311-7-7_  2_.342
+    46541_  431_1_ //]
+BEM[]
+
+DWOK40
+CUT[A na morzu leży kamień]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 531]
+FKT[]
+SIG[4058600002]
+KEY[40586   16  G 2/4 3/4]
+MEL[5_4_3_1_  5_5_6_5_
+    5_432_1_  5_4_3_1_
+    3_1_1_-7_-7__  2__.3_4_2_
+    4_6_5_4_1__  4_3_1__1__ //]
+BEM[]
+
+DWOK40
+CUT[Żebym się była nie ożeniła]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 534, Rozogi]
+FKT[]
+SIG[4059000001]
+KEY[40590   08  D 4/4]
+MEL[5_+3b+3b+2_+1_  +3b_+2+17_5_  5_+17+1_+2_  +1_5__0_
+    5_547b_+1_  5_547b_.+1  +2_+3b+2+1_7+1  5_.50__ //]
+BEM[]
+
+DWOK40
+CUT[Żebym się była nie ożeniła]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 534, Rozogi]
+FKT[]
+SIG[4059000002]
+KEY[40590   08  D 4/4]
+MEL[5_+3b+3b+2_+1_  +3b_+2+17_5_  5_+17+1_+2_  +1_5__0_
+    5_547b_+1+2  5_547b_.+1  +2_+3b+2+1_7+1  5_.50__ //]
+BEM[]
+
+DWOK40
+CUT[Córeczka się ożeniła]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 535]
+FKT[]
+SIG[4059100000]
+KEY[40591   08  A 4/4]
+MEL[113b3b22-7-7
+    113b3b22-7-7
+    1_2_-7_1_
+    3b3b554422
+    3b3b55443b2
+    1_2_-7_1_ //]
+BEM[]
+
+DWOK40
+CUT[Oj, płynęła burmistrzowna]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 542]
+FKT[]
+SIG[4059800000]
+KEY[40598   16  G 3/4]
+MEL[3b_4_5__5__  5_4_2__4__  4_3b21__.23b  2_-7b_-5___
+    -5_-6_-7b__1__  2_-7b_2__4__  4_23b1__.23b  2_-7b_-5___ //]
+BEM[]
+
+DWOK40
+CUT[Moje kochanie, me złe spotkanie]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 578]
+FKT[]
+SIG[4065000000]
+KEY[40650   08  G 4/4]
+MEL[3b5452_0_  3b5452_0_
+    4_3b211-7b_  13b23b1_0_ //]
+BEM[]
+
+DWOK40
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 581, od Ełku]
+FKT[]
+SIG[4065500000]
+KEY[40655   16  G 2/4]
+MEL[12345_5_  655_654_
+    244_244_  54245432  1_1-51_1_
+    12345_5_  655_654_
+    244_244_  54245432  1_1-51_1_
+    1__-3__  -2_4_2_4_  54245432  1_1-51_1_
+    12345_54  3_312_2-7  1__0__
+    1_3_3_3_  -5-72_2_2_  1_3_135_  655_4_2_
+    1_3_3_3_  2_2_2_54  3_1_232-7  1__1__ //]
+BEM[Kiedy wódkę piją]
+
+DWOK40
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 581, od Osterode]
+FKT[]
+SIG[4065600000]
+KEY[40656   16  G 3/8]
+MEL[-5__-5_  -5_1_2_  3__3_  3_5_3_
+    2__2_  2_3_2_  1_1-71_  1_-5_-3_
+    -5__-5_  -5_1_2_  3__3_  3_5_3_
+    2__2_  2_3_2_  1_0_0_  0__0_
+    2__2_  2_3_4#_  5__54#  5_4#_3_
+    6__.  6_5_4#_  5_54#5_  4_-5_1_
+    3__3_  3_2_1_  5__5_  5_4_3_
+    2__2_  2_3_2_  1_1-71_  1_0_0_ //]
+BEM[]
+
+DWOK40
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK40 Mazury Pruskie s. 582, od Ełku (Kalinowa)]
+FKT[]
+SIG[4065700000]
+KEY[40657   08  G 3/4]
+MEL[345_5_  54(232)-7_  -724__
+    345_5_  54(232)-7_  (232)1__
+    (232)1_1_  (232)-7_-5_  -725__
+    (232)1_1_  (232)-7_-5_  -721__ //]
+BEM[]

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4483200001-siedzi_ptasek_na_wierzbinie.krn
+!!!OTL: Siedzi ptasek na wierzbinie
+!!!source: DWOK44
+!!!id: 44832
+!!!signature: 4483200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+8dd
+8dd
+=2
+16ff
+16ee
+8dd
+8cc
+=3
+8ff#
+8aa
+8gg
+=4
+16ff
+16ee
+4dd}
+!!LO:LB:g=esac
+=5
+{16ff
+16ee
+8dd
+8dd
+=6
+16b-
+16a
+8g
+8f
+=7
+8b
+16b
+16cc
+8dd
+=8
+16b-
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=451 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 393} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 393}
+!!!page: 393
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK3644800000-pryjszow_ze_ja_do_korczomki.krn
+!!!OTL: Pryjszow że ja do korczomki
+!!!source: DWOK36
+!!!id: 36448
+!!!signature: 3644800000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8b
+8cc#
+8dd
+8ee
+=2
+8dd
+8cc#
+8dd
+8b
+=3
+8a
+8b
+8cc
+8a
+=4
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8cc#
+8dd
+8ee
+=6
+8dd
+8ee
+8dd
+8cc
+=7
+8a
+8b
+8cc
+8a
+=8
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{8b
+8a
+8g
+8f#
+=10
+8e
+8f#
+8g
+8a#
+=11
+8b
+8a
+8g
+8f#
+=12
+4e
+4ee}
+!!LO:LB:g=esac
+=13
+{8b
+8a
+8g
+8f#
+=14
+8e
+8f#
+8g
+8a#
+=15
+8b
+8a
+8g
+8f#
+=16
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 286
+!!!ONB: Converted on 2024/12/26 with esac2hum

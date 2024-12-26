@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK04-K0347-panienki_wierne_sa.krn
+!!!OTL: Panienki wierne sa
+!!!source: DWOK04
+!!!id: K0347
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M3/8
+{8cc
+8.ee
+16dd
+=2
+8cc
+8cc
+8cc
+=3
+8cc
+8cc
+8cc}
+!!LO:LB:g=esac
+=4
+{8dd
+8ff
+8ee
+=5
+8dd
+8dd
+8dd
+=6
+8dd
+8dd
+8dd}
+!!LO:LB:g=esac
+=7
+{8g
+8cc
+8ee
+=8
+8gg
+8gg
+8gg
+=9
+8g
+8b
+8dd
+=10
+8ff
+8ee
+8ee}
+!!LO:LB:g=esac
+=11
+{8g
+8cc
+8ee
+=
+!!UNCATEGORIZED MEASURE
+4gg
+=12
+*M3/8
+8gg
+8gg
+8b
+=13
+4cc}
+8r
+!!LO:LB:g=esac
+=14
+{8g
+8.ee
+16dd
+=15
+8cc
+8cc
+8cc
+=16
+8g
+8.b
+16g
+=17
+8cc
+8cc
+8cc}
+!!LO:LB:g=esac
+=18
+{8g
+8.ee
+16dd
+=19
+4.cc
+=20
+8g
+8a
+8g
+=21
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 188} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

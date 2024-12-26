@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK45120100000-a_newesto_newesto.krn
+!!!OTL: A newesto, newesto
+!!!source: DWOK45
+!!!id: 451201
+!!!signature: 45120100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8dd
+8dd
+=2
+8ee
+8dd
+4cc
+=3
+8b
+4dd
+8b}
+!!LO:LB:g=esac
+=4
+{8g
+8b
+8dd
+8dd
+=5
+8ee
+8dd
+4cc
+=6
+8b
+4dd
+8b}
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+8a
+8b
+=8
+8cc
+8b
+4a
+=9
+8g
+4g
+8g}
+!!LO:LB:g=esac
+=10
+{8cc
+8b
+8a
+8g
+=11
+8a
+8a
+4a
+=12
+8g
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 99} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 99}
+!!!page: 99
+!!!ONB: Converted on 2024/12/26 with esac2hum

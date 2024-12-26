@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK06-K0584b-podus_kozy_przyjacielu.krn
+!!!OTL: Podus kozy przyjacielu
+!!!source: DWOK06
+!!!id: K0584b
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+16cc
+16b
+16a
+16g
+=2
+8b
+8dd
+16cc
+16b
+16a
+16g
+=3
+8b
+8cc#
+8dd
+8ee
+=4
+8.dd
+32cc
+32b
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+16cc
+16b
+16a
+16g
+=6
+8b
+8dd
+16cc
+16b
+16a
+16g
+=
+8.b
+48dd
+48cc
+48b
+8.a
+48cc
+48b
+48a
+=7
+4g
+4g}
+==
+*-
+!!!ONB: Fragment melodii w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 337} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 337}
+!!!page: 337
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK1008400002-od_gostynia_idzie_chmura.krn
+!!!OTL: Od Gostynia idzie chmura
+!!!source: DWOK10
+!!!id: 10084
+!!!signature: 1008400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8cc
+8dd
+4ee
+4ee
+=2
+8dd
+8ee
+8dd
+8cc
+8a
+8g
+=3
+4cc
+4cc
+8b
+8g
+=4
+4a
+8a
+8g
+4dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4ee
+4ee
+=6
+8dd
+8ee
+8dd
+8cc
+8a
+8g
+=7
+4cc
+4cc
+8b
+8g
+=8
+4a
+8a
+8f#
+4f#}
+!!LO:LB:g=esac
+=9
+{8d
+8d
+4.g
+8f#
+=10
+8a
+8a
+4b
+4g
+=11
+4cc
+4cc
+8b
+8g
+=12
+8a
+8b
+8a
+8g
+4dd}
+!!LO:LB:g=esac
+=13
+{8d
+8d
+4.g
+8f#
+=14
+8a
+8a
+4b
+4g
+=15
+4cc
+4cc
+8b
+8g
+=16
+4a
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=254 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 238} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 238}
+!!!page: 238
+!!!ONB: Converted on 2024/12/26 with esac2hum

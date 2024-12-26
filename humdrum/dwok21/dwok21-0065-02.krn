@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK2106500002-a_moj_mocny_boze_co_ja_uczynila.krn
+!!!OTL: A mój mocny Boze co ja uczyniła
+!!!source: DWOK21
+!!!id: 21065
+!!!signature: 2106500002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16.a
+32cc
+8ee
+8dd
+=2
+8ee
+4b
+=3
+16cc
+16ee
+8dd
+8ee
+=4
+8b
+4g#}
+!!LO:LB:g=esac
+=5
+{16.a
+32cc
+8ee
+8dd
+=6
+8ee
+4b
+=7
+16cc
+16ee
+8dd
+8ee
+=8
+8b
+4g#}
+!!LO:LB:g=esac
+=9
+{8b
+4g#
+=10
+16a
+16cc
+8dd
+8a
+=11
+8b
+4g#
+=12
+16a
+16cc
+8dd
+8a}
+!!LO:LB:g=esac
+=13
+{16cc
+16ee
+8dd
+8cc
+=14
+4.b
+=15
+16cc
+16ee
+8dd
+8ee
+=16
+4.b}
+==
+*-
+!!!ONB: Utwór zakodowany w dwóch wersjach zgodnie z sugestią Kolberga
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 33} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 33}
+!!!page: 33
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK3012500000-oj_sad_wynohrad.krn
+!!!OTL: Oj sad wynohrad
+!!!source: DWOK30
+!!!id: 30125
+!!!signature: 3012500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4ee
+4ee
+=2
+8ee
+16ee
+16dd
+4ee
+=3
+8cc
+16b
+16cc
+8dd
+16b
+16cc
+=4
+8dd
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+16b
+16a
+8e
+=6
+8a
+8cc
+16b
+16a
+8a
+=7
+8dd
+8dd
+8dd
+8cc
+=8
+8b
+8g#
+4a}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+16b
+16a
+8e
+=10
+8a
+8cc
+8b
+8a
+=11
+8dd
+8dd
+4dd
+=12
+8b
+8g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 88} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

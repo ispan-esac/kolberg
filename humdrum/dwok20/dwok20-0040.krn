@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK2004000000-placzcie_anieli_placzcie_duchy_swiete.krn
+!!!OTL: Płaczcie Anieli płaczcie duchy święte
+!!!source: DWOK20
+!!!id: 20040
+!!!signature: 2004000000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=1
+{2a
+4e
+4f
+=2
+4.g
+8f
+2e
+=3
+4.f
+8g
+2a
+=4
+4f
+4e
+2d}
+!!LO:LB:g=esac
+=5
+{2a
+4e
+4f
+=6
+4.g
+8f
+2e
+=7
+4.f
+8g
+2a
+=8
+4f
+4e
+2d}
+!!LO:LB:g=esac
+=9
+{2dd
+4a
+4b-
+=10
+2cc
+2a
+=11
+4cc
+4b-
+4cc
+4a
+=12
+2g
+2f}
+!!LO:LB:g=esac
+=13
+{2a
+4e
+4f
+=14
+4.g
+8f
+2e
+=15
+4f
+4g
+2a
+=16
+4f
+4e
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 102} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 102}
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK8407200000-za_tatianu_kopu_dau.krn
+!!!OTL: Za Tatianu kopu dau
+!!!source: DWOK84
+!!!id: 84072
+!!!signature: 8407200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4ccc
+8bb
+8bb
+=2
+8ccc
+8aa
+4gg
+=3
+8r
+8ee
+8r
+8dd
+=4
+8r
+[8cc}
+4cc]
+!!LO:LB:g=esac
+=5
+{8gg
+8dd
+8r
+8dd
+=6
+8ee
+8gg
+4ff
+=7
+8r
+8ee
+8r
+8dd
+=8
+8r
+[8cc}
+4cc]
+==
+*-
+!!!ONB: Zapis wielogłosowy
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 94} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 94}
+!!!page: 94
+!!!ONB: Converted on 2024/12/26 with esac2hum

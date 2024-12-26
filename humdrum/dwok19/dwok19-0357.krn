@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK1935700000-a_w_zimie_w_zimie_duzy_mroz.krn
+!!!OTL: A w zimie w zimie duzy mróz
+!!!source: DWOK19
+!!!id: 19357
+!!!signature: 1935700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8dd#
+=2
+4b
+8g#
+=3
+16a
+32cc
+32b
+4a}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+8dd#
+=5
+4b
+16g#
+16e
+=6
+16a
+32cc
+32dd#
+4ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 109} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 109}
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

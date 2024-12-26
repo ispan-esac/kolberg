@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1222800002-rosa_pada_na_kon_siada.krn
+!!!OTL: Rosa pada na koń siada
+!!!source: DWOK12
+!!!id: 12228
+!!!signature: 1222800002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8b
+8dd
+8dd
+=2
+8dd
+8ff
+8aa
+8aa
+=3
+8gg
+8ee
+8ee
+8ee
+=4
+4ff
+4dd}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+8cc
+8dd
+=6
+8b
+8g
+8f
+8f
+=7
+8a
+8cc
+8b
+8dd
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 120-121} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 120-121}
+!!!page: 120-121
+!!!ONB: Converted on 2024/12/26 with esac2hum

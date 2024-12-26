@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK5064300000-tak_pogodne_twoje_lice.krn
+!!!OTL: Tak pogodne twoje lice
+!!!source: DWOK50
+!!!id: 50643
+!!!signature: 5064300000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8ee
+=2
+8ee
+8ee
+8ee
+8ee
+=3
+8ee
+8ee
+8gg
+8ee
+=4
+8ee
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8dd
+8dd
+=6
+8dd
+8dd
+16c
+16b
+16a
+16g
+=7
+8g
+8g
+8ff
+8dd
+=8
+16dd
+16ee
+4cc}
+8r
+!!LO:LB:g=esac
+=9
+{8g
+8a
+8b
+16a
+16g
+=10
+16cc
+16dd
+4ee
+16dd
+16cc
+=11
+8gg
+8gg
+8ff
+8dd
+=12
+8cc
+4ee}
+8r
+!!LO:LB:g=esac
+=13
+{8g
+16a
+16b
+16cc
+16b
+16a
+16g
+=14
+8cc
+8ee
+8dd
+8cc
+=15
+8gg
+8gg
+8ff
+8b
+=16
+8dd
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=420 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 387} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 387}
+!!!page: 387
+!!!ONB: Converted on 2024/12/26 with esac2hum

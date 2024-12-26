@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK4059000001-ebym_sie_byla_nie_ozenila.krn
+!!!OTL: Żebym się była nie ożeniła
+!!!source: DWOK40
+!!!id: 40590
+!!!signature: 4059000001
+**kern
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=1
+{4a
+8ff
+8ff
+4ee
+4dd
+=2
+4ff
+8ee
+8dd
+4cc#
+4a
+=3
+4a
+8dd
+8cc#
+4dd
+4ee
+=4
+4dd
+2a}
+4r
+!!LO:LB:g=esac
+=5
+{4a
+8a
+8g
+4cc
+4dd
+=6
+4a
+8a
+8g
+4.cc
+8dd
+=7
+4ee
+8ff
+8ee
+4dd
+8cc#
+8dd
+=8
+4.a
+8a}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=601 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 534} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 534}
+!!!page: 534
+!!!ONB: Converted on 2024/12/26 with esac2hum

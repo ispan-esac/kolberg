@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK35B-35B07900002-wy_sobi_myslite.krn
+!!!OTL: Wy sobi myślite
+!!!source: DWOK35B
+!!!id: 35B079
+!!!signature: 35B07900002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8a
+8a
+=2
+4a
+16g#
+8.e
+=3
+8a
+8cc
+8cc
+32b
+16.cc
+=4
+2b}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8cc
+8ee
+=6
+8ee
+8dd
+8cc
+8a
+=7
+8cc
+8a
+8b
+8b
+=8
+4a
+16g#
+8.e
+=9
+8a
+8cc
+8cc
+32b
+16.cc
+=10
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 171} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 171}
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

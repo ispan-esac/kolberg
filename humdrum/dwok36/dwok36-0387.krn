@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK3638700000-wczoraj_bula_sobotenka.krn
+!!!OTL: Wczoraj buła soboteńka
+!!!source: DWOK36
+!!!id: 36387
+!!!signature: 3638700000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M5/8
+{8g
+4dd
+8dd
+8g
+=2
+*M6/8
+8cc
+8ee
+8ee
+8dd
+8ee
+8cc
+=3
+*M5/8
+16b
+16g
+4dd
+8dd
+8dd
+=
+!!UNCATEGORIZED MEASURE
+8ee
+8dd
+8ee
+8cc}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8ee
+4dd
+16ee
+16dd
+8cc
+=4
+*M5/8
+8b
+8a
+4g
+8ee
+=5
+8ee
+8ee
+4dd
+8b
+=6
+8cc
+16b
+16a
+4.g}
+!!LO:LB:g=esac
+=7
+{8ee
+4dd
+16ee
+16dd
+8cc
+=8
+8b
+8a
+4g
+8ee
+=9
+8ee
+8ee
+4dd
+8b
+=10
+8cc
+16b
+16a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK3651800001-czerez_riczku_hladonkie.krn
+!!!OTL: Czerez riczku hładońkie
+!!!source: DWOK36
+!!!id: 36518
+!!!signature: 3651800001
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+=1
+*M3/4
+{8a
+8a
+[4ee
+16ee]
+16dd#
+8ff#
+=2
+8ee
+8ee
+2cc
+=3
+*M2/4
+8dd
+8dd
+8ee
+8a
+=4
+8b
+8b
+4a}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8a
+8a
+4b
+8ee
+8a
+=6
+8b
+16b
+16g#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 339
+!!!ONB: Converted on 2024/12/26 with esac2hum

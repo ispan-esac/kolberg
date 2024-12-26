@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2418800000-stojala_lipa_przy_dole.krn
+!!!OTL: Stojała lipa przy dole
+!!!source: DWOK24
+!!!id: 24188
+!!!signature: 2418800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8cc
+8cc
+=2
+8b
+8a
+8g
+=3
+4g
+16a
+16b
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{4dd
+16cc
+16b
+=6
+4.a
+=7
+4g
+16a
+16b
+=8
+4.cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8cc
+=10
+8b
+8a
+8g
+=11
+4g
+16a
+16b
+=12
+4.cc}
+!!LO:LB:g=esac
+=13
+{4dd
+16cc
+16b
+=14
+4.a
+=15
+4g
+16a
+16b
+=16
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=314 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 290} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 290}
+!!!page: 290
+!!!ONB: Converted on 2024/12/26 with esac2hum

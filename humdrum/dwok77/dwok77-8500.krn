@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK7785000000-bez_wina_i_dziewczat_grona.krn
+!!!OTL: Bez wina i dziewcząt grona
+!!!source: DWOK77
+!!!id: 778500
+!!!signature: 7785000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8b
+8b
+8dd
+8dd
+8b
+8b
+8g
+8g
+=2
+8a
+8a
+8b
+8a
+2g}
+!!LO:LB:g=esac
+=3
+{8b
+8b
+8dd
+8dd
+8b
+8b
+8g
+8g
+=4
+8a
+8a
+8f#
+8f#
+2g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+8cc
+2dd
+=6
+8a
+8a
+8b
+8a
+2g}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8b
+8cc
+8b
+8b
+8b
+8b
+=8
+8a
+8a
+8b
+8cc
+2dd}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8dd
+8dd
+8b
+8b
+8g
+8g
+=10
+8a
+8a
+8f#
+8f#
+2g}
+!!LO:LB:g=esac
+=11
+{8a
+8a
+8b
+8cc
+2ee
+=12
+8a
+8a
+8f#
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

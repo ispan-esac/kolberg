@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2567200000-a_boc_mi_to_trudna_zona.krn
+!!!OTL: A boć mi to trudna zona
+!!!source: DWOK25
+!!!id: 25672
+!!!signature: 2567200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16g
+8b
+8dd
+=2
+16dd
+16ee
+8a
+8cc
+=3
+16ee
+16dd
+8cc
+8b
+=4
+16g
+16f#
+8d
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16g
+8b
+8b
+=6
+16g
+16f#
+8d
+8cc
+=7
+16cc
+16cc
+8b
+8b
+=8
+16g
+16f#
+8d
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 241} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

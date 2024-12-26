@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1237900000-oj_bida_bida_jadwidze.krn
+!!!OTL: Oj bida bida Jadwidze
+!!!source: DWOK12
+!!!id: 12379
+!!!signature: 1237900000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{8dd
+16dd
+16dd
+16dd
+16dd
+=2
+8cc#
+8e
+8g
+=3
+8b
+16g
+16b
+16dd
+16b
+=4
+8a
+8d
+8f#}
+!!LO:LB:g=esac
+=5
+{8a
+16a
+16a
+16a
+16a
+=6
+8g
+8e
+8cc#
+=7
+8cc#
+16a
+16cc#
+16a
+16cc#
+=8
+8dd
+8dd
+8dd}
+==
+*-
+!!!ONB: Wariant w takcie siódmym 7_57+27
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 197} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 197}
+!!!page: 197
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK06-K0430-wszystkac_moja_nadzieja.krn
+!!!OTL: Wszystkac moja nadzieja
+!!!source: DWOK06
+!!!id: K0430
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+8r
+{4cc
+8dd
+=2
+8ee
+8dd
+4cc
+=3
+8a
+16g
+16e
+4r
+=4
+8a
+8b
+4cc
+=5
+8a
+4g}
+8r
+!!LO:LB:g=esac
+=6
+8r
+{4cc
+8dd
+=7
+8ee
+8dd
+4cc
+=8
+8a
+16g
+16e
+4r
+=9
+8a
+8b
+4cc
+=10
+8a
+4g}
+8r
+!!LO:LB:g=esac
+=11
+8r
+{4dd
+8ee
+=12
+8ff
+8ee
+8dd
+8ee
+=13
+8cc
+8a
+4g
+=14
+8r
+4dd
+8ee
+=15
+8ff
+8ee
+8dd
+8ee
+=16
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=17
+{8b
+8cc
+4dd
+=18
+8b
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=253 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 227} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 227}
+!!!page: 227
+!!!ONB: Converted on 2024/12/26 with esac2hum

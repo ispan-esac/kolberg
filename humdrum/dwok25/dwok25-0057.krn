@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2505700000-zielona_ruta_jalowiec.krn
+!!!OTL: Zielona ruta jałowiec
+!!!source: DWOK25
+!!!id: 25057
+!!!signature: 2505700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8ee
+8dd
+8dd
+=2
+4a
+8g
+=3
+16b
+16cc
+4dd
+=4
+8ee
+8dd
+8dd
+=5
+4a
+8g
+=6
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8b
+=8
+4a
+8d
+=9
+16f#
+16a
+4cc
+=10
+8g
+8b
+8b
+=11
+4a
+8d
+=12
+16f#
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 22} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 22}
+!!!page: 22
+!!!ONB: Converted on 2024/12/26 with esac2hum

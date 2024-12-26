@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK02-K0010-a_wsiadaj_ze_mna_na_woz.krn
+!!!OTL: A wsiadaj ze mna na woz
+!!!source: DWOK02
+!!!id: K0010
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8a
+8cc#
+8dd
+8cc#
+=2
+4dd
+8cc#
+8a
+=3
+8a
+8cc#
+8dd
+8cc#
+=4
+4dd
+4a}
+!!LO:LB:g=esac
+=5
+{8cc#
+8cc#
+8a
+8cc#
+=6
+4dd
+8cc#
+8g
+=7
+2a}
+!!LO:LB:g=esac
+=8
+{8a
+8cc#
+8dd
+8cc#
+=9
+4dd
+8cc#
+8a
+=10
+8a
+8cc#
+8dd
+8cc#
+=11
+4dd
+4a}
+!!LO:LB:g=esac
+=12
+{8a
+8a
+8cc#
+8ee
+=13
+4dd
+8cc#
+8g
+=14
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 27} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 27}
+!!!page: 27
+!!!ONB: Converted on 2024/12/26 with esac2hum

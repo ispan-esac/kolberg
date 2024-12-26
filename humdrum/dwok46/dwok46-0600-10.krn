@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK4660000010-ni_mam_w_wianie_zlota_caly_moj_dostatek.krn
+!!!OTL: Ni mam w wianie złota, cały mój dostatek
+!!!source: DWOK46
+!!!id: 46600
+!!!signature: 4660000010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4b
+8dd
+=2
+16a
+16cc
+8ee
+8dd
+=3
+4b
+8dd
+=4
+16a
+16cc
+8ee
+8dd}
+!!LO:LB:g=esac
+=5
+{4b
+8dd
+=6
+16gg
+16gg
+8ff#
+8ee
+=7
+4cc
+8ee
+=8
+16dd
+16cc
+8b
+8dd}
+!!LO:LB:g=esac
+=9
+{4b
+8dd
+=10
+16bb
+16aa
+8gg
+16ff#
+16ee
+=11
+16dd
+16dd
+8cc
+8f#
+=12
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=411 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 377} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 377}
+!!!page: 377
+!!!ONB: Converted on 2024/12/26 with esac2hum

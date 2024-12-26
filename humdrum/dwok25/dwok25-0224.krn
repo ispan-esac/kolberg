@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK2522400000-tam_pod_grodziskiem.krn
+!!!OTL: Tam pod Grodziskiem
+!!!source: DWOK25
+!!!id: 25224
+!!!signature: 2522400000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8b-
+8.b-
+16dd
+=2
+8ff
+4dd
+=3
+8cc
+8.cc
+16ee-
+=4
+8dd
+4b-}
+!!LO:LB:g=esac
+=5
+{8b-
+8b-
+8dd
+=6
+8ff
+8ff
+8dd
+=7
+8cc
+8.ee-
+16dd
+=8
+8b-
+4f}
+!!LO:LB:g=esac
+=9
+{8b-
+8.b-
+16dd
+=10
+8ff
+4dd
+=11
+8cc
+8.cc
+16ee-
+=12
+8ff
+4dd}
+!!LO:LB:g=esac
+=13
+{8b-
+8b-
+8dd
+=14
+8ff
+8ff
+8dd
+=15
+8cc
+8.ee-
+16dd
+=16
+8b-
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 98} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

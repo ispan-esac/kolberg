@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2717400000-przyjechali_trzy_pytace.krn
+!!!OTL: Przyjechali trzy pytace
+!!!source: DWOK27
+!!!id: 27174
+!!!signature: 2717400000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4cc
+4.ff
+8dd
+=2
+8cc
+8ee
+8gg
+8ee
+4ee
+4dd}
+!!LO:LB:g=esac
+=3
+{4cc
+8ee
+8cc
+4.ff
+8dd
+=4
+8ee
+8cc
+8b
+8a
+8a
+8g
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+8ee
+8gg
+4.ff
+8dd
+=6
+8ee
+8cc
+8b
+8dd
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=262 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 243} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 243}
+!!!page: 243
+!!!ONB: Converted on 2024/12/26 with esac2hum

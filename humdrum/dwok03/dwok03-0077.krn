@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK03-K0077-chodzila_kasiula_po_ty_wielkiej.krn
+!!!OTL: Chodzila Kasiula po ty wielkiej
+!!!source: DWOK03
+!!!id: K0077
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+4cc
+4dd
+=2
+4ee
+2ee
+=
+8b
+8dd#
+4ee
+12dd
+12cc
+12b
+=3
+4a
+2g#}
+!!LO:LB:g=esac
+=4
+{8a
+8g#
+4a
+4cc
+=5
+4.ee
+8dd#
+8b
+8g#
+=
+8e
+8g#
+4a
+12a
+12b
+12cc
+=
+4a
+12b
+12a
+12g#}
+!!LO:LB:g=esac
+=6
+{8a
+8b
+4cc
+4dd
+=7
+4ee
+2ee
+=
+8b
+8dd#
+4ee
+12dd
+12cc
+12b
+=
+12a
+12b
+12a
+2g#}
+!!LO:LB:g=esac
+=8
+{8a
+8g#
+4a
+4cc
+=9
+4.ee
+8dd#
+8b
+8g#
+=
+8e
+8g#
+4a
+12a
+12b
+12cc
+=
+4a
+12b
+12a
+12g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 303} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 303}
+!!!page: 303
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK2908000000-werbowaja_doszczyczka.krn
+!!!OTL: Werbowaja doszczyczka
+!!!source: DWOK29
+!!!id: 29080
+!!!signature: 2908000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8ee
+8ee
+8ee
+=2
+8ee
+8dd
+8dd
+8a
+=3
+4a
+8a
+8cc}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+8ee
+8ee
+=5
+8ee
+8dd
+8dd
+8a
+=6
+4a
+8a
+8a}
+==
+*-
+!!!ONB: Werbowaja doska
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 178} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 178}
+!!!page: 178
+!!!ONB: Converted on 2024/12/26 with esac2hum

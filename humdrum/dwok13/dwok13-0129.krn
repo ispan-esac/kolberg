@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK1312900000-niech_kazdy_to_przyzna.krn
+!!!OTL: Niech każdy to przyzna
+!!!source: DWOK13
+!!!id: 13129
+!!!signature: 1312900000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8f
+8.dd
+16b-
+=2
+8g
+8.cc
+16cc
+=3
+16f
+16f
+8g
+8a
+=4
+4b-}
+8r
+!!LO:LB:g=esac
+=5
+{8f
+8.dd
+16b-
+=6
+8g
+8.cc
+16cc
+=7
+16f
+16f
+8g
+8a
+=8
+4b-}
+8r
+!!LO:LB:g=esac
+=9
+{16a
+16b-
+8.cc
+16a
+=10
+8b-
+8.dd
+16b-
+=11
+16cc
+16dd
+8ee-
+8ee-
+=12
+4dd}
+8r
+!!LO:LB:g=esac
+=13
+{16f
+16f
+8.dd
+16b-
+=14
+8g
+8e-
+8cc
+=15
+16.f
+32f
+8g
+8a
+=16
+4b-}
+8r
+==
+*-
+!!!ONB: Karty
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 74} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 74}
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

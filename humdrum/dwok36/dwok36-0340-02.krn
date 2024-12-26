@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK3634000002-oj_stala_kola_sercia_tuha.krn
+!!!OTL: Oj stała kola sercia tuha
+!!!source: DWOK36
+!!!id: 36340
+!!!signature: 3634000002
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{16a
+16a
+16a
+16a
+4ee
+8dd
+16cc
+16ee
+=2
+*M2/4
+16dd
+16cc
+16dd
+16cc
+8dd
+16ee
+16dd}
+!!LO:LB:g=esac
+=3
+*M2/8
+{16cc
+16a
+8ee
+=4
+16dd
+16cc
+16b
+16a
+=5
+*M2/4
+4cc
+8a
+8cc
+=6
+8dd
+8dd
+8dd
+8ee}
+!!LO:LB:g=esac
+=7
+*M2/8
+{8cc
+8ee
+=8
+16dd
+16cc
+16b
+16a
+=9
+*M2/4
+4cc
+4a
+=10
+8dd
+8dd
+8dd
+8ee
+=11
+4cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 211
+!!!ONB: Converted on 2024/12/26 with esac2hum

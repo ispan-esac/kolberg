@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK2636500000-kapala_sie_kasia_w_morzu.krn
+!!!OTL: Kąpała się Kasia w morzu
+!!!source: DWOK26
+!!!id: 26365
+!!!signature: 2636500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8.ee
+16ff
+16ee
+16dd
+=2
+16b
+16dd
+8ee
+8a
+=3
+8dd
+16b
+16ff
+16ee
+16dd
+=4
+16cc
+16a
+8b
+8g#}
+!!LO:LB:g=esac
+=5
+{16e
+16g#
+8.a
+16dd
+=6
+16cc
+16cc
+8a
+8b
+=7
+16e
+16g#
+8.a
+16dd
+=8
+16cc
+16a
+8g#
+8e}
+!!LO:LB:g=esac
+=9
+{8.ee
+16ff
+16ee
+16dd
+=10
+16b
+16dd
+8ee
+8a
+=11
+8dd
+16b
+16ff
+16ee
+16dd
+=12
+16cc
+16cc
+8b
+8g#}
+!!LO:LB:g=esac
+=13
+{16g#
+16g#
+8a
+16ee
+16dd
+=14
+16cc
+16cc
+8a
+8b
+=15
+16g#
+16g#
+8a
+16ee
+16dd
+=16
+16cc
+16cc
+8b
+8g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 265
+!!!ONB: Converted on 2024/12/26 with esac2hum

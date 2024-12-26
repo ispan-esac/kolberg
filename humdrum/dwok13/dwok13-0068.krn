@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK1306800000-juz_trzeci_raz_trakt_ten_mijasz.krn
+!!!OTL: Już trzeci raz trakt ten mijasz
+!!!source: DWOK13
+!!!id: 13068
+!!!signature: 1306800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16g
+8.a
+16e
+=2
+16g
+16f
+8e
+8d
+=3
+8.c
+16b-
+16a
+16g
+=4
+16d
+16e
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{16f
+16g
+8.a
+16a
+=6
+16dd
+16cc
+8b-
+8e
+=7
+16g
+16a
+8.b-
+16cc
+=8
+16ee
+16dd
+8cc
+8b-}
+!!LO:LB:g=esac
+=9
+{16a
+16b-
+8cc
+16dd
+16ee
+=10
+16ff
+16ff
+8.ee
+16g
+=11
+16g
+16dd
+8.cc
+16cc
+=12
+16b-
+16e
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 40} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 40}
+!!!page: 40
+!!!ONB: Converted on 2024/12/26 with esac2hum

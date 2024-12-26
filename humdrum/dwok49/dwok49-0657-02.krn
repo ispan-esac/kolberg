@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK4965700002-witaj_janie_z_boleslawa.krn
+!!!OTL: Witaj, Janie z Bolesława
+!!!source: DWOK49
+!!!id: 49657
+!!!signature: 4965700002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8cc
+8cc
+8dd
+8ee
+8dd
+=2
+8ee
+8dd
+4dd}
+4r
+!!LO:LB:g=esac
+=3
+{8ff
+8ee
+8ff
+8ee
+8.gg
+16ee
+=4
+8ee
+8dd
+4dd}
+4r
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4g
+=6
+8cc
+8ee
+2dd}
+!!LO:LB:g=esac
+=7
+{8g
+8g
+4ff
+4ee
+=8
+8dd
+8b
+2cc}
+!!LO:LB:g=esac
+=9
+{4dd
+4dd
+4g
+=10
+8cc
+8ee
+2dd}
+!!LO:LB:g=esac
+=11
+{8g
+8g
+4ff
+4ee
+=12
+8dd
+8b
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=632 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 542} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 542}
+!!!page: 542
+!!!ONB: Converted on 2024/12/26 with esac2hum

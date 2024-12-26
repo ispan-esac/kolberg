@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK7617800000-w_ciemnym_lasku_ptaszek_spiewa.krn
+!!!OTL: W ciemnym lasku ptaszek śpiewa
+!!!source: DWOK76
+!!!id: 76178
+!!!signature: 7617800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+4b
+=2
+8b
+4cc
+=3
+8dd
+4b
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+4b
+=6
+8cc
+4cc
+=7
+8dd
+8b
+8cc
+=8
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 94} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 94}
+!!!page: 94
+!!!ONB: Converted on 2024/12/26 with esac2hum

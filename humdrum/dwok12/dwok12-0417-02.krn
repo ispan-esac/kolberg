@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1241700002-wedrowali_krawczycy_po_tureckiej_granicy.krn
+!!!OTL: Wędrowali krawczycy po tureckiej granicy
+!!!source: DWOK12
+!!!id: 12417
+!!!signature: 1241700002
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8d
+8d
+4f#
+4a
+=2
+8g#
+8a
+2d
+=3
+8a
+8cc#
+4dd
+4dd
+=4
+8ee-
+8dd
+2a}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4a
+4cc
+=6
+8b-
+8a
+4.b-
+8g
+=7
+8a
+8a
+8d
+8f#
+8a
+8b-
+=8
+8g
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 215} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 215}
+!!!page: 215
+!!!ONB: Converted on 2024/12/26 with esac2hum

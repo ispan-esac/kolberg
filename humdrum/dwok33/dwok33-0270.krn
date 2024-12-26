@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3327000000-z_za_dunaju_hosty.krn
+!!!OTL: Z za Dunaju hosty
+!!!source: DWOK33
+!!!id: 33270
+!!!signature: 3327000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8b
+4ee
+=2
+8ee
+4b
+=3
+8dd
+4ee
+=4
+16dd
+16cc
+4ee
+=5
+16cc
+16a
+4b
+=6
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=7
+{8b
+4ee
+=8
+8ee
+4b
+=9
+8dd
+4ee
+=10
+16dd
+16cc
+4ee
+=11
+16cc
+16b
+4g#
+=12
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=347 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 305} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 305}
+!!!page: 305
+!!!ONB: Converted on 2024/12/26 with esac2hum

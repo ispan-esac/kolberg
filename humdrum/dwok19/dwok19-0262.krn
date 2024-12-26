@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1926200000-na_wojenke_nie_pojade.krn
+!!!OTL: Na wojenkę nie pojadę
+!!!source: DWOK19
+!!!id: 19262
+!!!signature: 1926200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+16cc
+16cc
+8ee
+16cc
+16b
+=3
+16g
+16g
+8b
+8dd
+=4
+16cc
+16cc
+8a
+16cc
+16b}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8b
+8dd
+=6
+16cc
+16cc
+8ee
+8gg
+=7
+16gg
+16gg
+8aa
+16ff
+16ee
+=8
+16cc
+16cc
+8ee
+16cc
+16b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 81} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 81}
+!!!page: 81
+!!!ONB: Converted on 2024/12/26 with esac2hum

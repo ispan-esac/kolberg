@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2645600000-lecialy_gasecki.krn
+!!!OTL: Leciały gąsecki
+!!!source: DWOK26
+!!!id: 26456
+!!!signature: 2645600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4gg
+8aa
+=2
+16ff
+16dd
+8cc
+8ee
+=3
+8.gg
+16ee
+16gg
+16aa
+=4
+16ff
+16dd
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{4b
+8dd
+=6
+16ff
+16dd
+8cc
+8ee
+=7
+8.b
+16g
+16b
+16dd
+=8
+16ff
+16dd
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 309
+!!!ONB: Converted on 2024/12/26 with esac2hum

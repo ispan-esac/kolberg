@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK0307200000-pod_borem_lipka.krn
+!!!OTL: Pod borem lipka
+!!!source: DWOK03
+!!!id: K0072
+!!!signature: 0307200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16ff
+8ee
+8cc
+=2
+8g
+16a
+[16g
+8g]
+=3
+16cc
+16ee
+8.gg
+16dd
+=4
+8ff
+4ee}
+!!LO:LB:g=esac
+=5
+{16dd
+16gg
+8ee
+8cc
+=6
+16a
+16a
+8a
+8f
+=7
+8f
+8a
+8cc
+=8
+8dd
+16b
+[16g}
+8g]
+!!LO:LB:g=esac
+=9
+{16dd
+16gg
+16ee
+16cc
+8cc
+=10
+16a
+16a
+16a
+16f
+8f
+=11
+16f
+16a
+16a
+16f
+16a
+16cc
+=12
+8dd
+16b
+[16g}
+8g]
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=312 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 300} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 300}
+!!!page: 300
+!!!ONB: Converted on 2024/12/26 with esac2hum

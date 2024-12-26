@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1600200002-messyjasz_przyszedl_na_swiat_prawdziwy.krn
+!!!OTL: Messyjasz przyszedł na świat prawdziwy
+!!!source: DWOK16
+!!!id: 16002b
+!!!signature: 1600200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{2dd
+4cc#
+=2
+2dd
+4a
+=3
+4b
+4a
+4g
+=4
+4a
+2d}
+!!LO:LB:g=esac
+=5
+{2dd
+4cc#
+=6
+2dd
+4a
+=7
+4b
+4a
+4g
+=8
+4a
+2d}
+!!LO:LB:g=esac
+=9
+{4a
+4f#
+4d
+=10
+4g
+4b
+4g}
+!!LO:LB:g=esac
+=11
+{4a
+4f#
+4d
+=12
+4g
+4b
+4g}
+!!LO:LB:g=esac
+=13
+{8g
+8b
+2dd
+=14
+16cc
+16b
+16a
+16g
+4.dd
+8f#
+=15
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 106} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 106}
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK7746400020-instrumentalny.krn
+!!!OTL: Instrumentalny
+!!!source: DWOK77
+!!!id: 77464
+!!!signature: 7746400020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.g
+32b
+16b
+16g
+8dd
+=2
+16a
+16cc
+8ee
+16cc
+16a
+=3
+16.g
+32b
+16b
+16g
+8b
+=4
+16.d
+32f#
+8a
+16f#
+16d}
+==
+*-
+!!!ONB: Od taktu 9 część instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 239
+!!!ONB: Converted on 2024/12/26 with esac2hum

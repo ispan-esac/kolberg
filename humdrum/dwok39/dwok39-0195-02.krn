@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK3919500002-orac_chlopcy_orac.krn
+!!!OTL: Orać chłopcy orać
+!!!source: DWOK39
+!!!id: 39195
+!!!signature: 3919500002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4ff
+4ff
+4dd
+=2
+8gg
+8ff
+4ee
+4g
+=3
+8b
+8dd
+4dd
+8b
+8cc
+=4
+8g
+8a
+2f}
+!!LO:LB:g=esac
+=5
+{4a
+4cc
+4g
+=
+12g
+12b
+12dd
+4ee
+4g
+=6
+8b
+8dd
+4dd
+8b
+8cc
+=7
+8g
+8a
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 220} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 220}
+!!!page: 220
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2508600000-i_rozbujal_sie_siwy_konicek.krn
+!!!OTL: I rozbujał się siwy konicek
+!!!source: DWOK25
+!!!id: 25086
+!!!signature: 2508600000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4e
+8cc
+8b
+4a
+4e
+=2
+8a
+8b
+8cc
+8b
+4a
+4e
+=3
+2b
+8a
+8b
+4dd
+=4
+2ee
+4b}
+4r
+!!LO:LB:g=esac
+=5
+{4b
+4dd
+4.ee
+8a
+=6
+8b
+8dd
+8cc
+8b
+4a
+4e
+=7
+2a
+8f#
+8g#
+4a
+=8
+2b
+4e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 34} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 34}
+!!!page: 34
+!!!ONB: Converted on 2024/12/26 with esac2hum

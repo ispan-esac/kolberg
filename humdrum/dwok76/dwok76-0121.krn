@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK7612100000-leciala_krzycala_gasecka_siodlata.krn
+!!!OTL: Leciała krzycała gąsecka siodłata
+!!!source: DWOK76
+!!!id: 76121
+!!!signature: 7612100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8a
+4cc
+=2
+8cc
+4cc
+8cc
+=3
+8cc
+8ff
+4a
+=4
+8cc
+4b-
+8b-
+=5
+8a
+8a
+4cc
+=6
+8a
+4a
+8a}
+!!LO:LB:g=esac
+=7
+{8f
+8a
+4cc
+=8
+8dd
+4ff
+8dd
+=9
+8cc
+8ff
+4a
+=10
+8g
+4b-
+8c}
+!!LO:LB:g=esac
+=11
+{8a
+8a
+4cc
+=12
+8dd
+4ff
+8dd
+=13
+8cc
+8ff
+4a
+=14
+8cc
+4b-
+8c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 66} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

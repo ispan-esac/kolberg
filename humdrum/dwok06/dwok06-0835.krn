@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK0683500000-zebym_bydla_nie_pasala._polka.krn
+!!!OTL: Zebym bydła nie pasała. Polka
+!!!source: DWOK06
+!!!id: K0835
+!!!signature: 0683500000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8ff#
+8ff#
+8dd
+8dd
+=2
+8a
+8a
+16f#
+16d
+16f#
+16a
+=3
+8b
+8b
+8e
+8e
+=4
+8a
+8a
+16f#
+16d
+16f#
+16a}
+!!LO:LB:g=esac
+=5
+{8ff#
+8ff#
+8dd
+8dd
+=6
+8a
+8a
+8d
+8d
+=7
+8b
+8b
+8e
+8e
+=8
+8a
+8a
+8d
+8d}
+!!LO:LB:g=esac
+=9
+{16e
+16f#
+8g
+16a
+16b
+8cc#
+=10
+4dd
+16a
+16f#
+8a
+=11
+4b
+16g
+16e
+8g
+=12
+4a
+16f#
+16e
+8d}
+!!LO:LB:g=esac
+=13
+{16e
+16f#
+8g
+16a
+16b
+8cc#
+=14
+4dd
+4a
+=15
+4b
+4g
+=16
+4a
+16f#
+16e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=521 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 495} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 495}
+!!!page: 495
+!!!ONB: Converted on 2024/12/26 with esac2hum

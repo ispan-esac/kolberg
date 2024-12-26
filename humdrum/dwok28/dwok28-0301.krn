@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK2830100000-z_tamtej_strony_jeziora.krn
+!!!OTL: Z tamtej strony jeziora
+!!!source: DWOK28
+!!!id: 28301
+!!!signature: 2830100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8g
+=2
+4b
+4cc
+=3
+2dd}
+!!LO:LB:g=esac
+=4
+{8b
+8cc
+8dd
+8ee
+=5
+4dd
+4cc
+=6
+2b}
+!!LO:LB:g=esac
+=7
+{4dd
+8b
+8b
+=8
+4cc
+4a
+=9
+8g
+8a
+8b
+8cc
+=10
+4a
+4d}
+!!LO:LB:g=esac
+=11
+{8g
+8a
+8b
+8cc
+=12
+4b
+4a
+=13
+2g}
+!!LO:LB:g=esac
+=14
+{4dd
+8b
+16a
+16b
+=15
+8cc
+8b
+4a
+=16
+8g
+8f#
+8g
+8cc
+=17
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=18
+{8g
+8a
+8b
+8cc
+=19
+8b
+8a
+8g
+8a
+=20
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 278} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 278}
+!!!page: 278
+!!!ONB: Converted on 2024/12/26 with esac2hum

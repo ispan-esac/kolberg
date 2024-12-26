@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK1943200000-z_wysokich_parnasow.krn
+!!!OTL: Z wysokich parnasów
+!!!source: DWOK19
+!!!id: 19432
+!!!signature: 1943200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8.cc
+16dd
+8ee
+8ff
+8gg
+8aa
+=2
+8.ff
+16dd
+8b
+8g
+8g
+8g
+=3
+8.g
+16a
+8b
+8cc
+8dd
+8ee
+=4
+4cc
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8.cc
+16dd
+8ee
+8ff
+8gg
+8aa
+=6
+8.ff
+16dd
+8b
+8dd
+8b
+8g
+=7
+8.g
+16a
+8b
+8cc
+8dd
+8ee
+=8
+4cc
+4cc
+4cc}
+!!LO:LB:g=esac
+=9
+{4cc
+8ee
+8cc
+8b
+8g
+=10
+4a
+8a
+8b
+8cc
+8g
+=11
+8.cc
+16dd
+8ee
+8cc
+8b
+8g
+=12
+8.a
+16g
+8a
+8b
+8cc
+8g}
+!!LO:LB:g=esac
+=13
+{8.cc
+16dd
+8ee
+8cc
+8dd
+8b
+=14
+4cc
+4cc
+4cc}
+==
+*-
+!!!ONB: melodia jest na 3/4 a nie na 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 129} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 129}
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5022500000-ide_wasyl_dorohoju_a_marysia_i_z_wodoju.krn
+!!!OTL: Ide Wasyl dorohoju, a Marysia i z wodoju
+!!!source: DWOK50
+!!!id: 50225
+!!!signature: 5022500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ff
+8ee
+4dd
+4gg
+=2
+8ee
+8dd
+4cc
+4g}
+!!LO:LB:g=esac
+=3
+{8cc
+8b
+4a
+4dd
+=4
+8b
+8a
+4g
+4dd}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+4dd
+4gg
+=6
+8ee
+8dd
+4cc
+4g}
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+4a
+4dd
+=8
+8b
+8a
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 107} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

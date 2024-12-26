@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3649900000-oj_maty_moja_ne_zalij_mene.krn
+!!!OTL: Oj maty moja ne żalij mene
+!!!source: DWOK36
+!!!id: 36499
+!!!signature: 3649900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8g
+16cc
+16b
+8a
+4g
+=2
+2ee
+4cc
+=3
+8dd
+8ee
+16ff
+16ee
+16dd
+16ee
+8.cc
+16ee}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+8ee
+8a
+8g
+8g
+=5
+8b
+8cc
+16dd
+16cc
+16b
+16cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 324
+!!!ONB: Converted on 2024/12/26 with esac2hum

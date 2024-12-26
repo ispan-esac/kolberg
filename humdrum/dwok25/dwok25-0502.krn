@@ -1,0 +1,110 @@
+!!!!SEGMENT: DWOK2550200000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK25
+!!!id: 25502
+!!!signature: 2550200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8d
+16cc#
+16dd
+=2
+16b
+16dd
+8a
+8d
+=3
+8g
+16dd
+16ee
+16dd
+16cc#
+=4
+16b
+16dd
+8a
+8d}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8cc
+=6
+16b
+16dd
+8cc
+8a
+=7
+4g
+8cc
+=8
+16b
+16g
+8a
+8d}
+!!LO:LB:g=esac
+=
+{24g
+24f#
+24g
+8d
+24cc#
+24dd
+24cc#
+=9
+16b
+16dd
+8a
+8d
+=
+24g
+24f#
+24g
+16dd
+16ee
+16dd
+16cc#
+=10
+16b
+16dd
+8a
+8d}
+!!LO:LB:g=esac
+=
+{24g
+24f#
+24g
+8a
+16a
+16cc
+=11
+16b
+16dd
+16cc
+16b
+16a
+16f#
+=12
+8g
+8a
+8cc
+=
+24b
+24a
+24g
+8a
+32f#
+16.d}
+==
+*-
+!!!ONB: W ostatnim takcie niejasny zapis rytmiczny, dodano kropkę przy szesnastce
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 201} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 201}
+!!!page: 201
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK5263800000-gdysmy_byli_w_poczajowie.krn
+!!!OTL: Gdyśmy byli w Poczajowie
+!!!source: DWOK52
+!!!id: 52638
+!!!signature: 5263800000
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M3/4
+=1
+{8.ff#
+16aa
+4aa
+8ff#
+8dd
+=2
+8cc#
+8ee
+4gg
+4ff#
+=3
+8aa
+8bb
+8aa
+8aa
+8ff#
+8dd
+=4
+8cc#
+8ee
+4gg
+4ff#}
+!!LO:LB:g=esac
+=5
+{8ff#
+8ff#
+4ddd
+8ccc#
+8bb
+=6
+8aa#
+8ff#
+4bb
+4ff#
+=7
+8gg
+8ff#
+4ee
+8dd
+8b
+=8
+8a#
+8cc#
+2ff#}
+!!LO:LB:g=esac
+=9
+{8ff#
+8ff#
+4ddd
+8ccc#
+8bb
+=10
+8aa#
+8ff#
+4.bb
+8ff#
+=
+8.gg
+16ff#
+4ee
+12dd
+12cc#
+12b
+=11
+8.a#
+16ff#
+2ff#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=473 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 408} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 408}
+!!!page: 408
+!!!ONB: Converted on 2024/12/26 with esac2hum

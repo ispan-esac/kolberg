@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK45169900000-zabil_tatus_kure.krn
+!!!OTL: Zabił tatuś kurę
+!!!source: DWOK45
+!!!id: 451699
+!!!signature: 45169900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8a
+8b-
+8b-
+=2
+4a
+4f}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8b-
+8b-
+=4
+4a
+4f}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b-
+8b-
+=6
+8a
+8a
+8cc
+8cc}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8b-
+8b-
+=8
+4a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 253} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 253}
+!!!page: 253
+!!!ONB: Converted on 2024/12/26 with esac2hum

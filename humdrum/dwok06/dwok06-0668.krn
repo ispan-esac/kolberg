@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK06-K0668-ty_marysiu_cos_mi_zle.krn
+!!!OTL: Ty Marysiu cos mi zle
+!!!source: DWOK06
+!!!id: K0668
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8f
+8b-
+8dd
+8b-
+=2
+8cc
+16cc
+16dd
+8b-
+8r
+=3
+8f
+8b-
+8dd
+8b-
+=4
+8cc
+16cc
+16dd
+8b-}
+8r
+!!LO:LB:g=esac
+=5
+{8.cc
+16ee-
+8.dd
+16ff
+=6
+16ff
+16ee-
+16ee-
+16dd
+8.dd
+16b-
+=7
+8.cc
+16ee-
+8.dd
+16b-
+=8
+8cc
+16cc
+16dd
+8b-}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=442 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 416} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 416}
+!!!page: 416
+!!!ONB: Converted on 2024/12/26 with esac2hum

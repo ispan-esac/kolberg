@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4141600012-oj_karcmarecka_rada.krn
+!!!OTL: Oj, karcmarecka rada
+!!!source: DWOK41
+!!!id: 41416
+!!!signature: 4141600012
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{4b-
+4dd
+4b-
+=2
+8b-
+8b-
+4dd
+8cc
+8b-}
+!!LO:LB:g=esac
+=3
+{4a
+4cc
+4cc
+=4
+8cc
+8ee-
+4dd
+8b-
+8a}
+!!LO:LB:g=esac
+=5
+{4g
+4b-
+8b-
+8a
+=6
+8g
+8g
+4.a
+8f#}
+!!LO:LB:g=esac
+=7
+{4d
+4f#
+4f#
+=8
+8f#
+8g
+4a
+4g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=309 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 226} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 226}
+!!!page: 226
+!!!ONB: Converted on 2024/12/26 with esac2hum

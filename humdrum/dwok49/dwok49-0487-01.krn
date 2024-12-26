@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK4948700001-ej_a_winkuz_mij_winku.krn
+!!!OTL: Ej, a winkuż mij, winku
+!!!source: DWOK49
+!!!id: 49487
+!!!signature: 4948700001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M5/8
+=1
+{8dd
+8cc
+8dd
+8a
+8a
+=2
+4cc
+8dd
+8g}
+8r
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+8a
+8cc
+8b
+=4
+4a
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8a
+8g
+8f#
+=6
+4g
+4a}
+8r
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8a
+8cc
+8b
+=8
+4a
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=542 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 452} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 452}
+!!!page: 452
+!!!ONB: Converted on 2024/12/26 with esac2hum

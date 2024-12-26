@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2555500000-oj_trzewicek_mi_sie_zdar.krn
+!!!OTL: Oj trzewicek mi się zdar
+!!!source: DWOK25
+!!!id: 25555
+!!!signature: 2555500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{24g
+24b
+24dd
+8ff
+8aa
+=1
+8gg
+8ff
+8ee
+=2
+16dd
+16ff
+16ee
+16cc
+8b
+=3
+8g
+8b
+8cc}
+!!LO:LB:g=esac
+=4
+{16b
+16dd
+16ff
+16ee
+16cc
+16ee
+=5
+8ff
+8ee
+8cc
+=6
+16dd
+16ff
+8ee
+16cc
+16b
+=7
+8g
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 213} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 213}
+!!!page: 213
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK1808900000-przezegnaj_mie_matko.krn
+!!!OTL: Przeżegnaj mię matko
+!!!source: DWOK18
+!!!id: 18089
+!!!signature: 1808900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8cc
+8ee
+8cc
+=2
+8b
+4.dd
+=3
+8a
+8b
+8f#
+8g
+=4
+8a
+4.b}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8a
+8a
+=6
+8b
+4.g
+=7
+8dd
+8cc
+8a
+8cc
+=8
+8b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 88} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

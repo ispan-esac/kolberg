@@ -1,0 +1,39 @@
+!!!!SEGMENT: DWOK0309000020-hej_pokulnijze_swoj_wianyszek.krn
+!!!OTL: Hej pokulnijże swój wianyszek
+!!!source: DWOK03
+!!!id: K0090b
+!!!signature: 0309000020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8e
+8f#
+8.g
+16d
+=2
+8cc
+16b
+16cc
+8.dd
+16cc
+=3
+8b
+16b
+16a
+8.g
+16f#
+=4
+8e
+8f#
+4d}
+==
+*-
+!!!ONB: Część instrumentalna. U Kolberga notatka: ob. Nr. 37. 40. Oznaczenie tempa "Andante"
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=321 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 309} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 309}
+!!!page: 309
+!!!ONB: Converted on 2024/12/26 with esac2hum

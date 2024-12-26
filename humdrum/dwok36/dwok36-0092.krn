@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK3609200000-my_do_pana_jdemo.krn
+!!!OTL: My do pana jdemo
+!!!source: DWOK36
+!!!id: 36092
+!!!signature: 3609200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+16dd
+16cc#
+8.a
+16a}
+!!LO:LB:g=esac
+=3
+{16b
+16cc#
+4dd
+=4
+8b
+8b
+8dd
+=5
+16dd
+16cc#
+4a
+=6
+8a
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8dd
+=8
+16dd
+16cc#
+8.a
+16a}
+!!LO:LB:g=esac
+=9
+{16b
+16cc#
+4dd
+=10
+8b
+8b
+8dd
+=11
+16dd
+16cc#
+4a
+=12
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 49
+!!!ONB: Converted on 2024/12/26 with esac2hum

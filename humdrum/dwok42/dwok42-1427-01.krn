@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK42142700001-corus_moja_gdziezes_byla.krn
+!!!OTL: Córuś moja, gdzieześ była
+!!!source: DWOK42
+!!!id: 421427
+!!!signature: 42142700001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8b
+8dd
+=2
+16cc
+16b
+8.cc
+16b
+=3
+16a
+16cc
+8a
+8cc
+=4
+16b
+16a
+8.b
+16g}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8f#
+8d
+=6
+16f#
+16a
+8.cc
+16a
+=7
+16g
+16g
+8f#
+8d
+=8
+16f#
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 40} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 40}
+!!!page: 40
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK3905700001-dal_ci_mu_urlop.krn
+!!!OTL: Dał ci mu urlop
+!!!source: DWOK39
+!!!id: 39057
+!!!signature: 3905700001
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M3/4
+{4g
+8ee
+8dd
+8b
+8g
+=2
+4g
+8g
+8g
+8cc
+8g}
+!!LO:LB:g=esac
+=3
+{4g
+8ee
+8dd
+8b
+8dd
+=4
+4g
+8g
+8b
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{4dd
+8ee
+8dd
+8b
+8g
+=6
+4cc
+8ee
+8ee
+8gg
+8cc}
+!!LO:LB:g=esac
+=7
+{4dd
+8ee
+8dd
+8b
+8g
+=8
+*M2/4
+4cc
+4ee
+=9
+8dd
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 124} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

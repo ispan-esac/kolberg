@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK3654300002-pojichaw_kozaczenko_na_polowanie.krn
+!!!OTL: Pojichaw kozaczeńko na polowanie
+!!!source: DWOK36
+!!!id: 36543
+!!!signature: 3654300002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16cc
+16b
+16cc
+16b
+16cc
+16dd
+8ee
+=2
+16dd
+16cc
+16b
+16a
+8g#
+8e
+=3
+16cc
+16b
+16cc
+16b
+16cc
+16dd
+8ee
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8b
+16dd
+16b
+8dd
+8ee
+=6
+16dd
+16cc
+16b
+16a
+8g#
+8e
+=7
+8a
+8ee
+16dd
+16cc
+16b
+16cc
+=8
+2a}
+!!LO:LB:g=esac
+=9
+{8b
+16dd
+16b
+8dd
+8ee
+=10
+16dd
+16cc
+16b
+16a
+8g#
+8e
+=11
+8a
+8ee
+16dd
+16cc
+16b
+16cc
+=12
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 358
+!!!ONB: Converted on 2024/12/26 with esac2hum

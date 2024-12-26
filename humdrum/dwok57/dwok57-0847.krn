@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5784700000-ne_dywy_sie_dziwczynenko.krn
+!!!OTL: Ne dywy sie, dziwczyneńko
+!!!source: DWOK57
+!!!id: 57847
+!!!signature: 5784700000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8ff
+8ff
+=2
+8ff
+8ff
+8ee
+8ee
+=3
+8ee
+8ee
+8dd
+8cc
+=4
+4ee
+4ee}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8ff
+8ff
+=6
+8ff
+8ff
+8ee
+8ee
+=7
+8ee
+8ee
+8dd
+8b
+=8
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 78
+!!!ONB: Converted on 2024/12/26 with esac2hum

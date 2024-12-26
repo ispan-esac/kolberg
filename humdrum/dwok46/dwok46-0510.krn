@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK4651000000-kot_kotke_okaliczyl_kto_ja_teraz_bedzie_liczyl.krn
+!!!OTL: Kot kotkę okaliczył, kto ją teraz będzie liczył
+!!!source: DWOK46
+!!!id: 46510
+!!!signature: 4651000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8cc
+4a
+4b
+=2
+8g
+8f#
+4d
+4g
+=3
+8g
+8a
+4.g
+8b
+=4
+8g
+8f#
+4d
+4g}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+4.g
+8b
+=6
+8f#
+8f#
+4d
+4g
+=7
+8f#
+8a
+4.g
+8b
+=8
+8g
+8f#
+4d
+4g}
+==
+*-
+!!!ONB: Wariant t. 1: 552_3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=347 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 313} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 313}
+!!!page: 313
+!!!ONB: Converted on 2024/12/26 with esac2hum

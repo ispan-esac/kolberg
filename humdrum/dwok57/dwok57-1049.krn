@@ -1,0 +1,114 @@
+!!!!SEGMENT: DWOK57104900000-za_horodom_weszni.krn
+!!!OTL: Za horodom weszni
+!!!source: DWOK57
+!!!id: 571049
+!!!signature: 57104900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8ee
+8ee
+8ee
+8ee
+8dd
+=2
+8cc
+8ee
+8dd
+8dd
+16cc
+16b
+8a}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+8ee
+8ee
+8ee
+8dd
+=4
+8cc
+8dd
+2ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+8ee
+8dd
+8ee
+=6
+8dd
+16cc
+16b
+4a}
+4r
+!!LO:LB:g=esac
+=7
+{8a
+8ee
+8ee
+8ee
+8.ee
+16dd
+=8
+8cc
+8ee
+8dd
+8dd
+16cc
+16b
+8a}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8ee
+8ee
+8.ee
+16dd
+=10
+8cc
+8ee
+8dd
+8dd
+16cc
+16b
+8a}
+!!LO:LB:g=esac
+=11
+{4dd
+4dd
+8dd
+8b
+=12
+8cc
+8dd
+2ee}
+!!LO:LB:g=esac
+=13
+{8cc
+8ee
+8ee
+8ee
+8dd
+8ee
+=14
+8dd
+16cc
+16b
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

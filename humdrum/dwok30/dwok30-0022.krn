@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK3002200000-ja_w_misteczku_beristeczku.krn
+!!!OTL: Ja w misteczku Beristeczku
+!!!source: DWOK30
+!!!id: 30022
+!!!signature: 3002200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+32cc
+16.b
+8a
+8a
+=2
+8cc
+32cc
+16.b
+8a
+8a
+=3
+16cc
+8.cc
+16dd
+8.dd
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+8cc
+8a
+=6
+8dd
+8dd
+8cc
+16cc
+16b
+=7
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 21} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 21}
+!!!page: 21
+!!!ONB: Converted on 2024/12/26 with esac2hum

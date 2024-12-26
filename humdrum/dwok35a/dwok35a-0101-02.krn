@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK35A-35A10100002-marysejczyn_batejko.krn
+!!!OTL: Marysejczyn batejko
+!!!source: DWOK35A
+!!!id: 35A101
+!!!signature: 35A10100002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8cc
+4cc
+16dd
+16ee
+16ff
+16dd
+=
+[8ee
+48ee]
+48ff
+48ee
+32dd
+32cc
+8dd
+8ee
+4dd}
+!!LO:LB:g=esac
+=
+{24cc
+24dd
+24ee
+24ee
+24ee
+24dd
+8ff
+8dd
+=2
+16ee
+16dd
+8dd
+8dd
+8cc
+8cc}
+8r
+!!LO:LB:g=esac
+=3
+{4ff
+8ee
+8dd
+16ee
+16dd
+16cc
+16b
+=4
+2cc
+4cc}
+==
+*-
+!!!ONB: Gdy panna młoda jest sierotą
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 68} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 68}
+!!!page: 68
+!!!ONB: Converted on 2024/12/26 with esac2hum

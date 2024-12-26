@@ -1,0 +1,38 @@
+!!!!SEGMENT: DWOK1931500020-mazur_ci_ja-instrumentalna.krn
+!!!OTL: Mazur ci ja-Instrumentalna
+!!!source: DWOK19
+!!!id: 19315
+!!!signature: 1931500020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8b
+8g
+=2
+8dd
+8b
+8g
+=3
+16d
+16g
+16b
+16cc
+16a
+16b
+=4
+16a
+16g
+8b
+8g}
+==
+*-
+!!!ONB: wariant w takcie drugim zapisu nutowego 551
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 97} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 97}
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

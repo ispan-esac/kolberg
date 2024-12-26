@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK1808800001-carna_chmurecka_i_siwa.krn
+!!!OTL: Carna chmurecka i siwa
+!!!source: DWOK18
+!!!id: 18088
+!!!signature: 1808800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+8dd
+4dd
+=3
+8ee
+8dd
+8cc
+=4
+4.b}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc
+=6
+8b
+8a
+8g
+=7
+8a
+8cc
+16b
+16a
+=8
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 88} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

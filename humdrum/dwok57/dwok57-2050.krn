@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK57205000000-pod_miasteczkom_pod_potockim.krn
+!!!OTL: Pod miasteczkom, pod Potockim
+!!!source: DWOK57
+!!!id: 572050
+!!!signature: 57205000000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8d
+8f#
+4g
+4g
+=2
+8f#
+8g
+4a
+4g
+=3
+8dd
+8dd
+8ee
+8ff#
+8gg
+8g
+=4
+8a
+8a
+2g}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+4ee
+4ee
+=6
+8b
+8b
+8g
+8f#
+4e
+=7
+8ee
+8ee
+4.e
+8e
+=8
+8f#
+8f#
+2e}
+==
+*-
+!!!ONB: Wariant t. 5-6: 1_1_3b_5_+1_+1_  5_5_43b2_1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1109
+!!!ONB: Converted on 2024/12/26 with esac2hum

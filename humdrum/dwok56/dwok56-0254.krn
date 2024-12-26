@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK5625400000-oj_kume_kume_nyni_sobota.krn
+!!!OTL: Oj, kume, kume, nyni sobota
+!!!source: DWOK56
+!!!id: 56254
+!!!signature: 5625400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8dd
+8cc#
+8dd
+4b
+8dd
+=2
+8dd
+8cc#
+8dd
+4ee
+8dd}
+!!LO:LB:g=esac
+=3
+{8cc
+8b
+8cc
+4a
+8ee
+=4
+8ee
+8dd
+8dd
+4b
+8b}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+4gg
+8ff#
+=6
+8ff#
+8ee
+8ee
+4ff#
+8ee}
+!!LO:LB:g=esac
+=7
+{8ee
+8a
+8cc
+4cc
+8a
+=8
+8cc
+8f#
+8f#
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=353 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 249-250} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, pp. 249-250}
+!!!page: 249-250
+!!!ONB: Converted on 2024/12/26 with esac2hum

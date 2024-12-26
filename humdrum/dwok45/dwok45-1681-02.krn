@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK45168100002-wyjrzyjcie_za_wrata.krn
+!!!OTL: Wyjrzyjcie za wrata
+!!!source: DWOK45
+!!!id: 451681
+!!!signature: 45168100002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16g
+16b
+8cc
+8dd
+8ee
+=2
+8gg
+8ee
+8ee
+8ff
+=3
+8dd
+4ff
+8b
+=4
+8dd
+8cc
+4gg}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8ff
+16ff
+16ee
+=6
+8gg
+8cc
+8cc
+8b
+=7
+8dd
+8ff
+8b
+8dd
+=8
+8cc
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 246} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 246}
+!!!page: 246
+!!!ONB: Converted on 2024/12/26 with esac2hum

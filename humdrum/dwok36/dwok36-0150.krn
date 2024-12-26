@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK3615000000-plyly_kaczenki_bystroju_wodoju.krn
+!!!OTL: Płyły kaczeńki bystroju wodoju
+!!!source: DWOK36
+!!!id: 36150
+!!!signature: 3615000000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M2/4
+{8g
+8a
+8b
+8cc
+=2
+4dd
+8dd
+8g
+=3
+4cc
+4ee
+=4
+8ee
+8cc
+8ff
+8ee
+=
+!!UNCATEGORIZED MEASURE
+4.dd
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{16ee
+16dd
+8dd
+8b
+8cc
+=5
+*M2/4
+4dd
+8ee
+8dd
+=6
+8cc
+8b
+4a
+=7
+8dd
+8cc
+8b
+8a
+=8
+4.g
+8g}
+!!LO:LB:g=esac
+=9
+{16ee
+16dd
+8dd
+8b
+8cc
+=10
+4dd
+8ee
+8dd
+=11
+8cc
+8b
+4a
+=12
+16ee
+16dd
+8cc
+8b
+8a
+=13
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

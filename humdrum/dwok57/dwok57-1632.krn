@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK57163200000-czohos_mene_holowonka_bolyt.krn
+!!!OTL: Czohoś mene hołowońka bołyt
+!!!source: DWOK57
+!!!id: 571632
+!!!signature: 57163200000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M2/4
+{8g
+8cc
+8dd
+8cc
+=2
+*M3/4
+8cc
+8ff
+8ee
+8dd
+8cc
+8a
+=3
+8a
+8g
+2g}
+!!LO:LB:g=esac
+=4
+{4.ff
+8dd
+8gg
+8ff
+=5
+*M2/4
+8ee
+8cc
+4cc
+=6
+*M3/4
+8dd
+8ff
+4g
+4b
+=7
+2cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 702
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK4451300001-miesiac_swieci_a_nie_grzeje.krn
+!!!OTL: Miesiąc świeci a nie grzeje
+!!!source: DWOK44
+!!!id: 44513
+!!!signature: 4451300001
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M6/8
+=1
+{4ee
+8ee
+8ee
+8dd
+8cc#
+=2
+4dd
+8dd
+8dd
+8cc#
+8b}
+!!LO:LB:g=esac
+=3
+{4cc#
+8cc#
+8cc#
+8b
+8a
+=4
+4b
+8b
+4b
+8e}
+!!LO:LB:g=esac
+=5
+{4e
+8e
+8e
+8f#
+8g#
+=6
+4f#
+8f#
+8f#
+8g#
+8a}
+!!LO:LB:g=esac
+=7
+{8g#
+8a
+8b
+8g#
+8a
+8b
+=8
+4cc#
+8a
+4a
+8a}
+!!LO:LB:g=esac
+=9
+{4ff#
+8ff#
+8ff#
+8ee
+8dd
+=10
+4cc#
+8cc#
+8cc#
+8b
+8a}
+!!LO:LB:g=esac
+=11
+{4g#
+8g#
+8g#
+8a
+8b
+=12
+4b
+8a
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=342 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 288-289} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, pp. 288-289}
+!!!page: 288-289
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,126 @@
+!!!!SEGMENT: DWOK1316100001-hozo_hozo_po_naszemu.krn
+!!!OTL: Hożo hożo po naszemu
+!!!source: DWOK13
+!!!id: 13161
+!!!signature: 1316100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8.dd
+16b
+=2
+16dd
+16b
+8dd
+8ee
+=3
+16a
+16a
+8cc
+8ee
+=4
+16dd
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+16r
+16ee
+=6
+16dd
+16dd
+8b
+8g
+=7
+16b
+16dd
+8.dd
+16ee
+=8
+16a
+16a
+8f#
+8d}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+8a
+16r
+16ee
+=10
+16dd
+16dd
+8b
+8g
+=11
+16b
+16dd
+8.dd
+16ee
+=12
+16a
+16a
+8f#
+8d}
+!!LO:LB:g=esac
+=13
+{8.g
+16d
+16B
+16d
+=14
+16g
+16d
+16B
+16d
+16e
+16d
+=15
+8.e
+16c
+8e
+=16
+16g
+16e
+16c
+16e
+8g}
+!!LO:LB:g=esac
+=17
+{8.g
+16d
+16B
+16d
+=18
+16g
+16d
+16B
+16d
+16g
+16f#
+=19
+8.e
+16c
+8e
+=20
+8c
+8A
+8G}
+==
+*-
+!!!ONB: Mazur
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 88} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

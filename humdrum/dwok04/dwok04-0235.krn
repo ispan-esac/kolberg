@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK04-K0235-sa_na_boru_szyszki.krn
+!!!OTL: Sa na boru szyszki
+!!!source: DWOK04
+!!!id: K0235
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8d
+8c#
+8d
+8e
+8f#
+8g
+=2
+8a
+8g#
+8a
+8b
+8cc#
+8a}
+!!LO:LB:g=esac
+=3
+{8dd
+8cc#
+4dd
+4a
+=4
+8b
+8cc#
+2a}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc#
+8dd
+8a
+8f#
+8d
+=6
+8b
+8a#
+8b
+8g
+8e
+8g}
+!!LO:LB:g=esac
+=7
+{8f#
+8g
+4a
+4d
+=8
+8f#
+8e
+4d}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=133 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 119} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 119}
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK3636900000-oj_horisze_horisze.krn
+!!!OTL: Oj horisze horisze
+!!!source: DWOK36
+!!!id: 36369
+!!!signature: 3636900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+8cc
+8dd
+8ee
+16dd
+16b
+=2
+8cc
+8a
+2g
+=3
+8dd
+8dd
+8aa
+8gg
+8dd
+16gg
+16ff#
+=4
+8gg
+8ee
+2dd}
+!!LO:LB:g=esac
+=5
+{8.gg
+16dd
+8ee
+8ff#
+8gg
+8ee
+=6
+8ee
+8ee
+8dd
+16cc
+16b
+8a
+8g
+=7
+8cc
+8dd
+8ee
+8dd
+4dd
+=8
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 232
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4305500010-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK43
+!!!id: 43055
+!!!signature: 4305500010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8cc
+8cc
+8cc
+=2
+8ff
+8cc
+8cc
+8cc
+=3
+8dd
+8cc
+4b-
+=4
+8cc
+8b-
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8cc
+16dd
+16ee
+=6
+8ff
+8cc
+8cc
+8cc
+=7
+8dd
+8cc
+4b-
+=8
+8e
+8f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 67} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 67}
+!!!page: 67
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,35 @@
+!!!!SEGMENT: DWOK45185300020-wesli_miemcy_do_kraju.krn
+!!!OTL: Weśli Miemcy do kraju
+!!!source: DWOK45
+!!!id: 451853
+!!!signature: 45185300020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ff
+16ff
+8.aa
+16ff
+=2
+8dd
+8dd
+8dd
+=3
+16g
+16a
+8b
+8g
+=4
+8cc
+8cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=328 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 314} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 314}
+!!!page: 314
+!!!ONB: Converted on 2024/12/26 with esac2hum

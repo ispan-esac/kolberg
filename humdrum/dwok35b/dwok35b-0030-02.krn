@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK35B-35B03000002-oj_czas_maty_donku_daty.krn
+!!!OTL: Oj czas maty dońku daty
+!!!source: DWOK35B
+!!!id: 35B030
+!!!signature: 35B03000002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8dd
+8ee
+8ff
+8dd
+=2
+16ee
+16dd
+8ee
+8g
+8g
+=3
+16a
+16g
+16a
+16b
+8cc
+8cc
+=4
+16a
+16g
+4.a}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+16cc
+16ee
+8ee
+8dd
+=6
+8dd
+4.ee
+=7
+16ee
+16ff
+8gg
+8ff
+8ee
+=8
+16dd
+16b
+4.cc}
+!!LO:LB:g=esac
+=9
+{16dd
+16cc
+16dd
+16ee
+8ff
+8dd
+=10
+16ee
+16dd
+8ee
+8g
+8g
+=11
+16a
+16g
+16a
+16b
+8cc
+8cc
+=12
+16a
+16g
+4.a}
+==
+*-
+!!!ONB: zakodować w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=188 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 146} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 146}
+!!!page: 146
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK0673200011-siwy_konik_siwy_siodeleczko_stracil.krn
+!!!OTL: Siwy konik siwy siodełeczko stracił
+!!!source: DWOK06
+!!!id: K0732
+!!!signature: 0673200011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16g
+16a
+16b
+16cc
+4dd
+=2
+8b
+8.dd
+16cc#
+16dd
+16ee
+=3
+16ff
+16aa
+16ff
+16ee
+16ff
+16aa
+16ff
+16ee
+=4
+16dd
+16ee
+4.cc}
+!!LO:LB:g=esac
+=5
+{8ee
+16ee
+16dd
+8cc
+16cc
+16b
+=6
+16b
+16a
+8.a
+16g
+16a
+16b
+=7
+8cc
+16cc
+16b
+16dd
+16cc
+16b
+16a
+=8
+16a
+16g
+4g}
+8r
+==
+*-
+!!!ONB: U Kolberga w t. 8 błędny zapis rytmiczny: 655_0_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=478 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 452} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 452}
+!!!page: 452
+!!!ONB: Converted on 2024/12/26 with esac2hum

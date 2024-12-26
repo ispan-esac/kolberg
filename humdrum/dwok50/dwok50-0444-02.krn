@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK5044400002-idzie_wojaczek_z_miasta_za_nym_panionek_trzysta.krn
+!!!OTL: Idzie wójaczek z miasta, za nym panionek trzysta
+!!!source: DWOK50
+!!!id: 50444
+!!!signature: 5044400002
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{8a
+8a
+8a
+=2
+8cc
+4b
+=3
+8a
+4g}
+!!LO:LB:g=esac
+=4
+{8a
+8a
+8a
+=5
+8cc
+4b
+=6
+8a
+4g}
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+8a
+=8
+8g
+4g
+=9
+8a
+8cc
+8a}
+!!LO:LB:g=esac
+=10
+{8cc
+8b
+8a
+=11
+8g
+4f
+=12
+8d
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 265} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 265}
+!!!page: 265
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK8354400000-jasio_od_wody_kasia_do_wody.krn
+!!!OTL: Jasio od wody, Kasia do wody
+!!!source: DWOK83
+!!!id: 83544
+!!!signature: 8354400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4b
+4cc
+=2
+2.a
+=3
+8cc
+8dd
+4ee
+4dd
+=4
+2.ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+4.ee
+8dd
+=6
+8cc
+8b
+8cc
+8b
+4a
+=7
+8a
+8cc
+4b
+4cc
+=8
+2.a}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+4.ee
+8dd
+=10
+8cc
+8b
+8cc
+8b
+4a
+=11
+8a
+8cc
+4b
+4cc
+=12
+2.a}
+==
+*-
+!!!ONB: Wariant t. 3: 3b4554#
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=437 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 326} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 326}
+!!!page: 326
+!!!ONB: Converted on 2024/12/26 with esac2hum

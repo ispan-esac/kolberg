@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK5316400001-gale_lauka_radastas_zidejo.krn
+!!!OTL: Gale łauka radastas zidejo
+!!!source: DWOK53
+!!!id: 53164
+!!!signature: 5316400001
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{4a
+4b
+=2
+8a
+8f#
+4g#}
+!!LO:LB:g=esac
+=3
+{8f#
+8e
+8d
+8f#
+=4
+4e
+4e}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc#
+8ee
+=6
+8dd
+8cc#
+8b
+8ee
+=7
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=335 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 297} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 297}
+!!!page: 297
+!!!ONB: Converted on 2024/12/26 with esac2hum

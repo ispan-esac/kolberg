@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1342000001-albo_mnie_zabija.krn
+!!!OTL: Albo mnie zabiją
+!!!source: DWOK13
+!!!id: 13420
+!!!signature: 1342000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8cc
+8a
+=2
+8b
+4dd
+8r
+=3
+8b
+8dd
+8cc
+8a
+=4
+8a
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+4g
+=6
+8b
+4cc
+8b
+=7
+8b
+8dd
+8cc
+8a
+=8
+8a
+4g}
+8r
+==
+*-
+!!!ONB: Krakowiak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 174} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

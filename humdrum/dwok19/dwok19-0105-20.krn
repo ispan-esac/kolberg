@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1910500020-kumo_moja_kumo.krn
+!!!OTL: Kumo moja kumo
+!!!source: DWOK19
+!!!id: 19105
+!!!signature: 1910500020
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8gg
+8gg
+8gg
+8b
+=2
+8cc
+8ee
+16ee
+16cc
+16ee
+16ff
+=3
+8gg
+8aa
+8gg
+8b
+=4
+8cc
+8a
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+16b
+16b
+16b
+16g
+=6
+8cc
+8ee
+8ee
+8ee
+=7
+8gg
+8aa
+8gg
+8b
+=8
+8cc
+16a
+16f
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 37} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

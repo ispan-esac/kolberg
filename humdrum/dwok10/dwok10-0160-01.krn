@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1016000001-zdalo_mi_sie_zadalo_ze_pole_gorzalo.krn
+!!!OTL: Zdało mi się, zadało, że pole gorzało
+!!!source: DWOK10
+!!!id: 10160
+!!!signature: 1016000001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16cc
+16ee
+4cc
+=2
+8ee
+8ee
+8dd
+=3
+16b
+16dd
+4b
+=4
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+4a
+=6
+8cc
+8cc
+8ee
+=7
+16b
+16g#
+4e
+=8
+8dd
+8ee
+8ee}
+!!LO:LB:g=esac
+=9
+{16a
+16cc
+4a
+=10
+8cc
+8cc
+8ee
+=11
+16b
+16g#
+4e
+=12
+8a
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=331 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 315} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 315}
+!!!page: 315
+!!!ONB: Converted on 2024/12/26 with esac2hum

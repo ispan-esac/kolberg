@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK06-K0718-chodzilam_chodzilam_po_mojej_potrzebie.krn
+!!!OTL: Chodzilam chodzilam po mojej potrzebie
+!!!source: DWOK06
+!!!id: K0718
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+8g
+=2
+8g
+8g
+4b
+=3
+8a
+4cc
+8d
+=4
+8cc
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+4dd
+8g
+=6
+8dd
+8dd
+4ee
+=7
+8cc
+4cc
+8a
+=8
+16f#
+16d
+16e
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=472 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 446} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 446}
+!!!page: 446
+!!!ONB: Converted on 2024/12/26 with esac2hum

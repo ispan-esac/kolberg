@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK4178900010-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK41
+!!!id: 41789
+!!!signature: 4178900010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.dd
+8cc#
+8cc
+8a
+=2
+4cc
+4b
+4g
+=3
+8f#
+8a
+4cc
+4ee
+=4
+2.dd}
+!!LO:LB:g=esac
+=5
+{4.dd
+8cc#
+8cc
+8a
+=
+12cc
+12dd
+12cc
+4b
+4g
+=6
+8a
+8f#
+4d
+8cc
+8b
+=7
+2.g}
+!!LO:LB:g=esac
+=8
+{4.a
+8f#
+8g
+8b
+=9
+8a
+8f#
+4g
+4b
+=10
+8a
+8dd
+4cc#
+4b
+=11
+8a
+8f#
+4g
+4b}
+!!LO:LB:g=esac
+=12
+{4.a
+8f#
+8g
+8b
+=13
+8a
+8f#
+4g
+4b
+=14
+8a
+8dd
+4cc#
+4b
+=15
+8a
+8f#
+4g
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=444 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 357-358} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 357-358}
+!!!page: 357-358
+!!!ONB: Converted on 2024/12/26 with esac2hum

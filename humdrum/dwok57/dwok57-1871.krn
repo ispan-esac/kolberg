@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK57187100000-zachodzi_sloneczko_za_gaj_kalinowy.krn
+!!!OTL: Zachodzi słoneczko za gaj kalinowy
+!!!source: DWOK57
+!!!id: 571871
+!!!signature: 57187100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8cc
+8b
+=2
+8dd
+4.dd
+=3
+8g
+8g
+8cc
+8b
+=4
+8dd
+4.dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4ee
+=6
+8gg
+4ff
+8ee
+=7
+8dd
+8g
+8a
+8b
+=8
+8cc
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 938
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK5062400000-wszyscy_ludzie_zaspiewajcie_maryja.krn
+!!!OTL: Wszyscy ludzie zaśpiewajcie, Maryja
+!!!source: DWOK50
+!!!id: 50624
+!!!signature: 5062400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8cc
+=2
+8dd
+8cc
+8b
+8a
+=3
+16b
+16a
+8g#
+4a}
+!!LO:LB:g=esac
+=4
+{8a
+8b
+8cc
+8cc
+=5
+8dd
+8cc
+8b
+8a
+=6
+16b
+16a
+8g#
+4a}
+!!LO:LB:g=esac
+=7
+{4.ee
+8dd
+=8
+8ff
+8ee
+8dd
+8cc
+=9
+4.ee
+8dd
+=10
+8ff
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=11
+{8b
+8cc
+4dd
+=12
+8cc
+8b
+4a}
+!!LO:LB:g=esac
+=13
+{4.ee
+8dd
+=14
+8ff
+8ee
+8dd
+8cc
+=15
+4.ee
+8dd
+=16
+8ff
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=17
+{8b
+8cc
+4dd
+=18
+8cc
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=401 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 368} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 368}
+!!!page: 368
+!!!ONB: Converted on 2024/12/26 with esac2hum

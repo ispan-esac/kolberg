@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK4488000010-rozeszla_byla_pewna_pogloska.krn
+!!!OTL: Rozeszła była pewna pogłoska
+!!!source: DWOK44
+!!!id: 44880
+!!!signature: 4488000010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{8ff
+8ee
+8dd
+4cc
+8a
+=2
+8cc
+8b-
+8b-
+4cc
+8a}
+!!LO:LB:g=esac
+=3
+{8ff
+8ee
+8dd
+4cc
+8a
+=4
+8cc
+8b-
+8g
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=471 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 413} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 413}
+!!!page: 413
+!!!ONB: Converted on 2024/12/26 with esac2hum

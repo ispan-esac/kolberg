@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5016700001-j-a_malenki_czandryk_po_switi_litaje.krn
+!!!OTL: J-a malenki czandryk po świti litaje
+!!!source: DWOK50
+!!!id: 50167
+!!!signature: 5016700001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8g
+8b
+=2
+8b
+8a
+4a
+=3
+8g
+16a
+16b
+8cc
+8cc
+=4
+8cc
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8b
+8b
+=6
+8b
+8a
+8a
+8a
+=7
+8cc
+8a
+8a
+8f#
+=8
+8a
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 76} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 76}
+!!!page: 76
+!!!ONB: Converted on 2024/12/26 with esac2hum

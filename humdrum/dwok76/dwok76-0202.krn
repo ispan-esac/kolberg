@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK7620200000-z_kamienia_deszcz_idzie.krn
+!!!OTL: Z kamienia deszcz idzie
+!!!source: DWOK76
+!!!id: 76202
+!!!signature: 7620200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+{8b
+4.dd#
+8ff#
+=1
+8ee
+8dd#
+2ee
+=2
+4b
+4.dd#
+8ee
+=3
+8cc
+8b
+2a}
+!!LO:LB:g=esac
+=4
+{4e
+4.g#
+8b
+=5
+8a
+8g#
+2a
+=6
+4b
+4.dd#
+8ee
+=7
+8cc
+8b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 106} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 106}
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

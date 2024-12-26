@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK5552700000-ta_huculka.krn
+!!!OTL: Ta Hucułka
+!!!source: DWOK55
+!!!id: 55527
+!!!signature: 5552700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8a
+8b
+=2
+8dd
+16dd
+16cc
+16b
+16a
+=3
+8a
+8a
+8b
+=4
+8dd
+16dd
+16cc
+16b
+16a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+=6
+8dd
+16dd
+16cc
+16b
+16a
+=7
+8dd
+16dd
+16cc
+16b
+16a
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8b
+=10
+8dd
+16dd
+16cc
+16b
+16a
+=11
+8dd
+8dd
+16cc
+16b
+=12
+4.a}
+!!LO:LB:g=esac
+=13
+{8dd
+8dd
+8cc
+=14
+8b
+4a
+=15
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 127} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 127}
+!!!page: 127
+!!!ONB: Converted on 2024/12/26 with esac2hum

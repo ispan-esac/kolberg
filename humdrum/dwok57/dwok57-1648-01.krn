@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK57164800001-ja_miala_wdowa_jidnoho_syna.krn
+!!!OTL: Ja miała wdowa jidnoho syna
+!!!source: DWOK57
+!!!id: 571648
+!!!signature: 57164800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8g
+8b
+=2
+2cc
+=3
+8b
+8dd
+8g
+8b
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8a
+8g
+=6
+4dd
+8ee
+8cc
+=7
+8b
+8b
+8cc
+16a
+16f#
+=8
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 720
+!!!ONB: Converted on 2024/12/26 with esac2hum

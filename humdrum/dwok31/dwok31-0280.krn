@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK3128000000-piszov_by_ja_hajduka.krn
+!!!OTL: Piszov by ja hajduka
+!!!source: DWOK31
+!!!id: 31280
+!!!signature: 3128000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16gg
+8.ff
+16dd
+8.ee
+=2
+16cc
+8.ee
+16ff
+8.aa
+=3
+16gg
+8.ff
+16ff
+16dd
+16dd
+16ee
+=4
+16cc
+8.a
+16g
+8.b}
+!!LO:LB:g=esac
+=5
+{16cc
+8.ee
+16a
+8.g
+=6
+16g
+8.b
+16cc
+8.ee
+=7
+16b
+16cc
+16cc
+16ee
+4g
+=8
+8cc
+8cc
+8cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 34} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 34}
+!!!page: 34
+!!!ONB: Converted on 2024/12/26 with esac2hum

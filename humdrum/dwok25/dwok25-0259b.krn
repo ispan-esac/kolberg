@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK25259b0000-a_moj_kumie_bywaj_u_mnie.krn
+!!!OTL: A mój kumie, bywaj u mnie
+!!!source: DWOK25
+!!!id: 25259b
+!!!signature: 25259b0000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{32b
+16.cc
+8ee
+8gg
+=2
+32gg
+16.ff#
+8dd
+8cc
+=3
+32b
+16.cc
+8a
+8f#
+=4
+32a
+16.cc
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{32b
+16.cc
+8a
+8g
+=6
+32cc
+16.b
+8g
+8f#
+=7
+32b
+16.cc
+8a
+8g
+=8
+32f#
+16.a
+8f#
+8g}
+==
+*-
+!!!ONB: Wariant w takcie szóstym 43_.1__2__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 114} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 114}
+!!!page: 114
+!!!ONB: Converted on 2024/12/26 with esac2hum

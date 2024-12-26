@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2117800000-usnij_kaziu_usnij.krn
+!!!OTL: Uśnij Kaziu uśnij
+!!!source: DWOK21
+!!!id: 21178
+!!!signature: 2117800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16ee
+16cc
+8b
+8a
+=2
+8g#
+4e
+=3
+16ee
+16cc
+8b
+8a
+=4
+4b
+16cc#
+16dd#}
+!!LO:LB:g=esac
+=5
+{8.e
+16g#
+16a
+16cc
+=6
+8b
+4e
+=7
+16g#
+16b
+4a
+=8
+4.e}
+!!LO:LB:g=esac
+=9
+{8.e
+16g#
+16a
+16cc
+=10
+16b
+16g#
+4e
+=11
+16g#
+16b
+4a
+=12
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 85} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

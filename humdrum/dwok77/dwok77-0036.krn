@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK7703600000-oj_chmielu.krn
+!!!OTL: Oj chmielu
+!!!source: DWOK77
+!!!id: 77036
+!!!signature: 7703600000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=1
+{4dd
+4dd
+4ff
+=2
+4ee
+2dd
+=3
+8cc
+8dd
+4cc
+4b-
+=4
+2.a}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4ff
+=6
+4ee
+2dd
+=7
+8cc
+8dd
+4cc
+4b-
+=8
+2.a}
+!!LO:LB:g=esac
+=9
+{4cc
+4g
+4a
+=10
+8cc
+8cc
+4g
+4a
+=11
+4cc
+4g
+4a
+=12
+8cc
+8cc
+4g
+4a}
+!!LO:LB:g=esac
+=13
+{8b-
+8dd
+4cc
+4b-
+=14
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

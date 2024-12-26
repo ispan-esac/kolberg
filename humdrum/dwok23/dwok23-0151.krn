@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK2315100000-kole_tego_mlyna.krn
+!!!OTL: Kole tego młyna
+!!!source: DWOK23
+!!!id: 23151
+!!!signature: 2315100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+8dd
+8b
+8cc
+8ee
+=2
+8b
+8dd
+8dd
+8b
+8cc
+8ee
+=3
+8b
+8b
+4a
+4d
+=4
+8g
+8b
+2dd
+=5
+8b
+8cc
+4a
+4d
+=6
+8g
+8b
+2g}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+8dd
+8b
+8cc
+8a
+=8
+8b
+8dd
+8dd
+8b
+8cc
+8a
+=9
+8b
+8b
+4a
+4d
+=10
+8g
+8b
+2dd
+=11
+8b
+8cc
+4a
+4a
+=12
+8g
+8b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 160} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

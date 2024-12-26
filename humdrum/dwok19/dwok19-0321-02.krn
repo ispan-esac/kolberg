@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1932100002-jak_ja_wlize_na_brzyze.krn
+!!!OTL: Jak ja wlize na brzyze
+!!!source: DWOK19
+!!!id: 19321
+!!!signature: 1932100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16b
+8cc
+8cc
+=2
+16b
+16dd
+4g
+=3
+16dd
+16ff#
+8gg
+8ff#
+=4
+16ee
+16ff#
+4dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8ff#
+8dd
+=6
+16dd
+32cc
+32b
+8a
+8g
+=7
+16g
+32a
+32b
+8cc
+8cc
+=8
+16b
+16dd
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 98} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

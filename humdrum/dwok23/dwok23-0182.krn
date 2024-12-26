@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2318200000-zaprzegajcie_zakladajcie.krn
+!!!OTL: Zaprzęgajcie zakładajcie
+!!!source: DWOK23
+!!!id: 23182
+!!!signature: 2318200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16f
+8b-
+8cc
+=2
+16dd
+16ee-
+8dd
+8f
+=3
+16a
+16cc
+8b-
+8g
+=4
+4.f}
+!!LO:LB:g=esac
+=5
+{16f
+16f
+8b-
+8cc
+=6
+16dd
+16ff
+8gg
+8cc
+=7
+16a
+16cc
+8dd
+8g
+=8
+4.f}
+!!LO:LB:g=esac
+=9
+{16f
+16f
+8b-
+8g
+=10
+16f
+16f
+8g
+8d
+=11
+16f
+16f
+8b-
+8g
+=12
+16f
+16f
+8g
+8f}
+!!LO:LB:g=esac
+=13
+{16a
+16cc
+8b-
+8g
+=14
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 173} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

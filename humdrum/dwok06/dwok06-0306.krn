@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK06-K0306-przysed_jas_do_kasie.krn
+!!!OTL: Przysed Jas do Kasie
+!!!source: DWOK06
+!!!id: K0306
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+4cc
+8b
+=2
+8cc
+8dd
+4ee
+=3
+16g
+16cc
+4cc
+8b
+=4
+8cc
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8ff
+8ff
+8ff
+8ff
+=6
+8ff
+8ff
+16ff
+16ee
+8dd
+=7
+4ee
+8a
+8g
+=8
+8b
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 155} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

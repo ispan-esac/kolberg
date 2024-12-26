@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2413100001-przy_dole_sosnia.krn
+!!!OTL: Przy dole sośnia
+!!!source: DWOK24
+!!!id: 24131
+!!!signature: 2413100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8g
+8a
+=2
+8f#
+4d
+=3
+8g
+4a
+=4
+4b}
+8r
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8g
+8a
+=6
+16g
+16f#
+4d
+=7
+8g
+4a
+=8
+4b}
+8r
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+8cc
+=10
+8a
+8cc
+8b
+=11
+16a
+16b
+8cc
+8b
+=12
+8a
+8f#
+8e}
+!!LO:LB:g=esac
+=13
+{8d
+8f#
+8g
+=14
+8a
+4f#
+=15
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=270 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 246} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 246}
+!!!page: 246
+!!!ONB: Converted on 2024/12/26 with esac2hum

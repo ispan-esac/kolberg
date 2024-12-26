@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK5202000000-a_za_pastuszkami_kalada_biazyc.krn
+!!!OTL: A za pastuszkami Kalada biażyć
+!!!source: DWOK52
+!!!id: 52020
+!!!signature: 5202000000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4c
+4d
+4e
+4f
+=2
+2g
+2g
+=3
+4a
+4f
+4cc
+4f
+=4
+4g}
+4r
+2r
+!!LO:LB:g=esac
+=5
+{4f
+4f
+4f
+4f
+=6
+4e
+4e
+4e
+4e
+=7
+4d
+4d
+4d
+4d
+=8
+2c
+2g}
+!!LO:LB:g=esac
+=9
+{4f
+4f
+4a
+4f
+=10
+4e
+4e
+4g
+4e
+=11
+4d
+4d
+4f
+4d
+=12
+4c}
+4r
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 94} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 94}
+!!!page: 94
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1248800000-kolo_ogrodeczka_woda_ciekla.krn
+!!!OTL: Koło ogródeczka woda ciekła
+!!!source: DWOK12
+!!!id: 12488
+!!!signature: 1248800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8ee
+8ee
+8dd
+8ff
+8ee
+=2
+8dd
+8b
+4g
+4cc
+=3
+8ee
+8gg
+8gg
+8gg
+8aa
+8gg
+=4
+8ff
+8ff
+4dd
+4gg}
+!!LO:LB:g=esac
+=5
+{4.ee
+8dd
+8ff
+8ee
+=6
+8dd
+8b
+4g
+4gg
+=7
+4.ee
+8dd
+8ff
+8ee
+=8
+8dd
+8b
+4g
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 253} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 253}
+!!!page: 253
+!!!ONB: Converted on 2024/12/26 with esac2hum

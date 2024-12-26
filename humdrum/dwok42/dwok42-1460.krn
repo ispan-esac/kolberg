@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK42146000000-a_stala_nam_sie_taka_ogloska.krn
+!!!OTL: A stała nam się taka ogłoska
+!!!source: DWOK42
+!!!id: 421460
+!!!signature: 42146000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4.ee
+8dd
+8b
+8dd
+=2
+4.ee
+8dd
+8cc
+8b
+=3
+8a
+8cc
+4b
+4cc
+=4
+2.a}
+!!LO:LB:g=esac
+=5
+{4.ee
+8dd
+8b
+8dd
+=6
+4.ee
+8dd
+8cc
+8b
+=7
+8a
+8cc
+4b
+4cc
+=8
+2.a
+=9
+4b
+4b
+4b}
+!!LO:LB:g=esac
+=10
+{8g#
+8b
+4dd
+8cc
+8b
+=11
+4a
+4cc
+4cc
+=12
+8cc
+8ee
+4dd
+8cc
+8b
+=13
+8a
+8cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 56} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

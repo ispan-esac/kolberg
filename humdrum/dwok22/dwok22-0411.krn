@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2241100000-da_moja_mila_owcarzowno.krn
+!!!OTL: Da moja miła owcarzowno
+!!!source: DWOK22
+!!!id: 22411
+!!!signature: 2241100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+16b
+16dd
+16cc
+16a
+=2
+16g
+16b
+8cc
+8gg
+=3
+8ff
+16ee
+16dd
+16cc
+16a
+=4
+16g
+16b
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+16a
+16g
+=6
+16a
+16g
+16a
+16b
+16cc
+16g
+=7
+8b
+8cc
+16a
+16g
+=8
+16a
+16b
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 207} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 207}
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

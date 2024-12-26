@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK8310500000-panie_mlody_umyj_nogi.krn
+!!!OTL: Panie młody, umyj nogi
+!!!source: DWOK83
+!!!id: 83105
+!!!signature: 8310500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16.cc
+32dd
+16b
+16a
+8g
+=2
+16.cc
+32dd
+16b
+16a
+8g
+=3
+16cc
+16ee
+8ff
+8ee
+=4
+16dd
+16cc
+4ee}
+!!LO:LB:g=esac
+=5
+{16.cc
+32dd
+8b
+8g
+=6
+16.cc
+32dd
+8b
+8g
+=7
+16cc
+16ee
+8ff
+8ee
+=8
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 101} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 101}
+!!!page: 101
+!!!ONB: Converted on 2024/12/26 with esac2hum

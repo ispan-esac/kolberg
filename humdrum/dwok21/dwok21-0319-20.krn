@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2131900020-idzie_chmura_od_wiatraka.krn
+!!!OTL: Idzie chmura od wiatraka
+!!!source: DWOK21
+!!!id: 21319
+!!!signature: 2131900020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+16ee
+16gg
+16aa
+16dd
+=2
+16ff
+16ee
+8b
+8cc
+=3
+16gg
+16ff
+8g
+16b
+16dd
+=4
+16ff
+16ee
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{16ee
+16ee
+8cc
+8ee
+=6
+16ff
+16aa
+8gg
+16ee
+16cc
+=7
+16ee
+16gg
+8g
+16b
+16dd
+=8
+16ff
+16ee
+8b
+8cc}
+==
+*-
+!!!ONB: część wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 129} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 129}
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

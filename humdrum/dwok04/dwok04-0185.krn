@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK04-K0185-w_olszynie.krn
+!!!OTL: W olszynie
+!!!source: DWOK04
+!!!id: K0185
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4b
+2cc
+=2
+8g
+8cc
+8b
+8b
+2cc}
+!!LO:LB:g=esac
+=3
+{8g
+8cc
+8b
+8g
+4a
+4g
+=4
+8f
+8f
+8e
+8g
+2cc}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8cc
+8cc
+4ee
+4dd
+=6
+8b
+8dd
+8dd
+8dd
+4ff
+4ee}
+!!LO:LB:g=esac
+=7
+{8g
+8cc
+8cc
+8cc
+4ee
+4dd
+=8
+8dd
+8cc
+8b
+8a
+4g
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 100} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

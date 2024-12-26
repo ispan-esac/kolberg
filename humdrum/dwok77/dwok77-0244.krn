@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7724400000-nie_placzze_ty_nie_placz_matulu_o_syna.krn
+!!!OTL: Nie płaczże ty nie płacz matulu o syna
+!!!source: DWOK77
+!!!id: 77244
+!!!signature: 7724400000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{2dd
+4ee-
+=2
+8ff
+8ff
+4gg
+4dd
+=3
+2dd
+4ee-
+=4
+8cc
+8a
+4f
+4b-}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4ee-
+=6
+8cc
+8a
+4f
+8ff
+8ee-
+=7
+4dd
+4dd
+8ff
+8ee-
+=8
+8cc
+8a
+4f
+8ff
+8ee-}
+==
+*-
+!!!ONB: Wariant w t. 5: 3_3_54
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

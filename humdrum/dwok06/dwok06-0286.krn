@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK06-K0286-oj_da_da_poslabym_do_dziada.krn
+!!!OTL: Oj da da poslabym do dziada
+!!!source: DWOK06
+!!!id: K0286
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8g#
+4b
+=2
+8cc
+4ee
+8ee
+=3
+8ee
+8ee
+4ee
+=4
+8dd
+4ee
+8dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4b
+=6
+8b
+4a
+8a
+=7
+8b
+8b
+4b
+=8
+8b
+4g#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 143} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 143}
+!!!page: 143
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7735700000-kukulecka_kuka_w_lesie_na_wykrocie.krn
+!!!OTL: Kukułecka kuka w lesie na wykrocie
+!!!source: DWOK77
+!!!id: 77357
+!!!signature: 7735700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8cc#
+=2
+8dd
+8ee
+8dd
+=3
+16g
+16b
+8dd
+8cc#
+=4
+16dd
+16cc#
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+8f#
+=6
+8g
+8b
+8dd
+=7
+16ee
+16cc
+8b
+8g
+=8
+8a
+8f#
+8g}
+==
+*-
+!!!ONB: Wariant w t. 4: 54#2_1-5
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

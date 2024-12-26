@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK02-K0319b-jakem_sie_zalical.krn
+!!!OTL: Jak'em sie zalical
+!!!source: DWOK02
+!!!id: K0319b
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16b
+16dd#
+8ee
+16cc
+16b
+=2
+4.a
+=3
+8b
+8dd#
+16dd#
+16cc#
+=4
+16dd#
+16ff#
+8ee
+8dd#}
+!!LO:LB:g=esac
+=5
+{16b
+16dd#
+8ee
+16cc
+16b
+=6
+4.a
+=7
+8b
+8dd#
+16a
+16b
+=8
+16cc
+16b
+8g#
+8a}
+!!LO:LB:g=esac
+=
+{24b
+24cc#
+24dd
+8a
+16cc#
+16b
+=9
+16cc#
+16dd
+16b
+16a
+8cc#
+=
+24b
+24cc#
+24dd
+8a
+16cc#
+16b
+=10
+16cc#
+16dd
+16b
+16g#
+8a}
+==
+*-
+!!!ONB: Czesc instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 232} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 232}
+!!!page: 232
+!!!ONB: Converted on 2024/12/26 with esac2hum

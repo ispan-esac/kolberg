@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2313600000-gorzala_lipka_gorzala.krn
+!!!OTL: Gorzała lipka gorzała
+!!!source: DWOK23
+!!!id: 23136
+!!!signature: 2313600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+8ff
+8ff
+=2
+8ff
+8ee
+8g
+=3
+16g
+16b
+4cc}
+!!LO:LB:g=esac
+=4
+{8f
+8a
+8cc
+=5
+8cc
+8b
+8g
+=6
+16g
+16b
+4cc}
+!!LO:LB:g=esac
+=7
+{8ff
+8ff
+8ff
+=8
+8ff
+8ee
+8g
+=9
+16g
+16b
+4cc}
+!!LO:LB:g=esac
+=10
+{8f
+8a
+8cc
+=11
+8cc
+8b
+8g
+=12
+16g
+16b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 156} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 156}
+!!!page: 156
+!!!ONB: Converted on 2024/12/26 with esac2hum

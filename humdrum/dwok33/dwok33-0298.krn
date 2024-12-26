@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK3329800000-oj_stycha_witrec_powywaje.krn
+!!!OTL: Oj stycha witreć powywaje
+!!!source: DWOK33
+!!!id: 33298
+!!!signature: 3329800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+8dd
+4b
+=3
+8dd
+4cc
+=4
+8b
+4dd}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8cc
+=6
+8dd
+4b
+=7
+8dd
+4cc
+=8
+8b
+4g}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+16a
+16b
+=10
+4cc
+8cc
+=11
+8cc
+8b
+8f
+=12
+8g
+4cc}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+8b
+=14
+4cc
+8cc
+=15
+8cc
+4b
+=16
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=355 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 313} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 313}
+!!!page: 313
+!!!ONB: Converted on 2024/12/26 with esac2hum

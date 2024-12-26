@@ -1,0 +1,35 @@
+!!!!SEGMENT: DWOK1244500022-instrumentalna-com_zarobila_tom_zarobila.krn
+!!!OTL: Instrumentalna-Com zarobiła tom zarobiła
+!!!source: DWOK12
+!!!id: 12445
+!!!signature: 1244500022
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8b-
+8.f
+16d
+=2
+16e-
+16c
+8a
+8cc
+=3
+8b-
+8.f
+16d
+=4
+16e-
+16c
+8d
+8B-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 231} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 231}
+!!!page: 231
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK57209700000-dobry_wieczor_dobry_wieczor.krn
+!!!OTL: Dobry wieczór, dobry wieczór
+!!!source: DWOK57
+!!!id: 572097
+!!!signature: 57209700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4d
+=2
+8g
+8a
+4b
+4d
+=3
+8a
+8a
+4b
+4dd
+=4
+8dd
+8cc
+4b}
+4r
+!!LO:LB:g=esac
+=5
+{8d
+8d
+4d
+4cc
+=6
+8b
+16b
+16a
+4g
+4b
+=7
+8g
+8f#
+4e
+4f#
+=8
+8a
+8g
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1155
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK42190700000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK42
+!!!id: 421907
+!!!signature: 42190700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8b
+8b
+=2
+8cc
+8ee
+4dd
+=3
+16b
+16a
+16b
+16cc
+8dd
+8d
+=4
+8g
+8g
+4g}
+!!LO:LB:g=esac
+=5
+{16b
+16a
+16b
+16cc
+8dd
+8dd
+=6
+16g
+16g
+16d
+16g
+4b
+=7
+16f#
+16a
+8a
+16f#
+16a
+8a
+=8
+8g
+8e
+4d}
+==
+*-
+!!!ONB: wariant w ostatnim takcie: 1_-6_-5_-5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 292} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 292}
+!!!page: 292
+!!!ONB: Converted on 2024/12/26 with esac2hum

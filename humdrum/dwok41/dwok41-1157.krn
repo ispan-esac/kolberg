@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK41115700000-nie_wyganiaj_owczareczku.krn
+!!!OTL: Nie wyganiaj, owczareczku
+!!!source: DWOK41
+!!!id: 411157
+!!!signature: 41115700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4ff#
+=2
+8dd
+8ff#
+4gg
+8gg
+8ff#
+=3
+8dd
+8ee
+4cc
+4a
+=4
+2.g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8cc
+8a
+4f#
+=6
+8g
+8g
+4b
+4dd
+=7
+8dd
+8ee
+8cc
+8a
+4f#
+=8
+8g
+8g
+4b
+4dd}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8cc
+8a
+4f#
+=10
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=586 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 499} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 499}
+!!!page: 499
+!!!ONB: Converted on 2024/12/26 with esac2hum

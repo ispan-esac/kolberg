@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2720300000-oj_lato_lato_gorace.krn
+!!!OTL: Oj lato lato gorące
+!!!source: DWOK27
+!!!id: 27203
+!!!signature: 2720300000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=1
+{4ee
+8ee
+8dd#
+4ee
+4b
+=2
+4dd
+8ee
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=3
+{4g
+8g
+8f#
+4a
+4e
+=4
+4g
+8a
+8g
+4e
+4e}
+!!LO:LB:g=esac
+=5
+{4ee
+8ee
+8dd#
+4ee
+4b
+=6
+4dd
+8ee
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=7
+{4g
+8g
+8f#
+4a
+4e
+=8
+8g
+8f#
+8a
+16g
+16f#
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 256} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 256}
+!!!page: 256
+!!!ONB: Converted on 2024/12/26 with esac2hum

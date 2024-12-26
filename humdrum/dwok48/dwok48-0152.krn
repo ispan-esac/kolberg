@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4815200000-jeden_mysliwy_caly_dzien_polowal.krn
+!!!OTL: Jeden myśliwy cały dzień polował
+!!!source: DWOK48
+!!!id: 48152
+!!!signature: 4815200000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4g
+8cc
+8cc
+4cc
+4b
+=2
+8dd
+8cc
+8b
+8a
+8a
+8g
+4g}
+!!LO:LB:g=esac
+=3
+{8g
+8cc
+8cc
+8cc
+4cc
+4b
+=4
+8dd
+8cc
+8b
+8a
+8a
+8g
+4g}
+!!LO:LB:g=esac
+=5
+{4ee
+4g
+2cc
+=6
+8dd
+8ee
+8ff
+8ee
+2dd}
+!!LO:LB:g=esac
+=7
+{8dd
+8ff
+8ee
+8dd
+8cc
+8b
+4dd
+=8
+16a
+16g
+8g
+8a
+8b
+4cc}
+4r
+==
+*-
+!!!ONB: Wariant t. 3: 5_7_+1_+1_+1_7_7__; wariant t. 6-7: +2+1+2+3+4_+3_+2___  +2_+4_+3_+2_+1_7_+2_7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 196} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

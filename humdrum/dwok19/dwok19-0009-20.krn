@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK1900900020-sama_ja_se_sama.krn
+!!!OTL: Sama ja se sama
+!!!source: DWOK19
+!!!id: 19009
+!!!signature: 1900900020
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8dd
+8ee
+4ff
+=2
+8ff
+4.dd
+=3
+8.dd
+16ee
+8.ff
+16gg
+=4
+8ff
+4.dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+4ff
+=6
+8ff
+4.bb-
+=7
+8.dd
+16ee
+8.ff
+16gg
+=8
+8ff
+4.dd}
+!!LO:LB:g=esac
+=9
+{8b-
+8dd
+8.ff
+16ee
+=10
+8cc
+4.b-
+=11
+8dd
+16dd
+16cc
+8dd
+8ff
+=12
+8cc
+4b-
+8b-}
+!!LO:LB:g=esac
+=13
+{8b-
+8dd
+8.ff
+16ee
+=14
+8cc
+4.b-
+=15
+8dd
+16dd
+16cc
+8dd
+8ff
+=16
+8cc
+4b-
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=21 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 7} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 7}
+!!!page: 7
+!!!ONB: Converted on 2024/12/26 with esac2hum

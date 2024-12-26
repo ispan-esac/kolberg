@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK5308500001-kud_as_ejau_per_zala_girale.krn
+!!!OTL: Kud as ejau per zala girale
+!!!source: DWOK53
+!!!id: 53085
+!!!signature: 5308500001
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8a
+8a
+4.ee
+8cc#
+=2
+8ee
+8ee
+8ee
+8a
+8cc#
+8dd}
+!!LO:LB:g=esac
+=3
+{8ff#
+8ee
+8dd
+8cc#
+4ee
+=4
+8dd
+8dd
+2a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+4.ee
+8cc#
+=6
+8ee
+8ee
+8ee
+8a
+8cc#
+8dd}
+!!LO:LB:g=esac
+=7
+{8ff#
+8ee
+8dd
+8cc#
+4ee
+=8
+8dd
+8dd
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 231} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 231}
+!!!page: 231
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1832400000-da_ona_gnala_wolki.krn
+!!!OTL: Da ona gnała wołki
+!!!source: DWOK18
+!!!id: 18324
+!!!signature: 1832400000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8b-
+8dd
+8dd
+=2
+16b-
+16dd
+8b-
+8g
+=3
+8f
+8a
+8cc
+=4
+16ee-
+16cc
+8a
+8b-}
+!!LO:LB:g=esac
+=5
+{8b-
+8dd
+8dd
+=6
+16dd
+16dd
+8b-
+8g
+=7
+8f
+8a
+8cc
+=8
+16ee-
+16ee-
+8gg
+8ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 177} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

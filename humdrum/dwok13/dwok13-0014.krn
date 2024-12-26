@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK1301400000-z_koncem_mojego_cygara.krn
+!!!OTL: Z końcem mojego cygara
+!!!source: DWOK13
+!!!id: 13014
+!!!signature: 1301400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{4cc
+8cc
+4cc
+8a
+=2
+4cc
+8cc
+4cc
+8a
+=3
+4cc
+8cc
+4cc
+8cc
+=4
+4cc
+8cc
+4dd
+8cc}
+!!LO:LB:g=esac
+=5
+{4b-
+8b-
+8b-
+8cc
+8dd
+=6
+4cc
+8f
+8f
+8g
+8a
+=7
+4g
+8a
+4b-
+8dd
+=8
+4.dd
+8cc}
+4r
+!!LO:LB:g=esac
+=9
+{4b-
+8b-
+8b-
+8cc
+8dd
+=10
+4cc
+8f
+8f
+8g
+8a
+=11
+4g
+8a
+4b-
+8g
+=12
+4.g
+8f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 11} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 11}
+!!!page: 11
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK35B-35B08100001-napywalas_matinojka_na_medu.krn
+!!!OTL: Napywałaś matinojka na medu
+!!!source: DWOK35B
+!!!id: 35B081
+!!!signature: 35B08100001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8b
+8a
+=2
+8a
+8cc
+8b
+8a
+=3
+4cc
+4dd
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{8.ff
+16ee
+8ee
+8cc
+=6
+8dd
+8dd
+8cc
+8a
+=7
+4cc
+4ee
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 172} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 172}
+!!!page: 172
+!!!ONB: Converted on 2024/12/26 with esac2hum

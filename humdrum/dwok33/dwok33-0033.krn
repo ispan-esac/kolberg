@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3303300000-nasz_jegomosc_dozorca.krn
+!!!OTL: Nasz jegomość dozorca
+!!!source: DWOK33
+!!!id: 33033
+!!!signature: 3303300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8a
+8g
+=2
+4dd
+4ee
+=3
+4.dd
+8b
+=4
+4cc
+4a
+=5
+4.b
+8d}
+!!LO:LB:g=esac
+=6
+{8g
+8b
+8a
+8g
+=7
+4dd
+4ee
+=8
+4.dd
+8b
+=9
+4cc
+4a
+=10
+4.b
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 168} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

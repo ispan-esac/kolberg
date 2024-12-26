@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK3915400000-z_tamtej_strony_jeziora.krn
+!!!OTL: Z tamtej strony jeziora
+!!!source: DWOK39
+!!!id: 39154
+!!!signature: 3915400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8g
+8a
+8b
+=2
+8cc
+8b
+4dd
+=3
+2cc}
+!!LO:LB:g=esac
+=4
+{8dd
+8ee
+8ff
+8dd
+=
+4ee
+12cc
+12b
+12a
+=5
+2a}
+!!LO:LB:g=esac
+=6
+{4ee
+8cc
+8ee
+=7
+4dd
+4g
+=8
+8cc
+8dd
+8ee
+8cc
+=9
+4a
+4g}
+!!LO:LB:g=esac
+=10
+{8a
+8b
+8cc
+8dd
+=
+4ee
+12cc
+12b
+12a
+=11
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=246 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 194} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 194}
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

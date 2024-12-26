@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK8304600001-oj_zahrano_zabubneno.krn
+!!!OTL: Oj, zahrano, zabubneno
+!!!source: DWOK83
+!!!id: 83046
+!!!signature: 8304600001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+4ff
+=2
+8ff
+4ee
+=3
+8ff
+4ee
+=4
+16dd
+16b
+4cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8ff
+=6
+8ee
+8dd
+8b
+=7
+4cc
+16b
+16g}
+!!LO:LB:g=esac
+=8
+{8ee
+4ff
+=9
+8ff
+4ee
+=
+8ff
+8ee
+24ee
+24dd
+24cc
+=10
+16dd
+16b
+4cc}
+!!LO:LB:g=esac
+=11
+{8ee
+8ee
+8ff
+=12
+16ee
+16cc
+8dd
+8b
+=13
+4cc
+16b
+16g}
+!!LO:LB:g=esac
+=14
+{8cc
+8dd
+8ee
+=15
+8dd
+4cc
+=16
+8ff
+16ff
+16ee}
+8r
+!!LO:LB:g=esac
+=17
+{8cc
+8ee
+8dd
+=18
+8ee
+4dd
+=19
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=162 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 59} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 59}
+!!!page: 59
+!!!ONB: Converted on 2024/12/26 with esac2hum

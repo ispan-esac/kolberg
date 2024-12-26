@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK02-K0284-ojze_ino_stary_siwy.krn
+!!!OTL: Ojze ino stary siwy
+!!!source: DWOK02
+!!!id: K0284
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8.ff
+16ee
+16cc
+16ee-
+=2
+16dd
+16b-
+8g
+8f
+=3
+16a
+16cc
+8ee-
+8ee-
+=4
+16dd
+16b-
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8ee
+8ff
+=6
+16dd
+16b-
+8dd
+8ff
+=7
+16ff
+16ee
+8.cc
+16ee-
+=8
+16dd
+16b-
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 217} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 217}
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

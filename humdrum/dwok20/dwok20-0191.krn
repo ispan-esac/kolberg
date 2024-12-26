@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2019100000-przede_wroty_kamien_zloty.krn
+!!!OTL: Przede wroty kamien złoty
+!!!source: DWOK20
+!!!id: 20191
+!!!signature: 2019100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8aa
+8gg
+8ff
+8ee
+8ff
+=2
+2gg
+8aa
+8ff#
+=3
+4.gg
+8ff
+8ee
+8dd
+=4
+2cc
+8b
+16g}
+16r
+!!LO:LB:g=esac
+=5
+{8.dd
+16cc
+8dd
+8b
+8b
+8a
+=6
+8dd
+8cc#
+8dd
+8g
+8b
+8a
+=7
+8g
+8f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 184} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1911800001-o_dajze_o_dajze_koniowi_siemienia.krn
+!!!OTL: O dajze, o dajze koniowi siemienia
+!!!source: DWOK19
+!!!id: 19118
+!!!signature: 1911800001
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8f
+8ee-
+4ee-
+=2
+8ff
+4dd
+16cc
+16b-
+=3
+16f
+16g
+8a
+4a
+=4
+8b-
+4dd
+8ff}
+!!LO:LB:g=esac
+=5
+{8gg
+8ff
+4ee-
+=6
+8b-
+4dd
+8ff
+=7
+16ee-
+16dd
+16ee-
+16cc
+16a
+16f
+16g
+16a
+=8
+16cc
+16b-
+4.dd}
+!!LO:LB:g=esac
+=9
+{8gg
+8ff
+4ee-
+=10
+8b-
+4dd
+8ff
+=11
+16f
+16g
+8a
+4a
+=12
+8cc
+4b-
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 41} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 41}
+!!!page: 41
+!!!ONB: Converted on 2024/12/26 with esac2hum

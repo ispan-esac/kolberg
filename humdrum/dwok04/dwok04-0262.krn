@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK04-K0262-a_przed_laty_przed_wielu.krn
+!!!OTL: A przed laty przed wielu
+!!!source: DWOK04
+!!!id: K0262
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8dd
+8dd
+8dd
+8b-
+=2
+8cc
+8dd
+4ee-
+=3
+8cc
+8a
+8f
+8f
+=4
+8b-
+8dd
+4ff}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8b-
+=6
+8cc
+8dd
+4ee-
+=7
+8cc
+8a
+8f
+8f
+=8
+4b-
+4b-}
+!!LO:LB:g=esac
+=9
+{8dd
+8ff
+8ff
+8dd
+=10
+8ee-
+8gg
+4gg
+=11
+8cc
+8cc
+8cc
+8ee-
+=12
+8gg
+8ff
+4ff}
+!!LO:LB:g=esac
+=13
+{8dd
+8dd
+8dd
+8b-
+=14
+8cc
+8dd
+4ee-
+=15
+8cc
+8a
+8f
+8f
+=16
+4b-
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 130} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 130}
+!!!page: 130
+!!!ONB: Converted on 2024/12/26 with esac2hum

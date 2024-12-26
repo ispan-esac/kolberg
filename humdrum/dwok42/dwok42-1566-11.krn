@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK42156600011-oj_juzem_byl_oj_juzem_byl.krn
+!!!OTL: Oj juzem był oj juzem był
+!!!source: DWOK42
+!!!id: 421566
+!!!signature: 42156600011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8cc
+4ee
+4gg
+=2
+4dd
+4b
+8dd
+8cc
+=3
+8a
+8cc
+4ee
+4gg}
+!!LO:LB:g=esac
+=4
+{4dd
+4b
+8g
+8f#
+=5
+8a
+8cc
+4cc
+8a
+8cc
+=6
+8ee
+8dd
+4b
+8dd
+8cc}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+4cc
+8a
+8cc
+=8
+8ee
+8dd
+4b
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 98-99} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 98-99}
+!!!page: 98-99
+!!!ONB: Converted on 2024/12/26 with esac2hum

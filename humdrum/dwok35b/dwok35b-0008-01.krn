@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK35B-35B00800001-tam_pid_hajem_zelenenkim.krn
+!!!OTL: Tam pid hajem zełeneńkim
+!!!source: DWOK35B
+!!!id: 35B008
+!!!signature: 35B00800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/8
+=1
+{8g
+8b
+8a
+8a
+=2
+8a
+8b
+8g
+8g
+=3
+8a
+8b
+8cc
+8a
+=4
+2a}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8a
+8a
+=6
+8b
+8b
+8g
+8b
+=7
+8a
+16a
+16f#
+4e
+=8
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=175 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 133} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 133}
+!!!page: 133
+!!!ONB: Converted on 2024/12/26 with esac2hum

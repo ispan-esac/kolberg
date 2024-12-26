@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3619400000-sywy_holub.krn
+!!!OTL: Sywy hołub
+!!!source: DWOK36
+!!!id: 36194
+!!!signature: 3619400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16cc
+8.cc
+8ee
+16dd
+16cc
+=2
+16dd
+8.g
+8g
+16a
+16b
+=3
+16cc
+8.cc
+8ee
+16dd
+16cc
+=4
+4dd
+4g#}
+!!LO:LB:g=esac
+=5
+{16a
+8.a
+8cc
+16b
+16a
+=6
+16g#
+16b
+8dd
+8.ff
+16ee
+=7
+16ee
+8.ee
+8.ee
+16g#
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

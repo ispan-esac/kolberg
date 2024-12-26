@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK1238300020-instrumentalna-maryniu_co_mi_dasz.krn
+!!!OTL: Instrumentalna-Maryniu co mi dasz
+!!!source: DWOK12
+!!!id: 12383
+!!!signature: 1238300020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+16g
+16a
+8b
+8dd
+=2
+8a
+16a
+16g
+8f#
+8d
+=3
+8g
+16a
+16g
+8f#
+8e
+=4
+16d
+16d
+16e
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 199} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

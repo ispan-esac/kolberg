@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1834800000-niadalabym_synu_moj.krn
+!!!OTL: Śniadałabym synu mój
+!!!source: DWOK18
+!!!id: 18348
+!!!signature: 1834800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4ee
+4ff
+=2
+4.ee
+8ee
+4ee
+=3
+8ff
+8ff
+4.ee
+8ee
+=4
+4dd
+4ff
+4ee}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4dd
+4ff
+=6
+4.ee
+8cc
+4dd
+=7
+8dd
+8dd
+4.cc
+8b
+=8
+4dd
+4a}
+4r
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 189} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

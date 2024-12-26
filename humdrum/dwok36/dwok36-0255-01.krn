@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK3625500001-oj_wse_dolom_j-o_wse_dolynoju.krn
+!!!OTL: Oj wse dołom j-o wse dołynoju
+!!!source: DWOK36
+!!!id: 36255
+!!!signature: 3625500001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4cc
+8dd
+16ff
+16dd
+=2
+4ee
+4dd
+=3
+8ee
+8ee
+8dd
+16cc
+16b
+=4
+4a
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4a
+=6
+4cc
+8dd
+8ff
+=7
+4ee
+8dd
+16cc
+16a}
+!!LO:LB:g=esac
+=8
+{4cc
+8dd
+16ff
+16dd
+=9
+4ee
+4dd
+=10
+8ee
+8ee
+8dd
+16cc
+16b
+=11
+4a
+4a}
+!!LO:LB:g=esac
+=12
+{8cc
+8cc
+8dd
+16ff
+16dd
+=13
+4ee
+8dd
+8dd
+=14
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 150
+!!!ONB: Converted on 2024/12/26 with esac2hum

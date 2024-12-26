@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK3111700010-oj_na_hori_na_wysokij.krn
+!!!OTL: Oj na hori na wysokij
+!!!source: DWOK31
+!!!id: 31117
+!!!signature: 3111700010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8dd
+8cc
+=2
+8b
+8a
+8b
+8cc
+=3
+8b
+8a
+8b
+8cc
+=4
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8cc
+=6
+8b
+8a
+8b
+8cc
+=7
+8b
+8a
+8g
+8b
+=8
+4g
+4g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 20} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 20}
+!!!page: 20
+!!!ONB: Converted on 2024/12/26 with esac2hum

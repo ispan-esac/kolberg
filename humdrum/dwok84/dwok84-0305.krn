@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK8430500000-instrumentalna_-_kozacki.krn
+!!!OTL: Instrumentalna - Kozacki
+!!!source: DWOK84
+!!!id: 84305
+!!!signature: 8430500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+16b
+16a
+16b
+16cc
+=2
+4dd
+16dd
+16cc#
+16b
+16cc#
+=3
+8dd
+4dd
+16gg
+16dd
+=4
+16cc#
+16dd
+16ee
+16dd
+16dd
+16cc
+16b
+16a}
+!!LO:LB:g=esac
+=5
+{8dd
+16ee
+16ff#
+16gg
+16ff#
+16aa
+16ff#
+=6
+16cc
+16dd
+16ee
+16dd
+16dd
+16cc
+16b
+16cc
+=7
+8dd
+16ee
+16ff#
+16gg
+16ff#
+16aa
+16ff#
+=8
+16cc
+16dd
+16ee
+16dd
+16dd
+16cc
+16b
+16a}
+!!LO:LB:g=esac
+=9
+{4g
+16a
+16b
+16cc
+16dd
+=10
+16b
+16g
+16b
+16g
+16d
+16f#
+16a
+16f#
+=11
+8g
+16b
+16g
+16a
+16b
+16cc
+16dd
+=12
+16b
+16g
+16b
+16g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=349 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 279} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 279}
+!!!page: 279
+!!!ONB: Converted on 2024/12/26 with esac2hum

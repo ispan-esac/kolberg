@@ -1,0 +1,39 @@
+!!!!SEGMENT: DWOK4819900020-schodzcie_sie_na_sekret.krn
+!!!OTL: Schodźcie się na sekret
+!!!source: DWOK48
+!!!id: 48199
+!!!signature: 4819900020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+8b
+8a
+8b
+8dd
+=2
+8cc
+8cc
+4cc
+4ee
+=3
+4dd
+8b
+8a
+8b
+8dd
+=4
+8a
+8a
+4cc
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 228} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 228}
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

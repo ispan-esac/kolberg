@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK1318400000-oli_napiekla_owocu.krn
+!!!OTL: Oli napiekła owocu
+!!!source: DWOK13
+!!!id: 13184
+!!!signature: 1318400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8a
+16cc
+16a
+16cc
+16ff
+=2
+8dd
+8dd
+8cc
+=3
+16a
+16cc
+16a
+16g
+16b-
+16dd
+=4
+8cc
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{8a
+16cc
+16a
+16cc
+16ff
+=6
+8dd
+8dd
+8cc
+=7
+16a
+16cc
+16a
+16g
+16b-
+16dd
+=8
+8cc
+8a
+8f}
+!!LO:LB:g=esac
+=9
+{16g
+16b-
+8.cc
+16b-
+=10
+16g
+16b-
+8.cc
+16b-
+=11
+16g
+16b-
+8.cc
+16b-
+=12
+16g
+16b-
+8.cc
+16b-}
+!!LO:LB:g=esac
+=13
+{16a
+16cc
+16a
+16g
+16b-
+16dd
+=14
+16b-
+16cc
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 97} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 97}
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

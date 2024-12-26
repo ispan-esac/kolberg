@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK7784300000-moscie_pany_warszawianki.krn
+!!!OTL: Moście pany Warszawianki
+!!!source: DWOK77
+!!!id: 778430
+!!!signature: 7784300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8g
+8b
+8g
+=2
+8a
+8cc
+8a
+8f#
+=3
+8g
+8b
+8dd
+8b
+=4
+8b
+8a
+4a}
+!!LO:LB:g=esac
+=5
+{8d
+8g
+8b
+8g
+=6
+8a
+8cc
+8a
+8a
+=7
+8g
+8b
+8a
+8f#
+=8
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{4a
+8a
+8b
+=10
+4a
+8a
+8b
+=11
+8a
+8g
+8f#
+8e
+=12
+4a
+8d
+8d}
+!!LO:LB:g=esac
+=13
+{4a
+8a
+8b
+=14
+4a
+8a
+8b
+=15
+8a
+8g
+8f#
+8e
+=16
+4a
+8d
+8d}
+!!LO:LB:g=esac
+=17
+{8d
+8g
+8b
+8g
+=18
+8a
+8cc
+8a
+8f#
+=19
+8g
+8f#
+8a
+8f#
+=20
+4g
+4g}
+==
+*-
+!!!ONB: wariant w takcie szóstym 242-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

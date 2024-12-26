@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK5053000000-oj_rosty_chmelu_ponad_wodoju.krn
+!!!OTL: Oj, rosty, chmelu, ponad wodoju
+!!!source: DWOK50
+!!!id: 50530
+!!!signature: 5053000000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{8cc
+8cc
+4ee
+4cc
+4ee
+=2
+8dd
+8cc
+4b
+4a
+4g#}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+4a
+4b
+4g#
+=4
+2e
+2ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+4b
+4a
+4g#
+=6
+2a
+2a}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+8cc
+8cc
+4ee
+4dd
+=8
+8b
+8b
+8b
+8b
+4cc
+4a}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+4a
+4b
+4g#
+=10
+2e
+2ee}
+!!LO:LB:g=esac
+=11
+{8cc
+8dd
+4cc
+4a
+4g#
+=12
+2a
+2a}
+==
+*-
+!!!ONB: wariant t. 8: 22223b_1-7; wariant t. 11: 3b43b21_-7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=341 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 312} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 312}
+!!!page: 312
+!!!ONB: Converted on 2024/12/26 with esac2hum

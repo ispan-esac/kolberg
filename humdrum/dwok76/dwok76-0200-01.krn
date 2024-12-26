@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK7620000001-moja_kochaneczko_w_ktorej-zes_mi_stronie.krn
+!!!OTL: Moja kochaneczko, w której-żeś mi stronie
+!!!source: DWOK76
+!!!id: 76200
+!!!signature: 7620000001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8b-
+4cc
+=2
+8a
+4ff
+8ee
+=3
+8dd
+8cc
+8b-
+8g
+=4
+8a
+4.cc}
+!!LO:LB:g=esac
+=5
+{8a
+8b-
+4cc
+=6
+8a
+4ff
+8ee
+=7
+8dd
+8cc
+8.b-
+16e
+=8
+8f
+4.f}
+!!LO:LB:g=esac
+=9
+{8a
+4cc
+8cc
+=10
+8dd
+8cc
+8dd
+8cc
+=11
+8ff
+8ee
+8dd
+8cc
+=12
+8dd
+4.cc}
+!!LO:LB:g=esac
+=13
+{8ee
+4ee
+8cc
+=14
+8dd
+8cc
+8b-
+16a
+16g
+=15
+8f
+8dd
+8cc
+16b-
+16a
+=16
+8g
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 104} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 104}
+!!!page: 104
+!!!ONB: Converted on 2024/12/26 with esac2hum

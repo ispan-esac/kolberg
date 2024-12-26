@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK7702600000-a_zebys_ty_chmielu.krn
+!!!OTL: A żebyś ty chmielu
+!!!source: DWOK77
+!!!id: 77026
+!!!signature: 7702600000
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/4
+=1
+{2.ff
+=2
+2.cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8dd
+8ee
+8ff
+8gg
+8ff
+=4
+8cc
+8dd
+8ee
+8ff
+8gg
+8ff
+=5
+8cc
+8dd
+4ee-
+4ee-
+=6
+2.dd}
+!!LO:LB:g=esac
+=7
+{2.ff
+=8
+2.cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8dd
+8ee
+8ff
+8gg
+8ff
+=10
+8cc
+8dd
+8ee
+8ff
+8gg
+8ff
+=11
+8cc
+8dd
+4ee-
+4ee-
+=12
+2.dd}
+!!LO:LB:g=esac
+=13
+{4ff
+4cc
+8dd
+8ee-
+=14
+8ff
+8ff
+4cc
+8dd
+8ee-
+=15
+4ff
+4cc
+8dd
+8ee-
+=16
+8ff
+8ff
+4cc
+8dd
+8ee-}
+!!LO:LB:g=esac
+=17
+{4ff
+4cc
+8dd
+8ee-
+=18
+8ee-
+8dd
+2cc}
+==
+*-
+!!!ONB: Pierwsze dwa takty instrumentalne
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 39-40
+!!!ONB: Converted on 2024/12/26 with esac2hum

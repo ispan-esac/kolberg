@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK35A-35A05900000-w_naszoho_kuma.krn
+!!!OTL: W naszoho kuma
+!!!source: DWOK35A
+!!!id: 35A059
+!!!signature: 35A05900000
+**kern
+*clefG2
+*k[]
+*a:
+*M5/8
+=1
+{8g#
+8a
+8cc
+8b
+8a
+=2
+8g#
+8a
+8cc
+8cc
+8cc
+=3
+4dd
+16cc
+16b
+8a}
+8r
+!!LO:LB:g=esac
+=4
+{8g#
+8a
+8cc
+8b
+8b
+=5
+16cc
+8.cc
+4dd
+16cc
+16r
+=6
+2a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 51} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 51}
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5768800000-oj_siwy_koniu_siwy.krn
+!!!OTL: Oj, siwy koniu, siwy
+!!!source: DWOK57
+!!!id: 57688
+!!!signature: 5768800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+8dd
+=2
+8dd
+8dd
+8b
+8dd
+=3
+8dd
+8dd
+8cc
+8cc
+=4
+8cc
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+4cc
+8cc
+=6
+8cc
+8b
+8cc
+8dd
+=7
+8ee
+8ee
+8dd
+8cc
+=8
+8cc
+8b
+4b}
+==
+*-
+!!!ONB: Wariant t. 5: 1_4__4_; wariant t. 6: 4_434_5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 24
+!!!ONB: Converted on 2024/12/26 with esac2hum

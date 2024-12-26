@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK41110800000-pojechal_jasio.krn
+!!!OTL: Pojechał Jasio
+!!!source: DWOK41
+!!!id: 411108
+!!!signature: 41110800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8gg
+8ee
+8dd
+=2
+8cc
+4ee
+=3
+8gg
+8ee
+8dd
+=4
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=5
+{8g#
+8b
+8dd
+=6
+8a
+8cc
+8ee
+=7
+8b
+8b
+8dd
+=8
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=9
+{8g#
+8b
+8dd
+=10
+8a
+8cc
+8ee
+=11
+8dd
+8b
+8dd
+=12
+16cc
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=560 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 473} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 473}
+!!!page: 473
+!!!ONB: Converted on 2024/12/26 with esac2hum

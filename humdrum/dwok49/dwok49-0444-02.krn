@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4944400002-bojary_idemo_bojary_idemo.krn
+!!!OTL: Bojary idemo, bojary idemo
+!!!source: DWOK49
+!!!id: 49444
+!!!signature: 4944400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+4cc
+=2
+4b
+32a
+32b
+32a
+32g
+=3
+4g
+8g}
+!!LO:LB:g=esac
+=4
+{8b
+4cc
+=5
+8b
+4cc
+=
+8.cc
+16b
+24b
+24a
+24g}
+!!LO:LB:g=esac
+=6
+{8b
+8cc
+8b
+=7
+16a
+16f#
+4g
+=8
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=522 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 432} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 432}
+!!!page: 432
+!!!ONB: Converted on 2024/12/26 with esac2hum

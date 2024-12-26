@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK77110400020-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK77
+!!!id: 771104
+!!!signature: 77110400020
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+16a
+8cc
+16cc
+16b-
+=2
+8dd
+16dd
+16cc
+16ee-
+16dd
+=3
+16f
+16a
+16cc
+16dd
+16cc
+16b-
+=4
+16dd
+16ff
+16cc
+16a
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

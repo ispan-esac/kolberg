@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1011100002-wczoraj_rosol_dzisiaj_rosol.krn
+!!!OTL: Wczoraj rosół, dzisiaj rosół
+!!!source: DWOK10
+!!!id: 10111
+!!!signature: 1011100002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ee
+16dd
+8cc
+8ee
+=2
+16dd
+16ff
+8aa
+16gg
+16ff
+=3
+16ee
+16dd
+8cc
+16ee
+16gg
+=4
+16g
+16b
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16ee
+16dd
+8cc
+8ee
+=6
+16g
+16b
+8cc
+8ee
+=7
+16ee
+16dd
+8cc
+8ee
+=8
+16g
+16b
+8dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 263} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 263}
+!!!page: 263
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2511500000-o_dla_boga_co_takiego_co_pochmurny_dzien.krn
+!!!OTL: O dla Boga co takiego co pochmurny dzień
+!!!source: DWOK25
+!!!id: 25115
+!!!signature: 2511500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8ff
+8dd
+=2
+16ee
+16ee
+8.dd
+16g
+=3
+16a
+16a
+8.cc
+16b
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8ff
+8aa
+=6
+16gg
+16ee
+8.dd
+16b
+=7
+16a
+16a
+8.cc
+32b
+32a
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{16g
+16g
+8cc
+8b
+=10
+16g
+16b
+8.dd
+16b
+=11
+16cc
+16a
+8cc
+8b
+=12
+16g
+16b
+8.dd
+16b}
+!!LO:LB:g=esac
+=13
+{16cc
+16a
+8dd
+8b
+=14
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 47} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

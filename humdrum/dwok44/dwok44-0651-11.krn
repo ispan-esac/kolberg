@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4465100011-kaska_za_piec.krn
+!!!OTL: Kaśka za piec
+!!!source: DWOK44
+!!!id: 44651
+!!!signature: 4465100011
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8g
+4e
+4cc
+=2
+8cc
+8g
+4e
+4g}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+4b
+4dd
+=4
+8cc
+8ee
+4cc
+4gg}
+!!LO:LB:g=esac
+=5
+{8cc
+8g
+4e
+4cc
+=6
+8cc
+8g
+4e
+4cc}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+4b
+4ff
+=8
+8ee
+8gg
+4ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=397 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 339} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 339}
+!!!page: 339
+!!!ONB: Converted on 2024/12/26 with esac2hum

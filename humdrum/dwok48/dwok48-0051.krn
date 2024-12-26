@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4805100000-szla_panienka_po_wode_miala_piekna_urode.krn
+!!!OTL: Szła panienka po wodę, miała piękną urodę
+!!!source: DWOK48
+!!!id: 48051
+!!!signature: 4805100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+8ee
+8ff
+8ff
+=2
+8dd
+8dd
+8ee
+8dd}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+8dd
+8dd
+=4
+16cc
+16b
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8ff
+8ee
+=6
+4dd
+4ee
+=7
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 120} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

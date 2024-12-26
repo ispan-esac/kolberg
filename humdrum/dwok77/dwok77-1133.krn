@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7711330000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK77
+!!!id: 771133
+!!!signature: 7711330000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+8dd
+4ff
+=2
+16aa
+16gg
+4ee
+8gg
+=3
+8gg
+8gg
+4ff
+=4
+16dd
+16b
+4cc
+8ee}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4ff
+=6
+16aa
+16gg
+4ee
+8gg
+=7
+8gg
+8gg
+8ff
+16dd
+16b
+=8
+8cc
+4.cc}
+==
+*-
+!!!ONB: wariant w takcie czwartym +2+1+3__+5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

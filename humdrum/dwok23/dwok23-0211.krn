@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2321100000-usiadla_marysia_na_bialym_kamieniu.krn
+!!!OTL: Usiadła Marysia na białym kamieniu
+!!!source: DWOK23
+!!!id: 23211
+!!!signature: 2321100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8ee
+8ff#
+=2
+16gg
+16ff#
+4ee
+=3
+16dd
+16cc
+8b
+8a
+=4
+16b
+16cc
+4dd}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+8cc
+16a
+16g
+=6
+16b
+16dd
+4ee
+=7
+16dd
+16cc
+8b
+8a
+=8
+8b
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 186} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 186}
+!!!page: 186
+!!!ONB: Converted on 2024/12/26 with esac2hum

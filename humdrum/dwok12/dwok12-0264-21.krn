@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1226400021-siwa_gaska_siwa.krn
+!!!OTL: Siwa gąska siwa
+!!!source: DWOK12
+!!!id: 12264
+!!!signature: 1226400021
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16a
+8a
+16g
+16f#
+=2
+16g
+16b
+4b
+=3
+16b
+16dd
+8cc
+8a
+=4
+16a
+8b
+16g
+16g
+16b}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+4b
+=6
+16f#
+16g
+16e
+16d
+16f#
+16a
+=7
+16f#
+16g
+4b
+=8
+16g
+16e
+8e
+8d}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 140} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 140}
+!!!page: 140
+!!!ONB: Converted on 2024/12/26 with esac2hum

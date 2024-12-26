@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK1245600000-poszla_zona_z_domu.krn
+!!!OTL: Poszła żona z domu
+!!!source: DWOK12
+!!!id: 12456
+!!!signature: 1245600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+8dd
+16ee
+16a
+8r
+=3
+8dd
+16ee
+16a
+8r
+=4
+16dd
+16cc
+8dd
+8ee
+=5
+8a
+16f#
+16d}
+8r
+!!LO:LB:g=esac
+=6
+{16g
+16a
+8b
+16a
+16f#
+=7
+4g
+8e
+=8
+16d
+16d
+8f#
+8g
+=9
+8a
+16cc
+16a}
+8r
+!!LO:LB:g=esac
+=10
+{16g
+16a
+8b
+16a
+16f#
+=11
+4g
+16e
+16c
+=12
+16d
+16d
+8f#
+8g
+=13
+8a
+16f#
+16d}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 236} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 236}
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

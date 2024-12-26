@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4041600000-kiedy_mak_zakscie.krn
+!!!OTL: Kiedy mak zakście
+!!!source: DWOK40
+!!!id: 40416
+!!!signature: 4041600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8d
+8g
+=2
+4b
+8b
+=3
+8a
+8a
+8a
+=4
+4g
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8cc
+=6
+4dd
+8dd
+=7
+8ee
+8ee
+8ee
+=8
+4dd
+8dd}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8dd
+=10
+4cc
+8cc
+=11
+8b
+8b
+8b
+=12
+4a
+8d}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+8a
+=14
+4b
+8b
+=15
+8a
+8a
+8a
+=16
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=478 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 413-414} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, pp. 413-414}
+!!!page: 413-414
+!!!ONB: Converted on 2024/12/26 with esac2hum

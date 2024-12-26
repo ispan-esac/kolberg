@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK57210700000-byl_jeden_mysliwy_caly_dzien_polowal.krn
+!!!OTL: Był jeden myśliwy, cały dzień polował
+!!!source: DWOK57
+!!!id: 572107
+!!!signature: 57210700000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{8g
+8g
+8cc
+8cc
+4cc
+4b
+=2
+8a
+8b
+8cc
+8a
+8a
+8g
+4g}
+!!LO:LB:g=esac
+=3
+{8g
+8g
+8cc
+8cc
+4cc
+4b
+=4
+8a
+8b
+8cc
+8a
+8a
+8g
+4g}
+!!LO:LB:g=esac
+=5
+{4g
+8ee
+8ee
+2cc
+=6
+8ee
+8gg
+8ff
+8ee
+2dd}
+!!LO:LB:g=esac
+=7
+{8g
+8ff
+8ee
+8dd
+4cc
+4ee
+=8
+8g
+8g
+8a
+8b
+4cc}
+4r
+==
+*-
+!!!ONB: Wariant t. 5: +3_+3+3+3_+1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1166
+!!!ONB: Converted on 2024/12/26 with esac2hum

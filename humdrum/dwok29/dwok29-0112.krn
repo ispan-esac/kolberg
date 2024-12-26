@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK2911200000-oj_winku-z_mij_winku.krn
+!!!OTL: Oj winku-ż mij winku
+!!!source: DWOK29
+!!!id: 29112
+!!!signature: 2911200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+{8a
+=1
+4cc
+8b
+=2
+8a
+8f#
+[8g
+=3
+8g]
+8g
+8a}
+!!LO:LB:g=esac
+=4
+{4cc
+8b
+=5
+8a
+8g
+8b
+=6
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=7
+{16a
+16g
+8b
+8a
+=8
+8g
+8g
+8b
+=9
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=10
+{16a
+16g
+8b
+8a
+=11
+8g
+8g
+8b
+=12
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=13
+{8a
+8b
+8a
+=14
+8g
+8g
+8b
+=15
+4cc}
+8r
+!!LO:LB:g=esac
+=16
+{16a
+16g
+8b
+8a
+=17
+8g
+8r
+8b
+=18
+8cc
+8a
+8a}
+!!LO:LB:g=esac
+=19
+{8a
+8cc
+8b
+=20
+8a
+8f#
+[8g
+=21
+8g]
+8g}
+==
+*-
+!!!ONB: ładkanka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 228} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 228}
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

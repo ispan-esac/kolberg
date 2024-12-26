@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK4103700020-instrumentalna-dam_ci_geby_z_checi.krn
+!!!OTL: Instrumentalna-Dam ci gęby z chęci
+!!!source: DWOK41
+!!!id: 41037
+!!!signature: 4103700020
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16cc
+16b
+16a
+16cc
+16ee
+16gg
+=2
+16ff
+16ee
+16dd
+16ee
+16b
+16dd
+=3
+16cc
+16b
+16a
+16cc
+16ee
+16gg
+=4
+16ff
+16ee
+16dd
+16ee
+16b
+16dd}
+!!LO:LB:g=esac
+=5
+{16cc
+16b
+16a
+16cc
+16ee
+16e
+=6
+16g#
+16b
+16dd
+16ee
+16b
+16dd
+=7
+16cc
+16b
+16a
+16cc
+16ee
+16e
+=8
+16g#
+16b
+16dd
+16cc
+16b
+16a}
+==
+*-
+!!!ONB: Część instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 45} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 45}
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

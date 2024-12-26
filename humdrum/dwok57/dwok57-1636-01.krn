@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK57163600001-u_marysi_chata_na_pomosti.krn
+!!!OTL: U Marysi chata na pomosti
+!!!source: DWOK57
+!!!id: 571636
+!!!signature: 57163600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4cc
+4cc
+=2
+8ee
+8gg
+4dd
+4b
+=3
+4a
+2g}
+!!LO:LB:g=esac
+=4
+{4.dd
+16ee
+16dd
+16cc
+16a
+8g
+=5
+8b
+8dd
+4a
+8b
+8f#
+=6
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 708
+!!!ONB: Converted on 2024/12/26 with esac2hum

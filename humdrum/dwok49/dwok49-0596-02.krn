@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK4959600002-ni_ma_jegomosci_doma.krn
+!!!OTL: Ni ma jegomości doma
+!!!source: DWOK49
+!!!id: 49596
+!!!signature: 4959600002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16dd
+8dd
+8dd
+=2
+16ff
+16ee
+8ee
+16dd
+16b
+=3
+8.cc
+16g
+8g}
+!!LO:LB:g=esac
+=4
+{16b
+16cc
+8dd
+8ee
+=5
+8ff
+4ff
+=
+8ff
+16ff
+16ee
+24ee
+24dd
+24cc}
+!!LO:LB:g=esac
+=
+{16ee
+16dd
+8dd
+24dd
+24b
+24g
+=
+8.ff
+16ee
+24ee
+24dd
+24cc}
+!!LO:LB:g=esac
+=6
+{16ee
+16dd
+8dd
+16ee
+16b
+=7
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=591 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 501} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 501}
+!!!page: 501
+!!!ONB: Converted on 2024/12/26 with esac2hum

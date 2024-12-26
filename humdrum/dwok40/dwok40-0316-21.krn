@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4031600021-a_w_lesie_w_leszczynie.krn
+!!!OTL: A w lesie w leszczynie
+!!!source: DWOK40
+!!!id: 40316
+!!!signature: 4031600021
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8g
+8g
+8g
+8cc
+8cc
+=2
+8dd
+8cc
+8b
+8a
+8a
+8g}
+!!LO:LB:g=esac
+=3
+{8g
+8g
+8g
+8g
+8cc
+8ee
+=4
+8dd
+8cc
+8b
+8dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8g
+8g
+8cc
+8cc
+=6
+8dd
+8cc
+8b
+8a
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{8g
+8g
+8g
+8g
+8cc
+8ee
+=8
+8dd
+8cc
+8b
+8dd
+8ff
+8ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=386 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 323-324} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, pp. 323-324}
+!!!page: 323-324
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK57145400001-chodyt_zomnir_chodyt_zomnir.krn
+!!!OTL: Chodyt żomnir, chodyt żomnir
+!!!source: DWOK57
+!!!id: 571454
+!!!signature: 57145400001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+4ee
+=2
+8cc
+4a
+=3
+8cc
+4ee
+=4
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8a
+=6
+8cc
+4cc
+=7
+4.gg}
+!!LO:LB:g=esac
+=8
+{8cc
+4ee
+=9
+8cc
+4a
+=10
+8cc
+4ee
+=11
+8cc
+4a}
+!!LO:LB:g=esac
+=12
+{8a
+8cc
+8b
+=13
+8ee
+4ee
+=14
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 508
+!!!ONB: Converted on 2024/12/26 with esac2hum

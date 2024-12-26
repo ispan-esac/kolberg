@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK1109800000-jaworowi_ludzie_czego_tam_stojicie.krn
+!!!OTL: Jaworowi ludzie, czego tam stojicie
+!!!source: DWOK11
+!!!id: 11098
+!!!signature: 1109800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8b
+8a
+=2
+8cc
+4ee
+8r
+=3
+8dd
+8ee
+8dd
+8b
+=4
+8g
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{4.ee
+8g
+=6
+8b
+8dd
+8cc
+8b
+=7
+8a
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 209} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 209}
+!!!page: 209
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK7610500000-da_nie_chodz_wedle_wody.krn
+!!!OTL: Da, nie chodź wedle wody
+!!!source: DWOK76
+!!!id: 76105
+!!!signature: 7610500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+8dd
+=2
+8dd
+8dd
+8b
+8dd
+=3
+8dd
+4cc
+8a
+=4
+8a
+8g
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc
+8a
+=6
+8f#
+4.d
+=7
+8g
+8a
+8b
+8cc
+=8
+8dd
+4dd
+8b}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8cc
+8a
+=10
+8f#
+4.d
+=11
+8f#
+8f#
+8.f#
+16f#
+=12
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 60} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

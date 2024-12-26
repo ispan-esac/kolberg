@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK2420200002-dziewcyno_moja_niescyrosc_twoja.krn
+!!!OTL: Dziewcyno moja niescyrość twoja
+!!!source: DWOK24
+!!!id: 24202
+!!!signature: 2420200002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8a
+8cc
+=2
+16b
+16a
+4g#
+=3
+8a
+8a
+8cc
+=4
+16b
+16a
+4g#}
+!!LO:LB:g=esac
+=5
+{8e
+8a
+8b
+=6
+8cc
+4a
+=7
+[4.b}
+=8
+4b]
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8ee
+=10
+16dd
+16cc
+4b
+=11
+16cc
+16b
+8a
+16b
+16a
+=12
+8g#
+4e}
+!!LO:LB:g=esac
+=13
+{8e
+8g#
+8a
+=14
+8b
+4g#
+=15
+[4.a}
+=16
+4a]
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=319 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 295} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 295}
+!!!page: 295
+!!!ONB: Converted on 2024/12/26 with esac2hum

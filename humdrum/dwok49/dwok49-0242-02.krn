@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4924200002-ja_u_naszojji_pani.krn
+!!!OTL: Ja u naszojji pani
+!!!source: DWOK49
+!!!id: 49242
+!!!signature: 4924200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+4ee
+8cc
+=3
+8b
+4dd}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8dd
+=5
+4ee
+8cc
+=6
+8b
+4dd}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8cc
+=8
+4b
+8a
+=9
+8dd
+4cc}
+!!LO:LB:g=esac
+=10
+{8b
+8dd
+8cc
+=11
+4b
+16a
+16g
+=12
+16a
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=370 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 288} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 288}
+!!!page: 288
+!!!ONB: Converted on 2024/12/26 with esac2hum

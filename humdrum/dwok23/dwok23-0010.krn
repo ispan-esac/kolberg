@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK2301000000-powiedzcie_pasterze_mili.krn
+!!!OTL: Powiedzcie pasterze mili
+!!!source: DWOK23
+!!!id: 23010
+!!!signature: 2301000000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+8cc
+8cc
+4cc
+8b
+8a
+=2
+4b
+4a
+2g
+=3
+4cc
+8cc
+8cc
+4cc
+8b
+8a
+=4
+4b
+4a
+2g}
+!!LO:LB:g=esac
+=5
+{4g
+4a
+4g
+4f
+=6
+4e
+4f
+2g
+=7
+4g
+4a
+4g
+4f
+=8
+4e
+4f
+2g}
+!!LO:LB:g=esac
+=9
+{8e
+8f
+8g
+8a
+8g
+8a
+8g
+8f
+=10
+8e
+8f
+8g
+8a
+8g
+8a
+8g
+8f}
+!!LO:LB:g=esac
+=11
+{8g
+8g
+4cc
+8b
+8cc
+4dd
+=12
+4ee
+4dd
+2cc
+=13
+8g
+8g
+4cc
+8b
+8cc
+4dd
+=14
+4ee
+4dd
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 58} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

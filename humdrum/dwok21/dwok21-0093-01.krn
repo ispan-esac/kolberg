@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2109300001-pamietajze_hultaju_cos_mi_obiecowal.krn
+!!!OTL: Pamiętajze hultaju coś mi obiecował
+!!!source: DWOK21
+!!!id: 21093
+!!!signature: 2109300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+8.dd
+16gg
+=2
+16ee
+16b
+4cc
+=3
+16a
+16a
+8a
+16b
+16cc
+=4
+16dd
+16f#
+4g}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+4dd
+=6
+16ee
+16b
+4cc
+=7
+16cc
+16a
+8a
+16b
+16cc
+=8
+8dd
+4g}
+!!LO:LB:g=esac
+=9
+4.r
+=10
+{4dd
+8f#
+=11
+16g
+16b
+8a
+8d
+=12
+16g
+16b
+16a
+16cc
+16b
+16a
+=13
+16g
+16b
+8a
+8d
+=14
+8g}
+4r
+==
+*-
+!!!ONB: U Kolberga w 1 takcie brakuje kropki przy ósemce. Nad nutami w 6 takcie adnotacja Presto
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 46} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

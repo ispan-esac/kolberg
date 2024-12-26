@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2542400000-a_pedz_woly_marysienku.krn
+!!!OTL: A pędź woły Marysieńku
+!!!source: DWOK25
+!!!id: 25424
+!!!signature: 2542400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8b
+8a
+=2
+16cc
+16b
+8f#
+8g
+=3
+16cc
+16ee
+4dd}
+!!LO:LB:g=esac
+=4
+{16cc
+16b
+8g
+8b
+=5
+16dd
+16cc
+8a
+8f#
+=6
+16g
+16e
+4d}
+!!LO:LB:g=esac
+=7
+{16f#
+16g
+8b
+8a
+=8
+16cc
+16b
+8f#
+8g
+=9
+16cc
+16ee
+4dd}
+!!LO:LB:g=esac
+=10
+{16cc
+16b
+8g
+8b
+=11
+16dd
+16b
+8cc
+8b
+=12
+16g
+16e
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 181} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 181}
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

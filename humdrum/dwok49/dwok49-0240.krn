@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4924000000-ne_ma_pana_w_doma.krn
+!!!OTL: Ne ma pana w doma
+!!!source: DWOK49
+!!!id: 49240
+!!!signature: 4924000000
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/8
+=1
+{16B-
+16B-
+8e-
+8f
+=2
+8a-
+8.g
+16f
+=3
+16a-
+16a-
+8g
+8f
+=4
+4.e-}
+!!LO:LB:g=esac
+=5
+{16B-
+16B-
+8e-
+8f
+=6
+8a-
+8.g
+16f
+=7
+16a-
+16a-
+8g
+8f
+=8
+4.e-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=368 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 286} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 286}
+!!!page: 286
+!!!ONB: Converted on 2024/12/26 with esac2hum

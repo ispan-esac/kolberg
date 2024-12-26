@@ -1,0 +1,112 @@
+!!!!SEGMENT: DWOK3631900000-sialem_proso_na_zagonie.krn
+!!!OTL: Siałem proso na zagonie
+!!!source: DWOK36
+!!!id: 36319
+!!!signature: 3631900000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8dd
+8cc#
+4dd
+4d
+=2
+8g
+8f#
+4g
+4b-
+=3
+8dd
+8cc
+4dd
+4d
+=4
+4g
+2g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+4gg
+8ff#
+8ee
+=6
+8ee
+8b
+4cc
+4a
+=7
+8f#
+8cc
+4.b
+8d#
+=8
+4e
+2e}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+4gg
+8ff#
+8ee
+=10
+8ee
+8b
+4cc
+4a
+=11
+8f#
+8cc
+4.b
+8d#
+=12
+4e
+2e}
+!!LO:LB:g=esac
+=13
+{4g
+4.b
+8g
+=14
+4ee
+2dd
+=15
+4g
+4.b
+8g
+=16
+4ee
+2dd}
+!!LO:LB:g=esac
+=17
+{8b
+8b
+4gg
+8ff#
+8ee
+=18
+8ee
+8b
+4cc
+4a
+=19
+8f#
+8cc
+4b
+4d#
+=20
+4e
+8e}
+8r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 197
+!!!ONB: Converted on 2024/12/26 with esac2hum

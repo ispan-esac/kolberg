@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK3653900001-stojit_bereza_j-a_blysko_luha.krn
+!!!OTL: Stojit' bereza j-a błyśko łuha
+!!!source: DWOK36
+!!!id: 36539
+!!!signature: 3653900001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8cc
+8dd
+=2
+8cc
+4a
+=3
+16cc
+16dd
+4ee}
+!!LO:LB:g=esac
+=4
+{16ff
+16dd
+8ee
+8cc
+=5
+8ee
+8dd
+8cc
+=6
+8dd
+4a}
+!!LO:LB:g=esac
+=7
+{8ee
+8dd
+8cc
+=8
+8dd
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 354
+!!!ONB: Converted on 2024/12/26 with esac2hum

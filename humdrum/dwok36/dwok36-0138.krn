@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3613800000-w_czystom_polu_sadoczok.krn
+!!!OTL: W czystom polu sadoczok
+!!!source: DWOK36
+!!!id: 36138
+!!!signature: 3613800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M5/4
+=1
+{8ee
+8dd
+8cc
+8b
+4a
+2g
+=2
+4b
+8cc
+8ee
+2dd
+4b
+=3
+4cc
+8b
+8a
+2.g}
+!!LO:LB:g=esac
+=4
+{8ee
+8dd
+8cc
+8b
+4a
+2g
+=5
+4b
+8cc
+8ee
+2dd
+4gg
+=6
+4cc
+8b
+8a
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 76
+!!!ONB: Converted on 2024/12/26 with esac2hum

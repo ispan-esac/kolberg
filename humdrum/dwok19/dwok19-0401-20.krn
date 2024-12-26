@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK1940100020-mazur-instrumentalna.krn
+!!!OTL: Mazur-Instrumentalna
+!!!source: DWOK19
+!!!id: 19401
+!!!signature: 1940100020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16dd
+16cc#
+16dd
+16b
+16g
+=2
+16d
+16f#
+16a
+16b
+16cc
+16a
+=3
+16dd
+16dd
+16cc#
+16dd
+8g
+=4
+8cc
+16a
+16f#
+8g}
+==
+*-
+!!!ONB: Wariant w takcie trzecim zapisu nutowego 554#531
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 122} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 122}
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

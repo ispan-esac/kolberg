@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK3658000000-preczystaja_diwo_maty.krn
+!!!OTL: Preczystaja Diwo Maty
+!!!source: DWOK36
+!!!id: 36580
+!!!signature: 3658000000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+{12f
+12g
+12a
+4b-
+4b-
+4dd
+=1
+8cc
+8b-
+4cc
+4cc
+4cc
+=2
+4dd
+4ee-
+4ff
+8ee-
+8dd
+=3
+2cc}
+2r
+!!LO:LB:g=esac
+=
+{12f
+12g
+12a
+4b-
+8b-
+8cc
+4dd
+=4
+8cc
+8b-
+4cc
+4cc
+4cc
+=5
+4dd
+4ee-
+4ff
+8ee-
+8dd
+=6
+2cc}
+2r
+!!LO:LB:g=esac
+=7
+{4ff
+4ff
+4ff
+8gg
+8ff
+=8
+4ee-
+4ee-
+4ee-
+8dd
+8cc
+=9
+4b-
+4dd
+4dd
+8ff
+8dd
+=10
+8cc
+8b-
+8cc
+8dd
+4cc
+4cc}
+!!LO:LB:g=esac
+=11
+{8b-
+8cc
+8dd
+8ee-
+4ff
+8cc
+8ee-
+=12
+2dd}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 387
+!!!ONB: Converted on 2024/12/26 with esac2hum

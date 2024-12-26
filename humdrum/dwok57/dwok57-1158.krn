@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK57115800000-oj_pohnala_diuczynonka.krn
+!!!OTL: Oj, pohnała diuczynońka
+!!!source: DWOK57
+!!!id: 571158
+!!!signature: 57115800000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4.cc
+8g
+4a
+4b
+=2
+4cc
+8b
+8a
+4g
+4g
+=3
+4f
+4a
+4a
+4a
+=4
+2.g
+4g}
+!!LO:LB:g=esac
+=5
+{4.cc
+8g
+4a
+4b
+=6
+4cc
+8b
+8a
+4g
+4g
+=7
+4f
+4a
+4a
+4a
+=8
+2.g
+4g}
+!!LO:LB:g=esac
+=9
+{8b
+8cc
+4dd
+4dd
+4g
+=10
+4cc
+4ee
+4ee
+4gg
+=11
+4dd
+4dd
+4dd
+4g
+=12
+4cc
+4ee
+8ee
+8dd
+4cc}
+!!LO:LB:g=esac
+=13
+{4dd
+4dd
+4b
+4g
+=14
+4cc
+4ee
+4dd
+4ff
+=15
+4ee
+4cc
+4dd
+4g
+=16
+2cc
+2cc}
+==
+*-
+!!!ONB: Wariant t. 3 i 7: 4_6_67+1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 281
+!!!ONB: Converted on 2024/12/26 with esac2hum

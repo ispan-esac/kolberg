@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK1642800000-rozlecieli_sie_ptaszki_po_stodole.krn
+!!!OTL: Rozlecieli się ptaszki po stodole
+!!!source: DWOK16
+!!!id: 16428
+!!!signature: 1642800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+4ee
+=2
+8ee
+4dd#
+16cc
+16b
+=3
+8a
+8cc
+4ee
+=4
+8ee
+4dd#
+16cc
+16b}
+!!LO:LB:g=esac
+=5
+{8dd
+16cc
+16b
+4a
+=6
+8e
+4g#
+8g#
+=7
+8a
+8cc
+4a
+=8
+8e
+4e
+8e}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+4ee
+=10
+8ee
+4dd#
+8ee
+=11
+8a
+8cc
+4ee
+=12
+8ee
+4dd#
+16cc
+16b}
+!!LO:LB:g=esac
+=13
+{8dd
+16cc
+16b
+4a
+=14
+8cc
+4b
+8g#
+=15
+8a
+16b
+16cc
+4a
+=16
+8e
+4g#
+8e}
+==
+*-
+!!!ONB: Krakowiak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 266} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 266}
+!!!ONB: Converted on 2024/12/26 with esac2hum

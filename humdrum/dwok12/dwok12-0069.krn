@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1206900000-pocozescie_przyjechali_kiedy_my_wam_nie_kazali.krn
+!!!OTL: Pocóżeście przyjechali kiedy my wam nie kazali
+!!!source: DWOK12
+!!!id: 12069
+!!!signature: 1206900000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{16b
+16dd#
+8ee
+8ee
+=2
+16ee
+16dd#
+8ee
+8b
+=3
+16cc
+16b
+8a
+8b
+=4
+16e
+16e
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16e
+16f#
+8g
+8g
+=6
+4g
+16b
+16dd
+=7
+16cc
+16cc
+8a
+8b
+=8
+8g
+4e}
+!!LO:LB:g=esac
+=9
+{16e
+16f#
+8g
+8g
+=10
+4g
+16b
+16dd
+=11
+16cc
+16cc
+8a
+8b
+=12
+8g
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 31} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 31}
+!!!page: 31
+!!!ONB: Converted on 2024/12/26 with esac2hum

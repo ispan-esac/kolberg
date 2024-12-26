@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1100800000-stoi_chojniak_na_odlogu.krn
+!!!OTL: Stoi chojniak na odłogu
+!!!source: DWOK11
+!!!id: 11008
+!!!signature: 1100800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+4dd
+4b
+=2
+4.dd
+8cc
+8a
+8g
+=3
+8b
+8cc
+4dd
+4b
+=4
+4.dd
+8cc
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4cc
+4a
+=6
+2.dd
+=7
+8cc
+8dd
+4b
+4a
+=8
+2g}
+4r
+==
+*-
+!!!ONB: (Od Komorowa(Bydgos.) mel. Obacz: Lud, Serya III, str. 235, Nr 14)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 47} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

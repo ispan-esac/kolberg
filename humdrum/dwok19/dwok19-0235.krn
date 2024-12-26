@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK1923500000-oj_pomalussku_smycek.krn
+!!!OTL: Oj pomaluśśku smycek
+!!!source: DWOK19
+!!!id: 19235
+!!!signature: 1923500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8g
+8dd
+=2
+8cc
+8dd
+8a
+=3
+16a
+16g
+8b
+8dd
+=4
+8cc
+8g
+8a
+=5
+16cc
+16ee
+8dd
+8cc
+=6
+16g
+16b
+4a}
+!!LO:LB:g=esac
+=7
+{16d
+16f#
+8g
+8a
+=8
+16cc
+16a
+8g
+8a
+=9
+16d
+16f#
+8g
+8a
+=
+24cc
+24b
+24a
+8g
+8a}
+!!LO:LB:g=esac
+=10
+{16cc
+16ee
+8dd
+8cc
+=11
+8g
+16b
+16g
+8a
+=12
+16cc
+16ee
+8dd
+16cc
+16a
+=13
+16g
+16b
+4a}
+==
+*-
+!!!ONB: Wariant w takcie piątym zapisu nutowego 465_42
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 73} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

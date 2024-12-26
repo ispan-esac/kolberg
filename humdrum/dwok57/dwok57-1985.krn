@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK57198500000-oj_u_nedilu_bardzo_rano.krn
+!!!OTL: Oj, u nedilu, bardzo rano
+!!!source: DWOK57
+!!!id: 571985
+!!!signature: 57198500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8cc
+8a
+=2
+8b
+4g
+=3
+8a
+8cc
+8a
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8a
+=6
+8b
+8g
+8e
+=7
+4.e
+=8
+4.d}
+!!LO:LB:g=esac
+=9
+{8e
+4e
+=10
+8e
+4d
+=11
+8g
+4g
+=12
+8b
+4dd}
+!!LO:LB:g=esac
+=13
+{8ee
+4cc
+=14
+8a
+4b
+=15
+4.g
+=16
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1025
+!!!ONB: Converted on 2024/12/26 with esac2hum

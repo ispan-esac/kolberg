@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK5314200002-roudonasej_radastelis.krn
+!!!OTL: Roudonasej radastelis
+!!!source: DWOK53
+!!!id: 53142
+!!!signature: 5314200002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8a
+8a
+8a
+8ff#
+=2
+4ee
+16ee
+16ff#
+16ee
+16dd
+=3
+8ee
+8cc#
+4a}
+!!LO:LB:g=esac
+=4
+{8ee
+8ee
+8dd
+8dd
+=5
+4cc#
+8a
+8b
+=6
+4a
+4g#}
+!!LO:LB:g=esac
+=7
+{8cc#
+8ee
+8dd
+8ee
+=8
+4cc#
+8a
+16b
+16cc#
+=9
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=309 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 273} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 273}
+!!!page: 273
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2705500000-ach_moj_boze_mocny_boze.krn
+!!!OTL: Ach mój Boze, mocny Boze
+!!!source: DWOK27
+!!!id: 27055
+!!!signature: 2705500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8a
+8dd
+=2
+16cc
+16b
+8a
+8g
+=3
+16f#
+16a
+8g
+8e
+=4
+4.d}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8a
+8dd
+=6
+16cc
+16b
+8a
+8g
+=7
+16f#
+16a
+8g
+8e
+=8
+4.d}
+!!LO:LB:g=esac
+=9
+{16d
+16d
+8g
+8e
+=10
+16f#
+16g
+8a
+8d
+=11
+16g
+16g
+8b
+8a
+=12
+16b
+16cc
+8.dd
+16cc
+=13
+16b
+16g
+8a
+8f#
+=14
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 172} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 172}
+!!!page: 172
+!!!ONB: Converted on 2024/12/26 with esac2hum

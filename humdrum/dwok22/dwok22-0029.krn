@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2202900000-otworz_panie_swoj_dziedziniec.krn
+!!!OTL: Otwórz Panie swoj dziedziniec
+!!!source: DWOK22
+!!!id: 22029
+!!!signature: 2202900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8d
+8d
+8e
+8f#
+8g
+8dd
+8cc
+8b
+=2
+8d
+8d
+8e
+8f#
+8g
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=3
+{8d
+8d
+8e
+16e
+16f#
+2g
+=4
+8d
+8d
+8e
+16e
+16f#
+2g}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+8e
+8d
+8g
+8b
+8a
+8cc
+=6
+8d
+8d
+8e
+8d
+8g
+8b
+8a
+16cc
+16a}
+!!LO:LB:g=esac
+=7
+{8d
+8d
+8e
+8f#
+2g
+=8
+8d
+8d
+8e
+16e
+16d
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=54 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 36} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 36}
+!!!page: 36
+!!!ONB: Converted on 2024/12/26 with esac2hum

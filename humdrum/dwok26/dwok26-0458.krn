@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2645800000-oj_nie_moj_konik.krn
+!!!OTL: Oj nie mój konik
+!!!source: DWOK26
+!!!id: 26458
+!!!signature: 2645800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+16dd
+16cc
+=2
+16.b
+32cc
+8dd
+8g
+=3
+4dd
+16b
+16g
+=4
+16.b
+32cc
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8g
+=6
+16f#
+16a
+8dd
+16a
+16f#
+=7
+8g
+8b
+8g
+=8
+16f#
+16a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 310
+!!!ONB: Converted on 2024/12/26 with esac2hum

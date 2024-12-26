@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK02-K0271-instrumentalna_-_mazur.krn
+!!!OTL: Instrumentalna - Mazur
+!!!source: DWOK02
+!!!id: K0271
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.dd
+32b
+16g
+16f#
+16g
+16b
+=2
+8cc
+4a
+=3
+16a
+16f#
+4d
+=4
+16g
+16b
+4dd}
+!!LO:LB:g=esac
+=5
+{8b
+8g
+8g
+=6
+16f#
+16a
+16cc
+16b
+16cc
+16ee
+=7
+16ee
+16dd
+16cc#
+16dd
+16f#
+16a
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16e
+16f
+8g
+8g
+=10
+16ee
+16b
+4cc
+=11
+8b
+4dd
+=
+24cc
+24b
+24e
+8.f
+16e}
+!!LO:LB:g=esac
+=12
+{16d
+16e
+8f
+8f
+=13
+16dd
+16b
+4dd
+=14
+8b
+8cc
+16b
+16g
+=15
+8cc
+4cc}
+==
+*-
+!!!ONB: druga czesc moze byc takze zakodowana w C
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 271} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 271}
+!!!page: 271
+!!!ONB: Converted on 2024/12/26 with esac2hum

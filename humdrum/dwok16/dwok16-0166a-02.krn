@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK161660002-przepros_marysiu_swoja_matenke.krn
+!!!OTL: Przeproś Marysiu swoją mateńkę
+!!!source: DWOK16
+!!!id: 16166a
+!!!signature: 161660002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8b
+8ee
+=2
+8dd#
+4ee
+=3
+8ff#
+8ee
+8ee
+=4
+8dd#
+4ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8ee
+=6
+16cc
+16b
+4a
+=7
+4.b
+=8
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8b
+8ee
+=10
+8dd#
+4ee
+=11
+8ff#
+8ee
+16dd#
+16ee
+=12
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=13
+{8ee
+8b
+8ee
+=14
+16cc
+16a
+8.b
+16g#
+=15
+4.a
+=16
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 188} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 188}
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK02-K0218b-nasa_panna_panienecka.krn
+!!!OTL: Nasa panna panienecka
+!!!source: DWOK02
+!!!id: K0218b
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8f#
+16f#
+16d
+16f#
+16a
+=2
+8g
+8b
+16b
+16g
+16b
+16cc
+=3
+8dd
+8dd
+16dd
+16ee
+16dd
+16cc
+=4
+16b
+16a
+16b
+16cc
+4dd}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+16f#
+16d
+16f#
+16a
+=6
+8g
+8dd
+8dd
+16b
+16g
+=7
+8f#
+8f#
+8d
+8f#
+=8
+4g
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 187} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2503100000-na_gorze_na_gorze.krn
+!!!OTL: Na górze, na górze
+!!!source: DWOK25
+!!!id: 25031
+!!!signature: 2503100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8f#
+8g
+8a
+8cc
+8b
+=2
+8a
+8f#
+8g
+8a
+8cc
+8b}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+4cc
+4dd
+=4
+8a
+8f#
+8g
+8a
+8cc
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4cc
+4dd
+=6
+8a
+8f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 12-13} @EN{Oskar Kolberg Complete Works 25: Mazovia II, pp. 12-13}
+!!!page: 12-13
+!!!ONB: Converted on 2024/12/26 with esac2hum

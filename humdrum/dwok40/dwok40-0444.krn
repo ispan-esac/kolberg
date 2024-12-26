@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4044400000-chlopek_ci_ja_chlopek.krn
+!!!OTL: Chłopek ci ja, chłopek
+!!!source: DWOK40
+!!!id: 40444
+!!!signature: 4044400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+8cc
+8cc
+=2
+8b
+4dd
+=3
+16cc
+16dd
+8ee
+8ee
+=4
+8dd
+4ff}
+!!LO:LB:g=esac
+=5
+{16ee
+16dd
+8cc
+8b
+=6
+16cc
+16g
+8a
+8g
+=7
+16b
+16dd
+8ff
+8b
+=8
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=498 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 431} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 431}
+!!!page: 431
+!!!ONB: Converted on 2024/12/26 with esac2hum

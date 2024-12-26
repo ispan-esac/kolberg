@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK8408700000-jako_tebe_harno_w_chati_w_zelenom_horodi.krn
+!!!OTL: Jako tebe harno w chati, w zełenom horodi
+!!!source: DWOK84
+!!!id: 84087
+!!!signature: 8408700000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8ee
+8ff
+8ff
+=2
+8ee
+8ee
+8dd
+8b
+=3
+8cc
+8cc
+8ee
+8g#
+=4
+16a
+16b
+16cc
+16dd
+4ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+4ff
+=6
+8ee
+8ee
+4dd
+=7
+8cc
+8cc
+8.ee
+16g#
+=8
+4a
+4a}
+==
+*-
+!!!ONB: Wariant t. 6: 5_5_4_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 101} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 101}
+!!!page: 101
+!!!ONB: Converted on 2024/12/26 with esac2hum

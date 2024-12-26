@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7753600000-ja_maluska_ty_wysoczki.krn
+!!!OTL: Ja maluśka ty wysoczki
+!!!source: DWOK77
+!!!id: 77536
+!!!signature: 7753600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.g
+32b
+8dd
+8a
+=2
+16.cc
+32ee
+8dd
+8b
+=3
+16.g
+32b
+8dd
+8cc
+=4
+16a
+16f#
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16.d
+32f#
+8a
+8a
+=6
+16.g
+32b
+8g
+8g
+=7
+16.d
+32f#
+8a
+8a
+=8
+16g
+16b
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 277
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5041700001-ore_bohacz_ore_w_szerokoje_pole.krn
+!!!OTL: Ore bohacz, ore w szerokoje połe
+!!!source: DWOK50
+!!!id: 50417
+!!!signature: 5041700001
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8e
+4a
+=2
+16a
+16e
+16g#
+16e
+8e}
+!!LO:LB:g=esac
+=3
+{8e
+4a
+=4
+16a
+32b
+32cc#
+8dd
+8cc#}
+!!LO:LB:g=esac
+=5
+{8dd
+4b
+=6
+16a
+16a
+8cc#
+8cc#}
+!!LO:LB:g=esac
+=7
+{8dd
+4b
+=8
+16a
+16a
+8cc#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 246} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 246}
+!!!page: 246
+!!!ONB: Converted on 2024/12/26 with esac2hum

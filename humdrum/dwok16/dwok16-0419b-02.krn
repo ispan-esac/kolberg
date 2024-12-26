@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK1641900002-siwy_kon_zarzal_gosciniec_zadrzal.krn
+!!!OTL: Siwy koń zarzał, gościniec zadrzał
+!!!source: DWOK16
+!!!id: 16419b
+!!!signature: 1641900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8cc
+16b
+16g
+=2
+8a
+4b
+=3
+8cc
+8cc
+16b
+16g
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+=6
+8.cc
+16b
+8a
+=7
+4cc
+16b
+16a
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8d
+8g
+8a
+=10
+16b
+16a
+8cc
+8b
+=11
+16a
+16b
+8cc
+16b
+16g
+=12
+8a
+4g}
+!!LO:LB:g=esac
+=13
+{8b
+8b
+16cc
+16a
+=14
+8a
+8b
+8g
+=15
+4a
+8g
+=16
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 262} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 262}
+!!!ONB: Converted on 2024/12/26 with esac2hum

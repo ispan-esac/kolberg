@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK5024200001-tam_w_polu_werba_a_pod_niu_woda.krn
+!!!OTL: Tam w polu werba, a pod niu woda
+!!!source: DWOK50
+!!!id: 50242
+!!!signature: 5024200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+4.dd
+=3
+16ee
+16dd
+8ee
+8gg
+=4
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{16ee
+16ee
+8cc
+16a
+16f#
+=6
+16g
+16g
+8b
+8b
+=7
+16dd
+16dd
+8cc
+16a
+16f#
+=8
+16g
+16g
+8b
+8b}
+!!LO:LB:g=esac
+=9
+{16dd
+16dd
+8cc
+16a
+16f#
+=10
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 116} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 116}
+!!!page: 116
+!!!ONB: Converted on 2024/12/26 with esac2hum

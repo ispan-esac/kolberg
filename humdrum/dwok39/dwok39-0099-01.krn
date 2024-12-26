@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3909900001-oral_jaszinek_pod_dworem.krn
+!!!OTL: Orał Jaszinek pod dworem
+!!!source: DWOK39
+!!!id: 39099
+!!!signature: 3909900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+{12b
+12a
+12b
+8cc
+8a
+=1
+8b
+8ee
+4dd}
+!!LO:LB:g=esac
+=
+{12b
+12a
+12b
+8dd
+8b
+=2
+8a
+8a
+4g}
+!!LO:LB:g=esac
+=3
+{8a
+8d
+8a
+8d
+=4
+8g
+8ee
+4dd}
+!!LO:LB:g=esac
+=
+{12b
+12a
+12b
+8dd
+8b
+=5
+8a
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 151} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 151}
+!!!page: 151
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK1253800000-instrumentalna-owczarek.krn
+!!!OTL: Instrumentalna-Owczarek
+!!!source: DWOK12
+!!!id: 12538
+!!!signature: 1253800000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16cc
+16ee
+8ff#
+8ee
+=2
+16ff#
+16aa
+8ccc#
+8aa
+=3
+16gg
+16ee
+8ff#
+8dd
+=4
+16b
+16dd
+16ee
+16cc#
+8a}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8ff#
+8dd
+=
+16b
+16dd
+16ee
+16ff#
+24aa
+24gg
+24ee
+=6
+16cc
+16ee
+8ff#
+8dd
+=7
+16b
+16dd
+16ee
+16cc#
+8a}
+!!LO:LB:g=esac
+=8
+{16cc
+16ee
+8ff#
+8dd
+=
+16b
+16dd
+16ee
+16ff#
+24aa
+24gg
+24ee
+=9
+16cc
+16ee
+8ff#
+8dd
+=10
+16b
+16dd
+16ee
+16cc#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 278} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 278}
+!!!page: 278
+!!!ONB: Converted on 2024/12/26 with esac2hum

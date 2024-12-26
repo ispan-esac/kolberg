@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK5061400000-egnam_was_kraino_zyzna.krn
+!!!OTL: Żegnam was, kraino żyzna
+!!!source: DWOK50
+!!!id: 50614
+!!!signature: 5061400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8cc
+8cc
+4a
+4b-
+=2
+8dd
+8cc
+4b
+4cc
+=3
+8ff
+8ee
+4.ff
+8a
+=4
+4dd
+2cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4.bb-
+8gg
+=6
+8aa
+8ee
+4ff
+8ee
+8dd
+=7
+8dd
+8cc
+8b-
+8a
+8b-
+8cc
+=8
+4dd
+2cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+4.bb-
+8gg
+=10
+8aa
+8ee
+4ff
+4a
+=11
+8dd
+8cc
+4.b-
+8e
+=12
+4g
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=396 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 363} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 363}
+!!!page: 363
+!!!ONB: Converted on 2024/12/26 with esac2hum

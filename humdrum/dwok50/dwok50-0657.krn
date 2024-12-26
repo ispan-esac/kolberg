@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK5065700000-slonce_idzie_jakby_spalo.krn
+!!!OTL: Słońce idzie jakby spało
+!!!source: DWOK50
+!!!id: 50657
+!!!signature: 5065700000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8g
+8g
+8g
+8g
+=2
+8b
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=3
+{8e
+8c
+8c
+8c
+=4
+8g
+8g
+8f#
+8e}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+8d
+8d
+=6
+8d
+8d
+8e
+8f#}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8b
+8b
+=8
+8b
+8b
+8a
+8b}
+!!LO:LB:g=esac
+=9
+*M4/4
+{4dd
+4cc
+4d
+8cc
+8a
+=10
+4ee
+4dd
+4b
+8a
+8b}
+!!LO:LB:g=esac
+=11
+{4dd
+4cc
+4d
+8e
+8f#
+=12
+4g
+4g
+4g
+4g}
+!!LO:LB:g=esac
+=13
+{4dd
+4cc
+4d
+8cc
+8a
+=14
+4ee
+4dd
+4b
+8a
+8b}
+!!LO:LB:g=esac
+=15
+{4dd
+4cc
+4d
+8e
+8f#
+=16
+4g
+4g
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=431 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 398} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 398}
+!!!page: 398
+!!!ONB: Converted on 2024/12/26 with esac2hum

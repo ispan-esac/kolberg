@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1715200001-oj_uciekaj_jasienku.krn
+!!!OTL: Oj uciekaj Jasienku
+!!!source: DWOK17
+!!!id: 17152
+!!!signature: 1715200001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4cc
+16dd
+16ff
+=2
+16ee
+16cc
+8dd
+8ff
+=3
+16dd
+16b
+8g
+8b
+=4
+8cc
+8f
+8a}
+!!LO:LB:g=esac
+=5
+{4g
+16g
+16b
+=6
+16cc
+16ee
+8dd
+8b
+=7
+4g
+16g
+16b
+=8
+8cc
+8f
+8a}
+!!LO:LB:g=esac
+=
+{4g
+24g
+24a
+24b
+=9
+16cc
+16ee
+8dd
+16b
+16a
+=
+16g
+16g
+8g
+24g
+24a
+24b
+=10
+8cc
+8f
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 52} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

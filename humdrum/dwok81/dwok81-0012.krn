@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK8101200000-piszou_semen_taj_oraty.krn
+!!!OTL: Piszou Semen taj oraty
+!!!source: DWOK81
+!!!id: 81012
+!!!signature: 8101200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8ee
+=2
+8dd
+4dd
+=3
+8cc
+8ee
+8dd
+=4
+8dd
+4dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+=6
+4dd
+8cc
+=7
+4dd
+8b
+=8
+4.cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8dd
+=10
+8dd
+4dd
+=11
+8b
+8cc
+8cc
+=12
+4.dd}
+!!LO:LB:g=esac
+=13
+{8b
+8cc
+8cc
+=14
+4.cc
+=15
+4.cc
+=16
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 15} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 15}
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2123800000-z_karcmy_ide_pijany_ja.krn
+!!!OTL: Z karcmy idę pijany ja
+!!!source: DWOK21
+!!!id: 21238
+!!!signature: 2123800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16cc
+8dd
+8dd
+=2
+16cc
+16cc
+8b-
+8b-
+=3
+16a
+16g
+8e
+8f}
+!!LO:LB:g=esac
+=
+{24a
+24g
+24a
+8g
+8b-
+=4
+16a
+16g
+8e
+8f}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8b-
+8b-
+=6
+16a
+16g
+8e
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 110} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 110}
+!!!page: 110
+!!!ONB: Converted on 2024/12/26 with esac2hum

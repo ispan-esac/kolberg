@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK4948100001-ej_pozeraj_pani_matko.krn
+!!!OTL: Ej, pozeraj, pani matko
+!!!source: DWOK49
+!!!id: 49481
+!!!signature: 4948100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+8r
+{16a
+16a
+16a
+16cc
+=2
+16b
+16g
+8a
+8f
+=3
+4g
+8g}
+!!LO:LB:g=esac
+=4
+8r
+{16a
+16a
+16a
+16b
+=5
+8cc
+4b
+=6
+8.cc
+16dd
+32cc
+64b
+64g}
+16r
+!!LO:LB:g=esac
+=7
+{8a
+8b
+8a
+=8
+8g
+8f#
+8g
+=9
+4cc
+8b}
+!!LO:LB:g=esac
+=10
+{16dd
+16cc
+8b
+8cc
+=11
+16b
+16g
+4a
+=12
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=538 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 448} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 448}
+!!!page: 448
+!!!ONB: Converted on 2024/12/26 with esac2hum

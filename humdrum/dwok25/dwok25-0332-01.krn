@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK2533200001-krawcyku_krawcyku_piekny_rzemiesniku.krn
+!!!OTL: Krawcyku, krawcyku, piękny rzemieśniku
+!!!source: DWOK25
+!!!id: 25332
+!!!signature: 2533200001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8dd
+8cc
+8dd
+16ee
+16ff#
+=2
+4gg
+4dd
+=3
+8ff
+8ff
+8dd
+8b
+=4
+4cc
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+8a
+=6
+4b
+4dd
+=7
+8dd
+8dd
+8dd
+8b
+=8
+4cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 149} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 149}
+!!!page: 149
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK4416400002-koziolek_becy.krn
+!!!OTL: Koziołek becy
+!!!source: DWOK44
+!!!id: 44164
+!!!signature: 4416400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+8g
+8a
+4b
+4g
+=2
+4dd
+8dd
+8ee
+4dd
+4cc}
+!!LO:LB:g=esac
+=3
+{8dd
+8cc
+8b
+8b
+8b
+8a
+4a
+=4
+8a
+8a
+8b
+8f#
+8g
+8d
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 177} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

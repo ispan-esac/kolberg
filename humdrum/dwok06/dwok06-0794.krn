@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK06-K0794-parobek_z_cholerzyn.krn
+!!!OTL: Parobek z Cholerzyn
+!!!source: DWOK06
+!!!id: K0794
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+4.cc
+=2
+8dd
+8ee
+8ff
+8ee
+=3
+8dd
+4.ff
+=4
+8dd
+8ee
+8ff
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+4.ff
+=6
+8dd
+8cc
+8ee
+8dd
+=7
+8a
+4.cc
+=8
+8b
+8a
+8g#
+8a}
+!!LO:LB:g=esac
+=9
+{8dd
+4.ff
+=10
+8dd
+8cc
+8ee
+8dd
+=11
+8a
+4.cc
+=12
+8b
+8a
+8g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=505 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 479} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 479}
+!!!page: 479
+!!!ONB: Converted on 2024/12/26 with esac2hum

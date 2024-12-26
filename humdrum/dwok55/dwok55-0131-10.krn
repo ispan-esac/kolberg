@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5513100010-bolyt_mene_holowonka.krn
+!!!OTL: Bołyt mene hołowońka
+!!!source: DWOK55
+!!!id: 55131
+!!!signature: 5513100010
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8a
+8dd
+=2
+8g#
+8g#
+8g#
+8b
+=3
+8a
+8a
+8a
+8dd
+=4
+4b
+8a
+8g#}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8dd
+=6
+8cc
+8b
+8a
+8g#
+=7
+8g#
+8g#
+8g#
+8b
+=8
+4a
+4e}
+==
+*-
+!!!ONB: Wariant t. 7: -5-5-5-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 26} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 26}
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

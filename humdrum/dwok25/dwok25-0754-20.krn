@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK2575400020-hulaj_synu_naszej_ziemi-instrumentalna.krn
+!!!OTL: Hulaj synu naszej ziemi-Instrumentalna
+!!!source: DWOK25
+!!!id: 25754
+!!!signature: 2575400020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16.dd
+32dd
+8b-
+16g
+16e
+=2
+16.f
+32f
+16a
+16f
+16a
+16cc
+=3
+16.dd
+32dd
+8b-
+16g
+16e
+=4
+8f
+8f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=293 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 268} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 268}
+!!!page: 268
+!!!ONB: Converted on 2024/12/26 with esac2hum

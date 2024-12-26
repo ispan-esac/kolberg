@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK1337300010-instrumentalna-chodzony_weselny.krn
+!!!OTL: Instrumentalna-Chodzony Weselny
+!!!source: DWOK13
+!!!id: 13373
+!!!signature: 1337300010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{2.g
+=2
+8g
+8a
+4b
+8b
+8dd
+=3
+8b
+8a
+8dd
+8a
+8g
+8f#}
+!!LO:LB:g=esac
+=4
+{2.g
+=
+8g
+8a
+8b
+8cc
+12b
+12cc
+12dd
+=5
+8a
+8g
+8dd
+8a
+8g
+8f#}
+!!LO:LB:g=esac
+=6
+{8g
+8a
+8b
+8cc
+8b
+16g
+16f#
+=
+8d
+8d
+8e
+8f#
+12a
+12g
+12f#
+=7
+8g
+8a
+8b
+8cc
+8b
+16g
+16f#
+=
+8d
+8d
+8e
+8f#
+12a
+12g
+12f#}
+==
+*-
+!!!ONB: U Kolberga jest metrum 3/8, zapisano poprawnie na 3/4, w takcie 5 triolę szesnastkową zapisano jako ósemkową
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 158-159} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 158-159}
+!!!page: 158-159
+!!!ONB: Converted on 2024/12/26 with esac2hum

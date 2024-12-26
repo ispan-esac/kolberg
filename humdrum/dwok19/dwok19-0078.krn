@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK1907800000-jasiu_moj_tu_mi_stoj.krn
+!!!OTL: Jasiu mój, tu mi stój
+!!!source: DWOK19
+!!!id: 19078
+!!!signature: 1907800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+4ff
+=2
+8gg
+4ee
+8dd
+=3
+8ff
+4.cc
+=4
+8ee
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4ff
+=6
+8gg
+4ee
+8dd
+=7
+8ff
+4.cc
+=8
+8ee
+8dd
+8cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 28} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 28}
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum

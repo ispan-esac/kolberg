@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK0902400002-przynosimy_plon_ze_wszech_czterech_stron.krn
+!!!OTL: Przynosimy plon ze wszech czterech stron
+!!!source: DWOK09
+!!!id: 09024
+!!!signature: 0902400002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16g
+8a
+8b-
+=2
+4.cc
+=3
+16dd
+16dd
+8dd
+8dd
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8.b-
+16a
+=6
+16g
+16g
+8g
+8g
+=7
+16a
+16cc
+8.b-
+16a
+=8
+16g
+16g
+8g
+8g}
+!!LO:LB:g=esac
+=9
+{4b-
+16g
+16a
+=10
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 161-162} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, pp. 161-162}
+!!!page: 161-162
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3006600000-oj_ne_pidu_do_diwczyny.krn
+!!!OTL: Oj ne pidu do diwczyny
+!!!source: DWOK30
+!!!id: 30066
+!!!signature: 3006600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ff
+8ff
+8ff
+8ff
+=2
+8ff
+8ff
+8ff
+8ff
+=
+8ee
+8ee
+8ee
+24ee
+24dd
+24cc
+=3
+4cc
+8cc
+8g}
+!!LO:LB:g=esac
+=4
+{8cc
+16cc
+16g
+8cc
+16ee
+16dd
+=5
+8cc
+8cc
+8cc
+8cc
+=6
+8cc
+16cc
+16g
+16cc
+16g
+8cc
+=7
+4cc
+4cc}
+==
+*-
+!!!ONB: Kołomyjka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 55} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 55}
+!!!page: 55
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,37 @@
+!!!!SEGMENT: DWOK2401100020-ide_sobie_w_swoja-instrumentalna.krn
+!!!OTL: Idę sobie w swoją-Instrumentalna
+!!!source: DWOK24
+!!!id: 24011
+!!!signature: 2401100020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.d
+32e
+16f#
+16g
+16a
+16f#
+=2
+4g
+8g
+=3
+16.d
+32e
+16f#
+16g
+16a
+16f#
+=4
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 82} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

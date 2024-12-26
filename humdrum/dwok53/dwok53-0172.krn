@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK5317200000-oj_tu_apineli.krn
+!!!OTL: Oj tu apineli
+!!!source: DWOK53
+!!!id: 53172
+!!!signature: 5317200000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8a
+8cc#
+8ee
+=2
+8ff#
+8ee
+8dd}
+!!LO:LB:g=esac
+=3
+{8cc#
+8ee
+8ee
+=4
+8ff#
+8ee
+8cc#}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc#
+8b
+=6
+4a
+8cc#}
+!!LO:LB:g=esac
+=7
+{8ee
+8ee
+8dd
+=8
+8b
+8cc#
+8ee}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc#
+8b
+=10
+4a
+8cc#}
+!!LO:LB:g=esac
+=11
+{8ee
+8ee
+8dd
+=12
+8b
+8cc#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=338 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 300} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 300}
+!!!page: 300
+!!!ONB: Converted on 2024/12/26 with esac2hum

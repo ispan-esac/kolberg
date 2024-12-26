@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK02-K0186-oj_nie_mas_ci_to_nie_mas.krn
+!!!OTL: Oj nie mas ci to nie mas
+!!!source: DWOK02
+!!!id: K0186
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+16dd
+16ee
+8cc
+8a
+=3
+16cc
+16ee
+8ee
+8ee
+=4
+8dd
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+16dd
+16ee
+=6
+16cc
+16b
+8a
+8a
+=7
+16cc
+16b
+8g
+8f#
+=8
+8f#
+8e}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=162 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 151} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 151}
+!!!page: 151
+!!!ONB: Converted on 2024/12/26 with esac2hum

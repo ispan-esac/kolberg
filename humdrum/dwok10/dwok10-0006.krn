@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK1000600000-my_biegamy_po_dyngusie_i_spiewamy_o_jezusie.krn
+!!!OTL: My biegamy po dyngusie i śpiewamy o Jezusie
+!!!source: DWOK10
+!!!id: 10006
+!!!signature: 1000600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+8.dd
+16ee
+=2
+16cc
+16a
+8b
+8g
+=3
+16f#
+16g
+8.a
+16b
+=4
+16g
+16e
+8f#
+8d}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8.a
+16b
+=6
+16cc
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=7
+{16b
+16cc
+8.dd
+16ee
+=8
+16cc
+16a
+8b
+8g
+=9
+16f#
+16g
+8.a
+16b
+=10
+16g
+16e
+8f#
+8d}
+!!LO:LB:g=esac
+=11
+{16f#
+16g
+8.a
+16b
+=12
+16cc
+16a
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 68} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 68}
+!!!page: 68
+!!!ONB: Converted on 2024/12/26 with esac2hum

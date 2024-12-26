@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK57107000002-w_ciemnym_lasku_slowik_spiwa.krn
+!!!OTL: W ciemnym lasku słowik śpiwa
+!!!source: DWOK57
+!!!id: 571070
+!!!signature: 57107000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{4b
+8dd
+8b
+8a
+8g
+=2
+4cc
+8ee
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=3
+{4f#
+8a
+8a
+8f#
+8d
+=4
+4g
+8b
+4b
+8dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8ff#
+4gg
+8b
+=6
+4cc
+8ee
+4ee
+8dd}
+!!LO:LB:g=esac
+=7
+{4a
+8ee
+4dd
+8f#
+=8
+8f#
+8e
+8f#
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 237
+!!!ONB: Converted on 2024/12/26 with esac2hum

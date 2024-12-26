@@ -1,0 +1,114 @@
+!!!!SEGMENT: DWOK2101700002-od_sieradza_chmura_idzie.krn
+!!!OTL: Od Sieradza chmura idzie
+!!!source: DWOK21
+!!!id: 21017
+!!!signature: 2101700002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+8ee
+=2
+16ff
+16ee
+8g
+8g
+=3
+8a
+8f#
+8g}
+!!LO:LB:g=esac
+=4
+{16cc
+16dd
+8ee
+8ee
+=5
+16ff
+16ee
+8g
+8g
+=6
+8a
+8f#
+8g}
+!!LO:LB:g=esac
+=7
+{16cc
+16dd
+8ee
+8ee
+=8
+16ff
+16ee
+8dd
+16ee
+16ff
+=9
+8gg
+8ff
+16dd
+16b}
+!!LO:LB:g=esac
+=10
+{16cc
+16dd
+8ee
+16ee
+16gg
+=11
+16ff
+16ee
+8g
+8g
+=12
+8a
+8f#
+8g}
+!!LO:LB:g=esac
+=13
+{16cc
+16dd
+8ee
+8ee
+=14
+16ff
+16ee
+8dd
+16ee
+16ff
+=
+24gg
+24aa
+24gg
+8ff
+8dd}
+!!LO:LB:g=esac
+=15
+{16cc
+16dd
+8ee
+16ee
+16gg
+=16
+16ff
+16ee
+8g
+8g
+=17
+8a
+8f#
+8g}
+==
+*-
+!!!ONB: Zakodowane dwie zwrotki bez powtórzenia taktow 3 i 9
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 8} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 8}
+!!!page: 8
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2117200000-a_gdzie_to_ten_kusy_jan.krn
+!!!OTL: A gdzie to ten kusy Jan
+!!!source: DWOK21
+!!!id: 21172
+!!!signature: 2117200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8b
+8dd#
+8ee
+16cc
+16b
+=2
+8a
+8b
+8dd
+8cc
+=3
+8b
+8dd#
+8ee
+16cc
+16b
+=4
+8a
+16g
+16f#
+4e}
+!!LO:LB:g=esac
+=5
+{8g
+8f#
+8a
+8cc
+=6
+4a
+8b
+8e
+=7
+8g
+8f#
+8a
+8cc
+=8
+8a
+16g
+16f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 82} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

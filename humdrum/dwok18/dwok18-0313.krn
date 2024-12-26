@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK1831300000-a_z_pola_do_wsi_wiatr_wieje.krn
+!!!OTL: A z pola do wsi wiatr wieje
+!!!source: DWOK18
+!!!id: 18313
+!!!signature: 1831300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8dd
+8ee
+8cc
+=2
+4b
+8g
+=3
+16b
+16dd
+4cc}
+!!LO:LB:g=esac
+=4
+{8dd
+8ee
+8cc
+=5
+4b
+8g
+=6
+16b
+16dd
+4cc}
+!!LO:LB:g=esac
+=7
+{8dd
+8ee
+8ff
+=8
+4ee
+8cc
+=9
+16b
+16dd
+4cc}
+!!LO:LB:g=esac
+=10
+{8dd
+8ee
+8ff
+=11
+4ee
+8cc
+=12
+16ee
+16aa
+4gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 173} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

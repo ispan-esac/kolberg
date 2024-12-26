@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK57163800002-ne_chody_hryciu.krn
+!!!OTL: Ne chody, Hryciu
+!!!source: DWOK57
+!!!id: 571638
+!!!signature: 57163800002
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4cc
+8.ee
+16cc
+4.gg
+16ff
+16ee
+=2
+8dd
+8dd
+8.gg
+16ff
+2ee}
+!!LO:LB:g=esac
+=
+{4a
+12cc
+12b
+12a
+4.ee
+16cc
+16a
+=3
+4a
+8.ee
+16g#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 710
+!!!ONB: Converted on 2024/12/26 with esac2hum

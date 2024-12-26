@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2904200000-oj_na_ricy_na_ardane.krn
+!!!OTL: Oj na ricy na Ardane
+!!!source: DWOK29
+!!!id: 29042
+!!!signature: 2904200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8b
+4a
+4dd
+=2
+8cc
+16b
+16a
+4g
+4b}
+!!LO:LB:g=esac
+=3
+{8cc
+8b
+4a
+4dd
+=4
+8cc
+16b
+16a
+4.g
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+4a
+4dd
+=6
+8cc
+16b
+16a
+4g
+4b}
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+4a
+4dd
+=8
+8cc
+16b
+16a
+4.g
+8g}
+==
+*-
+!!!ONB: Szczodriwka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 136} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 136}
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

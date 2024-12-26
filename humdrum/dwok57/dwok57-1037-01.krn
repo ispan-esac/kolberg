@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK57103700001-oj_szumila_dubrowoczka.krn
+!!!OTL: Oj, szumiła dubr'owoczka
+!!!source: DWOK57
+!!!id: 571037
+!!!signature: 57103700001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8dd
+4dd
+=2
+8ee
+4ee
+=3
+8ee
+4dd
+=4
+8cc
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8dd
+4dd
+=6
+8ee
+4ee
+=7
+8dd
+8.cc
+16a
+=8
+4a}
+8r
+!!LO:LB:g=esac
+=9
+{8dd
+4dd
+=10
+8ee
+4ee
+=11
+8dd
+4dd
+=12
+8a
+4dd}
+!!LO:LB:g=esac
+=13
+{8ee
+4dd
+=14
+8cc
+4a
+=15
+4.a
+=16
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

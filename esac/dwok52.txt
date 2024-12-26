@@ -1,0 +1,1529 @@
+DWOK52
+CUT[A za pastuszkami Kalada biażyć]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.94 Witebskie, Mohylewskie]
+FKT[]
+SIG[5202000000]
+KEY[52020   04  C 4/4]
+MEL[1234  5_5_  64+14  500_
+    4444  3333  2222  1_5_
+    4464  3353  2242  100_ //]
+BEM[]
+
+DWOK52
+CUT[Kaładu]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.95 Pyłda]
+FKT[]
+SIG[5202100000]
+KEY[52021   04  C 4/4]
+MEL[+2+2+1_  +2+2+1_  +3+3+2+1  +2+3+2+1
+    +2+2+1_  +2+2+1_  +3+4+3+2  +4+3+2+3
+    +2+2+1_  +2+2+1_  +3+3+2+1  +2+3+2+1
+    +2+2+1_  +2+2+1_  +3+4+3+2  +4+3+2+3 //]
+BEM[]
+
+DWOK52
+CUT[Stojała panna pod laszkom]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.116 od Pińska(znana i pod Słuckiem)]
+FKT[]
+SIG[5206100000]
+KEY[52061   16  C 3/4]
+MEL[5__+1__+2__  +3__.+2_+3__  +3__+2__+1__  +1___.
+    +3_+3+2+1__+2__  +3__.+2_+3__  +3__+2__+1__  +1___. //]
+BEM[]
+
+DWOK52
+CUT[Rusałeczka, Ziemlanaczki]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.117]
+FKT[]
+SIG[5206200000]
+KEY[52062   08  D 2/4]
+MEL[13b21  13b21
+    13b21  13b21
+    13b21  13b21
+    3b__  1__ //]
+BEM[Rusałki]
+
+DWOK52
+CUT[Kupała na Iwana]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.128]
+FKT[]
+SIG[5208000000]
+KEY[52080   08  D 2/4]
+MEL[3b_4_  5__  655_  4__
+    5_5_  543b_  544_  5_5_
+    4_53b  2__  43b2_  1__ //]
+BEM[Sobótki, Kupała]
+
+DWOK52
+CUT[Oj, ty diwczyno]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.135 od Kowla]
+FKT[]
+SIG[5209400000]
+KEY[52094   16  A 3/4]
+MEL[5_5_6_4_2_-7_  1_3_2_4_3_5_
+    5_5_6_4_2_-7_  1_3_-7_-7_1__
+    -5_-5_-7_2_4__  3_3_2_2_3__
+    -5_-5_-7_2_4__  3_5_2_2_5__
+    5_4_4_423__  2_2_1-7-6-71__ //]
+BEM[Pieśń dożynkowa, Taneć. Polonez przy dożynkach]
+
+DWOK52
+CUT[Pażali żyta]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.136 od Wilna (Kunkułka na Trakcie Lidzkim)]
+FKT[]
+SIG[5209500000]
+KEY[52095   04  G 4/4 3/2]
+MEL[3355  4_.2  3342  12_.
+    3355  4_.2  3342  12_.
+    3_5_  4212  2_
+    3_5_  4210  3_5_42  12_.2_
+    3_5_42  100_0_ //]
+BEM[]
+
+DWOK52
+CUT[Instrumentalne]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.136 od Mińska(Lucynka)]
+FKT[]
+SIG[5209600000]
+KEY[52096   08  A 3/8]
+MEL[-5  1-51  3b_1  23b2  1_-5
+    3b_1  2_1  -72_  -5_1 //]
+BEM[Dożynkowa]
+
+DWOK52
+CUT[Poduszoczki]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.153]
+FKT[]
+SIG[5213700010]
+KEY[52137   16  G 2/4]
+MEL[5_.43_3_  4_.32_2_  1_2_3_4_  5__+1_0_
+    5_.43_3_  4_.32_2_  1_3_1_-7_  1__1_0_ //]
+BEM[Pierwsza część melodii,wokalna]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.153]
+FKT[]
+SIG[5213700020]
+KEY[52137   16  G 2/4]
+MEL[2_2_2__  3_3_3__  4_3_4_6_  5__+1_0_
+    2_2_2__  3_3_3__  4_2_1_-7_  1__1_0_ //]
+BEM[Druga część melodii Instrumentalna, skrzypek przygrywa]
+
+DWOK52
+CUT[Nasza tacianka, nasza]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.276]
+FKT[]
+SIG[5244500000]
+KEY[52445   16  F 6/8]
+MEL[3_2_5_5__3_  2__3_2__0_
+    5_5_5_5_3_2_  2_1__0__0_
+    3_2_4_3__21  1__1_0__0_ //]
+BEM[W opracowaniu na głos z fortepianem]
+
+DWOK52
+CUT[Oj, ciomna, ciomna na dware]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.277]
+FKT[]
+SIG[5244600000]
+KEY[52446   16  F 3/8]
+MEL[5_5_43  211__  4_6__  5__0_
+    6_6_5_  5_4_2_  1__1_  1__0_ //]
+BEM[W opracowaniu na głos z fortepianem]
+
+DWOK52
+CUT[Miży nowych kletaczak]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.278]
+FKT[]
+SIG[5244700000]
+KEY[52447   16  G 3/4]
+MEL[-5_-5_3b__4__  5__5_4_2__
+    5_5_6b_5_4__  2_3b_1__1__
+    5_5_6b5_.45_.  2__2__.5_  2___. //]
+BEM[W opracowaniu na głos z fortepianem]
+
+DWOK52
+CUT[Zwinieła komora, zwinieła]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.279]
+FKT[]
+SIG[5244800000]
+KEY[52448   16  F 3/8]
+MEL[5_5_5_  43211_  4_6__  5__0_
+    6_656_  655_(432)  1_1__  1__.
+    23435_  2_1_1_  4_6__  5__0_
+    6_656_  5__(432)  1_1__  1__. //]
+BEM[W opracowaniu głos na fortepian]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.300, między Witebskiem a Połockiem koło Dubowika, Uły]
+FKT[]
+SIG[5247400000]
+KEY[52474   16  C 2/4]
+MEL[5_+1_7_+1_  +2_+3_+3_.+2  +1_+4_+2_+3_  +3_+1_+2__  +3_+2_+1_7_  +1___ //]
+BEM[Wesele, na zaręczyny]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.300, od Nemirowa, Lepla]
+FKT[]
+SIG[4247500000]
+KEY[52475   08  C 3/4]
+MEL[577+1+2_  +3_+2+1+4_  +2+3+3+1+2_  +3+2+17+1_ //]
+BEM[Wesele, na zaręczyny]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.301]
+FKT[]
+SIG[5247600001]
+KEY[52476   16  C 3/4]
+MEL[5_+1_7_+1_+2__  +1_+2_+3__+4__  +5__(^_+6_+5_)+4+3+4+2
+    +5__(+3+4+3+2+1)+2_+5_  +4+5+4+2+3__(+2_+1_7_)  +1__+2___  +1___. //]
+BEM[Kiedy młodą na posad sadzą i rozplatają kosę, Wesele]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.301]
+FKT[]
+SIG[5247600002]
+KEY[52476   16  C 3/4]
+MEL[(5_+1_+2_+3_+1_)+2__  (+1_+2_+3_)^__+4__  +5__(^_+6_+5_)(+4_+3_+4_)
+    +5__(+3+4+3+2+1)+2_+5_  +4+5+4+2+3_+1_(+2+3+2+17)  +1__+2___  +1___. //]
+BEM[Kiedy młodą na posad sadzą i rozplatają kosę, Wesele]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.301]
+FKT[]
+SIG[5247700010]
+KEY[52477   16  C 2/4 3/4]
+MEL[+1_+1+2#+1_.7  +1_5_5_3_4_1_  +1_.+2#+1_.7  +1_5_5_3_4_1_
+    +2_.+4#+3_7_  +1_.+3+2_.7  5_.7+2_.7  +1_(+3+17)+1__
+    +2_.+4#+3_7_  +1_.+3+2_.7  5_.7+2_.7  +1_(+3+17)+1_ //]
+BEM[Pierwsza część melodii w C, marsz do cerkwi, Do Ślubu]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.301]
+FKT[]
+SIG[5247700020]
+KEY[52477   16  G 2/4 3/4]
+MEL[5_.34_3_  2_1_-7_-6_  -5_-7_3_-7b_  1_111__
+    5_.34_444_3_  2_1_-7_-6_  -5_-7_2_-7b_  -5_-7_2_-7b_  1_111_ //]
+BEM[Druga część melodii w G, wariant taktu ostatniego 131-71__, Marsz do cekrwi, Do Ślubu]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.301]
+FKT[]
+SIG[5247800010]
+KEY[52478   16  C 4/4]
+MEL[5__+3_.+2+1___  5__+3_.+2+1___  5__+4__+2__+2__
+    5__6_7_+1__+3_+2_  +1____ //]
+BEM[Gdy z cerkwi wracają, grają w drodze marsza zwanego Napolion, O.K. "Przekrecony marsz weselny polski"]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.301]
+FKT[]
+SIG[5247800020]
+KEY[52478   16  G 4/4]
+MEL[5_4_3_5_+1___  3_5_6_5_4___
+    4__2_4_3__1_3_  2_555_5_5___
+    5_4_3_5_+1___  3_1_6__5__42_.
+    2__4__3__1__  1_111_3_2__.-7_  1_111_1_1___ //]
+BEM[Gdy z cerkwi wracają, grają w drodze marsza zwanego Napolion]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.302]
+FKT[]
+SIG[5247900001]
+KEY[52479   08  C 4/4]
+MEL[+2+3+4+3+5+4+27  +1___
+    +2_+3+4+5__  +5+3+4+6+6+5+5_
+    +3_+2+1+2_7_  +1___ //]
+BEM[Pierwsza wersja melodii, Do domu]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.302]
+FKT[]
+SIG[5247900002]
+KEY[52479   16  C 2/4]
+MEL[+2_+3_+4_+3_  +5_+4__+27  +1___
+    +3__+5__  +4_+6_+5__  ^___
+    +5_+3_+4_+6_  +6_+5_+5__  +3__+2_+1_  +2__7_+2_  +1___ //]
+BEM[Druga wersja melodii, Do domu]
+
+DWOK52
+CUT[Rano, ranieńko kunkuwała]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.302]
+FKT[]
+SIG[5248000000]
+KEY[52480   16  C 3/4 4/4 2/4]
+MEL[5_+1_7_+1_+2__  +5__(+4_+3_+4_)+2___
+    +5_+4_+6_+5_+4__  +2+3+2+1+1__
+    +5_+4_+6_+5_+4__  (+2_+3_+1_)+2___ //]
+BEM[Kiedy młoda nie ma ojca i matki, sierota, wariant t. 1 5_+1_+2_+1_+2__]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.303]
+FKT[]
+SIG[5248100000]
+KEY[52481   08  C 3/4]
+MEL[+3_+4_+2_  +5_+3_+2_  +3+2+1__
+    +3_+4_+2_  +3_+1_5_  +1__.
+    +2+3+4+3+2+1  +2+3+4_+2_  +3_+1_5_  +1__. //]
+BEM[Do czepin]
+
+DWOK52
+CUT[Jeśt baciak mnoha i matak]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.303]
+FKT[]
+SIG[5248200000]
+KEY[52482   08  G 3/4]
+MEL[123_4_  5_5__  434_6_  655__
+    1_3_5_  +1_3_5_  434_6_  655__
+    434_2_  323_1_  -7-6-5_-5_  123_4_
+    5_5__  6_4__  323_1_  -7-6-5_-7_  2-71__ //]
+BEM[Na dobranoc, kiedy maładaju spać kładą]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.304]
+FKT[]
+SIG[5248300000]
+KEY[52483   16  C 2/4]
+MEL[+1_+1+1+1_+1_  +1__.+3_  +2_+1_7_6_  6_5_5__
+    +4_+2+3+4_+2_  +1__7__  +1_+1+1+1_+1_  +1___
+    0__+1__  +3__+5_+3_  +2__+4_+2_  +1_+3+3+3_+1_  5___
+    +4_+4+4+4_+4_  +3__.+1+3  +5_+5+5+5_+6_  +5_+4_+3_+2_
+    +1_+3_+5_+3_  +2__+4_+2_  +1_+3_+3_+1_  5___ //]
+BEM[Marsz, gdy młoda odchodzi od ojca i matki do męża, wariant t.17 +1_+3_+5_+4+3]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.304]
+FKT[]
+SIG[5248400001]
+KEY[52484   16  C 4/4]
+MEL[+2_+3_+3__+2___  +2_+3_+4__+3___
+    +2_+1_+2_+3_+4__+3__  +3_+2_+1_7_+1___
+    +2_+3_+4__+3_+2+3+4__  +3_+2_+1_7_+1___ //]
+BEM[Pierwsza wersja melodii, tańcują po ślubie]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.304]
+FKT[]
+SIG[5248400002]
+KEY[52484   16  C 4/4]
+MEL[5_+1_+3_+2_+1___  +2_+3_+4__+3___
+    +2_+1_+2_+3_+4__+3__  +3_+2_+1_7_+1___
+    +2_+3_+4__+3_+2+3+4__  +3_+2_+1_7_+1___ //]
+BEM[Druga wersja melodii, tańcują po ślubie]
+
+DWOK52
+CUT[Matydoniu wydawała]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.308 od Owrucza]
+FKT[]
+SIG[5248900000]
+KEY[52489   16  G 2/4]
+MEL[4_.34_6_  5_.11_1_  4_3_4_6_  5__5__
+    6_.55432  3_5_1_3_  2_4_-7_2_  1__1__ //]
+BEM[od Owrucza]
+
+DWOK52
+CUT[Zdrasti, miłaja, charoszaja maja]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.311 od Wieliża, Rudni]
+FKT[]
+SIG[5249000000]
+KEY[52490   16  G 2/4 3/4]
+MEL[5_3_4_6_  5_3_4_2_  1_3_1__
+    6_6_6_5_  4_3_2_34  5_5_5__
+    5_3_+1_7_6_76  5_3_4_42
+    1_3_1__  6_6_6_5_  4_3_2_34  5_5_5__ //]
+BEM[]
+
+DWOK52
+CUT[Zdrasti, miłaja, charaszaja maja]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.312 od Suraża, Smoleńska]
+FKT[]
+SIG[5249100000]
+KEY[52491   16  G 2/4]
+MEL[5_5_5_5_  6_6_5_3_  4_2_1__
+    6_6_6_5_  4_3_2_34  5_5_5__
+    5_33+1_7_  6_765_3_  4_421__
+    6_6_6_5_  4_3_2_34  5_5_5__ //]
+BEM[]
+
+DWOK52
+CUT[Kapytane, kapytanoczku]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.313 od Kowla(Serpatyszcze)]
+FKT[]
+SIG[5249500000]
+KEY[52495   16  G 2/4]
+MEL[5_+1_5654  3_5_2_6_  12345__
+    12345654  3_5_2_5_  1_1_1__
+    12345654  3_5_2_5_  12345__
+    12345654  3_5_2_5_  1_1_1__ //]
+BEM[]
+
+DWOK52
+CUT[Oj, ja teper tut]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.315 od Kowla]
+FKT[]
+SIG[5249900000]
+KEY[52499   16  A 2/4]
+MEL[+1_+1_+1_76  5__5__  +1_+1_+2_7_  5__6_5_
+    4_4_4323  1_1_3_5_  4_4_4323  1__1__ //]
+BEM[Wariant taktu 2 5_5_5_67]
+
+DWOK52
+CUT[Cztery lata wiernie służył]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.316 od Kowla(na Wołyniu)]
+FKT[]
+SIG[5250000000]
+KEY[52500   08  G 3/4]
+MEL[13b5_.4  53b2_.1
+    -725_.-7  13b2_1_
+    -725_.-7  1__0_
+    -5-72_.-7b  13b2_1_
+    -725_.-7  13b2_1_
+    -725_.-7  1__0_ //]
+BEM[]
+
+DWOK52
+CUT[Bodaj tebe, bodaj mene]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.317 Rozalówka]
+FKT[]
+SIG[5250300000]
+KEY[52503   32  A 2/4]
+MEL[-5__.-7_2__-7b__  -5__.-6_-7__-5__  1__.-7_1_2_3b_4_  5__56b543b__0__
+    5__.5_5_4_6b_5_  5__4__5__543b2  1__.5_-5__-7__  1___1__0__ //]
+BEM[]
+
+DWOK52
+CUT[Ach, ja neszczasny, szczo maju dejaty]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.319 Rozalówka]
+FKT[]
+SIG[5250500000]
+KEY[52505   16  F 2/4]
+MEL[5__6b_6b_  5__4__  3b_3b_2_.-7  1_2_3b_4_
+    5__6b_6b_  5__4__  3b_3b_2_.-7  1__1__
+    4_4_4_4_  4_2_3b_4_  5_5_5_5_  5_6_7_5_
+    +1_.7b7b6b6b5  5__4__  3b_3b_2_.4  1__1__ //]
+BEM[]
+
+DWOK52
+CUT[Oj zza hory sońce sklije]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.319 od Kowla]
+FKT[]
+SIG[5250600000]
+KEY[52506   16  D 2/4]
+MEL[+4_+4_+3_+3_  +2_+2_+3_+5_  +4_+4_+3_+5_  +2_+4_+3_+1_
+    +176_5_5_  567_+1_+3_  +2+3+4_5_+5_  567_+1_+1_
+    +176_5_5_  567_+1_+3_  +2+3+4_5_+5_  567_+1_+1_
+    -5_+4_+3_+1_  +2_+4_+3_+5_  +2_+4_+3_+5_  +2_+4_+3_+1_
+    +176_5_5_  5_5_-6b-55_  5_+4_+3+4+5_  567_+1_+1_
+    +2_7_+176_  5_5_1-55_  5_+4_+3+4+5_  567_+1_+1_ //]
+BEM[Dwudźwięki, Czumak Berdyczowski]
+
+DWOK52
+CUT[Oj, matyż moja, maty]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.326 Rozalówka]
+FKT[]
+SIG[5251800010]
+KEY[52518   16  A 2/4]
+MEL[3b__3b_3b_  3b_2_3b_3b_  4__4_2_  -7b_-7b_-7b_-7b_
+    5__3b_2_  1_1_1_3b_  2_.1-7_-7_  -5_-5_-5_-5_ //]
+BEM[Część wokalna melodii]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.326 Rozalówka]
+FKT[]
+SIG[5251800020]
+KEY[52518   16  A 2/4]
+MEL[3b__3b_3b_  3b43b23b_3b_  4__4_2_  -7b_-7b_-7b_-7b_
+    5__5_3b2  1_1-71_3b_  2_21-7_-7_  -5_-5_-5_-5_ //]
+BEM[Część instrumentalna melodii]
+
+DWOK52
+CUT[A wżeż meni dokuczyło]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.327 od Kowla]
+FKT[]
+SIG[5251900010]
+KEY[52519   16  A 2/4]
+MEL[5_3b_23b1_  3b_5_3b_2_  -7_-7_-5_-7_  1_3b_5__
+    5_3b_23b1_  3b_5_3b_2_  -7_-7_-5_-7_  1_1_1__ //]
+BEM[Część wokalna melodii]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.327 od Kowla]
+FKT[]
+SIG[5251900020]
+KEY[52519   16  A 2/4]
+MEL[7b_7b_+17b6b_  5_5_6b54_  3b_2_3b_4_  5_5_6b_5_
+    7b__+17b6b_  5_5_6b54_  3b_23b4223b  1_1_1__ //]
+BEM[Część instrumentalna melodii]
+
+DWOK52
+CUT[Kałynońku łamlu]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.329 od Kowla]
+FKT[]
+SIG[5252200000]
+KEY[52522   16  G 2/4]
+MEL[5_67+1_6_  5_3_1__  5_67+1_6_  5_3_1__
+    -5_4_4_4_  1_3_5__  4_2_-5_-7_  1__1__
+    -5_4_4_4_  1_3_5__  4_2_-5_-7_  1__1__ //]
+BEM[Wariant taktu 8 i ostatniego 1_1_1__]
+
+DWOK52
+CUT[Rajut lude]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.333 od Owrucza]
+FKT[]
+SIG[5252700000]
+KEY[52527   16  A 2/4]
+MEL[1_3b_5_5_  4_2_3b_3b_  2_-7_1__
+    3b23b45_5_  4_2_3b_3b_  2_-7_1__
+    3b_3b_3b_21  -7__-5_-7b_  1_3b_5__
+    1_3b_3b_21  -7__-5_-7b_  1__1__ //]
+BEM[Wariant pierwszego taktu 123b45_5_]
+
+DWOK52
+CUT[Łetit oreł ponad more]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.335 od Kowla]
+FKT[]
+SIG[5253000000]
+KEY[52530   16  F 3/4]
+MEL[-5_.-5-5_3b_2_1_  1_.11_-7_-7__  -7_1_2__.-4#_  -4#_-5_-5___
+    -5_-5_1__.-7b_  -7b_-6b_-6b_-4_-2__  -5__-5_-5_-6_.-7  1_.23b_.453b21
+    -7_.-7-5__-6b_-7_  2_1_1___ //]
+BEM[]
+
+DWOK52
+CUT[Woły moje]
+REG[]
+TRD[DWOK52 Białoruś-Polesie S.336 od Wilna(Kunkuła)]
+FKT[]
+SIG[5253100000]
+KEY[52531   08  A 4/4 6/4]
+MEL[55_.55_  3b5_.453b0
+    44_.53b_.  1__1_0_
+    55_.3b5_.  4__.5_  1___
+    11_.1-7b_.3b__  11_.1-7b_.3b__
+    46b_.54_.5__  1__1_ //]
+BEM[]
+
+DWOK52
+CUT[Woły moje, woły]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.337 od Lidy]
+FKT[]
+SIG[5253200000]
+KEY[52532   16  A 3/8]
+MEL[5_5__  5_5__  3b_5__  453b_0_
+    4_4__  5_3b__  1__.
+    5_5__  3b_5__  4__5_  1__.
+    1_1__  1_-7b__  3b__.
+    1_1__  1_-7b__  3b__.
+    4_6b__  5_4__  5__.  1__.  1__0_ //]
+BEM[]
+
+DWOK52
+CUT[Ej, pohnała diwczynońka jagniateczka w pole]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.339 od Nieświeża]
+FKT[]
+SIG[5253500000]
+KEY[52535   16  F 2/4]
+MEL[1_.-51_3_  21-7-6-5_-5_  -6_-6_-6_-6_  -5__-5__
+    1_.-51_3_  21-7-6-5_-5_  -6_-6_-6_-6_  -5__-5__
+    2_2_2_-5_  1_1_1_3_  2_2_2_-5_  1_1_1_3_
+    2_2_2_-5_  1_3_2_5_  3_3_2_23  1__0__ //]
+BEM[Wariant taktu ostatniego 1__1__]
+
+DWOK52
+CUT[A szczo menie po wołach]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.340 od Słonima]
+FKT[]
+SIG[5253600000]
+KEY[52536   08  G 2/4]
+MEL[1155  443_  112_
+    1155  443_  221_
+    1166  554_  332_  112_
+    1166  554_  443_  221_ //]
+BEM[]
+
+DWOK52
+CUT[Wijut witry]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.341 Rozalówka]
+FKT[]
+SIG[5253900001]
+KEY[52539   16  A 3/4]
+MEL[5__.1_3b23b4  5__.1_3b23b4  5__.5_4_3b_  3b_2_2__0__
+    4__.3b_2_1_  -7__.-5_-6b_-5_  123b45__.-7_  1___1__ //]
+BEM[Pierwsza wersja melodii]
+
+DWOK52
+CUT[Wijut witry]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.341 Rozalówka]
+FKT[]
+SIG[5253900002]
+KEY[52539   16  A 3/4]
+MEL[5__.1_423b4  5__.1_423b4  5__.5_4_3b_  3b_2_2__0__
+    4__.3b_21-7b1  -7__.-5_-6b_-5_  123b45__.-7_  1___1__ //]
+BEM[Druga wersja melodii]
+
+DWOK52
+CUT[Oj, ty żywesz nad horoju]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.344 Rozalówka]
+FKT[]
+SIG[5254300000]
+KEY[52543   16  A 3/4]
+MEL[3b_3b21_.3b5_.3b  43b21-7__-5__
+    3b_3b21_3b_5_43b  3b_2_2__0__
+    5_.55_7b_7b_.5  6b54_4__5_.4
+    3b21_-7__-5_-7_  1__1__0__ //]
+BEM[]
+
+DWOK52
+CUT[Czy ja w poli na trawycia buła]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.354 od Kalinówki z Owruckiego(Rozalówka)]
+FKT[]
+SIG[5256000000]
+KEY[52560   16  G 4/4]
+MEL[+1__5__5__.4_  3b_3b_5_.3b3b_2_0__
+    +1__5__5__.4_  3b_3b_5_3b_3b_2_0__
+    3b_3b_3b_3b_3b_5_4_3b_  2_2_2_2_2_4_3b_2_
+    1__3b__5__.4#_  5_-5_3b_.21__0__ //]
+BEM[]
+
+DWOK52
+CUT[Oj, czy ja w poli na trawicia buła]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.355]
+FKT[]
+SIG[5256100001]
+KEY[52561   16  E 2/4]
+MEL[+1__5_5_  7b_6b_5_4_  5_.43b_2_  1__0__
+    +1__5_5_  7b_6b_5_4_  5_4_3b_2_  1__0__
+    7b_5_3b_5_  7b_+1_6b543b  2_3b_4_4_  4_6b_5_4_
+    3b_4_5_4_  3b_.21_0_  3b_4_5_4_  3b_.21_0_ //]
+BEM[Pierwsza wersja melodii]
+
+DWOK52
+CUT[Oj, czy ja w poli na trawicia buła]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.355]
+FKT[]
+SIG[5256100002]
+KEY[52561   16  E 2/4]
+MEL[+1__5_5_  7b_6b_5_4_  5_.43b_2_  1__0__
+    +1__5_5_  7b_6b_5_4_  5_4_3b_2_  1_1_0__
+    7b_5_3b_5_  7b_+1_6b_4_  2_3b_4_4_  4_6b_5_4_
+    3b_4_5_4_  3b_.21_0_  1_2b_3b_2_  1_1_1_0_ //]
+BEM[Druga wersja melodii]
+
+DWOK52
+CUT[Ej, pod wysznieju]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.358 od Kowla]
+FKT[]
+SIG[5256500000]
+KEY[52565   08  D 3/4 2/4]
+MEL[+3b_+3b+2+17  +3b_+3b+2+17
+    7777  +3b+3b+3b+3b  +2+1+27  +1+1+1_
+    7777  +3b+3b+3b+3b  +2+1+27  +1+1+1_ //]
+BEM[]
+
+DWOK52
+CUT[Hulać, chłopcy hulać]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.361 od Grodna]
+FKT[]
+SIG[5257000000]
+KEY[53570   08  G 2/4]
+MEL[5345  7b_6_  5345  7b_6_
+    5342  135+1  5342  111_ //]
+BEM[]
+
+DWOK52
+CUT[Nie pajdu z karczomki horełki ne piwszy]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.362 od Grodna]
+FKT[]
+SIG[5257100000]
+KEY[52571   08  G 2/4]
+MEL[3456  4_54  3456  4_5_
+    3311  2_4_  1114  2_1_
+    -5-722  113_  1114  2_1_ //]
+BEM[Wariant w takcie 4 4_54]
+
+DWOK52
+CUT[A w boru sosna kaływałasie]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.368 Grodno, Słonim]
+FKT[]
+SIG[5258200000]
+KEY[52582   08 Eb 3/4]
+MEL[664556  7b56_21
+    354_56  7b56_22 //]
+BEM[]
+
+DWOK52
+CUT[Ne chody, Hryciu]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.373 od Sławeczna, Kiszyni(w Owruckim)]
+FKT[]
+SIG[5259100001]
+KEY[52591   08  A 4/4]
+MEL[3b_53b7b_.5  4_7b6b5_.3b
+    1_3b15_.3b  225-71_.1 //]
+BEM[Pierwsza wersja melodii]
+
+DWOK52
+CUT[Ne chody, Hryciu]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.373 od Sławeczna, Kiszyni(w Owruckim)]
+FKT[]
+SIG[5259100002]
+KEY[52591   16  A 4/4]
+MEL[3b__5_5_7b_6_7b_5_  4_4_4_7b6b5_4_5_3b_
+    1_3b_2_1_5_4_5_3b_  2_2_5_-7_1__.1_ //]
+BEM[Druga wersja melodii]
+
+DWOK52
+CUT[Oj, pod gajem pod zielonym]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.388 na Białorusi lub z Grodzieńskiego]
+FKT[]
+SIG[5261000000]
+KEY[52610   08  F 4/4]
+MEL[5_565_4_  3_345_4_
+    3_.43_.4  54322_1_
+    5_565_4_  3_345_4_
+    3_.43_.4  54322_1_ //]
+BEM[]
+
+DWOK52
+CUT[Majorim dieti, sława dieti bieławo cara]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.390 Grodno]
+FKT[]
+SIG[5261300000]
+KEY[52613   08  F 2/4]
+MEL[55+1+1  77+16  55+1+1  77+1_
+    +2+266  +2+2+2+1  7776  555_ //]
+BEM[]
+
+DWOK52
+CUT[Propył człowik kapłona]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.393 od Mozyra, Owrucza]
+FKT[]
+SIG[5261700001]
+KEY[52617   16  G 2/4]
+MEL[115_5_5_  6b_6b_5_3_  4_4_4_54  32b3_1__
+    4_4_323_  -7b-7b431_1_
+    4_4_323_  -7b-7b431_1_
+    4_4_3_3_  1___ //]
+BEM[Pijatyka, Karczma]
+
+DWOK52
+CUT[Propył człowik kapłona]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.393 od Mozyra, Owrucza]
+FKT[]
+SIG[5261700002]
+KEY[52617   16  G 2/4]
+MEL[115_5_5_  6b_6b_5_3_  4_4_4_54  3_3_1__
+    4_4_3231  -7b-7b431_3_
+    4_4_323_  -7b-7b431_1_
+    4_4_3_3_  1___ //]
+BEM[Pijatyka, Karczma]
+
+DWOK52
+CUT[Harasza, nasza dierewnia]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.393]
+FKT[]
+SIG[5261800000]
+KEY[52618   16  G 2/4]
+MEL[5_6_5_3_  43426_53  5_+1_5_3_  43421__
+    -5-72_3_35  43425_3_  -7_2_3_5_  43421__ //]
+BEM[]
+
+DWOK52
+CUT[Toj szczasływy, kto zrodywsia]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.394 Rozalówka]
+FKT[]
+SIG[5261900010]
+KEY[52619   16  G 2/4]
+MEL[5_+1_3_3_  3_234_2_  1_1_2_2_  3_3_2__
+    5_+1_3_3_  3_234_2_  1_1_2_-7_  1_1_1__ //]
+BEM[Pierwsza część wokalna melodii]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.394 Rozalówka]
+FKT[]
+SIG[5261900020]
+KEY[52619   16  G 2/4]
+MEL[-5_.22_2_  1_3_3_3_  -5_.22_1_  -7_-5_-4__
+    -5_.22_2_  1_3_3_3_  5_5_5_-7_  1_1_1__ //]
+BEM[Druga część instrumentalna melodii]
+
+DWOK52
+CUT[Ja Cyhanka mołoda]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.395 Z Polesia, Białorusi]
+FKT[]
+SIG[5262100000]
+KEY[52621   16  G 2/4]
+MEL[2_2_3_3_  4_.21__  -7_-7_1_1_  2_-7_1__
+    2_.1-7_-6_  -5__4#565  2_1_-7_-6_  -5__0__ //]
+BEM[Wariant taktu 4 232-71__ i 6 -5_5_4#565]
+
+DWOK52
+CUT[Żaliła się popadia na swoju biedoju]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.396 Grodno]
+FKT[]
+SIG[5262200000]
+KEY[52622   08  A 2/4]
+MEL[556b6b  4454  3b25-7  123b4
+    556b6b  4454  3b25-7  1_1_
+    3b_3b3b  3b_-7b_  7b_7b7b  +17b6b5
+    4444  5_.3b  215-7  1_1_ //]
+BEM[]
+
+DWOK52
+CUT[Sedyt Jaszczur]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.397 Sopockinie]
+FKT[]
+SIG[5262300000]
+KEY[52623   16  G 2/4]
+MEL[1_2_3_4#_  5__2__  5_4#_3_.2  3___
+    1_2_3_4#_  5__2__  5_4#_3_.2  3___
+    3__3__  2__2__  3__3__  2__2__
+    5_4#_3_.-7  1___ //]
+BEM[]
+
+DWOK52
+CUT[Umarł Maciek]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.398]
+FKT[]
+SIG[5262500000]
+KEY[52625   08  F 3/4]
+MEL[131_23  434_6_
+    575_67  +1_7+2+1_
+    (567)+1_+17  534_42
+    (123)1_23  434564 //]
+BEM[]
+
+DWOK52
+CUT[Aj, żal szauca]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.398 od Dryssy]
+FKT[]
+SIG[5262600000]
+KEY[52626   08  G 2/4]
+MEL[3_4_  21#2_  2_3_  1-71_
+    3_43  21#2_  1-71_  1_3_
+    3_43  21#2_  1-71_  1_3_ //]
+BEM[]
+
+DWOK52
+CUT[Tam na ryneczku]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.398-399 od Nieświeża]
+FKT[]
+SIG[5262700000]
+KEY[52627   08  A 4/4]
+MEL[1_111_-5_  1_1-71_-5_
+    1-7123_1_  3_1_3_1_  5_312_-5_
+    5_+1_6_4_  3_2_3_1_
+    222_333_  21232_-5_
+    222_333_  21232_-5_
+    1_1_2_3_  4_1_+1_5_  6_4_5_3_  4__0__ //]
+BEM[Obok tesktu uwaga O.K. "IGRASZKI"]
+
+DWOK52
+CUT[Hej, diwczyna żyto rznie]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.406 od Nowogródka]
+FKT[]
+SIG[5263500001]
+KEY[52635   16  G 2/4]
+MEL[3_3_5_3_  4_4_5_3_  3_5_4_2_  1__1__
+    3_104_20  5_30+1__  3_5_4_2_  1__1__ //]
+BEM[Pierwsza wersja melodii]
+
+DWOK52
+CUT[Hej, diwczyna żyto rznie]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.406 od Nowogródka]
+FKT[]
+SIG[5263500002]
+KEY[52635   16  G 2/4]
+MEL[3_5_5_3_  4_4_5_3_  3_+1_2_3_  1__3__
+    3_104_20  5_30+1__  3_+1_2_3_  1__1__ //]
+BEM[Druga wersja melodii]
+
+DWOK52
+CUT[Ta chatka w miłej ustroni]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.406-407 od Kowla]
+FKT[]
+SIG[5263600000]
+KEY[52636   16  C 6/8]
+MEL[5_6_.55_+1_.3  5__.4__0_
+    +2_+1_7_6_5_4_  4__.3__0_
+    5_6_5_5_+1_6_  5__.4__0_
+    2_6_421_-7_2_  2__.1__0_
+    1__+1_+1__+1_  +1_7_6_7__5_
+    +2_+1_7_6_5_4_  4__.3__0_
+    5_6_5_5_+1_3_  5__4_6__.
+    2_6_421_-7_.2  2__.1__0_ //]
+BEM[]
+
+DWOK52
+CUT[Wejdź luba do mojej chatki]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.407 od Kowla]
+FKT[]
+SIG[5263700011]
+KEY[52637   16  G 6/8]
+MEL[-5_1_1_3b_.21_  5_4_2_3b_2_1_
+    3b_2_3b_4_-6b_2_  1__.-7__0_
+    5_4#_5_6b_4_2_  5__.3b__.
+    3b_.21_6b_5_.-7  2__.1__. //]
+BEM[]
+
+DWOK52
+CUT[Wejdź luba do mojej chatki]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.407 od Kowla]
+FKT[]
+SIG[5263700012]
+KEY[52637   16  G 6/8]
+MEL[-5_1_1_3b_.21_  5_4_2_3b_2_1_
+    5_4_5_6b_1_4_  3b__.2__0_
+    5_4#_5_6b_4_2_  1__.2__.
+    3b_.21_6b_5_.-7  2__.1__. //]
+BEM[Część wokalna melodii]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.407 od Kowla]
+FKT[]
+SIG[5263700020]
+KEY[52637   16  G 6/8]
+MEL[-5_1_1_3b_2_1_  5__.4__.  3b_2_3b_4_3b_4_  5__.5__.
+    5_4_5_6b_5_6b_  7b__.2__6b_  5_4_3b_6b_5_-7b_  2__.1__. //]
+BEM[Druga część instrumentalna melodii]
+
+DWOK52
+CUT[Gdyśmy byli w Poczajowie]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.408 od Kowla,Łucka(Wołyń)]
+FKT[]
+SIG[5263800000]
+KEY[52638   16  B 3/4]
+MEL[5_.7b7b__5_3b_  2_4_6b__5__  7b_+1_7b_7b_5_3b_  2_4_6b__5__
+    5_5_+3b__+2_+1_  7_5_+1__5__  6b_5_4__3b_1_  -7_2_5___
+    5_5_+3b__+2_+1_  7_5_+1__.5_  6b_.54__(3b_2_1_)  -7_.55___ //]
+BEM[]
+
+DWOK52
+CUT[Oj, matusia mię łaje]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.409 od Kowla]
+FKT[]
+SIG[5263900011]
+KEY[52639   16  A 2/4]
+MEL[3b_5__5_  4_5_6b_4_  13b5__5_  4_3b_2_1_
+    3b_5__3b_  4_5_6b_42  13b5__5_  4_3b_2_1_ //]
+BEM[Pierwsza część wokalna, Krakowiak]
+
+DWOK52
+CUT[Oj, matusia mię łaje]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.409 od Kowla]
+FKT[]
+SIG[5263900012]
+KEY[52639   16  A 2/4]
+MEL[3b_5__5_  4_5_6b_42  1_3b_5_5_  4_3b_2_1_
+    3b_5__3b3b  4_5_6b_42  1_3b_5_5_  4_3b_2_1_ //]
+BEM[Pierwsza część wokalna, Krakowiak]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.409 od Kowla]
+FKT[]
+SIG[5263900020]
+KEY[52639   16  A 2/4]
+MEL[-5-725-5-725  1_2_3b_5_  -5-725-5-725  1_2_3b_1_ //]
+BEM[Druga część melodii instrumentalna]
+
+DWOK52
+CUT[Kocham ciebie mój Wacławie]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.409 od Kowla(Wołyń)]
+FKT[]
+SIG[5264000000]
+KEY[52640   32  A 2/4]
+MEL[5__.5_6b__.54#  5__.5_3b__2_1_  -7__6b__5__4_-7b_  1___3b___
+    5__5__+3b__+2_+1_  7__+1__3b__4_3b_  2__6b__5__-7__  2___1___
+    3b__4__5__5__  2__4__+1__7b_6b_  5__5__5__5__  4___6b___
+    5__5__+3b__.+2+1  7__+1__+2__.3b_  2__6b__5__.-7_  2___1___ //]
+BEM[]
+
+DWOK52
+CUT[Bywaj Zosiu, zdrowa, daj buzi na drogę]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.409 od Kowla(Wołyń)]
+FKT[]
+SIG[5264100000]
+KEY[52641   16  A 2/4]
+MEL[-5_-5_-7_-5_  1_-5_3_.1  2_4_2_-7_  1__-5__
+    -5_-6_-7_1_  5__3__  5_4#_4_2_  -5__0_1_
+    -5_-6_-7_1_  5__.3_  5_4#_4_2_  2_1__.
+    -5#_-7_3_.-7  2_1_-7_-6_  -4#_-2_2_-6_  -5__-7__
+    4_3_3_2_  6__5__  5_4#_4_2_  2_1__. //]
+BEM[]
+
+DWOK52
+CUT[Poznałem dziewczynę z samego wsi końca]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.411 od Kowla]
+FKT[]
+SIG[5264200000]
+KEY[52642   16  G 2/4]
+MEL[-5_1_3_-5_  6__5__  6_4_2_-7_  4__3__
+    1_1_3_1_  6__5__  6_4_2_-7_  2__1__
+    -5_-6_-7_-5_  1_-5_3__  5_4_2_4_  6_5_3__
+    1_1_3_1_  6_5_5__  564_2_-7_  2_1_1__ //]
+BEM[]
+
+DWOK52
+CUT[Ja, prawdziwa Krakowianka]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.411 od Kowla]
+FKT[]
+SIG[5264300000]
+KEY[52643   16  A 2/4]
+MEL[5_3_3_3_  3_4_5_3_  5_67+1765  4_3_2_-7-5
+    5_.22_2_  1_3_5_1_  2_4_6_53  4-5-6-72_1_
+    2_.-75_.2  3_5_2_-71  2_4_6_53  4-5-6-72_1_ //]
+BEM[]
+
+DWOK52
+CUT[W kontusiku, wymuskana, nie spojrzę, tylko na pana]
+REG[]
+TRD[[DWOK52 Białoruś-Polesie s.412 od Kowla(Wołyń)]
+FKT[]
+SIG[5264400000]
+KEY[52644   16  A 3/4]
+MEL[3_1_2__3__  4_5_6__2__  -7_2_5__.4_  3_2_3__1__
+    3_1_2__3__  4_5_6__.21  -7_.-5-5_-5_-6_-7_  2__1__0__
+    -7_2_-7__2__  (2_5_7_)+2__.75  4#_2_3__4#__  5_5_4__2__
+    3_5_3__5__  4_5_6__.2_  -7_.-5-5_-5_-6_-7_  2__1__0__ //]
+BEM[]
+
+DWOK52
+CUT[Oj, Oleś Zosię lubi]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.412 od Kowla(Wołyń)]
+FKT[]
+SIG[5264500010]
+KEY[52645   08  A 3/4]
+MEL[5_6b_54#  43b1_3b_  5_-5_-6-7b  123b_4_
+    5_6b_54#  53b1_3b_  -75-5_.-7  21-7_1_ //]
+BEM[Pierwsza część melodii]
+
+DWOK52
+CUT[Oj, Oleś Zosię lubi]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.412 od Kowla(Wołyń)]
+FKT[]
+SIG[5264500020]
+KEY[52645   08  C 3/4]
+MEL[5_5_7+2  +3+3+1_+3_  +2_7_57  +1+1+3_+5_
+    5_5_(7+1+2)  +3+3+1_+3_  +2_7_57  +2+17_+1_ //]
+BEM[Druga część melodii]
+
+DWOK52
+CUT[Ej-no, kochane chłopczyska]
+REG[]
+TRD[DWDOK52 Białoruś-Polesie s.413 od Kowla]
+FKT[]
+SIG[5264600000]
+KEY[52646   32  G 2/4]
+MEL[3__3__3_2_3_4_  5__3__1__.1_  6__7__+1__.76  5_3_1___-5__
+    2__4__6__5_4_  3__5__+1__.3_  2__6__5__-7__  1__1__3__.5_
+    6__6__+1__4__  3__5__+1__.3_  2__6__5__-7__  2__1__-7__1__ //]
+BEM[Wariant t. 6 3__5__+1___.+1__.3_ i t. 10 3_5_+1___.+1__.3_]
+
+DWOK52
+CUT[Gdy w czystym polu słoneczko świeci]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.413 od Kowla]
+FKT[]
+SIG[5264700000]
+KEY[52647   16  G 3/8]
+MEL[136_.5  5__1_  -765_-7_  1__0_
+    136_.5  5__1_  -765_-7_  1__0_
+    223_.2  136_5_  543_.2  136_5_
+    543_.2  35+1_.6  54#4_-7_  1__0_ //]
+BEM["SZLACHECKA" Wariant taktu 9 243_.2 i 11 54#4_.2]
+
+DWOK52
+CUT[Jam cię swą ręką sadziła]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.414 od Kowla(Wołyń)]
+FKT[]
+SIG[5264800000]
+KEY[52648   16  C 3/4]
+MEL[+3_+5_+5_+5_+5_.+3  +1_.+17___  5_.7+2_+2_+2_+5_  +4_.+4+3___
+    5_+1_+1_+2+1+2_+3_  +4#_+5_+7__.+4#_  +1_+3_+3_+3_(+3_+5_.7)  +2__+1__0__
+    5_+1_+1_+2+1+2_+3_  +4#_+5_+6__+4_+2_  +1_+3_+3_+3_(+3_+5_.7)  +2__+1__0__ //]
+BEM[]
+
+DWOK52
+CUT[Siałem proso na zagonie]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s. 414-415 od Kowla]
+FKT[]
+SIG[5264900000]
+KEY[52649   16  A 3/4]
+MEL[5_.56b__5_4#_  5_5_3b__2_1_  -7_6b_5__.-7_  1__3b__0__
+    5_.5+3b__+2_+1_  7_+1_3b__4_3b_  2_6b_5__.-7_  1___.
+    3b__5__4_3b_  2__+1__7b__  3b_3b_5__4_3b_  2__+1__7b__
+    5_5_6b__5_4_  5_5_3b__2_1_  -7_6b_5__-7__  1___. //]
+BEM[]
+
+DWOK52
+CUT[Już ty śpiewasz, skowroneczku]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.415 od Kowla(Wołyń)]
+FKT[]
+SIG[5265000000]
+KEY[52650   16  G 3/4]
+MEL[1_2_3b__.21  -7_2_5__.4_  3b_3b21_3b_2_1_  2_-7_-5___
+    1_1_3b__1__  2_4_7b__.6b_  3b_3b_5__.-7_  2_1_1___
+    5__+1__.5_  4_4#_5__.2_  3b_2_4_3b_2_1_  2_-7_-5___
+    1_1_3b__.21  -7_2_5__.4_  3b_3b_5__.-7_  2_1_1___ //]
+BEM[]
+
+DWOK52
+CUT[Któreż cię strony podziały]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.416 od Kowla(Wołynia)]
+FKT[]
+SIG[5265100010]
+KEY[52651   08  G 6/8]
+MEL[-5_-51_1  3b2153b1  6b543b21  1_.-7_0
+    -5_-51_1  3b2153b1  6b543b21  1_.-7_0 //]
+BEM[Pierwsza część melodii, METRUM 6/8]
+
+DWOK52
+CUT[Któreż cię strony podziały]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.416 od Kowla(Wołyń)]
+FKT[]
+SIG[5265100020]
+KEY[52651   16  G 3/4]
+MEL[5_5_5__.3b_  2_.11__.-7_  -5_-7b_2_6b_5_2_  4__3b__0__
+    5_7_+2_.+1(5_6_4_)  2_.11__.-7_  -5_-7b_2_6b_5_-7b_  2__1__0__ //]
+BEM[Druga część melodii o metrum 3/4]
+
+DWOK52
+CUT[Boże, co władasz losami ludzkiemi]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.417 od Kowla(Wołyń)]
+FKT[]
+SIG[5265400000]
+KEY[52654   16  A 3/4]
+MEL[2_.-7-5__.-7_  1_.23b__2_1_  2_-7_-5__.-7_  2__1___
+    2_.-7-5__.-7_  1_.23b__2_1_  2_-7_-5__.-7_  2__1___
+    -5__-7___  -5_.11___  -6b_.-5-4__-3b__  -3b__-5___
+    -5__5__.4_  4__3b__2_1_  2_-7_-5__-7__  -7_2_1___ //]
+BEM[]
+
+DWOK52
+CUT[A ty w domu nic nie robisz]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.418]
+FKT[]
+SIG[5265600000]
+KEY[52656   16  D 2/4]
+MEL[+5_+3_+1_+1_  5_+1_+3_+5_  +4_+2_7_7_  5_7_+2_+4_
+    +5_+3_+1_+1_  5_+1_+3_+5_  +4_+2_7_7_  5_7_+2_+4_
+    +3_+1_7_6_  6_5_5_+1+2  +3_+1_7_6_  6_5_4#_5_ //]
+BEM[Prawdopodobnie od Kowla(Wołyń)]
+
+DWOK52
+CUT[Szczera miłość na świecie]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.419 od Nowogródka]
+FKT[]
+SIG[5265900000]
+KEY[52659   16  C 2/4]
+MEL[+3_+5_+5_+5+4#  +5_+6_+4__  +2_+2_+4_+6_  +6_+5_+5__
+    +3_+5_+5_+5+4#  +5_+6_+4__  +4_+6_+4_+2_  +2_+1_+1__
+    +5_+6_+4_+2_  +1_+1_+3_+5_  +5_+6_+4_+2_  +2_+1_+1__ //]
+BEM[]
+
+DWOK52
+CUT[Nie mam srebra ani złota]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.420 od Kowla]
+FKT[]
+SIG[5266000000]
+KEY[52660   16  C 2/4]
+MEL[5+15_+3_+1_  +1_5_6_5_  +1+15_+3_+2_  +1_+4_+3__
+    +2_+2_+2_+2_  +2_+3_+4_+2_  +1_+4_+3_+3+2  +1_7_6__
+    5_+4_+2__  +1_+2_+1__  +2_+3_+4_+3_  +2_+3_+4_+2_
+    +1_+4_+3_+3+2  +1_7_6__  5_+4_+2__  +1_+2_+1__ //]
+BEM[]
+
+DWOK52
+CUT[Szczęśliwi mędrcy, a my, prostacy]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.421 od Kowla]
+FKT[]
+SIG[5266100000]
+KEY[62661   16  E 4/4]
+MEL[+1__+1_+1_+1__.-7-6  5__5_5_5__+1_.3
+    2_.23_.35__5__  5_4_3_.32___
+    +4_.+47_.7+1__0__  +4_.+47_.7+1__0__
+    +1__7_.66__5__  5__6_.7+2__+1__
+    +4_.+47_.7+1__0__  +4_.+47_.7+1__0__
+    +1__7_.66__5__  5__6_.7+2__+1__ //]
+BEM["PROSTAK"]
+
+DWOK52
+CUT[Ej, porodziła moja ciocioteńka]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.421 od Grodna]
+FKT[]
+SIG[5266200000]
+KEY[52662   08  G 2/4]
+MEL[5_55  +1_5_  6666  5_.4
+    3234  5__  3234  5__
+    5_55  +1_5_  6666  5_.4
+    3234  5__  3234  5__
+    5_5_  +1_5_  6666  5_.4
+    3234  5__  3234  5__
+    3234  5654  3234  5654
+    3234  5_54  3234  5654
+    3234  5__  3234  5__ //]
+BEM[]
+
+DWOK52
+CUT[Od wacpana do wacpana]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.422 z Polesia]
+FKT[]
+SIG[5266300000]
+KEY[52663   16  F 2/4]
+MEL[1_1_+1_.7  7_6_6_5_  5_5_6_.5  5_4_4_3_
+    5__5__  1__0__  6_4_+1_.6  5___
+    5__654#5  3___  321#23_.2  1___ //]
+BEM[]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.424 Lipowa pod Kobryniem]
+FKT[]
+SIG[5266400000]
+KEY[52664   16  D 2/4]
+MEL[+5___  +4__+6__  +5__+2__  +5_+4_+3_+2_  +5_+4_+3_+2_  +1__5__
+    +1__+2_+3_  +4_+3_+2__  +5___
+    +4__+6__  +5__+2__  +5_+4_+3_+27  +1___ //]
+BEM[]
+
+DWOK52
+CUT[Wodle reczki wodle mostu]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.424 od Owrucza, Mozyrza, Mińska]
+FKT[]
+SIG[5266500000]
+KEY[52665   16  G 2/4]
+MEL[6__+1_6_  5__.3_  1_3_4_64  3__.5_
+    1_311_31  -7_-5_-5_-5_  -6_-4_-6_1-7  -5___ //]
+BEM[]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.424-425 Witebsk, Mohylew]
+FKT[]
+SIG[5266600000]
+KEY[52666   16  F 2/4]
+MEL[5_5__67  +1_6_6_54  3_5__67  +1_6_7654
+    3_5__67  +1_3_4_2_  34321_-5_  1_2_4_54  3_2_1_-5_
+    1_2_4__  3_3_3_3_  43234_21  3_3_^_3_  43234__ //]
+BEM[]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s. 425, od Kowla]
+FKT[]
+SIG[5266700000]
+KEY[52667   16  G 2/4]
+MEL[+1_+1_3_.5  5_4__.  4_6_+1_.6  5_3__.
+    +1_5_3_5_  5_4__3_  2_2_4_-7_  2_1__.
+    +1_5_3_5_  5_4_^321  -7_2_5_5_  5_1__. //]
+BEM[]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.425 od Prus]
+FKT[]
+SIG[5266800000]
+KEY[52668   16  C 2/4]
+MEL[+3_+4_+5+6+5+4  +3_+5_+3__  +2_+4_+5+4+27  +1_+3_+1__
+    +2_+1_7_+2_  +5_+4#_+4#__  +6_+4#_+2_+3+4#  +5_+5_+5__ //]
+BEM[Wariant taktu 5 +2+3+2+17_+2_]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.425 od Kowla]
+FKT[]
+SIG[5266900000]
+KEY[52669   16  A 2/4]
+MEL[1_345_1_  6_6_5__  1___
+    5_654_3_  2_345_5_  1__+1__
+    6_5_4_3_  2_345_5_  1__1__
+    1_345_+1_  6_4_5__  1___
+    5_65432_  345_432_  1__+1__
+    6_5_4_3_  2_345_5_  1__1__ //]
+BEM[]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.426 Lipowa pod Kobryniem]
+FKT[]
+SIG[5267000000]
+KEY[52670   16  A 2/4]
+MEL[5_2_3_4_  5__+1_7b_  6_56+1_6_  5__3__
+    6_6__6_  5_5__.  2__4_2_  1_5__5_
+    6_.66666  5_5_5__  2__5_2-7  1__0__ //]
+BEM[Zawierucha, dwudźwięki]
+
+DWOK52
+CUT[Ach kaliż ja u matulki była]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.426 od Mińska(Lucynka)]
+FKT[]
+SIG[5267100000]
+KEY[52671   16  G 2/4]
+MEL[5_5_4_4_  3_3_2_.1  -7_-5_1__
+    1_1_4_4_  3_3_2_.1  -7_-5_1__
+    1_3_4_4_  3_3_2_1_  -7_-5_1__ //]
+BEM[Taniec Miacielica]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.426 od Owrucza]
+FKT[]
+SIG[5267200000]
+KEY[52672   16  G 2/4]
+MEL[1_2_3_1_  5_5_5_5_  1_2_3_1_  5___
+    1_3_3_3_  3_5_543_  1_3_1_3_  3_5_543_
+    2_.1-7123  -6_6_-6_6_  2_.1-7123  -6_6_-6_6_ //]
+BEM[]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.426-427, od Witebska, Mohylewa]
+FKT[]
+SIG[5267300000]
+KEY[52673   16  F 2/4]
+MEL[3_5_2_5_  3_5_4_6_  4_6_2_2_  -5_-5_1__
+    135_2_5_  135_4_6_  135_4321  2_-5-71__
+    7_.+1+2+3+2+1  +2_7+17+165  42345__
+    7_7_6__  5_7_6_2_  5_7_6_+1_  7_+2_+1765  4_6_5__ //]
+BEM[Wariant t. 3 3_5_4321]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.427 Witebsk]
+FKT[]
+SIG[5267400000]
+KEY[52674   16  G 2/4]
+MEL[5_344_2_  1_1_-5_-5_  1_3_242-7  1_1_5_5_
+    5_344_2_  1_1_-5_-5_  1_3_242-7  1_1_1__
+    135_246_  5357+1_+1_  355_466_  57534__ //]
+BEM[]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.427 Witebsk]
+FKT[]
+SIG[5267500000]
+KEY[52675   16  F 2/4]
+MEL[1_354342  3_354_46  3_354342  1_1_-5__
+    +1__7+2+27  +1_+1_5_5_  +1_+3_+2+3+27  +1_+1_5__ //]
+BEM[Wariant taktu 1 5-5134342]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.427-428, od Połocka]
+FKT[]
+SIG[5267600000]
+KEY[52676   16  C 2/4]
+MEL[+1_+3+5+5_+3+6  +6_+3+5+5_+3+6  +6_+4+5+5+4#+3+2  +1_+3_+1__
+    +5__.+3+5  +5+4#+3+2+2_+2_  7_5_5_67  +17+1+2+1_+3_
+    +5__.+3+5  +4#_+2_+2_+2+1  7_5_5_67  +17+1+2+1__ //]
+BEM[]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.428 od Mińska]
+FKT[]
+SIG[5267700000]
+KEY[52677   16  G 2/4]
+MEL[3_6_6_54  3_5_5_43  2_3_4_64  3_5#_3__
+    3__3_4#3  2_-7_1_-6_  -72-7-5#-6_-6_  -6_1#_3__
+    3__3_4#3  2_-7_1_-6_  -72-7-5#-6_-6_  -6___
+    -5_-7_-5_-6-7  1_1_1__  -5_-5_-5_-6-7  1_1_1__
+    3__1_31  -72-7-5#-6_-6_  -5_-5-71_3_  242-71__
+    3__1_31  -72-7-5#-6_-6_  -5_-5-71_3_  242-71__ //]
+BEM[Kozak, zwany Żydowski]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.428 od Kowla]
+FKT[]
+SIG[5267800000]
+KEY[52678   16  E 2/4]
+MEL[3_.45_+3+2  +2_+1_+1_7_  5_7+2+4_.4  4_.66_5_
+    5_.43_5_  +1_7_7_6_  -7_.55_5_  5_4_4_3_
+    1_1_3_5_  +1_7_7_6_  5_7+2+2_+4+6  +5_.7+2_+1_ //]
+BEM[]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.429 z Owruckiego]
+FKT[]
+SIG[5267900000]
+KEY[52679   16  A 3/4]
+MEL[3_5_4__.4_  5_320__0__
+    (1_3_3_)2__.1_  -7_-5_0__0__
+    (-5_5_6_)5__.4_  4_320__0__
+    (1_3_3_)2__.1_  -7_-5_0__0__
+    (-7_-7_1_)3__.3_  2_1_0__0__ //]
+BEM[]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.429 od Witebska]
+FKT[]
+SIG[5268000000]
+KEY[52680   16  C 3/4]
+MEL[(5_6_7_)+1__+2__  +4#__+2___  5__.434__  5_7_+1___
+    (5_6_7_)+1__+2__  +5_+4#_+2___  6__(5_4_3_)4__  5_7_+1___ //]
+BEM[]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.429 Witebsk]
+FKT[]
+SIG[5268100000]
+KEY[52681   16  C 3/4]
+MEL[+1__.+3_+1_+3_  +5_7+2+2_7+2+1_5_
+    5_+3_+1__+3__  +5_7+2+2_7+2+1_5_
+    5_653_5_4_1_  1_+1+2+2_7+2+1_5_ //]
+BEM[Wariant taktu 6 1_7+2+2_7+2+1_5_]
+
+DWOK52
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK52 Białoruś-Polesie s.429 z Owruckiego]
+FKT[]
+SIG[5268200000]
+KEY[52682   16  C 3/4 2/4]
+MEL[5_+1_+3__+3_+2_  (+1_7_6_)5___  4_6_6_.66_6_  5___.
+    (5_7_+2_)+4_+3_  (+2_+3_+1_)+1_7__.  (5_+1_+1_)(7_6_7_)  +1___ //]
+BEM[Wariant taktu 1 (5_+1_+2_)+3__+3_+2_]

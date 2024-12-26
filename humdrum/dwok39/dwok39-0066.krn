@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3906600000-podkoweczki_dajta_ognia.krn
+!!!OTL: Podkóweczki, dajta ognia
+!!!source: DWOK39
+!!!id: 39066
+!!!signature: 3906600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4dd
+4cc
+=2
+8b
+8g
+4b
+4dd}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+4cc
+4b
+=4
+8a
+8g
+4f#
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4b
+4g
+=6
+8f#
+8d
+4f#
+4a}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+4cc
+4b
+=8
+8a
+8g
+4f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 129} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 129}
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

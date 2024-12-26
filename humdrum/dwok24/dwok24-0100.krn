@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK2410000000-wyjezdzaj_wyjezdzaj.krn
+!!!OTL: Wyjeżdżaj wyjeżdżaj
+!!!source: DWOK24
+!!!id: 24100
+!!!signature: 2410000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8a
+8b
+=2
+4cc
+4ee
+=3
+8g
+8g
+8a
+8b
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8a
+8b
+=6
+4cc
+4ee
+=7
+8g
+8g
+8a
+8b
+=8
+4cc
+4cc}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+8a
+8b
+=10
+8cc
+8ee
+16cc
+16b
+8a
+=11
+8g
+8g
+8a
+8b
+=12
+8cc
+8ee
+16cc
+16b
+8a}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+8a
+8b
+=14
+4cc
+4cc
+=15
+8g
+8g
+8a
+8b
+=16
+4cc
+4ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 228} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 228}
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

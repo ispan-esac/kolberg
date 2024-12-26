@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK5318300001-o_jevuze_jevuze.krn
+!!!OTL: O! Jevuze, jevuze
+!!!source: DWOK53
+!!!id: 53183
+!!!signature: 5318300001
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4ee
+4ee
+4ee
+=2
+4ee
+4dd
+2cc}
+!!LO:LB:g=esac
+=3
+{4ee
+4ff
+4gg
+4gg
+=4
+4gg
+4gg
+2ee}
+!!LO:LB:g=esac
+=5
+{2gg
+2ff
+=6
+4ee
+4ee}
+2r
+!!LO:LB:g=esac
+=7
+{4dd
+4dd
+2cc
+=8
+4ee
+4ff
+4gg
+4gg}
+!!LO:LB:g=esac
+=9
+{4gg
+4gg
+2ee
+=10
+2gg
+2ff}
+!!LO:LB:g=esac
+=11
+{4ee
+4ee
+2r
+=12
+4dd
+4dd
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=345 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 307} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 307}
+!!!page: 307
+!!!ONB: Converted on 2024/12/26 with esac2hum

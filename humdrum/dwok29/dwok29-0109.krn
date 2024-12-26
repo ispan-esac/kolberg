@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2910900000-swaryla_sia_pszenycia_z_kukulem.krn
+!!!OTL: Swaryła sia pszenycia z kukułem
+!!!source: DWOK29
+!!!id: 29109
+!!!signature: 2910900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8g
+8b
+=2
+8cc
+8b
+8b
+8a
+=3
+2g
+=4
+4b
+4b
+=5
+2cc}
+!!LO:LB:g=esac
+=6
+{8dd
+8dd
+8dd
+8b
+=7
+8cc
+8b
+8b
+8g
+=8
+2a
+=9
+4b
+4g
+=10
+2g}
+!!LO:LB:g=esac
+=11
+{8b
+8dd
+8dd
+8b
+=12
+8cc
+8b
+8b
+8g
+=13
+2a
+=14
+4b
+4g
+=15
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 227} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 227}
+!!!page: 227
+!!!ONB: Converted on 2024/12/26 with esac2hum

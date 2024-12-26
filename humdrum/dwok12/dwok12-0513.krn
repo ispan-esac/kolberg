@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK1251300000-jechal_kuba_do_warsegi.krn
+!!!OTL: Jechał Kuba do Warsęgi
+!!!source: DWOK12
+!!!id: 12513
+!!!signature: 1251300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8g
+8b
+=2
+16dd
+16ee
+8dd
+8dd
+=3
+16dd
+16gg
+8dd
+8dd}
+!!LO:LB:g=esac
+=4
+{16a
+16a
+8a
+8b
+=5
+4g
+8b
+=6
+4.dd
+=7
+16a
+16a
+8a
+8b
+=8
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 266} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 266}
+!!!page: 266
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7705200000-z_tegos_mi_sie_dziewczyno.krn
+!!!OTL: Z tegoś mi się dziewczyno
+!!!source: DWOK77
+!!!id: 77052
+!!!signature: 7705200000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16cc#
+8ee
+16dd#
+16ff#
+=2
+8ee
+16a
+16cc#
+8ee
+=3
+16a
+16cc#
+8ee
+16dd#
+16ff#
+=4
+8ee
+16a
+16cc#
+8a}
+!!LO:LB:g=esac
+=5
+{16a
+16cc#
+8cc#
+8b
+=6
+16a
+16g#
+8b
+8ee
+=7
+16a
+16cc#
+8cc#
+8b
+=8
+16a
+16g#
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 53
+!!!ONB: Converted on 2024/12/26 with esac2hum

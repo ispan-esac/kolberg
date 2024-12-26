@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3036800000-hoj_lekila_zazuleczka_czerez_more_w_haj.krn
+!!!OTL: Hoj łekiła zazułeczka czerez more w haj
+!!!source: DWOK30
+!!!id: 30368
+!!!signature: 3036800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8cc
+8cc
+=2
+8cc
+8cc
+8b
+8g
+=3
+8dd
+8dd
+8ff
+8ff
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff
+8ee
+8ee
+=6
+8dd
+8dd
+8cc
+8ee
+=7
+8dd
+8dd
+8cc
+8cc
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 199} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

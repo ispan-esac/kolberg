@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2711400000-potocyla_swoj_wianek.krn
+!!!OTL: Potocyła swój wianek
+!!!source: DWOK27
+!!!id: 27114
+!!!signature: 2711400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8b
+8a
+8dd
+=2
+8cc
+8b
+8a
+8dd
+=3
+4cc
+4b
+=4
+2a}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ee
+8a
+=6
+4cc
+8cc
+8a
+=7
+8cc
+8dd
+8ee
+8a
+=8
+8cc
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=9
+{8cc
+8dd
+4cc
+=10
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 201} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 201}
+!!!page: 201
+!!!ONB: Converted on 2024/12/26 with esac2hum

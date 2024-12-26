@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK3652200000-co_za_smialosc_jaka_sila.krn
+!!!OTL: Co za śmiałość jaka siła
+!!!source: DWOK36
+!!!id: 36522
+!!!signature: 3652200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16d
+8g
+8g
+=2
+16g
+16a
+8b
+8d
+=3
+16d
+16d
+8f#
+8f#
+=4
+16f#
+16g
+8a
+8d}
+!!LO:LB:g=esac
+=5
+{16d
+16d
+8g
+8g
+=6
+16dd
+16dd
+8b
+8g
+=7
+16d
+16d
+8f#
+8f#
+=8
+16f#
+16g
+8a
+8a}
+!!LO:LB:g=esac
+=9
+{16b
+16cc
+8dd
+8dd
+=10
+16dd
+16dd
+8ee
+8dd
+=11
+16dd
+16ee
+8cc
+8cc
+=12
+16cc
+16cc
+8dd
+8cc}
+!!LO:LB:g=esac
+=13
+{16b
+16cc
+8dd
+8dd
+=14
+16dd
+16dd
+8ee
+8dd
+=15
+16dd
+16ee
+8cc
+16a
+16f#
+=16
+16g
+16g
+8b
+8g}
+==
+*-
+!!!ONB: Błędne metrum podane, zapisano na 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 341
+!!!ONB: Converted on 2024/12/26 with esac2hum

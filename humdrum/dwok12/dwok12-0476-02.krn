@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK1247600002-ono_moja_zono.krn
+!!!OTL: Żono moja żono
+!!!source: DWOK12
+!!!id: 12476
+!!!signature: 1247600002
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+16f
+8dd
+8b-
+=2
+16b-
+16a
+4cc
+=3
+16f
+16f
+8a
+8cc
+=4
+16cc
+16dd
+4b-}
+!!LO:LB:g=esac
+=5
+{16f
+16f
+8dd
+8b-
+=6
+16b-
+16a
+4cc
+=7
+16f
+16f
+8g
+8a
+=8
+16cc
+16dd
+4b-}
+!!LO:LB:g=esac
+=9
+{16ee-
+16ee-
+8dd
+8cc
+=10
+16dd
+16ff
+4gg
+=11
+16ee-
+16ee-
+8dd
+8cc
+=12
+16dd
+16a
+4b-}
+!!LO:LB:g=esac
+=13
+{16ee-
+16ee-
+8dd
+8cc
+=14
+16dd
+16ff
+4gg
+=15
+16ee-
+16ee-
+8dd
+8cc
+=16
+16dd
+16a
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=262 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 246} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 246}
+!!!page: 246
+!!!ONB: Converted on 2024/12/26 with esac2hum

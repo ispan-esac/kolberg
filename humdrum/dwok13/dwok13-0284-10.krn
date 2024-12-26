@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1328400010-po_zaplociu.krn
+!!!OTL: Po zapłociu
+!!!source: DWOK13
+!!!id: 13284
+!!!signature: 1328400010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8.cc
+16ee
+=2
+16ff
+16dd
+8gg
+8ee
+=3
+16g
+16b
+8.cc
+16ee
+=4
+16ff
+16dd
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8.dd
+16dd
+=6
+16a
+16cc
+8ee
+8dd
+=7
+8dd
+8dd
+8dd
+=8
+16ee
+16cc
+8a
+8g}
+!!LO:LB:g=esac
+=9
+{8b
+8.dd
+16dd
+=10
+16a
+16cc
+8ee
+8dd
+=11
+8dd
+8dd
+8dd
+=12
+16ee
+16cc
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 131-132} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 131-132}
+!!!page: 131-132
+!!!ONB: Converted on 2024/12/26 with esac2hum

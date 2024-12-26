@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2221100001-z_tamtej_strony_jeziora.krn
+!!!OTL: Z tamtej strony jeziora
+!!!source: DWOK22
+!!!id: 22211
+!!!signature: 2221100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+4dd
+=3
+2b}
+!!LO:LB:g=esac
+=4
+{8dd
+8ee
+8ff#
+8dd
+=5
+4gg
+4ee
+=6
+2dd}
+!!LO:LB:g=esac
+=7
+{4gg
+8dd
+8dd
+=8
+4ee
+4a
+=9
+4cc
+8gg
+8ee
+=10
+4dd
+4g}
+!!LO:LB:g=esac
+=11
+{8a
+8cc
+8b
+8dd
+=12
+4a
+4a
+=13
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 126} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 126}
+!!!page: 126
+!!!ONB: Converted on 2024/12/26 with esac2hum

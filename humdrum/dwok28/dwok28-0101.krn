@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK2810100000-ne_placze_jadamko.krn
+!!!OTL: Ne płacze Jadamko
+!!!source: DWOK28
+!!!id: 28101
+!!!signature: 2810100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+8cc#
+16a
+16f#
+8g
+=3
+8b
+4cc
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+16dd
+16cc#
+=6
+8cc#
+16a
+16g
+8b
+=7
+16b
+16a
+8dd
+8b
+=8
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 163} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 163}
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

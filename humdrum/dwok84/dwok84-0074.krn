@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK8407400000-polubyla_petrusia.krn
+!!!OTL: Polubyła Petrusia
+!!!source: DWOK84
+!!!id: 84074
+!!!signature: 8407400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8cc
+=2
+8b
+8cc
+4a}
+!!LO:LB:g=esac
+=3
+{8cc
+8dd
+8ee
+8ee
+=4
+8dd
+8ff#
+4ee}
+!!LO:LB:g=esac
+=5
+{4ee
+8dd
+8b
+=6
+8cc
+8cc
+4a}
+!!LO:LB:g=esac
+=7
+{8g
+8g
+8e
+8cc
+=8
+8a
+8a
+4a}
+==
+*-
+!!!ONB: Wariant t. 1-2: 1_123b_3b_  3b_241__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 95} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 95}
+!!!page: 95
+!!!ONB: Converted on 2024/12/26 with esac2hum

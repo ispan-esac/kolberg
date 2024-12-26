@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK5302600000-mociute_manu_enoji_manu.krn
+!!!OTL: Mociute manu, enoji manu!
+!!!source: DWOK53
+!!!id: 53026
+!!!signature: 5302600000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{4b-
+4dd
+4b-
+=2
+2cc
+4cc}
+!!LO:LB:g=esac
+=3
+{4ff
+4ee-
+4gg
+=4
+2ff
+4cc}
+!!LO:LB:g=esac
+=5
+{4dd
+4cc
+4b-
+=6
+2ee-
+4dd}
+!!LO:LB:g=esac
+=7
+{4cc
+4a
+4f
+=8
+2b-
+4cc}
+!!LO:LB:g=esac
+=9
+{4dd
+4cc
+4b-
+=10
+2ee-
+4dd}
+!!LO:LB:g=esac
+=11
+{4cc
+4a
+4f
+=12
+2.b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 194} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 194}
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

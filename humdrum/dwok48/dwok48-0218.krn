@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK4821800000-czas_pogodny_sprzyja_nam.krn
+!!!OTL: Czas pogodny sprzyja nam
+!!!source: DWOK48
+!!!id: 48218
+!!!signature: 4821800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+8.a
+16g
+=2
+16f#
+16g
+4a
+=3
+16.b
+32a
+8g
+8g
+=4
+16g
+16a
+8b
+8b}
+!!LO:LB:g=esac
+=5
+{16.cc
+32b
+8.a
+16g
+=6
+16f#
+16g
+4a
+=7
+16g
+16g
+4g
+=8
+16b
+16b
+4b
+=9
+16dd
+16dd
+4ff
+=10
+4.ff}
+!!LO:LB:g=esac
+=11
+{16ee
+16dd
+8cc
+8cc
+=12
+16cc
+16dd
+8ee
+8ee
+=13
+16ff
+16ee
+8.dd
+16cc
+=14
+16b
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 243} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 243}
+!!!page: 243
+!!!ONB: Converted on 2024/12/26 with esac2hum

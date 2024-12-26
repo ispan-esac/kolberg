@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1708300000-oj_zdybalem_se_ptaszka.krn
+!!!OTL: Oj zdybałem se ptaszka
+!!!source: DWOK17
+!!!id: 17083
+!!!signature: 1708300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8gg
+8gg
+8ff
+=2
+16ee
+16gg
+8gg
+8ff
+=3
+8ee
+8cc
+8dd
+=4
+16b
+16dd
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+8g
+=6
+16b
+16cc
+8dd
+8ff
+=7
+8ee
+8cc
+8dd
+=8
+16b
+16dd
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 30} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 30}
+!!!page: 30
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK06-K0289a-slicne_gozdziki.krn
+!!!OTL: Slicne gozdziki
+!!!source: DWOK06
+!!!id: K0289a
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4f
+4a
+4cc
+=2
+8cc
+16b-
+16a
+4g
+4g
+=3
+8b-
+8g
+4b-
+4dd
+=4
+16cc
+16b-
+16a
+16g
+4g
+8f}
+8r
+!!LO:LB:g=esac
+=5
+{8.cc
+16b-
+8a
+8cc
+8ff
+8dd
+=6
+8.cc
+16b-
+8a
+8cc
+8ff
+8dd
+=7
+8cc
+8b-
+8g
+8b-
+4dd
+=8
+16cc
+16b-
+16a
+16g
+4g
+8f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=171 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 145} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 145}
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

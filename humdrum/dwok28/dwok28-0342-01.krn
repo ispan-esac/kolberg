@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2834200001-gdziez_to_jedzies_jasiu.krn
+!!!OTL: Gdzież to jedzies Jasiu
+!!!source: DWOK28
+!!!id: 28342
+!!!signature: 2834200001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+4cc
+=2
+8b
+4cc
+=3
+4.ee
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{8dd
+4ee
+=6
+8ee
+4dd
+=7
+4.cc
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8b
+4cc
+=10
+8dd
+4ff
+=11
+4.ee
+=12
+4.dd
+=13
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=323 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 304} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 304}
+!!!page: 304
+!!!ONB: Converted on 2024/12/26 with esac2hum

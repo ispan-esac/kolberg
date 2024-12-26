@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK5306200000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK53
+!!!id: 53062
+!!!signature: 5306200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+16g
+16a
+=2
+8g
+8d
+16g
+16a}
+!!LO:LB:g=esac
+=3
+{8b
+8g
+16b
+16cc
+=4
+8dd
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{4.a
+=6
+8dd
+16b
+16g
+16b
+16g}
+!!LO:LB:g=esac
+=7
+{8dd
+16b
+16g
+16b
+16g
+=8
+16b
+16cc
+8b
+8a}
+==
+*-
+!!!ONB: Wizyta u młodej męzatki (Duktemano)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 213} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 213}
+!!!page: 213
+!!!ONB: Converted on 2024/12/26 with esac2hum

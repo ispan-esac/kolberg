@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK1940600020-oj_dolej_ze_mi_dolej.krn
+!!!OTL: Oj dolej że mi dolej
+!!!source: DWOK19
+!!!id: 19406
+!!!signature: 1940600020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8f#
+8a
+8b
+=2
+16cc
+16a
+8f#
+8g
+=3
+8a
+8b
+8g
+=4
+16cc
+16a
+8f#
+8d
+=5
+16f#
+16a
+8b
+8a
+=6
+16g
+16f#
+4g}
+==
+*-
+!!!ONB: Takt przedostatni w zapisie Kolberga jest na 2/8, zapisano rytm jak w takcie poprzednim
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 123} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

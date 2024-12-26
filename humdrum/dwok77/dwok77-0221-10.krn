@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7722100010-oj_hulal_ci_ja_hulal.krn
+!!!OTL: Oj hulał ci ja hulał
+!!!source: DWOK77
+!!!id: 77221
+!!!signature: 7722100010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8dd
+8.ff
+16aa
+=2
+16.aa
+32gg
+8gg
+8dd
+=3
+16b
+16dd
+8.ff
+16cc
+=4
+16.cc
+32ee
+8ee
+8dd}
+!!LO:LB:g=esac
+=
+{24g
+24b
+24dd
+8.ff
+16cc
+=5
+16.cc
+32a
+8a
+8b
+=
+24g
+24b
+24dd
+8.ff
+16cc
+=6
+16.cc
+32ee
+8ee
+8dd}
+==
+*-
+!!!ONB: Od taktu 9 do 16 melodia instrumentalna. W t. 1 i 2 wariant: (5_7_+2_)+4__+6__  +5_+4#_+5__+2__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 127
+!!!ONB: Converted on 2024/12/26 with esac2hum

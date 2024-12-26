@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2544200000-oj_sporziol_na_slonecko.krn
+!!!OTL: Oj sporzioł na słonecko
+!!!source: DWOK25
+!!!id: 25442
+!!!signature: 2544200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8b
+16cc
+16ee
+=2
+16dd
+16ff
+8aa
+16aa
+16gg
+=3
+8dd
+8b
+16cc
+16ee
+=4
+16cc
+16cc
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+16b
+16g
+=6
+16dd
+16dd
+8dd
+8dd
+=7
+8g
+8a
+16b
+16g
+=8
+16cc
+16cc
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 187} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

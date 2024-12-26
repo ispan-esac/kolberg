@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK8201700000-dajze_boze_dobryj_czas.krn
+!!!OTL: Dajże Boże dobryj czas
+!!!source: DWOK82
+!!!id: 82017
+!!!signature: 8201700000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4cc
+4dd
+4ee
+4ee
+=2
+8dd
+8cc
+4ee
+8dd
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=3
+{4cc
+4dd
+4ee
+4ee
+=4
+8dd
+8cc
+4ee
+8dd
+16cc
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 16} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

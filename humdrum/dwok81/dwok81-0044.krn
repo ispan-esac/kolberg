@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK8104400000-instrumentalna-kolomyjka_dawna.krn
+!!!OTL: Instrumentalna-Kołomyjka dawna
+!!!source: DWOK81
+!!!id: 81044
+!!!signature: 8104400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4ee
+4ee
+=2
+4ee
+4ee
+=3
+4ee
+4ee
+=4
+4ee
+4ee}
+!!LO:LB:g=esac
+=5
+{4cc
+8cc
+8g
+=6
+4cc
+16dd
+16ee
+16ff
+16ee
+=7
+4cc
+4cc
+=8
+4cc
+4g}
+==
+*-
+!!!ONB: Kołomyjka dawna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 42} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 42}
+!!!page: 42
+!!!ONB: Converted on 2024/12/26 with esac2hum

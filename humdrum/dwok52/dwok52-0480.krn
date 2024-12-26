@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK5248000000-rano_ranienko_kunkuwala.krn
+!!!OTL: Rano, ranieńko kunkuwała
+!!!source: DWOK52
+!!!id: 52480
+!!!signature: 5248000000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+{8g
+8cc
+8b
+8cc
+4dd
+=
+!!UNCATEGORIZED MEASURE
+4gg
+12ff
+12ee
+12ff
+2dd}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8gg
+8ff
+8aa
+8gg
+4ff
+=2
+*M2/4
+16dd
+16ee
+16dd
+16cc
+4cc}
+!!LO:LB:g=esac
+=3
+*M3/4
+{8gg
+8ff
+8aa
+8gg
+4ff
+=4
+12dd
+12ee
+12cc
+2dd}
+==
+*-
+!!!ONB: Kiedy młoda nie ma ojca i matki, sierota, wariant t. 1 5_+1_+2_+1_+2__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 302} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 302}
+!!!page: 302
+!!!ONB: Converted on 2024/12/26 with esac2hum

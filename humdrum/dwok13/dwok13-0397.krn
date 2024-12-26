@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1339700000-ty_dziewucho_wedlesianko.krn
+!!!OTL: Ty dziewucho Wędlesianko
+!!!source: DWOK13
+!!!id: 13397
+!!!signature: 1339700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8ee
+16dd
+16b
+=2
+16a
+16b
+8g
+16f#
+16d
+=3
+16g
+16b
+8ee
+8ff#
+=4
+8.ee
+16dd
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8ee
+16dd
+16b
+=6
+16a
+16b
+8g
+16f#
+16d
+=7
+16d
+16e
+8d
+8a
+=8
+8.a
+16b
+16g
+16d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=190 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 166} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 166}
+!!!page: 166
+!!!ONB: Converted on 2024/12/26 with esac2hum

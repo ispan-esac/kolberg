@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK0304200020-oj_chmielu_chmielu.krn
+!!!OTL: Oj chmielu chmielu
+!!!source: DWOK03
+!!!id: K0042b
+!!!signature: 0304200020
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16dd
+16ee
+8ff#
+16ee
+16dd
+=2
+16dd
+16cc
+8b-
+8a
+=3
+16g
+16a
+16b-
+16cc
+8dd
+=4
+4.dd}
+!!LO:LB:g=esac
+=
+{16dd
+16ee
+8ff#
+24ff#
+24ee
+24dd
+=5
+16dd
+16cc
+8b-
+8a
+=6
+16g
+16a
+32b-
+32a
+32b-
+32cc
+16dd
+16ee
+=7
+4.dd}
+!!LO:LB:g=esac
+=
+{8dd
+8a
+24d
+24f#
+24g
+=
+8cc
+8dd
+24b-
+24a
+24g
+=
+8dd
+8a
+24d
+24f#
+24g
+=
+8cc
+8dd
+24b-
+24a
+24g}
+!!LO:LB:g=esac
+=
+{24b-
+24cc
+24dd
+8dd
+8a
+=8
+4.g}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 275} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 275}
+!!!page: 275
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK4111000001-miedzy_ogrody_tam_bystre_wody.krn
+!!!OTL: Między ogrody tam bystre wody
+!!!source: DWOK41
+!!!id: 41110
+!!!signature: 4111000001
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8dd
+8a
+8cc#
+=2
+4dd
+8a}
+!!LO:LB:g=esac
+=3
+{8g
+8.b-
+16g
+=4
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8g
+=6
+4b-
+8g}
+!!LO:LB:g=esac
+=7
+{8g
+8b-
+8cc
+=8
+4dd
+8b-}
+!!LO:LB:g=esac
+=9
+{4dd
+8cc
+=10
+16b-
+16a
+8g
+8f#
+=11
+4g
+8g}
+!!LO:LB:g=esac
+=12
+{8d
+8f#
+8g
+=13
+4b-
+8g}
+!!LO:LB:g=esac
+=14
+{8g
+8b-
+8cc
+=15
+4dd
+8b-}
+!!LO:LB:g=esac
+=16
+{4dd
+8cc
+=17
+16b-
+16a
+8g
+8f#
+=18
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 81} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 81}
+!!!page: 81
+!!!ONB: Converted on 2024/12/26 with esac2hum

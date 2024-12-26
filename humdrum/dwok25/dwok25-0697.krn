@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2569700000-fujarka-instrumentalna.krn
+!!!OTL: Fujarka-Instrumentalna
+!!!source: DWOK25
+!!!id: 25697
+!!!signature: 2569700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+{8a
+24cc#
+24b
+24a
+8a
+8cc#
+=1
+4.dd
+8b
+=
+8a
+24a
+24b
+24a
+8a
+8cc#
+=2
+4.dd
+8b
+=
+8a
+24a
+24b
+24a
+8a
+8g}
+!!LO:LB:g=esac
+=3
+{8b
+8g
+8b
+8g
+=4
+8a
+8cc#
+8a
+8cc#
+=5
+4.dd
+8b
+=
+8a
+24a
+24b
+24a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 248} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 248}
+!!!page: 248
+!!!ONB: Converted on 2024/12/26 with esac2hum

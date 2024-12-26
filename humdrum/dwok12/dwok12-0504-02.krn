@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK1250400002-na_naszem_polu_piekny_przysiewek.krn
+!!!OTL: Na naszem polu piękny przysiewek
+!!!source: DWOK12
+!!!id: 12504
+!!!signature: 1250400002
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{8g
+8g
+8g
+4cc
+8g
+=2
+8g
+8e
+8g
+4cc
+8g
+=3
+8g
+8ee
+8ee
+4ee
+8cc
+=4
+8b
+8a
+8b
+4cc
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8ee
+8ee
+4ee
+8cc
+=6
+8a
+8a
+8a
+4a
+8f
+=7
+8f
+8a
+8a
+4g
+8b
+=8
+8b
+8a
+8b
+4cc
+8cc}
+!!LO:LB:g=esac
+=9
+{8g
+8ee
+8ee
+4ee
+8cc
+=10
+8a
+8a
+8a
+4a
+8f
+=11
+8f
+8a
+8a
+4dd
+8b
+=12
+8b
+8a
+8b
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 262} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 262}
+!!!page: 262
+!!!ONB: Converted on 2024/12/26 with esac2hum

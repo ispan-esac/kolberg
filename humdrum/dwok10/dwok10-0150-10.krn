@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1015000010-moja_marys_juz_niewiasta.krn
+!!!OTL: Moja Maryś już niewiasta
+!!!source: DWOK10
+!!!id: 10150
+!!!signature: 1015000010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+4a
+8cc
+4ee
+=2
+8dd
+4b
+8g
+8cc
+8b
+=3
+8a
+4a
+8cc
+4ee
+=4
+8dd
+4b
+8g
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+4a
+8g
+8b
+8cc
+=6
+8a
+4b
+8g
+8cc
+8b
+=7
+8a
+4a
+8g
+8b
+8cc
+=8
+8a
+4b
+8g
+8a
+8g}
+==
+*-
+!!!ONB: Polonez weselny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=326 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 310} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 310}
+!!!page: 310
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4486200001-hore_hore.krn
+!!!OTL: Hore, hore
+!!!source: DWOK44
+!!!id: 44862
+!!!signature: 4486200001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8a
+8dd
+=2
+8cc
+4b
+=3
+8a
+4b
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{8ee
+4ee
+=6
+8ee
+4ee
+=7
+8dd
+8ee
+8dd
+=8
+8cc
+8cc
+8dd}
+!!LO:LB:g=esac
+=9
+{8a
+4b
+=10
+8a
+8ee
+8dd
+=11
+8cc
+8cc
+8dd
+=12
+8a
+4b
+=13
+8cc
+4b
+=14
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=463 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 405} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 405}
+!!!page: 405
+!!!ONB: Converted on 2024/12/26 with esac2hum

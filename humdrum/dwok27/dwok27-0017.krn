@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK2701700000-stoi_byliczka_przy_odlogu.krn
+!!!OTL: Stoi byliczka przy odłogu
+!!!source: DWOK27
+!!!id: 27017
+!!!signature: 2701700000
+**kern
+*clefG2
+*k[b-]
+*F:
+=1
+{8f
+8a
+4b-
+4cc
+4a
+=
+!!UNCATEGORIZED MEASURE
+4.cc
+8dd
+8cc
+8b-
+12g
+12a
+12f
+=2
+*M4/4
+8f
+8g
+8a
+8b-
+4cc
+4a
+=
+!!UNCATEGORIZED MEASURE
+4.cc
+8dd
+8cc
+8b-
+12g
+12a
+12f}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{4a
+8cc
+8b-
+8g
+8e
+=3
+*M3/4
+2f
+4r
+=4
+8a
+8a
+8cc
+8b-
+8g
+8e
+=5
+2f}
+4r
+!!LO:LB:g=esac
+=6
+*M2/4
+{8f
+8a
+8cc
+8a
+=7
+4.cc
+8dd
+=
+!!UNCATEGORIZED MEASURE
+8cc
+8b-
+12g
+12a
+12f
+=8
+*M2/4
+8f
+8a
+8cc
+8a
+=9
+4.cc
+8dd
+=10
+8cc
+8b-
+12g
+12a
+12f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 142} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 142}
+!!!page: 142
+!!!ONB: Converted on 2024/12/26 with esac2hum

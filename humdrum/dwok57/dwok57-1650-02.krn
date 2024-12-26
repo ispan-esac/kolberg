@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK57165000002-pislala_maty_syna_w_dorohu.krn
+!!!OTL: Pisłała maty syna w dorohu
+!!!source: DWOK57
+!!!id: 571650
+!!!signature: 57165000002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+16cc
+16cc
+8a
+8cc
+=2
+2dd
+=3
+8cc
+8dd
+8a
+8cc
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8a
+8a
+=6
+4.dd
+8cc
+=7
+16cc
+16b
+8b
+16cc
+16b
+8b
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 722
+!!!ONB: Converted on 2024/12/26 with esac2hum

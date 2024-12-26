@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK3613400001-ej_najmu_ja_kosaryw_z_czotyry.krn
+!!!OTL: Ej najmu ja kosaryw z czotyry
+!!!source: DWOK36
+!!!id: 36134
+!!!signature: 3613400001
+**kern
+*clefG2
+*k[b-]
+*d:
+=1
+*M2/4
+{8ff
+16ff
+16ee
+8dd
+8ff
+=2
+16ee
+16cc#
+16a
+16ee
+8aa
+8aa
+=3
+8ff
+16ff
+16ee
+8dd
+8ff
+=4
+16ee
+16cc#
+16a
+16cc#
+8dd
+8dd}
+!!LO:LB:g=esac
+=5
+{4aa
+16ff
+16aa
+16ccc
+16aa
+=6
+16aa
+16gg
+16ee
+16gg
+16bb
+16aa
+8gg
+=7
+*M2/8
+16gg
+16ff
+8ee}
+!!LO:LB:g=esac
+=8
+*M2/4
+{8dd
+16ee
+16ff
+16gg
+16ff
+8ee
+=9
+16ee
+16cc#
+16a
+16cc#
+8aa
+8gg
+=10
+*M2/8
+16gg
+16ff
+8ee}
+!!LO:LB:g=esac
+=11
+*M2/4
+{8dd
+16ee
+16ff
+16gg
+16ff
+8ee
+=12
+16ee
+16cc#
+16a
+16cc#
+8dd
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

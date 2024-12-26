@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK3406600000-diwczynonko_hop_czuh_czuh.krn
+!!!OTL: Diwczynońko hop czuh czuh
+!!!source: DWOK34
+!!!id: 34066
+!!!signature: 3406600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+8cc
+8a
+=2
+4a
+4g
+=3
+8b
+8dd
+8cc
+8a
+=4
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8f#
+8b
+=6
+4a
+4f#
+=7
+8b
+8dd
+8cc
+8a
+=8
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 41} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 41}
+!!!page: 41
+!!!ONB: Converted on 2024/12/26 with esac2hum

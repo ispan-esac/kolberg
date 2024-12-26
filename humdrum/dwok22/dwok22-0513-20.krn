@@ -1,0 +1,120 @@
+!!!!SEGMENT: DWOK2251300020-instrumentalna-siano_cedzila.krn
+!!!OTL: Instrumentalna-Siano cedziła
+!!!source: DWOK22
+!!!id: 22513
+!!!signature: 2251300020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+16f#
+16a
+16cc
+16ee
+=2
+16ee
+16ee
+8dd
+16b
+16dd
+=3
+16ee
+16ee
+8dd
+16b
+16g
+=4
+8dd
+8cc
+16a
+16f#}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+16a
+16b
+=6
+16g
+16e
+8c
+16c
+16e
+=7
+16g
+16e
+8c
+16e
+16g
+=8
+8f#
+8a
+16f#
+16d}
+!!LO:LB:g=esac
+=9
+{8d
+16f#
+16a
+16cc
+16ee
+=
+24ee
+24gg
+24ee
+8dd
+24dd
+24b
+24dd
+=
+24ee
+24gg
+24ee
+8dd
+24b
+24g
+24b
+=
+8dd
+8cc
+24cc
+24a
+24f#}
+!!LO:LB:g=esac
+=10
+{8d
+8f#
+16a
+16b
+=
+24b
+24g
+24e
+8c
+24c
+24e
+24g
+=
+24b
+24g
+24e
+8c
+24c
+24e
+24g
+=11
+8f#
+8a
+16f#
+16d}
+==
+*-
+!!!ONB: Partia instrumentalna-Okragly
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 238} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 238}
+!!!page: 238
+!!!ONB: Converted on 2024/12/26 with esac2hum

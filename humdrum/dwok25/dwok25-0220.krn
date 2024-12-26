@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2522000000-miedzy_dwoma_kamieniami.krn
+!!!OTL: Między dwoma kamieniami
+!!!source: DWOK25
+!!!id: 25220
+!!!signature: 2522000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8a
+8cc
+8a
+=2
+4cc
+4ff
+=3
+4.dd
+8b-
+=4
+8g
+8g
+8b-
+8dd
+=5
+8cc
+8a
+8b-
+8g
+=6
+4f
+4f}
+!!LO:LB:g=esac
+=7
+{2cc
+=8
+2f
+=9
+8g
+8g
+8b-
+8dd
+=10
+8cc
+8a
+8b-
+8g
+=11
+4f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 96} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

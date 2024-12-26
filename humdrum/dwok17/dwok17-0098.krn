@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1709800000-a_chodzila_po_miedzy_i_sukala_pieniedzy.krn
+!!!OTL: A chodziła po miedzy i sukała pieniędzy
+!!!source: DWOK17
+!!!id: 17098
+!!!signature: 1709800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+16a
+16cc
+8ee
+=2
+8dd
+16a
+16b
+8dd
+=3
+16b
+16cc
+16a
+16f#
+16d
+16f#
+=4
+8e
+16d
+16e
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+8cc
+=6
+8b
+16a
+16b
+8g
+=7
+8b
+16a
+16f#
+8d
+=8
+8e
+16d
+16e
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=56 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 34} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 34}
+!!!page: 34
+!!!ONB: Converted on 2024/12/26 with esac2hum

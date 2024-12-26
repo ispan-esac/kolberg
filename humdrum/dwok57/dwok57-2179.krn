@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK57217900000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK57
+!!!id: 572179
+!!!signature: 57217900000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8aa
+8ee
+8dd#
+=2
+8.ee
+16b
+16cc
+16b
+8a
+=3
+8ee
+8aa
+8ee
+8dd#
+=4
+8.cc
+16b
+4a}
+!!LO:LB:g=esac
+=5
+{8ee
+8aa
+8ee
+8dd#
+=6
+8.ee
+16b
+16cc
+16b
+8a
+=7
+8a
+16cc
+16b
+8a
+8e
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{8dd#
+8dd#
+8ee
+8ee
+=
+12dd#
+12a
+12dd#
+8ee
+8ee
+=
+12dd#
+12a
+12dd#
+8ee
+8ee
+=10
+8.cc
+16b
+4a}
+!!LO:LB:g=esac
+=
+{12dd#
+12a
+12dd#
+8ee
+8ee
+=
+12dd#
+12a
+12dd#
+8ee
+8ee
+=11
+8a
+16cc
+16b
+8a
+8e
+=12
+8a
+8e
+4a}
+==
+*-
+!!!ONB: Wariant t. 8-9: 1_-5_-5__  (4#_1_4#_)5_5_; wariant t. 15: 123b21_-5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1212
+!!!ONB: Converted on 2024/12/26 with esac2hum

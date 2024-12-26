@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1934800001-pocozess_ty_wolski_przygnals.krn
+!!!OTL: Pocóześś ty wołśki przygnałś
+!!!source: DWOK19
+!!!id: 19348
+!!!signature: 1934800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.gg
+16gg
+16dd
+16ee
+=2
+16dd
+16a
+16cc
+16a
+8g
+=3
+8.dd
+16cc#
+16dd
+16ee
+=
+16dd
+16a
+24dd
+24cc
+24a
+8g}
+!!LO:LB:g=esac
+=4
+{16f#
+16d
+8f#
+8a
+=5
+16dd
+16a
+16cc
+16a
+8g
+=6
+16f#
+16d
+16f#
+16g
+16a
+16b
+=
+24dd
+24cc
+24a
+16cc
+16a
+8dd}
+==
+*-
+!!!ONB: W pierwszym takcie przy powtórzeniu brakuje kropki przy pierwszej nucie, dopisano ją przy zapisie. Po takcie trzecim i czwartym brak znaku powtórzenia, na co wskazują dwa warianty melodii. Przy zapisie uwzględniono powtórzenie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 106} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 106}
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

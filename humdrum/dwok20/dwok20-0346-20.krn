@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2034600020-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK20
+!!!id: 20346
+!!!signature: 2034600020
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.dd
+16ff#
+8gg
+8gg
+=2
+8ee
+8ff#
+8gg
+8gg
+=3
+8.ff
+16ee
+8dd
+8dd
+=4
+4cc
+16dd
+8.b}
+!!LO:LB:g=esac
+=5
+{8.cc
+16ee
+8dd
+8b
+=6
+4cc
+16dd
+8.b
+=7
+8.cc
+16ee
+8dd
+8b
+=8
+4cc
+16b
+8.g}
+!!LO:LB:g=esac
+=9
+{8.cc
+16ee
+8dd
+8b
+=10
+4cc
+16dd
+8.b
+=11
+8.cc
+16ee
+8dd
+8b
+=12
+4cc
+16b
+8.g}
+==
+*-
+!!!ONB: Utwór złożony z dwóch części w różnym metrum
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=253 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 233} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

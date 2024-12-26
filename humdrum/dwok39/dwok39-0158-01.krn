@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK3915800001-sluzyl_jasiek_we_dworze.krn
+!!!OTL: Służył Jasiek we dworze
+!!!source: DWOK39
+!!!id: 39158
+!!!signature: 3915800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{4g
+8b
+8cc
+8b
+8a
+=2
+4g
+8f
+4e}
+8r
+!!LO:LB:g=esac
+=3
+{4e
+8f
+4g
+8a
+=4
+4g
+8f
+4e}
+8r
+!!LO:LB:g=esac
+=5
+{4g
+8b
+4dd
+8g
+=6
+4cc
+8dd
+4.ee}
+!!LO:LB:g=esac
+=7
+{8ff
+8ee
+8dd
+8ee
+8dd
+8cc
+=8
+4dd
+8b
+4cc}
+8r
+!!LO:LB:g=esac
+=9
+{4g
+8b
+4dd
+8g
+=10
+4cc
+8dd
+4.ee}
+!!LO:LB:g=esac
+=11
+{8ff
+8ee
+8dd
+8ee
+8dd
+8cc
+=12
+4dd
+8b
+4cc}
+8r
+==
+*-
+!!!ONB: Zakodować w C?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 197} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 197}
+!!!page: 197
+!!!ONB: Converted on 2024/12/26 with esac2hum

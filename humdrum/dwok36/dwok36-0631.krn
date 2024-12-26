@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK3663100000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK36
+!!!id: 36631
+!!!signature: 3663100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.cc
+16cc
+8b
+8a
+=2
+8g
+8b
+8dd
+8ff
+=3
+8.ee
+16b
+8cc
+8a
+=4
+4g
+4cc}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8cc
+8a
+=6
+8g
+8g
+8a
+8g
+=7
+8g
+8g
+8.f
+16d
+=8
+4c
+4cc}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8cc
+8a
+=10
+8g
+8g
+8a
+8g
+=11
+8g
+8g
+8.f
+16d
+=12
+4c
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 411
+!!!ONB: Converted on 2024/12/26 with esac2hum

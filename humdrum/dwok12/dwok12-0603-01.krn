@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK1260300001-o_pojde_ja_pojde_rano_do_lasa.krn
+!!!OTL: [O pójdę ja pójdę rano do lasa
+!!!source: DWOK12
+!!!id: 12603
+!!!signature: 1260300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4.dd
+8cc
+=3
+8b
+8b
+8cc
+8a
+=4
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+=6
+4.dd
+8cc
+=7
+8b
+8b
+8cc
+8a
+=8
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+8a
+8cc
+=10
+8b
+8b
+4a
+=11
+8b
+8dd
+8a
+8cc
+=12
+8b
+8g
+4a
+=13
+8b
+8b
+8cc
+8a
+=14
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=320 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 304} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 304}
+!!!page: 304
+!!!ONB: Converted on 2024/12/26 with esac2hum

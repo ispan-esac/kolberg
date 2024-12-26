@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK3607300002-wyjdy_maty_z_chaty.krn
+!!!OTL: Wyjdy maty z chaty
+!!!source: DWOK36
+!!!id: 36073
+!!!signature: 3607300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24b
+24a
+24b
+8cc
+16b
+16cc
+=1
+8b
+8a
+8f#
+=2
+8.g
+16f#
+16e
+16f#
+=3
+4d}
+8r
+!!LO:LB:g=esac
+=4
+{16d
+16e
+8f#
+8g
+=5
+8a
+4cc
+=6
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{16b
+16cc
+8cc
+8cc
+=8
+8b
+8a
+8f#
+=9
+4.g
+=10
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 41
+!!!ONB: Converted on 2024/12/26 with esac2hum

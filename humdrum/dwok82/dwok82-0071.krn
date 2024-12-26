@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK8207100000-melodia_bez_tekstu.krn
+!!!OTL: Melodia bez tekstu
+!!!source: DWOK82
+!!!id: 82071
+!!!signature: 8207100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{4d
+8g
+4b
+8b
+=2
+4dd
+8dd
+8dd
+8b
+8g
+=3
+4a
+8a
+8cc
+8a
+8f#
+=4
+4g
+8b
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+4gg
+8a
+=6
+4cc
+8cc
+4.ee
+=7
+8b
+16dd
+16dd
+8dd
+4gg
+8a
+=8
+8cc
+16a
+16f#
+8d
+4.g}
+!!LO:LB:g=esac
+=9
+{4a
+8a
+8cc
+8a
+8f#
+=10
+8g
+16b
+16b
+8b
+4dd
+16b
+16g
+=11
+8d
+8f#
+8a
+4cc
+8f#
+=12
+4g
+8b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 59} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 59}
+!!!page: 59
+!!!ONB: Converted on 2024/12/26 with esac2hum

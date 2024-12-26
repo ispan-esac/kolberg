@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK7635600000-a_zbila_mnie_slotka_zbila.krn
+!!!OTL: A zbiła mnie słotka, zbiła
+!!!source: DWOK76
+!!!id: 76356
+!!!signature: 7635600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{2.e
+=2
+8g#
+8a
+4b
+4cc
+=3
+8dd
+8cc
+2ee
+=4
+8cc
+8b
+2b
+=5
+8b
+8dd
+4cc
+4a
+=6
+8a
+8g#
+2b
+=7
+8g#
+8e
+2e}
+!!LO:LB:g=esac
+=8
+{8g#
+8a
+4b
+4cc
+=9
+4dd
+2a
+=10
+4cc
+2a
+=11
+8b
+8dd
+4cc
+4a
+=12
+8a
+8g
+2b
+=13
+8g
+8e
+2d}
+==
+*-
+!!!ONB: Wariant t.9: 411__; 10: 3b11__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 184} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

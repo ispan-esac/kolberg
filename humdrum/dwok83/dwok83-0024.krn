@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK8302400000-anhel_wopyjasze_blahodatni.krn
+!!!OTL: Anheł wopyjasze błahodatni
+!!!source: DWOK83
+!!!id: 83024
+!!!signature: 8302400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*MX
+=1
+{[4cc
+8cc]
+8b
+8a
+8b
+8cc
+8b
+2a
+=2
+8cc
+8dd
+8ee
+8dd
+8cc#
+4dd
+=3
+8ee
+8ff#
+4gg
+8dd
+8ff
+8ee
+8dd
+8cc#
+8dd}
+!!LO:LB:g=esac
+=4
+{4ee
+8dd
+8cc
+8b
+8cc
+4dd
+8cc
+8b
+=5
+8dd
+8dd
+8ee
+8ff#
+=6
+4gg
+4ff
+8ee
+4dd}
+!!LO:LB:g=esac
+=7
+{4ee
+8dd
+8cc
+8b
+8cc
+=8
+8dd
+8dd
+8cc
+8b
+=9
+4a
+4g}
+!!LO:LB:g=esac
+=10
+{8dd
+8dd
+8ee
+8ff#
+=11
+8gg
+8ff#
+8ee
+8dd}
+!!LO:LB:g=esac
+=12
+{4ee
+8dd
+8cc
+8b
+8cc
+=13
+4dd
+8cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 40} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 40}
+!!!page: 40
+!!!ONB: Converted on 2024/12/26 with esac2hum

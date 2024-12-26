@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK42151300000-parobecku_wstanze_do_dnia.krn
+!!!OTL: Parobecku, wstańze do dnia
+!!!source: DWOK42
+!!!id: 421513
+!!!signature: 42151300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8b
+4cc
+4ee
+=2
+8gg
+8ee
+4gg
+4gg
+=3
+8gg
+8ee
+4gg
+4gg
+=4
+8gg
+8ee
+4gg
+4gg}
+!!LO:LB:g=esac
+=5
+{8ee
+8gg
+4.g
+8b
+=6
+8cc
+8cc
+4ee
+4cc
+=7
+8ee
+8gg
+4.g
+8b
+=8
+8cc
+8a
+4cc
+4g}
+==
+*-
+!!!ONB: wariant w takcie 5 i 6: +5+55_.7  +1+1+3_+3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 79-80} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 79-80}
+!!!page: 79-80
+!!!ONB: Converted on 2024/12/26 with esac2hum

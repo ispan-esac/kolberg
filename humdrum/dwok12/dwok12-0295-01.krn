@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK1229500001-przez_te_ogrody_sa_bystre.krn
+!!!OTL: Przez te ogrody są bystre
+!!!source: DWOK12
+!!!id: 12295
+!!!signature: 1229500001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+4ee
+8a
+=3
+8b
+8dd
+8a
+=4
+4dd
+8dd}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+=6
+8.b
+16a
+8g
+=7
+8f#
+8a
+16g
+16f#
+=8
+4e
+8e}
+!!LO:LB:g=esac
+=9
+{8e
+8g
+8a
+=10
+4b
+16g
+16f#
+=11
+8e
+8g
+8a
+=12
+4b
+16g
+16f#}
+!!LO:LB:g=esac
+=13
+{8e
+8dd
+8dd
+=14
+8.b
+16a
+8g
+=15
+8f#
+8a
+16g
+16f#
+=16
+4e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 158-159} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 158-159}
+!!!page: 158-159
+!!!ONB: Converted on 2024/12/26 with esac2hum

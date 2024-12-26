@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK57167100000-seji_noczy_o_piwnoczy.krn
+!!!OTL: Seji noczy o piwnoczy
+!!!source: DWOK57
+!!!id: 571671
+!!!signature: 57167100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+4dd
+4ee
+=2
+8a
+8a
+8a
+8f#
+4d
+=3
+8b
+8cc
+4dd
+4ee
+=4
+4a
+2dd}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8cc
+8b
+4dd
+=6
+8a
+8a
+8a
+8f#
+4d
+=7
+8g
+8g
+8cc
+8b
+4dd
+=8
+8a
+8f#
+2g}
+==
+*-
+!!!ONB: Wariant t. 4: 255__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 748
+!!!ONB: Converted on 2024/12/26 with esac2hum

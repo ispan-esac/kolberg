@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK57211200000-na_dolinie_zawierucha.krn
+!!!OTL: Na dolinie zawierucha
+!!!source: DWOK57
+!!!id: 572112
+!!!signature: 57211200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8g
+4cc
+4cc
+=2
+8b
+8a
+4b
+4g
+=3
+8f
+8f
+4ff
+4ff
+=4
+2ee}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4cc
+4cc
+=6
+8ee
+8ff
+4.gg
+8ee
+=7
+8a
+8ff
+4a
+4b
+=8
+2cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1172
+!!!ONB: Converted on 2024/12/26 with esac2hum

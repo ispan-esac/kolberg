@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK03-K0033-zywnie_nie_wiem.krn
+!!!OTL: Zywnie nie wiem
+!!!source: DWOK03
+!!!id: K0033
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{4b-
+8g
+=2
+8f#
+4d
+=3
+16g
+16a
+8b-
+8cc
+=4
+8dd
+4g}
+!!LO:LB:g=esac
+=5
+{8b-
+8a
+8g
+=6
+8f
+4d
+=7
+16d
+16c
+8d
+8g
+=8
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 270} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 270}
+!!!page: 270
+!!!ONB: Converted on 2024/12/26 with esac2hum

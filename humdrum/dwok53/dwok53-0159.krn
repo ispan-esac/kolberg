@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK5315900000-o_ner_nikano_tokiu_dvaruzelu.krn
+!!!OTL: O ner nikano tokiu dvaruzelu
+!!!source: DWOK53
+!!!id: 53159
+!!!signature: 5315900000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M6/4
+=1
+{4a
+4cc
+4b
+4b
+2a
+=2
+4e
+4f#
+4g
+4f#
+4e
+4e}
+!!LO:LB:g=esac
+=3
+{4a
+4cc
+4b
+4b
+2a
+=4
+1e}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=331 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 293} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 293}
+!!!page: 293
+!!!ONB: Converted on 2024/12/26 with esac2hum

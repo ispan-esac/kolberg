@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2906500000-oj_pyrypylyczka-mala_ne_wylyczka.krn
+!!!OTL: Oj pyrypylyczka-mała ne wylyczka
+!!!source: DWOK29
+!!!id: 29065
+!!!signature: 2906500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16g
+16a
+16b
+16cc
+8dd
+8dd
+=2
+4dd
+4dd
+=3
+8dd
+16ee
+16dd
+16dd
+16cc
+16cc
+16b
+=4
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+16dd
+16cc
+16cc
+16b
+=6
+8a
+8b
+16a
+16b
+8g
+=7
+8cc
+8b
+16b
+16a
+8g
+=8
+4g
+4g}
+==
+*-
+!!!ONB: Pyrypylyczka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 164} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 164}
+!!!page: 164
+!!!ONB: Converted on 2024/12/26 with esac2hum

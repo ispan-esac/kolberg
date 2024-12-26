@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1337900020-instrumentalna-obertas.krn
+!!!OTL: Instrumentalna-Obertas
+!!!source: DWOK13
+!!!id: 13379
+!!!signature: 1337900020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+8ee
+16cc
+16a
+=2
+16dd
+16b
+8g
+16g
+16e
+=3
+16a
+16a
+8ee
+16cc
+16a
+=4
+16dd
+16b
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8a
+16a
+16cc
+=6
+16g
+16b
+8b
+16b
+16dd
+=
+16f#
+16a
+8a
+24a
+24b
+24cc
+=7
+16g
+16b
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 161} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 161}
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

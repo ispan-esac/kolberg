@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK3048700000-zaspiwajmo_sobi_po_popiwski.krn
+!!!OTL: Zaspiwajmo sobi po popiwski
+!!!source: DWOK30
+!!!id: 30487
+!!!signature: 3048700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16g
+16a
+16b
+16cc
+8dd
+8dd
+=2
+8ee
+8ee
+8dd
+8dd
+=3
+16dd
+16cc
+8cc
+8.b
+16dd}
+!!LO:LB:g=esac
+=4
+{16dd
+16cc
+8cc
+8.b
+16g
+=5
+16g
+16a
+16b
+16cc
+16b
+16b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 260} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 260}
+!!!page: 260
+!!!ONB: Converted on 2024/12/26 with esac2hum

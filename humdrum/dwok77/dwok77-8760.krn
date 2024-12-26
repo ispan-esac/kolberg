@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK7787600000-instrumentalne._mazur.krn
+!!!OTL: Instrumentalne. Mazur
+!!!source: DWOK77
+!!!id: 778760
+!!!signature: 7787600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16b
+8g
+16dd
+16gg
+=2
+16dd
+16b
+8g
+16f#
+16e
+=3
+16d
+16f#
+8a
+16a
+16b
+=4
+16g
+16b
+16dd
+16ee
+8dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16b
+8g
+16dd
+16gg
+=6
+16dd
+16b
+8g
+16f#
+16e
+=7
+16d
+16f#
+8a
+16a
+16b
+=8
+8g
+4gg}
+!!LO:LB:g=esac
+=9
+{16ee
+16cc#
+8a
+8a
+=10
+8ff#
+4dd
+=11
+8a
+8cc#
+8cc#
+=12
+16dd
+16ee
+8ff#
+8dd}
+!!LO:LB:g=esac
+=13
+{16ee
+16cc#
+8a
+8a
+=14
+8ff#
+4dd
+=15
+8a
+8cc#
+8cc#
+=16
+16dd
+16dd
+16dd
+16dd
+16dd
+16gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum

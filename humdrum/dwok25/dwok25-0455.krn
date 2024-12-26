@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2545500000-na_kujawy_psie_kulawy.krn
+!!!OTL: Na Kujawy psie kulawy
+!!!source: DWOK25
+!!!id: 25455
+!!!signature: 2545500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8gg
+=2
+16ff
+16ee
+8cc
+8ff
+=3
+16ee
+16gg
+8aa
+8dd
+=4
+16ff
+16aa
+8gg
+16ff
+16ee}
+!!LO:LB:g=esac
+=5
+{16f
+32a
+32b-
+8cc
+16ee
+16gg
+=6
+16ff
+32ee
+32dd
+8cc
+8ff
+=7
+16dd
+32b-
+32a
+8g
+16b-
+16dd
+=8
+16cc
+32b-
+32a
+8g
+8f}
+==
+*-
+!!!ONB: Wariant w takcie trzecim i czwartym przy powtórzeniu 6_4_2__4_6_  5_4_2__1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 190} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 190}
+!!!page: 190
+!!!ONB: Converted on 2024/12/26 with esac2hum

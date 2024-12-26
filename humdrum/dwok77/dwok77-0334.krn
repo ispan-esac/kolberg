@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK7733400000-oj_w_kalinowym_lesie_lelen_wode_pije.krn
+!!!OTL: Oj w kalinowym lesie leleń wodę pije
+!!!source: DWOK77
+!!!id: 77334
+!!!signature: 7733400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{16g
+16a
+8b
+4cc
+4ee
+=
+12gg
+12ff
+12dd
+4ee
+4cc
+=2
+8dd
+8ff
+4aa
+8gg
+8ff#
+=3
+4gg
+4dd
+8cc
+8b}
+!!LO:LB:g=esac
+=4
+{16g
+16a
+8b
+4cc
+4ee
+=5
+8dd
+8ff
+4ee
+4cc
+=6
+16b
+16a
+8g
+4f
+4a
+=7
+8g
+8b
+4.dd
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 176
+!!!ONB: Converted on 2024/12/26 with esac2hum

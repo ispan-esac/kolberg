@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2032800000-trzesca_desecki_na_dachu.krn
+!!!OTL: Trzescą desecki na dachu
+!!!source: DWOK20
+!!!id: 20328
+!!!signature: 2032800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8a
+8b
+8dd
+8dd
+8a
+=2
+2b
+4b
+=3
+8b
+4.dd
+8dd
+8b
+=4
+4.a
+8b
+8dd
+8a
+=5
+8b
+8dd
+8a
+8b
+4dd
+=6
+8a
+[2b}
+8b]
+!!LO:LB:g=esac
+=7
+{8e
+8a
+8b
+8dd
+8dd
+8a
+=8
+2b
+4b
+=9
+8b
+4.dd
+16dd
+16cc
+8b
+=10
+4.a
+8b
+8dd
+8a
+=11
+8b
+8dd
+16a
+16cc
+8b
+16dd
+16cc
+8b
+=12
+2cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 227-228} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, pp. 227-228}
+!!!page: 227-228
+!!!ONB: Converted on 2024/12/26 with esac2hum

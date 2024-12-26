@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK8423400002-kosyt_muzyk_toju_stepu_sinu.krn
+!!!OTL: Kosyt mużyk toju stepu sinu
+!!!source: DWOK84
+!!!id: 84234
+!!!signature: 8423400002
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{8a
+8b
+8cc
+8dd
+8cc
+8dd
+4ee
+=2
+8a
+8cc
+8b
+8a
+8g#
+4.e}
+!!LO:LB:g=esac
+=3
+{8gg
+8gg
+8gg
+8ff
+8ee
+8dd
+8dd
+8ff
+=4
+2dd
+2ee}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8dd
+8cc
+8dd
+4ee
+=6
+8a
+8cc
+8b
+8a
+8g#
+4.e}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+4ee
+4dd
+8ee
+8dd
+=8
+8cc
+8b
+2a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=283 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 221} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 221}
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

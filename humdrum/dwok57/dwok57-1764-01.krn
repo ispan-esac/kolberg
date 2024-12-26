@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK57176400001-ani_spit_sia_ni_drymit_sia.krn
+!!!OTL: Ani spit sia, ni drymit sia
+!!!source: DWOK57
+!!!id: 571764
+!!!signature: 57176400001
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4cc
+4ee
+4dd#
+4a
+=2
+4cc
+4a
+4g#
+4e
+=3
+4a
+4a
+4cc
+4a
+=4
+4cc
+4dd
+2ee}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+4dd
+4a
+=6
+4cc
+4a
+4g#
+4e
+=7
+4cc
+4ee
+4dd
+4a
+=8
+4cc
+4g#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 851
+!!!ONB: Converted on 2024/12/26 with esac2hum

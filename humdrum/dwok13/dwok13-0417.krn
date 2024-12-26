@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK1341700000-instrumentalna_-_wiwat-szorc.krn
+!!!OTL: Instrumentalna - Wiwat-Szorc
+!!!source: DWOK13
+!!!id: 13417
+!!!signature: 1341700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8d
+8g
+8b
+=2
+8cc
+8ee
+4cc
+=3
+16f#
+16d
+16f#
+16a
+8cc
+8f#
+=4
+8g
+8d
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8d
+8g
+8b
+=6
+8cc
+8ee
+16cc
+16b
+16a
+16g
+=7
+16f#
+16d
+16f#
+16a
+8cc
+8f#
+=8
+16f#
+16a
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=9
+{8gg
+8gg
+8b
+8b
+=10
+8ee
+8ee
+4a
+=11
+8cc
+8ee
+4cc
+=12
+16f#
+16g
+16a
+16b
+8cc
+8b}
+!!LO:LB:g=esac
+=13
+{8gg
+8gg
+8b
+8b
+=14
+8ee
+8ee
+4a
+=15
+8cc
+8ee
+16cc
+16b
+16a
+16g
+=16
+16f#
+16g
+16b
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 174} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

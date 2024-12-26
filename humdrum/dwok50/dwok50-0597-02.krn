@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK5059700002-w_czystym_polu_w_czystym_polu.krn
+!!!OTL: W czystym polu, w czystym polu
+!!!source: DWOK50
+!!!id: 50597
+!!!signature: 5059700002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+4ee
+=2
+8ff#
+4ee
+=3
+8dd
+16dd
+16cc
+16b
+16cc
+=4
+8a
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+=6
+8ff#
+4ee
+=7
+4.dd
+=8
+16cc
+16a
+16b
+16a}
+8r
+!!LO:LB:g=esac
+=9
+{8cc
+4ee
+=10
+8dd
+4cc
+=11
+8a
+4a
+=12
+8dd
+4cc}
+!!LO:LB:g=esac
+=13
+{8a
+4ee
+=14
+8dd
+4cc
+=15
+4.a
+=16
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=377 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 346} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 346}
+!!!page: 346
+!!!ONB: Converted on 2024/12/26 with esac2hum

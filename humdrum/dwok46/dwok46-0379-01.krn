@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK4637900001-blogoc_to_twoja_rzecz_nie_przestanie.krn
+!!!OTL: Błogoć to twoja rzecz nie przestanie
+!!!source: DWOK46
+!!!id: 46379
+!!!signature: 4637900001
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{8cc
+8b
+8cc
+4dd
+8b
+=2
+8cc
+8b
+8cc
+4g
+8e}
+!!LO:LB:g=esac
+=3
+{8d
+8e
+8f
+4a
+8e
+=4
+8g
+8g
+8d
+4f
+8e}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+8e
+4g
+8g
+=6
+8d
+8e
+8f
+4a
+8g}
+!!LO:LB:g=esac
+=7
+{8g
+8a
+8b
+4cc
+8ee
+=8
+8dd
+8cc
+8b
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 244-245} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, pp. 244-245}
+!!!page: 244-245
+!!!ONB: Converted on 2024/12/26 with esac2hum

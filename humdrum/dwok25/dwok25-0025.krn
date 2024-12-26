@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2502500000-na_polu_wirzbo.krn
+!!!OTL: Na polu wirzbo
+!!!source: DWOK25
+!!!id: 25025
+!!!signature: 2502500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+4cc
+=2
+8b
+8.dd
+32cc
+32b
+=3
+4a
+8r
+=4
+8cc
+4ee
+=5
+8gg
+8.ee
+32dd
+32cc
+=6
+4a}
+8r
+!!LO:LB:g=esac
+=7
+{8cc
+4ee
+=8
+8gg
+4ee
+=9
+16dd
+16b
+4dd
+=10
+8ee
+4g
+=11
+8a
+4cc
+=12
+8ee
+8.dd
+32cc
+32b
+=13
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 11} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 11}
+!!!page: 11
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK1924700020-po_ctery_po_ctery_za_jasiem_chodzilsy-instrumentalna.krn
+!!!OTL: Po ćtery po ćtery za Jasiem chodziłśy-Instrumentalna
+!!!source: DWOK19
+!!!id: 19247
+!!!signature: 1924700020
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8b
+16g#
+16b
+16dd#
+16b
+=2
+16a
+16b
+16g#
+16b
+16dd
+16a
+=3
+16a
+16b
+16g#
+16b
+16dd#
+16b
+=4
+16ff#
+16b
+16g#
+16b
+16dd
+16a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 77} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 77}
+!!!page: 77
+!!!ONB: Converted on 2024/12/26 with esac2hum

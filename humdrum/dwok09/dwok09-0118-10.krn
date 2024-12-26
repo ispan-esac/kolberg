@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK0911800010-przedsla_szydlo_i_motowidlo.krn
+!!!OTL: Przedsła szydło i motowidło
+!!!source: DWOK09
+!!!id: 09118
+!!!signature: 0911800010
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{4b-
+8b-
+8f
+8b-
+8dd
+=2
+4b-
+8b-
+8f
+8b-
+8dd
+=3
+8ff
+8ee-
+2cc}
+!!LO:LB:g=esac
+=4
+{4a
+8a
+8f
+8a
+8cc
+=5
+4a
+8a
+8f
+8a
+8cc
+=6
+8ee-
+8dd
+2b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=277 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 253-254} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, pp. 253-254}
+!!!page: 253-254
+!!!ONB: Converted on 2024/12/26 with esac2hum

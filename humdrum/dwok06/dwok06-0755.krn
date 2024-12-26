@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK06-K0755-pocieszze_mnie_pociesz.krn
+!!!OTL: Pocieszze mnie pociesz
+!!!source: DWOK06
+!!!id: K0755
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+4dd
+=2
+8dd
+4dd
+8dd
+=3
+8dd
+8dd
+4cc#
+=4
+8cc#
+4a
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4dd
+=6
+8cc#
+4a
+8d
+=7
+8f#
+8a
+4cc
+=8
+8g
+4b
+8g}
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+4cc#
+=10
+8cc#
+4a
+8g
+=11
+8b
+8dd
+4dd
+=12
+8cc#
+4dd
+8g}
+!!LO:LB:g=esac
+=13
+{8b
+8dd
+4cc#
+=14
+8cc#
+4a
+8d
+=15
+8f#
+8a
+4cc
+=16
+8g
+4b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=486 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 460} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 460}
+!!!page: 460
+!!!ONB: Converted on 2024/12/26 with esac2hum

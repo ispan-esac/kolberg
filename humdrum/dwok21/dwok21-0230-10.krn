@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2123000010-hej_sporze_ja.krn
+!!!OTL: Hej sporżę ja
+!!!source: DWOK21
+!!!id: 21230
+!!!signature: 2123000010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4ff
+8ff
+8ee
+=2
+8dd
+8dd
+8ee
+8g
+=3
+8cc
+8cc
+8b
+8g
+=4
+8a
+4.g}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8b
+8dd
+=6
+8ee
+4.g
+=7
+8cc
+8cc
+8b
+8g
+=8
+8a
+4.g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 108} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 108}
+!!!page: 108
+!!!ONB: Converted on 2024/12/26 with esac2hum

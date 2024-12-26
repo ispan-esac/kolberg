@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK8354800002-oj_pidu_pidu_popid_haj_zylenejki.krn
+!!!OTL: Oj, pidu, pidu popid haj zyłenejki
+!!!source: DWOK83
+!!!id: 83548
+!!!signature: 8354800002
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M6/8
+8r
+{8cc
+8dd
+8cc
+8b
+8g
+=2
+8a
+8a
+4cc
+8a
+8cc
+=
+!!UNCATEGORIZED MEASURE
+[4dd
+24dd]
+24cc
+24b
+8cc
+16cc
+32b
+32a}
+4r
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+8r
+{24a
+24b
+24cc
+8dd
+24cc
+24b
+24a
+8a
+8g#
+=3
+*M6/8
+8a
+8a
+8cc
+8b
+8ff
+32cc
+32b
+32a
+32g#
+=4
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=443 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 332-333} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, pp. 332-333}
+!!!page: 332-333
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK3914800002-na_podolu_bialy_kamien.krn
+!!!OTL: Na podolu biały kamień
+!!!source: DWOK39
+!!!id: 39148
+!!!signature: 3914800002
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{4cc
+8a
+8g
+8b
+8dd
+=2
+8ff
+8ee
+8gg
+8ff
+8ee
+8dd
+=3
+8ff
+8ee
+8gg
+8ff
+8ee
+8dd}
+!!LO:LB:g=esac
+=4
+{4cc
+8a
+4f
+8a
+=5
+8cc
+8b
+8dd
+8g
+8b
+8dd
+=6
+4cc
+8a
+4f
+8a
+=7
+8cc
+8b
+8dd
+4g
+8g}
+!!LO:LB:g=esac
+=8
+{4cc
+8a
+4f
+8a
+=9
+8cc
+8b
+8dd
+8g
+8b
+8dd
+=10
+4cc
+8a
+4f
+8a
+=11
+8cc
+8b
+8dd
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 188} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

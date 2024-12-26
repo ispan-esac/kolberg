@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK03-K0012-otworz_panie_szeroko_wrota.krn
+!!!OTL: Otworz panie szeroko wrota
+!!!source: DWOK03
+!!!id: K0012
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8ee
+=2
+8ff
+8ee
+16dd
+16ee
+8cc
+=3
+8cc
+8dd
+8ee
+8ee
+=4
+8ff
+8ee
+16dd
+16ee
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8a
+8a
+=6
+2g
+=7
+8cc
+8b
+8a
+8a
+=8
+2g}
+!!LO:LB:g=esac
+=9
+{8cc
+8dd
+8ee
+8dd
+=10
+8ff
+8ee
+16dd
+16ee
+8cc}
+!!LO:LB:g=esac
+=11
+{8cc
+8b
+8a
+8b
+=12
+2g
+=13
+8cc
+8b
+8a
+8b
+=14
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 233} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

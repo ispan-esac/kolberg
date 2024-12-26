@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK1717200002-instrumentalna_-_mazur.krn
+!!!OTL: Instrumentalna - Mazur
+!!!source: DWOK17
+!!!id: 17172
+!!!signature: 1717200002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+16ee
+16ee
+16dd
+16cc
+=2
+16ee
+16gg
+8ff#
+8gg}
+!!LO:LB:g=esac
+=
+{16g
+16cc
+24ee
+24ff
+24ee
+16dd
+16cc
+=3
+16dd
+16gg
+8b
+8cc}
+!!LO:LB:g=esac
+=4
+{16g
+16b
+16dd
+16b
+16cc
+16ee
+=5
+8.dd
+16g
+16cc
+16ee}
+!!LO:LB:g=esac
+=6
+{16g
+16b
+16dd
+16b
+16cc
+16ee
+=7
+16dd
+16cc
+16b
+16a
+8g}
+!!LO:LB:g=esac
+=8
+{16g
+16b
+16dd
+16b
+16cc
+16ee
+=9
+8.dd
+16g
+16cc
+16ee}
+!!LO:LB:g=esac
+=10
+{16g
+16b
+16dd
+16b
+16cc
+16ee
+=11
+8dd
+8b
+8cc}
+==
+*-
+!!!ONB: Nuta Ser. I. nr. 115, 337.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 57} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

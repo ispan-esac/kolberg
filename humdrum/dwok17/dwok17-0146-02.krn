@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK1714600002-kociolek_z_desculek_z_dembowych_tarcic.krn
+!!!OTL: Kociołek z descułek z dembowych tarcic
+!!!source: DWOK17
+!!!id: 17146
+!!!signature: 1714600002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=
+{8ff
+8cc
+24ee
+24dd
+24ee
+=1
+16ff
+16ff
+8ee
+8gg
+=
+8ff
+24cc
+24b-
+24cc
+8dd
+=
+24a
+24g
+24a
+4f}
+!!LO:LB:g=esac
+=2
+{8b-
+8f
+8g
+=3
+16b-
+16a
+8f
+8g
+=
+8b-
+8f
+24g
+24a
+24g
+=4
+16b-
+16a
+8f
+8g}
+!!LO:LB:g=esac
+=5
+{32a
+16.b-
+32a
+16.b-
+16dd
+16cc
+=
+24a
+24g
+24a
+4f}
+==
+*-
+!!!ONB: Lud, Ser. XVII. W t. 1, 5, 7 dwudźwięki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 49} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 49}
+!!!page: 49
+!!!ONB: Converted on 2024/12/26 with esac2hum

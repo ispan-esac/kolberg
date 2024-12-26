@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2633400000-pojmij_ze_mnie_jasiu.krn
+!!!OTL: Pojmij ze mnie Jasiu
+!!!source: DWOK26
+!!!id: 26334
+!!!signature: 2633400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4b
+8dd
+8ee
+=2
+8dd
+8ee
+8dd
+8cc
+8b
+8a
+=3
+4g
+4b
+8cc
+8b
+=4
+8a
+8f#
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8f#
+8g
+4a
+8b
+8g
+=6
+8b
+8dd
+8cc
+8a
+8b
+8g
+=7
+8f#
+8g
+8a
+8a
+8b
+8g
+=8
+8b
+8dd
+8cc
+8cc
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{4cc
+8b
+8a
+8cc
+8b
+=10
+8a
+8f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

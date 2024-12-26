@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK3403600000-ja_sama_ne_znaju_co_czynyty_maju.krn
+!!!OTL: Ja sama ne znaju co czynyty maju
+!!!source: DWOK34
+!!!id: 34036
+!!!signature: 3403600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M7/8
+=1
+{8cc
+4g
+8cc
+8dd
+8cc
+8g
+=2
+8cc
+4ee
+8gg
+8ff
+16dd
+16ee
+8cc}
+!!LO:LB:g=esac
+=3
+{8ee
+4cc
+8dd
+8ff
+8ee
+8g
+=4
+8a
+4g
+8cc
+8dd
+8cc
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 26} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 26}
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

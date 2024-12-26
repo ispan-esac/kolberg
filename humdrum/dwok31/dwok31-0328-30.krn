@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3132800030-a_kobys_tak_kosou_kosyv.krn
+!!!OTL: A kobyś tak kosou kosyv
+!!!source: DWOK31
+!!!id: 31328
+!!!signature: 3132800030
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8b
+8b
+8ee
+8ee
+=2
+8dd#
+16cc
+16dd#
+4ee
+=3
+8ff#
+16ee
+16ff#
+4gg
+=4
+8ff#
+16dd#
+16ff#
+4ee}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8ee
+8ee
+=6
+8dd#
+16cc
+16dd#
+4ee
+=7
+8ff#
+16ee
+16ff#
+4gg
+=8
+8ff#
+16dd#
+16ff#
+4ee}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 39} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 39}
+!!!page: 39
+!!!ONB: Converted on 2024/12/26 with esac2hum

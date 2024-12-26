@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2318600000-zielona_ruta_jalowiec.krn
+!!!OTL: Zielona ruta jałowiec
+!!!source: DWOK23
+!!!id: 23186
+!!!signature: 2318600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4f
+8b-
+8f
+4b-
+4dd
+=2
+4ff
+8ff
+8ee
+2cc
+=3
+4f
+8b-
+8f
+4b-
+4dd
+=4
+4ff
+8ff
+8ee
+2cc}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+8cc
+8dd
+4b-
+8g
+8e
+=6
+4g
+4g
+2cc
+=7
+8f
+8a
+8cc
+8dd
+4b-
+8g
+8e
+=8
+4f
+8f
+8g
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 178} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 178}
+!!!page: 178
+!!!ONB: Converted on 2024/12/26 with esac2hum

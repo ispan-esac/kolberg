@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4144000010-na_kujawy_psie_kulawy.krn
+!!!OTL: Na Kujawy, psie kulawy
+!!!source: DWOK41
+!!!id: 41440
+!!!signature: 4144000010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4b
+4dd
+=2
+8ee
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+4.dd
+8cc
+=4
+8b
+8a
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b
+4b
+=
+12b
+12a
+12b
+4cc
+4a}
+!!LO:LB:g=esac
+=6
+{8cc
+8ee
+4dd
+8cc
+8a
+=7
+8b
+8a
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=320 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 237} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 237}
+!!!page: 237
+!!!ONB: Converted on 2024/12/26 with esac2hum

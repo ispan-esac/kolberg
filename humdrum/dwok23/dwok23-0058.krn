@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2305800000-ja_sobie_wybralem_za_obrone.krn
+!!!OTL: Ja sobie wybrałem za obronę
+!!!source: DWOK23
+!!!id: 23058
+!!!signature: 2305800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8cc
+=2
+8dd
+8b
+8g
+=3
+4g
+8g
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8dd
+8dd
+=6
+8ee
+8cc
+8g
+=7
+4b
+8b
+=8
+8dd
+4cc}
+!!LO:LB:g=esac
+=9
+{4g
+8dd
+=10
+4b
+8g
+=11
+4ee
+8ff
+=12
+4dd
+8g}
+!!LO:LB:g=esac
+=13
+{8g
+8cc
+8cc
+=14
+8dd
+8ff
+8dd
+=15
+4ee
+8dd
+=16
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 101-102} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, pp. 101-102}
+!!!page: 101-102
+!!!ONB: Converted on 2024/12/26 with esac2hum

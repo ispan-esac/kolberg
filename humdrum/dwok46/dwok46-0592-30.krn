@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK4659200030-za_mnie_za_mnie_moja_luba.krn
+!!!OTL: Za mnie, za mnie, moja luba
+!!!source: DWOK46
+!!!id: 46592
+!!!signature: 4659200030
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8f
+8a
+8b-
+=2
+4cc
+8cc
+=3
+8cc
+8.dd
+16cc
+=4
+8cc
+4b-}
+!!LO:LB:g=esac
+=5
+{8e
+8g
+8b-
+=6
+8dd
+8.cc
+16g
+=7
+4.b-
+=8
+8a}
+8r
+8r
+!!LO:LB:g=esac
+=9
+{8f
+8a
+8b-
+=10
+4cc
+8cc
+=11
+8aa
+8.gg
+16ff
+=12
+8ff
+4dd}
+!!LO:LB:g=esac
+=13
+{8ff
+8ee
+8dd
+=14
+8cc
+8.b-
+16e
+=15
+4.g
+=16
+8f}
+8r
+8r
+==
+*-
+!!!ONB: Wojak i pasterz
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=403 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 369-370} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, pp. 369-370}
+!!!page: 369-370
+!!!ONB: Converted on 2024/12/26 with esac2hum

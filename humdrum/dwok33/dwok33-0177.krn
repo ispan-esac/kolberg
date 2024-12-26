@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK3317700000-pryjichaw_druzba_z_czuzoji_storony.krn
+!!!OTL: Pryjichaw drużba z czużoji storony
+!!!source: DWOK33
+!!!id: 33177
+!!!signature: 3317700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8a
+8ee
+=2
+8dd#
+4ee
+=3
+8ee
+8ee
+16ee
+16dd#
+=4
+8b
+4ee}
+!!LO:LB:g=esac
+=5
+{8ee
+4ee
+=6
+16cc
+16b
+4a
+=7
+4.b
+=8
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8b
+=10
+8dd#
+4ee
+=11
+8ff#
+4ee
+=12
+16b
+16g#
+4a}
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+8b
+=14
+8dd#
+4ee
+=15
+8ff#
+4ee
+=16
+16b
+16g#
+4a}
+!!LO:LB:g=esac
+=17
+{8a
+8cc
+8b
+=18
+8a
+8b
+8ee
+=19
+8dd#
+4b
+=20
+8dd#
+4ee}
+!!LO:LB:g=esac
+=21
+{8ff#
+8ee
+8ee
+=22
+16cc
+16a
+8b
+8g#
+=23
+4.a
+=24
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 263-264} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, pp. 263-264}
+!!!page: 263-264
+!!!ONB: Converted on 2024/12/26 with esac2hum

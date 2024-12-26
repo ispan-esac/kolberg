@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK5621600000-nasz_pan_ostrozecki.krn
+!!!OTL: Nasz pan Ostrożecki
+!!!source: DWOK56
+!!!id: 56216
+!!!signature: 5621600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+4cc
+=2
+8cc
+4ff
+=3
+8ee
+4dd}
+!!LO:LB:g=esac
+=4
+{8ff
+8ee
+8dd
+=5
+8cc
+4dd
+=
+24b
+24a
+24g
+4g}
+!!LO:LB:g=esac
+=6
+{8g
+4cc
+=7
+8cc
+4ff
+=8
+8ee
+4dd}
+!!LO:LB:g=esac
+=9
+{8ff
+8ee
+8dd
+=10
+8cc
+4dd
+=
+24b
+24a
+24g
+4g}
+==
+*-
+!!!ONB: Wariant t. 4 i 10: +4_+3_+2+1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=327 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 223} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 223}
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

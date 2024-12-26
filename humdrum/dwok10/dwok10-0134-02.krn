@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK1013400002-przelecial_ci_ptaszek_przez_zielony_lasek.krn
+!!!OTL: Przeleciał ci ptaszek przez zielony lasek
+!!!source: DWOK10
+!!!id: 10134
+!!!signature: 1013400002
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{16e
+16g
+8b
+8g
+=2
+16b
+16dd
+4ee
+=3
+16ee
+16ff#
+8ee
+16dd
+16b
+=4
+8a
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+8a
+8f#
+=6
+8d
+8.g
+16f#
+=7
+4e
+8r
+=8
+16g
+32a
+32b
+8dd
+8b}
+!!LO:LB:g=esac
+=
+{24dd
+24cc
+24b
+8a
+24g
+24f#
+24e
+=9
+8d
+8.g
+16f#
+=10
+4e}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=296 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 280} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 280}
+!!!page: 280
+!!!ONB: Converted on 2024/12/26 with esac2hum

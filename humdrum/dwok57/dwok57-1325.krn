@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK57132500000-komu_harazd_komu_harazd.krn
+!!!OTL: Komu harazd, komu harazd
+!!!source: DWOK57
+!!!id: 571325
+!!!signature: 57132500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8dd
+8dd
+8dd
+=2
+8b
+8dd
+8dd
+8dd
+=3
+8ee
+8ee
+8a
+8a
+=4
+8g
+8b
+4b}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8a
+8a
+=6
+8g
+8g
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8dd
+8dd
+8dd
+=8
+8b
+8dd
+8dd
+8dd
+=9
+8ee
+8ee
+8a
+8a
+=10
+8g
+8b
+4b}
+!!LO:LB:g=esac
+=11
+{8ee
+8ee
+8a
+8a
+=12
+8g
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 408
+!!!ONB: Converted on 2024/12/26 with esac2hum

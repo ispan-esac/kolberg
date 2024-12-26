@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK8306900000-kodyj_nam_lezyt_z_dawna_stezenka.krn
+!!!OTL: Kodyj nam łeżyt z dawna steżenka
+!!!source: DWOK83
+!!!id: 83069
+!!!signature: 8306900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8cc
+8b
+=2
+[8b
+16b]
+16a
+8g
+=3
+4.a
+=4
+8a}
+4r
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8b
+=6
+8a
+4g
+=7
+8b
+4cc}
+!!LO:LB:g=esac
+=8
+{8b
+8b
+8cc
+=9
+8cc
+16b
+16a
+16a
+16f#
+=10
+4g
+8g}
+==
+*-
+!!!ONB: Wariant t. 5-6: 334_3_  432321
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 75} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 75}
+!!!page: 75
+!!!ONB: Converted on 2024/12/26 with esac2hum

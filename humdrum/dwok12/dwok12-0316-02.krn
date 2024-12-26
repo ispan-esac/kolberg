@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK1231600002-posluchajcie_panny_siostry.krn
+!!!OTL: Posłuchajcie panny siostry
+!!!source: DWOK12
+!!!id: 12316
+!!!signature: 1231600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16f#
+8g
+8b
+=2
+16dd
+16ee
+8dd
+8b
+=3
+16cc
+16a
+8g
+8f#
+=4
+4.d}
+!!LO:LB:g=esac
+=5
+{16g
+16f#
+8g
+8b
+=6
+16dd
+16ee
+8dd
+8dd
+=7
+16cc
+16a
+8g
+16g
+16f#
+=8
+4.d}
+!!LO:LB:g=esac
+=9
+{16f#
+16a
+8a
+8d
+=10
+16f#
+16a
+8.a
+16b
+=11
+16cc
+16a
+8a
+8d
+=12
+16f#
+16a
+8.a
+16b}
+!!LO:LB:g=esac
+=13
+{16cc
+16a
+8g
+16f#
+16d
+=14
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 168} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

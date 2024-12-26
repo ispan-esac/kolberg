@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK8368700000-nie_widze_swiata_nie_widze_ludzi.krn
+!!!OTL: Nie widzę świata, nie widzę ludzi
+!!!source: DWOK83
+!!!id: 83687
+!!!signature: 8368700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8f#
+8g
+=2
+4ee
+8dd
+=3
+8cc
+8b
+8cc
+=4
+8g
+8cc
+8cc
+=5
+8b
+8dd
+8cc
+=6
+16b
+16a
+4b
+=7
+4.cc}
+!!LO:LB:g=esac
+=8
+{8ee
+8dd
+8ee
+=9
+4gg
+8ff
+=10
+8ee
+8dd
+8ee
+=11
+4a
+8ff
+=12
+8ee
+8dd
+8cc
+=13
+8b
+8a
+8b
+=14
+4.cc}
+!!LO:LB:g=esac
+=15
+{8ee
+8dd
+8ee
+=16
+4gg
+8ff
+=17
+8ee
+8dd
+8ee
+=18
+4a
+8ff
+=19
+8ee
+8dd
+8cc
+=20
+8b
+8a
+8b
+=21
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 46} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

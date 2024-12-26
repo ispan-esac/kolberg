@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK57182000000-oj_ne_zaluj_mni_mylenki.krn
+!!!OTL: Oj, ne żałuj mni, myłeńki
+!!!source: DWOK57
+!!!id: 571820
+!!!signature: 57182000000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8dd
+8dd
+8ee
+8dd
+=2
+8cc#
+8cc#
+16b-
+16a
+8g
+=3
+4b-
+4cc
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ee
+8dd
+=6
+8cc
+8cc
+8b-
+8dd
+=7
+4cc
+4b-
+=8
+2g}
+==
+*-
+!!!ONB: Wariant t. 3: 3b__43b4_; wariant t. 7: 4__3b43b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 901
+!!!ONB: Converted on 2024/12/26 with esac2hum

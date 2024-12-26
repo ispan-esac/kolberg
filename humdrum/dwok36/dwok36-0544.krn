@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK3654400000-a_na_nebi_zora_jasna.krn
+!!!OTL: A na nebi zora jasna
+!!!source: DWOK36
+!!!id: 36544
+!!!signature: 3654400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8cc
+8cc
+4ff
+8ee
+8dd
+=2
+8cc
+8aa
+4.gg
+8ee
+=3
+8ff
+8aa
+4gg
+8dd
+8cc
+=4
+8ff
+8ff
+4cc
+8gg
+8ee}
+!!LO:LB:g=esac
+=5
+{8ff
+8aa
+8gg
+8ee
+8dd
+8cc
+=6
+8ff
+8ff
+4.cc
+8cc
+=7
+8ff
+8aa
+4.gg
+8cc
+=8
+8ff
+8ff
+4.cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 359
+!!!ONB: Converted on 2024/12/26 with esac2hum

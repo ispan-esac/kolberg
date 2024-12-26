@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK41114000001-zeby_to_tak_kosa_kosic.krn
+!!!OTL: Zeby to tak kosą kosić
+!!!source: DWOK41
+!!!id: 411140
+!!!signature: 41114000001
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=
+{24a
+24b
+24cc#
+8dd
+8dd
+=
+24a
+24b
+24cc#
+8dd
+8dd}
+!!LO:LB:g=esac
+=
+{24a
+24b
+24cc#
+8dd
+16dd
+16b
+=1
+16cc#
+16a
+8g#
+8e}
+!!LO:LB:g=esac
+=2
+{16f#
+16f#
+8e
+16g#
+16b
+=3
+16b
+16a
+8g#
+8b}
+!!LO:LB:g=esac
+=4
+{16f#
+16f#
+8e
+16g#
+16b
+=5
+16cc#
+16a
+8g#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=578 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 491-492} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 491-492}
+!!!page: 491-492
+!!!ONB: Converted on 2024/12/26 with esac2hum

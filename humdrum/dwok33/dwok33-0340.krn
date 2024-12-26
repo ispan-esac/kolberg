@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK3334000000-wywiedziono_kune.krn
+!!!OTL: Wywiedziono kunę
+!!!source: DWOK33
+!!!id: 33340
+!!!signature: 3334000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+16b
+16a
+8cc
+16cc
+16b
+=2
+4a
+8b
+8g
+=3
+8b
+16b
+16a
+8cc
+16cc
+16b
+=4
+8a
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+8b
+16cc
+16b
+8f
+=6
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=368 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 326} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 326}
+!!!page: 326
+!!!ONB: Converted on 2024/12/26 with esac2hum

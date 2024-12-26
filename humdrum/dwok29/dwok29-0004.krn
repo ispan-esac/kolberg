@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2900400000-hoj_cy_tak_teper.krn
+!!!OTL: Hoj cy tak teper
+!!!source: DWOK29
+!!!id: 29004
+!!!signature: 2900400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4b
+4ee
+=2
+4dd
+8cc
+8b
+=3
+8a
+8g
+8f#
+8e}
+!!LO:LB:g=esac
+=4
+{4g
+4a
+=5
+4a
+8g
+8f#
+=6
+2e}
+!!LO:LB:g=esac
+=7
+{4e
+4g
+=8
+2g
+=9
+2b}
+!!LO:LB:g=esac
+=10
+{4b
+4ee
+=11
+4dd
+8cc
+8b
+=12
+8a
+8g
+8f#
+8e}
+!!LO:LB:g=esac
+=13
+{4g
+4a
+=14
+4a
+8g
+8f#
+=15
+2e}
+!!LO:LB:g=esac
+=16
+{4e
+4g
+=17
+2g
+=18
+2b}
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 96} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

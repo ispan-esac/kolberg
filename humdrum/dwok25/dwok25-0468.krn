@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2546800000-wsystkies_ta_moje_dziewcyny.krn
+!!!OTL: Wsystkieś ta moje dziewcyny
+!!!source: DWOK25
+!!!id: 25468
+!!!signature: 2546800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16b
+16dd
+8cc
+16ee
+16gg
+=
+24ff
+24gg
+24ff
+8ee
+8gg
+=
+24g
+24b
+24dd
+8cc
+16ee
+16gg
+=2
+16ff
+16ff
+8ee
+8g}
+!!LO:LB:g=esac
+=3
+{16b
+16dd
+8cc
+8a
+=4
+16f
+16a
+16cc
+16b
+8dd
+=
+24g
+24b
+24dd
+8cc
+8a
+=5
+16f
+16a
+16cc
+16b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 193} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 193}
+!!!page: 193
+!!!ONB: Converted on 2024/12/26 with esac2hum

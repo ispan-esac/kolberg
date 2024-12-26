@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK06-K0102-z_wiecora_jablonecke.krn
+!!!OTL: Z wiecora jablonecke
+!!!source: DWOK06
+!!!id: K0102
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8g
+8b-
+8a
+=2
+16cc
+16b-
+8a
+8g
+=3
+8g
+8dd
+8cc#
+=4
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{8b-
+8b-
+8a
+=6
+16cc
+16b-
+8a
+8g
+=7
+8g
+8a
+8f#
+=8
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 53} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 53}
+!!!page: 53
+!!!ONB: Converted on 2024/12/26 with esac2hum

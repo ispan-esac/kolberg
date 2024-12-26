@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2820600000-a_coz_tam_za_kawaler.krn
+!!!OTL: A cóż tam za kawaler
+!!!source: DWOK28
+!!!id: 28206
+!!!signature: 2820600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4cc
+8cc
+8g
+=2
+4cc
+8cc
+8g
+=3
+8cc
+8cc
+8dd
+8cc
+=4
+4a
+4d}
+!!LO:LB:g=esac
+=5
+{4f
+8a
+8g
+=6
+8e
+8e
+8e
+8g
+=7
+8d
+8f
+8a
+8g
+=8
+4e
+4g}
+!!LO:LB:g=esac
+=9
+{4f
+8a
+8g
+=10
+8e
+8e
+8e
+8a
+=11
+8d
+8f
+8a
+8g
+=12
+4e
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 237} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 237}
+!!!page: 237
+!!!ONB: Converted on 2024/12/26 with esac2hum

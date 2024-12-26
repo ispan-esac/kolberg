@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK4133000000-juz_mie_tak_nic_nie_cieszy.krn
+!!!OTL: Już mię tak nic nie cieszy
+!!!source: DWOK41
+!!!id: 41330
+!!!signature: 4133000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8a
+4b
+4g
+=2
+8f#
+8e
+4f#
+4d
+=3
+8cc
+8a
+4f#
+4d
+=4
+4g
+2g}
+!!LO:LB:g=esac
+=5
+{8b
+8g
+4b
+4g
+=6
+8f#
+8e
+4f#
+4d
+=7
+8cc
+8b
+4f#
+4d
+=8
+4g
+2g}
+!!LO:LB:g=esac
+=9
+{4dd
+2gg
+=10
+4dd
+2gg
+=11
+8cc
+8a
+4f#
+4d
+=12
+4g
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 194-195} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 194-195}
+!!!page: 194-195
+!!!ONB: Converted on 2024/12/26 with esac2hum

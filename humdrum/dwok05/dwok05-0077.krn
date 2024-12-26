@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK05-K0077-teraz_zid_bedzie_tancowal.krn
+!!!OTL: Teraz zid bedzie tancowal
+!!!source: DWOK05
+!!!id: K0077
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ff
+8ee
+8ee
+8ee
+=2
+8dd
+8ee
+8ff
+8dd
+=3
+8ff
+8ee
+8ee
+8ee
+=4
+8dd
+8ee
+8ff
+8dd}
+!!LO:LB:g=esac
+=5
+{4ee
+4dd
+=6
+8cc
+8cc
+4b
+=7
+4dd
+4cc
+=8
+8b
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=389 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 361} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 361}
+!!!page: 361
+!!!ONB: Converted on 2024/12/26 with esac2hum

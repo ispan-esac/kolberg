@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK2654600000-dziewczyno_zmiluj_sie.krn
+!!!OTL: Dziewczyno zmiłuj się
+!!!source: DWOK26
+!!!id: 26546
+!!!signature: 2654600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+16cc
+16b
+=2
+8dd
+4cc
+8cc
+=3
+8b
+4dd
+16cc
+16b
+=4
+8dd
+8cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+8ee
+=6
+8dd
+4g
+8g
+=7
+8f#
+8f#
+16f#
+16e
+8f#
+=8
+8g
+4.g}
+!!LO:LB:g=esac
+=9
+{16b
+16cc
+4dd
+16ee
+16dd
+=10
+8gg
+8ee
+8ee
+8cc
+=11
+16b
+16cc
+4dd
+16cc
+16b
+=12
+8dd
+8cc
+8cc
+8a}
+!!LO:LB:g=esac
+=13
+{8cc
+8ee
+8ee
+8ee
+=14
+8dd
+8g
+8g
+8g
+=15
+8f#
+8f#
+16f#
+16e
+8f#
+=16
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 336
+!!!ONB: Converted on 2024/12/26 with esac2hum

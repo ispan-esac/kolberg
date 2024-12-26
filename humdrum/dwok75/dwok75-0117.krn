@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK7511700000-a_biedny_ja_parobecek.krn
+!!!OTL: A biedny ja parobecek
+!!!source: DWOK75
+!!!id: 75117
+!!!signature: 7511700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.b
+16a
+16cc
+16ee
+=2
+16dd
+32cc
+32b
+8a
+8dd}
+!!LO:LB:g=esac
+=3
+{16g
+16b
+8a
+16cc
+16ee
+=4
+16dd
+32cc
+32b
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8.g
+16b
+16a
+16cc
+=6
+16g
+16b
+8a
+16cc
+16b}
+!!LO:LB:g=esac
+=7
+{16g
+16b
+8a
+16cc
+16ee
+=8
+16dd
+32cc
+32b
+8a
+8g}
+==
+*-
+!!!ONB: Wariant t. 2: 5_432__6__; wariant t. 4 i 8: 5_432__-7__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 80} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

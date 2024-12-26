@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK3648100000-oj_hore_hore_neszczasnaja_dole.krn
+!!!OTL: Oj hore hore neszczasnaja dołe
+!!!source: DWOK36
+!!!id: 36481
+!!!signature: 3648100000
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M3/4
+{8b
+=1
+2b
+8f#
+8g
+=2
+8a
+8f#
+2b
+=3
+8a
+8b
+4a
+8f#
+8b
+=4
+8f#
+8e
+2d}
+!!LO:LB:g=esac
+=5
+{8e
+8f#
+4g
+4b
+=6
+8f#
+8g
+4a
+8f#
+8b
+=7
+8g
+8f#
+4e
+4f#
+=8
+8d
+8c#
+2B}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 312
+!!!ONB: Converted on 2024/12/26 with esac2hum

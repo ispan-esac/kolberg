@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK4641100000-oj_daleko_to_slynie_o_mojej_pierzynie.krn
+!!!OTL: Oj, daleko to słynie o mojej pierzynie
+!!!source: DWOK46
+!!!id: 46411
+!!!signature: 4641100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8dd
+8dd
+4ff
+8ee
+8dd
+=2
+8cc
+8b
+2g#
+=3
+8e
+8g#
+4a
+4cc
+=4
+4ee
+2g#}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4dd
+4dd
+=6
+4ee
+4.e
+8g#
+=7
+2a
+4b
+=8
+2ee
+4ee}
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+4dd
+4dd
+=10
+4ee
+4.e
+8g#
+=11
+2a
+4cc
+=12
+2b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 260} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 260}
+!!!page: 260
+!!!ONB: Converted on 2024/12/26 with esac2hum

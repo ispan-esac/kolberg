@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK1815800000-biegla_marysia_ku_ogrodowi.krn
+!!!OTL: Biegła Marysia ku ogrodowi
+!!!source: DWOK18
+!!!id: 18158
+!!!signature: 1815800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16a
+8cc
+8b
+=2
+4.a
+=3
+16g
+16f
+8d
+8f
+=4
+4.e}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8cc
+8b
+=6
+4.a
+=7
+16g
+32f
+32e
+8d
+8f
+=8
+4.e}
+!!LO:LB:g=esac
+=9
+{16d
+16d
+8e
+8f#
+=10
+4.g
+=11
+16a
+32f
+32e
+8d
+8f
+=12
+4.e}
+!!LO:LB:g=esac
+=13
+{16a
+16a
+8cc
+8b
+=14
+4.a
+=15
+16g
+16a
+8g
+8f
+=16
+4.e}
+!!LO:LB:g=esac
+=17
+{16d
+16d
+8e
+8f#
+=18
+4.g
+=19
+16a
+32f
+32e
+8d
+8f
+=20
+4.e}
+!!LO:LB:g=esac
+=21
+{16a
+16a
+8cc
+8b
+=22
+4.a
+=23
+16a
+16a
+8g
+8f
+=24
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 111} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

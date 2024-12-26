@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK2704400000-zebys_ty_chmielu_na_tycki_nie_laz.krn
+!!!OTL: Zebyś ty chmielu na tycki nie laz
+!!!source: DWOK27
+!!!id: 27044
+!!!signature: 2704400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8ee
+=2
+16dd
+16cc
+4b
+=3
+16dd
+16ff
+8ee
+8a
+=4
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+16ff
+16ee
+=6
+16dd
+16cc
+4b
+=7
+16dd
+16ff
+8ee
+8a
+=8
+8cc
+4b}
+!!LO:LB:g=esac
+=9
+{4a
+16b
+16cc
+=10
+16dd
+16dd
+8a
+16b
+16cc
+=11
+8g
+8a
+16b
+16cc}
+!!LO:LB:g=esac
+=12
+{16dd
+16dd
+8a
+16b
+16cc
+=
+16cc
+16dd
+8ee
+24dd
+24cc
+24b
+=13
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 165} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 165}
+!!!page: 165
+!!!ONB: Converted on 2024/12/26 with esac2hum

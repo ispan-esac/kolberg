@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK4005600000-leciala_woda.krn
+!!!OTL: Leciała woda
+!!!source: DWOK40
+!!!id: 40056
+!!!signature: 4005600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8cc
+8cc
+=2
+4b
+8g
+=3
+16cc
+16ee
+4ff}
+!!LO:LB:g=esac
+=4
+{8ff
+16ee
+16ff
+8dd
+=5
+8b
+8g
+8g
+=6
+16f
+16d
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 155} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

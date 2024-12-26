@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK5799600000-tam_popid_haj_tam_popid_haj.krn
+!!!OTL: Tam popid haj, tam popid haj
+!!!source: DWOK57
+!!!id: 57996
+!!!signature: 5799600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8dd
+8dd
+=2
+8dd
+8ee
+8dd
+8b
+=3
+8cc
+8dd
+4ee
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8gg
+8aa
+8dd
+8dd
+=6
+8ee
+8ee
+8dd
+8cc
+=7
+8b
+8dd
+4a
+=8
+2g}
+==
+*-
+!!!ONB: Wariant t. 7: 352-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

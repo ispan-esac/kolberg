@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7628500002-oj_da_moja_dziewczyno.krn
+!!!OTL: Oj da, moja dziewczyno
+!!!source: DWOK76
+!!!id: 76285
+!!!signature: 7628500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8gg
+8ee
+=2
+8dd
+4b
+16g
+16b
+=3
+8dd
+8dd
+4cc
+=4
+8b
+4dd
+16dd
+16b}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+8dd
+=6
+8cc
+8b
+16b
+16b
+16g
+16b
+=7
+8dd
+8dd
+4cc
+=8
+8f#
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 146} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 146}
+!!!page: 146
+!!!ONB: Converted on 2024/12/26 with esac2hum

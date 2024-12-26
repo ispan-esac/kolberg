@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK02-K0136-serzy_sie_serzy.krn
+!!!OTL: Serzy sie serzy
+!!!source: DWOK02
+!!!id: K0136
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4cc
+=2
+2.dd
+=3
+8cc#
+8dd
+4.ee
+8b
+=4
+2.dd}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4.ee
+8cc
+=6
+8b
+8a
+4.b
+8g
+=7
+8f#
+8g
+4.a
+8b
+=8
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 111} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK3635700001-na_szczo_meni_kuda_chodyty.krn
+!!!OTL: Na szczo meni kuda chodyty
+!!!source: DWOK36
+!!!id: 36357
+!!!signature: 3635700001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8dd
+=2
+8dd
+8ee
+8dd
+8cc
+=3
+8b
+8a
+4g
+=4
+8g
+8b
+8b
+8b
+=5
+4cc
+8b
+8a
+=6
+4f#
+8g
+8f#}
+!!LO:LB:g=esac
+=7
+{8g
+8a
+8b
+8g
+=8
+4a
+8f#
+8f#
+=9
+4d
+4f#
+=10
+8g
+8a
+8b
+8g
+=11
+4a
+8f#
+8f#
+=12
+4d
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

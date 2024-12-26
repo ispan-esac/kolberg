@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK06-K0381-nosili_do_knapa.krn
+!!!OTL: Nosili do knapa
+!!!source: DWOK06
+!!!id: K0381
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8cc
+8g
+8b-
+=2
+8a
+4f
+8r
+=3
+8cc
+8cc
+8cc
+8dd
+=4
+8cc
+4a}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8g
+8b-
+=6
+8a
+4f
+8r
+=7
+8a
+8a
+8a
+8b-
+=8
+8g
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 200} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 200}
+!!!page: 200
+!!!ONB: Converted on 2024/12/26 with esac2hum

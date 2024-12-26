@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK8356300000-hely_helejko_kalynka_wodoju.krn
+!!!OTL: Heły, hełejko, Kałynka wodoju
+!!!source: DWOK83
+!!!id: 83563
+!!!signature: 8356300000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{4e
+8a
+8b
+8cc#
+8dd
+=2
+8cc#
+8b
+4a
+8b
+8cc#
+=3
+2b
+8cc#
+16a}
+16r
+!!LO:LB:g=esac
+=4
+{4e
+8a
+8b
+8cc#
+8dd
+=5
+8cc#
+8b
+4dd
+8cc#
+8b
+=6
+2a
+4a}
+==
+*-
+!!!ONB: Wariant t. 2: 3__2__1___2__3434; wariant t. 5: 3__2__4___3__2_-7b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=456 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 345} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 345}
+!!!page: 345
+!!!ONB: Converted on 2024/12/26 with esac2hum

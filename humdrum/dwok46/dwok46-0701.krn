@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK4670100000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK46
+!!!id: 46701
+!!!signature: 4670100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8dd
+4ee
+4ff
+=2
+4gg
+8gg
+8ff
+4ee
+=3
+8dd
+8ff
+4dd
+4ff
+=4
+4aa
+4aa
+8aa
+8gg}
+!!LO:LB:g=esac
+=5
+{8ee
+8gg
+4cc
+4ee
+=6
+4gg
+4gg
+8ff
+8ee
+=7
+8dd
+8ff
+4g
+8b
+8dd
+=8
+4cc
+8cc
+8ee
+4gg}
+!!LO:LB:g=esac
+=9
+{8dd
+8ff
+4g
+4b
+=10
+4cc
+8cc
+8ee
+4cc}
+==
+*-
+!!!ONB: Za bydłem
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=450 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 416} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 416}
+!!!page: 416
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3638900000-dolom_dolom_ta_szcze-j_dolynamy.krn
+!!!OTL: Dołom dołom ta szcze-j dołynamy
+!!!source: DWOK36
+!!!id: 36389
+!!!signature: 3638900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8b
+8g
+=2
+8cc
+8dd
+8ee
+8ee
+=3
+4.dd
+8b
+=4
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ee
+8ee
+=6
+8dd
+8dd
+8ee
+8cc
+=7
+8a
+8g
+8dd
+8b
+=8
+2cc}
+!!LO:LB:g=esac
+=9
+{8b
+8a
+8g
+8dd
+=10
+8dd
+8b
+8cc
+8a
+=11
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 246
+!!!ONB: Converted on 2024/12/26 with esac2hum

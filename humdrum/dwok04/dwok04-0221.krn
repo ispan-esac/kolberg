@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK04-K0221-a_w_niedziele_raniuchno.krn
+!!!OTL: A w niedziele raniuchno
+!!!source: DWOK04
+!!!id: K0221
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8dd
+8dd
+8ff
+8ee
+=2
+8dd
+8ee
+4cc
+=3
+8dd
+8dd
+8ee
+8cc
+=4
+8a
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+16b
+8.dd
+=6
+8a
+8g
+8b
+8dd
+=7
+4cc
+16b
+8.dd
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 112-113} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 112-113}
+!!!page: 112-113
+!!!ONB: Converted on 2024/12/26 with esac2hum

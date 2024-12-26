@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1329500010-instrumentalna-chodzony_v._polski.krn
+!!!OTL: Instrumentalna-Chodzony v. Polski
+!!!source: DWOK13
+!!!id: 13295
+!!!signature: 1329500010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+8cc
+8ee
+4gg
+=2
+8ff
+8gg
+4ee
+8ff
+8ee
+=3
+4g
+8b
+8dd
+4ff
+=4
+8ff
+8gg
+4ee
+4cc}
+!!LO:LB:g=esac
+=5
+{4g
+8cc
+8ee
+4ee
+=6
+8ff
+8ff
+4ee
+8ff
+8ee
+=7
+4g
+8b
+8dd
+4ff
+=8
+8cc
+8ee
+8ee
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 135} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

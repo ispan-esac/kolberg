@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7740200000-oj_kochalam_ja_przedtem.krn
+!!!OTL: Oj kochałam ja przedtem
+!!!source: DWOK77
+!!!id: 77402
+!!!signature: 7740200000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{8dd
+8cc
+8ee
+=
+24cc
+24b
+24a
+8cc
+8ee
+=2
+8dd
+8cc
+8ee
+=
+24cc
+24b
+24a
+16f
+16e
+8d}
+!!LO:LB:g=esac
+=3
+{8f
+8e
+8g
+=4
+16a
+16g#
+8a
+8d
+=5
+8f
+8e
+8g
+=6
+16a
+16g
+16f
+16e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2561300000-w_kalinowym_lasku.krn
+!!!OTL: W kalinowym lasku
+!!!source: DWOK25
+!!!id: 25613
+!!!signature: 2561300000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+16g
+16a
+16b-
+16cc
+16dd
+=2
+16ee-
+16ee-
+4dd
+=3
+8dd
+4b-
+=4
+16e-
+16g
+16b-
+16a
+8f}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8b-
+8d
+=6
+16e-
+16g
+16b-
+16dd
+8cc
+=7
+16a
+16a
+8b-
+8d
+=8
+16e-
+16g
+16b-
+16a
+8f}
+!!LO:LB:g=esac
+=
+{24a
+24g
+24a
+8b-
+8d
+=9
+16e-
+16g
+16b-
+16dd
+8cc
+=
+24a
+24g
+24a
+8b-
+8d
+=10
+16e-
+16g
+16b-
+16a
+8f}
+==
+*-
+!!!ONB: wariant w takcie trzecim i czwartym (454)3_5_  3_1_-6_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=251 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 226} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 226}
+!!!page: 226
+!!!ONB: Converted on 2024/12/26 with esac2hum

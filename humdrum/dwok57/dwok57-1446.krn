@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK57144600000-woj_pojichaw_zdrebeniuha.krn
+!!!OTL: Woj, pojichaw Zdrebeniuha
+!!!source: DWOK57
+!!!id: 571446
+!!!signature: 57144600000
+**kern
+*clefG2
+*k[f#c#g#d#a#]
+*B:
+*M2/4
+=1
+{8b
+8ee
+8ee
+8ee
+=2
+8ee
+8ee
+8dd#
+8dd#
+=3
+8ee
+8ff##
+8gg
+8ff##
+=4
+2ee}
+!!LO:LB:g=esac
+=
+{4ee
+12dd#
+12b
+12a
+=5
+8cc
+8ee
+8dd
+8b
+=6
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 502
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK42153300000-wielka_szkoda_com_sie_upil.krn
+!!!OTL: Wielka szkoda com się upił
+!!!source: DWOK42
+!!!id: 421533
+!!!signature: 42153300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4ee
+4a
+=2
+8cc
+8ee
+4dd
+4g
+=3
+8b
+8dd
+4ee
+4cc
+=4
+8d
+8d
+4f#
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+4a
+4cc
+=6
+8dd
+8dd
+4a
+4g
+=7
+8b
+8b
+4a
+4cc
+=8
+8d
+8d
+4f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 88-89} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 88-89}
+!!!page: 88-89
+!!!ONB: Converted on 2024/12/26 with esac2hum

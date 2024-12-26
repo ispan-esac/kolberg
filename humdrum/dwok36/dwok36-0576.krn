@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK3657600000-takes_swieza_i_gladka.krn
+!!!OTL: Takeś świeża i gładka
+!!!source: DWOK36
+!!!id: 36576
+!!!signature: 3657600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8gg
+8gg
+4dd
+4ee
+=2
+4dd
+8g
+8a
+8b
+8cc
+=3
+4b
+4ff
+4ee
+=4
+4dd
+8g
+8a
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{4dd
+4gg
+4ee
+=6
+8dd
+8dd
+8g
+8a
+8b
+8cc
+=7
+4b
+4ff
+4ee
+=8
+4dd
+8g
+8a
+8b
+8cc}
+!!LO:LB:g=esac
+=9
+{8d
+8d
+8e
+8f#
+8g
+8a
+=
+12b
+12cc
+12b
+4dd
+8cc
+8b
+=10
+4b
+4g
+4b
+=11
+8a
+8d
+4f#
+4g}
+!!LO:LB:g=esac
+=12
+{4d
+8d
+8f#
+8g
+8a
+=
+12b
+12cc
+12b
+4dd
+8cc
+8b
+=13
+4b
+4g
+4b
+=14
+8a
+8g
+4f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 384-385
+!!!ONB: Converted on 2024/12/26 with esac2hum

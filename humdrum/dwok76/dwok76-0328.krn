@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7632800000-chlopek_ci_ja_chlopek.krn
+!!!OTL: Chłopek ci ja, chłopek
+!!!source: DWOK76
+!!!id: 76328
+!!!signature: 7632800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8cc
+4cc
+4cc
+=2
+8cc
+8b
+2dd
+=3
+8g
+8b
+8dd
+8b
+8dd
+8ff
+=4
+8ff
+8ee
+2ee}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+4.dd
+8ff
+=6
+8ff
+8ee
+2cc
+=7
+8dd
+8cc
+8b
+8cc
+8dd
+8ff
+=8
+8g
+8b
+2cc}
+==
+*-
+!!!ONB: Wariant t. 6: +3+2+3__; t. 8: +27+1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 169} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 169}
+!!!page: 169
+!!!ONB: Converted on 2024/12/26 with esac2hum

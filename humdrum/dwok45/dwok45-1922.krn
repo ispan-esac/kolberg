@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK45192200000-och_und_meine.krn
+!!!OTL: Och und meine
+!!!source: DWOK45
+!!!id: 451922
+!!!signature: 45192200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*MX
+=1
+{4g
+4ee
+4ee
+4dd
+4dd
+4cc
+4cc
+4b
+=2
+4b
+4a
+4a
+4g
+4ee
+[4dd}
+2.dd]
+!!LO:LB:g=esac
+=3
+{8b
+4dd
+8b
+8dd
+4g
+4b
+8b
+8b
+8b
+8dd
+8dd
+8dd
+8b
+8b
+8dd
+4g}
+!!LO:LB:g=esac
+=4
+{8g
+8g
+8b
+4dd
+8dd
+8dd
+8ee
+8a
+8cc
+4b
+=5
+8g
+8g
+8b
+4dd
+8dd
+8dd
+8ee
+8a
+8cc
+4b}
+!!LO:LB:g=esac
+=6
+{4dd
+8b
+8dd
+4b
+4dd
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=369 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 351} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 351}
+!!!page: 351
+!!!ONB: Converted on 2024/12/26 with esac2hum

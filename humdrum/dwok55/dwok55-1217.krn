@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK55121700000-instrumentalna_-_wegier.krn
+!!!OTL: Instrumentalna - Węgier
+!!!source: DWOK55
+!!!id: 551217
+!!!signature: 55121700000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4ee
+4g
+4g
+8ee
+8dd
+=2
+8ee
+8dd
+4cc
+4g
+4g
+=3
+8ee
+8dd
+8cc
+8b
+4a
+4a}
+!!LO:LB:g=esac
+=4
+{4cc
+4g
+8ee
+8dd
+8cc
+8b
+=5
+4a
+4a
+8a
+8b
+4g
+=6
+4a
+4b
+4g
+4g
+=7
+8ff
+8ee
+8dd
+8b
+2cc}
+==
+*-
+!!!ONB: DWOK 55 nr 1217
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=438 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 411} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 411}
+!!!page: 411
+!!!ONB: Converted on 2024/12/26 with esac2hum

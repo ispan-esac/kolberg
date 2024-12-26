@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1712100000-ej_rada_bym_sie_rada.krn
+!!!OTL: Ej rada bym sie rada
+!!!source: DWOK17
+!!!id: 17121
+!!!signature: 1712100000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/8
+=1
+{8g#
+8b
+8dd#
+=2
+16ee
+32cc
+32b
+8a
+8e}
+!!LO:LB:g=esac
+=3
+{8g#
+8b
+8g#
+=4
+16f#
+16a
+8f#
+8e}
+!!LO:LB:g=esac
+=5
+{8g#
+8b
+8g#
+=6
+16f#
+16a
+8cc#
+8e}
+!!LO:LB:g=esac
+=7
+{8g#
+8b
+8g#
+=8
+16f#
+16a
+8f#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 42} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 42}
+!!!page: 42
+!!!ONB: Converted on 2024/12/26 with esac2hum

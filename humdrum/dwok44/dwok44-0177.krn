@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4417700000-owieczki_na_hali.krn
+!!!OTL: Owieczki na hali
+!!!source: DWOK44
+!!!id: 44177
+!!!signature: 4417700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+8.dd
+16dd
+=2
+4cc#
+4g
+=3
+8b
+8cc
+8dd
+8dd
+=4
+2cc#
+=5
+2g}
+!!LO:LB:g=esac
+=6
+{8dd
+8cc#
+8.b
+16a
+=7
+4cc
+4cc
+=8
+8dd
+8cc#
+8b
+8a
+=9
+2cc
+=10
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=242 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 188} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

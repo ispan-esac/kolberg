@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3040200000-hoja_w_lisi_bereza_stojala.krn
+!!!OTL: Hoja w lisi bereza stojala
+!!!source: DWOK30
+!!!id: 30402
+!!!signature: 3040200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16e
+8e
+16a
+16cc
+8.cc
+=2
+16ee
+8.ee
+16ff#
+8.ee
+=3
+8.dd#
+16b
+16cc
+16b
+16a}
+16r
+!!LO:LB:g=esac
+=4
+{16e
+8e
+16a
+16cc
+8.cc
+=5
+16dd
+8dd
+16b
+16cc
+8b
+16a
+=6
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 216} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 216}
+!!!page: 216
+!!!ONB: Converted on 2024/12/26 with esac2hum

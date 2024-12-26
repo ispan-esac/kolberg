@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2902000000-oj_hori_hori_pawy_litaly.krn
+!!!OTL: Oj hori hori pawy litaly
+!!!source: DWOK29
+!!!id: 29020
+!!!signature: 2902000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4b
+4ee
+=2
+16ee
+16dd
+16cc
+16b
+4dd
+=3
+8dd
+8b
+8b
+16a}
+16r
+!!LO:LB:g=esac
+=4
+{8dd
+8b
+8b
+8a
+=5
+16a
+16g
+16f
+16e
+8g
+8e
+=6
+4e}
+4r
+!!LO:LB:g=esac
+=7
+4r
+{4ee
+=8
+16ee
+16dd
+16cc
+16b
+4dd
+=9
+8dd
+8b
+8b
+16a}
+16r
+!!LO:LB:g=esac
+=10
+{4dd
+8b
+8a
+=11
+16a
+16g
+16f
+16e
+4g
+=12
+4e}
+4r
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 115} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

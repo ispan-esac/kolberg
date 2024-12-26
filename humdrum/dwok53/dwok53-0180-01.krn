@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5318000001-pa-girja_tanki_krumaj.krn
+!!!OTL: Pa-girja tanki krumaj
+!!!source: DWOK53
+!!!id: 53180
+!!!signature: 5318000001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+{8ee
+16dd
+8ff
+8ee
+=1
+8ee
+8dd
+8dd
+8dd}
+!!LO:LB:g=esac
+=2
+{8dd
+8dd
+8.ee
+16dd
+=3
+8dd
+8cc
+4cc}
+!!LO:LB:g=esac
+=4
+{8.b
+16a
+8.cc
+16b
+=5
+8.b
+16a
+8cc
+8b}
+!!LO:LB:g=esac
+=6
+{8dd
+8dd
+8.ee
+16dd
+=7
+8dd
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=342 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 304} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 304}
+!!!page: 304
+!!!ONB: Converted on 2024/12/26 with esac2hum

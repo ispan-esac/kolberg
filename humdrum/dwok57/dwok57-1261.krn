@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK57126100000-pid_dubynojo_pid_zelenojo.krn
+!!!OTL: Pid dubynojó, pid zełenojo
+!!!source: DWOK57
+!!!id: 571261
+!!!signature: 57126100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8.dd
+16dd
+8dd
+4b
+8dd
+=2
+8.dd
+16dd
+8dd
+4ee
+8dd}
+!!LO:LB:g=esac
+=3
+{8.cc
+16b
+8cc
+4a
+8aa
+=4
+8.ff#
+16ee
+8dd
+4gg
+8b}
+!!LO:LB:g=esac
+=5
+{8.cc
+16b
+8cc
+4a
+8aa
+=6
+8.ff#
+16ee
+8dd
+4gg
+8gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 372
+!!!ONB: Converted on 2024/12/26 with esac2hum

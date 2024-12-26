@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1246000002-chciala_pani_winno_pic.krn
+!!!OTL: Chciała pani winno pić
+!!!source: DWOK12
+!!!id: 12460
+!!!signature: 1246000002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8b
+8cc
+8cc
+=2
+8b
+16dd
+16b
+4g
+=3
+8g
+8b
+8dd
+8ff
+=4
+8ee
+8gg
+4cc}
+!!LO:LB:g=esac
+=5
+{4ee
+4ff
+=6
+8dd
+8dd
+4ee
+=7
+8cc
+8cc
+8dd
+8dd
+=8
+8g
+16a
+16b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=254 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 238} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 238}
+!!!page: 238
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3641800000-oj_letily_zurawli.krn
+!!!OTL: Oj łetiły żurawli
+!!!source: DWOK36
+!!!id: 36418
+!!!signature: 3641800000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{8a
+8a
+8cc
+8ee
+=2
+8dd
+8a
+4cc
+=3
+*M3/4
+4ee
+16ee
+16dd#
+8ff#
+8ee
+8dd
+=4
+*M2/4
+8a
+8a
+4cc}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8cc
+8ee
+=6
+*M3/4
+4dd
+16dd
+16ee
+8cc
+4a
+=7
+*M2/4
+8a
+8a
+8cc
+8ee
+=8
+*M3/4
+4dd
+16dd
+16ee
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 266
+!!!ONB: Converted on 2024/12/26 with esac2hum

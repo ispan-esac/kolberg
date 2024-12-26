@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7756700001-jak_sie_kuma_z_kumem_zejdzie.krn
+!!!OTL: Jak się kuma z kumem zejdzie
+!!!source: DWOK77
+!!!id: 77567
+!!!signature: 7756700001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8b
+4cc
+4ee
+=2
+8gg
+8ff#
+4.gg
+8dd}
+!!LO:LB:g=esac
+=3
+{8cc
+8b
+4cc
+4ee
+=4
+8gg
+8ff#
+4gg
+4dd}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4cc
+4cc
+=6
+8b
+8dd
+4cc
+4cc}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+4cc
+4gg
+=8
+8dd
+8ff
+4ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 291
+!!!ONB: Converted on 2024/12/26 with esac2hum

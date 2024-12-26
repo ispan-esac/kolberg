@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK7764500001-oj_nie_pozanem_wolkow.krn
+!!!OTL: Oj nie pożąnem wołków
+!!!source: DWOK77
+!!!id: 77645
+!!!signature: 7764500001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4ee
+4ee
+=2
+8dd
+8ff
+4ee
+4cc
+=3
+4cc
+4ee
+4cc
+=4
+8a
+8a
+2g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+4g
+4b
+=6
+4cc
+4b
+4dd
+=7
+4dd
+4ee
+4cc
+=8
+8a
+8a
+2g}
+==
+*-
+!!!ONB: w taktach 3-6 wariant: +3_+3_+1_  6+15__  665_+2_  +1_+3_+2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 327
+!!!ONB: Converted on 2024/12/26 with esac2hum

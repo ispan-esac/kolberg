@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK06-K0060-przeleciel_sokol_przez_jeji.krn
+!!!OTL: Przeleciel sokol przez jeji
+!!!source: DWOK06
+!!!id: K0060
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8cc
+8b
+=2
+8dd
+4dd
+=3
+8cc
+8ee
+8dd
+=4
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8b
+=6
+8dd
+4dd
+=7
+4.cc
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8b
+=10
+8cc
+4a
+=11
+8cc
+8cc
+8b
+=12
+8g
+4d}
+!!LO:LB:g=esac
+=13
+{8f#
+8f#
+8g
+=14
+8cc
+4b
+=15
+4.g
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 36} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 36}
+!!!page: 36
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK8201400000-hny_sia_ne_lomy_sia.krn
+!!!OTL: Hny sia ne łomy sia
+!!!source: DWOK82
+!!!id: 82014
+!!!signature: 8201400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8b
+=2
+4.dd
+8b
+=3
+8g
+8dd
+8dd
+8b
+=4
+4g
+16b
+16a
+8g}
+!!LO:LB:g=esac
+=5
+{4g
+8a
+8b
+=6
+8cc
+8dd
+4b
+=7
+8b
+8dd
+8dd
+8b
+=8
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 15} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 15}
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

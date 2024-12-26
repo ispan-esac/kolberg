@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK42189000000-nad_rzeczka_co_bystro.krn
+!!!OTL: Nad rzeczką co bystro
+!!!source: DWOK42
+!!!id: 421890
+!!!signature: 42189000000
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+{8dd
+=1
+4dd
+8cc
+8b
+8a
+8b
+=2
+4cc
+8g
+8g
+8r
+8g}
+!!LO:LB:g=esac
+=3
+{4cc
+8cc
+8cc
+8dd
+8ee
+=4
+4gg
+8ff
+8ff
+8r
+8ee
+=5
+4ee
+8dd
+8cc
+8dd
+8ee}
+!!LO:LB:g=esac
+=6
+{4ff
+8g
+8g
+8r
+8ee
+=7
+4dd
+8cc
+8b
+8a
+8b
+=8
+4.dd
+8cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=899 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 890} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 890}
+!!!page: 890
+!!!ONB: Converted on 2024/12/26 with esac2hum

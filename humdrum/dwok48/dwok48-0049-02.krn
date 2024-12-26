@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK4804900002-kocham_dziewczyne_z_pieknego_stanu.krn
+!!!OTL: Kocham dziewczynę z pięknego stanu
+!!!source: DWOK48
+!!!id: 48049
+!!!signature: 4804900002
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{8g
+8a
+8b
+8cc
+8cc
+8dd
+=2
+8ee
+8ee
+8ee
+8a
+8g#
+8a
+=3
+8a
+8ff
+8ee
+8dd
+8dd
+8g
+=4
+8g
+8a
+8b
+8cc
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8cc
+4dd
+8dd
+=6
+4ee
+8ee
+4.a
+=7
+8gg
+8r
+8ff
+4g
+8g
+=8
+4a
+8b
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 118} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 118}
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2537900000-hola_hola_jasiu_hola.krn
+!!!OTL: Hola hola Jasiu hola
+!!!source: DWOK25
+!!!id: 25379
+!!!signature: 2537900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8cc
+=2
+16ee
+16gg
+8ff
+8ff
+=3
+16ee
+16gg
+8ff
+8cc
+=4
+16b-
+16a
+8cc
+8f}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+16ff
+16gg
+16ff
+16cc
+=6
+16ee
+16cc
+16dd
+16ff
+16dd
+16b-
+=7
+16cc
+16ee
+16ff
+16gg
+16ff
+16cc
+=8
+16b-
+16a
+8cc
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 171} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 171}
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

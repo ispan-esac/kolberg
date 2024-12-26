@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK241590000-trzeba_i_dac.krn
+!!!OTL: Trzeba i dać
+!!!source: DWOK24
+!!!id: 24159
+!!!signature: 241590000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8b
+8a
+=2
+16g
+16g
+8b
+8d}
+!!LO:LB:g=esac
+=3
+{16f#
+16g
+8b
+8a
+=4
+16g
+16g
+8b
+8d
+=5
+16f#
+16g
+8b
+8a
+=6
+16g
+16g
+8b
+8d}
+!!LO:LB:g=esac
+=7
+{16f#
+16g
+8b
+8a
+=8
+8g
+8b
+8d
+=9
+16f#
+16g
+8b
+8a
+=10
+8g
+8b
+8d}
+!!LO:LB:g=esac
+=11
+{8g
+8b
+8a
+=12
+4g
+8d
+=13
+8g
+8b
+8a
+=14
+4g}
+8r
+==
+*-
+!!!ONB: U Kolberga jest 3/4 zapisano poprawnie na 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 261} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 261}
+!!!page: 261
+!!!ONB: Converted on 2024/12/26 with esac2hum

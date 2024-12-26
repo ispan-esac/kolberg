@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2207100000-wysedem_ja_na_polecko.krn
+!!!OTL: Wysedem ja na pólecko
+!!!source: DWOK22
+!!!id: 22071
+!!!signature: 2207100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16b
+16dd
+8dd
+8b
+=2
+16dd
+32ff
+32ee
+8.dd
+16ee
+=3
+16g
+16b
+8cc
+16dd
+16b
+=4
+16cc
+32cc
+32b
+8.a
+16b}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8cc
+16dd
+16b
+=6
+4cc}
+8r
+!!LO:LB:g=esac
+=7
+{16b
+16dd
+8dd
+8b
+=8
+16dd
+32ff
+32ee
+8.dd
+16ee
+=9
+16cc
+16b
+8cc
+16dd
+16b
+=10
+16cc
+32cc
+32b
+8.a
+16b}
+!!LO:LB:g=esac
+=11
+{16g
+16b
+8cc
+16dd
+16b
+=12
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 66} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

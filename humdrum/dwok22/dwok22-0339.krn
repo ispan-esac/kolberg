@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK2233900000-instrumentalna-krakowiak.krn
+!!!OTL: Instrumentalna-Krakowiak
+!!!source: DWOK22
+!!!id: 22339
+!!!signature: 2233900000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8dd
+16cc#
+16dd
+8ee
+8ff#
+=3
+8ee
+8dd
+8cc#
+8a
+=4
+4g
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+=6
+8dd
+16cc#
+16dd
+8ee
+8ff#
+=7
+8ee
+8dd
+8a
+8a
+=8
+4g
+4d}
+!!LO:LB:g=esac
+=9
+{4g
+8a
+8f#
+=10
+4g
+8a
+8f#
+=11
+8g
+8b
+8b
+8cc#
+=12
+4dd
+4a}
+!!LO:LB:g=esac
+=13
+{4g
+8a
+8f#
+=14
+4g
+8a
+8f#
+=15
+8g
+8b
+8a
+8a
+=16
+4g
+4d}
+==
+*-
+!!!ONB: melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 188} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

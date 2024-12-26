@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK8439700000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK84
+!!!id: 84397
+!!!signature: 8439700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{24gg
+24aa
+24gg
+8ff#
+8ff#
+=1
+8ee
+8cc
+8cc
+=2
+8.ff
+16dd
+16a
+16b
+=3
+16cc
+16b
+16cc
+16dd
+16ee
+16ff
+=4
+16gg
+16gg
+8ff#
+8gg
+=5
+16ee
+16cc
+8aa
+8gg
+=6
+16ff
+16ee
+16ff
+16g
+16a
+16b
+=7
+8cc
+4cc
+=8
+8g
+8ff
+16ee
+16dd
+=9
+8ee
+8cc
+16b
+16a
+=10
+16g
+16f#
+16g
+16a
+16b
+16g
+=
+16cc
+16dd
+8ee
+24cc
+24b
+24a
+=11
+8cc
+4cc}
+==
+*-
+!!!ONB: Wariant t. 1-2: (+5+6+5)+3+4+5_  +3_+1+2+3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=393 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 323} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 323}
+!!!page: 323
+!!!ONB: Converted on 2024/12/26 with esac2hum

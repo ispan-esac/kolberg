@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK5783200000-cztyry_koni_maju.krn
+!!!OTL: Cztyry koni maju
+!!!source: DWOK57
+!!!id: 57832
+!!!signature: 5783200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8g
+8b
+=2
+4dd
+4gg}
+!!LO:LB:g=esac
+=3
+{8ee
+8ee
+8gg
+8ee
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8a
+8a
+=6
+4b
+4dd}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8cc
+8a
+=8
+4g
+4g}
+==
+*-
+!!!ONB: Wariant t. 1: 1131
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 68
+!!!ONB: Converted on 2024/12/26 with esac2hum

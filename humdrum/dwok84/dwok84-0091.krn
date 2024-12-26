@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK8409100000-hej_poki_ja_czumaka_lubyla.krn
+!!!OTL: Hej, poki ja czumaka lubyła
+!!!source: DWOK84
+!!!id: 84091
+!!!signature: 8409100000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=1
+{8a
+8dd
+8dd
+8dd
+=2
+8ee
+8dd
+8cc
+8a
+=3
+4cc
+4a}
+!!LO:LB:g=esac
+=4
+{8g
+8a
+8b-
+8b-
+=5
+8cc
+8dd
+8cc
+8b-
+=6
+4a
+4f}
+!!LO:LB:g=esac
+=7
+{8a
+8dd
+8a
+8a
+=8
+8f
+8f
+8e
+8e
+=9
+4d
+4dd}
+!!LO:LB:g=esac
+=10
+{8a
+8b-
+8a
+8g
+=11
+8f
+8f
+8e
+8e
+=12
+4d
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 105} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

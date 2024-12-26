@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK0910400001-instrumentalna_-_wiwatowy_szot..krn
+!!!OTL: Instrumentalna - Wiwatowy Szot.
+!!!source: DWOK09
+!!!id: 09104
+!!!signature: 0910400001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8.a
+16b-
+8cc
+8cc
+=2
+8cc
+8ee
+8ff
+8a
+=3
+8cc
+8cc
+8b-
+8g
+=4
+4b-
+4a}
+!!LO:LB:g=esac
+=5
+{8.a
+16b-
+8cc
+8cc
+=6
+8cc
+8ee
+8ff
+8a
+=7
+8cc
+8cc
+8b-
+8g
+=8
+8g
+8f
+4f}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8b-
+8g
+=10
+4b-
+4a
+=11
+8cc
+8cc
+8b-
+8g
+=12
+8cc
+8cc
+8a
+8f}
+!!LO:LB:g=esac
+=13
+{8cc
+8cc
+8b-
+8g
+=14
+4b-
+4a
+=15
+8cc
+8cc
+8b-
+8g
+=16
+8g
+8f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 242} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2740900010-parobecku_kiepska_siecka.krn
+!!!OTL: Parobecku kiepska siecka
+!!!source: DWOK27
+!!!id: 27409
+!!!signature: 2740900010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+32b
+32cc
+8.ee
+16ff
+=2
+16ee
+16dd
+8ff
+16ee
+16cc
+=3
+16b
+16cc
+8.ee
+16ff
+=4
+16ee
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16cc
+16a
+8.g
+16b
+=6
+16a
+32b
+32cc
+8ee
+16b
+16g
+=7
+16cc
+16a
+8.g
+16b
+=8
+16a
+16cc
+8dd
+16b
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=371 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 352} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 352}
+!!!page: 352
+!!!ONB: Converted on 2024/12/26 with esac2hum

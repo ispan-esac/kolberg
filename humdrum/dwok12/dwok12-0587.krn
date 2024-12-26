@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK1258700000-miala_babulenka_kozla_rogatego.krn
+!!!OTL: Miała babuleńka kozła rogatego
+!!!source: DWOK12
+!!!id: 12587
+!!!signature: 1258700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16b
+8a
+8a
+=2
+8b
+4dd
+=3
+16cc
+16b
+8a
+8a
+=4
+8g
+4d}
+!!LO:LB:g=esac
+=5
+{16cc
+16b
+8a
+8a
+=6
+8b
+4dd
+=7
+16cc
+16b
+8a
+8a
+=8
+8g
+4d}
+!!LO:LB:g=esac
+=9
+{16f#
+16g
+4a
+=10
+8dd
+8a
+8a
+=11
+16f#
+16g
+8a
+8a
+=12
+8dd
+8a
+8a
+=13
+16f#
+16g
+8a
+8a
+=14
+8dd
+8a
+8a}
+!!LO:LB:g=esac
+=15
+{16cc
+16b
+8a
+8a
+=16
+8b
+4dd
+=17
+16cc
+16b
+8a
+8a
+=18
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 295-296} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 295-296}
+!!!page: 295-296
+!!!ONB: Converted on 2024/12/26 with esac2hum

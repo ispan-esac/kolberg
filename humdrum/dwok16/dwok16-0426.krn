@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK1642600000-u_jeziorenka_bystra_wodenka.krn
+!!!OTL: U jezioreńka bystra wodeńka
+!!!source: DWOK16
+!!!id: 16426
+!!!signature: 1642600000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{8a
+8cc#
+8dd
+=2
+8a
+4g
+=3
+8a
+8cc#
+8dd
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8cc#
+8dd
+=6
+8ee
+4dd
+=7
+4.ee
+=8
+16cc#
+16a
+4r
+=9
+8ee
+8dd
+8dd
+=10
+16cc#
+16a
+4g}
+!!LO:LB:g=esac
+=11
+{8a
+8cc#
+8dd
+=12
+8a
+4g
+=13
+8a
+8cc#
+8dd
+=14
+8a
+4g}
+!!LO:LB:g=esac
+=15
+{8a
+8cc#
+8dd
+=16
+8ee
+4dd
+=17
+4.ee
+=18
+16cc#
+16a
+4r
+=19
+8a
+8cc#
+8dd
+=20
+16cc#
+16a
+4g}
+!!LO:LB:g=esac
+=21
+{8a
+8cc#
+8dd
+=22
+8a
+4g
+=23
+4.a
+=24
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 265} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 265}
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK5325600000-pastereczka_swit_spostrzega.krn
+!!!OTL: Pastereczka świt spostrzega
+!!!source: DWOK53
+!!!id: 53256
+!!!signature: 5325600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.b
+32dd
+8dd
+8dd
+=2
+16dd
+16dd
+8dd
+8dd
+=3
+16.dd
+32dd
+8dd
+8dd
+=4
+16dd
+16dd
+8.ee
+16dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8b
+8g
+=6
+16dd
+16cc
+8a
+8a
+=7
+16b
+16g
+8dd
+8dd
+=8
+16dd
+16b
+8.gg
+16ee}
+!!LO:LB:g=esac
+=9
+{16dd
+16dd
+8dd
+8dd
+=10
+16dd
+16b
+4ee
+=11
+16dd
+16b
+8.ee
+16cc
+=12
+16b
+16dd
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=380 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 340} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 340}
+!!!page: 340
+!!!ONB: Converted on 2024/12/26 with esac2hum

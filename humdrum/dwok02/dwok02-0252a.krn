@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK02-K0252a-nie_bede_ja_roli_oral.krn
+!!!OTL: Nie bede ja roli oral
+!!!source: DWOK02
+!!!id: K0252a
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16cc#
+8ee
+16ee
+16dd
+=2
+16ff#
+16dd
+8b
+8b
+=3
+8dd
+4ff#}
+!!LO:LB:g=esac
+=
+{24b
+24a
+24cc#
+8ee
+16ee
+16dd
+=4
+16ff#
+16dd
+8b
+16b
+16g#
+=5
+16e
+16g#
+4b}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 204} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 204}
+!!!page: 204
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK45147900010-zostancie_owiecki.krn
+!!!OTL: Zostańcie owiecki
+!!!source: DWOK45
+!!!id: 451479
+!!!signature: 45147900010
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8ff
+8ee
+8dd
+8dd
+8cc
+8b
+=2
+*M2/4
+8dd
+8cc
+4b
+=3
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=4
+*M3/4
+{8dd
+8cc
+8b
+8g
+8a
+8b
+=5
+*M2/4
+8dd
+8cc
+4b
+=6
+*M3/4
+4b
+2a
+=7
+4g}
+4r
+4r
+==
+*-
+!!!ONB: Pierwsza zwrotka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 186} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 186}
+!!!page: 186
+!!!ONB: Converted on 2024/12/26 with esac2hum

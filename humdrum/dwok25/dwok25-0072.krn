@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2507200000-dziewcyno_jedyno_powiedz_mi_kto_u_ciebie.krn
+!!!OTL: Dziewcyno jedyno powiedz mi kto u ciebie
+!!!source: DWOK25
+!!!id: 25072
+!!!signature: 2507200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+8cc
+4dd
+=2
+8b
+8a
+4g
+=3
+8b
+8cc
+4dd
+=4
+8ee
+8dd
+8cc
+8cc
+=5
+8b
+8dd
+4cc}
+!!LO:LB:g=esac
+=6
+{8b
+8cc
+4dd
+=7
+8b
+8a
+4g
+=8
+8b
+8cc
+4dd
+=9
+8b
+8cc
+4dd}
+!!LO:LB:g=esac
+=10
+{8b
+8cc
+8dd
+8dd
+=11
+8ee
+8dd
+8cc
+8cc
+=12
+8b
+8cc
+4dd
+=13
+8dd
+8b
+4cc}
+==
+*-
+!!!ONB: wariant w takcie drugim zapisu nutowego 7+1+2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 27} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 27}
+!!!page: 27
+!!!ONB: Converted on 2024/12/26 with esac2hum

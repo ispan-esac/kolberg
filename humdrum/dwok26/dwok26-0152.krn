@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2615200000-jaki_to_jalowiec.krn
+!!!OTL: Jaki to jałowiec
+!!!source: DWOK26
+!!!id: 26152
+!!!signature: 2615200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8b
+8cc
+=2
+8dd
+4dd
+=3
+8dd
+4b
+=4
+4.g
+=5
+16f#
+16d}
+4r
+!!LO:LB:g=esac
+=6
+{8d
+8f#
+8g
+=7
+8b
+8a
+8g
+=8
+8b
+8cc
+8dd
+=9
+8b
+4cc}
+!!LO:LB:g=esac
+=10
+{8dd
+4dd
+=11
+8g
+4b
+=12
+8g
+4f#
+=13
+4g}
+8r
+==
+*-
+!!!ONB: W takcie piątym powinna byc pauza ćwierćnutowa
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

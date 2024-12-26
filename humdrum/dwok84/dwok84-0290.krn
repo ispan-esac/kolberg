@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK8429000000-na_co_mi_nieba_daly.krn
+!!!OTL: Na co mi nieba dały
+!!!source: DWOK84
+!!!id: 84290
+!!!signature: 8429000000
+**kern
+*clefG2
+*k[]
+*a:
+*M6/8
+=1
+{8.e
+16a
+8a
+16a
+16b
+8cc
+16b
+16a
+=2
+4g#
+8e
+4r
+8r
+=3
+8.e
+16a
+8a
+8a
+8cc
+8cc
+=4
+4dd
+8b
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{8.dd
+16g
+8g
+8g
+8g
+8g
+=6
+4cc
+8b
+4a
+8r
+=7
+8.b
+16e
+8e
+8e
+8f#
+8g#
+=8
+4b
+8a}
+4r
+8r
+==
+*-
+!!!ONB: Wariant t. 3-4: -5_.11_123b_4_  5__2_3b__0_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=335 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 265} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 265}
+!!!page: 265
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK1304800002-a_witaj_ze.krn
+!!!OTL: A witaj że
+!!!source: DWOK13
+!!!id: 13048
+!!!signature: 1304800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8cc#
+8dd
+=2
+16ee
+16dd
+8cc
+8b
+=3
+16a
+16f#
+8d
+8b
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8cc#
+8dd
+=6
+16ee
+16dd
+8cc
+8b
+=7
+16a
+16f#
+8d
+8b
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16a
+16a
+8b
+8a
+=10
+16dd
+16dd
+8b
+8a
+=11
+16cc
+16ee
+8ee
+8ff#
+=12
+4.dd}
+!!LO:LB:g=esac
+=13
+{16b
+16dd
+8cc#
+8dd
+=14
+16gg
+16dd
+8b
+8g
+=15
+16a
+16f#
+8d
+16cc
+16b
+=16
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 27} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 27}
+!!!page: 27
+!!!ONB: Converted on 2024/12/26 with esac2hum

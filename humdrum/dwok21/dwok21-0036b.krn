@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK21036b0000-a_ty_ptasku_slowijasku.krn
+!!!OTL: A ty ptasku słowijasku
+!!!source: DWOK21
+!!!id: 21036b
+!!!signature: 21036b0000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8cc
+8ff
+4ff
+4ee
+=2
+8dd
+8ff
+4ff
+8ee
+8dd
+=3
+8cc
+8ff
+4ff
+8dd
+8b-
+=4
+2g}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+[8dd
+4dd]
+8cc
+8b-
+=6
+8a
+8cc
+4cc
+8b-
+8a
+=7
+8g
+[8dd
+4dd]
+8cc
+8a
+=8
+4f}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 20} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 20}
+!!!page: 20
+!!!ONB: Converted on 2024/12/26 with esac2hum

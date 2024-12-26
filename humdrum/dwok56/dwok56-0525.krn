@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK5652500000-oj_lisom_lisom.krn
+!!!OTL: Oj, lisom, lisom
+!!!source: DWOK56
+!!!id: 56525
+!!!signature: 5652500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+4ff
+=2
+8gg
+8ff
+8dd
+=3
+16ee
+16dd
+16cc
+16r
+8r
+=4
+16dd
+16ee
+8ff
+8ee
+=5
+16dd
+16b
+8.cc
+16cc}
+!!LO:LB:g=esac
+=6
+{16b
+16dd
+8dd
+8ff
+=
+8dd
+8cc
+24ee
+24dd
+24cc
+=
+24dd
+24ee
+24ff
+8ee
+16dd
+16b
+=7
+4cc
+8cc}
+==
+*-
+!!!ONB: Wariant t. 2: +4+5+4_+2_; wariant t. 4: +4_+3_+1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=481 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 377} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 377}
+!!!page: 377
+!!!ONB: Converted on 2024/12/26 with esac2hum

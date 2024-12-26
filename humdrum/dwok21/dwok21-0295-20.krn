@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2129500020-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK21
+!!!id: 21295
+!!!signature: 2129500020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{24cc
+24cc
+24ee
+16gg
+16ff#
+24dd
+24ff#
+24aa
+=1
+16gg
+16ff#
+8.gg
+16ee
+=2
+16cc
+16ee
+16gg
+16ff#
+16dd
+16ff#
+=3
+16gg
+16ff#
+4gg}
+!!LO:LB:g=esac
+=4
+{16gg
+16ff#
+16dd
+16ee
+16cc
+16a
+=
+24g
+24b
+24dd
+16cc
+16ee
+16aa
+16gg
+=5
+16gg
+16ff#
+16dd
+16ee
+16cc
+16a
+=6
+4.g}
+==
+*-
+!!!ONB: część instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 123} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

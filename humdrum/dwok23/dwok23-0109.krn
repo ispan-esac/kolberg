@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2310900000-w_kluczborku_na_bronie.krn
+!!!OTL: W Kluczborku na bronie
+!!!source: DWOK23
+!!!id: 23109
+!!!signature: 2310900000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16f#
+16g
+8a
+8g
+=2
+8cc
+4dd
+=3
+16dd
+16dd
+8cc
+8cc
+=4
+8g
+4f}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8cc
+8dd
+=6
+8cc
+8b-
+8f
+=7
+16f#
+16g
+8cc
+8dd
+=8
+8cc
+8b-
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 144} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 144}
+!!!page: 144
+!!!ONB: Converted on 2024/12/26 with esac2hum

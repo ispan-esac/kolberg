@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2824300000-nie_stawiaj_konika.krn
+!!!OTL: Nie stawiaj konika
+!!!source: DWOK28
+!!!id: 28243
+!!!signature: 2824300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8.cc
+16dd
+=2
+16ee
+16ee
+4cc
+=3
+8ee
+8.dd
+16a
+=4
+16cc
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+4a
+=6
+16cc
+16dd
+8ee
+8cc
+=7
+8ee
+4dd
+=8
+16a
+16cc
+8a
+8a}
+!!LO:LB:g=esac
+=9
+{8ee
+8.cc
+16dd
+=
+24ee
+24dd
+24ee
+4cc
+=10
+8ee
+8.dd
+16b
+=
+24cc
+24b
+24a
+4g}
+!!LO:LB:g=esac
+=11
+{8a
+4a
+=12
+16cc
+16dd
+8ee
+8cc
+=13
+8ee
+4dd
+=14
+16a
+16cc
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 250} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 250}
+!!!page: 250
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1909400000-idzie_woda_idzie.krn
+!!!OTL: Idzie woda idzie
+!!!source: DWOK19
+!!!id: 19094
+!!!signature: 1909400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{2g
+=2
+16a
+16b
+4dd
+16ff
+16ee
+=3
+8ff
+16ee
+16dd
+8cc
+8ee
+=4
+8gg
+8gg
+4ff
+=5
+16dd
+16ee
+4cc
+8cc}
+!!LO:LB:g=esac
+=6
+{16a
+16b
+4dd
+16dd
+16ee
+=7
+8ff
+16ee
+16dd
+4cc
+=8
+8dd
+8b
+4cc
+=9
+16a
+16b
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 33} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 33}
+!!!page: 33
+!!!ONB: Converted on 2024/12/26 with esac2hum

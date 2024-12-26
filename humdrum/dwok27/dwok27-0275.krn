@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2727500000-bystra_woda_tam.krn
+!!!OTL: Bystra woda tam
+!!!source: DWOK27
+!!!id: 27275
+!!!signature: 2727500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4a
+8cc
+8b-
+4a
+=2
+8g
+8b-
+8dd
+8cc
+8b-
+8g
+=3
+4a
+8cc
+8b-
+8a
+8f
+=4
+8g
+8b-
+8dd
+8cc
+16b-
+16a
+8g}
+!!LO:LB:g=esac
+=5
+{4cc
+8cc
+8cc
+4cc
+=6
+8b-
+8cc
+2dd
+=7
+4cc
+8cc
+8cc
+8dd
+8b-
+=8
+8a
+8f
+2g}
+!!LO:LB:g=esac
+=9
+{4cc
+8cc
+8cc
+8cc
+8a
+=10
+8b-
+8cc
+8dd
+8ee
+4ff
+=11
+4cc
+8ff
+8cc
+8dd
+8b-
+=12
+8a
+8f
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=307 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 288} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 288}
+!!!page: 288
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1000500000-gospodarzu_tego_domu_wychowales_corulinke_nie_wiesz_komu.krn
+!!!OTL: Gospodarzu tego domu wychowałeś córulinke nie wiesz komu
+!!!source: DWOK10
+!!!id: 10005
+!!!signature: 1000500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8cc#
+=2
+8dd
+4b
+=3
+4g
+16a
+16b
+=4
+16g
+16f#
+8d}
+8r
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8a
+8dd
+=6
+16a
+16g
+8f#
+8d
+=7
+16f#
+16g
+8a
+8dd
+=8
+16a
+16g
+8f#
+8d}
+!!LO:LB:g=esac
+=9
+{4cc
+8a
+=10
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 64} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 64}
+!!!page: 64
+!!!ONB: Converted on 2024/12/26 with esac2hum

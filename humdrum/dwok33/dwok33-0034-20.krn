@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK3303400020-nie_kryj_sie_panie_przed_namy.krn
+!!!OTL: Nie kryj się panie przed namy
+!!!source: DWOK33
+!!!id: 33034
+!!!signature: 3303400020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8a
+8cc
+4b-
+8a
+8g
+=2
+8b-
+4dd
+8b
+4cc
+=3
+4b-
+4g
+4a}
+!!LO:LB:g=esac
+=4
+{8a
+8g
+4b-
+8g
+8e
+=5
+8f
+4f
+8g
+4a
+=6
+4b-
+4g
+4f}
+==
+*-
+!!!ONB: Przyszedłszy do dworu na podwórze, oznaczona jako szesnasta zwrotka pieśni
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 172} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 172}
+!!!page: 172
+!!!ONB: Converted on 2024/12/26 with esac2hum

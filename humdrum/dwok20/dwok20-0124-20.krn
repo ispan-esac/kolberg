@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2012400020-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK20
+!!!id: 20124
+!!!signature: 2012400020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.a
+32g
+8.f#
+16e
+=
+24d
+24e
+24f#
+8.g
+16a
+=2
+16b
+16cc
+8b
+8a
+=3
+4.g}
+!!LO:LB:g=esac
+=4
+{16.a
+32g
+8.f#
+16e
+=
+24d
+24e
+24f#
+8.g
+16a
+=5
+16b
+16cc
+8dd
+8a
+=6
+4.g}
+==
+*-
+!!!ONB: Fragment instrumentalny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 154} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 154}
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

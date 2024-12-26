@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK5321600000-negeres_negalu_buti.krn
+!!!OTL: Negeręs negalu buti
+!!!source: DWOK53
+!!!id: 53216
+!!!signature: 5321600000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=1
+{4b
+4b
+4a
+=2
+4dd#
+4dd#
+4b
+=3
+2cc#
+4b}
+!!LO:LB:g=esac
+=4
+{4b
+4b
+4a
+=5
+4dd#
+4dd#
+4b
+=6
+2cc#
+4b}
+!!LO:LB:g=esac
+=7
+{4cc#
+4b
+4g#
+=8
+4b
+4a
+4g#
+=9
+2f#
+4e}
+!!LO:LB:g=esac
+=10
+{4cc#
+4b
+4g#
+=11
+4b
+4a
+4g#
+=12
+2f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=365 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 325-326} @EN{Oskar Kolberg Complete Works 53: Lithuania, pp. 325-326}
+!!!page: 325-326
+!!!ONB: Converted on 2024/12/26 with esac2hum

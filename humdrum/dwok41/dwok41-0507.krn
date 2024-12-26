@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK4150700000-a_skad_jedziecie_a_co_wieziecie.krn
+!!!OTL: A skąd jedziecie, a co wieziecie?
+!!!source: DWOK41
+!!!id: 41507
+!!!signature: 4150700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8a
+8cc
+8dd
+8g
+4b-
+=2
+8a
+8cc
+8dd
+8g
+4b-}
+!!LO:LB:g=esac
+=3
+{4c
+4e
+4b-
+=4
+8a
+8e
+4g
+4f}
+!!LO:LB:g=esac
+=5
+{4c
+4e
+4b-
+=6
+8a
+8e
+4g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=342 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 259} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 259}
+!!!page: 259
+!!!ONB: Converted on 2024/12/26 with esac2hum

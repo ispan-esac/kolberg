@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4404900000-o_wychodz_wychodz.krn
+!!!OTL: O, wychodź, wychodź
+!!!source: DWOK44
+!!!id: 44049
+!!!signature: 4404900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4ee
+4ee
+4cc
+=2
+4dd
+2ee
+=3
+8dd
+8cc
+4g
+4f
+=4
+2.g}
+!!LO:LB:g=esac
+=5
+{4ee
+4ee
+4cc
+=6
+4dd
+2ee
+=7
+8dd
+8cc
+4g
+4f
+=8
+2.g}
+!!LO:LB:g=esac
+=9
+{8f
+8g
+4g
+4f
+=10
+8g
+8a
+4b
+4a}
+!!LO:LB:g=esac
+=11
+{8f
+8g
+4g
+4f
+=12
+8g
+8a
+4b
+4a}
+!!LO:LB:g=esac
+=13
+{8b
+8b
+4a
+4f
+=14
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 108} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 108}
+!!!page: 108
+!!!ONB: Converted on 2024/12/26 with esac2hum

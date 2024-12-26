@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2549100002-instrumentalna-pasterska.krn
+!!!OTL: Instrumentalna-Pasterska
+!!!source: DWOK25
+!!!id: 25491
+!!!signature: 2549100002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{24g
+24a
+24b
+8cc
+16ee
+16gg
+=
+24ff
+24ee
+24dd
+8cc
+16ee
+16gg
+=
+24ff
+24ee
+24ff
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=
+{24g
+24a
+24b
+8cc
+16cc
+16b
+=
+16cc
+16a
+8f
+24f
+24g
+24a
+=
+24b-
+24a
+24b-
+8dd
+16b-
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=223 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 198} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 198}
+!!!page: 198
+!!!ONB: Converted on 2024/12/26 with esac2hum

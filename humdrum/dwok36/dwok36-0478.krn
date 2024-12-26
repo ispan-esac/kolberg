@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK3647800000-a_w_kijowi_na_rynoczku.krn
+!!!OTL: A w Kijowi na rynoczku
+!!!source: DWOK36
+!!!id: 36478
+!!!signature: 3647800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+8d
+8d
+8dd
+8dd
+=2
+8cc
+8a
+2g
+=3
+8g
+8g
+8d
+8d
+8dd
+8dd
+=4
+8cc
+8a
+2g}
+!!LO:LB:g=esac
+=5
+{4.dd
+8b
+8cc
+8a
+=6
+8b
+8b
+8cc
+8b
+8a
+8g
+=7
+8f#
+8g
+4a
+4a
+=8
+8g
+8g
+8g
+8b
+8dd
+8dd}
+!!LO:LB:g=esac
+=9
+{8cc
+8b
+8a
+8g
+8f#
+8e
+=10
+2d
+4d}
+!!LO:LB:g=esac
+=11
+{4.dd
+8b
+8cc
+8a
+=12
+8b
+8b
+8cc
+8b
+8a
+8g
+=13
+8f#
+8g
+4a
+4a
+=14
+8g
+8g
+8g
+8b
+8dd
+8dd}
+!!LO:LB:g=esac
+=15
+{8cc
+8b
+8a
+8g
+8f#
+8e
+=16
+2d
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 309-310
+!!!ONB: Converted on 2024/12/26 with esac2hum

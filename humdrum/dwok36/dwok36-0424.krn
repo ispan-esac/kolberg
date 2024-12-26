@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK3642400000-a_des_ze_u_mene_pustyj_rozum_wziaw_sia.krn
+!!!OTL: A deś że u mene pustyj rozum wziaw sia
+!!!source: DWOK36
+!!!id: 36424
+!!!signature: 3642400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4ee
+8ee
+8ee
+=2
+4.ee
+8dd
+=3
+8cc
+8cc
+8b
+8a
+=4
+8a
+8g#
+4g#}
+!!LO:LB:g=esac
+=5
+{4gg
+8gg
+8gg
+=6
+4.gg
+8ff
+=7
+8ee
+8dd
+8gg
+8ee
+=8
+2ee}
+!!LO:LB:g=esac
+=9
+{4ee
+8ee
+8ee
+=10
+4.ee
+8dd
+=11
+8cc
+8cc
+8b
+8a
+=12
+4a
+4g#}
+!!LO:LB:g=esac
+=13
+{4ee
+8ee
+8ee
+=14
+8dd
+8cc
+8b
+8a
+=15
+4ee
+4g#
+=16
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 270
+!!!ONB: Converted on 2024/12/26 with esac2hum

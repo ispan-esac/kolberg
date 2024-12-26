@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK35B-35B08800002-oj_znadyv_sie_kotek.krn
+!!!OTL: Oj znadyv sie kotek
+!!!source: DWOK35B
+!!!id: 35B088
+!!!signature: 35B08800002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4.dd
+8cc
+=3
+8ee
+8ee
+16ee
+16ff#
+8gg
+=4
+4.dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8dd
+8b
+=6
+8dd
+8b
+8cc
+8gg
+=7
+8cc
+8b
+8cc
+8f#
+=8
+4.g
+8g}
+==
+*-
+!!!ONB: zakodować w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 175} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 175}
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

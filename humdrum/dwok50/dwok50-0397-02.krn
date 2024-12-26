@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5039700002-przyjechal_jasienko_z_czidzi_ukrainy.krn
+!!!OTL: Przyjechał Jasieńko z czidżi Ukrainy
+!!!source: DWOK50
+!!!id: 50397
+!!!signature: 5039700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc#
+=2
+4dd
+8dd
+8cc#
+=3
+8dd
+16dd
+16b
+8g
+8b
+=4
+4.a
+16a
+16d}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc#
+=6
+4dd
+8dd
+8cc#
+=
+8dd
+16dd
+16b
+8b
+24b
+24a
+24f#
+=7
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=250 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 225} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 225}
+!!!page: 225
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK45160600000-kazale_mi_maty.krn
+!!!OTL: Kazałe mi maty
+!!!source: DWOK45
+!!!id: 451606
+!!!signature: 45160600000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{16b
+16dd#
+8ee
+8dd#
+=2
+8ee
+4b
+=3
+16ee
+16ee
+4dd
+=4
+16dd
+16cc
+4b}
+!!LO:LB:g=esac
+=5
+{16b
+16dd#
+8ee
+8dd#
+=6
+8ee
+4b
+=7
+16ee
+16ee
+4dd
+=8
+16dd
+16cc
+4b}
+!!LO:LB:g=esac
+=9
+{16dd
+16cc
+8b
+8a
+=10
+8b
+8g
+8f#
+=11
+16g
+16a
+4b}
+!!LO:LB:g=esac
+=12
+{16cc
+16cc
+8b
+8a
+=13
+4b
+8a
+=14
+16g
+16f#
+4e}
+==
+*-
+!!!ONB:  W 4 takcie różnica metryczna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 217} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 217}
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

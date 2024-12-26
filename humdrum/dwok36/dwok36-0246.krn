@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK3624600000-ksiezycu_co_sie_po_scianach_tu_blakasz.krn
+!!!OTL: Księżycu co się po ścianach tu błąkasz
+!!!source: DWOK36
+!!!id: 36246
+!!!signature: 3624600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8a
+8b
+8b
+8a
+8b
+=2
+4dd
+8cc
+4a
+8r
+=3
+8gg
+8b
+8b
+8cc
+8b
+8cc
+=4
+4.dd
+4gg
+8b}
+!!LO:LB:g=esac
+=5
+{8bb
+8aa
+8gg
+8ff#
+8ee
+8cc
+=6
+4.dd
+4gg
+8b
+=7
+8dd
+8cc#
+8dd
+8ee
+8dd
+8f#
+=8
+8a
+8g}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 143
+!!!ONB: Converted on 2024/12/26 with esac2hum

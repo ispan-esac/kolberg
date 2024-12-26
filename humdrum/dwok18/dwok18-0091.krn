@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK1809100000-blogoslaw-ze_nas_jezusie.krn
+!!!OTL: Błogosław-ze nas Jezusie
+!!!source: DWOK18
+!!!id: 18091
+!!!signature: 1809100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+8ee
+4cc
+=3
+8dd
+4ee
+=4
+4dd
+8b}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+=6
+8cc
+4g
+=7
+8a
+4cc
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8cc
+8b
+8a
+=10
+8b
+8cc
+8g
+=11
+8a
+4cc
+=12
+8a
+4g}
+!!LO:LB:g=esac
+=13
+{8cc
+8b
+8a
+=14
+8b
+8cc
+8g
+=15
+8a
+4cc
+=16
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 89} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 89}
+!!!page: 89
+!!!ONB: Converted on 2024/12/26 with esac2hum

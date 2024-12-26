@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1625000002-tu_lipenka_tu_jawor.krn
+!!!OTL: Tu lipeńka, tu jawór
+!!!source: DWOK16
+!!!id: 16250
+!!!signature: 1625000002
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4ff
+8ff
+8ff
+4ee
+8ee
+8dd
+=2
+4dd
+8b
+8g
+4cc}
+4r
+!!LO:LB:g=esac
+=3
+{8g
+8a
+8b
+8cc
+4ee
+4dd
+=4
+4b
+8g
+8b
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{4g
+8a
+8b
+4cc
+4ee
+=6
+4dd
+8b
+8g
+4cc}
+4r
+!!LO:LB:g=esac
+=7
+{8g
+8a
+8b
+8cc
+8g
+8a
+8b
+8cc
+=8
+8ee
+8dd
+8cc
+8b
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 212} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 212}
+!!!ONB: Converted on 2024/12/26 with esac2hum

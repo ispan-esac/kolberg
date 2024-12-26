@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK3014800000-oj_pytav_sie_bohackij_syn.krn
+!!!OTL: Oj pytav sie bohackij syn
+!!!source: DWOK30
+!!!id: 30148
+!!!signature: 3014800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8cc
+8b
+=2
+8a
+4g
+=3
+8e
+8e
+8e
+=4
+8e
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8b
+=6
+8a
+4g
+=7
+4.g
+=8
+16g
+16e}
+8r
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8g
+8e
+=10
+8e
+4d
+=11
+8g
+8e
+8e
+=12
+4.d}
+!!LO:LB:g=esac
+=13
+{8a
+8g
+8e
+=14
+8e
+4d
+=15
+4.d
+=16
+8d}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 100} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK57116900000-oj_w_ogrodeczku.krn
+!!!OTL: Oj, w ogródeczku
+!!!source: DWOK57
+!!!id: 571169
+!!!signature: 57116900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8b
+8cc
+=2
+8dd
+4cc
+=3
+16cc
+32dd
+32ee
+8ff
+8dd
+=4
+8ee
+4cc}
+!!LO:LB:g=esac
+=5
+{16cc
+32dd
+32ee
+8ff
+8dd
+=6
+8ee
+4g
+=7
+16g
+16cc
+8b
+8cc
+=8
+8dd
+4cc}
+!!LO:LB:g=esac
+=9
+{16dd
+16ee
+8ff
+8dd
+=10
+8ee
+4g
+=11
+16g
+16cc
+8b
+8cc
+=12
+4dd
+8b
+=13
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 291
+!!!ONB: Converted on 2024/12/26 with esac2hum

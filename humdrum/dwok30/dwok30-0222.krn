@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK3022200000-oj_kazala_meni_maty.krn
+!!!OTL: Oj kazała meni maty
+!!!source: DWOK30
+!!!id: 30222
+!!!signature: 3022200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16ee
+8.dd
+8cc
+8cc
+=2
+16ee
+8.dd
+8cc
+8cc
+=3
+16ee
+8.dd
+8cc
+8cc
+=4
+16ee
+16dd
+16cc
+16b
+8a
+8a}
+!!LO:LB:g=esac
+=5
+{16cc
+8.cc
+8cc
+8ee
+=6
+16cc
+8.b
+8a
+8a
+=7
+8dd
+8dd
+8cc
+8ee
+=8
+4cc
+4a}
+!!LO:LB:g=esac
+=9
+{16cc
+8.cc
+8cc
+8ee
+=10
+16cc
+8.b
+8a
+8a
+=11
+8dd
+8dd
+8cc
+8ee
+=12
+4e
+4e}
+==
+*-
+!!!ONB: Kołomyjka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 135} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

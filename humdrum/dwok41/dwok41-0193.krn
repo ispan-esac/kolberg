@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK4119300000-wysed_sobie_maciek_droga.krn
+!!!OTL: Wysed sobie Maciek drogą
+!!!source: DWOK41
+!!!id: 41193
+!!!signature: 4119300000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8a
+8cc
+8cc
+16dd
+16ee
+=2
+8ff
+8a
+8b-
+8b-}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+8cc
+16dd
+16ee
+=4
+8ff
+8a
+8b-
+8b-}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4g
+=6
+8f
+16g
+16a
+4b-}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+8g
+8g
+=8
+8f
+16g
+16a
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 124} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

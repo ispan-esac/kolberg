@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK2723200000-sumi_descyk_po_lescynie.krn
+!!!OTL: Sumi descyk po lescynie
+!!!source: DWOK27
+!!!id: 27232
+!!!signature: 2723200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{8b-
+8dd
+4ff
+4dd
+=2
+4.ff
+8ee-
+8dd
+8cc
+=3
+8b-
+8dd
+4ee-
+4gg
+=4
+4.cc
+8ee-
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8b-
+8dd
+4f
+4cc
+=6
+4b-
+4ff
+8dd
+8cc
+=7
+8b-
+8dd
+4f
+4a
+=8
+2b-
+4f}
+!!LO:LB:g=esac
+=9
+{8b-
+8dd
+4ff
+4dd
+=10
+4.ff
+8ee-
+8dd
+8cc
+=11
+8ee-
+8dd
+4ee-
+4gg
+=12
+4.ff
+8ee-
+8dd
+8cc}
+!!LO:LB:g=esac
+=13
+{8b-
+8dd
+8f
+8a
+4cc
+=14
+8b-
+8dd
+8ff
+8ee-
+8dd
+16cc
+16a
+=15
+8b-
+8dd
+8f
+8a
+8cc
+8a
+=16
+2b-
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 272} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 272}
+!!!page: 272
+!!!ONB: Converted on 2024/12/26 with esac2hum

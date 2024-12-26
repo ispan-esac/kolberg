@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK57132800001-oj_na_hory_dub_dub.krn
+!!!OTL: Oj, na hory dub, dub
+!!!source: DWOK57
+!!!id: 571328
+!!!signature: 57132800001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16cc
+8.cc
+16dd
+8.dd
+=2
+4cc
+4g
+=3
+16ee
+8.ee
+16ff
+8.ff
+=4
+4ee
+4ee}
+!!LO:LB:g=esac
+=5
+{16ee
+8.ee
+16ff
+8.ff
+=6
+16ee
+8.ee
+16dd
+8.b
+=7
+16cc
+8.cc
+16dd
+8.dd
+=8
+4cc
+4cc}
+!!LO:LB:g=esac
+=9
+{16ee
+8.ee
+16ff
+8.ff
+=10
+16ee
+8.ee
+16dd
+8.b
+=11
+16cc
+8.cc
+16dd
+8.dd
+=12
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 411
+!!!ONB: Converted on 2024/12/26 with esac2hum

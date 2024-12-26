@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK3662500001-o_to_ponowa_dla_nas_mysliwych.krn
+!!!OTL: O to ponowa dla nas myśliwych
+!!!source: DWOK36
+!!!id: 36625
+!!!signature: 3662500001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.cc
+16b
+16dd
+16cc
+16cc
+16a
+=2
+4.a
+8g
+=3
+8g
+8g
+8a
+8b
+=4
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{8.cc
+16ee
+16dd
+16cc
+16b
+16a
+=6
+4.a
+8g
+=7
+8g
+8g
+8a
+8b
+=8
+4cc}
+4r
+!!LO:LB:g=esac
+=9
+{8e
+8g
+8e
+8g
+=10
+8e
+8g
+8cc
+8b
+=11
+8a
+8a
+8a
+8a
+=12
+8a
+8b
+8cc
+8a}
+!!LO:LB:g=esac
+=13
+{8g
+8f#
+8g
+8e
+=14
+8f
+8e
+8f
+8d
+=15
+4c
+8e
+8g
+=16
+4cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 408-409
+!!!ONB: Converted on 2024/12/26 with esac2hum

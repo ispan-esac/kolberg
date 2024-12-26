@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK3659600000-i_witer_ne_wije.krn
+!!!OTL: I witer ne wije
+!!!source: DWOK36
+!!!id: 36596
+!!!signature: 3659600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{16a
+8.a
+4cc
+8b
+8a
+=2
+8g#
+4e
+8r
+4r
+=3
+16a
+8.a
+4cc
+8b
+8a
+=4
+8g#
+4e}
+8r
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+4.ee
+8aa
+=6
+8b
+8cc
+2dd
+=
+12cc
+12b
+12a
+8g#
+4.dd
+=
+12cc
+12b
+12a
+4g#
+16f#
+16g#
+8g#
+=7
+2e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 396
+!!!ONB: Converted on 2024/12/26 with esac2hum

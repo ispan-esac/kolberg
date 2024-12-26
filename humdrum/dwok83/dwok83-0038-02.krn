@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK8303800002-de_ty_kalyno_rosla.krn
+!!!OTL: De ty kałyno rosła
+!!!source: DWOK83
+!!!id: 83038
+!!!signature: 8303800002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8dd
+8ff
+16ee
+16dd
+=2
+8ff
+8ee
+8b
+=
+4cc
+24cc
+24b
+24a
+=3
+8g}
+4r
+!!LO:LB:g=esac
+=4
+{8cc
+8dd
+8cc
+=5
+8ee
+4ff
+=
+4ff
+24ee
+24dd
+24cc}
+!!LO:LB:g=esac
+=
+{8cc
+8ee
+24dd
+24ee
+24ff
+=6
+8ee
+8dd
+8b
+=7
+4.cc
+=8
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 54} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 54}
+!!!page: 54
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1823700000-cztery_lata_wiernie_sluzyl.krn
+!!!OTL: Cztery lata wiernie służył
+!!!source: DWOK18
+!!!id: 18237
+!!!signature: 1823700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16a
+8cc
+8ee
+=2
+16.dd
+32b
+32g
+16.b
+16dd
+16b
+=3
+16a
+16f#
+8d
+8f#
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{16a
+16f#
+8.d
+16f#
+=6
+16.g
+32b
+32g
+16.b
+16dd
+16b
+=7
+16a
+16f#
+8d
+8f#
+=8
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 140} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 140}
+!!!page: 140
+!!!ONB: Converted on 2024/12/26 with esac2hum

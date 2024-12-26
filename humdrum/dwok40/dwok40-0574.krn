@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK4057400000-dzieweczka_plakala.krn
+!!!OTL: Dzieweczka płakała
+!!!source: DWOK40
+!!!id: 40574
+!!!signature: 4057400000
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M4/4
+{4g
+=1
+2cc
+4a-
+4cc
+=2
+4b
+4g
+4r
+4g
+=3
+2dd
+4b
+4cc
+=4
+4ee-
+4dd}
+4r
+!!LO:LB:g=esac
+=-
+{4g
+=5
+2cc
+4a-
+4cc
+=6
+4b
+4g
+4r
+4g
+=7
+2dd
+4b
+4cc
+=8
+4ee-
+4dd}
+4r
+!!LO:LB:g=esac
+=-
+{4dd
+=9
+4ee-
+2cc
+4a-
+=10
+4b-
+4g
+4r
+4g
+=11
+8dd
+8b
+4g
+8a-
+8b-
+4cc
+=12
+4cc}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=588 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 521} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 521}
+!!!page: 521
+!!!ONB: Converted on 2024/12/26 with esac2hum

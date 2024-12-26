@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK57158200000-kozak_konia_napowaji.krn
+!!!OTL: Kozak konia napowaji
+!!!source: DWOK57
+!!!id: 571582
+!!!signature: 57158200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+4ee
+=2
+8cc
+4dd
+=3
+8cc
+8b
+8a
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+=6
+8cc
+4ff
+=7
+8gg
+16gg
+16ff
+16ee
+16dd
+=8
+4cc}
+8r
+==
+*-
+!!!ONB: Wariant t. 6: (+1+2+3)+4_+2
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 625
+!!!ONB: Converted on 2024/12/26 with esac2hum

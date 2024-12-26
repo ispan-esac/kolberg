@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK4105400020-instrumentalna-da_ojca_matki_ja_sie_boje.krn
+!!!OTL: Instrumentalna-Da, ojca matki ja się boję
+!!!source: DWOK41
+!!!id: 41054
+!!!signature: 4105400020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+16a
+16cc
+16ee
+16gg
+=2
+16ee
+16dd
+16b
+16cc
+16g
+16f#
+=3
+16d
+16f#
+16a
+16cc
+16ee
+16b
+=4
+8dd
+8b
+16g
+16f#}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+16a
+16cc
+16a
+16g
+=6
+8b
+8dd
+16a
+16f#
+=7
+16d
+16f#
+16a
+16cc
+16a
+16g
+=8
+8b
+8g
+16a
+16f#}
+==
+*-
+!!!ONB: Część instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 53} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 53}
+!!!page: 53
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK06-K0770a-mily_bednarku.krn
+!!!OTL: Mily bednarku
+!!!source: DWOK06
+!!!id: K0770a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+4.b
+=2
+8g
+4d
+8f#
+=3
+8a
+8cc
+8ee
+8ee
+=4
+8ee
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+4.b
+=6
+8g
+4d
+8e
+=7
+8f#
+8g
+8.a
+16a
+=8
+8a
+4g}
+8r
+==
+*-
+!!!ONB: Czesc wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=493 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 467} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 467}
+!!!page: 467
+!!!ONB: Converted on 2024/12/26 with esac2hum

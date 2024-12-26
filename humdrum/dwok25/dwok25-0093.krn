@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2509300000-wlize_na_roscke.krn
+!!!OTL: Wlizę na rósckę
+!!!source: DWOK25
+!!!id: 25093
+!!!signature: 2509300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+2dd
+=3
+8cc#
+8dd
+8ee
+8dd
+=4
+8cc
+4.a
+=5
+8cc#
+8dd
+8ee
+8dd
+=6
+8cc
+4.a}
+!!LO:LB:g=esac
+=7
+{4b
+4dd
+=8
+4.cc
+8b
+=9
+8g
+8b
+8a
+8f#
+=10
+8g
+4.b}
+==
+*-
+!!!ONB: wariant w takcie piątym zapisu 3_53
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 37} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

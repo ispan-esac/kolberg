@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK1212900000-a_na_mojem_polu.krn
+!!!OTL: A na mojem polu
+!!!source: DWOK12
+!!!id: 12129
+!!!signature: 1212900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8a
+8a
+=2
+8a
+4dd
+=3
+16dd
+16ee
+8dd
+16cc
+16a
+=4
+8g
+4b}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8g
+16f#
+16d
+=6
+8c
+4e
+=7
+16d
+16f#
+8e
+16g
+16e
+=8
+4d
+8d}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+8a
+8a
+=10
+8a
+4dd
+=11
+16dd
+16ee
+8dd
+16cc
+16a
+=12
+8g
+4b}
+!!LO:LB:g=esac
+=13
+{16f#
+16a
+8g
+16f#
+16d
+=14
+8c
+4e
+=
+24d
+24f#
+24a
+8e
+8g
+=15
+4d
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 62} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 62}
+!!!page: 62
+!!!ONB: Converted on 2024/12/26 with esac2hum

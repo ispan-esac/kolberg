@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK2200600000-najswietsza_panienka_po_swiecie_chodzila.krn
+!!!OTL: Najświętsza Panienka po świecie chodziła
+!!!source: DWOK22
+!!!id: 22006
+!!!signature: 2200600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8e
+4a
+4gg#
+=2
+8a
+8b
+2cc}
+!!LO:LB:g=esac
+=3
+{8b
+8cc
+4dd
+4b
+=4
+4.ee
+8dd
+8cc}
+8r
+!!LO:LB:g=esac
+=5
+{4.cc
+8b
+8a
+8b
+=6
+8gg
+8e
+4d}
+4r
+!!LO:LB:g=esac
+=7
+{8a
+4a
+8gg#
+4a
+=8
+4gg#
+4e}
+4r
+!!LO:LB:g=esac
+=9
+{8e
+8e
+8e
+8a
+4gg#
+=10
+8a
+8b
+2cc}
+!!LO:LB:g=esac
+=11
+{8b
+8cc
+4dd
+4b
+=
+4.ee
+8dd
+24cc
+24b
+24a}
+8r
+!!LO:LB:g=esac
+=12
+{4.cc
+8b
+8a
+8b
+=13
+8gg
+8e
+4d}
+4r
+!!LO:LB:g=esac
+=14
+{8a
+8a
+8a
+8gg#
+4a
+=15
+4gg#
+4e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 20} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 20}
+!!!page: 20
+!!!ONB: Converted on 2024/12/26 with esac2hum

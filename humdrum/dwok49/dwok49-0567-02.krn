@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4956700002-klaniaj_sie_marys_nisko.krn
+!!!OTL: Kłaniaj się, Maryś, nisko
+!!!source: DWOK49
+!!!id: 49567
+!!!signature: 4956700002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16dd
+8ff
+8ee
+=2
+16dd
+16b
+16cc
+16g
+16g
+16r
+=3
+16cc
+16dd
+8ee
+8ff
+=4
+4.ee
+=5
+16ff
+16ee
+16ee
+16dd
+16cc}
+16r
+!!LO:LB:g=esac
+=
+{16dd
+16ee
+8ff
+24ee
+24dd
+24cc
+=6
+16b
+16g
+4cc
+=
+16dd
+16ee
+16ff
+16ee
+24ee
+24dd
+24cc}
+!!LO:LB:g=esac
+=7
+{16dd
+16ee
+8ff
+8ee
+=8
+8dd
+8b
+8b
+=9
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=572 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 482} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 482}
+!!!page: 482
+!!!ONB: Converted on 2024/12/26 with esac2hum

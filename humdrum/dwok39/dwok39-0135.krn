@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK3913500000-za_piecem_oral_za_piecem_oral.krn
+!!!OTL: Za piecem orał, za piecem orał
+!!!source: DWOK39
+!!!id: 39135
+!!!signature: 3913500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4gg
+8dd
+8ee
+8ff
+8ee
+=2
+4cc
+8a
+8a
+8b
+8g
+=3
+8g
+8b
+4cc
+4ee
+=4
+8dd
+8b
+2g}
+!!LO:LB:g=esac
+=5
+{4gg
+8dd
+8ee
+8ff
+8ee
+=6
+4cc
+8a
+8a
+8b
+8g
+=7
+8g
+8b
+4cc
+4ee
+=8
+8dd
+8b
+2g}
+!!LO:LB:g=esac
+=9
+{4g
+8g
+8a
+8b
+8g
+=10
+4cc
+8cc
+8dd
+8ee
+8cc
+=11
+8cc
+8ee
+4ff
+4aa
+=12
+8gg
+8ee
+2cc}
+!!LO:LB:g=esac
+=13
+{4gg
+8dd
+8ee
+8ff
+8ee
+=14
+4cc
+8a
+8a
+8b
+8g
+=15
+8g
+8b
+4cc
+4ee
+=16
+8dd
+8b
+2g}
+==
+*-
+!!!ONB: Tańczy na przodziek (na weselu)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 180-181} @EN{Oskar Kolberg Complete Works 39: Pomerania, pp. 180-181}
+!!!page: 180-181
+!!!ONB: Converted on 2024/12/26 with esac2hum

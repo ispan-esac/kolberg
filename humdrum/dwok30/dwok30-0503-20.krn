@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK3050300020-oj_ziszla_zora_az_po_sered_mora.krn
+!!!OTL: Oj ziszła zora aż po sered mora
+!!!source: DWOK30
+!!!id: 30503
+!!!signature: 3050300020
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16a
+16cc
+8cc
+8b
+8dd
+=2
+8cc
+8b
+8a
+8g#
+=3
+16a
+16e
+8b
+8cc
+8cc
+=4
+8b
+8a
+16g#
+16e
+8g#
+=5
+2a}
+==
+*-
+!!!ONB: O sw. Barbarze - Melodia grana na lirze
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 277} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 277}
+!!!page: 277
+!!!ONB: Converted on 2024/12/26 with esac2hum

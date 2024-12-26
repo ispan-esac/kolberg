@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK57148300002-upala_rosa_po_konec_prosa.krn
+!!!OTL: Upała rosa po konec prosa
+!!!source: DWOK57
+!!!id: 571483
+!!!signature: 57148300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M7/8
+=1
+{8b
+8cc
+4dd
+8dd
+4ee
+=2
+8a
+8a
+4cc
+8b
+4g}
+!!LO:LB:g=esac
+=3
+{8b
+8cc
+[4dd
+8dd]
+4ee
+=4
+8a
+8dd
+2dd}
+8r
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+8cc
+8b
+8a
+8b
+8g
+=6
+8f
+8g
+4a
+8f
+4d}
+!!LO:LB:g=esac
+=7
+{8ee
+8dd
+4cc
+8a
+4b
+=8
+2g
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 531
+!!!ONB: Converted on 2024/12/26 with esac2hum

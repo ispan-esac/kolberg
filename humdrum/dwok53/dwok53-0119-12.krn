@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5311900012-ant_kalnu_rugiej.krn
+!!!OTL: Ant kałnu rugiej
+!!!source: DWOK53
+!!!id: 53119
+!!!signature: 5311900012
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4dd
+8dd
+8ee
+=2
+2dd
+4b
+=3
+4dd
+16cc
+16a
+8dd
+4b
+=4
+4g
+4d}
+4r
+!!LO:LB:g=esac
+=5
+{4g
+4b
+8dd
+8dd
+=6
+4g
+4b
+8a
+8dd
+=7
+4b
+4dd
+8b
+8a
+=8
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 255} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 255}
+!!!page: 255
+!!!ONB: Converted on 2024/12/26 with esac2hum

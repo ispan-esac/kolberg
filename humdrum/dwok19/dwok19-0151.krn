@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1915100000-zalozyl_sie_djabel_z_jezem.krn
+!!!OTL: Załozył sie djabeł z jezem
+!!!source: DWOK19
+!!!id: 19151
+!!!signature: 1915100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8ee
+8dd
+8cc
+=2
+8b
+4b
+8dd
+=3
+8cc
+8a
+4a
+=4
+8b
+4dd
+8g}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8dd
+8cc
+=6
+8b
+8b
+8b
+8dd
+=7
+8cc
+8a
+8a
+8a
+=8
+8b
+8dd
+8dd
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 50} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

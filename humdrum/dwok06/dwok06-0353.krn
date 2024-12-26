@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK06-K0353-jak_ci_ja_powedruje.krn
+!!!OTL: Jak ci ja powedruje
+!!!source: DWOK06
+!!!id: K0353
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+16dd
+16cc#
+=2
+8dd
+16dd
+16cc
+8b
+8dd
+=3
+4ee
+4a
+=4
+8b
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+4b
+16a
+16b
+=6
+8cc
+8a
+4f#
+=7
+8g
+4b
+8b
+=8
+8a
+8f#
+4d
+=9
+8f#
+4.a
+=10
+8a
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 177} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

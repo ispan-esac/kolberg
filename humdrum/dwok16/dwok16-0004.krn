@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK1600400000-w_betlejem_slawnem.krn
+!!!OTL: W Betlejem sławnem
+!!!source: DWOK16
+!!!id: 16004
+!!!signature: 1600400000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{4e
+8a
+8e
+8a
+8cc#
+=2
+4b
+8b
+8g#
+8b
+8dd
+=3
+8cc#
+8cc#
+8a
+8f#
+8d
+8f#
+=4
+8a
+8g#
+2e}
+!!LO:LB:g=esac
+=5
+{4e
+8a
+8e
+8a
+8cc#
+=6
+4b
+8b
+8g#
+8b
+8dd
+=7
+8cc#
+8cc#
+8a
+8f#
+8d
+8f#
+=8
+8a
+8g#
+2e}
+!!LO:LB:g=esac
+=9
+{8cc#
+8cc#
+4a
+8b
+8cc#
+=10
+4.dd
+8cc#
+8ee
+8dd
+=11
+8cc#
+16b
+16cc#
+4a
+8b
+8cc#
+=12
+4.dd
+8ff#
+8ee
+8dd}
+!!LO:LB:g=esac
+=13
+{8cc#
+8cc#
+8a
+8f#
+8d
+8f#
+=14
+8a
+8g#
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 107} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 107}
+!!!ONB: Converted on 2024/12/26 with esac2hum

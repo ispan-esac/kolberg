@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4947700000-oj_panie_boze_zaplac.krn
+!!!OTL: Oj, Panie Boże, zapłać
+!!!source: DWOK49
+!!!id: 49477
+!!!signature: 4947700000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+4cc
+8cc
+=2
+8ee
+8ee
+8cc
+8cc
+=3
+8ff
+8ff
+4dd
+=4
+8dd
+8dd
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4g
+=6
+8ff
+8ff
+8ff
+8ff
+=7
+8dd
+8cc
+4b
+=8
+8dd
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=535 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 445} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 445}
+!!!page: 445
+!!!ONB: Converted on 2024/12/26 with esac2hum

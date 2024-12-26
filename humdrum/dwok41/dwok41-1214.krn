@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK41121400000-hej_skad_zescie_w_tej_sukmanie.krn
+!!!OTL: Hej, skąd żeście w tej sukmanie
+!!!source: DWOK41
+!!!id: 411214
+!!!signature: 41121400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8dd
+8dd
+=2
+16ee
+16dd
+8cc#
+8dd
+=3
+16a
+16a
+8.cc
+16b
+=4
+16dd
+16b
+4g}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8a
+8a
+=6
+16b
+16a
+8.dd
+16a
+=7
+16e
+16e
+8.g
+16f#
+=8
+16a
+16f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=625 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 538} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 538}
+!!!page: 538
+!!!ONB: Converted on 2024/12/26 with esac2hum

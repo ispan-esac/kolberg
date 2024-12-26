@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK1200800000-moja_kasiu_moja_droga.krn
+!!!OTL: Moja Kasiu moja droga
+!!!source: DWOK12
+!!!id: 12008
+!!!signature: 1200800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16e
+16g#
+8b
+8b
+=2
+16cc
+16cc
+8b
+8a
+=3
+16cc
+16cc
+8b
+8a}
+!!LO:LB:g=esac
+=4
+{16ee
+16ee
+8dd#
+8ee
+=5
+4.b
+=6
+16ee
+16ee
+8dd#
+8ee
+=7
+4.b}
+!!LO:LB:g=esac
+=8
+{16ee
+16ee
+8dd#
+8ee
+=9
+16cc
+16cc
+8b
+8a
+=10
+16b
+16b
+8a
+16g#
+16f#
+=11
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=22 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 6} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 6}
+!!!page: 6
+!!!ONB: Converted on 2024/12/26 with esac2hum

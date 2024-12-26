@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1000900000-przynosiemy_plon_jegomosci_w_sien.krn
+!!!OTL: Przynosiemy plon jegomości w sień
+!!!source: DWOK10
+!!!id: 10009
+!!!signature: 1000900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4cc
+=2
+2.dd
+=3
+8cc
+8dd
+4ee
+4ee
+=4
+2.dd}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4cc
+4b
+=6
+8a
+8a
+4f#
+4d
+=7
+8b
+8dd
+4cc
+4b
+=8
+8a
+8a
+4f#
+4d}
+!!LO:LB:g=esac
+=9
+{8f#
+8g
+4a
+4b
+=10
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 71} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 71}
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum

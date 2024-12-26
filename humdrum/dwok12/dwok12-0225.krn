@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK1222500000-deszczyk_pada_pokrapuje.krn
+!!!OTL: Deszczyk pada pokrapuje
+!!!source: DWOK12
+!!!id: 12225
+!!!signature: 1222500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16ee
+8ee
+8ff
+=2
+16ee
+16ee
+8cc
+8a
+=3
+16g#
+16b
+8dd
+8ee
+=
+24dd
+24cc
+24b
+4a}
+!!LO:LB:g=esac
+=4
+{16a
+16b
+8cc
+8a
+=5
+16b
+16b
+8g#
+8e
+=6
+16a
+16b
+8cc
+8a
+=7
+16b
+16b
+8g#
+8e}
+!!LO:LB:g=esac
+=8
+{16g#
+16b
+8dd
+8ee
+=
+24dd
+24cc
+24b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 119} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 119}
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

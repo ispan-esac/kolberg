@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK45225900001-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK45
+!!!id: 452259
+!!!signature: 45225900001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+{4g
+=1
+4cc
+4b
+4cc
+=2
+4dd
+4ee
+4ff#}
+!!LO:LB:g=esac
+=3
+{4gg
+4ff#
+8ee
+8gg
+=4
+4ff#
+2dd}
+!!LO:LB:g=esac
+=5
+{2.cc
+=6
+4gg
+4ff#
+4gg
+=7
+4aa
+4bb-
+4aa}
+!!LO:LB:g=esac
+=8
+{4gg
+4ff#
+4ee
+=9
+4ff#
+2dd
+=10
+2.cc}
+==
+*-
+!!!ONB: wariant nieraz śpiewany, bardzo komiczny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=488 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 470} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 470}
+!!!page: 470
+!!!ONB: Converted on 2024/12/26 with esac2hum

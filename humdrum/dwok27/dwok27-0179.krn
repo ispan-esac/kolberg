@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK2717900000-przyjechalo_do_mnie_siedmiu.krn
+!!!OTL: Przyjechało do mnie siedmiu
+!!!source: DWOK27
+!!!id: 27179
+!!!signature: 2717900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8dd
+8dd
+8dd
+8ee
+4dd
+4g
+=2
+8b
+8dd
+8cc
+8b
+4g
+4a}
+!!LO:LB:g=esac
+=3
+{8g
+8g
+8b
+8dd
+4cc
+4g
+=4
+8b
+8dd
+8cc
+8b
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 245} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 245}
+!!!page: 245
+!!!ONB: Converted on 2024/12/26 with esac2hum

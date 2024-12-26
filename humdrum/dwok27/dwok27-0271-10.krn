@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2727100010-jedzie_jasio_z_torunia.krn
+!!!OTL: Jedzie Jasio z Torunia
+!!!source: DWOK27
+!!!id: 27271
+!!!signature: 2727100010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+8b
+8a
+8g
+=3
+16cc
+16dd
+8ee
+8ff
+=4
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8cc
+8a
+=6
+8g
+8b
+8dd
+=7
+16cc
+16ee
+8cc
+8a
+=8
+8g
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=306 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 287} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 287}
+!!!page: 287
+!!!ONB: Converted on 2024/12/26 with esac2hum

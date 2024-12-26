@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3649400001-oj_zahul_dwa_holuby_w_poli.krn
+!!!OTL: Oj zahuł dwa hołuby w poli
+!!!source: DWOK36
+!!!id: 36494
+!!!signature: 3649400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8dd
+8gg
+=2
+8gg
+16ff#
+16ee
+8dd
+8gg
+=3
+8dd
+8b
+8cc
+8b}
+!!LO:LB:g=esac
+=4
+{4g
+4f
+=5
+8b
+8dd
+8dd
+8ee
+=6
+8dd
+8b
+8cc
+8b}
+!!LO:LB:g=esac
+=7
+{4g
+4f
+=8
+8b
+8dd
+8dd
+8ee
+=9
+4dd
+4g}
+==
+*-
+!!!ONB: w t. 3-6 przesunięte wartości, zły zapis metronomiczny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 321
+!!!ONB: Converted on 2024/12/26 with esac2hum

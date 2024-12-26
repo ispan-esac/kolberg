@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4113700000-zieleni_sie_zieleni_moje_zytko.krn
+!!!OTL: Zieleni się zieleni moje żytko
+!!!source: DWOK41
+!!!id: 41137
+!!!signature: 4113700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8g
+8b
+4.dd
+8g
+=2
+4cc
+4a
+4f}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+4.dd
+8g
+=4
+4cc
+4a
+4f}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+4dd
+=6
+4ff
+4aa
+4gg}
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+4dd
+4g
+=8
+4cc
+4a
+4f}
+==
+*-
+!!!ONB: zakodowac w G?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=175 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 96} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

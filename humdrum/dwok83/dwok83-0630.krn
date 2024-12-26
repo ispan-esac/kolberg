@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK8363000000-zabawyu_sia_kozak_sawa.krn
+!!!OTL: Zabawyu sia Kozak Sawa
+!!!source: DWOK83
+!!!id: 83630
+!!!signature: 8363000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16ee
+8.ee
+16ff#
+8.dd
+=2
+16ee
+8.ee
+16cc
+8.cc
+=3
+16ee
+8.ee
+16ff#
+8.dd#
+=4
+4ee
+[4ee
+=5
+32ee]
+32dd
+32cc
+32b
+4a
+8r
+=6
+16a
+8.b
+16cc
+8.dd
+=7
+16ee
+8.ee
+16dd
+16cc
+16b
+16a
+=8
+8cc
+8b
+8cc
+8g#
+=9
+4a
+4a}
+==
+*-
+!!!ONB: Wariant t. 4-5: 5__.4#_3b_2_1_0_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=517 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 406} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 406}
+!!!page: 406
+!!!ONB: Converted on 2024/12/26 with esac2hum

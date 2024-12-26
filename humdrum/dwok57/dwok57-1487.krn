@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK57148700000-zazuryla_sie_bidna_udowonka.krn
+!!!OTL: Zażuryła sie bidna udow'ońka
+!!!source: DWOK57
+!!!id: 571487
+!!!signature: 57148700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8ff
+8ff
+8cc
+8dd
+4cc
+=2
+8ff
+8ff
+8cc
+8dd
+4a
+=3
+[4b-
+8b-]
+8a
+16a
+16g
+16f}
+16r
+!!LO:LB:g=esac
+=4
+{8a
+8b-
+8cc
+8dd
+4cc
+=5
+8b-
+8a
+8b-
+8b-
+16a
+16g
+8e
+=6
+2f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 534
+!!!ONB: Converted on 2024/12/26 with esac2hum

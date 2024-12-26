@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5311700002-oj_padiek_dziewas_wargoniaj.krn
+!!!OTL: Oj, padiek dziewas wargoniaj
+!!!source: DWOK53
+!!!id: 53117
+!!!signature: 5311700002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4.a
+8g#
+4a
+=2
+4e
+2e
+=
+12a
+12b
+12cc
+8b
+8g#
+8a
+8g#
+=3
+8b
+8g#
+4.a
+8e}
+!!LO:LB:g=esac
+=4
+{4.a
+8g#
+8a
+8e
+=5
+8f
+8d
+2d
+=6
+8.e
+16e
+4.a
+8g#
+=7
+8.b
+16g#
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 252} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

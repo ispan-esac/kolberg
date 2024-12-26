@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2543600010-muzykancie_z_krzywa_geba.krn
+!!!OTL: Muzykańcie z krzywą gębą
+!!!source: DWOK25
+!!!id: 25436
+!!!signature: 2543600010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16b-
+16dd
+8ff
+8gg
+=2
+16ee
+16gg
+8ff
+8dd
+=3
+16b-
+16dd
+8ff
+8gg
+=4
+16cc
+16ee-
+8dd
+8b-}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8cc
+8dd
+=6
+4cc
+16b-
+16a
+=7
+16e
+16g
+8b-
+16a
+16g
+=8
+4a
+8a}
+==
+*-
+!!!ONB: Wariant w takcie szóstym 345_3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 185} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 185}
+!!!page: 185
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK5648900000-tam_w_marysenki_za_worociemy.krn
+!!!OTL: Tam w Maryseńki za wóróciemy
+!!!source: DWOK56
+!!!id: 56489
+!!!signature: 5648900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4d
+4g
+4a
+=2
+4b
+2cc
+=3
+4dd
+4cc
+4b
+=4
+4a
+2g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+4b
+4cc
+=6
+4b
+2a
+=7
+4.a
+8f#
+4d}
+!!LO:LB:g=esac
+=8
+{8cc
+8b
+4a
+4g
+=9
+4b
+2cc
+=10
+4dd
+4cc
+4b
+=11
+4a
+2g}
+!!LO:LB:g=esac
+=12
+{8g
+8a
+4cc
+4b
+=13
+2a
+4f#
+=14
+2g
+4g}
+==
+*-
+!!!ONB: W oryginale metrum 3/8; Wariant t. 5: 3__3243; wariant t. 6: (321)2__; wariant t. 9: 354__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=458 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 354} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 354}
+!!!page: 354
+!!!ONB: Converted on 2024/12/26 with esac2hum

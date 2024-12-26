@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK5006700002-oj_duz_duz_duz_duziejku.krn
+!!!OTL: Oj, duź duź duź, duziejku
+!!!source: DWOK50
+!!!id: 50067
+!!!signature: 5006700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8dd
+=2
+8dd
+8ee
+4cc}
+!!LO:LB:g=esac
+=3
+{8a
+8b
+8cc
+16cc
+16b
+=4
+16cc
+16dd
+8dd
+4b}
+!!LO:LB:g=esac
+=5
+{4cc
+8a
+8ee
+=6
+8dd
+8dd
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 27} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 27}
+!!!page: 27
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2557900020-na_kapuscie_drobne_liscie-instrumentalna.krn
+!!!OTL: Na kapuście drobne liście-Instrumentalna
+!!!source: DWOK25
+!!!id: 25579
+!!!signature: 2557900020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8a
+16b
+16g
+=2
+16d
+16f#
+8a
+8e
+=3
+16d
+16f#
+16a
+16cc
+16b
+16g
+=4
+16a
+16f#
+8e
+8e}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+16b
+16g
+=6
+16a
+16cc
+8ee
+16gg
+16dd
+=7
+16dd
+16cc#
+16a
+16cc
+16b
+16g
+=8
+16a
+16f#
+8e
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 218} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 218}
+!!!ONB: Converted on 2024/12/26 with esac2hum

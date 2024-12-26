@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK2120100000-powiedzcie_tatulu.krn
+!!!OTL: Powiedzcie tatulu
+!!!source: DWOK21
+!!!id: 21201
+!!!signature: 2120100000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8f#
+4a
+8a
+=2
+8b
+4a
+8g
+=3
+8f#
+4a
+8f#
+=4
+8e
+8e
+4g}
+!!LO:LB:g=esac
+=5
+{8f#
+4a
+8a
+=6
+8dd
+4cc#
+8b
+=7
+8a
+4dd
+8f#
+=8
+8e
+8e
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 100} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

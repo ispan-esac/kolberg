@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1917900000-jedno_be_drugie_ka.krn
+!!!OTL: Jedno Be drugie Ka
+!!!source: DWOK19
+!!!id: 19179
+!!!signature: 1917900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8a
+4cc
+=2
+16a
+16cc
+8g
+8b-
+=3
+16f
+16a
+4cc
+=4
+16dd
+16cc
+8g
+8b-}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+=6
+16dd
+16ee
+8ff
+16ee
+16dd
+=7
+8dd
+4cc
+=8
+16a
+16cc
+8g
+8b-}
+!!LO:LB:g=esac
+=9
+{16f
+16a
+4cc
+=10
+16dd
+16ee
+8ff
+16ee
+16dd
+=11
+16dd
+16cc
+8cc
+8cc
+=12
+16a
+16cc
+8g
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 58} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

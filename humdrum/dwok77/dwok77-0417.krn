@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7741700000-oj_coz_komu_do_tego.krn
+!!!OTL: Oj cóż komu do tego
+!!!source: DWOK77
+!!!id: 77417
+!!!signature: 7741700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{4dd
+4ff#
+4ff#
+=2
+8ee
+8gg#
+4ee
+4cc#
+=3
+4dd
+4ff#
+4ff#
+=4
+8ee
+8cc#
+2a}
+!!LO:LB:g=esac
+=5
+{4dd
+4cc#
+4ee
+=6
+8dd
+8dd
+4ff#
+4ee
+=7
+4dd
+4cc#
+4ee
+=8
+8b
+8b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 213
+!!!ONB: Converted on 2024/12/26 with esac2hum

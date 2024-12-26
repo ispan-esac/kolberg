@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK5403200000-sczo_za_horka_za_horoju.krn
+!!!OTL: Sczo za horka za horoju
+!!!source: DWOK54
+!!!id: 54032
+!!!signature: 5403200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16cc
+8.cc
+16dd
+8.dd
+=2
+16dd
+8.dd
+16ee
+8.ee
+=3
+16a
+8.a
+16a
+8.a}
+!!LO:LB:g=esac
+=4
+{16cc
+8.cc
+16dd
+8.dd
+=5
+16dd
+8.dd
+16ee
+8.ee
+=6
+16a
+8.a
+16a
+8.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/054dwok.pdf#page=421 @PL{Oskar Kolberg Dzieła Wszystkie 54: Ruś karpacka I, s. 321} @EN{Oskar Kolberg Complete Works 54: Carpathian Ruthenia I, p. 321}
+!!!page: 321
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK3619100000-czorne_oczki_jak_teren.krn
+!!!OTL: Czorne oczki jak tereń
+!!!source: DWOK36
+!!!id: 36191
+!!!signature: 3619100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8a
+8b
+8cc
+=2
+8dd
+8dd
+4ee
+=3
+8dd
+8cc
+4b}
+!!LO:LB:g=esac
+=4
+{8b
+8a
+8b
+8cc
+=5
+8dd
+8dd
+4ee
+=6
+8dd
+8cc
+4b}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+8cc
+8cc
+=8
+8b
+8g
+4b
+=9
+8a
+8a
+4dd}
+!!LO:LB:g=esac
+=10
+{8a
+8cc
+8cc
+8cc
+=11
+8b
+8g
+4b
+=12
+8a
+16f#
+16d
+4g}
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+8cc
+8cc
+=14
+8b
+8g
+4b
+=15
+8a
+8a
+4dd}
+!!LO:LB:g=esac
+=16
+{8a
+8cc
+8cc
+8cc
+=17
+8b
+8g
+4b
+=18
+8a
+16f#
+16d
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

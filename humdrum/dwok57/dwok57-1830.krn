@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK57183000000-oj_rosty_chmelu_ponad_wodoju.krn
+!!!OTL: Oj, rosty chmelu ponad wodoju
+!!!source: DWOK57
+!!!id: 571830
+!!!signature: 57183000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8cc
+4ee
+=2
+4cc
+4ee
+=3
+8dd
+8cc
+4b
+=4
+4a
+4g#}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+4a
+=6
+4b
+4g#
+=7
+2e
+=8
+2ee}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc
+4b
+=10
+4a
+4g#
+=11
+4.a
+8a}
+!!LO:LB:g=esac
+=12
+{8cc
+8cc
+8cc
+8cc
+=13
+4ee
+4dd
+=14
+8b
+8b
+8b
+8b
+=15
+4cc
+8a
+8g#}
+!!LO:LB:g=esac
+=16
+{8a
+8a
+4a
+=17
+4b
+4g#
+=18
+2e
+=19
+2ee}
+!!LO:LB:g=esac
+=20
+{8dd
+8cc
+4b
+=21
+4a
+4g#
+=22
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 910
+!!!ONB: Converted on 2024/12/26 with esac2hum

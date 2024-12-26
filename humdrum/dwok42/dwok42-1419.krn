@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK42141900000-do_mnie_jasiu_do_mnie.krn
+!!!OTL: Do mnie, Jasiu, do mnie
+!!!source: DWOK42
+!!!id: 421419
+!!!signature: 42141900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4b
+=2
+8dd
+8dd
+4cc
+4a
+=3
+8f#
+8a
+4.cc
+8b
+=4
+2.g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4a
+4d
+=6
+8f#
+8a
+4.cc
+8b
+=7
+8b
+8g
+4.cc
+8a
+=8
+2.g}
+==
+*-
+!!!ONB: wariant w takcie trzecim 224_.3
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=46 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 37} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

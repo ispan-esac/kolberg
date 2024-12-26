@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK04-K0445-na_kapuscie_zwiedly_liscie.krn
+!!!OTL: Na kapuscie zwiedly liscie
+!!!source: DWOK04
+!!!id: K0445
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16cc
+8dd
+8dd
+=2
+8.cc
+16a
+16b-
+16dd
+=3
+16a
+16cc
+8dd
+8dd
+=4
+8.cc
+16a
+16b-
+16g}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8a
+8g
+=6
+8.f
+16g
+16b-
+16dd
+=7
+16f
+16a
+8a
+8g
+=8
+8.f
+16a
+16b-
+16g}
+!!LO:LB:g=esac
+=9
+{8.cc
+16ee
+16ff
+16dd
+=10
+8ff
+16ff
+16ee
+16ff
+16dd
+=11
+8.cc
+16ee
+16ff
+16dd
+=12
+8.cc
+16a
+16b-
+16g}
+!!LO:LB:g=esac
+=13
+{16f
+16a
+8a
+8g
+=14
+8.f
+16ff
+16dd
+16b-
+=15
+16f
+16a
+8a
+8g
+=16
+8.f
+16a
+16b-
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 257} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 257}
+!!!page: 257
+!!!ONB: Converted on 2024/12/26 with esac2hum

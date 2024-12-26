@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK0502600010-nie_chwal_sie_tak_moj_bracie.krn
+!!!OTL: Nie chwal się tak mój bracie
+!!!source: DWOK05
+!!!id: K0026
+!!!signature: 0502600010
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8.dd
+16cc#
+8dd
+16cc#
+16b
+=2
+8a
+16cc#
+16b
+8a
+16b
+16cc#
+=3
+8.dd
+16ee
+8ff#
+16dd
+16b
+=4
+8a
+16cc#
+16b
+4a}
+!!LO:LB:g=esac
+=5
+{8.g
+16a
+8b
+16g
+16e
+=6
+8d
+8f#
+8d
+8f#
+=7
+8.g
+16a
+8b
+16g
+16e
+=8
+8d
+16f#
+16e
+4d}
+==
+*-
+!!!ONB: Część wokalna. Modulacja: t. 1-4 tonika A; t. 5-8 tonika D
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 220} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 220}
+!!!page: 220
+!!!ONB: Converted on 2024/12/26 with esac2hum

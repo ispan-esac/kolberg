@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7630200000-oj_prusaki_prusaki.krn
+!!!OTL: Oj, Prusaki, Prusaki
+!!!source: DWOK76
+!!!id: 76302
+!!!signature: 7630200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4a
+4cc
+4dd
+=2
+8ee
+8ff
+4ee
+4dd#
+=3
+8ee
+8cc
+4a
+4b
+=4
+4g#
+2a}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+4b
+=6
+8cc
+8dd
+4cc
+4b
+=7
+8cc
+8dd
+4ee
+4b
+=8
+4g#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 156} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 156}
+!!!page: 156
+!!!ONB: Converted on 2024/12/26 with esac2hum

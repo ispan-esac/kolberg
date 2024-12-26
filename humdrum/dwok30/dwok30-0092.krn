@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK3009200000-chotila_mene_maty_za_muz_daty.krn
+!!!OTL: Chotiła mene maty za muż daty
+!!!source: DWOK30
+!!!id: 30092
+!!!signature: 3009200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16g
+16g
+8a
+8b
+8cc
+=2
+4dd
+4dd
+=3
+4ee
+4ee
+=4
+4.dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16b
+16a
+8cc
+8b
+8a
+=6
+4g
+8d}
+8r
+!!LO:LB:g=esac
+=7
+{4cc
+4b
+=8
+4.dd
+8cc
+=9
+4a
+4b
+=10
+4.dd
+8cc}
+!!LO:LB:g=esac
+=11
+{16g
+16a
+8cc
+8b
+8a
+=12
+4g
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 66} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

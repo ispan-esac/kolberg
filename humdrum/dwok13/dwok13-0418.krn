@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK1341800000-poniedzialek_wtorek.krn
+!!!OTL: Poniedziałek, wtorek
+!!!source: DWOK13
+!!!id: 13418
+!!!signature: 1341800000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8e
+8a
+8cc#
+8cc#
+=2
+8cc#
+4a
+8r
+=3
+8b
+8cc#
+8dd
+8b
+=4
+8cc#
+4a}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+8cc#
+8dd
+8b
+=6
+8cc#
+[4ee
+8ee]
+=7
+8dd
+8dd
+8dd
+8b
+=8
+8cc#
+4ee}
+8r
+!!LO:LB:g=esac
+=9
+{8b
+16b
+16cc#
+8dd
+8b
+=10
+16cc#
+16dd
+[4ee
+8ee]
+=11
+8ee
+16ee
+16dd
+8dd
+8b
+=12
+8cc#
+4a}
+8r
+==
+*-
+!!!ONB: Krakowiak, w takcie 2 i 4 brakuje brakuje ósemki albo pauzy ósemkowej, zapisano poprawnie jak w takcie 8 i 12
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 174} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

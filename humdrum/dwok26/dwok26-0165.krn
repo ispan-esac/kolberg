@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2616500000-hej_nie_stukaj_nie_pukaj.krn
+!!!OTL: Hej nie stukaj nie pukaj
+!!!source: DWOK26
+!!!id: 26165
+!!!signature: 2616500000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+16ee-
+16dd
+8cc
+8g
+=3
+16b-
+16dd
+8cc
+8g
+=4
+8a
+4f#}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8a
+=6
+16b-
+16g
+8a
+8g
+=7
+16b-
+16dd
+8cc
+8g
+=8
+8a
+4f#}
+==
+*-
+!!!ONB: W takcie trzecim i siódmym zamiast szesnastki powinna być ósemka, zapisano poprawnie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 159
+!!!ONB: Converted on 2024/12/26 with esac2hum

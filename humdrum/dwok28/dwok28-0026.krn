@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK2802600000-a_czemuz_moj_jezus.krn
+!!!OTL: A czemuż mój Jezus
+!!!source: DWOK28
+!!!id: 28026
+!!!signature: 2802600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{2b
+4cc
+=2
+8dd
+8b
+4b
+8a
+8g
+=3
+8a
+8a
+4a
+4b
+=4
+4cc
+4b}
+4r
+!!LO:LB:g=esac
+=5
+{2b
+4cc
+=6
+8dd
+8b
+4b
+8a
+8g
+=7
+8a
+8a
+4a
+4b
+=8
+4cc
+4b}
+4r
+!!LO:LB:g=esac
+=9
+{8dd
+8b
+4b
+8a
+8g
+=10
+8a
+8b
+4.cc
+8a
+=11
+8cc
+8b
+4.a
+8g
+=12
+8f#
+8g
+4a
+4d}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+4g
+4ee
+=14
+2dd
+4cc
+=15
+8b
+8cc
+4dd
+4f#
+=16
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 73} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

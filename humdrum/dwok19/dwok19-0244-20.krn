@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1924400020-kajzess_wtencas_bylsa-instrumentalna.krn
+!!!OTL: Kajześś wtencas byłśa-Instrumentalna
+!!!source: DWOK19
+!!!id: 19244
+!!!signature: 1924400020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+16dd
+16ff
+16ee
+16cc
+=
+16dd
+48b
+48a
+48g
+8f
+24g
+24a
+24b
+=2
+16cc
+16ee
+16dd
+16cc
+16b
+16cc}
+!!LO:LB:g=esac
+=3
+{8ff
+16dd
+16ff
+16ee
+16cc
+=
+16dd
+48b
+48a
+48g
+8f
+24g
+24a
+24b
+=4
+16cc
+16ee
+16gg
+16ff
+8aa}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 76} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 76}
+!!!page: 76
+!!!ONB: Converted on 2024/12/26 with esac2hum

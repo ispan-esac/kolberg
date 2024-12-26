@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7747600000-wstydzis_sie_bracisku.krn
+!!!OTL: Wstydzis się bracisku
+!!!source: DWOK77
+!!!id: 77476
+!!!signature: 7747600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16ee
+16dd
+8.cc
+16ee
+=2
+4dd
+8cc}
+!!LO:LB:g=esac
+=3
+{16ee
+16dd
+8.cc
+16g
+=4
+4a
+8g}
+!!LO:LB:g=esac
+=5
+{16a
+16f#
+8.g
+16a
+=6
+4b
+8dd}
+!!LO:LB:g=esac
+=7
+{16a
+16f#
+8.g
+16g
+=8
+4a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

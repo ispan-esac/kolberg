@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1312200011-kto_chce_te_gihaust_wychilic.krn
+!!!OTL: Kto chce tę gihaust wychilić
+!!!source: DWOK13
+!!!id: 13122
+!!!signature: 1312200011
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8.cc
+16g
+16ee
+16g
+=2
+16cc
+16a
+8a
+8a
+=3
+8.g
+16g
+16b
+16dd
+=4
+16g
+16b
+8cc
+8ee}
+!!LO:LB:g=esac
+=5
+{8.cc
+16g
+16ee
+16g
+=6
+16cc
+16a
+8a
+8a
+=7
+8.g
+16a
+16b
+16dd
+=8
+16cc
+16a
+16g
+16b
+8cc}
+==
+*-
+!!!ONB: Fragment w C
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 70} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

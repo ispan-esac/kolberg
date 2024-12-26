@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK57167300001-j-a_wczera_z_weczera.krn
+!!!OTL: J-a wczera z weczera
+!!!source: DWOK57
+!!!id: 571673
+!!!signature: 57167300001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8e
+4a
+=2
+8a
+4cc
+=3
+8e
+4a
+=4
+8g#
+4e}
+!!LO:LB:g=esac
+=5
+{8e
+4a
+=6
+8a
+4b
+=
+24g#
+24f
+24e
+4e}
+!!LO:LB:g=esac
+=7
+{8a
+4cc
+=8
+8ee
+4ee
+=9
+8dd
+8cc
+8a
+=10
+8dd
+4dd}
+!!LO:LB:g=esac
+=11
+{16cc
+16b
+4a
+=12
+8e
+4g#
+=13
+4.a
+=14
+4a}
+8r
+!!LO:LB:g=esac
+=15
+{8a
+4cc
+=16
+8ee
+4ee
+=17
+8dd
+8cc
+8a
+=18
+8dd
+4dd}
+!!LO:LB:g=esac
+=19
+{16cc
+16b
+4a
+=20
+8e
+4g#
+=21
+4.a
+=22
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 750
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK3015800000-oj_haj_maty.krn
+!!!OTL: Oj haj maty
+!!!source: DWOK30
+!!!id: 30158
+!!!signature: 3015800000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=1
+{16a
+16g
+8f
+16f
+16e
+8f
+=2
+16a
+16g
+8f
+16f
+16e
+8f}
+!!LO:LB:g=esac
+=3
+{16a
+16g
+16f
+16e
+8f
+16a
+16g#
+=
+8.g#
+48f
+48e
+48d
+4d}
+!!LO:LB:g=esac
+=4
+{16a
+16g
+16f
+16e
+8f
+16a
+16g
+=5
+8f
+16a
+16g
+16f
+16e
+8d}
+!!LO:LB:g=esac
+=6
+{8f
+16a
+16g
+16f
+16e
+16d
+16c#
+=7
+4d
+4d}
+==
+*-
+!!!ONB: Kołomyjka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 104} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 104}
+!!!page: 104
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK4409300001-instrumentalna-marsz.krn
+!!!OTL: Instrumentalna-marsz
+!!!source: DWOK44
+!!!id: 44093
+!!!signature: 4409300001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+4ee
+=2
+8cc
+8dd
+4ee
+=3
+4ff
+8ee
+8dd
+=4
+8cc
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8f
+4g
+=6
+8g
+8f
+4g
+=7
+8g
+8ff
+8ee
+8dd
+=8
+8cc
+8b
+4cc}
+!!LO:LB:g=esac
+=9
+{4gg
+8ff
+8ee
+=10
+8gg
+8gg
+8ff
+8ee
+=11
+4ff
+8ff
+16ff
+16ee
+=12
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=13
+{4g
+8g
+8g
+=14
+4g
+4cc
+=15
+8b
+8cc
+8dd
+8ee
+=16
+8ff
+8ee
+4gg}
+!!LO:LB:g=esac
+=17
+{4g
+8cc
+8ee
+=18
+8dd
+8cc
+8b
+8a
+=19
+4g
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 133} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 133}
+!!!page: 133
+!!!ONB: Converted on 2024/12/26 with esac2hum

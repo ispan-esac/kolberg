@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4108900001-poszla_panna_po_wode.krn
+!!!OTL: Poszła panna po wodę
+!!!source: DWOK41
+!!!id: 41089
+!!!signature: 4108900001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8.cc
+16a
+8f
+8f
+=2
+8cc
+8b-
+4g}
+!!LO:LB:g=esac
+=3
+{8.cc
+16a
+8f
+8f
+=4
+8g
+8e
+4c}
+!!LO:LB:g=esac
+=5
+{8.f
+16g
+8a
+8b-
+=6
+4cc
+4ff}
+!!LO:LB:g=esac
+=7
+{8ee
+8ee
+8ff
+8b
+=8
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=152 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 73} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

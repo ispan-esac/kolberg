@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK8370800000-jak_okrutne_przeznaczenie.krn
+!!!OTL: Jak okrutne przeznaczenie
+!!!source: DWOK83
+!!!id: 83708
+!!!signature: 8370800000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8.ee
+16ee
+4.ee
+8a
+=2
+8g#
+8b
+4ff
+4ee
+=3
+8.ee
+16ee
+8ff
+8b
+8dd
+8cc
+=4
+4a}
+4r
+4r
+!!LO:LB:g=esac
+=5
+*M4/4
+{4ee
+8ee
+8ee
+4gg
+4ff
+=6
+4dd
+8.gg
+16ff
+4ee
+4a
+=
+!!UNCATEGORIZED MEASURE
+4ee
+8cc
+8b
+8dd
+8ff
+8ee
+=7
+*M4/4
+4e
+8cc
+8b
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 70} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

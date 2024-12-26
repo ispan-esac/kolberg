@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1827800010-raptem_do_ni_raptem_do_ni.krn
+!!!OTL: Raptem do ni raptem do ni
+!!!source: DWOK18
+!!!id: 18278
+!!!signature: 1827800010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4cc
+16b
+16g
+=2
+16.a
+32cc#
+8dd
+8dd
+=3
+16.a
+32f#
+8d
+16e
+16f#
+=4
+16g
+16g
+8a
+8d}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8b
+8g
+=6
+16.a
+32cc#
+8dd
+8g
+=7
+16.a
+32f#
+8d
+16e
+16f#
+=8
+16g
+16a
+8b
+8g}
+==
+*-
+!!!ONB: Mazur
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 160} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

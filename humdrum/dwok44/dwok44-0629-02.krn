@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4462900002-kciala_pani_wina_pic.krn
+!!!OTL: Kciała pani wina pić
+!!!source: DWOK44
+!!!id: 44629
+!!!signature: 4462900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8cc
+8b
+8cc
+=2
+8dd
+8b
+4g}
+!!LO:LB:g=esac
+=3
+{8a
+8g
+8f#
+8e
+=4
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+4g
+=
+12a
+12b
+12cc
+8b
+8a
+=6
+4g
+4f#
+=7
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=389 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 331} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 331}
+!!!page: 331
+!!!ONB: Converted on 2024/12/26 with esac2hum

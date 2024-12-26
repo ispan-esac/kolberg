@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK7701400000-przy_rozplecinach_marysi_nie_ma.krn
+!!!OTL: Przy rozplecinach Marysi nie ma
+!!!source: DWOK77
+!!!id: 77014
+!!!signature: 7701400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+16dd
+16cc
+16b
+16g
+8r
+=3
+8b
+8dd
+8cc
+=4
+16b
+16a
+4g
+=5
+8f#
+8d}
+8r
+!!LO:LB:g=esac
+=6
+{8d
+8f#
+8g
+=7
+8a
+4b
+=8
+8dd
+8dd
+8cc
+=9
+16b
+16a
+8.g
+16g}
+!!LO:LB:g=esac
+=10
+{8b
+8dd
+8dd
+=11
+16dd
+16cc
+16b
+16a
+8r
+=12
+8b
+8dd
+8cc
+=13
+16cc
+16b
+16b
+16a
+8g
+=14
+16f#
+16d}
+8r
+8r
+!!LO:LB:g=esac
+=15
+{8d
+8f#
+8g
+=16
+8a
+4b
+=17
+8dd
+8dd
+8cc
+=18
+8f#
+4g
+=19
+16b
+16a
+8.g
+16g}
+==
+*-
+!!!ONB: Rytm do przekodowania
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 29
+!!!ONB: Converted on 2024/12/26 with esac2hum

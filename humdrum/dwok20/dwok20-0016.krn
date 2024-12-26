@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2001600000-hej_hej_koleda.krn
+!!!OTL: Hej, hej, kolęda
+!!!source: DWOK20
+!!!id: 20016
+!!!signature: 2001600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4cc
+4b-
+8a
+8a
+4g
+=2
+4cc
+4b-
+8a
+8g
+4f
+=3
+8a
+8a
+8g
+8b-
+4a
+4g
+=4
+8a
+8a
+8g
+8b-
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4b-
+8a
+8a
+4g
+=6
+4cc
+4b-
+8a
+8g
+4f
+=7
+8a
+8a
+8g
+8e
+4f
+4g
+=8
+8a
+8cc
+8b-
+8b-
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 85} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

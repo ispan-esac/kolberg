@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK4305100000-instrumentalna_-_marsz.krn
+!!!OTL: Instrumentalna - Marsz
+!!!source: DWOK43
+!!!id: 43051
+!!!signature: 4305100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+16cc
+16cc
+8cc
+8dd
+=2
+8ee
+8dd
+8cc
+8b
+=3
+8a
+8g
+16b
+16cc
+8dd
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+16cc
+16cc
+8cc
+8dd
+=6
+8ee
+8dd
+8cc
+8b
+=7
+8a
+8g
+16b
+16cc
+8dd
+=8
+2g}
+!!LO:LB:g=esac
+=9
+{8g
+16g
+16g
+8g
+8g
+=10
+8a
+8g
+8f
+8e
+=11
+8g
+16g
+16g
+8g
+8g
+=12
+8a
+8g
+8f
+8e}
+!!LO:LB:g=esac
+=13
+{8cc
+8ee
+4dd
+=14
+8cc
+8ee
+4dd
+=15
+8.gg
+16ee
+8ff
+16dd
+16b
+=16
+8cc
+8cc
+4cc}
+==
+*-
+!!!ONB: Wariant t. 6: 4_3_2_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 66} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

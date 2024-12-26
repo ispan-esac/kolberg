@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK1905200000-oj_boze_moj_boze.krn
+!!!OTL: Oj Boze mój, Boze
+!!!source: DWOK19
+!!!id: 19052
+!!!signature: 1905200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8cc#
+8dd
+=2
+8ee
+4.a
+=3
+8b
+8dd
+8cc#
+8dd
+=4
+8ee
+4.a}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+=6
+8cc
+4b
+8g
+=7
+8a
+8cc
+8b
+8f#
+=8
+8g
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 20} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 20}
+!!!page: 20
+!!!ONB: Converted on 2024/12/26 with esac2hum

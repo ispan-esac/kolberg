@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK57158700002-czerwona_roza.krn
+!!!OTL: Czerwona róża
+!!!source: DWOK57
+!!!id: 571587
+!!!signature: 57158700002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+8g
+8g
+8a
+8g
+=2
+8cc
+8cc
+8cc
+8cc
+8cc
+8a
+=
+8cc
+8dd
+6ee
+6ff
+6ee
+=3
+16cc
+16b
+16a
+16dd
+2g}
+!!LO:LB:g=esac
+=4
+{8g
+8cc
+8cc
+8cc
+8cc
+8e
+=5
+4a
+8a
+8a
+8g
+16f
+16e
+=6
+8d
+8f
+2a
+=7
+8g
+8g
+2c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 631
+!!!ONB: Converted on 2024/12/26 with esac2hum

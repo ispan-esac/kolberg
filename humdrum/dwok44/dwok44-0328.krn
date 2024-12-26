@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK443280000-przysed_fudala.krn
+!!!OTL: Przysed Fudala
+!!!source: DWOK44
+!!!id: 44328
+!!!signature: 443280000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+16ee
+16cc#
+8dd
+=2
+4dd
+4dd
+=3
+4dd
+16ee
+16cc#
+8dd
+=4
+4dd
+4dd}
+!!LO:LB:g=esac
+=5
+{4dd
+16cc#
+16a
+8g
+=6
+4g
+4b
+=7
+4dd
+16cc#
+16a
+8g
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 225} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 225}
+!!!page: 225
+!!!ONB: Converted on 2024/12/26 with esac2hum

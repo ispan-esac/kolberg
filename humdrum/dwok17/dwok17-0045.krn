@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1704500000-oj_zeby_ja_wiedziala.krn
+!!!OTL: Oj żeby ja wiedziała
+!!!source: DWOK17
+!!!id: 17045
+!!!signature: 1704500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+16ee
+16ee
+8ff
+=2
+16dd
+16b-
+8g
+8f}
+!!LO:LB:g=esac
+=
+{8cc
+24ee
+24cc
+24ee
+8ff
+=
+24dd
+24b-
+24dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=3
+{8cc
+8a
+8f
+=4
+16g
+16b-
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{8cc
+8a
+8f
+=
+24g
+24a
+24b-
+8dd
+16ff
+16ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 20} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 20}
+!!!page: 20
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK06-K0720-a_w_ojcowie_warcza_tartaki.krn
+!!!OTL: A w Ojcowie warcza tartaki
+!!!source: DWOK06
+!!!id: K0720
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8ee
+8ee
+8cc#
+8ee
+=2
+8dd
+4ff#
+8ff#
+=3
+8ee
+8ee
+8cc#
+8ee
+=4
+8dd
+4b
+8b}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8cc#
+8a
+=6
+8b
+4dd
+8b
+=7
+8ee
+8ee
+8cc#
+8a
+=8
+8b
+4b
+8b}
+!!LO:LB:g=esac
+=9
+{8e
+8a
+16cc#
+16b
+16cc#
+16a
+=10
+16b
+16cc#
+4dd
+8b
+=11
+8ee
+8ee
+8cc#
+8a
+=12
+8b
+4b
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=472 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 446-447} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 446-447}
+!!!page: 446-447
+!!!ONB: Converted on 2024/12/26 with esac2hum

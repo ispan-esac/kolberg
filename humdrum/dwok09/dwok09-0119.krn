@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK0911900000-dalej_dalej_dalej_by_nas_nie_schwytali.krn
+!!!OTL: Dalej, dalej, dalej, by nas nie schwytali
+!!!source: DWOK09
+!!!id: 09119
+!!!signature: 0911900000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8c
+8d
+8e
+8f
+=2
+8g
+8cc
+4cc
+=3
+8dd
+8cc
+8b
+8a
+=4
+8a
+8g
+4g}
+!!LO:LB:g=esac
+=5
+{8f
+8e
+8d
+8f
+=6
+8e
+8g
+4g
+=7
+8f
+8e
+8d
+8f
+=8
+8e
+8g
+4g}
+!!LO:LB:g=esac
+=9
+{4b
+8cc
+8a
+=10
+8a
+8g
+4g
+=11
+4ee
+8ff
+8b
+=12
+8dd
+8cc
+4cc}
+==
+*-
+!!!ONB: Dwudźwięki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=283 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 259-260} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, pp. 259-260}
+!!!page: 259-260
+!!!ONB: Converted on 2024/12/26 with esac2hum

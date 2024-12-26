@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK7760000000-o_zachodzi_sloneczko_za_wysokie_deby.krn
+!!!OTL: O zachodzi słoneczko za wysokie dęby
+!!!source: DWOK77
+!!!id: 77600
+!!!signature: 7760000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+4ee
+4ee
+=2
+8ee
+8dd
+4b
+4g#
+=3
+4a
+8b
+8cc
+8a
+8b
+=4
+4g#
+2e}
+!!LO:LB:g=esac
+=5
+{4a
+4cc
+4dd
+=6
+8ee
+8dd
+4b
+4g#
+=7
+8a
+8cc
+4cc
+4b
+=8
+4g#
+2e}
+!!LO:LB:g=esac
+=9
+{4cc
+4ee
+4ee
+=10
+8ee
+8dd
+4b
+4g#
+=11
+4a
+8b
+8cc
+8a
+8b
+=12
+4g#
+2e}
+!!LO:LB:g=esac
+=13
+{4a
+4cc
+4cc
+=14
+8ee
+8dd
+4b
+4g#
+=15
+8a
+8cc
+4cc
+4b
+=16
+4g#
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 308
+!!!ONB: Converted on 2024/12/26 with esac2hum

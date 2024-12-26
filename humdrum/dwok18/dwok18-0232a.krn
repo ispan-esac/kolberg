@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK18232a0000-idzie_woda_idzie.krn
+!!!OTL: Idzie woda idzie
+!!!source: DWOK18
+!!!id: 18232a
+!!!signature: 18232a0000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+4.cc
+=2
+8b
+8cc
+8dd
+8cc
+=3
+8g
+4.cc
+=4
+8b
+8cc
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8ff
+8ee
+=6
+8dd
+8cc
+4ee
+=7
+8dd
+8cc
+8b
+8a
+=8
+8a
+4.g}
+==
+*-
+!!!ONB: zakodować od G?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 138} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 138}
+!!!page: 138
+!!!ONB: Converted on 2024/12/26 with esac2hum

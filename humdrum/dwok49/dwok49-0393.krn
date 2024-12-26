@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK493930000-dobra_nicz_matijko_dobra_nicz.krn
+!!!OTL: Dobra nicz, matijko, dobra nicz
+!!!source: DWOK49
+!!!id: 49393
+!!!signature: 493930000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16g
+8g
+8a
+=2
+8cc
+4b
+=3
+8dd
+4cc
+=4
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+=6
+8b
+4a
+=7
+4.g
+=8
+16f#
+16e
+4d}
+!!LO:LB:g=esac
+=9
+{8b
+8a
+8g
+=10
+8g
+4a
+=11
+16b
+16a
+8g}
+8r
+!!LO:LB:g=esac
+=12
+{8a
+8a
+8b
+=13
+8cc
+4b
+=14
+8a
+4g
+=15
+8g
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=501 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 411} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 411}
+!!!page: 411
+!!!ONB: Converted on 2024/12/26 with esac2hum

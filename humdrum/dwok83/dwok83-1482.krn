@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK83148200000-instrumentalna_-_mazur.krn
+!!!OTL: Instrumentalna - Mazur
+!!!source: DWOK83
+!!!id: 831482
+!!!signature: 83148200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+16cc#
+16ee
+=2
+8dd
+8dd
+16b
+16cc
+=3
+8dd
+8dd
+16cc#
+16ee
+=4
+4.dd
+=5
+8cc
+8b
+8dd
+=6
+16cc
+16a
+16b
+16cc
+8dd
+=7
+16cc
+16a
+16b
+16cc
+8dd
+=8
+8f
+4g}
+==
+*-
+!!!ONB: Wariant t. 7: 42345-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=391 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 280} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 280}
+!!!page: 280
+!!!ONB: Converted on 2024/12/26 with esac2hum

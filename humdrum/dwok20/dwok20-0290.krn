@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK2029000000-dopiero_cie_matulenku_glowka_zaboli.krn
+!!!OTL: Dopiero cię matuleńku główka zaboli
+!!!source: DWOK20
+!!!id: 20290
+!!!signature: 2029000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16dd
+8ee
+8ee
+=2
+16dd
+16dd
+8.cc
+16b
+=3
+16a
+16a
+8b
+8b
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16dd
+32b
+32dd
+8gg
+8ee
+=6
+16dd
+16dd
+8.cc
+16b
+=7
+16a
+16a
+8b
+8f#
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{16.a
+32a
+8.a
+16f#
+=10
+16g
+16b
+8cc
+8b
+=11
+16.a
+32cc
+8.a
+16f#
+=12
+16g
+16b
+8cc
+8b
+=13
+16a
+16a
+8b
+8f#
+=14
+4g
+8r
+=15
+16a
+32f#
+32a
+8b
+8f#
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=237 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 217} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 217}
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

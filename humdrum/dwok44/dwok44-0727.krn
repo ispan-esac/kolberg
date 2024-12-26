@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4472700000-mamicko_ma_mama.krn
+!!!OTL: Mamicko ma, mama
+!!!source: DWOK44
+!!!id: 44727
+!!!signature: 4472700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8dd#
+=2
+16ee
+16ff#
+4ee
+=3
+8dd#
+8ee
+8dd#
+=4
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=5
+{16g#
+16a
+8b
+8e
+=6
+16g#
+16a
+8b
+8cc
+=7
+16dd#
+16ee
+8dd#
+8cc
+=8
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=418 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 360} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 360}
+!!!page: 360
+!!!ONB: Converted on 2024/12/26 with esac2hum

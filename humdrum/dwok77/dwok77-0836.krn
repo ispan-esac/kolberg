@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK7783600000-majtek_ubogi_puscil_sie_na_morze.krn
+!!!OTL: Majtek ubogi puścił się na morze
+!!!source: DWOK77
+!!!id: 77836
+!!!signature: 7783600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4ff#
+4ff#
+8ee
+8ff#
+=2
+2gg
+8b
+8dd
+=3
+8dd
+8cc
+4.cc
+8a
+=4
+8cc
+8b
+2b}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff#
+4ff#
+8ee
+8ff#
+=6
+2gg
+4b
+=7
+8dd
+8cc
+4.cc
+8a
+=8
+8cc
+8b
+2b}
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+8dd
+8dd
+8ee
+8dd
+=10
+8dd
+8cc
+8a
+8cc
+8cc
+8b}
+!!LO:LB:g=esac
+=11
+{8b
+8dd
+8dd
+8dd
+8ee
+8dd
+=12
+8dd
+8cc
+8a
+8cc
+8cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 39
+!!!ONB: Converted on 2024/12/26 with esac2hum

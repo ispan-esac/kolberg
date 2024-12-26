@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK8414500002-joj_w_poli_derewo.krn
+!!!OTL: Joj, w poli derewo
+!!!source: DWOK84
+!!!id: 84145
+!!!signature: 8414500002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8ee
+16dd
+16b
+=2
+16cc
+16b
+8a
+16g#
+8.e
+=3
+8cc
+8dd
+8ee
+16ff
+16dd
+=4
+4ee
+8ee
+16dd
+16dd}
+!!LO:LB:g=esac
+=5
+{16cc
+16b
+8a
+8ee
+16dd
+16b
+=6
+16cc
+16b
+8a
+16g#
+8.e
+=7
+8a
+8cc
+8dd
+8ee
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 147} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 147}
+!!!page: 147
+!!!ONB: Converted on 2024/12/26 with esac2hum

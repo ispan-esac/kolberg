@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK5029300002-ta_pid_horoju_pid_wysokoju.krn
+!!!OTL: Ta pid horoju, pid wysokoju
+!!!source: DWOK50
+!!!id: 50293
+!!!signature: 5029300002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4e
+4e
+4e
+=2
+2a
+4g
+=3
+4e
+4e
+4e
+=4
+2a
+4g}
+!!LO:LB:g=esac
+=5
+{4a
+4cc
+4cc
+=6
+4.cc
+8b
+4a
+=7
+4b
+4a
+4g#
+=8
+2e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 147} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 147}
+!!!page: 147
+!!!ONB: Converted on 2024/12/26 with esac2hum

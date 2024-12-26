@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4814300010-wolam_ja_cie_moja_siwulenku_wolam.krn
+!!!OTL: Wołam ja cię, moja siwuleńku, wołam
+!!!source: DWOK48
+!!!id: 48143
+!!!signature: 4814300010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.dd
+16cc#
+16b
+16cc#
+=2
+8.dd
+16cc#
+16a
+16g
+=3
+8.dd
+16cc#
+16b
+16cc#
+=4
+16dd
+16cc
+16a
+16b
+8f#}
+!!LO:LB:g=esac
+=5
+{4g
+16f#
+16d
+=6
+4g
+16f#
+16d
+=7
+4g
+16f#
+16d
+=8
+4.r
+=9
+4.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 187} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

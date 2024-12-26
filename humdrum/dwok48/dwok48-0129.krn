@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK4812900000-owo_ja_mazur_bardzo_bogaty.krn
+!!!OTL: Owo ja Mazur bardzo bogaty
+!!!source: DWOK48
+!!!id: 48129
+!!!signature: 4812900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16.g
+32g
+8a
+8b
+=2
+4cc
+8ee
+=3
+16.dd
+32dd
+8ff
+8b
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{16.g
+32g
+8a
+8b
+=6
+4cc
+8ee
+=7
+16dd
+16dd
+8ff
+8b
+=8
+4cc}
+8r
+!!LO:LB:g=esac
+=9
+{16dd
+16ee
+8ff
+8ff
+=10
+16ee
+16ff
+8.gg
+16ee
+=11
+16dd
+16ee
+8ff
+8ff
+=12
+16ee
+16ff
+8.gg
+16ee}
+!!LO:LB:g=esac
+=13
+{16dd
+16dd
+8ff
+8b
+=14
+16cc
+16cc
+8ee
+8ee
+=15
+16dd
+16dd
+8ff
+8b
+=16
+4cc}
+8r
+==
+*-
+!!!ONB: Wariant t. 7, 13 i 15: +2_+2_+4__7_5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 177} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

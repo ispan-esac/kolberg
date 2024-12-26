@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK41102500000-szla_kasinka_przez_wies.krn
+!!!OTL: Szła Kasinka przez wieś
+!!!source: DWOK41
+!!!id: 411025
+!!!signature: 41102500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+4dd
+4dd
+=2
+8dd
+8gg
+2gg
+=3
+8b
+8cc
+4dd
+4ee
+=4
+8dd
+8cc
+2cc}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+4cc
+4b
+=6
+4cc
+2aa
+=7
+8ff#
+8dd
+4ff#
+4aa
+=8
+8aa
+8gg
+2gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=516 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 429} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 429}
+!!!page: 429
+!!!ONB: Converted on 2024/12/26 with esac2hum

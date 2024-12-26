@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK4594900000-w_orabinie_przy_mlynie.krn
+!!!OTL: W Orabinie przy młynie
+!!!source: DWOK45
+!!!id: 45949
+!!!signature: 4594900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16e
+16f#
+8g#
+8a
+=2
+16b
+16cc
+4b}
+!!LO:LB:g=esac
+=3
+{16b
+16cc
+8dd
+8ee
+=4
+16ee
+16ff#
+4ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd#
+8cc
+=6
+8ee
+4a
+=7
+16b
+16cc
+4b}
+!!LO:LB:g=esac
+=8
+{8cc
+8b
+8a
+=9
+8b
+4a
+=10
+16g#
+16f#
+4e}
+==
+*-
+!!!ONB: Przy weselu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=24 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 14} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 14}
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

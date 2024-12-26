@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK7707900002-do_warszawy_drozka.krn
+!!!OTL: Do Warszawy dróżka
+!!!source: DWOK77
+!!!id: 77079
+!!!signature: 7707900002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+2ee
+=2
+8ee
+8dd#
+4ee
+4cc}
+!!LO:LB:g=esac
+=3
+{4b
+2dd
+=4
+8ee
+8cc
+4b
+4g#}
+!!LO:LB:g=esac
+=5
+{4a
+4.cc
+8b
+=6
+8dd
+8cc
+4b
+8a
+8g#}
+!!LO:LB:g=esac
+=7
+{4a
+4.cc
+8b
+=8
+8b
+8e
+4g#
+4a}
+!!LO:LB:g=esac
+=9
+{4cc
+2ee
+=10
+8ee
+8dd#
+4ee
+4cc}
+!!LO:LB:g=esac
+=11
+{4b
+2dd
+=12
+8ee
+16dd
+16cc
+4b
+4g#}
+!!LO:LB:g=esac
+=13
+{4a
+4.cc
+8b
+=14
+8dd
+8cc
+4b
+8a
+8g#}
+!!LO:LB:g=esac
+=15
+{4a
+4.cc
+8b
+=16
+8b
+8e
+4g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4820700000-pan_gospodarz_chetnie_daje.krn
+!!!OTL: Pan gospodarz chętnie daje
+!!!source: DWOK48
+!!!id: 48207
+!!!signature: 4820700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8e
+8e
+8f#
+8g#
+=2
+8a
+8b
+8cc#
+8a
+=3
+8e
+8e
+8f#
+8g#
+=4
+8a
+8b
+8cc#
+8cc#}
+!!LO:LB:g=esac
+=5
+{4dd
+8cc#
+8b
+=6
+8a
+8b
+4cc#
+=7
+8e
+8e
+8f#
+8g#
+=8
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=277 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 233} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

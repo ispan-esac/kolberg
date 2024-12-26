@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1233900000-pastereczka_pedzac_owce.krn
+!!!OTL: Pastereczka pędząc owce
+!!!source: DWOK12
+!!!id: 12339
+!!!signature: 1233900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8.cc
+16dd
+16ee
+16dd
+=2
+16ff
+16ee
+8dd
+8cc
+=3
+16ff
+16ee
+8dd
+8cc
+=4
+16dd
+16b
+8g
+16a
+16b
+=5
+4cc}
+8r
+!!LO:LB:g=esac
+=6
+{16dd
+16b
+8g
+16a
+16b
+=7
+8cc
+8cc
+8ee
+=8
+16dd
+16b
+8g
+16a
+16b
+=9
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 179} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 179}
+!!!page: 179
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK57146700000-kolo_mlyna_kolo_brodu.krn
+!!!OTL: Koło młyna, koło brodu
+!!!source: DWOK57
+!!!id: 571467
+!!!signature: 57146700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8b
+=2
+4.dd
+=3
+8ee
+8dd
+8cc#
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+=6
+4.d
+=7
+8g
+8b
+8cc
+=8
+8b
+4g}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8b
+=10
+4.d
+=11
+8f#
+4g
+=12
+16b
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 518
+!!!ONB: Converted on 2024/12/26 with esac2hum

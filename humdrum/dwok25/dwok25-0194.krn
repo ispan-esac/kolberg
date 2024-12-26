@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2519400000-na_warszawskiej_ulicy.krn
+!!!OTL: Na Warszawskiej ulicy
+!!!source: DWOK25
+!!!id: 25194
+!!!signature: 2519400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8b
+8cc
+8cc
+=2
+8b
+8cc
+4dd
+=3
+8dd
+8cc
+8b
+8g
+=4
+8cc
+8dd
+4ee
+=5
+4ff
+4gg}
+!!LO:LB:g=esac
+=6
+{4ee
+4cc
+=7
+8b
+8cc
+4dd
+=8
+4ff
+8ee
+8gg
+=9
+4ee
+4cc
+=10
+8g
+8b
+4cc}
+==
+*-
+!!!ONB: Wariant w takcie trzecim +2+177
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 86} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 86}
+!!!page: 86
+!!!ONB: Converted on 2024/12/26 with esac2hum

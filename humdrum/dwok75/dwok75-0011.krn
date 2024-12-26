@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7501100000-oj_w_polu_ber_w_polu_ber.krn
+!!!OTL: Oj, w polu ber, w polu ber
+!!!source: DWOK75
+!!!id: 75011
+!!!signature: 7501100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4ee
+4ff
+4ee
+=2
+8ee
+8dd
+4ff
+4cc
+=3
+4ee
+4ff
+4cc
+=4
+8ee
+8dd
+4b
+4cc}
+!!LO:LB:g=esac
+=5
+{4b
+4cc
+4dd
+=6
+8ee
+16dd
+16ee
+4ff
+4cc
+=7
+4ee
+4ff
+4ee
+=8
+8ee
+8dd
+4b
+4cc}
+==
+*-
+!!!ONB: Wariant t. 5: 7__+1__+3__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 8} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 8}
+!!!page: 8
+!!!ONB: Converted on 2024/12/26 with esac2hum

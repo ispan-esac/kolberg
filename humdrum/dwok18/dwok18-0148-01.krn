@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1814800001-oj_posedem_do_kasi.krn
+!!!OTL: Oj posedem do Kasi
+!!!source: DWOK18
+!!!id: 18148
+!!!signature: 1814800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+16a
+16cc
+8cc
+8ee
+=3
+8ee
+8dd
+8b
+=4
+16cc
+16a
+8a
+16e
+16d}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+=6
+16a
+16cc
+8cc
+8a
+=7
+8cc
+8b
+8dd
+=8
+16a
+16a
+8a
+16e
+16d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 108} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 108}
+!!!page: 108
+!!!ONB: Converted on 2024/12/26 with esac2hum

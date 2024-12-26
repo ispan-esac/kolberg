@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK06-K0583-niech_wiec_kazden_spiewa.krn
+!!!OTL: Niech wiec kazden spiewa
+!!!source: DWOK06
+!!!id: K0583
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8e
+8f
+8g
+=2
+8a
+4.a
+=3
+8g
+8g
+8b-
+8e
+=4
+8g
+4.f}
+!!LO:LB:g=esac
+=5
+{8f
+8e
+8f
+8g
+=6
+8a
+4.a
+=7
+8g
+8g
+8b-
+8e
+=8
+8g
+4.f}
+!!LO:LB:g=esac
+=9
+{8b-
+8b-
+4dd
+=10
+8a
+4cc
+8a
+=11
+8g
+8g
+4b-
+=12
+8a
+4cc
+8a}
+!!LO:LB:g=esac
+=13
+{8b-
+8b-
+4dd
+=14
+8a
+4cc
+8a
+=15
+8cc
+8cc
+8b-
+8e
+=16
+8g
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=362 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 336} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 336}
+!!!page: 336
+!!!ONB: Converted on 2024/12/26 with esac2hum

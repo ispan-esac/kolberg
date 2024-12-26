@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK4046700000-kienizes_bywal.krn
+!!!OTL: Kieniżeś bywał
+!!!source: DWOK40
+!!!id: 40467
+!!!signature: 4046700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4f
+8f
+8a
+=2
+4cc
+4a
+=3
+4dd
+8dd
+8b-
+=4
+4cc
+4a
+=5
+4dd
+8dd
+8b-
+=6
+4cc
+4a}
+!!LO:LB:g=esac
+=7
+{4b-
+8b-
+8g
+=8
+4a
+8a
+8f
+=9
+4g
+8g
+8g
+=10
+8f
+8a
+4cc}
+!!LO:LB:g=esac
+=11
+{4b-
+8b-
+8g
+=12
+4a
+8a
+8f
+=13
+4g
+8g
+8e
+=14
+4f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=513 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 446} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 446}
+!!!page: 446
+!!!ONB: Converted on 2024/12/26 with esac2hum

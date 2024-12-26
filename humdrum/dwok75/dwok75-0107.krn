@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK7510700000-z_tamtej_strony_jaworowa.krn
+!!!OTL: Z tamtej strony Jaworowa
+!!!source: DWOK75
+!!!id: 75107
+!!!signature: 7510700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8a
+16b
+16cc
+=2
+16dd
+16dd
+8ee
+8g}
+!!LO:LB:g=esac
+=3
+{16g
+16b
+8a
+16b
+16cc
+=4
+16b
+16b
+8a
+8d}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8a
+16b
+16cc
+=6
+16dd
+16dd
+8ee
+8g}
+!!LO:LB:g=esac
+=7
+{16g
+16b
+8a
+16b
+16cc
+=8
+16b
+16a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 71} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 71}
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK3047100001-oj_zibraly_sia_burlaki.krn
+!!!OTL: Oj zibrały sia burłaki
+!!!source: DWOK30
+!!!id: 30471
+!!!signature: 3047100001
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+{8e
+=1
+4.a
+8b
+4.cc
+8dd
+=2
+4.ee
+8b
+8cc
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=3
+{4.ff
+8ff
+4aa
+8gg
+8ff
+=4
+2ee
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{4.dd
+8ee
+8gg
+8ff
+8ee
+8dd
+=6
+4.ee
+8b
+8cc
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=7
+{4g#
+4ff
+4ee
+4g#
+=8
+4.a
+8b
+4.cc
+8cc#}
+!!LO:LB:g=esac
+=9
+{4.dd
+8ee
+8ee
+8ff
+8ee
+8dd
+=10
+4.ee
+8b
+8cc
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=11
+{4g#
+4ff
+4ee
+4g#
+=12
+2a
+4a}
+8r
+==
+*-
+!!!ONB: Dworska
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 254} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 254}
+!!!page: 254
+!!!ONB: Converted on 2024/12/26 with esac2hum

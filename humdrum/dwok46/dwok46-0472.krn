@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4647200000-a_kiedy_mysliwy_caly_dzien_poluje.krn
+!!!OTL: A kiedy myśliwy cały dzień poluje
+!!!source: DWOK46
+!!!id: 46472
+!!!signature: 4647200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8d
+8g
+8g
+8g
+4b
+8a
+8g
+=2
+8f#
+8a
+8a
+8a
+4cc
+8b}
+8r
+!!LO:LB:g=esac
+=3
+{8d
+8g
+8g
+8g
+4b
+8a
+8g
+=4
+8f#
+8a
+8a
+8a
+4cc
+8b}
+8r
+!!LO:LB:g=esac
+=5
+{4dd
+4cc#
+2dd
+=6
+8gg
+8b
+8b
+8b
+2b}
+!!LO:LB:g=esac
+=7
+{8ee
+8a
+8a
+8a
+4cc
+4a
+=8
+8f#
+8f#
+8f#
+8f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=324 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 290} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 290}
+!!!page: 290
+!!!ONB: Converted on 2024/12/26 with esac2hum

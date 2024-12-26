@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK120700000-po_polu_po_lesie_spiewaja_slowiki.krn
+!!!OTL: Po polu po lesie, śpiewają słowiki
+!!!source: DWOK12
+!!!id: 12070
+!!!signature: 120700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+4cc
+=2
+8ff
+8ff
+16ee
+16dd
+=3
+16cc
+16dd
+4b-
+=4
+8g
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+4cc
+=6
+8f
+8a
+16a
+16b-
+=7
+16cc
+16dd
+4b-
+=8
+8g
+8a
+8f}
+!!LO:LB:g=esac
+=9
+{16f
+16a
+4cc
+=10
+8f
+8a
+16a
+16b-
+=11
+16cc
+16dd
+8.b-
+16a
+=12
+8g
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 31} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 31}
+!!!page: 31
+!!!ONB: Converted on 2024/12/26 with esac2hum

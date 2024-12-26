@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK3103400000-nyma_toho_szczo_ja_jeho.krn
+!!!OTL: Nyma toho szczo ja jeho
+!!!source: DWOK31
+!!!id: 31034
+!!!signature: 3103400000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8e
+8ee
+8ee
+8ee
+=2
+8ee
+8ee
+16cc
+16b
+8a
+=3
+8e
+8ee
+8ee
+8ee
+=4
+16cc
+16b
+8a
+4cc}
+!!LO:LB:g=esac
+=5
+{8e
+8ee
+8ee
+8ee
+=6
+8ee
+8ee
+16cc
+16b
+8a
+=7
+16a
+16b
+8cc
+16a
+16b
+8cc
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{8e
+8cc#
+8cc#
+8cc#
+=10
+8cc#
+8cc#
+16cc#
+16b
+8a
+=11
+16b
+16cc#
+8dd
+8dd
+16dd
+16cc#
+=12
+8dd
+8dd
+8dd
+8b}
+!!LO:LB:g=esac
+=13
+{8b
+4dd
+16cc#
+16b
+=14
+16a
+16b
+4cc#
+16b
+16a
+=15
+8b
+4dd
+16cc#
+16b
+=16
+16a
+16b
+16cc#
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 13} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 13}
+!!!page: 13
+!!!ONB: Converted on 2024/12/26 with esac2hum

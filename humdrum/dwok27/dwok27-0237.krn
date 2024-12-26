@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2723700000-z_poniedzialku_na_swieto.krn
+!!!OTL: Z poniedziałku na święto
+!!!source: DWOK27
+!!!id: 27237
+!!!signature: 2723700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16dd
+16ff
+8ee
+16cc
+16a
+=2
+8g
+8gg
+16ee
+16cc
+=3
+16dd
+16ff
+8ee
+16cc
+16a
+=4
+8g
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+8cc
+8ee
+=6
+16dd
+16b
+8g
+8e
+=7
+8f
+4a}
+!!LO:LB:g=esac
+=8
+{16a
+16b
+8cc
+8ee
+=9
+16dd
+16b
+8g
+8g
+=10
+16cc
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 273} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 273}
+!!!page: 273
+!!!ONB: Converted on 2024/12/26 with esac2hum

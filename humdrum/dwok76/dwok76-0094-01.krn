@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK7609400001-jedzie_moj_wiezie_gnoj.krn
+!!!OTL: Jedzie mój, wiezie gnój
+!!!source: DWOK76
+!!!id: 76094
+!!!signature: 7609400001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+8dd
+4ff
+=2
+8ee
+4gg
+8dd
+=3
+8ff
+8ff
+4cc
+=4
+8dd
+4cc
+8b}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4ff
+=6
+8ee
+4ee
+8dd
+=7
+8dd
+8ff
+4cc
+=8
+8dd
+4cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 56} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

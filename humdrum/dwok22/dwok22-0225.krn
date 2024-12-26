@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2222500000-u_mej_matki_rodzony.krn
+!!!OTL: U mej matki rodzony
+!!!source: DWOK22
+!!!id: 22225
+!!!signature: 2222500000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8g
+8g
+8ff
+8ee
+=2
+8dd
+8dd
+4cc
+=3
+8dd
+8ee
+8ff
+8ee
+=4
+8g
+8g
+4f}
+!!LO:LB:g=esac
+=5
+*M3/4
+{4g
+4.ff
+8ee
+=6
+4.dd
+8b
+8cc
+8ee
+=7
+2dd
+4b
+=8
+4g}
+4r
+4r
+!!LO:LB:g=esac
+=9
+{4g
+4.ff
+8ee
+=10
+4.dd
+8b
+8cc
+8ee
+=11
+2dd
+4b
+=12
+4g}
+4r
+4r
+==
+*-
+!!!ONB: Wariant w t. 4: 221_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 132} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 132}
+!!!page: 132
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK5320200002-merguzele_manu_baltoji_gulbele.krn
+!!!OTL: Merguzele manu, bałtoji gulbele
+!!!source: DWOK53
+!!!id: 53202
+!!!signature: 5320200002
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=1
+{4a
+4dd
+4b
+4b
+=2
+2a
+2f#
+=3
+4b
+4a
+4a
+4g
+=4
+2f#
+2e}
+!!LO:LB:g=esac
+=5
+{4f#
+4a
+4e
+4d
+=6
+4a
+4a
+4b
+4a
+=7
+4g
+4b
+4a
+4g
+=8
+2f#}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=361 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 321} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 321}
+!!!page: 321
+!!!ONB: Converted on 2024/12/26 with esac2hum

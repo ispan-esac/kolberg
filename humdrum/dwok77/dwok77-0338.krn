@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7733800000-das_nie_das_nadobna_dziewczyno.krn
+!!!OTL: Das nie das nadobna dziewczyno
+!!!source: DWOK77
+!!!id: 77338
+!!!signature: 7733800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8ee
+8a
+=2
+16g
+16g
+16a
+16cc
+16b
+16g
+=3
+8dd
+8ee
+8a
+=4
+16g
+16cc
+4b}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8a
+=6
+16g
+16b
+16a
+16cc
+16b
+16g
+=7
+8dd
+8ee
+8a
+=8
+16g
+16cc
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 178
+!!!ONB: Converted on 2024/12/26 with esac2hum

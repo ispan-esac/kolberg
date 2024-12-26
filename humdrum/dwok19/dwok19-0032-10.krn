@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1903200010-a_jak_ci_ja_zacne.krn
+!!!OTL: A jak ci ja zacnę
+!!!source: DWOK19
+!!!id: 19032
+!!!signature: 1903200010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8a
+4cc
+=2
+8b
+4g
+8g
+=3
+8a
+8a
+4f#
+=4
+16a
+16g
+4g
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8cc
+8a
+=6
+16a
+16b
+4g
+8g
+=7
+16b
+16a
+8a
+4f#
+=
+16a
+16g
+4b
+24b
+24dd
+24b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 14} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 14}
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

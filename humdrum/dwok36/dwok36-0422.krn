@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3642200000-aj_u_luzi_kalyna.krn
+!!!OTL: Aj u łuzi kałyna
+!!!source: DWOK36
+!!!id: 36422
+!!!signature: 3642200000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8g
+8b
+4.dd
+16b
+16g
+=2
+*M2/4
+8cc
+8dd
+4ee
+=3
+8dd
+8dd
+8a
+8b
+=4
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8cc
+8ee
+4dd
+8a
+8b
+=6
+*M2/4
+8cc
+8cc
+4g
+=7
+*M3/4
+8cc
+8ee
+4dd
+8a
+8b
+=8
+*M2/4
+8cc
+8cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 269
+!!!ONB: Converted on 2024/12/26 with esac2hum

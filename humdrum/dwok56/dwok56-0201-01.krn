@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK5620100001-oj_szczos_meni_nenci_moja.krn
+!!!OTL: Oj, szczoś meni, neńci moja
+!!!source: DWOK56
+!!!id: 56201
+!!!signature: 5620100001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{8a
+8ee
+8ee
+8ee
+=2
+8ee
+8ee
+8dd
+8dd
+=3
+8ee
+8ee
+8.aa
+16ee
+=4
+8ee
+8ff#
+8gg
+8cc}
+!!LO:LB:g=esac
+=5
+{8gg
+8gg
+8ee
+8ee
+=6
+8dd
+8dd
+8cc
+8a
+=7
+*M3/4
+8cc
+8cc
+4ee
+8dd
+8dd
+=8
+4cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=316 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 212} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 212}
+!!!page: 212
+!!!ONB: Converted on 2024/12/26 with esac2hum

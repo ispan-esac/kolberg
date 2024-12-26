@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK41118600002-zdrowas_maryjo_boga_rodzico.krn
+!!!OTL: Zdrowaś Maryjo, Boga Rodzico
+!!!source: DWOK41
+!!!id: 411186
+!!!signature: 41118600002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4dd
+4.ee
+8cc
+=
+12b
+12dd
+12b
+2a
+=2
+8b
+8dd
+4.cc
+8f#
+=3
+8a
+8g
+4g}
+4r
+!!LO:LB:g=esac
+=4
+{4dd
+4.ee
+8cc
+=
+12b
+12dd
+12b
+2a
+=5
+8b
+8dd
+4.cc
+8f#
+=6
+8a
+8g
+4g}
+4r
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+4.a
+8g
+=
+12g
+12b
+12a
+2a
+=8
+8a
+8cc
+4.ee
+8dd
+=9
+8dd
+8cc
+4b}
+4r
+!!LO:LB:g=esac
+=10
+{8gg
+8ff#
+4.gg
+8ee
+=11
+8dd
+8gg
+4.b
+8cc
+=12
+8b
+8dd
+4.cc
+8f
+=13
+8a
+8g
+2g}
+==
+*-
+!!!ONB: zakodować w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=602 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 515} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 515}
+!!!page: 515
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK06-K0567-to_mi_zycie_do_zazdrosci.krn
+!!!OTL: To mi zycie do zazdrosci
+!!!source: DWOK06
+!!!id: K0567
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+=1
+*M3/4
+{8ee
+8cc#
+4a
+4a
+=2
+8g#
+8b
+4dd
+4b
+=3
+8dd
+8b
+4g#
+4g#
+=4
+8ee
+8g#
+8b
+8a
+4a}
+!!LO:LB:g=esac
+=5
+{8ee
+8cc#
+4a
+4a
+=6
+8g#
+8b
+4dd
+4b
+=7
+8dd
+8b
+4g#
+4g#
+=8
+8ee
+8g#
+8b
+8a
+4a}
+!!LO:LB:g=esac
+=9
+*M2/4
+{8b
+8b
+8b
+8b
+=10
+2cc#
+=11
+8dd
+8dd
+8dd
+8dd
+=12
+2ee}
+!!LO:LB:g=esac
+=13
+{8ee
+8dd#
+8ee
+8cc#
+=14
+4.a
+8cc#
+=15
+8b
+8g#
+8b
+8cc#
+=16
+*M3/4
+4a}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=349 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 323} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 323}
+!!!page: 323
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK1319900000-niedaleko_wies_ode_wsi.krn
+!!!OTL: Niedaleko wieś ode wsi
+!!!source: DWOK13
+!!!id: 13199
+!!!signature: 1319900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8ee
+16ee
+16dd
+=2
+16cc
+16ee
+8gg
+16ff
+16ee
+=3
+8dd
+8ff
+16ff
+16ee
+=4
+16ff
+16ff
+8aa
+16ff
+16dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+16ee
+16dd
+=6
+16cc
+16ee
+8gg
+16ff
+16ee
+=7
+8dd
+8ff
+8aa
+=8
+16ff
+16dd
+8b
+8cc}
+!!LO:LB:g=esac
+=9
+{8ee
+16cc
+16b
+8g
+=10
+16.ff
+32dd
+8b
+8cc
+=
+8ee
+24cc
+24b
+24a
+8g
+=11
+16.ff
+32dd
+8b
+8cc}
+!!LO:LB:g=esac
+=12
+{8cc
+8ee
+16ee
+16dd
+=13
+16ff
+16dd
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 102} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 102}
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

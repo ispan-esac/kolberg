@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK06-K0790-przyjedziesz_przyjade.krn
+!!!OTL: Przyjedziesz przyjade
+!!!source: DWOK06
+!!!id: K0790
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8ee
+8ff
+8dd
+=2
+4ee
+4g
+=3
+8b
+8dd
+4ff
+=4
+8ff
+4gg
+8ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ff
+8dd
+=6
+4ee
+4g
+=7
+8b-
+16a
+16g
+4a
+=8
+8a
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=503 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 477} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 477}
+!!!page: 477
+!!!ONB: Converted on 2024/12/26 with esac2hum

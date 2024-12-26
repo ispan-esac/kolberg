@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5020300000-a_chto_sije_pszenyczejku.krn
+!!!OTL: A chto sije pszenyczejku
+!!!source: DWOK50
+!!!id: 50203
+!!!signature: 5020300000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M4/4
+{4b
+4dd
+4dd
+4dd
+=2
+*M3/4
+4.ee
+8dd
+8cc
+8b
+=3
+8cc
+8b
+2a
+=4
+8b
+8f#
+2g}
+!!LO:LB:g=esac
+=5
+*M4/4
+{4g
+4b
+4b
+4b
+=6
+*M3/4
+4.cc
+8b
+8a
+8g
+=7
+8cc
+8b
+2a
+=8
+8b
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 92} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 92}
+!!!page: 92
+!!!ONB: Converted on 2024/12/26 with esac2hum

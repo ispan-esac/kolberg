@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3625800001-oj_wyjduja_na_hulyciu.krn
+!!!OTL: Oj wyjduja na hułyciu
+!!!source: DWOK36
+!!!id: 36258
+!!!signature: 3625800001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4.ee
+8b
+=
+12ee
+12dd
+12cc
+4b
+4b
+=2
+8dd#
+8dd#
+4.ee
+8b
+=3
+16ee
+16dd
+8cc
+2b}
+!!LO:LB:g=esac
+=4
+{8a
+8cc
+4.ee
+8g#
+=
+12a
+12g#
+12f
+4e
+8a
+8cc
+=5
+8dd#
+8ee
+4dd
+8ee
+8g#
+=
+12a
+12g#
+12f
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 153-154
+!!!ONB: Converted on 2024/12/26 with esac2hum

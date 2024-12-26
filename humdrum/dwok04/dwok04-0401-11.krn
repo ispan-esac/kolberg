@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK0440100011-na_moscie_trawka_rosnie.krn
+!!!OTL: Na moście trawka rośnie
+!!!source: DWOK04
+!!!id: K0401
+!!!signature: 0440100011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8ee
+=2
+16ee
+16f#
+8g
+8b
+=3
+4dd
+8ee
+=4
+16ee
+16f#
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ee
+=6
+16ee
+16f#
+8g
+8b
+=7
+8dd
+8dd
+8ee
+=8
+16ee
+16f#
+8a
+8g}
+!!LO:LB:g=esac
+=9
+{16d
+16g
+8b
+8cc
+=10
+16b
+16f#
+8g
+8b
+=11
+16d
+16g
+8b
+8cc
+=12
+16b
+16f#
+8g
+8b}
+!!LO:LB:g=esac
+=13
+{16d
+16g
+8b
+16dd
+16cc
+=14
+16b
+16f#
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 233} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

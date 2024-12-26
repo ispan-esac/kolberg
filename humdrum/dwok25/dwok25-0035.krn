@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2503500000-a_jak_przyjda_do_mnie_chlopcy.krn
+!!!OTL: A jak przyjdą do mnie chłopcy
+!!!source: DWOK25
+!!!id: 25035
+!!!signature: 2503500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16dd
+16ee
+8.dd
+16cc
+=3
+16b
+16g
+8a
+8f#
+=4
+16g
+16b
+8.dd
+16cc
+=5
+16b
+16g
+8a
+8f#
+=6
+4.g}
+!!LO:LB:g=esac
+=7
+{16d
+32f#
+32g
+8a
+8d
+=8
+16g
+16b
+8.dd
+16cc
+=9
+16b
+16g
+8a
+8f#
+=10
+16g
+16b
+8.dd
+16cc
+=11
+16b
+16g
+8a
+8f#
+=12
+4.g}
+==
+*-
+!!!ONB: wariant w takcie siódmym zapisu nutowego -7_1_2__-5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 14} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 14}
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

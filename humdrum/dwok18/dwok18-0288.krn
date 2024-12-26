@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1828800000-jak_ci_pojdzies_po_swybodzie.krn
+!!!OTL: Jak ci pójdzies po swybodzie
+!!!source: DWOK18
+!!!id: 18288
+!!!signature: 1828800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8cc
+=2
+16cc
+16ff
+8.dd
+16b-
+=3
+16f
+16a
+8cc
+8cc
+=4
+16cc
+16ff
+8.dd
+16b-}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8g
+8b-
+=6
+16a
+16g
+8.f
+16a
+=7
+16a
+16cc
+8g
+8b-
+=8
+16a
+16g
+8.f
+16f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 164} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 164}
+!!!page: 164
+!!!ONB: Converted on 2024/12/26 with esac2hum

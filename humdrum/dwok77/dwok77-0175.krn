@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK7717500000-nie_siadaj_kolo_mnie.krn
+!!!OTL: Nie siadaj koło mnie
+!!!source: DWOK77
+!!!id: 77175
+!!!signature: 7717500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8dd
+8dd
+4ff
+=2
+8ee
+4gg
+8ee
+=3
+8dd
+8dd
+4ff
+=4
+8ee
+4gg
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4ff
+=6
+8dd
+4cc
+8ee
+=7
+8dd
+8dd
+4ff
+=8
+8ee
+4gg
+8ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

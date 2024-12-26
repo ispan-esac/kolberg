@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK8104600002-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK81
+!!!id: 81046
+!!!signature: 8104600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16g
+16cc
+16dd
+16ff
+8ee-
+16dd
+16cc
+=2
+8ff#
+8ff#
+16ee
+16ff#
+16ee
+16ff#
+=3
+16g
+16cc
+16dd
+16ff
+8ee-
+16dd
+16cc
+=4
+4ff#
+4gg}
+!!LO:LB:g=esac
+=5
+{16g
+16cc
+16dd
+16ff
+8ee-
+16dd
+16b
+=6
+8cc
+8cc
+8cc
+8cc
+=7
+8gg
+8gg
+8gg
+8gg
+=8
+4cc
+4cc}
+!!LO:LB:g=esac
+=9
+{16g
+16cc
+16dd
+16ff
+8ee-
+16dd
+16cc
+=10
+16g
+16cc
+16dd
+16ff
+8ee
+16dd
+16cc}
+==
+*-
+!!!ONB: Kołomyjka huculska-wariant
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 44} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 44}
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

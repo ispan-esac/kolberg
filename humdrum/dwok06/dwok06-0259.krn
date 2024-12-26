@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK06-K0259-chociaz_ty_warszawianka.krn
+!!!OTL: Chociaz ty Warszawianka
+!!!source: DWOK06
+!!!id: K0259
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16cc
+16ee-
+16dd
+16b
+8g
+=2
+16cc
+16ee-
+16dd
+16b
+8g
+=3
+16cc
+16ee-
+8dd
+8ee-
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16b-
+8a
+8dd
+=6
+16g
+16b-
+16a
+16f#
+8d
+=7
+16g
+16b-
+8a
+8dd
+=8
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 131} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 131}
+!!!page: 131
+!!!ONB: Converted on 2024/12/26 with esac2hum

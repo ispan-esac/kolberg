@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK2617600000-pocozes_mnie_matulenku.krn
+!!!OTL: Pocoześ mnie matuleńku
+!!!source: DWOK26
+!!!id: 26176
+!!!signature: 2617600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+16b
+16dd
+=2
+16ee
+16cc
+8b
+16a
+16g
+=3
+8b
+8dd
+16a
+16f#
+=4
+4d}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+16b
+16dd
+=6
+16ee
+16cc
+8b
+16a
+16g
+=7
+16b
+16dd
+8a
+8f#
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8f#
+8a
+16f#
+16a
+=10
+16g
+16g
+8b
+8dd
+=11
+8f#
+8a
+16f#
+16a
+=12
+16g
+16g
+8b
+8dd}
+!!LO:LB:g=esac
+=13
+{16ee
+16cc
+8b
+16a
+16f#
+=14
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

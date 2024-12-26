@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK1640600002-otworzcie_mu_matulenku_szeroko_wrota.krn
+!!!OTL: Otwórzcie mu matuleńku szeroko wrota
+!!!source: DWOK16
+!!!id: 16406
+!!!signature: 1640600002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4.a
+=2
+4.g#
+=3
+4.a
+=4
+4.g#}
+!!LO:LB:g=esac
+=5
+{8a
+8.f
+16e
+=6
+16d
+16e
+8f
+8f
+=7
+8e
+4e
+=8
+4c}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=274 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 254} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 254}
+!!!ONB: Converted on 2024/12/26 with esac2hum

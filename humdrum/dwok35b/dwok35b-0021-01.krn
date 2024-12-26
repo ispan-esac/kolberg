@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK35B-35B02100001-oj_poletila_sywa_holubojka.krn
+!!!OTL: Oj połetiła sywa hołubojka
+!!!source: DWOK35B
+!!!id: 35B021
+!!!signature: 35B02100001
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4ee
+8ee
+8ee
+4ee
+8dd
+8cc
+=2
+8cc
+8dd
+8cc
+8b
+4a
+4g#}
+!!LO:LB:g=esac
+=3
+{8a
+8g#
+4a
+4cc
+4cc
+=4
+4ee
+8dd
+8cc}
+2r
+!!LO:LB:g=esac
+=5
+{4ee
+8ee
+8ee
+4ee
+8dd
+8cc
+=6
+8cc
+8dd
+8cc
+8b
+4a
+4g#}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+4ee
+8dd
+8a
+4cc
+=8
+2a
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 141} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 141}
+!!!page: 141
+!!!ONB: Converted on 2024/12/26 with esac2hum

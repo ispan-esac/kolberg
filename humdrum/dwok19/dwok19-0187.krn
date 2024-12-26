@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK1918700000-za_co_mie_ty_jasiu_bijes.krn
+!!!OTL: Za co mię ty Jasiu bijes
+!!!source: DWOK19
+!!!id: 19187
+!!!signature: 1918700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ff
+16dd
+8b
+8dd
+=2
+16ff
+16dd
+8b
+8cc
+=3
+16a
+16f
+8d
+8f
+=4
+16a
+16f
+8d
+8c}
+!!LO:LB:g=esac
+=5
+{16a
+16f
+8a
+8cc
+=6
+16b
+16g
+8b
+8dd
+=7
+16ff
+16dd
+8b
+8dd
+=8
+16ff
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{16a
+16f
+8a
+8cc
+=10
+16b
+16g
+8b
+8dd
+=11
+16ff
+16dd
+8b
+8dd
+=12
+16ff
+16dd
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 61} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 61}
+!!!page: 61
+!!!ONB: Converted on 2024/12/26 with esac2hum

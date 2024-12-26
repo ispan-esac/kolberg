@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK2743500000-a_z_porania_w_niedziele.krn
+!!!OTL: A z porania w niedzielę
+!!!source: DWOK27
+!!!id: 27435
+!!!signature: 2743500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8ff
+8ee
+=2
+8dd
+8ee
+4cc
+=3
+8dd
+8dd
+8ee
+8cc
+=4
+8a
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4ff
+=6
+4ee
+4cc
+=7
+8a
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=384 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 365} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 365}
+!!!page: 365
+!!!ONB: Converted on 2024/12/26 with esac2hum

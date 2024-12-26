@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1209800002-idzie_woda_od_ogroda.krn
+!!!OTL: Idzie woda od ogroda
+!!!source: DWOK12
+!!!id: 12098
+!!!signature: 1209800002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+8ee
+16ee
+16dd
+=2
+16ff
+16aa
+8ee
+8gg
+=3
+16ee
+16gg
+8ee
+16ee
+16dd
+=4
+16ff
+16dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16g
+16cc
+8ee
+16ee
+16dd
+=6
+8dd
+16dd
+16cc
+16ee
+16gg
+=7
+16gg
+16ff
+8ee
+16ee
+16dd
+=8
+16ff
+16dd
+8dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=63 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 47-48} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 47-48}
+!!!page: 47-48
+!!!ONB: Converted on 2024/12/26 with esac2hum

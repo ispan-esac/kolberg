@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK7638600000-a_jakze_tam_do_wacpanny....krn
+!!!OTL: A jakże tam do waćpanny...
+!!!source: DWOK76
+!!!id: 76386
+!!!signature: 7638600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+4g
+4b
+=2
+8dd
+8dd
+4ee
+4ee
+=3
+8dd
+8dd
+4ee
+4ee}
+!!LO:LB:g=esac
+=4
+{8cc
+8b
+4a
+4cc
+=5
+2b
+4d
+=6
+8dd
+8dd
+4ee
+4dd
+=7
+8dd
+8dd
+4ee
+4dd}
+!!LO:LB:g=esac
+=8
+{8cc
+8b
+4a
+8cc
+8b
+=9
+8g
+8g
+4f#
+4d
+=10
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=237 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 201} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 201}
+!!!page: 201
+!!!ONB: Converted on 2024/12/26 with esac2hum

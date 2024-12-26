@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK5324600000-o_tu_manu_sesele.krn
+!!!OTL: O! Tu, manu sesele
+!!!source: DWOK53
+!!!id: 53246
+!!!signature: 5324600000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{4e
+4a
+=2
+4b
+4cc#
+=3
+2cc#
+=4
+4.a
+8g#}
+!!LO:LB:g=esac
+=5
+{4e
+4a
+=6
+4b
+4cc#
+=7
+2cc#
+=8
+4.a
+8g#}
+!!LO:LB:g=esac
+=9
+{4a
+4cc#
+=10
+4b
+4a
+=11
+2g#
+=12
+4e
+4e}
+!!LO:LB:g=esac
+=13
+{4a
+4cc#
+=14
+4b
+4a
+=15
+2g#
+=16
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=376 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 336} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 336}
+!!!page: 336
+!!!ONB: Converted on 2024/12/26 with esac2hum

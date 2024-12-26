@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1307700000-jedwabie_pannom.krn
+!!!OTL: Jedwabie pannom
+!!!source: DWOK13
+!!!id: 13077
+!!!signature: 1307700000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+8b
+8cc
+4dd
+4g
+=2
+8cc
+8dd
+8ee
+8ff
+4ee
+4dd}
+!!LO:LB:g=esac
+=3
+{8ff
+8ee
+8dd
+8dd
+8ee
+8ee
+8ee
+8cc
+=4
+8g
+8g
+8a
+8b
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{4cc
+8b
+8cc
+4dd
+4g
+=6
+8cc
+8dd
+8ee
+8ff
+4ee
+4dd}
+!!LO:LB:g=esac
+=7
+{8ff
+8ee
+8dd
+8dd
+4ee
+8ee
+8cc
+=8
+4g
+8a
+8b
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 45} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 45}
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

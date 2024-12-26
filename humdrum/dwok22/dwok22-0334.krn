@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2233400000-hej_przy_kominku_stala.krn
+!!!OTL: Hej przy kominku stała
+!!!source: DWOK22
+!!!id: 22334
+!!!signature: 2233400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8f#
+4.g
+=2
+8a
+8cc
+8ee
+8dd
+=3
+8cc#
+4.dd
+=4
+8cc
+8b
+8cc
+8g
+=5
+8b
+8a
+8cc
+8g}
+!!LO:LB:g=esac
+=6
+{8a
+8cc
+8ee
+8dd
+=7
+8cc#
+4.dd
+=8
+4cc
+4cc
+=9
+8b
+8a
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 187} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

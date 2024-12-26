@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK1901600002-padsa_rosa_padsa.krn
+!!!OTL: Padśa rosa padśa
+!!!source: DWOK19
+!!!id: 19016
+!!!signature: 1901600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8dd
+8dd
+=2
+8cc
+4.g
+=3
+8b
+8g
+4f#
+=4
+8a
+4cc
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+8a
+=6
+16cc
+16a
+4.g
+=7
+8b
+8g
+4f#
+=8
+8cc
+4a
+8g}
+!!LO:LB:g=esac
+=9
+{8b
+8g
+4f#
+=10
+8ee
+8cc
+16cc
+16a
+8g
+=11
+8b
+8g
+4f#
+=12
+16cc
+16a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=23 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 9} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 9}
+!!!page: 9
+!!!ONB: Converted on 2024/12/26 with esac2hum

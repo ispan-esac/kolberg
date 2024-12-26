@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK3653200001-oj_buw_u_mene_daniluszka.krn
+!!!OTL: Oj buw u mene Daniłuszka
+!!!source: DWOK36
+!!!id: 36532
+!!!signature: 3653200001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8cc
+8b
+8a
+=2
+8g#
+8a
+8e
+8e
+=3
+8cc
+8cc
+8b
+8a
+=4
+8g#
+8a
+4b}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8b
+8a
+=6
+8g#
+8a
+8e
+8d
+=7
+8e
+8e
+4a
+=8
+8g#
+8f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 349
+!!!ONB: Converted on 2024/12/26 with esac2hum

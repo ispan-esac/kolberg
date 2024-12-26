@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK5037800002-hej_zajichaly_kozaki_z_l-obozu.krn
+!!!OTL: Hej, zajichały Kozaki z ł-obozu
+!!!source: DWOK50
+!!!id: 50378
+!!!signature: 5037800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8dd
+8dd
+8dd
+8ee
+4.dd
+8cc
+=2
+8b
+8dd
+8cc
+8b
+8a
+8f#
+4g}
+!!LO:LB:g=esac
+=3
+{8g
+8a
+8b
+8g
+4.a
+8cc
+=4
+8b
+8dd
+8cc
+16b
+16g
+8a
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8g
+4.a
+8cc
+=6
+8b
+8dd
+8cc
+16b
+16g
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 207} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 207}
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

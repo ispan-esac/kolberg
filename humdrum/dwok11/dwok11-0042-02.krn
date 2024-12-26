@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1104200002-oj_tonela_burmistrzanka_tonela.krn
+!!!OTL: Oj tonęła burmistrzanka, tonęła
+!!!source: DWOK11
+!!!id: 11042
+!!!signature: 1104200002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8b
+4cc
+4g
+=2
+8a
+8b
+4cc
+4g
+=3
+8dd
+8ee
+2dd
+=4
+8b
+8a
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+4cc
+4g
+=
+12a
+12g
+12f
+4e
+4d
+=6
+8e
+8f
+2g
+=7
+8e
+8d
+4c}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 97} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 97}
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

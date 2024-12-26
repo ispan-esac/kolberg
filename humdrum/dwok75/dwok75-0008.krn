@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK7500800000-weselny.krn
+!!!OTL: Weselny
+!!!source: DWOK75
+!!!id: 75008
+!!!signature: 7500800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8g
+4b
+8b
+8a
+=2
+8b
+8g
+4b
+8b
+8a
+=
+12b
+12cc
+12dd
+8b
+8cc
+8a
+8f#
+=
+12d
+12e
+12f#
+2g}
+!!LO:LB:g=esac
+=3
+{8a
+8f#
+8g
+8f#
+8g
+8b
+=
+12a
+12b
+12cc
+2dd
+=4
+8a
+8f#
+8g
+8f#
+8g
+8b
+=5
+8a
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 6} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 6}
+!!!page: 6
+!!!ONB: Converted on 2024/12/26 with esac2hum

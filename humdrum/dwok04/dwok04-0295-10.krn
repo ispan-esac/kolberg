@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK0429500010-da_i_stado_gasek.krn
+!!!OTL: Da i stado gąsek
+!!!source: DWOK04
+!!!id: K0295
+!!!signature: 0429500010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8g#
+8a
+8cc
+8ee
+8b
+=2
+8a
+8b
+8dd
+8ee
+8b
+8g#
+=3
+8e
+8g#
+8a
+8cc
+8ee
+8b
+=4
+8dd
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+8a
+8b
+8cc
+8b
+=6
+8a
+8g#
+8e
+8f#
+8e
+8f#
+=7
+8e
+8g#
+8a
+8b
+8cc
+8b
+=
+12a
+12g#
+12e
+4a
+8e
+8d}
+==
+*-
+!!!ONB: Część wokalna. U Kolberga w t. 6 błąd rytmiczny: 1_-7-5-6-5-6
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 146} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 146}
+!!!page: 146
+!!!ONB: Converted on 2024/12/26 with esac2hum

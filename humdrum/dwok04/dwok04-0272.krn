@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK04-K0272-da_jedziesz_nie_jedziesz.krn
+!!!OTL: Da jedziesz nie jedziesz
+!!!source: DWOK04
+!!!id: K0272
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8e
+8f#
+8g
+8a
+8a
+=2
+4a
+8b
+8g
+4a}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+8ee
+8ff#
+4ee
+=4
+8b
+16b
+16g
+2a
+=5
+8a
+8cc
+8ee
+8ff#
+4ee
+=6
+8b
+8g
+2a}
+!!LO:LB:g=esac
+=7
+{8d
+8e
+8f#
+8g
+8a
+8f#
+=8
+8d
+8f#
+8e
+8c
+8e
+8c
+=9
+8d
+8f#
+8d
+8g
+4f#
+=10
+8d
+8g
+4f#
+4a}
+!!LO:LB:g=esac
+=11
+{8d
+8f#
+8d
+8g
+4f#
+=12
+2.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 135} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

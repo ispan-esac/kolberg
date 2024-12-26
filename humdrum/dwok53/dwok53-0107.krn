@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK5310700000-o_as_isjodamas.krn
+!!!OTL: O as isjodamas
+!!!source: DWOK53
+!!!id: 53107
+!!!signature: 5310700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+4dd
+4ee
+4ee
+=2
+4dd
+4b
+2b}
+!!LO:LB:g=esac
+=3
+{4dd
+4dd
+4ee
+4ee
+=4
+4dd
+4b
+2b}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4b
+4a
+=6
+2g
+2d}
+!!LO:LB:g=esac
+=7
+{4b
+4b
+4a
+4a
+=8
+2.g
+4a}
+!!LO:LB:g=esac
+=9
+{4dd
+4dd
+4b
+4a
+=10
+2g
+2d}
+!!LO:LB:g=esac
+=11
+{4b
+4b
+4a
+4a
+=12
+2.g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 244} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 244}
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

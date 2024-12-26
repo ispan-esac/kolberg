@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7505400000-cztyry_konie_jasio_mal.krn
+!!!OTL: Cztyry konie Jasio mał
+!!!source: DWOK75
+!!!id: 75054
+!!!signature: 7505400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24g
+24b
+24cc
+8ee
+8cc
+=1
+8a
+8cc
+8g}
+!!LO:LB:g=esac
+=
+{24g
+24b
+24cc
+8dd
+8cc
+=2
+8dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=3
+{16dd
+16cc
+8ee
+8cc
+=4
+8dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=5
+{16dd
+16cc
+8ee
+8cc
+=6
+8a
+8cc
+8g}
+==
+*-
+!!!ONB: Wariant t. 2 i 8: 2_431_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 36} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 36}
+!!!page: 36
+!!!ONB: Converted on 2024/12/26 with esac2hum

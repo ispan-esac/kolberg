@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK4704100000-jak_tobi_maryniu_ne_wstydno.krn
+!!!OTL: Jak tobi, Maryniu, ne wstydno
+!!!source: DWOK47
+!!!id: 47041
+!!!signature: 4704100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8dd
+=2
+8dd
+8cc
+8b
+=3
+8cc
+4dd
+=4
+8dd
+4ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+=6
+8dd
+8cc
+8b
+=7
+8cc
+4dd
+=8
+8dd
+4ee}
+!!LO:LB:g=esac
+=9
+{8ee
+8dd
+8dd
+=10
+8dd
+8cc
+8b
+=11
+4.a
+=12
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 75} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 75}
+!!!page: 75
+!!!ONB: Converted on 2024/12/26 with esac2hum

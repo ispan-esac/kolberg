@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK57212000000-lazla_niegdys_z_plecow_skora.krn
+!!!OTL: Lazła niegdyś z pleców skóra
+!!!source: DWOK57
+!!!id: 572120
+!!!signature: 57212000000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8d
+8d
+4cc
+4cc
+=2
+8b
+8a
+4b
+4g
+=3
+8d
+8d
+4cc
+4cc
+=4
+4a
+2dd}
+!!LO:LB:g=esac
+=5
+{8f#
+8g
+4.a
+8b
+=6
+8a
+8g#
+4a
+4f#
+=7
+8a
+8g
+4e
+4e
+=8
+4f#
+2a}
+!!LO:LB:g=esac
+=9
+{8f#
+8g
+4.a
+8b
+=10
+8a
+8g#
+4a
+4dd
+=11
+8cc#
+8cc#
+4b
+4cc#
+=12
+4dd
+2dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1179
+!!!ONB: Converted on 2024/12/26 with esac2hum

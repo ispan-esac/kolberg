@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7733600000-oj_po_bystrym_strumieniu.krn
+!!!OTL: Oj po bystrym strumieniu
+!!!source: DWOK77
+!!!id: 77336
+!!!signature: 7733600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ff
+8ee
+8gg
+=2
+16ff
+16dd
+8cc
+8dd
+=3
+8b
+8cc
+8dd
+=4
+16b
+16dd
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8ee
+=6
+16ff
+16dd
+8cc
+8a
+=7
+8b
+8cc
+8dd
+=8
+16b
+16dd
+8cc
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

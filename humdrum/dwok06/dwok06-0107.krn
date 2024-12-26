@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK06-K0107-moje_mile_kobietecki.krn
+!!!OTL: Moje mile kobietecki
+!!!source: DWOK06
+!!!id: K0107
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8dd
+8ee
+4ff
+=3
+16gg
+8.aa
+16ff
+8.ee}
+!!LO:LB:g=esac
+=4
+{16cc
+16dd
+16ee
+16gg
+8ff
+8ee
+=5
+4cc
+8dd
+8cc
+=6
+4b
+4g}
+!!LO:LB:g=esac
+=7
+{8.g
+16b
+8cc
+16a
+16f
+=8
+8a
+16a
+16cc
+8b
+8b
+=9
+8.g
+16b
+8cc
+16a
+16f
+=10
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 56} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

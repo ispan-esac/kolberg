@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5601900000-tam_na_horonci_dwi_zazulenci_w_jeczmeny.krn
+!!!OTL: Tam na horońci dwi zazułeńci w jeczmeny
+!!!source: DWOK56
+!!!id: 56019
+!!!signature: 5601900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8b
+=2
+16b
+16cc
+4dd
+=3
+8ee
+8ee
+16dd
+16ee
+=4
+16dd
+16cc
+4b
+=5
+8b
+4a
+=6
+4g
+8r
+=7
+8b
+8dd
+8dd
+=8
+4cc
+8a
+=9
+8g
+8b
+8b
+=10
+4a
+8dd
+=11
+8dd
+4g
+=12
+8g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 73} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

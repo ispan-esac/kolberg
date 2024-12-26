@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2632000000-z_poniedzialku_na_swieto.krn
+!!!OTL: Z poniedziałku na święto
+!!!source: DWOK26
+!!!id: 26320
+!!!signature: 2632000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16ee
+16ff#
+8.ee
+16a
+=2
+16b
+16dd
+4cc
+=3
+16ee
+16ff#
+8.ee
+16a
+=4
+16b
+16dd
+4cc}
+!!LO:LB:g=esac
+=5
+{16b
+16g#
+8b
+8dd#
+=6
+16ee
+16cc
+8b
+8a
+=7
+8g#
+4b}
+!!LO:LB:g=esac
+=8
+{16b
+16g#
+8b
+8dd#
+=9
+16ee
+16cc
+8a
+8f#
+=10
+8g#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 346
+!!!ONB: Converted on 2024/12/26 with esac2hum

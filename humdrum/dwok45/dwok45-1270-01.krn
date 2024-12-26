@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK45127000001-hej_polaki_waryjaki.krn
+!!!OTL: Hej, Polaki, waryjaki
+!!!source: DWOK45
+!!!id: 451270
+!!!signature: 45127000001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8dd
+4ee
+4ee
+=2
+8ee
+8ee
+4cc
+4g
+=3
+8ee
+8ee
+4ff
+4ee
+=4
+4ee
+2dd}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4dd
+4dd
+=6
+8dd
+8dd
+4b
+4g
+=7
+8dd
+8ff
+4.ee
+8dd
+=8
+4dd
+2cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+4ee
+4g
+=10
+8dd
+8dd
+4ee
+4cc
+=11
+8cc
+8ee
+4ee
+4g
+=12
+8f
+8a
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 122} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 122}
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

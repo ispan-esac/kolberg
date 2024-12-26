@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK03-K0021-a_zabaczysz_marysienku.krn
+!!!OTL: A zabaczysz Marysienku
+!!!source: DWOK03
+!!!id: K0021
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+16ee
+16dd
+8cc
+=2
+16b
+16a
+8g
+16b
+16cc
+=3
+8dd
+8ee
+8d}
+!!LO:LB:g=esac
+=4
+{16g
+16b
+16ee
+16dd
+8cc
+=
+16b
+16a
+8g
+24d
+24e
+24f#
+=5
+8g
+8a
+8g}
+!!LO:LB:g=esac
+=6
+{16g
+16a
+8b
+[8dd
+=7
+16dd]
+16cc
+8f#
+8a
+=8
+8cc
+8ee
+8d}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+8b
+8dd
+=10
+16dd
+16cc
+8d
+8f#
+=11
+8cc
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 259} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 259}
+!!!page: 259
+!!!ONB: Converted on 2024/12/26 with esac2hum

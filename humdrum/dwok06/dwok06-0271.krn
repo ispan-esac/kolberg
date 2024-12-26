@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK06-K0271-parobecek_ci_ja.krn
+!!!OTL: Parobecek ci ja
+!!!source: DWOK06
+!!!id: K0271
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8ee
+8dd#
+8dd
+8b
+=2
+8cc#
+4a
+8cc#
+=3
+8e
+8g#
+4b
+=4
+8a
+4a
+8cc#}
+!!LO:LB:g=esac
+=5
+{8dd#
+8ee
+8dd
+8b
+=6
+8cc#
+4a
+8cc#
+=7
+8e
+8g#
+4b
+=8
+8b
+4a
+8a}
+!!LO:LB:g=esac
+=9
+{8e
+8g#
+4b
+=10
+8ee
+4cc#
+8a
+=11
+8e
+8g#
+4b
+=12
+8a
+4a
+8cc#}
+!!LO:LB:g=esac
+=13
+{8ee
+8dd#
+8dd
+8b
+=14
+8cc#
+4a
+8cc#
+=15
+8e
+8g#
+4b
+=16
+8b
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=162 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 136} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 136}
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

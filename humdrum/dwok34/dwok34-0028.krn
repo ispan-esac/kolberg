@@ -1,0 +1,115 @@
+!!!!SEGMENT: DWOK3402800000-oj_u_luzi_kalynonka_u_luzi.krn
+!!!OTL: Oj u łuzi kałynońka u łuzi
+!!!source: DWOK34
+!!!id: 34028
+!!!signature: 3402800000
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M3/4
+=1
+{8.B
+16g
+4.f#
+8g
+=2
+8f#
+8e
+4B
+4e
+=3
+4d
+2B}
+!!LO:LB:g=esac
+=4
+{8.B
+16g
+4.f#
+8e
+=5
+8f#
+8e
+8d
+8B
+4e
+=6
+4d
+2B}
+!!LO:LB:g=esac
+=7
+{8.f#
+16e
+4B
+4g
+=8
+8.f#
+16e
+4f#
+4B}
+!!LO:LB:g=esac
+=9
+{8.f#
+16e
+4B
+4g
+=10
+8.f#
+16e
+4f#
+4B}
+!!LO:LB:g=esac
+=11
+{8.d
+16e
+16f#
+16g
+16e
+16f#
+8.f#
+16B
+=12
+4d
+2B}
+!!LO:LB:g=esac
+=13
+{8.f#
+16e
+4B
+4g
+=14
+8.f#
+16e
+4f#
+4B}
+!!LO:LB:g=esac
+=15
+{8.f#
+16e
+4B
+4g
+=16
+8.f#
+16e
+4f#
+4B}
+!!LO:LB:g=esac
+=17
+{8.d
+16e
+16f#
+16g
+16e
+16f#
+8.f#
+16B
+=18
+4d
+2B}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 21} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 21}
+!!!page: 21
+!!!ONB: Converted on 2024/12/26 with esac2hum

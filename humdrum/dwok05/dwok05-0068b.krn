@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK05-K0068b-trio_z_marsza_sobieskiego.krn
+!!!OTL: Trio z marsza Sobieskiego
+!!!source: DWOK05
+!!!id: K0068b
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4cc
+4cc
+4dd
+4dd
+=2
+4ee
+4ee
+2a
+=3
+4cc
+4cc
+4b
+4b
+=4
+2a
+2a}
+!!LO:LB:g=esac
+=5
+{4cc
+4cc
+4b
+4b
+=6
+4cc
+4cc
+2b
+=7
+4cc
+4cc
+4b
+4b
+=8
+2a
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=335 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 307} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 307}
+!!!page: 307
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1239200001-z_tej_ta_strony_przeory.krn
+!!!OTL: Z tej ta strony przeory
+!!!source: DWOK12
+!!!id: 12392
+!!!signature: 1239200001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8a
+8g
+8a
+8b
+=2
+4cc
+4dd
+=3
+2cc
+=4
+8cc
+8dd
+8ee
+8ff
+=5
+4ee
+4cc
+=6
+2a}
+!!LO:LB:g=esac
+=7
+{4ee
+8dd
+8ff
+=8
+4ee
+8a
+8g
+=9
+4cc
+8dd
+8cc
+=10
+4a
+4g
+=11
+8a
+8b
+8cc
+8dd
+=12
+4ee
+4cc
+=13
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=219 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 203} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 203}
+!!!page: 203
+!!!ONB: Converted on 2024/12/26 with esac2hum

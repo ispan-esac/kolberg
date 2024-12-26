@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK1006900000-oj_siadaj_siadaj_moje_kochanie.krn
+!!!OTL: Oj siadaj siadaj moje kochanie
+!!!source: DWOK10
+!!!id: 10069
+!!!signature: 1006900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4d
+4f#
+4g
+=2
+4b
+4.dd
+8cc#
+=3
+8a
+8cc#
+4dd
+8a
+8b
+=4
+2.g}
+!!LO:LB:g=esac
+=5
+{4d
+4f#
+4g
+=6
+4b
+4.dd
+8cc#
+=7
+8a
+8cc#
+4dd
+8a
+8b
+=8
+2.g}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+4b
+4dd
+=10
+8cc
+8b
+4.a
+8g
+=11
+8a
+8a
+4a
+4b
+=12
+8a
+8g
+4.f#
+8d}
+!!LO:LB:g=esac
+=13
+{8f#
+8g
+4b
+8a
+8b
+=14
+2.g}
+==
+*-
+!!!ONB: W taktach czwartym, ósmym i czternastym powinna być kropka, dodano
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 227} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 227}
+!!!page: 227
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK57157900000-kozak_konia_napowau.krn
+!!!OTL: Kozak konia napowau
+!!!source: DWOK57
+!!!id: 571579
+!!!signature: 57157900000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8a
+8b
+=2
+8cc
+8cc
+8ee
+8cc
+=3
+8g
+8g
+8a
+8b
+=4
+8cc
+8ee
+4gg}
+!!LO:LB:g=esac
+=5
+{8ff
+8ff
+16ff
+16ee
+16ff
+16dd
+=6
+8ee
+8ee
+16ee
+16dd
+16ee
+16cc
+=7
+8dd
+8dd
+8dd
+8g
+=8
+8cc
+8ee
+4gg}
+!!LO:LB:g=esac
+=9
+{8ff
+8ff
+16ff
+16ee
+16ff
+16dd
+=10
+8ee
+8ee
+16ee
+16dd
+16ee
+16cc
+=11
+8dd
+8dd
+8dd
+8g
+=12
+4cc
+4cc}
+==
+*-
+!!!ONB: Wariant t. 1 i 3: 5_5_5_67
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 624
+!!!ONB: Converted on 2024/12/26 with esac2hum

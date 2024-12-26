@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK06-K0404-pojedziemy_na_low_na_low.krn
+!!!OTL: Pojedziemy na low na low
+!!!source: DWOK06
+!!!id: K0404
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+4b
+=3
+4dd
+4b
+=4
+8b
+8b
+8a
+8a
+=5
+4g}
+4r
+!!LO:LB:g=esac
+=6
+{8g
+8b
+8b
+8b
+=7
+8a
+8b
+4cc
+=8
+8g
+8b
+8b
+8b
+=9
+8a
+8b
+4cc
+=10
+8b
+8b
+8a
+8a
+=11
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 210} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 210}
+!!!page: 210
+!!!ONB: Converted on 2024/12/26 with esac2hum

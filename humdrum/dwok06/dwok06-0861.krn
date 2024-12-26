@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK06-K0861-a_gdzie_sie_podzialy_nasze_mlode_czasy.krn
+!!!OTL: A gdzie sie podzialy nasze mlode czasy
+!!!source: DWOK06
+!!!id: K0861
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8cc
+=2
+8cc
+4a
+=3
+4cc
+16a
+16f
+=4
+16e
+16g
+8b-
+8a}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8cc
+16cc
+16b
+=6
+16cc
+16cc
+8a
+8dd
+=7
+4cc
+16a
+16f
+=8
+16e
+16g
+8b-
+16a
+16g}
+!!LO:LB:g=esac
+=9
+{8f
+8f
+16a
+16cc
+=10
+16b-
+16cc
+8dd
+8dd
+=11
+16cc
+16ee
+8ff
+8a
+=12
+16g
+16a
+8b-
+8a}
+!!LO:LB:g=esac
+=13
+{16f
+16e
+16f
+16g
+16a
+16cc
+=14
+16b-
+16cc
+16dd
+16ee
+16ff
+16dd
+=
+24cc
+24dd
+24ee
+8ff
+8a
+=15
+16g
+16a
+8b-
+16a
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=530 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 504} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 504}
+!!!page: 504
+!!!ONB: Converted on 2024/12/26 with esac2hum

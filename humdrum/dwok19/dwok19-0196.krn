@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1919600000-wisi_jabko_wisi.krn
+!!!OTL: Wisi jabko wisi
+!!!source: DWOK19
+!!!id: 19196
+!!!signature: 1919600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+16cc
+16f#
+=2
+16.a
+32cc
+8dd
+8b
+=3
+4dd
+16cc
+16f#
+=4
+16a
+16cc
+8g
+8b}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8f#
+=6
+16.a
+32cc
+8dd
+8b
+=7
+8b
+8a
+8f#
+=8
+16a
+16cc
+8g
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 63} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 63}
+!!!page: 63
+!!!ONB: Converted on 2024/12/26 with esac2hum

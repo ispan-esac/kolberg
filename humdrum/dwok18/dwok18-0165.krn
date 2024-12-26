@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK1816500000-oj_trzeba_jej_dac.krn
+!!!OTL: Oj trzeba jej dać
+!!!source: DWOK18
+!!!id: 18165
+!!!signature: 1816500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8b
+8cc
+=2
+4dd
+8cc#
+=3
+16dd
+16ee
+8cc
+8a
+=4
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8.dd
+16cc
+=6
+8g
+8.b
+16a
+=7
+4g}
+8r
+!!LO:LB:g=esac
+=8
+{16g
+16a
+8f#
+8e
+=9
+16d
+16d
+8f#
+8g
+=10
+8a
+4b
+=11
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 114} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 114}
+!!!page: 114
+!!!ONB: Converted on 2024/12/26 with esac2hum

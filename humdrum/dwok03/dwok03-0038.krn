@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK03-K0038-nie_chciala_nie_chciala.krn
+!!!OTL: Nie chciala nie chciala
+!!!source: DWOK03
+!!!id: K0038
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8dd
+8b-
+8a
+=2
+8g
+8b-
+8a
+=3
+16g
+16f#
+8g
+8a
+=4
+8f
+4d}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8f#
+=6
+8g
+8dd
+8dd
+=7
+16g
+16f#
+8g
+8b-
+=8
+8a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 273} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 273}
+!!!page: 273
+!!!ONB: Converted on 2024/12/26 with esac2hum

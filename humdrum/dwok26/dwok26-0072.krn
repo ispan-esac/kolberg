@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2607200000-oj_siasta_siasta.krn
+!!!OTL: Oj siasta siasta
+!!!source: DWOK26
+!!!id: 26072
+!!!signature: 2607200000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{4dd
+8a
+8cc
+8b
+8b
+=2
+8cc
+8ee
+8dd
+8dd
+4b}
+!!LO:LB:g=esac
+=3
+{4dd
+8a
+8cc
+8b
+8b
+=4
+8b
+8g
+8a
+8f#
+4e}
+!!LO:LB:g=esac
+=5
+{4g
+8a
+8cc
+8b
+8b
+=6
+8b
+8g
+8a
+8cc
+4b}
+!!LO:LB:g=esac
+=7
+{4g
+8a
+8cc
+8b
+8b
+=8
+8b
+8g
+8a
+8f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 113
+!!!ONB: Converted on 2024/12/26 with esac2hum

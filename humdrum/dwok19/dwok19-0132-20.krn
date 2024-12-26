@@ -1,0 +1,39 @@
+!!!!SEGMENT: DWOK1913200020-powolny-poblad_wianek_poblad.krn
+!!!OTL: Powolny-Poblad wianek poblad
+!!!source: DWOK19
+!!!id: 19132
+!!!signature: 1913200020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+4dd
+=2
+16b
+16cc
+8dd
+16dd
+16ee
+16cc
+16a
+=3
+8g
+8b
+4dd
+=4
+16b
+16cc
+4a
+16f#
+16d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 45} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 45}
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK57182500000-oj_dywit_si_dobry_lude.krn
+!!!OTL: Oj, dywit si, dobry lude
+!!!source: DWOK57
+!!!id: 571825
+!!!signature: 57182500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.gg
+16ff
+8ff
+8ff
+=2
+8ff
+8ff
+8gg
+8ee
+=3
+8ee
+8ee
+8cc
+8ee
+=4
+4gg
+4gg}
+!!LO:LB:g=esac
+=5
+{8.gg
+16ff
+8ff
+8ff
+=6
+8ff
+8ff
+8gg
+8ee
+=7
+8ee
+8g
+8g
+8b
+=8
+4cc
+4cc}
+==
+*-
+!!!ONB: Wariant t. 6: +4_+3+4+4+3+2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 905
+!!!ONB: Converted on 2024/12/26 with esac2hum

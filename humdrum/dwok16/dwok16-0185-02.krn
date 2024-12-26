@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1618500002-hej_kropiaste_ziolenko.krn
+!!!OTL: Hej kropiaste ziołeńko
+!!!source: DWOK16
+!!!id: 16185
+!!!signature: 1618500002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8ee
+8ee
+8ee
+8b
+=2
+4ee
+8b
+8a
+=3
+2b
+=4
+4b
+4dd
+=5
+2ee}
+!!LO:LB:g=esac
+=6
+{8ff#
+8ee
+8ee
+8b
+=7
+8dd
+8ee
+8b
+8a
+=8
+2b
+=9
+8cc
+8a
+8b
+8g#
+=10
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 195} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 195}
+!!!ONB: Converted on 2024/12/26 with esac2hum

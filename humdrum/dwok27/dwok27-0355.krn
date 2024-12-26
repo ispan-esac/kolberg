@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK2735500000-co_to_za_piorecko.krn
+!!!OTL: Co to za piórecko
+!!!source: DWOK27
+!!!id: 27355
+!!!signature: 2735500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+4dd
+=2
+16b
+16cc
+8ee
+8a
+=3
+16cc
+16ee
+8ee
+8ee
+=4
+8gg
+4dd}
+!!LO:LB:g=esac
+=5
+{8b
+4dd
+=6
+16dd
+16dd
+8ee
+8a
+=7
+16a
+16f#
+8a
+8cc
+=8
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=343 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 324} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 324}
+!!!page: 324
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5768700000-na_gorodzie_jawir.krn
+!!!OTL: Na gorodzie jawir
+!!!source: DWOK57
+!!!id: 57687
+!!!signature: 5768700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4.b
+8a
+=2
+4cc
+4cc
+4cc}
+!!LO:LB:g=esac
+=3
+{8b
+8dd
+4.b
+8a
+=4
+4cc
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4.b
+8g
+=6
+4a
+4a
+4a}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+4.a
+8f#
+=8
+4g
+4g
+4g}
+==
+*-
+!!!ONB: Niezgodność ruchu sylabowego z rytmicznym; wariant t. 7: -5-72_.3
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 24
+!!!ONB: Converted on 2024/12/26 with esac2hum

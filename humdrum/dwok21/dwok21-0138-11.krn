@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2113800011-oj_przelecialy_biale_labedzie.krn
+!!!OTL: Oj przeleciały białe łabędzie
+!!!source: DWOK21
+!!!id: 21138
+!!!signature: 2113800011
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4a
+8a
+8a
+4.ee
+8cc
+=2
+4dd
+8ee
+8dd
+4a
+4cc
+=3
+8dd
+8dd
+4cc
+8b
+8b
+4a}
+!!LO:LB:g=esac
+=4
+{4dd
+8ee
+8dd
+4a
+4cc
+=5
+4cc
+8cc
+8dd
+4.ee
+8a
+=6
+8dd
+8dd
+4ee
+8cc
+8b
+4a}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 68} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 68}
+!!!page: 68
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK1104400000-pasem_owieczki_pod_borem.krn
+!!!OTL: Pas'em owieczki pod borem
+!!!source: DWOK11
+!!!id: 11044
+!!!signature: 1104400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4cc
+8cc
+8cc
+=2
+4b
+4g
+=3
+4ff
+4dd
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{4cc
+8cc
+8cc
+=6
+4b
+4g
+=7
+4ff
+4dd
+=8
+2ee}
+!!LO:LB:g=esac
+=9
+{8ee
+8gg
+8gg
+8gg
+=10
+8ff
+8ff
+8aa
+8ff
+=11
+8ee
+8cc
+8ee
+8gg
+=12
+8dd
+8dd
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=13
+{8cc
+8cc
+8dd
+16ee
+16ff
+=14
+4ee
+4dd
+=15
+2cc}
+!!LO:LB:g=esac
+=16
+{8ee
+8gg
+8gg
+8gg
+=17
+8ff
+8ff
+8aa
+8ff
+=18
+8ee
+8cc
+8ee
+8gg
+=19
+8dd
+8dd
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=20
+{8cc
+8cc
+8dd
+16ee
+16ff
+=21
+4ee
+4dd
+=22
+2cc}
+==
+*-
+!!!ONB: Od Margonina
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 142} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 142}
+!!!page: 142
+!!!ONB: Converted on 2024/12/26 with esac2hum

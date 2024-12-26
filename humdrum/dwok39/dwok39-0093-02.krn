@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK3909300002-spadla_z_wisni_widzielismy.krn
+!!!OTL: Spadła z wiśni, widzieliśmy
+!!!source: DWOK39
+!!!id: 39093
+!!!signature: 3909300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4gg
+8aa
+=2
+8gg
+4dd}
+!!LO:LB:g=esac
+=3
+{8.cc
+16b
+8dd
+=4
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+16b
+16cc
+16dd
+16gg
+=6
+8ee
+8cc
+8a}
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+8dd
+=8
+16b
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 147} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 147}
+!!!page: 147
+!!!ONB: Converted on 2024/12/26 with esac2hum

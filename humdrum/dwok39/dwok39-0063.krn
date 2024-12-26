@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK3906300000-mialam_ci_ja_miala_siodmi_zalotnikow.krn
+!!!OTL: Miałam ci ja, miała siódmi zalotników
+!!!source: DWOK39
+!!!id: 39063
+!!!signature: 3906300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8b
+8dd
+8dd
+4.dd
+8dd
+=2
+8dd
+8dd
+8gg
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=3
+{8b
+8a
+8a
+8a
+4.a
+8b
+=4
+8cc
+8dd
+8ee
+8cc
+4cc
+4b}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8a
+8a
+4.a
+8b
+=6
+8cc
+8ee
+8dd
+8cc
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 127} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 127}
+!!!page: 127
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK7600200000-a_gdziez_ten_druzba_marszalek.krn
+!!!OTL: A gdzież ten drużba marszałek
+!!!source: DWOK76
+!!!id: 76002
+!!!signature: 7600200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+{12dd
+12dd
+12dd
+8ee
+8ee
+=1
+2dd
+=2
+4cc
+8cc
+8b
+=3
+2a}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+8ee
+8ee
+=5
+8dd
+8dd
+8cc
+8b
+=6
+4cc
+8cc
+8b
+=7
+2a}
+==
+*-
+!!!ONB: Starościny na drużbę(do oczepin), by stołek dał
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 6} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 6}
+!!!page: 6
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4412300000-marysiu_po_slubie.krn
+!!!OTL: Marysiu po ślubie
+!!!source: DWOK44
+!!!id: 44123
+!!!signature: 4412300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8g
+4a
+4b
+=2
+4cc
+2b}
+!!LO:LB:g=esac
+=3
+{8a
+8b
+4a
+4g
+=4
+4f#
+2g}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+4a
+4b
+=6
+4cc
+2b}
+!!LO:LB:g=esac
+=7
+{8a
+8b
+4a
+4g
+=8
+4f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 156-157} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, pp. 156-157}
+!!!page: 156-157
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,7110 @@
+DWOK22
+CUT[Spuśćcie nam na ziemskie niwy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 18, Łęczyca]
+FKT[]
+SIG[2200100000]
+KEY[22001   08  C 4/4]
+MEL[-5-5  1_-5_-6_-7_  1_1_0_3_  2_-7_1_-6_  -6-5-5_0_-5-5
+    1_-5_-6_-7_  1_1_0_3_  2_-7_1_-6_  -6-5-5_0_-5-5
+    2_2_2_3_  422_0_-5-5  2_2_2_3_  422_0_2_
+    3_2_1_-7_  -6-5-5_0_1_  -5_1_321-7  211_0_ //]
+BEM[]
+
+DWOK22
+CUT[Głos wdzięczny z nieba wychodzi]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 18-19, od Gombina]
+FKT[]
+SIG[2200200000]
+KEY[22002   08  F 3/8]
+MEL[313  5_5  6_4  5_.
+    313  5_5  6_4  5_.
+    56_  45_  34_  23_
+    55_  34_  23_  21_
+    134  5_3  4_2  3_. //]
+BEM[]
+
+DWOK22
+CUT[Mądrości która z ust Boskich]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 19, Łęczyca]
+FKT[]
+SIG[2200300000]
+KEY[22003   04  F 4/4]
+MEL[+1_75  6_5_  3454  321_
+    +1_75  6_5_  3454  321_
+    1_23  432_  1231  565_
+    1_13  432_  1_0_ //]
+BEM[]
+
+DWOK22
+CUT[O błogosławiony żłobie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 19, od Brzezin i Strykowa]
+FKT[]
+SIG[2200400000]
+KEY[22004   08  G 4/4]
+MEL[5_3_4_2_  3_1_2_-5_
+    5_3_4_2_  3_1_2-7-5_
+    1_3_5_5_  5_64#5__
+    4_2_3_1_  2_5_-5_1_
+    12345_5_  5_64#5_5_
+    4_4_3_3_  2_5_-5-76_ //]
+BEM[]
+
+DWOK22
+CUT[Mesyjasz przyszedł]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 20]
+FKT[]
+SIG[2200500000]
+KEY[22005   08  F 4/4]
+MEL[3_234_2_  35423__
+    3_234_42  35423__
+    5_556543  4_445432
+    3_3_432_  3__0__
+    5_556543  4_445432
+    3_3_432_  3__0__ //]
+BEM[]
+
+DWOK22
+CUT[Najświętsza Panienka po świecie chodziła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 20, od Łęczycy (Mazew)]
+FKT[]
+SIG[2200600000]
+KEY[22006   16  A 3/4]
+MEL[-5_-5_1__7__  1_2_3b___
+    2_3b_4__2__  5__.4_3b_0_
+    3b__.2_1_2_  7b_-5_-4__0__
+    1_1__7_1__  7__-5__0__
+    -5_-5_-5_1_7__  1_2_3b___
+    2_3b_4__2__  5__.4_(3b21)0_
+    3b__.2_1_2_  7b_-5_-4__0__
+    1_1_1_7_1__  7__-5__0__ //]
+BEM[]
+
+DWOK22
+CUT[A wczora z wieczora]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 21, od Zgierza]
+FKT[]
+SIG[2200700000]
+KEY[22007   08  A 3/4]
+MEL[123b_4_  3b_1__
+    556b_5_  4_3b__
+    3b53b543b  24243b2
+    123b_4_  3b_1__ //]
+BEM[]
+
+DWOK22
+CUT[Z tamtej strony sioła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 21-22, od Piątku]
+FKT[]
+SIG[22008a0000]
+KEY[22008a  16  A 3/8]
+MEL[3b45_4_  5_3b__
+    6b54_3b_  4_2__
+    123b_2_  43b2_1_
+    221_-7_  1_-5__
+    123b_2_  43b2_1_
+    (23b2)1_-7_  1__1_ //]
+BEM[]
+
+DWOK22
+CUT[Z tamtej strony sioła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 22, od Zgierza, Brzezin]
+FKT[]
+SIG[22008b0000]
+KEY[22008b  16  A 3/8]
+MEL[3b_4__  545_3b_
+    4_5__  43b4_2_
+    1_2__  3b243b21
+    3b_2__  1-71_-5_
+    5_4__  3b243b21
+    3b_2__  1-71_1_ //]
+BEM[]
+
+DWOK22
+CUT[Witajmy Jezusa nam narodzonego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 22, Łęczyca]
+FKT[]
+SIG[2201000000]
+KEY[22010   08  G 3/4]
+MEL[-5_1_3_  2-71__  3_3_5_  423__
+    -5_1_3_  2-71__  3_3_5_  423__
+    5__3_  3_1__  4__2_  -7_-5__
+    5__3_  3_1__  4__2_  -7_-5__
+    1_2_2_  1__0_ //]
+BEM[]
+
+DWOK22
+CUT[Pasterze mili coście widzieli]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 23, Kłodawa]
+FKT[]
+SIG[2201100000]
+KEY[22011   16  G 3/8]
+MEL[5_5__  4#_5_3_  5_4__  2_3_1_
+    434_2_  323_1_  212_-7_  1-71_-5_
+    5_5__  2_3_1_ //]
+BEM[]
+
+DWOK22
+CUT[A śpisz Bartek Szymek Walek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 24, od Piątku]
+FKT[]
+SIG[2201200000]
+KEY[22012   16  G 3/8]
+MEL[1__2_  3__4_  323_4_
+    323_4_  321_1_  2_-5__
+    1__2_  3__4_  323_4_
+    323_4_  321_1_  2_-5__
+    5_3_4_  5_3_4_  5_3_4_  5_3_4_
+    321_2_  1__. //]
+BEM[]
+
+DWOK22
+CUT[Przyskoczę ja do tej szopy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 24, od Zgierza, Strykowa]
+FKT[]
+SIG[2201300000]
+KEY[22013   16  G 3/8]
+MEL[135_5_  565_.3  5_3__
+    135_5_  565_.3  5_3__
+    3_2__  3_2__  135_3_  232__
+    3_2__  332__  135_3_  232__ //]
+BEM[]
+
+DWOK22
+CUT[Witaj ręka Chrysta prawa]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 26, Łęczyca]
+FKT[]
+SIG[2201400000]
+KEY[22014   04  G 4/4]
+MEL[1-512  3433  3212  3211
+    3455  4342  2344  3231 //]
+BEM[]
+
+DWOK22
+CUT[Będąc przestraszony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 26-27, od Kłodawy]
+FKT[]
+SIG[2201500000]
+KEY[22015   16  G 3/4]
+MEL[1_-5_1_3_321_  2_1_2_4_432_
+    3_2_3_4_5_43  4_3_2__0__
+    1_-5_1_3_321_  2_-5_2_4_432_
+    3_2_3_4_5_43  4_3_2__0__
+    5_4_3__0__  3_5_5_3_4_3_
+    4_3_2__0__  2_3_4_2_3_4_
+    5_.43_5_5_3_  4_.32_3_4_2_
+    3_3_4__5__  3_2_1__0__ //]
+BEM[]
+
+DWOK22
+CUT[Płaczże dzisiaj duszo wszelka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 27]
+FKT[]
+SIG[2201600000]
+KEY[22016   08  G 4/4]
+MEL[3_4_2_1_  2_1_-6_-5_
+    1_2_3_1_  2_.32__
+    3_432_1_  2_1-7-6_-5_
+    1_2_3_1_  2_.32__
+    -7_2_-7_-5_  -7_1_2_-5_
+    1_2_3_4_  3_.21__ //]
+BEM[]
+
+DWOK22
+CUT[Ty ktoryś gorzko na krzyżu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 27, Kaźmierz nad Nerem]
+FKT[]
+SIG[2201700000]
+KEY[22017   08  D 4/4]
+MEL[1_3b45_4_  3b3b43b2_1_
+    5_567b_5_  7b6+17b6_5_
+    7b_6b57b_5_  45654_5_  45_45_1_ //]
+BEM[]
+
+DWOK22
+CUT[W wielgi czwartek w wielgi piątek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 28, od Łęczycy (Mazew, Miłonice)]
+FKT[]
+SIG[2201800000]
+KEY[22018   08  G 4/4]
+MEL[3_4_5_2_  2_4_2_1_
+    13312_-7_  2_4_2_1_ //]
+BEM[]
+
+DWOK22
+CUT[Przyślimy tu po dyngusie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 29, od Kłodawy, Borysławice]
+FKT[]
+SIG[2201900000]
+KEY[22019   08  G 4/4]
+MEL[5_5_5_4_  2_4_3_3_
+    5_5_5_4_  -6_-6_-6_-5_
+    3_1_1_1_  3_3_4_2_
+    2_2_3_1_  -6_1_-6-7-5_
+    5_5_564_  2_5_345_
+    535_564_  2-72_231_
+    3111121_  313_342_
+    2225321_  2_2_231_ //]
+BEM[]
+
+DWOK22
+CUT[Trzy Maryje wyszły]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 29, Mazew]
+FKT[]
+SIG[2202000000]
+KEY[22020   08  G 4/4]
+MEL[12345_1_  221-7-6_-5_
+    11-7-6-712_  11-7-6-712_  1_-7-6-5_0_ //]
+BEM[]
+
+DWOK22
+CUT[Wysławiajmy Chrysta Pana]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 29, Kaźmierz nad Nerem]
+FKT[]
+SIG[2202100000]
+KEY[22021   08  F 4/4]
+MEL[3_3_5_5_  4_4_3_2_
+    2_2_5_4_  3_3_2_1_
+    2_3_4#_5_  6_5_4#_5_ //]
+BEM[]
+
+DWOK22
+CUT[Wstał Pan Chrystus z martwych ninie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 30]
+FKT[]
+SIG[2202200000]
+KEY[22022   08  G 4/4]
+MEL[5_2_3_2_  5_2_3_2_
+    1_1_123_  212_1_0_
+    1_1_123_  2_1_234_
+    3_2_345_  312_1_0_ //]
+BEM[]
+
+DWOK22
+CUT[Do tego domu wstępujemy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 28, Mazew]
+FKT[]
+SIG[2202300000]
+KEY[22023   08  G 4/4]
+MEL[3_312_-7_  2_4_2_1_
+    3_345_1_  2_4_231_
+    -5-5-721-7-5_  -5-5-721-72_
+    13345_1_  33342_1_
+    -5-5-721-72_  -5-5-721-7-5_
+    43345_1_  3334231_ //]
+BEM[]
+
+DWOK22
+CUT[Pamiątkę dnia świątecznego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 32-33, Łęczyca]
+FKT[]
+SIG[2202400000]
+KEY[22024   04  C 4/4]
+MEL[+1566  5443  +3+27+2  +1765
+    +1+2+3+2  +1765  +15+1+3  +27+2+1 //]
+BEM[]
+
+DWOK22
+CUT[Twoja cześć chwała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 33, Mazew]
+FKT[]
+SIG[2202500000]
+KEY[22025   04  F 3/4]
+MEL[323  42_  231  32_
+    545  65_  543  21_ //]
+BEM[]
+
+DWOK22
+CUT[Idzie idzie Bóg prawdziwy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 33]
+FKT[]
+SIG[2202600000]
+KEY[22026   08  F 4/4]
+MEL[1_3_2_4_  3_3_3_2_
+    1_3_2_4_  5_34322_
+    5_5_6_5_  +1_5_5_3_
+    4_2_6_5_  4_3_2_1_ //]
+BEM[]
+
+DWOK22
+CUT[Witam cię witam przenajświętsze ciało]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 33-34, Kłodawa]
+FKT[]
+SIG[2202700000]
+KEY[22027   08  F 3/2]
+MEL[1_1_1_2_1__  1_3_3_212_1_
+    2_-7_2_2_2__  2_4_4_32321_
+    3_3_3_3_3__  3_5_5_434__
+    2_-7_2_2_2__  2_4_4_323__  3_4_5_3_2_1_ //]
+BEM[]
+
+DWOK22
+CUT[Boże kocham Cię]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 34, od Zgierza (Łagiewniki)]
+FKT[]
+SIG[2202800000]
+KEY[22028   16  A 4/4]
+MEL[1__.2_3b_4_2_0_  1__.2_3b_4_2_0_
+    5__.4_5__3b__  3b__1_-7_1__0__
+    5__.6_7b__5_0_  4__.2_4__2_0_
+    5__.6_7b_6_5_0_  4__.2_4_3b_2_0_
+    5__.4_3b__1_0_  -7__2__-7__-5_0_
+    5__.4_3b_2_1_0_  -7_1_2__-7__-5_0_ //]
+BEM[]
+
+DWOK22
+CUT[Otwórz Panie swoj dziedziniec]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 36, od Łęczycy (Mazew)]
+FKT[]
+SIG[2202900000]
+KEY[22029   16  G 4/4]
+MEL[-5_-5_-6_-7_1_5_4_3_  -5_-5_-6_-7_1_5_4_3_
+    -5_-5_-6_-6-71___  -5_-5_-6_-6-71___
+    -5_-5_-6_-5_1_3_2_4_  -5_-5_-6_-5_1_3_2_42
+    -5_-5_-6_-7_1___  -5_-5_-6_-6-51___ //]
+BEM[]
+
+DWOK22
+CUT[Każ nam otworzyć]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 37, od Kłodawy (Rdułtów, Sobota)]
+FKT[]
+SIG[2203000000]
+KEY[22030   08  G 4/4]
+MEL[5_643_5_  1_3_2_-5_  3_5_4_2_  1___
+    5_643_5_  33132_-5_  35564323  1___
+    5_6_4_23  1___  5_564323  1___ //]
+BEM[]
+
+DWOK22
+CUT[Ino raz ino raz]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 38]
+FKT[]
+SIG[2203100000]
+KEY[22031   16  G 3/8]
+MEL[1_3_2_  1_3_-6-5  1_3_22  1_6_5_
+    -5_-5_11  -7-72_-5_  -5_-5_21  -7_-6_-5_
+    1_2_34  556_21  1_2_34  2_2_-5_
+    132_34  5_6_2_  132_34  332_-5_
+    -7_1_-6-5  -721_-6-5  -7_1_-5_  2_2_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Plon niesiem plon]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 38-39, od Parzęczewa(Dalików)]
+FKT[]
+SIG[2203200000]
+KEY[22032   16  C 2/4]
+MEL[+1__7_+1_  +2__0__  +1_+1_7_+1_  +2__0__
+    +1__7_+1_  +2_7_0__  +1_+1_7_+1_  +2_7_0__
+    +1_+1_7_+1_  +2_+3_+2_+1_  5_+1_7_+1_  +2_+1_7_5_
+    +1__7_7_  +1__0__  5__5__  5__0__
+    +1_+1_7_+1_  +2_+3_+2_+17  +1_+1_7_+1_  +2_+3_+2_7_
+    +1_+1_7_7_  +1_7_0__  5_5_7_7_  5__0__
+    +1_+2_+3_+4_  +5_+3_+5_+6_  +5_+4#_+5_+3_
+    +1_+2_+3_+4_  +5__+5_+6_  +5_+3_+1__ //]
+BEM[]
+
+DWOK22
+CUT[Straszliwego majestatu Panie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 40, Łęczyca]
+FKT[]
+SIG[2203300000]
+KEY[22033   16  F 4/4]
+MEL[1__2__3__1__  3_3_3_4_5__3__
+    1_3_2_4_3_2_1__  5_5_5_6_5__3__
+    5_5_5_3_4_4_4_2_  3_343_1_2_3_4_2_
+    5_565_3_4_5_6_2_  3_3_3_1_2_3_4_2_
+    3__5__4_3_3__ //]
+BEM[]
+
+DWOK22
+CUT[Żegnam Cię mój świecie wesoły]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 41, od Piątku]
+FKT[]
+SIG[2203400000]
+KEY[22034   08  A 3/4]
+MEL[3b45__  655443b
+    23b4__  53b23b42
+    13b23b42  13b23b42
+    115_.4  3b21__ //]
+BEM[]
+
+DWOK22
+CUT[Usiadła Kasieńka na białym kamieniu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 46]
+FKT[]
+SIG[2203800000]
+KEY[22038   16  G 3/8]
+MEL[432_3_  1_-5__  -712_4#_  5_2__
+    432_3_  1_-5__  -712_-7_  1__1_ //]
+BEM[]
+
+DWOK22
+CUT[Przeleciał ptaszek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 46-47]
+FKT[]
+SIG[2204000000]
+KEY[22040   16  A 3/4]
+MEL[-5__4__-7__  5___-5__  -7_1_3b__3b__  1_-7_-5___
+    -5_4_4__-7__  5___-5__  -7_1_3b__3b_2_
+    1__.2_121-7  1__2___  -5___.
+    -5__4__-7__  5___-5__  -7_1_3b__3b__  1_-7_-5___
+    -5_4_4__2__  5___1__  -7_1_3b__3b_2_
+    1__.2_121-7  1__2___  -5___. //]
+BEM[]
+
+DWOK22
+CUT[O dla Boga co takiego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 47-48]
+FKT[]
+SIG[2204300000]
+KEY[22043   32  C 3/8]
+MEL[5_5_+1__+2__  +3_+4_+3__7__  +1_+3_+1__6__  5___.
+    5_5_+1__+2__  +3_+4_+3__+2__  +1_+2+3+1__7__  +1___.
+    5_5_+1__3__  4_6_+1__6__  5_5_+1__+2__  +3_+4_+3__5__
+    +1_+2+3+1__7__  +1___. //]
+BEM[]
+
+DWOK22
+CUT[Da siadajże moje kochanie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 48-49]
+FKT[]
+SIG[2204400000]
+KEY[22044   16  G 4/4]
+MEL[5__6__5__.3_  3_5_4_2_1___
+    5__6__5__.1_  354_2_2_1___
+    2_2_2_3_4__.2_  3__1__0__0__
+    2_2_2_3_4__.2_  3__1__0__5__
+    5___^__2__  3b__1__0___ //]
+BEM[]
+
+DWOK22
+CUT[Kołaczu kołaczu kto na Ciebie orał]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 50]
+FKT[]
+SIG[2204800000]
+KEY[22048   08  G 4/4]
+MEL[1-7b134_1_  21243_1_
+    4_312_1-6  1-7b354_3_
+    4_312_1-4  -5-7b354_2_ //]
+BEM[]
+
+DWOK22
+CUT[Oj potoczyła nadobna Kasieńka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 51]
+FKT[]
+SIG[2204900000]
+KEY[22049   08  G 4/4]
+MEL[5_6_4_2_  35312_-5_  5_654_2_  3___
+    5_654321  35312_-5_  55654321  3___ //]
+BEM[]
+
+DWOK22
+CUT[Już to po sprawie Kasieńku]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 52]
+FKT[]
+SIG[2205000000]
+KEY[22050   16  D 3/8]
+MEL[355_7b_  644_2_  4_3_5_  2_1__
+    -722_4_  353_1_  2_3_5_  2_1__
+    -722_2_  353_1_  243_5_  2_1__ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Taniec]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 53]
+FKT[]
+SIG[2205200000]
+KEY[22052   16  D 2/4]
+MEL[+1__+2_+1_  7b_6_+1__  7b_6_5_4_  6__1__
+    6__5__  +1__7b_6_  5__4__
+    6__5_6_  7b_6_1__  4__4_6_  7b_6_1__
+    6__5_6_  7b_6_1__  4_1_4_6_  7b_6_1__ //]
+BEM[]
+
+DWOK22
+CUT[Pod borem sośnia gorzała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 53]
+FKT[]
+SIG[2205300000]
+KEY[22053   08  G 3/4]
+MEL[-5_-5_1_  3_2_1_  365__
+    -5_-5_1_  3_2_1_  -721__
+    5_5_4_  3_2_1_  -724_.6
+    5_5_4_  3_2_1_  -721__ //]
+BEM[]
+
+DWOK22
+CUT[A wiernie ja Panu Bogu służyła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 53]
+FKT[]
+SIG[2205400000]
+KEY[22054   08  E 3/4]
+MEL[13b6b_6b_  46b5_1_  3b__7_  13b6b_5_  3b__-7_  1__.
+    13b6b_6b_  46b5_1_  3b__7_  13b6b_6b_  5__-7_  1__. //]
+BEM[]
+
+DWOK22
+CUT[Pierwsi kurzy piali]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 54]
+FKT[]
+SIG[2205500000]
+KEY[22055   16  G 3/4]
+MEL[1_2_3b__4__  5__1___
+    6b_.+1+1__7b_6b_  5__1___  6b_.+1+1__7b_6b_  5__1___
+    5__4_3b_2_1_  3b_2_-5___
+    2_3b_2__.-7_  1___6b__
+    5__4_3b_2_1_  3b_2_-5___
+    2_3b_2__.-7_  1___1__ //]
+BEM[]
+
+DWOK22
+CUT[Świeci miesiąc nad stodołą]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 57, od Łęczycy]
+FKT[]
+SIG[2205800000]
+KEY[22058   32  A 3/8]
+MEL[-7_.-7-5__-7__  1_2_4__3b__  2_-7_-5__5__  3b_.3b1__1__
+    -7_.-7-5__5__  (3b_2_1_)5__3b__  2_-7_-5__5__  3b_.3b1___ //]
+BEM[]
+
+DWOK22
+CUT[Przyśli my tu dzień dobry powiedzieć]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 61, Mazew]
+FKT[]
+SIG[2206100000]
+KEY[22061   16  A 3/8]
+MEL[1__2_  -7b_-5__  -712_-7_  1__1_
+    111_2_  -7b_-5__  -713b_2_  4_3b__ //]
+BEM[]
+
+DWOK22
+CUT[Chodził Jasio po ryneczku]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 62]
+FKT[]
+SIG[2206200000]
+KEY[22062   32  A 3/8]
+MEL[-7b__.5_4_3b_  2_2_4__1__  -7b__.5_4_3b_  2_2_-7b__1__
+    -5_.-5-5__-4__  2_2_4__1__  1_.-5-5__-4__  2_2_-7b__1__ //]
+BEM[]
+
+DWOK22
+CUT[Nieszczęśliwa godzinecka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 62, Rzętków]
+FKT[]
+SIG[2206300000]
+KEY[22063   16  A 3/8]
+MEL[245_7b_  6b54_1_  2_-7__  124_5_  2_-7__  1__0_
+    245_2_  454_1_  2_-7__  124_1_  2_-7__  1__0_ //]
+BEM[]
+
+DWOK22
+CUT[Usiadła Marysia na białym kamieniu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 62, Mazew]
+FKT[]
+SIG[2206400001]
+KEY[22064   16  A 3/8]
+MEL[1-71_3b_  5_5__  245_3b2  1_-7__
+    1-71_2_  4_4__  -5-71_3b2  1__1_ //]
+BEM[]
+
+DWOK22
+CUT[Usiadła Marysia na białym kamieniu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 62, Mazew]
+FKT[]
+SIG[2206400002]
+KEY[22064   16  A 3/8]
+MEL[123b_4_  5_5__  245_3b2  1_-5__
+    1-71_2_  4_5__  2-71_3b2  1__1_ //]
+BEM[]
+
+DWOK22
+CUT[Ślicnie grano pięknie grano]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 64, Rzętków]
+FKT[]
+SIG[2206800000]
+KEY[22068   08  C 2/4]
+MEL[5+1+1+1  7665  5+1+1+3  +2__
+    +3+3+2+1  7665  6567  +1__ //]
+BEM[]
+
+DWOK22
+CUT[Skoro raniusieńko skowronecek śpiewa]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 65]
+FKT[]
+SIG[2207000000]
+KEY[22070   16  C 3/8]
+MEL[+17+1_+2_  7_5__  7+1+3_+2_  +5_+3__
+    +4+3+1_+2_  +175__  567_+2_  +1__+1_ //]
+BEM[]
+
+DWOK22
+CUT[Wysedem ja na pólecko]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 66]
+FKT[]
+SIG[2207100000]
+KEY[22071   32  C 3/8]
+MEL[7_+2_+2__7__  +2_+4+3+2__.+3_  5_7_+1__+2_7_  +1_+176__.7_
+    5_7_+1__+2_7_  +1___0__
+    7_+2_+2__7__  +2_+4+3+2__.+3_  +1_7_+1__+2_7_  +1_+176__.7_
+    5_7_+1__+2_7_  +1___0__ //]
+BEM[]
+
+DWOK22
+CUT[W ogródecku jabłonecka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 66-67]
+FKT[]
+SIG[22072a0000]
+KEY[22072a  16  C 2/4]
+MEL[5_5_6_7_  +1_+1_+2_7_  6_6_5_7_  +1__0__
+    5_5_+1_+3_  +2_+1+2+3_+1_  6_6_5_7_  +1__0__
+    +5__+5__  +6_+4_+3_+2_  +4__+4__  +3_+2_+1_6_
+    7_6_5_5_  +1_+2_+3_+3_  +3_+3+4+1_7_  +1__0__ //]
+BEM[]
+
+DWOK22
+CUT[Siadajze siadaj moje kochanie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 67-68]
+FKT[]
+SIG[2207300000]
+KEY[22073   08  G 4/4]
+MEL[5_555_3_  5_434_2_  1_3_5_43  21-7_-6_-5_
+    -5_-6_1_-5_  1-72_3_1_  -51245_3_  21-721_1_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Marsz]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 68, Mazew]
+FKT[]
+SIG[2207500000]
+KEY[22075   08  C 4/4]
+MEL[+3_+5_+2_+4_  +1+1+35+1_+1_  +3+3+5+3+2+2+4+2  +1_+3_+1__
+    5_67+1_7+2  5567+1__  5_67+1_5_  5567+1__
+    +2_+2+2+3+2+17  +1_+1+1+2+176  57654#_3_  2___
+    +2_+2_+3_+1_  +1_+1_+2_7_  57654#_3_  2___
+    24#6_6_6_  6+17654#56  7+1+2+3+2+176  5___ //]
+BEM[]
+
+DWOK22
+CUT[Gotowała kapuścine]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 68]
+FKT[]
+SIG[2207600000]
+KEY[22076   16  A 3/8]
+MEL[1-7b2_.-7b  -54543b2  112_.2  24543b2
+    (124)5_+17  57+173b2  1_2_.2  24543b2 //]
+BEM[]
+
+DWOK22
+CUT[Kapuścina się urodziła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 69]
+FKT[]
+SIG[2207700000]
+KEY[22077   16  A 2/4]
+MEL[1_1_2_2_  3b_5_43b2_  1_3b_4_23b  1_-7__0_
+    1_1_2_2_  1_3b_4_2_  1_3b_4_23b  1_-7__0_ //]
+BEM[]
+
+DWOK22
+CUT[A już teraz panno młoda]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 69]
+FKT[]
+SIG[2207800000]
+KEY[22078   32  A 3/8]
+MEL[2_4_4__4__  5_3b21__3b_2_  1_5_-7___
+    -5_2_2__1_-7_  5_-7_1__2__  1_2_-7___ //]
+BEM[]
+
+DWOK22
+CUT[Zasiała ja grochu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 69, Rzątków, Mazew]
+FKT[]
+SIG[2207900000]
+KEY[22079   16  G 3/8]
+MEL[123_4_  5__6_  4__2_  345__
+    3__1_  2-71_0_
+    123_4_  5__6_  4__2_  345__
+    3__1_  2-71_0_ //]
+BEM[]
+
+DWOK22
+CUT[Dobry groch dobry groch]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 70, Rzątków]
+FKT[]
+SIG[2208000000]
+KEY[22080   16  G 3/8]
+MEL[5_5_6_  5_5_3_  4__2_  345__
+    3__1_  2-71_0_
+    123_4_  5__6_  4__2_  345__
+    3__1_  2-71_0_ //]
+BEM[]
+
+DWOK22
+CUT[A niechciała panna młoda]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 70]
+FKT[]
+SIG[2208100000]
+KEY[22081   16  G 2/4]
+MEL[1_2_3_4_  5_4_321_  4__2_-7_
+    1_2_3_4_  3_2_-7-6-5_  2__1_-7_
+    1_2_3_4_  5_6_432_  4_6_21-7_
+    1_2_3_4_  5_4_321_  2_3_1-7-5_ //]
+BEM[]
+
+DWOK22
+CUT[Kto wypije i wysiący]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 70]
+FKT[]
+SIG[2208200000]
+KEY[22082   16  G 3/8]
+MEL[-5-51_1_  2__-7_  2__1_
+    -5-51_1_  2__-7_  2__1_
+    -544_4_  3__1_  3_2__
+    323_4_  5__-7_  2_1__
+    5__3_  5__3_  554_2_  4__3_
+    -5-5-7_2_  113_3_  554_2_  4__3_
+    -5-5-7_2_  113_3_  554_2_  4__3_ //]
+BEM[]
+
+DWOK22
+CUT[Wiwat bratu memu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 70]
+FKT[]
+SIG[2208300010]
+KEY[22083   16  G 3/8]
+MEL[5__43  114_42  4_.35_  31-7_1_
+    2__-5_  -713_5_  4_.35_  31-7_1_ //]
+BEM[melodia wokalna]
+
+DWOK22
+CUT[Wiwat bratu memu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 70-71]
+FKT[]
+SIG[2208300020]
+KEY[22083   08  G 2/4]
+MEL[3555  654_  3555  654_
+    3333  344_  2222  555_
+    3333  3444  222_  1_1_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Wiwat skrzypka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 71]
+FKT[]
+SIG[2208400000]
+KEY[22084   16  G 2/4]
+MEL[3_5_+1_+1_  4_2_4_4_  2_3_4_4_  2_1_3_1_
+    3_5_+17+1_  4_2_434_  2_3_434_  2_1_345_
+    -5_1_-5_1_  4_2_2__  -5_3_565_  4_3_434_
+    -5_3_454_  5_3_1-71_  -5_3_4_4_  5_3_1__ //]
+BEM[]
+
+DWOK22
+CUT[Oj wyleź oj wyleź Kasiuniu moja]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 71, Mazew, Grabowo]
+FKT[]
+SIG[2208600000]
+KEY[22086   32  C 3/8]
+MEL[5__+1__.+2_  +3_+4_+3__+2__  +1_+2+3+1__7__  +1___.
+    5__+1__.+2_  +3_+4_+5__+3__  +4_+2_7__+2__  +1___.
+    5__+1__.3_  4_6_6__5__  5__+1__.3_  2_4_6__5__
+    5__+1__.+2_  +3_+4_+5__+3__  +4_+2_7__+2__  +1___0__ //]
+BEM[]
+
+DWOK22
+CUT[Trzebaby się pani matce skłonić]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 72]
+FKT[]
+SIG[2208700000]
+KEY[22087   16  G 3/8]
+MEL[131_1_  131_3_  542__
+    -724_4_  42-7_2_  231__
+    133_3_  (313)5_31  546__
+    -724_4_  (464)2_(2-72)  431__
+    3_1_-6-4  -5-71365  3_1_-6-4  -5-72-71_
+    3_1_-6-4  -5-71365  3_1_-6-4  -5-72-71_ //]
+BEM[]
+
+DWOK22
+CUT[Da o co ci idzie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 72, Sobota]
+FKT[]
+SIG[2208800000]
+KEY[22088   16  G 3/8]
+MEL[1-7b-6_-7b_  5__2_  4_.3b21  1-7b-6_-7b_
+    2_.143b  1-7b-6_-7b_  5_4_2_  1_0_2_
+    1_-7b__  -5-4-6_-7b_  1-7b-6_-7b_
+    1_-7b__  -5_-6_-7b2  1-7b-6_-7b_ //]
+BEM[]
+
+DWOK22
+CUT[Posła dziewcyna na czarne jagody]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 73]
+FKT[]
+SIG[2209100000]
+KEY[22091   08  A 3/4]
+MEL[5_3b_4_  5__4_  3b21_2_  7_-5__
+    11123b1  4443b21  55423b2  12-7_-5_
+    11123b1  4443b21  5_423b_  1_-7_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Przeleciały ptaski]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 74]
+FKT[]
+SIG[2209300000]
+KEY[22093   16  C 3/8]
+MEL[+1+2+4_+3_  +175__  567_+1_  +2+3+5__
+    +3+2+4_+3_  +2_+1_7_  +1__0_
+    +1+2+4_+3_  +175__  567_+1_  +2+3+5__
+    +1+2+4_+3_  +2__7_  +1__0_ //]
+BEM[]
+
+DWOK22
+CUT[Przeleciał ptasek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 74-75, od Grabowa]
+FKT[]
+SIG[2209400000]
+KEY[22094   32  A 3/8]
+MEL[6__5__4__  5__.4_4_2_  1_3b_5__4_2_  1___-7_-5_
+    -5_4_4__4__  5__.4_4_2_  2___.  1___0__
+    6__5__4__  5__.4_(4_3b_2_)  1_3b_5__(4_3b_2_)  1__.-7_(^_-6_-5_)
+    -5_4_4__4__  5__.4_43b21  2__.-7_^__  1___0__ //]
+BEM[]
+
+DWOK22
+CUT[A gdzież to jedziesz Jasiu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 76]
+FKT[]
+SIG[2209600000]
+KEY[22096   32  G 3/8]
+MEL[-5_-7_1__3__  2_5_3__1_-7_  -5_-7_1__4__  2-72_3__1_-7_
+    -7__1__3__  2_5_3__1__  -7__1__4__  2_2_3__1__ //]
+BEM[]
+
+DWOK22
+CUT[Chłopcęta chłopcęta ja wasa dziewcyna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 75]
+FKT[]
+SIG[2209700000]
+KEY[22097   32  A 3/8]
+MEL[-7b_2_4__4__  5___1__  2___-7b__  -6_1_-7b_-6_-5__
+    -5_-724__7b__  1___1__  2___-7b__  -6_1_-7b_-6_-5__ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-skrzypek do oczepin]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 53, Mazew]
+FKT[]
+SIG[2209800000]
+KEY[22098   16  D 3/4]
+MEL[4_3_4_5_+1__  +1_7_5_7_+1__  +1_654__^_32  1__0__0__
+    4_3_4_5_6_+17  1__^_234__  5_654___  3__0__0__
+    4_3_4_5_+1__  +1_7_5_7_+1__  +1_654__^_32  1__0__0__
+    4_3_4_5_6_+17  1__^_234__  5_654___  3__0__0__ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-gdy już oczepili]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 76]
+FKT[]
+SIG[2209900000]
+KEY[22099   16  G 4/4]
+MEL[2_3_4__5__5__  2_3_4__5__5__  4_5__4_3_2_1__  2__.-7_1__0__
+    2__4__5__4__  2_-7_1___.  2_3_4__5__1__  2__.1-71__0__ //]
+BEM[]
+
+DWOK22
+CUT[A przede dworem zielona murawka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 76, Grabów]
+FKT[]
+SIG[2210000000]
+KEY[22100   16  A 3/8]
+MEL[1_3b_4_  5__5_  43b2_1_  -7_-5__
+    -7__2_  4__54  3b21_-7_  1__1_ //]
+BEM[]
+
+DWOK22
+CUT[A pojąnem sobie nieprzepłaconą]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 77, Rzętków]
+FKT[]
+SIG[2210300010]
+KEY[22103   16  G 3/4]
+MEL[1_345_.4#5_.4#  2_4_6_7_6_5_  1_345_.4#5_.4#  2_-7_1_2_-7_-5_
+    1_345_.4#5_.4  -5_-6-71__-5__ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[A pojąnem sobie nieprzepłaconą]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 77, Rzętków]
+FKT[]
+SIG[2210300020]
+KEY[22103   16  G 3/4]
+MEL[1_345_4_6_4_  2_4_6_7_6__  1_345_4_6_4_  2_-7_1_341__
+    1_3_5_4_6_4_  2_-7_-5_-5_4__  1_3_5_4_6_4_  2_-7_1_341__
+    -5_-7_1_1_2_3_  2_2_1_341__  -5_-7_1_1_2_3_  2_-7_-5_-5_1__ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 77-78, Mazew]
+FKT[]
+SIG[2210400000]
+KEY[22104   32  D 3/4 2/4]
+MEL[1__6_7b_+2__+3__+2__+1__  6__6_6_5__6_7b_+1__+1_5_
+    1__6_7b_+2__+3__+2__+1__  6___5__4_3_0___
+    1___4__5_6_+1__+2__  +1__7__+2__+3__+2__+1___
+    1___6__5_6_+1__+2__  +1__7_5_6__6_5_0___
+    1___4__4_5_+1__+2__  +1__6_+1_+1__6__
+    1___4__6_7b_+1__+2__  +1__7_5_4__4_10
+    1___4__4_7b_+1__7b_6_  5__4_3_6__7_+1_
+    1___4__6_7b_+1__7b_6_  5__5_1_4__4_10
+    1___4__4_5_+1__+2__  +1__6_+1_+1__6__
+    1___4__6_7b_+1__+2__  +1__7_5_4__4_10
+    1___4__4_7b_+1__7b_6_  5__3_1_6__7_+1_
+    1___4__6_7b_+1__7b_6_  1__3_1_4__4_10 //]
+BEM[]
+
+DWOK22
+CUT[Już Bóg zapłać panie ojcze]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 78]
+FKT[]
+SIG[2210500000]
+KEY[22105   16  G 3/8]
+MEL[5__6_  7b_5__  5__1_  4_2__
+    123b_1_  4__1_  4_2__  5__1_  4_2__ //]
+BEM[]
+
+DWOK22
+CUT[Siadaj siadaj kochanie moje]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 79]
+FKT[]
+SIG[2210600000]
+KEY[22106   16  G 3/8]
+MEL[5_5_6_  7b65__  123b_4_  2__.
+    5__6_  7b_5__  123b_4_  2__.
+    123b_2_  454_3b2  123b_2_  445_3b2  123b_45  2__.
+    123b_2_  453b_2_  123b_2_  453b_2_  123b_4_  2__. //]
+BEM[]
+
+DWOK22
+CUT[Skoro rano świta]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 80, Mazew]
+FKT[]
+SIG[2210700000]
+KEY[22107   16  G 3/8]
+MEL[123_4_  5_31_.  642_3_  5_31_.
+    355_6_  453_1-5  -713_2-7  1__1_
+    353_5_  423_5_  -713_-7_  1__1_ //]
+BEM[]
+
+DWOK22
+CUT[Zielona sośnia gorzała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 80, Mazew]
+FKT[]
+SIG[2210800000]
+KEY[22108   16  G 3/8]
+MEL[-5_-7121  3__21  3_.234  5__.
+    -5_-712_  3__2_  3__4_  5__.
+    5_5_6_  4_4_42  123_4_  2_1-7-6-7
+    -5_-712_  3__2_  1__0_ //]
+BEM[]
+
+DWOK22
+CUT[Pod borem sośnia stojała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 80-81, Rzętków]
+FKT[]
+SIG[2210900000]
+KEY[22109   16 Bb 3/8]
+MEL[-5_-7_1_  2__1_  345__  -5_-7_1_  2__1_  -721__
+    3_5_6_  4_2_5_  321_1_  2_-7_-5_  5__-7_  1__0_ //]
+BEM[]
+
+DWOK22
+CUT[Przysyłała do mnie nadobna Kasieńka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 81]
+FKT[]
+SIG[2211000000]
+KEY[22110   08  G 4/4]
+MEL[1232432_  12345_3_  43253_2-7  1___
+    12323_2_  12345_3_  43253_2_  1___ //]
+BEM[]
+
+DWOK22
+CUT[Chociaż ci ja malusieńka drobna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 82]
+FKT[]
+SIG[2211200000]
+KEY[22112   16  A 3/8]
+MEL[2__4_  5__5_  3b21_2_  5_1__
+    2__4_  5__4_  3b21_-7_  1__1_
+    2__4_  5__4_  3b21_-7_  1__2_ //]
+BEM[]
+
+DWOK22
+CUT[Przed Michałem na dębie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 82]
+FKT[]
+SIG[2211300000]
+KEY[22113   16  C 3/8]
+MEL[55+1_+1_  +27+1__  +1+2+3_+3_  +4+2+3__
+    +1__6_  +2__5_  +1+2+3__  +1__6_  +2__5_  7+2+1__ //]
+BEM[]
+
+DWOK22
+CUT[U Michała na tyle]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 83]
+FKT[]
+SIG[2211400000]
+KEY[22114   16  A 3/8]
+MEL[123_5_  4_4_5_  3b23b_1_  2_2_-5_  5__-7_  1__0_ //]
+BEM[]
+
+DWOK22
+CUT[A jechałem do ni a śmigałem koni]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 84, Rzętków]
+FKT[]
+SIG[2211800000]
+KEY[22118   16  G 3/4]
+MEL[5_.43_4_5_6_  5_4#_5_6_2_3_  4_.32_3_4_6_  5_4_2__1__
+    -5_3_3_3_2_-7_  -5_3_3_3_2_1_  3_.54#_5_2_4_  3_2_-7__1__ //]
+BEM[]
+
+DWOK22
+CUT[Niewola nas ożeniła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 84, Mazew]
+FKT[]
+SIG[2211900000]
+KEY[22119   16  G 3/8]
+MEL[124_6_  65321_  463_-7_  1__.
+    121_3_  45321_  324_32  1__.
+    124_4_  456_1_  324_32  1__. //]
+BEM[]
+
+DWOK22
+CUT[Mojej babuleńce nie poradzi]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 85]
+FKT[]
+SIG[2212000000]
+KEY[22120   16  G 2/4]
+MEL[12345_3_  4_4_432_  12345_+1_  4_5_432_
+    4_4_3_5_  2_2_1_3_  4_4_3_5_  2_2_1_3_
+    12345_3_  4_4_4__  12345_5_  6_6_7b_1_ //]
+BEM[]
+
+DWOK22
+CUT[Kiedy będzie słońce i pogoda]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 86, od Łęczycy]
+FKT[]
+SIG[2212100000]
+KEY[22121   16  A 3/4]
+MEL[5_.51__+1__  6b_5_4_4_3b_2_  3b_.51__+1__  6b_5_4_4_3b_2_
+    1_.3b-5__5_3b_  1_3b_5_3b_2_1_  -5__-5__-7_2_  1_3b_1__1__ //]
+BEM[]
+
+DWOK22
+CUT[Słońce słońce słońce i pogoda]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 86, od Gostynina (Sierakówek)]
+FKT[]
+SIG[2212200000]
+KEY[22122   16  C 3/4]
+MEL[5_.5+1__+2__  +1_.+3+3_+5_+4_+2_  5_.5+1__+2__  +1_.+3+1_+5_+4_+2_
+    +1_.+3+1__+2__  5_.55_+4_+2_7_  +1_.+3+1__6__  5_.55_7_+2_1_ //]
+BEM[]
+
+DWOK22
+CUT[Przyjechał przyjechał przed moje wrota]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 86, od Piątku]
+FKT[]
+SIG[2212300000]
+KEY[22123   08  D 2/4]
+MEL[+1_+27  +1_+27  7b_56  431_
+    1355  1355  7b7b56  431_
+    +1_+27  +1_+27  7b_56  431_
+    135_  135_  7b_56  431_ //]
+BEM[]
+
+DWOK22
+CUT[A wyjrzyjze pacholiku za ten nowy dwór]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 87, od Dąbia (Tarnówka, Ladoródź)]
+FKT[]
+SIG[2212400000]
+KEY[22124   16  C 3/8]
+MEL[+1+2+3_.+2  +4+3+2_.+1  7+26_7_  5__0_
+    67+1_.+1  7+2+1_.+1  7+2+2_+3_  +1__0_ //]
+BEM[]
+
+DWOK22
+CUT[Przyjechał Jasieńko przed moje wrota]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 87, od Kłodawy]
+FKT[]
+SIG[2212500000]
+KEY[22125   16  C 3/8]
+MEL[5+1+3_.+1  +275__  7+2+4_.+2  +1__.
+    5+1+3_.+1  +277_5_  7+2+4_.+2  +1__. //]
+BEM[]
+
+DWOK22
+CUT[Abo mi to trudna żona]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 88, od Kłodawy (Borysławice)]
+FKT[]
+SIG[2212600000]
+KEY[22126   16  C 3/8]
+MEL[5+1+3_.+2  +17+2_5_  57+2_.+1  757_+1_
+    535_.3  535_5_  57+2_.+1  757_+1_ //]
+BEM[]
+
+DWOK22
+CUT[Wyjrzyj ino chłopysiu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 88, od Łęczycy (Mazew)]
+FKT[]
+SIG[2212700000]
+KEY[22127   08  E 2/4]
+MEL[5575  55+15  5524  5_5-7  5575  5_+1_  5524  5_-7_
+    123b4  5524  5523b  1_2-7  123b4  5654  5523b  1_1_ //]
+BEM[]
+
+DWOK22
+CUT[Wyjrzyjże przede dwór]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 89, od Piątku]
+FKT[]
+SIG[2212800000]
+KEY[22128   16  A 3/8]
+MEL[1_4_32  5_2__  5_4_23b  1_-7__
+    1_4_32  1_2__  1_4_23b  1_-7__ //]
+BEM[]
+
+DWOK22
+CUT[Oj lecie lecie słońce gorące]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 89, od Łęczycy]
+FKT[]
+SIG[2212900000]
+KEY[22129   16  G 3/4]
+MEL[3_5_5_5_6__  4_4_4_2_-7__  1_3_3_3_1__  -4_-6_-6_1_-5__
+    1_3_3_531__  2_4_4_2-7-5__  1_3_3_3_1__  -4_-6_-6_1_-5__ //]
+BEM[]
+
+DWOK22
+CUT[Oj siano siano pod sianem woda]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 89, od Grabowa (Pieczew)]
+FKT[]
+SIG[2213000000]
+KEY[22130   16  G 3/4]
+MEL[4_6_5_4_3_1_  -7__1_235_2_  4_6_5_4_3_1_  1_-712_-7_-5__
+    1_3_4_2_3__  2__1_235_2_  1_3_4_2_3_1_  -7_1_2_-7_-5__ //]
+BEM[]
+
+DWOK22
+CUT[A żebyś mnie ty dziewulo chciała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 90, od Krośniewic (Miłonice)]
+FKT[]
+SIG[2213100000]
+KEY[22131   16  G 3/4]
+MEL[4_6_5_4_3__  2_-7_1_235_2_  4_6_5_4_3__  1_1_2_1_-7_-5_
+    1_1_2_4_3__  1_3_2_2_1_3_  1_1_2_4_3__  1_1_2_1_-7_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Za stodołą bylicka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 90, od Kłodawy (Borysławice)]
+FKT[]
+SIG[2213200000]
+KEY[22132   16  G 3/8]
+MEL[123_5_  4_6_1-7  123_5_  4_2_-5_
+    123_1-7  -6_-5_4_  253_1-7  -6_2_-5_
+    123_5_  4_6_-7_  123_5_  4_2_-5_
+    123_1_  -6_-5_4_  253_1_  -6_2_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Jedzie Jasio od Torunia]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 90, od Grzegorzewa]
+FKT[]
+SIG[2213300000]
+KEY[22133   32  A 3/8]
+MEL[1_1_3b__4__  5_.53b__1__  -7_.-7-7__2_3b_  1__1__3b_2_
+    -7_.-7-7__2_3b_  1___0__
+    5_5_3b__4__  5_.53b__1__  -7_.-7-7__2_3b_  1__1__3b_2_
+    -7_.-7-7__2_3b_  1___0__ //]
+BEM[]
+
+DWOK22
+CUT[Zielona rutka jałowiec]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 91, od Piątku i Bielaw]
+FKT[]
+SIG[2213400000]
+KEY[22134   08  G 4/4]
+MEL[1_134_2_  4_431_0_  4_46+1_6_
+    4_435_31  35564_2-7  1_131_0_ //]
+BEM[]
+
+DWOK22
+CUT[Zielona ruta jałowiec]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 91, od Gombina (Czermno)]
+FKT[]
+SIG[2213500000]
+KEY[22135   08  G 4/4]
+MEL[135_6_2_  4_2_-7__  131_4_2_  -7_-5_1__ //]
+BEM[]
+
+DWOK22
+CUT[Z tamtej strony zielonego dwora]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 91, od Dąbia (Umienie)]
+FKT[]
+SIG[2213600001]
+KEY[22136   16  G 3/8]
+MEL[135_5_  543_5_  4_2__  543_5_  542__
+    4__2_  -7__2_  5__+1_  6_.543  234_.-7  211_0_ //]
+BEM[]
+
+DWOK22
+CUT[Z tamtej strony zielonego dwora]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 91, od Dąbia (Umienie)]
+FKT[]
+SIG[2213600002]
+KEY[22136   32  G 3/8]
+MEL[1_3_5__5__  5_4_3__5__  4__2___  5_4_3__5__  5_4_2___
+    4___2__  1-76-7-5___  5___+1__  6___6543  2_3_4__.-7_  2_1_1__0__ //]
+BEM[]
+
+DWOK22
+CUT[Przede dworem zielona murawa]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 92, od Gostynina (Sierakówek)]
+FKT[]
+SIG[2213700000]
+KEY[22137   16  A 3/8]
+MEL[1_3b__  5__(6b55)  3b21_1_  -7_-5__
+    -7-5-7_2_  4__4_  3b21_3b_  5__-5_
+    -7__2_  4__4_  3b21_-7_  1__1_ //]
+BEM[]
+
+DWOK22
+CUT[W mym ogródku listki padają]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 94, od Piątku]
+FKT[]
+SIG[2214000000]
+KEY[22140   16  G 3/8]
+MEL[5_7b_6_  7b_5__  3b_1_2_  3b_2__
+    4_1_1-7  123b_5_  4_1_1-7  123b_5_
+    4_7b_7b_  5__4_  4_1_2_  3b_2__ //]
+BEM[]
+
+DWOK22
+CUT[W gaju gajiku liście padają]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 95, od Parzęczewa (Chrząstków)]
+FKT[]
+SIG[2214100000]
+KEY[22141   16  A 3/8]
+MEL[-5_-7_2_  5__4_  3b_2_1_  2_-5__
+    -5_-7_2_  5__4_  3b_2_1_  2_1__
+    2__1_  -712_5_  2__1_  -712_-5_
+    2_2_2_  5__4_  3b_2_1_  2_1__
+    2_-7_2_  5__4_  3b_2_1_  2_1__ //]
+BEM[]
+
+DWOK22
+CUT[W zielonym gaju liście padają]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 95, Łęczyca]
+FKT[]
+SIG[2214200000]
+KEY[22142   08  F 6/8]
+MEL[135+1_6  6534_2
+    1356_2  323432
+    5_42_4  3_5+1_3
+    5432_4  6543_1 //]
+BEM[]
+
+DWOK22
+CUT[Zachowaj mnie Boże w tym takowym roku]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 95, od Kutna, Gostynina]
+FKT[]
+SIG[2214300000]
+KEY[22143   16  A 3/8]
+MEL[3__4_  531_1_  2-7-5_-5_  4_3__
+    3__4_  531_1_  2-7-5_-5_  211__
+    553_1_  -724_4_  442_-7_  135_5_
+    311_6_  5__4_  312_2-5  1__1_ //]
+BEM[]
+
+DWOK22
+CUT[Hola hola matulu moja]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 96, od Łęczycy (Jarochów)]
+FKT[]
+SIG[2214400000]
+KEY[22144   16  F 3/8]
+MEL[5__3_  5__3_  434_6_  5__.
+    5__3_  5__3_  434_6_  2__.
+    135_5_  553_1_  1-71_3_  22-7_-5_  224_2-7  1__.
+    1-71_3_  22-7_-5_  1-71_3_  -62-7_-5_  224_2_  1__. //]
+BEM[]
+
+DWOK22
+CUT[Przy góreczce młyneczek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 96, od Gostynina (Sierakówek)]
+FKT[]
+SIG[2214500000]
+KEY[22145   08  A 2/4]
+MEL[123b2  1-71_  123b2  1-7-7-5
+    -7b-6b-5-4  -5_1_  -7-7-5_ //]
+BEM[]
+
+DWOK22
+CUT[Da uciekała po rowie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 97, od Piątku i Łowicza]
+FKT[]
+SIG[2214600000]
+KEY[22146   16  G 3/8]
+MEL[133_3_  6_.651  133_2_  3_.211
+    133_3_  3_.251  133_3_  3_.2-71 //]
+BEM[]
+
+DWOK22
+CUT[Wysła na polecko żytecko się kłosi]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 98, od Łęczycy (Jarochów)]
+FKT[]
+SIG[2214900000]
+KEY[22149   08  G 3/4]
+MEL[356_42  35542-7  -51-712-7  1332-7-5
+    243_1-7  -5-72-715  243_1-7  -5-72-71_ //]
+BEM[]
+
+DWOK22
+CUT[Było ci nie chodzic bez bór do kościoła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 98, od Gostynina (Sierakówek)]
+FKT[]
+SIG[2215000000]
+KEY[22150   16  A 3/4]
+MEL[-5-71__3b_5_2_  245__4_2_-7_  -5-71__2_3b_2_  3b21__2_1_-7_
+    -5-71__2_3b__  243b__2_1_-7_  -5-71__2_3b__  2_1__-5_-7_1_ //]
+BEM[]
+
+DWOK22
+CUT[Nie chodzić to było przez las]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 98, od Gostynina (Szczawin)]
+FKT[]
+SIG[2215100000]
+KEY[22151   16  A 3/4 3/8]
+MEL[-7b_1_2_3_4_5_  5_4_1__5__  5__.4_1__
+    -7b_1_2_3_4_5_  5_4_1__5__  -7b__.4_1__
+    -712_3_  4_6_5_  423135  4_.3(1-7-5)
+    -712_3_  4_4_3_  221_-6_  -7b_.-61_ //]
+BEM[]
+
+DWOK22
+CUT[Nie będzies Marychna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 99, od Krośniewic]
+FKT[]
+SIG[2215200000]
+KEY[22152   08  G 3/4]
+MEL[123565  4_322_  345_21
+    123135  6_431_  31-7_-7-5 //]
+BEM[]
+
+DWOK22
+CUT[Jasiu Jasinecku nie jeździj mi tędy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 100, od Gostynina (Sierakówek)]
+FKT[]
+SIG[2215300000]
+KEY[22153   16  G 3/8]
+MEL[-724_3_  1_-6__  -724_3_  1_5__
+    356_4_  2_-7_-5_  -6-4-6_1_  -7_2_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Oj nikt temu nie krzyw]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 100, od Zgierza]
+FKT[]
+SIG[2215400000]
+KEY[22154   16  A 3/8]
+MEL[-5_.-713b  6b54_2_  -5_.-713b  224_-5_
+    -5_.-712  3b12_-5_  -6b_.-4-6b1  -7-72_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Z poniedziałku na święto]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 101, od Grzegorzewa (Wrząca)]
+FKT[]
+SIG[2215600000]
+KEY[22156   16  G 3/8]
+MEL[334_2-7  -5_5_1_  354_2-7  2_3_1_
+    355_67  +1+16_42  345__  345_67  +164_2-7  231__ //]
+BEM[]
+
+DWOK22
+CUT[Jeździłem ja we dnie i w nocy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 102, od Piątku]
+FKT[]
+SIG[2215700000]
+KEY[22157   32  G 6/8 3/8]
+MEL[1___3__5___3__  5__6__4__2___-7__
+    -5__-7__2__4___2__  4__5__4__3___1__
+    1_3_5__1__  3_4_5___  6_.65__3__  4_2_1___ //]
+BEM[]
+
+DWOK22
+CUT[Kiedym jechał od swoji dziewcyny]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 103, od Łęczycy(Mazew)]
+FKT[]
+SIG[2215800000]
+KEY[22158   16  A 3/4]
+MEL[1_3b45__.3b_  5_7b_7b_6b_5_4_  5_7b+17b_6b_5_6b5
+    5_6b_5__4_3b_  1_.11_3b_4_-7b_  1_23b4_3b_5__  3b_2_1___ //]
+BEM[]
+
+DWOK22
+CUT[W ciemnym lasku ptasek śpiewa]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 103]
+FKT[]
+SIG[2215900000]
+KEY[22159   16  G 3/8]
+MEL[465_32  4654#5_  643_5_  42211_
+    134_2_  4654#5_  443_5_  42211_ //]
+BEM[]
+
+DWOK22
+CUT[Są na boru syski]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 103, od Łodzi (Mileszki)]
+FKT[]
+SIG[2216000000]
+KEY[22160   16  G 3/8]
+MEL[124_3_  1_-5__  123_5_  6_2__
+    234_3_  2_-7__  -5__.  1_2__  5__.
+    234_3_  2_-7__  1__. //]
+BEM[]
+
+DWOK22
+CUT[Cztery lata wierniem służył]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 104, od Gostynina (Trębki, Skrzany)]
+FKT[]
+SIG[2216100000]
+KEY[22161   32  G 3/8]
+MEL[1_2_3__4__  5_.56__5__  5_.56__5__
+    5_.5+1_7_6__  5___.  5_.5+1__(+1_7_6_)  5___.
+    (5_6_7_)+1__.2_  3_4_6__5__  3_.34__2__  5___.
+    (5_6_7_)+1__.2_  3_4_6__5__  3_.34__(4_2_-7_)  1___. //]
+BEM[]
+
+DWOK22
+CUT[Rosa pada na koń siada]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 104, od Łodzi]
+FKT[]
+SIG[2216200000]
+KEY[22162   16  C 3/8]
+MEL[+3+3+4_+2_  +4+3+2_+1_  +3__+2_  +4+3+2_+1_
+    7+2+2_+3_  +166_5_  +1__7_  +2+37_+1_ //]
+BEM[]
+
+DWOK22
+CUT[Słońce siada rosa pada]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 105, Łęczyca (Mazew)]
+FKT[]
+SIG[2216400000]
+KEY[22164   08  A 2/4]
+MEL[123b3b  53b23b  557b5  4_3b2
+    123b3b  53b21  -7-7-5-7  1_-7-5 //]
+BEM[]
+
+DWOK22
+CUT[Parę koni Jasio miał]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 105, od Parzęczewa (Bełdew)]
+FKT[]
+SIG[2216500000]
+KEY[22165   16  G 3/8]
+MEL[123_4_  5_2__  1__0_
+    345_7_  654_.1  3_-5__  124_1_  3_-7__  1__0_ //]
+BEM[]
+
+DWOK22
+CUT[Szyroka woda na Wisle]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 106, od Kłodawy (Rdułtów)]
+FKT[]
+SIG[2216700000]
+KEY[22167   08  G 3/4]
+MEL[5_6535  542__  3_3246  54#5__
+    133246  54#562-7  133246  54#562-7
+    1_3_2_  1-71__ //]
+BEM[]
+
+DWOK22
+CUT[A on konia poji]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 106, od Zgierza, Lucimierz]
+FKT[]
+SIG[2216800000]
+KEY[22168   16  C 3/8]
+MEL[+1+2+3_+1_  +2_75^_  -5-67_+1_  +2_+3+5^_
+    +3+2+4_+3_  +2_7__  +1__.  755__  567_+1_  +2_+3_+1_ //]
+BEM[]
+
+DWOK22
+CUT[Coś ty Jasiu zrobił]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 107, od Łęczycy (Mazew)]
+FKT[]
+SIG[2216900000]
+KEY[22169   08  E 3/4]
+MEL[5757+17  5757+17  554_5_  3b3b1+1+17  554_5_  3b3b1_0_
+    13b3b3b24  13b3b3b24  13b4_5_  13b1+1+17  13b4_5_  13b1_0_ //]
+BEM[]
+
+DWOK22
+CUT[Wiwat wiwat żem wygrała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 108, od Zgierza]
+FKT[]
+SIG[2217100000]
+KEY[22171   16  C 2/4]
+MEL[+1_+1_+1_+1_  7_5_+4_.+2  +3_+1_+1_+1_  7_5_+4_.+3
+    +3_+1_+1_+1_  6_4_4_6_  5_5_5_7_  +1_+3_+1_+1_ //]
+BEM[]
+
+DWOK22
+CUT[Bieżące wody między ogrody]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 108, od Brzezin, Będkowa]
+FKT[]
+SIG[2217200000]
+KEY[22172   16  F 3/8]
+MEL[+1_+3_+1_  5__4_  3_1_3_  2_1__
+    2_4_.2  431__  3_5_.3  542__
+    5_-5_.-7  2_1_3_  655_.-7  1__1_ //]
+BEM[Wariant t. 1 +3_+3_+1_; t. 2 5_6_4_]
+
+DWOK22
+CUT[Gdzie to panna idzies]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 109, od Dąbia (Karszewa)]
+FKT[]
+SIG[2217300000]
+KEY[22173   16  F 3/8]
+MEL[5_5_7+2  +1_6__  4_2_34  5_3__
+    2_2_24  113_5_  4_2_34  5_1__ //]
+BEM[]
+
+DWOK22
+CUT[Posła dziewcyna z dzbankiem na jagody]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 109, od Kutna (Sójki)]
+FKT[]
+SIG[2217400000]
+KEY[22174   08 Bb 2/4]
+MEL[5_56  5_-5_  1124  3_-6_
+    1124  3353  24-5-7  1_-5_
+    1124  3353  24-5-7  1_1_ //]
+BEM[]
+
+DWOK22
+CUT[Witajze witaj drogi koralu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 110, od Gostynina (Sierakówek)]
+FKT[]
+SIG[2217600000]
+KEY[22176   08  C 2/4]
+MEL[+3_+4+2  +1_5_  +3+5+4+2  +3_+5_
+    +3_+4+2  +1_5_  +17+27  5_1_ //]
+BEM[]
+
+DWOK22
+CUT[Wyszło trzech paniczow]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 111, od Dąbia (Karszew)]
+FKT[]
+SIG[2217700000]
+KEY[22177   08  F 2/4]
+MEL[35+1+1  6_5_  35+16  5_3_
+    5644  3322  35+1+1  5_+1_
+    5644  3322  35+1+1  1_1_ //]
+BEM[]
+
+DWOK22
+CUT[I wyjechał pan starosta]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 111, od Kutna (Orłów)]
+FKT[]
+SIG[2217800000]
+KEY[22178   08  G 2/4]
+MEL[4423  1-71-6  1-713  5_6_
+    4423  1-71-6  -6-6-72  1_1_ //]
+BEM[]
+
+DWOK22
+CUT[Wyjechał pan wyjechał pan z chartem]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 111, od Kutna (Orłów)]
+FKT[]
+SIG[2217900000]
+KEY[22179   16  A 2/4]
+MEL[5_5_4#_6_  4#_5_3b21_  5_5_4#_2_  5__2_1_
+    -7_2_2_2_  4#_5_3b21_  -7_2_-5_-7_  1__-7_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Oj i matulinka moja]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 111, od Grzegorzewa (Chojny)]
+FKT[]
+SIG[2218000000]
+KEY[22180   16  G 3/8]
+MEL[-713_5_  435_2_  213_5_  431_-5_
+    -713_-5_  431_-5_  -713_5_  431_-5_ //]
+BEM[Obertas]
+
+DWOK22
+CUT[Na stodole sowa siada]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 112, od Dąbia (Karszewo)]
+FKT[]
+SIG[2218100000]
+KEY[22181   16  G 3/8 2/4]
+MEL[123_3_  4__2_  5_3__  123_3_  2__-5_  -7_1__
+    123_3_  4__2_  5_3__  123_3_  2__-5_  -7_1__
+    3_1_4_3_  2_5_3_2_  3_1_4_3_  2_5_3_2_
+    123_5_  2__-5_  -7_1__ //]
+BEM[]
+
+DWOK22
+CUT[A w stodole sówka siada]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 112, od Kutna (Sójki)]
+FKT[]
+SIG[2218200000]
+KEY[22182   16  F 3/8]
+MEL[5_7_+1_  763_2_  123_2_  343_2_
+    123_1_  453_2_  123_2_  343_2_ //]
+BEM[]
+
+DWOK22
+CUT[Obiecywałeś mi na trzewiczki łożyć]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 112, od Piątku(Łazin, Orenice)]
+FKT[]
+SIG[2218300000]
+KEY[22183   16  G 3/8]
+MEL[133_5_  6_2__  467_5_  3_1__
+    133_4_  2_-5__  -722-723  1_1__ //]
+BEM[]
+
+DWOK22
+CUT[Nie wiecie wy panienecki]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 113, od Gostynina (Sierakówek)]
+FKT[]
+SIG[2218400000]
+KEY[22184   16  G 3/8]
+MEL[135_5_  556_4_  226_5_  3__.
+    135_5_  556_4_  226_5_  3__.
+    2_.432  13-7_1_  2_.432  13-7_1_
+    2-6-7_2_  1__0_ //]
+BEM[]
+
+DWOK22
+CUT[Posłuchajcie dziewcątecka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 113, od Zgierza (Szczawin)]
+FKT[]
+SIG[2218500000]
+KEY[22185   32  A 3/8]
+MEL[-7_1_3b__4__  5_5_4__5__  4_3b_2__3b__  1___.
+    -5_-713b__4__  5_5_4__5__  5_43b2__3b__  1___.
+    3b_1_-7__-5__  -7_1_2__4_3b_  5_3b_2__.1_  -7_1_2__4__
+    5_3b_2__3b__  1___0__ //]
+BEM[]
+
+DWOK22
+CUT[Nieszczęśliwy ten ganeczek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 115, od Brzezin (Mroga)]
+FKT[]
+SIG[2218600000]
+KEY[22186   32  A 3/8]
+MEL[1_.23b__3b__  2_3b_1__1__  2__-7___  1___.
+    1_.23b__3b__  2_3b_2__1__  2__-7___  1___.
+    -5_-5_1__1__  -7_-6_-7__-5__  -5__.-6_-7_1_  2_3_1__5__
+    -5_-5_1__1__  -7_1_2__-7__  -5__.-6_-7_1_  2_.21___ //]
+BEM[]
+
+DWOK22
+CUT[Nieszczęśliwy ten ganeczek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 115, od Gombina (Włoszczonów)]
+FKT[]
+SIG[2218700000]
+KEY[22187   16  A 3/8]
+MEL[123b_5_  43b2_1_  5__-7_  1__0_
+    123b_5_  43b2_1_  -72-5_-7_  1__0_
+    -5-6-7_1_  -513_5_  432_1_  5_5_5_
+    -5-7-7_1_  -513_5_  4__3b_  2_1__ //]
+BEM[]
+
+DWOK22
+CUT[Nieszczęśliwe te pokoje]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 116, od Łęczycy (Mazew)]
+FKT[]
+SIG[2218800000]
+KEY[22188   16  C 3/8]
+MEL[57+2_+2_  +3+2+1_+3_  +5__+4_  +3_+2_0_
+    57+2_+2_  +3+2+1_5_  6_.7+1+2  +37+1_0_
+    57+2_+2_  +2+27_5_  5_+4_+3_  +3+3+2__
+    55+4_+3_  +3+3+2_+4_  +4_.+2+3+1  57+1_0_ //]
+BEM[]
+
+DWOK22
+CUT[Świeci miesiąc na niebie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 116, od Gostynina, Gombina]
+FKT[]
+SIG[2218900000]
+KEY[22189   32  C 3/8]
+MEL[5_7_+1__+2__  +3_+3_+4___  +3___+1__  6___4__  5_7+1+2___
+    +3___+1__  6___4__  5_7_1___ //]
+BEM[]
+
+DWOK22
+CUT[Przede dworem w ulicy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 117, od Kutna (Sójki)]
+FKT[]
+SIG[2219000000]
+KEY[22190   08  C 2/4]
+MEL[557+1  +275_  +275_
+    +1+2+3+5  +4+3+2_  +4+3+2_
+    +1_+3_  +2_7_  57+1_ //]
+BEM[]
+
+DWOK22
+CUT[Przede dworem w ulicy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 117, od Parzęczewa (Dalików)]
+FKT[]
+SIG[2219100000]
+KEY[22191   08  F 2/4]
+MEL[1234  5_+1_  2__  6542  1_33  6542  1_33 //]
+BEM[]
+
+DWOK22
+CUT[W Warszawie na ulicy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 117, od Parzęczewa (Poddębie)]
+FKT[]
+SIG[2219200000]
+KEY[22192   08  F 2/4]
+MEL[5434  5_+1_  5_0_  35+17  6_4_  2_0_
+    5311  1_35  42-7-7  -7_24
+    35+13  4_2_  1_0_ //]
+BEM[]
+
+DWOK22
+CUT[Za krzewiną za lescyną]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 117-118, od Łęczycy (Mazew)]
+FKT[]
+SIG[2219300000]
+KEY[22193   16  F 3/8]
+MEL[556_4#_  556_4#_  556_4#_  5_2__
+    46+176_  5_3__  556_2_  4_3__
+    46+176_  5_3__  556_2_  3_1__
+    +1_7_6_  5__3_  6__5_  7_6__
+    +1_7_6_  5__3_  4_3_2_  3_1__
+    133_5_  133_5_  542_34  543__
+    542_4_  35+1_3_  542_34  321__ //]
+BEM[]
+
+DWOK22
+CUT[A tam na dolinie w tej gęstej krzewinie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 118, od Kutna (Kaszewy)]
+FKT[]
+SIG[2219400000]
+KEY[22194   16  C 3/8]
+MEL[555_5_  +3_+2__  +176_7_  +1+2+3__
+    555_5_  +3_+2__  +176_7_  +2_+1__
+    +3_.7(+2+17)  67+1_+2_  +3_.7(+2+17)  67+1_5_
+    557_+2_  +1+3+3_+3_  55+4_+2_  +4_+3__
+    557_+2_  +1+3+3_+3_  +4+46_7_  +2_+1__ //]
+BEM[]
+
+DWOK22
+CUT[W krzewinie w lescynie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 118-119, od Gostynina (Sierakówek)]
+FKT[]
+SIG[2219500000]
+KEY[22195   16  C 4/4]
+MEL[+1__7__+1___  +1__7__+1___
+    +1__+2__+3__+4__  +3_+3_+2_+2_+1__0__
+    6_6_5_6_7__5__  3_5_+1_7b_6_+2_+1__
+    6_7b65_6_7_2_5_4_  3_5_+1_3_4_^_4__ //]
+BEM[Po oczepinach przy tańcu zwanym Kowal]
+
+DWOK22
+CUT[W lescynie w gęstej krzewinie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 119, od Parzęczewa (Domaniew)]
+FKT[]
+SIG[2219600000]
+KEY[22196   08  C 4/4 2/4]
+MEL[+1_7_+1__  +1+177+1__
+    +1765_65_  5_65  5567+1_0_
+    55+1+1+3+2+2_  +2755+4+3+3_
+    +2+1765_+4+2  5_+4+2  7567+1_0_ //]
+BEM[]
+
+DWOK22
+CUT[W krzewinie w lescynie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 119, od Gombina (Włoszczonów)]
+FKT[]
+SIG[2219700000]
+KEY[22197   08  C 4/4]
+MEL[+1_7_+1__  +1_7_+1__
+    +1_765_46  5_4_3__
+    5+1+1+1+1_7_  5+2+2+2+2_+1_
+    5+3+3+3+3_+4+2  +3+17+2+2_+1_ //]
+BEM[]
+
+DWOK22
+CUT[Poszła panna po wodę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 119, od Łęczycy (Topola)]
+FKT[]
+SIG[2219800000]
+KEY[22198   32  G 3/8]
+MEL[3_.55__6__  5_4#_5___  3_.55__6__  5_4#_5___
+    3_.55__4_3_  4___2__  3_.32__1_-7_  1___. //]
+BEM[]
+
+DWOK22
+CUT[Posła panna po wodę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 120, od Gostynina (Sierakówek)]
+FKT[]
+SIG[2219900000]
+KEY[22199   16  A 3/8]
+MEL[-511_1_  -7_-7_1_  -513_1_  2_-7_1_
+    -544_3_  5__.  -51-7_2_  1__.
+    -5-53_1_  -7-5-7_1_  -544_3_  21-7_1_
+    334_6_  5__.  -51-7_2_  1__. //]
+BEM[]
+
+DWOK22
+CUT[Kąpała się Kasia w morzu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 120, od Strykowa i Główna]
+FKT[]
+SIG[2220000000]
+KEY[22200   16 Bb 3/8]
+MEL[-5-71_2_  3_.542  3_.542
+    331_-6_  -5_.-724  331_-6_  -5_.-721 //]
+BEM[]
+
+DWOK22
+CUT[Kapała się Kasia w morzu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 120, od Łęczycy (Mazew)]
+FKT[]
+SIG[2220100001]
+KEY[22201   16  F 3/8]
+MEL[11+1_+1_  767_5_  6567+17  5_+1__
+    224_4_  323_1_  212342  1_+1_.7
+    224_4_  323_1_  212342  1_1__ //]
+BEM[]
+
+DWOK22
+CUT[Kapała się Kasia w morzu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 120, od Łęczycy (Mazew)]
+FKT[]
+SIG[2220100002]
+KEY[22201   16  F 3/8]
+MEL[11+1_+1_  7+27_5_  67+17+17  5_+1_.7
+    224_4_  323_1_  212342  1_+1_.7
+    224_4_  323_1_  212342  1_1__ //]
+BEM[]
+
+DWOK22
+CUT[U młynarza dolnego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 121, od Kutna, Gostynina (Sierakówek)]
+FKT[]
+SIG[2220300000]
+KEY[22203   08 Bb 2/4]
+MEL[-5-6-71  2_3_  1__  3234  5_6_  2__
+    5_3_  4_2_  351_  -72-5_
+    -7-7-7-7  1_-72  -7-7-7-7  1_2_  -5__ //]
+BEM[]
+
+DWOK22
+CUT[U młynarza Marcina]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 122-123, od Łęczycy (Mazew)]
+FKT[]
+SIG[2220400000]
+KEY[22204   32  C 3/8]
+MEL[5_5_+4__+2__  +1_6_5___  6_6_+1__6__  5_.43___
+    5_.+17_5_+1_+3_  +2_.+17_5_+1_+3_  +2_+2_+4__+2__  7_5_+1___ //]
+BEM[]
+
+DWOK22
+CUT[Moja córuś gdziezes była]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 123, od Łęczycy (Siedlce)]
+FKT[]
+SIG[2220600000]
+KEY[22206   16  G 3/8]
+MEL[133_3_  345_3_  322_2_  243_2_
+    1_-7_-6_  -5-72_43  1_-7_-6_  -5__0_ //]
+BEM[]
+
+DWOK22
+CUT[Marysieńku córusieńku]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 124, od Gostynina]
+FKT[]
+SIG[2220700000]
+KEY[22207   08  E 2/4]
+MEL[777+2  +17+14  666+1  6_5_
+    6_4_  6+16_  5456  5_1_ //]
+BEM[]
+
+DWOK22
+CUT[Zagrajże mi troskę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 124-125, od Gombina (Włoszczonów)]
+FKT[]
+SIG[2220800000]
+KEY[22208   16  G 3/8]
+MEL[576_5_  4__1_  254_1_  -7__1_
+    324_1_  2__5_  324_1_  -7__1_
+    324_1_  254125  324_1_  -7-5-7-5-71 //]
+BEM[]
+
+DWOK22
+CUT[Z tamtej strony jeziora]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 125, od Zgierza, Strykowa]
+FKT[]
+SIG[2220900000]
+KEY[22209   16  G 2/4]
+MEL[2_2_2_1_  4__5__  4___
+    5_6_7b_+1_  6__5__  2___
+    6__7b_6_  5_6_1__  2_4_5_4_  2_3_1__
+    2_3_4_5_  6__5434  2___
+    6__4_6_  5__1__  4__3_5_  2__1__
+    2_3_4_5_  6__5__  2___ //]
+BEM[Wariant w t. 5 6__5434]
+
+DWOK22
+CUT[Z tamtej strony jeziora]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 126, od Gombina (Włoszczonów)]
+FKT[]
+SIG[2221000001]
+KEY[22210   08  G 2/4]
+MEL[4345  6_53  1__
+    46+16  5_3_  2__
+    6_46  5_1_  3354  2_1_
+    4345  6_53  2__ //]
+BEM[]
+
+DWOK22
+CUT[Z tamtej strony jeziora]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 126, od Gombina (Włoszczonów)]
+FKT[]
+SIG[2221000002]
+KEY[22210   16  G 2/4]
+MEL[4_3_4_5_  6__5_3_  1___
+    4_6_+1_6_  5__3__  2___
+    6__6_6_  5__1__  4_3_5_43  2__1__
+    4_3_4_5_  6__5_3_  2___ //]
+BEM[]
+
+DWOK22
+CUT[Z tamtej strony jeziora]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 126, od Łęczycy (Mazew)]
+FKT[]
+SIG[2221100001]
+KEY[22211   08  G 2/4]
+MEL[1234  5_5_  3__
+    5675  +1_6_  5__
+    +1_55  6_2_  4_+16  5_1_
+    2435  2_2_  1__ //]
+BEM[]
+
+DWOK22
+CUT[Z tamtej strony jeziora]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 126, od Łęczycy (Mazew)]
+FKT[]
+SIG[2221100002]
+KEY[22211   08  G 2/4]
+MEL[1234  5_6_  5__
+    5675  +1_64  5__
+    +1_55  6_42  4_+16  5_31
+    2435  4_2-7  1__ //]
+BEM[]
+
+DWOK22
+CUT[Z tamtej strony jeziora]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 126, od Gostynina (Białotarsk)]
+FKT[]
+SIG[2221200001]
+KEY[22212   08  G 3/4]
+MEL[114_5_  4_534_  567b_+1_  6_532_
+    6_6453  43(543)21  434_67b  6_532_ //]
+BEM[]
+
+DWOK22
+CUT[Z tamtej strony jeziora]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 126, od Gostynina (Białotarsk)]
+FKT[]
+SIG[2221200002]
+KEY[22212   08  G 3/4]
+MEL[114_(543)  4_(543)4_  567b_+1_  6_(543)2_
+    6_6453  43(543)23  434_67b  6_(543)2_ //]
+BEM[]
+
+DWOK22
+CUT[Z tamty strony jęziora]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 127, od Gostynina (Sierakówek)]
+FKT[]
+SIG[2221500000]
+KEY[22215   08 Bb 2/4]
+MEL[1356  5_33  2444  3_1_
+    1234  3233  -7122  1_1_
+    111-5  1_-5_  111-5  1_-5_
+    -5-5-51  3_5_  -7122  1_1_ //]
+BEM[]
+
+DWOK22
+CUT[Pogniewała się żona na męża]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 127, od Gombina (Szczawin)]
+FKT[]
+SIG[2221600000]
+KEY[22216   08  A 6/8]
+MEL[3b565_3b  4453b_1
+    3b5653b1  -7-5-71_-5
+    55653b1  -7-5-71_1 //]
+BEM[]
+
+DWOK22
+CUT[Za ogrodziskiem trząsła brodziskiem]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 128, od Gombina (Włoszczonów)]
+FKT[]
+SIG[2221700000]
+KEY[22217   16  G 3/8]
+MEL[2_2_4_  3_1__  313_5_  2_-5__
+    -722_4_  431_-6_  -6-4-6_1_  -7_2__
+    -722_4_  3_1__  -6_-6_1_  -7_-5__ //]
+BEM[]
+
+DWOK22
+CUT[Przysed do nij w poniedziałek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 128, od Łeczycy (Mazew)]
+FKT[]
+SIG[2221800000]
+KEY[22218   08  C 2/4]
+MEL[5+4+3+5  +3+2+1+1  5+4+3+5  +1_+1_
+    +1+17+2  7655  6+17+2  5_5_
+    +1_7+2  7655  6+17+2  7_5_ //]
+BEM[]
+
+DWOK22
+CUT[Pytam ci się moj mężu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 128, od Kutna (Kaszewy)]
+FKT[]
+SIG[2221900000]
+KEY[22219   16  G 3/8]
+MEL[133_5_  4_4_2_  1-72_-7_  1_-5__
+    133_5_  464_2_  1-72_-7_  1_-5__
+    21-7-6-7-5  133_5_  21-7-6-7-5  1_-5__
+    21-7-6-7-5  1_3_5_  21-7-6-7-5  1_-5__ //]
+BEM[]
+
+DWOK22
+CUT[A siano grabiła piasek wiązała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 129, od Kutna (Sójki)]
+FKT[]
+SIG[2222000000]
+KEY[22220   08  G 3/4]
+MEL[135564  35332_  135564  33221_
+    4_3322  13221_  4_3322  13421_
+    -5-5-6-5-7-5  13243_  -5-5-6-6-7-5  13221_ //]
+BEM[]
+
+DWOK22
+CUT[A wstajze synowa]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 130, od Kutna (Sójki)]
+FKT[]
+SIG[2222100000]
+KEY[22221   08  C 3/4]
+MEL[+4+2+3+4+5+3  +4+2+3+4+5+3
+    +5_+3+1+1_  +2+3+4_+2_  +5_+3_+1_  +2_+4_+2_ //]
+BEM[Chodzony po oczepinach]
+
+DWOK22
+CUT[Jechali panowie zrana na pole]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 131-132, od Łodzi (Mileszki)]
+FKT[]
+SIG[2222400001]
+KEY[22224   16  G 4/4]
+MEL[2_2_2_3_6__.4_  5__7b_654_2__0_
+    2_2_2_2_5__.2_  1__3_432_1__0_
+    2_4_6___^_5_  1_2__0_0___ //]
+BEM[]
+
+DWOK22
+CUT[Jechali panowie zrana na pole]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 131-132, od Łodzi (Mileszki)]
+FKT[]
+SIG[2222400002]
+KEY[22224   16  G 4/4]
+MEL[2__2_346__.4_  5_6_7b_654_2__0_
+    2__2_4_5__.2_  1_2_3_432_1__0_
+    2_4_6___^_5_  1_2__0_0___ //]
+BEM[]
+
+DWOK22
+CUT[U mej matki rodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 132, od Łęczycy(Mazew)]
+FKT[]
+SIG[2222500000]
+KEY[22225   08  G 2/4 3/4]
+MEL[117b6  554_  567b6  11-7b_
+    1_7b_.6  5_.346  5__3_  1_0_0_
+    1_7b_.6  5_.346  5__3_  1_0_0_ //]
+BEM[Wariant w t. 4: 221_]
+
+DWOK22
+CUT[Na Podolu biały kamień]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 133, od Ozórkowa]
+FKT[]
+SIG[2222600001]
+KEY[22226   16  G 3/8]
+MEL[5__6_  543__  5__4_  2_1__
+    4__4_  3_1__  2__2_  2_-7_-5_
+    123_1_  5_2__  3_2__  5_2__  4__3_  2_1__ //]
+BEM[]
+
+DWOK22
+CUT[Na Podolu biały kamień]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 133, od Ozórkowa]
+FKT[]
+SIG[2222600002]
+KEY[22226   16  G 3/8]
+MEL[5__6_  543__  5__4_  2_1__
+    4__4_  3_1__  2__2_  2_-7_-5_
+    123_1_  5_2_2_  323_1_  5_2_2_  5__4_  2_1__ //]
+BEM[]
+
+DWOK22
+CUT[Czego kalino w dole stoisz]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 134, od Łodzi, Zgierza]
+FKT[]
+SIG[2222900000]
+KEY[22229   08  G 3/8]
+MEL[355  53_  434  25_
+    313  42_  31_  -554
+    313  42_  31_  -51_ //]
+BEM[]
+
+DWOK22
+CUT[W Krakowie nie wsi]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 135, od Gostynina (Sierakówek)]
+FKT[]
+SIG[2223000000]
+KEY[22230   16  G 3/8]
+MEL[113_1_  5_5__  765_7_  +1_+1__
+    123_1_  5_5__  775_7_  +1_+1__
+    6_+1__  464_2_  5__1_  352_43  5__1_  352_4_
+    5__-5_  -7-5-7_1_ //]
+BEM[]
+
+DWOK22
+CUT[Gorzałeczka dobry trunek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 136, od Łęczycy (Topola)]
+FKT[]
+SIG[2223100000]
+KEY[22231   16  C 3/8]
+MEL[57+1_+1_  +1+3+3_+2+1  7+2+2_+2_  +2+4+4_+3+2
+    +1+17_57  +1__0_  +3+17_57  +1__+2+4 //]
+BEM[]
+
+DWOK22
+CUT[A moja kumulu zażyjcie tabaki]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 137, od Kłodawy (Sobótka)]
+FKT[]
+SIG[2223200000]
+KEY[22232   32  C 3/8]
+MEL[5_+1_7_+1_+2_7_  5_+1_7_+1_+3_+1_  +1_.+17_+1_+2_7_  5_+1_7_+1_+3_+1_
+    +3_+5_+4#__+5__  +2_7_+1___  +2_.+25__7__  +2_7_+1___ //]
+BEM[]
+
+DWOK22
+CUT[Idzie żołnierz borem lasem]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 137-138]
+FKT[]
+SIG[2223300000]
+KEY[22233   16  G 3/4 2/4]
+MEL[1_1_5__.3b_  5_5_+1_5_  5_5_+1_5_
+    4_4_5__3b_  1_1_4_2_  4_4_5__.1_  3_3_1__1__
+    1_1_5__.3b_  5_+1_6b_4_  5_5+16b_4_
+    4_4_5__.1_  3b_3b_4_21  4_46b5__.1_  3b_23b1__1__ //]
+BEM[]
+
+DWOK22
+CUT[Rozbujały się siwe łabędzie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 138, od Łęczycy (Mazew)]
+FKT[]
+SIG[2223500000]
+KEY[22235   08  G 4/4]
+MEL[4_456_.4  6_6+15357b  +165__0_
+    4_456_.4  31345_23  421__0_ //]
+BEM[]
+
+DWOK22
+CUT[Mam ja konika skarogodnego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 138, od Łęczycy (Topola)]
+FKT[]
+SIG[2223600000]
+KEY[22236   08  G 4/4]
+MEL[1_115_3_  15314_0_
+    1_7b7b6_4_  44+1+15_0_
+    5_+1+16_4_  46+1+15_1_
+    1_7b7b6_4_  17b534_0_
+    5_+1+16_4_  646+15_1_
+    1_7b7b6_4_  15314_0_ //]
+BEM[]
+
+DWOK22
+CUT[Oj u nasego pana]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 138, od Kutna (Trębki)]
+FKT[]
+SIG[2223700000]
+KEY[22237   32  G 3/8]
+MEL[1__3b__5__  4#_.56__5__  5__4#__5__  4_.3b1_-7_-5__
+    1__3b__-7__  1_3_5__2__  1__3b__2__  4_.3b1_-7_-5__ //]
+BEM[]
+
+DWOK22
+CUT[A kto chce rozkoszy użyć]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 139, od Łęczycy (Mazew)]
+FKT[]
+SIG[2223800000]
+KEY[22238   16  C 2/4]
+MEL[+1_+3_+3_+1_  +2_+2_+2_7_  +1_+3_+1_7_  6_7_+1_6_
+    5__+3__  +2_+2+2+1_+3_  5__+3__  +2_+2_+1__ //]
+BEM[]
+
+DWOK22
+CUT[A jak ci ja pojadę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 139, od Zgierza (Łagiewniki)]
+FKT[]
+SIG[2224000000]
+KEY[22240   16  A 2/4]
+MEL[1_2_-7_1_  2_3b45__  4_5_2_3b4  5_3b_1__
+    1_2_-7_1_  2_4_5__  4_5_2_4_  5_3b_1__ //]
+BEM[]
+
+DWOK22
+CUT[W polu lipka stoji]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 140, od Piątku]
+FKT[]
+SIG[2224100000]
+KEY[22241   08  G 2/4]
+MEL[1122  356_  4624  3_1_
+    11-6-6  -5531  -7-7-6-6  -5_-5_ //]
+BEM[]
+
+DWOK22
+CUT[W zielonym gajiku ptaszęta śpiewają]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 140, Łęczyca]
+FKT[]
+SIG[2224200000]
+KEY[22242   16  G 3/8]
+MEL[222_4_  433__  111_.3  342__
+    4__43  46+1_76  5+11_.3  211__ //]
+BEM[]
+
+DWOK22
+CUT[Pomalutku z sasierami]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 141, od Kutna (Żychlina)]
+FKT[]
+SIG[2224300000]
+KEY[22243   16  A 2/4]
+MEL[5_.65_4#_  5_2_3_4_  5_.65_4#_  5_2_1_1_
+    -5_1_7_2_  542_3_5_  1_3_5_.4  2_5_1_1_
+    -5_1_7_2_  542_3_5_  2_2_3_3_  542_1__ //]
+BEM[]
+
+DWOK22
+CUT[Siedzi bury zając pod miedzą]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 141, od Gostynina, Gombina]
+FKT[]
+SIG[2224400001]
+KEY[22244   16  G 2/4]
+MEL[12345_+1_  6_4_2__  4_4_3__
+    12345_+1_  634_2__  424_3__
+    33333343  22222232  2_6_5__  4_2_1__ //]
+BEM[]
+
+DWOK22
+CUT[Siedzi bury zając pod miedzą]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 141, od Gostynina, Gombina]
+FKT[]
+SIG[2224400002]
+KEY[22244   16  G 2/4]
+MEL[12345_+1_  6_4_2__  4_4_3__
+    12345_+1_  634_2__  424_3__
+    33333343  64422232  4+16_5_4_  422_1__ //]
+BEM[]
+
+DWOK22
+CUT[Idzie chmura od Krośniewic]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 143, od Łęczycy (Jarochów)]
+FKT[]
+SIG[22247a0000]
+KEY[22247a  32  G 3/8]
+MEL[2_4_4__6_7_  6_4_3__1__  3_5_6__.4_
+    2_4_2__6__  5_3_1__3__  2_342__.-5_
+    -5_.-5-5__-7_1_  (2_3_5_)7_6_5__  4__4_2_5__
+    -5__-5__-7_1_  (2_3_2_)1__-6__  2__1_-7_-5__ //]
+BEM[]
+
+DWOK22
+CUT[A czemuś się nie ożenił Bajtala]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 143, od Łęczycy, Dąbia]
+FKT[]
+SIG[22247b0000]
+KEY[22247b  32  G 3/8]
+MEL[3_5_5__+1__  6_432__3__  4_6_6__.5_
+    3_5_5__+1__  6_432__3_4_  5_2_-7__.1_
+    -7_-5_-5__-5__  5_4_2__3__  4__6__.5_
+    -7_-5_-5__-5__  5_4_2__3__  2__-7__.-5_ //]
+BEM[]
+
+DWOK22
+CUT[Przyjechali kupcykowie z Chełmna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 144, od Grabowa (Pieczew)]
+FKT[]
+SIG[2224900000]
+KEY[22249   32  G 3/8]
+MEL[(-7_-6_-7_)2__4__  (2_3_5_)6__4_3_  1__1__4_2_
+    -7_-7_2__4_3_  2_5_6__4_3_  1___-6_-5_
+    2_043_1_2_(676)  5_(676)2_4_3_1_  2_(676)5__(2_1_-7_)
+    2_043_1_(2_3_2_)  1-71-7(3_4_5_)2_04  3_1_(2_3_2_)1-71-7
+    2_043__2_6_  5_6_2__3__  2_6_5___
+    2_043__-5__  (1_-7_1_)3_5_2_04  3__-5__1_-7_ //]
+BEM[Weselna owczarska]
+
+DWOK22
+CUT[Nie wyganiaj owcarecku]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 144, od Gostynina (Sokołów)]
+FKT[]
+SIG[2225000000]
+KEY[22250   16  F 3/8]
+MEL[1_3246  57+1_.6  5_2146  532_1-7
+    3_2_46  532_5_  3_5246  532_1-7 //]
+BEM[]
+
+DWOK22
+CUT[A po boru gnał owcarek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 145, od Gostynina (Strzałki)]
+FKT[]
+SIG[2225300000]
+KEY[22253   32  G 3/8]
+MEL[1_2_3__5__  5_7_5__2__  5__.3_5_6_  5_7_5__2__
+    5__.3_5_6_  5_7_5_6_4__
+    1_2_3_4_5_6_  5_4_2_-7_-5__  3_3_1_2_-7__  5_.42_-7_-5__
+    3_.31__-7__  5_.42__-5__ //]
+BEM[]
+
+DWOK22
+CUT[Pu borowi gnał owcarek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 145, od Gombina (Włoszczonów)]
+FKT[]
+SIG[2225400000]
+KEY[22254   16  G 3/8]
+MEL[11-7b_2_  356_42  11-6_-7b_  -5-6b1_-7b_
+    11-7b_2_  235432  11-6_-7b_  -5-6b1_-7b_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 145, od Łęczycy (Tum)]
+FKT[]
+SIG[2225500000]
+KEY[22255   16  G 3/8]
+MEL[(-5-71)1_2_  (243)3_1_  (243)3_31
+    234234#  53212_  2_212_
+    24#676_  52542_  2_212_
+    -5_212_  -5_1-7-5_  -5_1-7-5_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Ku borowi gnal owcarek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 146, od Grzegorzewa]
+FKT[]
+SIG[2225600000]
+KEY[22256   16  G 3/8]
+MEL[123454  6+16_4_  (67b+1)7b64_
+    6_.454  (345)6_7b5  6_.454  353_1_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 146, od Kłodawy, Dąbrowic]
+FKT[]
+SIG[2225700000]
+KEY[22257   32  G 3/8]
+MEL[1_2_3_4_5_4_  5_7b_6_4_2__  5_7b_6_4_6_7b_  5_7b_6_4_2__
+    4_567b__5__  +1__6_4_2__  5_7b_+2_+3_+2_7b_  5_+1_6_4_2__
+    4_567b__5__  +1__6_4_2__  1_2_3_4_5_4_  1_3_2_-7b_-5__
+    1_3_2_-7b_2_3_  1__1_3_5__  1_3_2_-7b_2_3_  1_3_2_-7b_-5__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 146, od Ozórkowa]
+FKT[]
+SIG[2225800000]
+KEY[22258   16  G 3/8]
+MEL[1_3_5_  5_642_  57b+2+3+16  +2_642_  57b+2+3+26  +2+1642_
+    57b+2+3+26  2__.
+    13b2_5_  13b2-7b2_  13b23b5_  1_2-7b-5_
+    13b5653b  13b2-7b-5_  13b21(43b2)  1_2-7b-5_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 146, od Ozórkowa (Modlna)]
+FKT[]
+SIG[2225900000]
+KEY[22259   16  G 3/8]
+MEL[(135)+165_  6_+1_5_  +1_7_+2_  +1567+15  +1_+17+2_  +1567+13
+    4_2_3_  1_4_6_  4_423_  1_1346
+    4_-7b_2_  1_1346  42-7b_24  1_1_1_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Oj nie będe sie zenił]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 147, od Łęczycy (Mazew)]
+FKT[]
+SIG[2226000000]
+KEY[22260   16  A 3/4 3/8]
+MEL[5__5__5__  5_2_4__3b_2_  1__4__4__  4_2_5__3b_2_
+    1___5__  3b_2_1__5__  1___5__  4_2_3b__2__
+    1___5__  3b_2_1__5__  1___5__  4_2_3b__2__
+    11-7_1_  245_.2  11-7_1_  423b_.2
+    11-7_1_  245_.2  111_5_  423b_.2 //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Wolarek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 147, od Kutna (Sójki)]
+FKT[]
+SIG[2226100000]
+KEY[22261   32  G 3/8]
+MEL[1_2_4#_2_1__  -5_-7_1___  1_2_4#_2_1__  -5_-7_1___
+    4#_4#_2_5_4#_2_  1_-7_-5__5__  5_4#_2_5_4#_2_  1_-7_-5__1__
+    -5__1__-5__  2__(1_2_4#_)5__  -5__1__2__  2__4#__5__
+    5_4#_2_5_4#_2_  1_-7_-5__4#__  4#__2_5_4#_2_  1_-7_-5__1__
+    -5__-7__1__  -7_-7_1__-5__  2__2__2__  1__-71_.-71_.
+    5__7__+1__  7+1_.7+1_.5_3b_  2__2_-7_2_3b_  1__-71_.-71_.
+    2__2_-7_2_3b_  1__1_3_5_4#_  2__2_-7_2_3b_  1__1__1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Hala bysiu hala hala ha]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 147-148, od Łęczycy (Mazew)]
+FKT[]
+SIG[2226200000]
+KEY[22262   16  G 3/4 2/4]
+MEL[5__.3_5_1_  3__1-5_.^__  5___3__  5___.
+    3__.1_-5_1_  2__21__.^__  1_3_5__.1_  2_1_^___
+    1_2_3_4_5_3_  5__.3_1_3_  2_1_^___  1_3_5__.1_  2_1_^___
+    1__.2_3_4_  5__3___  5__.4_1_2_  3__1_
+    1__.2_3_4_  5__3___  5__.4_1_2_  3__1_
+    1_2_3_4_  5__.3_  5_4_1_2_  3__.-5_
+    1_2_3_4_  5__.4_  3_2_1_2_
+    3__.-5_  5__.1_  2_1_^__  5___  ^___ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Za wołami]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 148, od Łęczycy (Topola)]
+FKT[]
+SIG[2226300000]
+KEY[22263   32  G 3/8]
+MEL[5_5_5_  5__.5_5_5_  6_5_0___  4_3_2__5__  2_1_0__0__
+    5__.5_5_5_  6_5_0___  4_3_2__5__  2_3_1__0__
+    1_2_3_4_2_3_  1_-5_0___  1_2_3_4_5_6_  5___.  4_3_2__5__  2_3_1__0__
+    -5_-6_-7_1_2__  ^_1_4_3_2_1_  3_1_0__-5_-6_  -7_1_2__^_-7_  1__.-5_2_-7_
+    -5_-6_-7_1_2_1_  4_3_2_1_3_1_  -5_-6_-7_1_2_-7_  1__.-5_2_-7_
+    -5_-6_-7_1_2__  ^_1_4_3_2_1_  3_1-50___  5___1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Za co Maciek koze bije]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 148, od Zgierza]
+FKT[]
+SIG[22264a0000]
+KEY[22264a  32  G 3/8]
+MEL[5__4#_2_3_4#_  5_.56__5_4#_  5_.56__5_4#_
+    1_3_4_2_3__  1_-7_-5___
+    1__-7_-5_-6_-7_  1_.12__1_-7_  1_.12__1_-7_
+    1_3_4_2_3__  1_-7_-5___ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 149, od Dąbia (Ladoródz)]
+FKT[]
+SIG[22264b0000]
+KEY[22264b  16  G 3/8]
+MEL[5_.565  421_5_  1_3565  421_-6_
+    2_.-6-5-7b  2-7b-6_-7b_  -613_-5-7b  2-7-6_-5_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Pod borem na murawce]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 149, od Kłodawy (Sobótka)]
+FKT[]
+SIG[2226500000]
+KEY[22265   16  C 3/8]
+MEL[5_7_+1_  +2__5_  +1_+1_+3_
+    5_+4_+3_  +2__+17  +2_+1__
+    7_7_+27  +1_+1_+3+1  5_6_7_  +1_+1_+3_
+    5_+4_+3_  +2__+17  +2_+1__ //]
+BEM[]
+
+DWOK22
+CUT[Pod borem na murawce]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 149, od Krośniewic]
+FKT[]
+SIG[2226600000]
+KEY[22266   16  F 3/8]
+MEL[5_6_7_  +1_7_6_  5__46  5__31
+    135_67  +1__4_  5__.  5__3_
+    2_2_2_  3_3_1_  2_2_2_  5_5_5_ //]
+BEM[]
+
+DWOK22
+CUT[Sady wołek wyrykuje]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 149, od Łęczycy (Mazew)]
+FKT[]
+SIG[2226700000]
+KEY[22267   32  G 3/8]
+MEL[2_5_4#__5__  6_7_6__5__  4#_5_6__5_4#_
+    2_5_4#__5__  6_7_6__5__  4#_5_6__2_2_
+    1__2__2_1_  1__.2_4_4_  3__2___  1__.2_4_2_
+    3_3_2_4_2_-7_  1__.2_4_45  3__2_4_2_-7_  1__.2_4_23 //]
+BEM[]
+
+DWOK22
+CUT[Nasza Marynka robotna była]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 150, od Łęczycy, Kutna]
+FKT[]
+SIG[2226800000]
+KEY[22268   08  F 4/4]
+MEL[1_135_2_  4_335_2_  1-7135_2_  4_332_1_
+    +17655__  +17655__  32345_2_  4_3_3__
+    +1_5_5__  +1_5_5__  32345_2_  4_3_5__ //]
+BEM[]
+
+DWOK22
+CUT[Hajdyz ja Mazur sumno bogaty]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 150, od Parzęczewa]
+FKT[]
+SIG[2226900000]
+KEY[22269   16  G 3/8]
+MEL[1_1_3_  5__43  246_6_  5__.
+    1_1_3_  5__4_  22-6_-7-5  1__.
+    24-6_-7-5  113_5_  246_-7-5  113_53
+    24-6_-7-5  1_1_3_  22-6_-7-5  1__. //]
+BEM[]
+
+DWOK22
+CUT[Miałem ja pięć koszul]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 151, od Gostynina (Sierakówek)]
+FKT[]
+SIG[2227000000]
+KEY[22270   32  C 3/8]
+MEL[5_7_+1_+1_+1_+1_  +1_7_5_5_5_5_  5_7_+1_+1_+1__  +1_+175_5_5_5_
+    7_+1_+2__7__  +1_+2+3+4__+3__  +1_7+1+2__7__  +1_+2+3+4__+3__
+    +2_+1_+2__7__  +1_+3_+4__.+3_  +2_+1_+2__7__  +1___0__ //]
+BEM[]
+
+DWOK22
+CUT[Ojcu było Brach]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 152, od Łęczycy (Tum)]
+FKT[]
+SIG[2227100000]
+KEY[22271   16  G 3/8]
+MEL[132_3_  -7__.  132_3_  -7__.
+    132323  -7_-7__  132323  2-71__
+    354535  4__1_  354_5_  1__.
+    3_3__  3__1_  3_3_5_  3_2_1_  4_4_6_  5__1_
+    365_1_  465_1_  365_1_  465_1_
+    354535  4__1_  354_5_  1__. //]
+BEM[]
+
+DWOK22
+CUT[Słuzyłem u pana na pierse lato]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 153, od Gostynina]
+FKT[]
+SIG[2227200000]
+KEY[22272   08  G 2/4]
+MEL[1234  5_.4  3_42  1_-5_
+    1234  5_.4  3_42  1_-5_
+    3322  3_2_  3322  3_2_
+    1234  5_.4  3_42  3_42  312-7  1_1_ //]
+BEM[]
+
+DWOK22
+CUT[Miała babuleńka koziołka jednego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 154, od Łęczycy (Mazew)]
+FKT[]
+SIG[2227300001]
+KEY[22273   32  C 3/8]
+MEL[3_4_5__5__  +1__7__6__  5_6_7__+1__  5_6_4__.2_
+    3_4_5__5__  +1__7__6__  5_+1_7_6_7_+1_  5__4___
+    3_.45___  3_.45___  +1__5__5__  3_4_5___  +1__+1___
+    3_4_5__5__  +1__+1__+1__  3_4_5__5__  +1__+1__+3__
+    +2_7_5__7__  +1___+1__  +2_+1_7_5_7_+2_  +1___+3__ //]
+BEM[]
+
+DWOK22
+CUT[Miała babuleńka koziołka jednego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 154, od Łeczycy (Mazew)]
+FKT[]
+SIG[2227300002]
+KEY[22273   32  C 3/8]
+MEL[3_4_5__5__  +1__7__6__  5_6_7__+1__  5_6_4__.2_
+    3_4_5__5__  +1__7__6__  5_6_7__6__  5__4___
+    3_4_5___  3_.45___  +1__5__5__  3_4_5___  +1__+1___
+    3_4_5__5__  +1__+1__+1__  3_4_5__5__  +1__+1__+3__
+    +2_7_5__7__  +1___+1__  +2_+1_7_5_7_+2_  +1___+3__ //]
+BEM[wariant]
+
+DWOK22
+CUT[Była babuleńka rodu bogatego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 155, od Gostynina (Waliszew)]
+FKT[]
+SIG[2227400000]
+KEY[22274   16  G 3/8]
+MEL[123_4_  5_6__  424_6_  6_5__
+    123_4_  5_6__  432_12  3_1__
+    -712__  -7_2_2_  -712_2_  5_2_2_  322_2_
+    5_2_2_  321#_2_  1-7-6_-6_  -7_-5__  1-7-6_-6_  -7_-5__ //]
+BEM[]
+
+DWOK22
+CUT[Była babuleńka rodu bogatego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 155, od Zgierza, Brzezin]
+FKT[]
+SIG[2227500000]
+KEY[22275   16  G 3/8]
+MEL[123_4_  5_3__  432_3_  1_-5__
+    123_4_  6_5_3_  432123  1_-5__
+    +1_5__  1_-5__  345_5_  5_3_5_
+    432_2_  3_1_-5_  43232_  3_1_3_
+    43232_  3_1__  432_7_  +1_1_3_ //]
+BEM[]
+
+DWOK22
+CUT[A pójdę ja zrana do lasa]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 155-156, od Gostynina (Trębki)]
+FKT[]
+SIG[2227600000]
+KEY[22276   16  F 3/8]
+MEL[565_1_  123_6_  5_1_5_  565_1_  123_6_  5__5_
+    1_3_5_  (565)4_2_  5_3_1_  555_2_  5_3_1_  134_2_  1__0_ //]
+BEM[]
+
+DWOK22
+CUT[Ach pójdę ja z toporem do lasa]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 156]
+FKT[]
+SIG[2227700000]
+KEY[22277   08  G 2/4]
+MEL[5_56  5_1_  2233  4_6_  5342  1_0_
+    2213  4231  2213  4_35  2235  4_35  3342  1_0_ //]
+BEM[]
+
+DWOK22
+CUT[A w niedzielę rano]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 156, od Dąbia (Ladoródź)]
+FKT[]
+SIG[2227800000]
+KEY[22278   16  A 3/8]
+MEL[123b_4_  5_4#__  53b1_2_  -7_-5__  1_2__  (-712)1__
+    123b_4_  5_4#__  53b1_2_  -7_-5__  1_2__  -7_1__ //]
+BEM[]
+
+DWOK22
+CUT[Dziwne widły z grabiami]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 157, od Łęczycy (Mazew)]
+FKT[]
+SIG[2228000000]
+KEY[22280   16  A 2/4]
+MEL[1_5_4_3b2  1_5_-7__  1_5_4_3b2  1_1_-7__
+    1_2_4_2_  1_2_5__  1_2_4_3b2  1__-7__ //]
+BEM[]
+
+DWOK22
+CUT[A kędy jedziesz Macieju]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 157, od Łęczycy (Gieczno)]
+FKT[]
+SIG[2228100000]
+KEY[22281   08  G 3/4]
+MEL[133_13  5_.4#64#  5_.4#64#
+    54#5_53  1_.-721  0__. //]
+BEM[]
+
+DWOK22
+CUT[Kubaś Kubasiu gdzie jedziesz]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 159, od Łęczycy (Mazew)]
+FKT[]
+SIG[2228200000]
+KEY[22282   16  G 4/4]
+MEL[5__2_13_1_0__  2_3_4_.23_1_0__  0____
+    1_2_4_.21_2_4_.2  1_4__2_3_1_0__  0____ //]
+BEM[]
+
+DWOK22
+CUT[A w niedzielę z zarania]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 160, od Piątku (Orenice)]
+FKT[]
+SIG[2228400000]
+KEY[22283   08  G 3/4]
+MEL[135_5_  665_0_  443_5_  221356  221_0_ //]
+BEM[]
+
+DWOK22
+CUT[A w sobotę po obiedzie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 161, od Łęczycy (Mazew)]
+FKT[]
+SIG[2228500000]
+KEY[22285   08  G 3/4]
+MEL[1_3__  4#_5__  6_.54#_  5_2_0_
+    4__3_  5_.43_  2_2_0_  1_3__  2_1_0_ //]
+BEM[]
+
+DWOK22
+CUT[A w niedzielę po obiedzie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 161, od Kłodawy (Borysławice)]
+FKT[]
+SIG[2228600000]
+KEY[22286   16  G 3/8]
+MEL[1_3_4_  5__0_  6_433_  2__0_
+    4_3_5_  432_0_  1_3_.2  1__0_ //]
+BEM[]
+
+DWOK22
+CUT[Przyjechał ksiądz do chorego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 162, od Kłodawy (Dąbia)]
+FKT[]
+SIG[2228700000]
+KEY[22287   08  A 3/8]
+MEL[-5_1  -7-5_  1_2  54_  2_1  -7-5_  1_2  -71_ //]
+BEM[]
+
+DWOK22
+CUT[Trójca Bóg ojciec]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 165, Łęczyca]
+FKT[]
+SIG[2229100000]
+KEY[22291   08  A 4/4]
+MEL[1_3b__2_  3b_1__.  2_3b_1_-7_  1__2__
+    1_3b__2_  3b_1__.  2_3b_1_-7_  1__1_0_
+    3b_5__4_  5_3b__.  6b_5_4_.3  5_3__.
+    1_3b__2_  3b_1__.  2_3b_1_-7_  1__1_0_ //]
+BEM[]
+
+DWOK22
+CUT[Stała sią nam w Polsce trwoga]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 166, od Piątku (Bielaw)]
+FKT[]
+SIG[2229200000]
+KEY[22292   08  F 4/4]
+MEL[5_563_1_  5_54#2_.-7  22234_21  3_1__0_ //]
+BEM[]
+
+DWOK22
+CUT[Święty Łukasz anielista]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 168, od Łęczycy (Mazew)]
+FKT[]
+SIG[2229600001]
+KEY[22296   08  G 3/8]
+MEL[15_  32_  13_  210
+    55_  32_  13_  210
+    134  5_.  434  20_
+    334  5_.  534  20_
+    43_  5_3  13_  210 //]
+BEM[]
+
+DWOK22
+CUT[Święty Łukasz anielista]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 168, od Łęczycy (Mazew)]
+FKT[]
+SIG[2229600002]
+KEY[22296   16  G 3/8]
+MEL[1_5__  3_2__  1_3__  2_1_0_
+    5_5__  3_2__  1_3__  2_1_0_
+    1_3_4_  5__.  4_3_4_  2_0__
+    3_3_4_  5__.  5_3_4_  2_0__
+    4_4_3_  5__(323)  1_3__  2_1_0_ //]
+BEM[wariant]
+
+DWOK22
+CUT[Jasna nasza korona]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 169, od Łodzi, Pabianic]
+FKT[]
+SIG[2229800001]
+KEY[22298   08  A 3/4]
+MEL[-5-51_-7_  123b_.1  23b4_.3b  2_1__
+    3b_.211  -7b_.-5-41  1_.12-7b  -5__-5_ //]
+BEM[]
+
+DWOK22
+CUT[Jasna nasza korona]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 169, od Łodzi, Pabianic]
+FKT[]
+SIG[2229800002]
+KEY[22298   16  A 3/4]
+MEL[-5_-5_1__-7__  1_2_3b__.1_  2_3b_4__.3b_  2__1___
+    3b__.2_1_1_  -7b__.-6b-5-4_1_  1__.-712_-7b_  -5___-5__ //]
+BEM[wariant]
+
+DWOK22
+CUT[Święta była Dorota]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 170, od Łęczycy (Mazew)]
+FKT[]
+SIG[2229900000]
+KEY[22299   08  G 3/4]
+MEL[3_3_4_  5__6_  5_3_4_  2_0_0_
+    4__3_  5_3__  2_1_3_  1_0_0_
+    3_3_4_  5__6_  5_3_4_  2_0_0_
+    4__3_  5_3__  2_1_32  1_0_0_ //]
+BEM[]
+
+DWOK22
+CUT[O Maryja czysta Dziewica]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 171, od Kaźmierza nad Nerem]
+FKT[]
+SIG[22300a0000]
+KEY[22300a  08  G 4/4]
+MEL[3_2_1_-6  -6-5-6-71__
+    3_5_6_5_  3_4_3_1_  -6-5-6-5-6-71_
+    334_3_1_  2_3_1_-6_
+    2_3_1_-6_  2_-712_-5_  -6-5-6-5-6-71_ //]
+BEM[]
+
+DWOK22
+CUT[Witaj święta i poczęta]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 172, od Zgierza, Łagiewniki]
+FKT[]
+SIG[22300b0000]
+KEY[22300b  08  G 4/4]
+MEL[1_.-51_2_  3_.23_4_  5__4_3_  4_3_2__
+    1_.-51_2_  3_.23_4_  5__4_3_  4_3_2__
+    5_.43_5_  4_.34__  3_.45_3_  2_.12__
+    1_.-51_2_  3_.23_4_  5__4_3_  2__1__ //]
+BEM[]
+
+DWOK22
+CUT[O pełna litości matko łaskawości]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 172, Łagiewniki]
+FKT[]
+SIG[2230100000]
+KEY[22301   08  F 3/4]
+MEL[5_+1_34  542__  5_+1_56  542__
+    3_3324  5_5546  5_4_3_  3_2__
+    234343  43465_  234343  43465_
+    1_+1_6_  5_67+1_  6_432_  1__. //]
+BEM[]
+
+DWOK22
+CUT[Serdeczna Matko opiekunko ludzi]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 173, od Zgierza]
+FKT[]
+SIG[2230200001]
+KEY[22302   04  F 4/4]
+MEL[5  3+165  4364  320
+    5  3+165  4364  320
+    2  2342  3335  3205
+    3+165  6543  210 //]
+BEM[]
+
+DWOK22
+CUT[Serdeczna Matko opiekunko ludzi]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 173, od Zgierza]
+FKT[]
+SIG[2230200002]
+KEY[22302   08  F 4/4]
+MEL[5_  3_+176_5_  4_3_6543  3_2_0_
+    5_  3_+176_5_  4_3_6543  3_2_0_
+    2_  2_3_432_  3_3_3454  3_2_0_54
+    3_+176_5_  6_5_4_32  2_1_0_ //]
+BEM[wariant]
+
+DWOK22
+CUT[Boże niepojęty dziś Franciszek święty]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 173-174, Łagiewniki]
+FKT[]
+SIG[2230300000]
+KEY[22303   16  G 3/4]
+MEL[1_.-51_2_1_2_  3_.43_4_3_4_  5_5_6__4__  3__2__0__
+    1_.-51_2_1_2_  3_.43_4_3_4_  5_5_6__4__  3__2__0__
+    5__3_5_4_3_  4__2_4_3_2_  5__3_5_4_3_  4__2_4_3_2_
+    1___-5__  3___1__  5__4_3_2__  1___0__ //]
+BEM[]
+
+DWOK22
+CUT[Wielceś powinna Boska opatrzności]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 174, od Zgierza (Łagiewniki)]
+FKT[]
+SIG[2230500001]
+KEY[22305   08  G 3/4]
+MEL[1_111-5  133221  6_5431  -712-7-7-5
+    3_5_5_  434_0_  2_4_4_  323_0_
+    133221  166554  321_0_ //]
+BEM[]
+
+DWOK22
+CUT[Wielceś powinna Boska opatrzności]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 174, od Zgierza (Łagiewniki)]
+FKT[]
+SIG[2230500002]
+KEY[22305   16  G 3/4]
+MEL[1__1_1-71_-5_  1_3_3_212_1_  6__5_4_321_  -7_1_21-7-6-7_-5_
+    3_4_5__5__  4_3_4__0__  2_3_4_345_4_  3_2_3__0__
+    1_3_3_212_1_  1_6_6_5_564_  3_2-71__0__ //]
+BEM[wariant]
+
+DWOK22
+CUT[Jeżeli szukasz cudów Antoniego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 175, od Zgierza (Łagiewniki)]
+FKT[]
+SIG[2230600000]
+KEY[22306   16  F 4/4]
+MEL[1__3_4_5__.5_  6_7_+1_6_5__.3_  1__3_4_5__.5_  6_7_+1_6_5__.3_
+    5__3_5_4__2__  4__2_4_4_3_3__  1__3_5_+1_765__  3_3_4_2_2_1_1__
+    1_3_5_6_5__.3_  1_3_5_6_5__.3_
+    1__3__5_6_5__  6_7_+1_6_5__.3_  3_3_4_2_2__1__ //]
+BEM[]
+
+DWOK22
+CUT[Zaśpiewajmy nabożnie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 175, od Gostynina (Trębki)]
+FKT[]
+SIG[2230700000]
+KEY[22307   08  C 3/4]
+MEL[+1_+3__  +2+3+4+3+2+1  +3+4+4+3+2_
+    +1_+3__  +2+3+4+3+2+1  +2+3+4+2+1_
+    +1_+3__  +2_+4_+2_  +3_+4+3+2_
+    +1_+3__  +1_+4_+2_  +3_+4+2+1_ //]
+BEM[]
+
+DWOK22
+CUT[O tym świętym Wawrzyńcze]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 176, od Zgierza]
+FKT[]
+SIG[2230800000]
+KEY[22308   08  F 3/4]
+MEL[6_+1__  5_3__  4_2_34  5__.
+    67+1__  543__  4_2_34  5__.
+    4_2_34  6_.54_  3_.46_  5__0_
+    4_2_4_  6_.54_  3_.42_  1__0_ //]
+BEM[]
+
+DWOK22
+CUT[Ciebie Wawrzyńcze święty za Patrona]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 176-177, Kłodawa]
+FKT[]
+SIG[2230900000]
+KEY[22309   08  F 3/4]
+MEL[7_+1_.6  5_.43_  4_2_34  5_.43_
+    7_+1_.6  5_.43_  4_2_34  5_.43_
+    2_2_2_  3_.45_  222_4_  3_.45_  3_4_.2  1_1_0_ //]
+BEM[]
+
+DWOK22
+CUT[Był pewny na świecie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 169, od Zgierza, Brzezin]
+FKT[]
+SIG[2231000000]
+KEY[22310   16  E 2/4]
+MEL[1_1_4_3_  4_5_4__  6b_5_4_24  451_0__
+    1_3b_23b4_  3b_2_1__  2_1_-7b__  234__3b_  23b1_0__ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Szot v. Szorc]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 184, od Łęczycy]
+FKT[]
+SIG[2232100001]
+KEY[22321   16  G 2/4]
+MEL[1_3_5_+1_  6_6_5__  6_4_3_1_  2_2_1__
+    3_3_4_2_  -7_2_5_5_  45454_2_  -7_2_1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Szot v. Szorc]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 184, od Łęczycy]
+FKT[]
+SIG[2232100002]
+KEY[22321   16  G 2/4]
+MEL[1_3_5_+1_  6_6_5__  6_4_3_1_  2_2_1__
+    3__6542  -7_2_5_5_  4_5_7642  -7_2_1__ //]
+BEM[melodia instrumentalna-wariant]
+
+DWOK22
+CUT[Instrumentalna-Skoczek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 184, od Kłodawy]
+FKT[]
+SIG[2232200000]
+KEY[22322   16  A 2/4]
+MEL[1_-5-51_2_  3_3_2__  1_-5-51_2_  3_2-71__
+    3_5_5_4#5  3_5_5_4#5  3_5_5_4#5  42-7-51__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Szot]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 184, od Zgierza]
+FKT[]
+SIG[2232300001]
+KEY[22323   16  C 2/4]
+MEL[+2__+3__  +3+4+2_+3_+1_  +2__+3__  +3+4+2_+1__
+    +2__+3__  +3+4+2_+4+3+1_  +2_+2_+3_+5_  +3+4+27+1__
+    +1_5_+1_+3_  +5_+4#_+5_+3+1  7_5_7_+2_  +3+4+2_+1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Szot]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 184, od Zgierza]
+FKT[]
+SIG[2232300002]
+KEY[22323   16  C 2/4]
+MEL[+2__+3__  +3+4+2_+3_+1_  +2__+3__  +3+4+2_+1__
+    +2__+3__  +3+4+2_+4+3+1_  +2_+2_+3_+5_  +3+4+27+1__
+    +1_5_+1_+3_  +5_+4#+6+5_+1_  7_757_+2_  +3+4+27+1__ //]
+BEM[wariant]
+
+DWOK22
+CUT[Wlazła za piec za gorący]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 185, od Kiernozi(Złaków Borowy)]
+FKT[]
+SIG[2232400000]
+KEY[22324   08  C 2/4]
+MEL[+1+1+2+2  +3+3+4+6  +5+3+4+2  +1+172
+    +1+1+2+4  +3+3+4+2  +1+1+4+4  +3+172 //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Skoczek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 185, od Łodzi]
+FKT[]
+SIG[2232500000]
+KEY[22325   16  G 2/4]
+MEL[3__5_4#_  5_54#5_3_  4_243__  -7_-5_1__
+    3_5_4_64  3_3_2_21  1_3_4_24  3_1_-7_-7-5 //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Szot flisacki]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 185]
+FKT[]
+SIG[2232600000]
+KEY[22326   16  F 2/4]
+MEL[3_3_3_4_  5_5_5_3_  +1_+1_+1_6_  5_5_5_3_
+    2_2_2_3_  4_3_4_2_  6_5_5_-7_  1_3_1__
+    +1_+1_5__  6_6_2__  2_-7_-5__  12345__
+    +3_+1_5__  6_6_1__  4_2_-5_-6-7  1_3_1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Skoczek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 185, Sierakówek]
+FKT[]
+SIG[2232700000]
+KEY[22327   16  C 2/4]
+MEL[+2_+3+4+5_+4_  +3_+3_+2_+5_  +2_+3+4+5_+4_  +3_+3_+2__
+    +1_+2+3+1_+2_  7_7_+1_+2+3  +1_+2+3+1_+2_  7_7_+1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Skoczek i wiwat orylski]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 185, od Grzegorzewa (Tarnówka)]
+FKT[]
+SIG[2232800000]
+KEY[22328   16  G 2/4]
+MEL[+1_5_4_2_  -7_1_5_42  +1_5_4_21  -7_1_3_2_
+    1_2_3_1_  -7_1_5_2_  3_5_4_1_  -7_1_3_2_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Dziękuję ci parobeczku]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 186, od Łęczycy (Mazew)]
+FKT[]
+SIG[2232900000]
+KEY[22329   16  G 2/4]
+MEL[1_3_4_6_  5_3_4_6_  5_3_4_6_  5_3_4_2_
+    1_3_5_42  1_-6_-7_2_  1_3_5_42  1_-6_-7_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Polka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 186, od Łęczycy]
+FKT[]
+SIG[2233000000]
+KEY[22330   16  G 2/4]
+MEL[3_5_5_5_  6_2_4__  2_4_4_4_  5_1_3__
+    1_3_3_1_  2_4_4_2_  4_6_6_-7_  1_353_1_
+    1_3_333_  2_4_444_  4_6_6_-7_  1_321__
+    1_3_-5__  1_3_-5__  4_6_6_-7_  1_321__
+    1_3_-5-5-5_  1_3_-5-5-5_  4_6_6_-7_  1_353_1_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Polka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 186, Łęczyca]
+FKT[]
+SIG[2233100000]
+KEY[22331   16  G 2/4]
+MEL[1-7b-614_4_  43135_5_  +1_+1_7b_7b_  7b6546_6_
+    1-7b-614_4_  4335+2_+2_  +1_1_2_3_  4_6_4__
+    3565-5_3_  3_2_4_4_  -5_4_2_-7_  1_3_5_5_
+    3_5_-5_-5_  3_2_4_4_  -5_4_2_-7_  1_3_1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Polka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 186, Łęczyca]
+FKT[]
+SIG[2233200000]
+KEY[22332   16  D 2/4]
+MEL[66+4+3+2_+2_  5_6_7b__  135_1357b  +2_+1_+1__
+    66+4+3+2_5_  5_5_7b__  135_1353  4_4_4__
+    557+2+4_+3_  +1_+3_+3+2+1_  +4_+4_+4_7_  +3_+3_+3+2+1_
+    +4_5_+4+3+2_  +3_5_+3+2+1_  +4_+4+3+4_7_  +1_+1_+1__
+    557+2+4_+3_  +1_+3_+3+2+1_  +4_+4_7_7_  +3_+3_+3+2+1_
+    +4_5_+4+3+2_  +3_5_+3+2+1_  +4_+4+3+4_7_  +1_+1_+1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Oj matulinku moja]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 186-187, od Kłodawy]
+FKT[]
+SIG[2233300000]
+KEY[22333   16  A 2/4]
+MEL[-7__1_5_  3b_3b_543b2  1_5_4_3b2  1__-7__  1_5_4_3b2  1__-7__
+    -7__1_-7_  2_3b21_5_  -7__1_4_  23b23b1_-7_
+    -7__1_4_  5_3b21_5_  -7__1_4_  23b23b1_-7_ //]
+BEM[]
+
+DWOK22
+CUT[Hej przy kominku stała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 187, od Łęczycy]
+FKT[]
+SIG[2233400000]
+KEY[22334   08  G 2/4]
+MEL[-71_.  2465  4#5_.  4341  3241
+    2465  4#5_.  4_4_  3241 //]
+BEM[]
+
+DWOK22
+CUT[A pytała matka córy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 187, Łódź]
+FKT[]
+SIG[2233500000]
+KEY[22335   08  G 2/4]
+MEL[1344  4564  5344  421_
+    1344  45+2+2  7545  4211 //]
+BEM[]
+
+DWOK22
+CUT[Ubogi ja furmanik]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 187, Łęczyca]
+FKT[]
+SIG[2233600000]
+KEY[22336   08  A 2/4]
+MEL[3b211  -7-7-5_  554#4#  5_21
+    3b211  -7-7-5_  -5-7-5-7  1_1_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Polka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 186, od Łęczycy]
+FKT[]
+SIG[2233700001]
+KEY[22337   16  G 2/4]
+MEL[+1__5_4_  34531_23  4_3_2_1_  -712-7-5-725
+    4_2_-5_24  3_1_-5_35  4_2_-5_24  3_1_-5_-6_
+    -3_1_-2_-7_  1_-5_-3_-5_  -3_1_-2_-7_  1__.-3_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Polka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 187, od Łęczycy]
+FKT[]
+SIG[2233700002]
+KEY[22337   16  G 2/4]
+MEL[+1__5_4_  3_5_1_35  45432321  -712-7-5-725
+    4_2_-5_24  3_1_-5_35  4_2_-5_24  3_1_-5_-6_
+    -3_1_-2_-7_  1_-5_-3_-5_  -3_1_-2_-7_  1__.-3_ //]
+BEM[melodia instrumentalna-wariant]
+
+DWOK22
+CUT[Kup my capkę kup my pas]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 188, od Łęczycy (Mazew)]
+FKT[]
+SIG[2233800000]
+KEY[22338   16  A 2/4]
+MEL[1_5_4_3b2  1_5_-7__  1_5_4_3b2  1_1_-7__
+    1__5_-7_  2_3b_4__  5__1_4_  3b_2_-7__ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Krakowiak]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 188, Grzegorzew]
+FKT[]
+SIG[2233900000]
+KEY[22339   16  D 2/4]
+MEL[4_5_6_7b_  +1_7+1+2_+3_  +2_+1_7_5_  4__1__
+    4_5_6_7b_  +1_7+1+2_+3_  +2_+1_5_5_  4__1__
+    4__5_3_  4__5_3_  4_6_6_7_  +1__5__
+    4__5_3_  4__5_3_  4_6_5_5_  4__1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Mazeskie szargule poprzepijały]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 188, od Łęczycy (Mazew)]
+FKT[]
+SIG[2234000001]
+KEY[22340   16  D 3/8]
+MEL[0+1+175_  07+1_6_  (6+1+1)+175_  043_1_
+    (244)312_  023_5_  443_3_  221_1_ //]
+BEM[]
+
+DWOK22
+CUT[Mazeskie szargule poprzepijaly]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 188, od Łęczycy (Mazew)]
+FKT[]
+SIG[2234000002]
+KEY[22340   16  D 3/8]
+MEL[0+1+175_  7+2+1__  (6+1+1)+175_  043_1_
+    (246)3_5_  223_5_  463_5_  24431_ //]
+BEM[wariant]
+
+DWOK22
+CUT[Oj po głębokiej wodzie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 189, od Gombina]
+FKT[]
+SIG[2234100000]
+KEY[22341   16  E 3/8]
+MEL[7b_7b_7b_  6b46b_+1_  7b6b4_53b  241_1_
+    -7b_2-7b2_  13b5_3b1  -7b_-7b_2_  13b1_1_ //]
+BEM[]
+
+DWOK22
+CUT[Gęgała krzycała siwa gęś nad wodą]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 189, od Piątku (Orenice)]
+FKT[]
+SIG[2234200000]
+KEY[22342   32  G 3/8]
+MEL[5___5__  5_6_4__4_3_  1_3_3__3_5_  4_3_5__2_-7_
+    -5__^_-6-72_3_  1_3_3__2_-7_  1__3__5_6_  4_3_3__2_-7_ //]
+BEM[]
+
+DWOK22
+CUT[Dobrze u ludzi matulu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 189, od Kutna]
+FKT[]
+SIG[2234300000]
+KEY[22343   32  G 3/8]
+MEL[-7_1_3_5_6__  4_3_5__2__  -7_1_3__5__  4_3_1_-7_-5__
+    2_.31_-7_2__  424_6__5__  2_.31_-7_-5__  4_2_-7__1__ //]
+BEM[]
+
+DWOK22
+CUT[Kochałem cię kochać będę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 189, od Kutna (Sójki)]
+FKT[]
+SIG[2234400000]
+KEY[22344   16  G 3/8]
+MEL[(246)7_6_  56523_  467_6_  56521_
+    245_13  22-7_1_  245_(-513)  42-7_1_ //]
+BEM[]
+
+DWOK22
+CUT[A mam ci ja świnię burą]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 189, od Krośniewic]
+FKT[]
+SIG[2234500000]
+KEY[22345   32  G 3/8]
+MEL[246_6_6_6__  +1_6_5_3_1__  4_6_6__6__  +1_6_5_3_1__
+    4_2_-7__1_3_  5_4_2__5__  (4_2_-7_)2_2_1_3_  2_2_2_-7_1__ //]
+BEM[]
+
+DWOK22
+CUT[A u mojej bratowy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 190, od Łęczycy]
+FKT[]
+SIG[2234600000]
+KEY[22346   16  G 3/8]
+MEL[576_5_  4_3_6_  576_5_  4_3_2_
+    135_2_  3_5_2_  135_2_  4_3_2_
+    (124)5_3_  245_2_  (124)5_3_  4_3_2_
+    (124)1_3_  245_-7_  (124)5_3_  2_-7_1_ //]
+BEM[]
+
+DWOK22
+CUT[Melodia instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 190, od Kutna (Sójki)]
+FKT[]
+SIG[2234700000]
+KEY[22347   32  G 3/8]
+MEL[(2_3_4_)5__+3__  +2_.+1+1__6__  (6_7b_5_)4_3_2_3_  4_.22__1__
+    (1_3_5_)7b_5_3__  4_6_+1_6_4__  (6_7b_5_)4_3_2_3_  4_.22__1__
+    1_3_5_3_-7b__  1__6_4_1__  1_5_4_3_2_3_  4_.22__1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Oj ścięli dąbek ścięli]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 190, Sójki]
+FKT[]
+SIG[2234800000]
+KEY[22348   16  A 3/8]
+MEL[5_2_13b  53b2_2_  5_2_13b  3b3b2_-5_
+    -5_.-712  3b3b425_  -5_.-712  3b12_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 190, Mazew]
+FKT[]
+SIG[2234900000]
+KEY[22349   32  C 3/8]
+MEL[+5___.  +5___.  +2__+4_+3_+1_+3_  +5_+6_++1_+6_+5_+6_  +2_+3_+4_+3_+5__  +5_+6_++1_+6_+5_+3_
+    +2__+4_+3_+1_7_  +1_+3_+4__+1__  +2_+3_+4_+3_(+1_+2_7_)  +1_+3_+4__+1__
+    +2__+5__+3_+1_  +2__+1_+3_+4_+1_  (+1_+2_+3_)+5_+4_+3_+1_  +2_7_+1_+3_+4+3+2+1
+    (+2_+2_+3_)+4_+1_+2__  +1_+3_+4__+1__  (+2_+3_+5_)+4_+1_+2_7_  (7_+1_+3_)+4_+3_(+1_7_5_) //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Mazur]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 191, od Zgierza]
+FKT[]
+SIG[2235000000]
+KEY[22350   32  F 3/8]
+MEL[+1__5__+1__  6__4__4__  3_2_1__5__  4_2_-7__-5__
+    1_3_5__+1__  6_.54__4__  3_2_1__1__  4_2_-7__1__
+    2_57+1__+3__  +2_7_+1__+3__  +2_7_+1__+3__  +2_7_+1__6__
+    5_7_+2_5_+1_+3_  +2_+4_+2_7_+1_+3_  5__.5_+1_+3_  +2__+2_7_+1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[A Maszewskie gospodynie-Mazur]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 192, od Łęczycy (Mazew)]
+FKT[]
+SIG[2235100000]
+KEY[22351   32  F 3/8]
+MEL[1_3_5__+1__  2_2_4__4__  5_1_3__5__  -7_-7_2__1__
+    5_.31__3_5_  5_4_+1__7_6_  5_.31__5__  7_7_2__1__
+    5_.31__3_5_  5_4_+1__7_6_  5_.31__5__  7_7_2__1__ //]
+BEM[]
+
+DWOK22
+CUT[Oj zaszło słońce zaszło]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 191, od Grzegorzewa (Umienie)]
+FKT[]
+SIG[2235200000]
+KEY[22352   32 Bb 3/8]
+MEL[-5_4_4__6__  3_1_3__5__  -5__4__6__  5_.31__1_-7_
+    -5__4__1_-7_  1_2_3__3_1_  -5_4_4__5_4_  (2_1_-7_)1__1__
+    4_4_2__4_5_  235_6__-7_-7_  4_4_2__4_5_  231_2__-7_-5_
+    4__-5__-7_1_  3_5_2__-7_-7_  4__-5__-7_1_  3_1_2__-7_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Nie chcesz jadła nie chcesz picia]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 192, od Kutna (Sójki)]
+FKT[]
+SIG[2235300000]
+KEY[22353   16  G 3/8]
+MEL[235_4#_  2354#21  235_4#_  2354#21
+    2354#21  24#5_3_  2354#21  -713_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Do ciebie jadę da jadę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 192, od Dąbia]
+FKT[]
+SIG[2235400000]
+KEY[22354   16  G 3/8]
+MEL[-714_6_  653_2_  214_21  213_-5_
+    -714_-7_  -714_3_  214_-7_  2_3_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Tancowałbym złe buty mam]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 192, od Łęczycy (Topola)]
+FKT[]
+SIG[2235500000]
+KEY[22355   16  A 3/8]
+MEL[-713b_.4  554_2_  3b45_.-7  12-7_-5_
+    -713b_.2  11-7_2_  -713b_.4  12-7_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Dziewczyna kochana-chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 192, od Łęczycy]
+FKT[]
+SIG[2235600010]
+KEY[22356   16  A 3/4]
+MEL[1_5_4_3b_3b_2_  1_23b4_1_1_-7_  1_23b4_1_5_4_  1_3b_2_1_1_-7_
+    1_5_4_1_3b_3b4  1_23b4_1_1_-7_  1_23b4_1_5_4_  3b_3b_2_1_1_-7_ //]
+BEM[]
+
+DWOK22
+CUT[Oj kocham cię Jasiniu-oberek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 192, od Łęczycy]
+FKT[]
+SIG[2235600020]
+KEY[22356   32  A 3/8]
+MEL[1__5__5__  5_765__5__  2__4__5__  4_3b21__-7__
+    -5__5__-5__  -5_-7_1__3b__  2__4__-5__  -5_2_1__-7__ //]
+BEM[]
+
+DWOK22
+CUT[Gęś wodą gęś wodą]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 192, od Kłodawy]
+FKT[]
+SIG[2235700010]
+KEY[22357   16  C 3/8]
+MEL[+1_+3_+4_  +1_+3_+4_  +1_+3_+4_  +1_7__
+    +1_+2+3+4_  +3+1+2+3+4_  +3+5+5_+4+3  +1_7__ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Gęś wodą gęś wodą]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 192, od Kłodawy]
+FKT[]
+SIG[2235700020]
+KEY[22357   16  C 3/8]
+MEL[+1567+1_  7+1+2+3+4_  +3+1+1_+27  +1_7__
+    +1567+1_  +2+1+2+3+4_  +3+5+1+1+27  +1__. //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[W ogrodzie w powoju]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 193, od Krośniewic]
+FKT[]
+SIG[2235800000]
+KEY[22358   32  F 3/8]
+MEL[2_4_3___  +1__6__5__  2_4_3___  5__2__1__
+    2_4_3___  2_345___  4_2_3___  5__2__1__ //]
+BEM[]
+
+DWOK22
+CUT[Olsowe korytko olsowe łózecko]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 193, od Łęczycy (Tum)]
+FKT[]
+SIG[2235900000]
+KEY[22359   16  G 3/8]
+MEL[5_3_1_  -5-71__  5_4321  -5-71__
+    -5_4321  345__  -5_3_1_  -5-71__
+    3_5__  1-72_42  435__  1_-721_
+    -5_1__  115_42  435__  -71231_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Mazur]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 193, od Parzęczewa]
+FKT[]
+SIG[2236000000]
+KEY[22360   32  G 3/8]
+MEL[1__1__3_1_  -7_.-5-7__1__  -5__1__3_1_  -7_.-5-7__1__
+    -5__4__4__  (2_1_-7_)-6__-5__  -5__(4_3_2_)4_3_  (2_1_-7_)-6__-5__
+    2_0_-5_-7_1_3_  (2_1_-7_)-7__-5__  2_0_-5_-7_1_3_  2_-7_-6__4__
+    1_0_3_2_3_5_  (-5_-6_-7_)2__4_3_  1_0_3_2_3_5_  -5_-7_2__(5_4_3_)
+    1_0_3_2_2_1_  3_4_5__4_3_  1_0_3_2_3_5_  (7_+1_7_)(7_6_5_)(5_4_3_)
+    1_0_3_2_(2_1_-7_)  (-5_-6_-7_)2__(4_3_2_)  1_0_3_2_(2_1_-7_)  -5_-7_2__4_2_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Jużeś u gaju u gaju]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 194, od Ozórkowa]
+FKT[]
+SIG[2236100000]
+KEY[22361   16  G 3/8]
+MEL[4_.134  57b+1_5_  4_.134  57b6_43
+    1_.-5-71  24652_  1_.-5-71  243_13 //]
+BEM[]
+
+DWOK22
+CUT[Ojże ojże Szaławiła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 194, od Łęczycy]
+FKT[]
+SIG[2236200000]
+KEY[22362   32  G 3/8]
+MEL[-7_.-71__3b__  5_.57__5__  7_+1_6b_4_2_3b_  1_.1-7__-5__
+    -7_.-71__3b_2_  1_.1-7__2_-5_  -7_.-72_4_3b_2_  1_.1-7__-5__ //]
+BEM[]
+
+DWOK22
+CUT[Oj coby dać toby dać]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 194, od Łęczycy (Mazew)]
+FKT[]
+SIG[2236300000]
+KEY[22363   32  G 3/8]
+MEL[1_3_5__5__  7__7__5__  +1_534__6__  2__2__-7__
+    -5_-6-71___  3__3__5__  1_234___  -7__-7__-5__
+    -5_-7_2__.4_  6_.54_3_2_1_  1_.23_4_5_6_  2__2__-7__
+    -5_-7_2__-5__  1_3_3__1__  -5_-7_2__.-6_  -7__-7__-5__ //]
+BEM[]
+
+DWOK22
+CUT[W polu orał w polu orał]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 194, od Łęczycy (Tum)]
+FKT[]
+SIG[2236400000]
+KEY[22364   32 Bb 3/8]
+MEL[1_3_5__5__  5_2_4__2__  1_3_5__5__  5_2_4__2__
+    1_3_2__1__  -7_-5_1__-5__  1_3_2__1__  -7_-5_1__-5__ //]
+BEM[]
+
+DWOK22
+CUT[Szłabym za cię byś dobry był]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 195]
+FKT[]
+SIG[2236500000]
+KEY[22365   32  F 3/8]
+MEL[1_3_5__7__  +1_.66__5__  1_3_5__7__  +1_.66__5__
+    1_3_1__3_5_  4_.66__5_2_  1_3_5__3__  4_.22__1__ //]
+BEM[]
+
+DWOK22
+CUT[Gospodarzu kłopotarzu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 195, od Krośniewic]
+FKT[]
+SIG[2236600000]
+KEY[22366   32  G 3/8]
+MEL[3_4_5__3__  5_5_6__5__  3_4_5__3__  5_5_6__5__
+    4_3_2__-7__  1_1_6__5__  -5_.-72__-5__  4_.3-7__1__ //]
+BEM[]
+
+DWOK22
+CUT[Na Kujawy patrz koniu mój]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 195, od Kłodawy (Rdułtów)]
+FKT[]
+SIG[2236700000]
+KEY[22367   16  G 3/8]
+MEL[1_2_46  (432)4_67  6_5_46  (542)1_2_
+    1_2_24  325_2_  1_2_26  421_2_ //]
+BEM[]
+
+DWOK22
+CUT[Żeby nie o cię nie o cię]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 195, od Kłodawy (Rdułtów)]
+FKT[]
+SIG[2236800000]
+KEY[22368   16  D 3/4]
+MEL[1_7b_+1_7b_5_4_  6_+1_7b__5__  1_7b_+1__5__  2_2_2_3_1__
+    1_1_3__5__  4_2_3_46+1_7_  1_1_3__5_4_  2_2_2_3_1__ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 196, od Kłodawy]
+FKT[]
+SIG[2236900000]
+KEY[22369   16  G 3/4]
+MEL[2_3_5_6_676_  6_5_54#5_6_54  -5_1_3_6_6_7_  6_5_54#5_3_1_
+    2_3_3_3_2__  -5_-7_1_235_6_  565_3_3_2__  -5_-7_3_453__
+    -5_1_1__-5_1-7  -5_-7_1_3_^_43  ^_3_-1__-5_1-7  -5_-7_1__1__ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 196, od Grabowa (Borucice)]
+FKT[]
+SIG[2237000000]
+KEY[22370   32  G 3/8]
+MEL[1__2_4_5_4_  2_4_6_7_6_2_  1__2_4_5_3_  2_1-7-6__-5__
+    -7_-7_1__4__  2_1-7-6__2__  -7_-7_1__5__  2_1-7-6__-5__
+    2_4_5__5_43  2_1_-7_1_2_34  2_1-71_2_3_4_  2_1-7-6__-5__ //]
+BEM[]
+
+DWOK22
+CUT[Idę bez bór bez chojaki]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 196, Mazew]
+FKT[]
+SIG[2237100000]
+KEY[22371   16  G 3/8]
+MEL[323435  -5-71235  321_1_  -5-71_-5_
+    334_3_  -5-71_35  323_1_  -5-71_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Da za lasem za bucyna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 196, od Ozórkowa]
+FKT[]
+SIG[2237200000]
+KEY[22372   32  G 3/8]
+MEL[1__3__3_1_  2_4_3__1__  2__-5__-7_2_  4_6_5__4_2_
+    1__6__5_3_  2__3__1__  -6__-5__-5_-7_  2_1-7-6__-5__ //]
+BEM[]
+
+DWOK22
+CUT[Pańska dziewka z Gołocic]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 197, od Dąbia (Chełmno)]
+FKT[]
+SIG[22373a0000]
+KEY[22373a  32  G 3/8]
+MEL[2_6_5__.1_  2_4_6__5_3_  2_6_5__-7__  1_.-72__-7__
+    2__2_2_-7_1_  2_345__3__  2_345__-7__  1_.-72__-5__ //]
+BEM[]
+
+DWOK22
+CUT[A jeżeli komu zazdrość]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 197, od Zgierza]
+FKT[]
+SIG[22373b0000]
+KEY[22373b  16  G 3/8]
+MEL[365_.4  335_2-7  -565_.2  331_2_
+    -5_-5_42  (323)5_2-7  -5_-5_4_  331_2_ //]
+BEM[]
+
+DWOK22
+CUT[Mazowianka wołki pędzi]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 197, Mazew]
+FKT[]
+SIG[2237400000]
+KEY[22374   16  G 3/8]
+MEL[5+17_+1_  6467b53  5+17_+1_  645_.3
+    112_-7b_  243453  112_-7b_  245_.3 //]
+BEM[]
+
+DWOK22
+CUT[Na Mazewskim gołem polu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 197, Rzętków]
+FKT[]
+SIG[2237500000]
+KEY[22375   16  G 3/8]
+MEL[1354#67  654#562  1354#5_  12-7_-5_
+    12314_  1231-7_  123142  11-7_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Chłopcy mi się zalecają]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 198, od Łęczycy]
+FKT[]
+SIG[2237600000]
+KEY[22376   16  G 3/8]
+MEL[446_6_  7+2+1_6_  5_.342  131_2_
+    -5_.342  332_46  565342  531_2_ //]
+BEM[]
+
+DWOK22
+CUT[A na moście trawa roście]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 198, od Kłodawy (Rdułtów)]
+FKT[]
+SIG[2237700000]
+KEY[22377   32  E 3/8]
+MEL[5_7_+1_+2_+3b_+2_  +1_+2_+1_7_5_+1_  5_.7+1__+3b_+2_  +1_+2_+3__5_4_
+    5_7_+1_7_5_4_  5_2_3b_4_5_+1_  5_7_+1__5_4_  5_2_3b__5_4_ //]
+BEM[]
+
+DWOK22
+CUT[A ja chłopa nie chcę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 198, od Parzęczewa]
+FKT[]
+SIG[2237800000]
+KEY[22378   32  G 3/8]
+MEL[6___7_6_  5_4_3__5__  6___7_6_  2_4_5__1__
+    2_43-5__3__  2_4_5__1_-7_  2_3_-5__1__  2_4_3__1__ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 198, od Krośniewic]
+FKT[]
+SIG[2237900000]
+KEY[22379   16  G 3/8]
+MEL[3__5_  765_(462)  3__5_  765_32
+    (345)3_2-7  13(567)(652)  3__2_  (121)-5_32 //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 198-199, od Parzęczewa]
+FKT[]
+SIG[2238000000]
+KEY[22380   32  G 3/8]
+MEL[3__6__7_6_  5__3__6_2_  (3_4_5_)6__7_6_  5__3__2_1_
+    3__5__4_3_  2_1_-7__1_3_  (5_6_5_)4__2_1_  3_4_5_6_4_3_  2_1_-7__-6_-7_  1__-7__2_1_
+    -7_.-6-5___  (-5_-6_-7_)1__2_1_  -7_.-6-5___  -6_-7_1__1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Pójdźmy do domu dzieweczko]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 199, od Parzęczewa (Domaniew)]
+FKT[]
+SIG[2238100000]
+KEY[22381   16  G 3/8]
+MEL[355_5_  556_21  355_5_  553_2_
+    333_1_  242_2_  346543  242_21
+    5__31  242_2-7  -7-71_-6-4#  -613_2_
+    1__31  242_-7-5  -7_1_-6-4#  -2-4#-6-7-5_ //]
+BEM[]
+
+DWOK22
+CUT[Da o co ci idzie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 199, od Dąbia(Tarnówka)]
+FKT[]
+SIG[2238200000]
+KEY[22382   16  G 3/8]
+MEL[1-7b-6_-7b_  5__2_  4_.3b21  1-7b-6_-7b_  2_.143b  21-7b_1_  5_4_2_  1__0_ //]
+BEM[]
+
+DWOK22
+CUT[O Boże mój Boże wieczny]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 199, od Ozórkowa (Modlna)]
+FKT[]
+SIG[2238300000]
+KEY[22383   32  G 3/8]
+MEL[5__6__7_6_  5_432__6__  2_4_6__1_3_  5_432__1__
+    5__6__1_3_  5_432__3__  5__2__1_3_  5_432__1__ //]
+BEM[]
+
+DWOK22
+CUT[A wedrujze ty dziewczyno]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 199, od Kłodawy (Miłonice)]
+FKT[]
+SIG[2238400000]
+KEY[22384   32 Bb 3/8]
+MEL[3_3_5__3__  3_2_2__.1_  6__5__3_3_  1_3_5__3__  3__2__.1_  -7__.-6_-7__
+    1_1_3__.-7_  2_1-7-6__.-7_  1_1_3__.-7_  2_1_-6__-5_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Co mi po roli po roli]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 200, od Krośniewic]
+FKT[]
+SIG[2238500000]
+KEY[22385   16  G 3/8]
+MEL[353_4_  246_5_  353_2_  -713_1_
+    -5-71_2_  -713_5_  131_2_  -713_1_ //]
+BEM[]
+
+DWOK22
+CUT[Musiałeś w Lubrańcu bywać]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 200, od Kłodawy (Rdułtów)]
+FKT[]
+SIG[2238600000]
+KEY[22386   32  F 3/8]
+MEL[5_.+17__+1__  5_4_3__6__  5_.+17__6__  5_.43__1__
+    2_1_4__5__  5_6_2_1_3__  2_3_4__6_5_  2_4_3__1__ //]
+BEM[]
+
+DWOK22
+CUT[Cynis mi tęgę dziewulo]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 200, od Piątku (Orłów)]
+FKT[]
+SIG[2238700000]
+KEY[22387   16  A 3/8]
+MEL[13b5_5_  24643-7  -5-72_2_  243b_2-7
+    13b2_.-7  13b4_.2  13b-5_-7_  243b_2-7
+    13b2_.-7  13b4_.2  3b5-5_-7_  243b_2-7 //]
+BEM[]
+
+DWOK22
+CUT[A boli mnie noga w biodrze]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 200, od Grzegorzewa (Umienie)]
+FKT[]
+SIG[2238800000]
+KEY[22388   16  G 3/8]
+MEL[57+1_+1_  556_4_  312_-7_  2_3_1_
+    -5-72_2_  332_-7_  1-6-7_-7-5  -6_-6_-5_
+    57+1_+1_  5+16_4_  332_4-7  223_1_
+    -5-72_5_  352_2-7  1-6-7_-7-5  -61-6_-5_ //]
+BEM[]
+
+DWOK22
+CUT[A na bugaju portki zgubił]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 200, od Kłodawy (Chodów)]
+FKT[]
+SIG[2238900000]
+KEY[22389   32  C 3/8]
+MEL[+2__+4_+3_+3_+2_  +2_+27+1__+5__  +2__+4_+3_+3_+3+2  +2_+2_+3__+1__
+    +2__+4_+1_+1_7_  +1_+1_+3__+5__  +2__+4_+1_+3_+2_  +2_7+2+3__+1__ //]
+BEM[]
+
+DWOK22
+CUT[A gdzie to jedziesz Jasieńku]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 201, od Łęczycy (Mazew)]
+FKT[]
+SIG[2239000000]
+KEY[22390   08  A 3/4]
+MEL[-5-6-712_  312_-5_
+    5_.4#5_  (321)4_2_  1_.-71_  (-6-5-4)-7_-5_
+    -5-6-7124  (321)2_-5_
+    5_.4#5_  (321)4_2_  1_.-71_  (-6-5-4)-7_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Jeno przyjdzie święty Michał-Owczarek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 201, od Kłodawy (Chodów, Dzierzbice)]
+FKT[]
+SIG[2239100000]
+KEY[22391   16  A 3/8]
+MEL[224#_5_  765_5_  224#_5_  3b21_-5_
+    -5-5-7_-5_  -713b_5_  224_2_  -7-71_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 201, od Kłodawy (Chodów)]
+FKT[]
+SIG[2239200010]
+KEY[22392   16  G 3/4]
+MEL[222__(4_6_4_)  5_6_7b_6_5_4_
+    222__4_6_3_  5_565_431__
+    222__4_5_6_  333__3_5_4_
+    222__4_6_3_  5_6_4_3_1__ //]
+BEM[partia instrumentalna]
+
+DWOK22
+CUT[Jakem jechał na Kujawy-Obertas]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 201, od Kłodawy (Chodów)]
+FKT[]
+SIG[2239200020]
+KEY[22392   32  G 3/8]
+MEL[2_2_3__.5_  6_5_4__6__  2_2_3__.5_  6_542__1__
+    2_2_1__.3_  2_345__4__  2_2_1__.5_  2_4_2__1__ //]
+BEM[partia wokalna]
+
+DWOK22
+CUT[Która krowa bardzo rycy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 202, od Krośniewic]
+FKT[]
+SIG[2239300000]
+KEY[22393   16  D 3/8]
+MEL[7_+1_.5  643_5_  7+2+1_.5  643_-5_
+    2-73_.5  657_+1_  223_.5  643_1_ //]
+BEM[]
+
+DWOK22
+CUT[Niedaleko wieś ode wsi]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 202, Mazew]
+FKT[]
+SIG[2239400000]
+KEY[22394   16  G 3/8]
+MEL[245_5_  535_43  (234)5_5_  31-6_.1
+    2_21(234)  313_21  2_2_24  31-6_.1 //]
+BEM[]
+
+DWOK22
+CUT[Sroka skrzeczy pod olszyną]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 202, od Zgierza]
+FKT[]
+SIG[2239500000]
+KEY[22395   16  G 3/8]
+MEL[-613_3_  356_(543)  222_4_  (246)7_(531)
+    -6-61_1_  136_53  222_2_  (342)3_1-6 //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 202, od Kłodawy (Bierzwina)]
+FKT[]
+SIG[2239600000]
+KEY[22396   32  G 3/8]
+MEL[1_3_4__5_7b6b  5_432__1__  4_57b+1__+2__  +1_7b_5_+1_5_43
+    1_3_4__5_7b_  5_4_2__1__  4__4_3_4__  1_3_4__1__
+    4_37b+1__+2__  +1_7b_5_435_7b+1  4_57b+1__+2__  +1_7b6b5_431__
+    5_7b_+1__5__  4_7b6b5_4_5_43  5_7b_+1__5__  4_7b6b5_431__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Od godzineczki śpiewam]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 203, od Dąbia]
+FKT[]
+SIG[2239700000]
+KEY[22397   16  G 3/8]
+MEL[4#_5_.6  243_1_  4#_5_.6  243_5_
+    3_4_.2  31-7_2_  -6_.-5-72  -61-7_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Tu me nocka zdybała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 203, od Łodzi (Mileszki)]
+FKT[]
+SIG[22398a0000]
+KEY[22398a  32  G 3/8]
+MEL[4__4__6_7_  6_5_3__2__  1_235__6__  2___-71_.
+    34_.34_.2_3_  1_1_2__2_-7_  1_2_3__1__  2___-7-5_. //]
+BEM[]
+
+DWOK22
+CUT[Bodajże cię moja mała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 203, od Łodzi (Mileszki)]
+FKT[]
+SIG[22398b0000]
+KEY[22398b  32  G 3/8]
+MEL[5_.53__5_6_  4_6_+1__7_6_  5_6_5_3_5_6_  4_2_3__1_-6_
+    5__.-5_-7_2_  4_6_3__1_-6_  5_6_5_-5_-7_2_  4_2_3__1_-6_ //]
+BEM[]
+
+DWOK22
+CUT[Nie stój pod chojakiem]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 203, od Łęczycy (Leźnica)]
+FKT[]
+SIG[2239900000]
+KEY[22399   08  G 3/4]
+MEL[2-72443  134311  2-72443  13111-5
+    2-72463  467653  2-72463  564311 //]
+BEM[Kujawiak chodzony]
+
+DWOK22
+CUT[Instrumentalna-Mazur]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 203, od Łęczycy (Leźnica)]
+FKT[]
+SIG[2240000000]
+KEY[22400   32  G 3/8]
+MEL[2_2_1_3_5_+1_  6_5_4_4_3_5_  3_3_5__+1__  6__4_6_431_
+    -5_.-51_3_5__  3_.2(3_5_4_)3_1_  -5_.-51__3_4_  3_.2(1_3_4_)3_1_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 204, od Ozórkowa]
+FKT[]
+SIG[2240100010]
+KEY[22401   08  C 3/4]
+MEL[5_  +1+2+3+5+2+1  +4+3+2+1+17
+    5_+1+2+3+5  +2+1+4+3+2+1
+    +175_+1+2  +3+5+2+1+4+3  +2+1+175_
+    +1_+3+5+6+5  +4_+2+1+3+5
+    5_+1_+3+5  +6+5+4_+2+1
+    +3+55_+1_  +3+5+6+5+4_  +2+1+3+55_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Obertas]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 204]
+FKT[]
+SIG[2240100020]
+KEY[22401   32  C 3/8]
+MEL[+5__5__+5__  5__+5__+6__  +5__5__+5__  5__+5__+6_+5_
+    +5__+3__+2_7_  5__+5__+6__  +5__+3__+2_7_  5__+3__+2_7_
+    +6_+5_+3_+1_+2_+17  5_+4_+5__+6_+5_  +6_+5_+3_+5_+2_+17  5_+4_+3_+1_+2_+17
+    +1__7_+1_+3_+1_  +2_7_5__+4_7_  +1_+3_+5__+3__  +2_7_5__+2_7_
+    +1__+17+1_+3_+1_  +2_765_+3_+4_+17  +1_+3_+5__+3_+1_  +2_765_+5_+2_+17 //]
+BEM[]
+
+DWOK22
+CUT[Bartku Bartku dam ci Marynę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 204, od Zgierza (Łagiewniki)]
+FKT[]
+SIG[2240200000]
+KEY[22402   16  C 3/8]
+MEL[2__1_  5_.21_  3_2_34  5_21^_
+    56+1_+3_  +3+2765_  +165_+16  5_+165_
+    56+1_+3_  +3+2765_  +165_+16  55+165_ //]
+BEM[]
+
+DWOK22
+CUT[Kujawianka jak ślachcianka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 204-205, od Łęczycy (Leźnica)]
+FKT[]
+SIG[2240300000]
+KEY[22403   32  G 3/8]
+MEL[2_4_2__4_6_  7_6_5__3__  2_4_2__4_6_  7_6_5__6__
+    2_4_6__2_4_  5_6_4_2_3__  2_4_6__5_2_  3_3_4_2_1__
+    2__4_4_6_7_  6_5_4_5_7_43  2_3_4_4_6_7_  6_.54_3_2_1-7
+    2_3_4_345_43  2_3_2_1_3_5_  2_3_4_4_5_42  3_3_2_3_2_1-7 //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 205, od Grabowa (Byszewo)]
+FKT[]
+SIG[2240400000]
+KEY[22404   16  G 3/4]
+MEL[5__7_+1_+2_+1_  7b_6_5_4_5_+1_  5_+1_7_+1_+2_+1_  5_4_3_4_5_43
+    1_2_3_1_4_32  1__2_4_5__  1_2_3_1_4_32  1__2_-7_1__
+    1_2_3_4_5_6_  5_4_3_2_4_32  1__2_4_5__
+    1__3_4_5_6_  5_4_3_2_4_2_  1_2_3_2_1__ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 205, od Grabowa]
+FKT[]
+SIG[2240500000]
+KEY[22405   32  G 3/4 3/8]
+MEL[1__-5__1__-5__1__5__  6__7__6__7__5_4_3_2_  1__-5__1__-5__1__5__  -5__-7__1__3__5__2__
+    0___1__1__-5__-5__  1__2_3_5__6__5__2__  1__1__-5__1__2__2__  0___1_-7_2__3_4_3__
+    0___1__1__-5__-5__  1_-7_-5__1_-7_2__1__-5__  1__1__-5__1__2__2__  0___1_-7_2__1___
+    1_1_-5__(1_-7_-5_)  (-6_-7_1_)3__5__  1_1_2__(1_-7_-5_)  125_6_5_2__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 205, od Grabowa]
+FKT[]
+SIG[2240600000]
+KEY[22406   16  G 3/4]
+MEL[-5_156__5_3b_  5__2_4_3b21_  -5_156__5_3b_  5_6_7_6_5__
+    1_2_1_-7_-5__  1_23b5__4#_5_  1_2_1_-7_-5__  1_23b5_43b1_-7-5 //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 205, od Grabowa]
+FKT[]
+SIG[2240700000]
+KEY[22407   32  A 3/8]
+MEL[1_2_1__-7_2_  4_4_5__3b_2_  1_2_-6__-7_-5_  -5_-6-71__-5__
+    2_3b21__-7_2_  6_7_6_5_4_5_  1_2_-6__-7_-5_  -5_-6_-7_-5_4_3b2 //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 206, od Łęczycy (Tum)]
+FKT[]
+SIG[2240800010]
+KEY[22408   16  G 3/4]
+MEL[3_.35__6_7_  5_3_4_3_1_-7_  1_.1-5__4_5_  4_321__-7_-5_
+    3_3_2__5__  3_323_341_-72  1_1_-5__2__  1_1_2_1-71_-7-5 //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Da i widziałem cię widział]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 206, od Łęczycy (Tum)]
+FKT[]
+SIG[2240800020]
+KEY[22408   32  G 3/8]
+MEL[1_3_4__6__  5_5_4__2__  3_5_4__2__  1_.14__2__
+    1_3_4__6__  5_5_4__2__  3_5_4__2__  1_.1-7__-5__ //]
+BEM[Partia wokalna-Oberek]
+
+DWOK22
+CUT[Instrumentalna-Polski]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 206, od Łęczycy (Leźnica)]
+FKT[]
+SIG[2240900010]
+KEY[22409   16  G 3/4]
+MEL[3_3_2_356_54  2_4_6_7_6__  7__3_5_6_43  1_231_-7_^__
+    3_3_2_356_5_  4_6_5_2_^__  3_3_2_354_-6_  -5_-6-71_-5_^__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Obertas]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 206, od Łęczycy (Leźnica)]
+FKT[]
+SIG[2240900020]
+KEY[22409   32  C 3/8]
+MEL[-5_-5_1__1__  1-7-5_3_4_6_7_  6_5_3__3_2_  1_-7_3_4_1_-7_
+    -5_-5_3__3_2_  1-7-5_1__3_4_  -5_-5_1__1__  1_-7_1__1_-7_
+    2__-7__6_7_  6_(545)6__3__  2_1_-7_-5_6_7_  6_(565)3__1__
+    2_1_-7_1_3_2_  3__2_4_5__  2__-7_1_^_-5_  1__2_4_3__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Polski weselny]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 206, od Łęczycy (Topola)]
+FKT[]
+SIG[2241000010]
+KEY[22410   16  G 3/4]
+MEL[-5_4#53_4#56_54  2_4_6_7_6_54  -5_4#53_4#56_54  2_2_1_341_-7_
+    1_121_121_1-7  -5_-7_1_3_562_  3_323_323_54  -5_-7_1_341_-7_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Mazur]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 206, od Łęczycy (Topola)]
+FKT[]
+SIG[2241000020]
+KEY[22410   16  G 3/8]
+MEL[-715_3_  124_5_  -715432  124_1_
+    -713_42  124_1_  -713_42  324_1_
+    -712342  124_1_  -713_42  1-54_1_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Da moja miła owcarzowno]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 207, od Dąbia (Chełmno)]
+FKT[]
+SIG[2241100000]
+KEY[22411   16  C 3/8]
+MEL[+1_7+2+16  57+1_+5_  +4_+3+2+16  57+1_5_
+    7_+1_65  6567+15  7_+1_65  67+1_5_ //]
+BEM[]
+
+DWOK22
+CUT[Bodaj cię kaci wzieni]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 207, od Łęczycy (Rzętków)]
+FKT[]
+SIG[2241200000]
+KEY[22412   32 Bb 3/8]
+MEL[-7__2__4__  6_6_5__3__  3_5_6__4_2_  1_1_-6__-5__
+    -7__2__2_-7_  1_.11__3__  1__3__1_-6_  -6_.-6-6__-5__ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Polski]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 207, od Łęczycy (Mazew)]
+FKT[]
+SIG[2241300010]
+KEY[22413   16  A 3/4]
+MEL[-5_-7_1_2_4_3b2  1_2__4#_5__  4#_5__4#_2_-7_  1__4_2_0__
+    -5_-7_1_2_4_3b2  1_2__5_1__  -7_1__-7_-5__  -4__-7_-5_0__ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Ja matuli poprzysiege]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 207, od Łęczycy (Mazew)]
+FKT[]
+SIG[2241300020]
+KEY[22413   32  A 3/8]
+MEL[4__.2_5_3b_  3b_2_-7__1__  4__.2_2_1_  1-7-5_-4__-5__
+    4__.2_3b21_  4__.2_53b1_  4__.2_3b21_  1-7-5_-4__-5__ //]
+BEM[Partia wokalna-Mazur]
+
+DWOK22
+CUT[Zmieniła się w stawie woda]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 207, od Kłodawy (Bierzwina)]
+FKT[]
+SIG[2241400010]
+KEY[22414   32  G 3/8]
+MEL[3__.4_543_  5_5_6__2__  3__.4_5_4_  3_3_2__-7_-5_
+    1__.4_5_3_  5_5_6__-5__  1__.4_5_4_  3_3_2__-7__ //]
+BEM[Partia wokalna-Kujawiak]
+
+DWOK22
+CUT[Instrumentalna-Kujawiak]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 208, od Kłodawy (Bierzwina)]
+FKT[]
+SIG[2241400020]
+KEY[22414   16  G 3/8]
+MEL[-5-7-5_6_  5_(346)3_  (-51-7)-5_(676)  5_431_
+    -5-71_(345)  (345)(346)(343)  (-51-7)1_3_  3_343_
+    21-715_  (345)(346)(32-7)  21-7132  (123)4_31
+    2_-715_  4_343_  2_-713_  -7-6-7_2-5 //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Trzewicki mam pońcoski mam]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 208, od Dąbia (Umienie)]
+FKT[]
+SIG[2241500000]
+KEY[22415   16  G 3/8]
+MEL[135_6_  246_32  335_6_  242_1-7
+    131_-6-6  245_32  1_-5_-6-6  -542_1-7 //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 208, od Parzęczewa]
+FKT[]
+SIG[2241600000]
+KEY[22416   08  G 3/4]
+MEL[-64_432  31-7_21  -6-6_432  3_1-7-6_
+    -6-6_-5-71  35_421  -6-7-6-5-71  324_21 //]
+BEM[]
+
+DWOK22
+CUT[Jakem poszed na półrólki]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 208, od Dąbrowic (Chodcza, Kubłowo)]
+FKT[]
+SIG[2241800000]
+KEY[22418   16  G 3/8]
+MEL[13b5_5_  4#4#5_2_  13b5_5_  4#4#5_2_
+    43b1_2_  -7-71_5_  43b2_1_  -7-71_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Mazur]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 209, od Parzęczewa]
+FKT[]
+SIG[2241900000]
+KEY[22419   16  G 3/8]
+MEL[3_+1_65  7_+1_54  3_+1_65  4_2_21
+    35+1765  7+2+17+11  35+1765  432_21
+    3_1_46  5_+1_65  3_1_46  4_2_21
+    345146  57+1_(654)  3_1_46  432_21 //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Mazur żydowski]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 209, Parzęczew]
+FKT[]
+SIG[2242000000]
+KEY[22420   32  A 3/8]
+MEL[1_3b_5__5__  5_2_4__3b__  2__4__1__  3b_.21__-5__
+    1_3b_5_6_5_4#_  5_2_4__3b_2_  1_2_4__1__  3b_.21__1__
+    3b_.21__1__  -7__5__-5__  -5_-6_-7__-5_-4_  -5_-6_-7_-6_-5__
+    3b_.21__1__  -7__5___  -5_-6_-7__-5__  -7_2_3__1__
+    -5__-7__1_2_  3b__3b_2_4_3b_  2__-5__-6_-7_  1_-6_-4__-5__
+    -5__-7__1_2_  3b_4_5__4_3b_  2__-5__4_2_  1_-6b_-4__-5__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Karczmarka nasza tłusta]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 209, od Krośniewic, Kłodawy]
+FKT[]
+SIG[2242100000]
+KEY[22421   16  G 3/8]
+MEL[-5_1-712  3_5421  3_2_54  325__
+    -5_1_1_  3_4_2_  3_2_5_  321__
+    323123  434653  123_23  4_2-7-5_
+    3_5423  1_246_  5_6423  1_2-71_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 209, od Kłodawy, Przedcza]
+FKT[]
+SIG[2242200000]
+KEY[22422   16  G 3/8]
+MEL[(135)7b67b+2  +164_43  46+17+1+2  5_.31_
+    1_7b_7b+2  +164_4_  42-7b_-7b2  431__
+    1_4_43  42-7b_-7b2  -7b24_45  431__
+    4_4343  42-7b_-7b2  (2-7b2)4_45  (432)1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Walc]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 210, od Kłodawy]
+FKT[]
+SIG[2242300000]
+KEY[22423   16  G 3/8]
+MEL[5_3_13  -5_-7265  4_24-72  1_35+15
+    3_3_13  -5_-7265  4_24-72  1__.
+    133_31  2_211-7  244_24  3_5_21
+    133_31  6_211-7  244_-72  1__. //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Walc]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 210, od Łęczycy]
+FKT[]
+SIG[2242400000]
+KEY[22424   16  C 3/8]
+MEL[+5_+5+5+5+5  +4#__+2_  +3_+3+3+3+3  +2__7_
+    +1__2_  2_3_4#_  54#5764#  5__.
+    +5_+5+5+5+5  +4#__+2_  +3_+3+3+3+3  +2__7_
+    +1__2_  2_3_4#_  5_5_64#  5__.
+    +1__2_  24#6+16_  7_2_4#_  2_57+2_
+    +1__2_  24#6+1+3_  +2__2_  5__4_
+    3_3333  4__2_  4_444_  5__3_
+    5_5_5_  6_6_4_  6_7_7_  +1__1_
+    3_3333  4__2_  4_444_  5__3_
+    5_5_5_  6_6_4_  6_7_7+2  +1__. //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Oj Rakutowiaki nieboraki]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 211, od Kowala (Bogusławice)]
+FKT[]
+SIG[2242500010]
+KEY[22425   32 Bb 3/8]
+MEL[1_2_3_4_5_6_  5_4_3__3__  3__2_-7_2_3_  4_3_2__3__  3__21-712_3_  4_3_2__3__
+    5__3_1_2_-7_  1__.3_2_4_  5__3_1_2_2_  1__-6-5-6-71_3_
+    5__3_1_2_-7_  1__.3_2_4_  5__3_1_2_-7_  1__-5_-7_1_1_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Oj Rakutowiaki nieboraki]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 211, od Kowala (Bogusławice)]
+FKT[]
+SIG[2242500020]
+KEY[22425   16 Bb 3/8]
+MEL[-712343  23213_  1-7-6_2_  -5-6-7_3_  1-7-6_2_  -5_-7_2_
+    -712343  232132  (21-7)-6_32  -5-6-7_32  1-7-6_32  -5_-7_1_
+    -6_-7__  -5_1-7-61  -6_-7__  -5_-6_-7_
+    -61-7_1_  -5_1-7-61  -61-7_1_  -51-61-71
+    -6_-7_1_  (-5-6-7)1_-71  (-5-6-7)1_-6-7 //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[A chociaż ja konie zaprząg]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 212, od Kowala (Bogusławice)]
+FKT[]
+SIG[2242600000]
+KEY[22426   32  G 3/8]
+MEL[1_3_3__5__  5_2_4#__5__  5__4#_2_3_4#_  5___3_4_
+    2__1_-7_1_1_  1__1__3_54#  2__2__1_-7_  2___-7_1_
+    2__1_-7_1_1_  1__1__3_5_  2__2__1_-7_  -5___-5__ //]
+BEM[]
+
+DWOK22
+CUT[Ojze nie chodź Jasiu do tej]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 212, od Kowala (Rakutowo)]
+FKT[]
+SIG[2242700000]
+KEY[22427   32  G 3/8]
+MEL[1_3_5__.4#_  2_4_5__6__  1_3_5__.4#_  2_-7_1__3__
+    -5_-7_1__3_5_  4_2_4__6__  5_3_5__6_4_  2_-7_1__3__
+    -5_.-71_3_2_54#  2_4_6__^765  -5_.-71_3_2_54#  2_4_6__^765
+    -5_-7_1_3_2_4_  2_-7_1__3__  2_-7_1_3_2_4_  -5_-7_1__3__ //]
+BEM[]
+
+DWOK22
+CUT[Parobeczku krzywo orzesz]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 212, od Kowala (Więcławice)]
+FKT[]
+SIG[2242800000]
+KEY[22428   16  D 3/4]
+MEL[4_6_+1__+1__  +2__.+175__  4_56+1__+1_7_  +2__.+175_5_
+    4_4_3__4_3_  5_7_+1_7_5_5_  4_4_3__4__  1_3_4_3_1__ //]
+BEM[Kujawiak chodzony]
+
+DWOK22
+CUT[O matko matko moja]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 212-213, od Przedcza (Zbijewo)]
+FKT[]
+SIG[2242900000]
+KEY[22429   16  G 3/8]
+MEL[1_4_4_  456_54  3_+1_+1_  +157b_6_
+    542_.4  35+1_+17  542_.4  323_1_
+    542_.4  35+1_+13  542_.4  323_1_ //]
+BEM[Mazur]
+
+DWOK22
+CUT[Instrumentalna-Ojże ojże dziewcze moje]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 213, od Kowala (Więcławice)]
+FKT[]
+SIG[2243100010]
+KEY[22431   16  G 3/8]
+MEL[-5-71_42  -724_6_  653_42  -7-51_-6_
+    -5-71_42  (1-72)4_6_  653_42  (1-7-5)1_-6_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Ojże ojże dziewcze moje]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 213, od Kowala (Więcławice)]
+FKT[]
+SIG[2243100020]
+KEY[22431   16  G 3/8]
+MEL[-5-71_3_  1_5_2-7  -5-71_3_  1_-6_2-7
+    -5-71_3_  6_5_2-7  -5-71_3_  1_-6_2-7 //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Mazur szlachecki]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 213, od Lubrańca (Zgłowiączka)]
+FKT[]
+SIG[2243200000]
+KEY[22432   16  A 3/8]
+MEL[-5-71_2_  3_-7_1_  -6_-6-5-6-7  2_-7_1_
+    -5-71_2_  3_1_2_  -6_-6-5-6-7  2_-7_1_
+    354#567  +154_4_  35421_  -623_3-5
+    354#567  +154_2_  35421_  2_-7_-7_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Oj co my po tej roli]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 214. od Włocławka]
+FKT[]
+SIG[2243300010]
+KEY[22433   16  G 3/8]
+MEL[-5-71_31  -6-72_-7-5  4_5_32  1-6-7_2_
+    421_31  -6-72_-7-5  6_5_32  1-6-5_-7_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Oj co my po tej roli]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 214, od Włocławka]
+FKT[]
+SIG[2243300020]
+KEY[22433   16  G 3/8]
+MEL[1_4_.6  565346  5_4_.6  565342
+    134_2_  124_6_  5_423_  1-6-7_2_
+    134_2_  12-7_1_  5_423_  1-6-7_-5_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Mazur]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 214, Radziejowo]
+FKT[]
+SIG[2243400000]
+KEY[22434   32  C 3/8]
+MEL[5_.7+1__.+3_  +2__7__5_4_  2_4_5_7_+2__  +3_+2_+1_+2_+3_+5_
+    5_.7+1_+3_+4_+3_  +2_+1_7_6_5_4_  2_4_5_7_+2__  +3_+2_+1_+2_+3__
+    3_5_5__+1_7_  6_5_3__+2_7_  5_7_+2_+4_+6_+4_  +3_+2_+1_+2_+3_+1_
+    3_5_5__+1_7_  6__7__+2__  5_7_+2_+4_+2_7_  +1__+1__+1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Da i konie rżają nic nie mają]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 214, od Włocławka, Brześcia]
+FKT[]
+SIG[2243500010]
+KEY[22435   16  A 3/4]
+MEL[-5_-7_1_3b_5_.2  5_3b_2__5__  -5_-7_1_3b_5_.2  5_4_3b__2__
+    -5_-7_1_2_3b_1_  -5_-7_2__5__  -5_-7_1_2_3b__  -5_-7_1__2__ //]
+BEM[melodia wokalna]
+
+DWOK22
+CUT[Da i konie rżają nic nie mają]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 214, od Włocławka, Brześcia]
+FKT[]
+SIG[2243500020]
+KEY[22435   16  A 3/8]
+MEL[-715_43b  5_2-7-5_  -715_43b  5_2-7-5_
+    -7123b42  5_2-75_  -7123b42  1_2-75_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Kujawiak chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 214-215, od Lubrańca]
+FKT[]
+SIG[2243600010]
+KEY[22436   08  G 3/4]
+MEL[-5_-7_1_  21-7_1_  2_4#_5_  (43b2)1__
+    5__67  654#5(3b21)  5__67  654#1(3b21)
+    5_54#1_  3b21-71_  5_54#1_  54#3b21_
+    2__1-7  1254(3b21)  2__1-7  (123b)(21-7)1_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Oberek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 215, od Lubrańca]
+FKT[]
+SIG[2243600020]
+KEY[22436   16  G 3/8]
+MEL[-5-71-7(1-72)  254#5(254#)  -5-71-7(1-72)  (243b)2_1-7
+    -5-71_2_  254#52_  -5-71_2_  (243b)2_1-7 //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Kujawiak ci ja Kujawiak]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 215, od Brześcia (Śmiłowice)]
+FKT[]
+SIG[2243700010]
+KEY[22437   16  A 3/4]
+MEL[-5__.-7_2_4#_  5_3b21__5__  -5__.-7_2_4#_  5_3b21__-7__
+    -5__.-7_2_-7_  1_2_3b__2_-7_  -5__.-7_2_-7_  -6_-7_1__-7__ //]
+BEM[melodia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Kujawiak ci ja Kujawiak]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 215, od Brześcia (Śmiłowice)]
+FKT[]
+SIG[2243700020]
+KEY[22437   32  A 3/8]
+MEL[-5__.-7_1_3b_  56b542__-7__  -5__.-7_1_2_  (3b_2_1_)-7__2__
+    -5__.-7_1_3b_  5_4_2__-7__  -5__.-7_1_2_  (3b_2_1_)-7__2__
+    -5_-5_-5_-7_1_2_  3b_2_1_-7_2_-7_  -5_-5_-5_-7_1_3b_  5_6b_5_4_2_5_
+    2_4#_6_5_(4_3b_2_)  3b_2_3b_1_4#_5_  2_4#_6_5_4_2_  3b_2_3b_1_2_-7_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Da już cię odchodzę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 215, od Służewa, Nieszawy]
+FKT[]
+SIG[2243800010]
+KEY[22438   08  A 3/4]
+MEL[-5-5-5-713b  13b4_2_  -5-5-5-713b  1-6-7_2_
+    -5-5-5-713b  3b21-72-7  -5-5-5-712  1-6-7_2_ //]
+BEM[melodia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Da już cię odchodzę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 215, od Służewa, Nieszawy]
+FKT[]
+SIG[2243800020]
+KEY[22438   16  A 3/8]
+MEL[-5_.-712  (3b23b)5_6_  4_.2(3b13b)  53b212-7
+    -5_.-712  3b_5_6_  4_.23b_  53b212_
+    -5_.-712  3b21-725  -5_.-712  3b21-72-7 //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Kołodziej]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 216, od Brześcia (Śmiłowice)]
+FKT[]
+SIG[2243900000]
+KEY[22439   16  C 3/4]
+MEL[5__5_7_+1_+3_  +5__+5_+4_+3_+1_  5__5_7_+1_+3_  5_7_+1__+3_+1_
+    +5__.+6_+7_+6_  +5_.+4+3__+5_+3_  5__5_5_5_5_  5__5_7_+1_+3_
+    +1___.  +1___.  5__5_5_5_5_  5__5_7_+1_+3_
+    5__5_7_+1_+3_  +5__+5_+4_(+3_+1_6_)  5__5_7_+1_+3_  5_7_+1__+3_+1_
+    5__5_7_+1_+3_  +5__+5_+4_(+3_+1_6_)  5__5_7_+1_+3_  5_7_+1__+3_+1_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Dalij cięgiem graluchna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 216, od Służewa (Koneck)]
+FKT[]
+SIG[2244000010]
+KEY[22440   16  A 3/8]
+MEL[(-5-71)3b_23b  -5-72_5_  -513b_23b  -5_2_1_
+    -513b_21  -5-5-4_-6b_  (-5-71)3b_23b  -5-72_1_ //]
+BEM[melodia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Dalij cięgiem graluchna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 216, od Służewa (Koneck)]
+FKT[]
+SIG[2244000020]
+KEY[22440   16  A 3/8]
+MEL[(-5-71)3b_23b  (23b4#)5_4#5  (-5-71)3b_23b  (23b4#)5_4#5
+    (-5-71)5_4#5  4#_5_(-5-71)  (-5-71)5_(3b21)  (-5-6b-7)2_1_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Oj i dyna moja dyna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 216, od Lubrańca (Sułkowo)]
+FKT[]
+SIG[2244100000]
+KEY[22441   08  G 3/4]
+MEL[-513_32  4#67_5_  321_32  (54#-5)-6-71_
+    -513_32  (4#52)4_31  -513_32  (54#-5)-6-71_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 216-217, od Osięcin (Bątkowo)]
+FKT[]
+SIG[2244200000]
+KEY[22442   16  A 3/4]
+MEL[(1_4_6_)+1_7_+1_7_  +1_+1_+2__+1_6_  (1_4_6_)+1_7_+1_7_  +2_+1_7b__6_5_
+    (1_4_6_)+1_+2_+1_7_  +1_+1_+2__+1_6_  (1_4_6_)+1_7_+1_7_  +2_+1_7b__6_5_
+    56531_7b_6_5_  (4_5_6_)(+2_+1_7b_)6__  56531_7b_6_5_  4_1_4_1_5_1_
+    56531__+3b_+2_  +1_+2_+1_6_+2_+1_  5_5_5_7b_6_5_  6__6__5__
+    56531__+3b_+2_  +1_+2_+1_6_+2_+1_  5_5_5_7b_6_5_  4_1_4_1_3_1_
+    1_1_1__3_5_  (3_5_6_)4_2_-7b_-7_  1_1_1__3_5_  4_2_-7b_-6_1_-5_
+    1_1_1__3_5_  7b_6_4_2_-7b_-6_  1_1_1__3_5_  4_2_-7b_-6_1_-5_
+    1_1_1__3b__  2_2_2_4_3_2_  1_1_1__3b__  -7b_-7b_-7b_-4_1_-4_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Trącaj we strónki graluchna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 217, od Osięcin(Bodzanowo bachorne)]
+FKT[]
+SIG[2244300010]
+KEY[22443   16  A 3/4]
+MEL[3b_2_1__5__  6__56_.56_.  5_3b_1__2__  -5__2__1__
+    3b_2_1_3b_5_6_  6__56_.56_.  5_3b21__2_-7_  -5_-7_2_-7_1__
+    4__(3b_2_1_)2_-7_  -5_-7_2_-7_2_5_  4__3b__2_-7_  -5_-7_2__1__ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Trącaj we strónki graluchna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 217, od Osięcin (Bodzanowo bachorne)]
+FKT[]
+SIG[2244300020]
+KEY[22443   32  A 3/8]
+MEL[(-5_-6_-7_)1__3b__  (-5_-6_-7_)1__3b__  (-5_-6_-7_)1__3b_1_  -5__2__1__
+    5_5_0_5_5_5_  5_5_6__5__  5_5_0_5_5__  0_2_2__1__
+    3b__2__1__  3b__2__1__  3b__2_1_3b_5_  -5_.22__1__
+    3b__2__1__  3b__2__1__  3b__2_1_3b_1_  -5_.22__1__ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Da i siadaj na moj koń]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 218, od Lubrańca (Redecz krukowy)]
+FKT[]
+SIG[2244400010]
+KEY[22444   16  G 3/4]
+MEL[3_2_1_3_5_6_  7_6_5_4#_5_.2  432_3_3_2_.-7  -5_-7_2_-7_1__
+    3_2_3_3_2_.-7  2_4_4_4_5_.4  3_2_3_3_2_.-7  -5_-7_2_-7_1__ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Da i siadaj na moj koń-Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 218, od Lubrańca (Redecz krukowy)]
+FKT[]
+SIG[2244400020]
+KEY[22444   32  G 3/8]
+MEL[3__1__+1_+3_  3_.21__+1_+3_  3__5__3_1_  2_-7_2__1__
+    3_.21__+1_+3_  3__1__4__  5_3_5__3_1_  4_2_-7_2_1__
+    -5__2__1__  -5__2__1__  5__5_5_5__  -5_-7_2_-7_1__
+    4__2_-7_1__  -5_-7_2_-7_-1__  5__5_5_5__  -5_-7_2_-7_1__ //]
+BEM[Partia instrumentalna-Mazur]
+
+DWOK22
+CUT[Tańcowała nie umiała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 218, od Brześcia (Wieniec)]
+FKT[]
+SIG[2244500000]
+KEY[22445   08  G 3/4]
+MEL[3b2_13b5  +17+1_+1_  3b2_13b1  -5-72_2_
+    4_.213b  4_4_(123b)  5_.4(3b21)  -5-72_2_ //]
+BEM[]
+
+DWOK22
+CUT[A i z tegoś my się Jasiu udał]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 218, od Brześcia (Sokołowo)]
+FKT[]
+SIG[2244600000]
+KEY[22446   16  F 3/4]
+MEL[3_2_1_3_4_6_  +2_.+16__5__  3__2_1_4_6_  (2_3_4_)6__5__
+    3__1_3_4_6_  2_3_4__5__  3_2_1_3_4_6_  2_4_6__5__ //]
+BEM[]
+
+DWOK22
+CUT[A bodaj zmarniała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 218, od Przedcza]
+FKT[]
+SIG[2244700010]
+KEY[22447   32  G 3/8]
+MEL[3___1__  2_4_6__5__  3___1__  2_-7_-5__1__
+    3___1__  2_346__5_42  3___1__  2_1-7-5_-6-7(1_3_5_) //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-A bodaj zmarniała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 218-219, od Przedcza]
+FKT[]
+SIG[2244700020]
+KEY[22447   16  G 3/8]
+MEL[5_5_(321)  456_42  5_5_(321)  1-7-6_-5_
+    (-6-71)2_(-7-6-5)  1-7-6_-5_  (-6-71)2_(-7-6-5)  (-6-71)2_54
+    (321)1-7-6-5  1-7-6_-5_ //]
+BEM[Partia instrumentalna-Ksebka]
+
+DWOK22
+CUT[Instrumentalna-Mazur]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 219, Włocławek]
+FKT[]
+SIG[2244800000]
+KEY[22448   32 Bb 3/8]
+MEL[3__3__1__  3_.45__6__  2__4_3_2__  3_.21__-5__
+    3__3__1__  3_.45_4_5_6_  4__6_5_4__  3_.21___
+    1_3_5__5_6_  5_4_3_4_5_6_  -5__4__3_2_  4_.31__-5__
+    1_3_5__5_6_  5_4_3_4_5_6_  -5___-7_2_  2_.31___
+    -5__-7_-6_-5__  -7_.25___  -2__1__-7_-6_  -5__-7_-6_-5_-7_
+    2__5__-7_.2  5__-5_-7_2__  -2__1__.-6_  1_-7_-6_-7_-5__
+    -5__-7_-6_-5__  -7_.25___  -2__1__-7_-6_  -5__-7_-6_-5_-7_
+    2__5__-7_.2  5__-5_-7_2__  -2__0__-4#_-6_  -7__-6_-4_-5__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 219, od Osięcin (kościelna Wieś)]
+FKT[]
+SIG[2244900010]
+KEY[22449   16  A 3/4]
+MEL[1__1__1_5_  6_7_6__5_3_  1__1__1_6_  5_.23__2_-7_
+    3_.23__(3_4_5_)  6_7_6__5_3_  3_.23__(3_4_6_)  5_.23__(2_1_-7_)
+    1_3_5__4_3_  2__5__2_-7_  1_3_5__4_3_  -5__-5__-5__
+    (1_2_3_)5__(3_2_1_)  2__5__(2_1_-7_)  (1_2_3_)5__4_3_  2_.12__-7_-5_ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Ksebka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 219, od Osięcin (Kościelna Wieś)]
+FKT[]
+SIG[2244900020]
+KEY[22449   16  A 3/8]
+MEL[1_1_1_  (423)5_32  1_1_2_  (234)2_1-7
+    1_1_1_  (423)5_32  1_1_1_  (234)2_(1-7-5)
+    (-5-6-7)2_2_  24#5_32  1_1_1_  (234)2_2_
+    (-5-6-7)2_2_  24#5_32  1_1_1_  (234)2_(21-7) //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Powiedziałeś że mnie weźmiesz]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 220, od Babiaka (Lubotyń)]
+FKT[]
+SIG[2245000000]
+KEY[22450   16  A 3/8]
+MEL[-555_4_  3b25_2-7  -555_4_  3b52_1-7
+    -5-71_43b  245_2_  -5-71_4_  3b12_1-7 //]
+BEM[]
+
+DWOK22
+CUT[Dopiero my rutka kwitnie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 220, od Babiaka (Mchowo)]
+FKT[]
+SIG[2245100000]
+KEY[22451   08  F 3/4]
+MEL[1_.243  576_42  1_.243  1-7-5_5_
+    3_.24_  (435)+1_(642)  3_.243  (31-7)-5_-5_
+    324357  652_1_  32431-7  -5-5-5_5_
+    324357  652_1_  32431-7  -5-5-7_1_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Weselny]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 220, od Lubrańca]
+FKT[]
+SIG[2245200000]
+KEY[22452   16  G 3/4]
+MEL[1__1__3__  5__6_5_3__  2_4_3__3__  5__2_4_3__
+    (3_4_5_)3__(3_2_3_)  (5_6_7_)6_5_4_3_  (2_3_4_)3__(3_2_3_)  (5_6_5_)(2_3_4_)3__
+    1_5_7__.6_  1__1__1_2_  3_2_3__3_2_  1_-5_1__1__
+    (3_5_6_)7__.6_  (3_4_5_)3__(3_5_6_)  3_2_3__3_2_  (3_5_6_)(4_3_2_)1__
+    (-5_-6_-7_)1__2_4_  1__3_01(3_5_6_)  (-5_-6_-7_)1__(2_3_4_)  1_032__3__
+    (-5_-6_-7_)1__(2_3_4_)  5_6_(4_3_2_)5__  (-5_-6_-7_)1__2_4_  5__(4_3_2_)1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Okrągły]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 221, od Radziejowa (Zagórzyce)]
+FKT[]
+SIG[2245300010]
+KEY[22453   16  D 3/4]
+MEL[7b___.  6_7b_6_7b_+2_+3_  +2_+1_6__4_3_  456_^_+1_+2_+3_  +2_+1_+1_7_5__
+    6_7b_6_7b_^65_  +1_6_6_5_4__  4_6_^_46+1_7_  5_6_5_431__
+    1_.23_5_431_  4_6_6_5_4_3_  (4_6_5_)4_6_+1__  +2__+1_7_5__
+    1_.23_5_4_3_  4_6_6_5_4_3_  (4_6_5_)4_6_+1_7_  (5_6_5_)4_3_1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Kujawiak]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 221, od Radziejowa (Zagórzyce)]
+FKT[]
+SIG[2245300020]
+KEY[22453   08  G 3/4]
+MEL[323_56  (567)6_2_  3235(654)  1_212_
+    323452  3_232_  3235(654)  33232_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Ksebka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 221, od Radziejowa (Zagórzyce)]
+FKT[]
+SIG[2245300030]
+KEY[22453   32  G 3/8]
+MEL[3_3_2__6_7_  6__6__3_2_  3_3_2__6_7_  643_4_2_5__
+    3_3_2__6_7_  6_4_6__3_2_  3_3_2__6_7_  4_3_4_2_1__
+    -5-6-7_1__3__  213_4_2_5__  -5-6-7_1__3__  213_4_2_1__
+    -5-6-7_1__3__  213_4_2_5__  -5-6-7_1__3__  213_4_2_1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Da po cóżeś wołki przygnał]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 221, od Włocławka]
+FKT[]
+SIG[2245400010]
+KEY[22454   32  F 3/8]
+MEL[3_3_4__6__  5_3_1__4__  3_3_4__6__  5_1_2__4__
+    3_3_4__2__  5_316__4__  5_5_6__2__  5_.12__4__ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Da po cóżeś wołki przygnał]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 221, od Włocławka]
+FKT[]
+SIG[2245400020]
+KEY[22454   16  F 3/8]
+MEL[35^4+16  5+1^642  35^4+16  53^142
+    35^467  ^5^342  35^46_  53^142 //]
+BEM[Partia instrumentalna - Ksebka]
+
+DWOK22
+CUT[Instrumentalna-Chodzony weselny]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 221-222, od Lubrańca (Otmianowo)]
+FKT[]
+SIG[2245500000]
+KEY[22455   08  G 3/4]
+MEL[3_3_67  5_4_2_  3__1_
+    323567  6_4_(235)  3__1_
+    323567  645764  564_35  3__1_
+    -6-71_(1-71)  3__1_  -613542  3__1_  35765_  6__4_
+    (235)(67+1)75  6__4_  354434  6__2_
+    (123b)5_7_  624_6_  5_3b12_  -7b-5-7b_-6_
+    23b1_2_  -7b-5-7b_(23b4)  123b12_  -7b-5-7b_-6_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[O dla Boga co takiego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 222, od Lubrańca (Paniewo)]
+FKT[]
+SIG[2245600010]
+KEY[22456   16  A 3/8]
+MEL[345_3_  556_4_  234_6_  5_.21-5
+    131_1_  234_2_  465_.3  421_1_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-O dla Boga co takiego]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 222, od Lubrańca (Paniewo)]
+FKT[]
+SIG[2245600020]
+KEY[22456   16  A 3/8]
+MEL[(-5-6-7)1_3_  425_(1-7-6)  (-5-6-7)1_.3  421_-5_
+    (-5-6-7)1_5_  426_(1-72)  465_.3  421_1_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Chodzony weselny]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 222, od Osięcin (Bodzanowo bachorne)]
+FKT[]
+SIG[2245700010]
+KEY[22457   16  C 3/4]
+MEL[+3_+4_+5__+3__  +2_+3_+4_+6_+3_+2_  +3_+4_+5__+1__  +2_+3_+4_+2_+1_7_
+    +1_+1_7__5__  +2_+2_+3_+5_5__  +1_+1_7__5__  6_7_+2_+4+5+1__
+    +1+3+2+17__5__  +2_+2_+3_+5_5__  +1_+1_7__5__  6_7_+2_+4+5+1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Odsibka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 221, od Osięcin (Bodzanowo bachorne)]
+FKT[]
+SIG[2245700020]
+KEY[22457   32  G 3/8]
+MEL[-7_2_4__3__  5_3_1_3_5_2_  2_2_4_3_5_6_  5_3_1_3_1_2_
+    -7_2_^_4_5_6_  5_3_^21-6-6_-5_  -6___-6_1_  -6_-6_-6_-6_2_1_
+    -5_-4_-5_-6_-5_-7_  2_3_2_1_-6_-5_  -4___-6_1_  -6__-6_-6_2_1_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 223, od Służewa (Koneck, Żołnowo)]
+FKT[]
+SIG[2245800000]
+KEY[22458   16  G 3/4]
+MEL[3_4#_5__.6_  5_4#_2__3_1_  3_4#_5__.4#_  2_3_5__3_1_
+    3_4#_5_6_7_6_  5_4#_2_6_(3_2_1_)  (2_3_4#_)5_6_5_4#_  2_3_5_6_(3_1_-7_)
+    -5__.3_43_.  2_4_6_5_3_1_  -5_1_3__43_.  2_-7_(1_3_5_)(3_1_-7_)
+    -5__.3_43_.  2_4_6_5_3_1_  -5__3__43_.  2_-7_1_3_1_-7_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Chodzony na ksebke]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 223, od Brdowa]
+FKT[]
+SIG[2245900010]
+KEY[22459   16  G 3/4]
+MEL[32345_5_6_6_  4_6_56534_2_  3_1_-7_-5_5__
+    3_4_5_5_6_6_  4_6_5_5_4_2_  3_1_-7_-5_1__
+    4__3_3_2_2_  1_1356534_4_  34312_2_5__
+    4__3__2__  1_135_5_4_4_  3_3_2_2_1__
+    -5__-6_-6_-7_-7_  131_-5_-5_4__  3_3_2_2_5__
+    -5__-6__-7__  1_1_-5_-5_2__  3_3_2_2_1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Na odsibke]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 223, od Brdowa]
+FKT[]
+SIG[2245900020]
+KEY[22459   32  G 3/8]
+MEL[-5_065#_6_7__  6_5_4#_5_6_2_  -5_065#_6_7__  6_5_4#_5_4_2_
+    -5_4_3_4_6_5_  (4_3_2_)1__5__  -5_4_3_4_6_5_  (4_3_-5_)(-6_-7_2_)1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 223, od Piotrkowa]
+FKT[]
+SIG[2246000000]
+KEY[22460   16  G 3/8]
+MEL[34#5_5_  246_21  34#5_5_  -5-71_21
+    34#5_-5_  -715_21  34#5_-5_  -642_-71 //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Hola hecka ja z Konecka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 223, od Osięcin (Lekarzewice)]
+FKT[]
+SIG[2246100000]
+KEY[22461   16  F 3/8]
+MEL[345_7+1  66+1_5_  345_7+1  642_21
+    345_31  142_21  346_53  142_5_ //]
+BEM[]
+
+DWOK22
+CUT[Ojciec wielki skakał do belki]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 224, od Lubrańca (Redecz krukowy)]
+FKT[]
+SIG[2246200010]
+KEY[22462   16  G 3/4]
+MEL[4__6__6_5_  3_5_6__.56  3_4_6_6_6_5_  3_3_4__.1-7
+    -5_-7_1__.2_  3__4_6_4_23  -5_-7_1__.-7_  1_234_4_4_1-7 //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Ojciec wielki]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 224, od Lubrańca (Redecz krukowy)]
+FKT[]
+SIG[2246200020]
+KEY[22462   32  G 3/8]
+MEL[1_3_5_6_2__  2_4_3__1__  1_3_5_2_4_32  1_1-7-5__1__
+    1___3_5_  5_5_6__2__  4_4_5_2_4_32  1_1-7-5__1__ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 224, od Lubrańca (Sułkowo)]
+FKT[]
+SIG[2246300000]
+KEY[22463   32  G 3/8]
+MEL[3_4_5_6_5__  4__5_3_2_1_  3_4_5_6_5_-5_  1_3_4_2_3__
+    3_4_5_6_5_2_  3_4_6_7_6_5#_  3_4_5_6_5-5-6-7  1_3_4__3_1_
+    3__4_2_3__  1_3_4_2_3__  3__4_2_3__  1_3_4_2_1__
+    3__4_2_3_-5_  1_3_4_2_3_-5_  3_-5_4_2_3_-5_  1_3_4_2_1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 224, od Raciążka (Turzno)]
+FKT[]
+SIG[2246400000]
+KEY[22464   08  G 3/4]
+MEL[3b5676_  5_3b_1_  3b5-7_2_  5_3b_1_
+    2_.-5-7_  253b_1_  2_.-5-7_  2_3b_1_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Dopierom tu do krów przyszła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 224, od Lubrańca (Redecz wielki)]
+FKT[]
+SIG[2246500010]
+KEY[22465   16  F 3/8]
+MEL[354_.1  -713_2_  354_.1  -713_-5_
+    3_4_21  -714#542  3_4_21  -713_-5_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Dopierom tu do krów przyszła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 224, od Lubrańca (Redecz wielki)]
+FKT[]
+SIG[2246500020]
+KEY[22465   16  F 3/8]
+MEL[354_65  356_7_  624_65  2_.13-5
+    3_4_42  353_.-5  3_4_65  213_-5_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Owczarek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 225, od Sempolna (Mąkoszyn)]
+FKT[]
+SIG[2246600000]
+KEY[22466   32  D 3/8]
+MEL[4_6_+17_.+2+3_.  +2_+1_+3___  ^_+2+1^___
+    4_6_+17_.+2+3_.  +2_+1_+3___  +2_+1_+6_5_^__
+    4_6_+17_.+2+3_.  +2_+1_+3_+2_65_.  4_6_+17_.+2+3_.  +2_+1_7+1_.65_.
+    4_6_+17_.1_23  4_5_+2__+1__  4_6_+17_.1_23  4_5_3__1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Śmigaj po rosie jagoda]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 225, od Kowala (Bogusławice)]
+FKT[]
+SIG[2246700000]
+KEY[22467   32  G 3/8]
+MEL[1_3_6_5_4__  3_2_2_1_2__  3_5_+1__(7_6_4_)  3_5_6__-5__
+    1_3_6_5_4__  3_1_1__-6__  -4_-6_-6__1__  3_2_-7__-5__
+    -5_-7_2__3__  2_431__-6__  -4_-6_-6__1__  (1_3_2_)-7__-5__
+    -5_-7_2__3__  5_431__-6__  -4_-6_-6__1__  (1_3_2_)-7__-5__ //]
+BEM[]
+
+DWOK22
+CUT[Ja za wodą]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 225, od Kowala (Bogusławice)]
+FKT[]
+SIG[2246800000]
+KEY[22468   16  F 3/8]
+MEL[346_5_  (757)+1_.6  (534)6_5_  334_.2
+    (213)4665  356_42  134665  (313)4_2_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 225, od Lubrańca (Ołgonowo)]
+FKT[]
+SIG[2246900010]
+KEY[22469   16  A 3/4]
+MEL[3b__5__2__  4_4#_5_3b_1_-7_  23b23b5__-7b__  -7_2_4_3b_2_1_
+    3b_3b_5__2__  4_6_5_3b21_1-7  23b23b5__-7b__  -7_2_4_3b_2_1_
+    3b_3b_1__2_-7_  -5_-712_5_2_-7_  1_3b_23b23b-7__  -7_2-7-5_-7_1__
+    3b_3b_1__2_-7_  -5_-712_5_2_-7_  1_3b_23b23b-7__  -7_2-7-5_-7_1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Ksebka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 225, od Lubrańca (Ołgonowo)]
+FKT[]
+SIG[2246900020]
+KEY[22469   16  A 3/8]
+MEL[135654  67+1653  135654  67+1653
+    1-72432  1-72342  1_2432  1-6-721_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Ej dziewcze ej rybie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 226, od Kowala (Rakutowo)]
+FKT[]
+SIG[2247000000]
+KEY[22470   16  A 3/8]
+MEL[3_5_46  3_5_42  3_5_46  3_421_
+    -722_1_  -722_1-5  -722_13  542-71_ //]
+BEM[Kowal-taniec]
+
+DWOK22
+CUT[Jasiu Jasiu kenżeś Kaśkę podział]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 226, od Lubrańca (Świerczyn)]
+FKT[]
+SIG[2247100000]
+KEY[22471   16  F 3/8]
+MEL[6_+1_5_  6_+1_5_  656_+1_  5_310_
+    2_2_35  443_1_  2_2_35  4_1__ //]
+BEM[Przy weselu]
+
+DWOK22
+CUT[Śpij Kasiu śpij Kasiu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 226, od Włocławka]
+FKT[]
+SIG[2247200001]
+KEY[22472   16  A 3/8]
+MEL[3_5_.4#  3_5_.4#  3_5__  21-7_-5_
+    -5-51_3_  223_4_  -5-5-6_-7_  21-7_1_ //]
+BEM[]
+
+DWOK22
+CUT[Śpij Kasiu śpij Kasiu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 226, od Włocławka]
+FKT[]
+SIG[2247200002]
+KEY[22472   16  A 3/8]
+MEL[3__54#  335_.4#  (323)5_4_  21-7_2_
+    -5_1_3_  223_4_  -5__-6-7  21-7_1_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Pasterska(za wołami)]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 226, od Sompolna (Konina)]
+FKT[]
+SIG[2247300000]
+KEY[22473   16  G 3/8]
+MEL[5__65  5__65  5_5_67b  (654#)5_67b  (654#)5_67b
+    654#567b  (654)3_21  345643  (21-7)1_21
+    3_.243  (21-7)1_21  333243  (21-7)1_21 //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Zaszumiały bory lasy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 227, od Włocławka]
+FKT[]
+SIG[2247400000]
+KEY[22474   32  F 3/8]
+MEL[5_5_6__4#__  5_5_6__4__  (2_4_6_)5__(4_3_1_)  2_2_2__1__
+    -5_1_1__3_4_  5_2_2__1__  2_4_5_3_1__  3_2_2__1__
+    -5-71_3__3_4_  (5_4_3_)4__5__  2_4_5_3_1__  3_2_2__1__ //]
+BEM[]
+
+DWOK22
+CUT[Oj siano siano pod sianem woda]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 227, od Brdowa (Izbicy)]
+FKT[]
+SIG[2247500000]
+KEY[22475   16  G 3/4]
+MEL[3__5#_7_6_5_  6_432_345__  3__5#_5#_6_5_  4_3_2_2-71__
+    3__1_-6_1_2_  3_3_2_4_6_5_  3__1_-6_1_2_  3_3_2_-7_1__ //]
+BEM[Chodzony]
+
+DWOK22
+CUT[Oj siano siano pod sianem woda]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 227, od Piotrkowa żyd.]
+FKT[]
+SIG[2247600010]
+KEY[22476   16  G 3/4]
+MEL[3_5__4#56_4_  3_5__+1_6_4_  3_5__4#56_4_  3_1_2_2_1__
+    -7_2_2_5_3_1_  -7_2_2_123_1_  -7_2__5_3_1_  -7_-5_-6_-6_-5__ //]
+BEM[Polski]
+
+DWOK22
+CUT[Ożeń córkę matko ożeń]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 227, od Piotrkowa żyd.]
+FKT[]
+SIG[2247600020]
+KEY[22476   16  G 3/8]
+MEL[-5_-5_13  555_.4  2_-5_-72  443_1_
+    1_-5_13  555_.4  2_-5_-72  443_1_
+    -513_.2  1-7-6_-6_  -5-72_.1  -7-6-7_-5_
+    -513_.2  1-7-6_-6_  -5-72_.1  -7-5-7_1_ //]
+BEM[Partia wokalna-Obertas na ksebke]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 227, od Piotrkowa żyd.]
+FKT[]
+SIG[2247600030]
+KEY[22476   16  G 3/8]
+MEL[(-513)5_31  642__  (-5-72)4_2-7  253_1_
+    -513_.1  -7_-7_-7_  -5-72_.-7  1_1_1_
+    (1-51)3_.1  (-7-5-7)2_.-7  (-7-5-7)2_42  (345)3_.1
+    (1-51)3_.1  (-7-5-7)2_.-7  (-7-5-7)2_4_  223_.1 //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[A co to tu za marna wieś]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 228, od Nieszawy (Koneck)]
+FKT[]
+SIG[2247700000]
+KEY[22477   16  G 3/8]
+MEL[356543  464_2_  234_42  (345)3_1_
+    -513_31  234_2_  -5-72_4_  353_1_
+    1_0531  -5-72_2_  464_2-7  1357+1_
+    +1_0531  -5-7246_  464_2-7  111_1_ //]
+BEM[]
+
+DWOK22
+CUT[Na przypiecku Kuba orał]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 228, od Lubrańca (Otmianowo)]
+FKT[]
+SIG[2247800000]
+KEY[22478   16  F 3/8]
+MEL[353_4_  24345_  1324^3  -522_1_
+    3_5_21  342_2-7  132443  -5-7-7_1_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 228, od Lubrańca (Świerczyn)]
+FKT[]
+SIG[2247900000]
+KEY[22479   08  G 3/4]
+MEL[156_5_  356_(321)  3_67(532)  (-5-6-7)1_(41-7)
+    1_1_1_  -5-6-7-5(345)  133243  -5-6-71(21-7) //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Kołodziej]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 228, od Kowala (Grabkowo)]
+FKT[]
+SIG[2248000000]
+KEY[22480   16  G 3/8]
+MEL[3_5_76  5_3_62  3_5_76  5_312_
+    323576  543162  323576  54312_
+    1__5_  12312-7  1_5_.1  54312_
+    1_1_5_  54352-7  135_.1  54312_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Pokapiliście parobcy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 228, od Sompolna (Ruszkowo)]
+FKT[]
+SIG[2248100010]
+KEY[22481   16  A 3/8]
+MEL[3b56_5_  214#_2_  3b56_5_  21-7_1_
+    3b3b2_4_  23b54#2_  3b3b2_4_  21-7_1_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Pokapiliście parobcy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 228, od Sompolna (Ruszkowo)]
+FKT[]
+SIG[2248100020]
+KEY[22481   16  A 3/8]
+MEL[(-6-71)2_2_  (-6-71)2_2_  (23b4)5_-5_  1-72-7-5_
+    (-6-71)2_2_  2123b4_  (23b4)5_-5_  1-72-7-5_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[A w tem mojem całkiem życiu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 229, od Osięcin (Dąbie)]
+FKT[]
+SIG[2248200000]
+KEY[22482   16  G 3/8]
+MEL[357_54  324_6_  357_5_  324_1_
+    355_5_  324_6_  351_5_  324_1_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 229, od Kowala (Bogusławice)]
+FKT[]
+SIG[2248300010]
+KEY[22483   16  A 3/4]
+MEL[3b_5_7b_5_543b2  1_5_54#5_5__
+    3b_5_7b_5_4_3b2  1_1_1-71_^__
+    1_3b23b_2_3b_2_  5_54#5_54#5__
+    1_3b24_3b24_3b2  1___. //]
+BEM[Chodzony (dawny zalotny)]
+
+DWOK22
+CUT[Instrumentalna-Odsibka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 229, od Kowala (Bogusławice)]
+FKT[]
+SIG[2248300020]
+KEY[22483   32  A 3/8]
+MEL[1_3b_5__5_4#_  5_6b_5_4_5__  +1_7b6b5__4_2_  1_2_4__3b__
+    2_-7_-5__.-7_  1_2_4__5__  2_-7_-5__.-7_  1_2_4__3b__ //]
+BEM[Chodzony (dawny zalotny)]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 229, od Radziejowa (Płowce)]
+FKT[]
+SIG[2248400000]
+KEY[22484   16  G 3/4]
+MEL[5__3__7b__  6_5_4#_5_6_2_  5_4_3_1_7b__  6__4#_5_2_-5_
+    1_3_5_4#_6_7_  6_5_4#_5_6_2_  1_3_5__6__  6__.5_(3_2_-7_)
+    1_.35_4_(3_4_5_)  2_.1(3_5_2_)(3_2_-7_)  1_.35_4_(3_4_5_)  2_.13__2_-7_
+    1_2_3_1_4__  2__1_-7_2__  5_4_3_1_4__  2__1_-7_-5__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 229, od Chodcza (Szczutkowo)]
+FKT[]
+SIG[2248500000]
+KEY[22485   16  G 3/4 3/8]
+MEL[(5_4_3_)1__+3_+2_  (+1_7_+1_)+2__7b_+2_  5_3_1__+3__  +1_+1_+2__7b_6_
+    (5_4_3_)1_7_+1_5_  7_+1_6__(5_4_3_)  5_3_1__+1__  7_+1_6__5_3_
+    (5_4_3_)1__+3b_+2_  +1__+2__+2_+1_  5_3_1__+3b__  +1__(+2_+1_7_)6_4_
+    (5_4_3_)1__(1_2_3_)  (4_5_6_)+2__+2+176  5_3_1__2_3_  4_.34_5_6__
+    513464  513464  513464  57b+2+164
+    513464  57b6451  513464  515151 //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 230, od Radziejowa (Szczeblatowo)]
+FKT[]
+SIG[2248600000]
+KEY[22486   08  D 3/4]
+MEL[+1_+1754  567+1(+2+3+2)  +1+2^+1(7+2+1)  7_(565)43
+    4_+1754  567+1+2_  +1+2^+17_  7_5_43
+    13531_  1353(565)  4347(565)  6_5443
+    13531_  13535_  4_4_5_  6_5_43
+    434747  4747(565)  6_5443  4_5_43
+    434_4_  4_4_5_  6_5_4_  4_5_43 //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Oj zasie chłopcy zasie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 230, od Izbicy (Zagrodnica)]
+FKT[]
+SIG[2248700000]
+KEY[22487   16  G 3/8]
+MEL[5_5_67  653_1_  3_2_56  431_2_
+    -5_-6_-72  -7-5-7_2_  1_.265  431_2_
+    -5_-6_-72  (1-7-5)-7_23  1_.265  431_2-7 //]
+BEM[Pan młdy po Oczepinach do drużbów]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 230, od Sompolna (Śleszyna)]
+FKT[]
+SIG[2248800000]
+KEY[22488   32  G 3/4 3/8]
+MEL[5___5__5__5__5__  5___6__5__3__2__  3___^__2_3_6__5__  4__3___1__2__1_-7_
+    -5___^__-6_-7_2___  2__1__3___1__-7__  -5___^__-6_-7_2__-7__  2__5__4__3__2__1_-7_
+    -5___^__-6_-7_2___  -5___3__1__1__-7__  -5___^__-6_-7_2__  5___3__1__2_3_5__
+    -5___-721_  3_4_2_1_354_  2_4_6_7_6_4_  3_4_2_-7_1_-7_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Ja Kasica ty Kasica]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 230, od Kowala (Bogusławice)]
+FKT[]
+SIG[2248900000]
+KEY[22489   32  G 3/8]
+MEL[5_5_6__4__  2_031__.2_  5_5_6_5_4_3_  6_031__.2_
+    5_5_4_2_3_4_  5_6_1__.2_  5_5_4__3__  2_3_1__.2_ //]
+BEM[]
+
+DWOK22
+CUT[Oj ciągnie sie bez góry]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 231, od Izbicy, Przedcza]
+FKT[]
+SIG[2249000010]
+KEY[22490   16  G 3/8]
+MEL[5_5_6_  465_3_  1_4_31  -62-7_-5_
+    -5_-5_-71  23-7_1_  -5_3_1-7  -62-7_-5_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Oj ciągnie sie bez góry]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 231, od Izbicy, Przedcza]
+FKT[]
+SIG[2249000020]
+KEY[22490   32  G 3/8]
+MEL[5__6__4__  5_.63__1__  4_.32__1__  2__-7_-6_-5__
+    -5__-6_-7_1__  2_4_6__-5_4_  3__2__(1_-7_-6_)  2__-7_-6_-5__
+    -5__-6_-7_1__  -5_4_6__-5_4_  3__2__1__  2__-7_-6_-5__ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Tancowała surowiatka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 231, od Piotrkowa żyd.]
+FKT[]
+SIG[2249100000]
+KEY[22491   16  C 3/8]
+MEL[+2+2+3_+1_  +4+3+2_65  +4+3+1_64  365_3_
+    5_7_+1_  +2+37_+1_  +4+3+2_+16  (536)5_3_
+    5_7_+1_  +2+37_+1_  +4+3+2_+16  (536)5_(321) //]
+BEM[]
+
+DWOK22
+CUT[Czemu nie orzesz chłopalu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 231, od Babiaka (Mchowo)]
+FKT[]
+SIG[2249200010]
+KEY[22492   16  D 3/4]
+MEL[+1_+1_7_+1_6_  6_6_+2__+1__  5__.6_7b_+1_  +2_+2_+2__1__
+    +1__+1_7_+1_+1_  +4_+4_+2__+1_7b6  5__.6_7b_+1_  +2_+2_(+2_+3_+2_)+2__
+    4__.5_6_7b_  +1_+1_+2__+1__  5__.4_3_2_  1_3_4__1__
+    4__.5_6_7b_  +1_+1_+2__+1__  5__.4_3_2_  +1_.+17__+1__ //]
+BEM[Partia wokalna-Kujawiak]
+
+DWOK22
+CUT[Instrumentalna-Czemu nie orzesz chłopalu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 232, od Babiaka (Mchowo)]
+FKT[]
+SIG[2249200020]
+KEY[22492   32  G 3/8]
+MEL[4__5_4_2__  5__3_1_2__  -5_4_5_4_2__  1__1__2__
+    4__5_4_2_3_  5__3_1_2_-7_  -5_4_5_4_2_3_  1__1_3_2_-7_
+    -5_-6-71__1_-7_  1_1_2__^_1-7  1_3_1_-7_-6_-7_  2_1-7-6__-5__
+    -5_-6-71__1_-7_  1_1_2__^_1-7  1_3_1__5__  2_1-7-6__-5__ //]
+BEM[Partia instrumentalna-Obertas]
+
+DWOK22
+CUT[Czas do domu dzieweczko]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 232, od Sompolna (Sadlno)]
+FKT[]
+SIG[2249300000]
+KEY[22493   32  G 3/8]
+MEL[5__4__2_3_  1__2_4_6__  5__4__2_3_  1__2_-7_1__
+    -5__.-7_1__  3__2_4_3__  6__54_.23_.  1_-7_2_-7_1__ //]
+BEM[Kowal]
+
+DWOK22
+CUT[Tyś mi miluśka kochanko]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 232, od Brześcia (Śmiłowice)]
+FKT[]
+SIG[2249400000]
+KEY[22494   16  F 3/4]
+MEL[5__4__3_6_  565_5__3__  5__4__3_1_  352_2__1__
+    -5-72_4__332_  1_3_3__5__  -5-72_4_4_335_  -7_2_2__1__ //]
+BEM[]
+
+DWOK22
+CUT[A czyje to koniczki da po polu biegają]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 232, od Lubrańca (Otmianowo)]
+FKT[]
+SIG[2249500000]
+KEY[22495   32  F 3/8]
+MEL[5__4#__1__  2_3_4__7_6_  565_4#__1__  3_3_-7__1__
+    -5__-7__1__  2_3_4__1__  5__4#__1__  3_2_-7__1__
+    +1_+1_7__4_6_  4_3_7__+1__  +2_.+17b__4_6_  6_5_3__4__
+    -5_-7_1__4_6_  1_3_7__+1__  1__7__4_6_  1__3__4__ //]
+BEM[]
+
+DWOK22
+CUT[Oj w lecie w lecie słońce gorące]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 233, od Piotrkowa (Głuszyn)]
+FKT[]
+SIG[2249600010]
+KEY[22496   16  G 3/4]
+MEL[5__4_1_2_3_  2__5_3_2_1_  5__4_1_2_3_  2__3_1_-7__
+    1_234_3_1_3_  2__5_3_2_-7_  1__4_3_1_3_  2__3_1_-7__ //]
+BEM[Partia wokalna-Chodzony]
+
+DWOK22
+CUT[Instrumentalna-Oj w lecie w lecie słońce gorące]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 233]
+FKT[]
+SIG[2249600020]
+KEY[22496   32  G 3/8]
+MEL[-7_1_2__4__  3_3_^_2_4__  5_5_^_4#_5__  ^_321_-7_-5__
+    -7_1_2__4__  3_3_2__2__  1_1_^_-7_1__  -5__-4_-6_-5__ //]
+BEM[Partia instrumentalna-Ksebka]
+
+DWOK22
+CUT[Żebyś ty mnie moja Zosiu chciała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 233, od Kowala (Rakutowo)]
+FKT[]
+SIG[2249700010]
+KEY[22497   16  G 3/4]
+MEL[5_3_4__5__  5_7_+1_654_3_  5_3_4_6_5_7_  5_7_+1_654_3_
+    5_3_4__5__  1__^_354_3_  5_3_4_6_(5_7_6_)  1__^_354_3_ //]
+BEM[Partia wokalna-Chodzony]
+
+DWOK22
+CUT[Instrumentalna-Żeby ty mnie moja Zosiu chciała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 233, od Kowala (Rakutowo)]
+FKT[]
+SIG[2249700020]
+KEY[22497   08  G 3/4]
+MEL[466_67  65761_  466_67  65431_
+    3-5(-6-71)34  (543)676_  3-5-7134  5_431_ //]
+BEM[Partia instrumentalna-Odsibka]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 233, od Lubrańca (Redecz kalny)]
+FKT[]
+SIG[2249800010]
+KEY[22498   16  G 3/4]
+MEL[5__6__6__  5_4#_5_4#_2_3_  5_5_6_7_6__  5_4#_5_4#_2_1_
+    -7_-7-6-7_2_4__  1__1__5__  -7_-7-6-7_2_4#__  5_.43_2_1__ //]
+BEM[Partia instrumentalna-Chodzony]
+
+DWOK22
+CUT[A gdzie ja jadę to ja jadę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 233, od Lubrańca (Redecz kalny)]
+FKT[]
+SIG[2249800020]
+KEY[22498   32  G 3/8]
+MEL[(-7_2_4#_)5__3__  5_.62__1__  (-7_2_4_)1__3__  5_.42__1__
+    (-7_2_4#_)5__3__  5_.42__1__  (-7_2_4_)1__3__  5_.42__1__ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-A gdzie ja jadę to ja jadę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 233-234, od Lubrańca (Redecz kalny)]
+FKT[]
+SIG[2249800030]
+KEY[22498   16  G 3/8]
+MEL[1_235_  -724#654  3_215_  24#5432
+    1_3_5_  -724#65_  3_235_  -5_5432
+    3_321-7  -5-7241_  24#5_1-7  -5-72-71_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Kazali mi kury paść]
+REG[]
+TRD[DWOK22 Łęczyckie, s. 234, od Piotrkowa żyd.]
+FKT[]
+SIG[2249900000]
+KEY[22499   16  A 3/8]
+MEL[24#5_42  6_-5-71_  24#5_(43b2)  1-7-5-71_
+    423b_3b2  56765_  413b_3b2  -5_-5-71_ //]
+BEM[]
+
+DWOK22
+CUT[A i chłopiec ci ja chłopiec]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 234, od Włocławka (Modzerowo)]
+FKT[]
+SIG[2250000000]
+KEY[22500   16  F 3/8]
+MEL[57+1_7_  246_76  57+1_3_  573_1_
+    224_3_  246_76  224_3_  245_1_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Mazur]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 234, Izbica, Brdów]
+FKT[]
+SIG[2250100000]
+KEY[22501   32  F 3/8]
+MEL[1___6_7_  +1__5__.3_  2__2__2_-7_  2_1_2_3_5__
+    5__7_5_7_+2_  +3_+2_+1_7_+1_5_  6_2_6_5_4_3_  2_2_3__1__
+    3__3_1_3__  3__4__2__  -5__-5__2_4_  2__3__1__
+    3_5_3_1_3__  3_.54__2__  -5_4_-5__2_4_  2_.53__1__ //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Nieszczęśliwa poniewierka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 234-235, od Osięcin (Ujma mała)]
+FKT[]
+SIG[2250200010]
+KEY[22502   16  G 3/4]
+MEL[5_+1_6__42_.  2_6_6__5_1_  35+1_6__5_3_  1__.3_2_1_
+    1_3_4__3__  2_6_6__-7_1_  123_4__3__  1__.3_2_1_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Nieszczęśliwa poniewierka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 235, od Osięcin (Ujma mała)]
+FKT[]
+SIG[2250200020]
+KEY[22502   32  G 3/8]
+MEL[-7_2_1__5__  4_2_5__-6_-5_  -7_2_1__5__  4_2_1__-6_7_
+    -7_2_3__-5__  43213__-6_-5_  -7_2_3__-5__  -7_2_1__-6_-5_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 235, od Chodcza (Szczutkowo)]
+FKT[]
+SIG[2250300000]
+KEY[22503   32  A 3/4]
+MEL[2__2__7b__6__5___  5__4#__5___3b_2_1__
+    -7__-7__1__43b23b5___  4__4__5___(5_4_3b_2_1_)
+    -7__-7__1__3__5___  4__4__5___3b__1__
+    -7__-7__-5__-6_-7_1___  2__2__-7___1___
+    2__-7__-5__-6_-7_1___  2___-7___1___
+    5__4__3b__4__5__+1__  +2___7__5__+1___
+    5__4__3b__4__5__+1__  +2___+1__6b__5___
+    5___3b__4__5__7b__  6b___6b___+2___
+    5___3b__4__5__7b__  6__3b__4__5__3b___ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 235, od Osięcin (Jarantowice)]
+FKT[]
+SIG[2250400000]
+KEY[22504   16  A 3/4]
+MEL[2__2__7b__  6b_54#5__7b__  6b_54#5__7b__  6b_5_4#_5_2_-7b_
+    -5__1_2_4_3b2  1_4_5__3b2-7_  -5__1_2_4_3b2  1_2_4__1_-7_
+    2_5_6b_7_6b_5_  4#_6b_5__(3b_2_1_)  2_5_6b_7_6b_5_  (4#_5_6b_)5__(3b_2_1_)
+    2_4_3b_2_(1_2_-7_)  -5_-7_1_2_4_3b_  2_4_3b_2_(1_2_-7_)  -5_-7_1_2_4_3b_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Kowal]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 235, od Lubienia (Kamienna)]
+FKT[]
+SIG[2250500000]
+KEY[22505   16  F 3/8]
+MEL[6_7_67  57+1_67  57+1_67  543_1_
+    6_5_.3  465_5_  4_6675  643_1_
+    6_5_.3  465_5_  4_6675  4_4_54
+    (57+2)+1_.7  57+2+175  7+2+1_.7  57+1_5_
+    113_.4  54345+1  113_.4  543454 //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 236, od Lubienia (Kamienna)]
+FKT[]
+SIG[2250600000]
+KEY[22506   16  G 3/8]
+MEL[+105_43b  221_7_  +105_43b  221_6b_
+    4_.543b  221_6b_  456b543b  221_3b_
+    20-5_.-7  246b_53b  2__-7_  243b_1_
+    20-5_.-7  246b_53b  2_5_.-7  243b_1_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Mazur kujawski]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 236, od Chodcza (Brześcia)]
+FKT[]
+SIG[2250700000]
+KEY[22507   32  G 3/8]
+MEL[5_.52__-7_  1_2_3b__3b__  5_.52__.-7_  1___0_-7b_
+    7b__7b_6b_5_4_  5_4_3b__2_1_  2_5_-7__-5__  1__1___
+    +2__(+3b_+2_7_)(5_7_+2_)  +1_.+3b+5__+5__  +2__(+3b_+2_7_)(5_7_+2_)  +1___.
+    7__.2_4_6_  5__3__+1__  7__.2_4_6_  5__3__1__
+    2__.5_2_5_  3_5_3__5__  2__.5_6_5_  4#_5_3__1__
+    3__+3_+3_+3_+3_  +3_.+3+3_+2_+3_+4_  +5_.+5+5_+5_+5_+4_  +3_.+3+3_+2_+3_+4_
+    +5_.+5+5_+5_+5_+4_  +3_.+3+3_+2_+3_+4_  +5_.+5+5_+6_+5_+4_  +3_+3_+3__+2__
+    5__5__5__  5___.  5__5__5__  5___.  4_.32_2_2_-7_  1_.13__3__  4_.32_2_2_-7_  1___.
+    4__2_-7_5_-7_  1_2_(3b_4_3b_)2_1_  5_4_2_-7_5_-7_  1__1__1__
+    5_.52__.-7_  1_2_3b__3b__  5_.52__.-7_  1___0_-7b_
+    7b_7b_7b_6b_5_4_  5_4_3b__4_3b_  2_5_2_5_-5_5_  1__+1___ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Mazur]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 237, Włocławek]
+FKT[]
+SIG[2250800000]
+KEY[22508   32  G 3/8]
+MEL[+1_7_+2_+1_7_6_  5_.31__.3_  5_.4#-5__.4#_  5_.31__.3_
+    5_.7+2_+1_7_6_  5_.31__.3_  5__-5___  5_.31__.3_
+    5_.64__6__  6_5_3__(3_2_3_)  -5__.4_3_2_  1_3_5__3__
+    5_.64__6__  5_3_1__3__  -5__.4_3_2_  1_2_3__1__
+    1__.4_6_4_  3_5_+2__+1__  1_-7_1_4_6_4_  (3_5_7b_)+2__+1__
+    5_.64__6__  6_5_3__(3_2_3_)  -5__.4_3_2_  1_3_5__3__
+    5_.64__6__  5_3_1__3__  -5__.4_3_2_  1_2_3__1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Oj radziła się księży]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 237, od Kowala (Więcławice)]
+FKT[]
+SIG[2250900000]
+KEY[22509   16  F 3/8]
+MEL[+1_7_5_  +1+17_+3+2  +1_6_2_  443_1_
+    2_6_62  443_51  2_6_6_  443_1_ //]
+BEM[]
+
+DWOK22
+CUT[Tobie do koni chłopal]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 237, od Brześcia (Wieniec)]
+FKT[]
+SIG[2251000000]
+KEY[22510   16  F 3/8]
+MEL[-5_-5_-7_  243_1_  -5_-5_-7_  246_2_
+    +1_7_+2_  +165_42  312_46  246_+2_
+    +1_7_5_  +165_(432)  312_46  246_2_ //]
+BEM[]
+
+DWOK22
+CUT[A jakiś to ty pies Jasinek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 235, od Radziejowa (Płowce)]
+FKT[]
+SIG[2251100000]
+KEY[22511   32  G 3/8]
+MEL[6__.5_4__  3___1__  1_2_4__6_+1_
+    6__.5_4__  3___1__  1_2_4__2_-7_
+    -6_1_3__1__  1-72_4__6_+1_  6_4_3__1__  1-72_4__2_-7_ //]
+BEM[]
+
+DWOK22
+CUT[A ożeniłem się na Kujawach-Okrągły]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 237, od Piotrkowa żyd.]
+FKT[]
+SIG[2251200010]
+KEY[22512   16  A 3/4]
+MEL[-5_-5_-7_2_4_1_  3_3_2_2_1_1_  -5_-5_-5-72_4_1_  3_3_2__1_3_
+    5__535_6_4_  3_1_2_2_1_5_  5__535_6_4_  3_1_-7_-7_1__ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Ksebka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 238, od Piotrkowa żyd.]
+FKT[]
+SIG[2251200020]
+KEY[22512   32  A 3/8]
+MEL[1_-7_1_2_3_4_  5_5_6__5__  4_3_4__5__  6_6_7__6__
+    1_-7_1_2_3_4_  5_6_5_4_3_2_  4__3_4_5__  6_6_7__6__
+    3_.55__2_4_  3_5_4#_5_2__  3_5_5__2_4_  3_.21_-7_1__
+    3_.55__2_4_  3_5_4#_5_2__  3_5_5__2__  3_.21_-7_1__ //]
+BEM[]
+
+DWOK22
+CUT[Siano cedziła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 238, od Chodcza, Przedcza]
+FKT[]
+SIG[2251300010]
+KEY[22513   08  G 3/4]
+MEL[-5_-7245  332-71_  5_-7245  332-713
+    -5_-7241  332-71_  2_-7241  332213 //]
+BEM[Partia wokalna-Chodzony]
+
+DWOK22
+CUT[Instrumentalna-Siano cedziła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 238, od Chodcza, Przedcza]
+FKT[]
+SIG[2251300020]
+KEY[22513   16  G 3/8]
+MEL[-5_-7246  665_35  665_31  5_4_2-7
+    -5_-7_23  1-6-4_-4-6  1-6-4_-61  -7_2_-7-5
+    -5_-7246  (6+16)5_(535)  (6+16)5_(313)  5_4_(42-7)
+    -5_-7_23  (31-6)-4_(-4-61)  (31-6)-4_(-4-61)  -7_2_-7-5 //]
+BEM[Partia instrumentalna-Okragly]
+
+DWOK22
+CUT[Matulinku moja będe wędrowała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 238, od Radziejowa (Kłonowo)]
+FKT[]
+SIG[2251400000]
+KEY[22514   16  G 3/8]
+MEL[(-5-72)4_6_  5__4_  312_2-7  1__4_  352_-7_  1__-5_
+    (-5-72)4_6_  5__4_  312_2-7  1__4_  352_-7_  1__-5_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 238, od Babiaka (Olszak)]
+FKT[]
+SIG[2251500000]
+KEY[22515   16 Bb 3/4 3/8]
+MEL[-5_-7_2_4_5__  2_2_1__5__  1_6_7_2_4__  3_332_-7-51__
+    -5_-6-72_4_5_  2_2_1__5__  1_-6_-7_2_4__  1__2_-7-51__
+    -5_-6-72_4_4__  3_5_6__2__  3__2_-7_1_3_  4_4_3_1_2__
+    -5_-6-72_4_4__  3_5_6__2__  3__2_-7_1_3_  4_4_3_1_2__
+    5_2325  44245_  6_2325  442_1_
+    3__1-6  (-6-71)2_-5_  3_3_1-6  2_-7-51_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Prędki(biegany)]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 239, od Sompolna (Sadlno)]
+FKT[]
+SIG[2251600000]
+KEY[22516   32  C 3/8]
+MEL[5_07+1_+2_+3_+1_  +2_+5_+3_+4_+1_7_  5_07+1_+2_+3_+1_  +2_5_+3_+4_+1_7_
+    5_.7b5_3_4_6_  +1_+2_7_5_+1__  5_.7b5_3_4_6_  +1_+2_7_5_+1__
+    +2__5__+1_+3_  +2_7_5_+3_+1_+3_  +2_7_5_+3_+1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Kujawiak dreptany]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 239, od Lubrańca (Otmianowo)]
+FKT[]
+SIG[2251700000]
+KEY[22517   16  C 3/8]
+MEL[57+1+3+6+5  +3+4+2+5+3+1  57+1+3+2+1  +3+457+1_
+    +3+4+6+7+6+5  +3+4+2+5+3+1  +3+4+6+7+6+5  +3+457+1_
+    +4_.+1(+2+3+5)  7+2+1_+3_  +4+4+4+1(+2+3+5)  7+257+1_
+    5_7_+1_  7_7_+1_  5_7_+1_  5557+1_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 239, od Brześcia (Kruszyn)]
+FKT[]
+SIG[2251800000]
+KEY[22518   08  F 3/4]
+MEL[2_4#5+16  (54#2)+1_+3+4  +3+27_(7+16)  (54#2)3_1_
+    234#5(7+16)  4#25_31  2_4#5+16  4#23_1_
+    2_4#532  543213  2_4#532  423_1_
+    234#532  542_1_  2_4#532  4_3_1_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna-Chodzony pasterski]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 239 od Lubrańca (Ołgonowo)]
+FKT[]
+SIG[2251900000]
+KEY[22519   16  F 3/4 3/8]
+MEL[2_3_4#_5_6__  +1_7_6_5_6__  2_3_4#_5_+1_7_  2_4#_3_2_1__
+    2_3_4#_5_6__  (+2_+1_7_)6_7_6__  2_3_4#_5_+1_7_  2_4#_3_2_1__
+    +1__+1_7_+1_+2_  (+3_+4_6_)+2__+1_7_  (5_6_7_)+2__+1_7_  2__3_2_1__
+    +1__+1_7_+1_+2_  +3_+4_6_+2_+1_7_  5_6_7_+2_+1_7_  2__3_2_1__
+    (234#)6_+1_  +1+3+3_(+2+17)  (234#)6_2_  (54#2)2_1_
+    (234#)6_+1_  +1765+2_  (234#)6_2_  54#321__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 240, od Lubrańca (Otmianowo)]
+FKT[]
+SIG[2252000000]
+KEY[22520   32  C 3/8]
+MEL[5_6_7_+1_+2_+3_  +4_+6_+4_+5_+3_+1_  7_+2_+1__6_4_  6_5_7__+2__
+    5_6_7_+1_+2_+3_  +4_+2_+4_+5_+3_+1_  7_+2_+1__6_4_  6_5_7__+1__
+    5_7_+1__+2_+3_  +4_+6_+5__+3_+1_  7_5_+1__6_4_  5___.
+    5__+1__+2_+3_  +4_+2_+5__+3_+1_  7_5_+1__6_4_  5___.
+    5__+1__7_+2_  +1_.7+2__+1__  5_5_+1_7_+2_7_  +1_.7+2_7_+1__
+    5__+1__7_+2_  +1_.7+2__+1__  5__+1_7_+2__  +1_.7+2__+1__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Z tamtej strony jezioreczka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 240, od Izbicy (Zagrodnica)]
+FKT[]
+SIG[2252100010]
+KEY[22521   08  G 3/4]
+MEL[-5_(-6-71)24  54(233)3_  54(231)11  1_(321)-7_
+    -5_-7_24  54233_  54211_  1_31-7_
+    -5_(-6-71)24  1_32(-711)  -5_(-6-71)24  1_31-7_
+    -5_-7_24  1_32-71  -5_-7_24  1_31-7_ //]
+BEM[Partia instrumentalna-Chodzony]
+
+DWOK22
+CUT[Z tamtej strony jezioreczka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 240]
+FKT[]
+SIG[2252100020]
+KEY[22521   16  G 3/8]
+MEL[-713_5_  (655)542_  443_1_  (233)2_.-5
+    -713_2-5  443_2_  6_542-7  11-7_-5_
+    -713_5_  (655)542_  443_1_  (233)2_.-5
+    -713_2_  443_2_  713_2_  11-7_-5_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Jedzie galanty galanty]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 240, od Osięcin (Bodzanowo bachorne)]
+FKT[]
+SIG[2252200010]
+KEY[22522   16  G 3/4]
+MEL[(1_2_-7_)1__(3_4_5_)  6__(4_3_2_)6_7_  6__(5_4_3_)4_5_  6__(4_3_2_)1-7-6-7
+    1__1__3_5_  6__4_2_6__  6__4__5__  6__4_2_1-7-6-7
+    -712-7-6__-5__  (-5_-6_-7_)2__4_32  (1_2_-7_)-6__-5__  (-5_-6_-7_)2__1-7-6-7
+    (1_2_-7_)-6__-5__  -5_-7_2__4_32  1__-6__-5__  -5_-7_2__1_-7_ //]
+BEM[Partia instrumentalna-Chodzony]
+
+DWOK22
+CUT[Jedzie galanty galanty]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 240, od Osięcin (Bodzanowo bachorne)]
+FKT[]
+SIG[2252200020]
+KEY[22522   16  G 3/8]
+MEL[1_3_32  465_62  1_3_32  312_1-7
+    1_5_42  352_1-7  1_5_42  312_1-7 //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 241, od Nieszawy]
+FKT[]
+SIG[2252300000]
+KEY[22523   16  G 3/4]
+MEL[1_.2-7_1_(6_7_6_)  (5_4_1_)3b_3b_2_1_  -7_1_2_6_7_6_  5__4__3b_2_
+    1_.2-7_1_(6_7_6_)  (5_4_2_)3b_3b_2_1_  -7_1_2_6_7_6_  5__4__3b_2_
+    1_2_4__1__  -7_1_5__4_2_  1_2_4__(3b_2_1_)  -7_1_5__(4_3b_2_)
+    1_2_-7__-5__  -7_1_4__3b__  1_2_-7__-5__  -7_1_4__3b_2_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Żebyś ty mnie moja mała chciała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 241, od Kowala (Bogusławice)]
+FKT[]
+SIG[2252400010]
+KEY[22524   16  A 3/8]
+MEL[21-717b_  654564  21-717b_  654431
+    21-715_  556546  21-715_  355431 //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Żebyś ty mnie moja mała chciała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 241]
+FKT[]
+SIG[2252400020]
+KEY[22524   16  A 3/8]
+MEL[-7-5-4#-54_  224_31  -7-5-4#-54_  223_1_
+    -7_-5_4_  224_31  -7-5-4#-54_  2_3_1_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Oj z Jastrząbka się nakpić]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 241, od Osięcin(Bodzanowo bachorne)]
+FKT[]
+SIG[2252500000]
+KEY[22525   16  G 3/8]
+MEL[2_1_67  654_43  2_1_1-7  134_3_
+    2_1_1-7  126_53  2_1_(-5-6-7)  134_3_ //]
+BEM[]
+
+DWOK22
+CUT[A bez pole dziewucha sła]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 241, od Babiaka(Mchowo)]
+FKT[]
+SIG[22526a0000]
+KEY[22526a  16  A 3/8]
+MEL[1-7b5_4_  557b_+1_  6b6b5_4_  443b_1_
+    123b_4_  443b_1_  123b_4_  1-7b3b_1_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 242, od Radziejowa (Płowce)]
+FKT[]
+SIG[22526b0000]
+KEY[22526b  32  G 3/8]
+MEL[21_.3_4_5_6_  76_.5_4_6_4_  21_.3_4_5_6_  (1_3_4_)2_3_1__
+    21_.5__21_.  (2_3_4_)2__(-7_-6_-5_)  21_.3_4_5__  3_4_2_3_1__ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Szalone ja szczęście miała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 242, od Kowala]
+FKT[]
+SIG[2252700000]
+KEY[22527   16  C 3/8]
+MEL[657_+2_  +3+1+4_+3_  657_+2_  7+2+3_.+1
+    657_5_  +1+3+2_5_  666_5_  7+2+3_.+1 //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 242, od Sompolna (Lubotyń)]
+FKT[]
+SIG[2252800000]
+KEY[22528   16  G 3/8]
+MEL[222_4_  111-7(123)  (565)4_1_
+    222_4_  111-7(123)  (565)4_1_
+    357b6+1+2  7b646+1_  57b+2_+1_  542_-7b-6
+    -7b247b(531)  2_(1-71)3_  (565)4_21
+    -7b247b53  2_1_3_  5_4_21 //]
+BEM[Melodia instrumentalna-Owaczarek]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 242, od Włocławka]
+FKT[]
+SIG[2252900000]
+KEY[22529   32  G 3/8]
+MEL[(2_2_2_)2_4_3_2_  (1_2_3_)6_5_4_3_  (2_2_2_)2_4_3_2_  1__1_2_4_3_
+    2321-5__7_6_  56536__5__  2_1_-5__7_6_  5_3_6__5__
+    2__4_5_7b_6_  5__3__6_5_  2_3_4_5_7b_6_  5_6_5_3_6_5_
+    2__2_4_3_2_  1_2_3__6_5_  2__2_4_3_2_  1___. //]
+BEM[Melodia instrumentalna-Pasterska]
+
+DWOK22
+CUT[Instrumentalna-A czego u mnie chcesz]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 242, od Chodcza (Szczutkowo)]
+FKT[]
+SIG[2253000010]
+KEY[22530   16  C 3/4]
+MEL[+2_+3_5__+2_7_  +1__+1+2+3+4+3__  +2_+3_5__+2_7_  +1___.
+    +4__+5+4+3+4(+5_+4_+3_)  +2_+5_(+4_+3_+2_)+1__  +2_+3_5__+2_5_  (7_+1_+2_)+6__+6+5+4+3
+    +2_+3_5__+2_7_  +1__+1_+2_+1__  +2_+3_5__+2_7_  +1___.
+    +4__+5__(+5_+4_+3_)  +2_+5_(+4_+3_+2_)+1__  +2_+3_5__+2_5_  (7_+1_+2_)+6__+6+5+4+3
+    +2_+3_5__+2_7_  +1__+1_+2_+3+4+3_  +3_+2_+4__+1_7_  5___. //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[A czego u mnie chcesz]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 243, od Chodcza (Szczutkowo)]
+FKT[]
+SIG[2253000020]
+KEY[22530   16  C 3/8]
+MEL[(567)+1_.+3  +3+5+6_+27  (567)+1_.+3  +3+2+4_+17
+    (567)+1_.5  +1+3+4_+2_  (567)+1_.5  +3+2+4_+17 //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[A przecie się Boga bójcie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 243, od Lubrańca (Boniewo)]
+FKT[]
+SIG[2253100010]
+KEY[22531   08  G 3/4]
+MEL[(431)2_46  +1+16756  431246  246_56
+    (431)2_4_  666_5_  (431)2_4_  246_5_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-A przecie się Boga bójcie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 243, od Lubrańca (Boniewo)]
+FKT[]
+SIG[2253100020]
+KEY[22531   08  G 3/4]
+MEL[(431)2_-7_  -5-72312  (431)2_-7_  -6-5-712_
+    (431)2_-7_  -5-72312  4312-7-5  -6-5-712_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Czemu chłopalu nie orzesz]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 243, od Raciążka (Turzno)]
+FKT[]
+SIG[2253200000]
+KEY[22532   32  G 3/8]
+MEL[2__-7_1_3b_5_  7_+1_5__7_+1_  2__-7_1_3b_5_  7_+1_5__4__
+    2__-7_1_3b_5_  1__.3b_5_4_  2__-7_1_3b_5_  1_.-5-7__1__ //]
+BEM[]
+
+DWOK22
+CUT[Nasiałam ja rozmarynku]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 243, od Przedcza (Błenna)]
+FKT[]
+SIG[2253300010]
+KEY[22533   16  A 3/8]
+MEL[-713b_1_  -7-5-7_1_  -713b_3b_  3b_.3b21
+    -713b_1_  -7-5-7_1_  -713b_1_  -5_.-5-71 //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Nasiałam ja rozmarynku]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 243, od Przedcza (Błenna)]
+FKT[]
+SIG[2253300020]
+KEY[22533   16  A 3/8]
+MEL[-7123b1_  -7_-7_1_  (-713b)65-5_  ^_.3b21
+    -7123b54#  5_.4(3b1-7)  (-713b)65-5_  ^_.3b21 //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 243, od Sompolna (Roszkowo)]
+FKT[]
+SIG[2253400000]
+KEY[22534   08  C 3/4]
+MEL[7+1+3_+4+2  +3+5+6_+2_  7+1+3_+4+2  +17+2_5_
+    +164_57  +1+3+4_+2+3  +164567  +164_5_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-A cóżeś ty za parobek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 244, od Sompolna (Mąkoszyn)]
+FKT[]
+SIG[2253500010]
+KEY[22535   32  A 3/8]
+MEL[-7_1_2__7__  6_5_4#_5_6_7_  6_5_4#_5_6_7_  65_.4#5_.2_1_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[A cóżeś ty za parobek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 244, od Sompolna (Mąkoszyn)]
+FKT[]
+SIG[2253500020]
+KEY[22535   16  A 3/8]
+MEL[-715_(432)  124_1_  -715_(432)  12-7_-5_
+    -715_42  124_1_  -715_42  12-7_1_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Kazała my pani matka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 244, od Kowala (Bogusławice)]
+FKT[]
+SIG[2253600000]
+KEY[22536   16  G 3/8]
+MEL[-712_6_  542_54  542_6_  542_-71
+    -712_1_  542_-71  -712_1_  342_-71 //]
+BEM[]
+
+DWOK22
+CUT[Oj zajadę ci dróżeczkę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 244, od Brdowa]
+FKT[]
+SIG[2253700010]
+KEY[22537   08  G 3/4]
+MEL[-6-71_4_  321_(-7-6-5)  (-6-71)-5__
+    -6-71_4_  321_-7_  -61-5__ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Oj zajadę ci dróżeczkę]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 244, od Brdowa]
+FKT[]
+SIG[2253700020]
+KEY[22537   16  G 3/8]
+MEL[12345_  5+1765_  5+1+1_7_  +1_765_
+    12345_  5+17654#  5+1+1_7+1  +1_765_
+    7_+1+2+3_  +2+17+15_  7_+1+2+3_  +2+1765_
+    67+1_5_  67+1_5_  67+2+15_  24321_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Chodzony]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 245. od Lubrańca (Redecz kalny)]
+FKT[]
+SIG[2253800000]
+KEY[22538   16  G 3/4]
+MEL[(3_4_2_)5__(4_3_1_)  6_+1_5__(3_4_2_)  5__6_4_3_1_  (3_4_2_)1___
+    3__5__3__  6_4_5__3__  5__6_4_3__  4_2_1___
+    -5_-6-71_234_2_  4__5__3__  1_-6_2___
+    -5_-7_1_3_4_2_  4__5__3__  2_2_1___ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Nie ciebie mi żal dziewulo]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 245, od Brześcia (Wieniec)]
+FKT[]
+SIG[2253900010]
+KEY[22539   16  G 3/8]
+MEL[342_1_  246_5_  465_4_  342-71_
+    342_1_  342-71_  35423_  35421_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Nie ciebie mi żal dziewulo]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 245, od Brzescia (Wieniec)]
+FKT[]
+SIG[2253900020]
+KEY[22539   32  G 3/8]
+MEL[2_.46_7_6_5_  3_5_2_4_5_3_  2_.46_7_6_5_  3_4_2_-7_1__
+    -5_033_6_5__  4_2_4_6_5__  -5_033_6_5__  3_4_2_-7_1__
+    -5_-7_1_3_2_4_  2_4_2_4_5_3_  -5_-7_1_3_2_4_  2_4_2_-7_1__
+    -5_-7_1_3_2_4_  2_4_2_4_5_3_  -5_-7_1_3_2_4_  2_4_2_-7_1__ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[A cóżeś ty za woźnica]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 245, od Radziejowa (Płowce)]
+FKT[]
+SIG[2254000000]
+KEY[22540   16  G 3/8]
+MEL[443_31  246_62  443_3_  (234)2_(-7-6-5)
+    -7-7-6_1_  542_(-7-6-5)  -5__-4_  242_-7-5 //]
+BEM[]
+
+DWOK22
+CUT[A moja dziewczyno bądź mi rada]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 245, od Lubrańca (Redecz kalny)]
+FKT[]
+SIG[2254100010]
+KEY[22541   16  G 3/4]
+MEL[2_3_4_6_5_4_  3_2_4_5_2_1_  2_3_4_6_5_43  3_232__2_1_
+    2_3_4_6_5_45  3_235_3_2_1_  2_3_4_1_3__  3_232__2_1_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-A moja dziewczyno bądź mi rada]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 246, od Lubrańca (Redecz kalny)]
+FKT[]
+SIG[2254100020]
+KEY[22541   32  G 3/8]
+MEL[2_4_3__3__  5_6_7_6_5__  2_4_3__3__  6_5_4__3_1_
+    2_4_1__1__  2_1_-7_1_2_5_  2_4_1__1__  3_232__1__ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-A tańcował Kurzyjamka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 246, od Kowala (Więcławice)]
+FKT[]
+SIG[2254200010]
+KEY[22542   16  G 3/4]
+MEL[234_1__3__  2_+1_7__6_7_  543_2__4__
+    234_1__3__  2_+1_7__+1__  543_2__4__
+    1__.2_432_  1__5___  4__3__1__
+    1__.2_432_  1__5___  2_4_3_2_1__ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[A tańcował Kurzyjamka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 246, od Kowala (Więcławice)]
+FKT[]
+SIG[2254200020]
+KEY[22542   08  G 3/4]
+MEL[456_5_  432_3_  466_7+1
+    456_5_  432_3_  4_321_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-A tańcował Kurzyjamka]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 246, od Kowala (Więcławice)]
+FKT[]
+SIG[2254200030]
+KEY[22542   32  G 3/8]
+MEL[3__3__567_  4__6__67+1_  5__3__567_  +1_7_6_5_4__
+    3__3__567_  4__6__6_+1_  5__3__567_  +1__7__531_
+    (2_3_4_)1__1__  2_4_3_2_1_3_  2_4_1__1__  -6_-5_-6_-7_1__ //]
+BEM[Partia instrumentalna-odsibka]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 246, od Kowala (Grabkowo)]
+FKT[]
+SIG[2254300000]
+KEY[22543   16  G 3/4]
+MEL[2_3_4_4_5_7_  6_5_6_5_3_5_  2_3_4_4_653_  1__.2_3_1_
+    2_3_4__65_.  3__.2_3_6_  5_3_4__6_5_  1__.2_3_1_
+    2_3_4_4_5_7_  6_5_6_5_3_1_  2_3_4_4_5_3_  1__.2_3_1_
+    2_3_4__65_.  1__.2_3_6_  5_431__2_4_  1__.2_3_1_ //]
+BEM[Melodia instrumentalna-chodzony prędki]
+
+DWOK22
+CUT[Oj siano siano pod sianem woda]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 247, od Brdowa, Babiaka]
+FKT[]
+SIG[2254400000]
+KEY[22544   16  G 3/4 3/8]
+MEL[2__2_4_5_3_  5_3_5_6_54  2_4_2_4_5_43  -5_713_2_1__
+    2__2_4_5_3_  1_3_5_6_5__  2_4_2_4_5_3_  -5_-713_2_1__
+    117b_6_  464_.2  117b_5_  114_.2
+    531_1_  464_.2  531_1_  114_.2 //]
+BEM[]
+
+DWOK22
+CUT[Ażeby to tak mogło być]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 247, od Lubienia]
+FKT[]
+SIG[2254500000]
+KEY[22545   08  G 3/4]
+MEL[24#54#56  (762)6_54  24#5_.-7  124_5_
+    24#5_2-7  124_5-7  24#5_.-7  124_3b_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 247, od Lubienia (Kamienna)]
+FKT[]
+SIG[2254600000]
+KEY[22546   16  G 3/4]
+MEL[2_4_2_4_6_.4  3_2_1_3_5__  (3_2_1_)-7_-6_-5_-4_
+    2_4_2_4_6_.4  3_2_1_3_5__  3_1_-7__(-6_-5_-4_)
+    4__2_4_2_4_  1_3_1_3_1__  1__2_-7_-7-6-7_
+    4__2_4_2_4_  1_3_1_3_1__  1__2_-7_-7-6-7_
+    -5_4_4__2_1-7b  -5_-6-71__(3_2_3_)  (2_3_5_)6_7_6_5_
+    4__4__2_1-7b  -5_-6-71__2_3_  1__2_-7b_-7b-6-7b_
+    4__^_2_4_5_  (3_5_6_)7__(6_5_3_)
+    4__^_2_4_5_  (4_3_1_)2__-7b_-5_
+    -7b_-6_-6_-4_-6_-7_  1_3_2__-7b_-5_
+    -7b_-6_-6_-4_-6_-7_  1_1_2__-7b_-5_ //]
+BEM[Melodia instrumentalna-chodzony]
+
+DWOK22
+CUT[Niedaleko Kościelna Wieś Bądkowa]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 247, od Brześcia (Michowice)]
+FKT[]
+SIG[2254700010]
+KEY[22547   16  F 3/4]
+MEL[1__1__1__  2_4_6__6__  5_6_5_6_5_4_  2__4__5__
+    2_4_6__6__  5_6_5_6_431_  2__-7__1__
+    -5_-7_1_2_1_2_  3_4_3_4_531_  2__4__5__
+    -5_-7_1_2_1_2_  3_4_3_4_3_1_  2_3_2_-7_1__ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Niedaleko Kościelna Wieś-instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 247-248, od Brześcia (Michowice)]
+FKT[]
+SIG[2254700020]
+KEY[22547   16  F 3/8]
+MEL[(134)5_76  (432)6_52  (134)5_67  (654)6_2_
+    135_4_  563_2_  135_.4  321_2_
+    135_5_  326_5_  135_6_  541_2_
+    135_2_  563_2_  135_.2  321_2_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Jużeś u boru Antolek]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 248, od Radziejowa (Byczyna, Witowo)]
+FKT[]
+SIG[2254800000]
+KEY[22548   16  G 3/8]
+MEL[246_.5  356_2-7  246_.5  314_2-7
+    -5-71_.2  324_2-7  -5-71_.3  6_532_
+    -5-71365  43262-7  -5-7123-5  432131
+    -5-71365  431_2_  -5-7123-5  431_2-7 //]
+BEM[]
+
+DWOK22
+CUT[Niedaleko wieś ode wsi]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 248, od Służewa (Ostrowąs)]
+FKT[]
+SIG[2254900000]
+KEY[22549   16  G 3/8]
+MEL[24(765)42  (324)6_2_  (324)7642  314_2_
+    246_4_  346_2_  346_4_  314_2_
+    222_1_  -6-62_-5_  232_1_  -6-4-7_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Cobyś wolała Jagusiu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 248, od Włocławka (Brzezie)]
+FKT[]
+SIG[2255000000]
+KEY[22550   16  G 3/8]
+MEL[464_2_  335_6_  -7_6_42  332_-5_
+    -5-54_2_  453_4_  -5-54_2_  312_-5_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 249, od Chodcza (Szczutkowo)]
+FKT[]
+SIG[2255200000]
+KEY[22552   16  C 3/4]
+MEL[+2_+4_+6__+6_+7_  +6_+4_+6__+5__  +2_+4_+6_+6_+5_7_  +1_+3_+4__+3_+1_
+    +2_+4_+6__+6_+7_  +6_+4_+6__(+5_+4_+3_)  (+2_+3_+4_)+6_+6_+5_7_  (+1_+2_+3_)+4__(+3_+2_+1_)
+    +2_+2_+1765+4_+2_  +1_+2_+3_+5_+4_+3_  +2_+2_+1765+4_+2_  +3_+3_+2_+3_+2+17_
+    +2_+2_7_5_+4_+2_  +1_+2_+3_+5_+4_+3_  +2_+2_7_5_+4_+2_  +1__5__5__
+    +2__+4__+4_+2_  +1_+2_+3_+5_+2+17_  +2__+4__++3++20_  +1_+2_+3_++1_+5+4+3_
+    +2__+4__+4_+2_  +3_+3_+2_+3_+2__
+    765_5__5__  +1__5__5__  765_5__+5_5_  ^__+1__+1__
+    765_5__5__  +1_+1_5_+1_765_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-A w Kamienny dobrzy ludzie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 249, od Chodcza, Lubienia]
+FKT[]
+SIG[2255300010]
+KEY[22553   08  F 3/4]
+MEL[(246)7656  232353  (246)7653  (132)1_23
+    (234)1_(21-7)  (132)154#5  (234)2_(21-7)  132_21 //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[A w Kamienny dobrzy ludzie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 249, od Chodcza, Lubienia]
+FKT[]
+SIG[2255300020]
+KEY[22553   32  F 3/8]
+MEL[2_4_6__5_4_  2_6_2__3__  2_4_6__5_3_  1_3_2__1__
+    3_521__1__  3_4_5__2_1_  3_5_1__1_-5_  1_3_2__1__ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Kiebyś Maryś Frącka chciała]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 249, od Przedcza (Błenna)]
+FKT[]
+SIG[2255400000]
+KEY[22554   16 Bb 3/8]
+MEL[-5__.  4_6_53  246_2_  4_6_53  -5-71_-5_
+    2_3_1-6  -5-71_-5_  4_3_1-6  -5-71_3_ //]
+BEM[]
+
+DWOK22
+CUT[A czarne oczki u dzieweczki]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 250, od Kowala (Brześcia)]
+FKT[]
+SIG[2255500000]
+KEY[22555   08  F 3/4]
+MEL[5__.  (57+2)+1_65  (324)5_5_  (57+2)+1_65  (324)5_5_
+    (555)5_46  (531)5_6+1  5_5_46  (543)2_5_
+    (555)5_46  (555)5_6+1  5_5_46  (543)2_1_ //]
+BEM[]
+
+DWOK22
+CUT[A bodaj słynęły Kujawy-instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 250, od Babiaka, Brdowa]
+FKT[]
+SIG[2255600010]
+KEY[22556   08  G 3/4]
+MEL[(466)6_7_  656763  -5__.  65341-7
+    132154#  2_3423  -5_-5_-5_  5__1-7 //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[A bodaj słynęły Kujawy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 250, od Babiaka, Brdowa]
+FKT[]
+SIG[2255600020]
+KEY[22556   16  G 3/4]
+MEL[-5-6-715__5432  5__4_3_2_1_  -5-6-715__4_3_  3__4__1_-7_
+    -5-6-712__.1_  3_5__.2_1_  -5-6-712__.1_  3__4__1_-7_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Studzieneczka cembrowana]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 250, od Włocławka]
+FKT[]
+SIG[2255700000]
+KEY[22557   16  G 3/8]
+MEL[276_5_  446521  276_5_  421__
+    321_23  445_1_  321_34  561__ //]
+BEM[]
+
+DWOK22
+CUT[A czy ja nieszczęśliwy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 250, od Lubrańca (Świerczyn)]
+FKT[]
+SIG[2255800010]
+KEY[22558   08  G 3/4]
+MEL[5_5_2_  467_6_  5_5_-5_  713_1_
+    5_5_-5_  715_1_  465#6-5_  713_1_ //]
+BEM[Partia wokalna-Kujawiak]
+
+DWOK22
+CUT[Instrumentalna-A czy ja nieszczęśliwy]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 250, od Lubrańca (Świerczyn)]
+FKT[]
+SIG[2255800020]
+KEY[22558   08  G 3/4]
+MEL[3_5652  467653  565235  467651
+    135652  46765_  565231  (21-7)1_3_
+    1321(456)  5_5_43  132132  -713_(21-7) //]
+BEM[Partia instrumentalna-Kujawiak]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 251, od Izbicy]
+FKT[]
+SIG[2255900000]
+KEY[22559   32  C 3/8]
+MEL[+2__+1_7_5_6+1  +2_+4_+6__+5_+4_  +2__+1__6_4_  5_7_+1__+2__
+    +2__+1_+2_+4_+6_  +1__+7_+6_+5__  +4_+3_+1_+2_+4_+6_  ++1_++2_++1_+7_+6_+5_
+    +4_+3_+1_+2_+4_+6_  +2_+4_+6_+7_+5_+6_  +4_+3_+1_+2_+4_+6_  +2_+4_+6__+5__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Poszły panny do sadu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 251, od Radziejowa (Kłonowo)]
+FKT[]
+SIG[2256000010]
+KEY[22560   16  C 3/4]
+MEL[+4_+4_+3__+1_+3_  +5_.+5+5+4+3+2+3__
+    +4_+4_+3__+1_+3_  +5__+4_+2_+1__
+    +2_+4_+6_+7_+6_+4_  +5_+4_+3_+2_+4__
+    +2_+4_+6__.+2_  +5__+3_+2_+1__ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Poszły panny do sadu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 251, od Radziejowa (Kłonowo)]
+FKT[]
+SIG[2256000020]
+KEY[22560   08  C 3/4]
+MEL[65657+2  +4+5+4+3+2+1  65657+2  567+1+2+1
+    6_^57+2  46+175_  6_^57+2  6_+175_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Oj nie łżycie nie łżycie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 251, od Lubrańca (Boniewo)]
+FKT[]
+SIG[2256100010]
+KEY[22561   08  C 3/4]
+MEL[+4_+4_+6_  +5+5+4_+2_  7+3+2_.7  +1_+1_7_
+    7+2+4_.+2  +5_+5_+4+2  +3+3+2_.7  +1_+1_7_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Oj nie łżycie nie łżycie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 251, od Lubrańca (Boniewo)]
+FKT[]
+SIG[2256100020]
+KEY[22561   16  C 3/4 3/8]
+MEL[5_5_6_7_+1_7_  +1_+2_3_+5_+4_+3_  +2_+1_7_5_+1__  6_5_4_3_4_6_
+    5_5_6_(2_+1_7_)  +1_+2_3_+5_+4_+3_  +2_+1_7_+2_+1_5_  6_5_4_3_4_6_
+    5__6_7_(+2_+1_7_)  6_5_4_5_(6_7_+1_)  5__6_7_+1_7_  6_5_4_5_6__
+    5+4+6_+7+6  +5+3+5_+6_  5+4+6_+6_  +5+3+1_(+2+17)
+    5_+5+4#(567)  +1+3+5_(+6+3+2)  5_+5+4#53  +1_+3_(+2+17) //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 251-252, od Osięcin (Ujma mała)]
+FKT[]
+SIG[2256200000]
+KEY[22562   16  G 3/4]
+MEL[4__6_7_6__  5_4_2_3_2__  2_4_6_7_6_4_  -5_.-5-7__-5__
+    2_4_3_4_6_7_  6_5_3__(2_1_-7_)  2_4_3_4_6_4_  2_.-5-7__-5__
+    -5_.-6-7_2_1_3_  -5_.-71_3_2__  -5_.-6-7_2_1_3_  2_-7_1_3_2__
+    -5__-7__1__  -5__1_3_2__  -5__-7_2_1__  2__1__2__ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Uciekała po rowie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 252, od Brdowa (Świętosławice)]
+FKT[]
+SIG[2256300010]
+KEY[22563   16  G 3/4]
+MEL[4_6_6__6__  7_5_5_6_^_2_  4_6_6__6__  7654#5_3_^_2_
+    4_2_1__1__  3_5_4__2_3_  4_2_1__1__  35654__2_1_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna-Uciekała po rowie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 252, od Brdowa (Świętosławice)]
+FKT[]
+SIG[2256300020]
+KEY[22563   16  G 3/8]
+MEL[321_(323)  654326  3_1_(-5-71)  654321
+    (-71-5)(-6-71)(456)  (765)43(^26)  (21-5)(-6-71)23  654321 //]
+BEM[Partia instrumentalna-Ksebka]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 252, od Lubrańca]
+FKT[]
+SIG[2256400000]
+KEY[22564   08  G 3/4]
+MEL[3b_5_65  (542)-7b_-7b_  -7b24654  3b21_1_
+    3b_3b23b5  42-7b_-7b_  -7b24654  3b21_1_
+    3b57+154  6b+1+2+3b+22  3b_7+154  3b21-7b1_
+    3b21-7b14  3b23b454  3b21-7b14  3b21-7b1_ //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Szynkareczko dawaj piwa]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 252, od Lubrańca (Paniewo)]
+FKT[]
+SIG[2256500000]
+KEY[22565   16  G 3/8]
+MEL[445_7_  665_3_  443_5_  221_1_
+    243_3_  245_1_  243_1_  221_1_ //]
+BEM[]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 253, od Kowala (Choceń)]
+FKT[]
+SIG[2256600000]
+KEY[22566   16  E 3/4]
+MEL[+1_+2_+3__(+2_+1_7_)  +1_7_+1__(6b_5_4_)  3_4_5_4_(5_6_7_)  +1_.7+2_7_+1__
+    +1_+2_+3__+2_7_  +1_+1_+1__5_4_  3_4_5_4_5_7_  +1_.7+2__+1_1_
+    2_3_4_5_7b_6b_  5_4_4_3_1__  2_3_4_5_7b_1_  2_3_4_6b_5_4_
+    2_3_4_5_7b_6b_  5_4_4_3_1__  2_3_4_5_7b_1_  2_3_4_6b_5_(431) //]
+BEM[Melodia instrumentalna]
+
+DWOK22
+CUT[Instrumentalna-Przepił czapkę w Radziejewie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 253, od Lubrańca (Dąbie)]
+FKT[]
+SIG[2256700010]
+KEY[22567   08  E 3/4]
+MEL[+1_+1_+1_  +1+2+3+4+1_  7b46b_7b_  +1+2+3_+4+1  7b46b_5_
+    432_1+1  7b26b_7b_  4321+1_  7b26b_5_ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Przepił czapkę w Radziejewie]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 253, od Lubrańca (Dąbie)]
+FKT[]
+SIG[2256700020]
+KEY[22567   16  E 3/4]
+MEL[1_2_3_1_+1__  +1__7b_5_4__  +1_+1_+1__+1__  +1__7b_5_+1__
+    1_2_3_1_7b_6b5  4__3_4_5__  1_2_3_1_7b_5_  4__3__1__  1_1_1__1__ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Instrumentalna]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 253, od Lubrańca (Sułkowo)]
+FKT[]
+SIG[2256800000]
+KEY[22568   16  F 3/4]
+MEL[6_7b_+1_6_+1_+2_  +3_+2_5_+2_5__  7b_+2_+3__+2__  (+1_6_3_)4__(3_2_1_)
+    1__.2_3_2_  (1_3_2_)-7__-5__  1__.2_3__  4_6_+1_7_5__
+    1__.2_3_2_  1_3_2_-7_-5__  1_.2(3_4_6_)+2__  (+1_6_3_)4__(3_2_1_) //]
+BEM[melodia instrumentalna]
+
+DWOK22
+CUT[Z góry Mazury Mazury]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 253, od Chodcza]
+FKT[]
+SIG[2256900010]
+KEY[22569   16  G 3/4]
+MEL[6__7_6_5_3_  542-71_1_2_4_  6__7_6_5_3_  542-71_2_4__
+    1_3_2_3_5__  54235__2_-7_  1_3_2_3_5__  5_2-71_2_4__ //]
+BEM[Partia instrumentalna-Chodzony]
+
+DWOK22
+CUT[Z gory Mazury Mazury]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 253, od Chodcza]
+FKT[]
+SIG[2256900020]
+KEY[22569   32  G 3/8]
+MEL[6__6__4_2_  3_3_2_4_6__  6_7_6_5_4_2_  -7_1_2_4_1__
+    -7_1_5__4_21  3_3_2_4_5__  -7_1_5__4_-6-5  -7_1_2_4_1__ //]
+BEM[Partia wokalna-Kujawiak]
+
+DWOK22
+CUT[Da dałaś gęby za trzy grosze]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 254, od Lubrańca (Redecz kalny)]
+FKT[]
+SIG[2257000010]
+KEY[22570   16  G 3/8]
+MEL[6_5413  245_7_  6_5413  21-7_1_
+    2_5413  245_21  2_5413  21-7_1_ //]
+BEM[Partia wokalna]
+
+DWOK22
+CUT[Da dałaś gęby za trzy grosze]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 254, od Lubrańca (Redecz kalny)]
+FKT[]
+SIG[2257000020]
+KEY[22570   32  G 3/8]
+MEL[-5_-6_-7_1_2_3_  4_4_6__3__  -5_-6_-7_1_2_6_  4_.42__1__
+    5__3__6__  5_4_3_2_5__  -6_-6_-5_-7_-5_3_  -5_-5_-7__1__ //]
+BEM[Partia instrumentalna]
+
+DWOK22
+CUT[Weźże mnie weź chłopalu]
+REG[Łęczyckie]
+TRD[DWOK22 Łęczyckie, s. 254, od Lubrańca (Paniewo)]
+FKT[]
+SIG[2257100000]
+KEY[22571   16  F 3/8]
+MEL[-7b_5_5_  5_5_5_  557b_5_  43b2_4_
+    -7b_5_5_  5_5_5_  5_7b_5_  43b2_1_
+    -7b-7b2_4_  13b2_1_  -7b-7b2_4_  53b2_1_
+    -7b-7b2_4_  13b5_-6_  -7b-7b2_4_  53b2_1_ //]
+BEM[]

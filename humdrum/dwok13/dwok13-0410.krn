@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK1341000000-w_polu_ogrodeczek.krn
+!!!OTL: W polu ogródeczek
+!!!source: DWOK13
+!!!id: 13410
+!!!signature: 1341000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8b
+8dd
+8ff
+=2
+4aa
+4gg
+=3
+8ff
+8ee
+8cc
+8ee
+=4
+4gg
+4ff}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+8ff
+=6
+4aa
+4gg
+=7
+8ff
+8ee
+8cc
+8b
+=8
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{8ee
+8dd
+8b
+8dd
+=10
+4ff
+4ee
+=11
+8ff
+8ee
+8cc
+8b
+=12
+4g
+4g}
+!!LO:LB:g=esac
+=13
+{8ee
+8dd
+8b
+8dd
+=14
+4ff
+4ee
+=15
+8cc
+8b
+8g
+8b
+=16
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 171} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 171}
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

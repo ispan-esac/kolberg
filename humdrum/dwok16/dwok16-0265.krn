@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK1626500000-pojechala_babulenka.krn
+!!!OTL: Pojechała babuleńka
+!!!source: DWOK16
+!!!id: 16265
+!!!signature: 1626500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+8dd
+8dd
+=2
+16dd
+16cc#
+8dd
+8dd
+=3
+8dd
+4ee
+=4
+8a
+8a
+8a
+=5
+8a
+4dd
+=6
+8g
+8g
+8g}
+!!LO:LB:g=esac
+=7
+{16b
+16cc
+8dd
+8dd
+=8
+16dd
+16cc#
+8dd
+16dd
+16cc#
+=9
+8dd
+4ee
+=10
+8a
+16a
+16b
+16a
+16g
+=11
+8a
+4dd
+=12
+8g
+16g
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 216} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 216}
+!!!ONB: Converted on 2024/12/26 with esac2hum

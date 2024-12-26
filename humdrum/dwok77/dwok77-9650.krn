@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7796500000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK77
+!!!id: 779650
+!!!signature: 7796500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8ee
+4.gg
+8ff
+=2
+4gg
+4ff
+4gg
+=3
+4aa
+4gg
+4ff
+=4
+4ff
+4ee
+4g
+=5
+2ee
+4ee}
+!!LO:LB:g=esac
+=6
+{4ee
+4dd
+4g
+=7
+2dd
+4dd
+=8
+4dd
+4cc
+4b
+=9
+2.cc}
+==
+*-
+!!!ONB: wariant w takcie pitym +3__+4+3
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 114
+!!!ONB: Converted on 2024/12/26 with esac2hum

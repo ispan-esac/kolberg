@@ -1,0 +1,117 @@
+!!!!SEGMENT: DWOK35A-35A18600002-a_szczoz_nam_bulo.krn
+!!!OTL: A szczoż nam buło
+!!!source: DWOK35A
+!!!id: 35A186
+!!!signature: 35A18600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+8dd
+4dd
+=
+24dd
+24cc
+24b
+8cc
+8a
+=3
+8b
+8g}
+8r
+!!LO:LB:g=esac
+=4
+{8dd
+8ee
+8dd
+=
+24cc
+24b
+24a
+8b
+=5
+8a
+4g
+=
+24g
+24f#
+24e}
+8r
+!!LO:LB:g=esac
+=6
+{8d
+8g
+8a
+=7
+4b
+16a
+16g
+=8
+8dd
+16dd
+16cc
+8a
+=9
+8a
+4g}
+!!LO:LB:g=esac
+=10
+{8b
+8cc
+8b
+=11
+8a
+4g
+=12
+8b
+8dd
+8b
+=13
+8a
+4g}
+!!LO:LB:g=esac
+=14
+{8b
+8cc
+8b
+=15
+8a
+4g
+=16
+8b
+8dd
+8b
+=17
+8a
+4g}
+!!LO:LB:g=esac
+=18
+{4cc
+8a
+=19
+8b
+8g
+8r
+=20
+16a
+16g
+8cc
+16b
+16g
+=21
+8f#
+4g}
+==
+*-
+!!!ONB: Po obiedzie swachy
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 100} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

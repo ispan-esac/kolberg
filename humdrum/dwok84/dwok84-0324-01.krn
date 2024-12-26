@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK8432400001-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK84
+!!!id: 84324
+!!!signature: 8432400001
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8g
+8a
+8b-
+8cc
+=2
+4dd
+4gg
+=3
+8ff
+8gg
+8ff
+8ee-
+=4
+8dd
+8gg
+4cc}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b-
+8cc
+=6
+8dd
+8cc
+8ff
+16ee-
+16dd
+=7
+8cc
+8b-
+8a
+8g
+=8
+4dd
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=359 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 289} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 289}
+!!!page: 289
+!!!ONB: Converted on 2024/12/26 with esac2hum

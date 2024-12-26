@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK57177900001-oj_na_hori_zyto_kolosiom_pidbyto.krn
+!!!OTL: Oj, na hori żyto kołosiom pidbyto
+!!!source: DWOK57
+!!!id: 571779
+!!!signature: 57177900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4.dd
+8b
+=
+12cc
+12b
+12a
+4b}
+4r
+!!LO:LB:g=esac
+=2
+{8g
+8b
+4.dd
+8b
+=
+12cc
+12b
+12a
+12b
+12a
+12g}
+4r
+!!LO:LB:g=esac
+=
+{8b
+8dd
+4a
+12b
+12a
+12g
+=3
+8a
+8f#
+4.d
+8d}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+4a
+8b
+8f#
+=5
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 864
+!!!ONB: Converted on 2024/12/26 with esac2hum

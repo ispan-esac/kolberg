@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK5012000002-terazniejsze_chlopcy_terazniejszej_mody.krn
+!!!OTL: Teraźniejsze chłopcy, teraźniejszej mody
+!!!source: DWOK50
+!!!id: 50120
+!!!signature: 5012000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4ee
+4ee
+=3
+8ee
+4.ff#
+=4
+8ff#
+8ff#
+8ee
+8dd}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+=6
+4ee
+4ee
+=7
+8ee
+4.cc
+=8
+8cc
+8a
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 51} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 51}
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

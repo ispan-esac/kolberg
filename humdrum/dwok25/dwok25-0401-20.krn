@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2540100020-oj_ciemna_nocka-instrumentalna.krn
+!!!OTL: Oj ciemna nocka-Instrumentalna
+!!!source: DWOK25
+!!!id: 25401
+!!!signature: 2540100020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+16dd
+16ff#
+16gg
+16ee
+=2
+8dd
+16ff#
+16gg
+16ee
+16cc
+=3
+16g
+16b
+16dd
+16ff#
+16gg
+16ee
+=4
+8.dd
+16b
+16cc
+16a}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+16b
+16g
+16cc
+16ee
+=6
+16gg
+16ff#
+16dd
+16b
+16cc
+16ee
+=7
+16g
+16a
+16b
+16g
+16cc
+16ee
+=8
+8.dd
+16b
+16cc
+16a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 176} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 176}
+!!!page: 176
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2803600000-przyjmij_od_nas_poklony.krn
+!!!OTL: Przyjmij od nas pokłony
+!!!source: DWOK28
+!!!id: 28036
+!!!signature: 2803600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4b
+4cc
+=2
+8.a
+16g
+4f
+4e
+=3
+4cc
+4b
+4cc
+=4
+8.a
+16g
+4f
+4e}
+!!LO:LB:g=esac
+=5
+{8.b
+16cc
+4dd
+4dd
+=6
+8.cc
+16dd
+4ee
+4ee
+=7
+8ff
+8dd
+4cc
+4b
+=8
+2cc}
+4r
+==
+*-
+!!!ONB: Msza na Boże Ciało i podczas 40-to godzinnego Nabożeństwa
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 91} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 91}
+!!!page: 91
+!!!ONB: Converted on 2024/12/26 with esac2hum

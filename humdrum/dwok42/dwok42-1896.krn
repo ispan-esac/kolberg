@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK42189600000-nie_tylko_te_sie_kochaja.krn
+!!!OTL: Nie tylko te się kochają
+!!!source: DWOK42
+!!!id: 421896
+!!!signature: 42189600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.dd
+16b
+16g
+16b
+=2
+16.dd
+32b
+8b
+8a
+=3
+8.ee
+16a
+16cc
+16ee
+=4
+16gg
+16ee
+16ee
+16dd
+8dd}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+16gg
+16ff#
+16ee
+16ff#
+=6
+16gg
+16dd
+8b
+8g
+=7
+8.ee
+16a
+16cc
+16ee
+=8
+16dd
+16f#
+8a
+8g}
+==
+*-
+!!!ONB: wariant w takcie 6: +1_5_3__5__ wariant w takcie 8: 5_-7_2_1_1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 285} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 285}
+!!!page: 285
+!!!ONB: Converted on 2024/12/26 with esac2hum

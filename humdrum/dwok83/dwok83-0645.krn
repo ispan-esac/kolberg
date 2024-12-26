@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK8364500000-wiety_ojcze_mikolaju_pasterzem_dobytku.krn
+!!!OTL: Święty ojcze, Mikołaju, pasterzem dobytku
+!!!source: DWOK83
+!!!id: 83645
+!!!signature: 8364500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4cc
+4b
+4a
+4dd
+=2
+4cc
+4b
+4a
+4g
+=3
+4dd
+4dd
+4ee
+4dd
+=4
+4cc
+4b
+2a}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4ee
+4dd
+=6
+4cc
+4b
+4a
+4g
+=7
+4dd
+4dd
+4cc
+4b
+=8
+4a
+2.g}
+==
+*-
+!!!ONB: Wariant t. 4: 4__43232___
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=534 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 423} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 423}
+!!!page: 423
+!!!ONB: Converted on 2024/12/26 with esac2hum

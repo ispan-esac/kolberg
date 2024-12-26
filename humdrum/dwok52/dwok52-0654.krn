@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK5265400000-boze_co_wladasz_losami_ludzkiemi.krn
+!!!OTL: Boże, co władasz losami ludzkiemi
+!!!source: DWOK52
+!!!id: 52654
+!!!signature: 5265400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8.b
+16g#
+4.e
+8g#
+=2
+8.a
+16b
+4cc
+8b
+8a
+=3
+8b
+8g#
+4.e
+8g#
+=4
+4b
+2a}
+!!LO:LB:g=esac
+=5
+{8.b
+16g#
+4.e
+8g#
+=6
+8.a
+16b
+4cc
+8b
+8a
+=7
+8b
+8g#
+4.e
+8g#
+=8
+4b
+2a}
+!!LO:LB:g=esac
+=9
+{4e
+2g#
+=10
+8.e
+16a
+2a
+=11
+8.f
+16e
+4d
+4c
+=12
+4c
+2e}
+!!LO:LB:g=esac
+=13
+{4e
+4.ee
+8dd
+=14
+4dd
+4cc
+8b
+8a
+=15
+8b
+8g#
+4e
+4g#
+=16
+8g#
+8b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=482 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 417} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 417}
+!!!page: 417
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4300500000-przyszly_my_tu.krn
+!!!OTL: Przyszły my tu
+!!!source: DWOK43
+!!!id: 43005
+!!!signature: 4300500000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+=1
+{8a
+8a
+8a
+8b
+=
+!!UNCATEGORIZED MEASURE
+2.cc#
+8b
+=2
+*M2/4
+8ee
+8ff#
+8ee
+8ff#
+=
+!!UNCATEGORIZED MEASURE
+2.ee
+8cc#}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8a
+8a
+8a
+8b
+=
+!!UNCATEGORIZED MEASURE
+2.cc#
+8a
+=3
+*M2/4
+8ee
+8ff#
+8ee
+8ff#
+=
+!!UNCATEGORIZED MEASURE
+2.ee
+8cc#}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{2cc#
+2a
+=4
+*M3/4
+8dd
+8dd
+4ee
+4dd
+=
+!!UNCATEGORIZED MEASURE
+2cc#
+2a
+=5
+8dd
+8dd
+2ee
+2dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 21} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 21}
+!!!page: 21
+!!!ONB: Converted on 2024/12/26 with esac2hum

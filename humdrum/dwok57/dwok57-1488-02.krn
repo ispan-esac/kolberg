@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK57148800002-zazuryla_sie_zazuryla_sie.krn
+!!!OTL: Zażuryła sie, zażuryła sie
+!!!source: DWOK57
+!!!id: 571488
+!!!signature: 57148800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+8ee
+8ee
+8cc
+=3
+8cc
+8cc
+16cc
+16b
+=4
+8b
+4b}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+=6
+16dd
+16cc
+4ee
+=7
+4cc
+8b
+=8
+4dd}
+8r
+!!LO:LB:g=esac
+=9
+{8b
+8b
+16b
+16a
+=10
+8a
+4dd
+=11
+8g
+8g
+8g
+=12
+8d
+4d}
+!!LO:LB:g=esac
+=13
+{8b
+8b
+16b
+16a
+=14
+8a
+4dd
+=15
+4.g
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 535
+!!!ONB: Converted on 2024/12/26 with esac2hum

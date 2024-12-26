@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK02-K0155-i_stojala_nad_woda.krn
+!!!OTL: I stojala nad woda
+!!!source: DWOK02
+!!!id: K0155
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16aa
+8gg
+8cc
+=2
+8dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=3
+{16ff
+16aa
+8gg
+8cc
+=4
+8dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+8ff
+=6
+16gg
+16ee
+8cc
+8a
+=7
+16g
+16b
+4dd}
+!!LO:LB:g=esac
+=8
+{16g
+16b
+8dd
+8ff
+=9
+16gg
+16ee
+8cc
+8a
+=10
+8g
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 155} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

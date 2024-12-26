@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK57117700001-szumyt_trawa_po_dolyni.krn
+!!!OTL: Szumyt trawa po dołyni
+!!!source: DWOK57
+!!!id: 571177
+!!!signature: 57117700001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4.ee
+8cc
+=2
+8ee
+8ee
+8dd
+8a
+=3
+4cc
+4a}
+!!LO:LB:g=esac
+=4
+{4ee
+8dd
+8cc
+=5
+8ee
+8ee
+8dd
+8a
+=6
+8cc
+8a
+4a}
+!!LO:LB:g=esac
+=7
+{8dd
+8a
+8cc
+8a
+=8
+8cc
+8ee
+8ee
+8ee
+=9
+8dd
+8a
+8cc
+8a
+=10
+8cc
+8ee
+8ee
+8ee}
+!!LO:LB:g=esac
+=11
+{8dd
+8dd
+4cc
+=12
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 297
+!!!ONB: Converted on 2024/12/26 with esac2hum

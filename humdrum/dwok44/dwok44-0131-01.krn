@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4413100001-plakala_dziewcyna.krn
+!!!OTL: Płakała dziewcyna
+!!!source: DWOK44
+!!!id: 44131
+!!!signature: 4413100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+4dd
+=2
+8dd
+8ee
+8dd
+=3
+16a
+16b
+4cc
+=4
+8cc
+16b
+16a
+8g}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+4a
+=6
+8cc
+8ee
+8dd
+=7
+16a
+16b
+4cc
+=8
+8cc
+16b
+16a
+8g}
+==
+*-
+!!!ONB: Weselna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 131} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 131}
+!!!page: 131
+!!!ONB: Converted on 2024/12/26 with esac2hum

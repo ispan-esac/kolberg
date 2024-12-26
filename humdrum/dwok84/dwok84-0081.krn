@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK8408100000-ej_piduze_ja_kolo_korczmonki_w_noczy.krn
+!!!OTL: Ej, piduże ja koło korczmońki w noczy
+!!!source: DWOK84
+!!!id: 84081
+!!!signature: 8408100000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+=1
+*M3/4
+{8gg
+8ff#
+4gg
+4dd
+=2
+2ff
+4dd
+=3
+*M2/4
+8.aa
+16ee
+8ff
+8dd
+=4
+*M3/4
+4.ff
+8ee
+4dd
+=5
+2cc
+4dd
+=6
+4.b-
+8a
+8g}
+8r
+!!LO:LB:g=esac
+=7
+{8g
+8a
+4b-
+4b-
+=8
+4cc
+4.ee-
+8dd
+=9
+*M2/4
+2ff
+=10
+8ee-
+8dd
+8cc
+8dd
+=11
+*M3/4
+4.b-
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 98} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

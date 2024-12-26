@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK3601200002-wylenuly_lobedi.krn
+!!!OTL: Wyłenuły łobedi
+!!!source: DWOK36
+!!!id: 36012
+!!!signature: 3601200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+4g
+=2
+16a
+16b
+8cc
+8b
+=3
+8b
+8a
+8g
+=4
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+16cc
+16dd
+=
+16cc
+16b
+16a
+16b
+24cc
+24dd
+24cc
+=6
+8b
+8a
+8f#
+=7
+4g}
+8r
+!!LO:LB:g=esac
+=8
+{8cc
+32cc
+32dd
+32cc
+32b
+8cc
+=9
+8cc
+8b
+8g
+=10
+16a
+16cc
+8b
+8a
+=11
+8f#
+4g}
+!!LO:LB:g=esac
+=12
+{16a
+16b
+8cc
+16b
+16cc
+=13
+8a
+8g
+8f#
+=14
+4.g
+=15
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 10
+!!!ONB: Converted on 2024/12/26 with esac2hum

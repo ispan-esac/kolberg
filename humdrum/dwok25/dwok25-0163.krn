@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2516300000-po_rynecku_chodzila.krn
+!!!OTL: Po rynecku chodziła
+!!!source: DWOK25
+!!!id: 25163
+!!!signature: 2516300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4cc
+4dd
+4cc
+4f
+=2
+4f
+8g
+8a
+4.b-
+8g
+=3
+8cc
+8cc
+4dd
+4cc
+4f
+=4
+4f
+8g
+8a
+4.b-
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+8dd
+4cc
+4f
+=6
+8a
+8b-
+8cc
+8dd
+4cc
+4f
+=7
+8f
+8f
+8g
+8a
+4b-
+4g
+=8
+[2f}
+4f]
+4r
+==
+*-
+!!!ONB: Wariant w takcie trzecim 556_531_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 68} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 68}
+!!!page: 68
+!!!ONB: Converted on 2024/12/26 with esac2hum

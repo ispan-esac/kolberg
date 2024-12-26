@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2513300002-chocbym_ja_jezdzil_we_dnie_i_w_nocy.krn
+!!!OTL: Choćbym ja jeździł we dnie i w nocy
+!!!source: DWOK25
+!!!id: 25133
+!!!signature: 2513300002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+8dd
+8ff
+8ee
+8g
+=2
+4cc
+8g
+8g
+8a
+8g
+=3
+4cc
+8dd
+8ff
+8ee
+8g
+=4
+4cc
+8g
+8g
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4a
+4g
+=6
+8ff
+8ee
+2dd
+=7
+8ff
+8ee
+2dd}
+!!LO:LB:g=esac
+=8
+{4cc
+8ee
+8dd
+8cc
+8b
+=9
+8dd
+8dd
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 56} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

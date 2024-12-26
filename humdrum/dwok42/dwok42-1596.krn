@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK42159600000-juz_noc_swym_plaszczem_ziemie_pokrywa.krn
+!!!OTL: Już noc swym płaszczem ziemię pokrywa
+!!!source: DWOK42
+!!!id: 421596
+!!!signature: 42159600000
+**kern
+*clefG2
+*k[]
+*a:
+*M6/8
+=1
+{8ee
+8ee
+8ee
+4ff
+8ee
+=2
+8dd
+8dd
+8dd
+4ee
+8cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8b
+8a
+4ee
+8cc
+=4
+4ee
+8ee
+4ee
+8r
+=5
+8e
+8g#
+8b
+4ee
+8dd}
+!!LO:LB:g=esac
+=6
+{8cc
+8b
+8a
+4ee
+8e
+=7
+8e
+8g#
+8b
+4ee
+8dd
+=8
+4cc
+8b
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 119} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 119}
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

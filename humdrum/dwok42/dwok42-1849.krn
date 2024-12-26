@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK42184900000-a_za_lasem....krn
+!!!OTL: A za lasem...
+!!!source: DWOK42
+!!!id: 421849
+!!!signature: 42184900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4gg
+=2
+8ee
+8b
+4cc
+4ee
+=3
+4dd
+4a
+4cc
+=4
+8g
+8a
+4b
+4cc}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+4b
+4cc
+=6
+4a
+4f#
+4g
+=7
+8g
+8a
+4b
+4cc
+=8
+8b
+8a
+4b
+4cc}
+!!LO:LB:g=esac
+=9
+{4a
+4cc
+4dd
+=10
+8ee
+8a
+4cc
+4cc
+=11
+8b
+8a
+4b
+4cc
+=12
+4a
+4f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 240} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 240}
+!!!page: 240
+!!!ONB: Converted on 2024/12/26 with esac2hum

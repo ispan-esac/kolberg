@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5024600001-nadobna_dziewczyna_bez_las_wedrowala.krn
+!!!OTL: Nadobna dziewczyna bez las wędrowała
+!!!source: DWOK50
+!!!id: 50246
+!!!signature: 5024600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+8dd
+4cc
+=3
+16ee
+16ee
+8gg
+16ee
+16cc
+=4
+4dd
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8dd
+8cc
+=6
+32cc
+32b-
+32a
+32b-
+4b-
+=7
+16b-
+16dd
+8cc
+8b-
+=8
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 121} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 121}
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

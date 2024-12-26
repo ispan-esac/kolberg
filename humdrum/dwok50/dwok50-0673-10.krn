@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK5067300010-instrumentalna_-_polka.krn
+!!!OTL: Instrumentalna - Polka
+!!!source: DWOK50
+!!!id: 50673
+!!!signature: 5067300010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.d
+16f#
+8a
+16cc
+16b
+=2
+16g
+16b
+4dd
+8g
+=3
+8b
+8a
+8a
+16f#
+16a
+=4
+4g
+8b
+8dd}
+!!LO:LB:g=esac
+=5
+{8.a
+16f#
+8a
+16cc
+16b
+=6
+16g
+16b
+4dd
+16b
+16g
+=7
+16a
+16b
+16cc
+16dd
+16cc
+16dd
+16a
+16f#
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=440 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 407-408} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, pp. 407-408}
+!!!page: 407-408
+!!!ONB: Converted on 2024/12/26 with esac2hum

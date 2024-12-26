@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK2644100000-wolki_moje.krn
+!!!OTL: Wołki moje
+!!!source: DWOK26
+!!!id: 26441
+!!!signature: 2644100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8b
+8b
+=2
+16cc
+16cc
+8b
+8b
+=3
+16a
+16f#
+4g
+=4
+8f#
+4g}
+!!LO:LB:g=esac
+=
+{16g
+16g
+16b
+16g
+24b
+24dd
+24b
+=
+16cc
+16cc
+16b
+16g
+24b
+24dd
+24b
+=
+24a
+24f#
+24a
+4g
+=
+24f#
+24d
+24f#
+4g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8g
+8b
+=6
+16cc
+16cc
+8b
+8b
+=7
+8cc
+16b
+16dd
+8cc}
+!!LO:LB:g=esac
+=8
+{16d
+16f#
+8g
+16a
+16b
+=9
+16cc
+16cc
+16b
+16g
+16b
+16dd
+=10
+16a
+16f#
+4g
+=
+24a
+24f#
+24a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 302
+!!!ONB: Converted on 2024/12/26 with esac2hum

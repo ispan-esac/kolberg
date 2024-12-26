@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5041800002-na_szyrokim_pole_tam_bohacz_ore.krn
+!!!OTL: Na szyrokim połe tam bohacz ore
+!!!source: DWOK50
+!!!id: 50418
+!!!signature: 5041800002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+2cc
+=2
+8b
+8b
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=3
+{4g
+2cc
+=4
+8cc
+16dd
+16ee
+8ff
+8dd
+8ee}
+8r
+!!LO:LB:g=esac
+=5
+{4ff
+4.ee
+8cc
+=6
+8cc
+16dd
+16ee
+4gg
+4ee}
+!!LO:LB:g=esac
+=7
+{4ff
+4.ee
+8cc
+=8
+8cc
+16dd
+16ee
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 247} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 247}
+!!!page: 247
+!!!ONB: Converted on 2024/12/26 with esac2hum

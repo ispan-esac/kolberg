@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK3632200000-u_horodi_kaluza.krn
+!!!OTL: U horodi kałuża
+!!!source: DWOK36
+!!!id: 36322
+!!!signature: 3632200000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8dd
+16dd
+16cc#
+8dd
+16ee
+16ff#
+=2
+8gg
+16ff#
+16ee
+8ff#
+8dd
+=3
+8a
+8gg
+8gg
+8gg
+=4
+8gg
+16ff#
+16ee
+8ff#
+16gg
+16aa}
+!!LO:LB:g=esac
+=5
+{8aa
+8gg
+8gg
+8gg
+=6
+8gg
+16ff#
+16ee
+8ff#
+8dd
+=7
+8cc#
+8ee
+8a
+8cc#
+=8
+8dd
+8dd
+4dd}
+!!LO:LB:g=esac
+=9
+{8g
+8bb
+4gg
+=10
+8ff#
+8ff#
+4aa
+=11
+8gg
+16gg
+16ee
+8cc#
+8ee
+=12
+8dd
+8ff#
+4aa}
+!!LO:LB:g=esac
+=13
+{8g
+8bb
+4gg
+=14
+8ff#
+8ff#
+4aa
+=15
+8gg
+16gg
+16ee
+8cc#
+8cc#
+=16
+8dd
+8dd
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

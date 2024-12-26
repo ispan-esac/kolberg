@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2547200000-na_kapuscie_duze_liscie.krn
+!!!OTL: Na kapuście duze liście
+!!!source: DWOK25
+!!!id: 25472
+!!!signature: 2547200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8b
+8a
+=2
+16cc
+16b
+8dd
+8gg
+=3
+16dd
+16ee
+8cc
+8a
+=4
+16cc
+16b
+8g
+8a}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8b
+8a
+=6
+16cc
+16b
+8g
+8a
+=7
+16f#
+16a
+8g
+8d
+=8
+16f#
+16a
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=219 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 194} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 194}
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

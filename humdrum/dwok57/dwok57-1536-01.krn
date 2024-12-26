@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK57153600001-pid_biloju_berezoju.krn
+!!!OTL: Pid b'iłoju ber'ezoju
+!!!source: DWOK57
+!!!id: 571536
+!!!signature: 57153600001
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=1
+{4ee
+4ee
+4ee
+4b
+=2
+8dd
+8cc
+8b
+8a
+4b
+4e}
+!!LO:LB:g=esac
+=3
+{4g#
+4a
+4b
+4b
+=4
+4a
+4g#
+8g#
+8e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 573
+!!!ONB: Converted on 2024/12/26 with esac2hum

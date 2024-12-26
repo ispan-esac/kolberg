@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK5063000002-bolszoho_nyz_na_zemli_trona.krn
+!!!OTL: Bolszoho nyż na zemli trona
+!!!source: DWOK50
+!!!id: 50630
+!!!signature: 5063000002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8g#
+2a
+=
+8cc
+8ee
+8.dd
+16cc
+24b
+24a
+24g
+8a}
+!!LO:LB:g=esac
+=2
+{8e
+8g#
+2a
+=
+8cc
+8ee
+8.dd
+16cc
+24b
+24a
+24g
+8a}
+!!LO:LB:g=esac
+=3
+{8cc
+8dd
+2ee
+=4
+8ff#
+8ee
+8dd
+8cc
+8dd
+16cc
+16b}
+!!LO:LB:g=esac
+=5
+{8a
+16b
+16cc
+2dd
+=6
+8dd
+8ee
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=7
+{16cc
+16b
+16a
+16g#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=406 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 373} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 373}
+!!!page: 373
+!!!ONB: Converted on 2024/12/26 with esac2hum

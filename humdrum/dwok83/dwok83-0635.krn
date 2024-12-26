@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK8363500000-hej_kozacze_w_imie_boha.krn
+!!!OTL: Hej, Kozacze, w imie Boha
+!!!source: DWOK83
+!!!id: 83635
+!!!signature: 8363500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8g
+4cc
+4cc
+=2
+8b
+8a
+4b
+4g
+=3
+4.dd
+8ee
+8dd
+8cc
+=4
+8b
+8a
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4cc
+4cc
+=6
+8cc
+8dd
+4b
+4g
+=7
+4.a
+8f
+8e
+8d
+=8
+8c
+8e
+2g}
+!!LO:LB:g=esac
+=9
+{4.a
+8f
+8e
+8d
+=10
+8c
+8e
+2g
+=11
+8c
+8c
+2d
+=12
+8e
+8e
+4f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=522 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 411} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 411}
+!!!page: 411
+!!!ONB: Converted on 2024/12/26 with esac2hum

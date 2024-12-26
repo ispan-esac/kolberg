@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK0680800010-ojciec_umarl_a_syn_zostal._mijany.krn
+!!!OTL: Ojciec umarł a syn został. Mijany
+!!!source: DWOK06
+!!!id: K0808
+!!!signature: 0680800010
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8g#
+8a
+16g#
+16a
+=2
+8b
+16g#
+16b
+8ee
+8ee
+=3
+8ee
+8b
+8a
+8e
+=4
+8g#
+8ee
+8dd#
+8ee}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+8a
+16g#
+16a
+=6
+8b
+16g#
+16b
+[4dd
+=7
+4dd]
+8cc
+8b
+=8
+8b
+16dd
+16cc
+8g#
+8a}
+==
+*-
+!!!ONB: Część wokalna; wariant t. 3: 5_4#_2_1_; wariant t. 8: 23b43b-7_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=511 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 485} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 485}
+!!!page: 485
+!!!ONB: Converted on 2024/12/26 with esac2hum

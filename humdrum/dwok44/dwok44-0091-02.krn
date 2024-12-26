@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK4409100002-o_juz_idemy_juz_wychodziemy.krn
+!!!OTL: o juz idemy juz wychodziemy
+!!!source: DWOK44
+!!!id: 44091
+!!!signature: 4409100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16g
+8a
+8b
+=2
+8cc
+4a
+=3
+16b
+16cc
+8b
+8g
+=4
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+=6
+8cc
+8b
+8a
+=7
+4.g
+=8
+8f#
+8d}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8b
+=10
+8cc
+4a
+=11
+16b
+16cc
+8b
+8g
+=12
+8f#
+4d}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+8b
+=14
+8cc
+8b
+8f#
+=15
+4.g
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 131} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 131}
+!!!page: 131
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK57211100000-a_jak_ci_ja_umre.krn
+!!!OTL: A jak ci ja umrę
+!!!source: DWOK57
+!!!id: 572111
+!!!signature: 57211100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4f
+8a
+=2
+16g
+16f
+8a
+8a
+=3
+4f
+8a
+=4
+16g
+16f
+8a
+8e}
+!!LO:LB:g=esac
+=5
+{4cc
+8cc
+=6
+16cc
+16dd
+8cc
+8e
+=7
+4f
+8a
+=8
+16g
+16f
+8a
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1171
+!!!ONB: Converted on 2024/12/26 with esac2hum

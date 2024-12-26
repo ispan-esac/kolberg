@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK06-K0657-kary_konik_kary.krn
+!!!OTL: Kary konik kary
+!!!source: DWOK06
+!!!id: K0657
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8dd
+8b-
+4dd
+=2
+8cc
+4a
+8f
+=3
+8b-
+8g
+4b-
+=4
+8a
+4cc
+8ff}
+!!LO:LB:g=esac
+=5
+{8dd
+8b-
+4dd
+=6
+8cc
+4a
+8f
+=7
+8b-
+8g
+4e
+=8
+8g
+4f
+8f}
+!!LO:LB:g=esac
+=9
+{8dd
+8b-
+4dd
+=10
+8cc
+4a
+8cc
+=11
+8b-
+8g
+4b-
+=12
+8a
+4cc
+8ff}
+!!LO:LB:g=esac
+=13
+{8dd
+8b-
+4dd
+=14
+8cc
+4a
+8cc
+=15
+8b-
+8g
+4e
+=16
+8g
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=435 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 409} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 409}
+!!!page: 409
+!!!ONB: Converted on 2024/12/26 with esac2hum

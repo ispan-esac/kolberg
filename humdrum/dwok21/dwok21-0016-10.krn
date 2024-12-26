@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK2101600010-od_krakowa_czarna_chmura_desc_leje.krn
+!!!OTL: Od Krakowa czarna chmura desc leje
+!!!source: DWOK21
+!!!id: 21016
+!!!signature: 2101600010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+16b
+16a
+8cc
+8ee
+=3
+8.dd
+16b
+16cc
+16a
+=4
+16g
+16a
+8b
+8cc
+=5
+16b
+16d
+8f#
+8a
+=6
+8.g
+16f#
+16a
+16f#}
+==
+*-
+!!!ONB: Partia wokalna, druhny przy wiciu wianka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 8} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 8}
+!!!page: 8
+!!!ONB: Converted on 2024/12/26 with esac2hum

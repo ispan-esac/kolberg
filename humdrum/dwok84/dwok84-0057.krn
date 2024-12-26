@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK8405700000-dziekuje_ci_mamulenku.krn
+!!!OTL: Dziękuję ci, mamuleńku
+!!!source: DWOK84
+!!!id: 84057
+!!!signature: 8405700000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4e
+8a
+8dd
+=2
+8cc
+8b
+8cc
+8cc
+=3
+4ee
+4dd#
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{4a
+8cc
+8ee
+=6
+8ee
+16dd
+16b
+4cc
+=7
+4ee
+8cc
+8g#
+=8
+2a}
+!!LO:LB:g=esac
+=9
+{4e
+8a
+8dd
+=10
+8cc
+8b
+8cc
+8cc
+=11
+4ee
+4dd#
+=12
+2ee}
+!!LO:LB:g=esac
+=13
+{4ee
+4dd#
+=14
+2ee
+=15
+8a
+8b
+8cc
+8ee
+=16
+8dd
+8cc
+8b
+8g#
+=17
+2a}
+==
+*-
+!!!ONB: Wariant t. 6-7: 4_3b_2_1_  5_4_3b_-7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 83} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

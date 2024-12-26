@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2646400000-ej_moja_ty_wdowulu.krn
+!!!OTL: Ej moja ty wdowulu
+!!!source: DWOK26
+!!!id: 26464
+!!!signature: 2646400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8ee
+=2
+16cc
+16b
+8dd
+8ee}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+8ee
+=4
+16.cc
+32b
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8g
+=6
+16f#
+16a
+8cc
+8b}
+!!LO:LB:g=esac
+=7
+{16a
+16g
+8b
+8dd
+=8
+16.cc
+32b
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 311
+!!!ONB: Converted on 2024/12/26 with esac2hum

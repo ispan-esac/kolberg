@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK06-K0202-poslwa_dziewcyna_do_borowina.krn
+!!!OTL: Poslwa dziewcyna do Borowina
+!!!source: DWOK06
+!!!id: K0202
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+8cc
+8cc
+8ee
+8dd
+=2
+4b
+8g
+8b
+8dd
+16cc
+16b}
+!!LO:LB:g=esac
+=3
+{4a
+8a
+8b
+8cc
+8cc
+=4
+8b
+8g#
+8e
+8g#
+4a}
+!!LO:LB:g=esac
+=5
+{4cc
+8cc
+8cc
+8ee
+8dd
+=6
+4b
+8g
+8b
+8dd
+16cc
+16b}
+!!LO:LB:g=esac
+=7
+{4a
+8a
+8b
+8cc
+8cc
+=8
+8b
+8g#
+8e
+16f#
+16g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 108} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 108}
+!!!page: 108
+!!!ONB: Converted on 2024/12/26 with esac2hum

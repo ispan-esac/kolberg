@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4637500001-pojedzies_pojade.krn
+!!!OTL: Pojedzies? Pojadę
+!!!source: DWOK46
+!!!id: 46375
+!!!signature: 4637500001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8ee
+8ee
+8gg
+8ee
+8dd
+8cc
+=2
+8dd
+8ee
+8dd
+8cc
+8b
+8g#
+=3
+8a
+8b
+4ee
+4cc
+=4
+8b
+8dd
+2a}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8gg
+8ee
+8dd
+8cc
+=6
+8dd
+8ee
+8dd
+8cc
+8b
+8g#
+=7
+8a
+8b
+4ee
+4cc
+=8
+8dd
+16cc
+16b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 241} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

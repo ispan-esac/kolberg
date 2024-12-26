@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK1622400000-coz_sie_po_sieni_grumoli.krn
+!!!OTL: Cóż się po sieni grumoli
+!!!source: DWOK16
+!!!id: 16224
+!!!signature: 1622400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8dd
+8ee
+=2
+8cc
+8b
+4dd
+=3
+8cc
+8b
+16b
+16g
+8f#
+=4
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{4b
+8b
+8dd
+=6
+8cc
+8b
+4dd
+=7
+8cc
+8b
+4b
+=8
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 205} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 205}
+!!!ONB: Converted on 2024/12/26 with esac2hum

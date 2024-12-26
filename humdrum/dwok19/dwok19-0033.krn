@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1903300000-ej_skrzypecku_zle_mi_gras.krn
+!!!OTL: Ej skrzypecku źle mi gras
+!!!source: DWOK19
+!!!id: 19033
+!!!signature: 1903300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8ee
+8.dd
+16b
+=2
+8cc
+8a
+4b
+=3
+8a
+8ee
+8.dd
+16b
+=4
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8.b
+16dd
+=6
+8cc
+8a
+4b
+=7
+8a
+8a
+8.dd
+16b
+=8
+8cc
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 14} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 14}
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

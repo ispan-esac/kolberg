@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK8357600000-ore_bohacz_ore.krn
+!!!OTL: Ore bóhacz, ore
+!!!source: DWOK83
+!!!id: 83576
+!!!signature: 8357600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+4cc
+=2
+16cc
+16g
+16b
+16a
+8g
+=3
+8g
+8cc
+16dd
+16ee
+=4
+8ff
+4ee}
+!!LO:LB:g=esac
+=
+{8ff
+8ff#
+24ff#
+24dd
+24cc
+=5
+16ee
+16dd
+4cc
+=
+8gg
+8ff
+24ff
+24ee
+24dd
+=6
+16ee
+16b
+4cc}
+==
+*-
+!!!ONB: Warianty t. 2: 56755_ oraz (765)755_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=473 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 362} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 362}
+!!!page: 362
+!!!ONB: Converted on 2024/12/26 with esac2hum

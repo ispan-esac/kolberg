@@ -1,0 +1,124 @@
+!!!!SEGMENT: DWOK2241400020-instrumentalna-kujawiak.krn
+!!!OTL: Instrumentalna-Kujawiak
+!!!source: DWOK22
+!!!id: 22414
+!!!signature: 2241400020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8d
+8ee
+=
+8dd
+24b
+24cc
+24ee
+8b
+=
+24d
+24g
+24f#
+8d
+24ee
+24ff#
+24ee
+=2
+8dd
+16cc
+16b
+8g}
+!!LO:LB:g=esac
+=
+{16d
+16f#
+8g
+24b
+24cc
+24dd
+=
+24b
+24cc
+24dd
+24b
+24cc
+24ee
+24b
+24cc
+24b
+=
+24d
+24g
+24f#
+8g
+8b
+=3
+8b
+16b
+16cc
+8b}
+!!LO:LB:g=esac
+=4
+{16a
+16g
+16f#
+16g
+8dd
+=
+24b
+24cc
+24dd
+24b
+24cc
+24ee
+24b
+24a
+24f#
+=5
+16a
+16g
+16f#
+16g
+16b
+16a
+=
+24g
+24a
+24b
+8cc
+16b
+16g}
+!!LO:LB:g=esac
+=6
+{8a
+16f#
+16g
+8dd
+=7
+8cc
+16b
+16cc
+8b
+=8
+8a
+16f#
+16g
+8b
+=9
+16f#
+16e
+8f#
+16a
+16d}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 208} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 208}
+!!!page: 208
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK3131600020-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK31
+!!!id: 31316
+!!!signature: 3131600020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8g
+16a
+16b-
+16cc
+16dd
+16ee
+16cc
+=2
+16ff
+16ee
+16ff
+16dd
+8cc
+8a
+=3
+8g
+8b-
+8b-
+16a
+16g
+=4
+16f
+16g
+16a
+16b-
+4cc}
+!!LO:LB:g=esac
+=5
+{8g
+16a
+16b-
+16cc
+16dd
+16ee
+16cc
+=6
+16ff
+16ee
+16ff
+16dd
+8cc
+8a
+=7
+8g
+4b-
+16a
+16g
+=8
+4f
+4f}
+==
+*-
+!!!ONB: Horodenka-Fragment w F-dur
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 38} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 38}
+!!!page: 38
+!!!ONB: Converted on 2024/12/26 with esac2hum

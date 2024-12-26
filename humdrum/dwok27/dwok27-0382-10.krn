@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2738200010-za_owczarnia_za_gorami.krn
+!!!OTL: Za owczarnią za górami
+!!!source: DWOK27
+!!!id: 27382
+!!!signature: 2738200010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4ee
+8dd#
+=2
+8ee
+4b
+=3
+4dd
+8dd
+=4
+8ee
+4b}
+!!LO:LB:g=esac
+=5
+{16dd
+16cc
+8b
+8a
+=6
+16b
+16a
+8g#
+8e
+=7
+4a
+8b
+=8
+8ee
+4b}
+!!LO:LB:g=esac
+=9
+{16dd
+16cc
+8b
+8a
+=10
+16b
+16a
+8g#
+8e
+=11
+4a
+8b
+=12
+8g#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=358 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 339} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 339}
+!!!page: 339
+!!!ONB: Converted on 2024/12/26 with esac2hum

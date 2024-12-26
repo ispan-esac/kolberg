@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK2620100002-druzynko_moja_stawaj.krn
+!!!OTL: Drużynko moja stawaj
+!!!source: DWOK26
+!!!id: 26201
+!!!signature: 2620100002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8ff
+8ee
+=2
+8dd
+4ff
+=3
+8dd
+8ff
+8ee
+=4
+8dd
+4b}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8dd
+=6
+8dd
+8ff
+8ee
+=7
+8dd
+8dd
+8b
+=8
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

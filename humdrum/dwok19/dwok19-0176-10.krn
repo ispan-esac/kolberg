@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK1917600010-instrumentalna-mazur.krn
+!!!OTL: Instrumentalna-Mazur
+!!!source: DWOK19
+!!!id: 19176
+!!!signature: 1917600010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16.g
+32g
+8cc
+8e
+=2
+16.g
+32f
+8d
+8d
+=3
+16g
+16a
+16b
+16cc
+16dd
+16b
+=4
+16cc
+16dd
+16ee
+16b
+8cc}
+!!LO:LB:g=esac
+=5
+{16.g
+32g
+8cc
+8e
+=6
+16.g
+32f
+8d
+8d
+=7
+16g
+16a
+16b
+16cc
+16dd
+16b
+=8
+16cc
+16dd
+16ee
+16b
+16cc
+16a}
+!!LO:LB:g=esac
+=9
+{8.ee
+16dd
+8cc
+=10
+8b
+16dd
+16cc
+8b
+=11
+16dd
+16ee
+16ff
+16dd
+8b
+=12
+16cc
+16b
+16cc
+16ee
+8cc}
+!!LO:LB:g=esac
+=13
+{8.ee
+16dd
+8cc
+=14
+16b
+16cc
+16dd
+16cc
+8b
+=15
+16dd
+16ee
+16ff
+16dd
+8b
+=16
+16cc
+16b
+16cc
+16ee
+16aa
+16gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 58} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK7721300010-krakowiacek_ci_ja.krn
+!!!OTL: Krakowiacek ci ja
+!!!source: DWOK77
+!!!id: 77213
+!!!signature: 7721300010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8g
+8f#
+8e
+=2
+8d
+4.g
+=3
+8a
+8b
+4cc
+=4
+16ee
+16dd
+4.b}
+!!LO:LB:g=esac
+=5
+{8a
+16cc
+16a
+8f#
+8d
+=6
+8d
+4.g
+=7
+8a
+8b
+4cc
+=8
+8f#
+4.g}
+==
+*-
+!!!ONB: Od taktu 9 do 16 melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2204900000-oj_potoczyla_nadobna_kasienka.krn
+!!!OTL: Oj potoczyła nadobna Kasieńka
+!!!source: DWOK22
+!!!id: 22049
+!!!signature: 2204900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+4ee
+4cc
+4a
+=2
+8b
+8dd
+8b
+8g
+4a
+4d
+=3
+4dd
+8ee
+8dd
+4cc
+4a
+=4
+1b}
+!!LO:LB:g=esac
+=5
+{4dd
+8ee
+8dd
+8cc
+8b
+8a
+8g
+=6
+8b
+8dd
+8b
+8g
+4a
+4d
+=7
+8dd
+8dd
+8ee
+8dd
+8cc
+8b
+8a
+8g
+=8
+1b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 51} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 51}
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK42145800000-moja_bzialecki_bysta_wziedzialy.krn
+!!!OTL: Moja bziałecki, byśta wziedziały
+!!!source: DWOK42
+!!!id: 421458
+!!!signature: 42145800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8cc
+=2
+4ee
+8cc
+=3
+8gg
+8gg
+8gg
+=4
+4gg
+8gg
+=5
+8ff
+8ee
+8ff}
+!!LO:LB:g=esac
+=6
+{8dd
+4cc
+=7
+8b
+8dd
+8gg
+=8
+4cc
+8cc
+=9
+8ee
+8cc
+8cc
+=10
+4b
+8dd}
+!!LO:LB:g=esac
+=11
+{8ff
+8dd
+8dd
+=12
+4cc
+8ee
+=13
+8ee
+8dd
+8cc
+=14
+4b
+8dd
+=15
+8ff
+8ee
+8gg
+=16
+4cc
+8cc}
+==
+*-
+!!!ONB: wariant w takcie czwartym +3__+3_, wariant w takcie dwunastym: +1__+3+5
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 55} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 55}
+!!!page: 55
+!!!ONB: Converted on 2024/12/26 with esac2hum

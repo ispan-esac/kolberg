@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK3116500000-piszov_by_ja_raz_w_tanec.krn
+!!!OTL: Piszov by ja raz w tanec
+!!!source: DWOK31
+!!!id: 31165
+!!!signature: 3116500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4cc
+16dd
+16ee
+8cc
+=2
+16dd
+16ee
+16b
+16dd
+16cc
+16b
+16a
+16b
+=3
+8cc
+16cc
+16ee
+16dd
+16ee
+8cc
+=4
+8cc
+16cc
+16b
+8a
+16b
+16a}
+!!LO:LB:g=esac
+=5
+{4g
+16ff
+16dd
+8ee
+=6
+8g
+16cc
+16dd
+16cc
+16b
+8cc
+=7
+16g
+16b
+8cc
+16dd
+16b
+16cc
+16a
+=8
+4g
+16g
+16a
+8g}
+==
+*-
+!!!ONB: Ruski tanec
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 24} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 24}
+!!!page: 24
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4106900002-kedy_moje_kare_konie.krn
+!!!OTL: Kędy moje kare konie
+!!!source: DWOK41
+!!!id: 41069
+!!!signature: 4106900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8ee
+=2
+16dd
+16cc
+8dd
+8a
+8g
+=3
+8b
+8dd
+8dd
+8ee
+=4
+16dd
+16cc
+4.a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8a
+8g
+=6
+8b
+8dd
+8dd
+8ee
+=7
+8a
+8cc
+8a
+8dd
+=8
+8a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 60} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

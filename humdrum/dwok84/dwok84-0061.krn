@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK8406100000-instrumentalna_-_weselna.krn
+!!!OTL: Instrumentalna - Weselna
+!!!source: DWOK84
+!!!id: 84061
+!!!signature: 8406100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8dd#
+8ee
+=2
+8ff#
+4ee
+=3
+8ee
+8dd#
+8ee
+=4
+8ff#
+4ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8b
+8ee
+=6
+16cc
+16b
+4a
+=7
+4b
+8g#
+=8
+8ee
+4dd#
+=9
+4ee
+8dd#}
+!!LO:LB:g=esac
+=10
+{8ee
+8b
+8ee
+=11
+16cc
+16b
+4a
+=12
+4b
+8ee
+=13
+8cc
+8a
+8b
+=14
+8g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 86} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 86}
+!!!page: 86
+!!!ONB: Converted on 2024/12/26 with esac2hum

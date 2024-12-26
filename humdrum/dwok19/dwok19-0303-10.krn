@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1930300010-cy_ja_matko_nie_wasa.krn
+!!!OTL: Cy ja matko nie wasa
+!!!source: DWOK19
+!!!id: 19303
+!!!signature: 1930300010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8ee
+=2
+16ee
+16cc
+8ff
+8ee
+=3
+8cc
+8a
+8g#
+=4
+16a
+16b
+8dd
+8a}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+=6
+16ee
+16dd
+8ff
+16ee
+16dd
+=7
+16cc
+16b
+8a
+8g#
+=8
+16a
+16b
+8dd
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 93} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 93}
+!!!page: 93
+!!!ONB: Converted on 2024/12/26 with esac2hum

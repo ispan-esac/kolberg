@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2742500000-coz_tam_w_boru_runelo.krn
+!!!OTL: Coz tam w boru runęło
+!!!source: DWOK27
+!!!id: 27425
+!!!signature: 2742500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16f
+8ff
+8ee
+=2
+16dd
+16dd
+4cc
+=3
+16a
+16cc
+8dd
+8b-
+=4
+16a
+16a
+4f
+=5
+16ee
+16ee
+4ff}
+!!LO:LB:g=esac
+=6
+{16f
+16f
+8ff
+8ee
+=7
+16dd
+16dd
+4cc
+=8
+16a
+16cc
+8dd
+8b-
+=9
+16a
+16a
+4f
+=10
+16ee
+16ee
+4ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=377 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 358} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 358}
+!!!page: 358
+!!!ONB: Converted on 2024/12/26 with esac2hum

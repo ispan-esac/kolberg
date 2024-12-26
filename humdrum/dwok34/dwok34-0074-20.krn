@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3407200020-oj_w_niedziele_po_obiedzie.krn
+!!!OTL: Oj w niedziele po obiedzie
+!!!source: DWOK34
+!!!id: 34074
+!!!signature: 3407200020
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8b
+8a
+8g
+8a
+8b
+=
+12cc
+12b
+12cc
+2b
+=2
+8cc
+8ee
+4dd
+8cc
+8a
+=
+4dd
+8ee
+8cc
+12b
+12a
+12b
+=3
+2.a}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+4dd
+8cc
+8a
+=5
+4dd
+8ee
+8a
+8cc
+8b
+=6
+2a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 45} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 45}
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

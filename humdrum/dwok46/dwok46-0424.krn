@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4642400000-chociaz_by_mi_te_swojaczke_w_zloto_obszyli_bodaj.krn
+!!!OTL: Chociaż by mi tę swojaczkę w złoto obszyli, bodaj
+!!!source: DWOK46
+!!!id: 46424
+!!!signature: 4642400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4cc
+4ee
+=2
+8ee
+8dd
+4cc
+4f#
+=3
+8g
+8a
+4cc
+4b
+=4
+8dd
+16dd
+16cc
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4cc
+4ee
+=6
+8dd
+8cc
+4a
+4f#
+=7
+8g
+8b
+4cc
+4g
+=8
+8b
+8b
+4a
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=300 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 266} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 266}
+!!!page: 266
+!!!ONB: Converted on 2024/12/26 with esac2hum

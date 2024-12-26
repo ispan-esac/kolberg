@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK1801800000-oj_maja_dziewczyno.krn
+!!!OTL: Oj maja dziewczyno
+!!!source: DWOK18
+!!!id: 18018
+!!!signature: 1801800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+4ff
+=2
+16cc
+16cc
+8b-
+8g
+=3
+4b-
+8dd
+=4
+16cc
+16cc
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8ff
+8a
+=6
+16cc
+16cc
+8b-
+8b-
+=7
+4dd
+8ee
+=8
+16ff
+16ff
+8ee
+8cc}
+!!LO:LB:g=esac
+=9
+{4g
+8b-
+=10
+16dd
+16cc
+8a
+8f
+=11
+4b-
+8dd
+=12
+16ff
+16ff
+8ee
+8cc}
+!!LO:LB:g=esac
+=13
+{4g
+8b-
+=14
+16dd
+16cc
+8a
+8f
+=15
+4b-
+8dd
+=16
+16cc
+16cc
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 66} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

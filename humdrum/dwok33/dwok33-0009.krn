@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK3300900000-o_ho_ho_ho_ho_kozo_neboho.krn
+!!!OTL: O ho ho ho ho kozo neboho
+!!!source: DWOK33
+!!!id: 33009
+!!!signature: 3300900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{8dd
+8dd
+24dd
+24cc
+24b
+=1
+8cc
+4dd
+=
+24b
+24cc
+24b
+8a
+8g
+=2
+8b
+4g}
+!!LO:LB:g=esac
+=3
+{8b
+8b
+8cc
+=4
+8b
+4cc
+=5
+8b
+8a
+8g
+=6
+16a
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 123} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

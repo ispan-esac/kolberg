@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK7630900000-oj_chociaz_ja_uboga.krn
+!!!OTL: Oj, chociaż ja uboga
+!!!source: DWOK76
+!!!id: 76309
+!!!signature: 7630900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.g
+8b
+8dd
+8gg
+=2
+8ff#
+8a
+4cc
+4ee
+=3
+4.g
+8b
+8dd
+8gg
+=4
+8ff#
+8a
+4cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{4.g
+8b
+8dd
+8gg
+=6
+8ff#
+8a
+4cc
+4ee
+=7
+4.g
+8b
+8dd
+8gg
+=8
+8ff#
+8a
+4cc
+8b
+8a}
+!!LO:LB:g=esac
+=9
+{4.g
+8b
+4b
+=10
+8cc
+8a
+4cc
+8b
+8a
+=11
+8g
+8b
+8d
+8g
+8b
+8dd
+=12
+8cc
+8a
+4cc
+8b
+8a}
+!!LO:LB:g=esac
+=13
+{4.g
+8b
+4b
+=14
+8cc
+8a
+4cc
+8b
+8a
+=15
+8g
+8b
+8d
+8g
+8b
+8dd
+=16
+8cc
+8a
+4cc
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 158} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 158}
+!!!page: 158
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,119 @@
+!!!!SEGMENT: DWOK3300100000-gory_syonskie_domie_wiecznej_chwaly.krn
+!!!OTL: Góry Syońskie domie wiecznej chwały
+!!!source: DWOK33
+!!!id: 33001
+!!!signature: 3300100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{2g
+4f#
+4g
+=2
+2a
+2g
+=3
+4g
+4b
+4dd
+4cc
+=4
+2a
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{2g
+4f#
+4g
+=6
+2a
+2g
+=7
+4b
+4dd
+4dd
+4cc
+=8
+2a
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{2a
+4f#
+4a
+=10
+2b
+2a
+=11
+4d
+4cc
+4.cc
+8b
+=12
+2b
+4a}
+4r
+!!LO:LB:g=esac
+=13
+{2a
+4f#
+4a
+=14
+2b
+2a
+=15
+4d
+4cc
+4.cc
+8b
+=16
+2b
+4a}
+4r
+!!LO:LB:g=esac
+=17
+{2gg
+4ff#
+4ee
+=18
+2ee
+2dd
+=19
+4cc
+4cc
+4dd
+4ee
+=20
+2ee
+4dd}
+4r
+!!LO:LB:g=esac
+=21
+{2g
+4g
+4a
+=22
+2b
+2cc
+=23
+4ee
+4dd
+4dd
+4f#
+=24
+2a
+4g}
+4r
+==
+*-
+!!!ONB: Pieśń na Boże Narodzenie śpiewana przez Mazurów
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 114} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 114}
+!!!page: 114
+!!!ONB: Converted on 2024/12/26 with esac2hum

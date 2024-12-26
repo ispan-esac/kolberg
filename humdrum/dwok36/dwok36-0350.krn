@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK3635000000-oj_chodyla_moloda_diwczyna.krn
+!!!OTL: Oj chodyła mołoda diwczyna
+!!!source: DWOK36
+!!!id: 36350
+!!!signature: 3635000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.g
+16a
+16b
+16g
+8dd
+=2
+8cc
+8b
+8cc
+8a
+=3
+4g
+4g
+=4
+4dd
+16b
+16g
+8dd
+=5
+4cc
+16dd
+16cc
+8b}
+!!LO:LB:g=esac
+=6
+{8a
+8g
+8b
+8dd
+=7
+8cc
+8b
+8cc
+8a
+=8
+4g
+4g
+=9
+4b
+8g
+8dd
+=
+4cc
+24dd
+24b
+24a
+8b
+=10
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 218
+!!!ONB: Converted on 2024/12/26 with esac2hum

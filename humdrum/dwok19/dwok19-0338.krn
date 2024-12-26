@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1933800000-oj_pojzryj_mi_na_koslmirz.krn
+!!!OTL: Oj pojźryj mi na kośłmirz
+!!!source: DWOK19
+!!!id: 19338
+!!!signature: 1933800000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16cc
+16b
+4a
+=2
+16g#
+16a
+8b
+8g#
+=3
+16e
+16g#
+8g#
+16b
+32g#
+32f#
+=4
+16e
+32f#
+32g#
+4a}
+!!LO:LB:g=esac
+=5
+{16cc
+16b
+4a
+=6
+16g#
+16a
+8b
+16g#
+16f#
+=7
+16e
+16g#
+16f#
+16g#
+16b
+16dd
+=8
+16ee
+32cc
+32b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 103} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 103}
+!!!page: 103
+!!!ONB: Converted on 2024/12/26 with esac2hum

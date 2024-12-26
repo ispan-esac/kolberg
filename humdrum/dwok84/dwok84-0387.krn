@@ -1,0 +1,116 @@
+!!!!SEGMENT: DWOK8438700000-instrumentalna_-_walc_lwowski.krn
+!!!OTL: Instrumentalna - Walc lwowski
+!!!source: DWOK84
+!!!id: 84387
+!!!signature: 8438700000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+{16f#
+16a
+=1
+8cc#
+16ff#
+16dd
+16bb
+16aa
+=2
+8aa
+8gg
+16ee
+16dd
+=3
+8cc#
+16ee
+16cc#
+16aa
+16gg
+=4
+16ee#
+16ff#
+8dd}
+!!LO:LB:g=esac
+=-
+{16a
+16f#
+=5
+8cc#
+16ff#
+16dd
+16bb
+16aa
+=6
+8aa
+8gg
+16ee
+16dd
+=7
+8cc#
+16ee
+16cc#
+16aa
+16gg
+=8
+4dd}
+!!LO:LB:g=esac
+=-
+{16a
+16dd
+=9
+8ff#
+16dd
+16ff#
+16ee
+16dd
+=10
+16dd
+16cc#
+16cc#
+16e
+16a
+16cc#
+=11
+8gg
+16ee
+16gg
+16ff#
+16ee
+=12
+16ee
+16dd
+16dd
+16f#}
+!!LO:LB:g=esac
+=-
+{16a
+16dd
+=13
+8ff#
+16dd
+16ff#
+16ee
+16dd
+=14
+16dd
+16cc#
+16cc#
+16e
+16a
+16cc#
+=15
+8gg
+16ee
+16gg
+16ff#
+16ee
+=16
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=388 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 318} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 318}
+!!!page: 318
+!!!ONB: Converted on 2024/12/26 with esac2hum

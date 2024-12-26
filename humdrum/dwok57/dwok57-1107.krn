@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK57110700000-oj_u_poli_kiernyczenka.krn
+!!!OTL: Oj, u poli kiernyczeńka
+!!!source: DWOK57
+!!!id: 571107
+!!!signature: 57110700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8dd
+=2
+8.ee
+16dd
+16cc
+16b
+16cc
+16ee
+=3
+8.dd
+16cc
+4b}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8dd
+8dd
+=5
+8.ee
+16dd
+16cc
+16b
+16cc
+16ee
+=6
+8.dd
+16b
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8b
+8b
+=8
+8.dd
+16cc
+8cc
+8cc
+=9
+8b
+8dd
+4gg}
+!!LO:LB:g=esac
+=10
+{8b
+8dd
+8dd
+8dd
+=11
+8.ee
+16dd
+16cc
+16b
+16cc
+16ee
+=12
+8.dd
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 250
+!!!ONB: Converted on 2024/12/26 with esac2hum

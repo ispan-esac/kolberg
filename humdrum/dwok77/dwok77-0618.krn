@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK7761800000-kosciolek_z_deszczulek_dzwonnica_z_tarcic.krn
+!!!OTL: Kościółek z deszczułek dzwonnica z tarcic
+!!!source: DWOK77
+!!!id: 77618
+!!!signature: 7761800000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{4f
+4b-
+4dd
+=2
+4f
+4b-
+4dd
+=3
+8ff
+8dd
+4.ee-
+8cc
+=4
+4ee-
+2gg}
+!!LO:LB:g=esac
+=5
+{4f
+4a
+4cc
+=6
+4f
+4a
+4cc
+=7
+8ff
+8dd
+4.ee-
+8cc
+=8
+4a
+2b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 314
+!!!ONB: Converted on 2024/12/26 with esac2hum

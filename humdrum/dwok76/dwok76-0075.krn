@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK7607500000-macius_maciusa_gdzies_to_jedzies.krn
+!!!OTL: Maciuś, Maciuś,a gdzies  to jedzies?
+!!!source: DWOK76
+!!!id: 76075
+!!!signature: 7607500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4cc
+4b
+=2
+2.cc
+=3
+8a
+8a
+4b-
+8g
+8e
+=4
+2.f}
+!!LO:LB:g=esac
+=5
+2.r
+=6
+{8g
+8g
+4b-
+8g
+8e
+=7
+8f
+8f
+4a
+4cc
+=8
+8cc
+8dd
+4b-
+8g
+8e}
+!!LO:LB:g=esac
+=9
+{8f
+8f
+4a
+4cc
+=10
+8cc
+8dd
+4b-
+8g
+8e
+=11
+2.f}
+=12
+2.r
+==
+*-
+!!!ONB: Dialog Maciusia
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 44} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 44}
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK06-K0236a-na_zielonej_lace.krn
+!!!OTL: Na zielonej lace
+!!!source: DWOK06
+!!!id: K0236a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16a
+16g
+8b
+4dd
+=2
+8a
+4b
+8e
+=3
+16a
+16g
+8b
+8.dd
+16dd
+=4
+8cc
+4b}
+8r
+!!LO:LB:g=esac
+=5
+{16a
+16g
+8b
+4dd
+=6
+8a
+4b
+8e
+=7
+8g
+8f#
+8a
+8g
+=8
+8f#
+4e
+16r
+16e}
+!!LO:LB:g=esac
+=9
+{8g
+8f#
+8.a
+16g
+=10
+16f#
+16g
+8e
+16f#
+16g
+8e
+=11
+16e
+16f#
+8g
+8a
+8g
+=12
+8f#
+4e}
+8r
+!!LO:LB:g=esac
+=13
+{8g
+8f#
+8.a
+16g
+=14
+16f#
+16g
+8e
+16f#
+16g
+8e
+=15
+16e
+16f#
+8g
+8a
+8g
+=16
+8f#
+4e}
+8r
+==
+*-
+!!!ONB: Wariant alternatywny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 121} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 121}
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

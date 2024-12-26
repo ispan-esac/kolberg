@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1219000000-zebym_ja_wiedziala_gdzie_moj_jasio_pije.krn
+!!!OTL: Zebym ja wiedziała gdzie mój Jasio pije
+!!!source: DWOK12
+!!!id: 12190
+!!!signature: 1219000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16g
+16a
+16b-
+16dd
+16cc
+=2
+16b-
+16a
+8g
+8b-
+=3
+8dd
+4cc}
+!!LO:LB:g=esac
+=4
+{16g
+16g
+16g
+16a
+16g
+16f
+=5
+16g
+16g
+8a
+8f
+=6
+8e
+4g}
+!!LO:LB:g=esac
+=7
+{8e
+4g
+=8
+16f
+16a
+16cc
+16b-
+16g
+16e
+=9
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 96} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

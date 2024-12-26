@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK57183900002-oj_ny_maz_to_jak_to_tomu.krn
+!!!OTL: Oj, ny maż to jak to tomu
+!!!source: DWOK57
+!!!id: 571839
+!!!signature: 57183900002
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8dd
+8dd
+4dd
+4g
+=
+!!UNCATEGORIZED MEASURE
+8cc
+24cc
+24b
+24a
+4b
+4e}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8e
+8g
+8g
+8f
+=2
+*M3/4
+8e
+8e
+4b
+4e}
+!!LO:LB:g=esac
+=3
+{4cc
+2ee
+=4
+*M2/4
+8dd
+8cc
+8b
+8a
+=5
+*M3/4
+8a
+8a
+4ee
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 914
+!!!ONB: Converted on 2024/12/26 with esac2hum

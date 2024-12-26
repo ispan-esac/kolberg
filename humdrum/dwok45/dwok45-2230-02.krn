@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK45223000002-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK45
+!!!id: 452230
+!!!signature: 45223000002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+{8g
+=1
+8cc
+8ff
+8ee
+8cc
+=2
+8ff
+8ee
+4g
+=3
+8cc
+8ff
+8ee
+8cc
+=4
+4ff
+8ee
+16dd
+16cc
+=5
+2g}
+!!LO:LB:g=esac
+=6
+{8b
+8cc
+4dd
+=7
+8dd
+8b
+4g
+=8
+8b
+8cc
+8dd
+8ff
+=9
+8ee
+8cc
+4g
+=10
+2e}
+!!LO:LB:g=esac
+=11
+{8gg
+8ff
+4ee
+=12
+8gg
+8gg
+4cc
+=13
+2cc
+=14
+4f
+4g
+=15
+2g}
+!!LO:LB:g=esac
+=16
+{2g
+=17
+2g
+=18
+2g
+=19
+4g
+4g
+=20
+4.e}
+==
+*-
+!!!ONB: Gadejowa albo Kościeliska
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=468 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 450} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 450}
+!!!page: 450
+!!!ONB: Converted on 2024/12/26 with esac2hum

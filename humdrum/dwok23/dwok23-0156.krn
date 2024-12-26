@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2315600000-przelecial_ptasek.krn
+!!!OTL: Przeleciał ptasek
+!!!source: DWOK23
+!!!id: 23156
+!!!signature: 2315600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+8.dd
+16b
+=2
+8cc
+8b
+8a
+=3
+16cc
+16ee
+8.dd
+16b
+=4
+8g
+8f#
+8d}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8b
+8dd
+=6
+8cc
+8b
+16a
+16f#
+=7
+16g
+16b
+8a
+8d}
+!!LO:LB:g=esac
+=8
+{16f#
+16g
+8b
+8dd
+=9
+8cc
+8b
+16a
+16f#
+=10
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 164} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 164}
+!!!page: 164
+!!!ONB: Converted on 2024/12/26 with esac2hum

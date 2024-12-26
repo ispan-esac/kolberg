@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK7616000010-sloneczko_juz_zaszlo.krn
+!!!OTL: Słoneczko już zaszło
+!!!source: DWOK76
+!!!id: 76160
+!!!signature: 7616000010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8a
+8cc
+8f#
+=2
+8g
+4.g
+=3
+8dd
+8cc#
+16cc
+16b
+16cc
+16a
+=4
+8ee
+4.dd}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+8f#
+=6
+8g
+4g
+8b
+=7
+8dd
+8cc
+8cc
+8f#
+=8
+8g
+4.g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 85} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

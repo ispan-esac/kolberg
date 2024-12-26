@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2642800000-a_pedz_woly_fryzowana.krn
+!!!OTL: A pędź woły fryzowana
+!!!source: DWOK26
+!!!id: 26428
+!!!signature: 2642800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8ee
+=2
+16cc
+16a
+8cc
+8ee
+=3
+8dd
+8b
+8a}
+!!LO:LB:g=esac
+=4
+{16g
+16a
+8b
+8cc
+=5
+16b
+16a
+8g
+8g
+=6
+8a
+8g
+8d}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8cc
+=8
+16b
+16a
+8b
+8g
+=9
+8a
+8dd
+8a}
+!!LO:LB:g=esac
+=10
+{16g
+16a
+8b
+8cc
+=11
+16b
+16a
+8g
+8g
+=12
+8a
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 297
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1227000011-przeprosze_mnie_jasiu_przepros.krn
+!!!OTL: Przeprośże mnie Jasiu przeproś
+!!!source: DWOK12
+!!!id: 12270
+!!!signature: 1227000011
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16cc
+8ee
+8ff
+=2
+16dd
+16dd
+8.ff
+16ee
+=3
+16cc
+16cc
+8a
+8cc
+=4
+16b-
+16g
+8.b-
+16a}
+!!LO:LB:g=esac
+=5
+{4f
+16a
+16cc
+=6
+16g
+16g
+8b-
+8dd
+=7
+4cc
+16a
+16f
+=8
+16b-
+16g
+8b-
+8a}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 144} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 144}
+!!!page: 144
+!!!ONB: Converted on 2024/12/26 with esac2hum

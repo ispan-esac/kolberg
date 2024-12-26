@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK04-K0228a-ma_babka_ma_babka.krn
+!!!OTL: Ma babka ma babka
+!!!source: DWOK04
+!!!id: K0228a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8g
+8e
+=2
+8cc
+8g
+8e
+=3
+8cc
+8ee
+8gg
+=4
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{8ff
+8.dd
+16dd
+=6
+8ff
+8dd
+8dd
+=
+16b
+16dd
+24ff
+24gg
+24aa
+16aa
+16ff
+=7
+8ee
+4dd}
+!!LO:LB:g=esac
+=8
+{8cc
+8g
+8e
+=9
+8cc
+8g
+8e
+=10
+8cc
+8ee
+8gg
+=11
+8cc
+4b}
+!!LO:LB:g=esac
+=12
+{8ee
+8.ff
+16dd
+=13
+8ee
+8.ff
+16dd
+=14
+16b
+16dd
+16ee
+16dd
+16b
+16g
+=15
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 117} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 117}
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

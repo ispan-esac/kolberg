@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK8105700000-pruda_pruda_sidyriczka.krn
+!!!OTL: Pruda pruda sidyriczka
+!!!source: DWOK81
+!!!id: 81057
+!!!signature: 8105700000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=1
+{8d
+8a
+8a
+8a
+=2
+8a
+8a
+8a
+8f
+=3
+8d
+8a
+8a
+8a
+=4
+4f
+4d
+=5
+8d
+8a
+8a
+8a
+=6
+4f
+4d}
+!!LO:LB:g=esac
+=7
+{8d
+8d
+8d
+8d
+=8
+8d
+8d
+8d
+8A
+=9
+4d
+8f
+8e
+=10
+4d
+4d
+=11
+2d
+=12
+2d}
+==
+*-
+!!!ONB: Wertak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 50} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

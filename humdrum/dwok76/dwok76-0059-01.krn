@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7605900001-a_pojdz_ino_dziewczyno.krn
+!!!OTL: A pójdź ino, dziewczyno
+!!!source: DWOK76
+!!!id: 76059
+!!!signature: 7605900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+4ee
+4cc
+4b
+=3
+8cc
+8a
+4.g
+8b
+=4
+4cc
+4a
+4f#}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+4dd
+=6
+4ee
+4cc
+4b
+=7
+8cc
+8a
+4g
+4b
+=8
+4cc
+4a
+4f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 37} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

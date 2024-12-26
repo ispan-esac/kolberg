@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK06-K0454-wielka_to_milosc_boga_ojca_byla.krn
+!!!OTL: Wielka to milosc Boga Ojca byla
+!!!source: DWOK06
+!!!id: K0454
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+8ee
+8dd
+4cc
+4g
+=2
+8a
+8b
+8cc
+8a
+4g
+8cc}
+8r
+!!LO:LB:g=esac
+=3
+{4cc
+8ee
+8dd
+4cc
+4g
+=4
+8a
+8b
+8cc
+8a
+4g
+8cc}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ee
+8dd
+4cc
+8ee
+8gg
+=6
+8ff
+8ee
+2.dd}
+!!LO:LB:g=esac
+=7
+{8cc
+8dd
+8ee
+8dd
+4cc
+8ee
+8gg
+=8
+8ff
+8ee
+2.dd}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+8ff
+8ee
+8gg
+8ee
+4dd
+=10
+2cc}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 242} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

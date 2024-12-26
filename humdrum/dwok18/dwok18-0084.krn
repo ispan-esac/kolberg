@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1808400000-u_waz-ze_se_uwaz.krn
+!!!OTL: U waz-ze se uwaz
+!!!source: DWOK18
+!!!id: 18084
+!!!signature: 1808400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8ee
+8ee
+=2
+8cc
+4b
+8g
+=3
+8b
+8b
+8cc
+8g
+=4
+8f
+4.g}
+!!LO:LB:g=esac
+=5
+{16cc
+16b
+8cc
+8ee
+8ee
+=6
+8cc
+4b
+8g
+=7
+8cc
+8b
+8cc
+8g
+=8
+8f
+4.g}
+==
+*-
+!!!ONB: Po weselu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 87} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 87}
+!!!page: 87
+!!!ONB: Converted on 2024/12/26 with esac2hum

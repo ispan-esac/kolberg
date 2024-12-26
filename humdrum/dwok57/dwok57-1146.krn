@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK57114600000-oj_pidu_ja_horonkamy.krn
+!!!OTL: Oj, pidu ja horońkamy
+!!!source: DWOK57
+!!!id: 571146
+!!!signature: 57114600000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8g
+8b
+16b
+16a
+8g
+=2
+*M3/4
+4.dd
+16cc
+16ee
+8dd
+8b
+=3
+4.dd
+16cc
+16ee
+8dd
+8b
+=4
+4dd
+8cc
+8a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8a
+8a
+8g
+8b
+=6
+*M3/4
+4dd
+8cc
+8a
+8b
+8g
+=
+!!UNCATEGORIZED MEASURE
+=7
+*M3/4
+8a
+8a
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 271
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK1243000000-a_przede_dworem.krn
+!!!OTL: A przede dworem
+!!!source: DWOK12
+!!!id: 12430
+!!!signature: 1243000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8g
+4b
+8b
+8g
+=2
+16cc
+16ee
+8gg
+4ff
+4dd
+=3
+8b
+8dd
+4.ff
+8ee
+=4
+8gg
+8ee
+2cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+4gg
+8ff
+8ee
+=6
+16dd
+16b
+8g
+4a
+4f
+=7
+8e
+8g
+2cc
+=8
+8dd
+16ee
+16ff
+2gg}
+!!LO:LB:g=esac
+=9
+{8ee
+8ee
+4gg
+8ff
+8ee
+=10
+16dd
+16b
+8g
+4a
+4f
+=11
+8e
+8g
+2cc
+=12
+8dd
+8b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 223-224} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 223-224}
+!!!page: 223-224
+!!!ONB: Converted on 2024/12/26 with esac2hum

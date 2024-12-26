@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK2640700002-szla_kasia_przez_gaj.krn
+!!!OTL: Szła Kasia przez gaj
+!!!source: DWOK26
+!!!id: 26407
+!!!signature: 2640700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.dd
+16b
+8g
+8g
+8g
+8g
+=2
+8ee
+8ee
+2cc
+=3
+8.dd
+16b
+8dd
+8cc
+8b
+8a
+=4
+8dd
+8dd
+2g}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+8a
+8a
+8a
+8g
+=6
+8a
+8cc
+8b
+8dd
+8b
+8g
+=7
+8dd
+8dd
+4ee
+4a
+=8
+8b
+8a
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{8f#
+8a
+8a
+8a
+8a
+8g
+=10
+8a
+8cc
+8b
+8dd
+8b
+8g
+=11
+8dd
+8dd
+4ee
+8a
+8cc
+=12
+8b
+8b
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 285
+!!!ONB: Converted on 2024/12/26 with esac2hum

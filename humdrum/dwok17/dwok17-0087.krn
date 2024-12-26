@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK1708700000-oj_u_nasego_pana.krn
+!!!OTL: Oj u nasego pana
+!!!source: DWOK17
+!!!id: 17087
+!!!signature: 1708700000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8ff
+8ff
+16ff
+16ee
+=2
+16ff
+16gg
+8ff
+8gg
+=3
+8dd
+8cc
+16ee
+16ff
+=4
+16ee-
+16cc
+8b-
+8f}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8b-
+8cc
+=6
+16f
+16a
+8b-
+8cc
+=7
+16f
+16a
+8b-
+16dd
+16b-
+=
+24ee-
+24dd
+24cc
+8b-
+8f}
+!!LO:LB:g=esac
+=
+{24f
+24g
+24a
+16b-
+16a
+16cc
+16a
+=
+24f
+24g
+24a
+16b-
+16a
+16cc
+16a
+=
+24f
+24g
+24a
+8b-
+16dd
+16ff
+=8
+16ee-
+16dd
+8cc
+8b-}
+==
+*-
+!!!ONB: Wariant t. 4: 4321_-5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=54 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 32} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 32}
+!!!page: 32
+!!!ONB: Converted on 2024/12/26 with esac2hum

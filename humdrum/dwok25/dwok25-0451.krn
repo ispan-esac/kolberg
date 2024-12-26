@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2545100000-jedna_dynia_druga_dynia.krn
+!!!OTL: Jedna dynia, druga dynia
+!!!source: DWOK25
+!!!id: 25451
+!!!signature: 2545100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16ee
+8.dd
+16b
+=2
+16cc
+16cc
+8ee
+8dd
+=3
+16cc
+16ee
+8.dd
+16b
+=4
+16cc
+16d
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16cc
+8.b
+16g
+=6
+16a
+16a
+8cc
+8b
+=7
+16d
+16cc
+8.b
+16g
+=8
+16cc
+16a
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 189} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK3646100000-ej_pyj_pywo.krn
+!!!OTL: Ej pyj pywo
+!!!source: DWOK36
+!!!id: 36461
+!!!signature: 3646100000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8aa
+8ee
+8gg
+8ee
+=2
+8gg
+8ee
+8gg
+8ee
+=3
+8aa
+8gg
+16gg
+16ff#
+16ee
+16ff#
+=4
+4dd
+4ff#}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ff#
+8aa
+=6
+8gg
+8ee
+8gg
+8ee
+=7
+8aa
+8gg
+16gg
+16ff#
+16ee
+16ff#
+=8
+4dd
+4dd}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8ff#
+8aa
+=10
+8gg
+8ee
+8gg
+8ee
+=11
+8aa
+8gg
+16gg
+16ff#
+16ee
+16ff#
+=12
+4dd
+4aa}
+!!LO:LB:g=esac
+=13
+{8dd
+8dd
+8ff#
+8aa
+=14
+8gg
+8ee
+8gg
+8ee
+=15
+8aa
+8gg
+16gg
+16ff#
+16ee
+16ff#
+=16
+4dd
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 296
+!!!ONB: Converted on 2024/12/26 with esac2hum

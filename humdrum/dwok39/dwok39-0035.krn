@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK3903500000-siadaj_siadaj_kochanie_moje.krn
+!!!OTL: Siadaj, siadaj kochanie moje
+!!!source: DWOK39
+!!!id: 39035
+!!!signature: 3903500000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4g
+4cc
+4g
+=2
+8cc
+8b
+8cc
+8dd
+2ee}
+!!LO:LB:g=esac
+=3
+{4cc
+4ee
+4gg
+4ff
+=4
+8ee
+8ee
+8ee
+8dd
+2dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8dd
+8cc
+8b
+8a
+8a
+8g}
+!!LO:LB:g=esac
+=6
+{8dd
+8ee
+8dd
+8cc
+8b
+8a
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8cc
+8ee
+2gg
+=8
+8ff
+8ee
+8dd
+8dd
+2cc}
+==
+*-
+!!!ONB: Wesele do ślubu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 105} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

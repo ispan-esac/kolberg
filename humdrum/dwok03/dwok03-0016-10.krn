@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK0301600010-przede_dworem_stoi_burza.krn
+!!!OTL: Przede dworem stoi burza
+!!!source: DWOK03
+!!!id: K0016
+!!!signature: 0301600010
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16dd
+16ee-
+8ff
+8dd
+=2
+8.ff
+16gg
+32ee-
+32dd
+16b-
+=3
+16dd
+16ee-
+8ff
+8dd
+=4
+8.ff
+16gg
+32ee-
+32dd
+16b-}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8ee-
+16cc
+16a
+=6
+8.b-
+16cc
+16dd
+16ff
+=7
+16dd
+16dd
+8ee-
+16cc
+16a
+=8
+8.b-
+16cc
+16a
+16f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 236} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 236}
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

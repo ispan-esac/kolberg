@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1210400000-matko_matko_matulu_moja.krn
+!!!OTL: Matko, matko, matulu moja
+!!!source: DWOK12
+!!!id: 12104
+!!!signature: 1210400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4cc
+8g
+=2
+4cc
+8g
+=3
+16.cc
+32ee
+8ee
+16ff
+16ee
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16ff
+8ff
+8ff
+=6
+16ff
+16ee
+8cc
+8g
+=7
+16b
+16dd
+8dd
+16ee
+16dd
+=8
+16.cc
+32cc
+8g
+8e}
+!!LO:LB:g=esac
+=9
+{16.f
+32a
+8a
+16cc
+16b
+=10
+4.g}
+==
+*-
+!!!ONB: Moze zapisac od G?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 51} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 51}
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

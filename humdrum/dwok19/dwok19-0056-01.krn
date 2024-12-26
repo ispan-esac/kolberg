@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1905600001-krakowiacek_ci_ja.krn
+!!!OTL: Krakowiacek ci ja
+!!!source: DWOK19
+!!!id: 19056
+!!!signature: 1905600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+16ee
+16dd
+16cc
+16b
+=2
+16a
+16cc
+4cc
+8d
+=3
+8d
+8f#
+8d
+8f#
+=4
+4g
+4b}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8d
+8f#
+=6
+4g
+4b
+=7
+8d
+8f#
+8a
+8f#
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 21} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 21}
+!!!page: 21
+!!!ONB: Converted on 2024/12/26 with esac2hum

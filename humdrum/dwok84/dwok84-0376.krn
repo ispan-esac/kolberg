@@ -1,0 +1,110 @@
+!!!!SEGMENT: DWOK8437600000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK84
+!!!id: 84376
+!!!signature: 8437600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16ee
+16dd
+16ee
+16ff#
+16gg
+16ff#
+16ee
+16dd
+=2
+16dd
+16cc#
+16dd
+16ee
+16dd
+16cc
+16b
+16a
+=3
+16g
+16f#
+16g
+16a
+16b
+16a
+16g
+16f#
+=4
+16g
+16a
+16b
+16cc#
+8dd
+8dd}
+!!LO:LB:g=esac
+=5
+{16ee
+16dd
+16ee
+16ff#
+16gg
+16ff#
+16ee
+16dd
+=6
+16dd
+16cc#
+16dd
+16ee
+16dd
+16cc
+16b
+16a
+=7
+16g
+16f#
+16g
+16a
+16b
+16a
+16g
+16f#
+=8
+8g
+8g
+4g}
+!!LO:LB:g=esac
+=9
+{4c
+16cc
+16b
+16cc
+16a
+=10
+8g
+16g
+16b
+16a
+16cc#
+8dd
+=11
+8d
+8a
+16cc
+16b
+16cc
+16a
+=12
+8g
+16g
+16g
+4g}
+==
+*-
+!!!ONB: Wariant t. 8: 1__1_1_1___; wariant t. 10: 1__1_3_324#_5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=382 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 312} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 312}
+!!!page: 312
+!!!ONB: Converted on 2024/12/26 with esac2hum

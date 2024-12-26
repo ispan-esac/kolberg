@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK3614500000-szczodry_weczor_dobryj_weczor.krn
+!!!OTL: Szczodry weczor dobryj weczor
+!!!source: DWOK36
+!!!id: 36145
+!!!signature: 3614500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ee
+8dd
+4cc
+8dd
+8ff
+=2
+8ee
+8dd
+4cc
+4cc}
+!!LO:LB:g=esac
+=3
+{8g
+8cc
+4dd
+4dd
+=4
+8cc
+16dd
+16ee
+4ff
+4ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+4cc
+8dd
+8ff
+=6
+8ee
+8dd
+4cc
+4cc}
+!!LO:LB:g=esac
+=7
+{8g
+8cc
+4dd
+8dd
+8b
+=8
+8cc
+16dd
+16ee
+4ff
+8ff
+8ee}
+!!LO:LB:g=esac
+=9
+{8ee
+8dd
+4cc
+8dd
+8ff
+=10
+8ee
+8dd
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 81
+!!!ONB: Converted on 2024/12/26 with esac2hum

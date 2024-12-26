@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK57165300002-oj_mala_wdowonka_jednoho_synonka.krn
+!!!OTL: Oj, mała wdowońka jednoho synońka
+!!!source: DWOK57
+!!!id: 571653
+!!!signature: 57165300002
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M3/4
+{8g
+8cc
+16cc
+16dd
+8ee
+16ee
+16dd
+8cc
+=2
+2dd
+4g
+=3
+8cc
+8b
+16b
+16a
+8g
+8g}
+8r
+!!LO:LB:g=esac
+=4
+{8g
+8cc
+16cc
+16dd
+8ee
+16ee
+16dd
+8cc
+=5
+*M2/4
+4ee
+8.ff#
+16ee
+=6
+4gg
+8ee
+8dd
+=7
+16ee
+16dd
+16cc
+16b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 725
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK57212300010-za_niemen_het_precz.krn
+!!!OTL: Za Niemen, het precz
+!!!source: DWOK57
+!!!id: 572123
+!!!signature: 57212300010
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{8.e
+16f#
+16g
+16a
+=2
+4b}
+!!LO:LB:g=esac
+=-
+{8b
+=3
+8cc
+8b
+8a
+=4
+8b
+8a}
+!!LO:LB:g=esac
+=-
+{8g
+=5
+8a
+8g
+8f#
+=6
+8g
+8f#}
+!!LO:LB:g=esac
+=-
+{8e
+=7
+8cc
+8b
+8d#
+=8
+8e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1182
+!!!ONB: Converted on 2024/12/26 with esac2hum

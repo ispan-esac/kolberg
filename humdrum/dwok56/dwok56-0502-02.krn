@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5650200002-a_w_sobotonku_ino_z_poludni.krn
+!!!OTL: A w sóbotońku, ino z południ
+!!!source: DWOK56
+!!!id: 56502
+!!!signature: 5650200002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+8ff
+8ff
+=2
+8gg
+8ff
+8dd
+=3
+4.ee
+=4
+8ee
+8ee
+8dd
+=5
+16dd
+16b
+4cc
+=6
+8cc}
+4r
+!!LO:LB:g=esac
+=7
+{8cc
+16ee
+16ee
+16ff
+16ee
+=8
+8gg
+16ff
+16dd
+16ee
+16cc
+=9
+8ff
+16ee
+16ee
+16dd
+16b
+=10
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=467 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 363} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 363}
+!!!page: 363
+!!!ONB: Converted on 2024/12/26 with esac2hum

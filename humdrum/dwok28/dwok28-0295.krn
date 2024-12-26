@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2829500000-mloda_dziewcyna_mloda.krn
+!!!OTL: Młoda dziewcyna młoda
+!!!source: DWOK28
+!!!id: 28295
+!!!signature: 2829500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8dd#
+=2
+4ee
+8cc
+=3
+4dd
+8b
+=4
+8e
+8g#
+8a
+=5
+4cc
+8b
+=6
+4dd
+8b}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+8dd#
+=8
+4ee
+8a
+=9
+8g#
+4e
+=10
+8cc
+8ee
+8dd#
+=11
+4ee
+8cc
+=12
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 275} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 275}
+!!!page: 275
+!!!ONB: Converted on 2024/12/26 with esac2hum

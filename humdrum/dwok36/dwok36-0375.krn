@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK3637500000-bidum_sobi_kupyla.krn
+!!!OTL: Bidum sobi kupyła
+!!!source: DWOK36
+!!!id: 36375
+!!!signature: 3637500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16a
+16b
+16cc
+16b
+16dd
+16cc
+16b
+16a
+=2
+8cc
+8cc
+8.b
+16a
+=3
+8g#
+8g#
+8.e
+16g#
+=4
+8a
+8cc
+4ee}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+16cc
+16b
+16dd
+16cc
+16b
+16a
+=6
+8cc
+8cc
+8.b
+16a
+=7
+8g#
+8g#
+8e
+8g#
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{8e
+8g#
+4g#
+=10
+8a
+8b
+8.cc
+16a
+=11
+8g#
+8g#
+8e
+8g#
+=12
+8a
+8cc
+4ee}
+!!LO:LB:g=esac
+=13
+{16a
+16b
+16cc
+16b
+16dd
+16cc
+16b
+16a
+=14
+8cc
+8cc
+8b
+8a
+=15
+8g#
+8g#
+8e
+8g#
+=16
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 235-236
+!!!ONB: Converted on 2024/12/26 with esac2hum

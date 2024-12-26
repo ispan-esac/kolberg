@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4818600002-kiedy_chcesz_to_sobie_wyjdz.krn
+!!!OTL: Kiedy chcesz, to sobie wyjdź
+!!!source: DWOK48
+!!!id: 48186
+!!!signature: 4818600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8g
+8g
+=2
+8g
+8f#
+8g
+=3
+4.a}
+!!LO:LB:g=esac
+=4
+{8d
+8a
+8a
+=5
+8a
+8g
+8a
+=6
+4.b}
+!!LO:LB:g=esac
+=7
+{8d
+8cc
+8cc
+=8
+8cc
+8b
+8a
+=9
+4.b}
+!!LO:LB:g=esac
+=10
+{8d
+8e
+8f#
+=11
+8g
+8g
+8g
+=12
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=262 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 218} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 218}
+!!!page: 218
+!!!ONB: Converted on 2024/12/26 with esac2hum

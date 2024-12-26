@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK04-K0368-zydoweczko_co_tam_masz.krn
+!!!OTL: Zydoweczko co tam masz
+!!!source: DWOK04
+!!!id: K0368
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8g
+8cc
+8g
+=2
+8ff
+8ee
+4cc
+=3
+8ee
+8g
+8cc
+8g
+=4
+8ff
+16ff
+16ee
+4cc}
+!!LO:LB:g=esac
+=5
+{8.dd
+16cc
+8b
+8a
+=6
+8g
+8ff#
+4gg
+=7
+8.dd
+16cc
+8b
+8a
+=8
+8g
+8g
+4cc}
+!!LO:LB:g=esac
+=9
+{8.b
+16dd
+8b
+8g
+=10
+8cc
+8gg
+8ee
+8cc
+=11
+8.b
+16dd
+8b
+8g
+=12
+8ff
+8ee
+4cc}
+!!LO:LB:g=esac
+=13
+{8.b
+16dd
+8b
+8g
+=14
+8cc
+8gg
+4cc
+=15
+8b
+8dd
+4g
+=16
+8g
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 215} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 215}
+!!!page: 215
+!!!ONB: Converted on 2024/12/26 with esac2hum

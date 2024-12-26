@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1920200000-za_stodola_za_wujowa.krn
+!!!OTL: Za stodołą za wujową
+!!!source: DWOK19
+!!!id: 19202
+!!!signature: 1920200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8ee
+=2
+16ee
+16ee
+8dd
+8cc
+=3
+8gg
+8.gg
+16ff#
+=4
+16dd
+16ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8cc
+8ff
+=6
+16ee
+16ee
+8dd
+8cc
+=7
+8g
+8.gg
+16ff#
+=8
+16dd
+16ee
+8dd
+8cc}
+==
+*-
+!!!ONB: podane jest metrum 2/8 poprawiono na 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 64} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 64}
+!!!page: 64
+!!!ONB: Converted on 2024/12/26 with esac2hum

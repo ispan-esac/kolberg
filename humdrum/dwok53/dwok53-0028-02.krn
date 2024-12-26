@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK5302800002-o_is_kur_tie_seni_svecej.krn
+!!!OTL: O is kur tie seni svecej?
+!!!source: DWOK53
+!!!id: 53028
+!!!signature: 5302800002
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{8f
+8f
+4.b-
+8g
+=2
+8a
+8a
+4g
+4f}
+!!LO:LB:g=esac
+=3
+{4f
+4b-
+8a
+8cc
+=4
+2b-
+4b-}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4b-
+4g
+=6
+8a
+8a
+4g
+4f}
+!!LO:LB:g=esac
+=7
+{4b-
+4a
+4f
+=8
+4g
+2f}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+4b-
+4g
+=10
+8a
+8a
+4g
+4f}
+!!LO:LB:g=esac
+=11
+{4b-
+4a
+4f
+=12
+4g
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 195} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 195}
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

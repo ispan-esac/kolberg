@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK1253400000-wolki_moje_wolki_moje_za_lasem.krn
+!!!OTL: Wołki moje wołki moje za lasem
+!!!source: DWOK12
+!!!id: 12534
+!!!signature: 1253400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8ee
+8ee
+=2
+16.ff
+32ee
+8dd
+16cc
+16b
+=3
+16a
+16cc
+4a
+=4
+16A
+16c
+4A}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8ee
+8ee
+=6
+16.ff
+32ee
+8dd
+16cc
+16b
+=7
+16a
+16cc
+4a
+=8
+16A
+16c
+4A}
+!!LO:LB:g=esac
+=9
+{16e
+16g#
+8b
+8b
+=10
+16a
+16cc
+8.ee
+16cc
+=11
+16dd
+16cc
+4a
+=12
+16d
+16c
+4A}
+!!LO:LB:g=esac
+=13
+{16e
+16g#
+8b
+8b
+=14
+16a
+16cc
+8.ee
+16cc
+=15
+16dd
+16cc
+4a
+=16
+16d
+16c
+4A}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 276} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 276}
+!!!page: 276
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK45107300000-ne_placzte_diwczata.krn
+!!!OTL: Ne placzte diwczata
+!!!source: DWOK45
+!!!id: 451073
+!!!signature: 45107300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8dd
+8ee
+=2
+16dd
+16a
+8b
+8a
+=3
+8dd
+8ee
+8ee
+=4
+8dd
+8dd
+8a
+=5
+4.b}
+!!LO:LB:g=esac
+=6
+{8dd
+8ee
+8dd
+=7
+16cc
+16b
+4a
+=8
+8dd
+8cc
+8b
+=9
+8a
+8b
+8g#
+=10
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 58} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

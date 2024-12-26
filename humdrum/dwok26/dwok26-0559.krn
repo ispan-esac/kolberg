@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2655900000-byla_ta_swianta_alina.krn
+!!!OTL: Była ta świanta Alina
+!!!source: DWOK26
+!!!id: 26559
+!!!signature: 2655900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8cc
+8dd
+=2
+8ee
+16ee
+16dd
+8cc
+=3
+8ee
+16ee
+16dd}
+8r
+!!LO:LB:g=esac
+=4
+{8ee
+16ee
+16dd
+8cc
+=5
+8b
+16b
+16a}
+8r
+!!LO:LB:g=esac
+=6
+{8cc
+8cc
+8dd
+=7
+8ee
+16ee
+16dd
+8cc
+=8
+8ee
+16ee
+16dd}
+8r
+!!LO:LB:g=esac
+=9
+{8ee
+16ee
+16dd
+8cc
+=10
+8b
+16b
+16a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 343
+!!!ONB: Converted on 2024/12/26 with esac2hum

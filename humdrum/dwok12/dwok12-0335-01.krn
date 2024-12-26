@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK1233500001-jednego_czasu_w_gesty_krzewinie.krn
+!!!OTL: Jednego czasu w gęsty krzewinie
+!!!source: DWOK12
+!!!id: 12335
+!!!signature: 1233500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.d
+16g
+16g
+16g
+=2
+8b
+4a
+=3
+16a
+16f#
+8d
+8d
+=4
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{8.d
+16g
+16g
+16g
+=6
+8b
+4a
+=7
+16cc
+16f#
+8f#
+8f#
+=8
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8b
+=10
+8dd
+8dd
+8b
+=11
+8.a
+16d
+16d
+16d
+=12
+8cc
+4b}
+!!LO:LB:g=esac
+=13
+{8b
+8b
+8b
+=14
+8dd
+8dd
+8b
+=15
+8.a
+16d
+16d
+16f#
+=16
+8a
+4g}
+==
+*-
+!!!ONB: Zapisane dwie zwrotki melodii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 177} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK1016600000-przezacna_ksiezna_dziewica.krn
+!!!OTL: Przezacna księżna dziewica
+!!!source: DWOK10
+!!!id: 10166
+!!!signature: 1016600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4a
+2b-
+=2
+4a
+2g
+=3
+4g
+2a
+=4
+4g
+2f}
+!!LO:LB:g=esac
+=5
+{4a
+2b-
+=6
+4a
+2g
+=7
+4g
+2a
+=8
+4g
+2f}
+!!LO:LB:g=esac
+=9
+{4a
+4a
+4b-
+=10
+2cc
+4b-
+=11
+4a
+2b-
+=12
+2.g}
+!!LO:LB:g=esac
+=13
+{4a
+4a
+4b-
+=14
+2cc
+4b-
+=15
+4a
+2g
+=16
+2f}
+4r
+!!LO:LB:g=esac
+=17
+{4a
+4a
+4b-
+=18
+2cc
+4b-
+=19
+4a
+2b-
+=20
+2.g}
+!!LO:LB:g=esac
+=21
+{4a
+4a
+4b-
+=22
+2cc
+4b-
+=23
+4a
+2g
+=24
+2f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=392 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 376} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 376}
+!!!page: 376
+!!!ONB: Converted on 2024/12/26 with esac2hum

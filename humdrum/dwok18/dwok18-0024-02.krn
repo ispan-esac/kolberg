@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1802400002-a_moj_wianecku_potoc-ze_sie.krn
+!!!OTL: A mój wianecku potoc-ze sie
+!!!source: DWOK18
+!!!id: 18024
+!!!signature: 1802400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8cc#
+4dd
+4ee
+=2
+8ee
+8cc#
+2dd
+=
+12cc#
+12b
+12a
+4g
+4b
+=3
+2.a}
+!!LO:LB:g=esac
+=4
+{8g
+8g
+4a
+4b
+=5
+4cc
+4b
+4dd
+=6
+2.cc#}
+!!LO:LB:g=esac
+=7
+{8g
+8f#
+4g
+4a
+=8
+4cc#
+4g
+4b
+=9
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 69} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 69}
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

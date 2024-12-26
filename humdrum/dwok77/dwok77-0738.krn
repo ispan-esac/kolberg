@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK7773800000-da_dopiero_ja_przyszla.krn
+!!!OTL: Da dopiero ja przyszła
+!!!source: DWOK77
+!!!id: 77738
+!!!signature: 7773800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{2ff
+4dd
+=2
+8cc
+8ee
+4ee
+4ee
+=3
+8g
+8g
+4b
+4dd
+=4
+4ee
+2gg}
+!!LO:LB:g=esac
+=5
+{2ff
+4dd
+=6
+8cc
+8ee
+4ee
+4ee
+=7
+8g
+8g
+4b
+4dd
+=8
+4dd
+2cc}
+==
+*-
+!!!ONB: takty 7-8:  5_7_+2_  +3_+1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 368
+!!!ONB: Converted on 2024/12/26 with esac2hum

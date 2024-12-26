@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK8352100001-krakowiak_-_cy_ja_neszczeslywyj.krn
+!!!OTL: Krakowiak - Cy ja neszczesływyj
+!!!source: DWOK83
+!!!id: 83521
+!!!signature: 8352100001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+8b
+4g
+=2
+8b
+4cc
+8e
+=3
+8b
+8a
+8.f
+16B
+=4
+8d
+4.c}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+4g
+=6
+8b
+4cc
+8e
+=7
+8b
+8a
+8.f
+16B
+=8
+8d
+4.c}
+!!LO:LB:g=esac
+=9
+{8e
+8e
+8f
+8f
+=10
+8g
+8g
+8cc
+8cc
+=11
+8e
+8e
+8f
+8f
+=12
+8g
+8g
+8cc
+8cc}
+!!LO:LB:g=esac
+=13
+{8b
+8b
+8b
+8b
+=14
+4cc
+4e
+=15
+8a
+8g
+8f
+8B
+=16
+4c
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=414 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 303} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 303}
+!!!page: 303
+!!!ONB: Converted on 2024/12/26 with esac2hum

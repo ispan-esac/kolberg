@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2835100001-siedzi_sobie_zajac.krn
+!!!OTL: Siedzi sobie zając
+!!!source: DWOK28
+!!!id: 28351
+!!!signature: 2835100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16g
+16a
+16b
+16cc
+8dd
+8g
+=2
+8cc
+8ee
+4dd
+=3
+8cc
+8a
+4b}
+!!LO:LB:g=esac
+=4
+{16g
+16a
+16b
+16cc
+8dd
+8dd
+=5
+8cc
+8ee
+4dd
+=6
+8cc
+8a
+4b}
+!!LO:LB:g=esac
+=7
+{16b
+16dd
+16dd
+16dd
+16dd
+16dd
+16cc
+16cc
+=8
+16b
+16dd
+16dd
+16dd
+16dd
+16dd
+16cc
+16cc
+=9
+8b
+8a
+4b
+=10
+8cc
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=329 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 310} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 310}
+!!!page: 310
+!!!ONB: Converted on 2024/12/26 with esac2hum

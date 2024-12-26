@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK4142200000-oj_nie_pij_chlopie_nie_pij.krn
+!!!OTL: Oj, nie pij, chłopie, nie pij
+!!!source: DWOK41
+!!!id: 41422
+!!!signature: 4142200000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=1
+{8e
+8f#
+4g#
+4a
+=2
+8b
+8a#
+4cc#
+4b}
+!!LO:LB:g=esac
+=3
+{8b
+8ee
+4dd#
+4cc#
+=4
+8b
+8a#
+4cc#
+4b}
+!!LO:LB:g=esac
+=5
+{8a
+8g#
+4f#
+4b
+=6
+8e
+8f#
+4g#
+4b}
+!!LO:LB:g=esac
+=7
+{8a
+8g#
+4f#
+4b
+=8
+8e
+8e
+4g#
+4e}
+!!LO:LB:g=esac
+=9
+{8a
+8g#
+4f#
+4b
+=10
+2.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 228} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 228}
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

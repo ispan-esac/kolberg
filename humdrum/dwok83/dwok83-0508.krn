@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK8350800000-nie_pojde_nie_pojde.krn
+!!!OTL: Nie pójdę, nie pójdę
+!!!source: DWOK83
+!!!id: 83508
+!!!signature: 8350800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8cc
+8cc
+8cc
+8b
+16a
+16g
+=2
+8b
+8g
+8a
+8f#
+8g
+8g}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+8cc
+8cc
+8b
+16a
+16g
+=4
+8b
+8g
+8a
+8f#
+8g
+8g}
+==
+*-
+!!!ONB: Wariant t. 2 i 4: 3_1_2_2-71_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=404 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 293} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 293}
+!!!page: 293
+!!!ONB: Converted on 2024/12/26 with esac2hum

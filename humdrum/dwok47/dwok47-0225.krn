@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK4722500000-czom_ja_w_luzi_ne_kalyna.krn
+!!!OTL: Czom ja w łuzi ne kałyna
+!!!source: DWOK47
+!!!id: 47225
+!!!signature: 4722500000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{4g
+8g
+8b
+=2
+4.dd
+8g
+=3
+4f#
+8dd
+8cc
+=4
+8b
+8d#
+4e}
+!!LO:LB:g=esac
+=5
+{4g
+8.ee
+16dd
+=6
+4.dd
+8g
+=7
+8f#
+8a
+8dd
+8cc
+=8
+8b
+8d#
+4e}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+8f#
+8e
+=10
+16d#
+16f#
+16cc
+16b
+4b
+=11
+8g
+8g
+8f#
+8e
+=12
+16d#
+16f#
+16cc
+16b
+4b}
+!!LO:LB:g=esac
+=13
+{4b
+8.gg
+16ff#
+=14
+8ee
+8ee
+8ee
+8g
+=15
+8f#
+8a
+8.cc
+16b
+=16
+8b
+8d#
+4e}
+==
+*-
+!!!ONB: Wariant t. 10: -726b55_2_; wariant t. 12: -726b55_5_; wariant t. 14: +1__.3b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 213} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 213}
+!!!page: 213
+!!!ONB: Converted on 2024/12/26 with esac2hum

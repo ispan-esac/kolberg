@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1301100000-na_dolinie_zawierucha.krn
+!!!OTL: Na dolinie zawierucha
+!!!source: DWOK13
+!!!id: 13011
+!!!signature: 1301100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16cc
+8b
+8b
+=2
+16b
+16a
+8g#
+8a
+=3
+16a
+16b
+8cc
+8f#
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16a
+16b
+8cc
+8ee
+=6
+16ee
+16dd
+8b
+8b
+=7
+16dd
+16dd
+8cc
+8a
+=8
+4dd}
+8r
+!!LO:LB:g=esac
+=9
+{16a
+16b
+8cc
+8ee
+=10
+16ee
+16dd
+8b
+8dd
+=11
+16dd
+16dd
+8cc
+8a
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=33 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 9} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 9}
+!!!page: 9
+!!!ONB: Converted on 2024/12/26 with esac2hum

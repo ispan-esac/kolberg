@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK02-K0071-zawolajciez_tu_matulii_moji.krn
+!!!OTL: Zawolajciez tu matulii moji
+!!!source: DWOK02
+!!!id: K0071
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{8dd
+8dd
+8ff
+=2
+8ee
+4dd
+=3
+8cc
+8dd
+8cc
+=4
+8b-
+4a}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ff
+=6
+8ee
+4dd
+=7
+8cc
+8dd
+8cc
+=8
+8b-
+4a}
+!!LO:LB:g=esac
+=9
+{16f
+16g
+8a
+8b-
+=10
+4cc
+8dd
+=11
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=12
+{16f
+16g
+8a
+8b-
+=13
+4cc
+8dd
+=14
+8b-
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 68} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 68}
+!!!page: 68
+!!!ONB: Converted on 2024/12/26 with esac2hum

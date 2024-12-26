@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4433600000-a_jakze_tam_przyjsc.krn
+!!!OTL: A jakże tam przyjść
+!!!source: DWOK44
+!!!id: 44336
+!!!signature: 4433600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8cc
+8cc
+8dd
+8dd
+=2
+2cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+8dd
+8dd
+=4
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8a
+8a
+=6
+8b-
+8b-
+8g
+8g}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+8a
+8a
+=8
+8b-
+8b-
+8g
+8g}
+!!LO:LB:g=esac
+=9
+{8f
+8f
+8g
+8g
+=10
+4f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 227} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 227}
+!!!page: 227
+!!!ONB: Converted on 2024/12/26 with esac2hum

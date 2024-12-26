@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK1647200001-u_mej_matki_rodzony_stoji_jawor_zielony.krn
+!!!OTL: U mej matki rodzony stoji jawór zielony
+!!!source: DWOK16
+!!!id: 16472a
+!!!signature: 1647200001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8ff
+8ee
+=2
+8dd
+8dd
+4cc
+=3
+8dd
+8ff
+8ee
+8cc
+=4
+8a
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4ff
+=6
+4ee
+4cc
+=7
+8dd
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=309 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 289} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 289}
+!!!ONB: Converted on 2024/12/26 with esac2hum

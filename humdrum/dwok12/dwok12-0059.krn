@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK1205900000-a_jak_ci_ja_na_wojenke_pojade.krn
+!!!OTL: A jak ci ja na wojenkę pojadę
+!!!source: DWOK12
+!!!id: 12059
+!!!signature: 1205900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+8ee
+=2
+8dd
+8dd
+16b
+16g
+=3
+16a
+16b
+4cc}
+!!LO:LB:g=esac
+=4
+{16cc
+16dd
+8ee
+8ee
+=5
+8dd
+8dd
+16b
+16g
+=6
+16a
+16b
+4g}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8b
+=8
+8a
+8a
+16f#
+16d
+=9
+16g
+16b
+4dd}
+!!LO:LB:g=esac
+=10
+{16g
+16a
+8b
+8b
+=11
+8a
+8a
+16f#
+16d
+=12
+16a
+16b
+4g}
+==
+*-
+!!!ONB: Wariant w takcie dziesiĄtym zapisu nutowego 123_5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 26} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 26}
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

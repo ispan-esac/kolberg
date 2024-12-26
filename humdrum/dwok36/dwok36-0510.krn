@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK3651000000-siry_husy_zaszarily_sia.krn
+!!!OTL: Siry husy zaszariły sia
+!!!source: DWOK36
+!!!id: 36510
+!!!signature: 3651000000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4a
+4cc
+4.ee
+8dd#
+=2
+4ee
+4cc
+4ee
+4ee
+=3
+8dd
+8cc
+8b
+8cc
+4b
+4g#
+=4
+2e
+2ee}
+!!LO:LB:g=esac
+=5
+{4dd#
+4ff#
+4ee
+8dd#
+8cc
+=6
+8b
+8cc
+4a
+4.b
+8g#
+=7
+4a
+8cc
+8b
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 333
+!!!ONB: Converted on 2024/12/26 with esac2hum

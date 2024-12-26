@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1255200000-owczarczykowie_skurwysynowie.krn
+!!!OTL: Owczarczykowie skurwysynowie
+!!!source: DWOK12
+!!!id: 12552
+!!!signature: 1255200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+8b
+=2
+4dd
+8b
+=3
+8dd
+8dd
+8ee
+=4
+4cc
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8g
+=6
+4b
+8g
+=7
+8a
+8a
+8b
+=8
+4cc
+8b}
+!!LO:LB:g=esac
+=9
+{8a
+8f#
+8g
+=10
+4b
+8g
+=11
+8a
+8a
+8b
+=12
+4cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 283} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 283}
+!!!page: 283
+!!!ONB: Converted on 2024/12/26 with esac2hum

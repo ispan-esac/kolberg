@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK1649700002-oj_i_w_polu_jezioro.krn
+!!!OTL: Oj i w polu jezioro
+!!!source: DWOK16
+!!!id: 16497b
+!!!signature: 1649700002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8g
+8a
+8b-
+=2
+4cc
+4ff
+=3
+2dd
+=4
+8cc
+8dd
+8cc
+8b-
+=5
+8a
+8f
+4g
+=6
+2f}
+!!LO:LB:g=esac
+=7
+{4a
+8b-
+8a
+=8
+4.g
+8g
+=9
+8f
+8g
+8a
+8b-
+=10
+4.cc
+8cc
+=11
+8cc
+8dd
+8cc
+8b-
+=12
+8a
+8f
+4g
+=13
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=322 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 302} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 302}
+!!!ONB: Converted on 2024/12/26 with esac2hum

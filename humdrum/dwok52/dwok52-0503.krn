@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK5250300000-bodaj_tebe_bodaj_mene.krn
+!!!OTL: Bodaj tebe, bodaj mene
+!!!source: DWOK52
+!!!id: 52503
+!!!signature: 5250300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8.e
+16g#
+8b
+8g
+=2
+8.e
+16f#
+8g#
+8e
+=3
+8.a
+16g#
+16a
+16b
+16cc
+16dd
+=4
+8ee
+32ee
+32ff
+32ee
+32dd
+8cc}
+8r
+!!LO:LB:g=esac
+=5
+{8.ee
+16ee
+16ee
+16dd
+16ff
+16ee
+=6
+8ee
+8dd
+8ee
+32ee
+32dd
+32cc
+32b
+=7
+8.a
+16ee
+8e
+8g#
+=8
+4a
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=378 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 317} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 317}
+!!!page: 317
+!!!ONB: Converted on 2024/12/26 with esac2hum

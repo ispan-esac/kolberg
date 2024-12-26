@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK1215400000-synowa_synowa_tylkoby_lezec.krn
+!!!OTL: Synowa, synowa, tylkoby leżeć
+!!!source: DWOK12
+!!!id: 12154
+!!!signature: 1215400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8dd
+8cc
+8b
+8cc
+4dd
+4dd
+=2
+4dd
+8a
+8b
+4.cc
+8a}
+!!LO:LB:g=esac
+=3
+{8g
+8a
+8b
+8cc
+4dd
+8cc
+8b
+=4
+8a
+8g
+8f#
+8g
+4a
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8f#
+8g
+8a
+4b
+8a
+8g
+=6
+8b
+8a
+8b
+8cc
+4.dd
+8a}
+!!LO:LB:g=esac
+=7
+{8b
+8a
+8b
+8cc
+4dd
+8cc
+8b
+=8
+8a
+8g
+8f#
+8g
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 77} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 77}
+!!!page: 77
+!!!ONB: Converted on 2024/12/26 with esac2hum

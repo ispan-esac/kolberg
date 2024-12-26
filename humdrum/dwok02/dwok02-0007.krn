@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK02-K0007-oj_ladny_wianek_mam.krn
+!!!OTL: Oj ladny wianek mam
+!!!source: DWOK02
+!!!id: K0007
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=1
+{4a
+4cc#
+4dd
+=2
+4dd
+4cc#
+4a
+=3
+2.dd}
+!!LO:LB:g=esac
+=4
+{4a
+4cc#
+4dd
+=5
+4dd
+4cc#
+4g
+=6
+2.a}
+!!LO:LB:g=esac
+=7
+{4a
+4cc#
+4dd
+=8
+4dd
+4cc#
+4a
+=9
+4g
+4b-
+4a
+=10
+4cc
+2g}
+!!LO:LB:g=esac
+=11
+{4a
+4cc#
+4dd
+=12
+4dd
+4cc#
+4g
+=13
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 25} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 25}
+!!!page: 25
+!!!ONB: Converted on 2024/12/26 with esac2hum

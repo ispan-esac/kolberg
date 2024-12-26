@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK57176800000-tam_u_pole_dwa_duby.krn
+!!!OTL: Tam u połe dwa duby
+!!!source: DWOK57
+!!!id: 571768
+!!!signature: 57176800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+8ff
+8ee
+8dd
+=2
+8ee
+8ff
+4ee
+=3
+8ee
+8ff
+8ee
+8dd
+=4
+8cc
+8b
+4cc}
+!!LO:LB:g=esac
+=5
+{4cc
+8b
+8a
+=6
+8cc
+8dd
+4ee
+=7
+8ee
+8ff
+8ee
+8dd
+=8
+8cc
+8b
+4cc}
+==
+*-
+!!!ONB: Wariant t. 6: +1+2+3+1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 854
+!!!ONB: Converted on 2024/12/26 with esac2hum

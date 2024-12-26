@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK3641600002-oj_piduz_bo_ja_molodejkaja.krn
+!!!OTL: Oj piduż bo ja mołodejkaja
+!!!source: DWOK36
+!!!id: 36416
+!!!signature: 3641600002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8g#
+8b
+8.a
+16g#
+4b
+=2
+8.b
+16g#
+8a
+8g#
+8e
+8g#
+=3
+8.b
+16b
+8b
+16a
+16g
+4b
+=4
+4a
+8b
+8g#
+8e}
+8r
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+8a
+8g#
+4b
+=6
+8.b
+16g#
+8a
+8g#
+8e
+8g#
+=7
+8b
+8g#
+8a
+8b
+4g#
+=8
+2e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 264
+!!!ONB: Converted on 2024/12/26 with esac2hum

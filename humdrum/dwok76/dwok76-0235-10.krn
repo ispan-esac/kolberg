@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7623500010-hej_stala_nam_sie_nowina_hej_hej.krn
+!!!OTL: Hej, stała nam się nowina, hej, hej
+!!!source: DWOK76
+!!!id: 76235
+!!!signature: 7623500010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{2dd
+=2
+8g
+8b
+8dd
+8dd
+=3
+8cc
+8a
+4g
+=4
+2b
+=5
+2dd
+=6
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8g
+8b
+8dd
+=8
+8cc
+8a
+4g
+=9
+2g
+=10
+2b
+=11
+8d
+8f#
+4g}
+==
+*-
+!!!ONB: Część wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 119} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 119}
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

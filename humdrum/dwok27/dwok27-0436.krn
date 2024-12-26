@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK2743600000-a_z_zarania_w_niedziele.krn
+!!!OTL: A z zarania w niedzielę
+!!!source: DWOK27
+!!!id: 27436
+!!!signature: 2743600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8ee
+8gg
+16ff
+16ee
+=2
+8dd
+8dd
+4cc
+=3
+8dd
+8ee
+8ff
+8ee
+=4
+8a
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+=6
+8dd
+8ff
+8ee
+16cc
+16b
+=7
+8a
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=385 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 366} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 366}
+!!!page: 366
+!!!ONB: Converted on 2024/12/26 with esac2hum

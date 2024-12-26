@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK8204400000-marysia_neduzo_lezala.krn
+!!!OTL: Marysia nedużo leżała
+!!!source: DWOK82
+!!!id: 82044
+!!!signature: 8204400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8d
+8a
+8f
+8d
+=2
+8c
+8d
+8g
+8e
+=3
+4d
+4c
+=4
+4g
+8a
+8g
+=5
+8cc
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=6
+{8d
+8a
+8f
+8d
+=7
+8c
+8d
+8g
+8e
+=8
+4d
+4c
+=9
+4g
+8a
+8g
+=10
+8cc
+8b
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 33} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 33}
+!!!page: 33
+!!!ONB: Converted on 2024/12/26 with esac2hum

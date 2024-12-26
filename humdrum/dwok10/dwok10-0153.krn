@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK1015300000-a_nie_siadaj_ze_ty_moja_mloda_panno.krn
+!!!OTL: A nie siadaj że ty moja młoda panno
+!!!source: DWOK10
+!!!id: 10153
+!!!signature: 1015300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+8a
+8g
+=2
+8b
+4g
+=3
+16b
+16cc
+8dd
+8ee
+=4
+4dd
+16dd
+16cc}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8a
+8g
+=6
+8b
+4d
+=7
+16g
+32r
+32b
+8dd
+16dd
+16cc}
+!!LO:LB:g=esac
+=8
+{16a
+16a
+8a
+8g
+=9
+8b
+4d
+=10
+4g}
+8r
+!!LO:LB:g=esac
+=11
+{16a
+16a
+8a
+8g
+=12
+8b
+4g
+=13
+16b
+16cc
+8dd
+8ee
+=14
+4dd
+16dd
+16cc}
+!!LO:LB:g=esac
+=15
+{16a
+16a
+8a
+8g
+=16
+8b
+4d
+=17
+16g
+32r
+32b
+8dd
+16dd
+16cc}
+!!LO:LB:g=esac
+=18
+{16a
+16a
+8a
+8g
+=19
+8b
+4d
+=20
+4g}
+8r
+==
+*-
+!!!ONB: Przed czepcami przy kolacyi
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=327 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 311} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 311}
+!!!page: 311
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3408400002-sywyj_holobonku_sedysz_na_dubonku.krn
+!!!OTL: Sywyj holobońku sedysz na dubońku
+!!!source: DWOK34
+!!!id: 34084
+!!!signature: 3408400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+16ff
+16ee
+16dd
+32cc
+32a
+=2
+16a
+16a
+16ff
+16ee
+32dd
+32b
+32cc
+32a
+=3
+16cc#
+16a
+8dd
+16a
+16g}
+!!LO:LB:g=esac
+=4
+{16a
+16cc#
+8a
+8a
+=5
+16cc#
+16a
+8dd
+16a
+16g
+=
+24b
+24a
+24b
+4g}
+==
+*-
+!!!ONB: Wariant melodii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 55} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 55}
+!!!page: 55
+!!!ONB: Converted on 2024/12/26 with esac2hum

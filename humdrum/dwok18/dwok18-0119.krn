@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1811900000-a_z_gory_mi_zagrajcie.krn
+!!!OTL: A z góry mi zagrajcie
+!!!source: DWOK18
+!!!id: 18119
+!!!signature: 1811900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+8dd
+=2
+8dd
+8dd
+8cc
+8cc
+=3
+8b
+4b
+16a
+16g
+=4
+8dd
+8dd
+8cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8b
+4dd
+8dd
+=6
+8dd
+8dd
+8cc
+8cc
+=7
+8b
+4b
+8b
+=8
+8f#
+8a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 98} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

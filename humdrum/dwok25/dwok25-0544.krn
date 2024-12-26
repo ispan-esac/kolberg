@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2554400000-da_i_cerwone_jagody.krn
+!!!OTL: Da i cerwone jagody
+!!!source: DWOK25
+!!!id: 25544
+!!!signature: 2554400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8f
+8a
+=2
+16a
+16a
+8f
+8g
+=3
+16g
+16g
+8f
+8a
+=4
+16a
+16a
+8f
+8g}
+!!LO:LB:g=esac
+=5
+{16g
+16dd
+8b
+8g
+=6
+16g
+16cc
+8ee
+8ee
+=7
+16ff
+16dd
+8b
+8g
+=8
+16a
+16a
+8f
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 211} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 211}
+!!!page: 211
+!!!ONB: Converted on 2024/12/26 with esac2hum

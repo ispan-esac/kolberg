@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK3643900000-juz_za_gorami_slonce_skonalo.krn
+!!!OTL: Już za górami słońce skonało
+!!!source: DWOK36
+!!!id: 36439
+!!!signature: 3643900000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4a
+8ee
+8ee
+4.ee
+8dd
+=2
+8cc
+8cc
+8b
+8a
+2g#
+=3
+4cc
+8ee
+8gg
+4gg
+4ff
+=4
+4ee
+8dd
+8ff
+2ee}
+!!LO:LB:g=esac
+=5
+{4ff
+8dd
+8dd
+8ee
+8cc
+8b
+8a
+=6
+8g#
+8b
+8ee
+8g
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 279
+!!!ONB: Converted on 2024/12/26 with esac2hum

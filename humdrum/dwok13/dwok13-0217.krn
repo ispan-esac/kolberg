@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK1321700000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK13
+!!!id: 13217
+!!!signature: 1321700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+16dd
+16ee
+8gg
+=2
+16dd
+16cc
+8a
+16b
+16g
+=3
+16a
+16cc
+8a
+16cc
+16ee
+=4
+8.dd
+16cc
+16b
+16a}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+16dd
+16ee
+8gg
+=6
+16dd
+16cc
+8a
+16b
+16g
+=7
+16a
+16cc
+8a
+16b
+16g
+=8
+8.a
+16g
+16e
+16d}
+!!LO:LB:g=esac
+=9
+{16b
+16cc#
+4dd
+=10
+8a
+16cc
+16a
+16b
+16g
+=11
+16b
+16cc#
+4dd
+=12
+16.a
+32g
+8e
+8d}
+!!LO:LB:g=esac
+=13
+{16b
+16cc#
+4dd
+=14
+8a
+16cc
+16a
+16b
+16g
+=15
+16b
+16cc#
+8.dd
+16cc
+=16
+16.a
+32g
+8e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 108} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 108}
+!!!page: 108
+!!!ONB: Converted on 2024/12/26 with esac2hum

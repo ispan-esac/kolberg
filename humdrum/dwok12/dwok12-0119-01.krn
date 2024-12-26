@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1211900001-na_nowy_gorze_jada_zolnierze.krn
+!!!OTL: Na nowy górze jadą żołnierze
+!!!source: DWOK12
+!!!id: 12119
+!!!signature: 1211900001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{8f
+8g
+8a
+8b-
+2cc
+=2
+8ff
+8cc
+8cc
+8b-
+2a}
+!!LO:LB:g=esac
+=3
+{8ff
+8cc
+8cc
+8b-
+2a
+=4
+4a
+4a
+8a
+8cc
+8b-
+8a}
+!!LO:LB:g=esac
+=5
+{4g
+4g
+8g
+8b-
+8a
+8g
+=6
+8a
+8b-
+8cc
+8a
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 58} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

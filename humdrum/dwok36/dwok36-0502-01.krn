@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3650200001-oj_poleniu_poleniu.krn
+!!!OTL: Oj połeniu połeniu
+!!!source: DWOK36
+!!!id: 36502
+!!!signature: 3650200001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8ee
+8gg
+=2
+16ff
+16ee
+8dd
+4cc
+=3
+8gg
+8gg
+8gg
+16ff
+16ee
+=4
+8dd
+8aa
+4gg}
+!!LO:LB:g=esac
+=5
+{8gg
+8gg
+16aa
+16gg
+8ff
+=6
+8ee
+8dd
+8cc
+[8dd
+=7
+8dd]
+8ff
+8ee
+8gg
+=8
+8dd
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 327
+!!!ONB: Converted on 2024/12/26 with esac2hum

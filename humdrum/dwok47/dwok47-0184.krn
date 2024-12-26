@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK4718400000-jas_na_wojnie_wojuje.krn
+!!!OTL: Jaś na wojnie wojuje
+!!!source: DWOK47
+!!!id: 47184
+!!!signature: 4718400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+16cc
+16dd
+8ee
+8ee
+=2
+8dd
+8dd
+4ee
+=3
+8dd
+8dd
+8ee
+8dd
+=4
+8cc
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8g#
+16a
+16a
+4b
+=6
+8dd
+8dd
+8ee
+8dd
+=7
+8cc
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 184} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

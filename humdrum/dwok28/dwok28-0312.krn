@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2831200000-na_progu_stojala.krn
+!!!OTL: Na progu stojała
+!!!source: DWOK28
+!!!id: 28312
+!!!signature: 2831200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.b
+32dd
+16dd
+32cc#
+32dd
+16ee
+16a
+=2
+16.b
+32dd
+16dd
+32cc#
+32dd
+16ee
+16dd}
+!!LO:LB:g=esac
+=3
+{16.b
+32dd
+8cc#
+8dd
+=4
+16.ee
+32cc
+4a
+=5
+16.a
+32cc
+8b
+8cc
+=6
+16dd
+16b
+4g}
+!!LO:LB:g=esac
+=7
+{16.b
+32dd
+8gg
+8dd
+=8
+16.ee
+32cc
+4a
+=9
+16.a
+32cc
+8ee
+8cc
+=10
+16b
+32b
+32a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=303 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 284} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 284}
+!!!page: 284
+!!!ONB: Converted on 2024/12/26 with esac2hum

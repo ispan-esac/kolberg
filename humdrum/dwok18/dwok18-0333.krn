@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1833300000-mam_ci_ja_konika.krn
+!!!OTL: Mam ci ja konika
+!!!source: DWOK18
+!!!id: 18333
+!!!signature: 1833300000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{8g
+8b
+4cc
+4cc
+8cc
+8cc
+=2
+8.b
+16a
+8.b
+16a
+2g
+=3
+8g
+8b
+4dd
+4dd
+8dd
+8cc
+=4
+8b
+8g
+8a
+8b
+2cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8dd
+8cc
+8b
+8dd
+4g
+=6
+8g
+8a
+8g
+8f
+8e
+8f
+4g
+=7
+8g
+8b
+4cc
+4dd
+8dd
+8dd
+=8
+8b
+8g
+8a
+8b
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 181} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 181}
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

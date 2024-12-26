@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7622500000-oj_ni_ma_ci_to_ni_ma.krn
+!!!OTL: Oj, ni ma ci to, ni ma
+!!!source: DWOK76
+!!!id: 76225
+!!!signature: 7622500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4b
+4dd
+4ff
+=2
+8ff
+8ee
+4.gg
+8ff
+=3
+8ee
+8cc
+4dd
+4b
+=4
+4a
+2g}
+!!LO:LB:g=esac
+=5
+{4b
+4dd
+4cc
+=6
+8a
+8g
+4.b
+8cc
+=7
+8ee
+8cc
+4dd
+4b
+=8
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 115} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

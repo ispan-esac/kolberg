@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK02-K0298-oj_idzie_woda.krn
+!!!OTL: Oj idzie woda
+!!!source: DWOK02
+!!!id: K0298
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8ff
+8ff
+=2
+16ee
+16g
+16b
+16cc
+16ee
+16g
+=3
+16b
+16dd
+8ff
+8ff
+=4
+16ee
+16b
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8ff
+8ff
+=6
+16ee
+16g
+16b
+16cc
+16ee
+16gg
+=7
+16aa
+16ee
+8ff
+8ff
+=8
+16ee
+16b
+8cc
+8g}
+!!LO:LB:g=esac
+=9
+{16b
+16dd
+8.gg
+16b
+=10
+16dd
+16cc
+16d
+16f#
+16a
+16cc
+=11
+16ee
+16dd
+8b
+16g
+16b
+=12
+16dd
+16cc
+16d
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 223} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 223}
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

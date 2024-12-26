@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7728400000-moja_corus_gdzie_zes_byla.krn
+!!!OTL: Moja córuś gdzie ześ była
+!!!source: DWOK77
+!!!id: 77284
+!!!signature: 7728400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8.dd
+16b
+=2
+16cc
+16ee
+8dd
+16cc
+16b}
+!!LO:LB:g=esac
+=3
+{16a
+16b
+8.cc
+16a
+=4
+16cc
+16ee
+8.dd
+16b}
+!!LO:LB:g=esac
+=5
+{8.g
+16e
+16a
+16f#
+=6
+16d
+16f#
+8a
+8b}
+!!LO:LB:g=esac
+=7
+{8.g
+16e
+16a
+16f#
+=8
+4d}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 153
+!!!ONB: Converted on 2024/12/26 with esac2hum

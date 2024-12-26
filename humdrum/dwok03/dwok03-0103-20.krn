@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK0310300020-z_wieczora_ja_jabloneczke_sadzila.krn
+!!!OTL: Z wieczora ja jabłoneczkę sadziła
+!!!source: DWOK03
+!!!id: K0103
+!!!signature: 0310300020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16a
+8dd
+8dd
+=2
+16g
+16g
+8b
+16a
+16g
+=
+24f#
+24a
+24f#
+4d
+=3
+16g
+16b
+4dd}
+!!LO:LB:g=esac
+=4
+{16f#
+16a
+8dd
+8dd
+=5
+16g
+16g
+8b
+16a
+16g
+=
+24f#
+24a
+24f#
+4d
+=6
+16g
+16b
+4dd}
+==
+*-
+!!!ONB: Część instrumentalna. U Kolberga adnotacja: mel. Nr. 37. 46. 93. 94. W t. 1 i 5 błędny zapis rytmiczny: -7255
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=330 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 318} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 318}
+!!!page: 318
+!!!ONB: Converted on 2024/12/26 with esac2hum

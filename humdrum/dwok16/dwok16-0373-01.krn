@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK1637300001-na_morzu_bialy_kamien.krn
+!!!OTL: Na morzu biały kamień
+!!!source: DWOK16
+!!!id: 16373
+!!!signature: 1637300001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8b
+8cc
+=2
+8dd
+8dd
+8a
+=3
+4b
+8b}
+!!LO:LB:g=esac
+=4
+{8a
+8b
+8cc
+=5
+8dd
+8dd
+8cc
+=6
+8b
+4a}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+8a
+=8
+8cc
+8b
+8g#
+=9
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 244} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 244}
+!!!ONB: Converted on 2024/12/26 with esac2hum

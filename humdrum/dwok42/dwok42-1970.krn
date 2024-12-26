@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK42197000000-graj_pastusku_graj.krn
+!!!OTL: Graj pastusku graj
+!!!source: DWOK42
+!!!id: 421970
+!!!signature: 42197000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8a
+8b
+8cc
+2dd
+=2
+8cc#
+8dd
+8ee
+8cc#
+2dd
+=3
+8b
+8dd
+8cc
+8a
+8f#
+8g
+8b
+8g}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8cc
+8a
+8f#
+8d
+8d
+8d
+=5
+8f#
+8g
+8a
+8b
+2g}
+==
+*-
+!!!ONB: wariant w takcie 2: 6664#5__ wariant w takcie 4: 3542-713-5
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=552 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 543} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 543}
+!!!page: 543
+!!!ONB: Converted on 2024/12/26 with esac2hum

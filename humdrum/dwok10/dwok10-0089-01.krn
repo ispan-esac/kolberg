@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1008900001-a_dawajcie_a_dawajcie_mali_dawac.krn
+!!!OTL: A dawajcie, a dawajcie mali dawać
+!!!source: DWOK10
+!!!id: 10089
+!!!signature: 1008900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16dd
+16dd
+8b
+8g
+=3
+8cc
+4ee
+=4
+4cc
+8cc}
+!!LO:LB:g=esac
+=5
+{16b
+16g
+8b
+8b
+=6
+16a
+16a
+8f#
+8d
+=7
+8g
+4dd
+=8
+4cc
+8cc}
+!!LO:LB:g=esac
+=9
+{16b
+16a
+8b
+8b
+=10
+16a
+16a
+8f#
+8d
+=11
+8g
+4b
+=12
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 245} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 245}
+!!!page: 245
+!!!ONB: Converted on 2024/12/26 with esac2hum

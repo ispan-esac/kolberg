@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK2308600000-a_coz_ci_to_moje_wolki_krzywy.krn
+!!!OTL: A cóż ci to moje wołki krzywy
+!!!source: DWOK23
+!!!id: 23086
+!!!signature: 2308600000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8a
+4.b
+=2
+8g#
+4.e
+=3
+8g#
+8a
+8b
+8dd#
+=4
+8ee
+4.b}
+!!LO:LB:g=esac
+=5
+{8a
+4.b
+=6
+8g#
+4.e
+=7
+8g#
+8a
+8b
+8a
+=8
+8g#
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 135} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

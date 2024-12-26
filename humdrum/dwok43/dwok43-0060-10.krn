@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK4306000010-instrumentalna_-_trojak.krn
+!!!OTL: Instrumentalna - Trojak
+!!!source: DWOK43
+!!!id: 43060
+!!!signature: 4306000010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+{8d
+=1
+8.g
+16a
+8b
+8cc
+=2
+4.dd
+8gg
+=3
+4.gg
+8d}
+!!LO:LB:g=esac
+=4
+{8d
+8f#
+8g
+8a
+=5
+4.b
+8a
+=6
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 69} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 69}
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

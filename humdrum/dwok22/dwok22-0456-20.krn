@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2245600020-instrumentalna-o_dla_boga_co_takiego.krn
+!!!OTL: Instrumentalna-O dla Boga co takiego
+!!!source: DWOK22
+!!!id: 22456
+!!!signature: 2245600020
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=
+{24e
+24f#
+24g#
+8a
+8cc#
+=
+16dd
+16b
+8ee
+24a
+24g#
+24f#
+=
+24e
+24f#
+24g#
+8.a
+16cc#
+=1
+16dd
+16b
+8a
+8e}
+!!LO:LB:g=esac
+=
+{24e
+24f#
+24g#
+8a
+8ee
+=
+16dd
+16b
+8ff#
+24a
+24g#
+24b
+=2
+16dd
+16ff#
+8.ee
+16cc#
+=3
+16dd
+16b
+8a
+8a}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 222} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 222}
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

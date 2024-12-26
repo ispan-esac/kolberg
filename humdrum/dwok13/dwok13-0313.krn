@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK1331300000-siada_pszczolka_na_lilija.krn
+!!!OTL: Siada pszczółka na liliją
+!!!source: DWOK13
+!!!id: 13313
+!!!signature: 1331300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+8b
+8g
+=2
+16b
+16dd
+16dd
+16ee
+16cc
+16b}
+!!LO:LB:g=esac
+=3
+{16a
+16a
+8b
+8g
+=4
+16b
+16b
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8b
+8g
+=6
+16b
+16b
+16b
+16a
+16cc
+16b}
+!!LO:LB:g=esac
+=7
+{16a
+16a
+8b
+8g
+=8
+16e
+16e
+8e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 141} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 141}
+!!!page: 141
+!!!ONB: Converted on 2024/12/26 with esac2hum

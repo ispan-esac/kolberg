@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4641700000-u_zurawia_dluga_szyja.krn
+!!!OTL: U żurawia długa szyja
+!!!source: DWOK46
+!!!id: 46417
+!!!signature: 4641700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8a
+8ee
+4aa
+4ff
+=
+12dd
+12cc
+12a
+4g#
+4e
+=2
+4f#
+4f#
+4e
+=3
+4g#
+4a
+4e}
+!!LO:LB:g=esac
+=4
+{8g#
+8g#
+4a
+4cc
+=5
+8dd
+8cc
+4a
+8g#
+8e
+=6
+4f#
+4f#
+4e
+=7
+4g#
+4a
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 263} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 263}
+!!!page: 263
+!!!ONB: Converted on 2024/12/26 with esac2hum

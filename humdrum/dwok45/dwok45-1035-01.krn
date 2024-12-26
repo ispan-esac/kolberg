@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK45103500001-juz_wojacy_maszeruju.krn
+!!!OTL: Już wojacy maszeruju
+!!!source: DWOK45
+!!!id: 451035
+!!!signature: 45103500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4cc
+=2
+8dd
+8cc
+4dd
+4ee
+=3
+4ff#
+2ee}
+!!LO:LB:g=esac
+=4
+{8dd
+8cc
+2b
+=5
+4a
+2dd
+=6
+8g
+8a
+2b}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+4dd
+4g
+=8
+8g
+8f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=54 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 44} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 44}
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

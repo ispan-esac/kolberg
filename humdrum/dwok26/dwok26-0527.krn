@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2652700000-tu_zagon_tu_bruzda.krn
+!!!OTL: Tu zagon tu bruzda
+!!!source: DWOK26
+!!!id: 26527
+!!!signature: 2652700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8dd#
+8b
+=2
+8ee
+8dd
+8b
+=3
+8ee
+8dd#
+16b
+16a
+=4
+8cc
+16b
+16g#
+8a}
+!!LO:LB:g=esac
+=5
+{16e
+16e
+8g#
+8a
+=6
+16b
+16cc
+16b
+16a
+16b
+16ee
+=7
+16e
+16e
+8g#
+8a
+=8
+8cc
+16b
+16g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 331
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK3627500000-ne_chody_ne_bludy.krn
+!!!OTL: Ne chody ne błudy
+!!!source: DWOK36
+!!!id: 36275
+!!!signature: 3627500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+4ee
+8dd
+8b
+=2
+4b
+4dd
+8cc
+8b
+=3
+4a
+4cc
+8b
+8a
+=4
+4g#
+2e}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+8dd
+8cc
+=6
+4b
+4dd
+8cc
+8b
+=7
+4a
+4cc
+8b
+8a
+=8
+4g#
+2e}
+!!LO:LB:g=esac
+=9
+{4e
+4g#
+4b
+=10
+4e
+4g#
+4b
+=11
+8a
+8g#
+8a
+8b
+8cc
+8dd
+=12
+4ee
+2aa}
+!!LO:LB:g=esac
+=13
+{8dd
+8ee
+8gg
+8ff
+8ee
+8dd
+=14
+8ee
+8b
+4cc
+8b
+8a
+=15
+4b
+8g#
+8e
+8f#
+8g#
+=16
+4a
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 166
+!!!ONB: Converted on 2024/12/26 with esac2hum

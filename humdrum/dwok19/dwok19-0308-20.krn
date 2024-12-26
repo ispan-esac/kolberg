@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1930800020-oj_bija_ci_mnie_bija.krn
+!!!OTL: Oj biją ci mnie biją
+!!!source: DWOK19
+!!!id: 19308
+!!!signature: 1930800020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16d
+8g
+8b
+=2
+16cc
+16cc
+16a
+16g
+8b
+=3
+8cc
+8a
+8b
+=4
+16g
+16g
+8a
+8d}
+!!LO:LB:g=esac
+=5
+{16d
+16d
+8g
+8b
+=6
+8cc
+8ee
+8dd
+=7
+8cc
+16a
+16cc
+16b
+16f#
+=8
+16g
+16g
+8a
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 95} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 95}
+!!!page: 95
+!!!ONB: Converted on 2024/12/26 with esac2hum

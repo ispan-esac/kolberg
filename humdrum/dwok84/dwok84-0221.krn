@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK8422100000-oj_w_polu_krynycia.krn
+!!!OTL: Oj, w polu krynycia
+!!!source: DWOK84
+!!!id: 84221
+!!!signature: 8422100000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8g
+8dd
+8dd
+16cc
+16b-
+8cc
+8a
+=2
+8cc
+8dd
+16cc
+16b-
+16a
+16g
+8a
+8f#}
+!!LO:LB:g=esac
+=3
+{8g
+8a
+8b-
+8g
+8dd
+8dd
+=4
+8cc
+8a
+8dd
+8f#
+8g
+16f#
+16e
+=5
+8d
+8b-
+8g
+8a
+8.d
+16d}
+==
+*-
+!!!ONB: Wariant t. 1-2: -715_5_43b4_2_  42543b212_-7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 209} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 209}
+!!!page: 209
+!!!ONB: Converted on 2024/12/26 with esac2hum

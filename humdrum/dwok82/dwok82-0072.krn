@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK8207200000-tam_na_hore_kruta_werba.krn
+!!!OTL: Tam na hore kruta werba
+!!!source: DWOK82
+!!!id: 82072
+!!!signature: 8207200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8d
+8g
+8d
+=2
+8g
+8b
+8.dd
+16b
+=3
+8dd
+8dd
+8ee
+8dd
+=4
+8cc
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8d
+8cc
+8.dd
+16a
+=6
+8g
+8b
+8.b
+16g
+=7
+8a
+8g
+8f#
+8e
+=8
+8e
+8d
+4g}
+!!LO:LB:g=esac
+=9
+{8d
+8cc
+8.dd
+16a
+=10
+8g
+8b
+8.b
+16g
+=11
+8a
+8g
+8f#
+8e
+=12
+8e
+8d
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 60} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

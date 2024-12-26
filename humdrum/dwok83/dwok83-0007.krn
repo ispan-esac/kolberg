@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK8300700000-messyjasz_przyszed_na_swiat_prawdziwy.krn
+!!!OTL: Messyjasz przyszed na świat prawdziwy
+!!!source: DWOK83
+!!!id: 83007
+!!!signature: 8300700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+8gg
+4ee
+=3
+8dd
+8.dd
+16cc
+=4
+4cc
+8b}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+=6
+8gg
+[8ee
+32ee]
+32ff#
+32ee
+32dd
+=7
+8dd
+8.dd
+16cc
+=8
+16cc
+16dd
+16cc
+16b
+8b}
+!!LO:LB:g=esac
+=9
+{8gg
+8gg
+8ff#
+=10
+16gg
+16ff#
+8ee
+8dd
+=11
+16dd
+16ee
+8ee
+8ee
+=12
+16ee
+16dd
+8cc
+8b}
+!!LO:LB:g=esac
+=13
+{4dd
+16cc
+16a
+=14
+16b
+16cc
+4dd
+=15
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 17} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 17}
+!!!page: 17
+!!!ONB: Converted on 2024/12/26 with esac2hum

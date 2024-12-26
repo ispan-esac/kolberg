@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK0432600012-owczaryszek_za_owcami.krn
+!!!OTL: Owczaryszek za owcami
+!!!source: DWOK04
+!!!id: K0326
+!!!signature: 0432600012
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/8
+{16g
+16b
+8b
+16b
+16g
+=2
+*M6/16
+16b
+16dd
+8ee
+16cc
+16a
+=3
+16g
+16e
+8c
+16e
+16g
+=4
+*M3/8
+16b
+16dd
+16ff#
+16ee
+16dd
+16cc}
+!!LO:LB:g=esac
+=5
+{16b
+16g
+8g
+16b
+16g
+=
+!!UNCATEGORIZED MEASURE
+16b
+16dd
+8ee
+24cc
+24a
+24b
+=6
+*M6/16
+16g
+16e
+8c
+16e
+16g
+=7
+*M3/8
+16f#
+16a
+8b
+8g}
+==
+*-
+!!!ONB: Część wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=175 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 161-162} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 161-162}
+!!!page: 161-162
+!!!ONB: Converted on 2024/12/26 with esac2hum

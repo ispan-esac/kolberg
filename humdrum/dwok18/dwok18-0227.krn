@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK1822700000-uwiazal_konisia.krn
+!!!OTL: Uwiązał konisia
+!!!source: DWOK18
+!!!id: 18227
+!!!signature: 1822700000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+8gg
+8ff
+8ee
+=2
+8dd
+4.cc
+=3
+8ee
+8ff
+8.ee
+16dd
+=4
+8b
+4.g}
+!!LO:LB:g=esac
+=5
+{8.cc
+16dd
+8ee
+8ff
+=6
+8gg
+4.gg
+=7
+8ee
+8gg
+8.dd
+16b
+=8
+8cc
+4.cc}
+!!LO:LB:g=esac
+=9
+{8.ee
+16dd
+8ee
+8ff
+=10
+8gg
+4.gg
+=11
+16ee
+16ff
+8gg
+8.dd
+16b
+=12
+8cc
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 135} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

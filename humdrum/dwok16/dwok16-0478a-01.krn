@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1647800001-zaszumiala_dabrowa_zaszumiala_zielona.krn
+!!!OTL: Zaszumiała dąbrowa, zaszumiała zielona
+!!!source: DWOK16
+!!!id: 16478a
+!!!signature: 1647800001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8a
+8b
+8g
+=2
+4cc
+4dd
+=3
+2cc
+=4
+8b
+8cc
+8dd
+8b
+=5
+4cc
+4a
+=6
+2g}
+!!LO:LB:g=esac
+=7
+{4cc
+8b
+8dd
+=8
+4cc
+4g
+=9
+8a
+8b
+8cc
+8a
+=10
+4g
+4e
+=11
+8g
+8a
+8b
+8g
+=12
+4cc
+4a
+=13
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=313 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 293} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 293}
+!!!ONB: Converted on 2024/12/26 with esac2hum

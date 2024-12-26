@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK5043700002-matus_moja_co_to_znaczy.krn
+!!!OTL: Matuś moja, co to znaczy
+!!!source: DWOK50
+!!!id: 50437
+!!!signature: 5043700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8g
+8a
+=2
+8cc
+8dd
+8ee
+8cc}
+!!LO:LB:g=esac
+=3
+{8g
+8g
+8g
+8a
+=4
+8cc
+8dd
+8ee
+8cc}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8g
+8a
+=6
+8cc
+8dd
+8ee
+8cc}
+!!LO:LB:g=esac
+=7
+{8g
+8g
+8g
+8a
+=8
+8cc
+8dd
+8ee
+8cc}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+8g
+8a
+=10
+8cc
+8dd
+8ee
+8cc}
+!!LO:LB:g=esac
+=11
+{8dd
+8cc
+4b
+=12
+8a
+4gg
+8ff#}
+!!LO:LB:g=esac
+=13
+{8ff#
+8ff#
+8ee
+8ff#
+=14
+8a
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 260} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 260}
+!!!page: 260
+!!!ONB: Converted on 2024/12/26 with esac2hum

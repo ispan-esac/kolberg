@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK5033400012-madziar_pije_madziar_placi_na_madziara_placza_dzieci.krn
+!!!OTL: Madziar pije, Madziar płaci, na Madziara płaczą dzieci
+!!!source: DWOK50
+!!!id: 50334
+!!!signature: 5033400012
+**kern
+*clefG2
+*k[b-]
+*F:
+=1
+*M4/4
+{4f
+4f
+4ee
+4dd
+=2
+8dd
+8b-
+4cc
+2dd}
+!!LO:LB:g=esac
+=3
+{4.ee
+8cc
+4cc
+4a
+=4
+8cc
+8b-
+4dd
+2cc}
+!!LO:LB:g=esac
+=5
+*M3/4
+{4.ff
+8dd
+8dd
+8cc
+=6
+8a
+8g
+4b-
+4dd}
+!!LO:LB:g=esac
+=7
+{4.dd
+8cc
+8cc
+8a
+=8
+8b-
+8g
+4f
+4ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 174} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

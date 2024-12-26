@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK3625600002-wydoptaw_ja_czerewyczki.krn
+!!!OTL: Wydoptaw ja czerewyczki
+!!!source: DWOK36
+!!!id: 36256
+!!!signature: 3625600002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{16a
+16b
+16cc
+16dd
+8ee
+8ee
+8ee
+16dd
+16ff
+=2
+8ee
+32dd
+32ee
+32dd
+32cc
+8b
+8ee
+4g#}
+!!LO:LB:g=esac
+=3
+{16a
+16b
+16cc
+16dd
+4.ee
+16dd
+16ee
+=4
+8ee
+32dd
+32ee
+32dd
+32cc
+4b}
+4r
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8ee
+16dd
+16cc
+16b
+16a
+8cc
+8b
+=6
+8a
+16g#
+16e
+8e
+16e
+16g#
+8a
+8b}
+!!LO:LB:g=esac
+=
+{16cc
+16ee
+8dd
+24cc
+24b
+24a
+8cc
+8b
+8g#
+=7
+8a
+8g#
+4.e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 151
+!!!ONB: Converted on 2024/12/26 with esac2hum

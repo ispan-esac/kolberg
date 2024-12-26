@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK3911400002-szeroka_woda_we_wisle.krn
+!!!OTL: Szeroka woda we Wiśle
+!!!source: DWOK39
+!!!id: 39114
+!!!signature: 3911400002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4ee
+8gg
+8gg
+8gg
+8ee
+=2
+8gg
+8gg
+4ff
+4dd}
+!!LO:LB:g=esac
+=3
+{4cc
+8ee
+8dd
+8ff
+8ee
+=4
+8cc
+8b
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+4b
+8cc
+8ee
+8dd
+=6
+8ee
+8gg
+4ff
+4dd}
+!!LO:LB:g=esac
+=7
+{4cc
+8ee
+8dd
+8ff
+8ee
+=8
+8cc
+8b
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 165} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 165}
+!!!page: 165
+!!!ONB: Converted on 2024/12/26 with esac2hum

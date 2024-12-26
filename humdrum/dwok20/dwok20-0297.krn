@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK2029700000-dajciez_jej_trzebaz_jej.krn
+!!!OTL: Dajciez jej, trzebaz jej
+!!!source: DWOK20
+!!!id: 20297
+!!!signature: 2029700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4a
+4cc
+8b
+8g
+=2
+4a
+4cc
+8b
+8g}
+!!LO:LB:g=esac
+=3
+{4a
+4a
+8b
+8a
+=4
+8g
+8g
+4cc
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+8b
+8a
+=6
+8g
+8f#
+4d
+4g}
+==
+*-
+!!!ONB: U Kolberga jest wpisane metrum 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 219} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 219}
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

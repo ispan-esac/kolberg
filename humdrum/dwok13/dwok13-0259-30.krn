@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK1325900030-instrumentalna-mazur_kujawski.krn
+!!!OTL: Instrumentalna-Mazur kujawski
+!!!source: DWOK13
+!!!id: 13259
+!!!signature: 1325900030
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16f#
+16a#
+8cc#
+16ee
+16dd
+=
+16cc#
+16b
+8a#
+24b
+24g#
+24dd#
+=2
+16ee
+16ff#
+8gg#
+16bb
+16ccc#
+=3
+16aa#
+16ff#
+4bb}
+!!LO:LB:g=esac
+=4
+{16aa
+16aa
+8aa
+8gg
+=5
+16ff#
+16ff#
+8ff#
+8ee
+=6
+16dd
+16ff#
+8dd
+16cc#
+16a#
+=7
+4.b}
+!!LO:LB:g=esac
+=8
+{16f#
+16a#
+8cc#
+16ee
+16dd
+=
+16cc#
+16b
+8a#
+24b
+24g#
+24dd#
+=9
+16ee
+16ff#
+8gg#
+16bb
+16ccc#
+=10
+16aa#
+16ff#
+4bb}
+!!LO:LB:g=esac
+=11
+{16aa
+16aa
+8aa
+8gg
+=12
+16ff#
+16ff#
+8ff#
+8ee
+=
+16b
+16cc#
+8dd
+24b
+24g#
+24e
+=13
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 123} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK7504400000-pasl_galgan_swinie.krn
+!!!OTL: Pasł gałgan świnie
+!!!source: DWOK75
+!!!id: 75044
+!!!signature: 7504400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{8a
+8a
+8a
+4cc
+8b-
+=2
+8g
+8ee
+8ee
+4ff
+8ff}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8a
+4cc
+8b-
+=4
+8b-
+8e
+8e
+4f
+8f}
+==
+*-
+!!!ONB: Wariant t. 4: 2-7-71_1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 28} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 28}
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum

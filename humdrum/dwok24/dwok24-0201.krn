@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2420100000-oj_nie_widzisze_kasiu.krn
+!!!OTL: Oj nie widzisze Kasiu
+!!!source: DWOK24
+!!!id: 24201
+!!!signature: 2420100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8b
+8dd
+8ff
+=2
+16ff
+16ee
+8gg
+8gg
+=3
+8gg
+8dd
+8ff
+=4
+16ff
+16ee
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8ff
+=6
+16ff
+16ee
+8ee
+8dd
+=7
+8b
+8dd
+8ff
+=8
+16ff
+16ee
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=319 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 295} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 295}
+!!!page: 295
+!!!ONB: Converted on 2024/12/26 with esac2hum

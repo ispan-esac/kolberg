@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5651000002-jily_zonoczkie_jily.krn
+!!!OTL: Jiły żonoczkie, jiły
+!!!source: DWOK56
+!!!id: 56510
+!!!signature: 5651000002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+16cc
+16b
+16b
+16a
+=2
+8a
+4cc
+=3
+4b
+16b
+16a}
+!!LO:LB:g=esac
+=4
+{8cc
+16cc
+16a
+16cc
+16a
+=5
+8cc
+4b
+=6
+8a
+4a}
+!!LO:LB:g=esac
+=7
+{8e
+8a
+8b
+=8
+8cc
+4b
+=9
+4a
+8a}
+==
+*-
+!!!ONB: U Kolberga t. 5: 3b__2_1#_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=472 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 368} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 368}
+!!!page: 368
+!!!ONB: Converted on 2024/12/26 with esac2hum

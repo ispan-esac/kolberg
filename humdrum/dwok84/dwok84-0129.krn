@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK8412900000-czas_mene_moja_maty.krn
+!!!OTL: Czas mene, moja maty
+!!!source: DWOK84
+!!!id: 84129
+!!!signature: 8412900000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4cc
+8a
+8a
+=2
+8b
+8b
+16a
+16g
+16f
+16g}
+!!LO:LB:g=esac
+=3
+{4cc
+8a
+8a
+=4
+8b
+8b
+16a
+16g
+16f
+16e}
+!!LO:LB:g=esac
+=5
+{4e
+8g#
+8g#
+=6
+8a
+8a
+8b
+8g}
+!!LO:LB:g=esac
+=7
+{8e
+8e
+8g#
+8g#
+=8
+8f#
+8f#
+8e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 134} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 134}
+!!!page: 134
+!!!ONB: Converted on 2024/12/26 with esac2hum

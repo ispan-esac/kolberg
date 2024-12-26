@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5610400002-szczodryj_weczer_dobryj_weczer.krn
+!!!OTL: Szczodryj weczer, dobryj weczer
+!!!source: DWOK56
+!!!id: 56104
+!!!signature: 5610400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8g
+4g
+4b
+=2
+2a
+8a
+8g
+=3
+8b
+8a
+4b
+4dd
+=
+4.cc
+8b
+12b
+12a
+12g}
+!!LO:LB:g=esac
+=4
+{8b
+8a
+4b
+4a
+=5
+4g
+4a
+8b
+8cc
+=6
+8b
+8a
+4b
+4a
+=7
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 126} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 126}
+!!!page: 126
+!!!ONB: Converted on 2024/12/26 with esac2hum

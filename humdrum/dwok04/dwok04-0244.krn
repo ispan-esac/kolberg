@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK04-K0244-a_kto_chce_rozkoszy_uzyc.krn
+!!!OTL: A kto chce rozkoszy uzyc
+!!!source: DWOK04
+!!!id: K0244
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4g
+4g
+4b
+=2
+4.a
+8g
+4f#
+4d
+=3
+4cc
+4cc
+4cc
+4ee
+=4
+4.dd
+8cc
+4b
+4dd}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+4a
+4dd
+=6
+4.b
+8a
+4g
+4dd
+=7
+4a
+4a
+4a
+4dd
+=8
+4.b
+8a
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{4g
+4g
+4g
+4b
+=10
+4.a
+8g
+4f#
+4d
+=11
+4cc
+4cc
+4cc
+4ee
+=12
+4.dd
+8cc
+4b
+4dd}
+!!LO:LB:g=esac
+=13
+{4a
+4a
+4a
+4dd
+=14
+4.b
+8a
+4g
+4dd
+=15
+4a
+4a
+4a
+4dd
+=16
+4.b
+8a
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 123} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

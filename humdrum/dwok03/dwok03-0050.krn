@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK03-K0050-zaprzegej_zaprzegej.krn
+!!!OTL: Zaprzegej zaprzegej
+!!!source: DWOK03
+!!!id: K0050
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8a
+32cc
+16.b
+=2
+8dd
+8dd
+32cc
+16.a
+=3
+8dd
+8dd
+32cc
+16.a
+=4
+8g
+8a
+32cc
+16.b
+=5
+4g
+8d}
+!!LO:LB:g=esac
+=6
+{8g
+8a
+32cc
+16.b
+=7
+8dd
+8ee
+32cc
+16.a
+=8
+8dd
+8ee
+32cc
+16.a
+=9
+8g
+8a
+32cc
+16.b
+=10
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 279} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 279}
+!!!page: 279
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1109000001-ja_marna_dziewcyna.krn
+!!!OTL: Ja marna dziewcyna
+!!!source: DWOK11
+!!!id: 11090
+!!!signature: 1109000001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8e
+4g#
+8a
+8g#
+=2
+8e
+8d
+2e}
+!!LO:LB:g=esac
+=3
+{16e
+16g#
+8a
+4b
+4dd
+=4
+8cc
+8a
+2b}
+!!LO:LB:g=esac
+=5
+{16e
+16g#
+8a
+8b
+8dd
+16ee
+16cc
+8b
+=6
+8a
+8cc
+8b
+8a
+16g#
+16e
+8d}
+!!LO:LB:g=esac
+=7
+{8e
+8e
+4g#
+8a
+8g#
+=8
+8e
+8d
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 199} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

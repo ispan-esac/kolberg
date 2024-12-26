@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK1906800001-kazasl_ci_mi_ojciec.krn
+!!!OTL: Kazaśł ci mi ojciec
+!!!source: DWOK19
+!!!id: 19068
+!!!signature: 1906800001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8gg
+8gg
+4ee
+=2
+8ee
+4cc
+16dd
+16ee
+=3
+8ff
+8ee
+4dd
+=4
+8b
+4dd
+8dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+4cc
+=6
+8b
+4a
+8a
+=7
+8g
+8b
+4dd
+=8
+8ff
+4dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 25} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 25}
+!!!page: 25
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5322600000-o_ir_atleke_is_girios_gegele.krn
+!!!OTL: O! Ir atleke is girios gegele
+!!!source: DWOK53
+!!!id: 53226
+!!!signature: 5322600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+4a
+=2
+4b
+4g
+=3
+2a}
+!!LO:LB:g=esac
+=4
+{4e
+4b
+=5
+4g
+4e
+=6
+4f#
+4e}
+!!LO:LB:g=esac
+=7
+{4g
+4a
+=8
+4b
+4g
+=9
+4.a
+8b
+=10
+2g}
+!!LO:LB:g=esac
+=11
+{4g
+4a
+=12
+4b
+4g
+=13
+4.a
+8b
+=14
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=369 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 329} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 329}
+!!!page: 329
+!!!ONB: Converted on 2024/12/26 with esac2hum

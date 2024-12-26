@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2636400000-przy_stawecku_kalina.krn
+!!!OTL: Przy stawecku kalina
+!!!source: DWOK26
+!!!id: 26364
+!!!signature: 2636400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8cc
+=2
+8ff
+8dd
+4gg
+=3
+8cc
+8dd
+8ee
+8ee
+=4
+8ff
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+8cc
+8ee
+=6
+8g
+8b
+4cc
+=7
+8ee
+8dd
+8cc
+8ee
+=8
+8g
+8b
+8cc
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 264
+!!!ONB: Converted on 2024/12/26 with esac2hum

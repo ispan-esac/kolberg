@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK5326500000-kur_tu_mano_mielas.krn
+!!!OTL: Kur tu, mano miełas
+!!!source: DWOK53
+!!!id: 53265
+!!!signature: 5326500000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8.cc#
+16b
+8cc#
+8dd
+=2
+4.ee
+8cc#
+=3
+8.ee
+16ee
+8dd
+8cc#
+=4
+4cc#
+4b}
+!!LO:LB:g=esac
+=5
+{8.a
+16g#
+8a
+8b
+=6
+4.cc#
+8a
+=7
+8.e
+16g#
+8.b
+16cc#
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{8.a
+16g#
+8a
+8b
+=10
+4.cc#
+8a
+=11
+8.e
+16g#
+8.b
+16cc#
+=12
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=386 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 346} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 346}
+!!!page: 346
+!!!ONB: Converted on 2024/12/26 with esac2hum

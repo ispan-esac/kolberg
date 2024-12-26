@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK3331700000-pryszla_marysia_z_dorohy.krn
+!!!OTL: Pryszła Marysia z dorohy
+!!!source: DWOK33
+!!!id: 33317
+!!!signature: 3331700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8cc
+8cc
+=2
+16b
+16f#
+8g
+8d
+=3
+8g
+16a
+16b
+8cc}
+!!LO:LB:g=esac
+=4
+{8b
+16b
+16f#
+8g
+=5
+8b
+4cc
+=6
+8cc
+16b
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=360 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 318} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 318}
+!!!page: 318
+!!!ONB: Converted on 2024/12/26 with esac2hum

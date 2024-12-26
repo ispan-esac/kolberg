@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK3010200000-oj_tam_oj_tam_pid_lypkuju.krn
+!!!OTL: Oj tam oj tam pid lypkuju
+!!!source: DWOK30
+!!!id: 30102
+!!!signature: 3010200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8dd
+4ff
+=2
+8dd
+4ff
+=3
+8dd
+8.ff
+16dd
+=4
+8cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+=6
+8a
+4cc
+=7
+8a
+8.b-
+16g
+=8
+8f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 71} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 71}
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum

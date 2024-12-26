@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5248400001-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK52
+!!!id: 52484
+!!!signature: 5248400001
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{8dd
+8ee
+4ee
+2dd
+=2
+8dd
+8ee
+4ff
+2ee}
+!!LO:LB:g=esac
+=3
+{8dd
+8cc
+8dd
+8ee
+4ff
+4ee
+=4
+8ee
+8dd
+8cc
+8b
+2cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+4ff
+8ee
+16dd
+16ee
+4ff
+=6
+8ee
+8dd
+8cc
+8b
+2cc}
+==
+*-
+!!!ONB: Pierwsza wersja melodii, tańcują po ślubie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=365 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 304} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 304}
+!!!page: 304
+!!!ONB: Converted on 2024/12/26 with esac2hum

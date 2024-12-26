@@ -1,0 +1,6 @@
+.DS_Store
+err
+*.zip
+*.tar
+*.bz2
+*.tgz

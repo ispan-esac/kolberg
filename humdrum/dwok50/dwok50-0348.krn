@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5034800000-a_chowaj_mnie_matulinko.krn
+!!!OTL: A chowaj mnie, matulinko
+!!!source: DWOK50
+!!!id: 50348
+!!!signature: 5034800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+8ee
+8ee
+=2
+16ee
+16cc
+8ee
+8ee
+=3
+16ff
+16ee
+8dd
+8cc
+=4
+8dd
+4dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16ee
+8ff
+8ee
+=6
+16gg
+16ff
+8ee
+8dd
+=7
+16b
+16cc
+8dd
+8dd
+=8
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 181} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 181}
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

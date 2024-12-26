@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4649700000-jeszcze_lepiej_bedzie_jak_sie_pic_nie_bedzie_toc.krn
+!!!OTL: Jeszcze lepiej będzie, jak się pić nie będzie, toć
+!!!source: DWOK46
+!!!id: 46497
+!!!signature: 4649700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4g
+4b
+=2
+4dd
+2dd
+=3
+8dd
+8ff#
+4dd
+8ee
+8ff#
+=4
+4gg
+2gg}
+!!LO:LB:g=esac
+=5
+{4ee
+4cc
+4cc
+=6
+8cc
+8ee
+4cc
+4cc
+=7
+2dd
+4g
+=8
+8b
+8cc
+4a
+4b
+=9
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=339 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 305} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 305}
+!!!page: 305
+!!!ONB: Converted on 2024/12/26 with esac2hum

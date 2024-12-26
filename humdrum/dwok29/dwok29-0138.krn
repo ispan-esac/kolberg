@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK2913800000-sedit_diwka_konec_stola.krn
+!!!OTL: Sedit diwka konec stoła
+!!!source: DWOK29
+!!!id: 29138
+!!!signature: 2913800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8dd
+8cc
+8b
+=2
+8a
+8cc
+8b
+=3
+8b
+4cc
+=4
+8a
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8b
+=6
+8a
+8b
+8cc
+=7
+4.b
+=8
+4a}
+8r
+!!LO:LB:g=esac
+=9
+{8dd
+8cc
+8b
+=10
+8a
+8cc
+8b
+=11
+8b
+8b
+8cc
+=12
+8a
+8cc
+8b}
+!!LO:LB:g=esac
+=13
+{8dd
+8cc
+8a
+=14
+8a
+4a
+=15
+4.a
+=16
+4a}
+8r
+==
+*-
+!!!ONB: Śpiewają przy końcu obiadu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=277 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 245} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 245}
+!!!page: 245
+!!!ONB: Converted on 2024/12/26 with esac2hum

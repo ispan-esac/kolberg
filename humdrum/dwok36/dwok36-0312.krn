@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK3631200000-oj_semene_semenoczku.krn
+!!!OTL: Oj Semene Semenoczku
+!!!source: DWOK36
+!!!id: 36312
+!!!signature: 3631200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4ee
+8dd
+8cc
+=2
+8ee
+16ee
+16dd
+8cc
+8ee
+8ff
+8ee
+=3
+8dd
+16cc
+16b
+2a}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+4dd
+4g
+=5
+8a
+8b
+8cc
+8ee
+8ff
+8ee
+=6
+8dd
+8cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 193
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK35A-35A08500001-woj_z_terema_do_terema.krn
+!!!OTL: Wój z terema do terema
+!!!source: DWOK35A
+!!!id: 35A085
+!!!signature: 35A08500001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+4ff
+=2
+8ff
+4ee
+=3
+8ff
+4ee
+=4
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+8r
+{8ee
+8ee
+=6
+8ff
+4ff
+=7
+8dd
+4cc
+=8
+16b
+16g}
+4r
+!!LO:LB:g=esac
+=
+8r
+{24g
+24cc
+24dd
+8ee
+=9
+8dd
+4cc
+=10
+8ff
+4ee}
+!!LO:LB:g=esac
+=11
+{8cc
+8ee
+16dd
+16cc
+=12
+8ee
+8dd
+8b
+=13
+4.cc
+=14
+4cc}
+8r
+==
+*-
+!!!ONB: Gdy swacha korowaj niesie przed bojarów czyli swatów
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 63} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 63}
+!!!page: 63
+!!!ONB: Converted on 2024/12/26 with esac2hum

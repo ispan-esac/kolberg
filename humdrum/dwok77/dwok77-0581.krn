@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK7758100000-alboz_my_to_nie_krakusy_nie_krakusy.krn
+!!!OTL: Alboż my to nie Krakusy nie Krakusy
+!!!source: DWOK77
+!!!id: 77581
+!!!signature: 7758100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.g
+16g
+8g
+8b
+=2
+8dd
+8dd
+8ee
+8ee
+=3
+8dd
+8dd
+8ee
+8ee
+=4
+8dd
+8dd
+8ee
+8ee
+=5
+8dd
+8dd
+8ee
+8ee}
+!!LO:LB:g=esac
+=6
+{8dd
+8dd
+4cc
+=7
+8cc
+4b
+8dd
+=8
+8dd
+8dd
+4cc
+=9
+8cc
+4b
+8dd}
+!!LO:LB:g=esac
+=10
+{8dd
+8dd
+4cc
+=11
+8b
+4gg
+8b
+=12
+8.dd
+16dd
+8dd
+8f#
+=13
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 299
+!!!ONB: Converted on 2024/12/26 with esac2hum

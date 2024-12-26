@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK41105400001-leci_woda_miedzy_deby.krn
+!!!OTL: Leci woda między dęby
+!!!source: DWOK41
+!!!id: 411054
+!!!signature: 41105400001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+8ff
+=2
+16ff
+16ee
+8gg
+8ff}
+!!LO:LB:g=esac
+=3
+{16ee
+16gg
+8gg
+8ff
+=4
+16ff
+16cc
+8ee
+16ee
+16dd}
+!!LO:LB:g=esac
+=5
+{16cc
+16cc
+8b
+8g
+=6
+16b
+16cc
+8ff
+8dd}
+!!LO:LB:g=esac
+=7
+{16b
+16cc
+8g
+8ff
+=8
+16ff
+16cc
+8ee
+16ee
+16dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=530 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 443} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 443}
+!!!page: 443
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7732400001-hej_dana_moja_dana.krn
+!!!OTL: Hej dana moja dana
+!!!source: DWOK77
+!!!id: 77324
+!!!signature: 7732400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4dd
+4a
+=2
+8b
+8a
+4cc
+4ee}
+!!LO:LB:g=esac
+=3
+{4dd
+8dd
+8cc
+4a
+=4
+8b
+8a
+4f#
+4d}
+!!LO:LB:g=esac
+=5
+{4e
+4d
+4f#
+=6
+8g
+8b
+4cc
+4a}
+!!LO:LB:g=esac
+=7
+{4b
+4.d
+8f#
+=8
+8a
+8g
+4f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 172
+!!!ONB: Converted on 2024/12/26 with esac2hum

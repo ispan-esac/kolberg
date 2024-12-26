@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK5611000000-ej_czyje_to_konie_zena_na_gumienkach.krn
+!!!OTL: Ej, czyje to konie żeną na gumienkach
+!!!source: DWOK56
+!!!id: 56110
+!!!signature: 5611000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8cc
+8cc
+8cc
+=2
+4ee
+4ee
+=3
+8dd
+8dd
+8dd
+16cc
+16b
+=4
+4a
+4a}
+!!LO:LB:g=esac
+=5
+{4.b
+8a
+=6
+4b
+4a
+=7
+4.ee
+8b
+=8
+4ee
+4b}
+==
+*-
+!!!ONB: Wariant t. 3: 4_4_453b2
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 129} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 129}
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4654500000-chodzi_sierotka_po_wsi_opadli_ja_zli_psi.krn
+!!!OTL: Chodzi sierotka po wsi, opadli ją źli psi
+!!!source: DWOK46
+!!!id: 46545
+!!!signature: 4654500000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8b
+8b
+8b
+16cc
+16dd
+=2
+4ee
+4b
+=3
+8ee
+8b
+8a
+8b
+=4
+8g
+8f#
+4e}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8g
+8e
+=6
+8g
+8a
+4b
+=7
+8ee
+8b
+8a
+8b
+=8
+8g
+8f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 329} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 329}
+!!!page: 329
+!!!ONB: Converted on 2024/12/26 with esac2hum

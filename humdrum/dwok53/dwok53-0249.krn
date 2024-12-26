@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK5324900000-uzdegki_mociute_dvi_liktuzi.krn
+!!!OTL: Uzdegki, mociute, dvi liktuzi
+!!!source: DWOK53
+!!!id: 53249
+!!!signature: 5324900000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{4d
+4f#
+4f#
+=2
+4e
+4d
+4d
+=3
+4f#
+2a
+=4
+4a
+2f#}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+4g
+=6
+4f#
+4e
+4d
+=7
+4e
+2g
+=8
+4e
+2d}
+!!LO:LB:g=esac
+=9
+{4a
+4a
+4g
+=10
+4f#
+4e
+4d
+=11
+4e
+2g
+=12
+4e
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=377 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 337} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 337}
+!!!page: 337
+!!!ONB: Converted on 2024/12/26 with esac2hum

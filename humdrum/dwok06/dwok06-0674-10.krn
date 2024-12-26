@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK06067400010-w_posrod_ciemnych_lasow.krn
+!!!OTL: W posrod ciemnych lasow
+!!!source: DWOK06
+!!!id: K0674
+!!!signature: 06067400010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8f#
+8d
+8.cc
+16a
+=2
+8b
+4g
+8e
+=3
+8e
+8g
+8.f#
+16e
+=4
+16e
+16d
+4d
+8g}
+!!LO:LB:g=esac
+=5
+{8f#
+8d
+8.cc
+16a
+=6
+8b
+4g
+8b
+=7
+8dd
+8dd
+8.f#
+16a
+=8
+16a
+16g
+4g
+16r
+16b}
+==
+*-
+!!!ONB: Czescwokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=445 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 419-420} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 419-420}
+!!!page: 419-420
+!!!ONB: Converted on 2024/12/26 with esac2hum

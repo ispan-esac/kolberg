@@ -1,0 +1,113 @@
+!!!!SEGMENT: DWOK28159a0020-idzie_rzecka_idzie-instrumentalna.krn
+!!!OTL: Idzie rzecka idzie-Instrumentalna
+!!!source: DWOK28
+!!!id: 28159a
+!!!signature: 28159a0020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8cc
+8a
+=2
+8.dd
+16b
+32cc
+32b
+32a
+32g
+=3
+16cc
+16dd
+8ee
+8ee
+=4
+8.dd
+16b
+16g
+16b}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+16cc
+16b
+16a
+16g
+=6
+8.dd
+16b
+16cc
+16a
+=7
+16cc
+16dd
+8ee
+8ee
+=8
+8.dd
+16b
+32g
+32a
+32b
+32cc}
+!!LO:LB:g=esac
+=9
+{8dd
+8ee
+16dd
+16b
+=10
+16cc
+16b
+8a
+16a
+16g
+=11
+16ee
+16dd
+8cc
+32cc
+32b
+32a
+32g
+=12
+8a
+32a
+32g
+32f#
+32e
+8d}
+!!LO:LB:g=esac
+=13
+{16dd
+16dd
+8ee
+16dd
+16b
+=14
+16cc
+16b
+8a
+16a
+16g
+=15
+16ee
+16dd
+8cc
+16cc
+16a
+=16
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 214-215} @EN{Oskar Kolberg Complete Works 28: Mazovia V, pp. 214-215}
+!!!page: 214-215
+!!!ONB: Converted on 2024/12/26 with esac2hum

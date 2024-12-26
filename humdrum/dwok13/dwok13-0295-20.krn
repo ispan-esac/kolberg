@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK1329500020-a_wy_niemcy.krn
+!!!OTL: A wy Niemcy
+!!!source: DWOK13
+!!!id: 13295
+!!!signature: 1329500020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ff
+16ff
+8gg
+8ee
+=2
+16ff
+16ff
+8gg
+8ee
+=3
+16ff
+16dd
+8b
+16a
+16b
+=4
+16cc
+16b
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8cc
+16dd
+16ee
+=6
+16ff
+16ee
+8cc
+16dd
+16ee
+=7
+16ff
+16dd
+8b
+16a
+16b
+=8
+16cc
+16b
+8g
+8g}
+!!LO:LB:g=esac
+=9
+{16g
+16b
+8cc
+16dd
+16ee
+=10
+16ff
+16ee
+8cc
+16dd
+16ee
+=11
+16ff
+16dd
+8b
+16a
+16b
+=12
+16cc
+16b
+8g
+8g}
+==
+*-
+!!!ONB: Odsibka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 135} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

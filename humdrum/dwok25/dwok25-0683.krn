@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK2568300000-a_sla_kolo_mnie.krn
+!!!OTL: A sła koło mnie
+!!!source: DWOK25
+!!!id: 25683
+!!!signature: 2568300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8g
+16a
+16b
+8cc
+16ee
+16gg
+8ff
+8ff
+=2
+8ee
+8gg
+8aa
+8aa
+8ff
+16ee
+16ff
+=3
+8g
+8b
+8cc
+16dd
+16ee
+4ff
+=4
+8cc
+8cc
+8g
+8g
+4f}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8cc
+16b-
+16g
+8f
+8g
+=6
+8a
+8a
+8b-
+8g
+4f
+=7
+8g
+8dd
+8cc
+16b
+16g
+8f
+8a
+=8
+8g
+8dd
+8cc
+16b
+16g
+4f}
+==
+*-
+!!!ONB: Wariant w takcie czwartym 3_3_5_421__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 244} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 244}
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

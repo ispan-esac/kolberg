@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK1808000000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK18
+!!!id: 18080
+!!!signature: 1808000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8gg
+8gg
+8aa
+8aa
+=2
+2gg
+=3
+8ff#
+8dd
+8cc
+8ee-
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+8ff#
+=6
+8ff#
+8gg
+8ff#
+8dd}
+!!LO:LB:g=esac
+=7
+{8gg
+8gg
+8aa
+8aa
+=8
+2gg
+=9
+16ff#
+16gg
+16ff#
+16dd
+8cc
+8ee-
+=10
+2dd}
+!!LO:LB:g=esac
+=11
+{16g
+16a
+8b
+8dd
+8ff#
+=
+8ff#
+8gg
+24ff#
+24gg
+24ff#
+16ee-
+16dd}
+!!LO:LB:g=esac
+=12
+{8ff#
+8dd
+16cc
+16dd
+8ee
+=13
+2dd}
+!!LO:LB:g=esac
+=14
+{8g
+8b
+16dd
+16b
+16dd
+16ff#
+=15
+4gg
+16ff#
+16b
+16dd
+16ff#
+=
+24ff#
+24gg
+24ff#
+16ee-
+16dd
+16cc
+16dd
+8ee-
+=16
+2dd}
+==
+*-
+!!!ONB: Do oczepin, zakodować od G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 86} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 86}
+!!!page: 86
+!!!ONB: Converted on 2024/12/26 with esac2hum

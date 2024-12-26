@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK2723900000-i_przyjechal_przed_pokoje.krn
+!!!OTL: I przyjechał przed pokoje
+!!!source: DWOK27
+!!!id: 27239
+!!!signature: 2723900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{4ff
+8cc
+4a
+8f
+=2
+4b-
+8g
+4b-
+8a}
+!!LO:LB:g=esac
+=3
+{4ff
+8cc
+4a
+8f
+=4
+4b-
+8e
+4f
+8f}
+!!LO:LB:g=esac
+=5
+{4g
+8g
+4b-
+8f
+=6
+4a
+8b-
+4cc
+8cc}
+!!LO:LB:g=esac
+=7
+{4ff
+8dd
+4cc
+8f
+=8
+8b-
+8g
+8e
+4f
+8f}
+!!LO:LB:g=esac
+=9
+{4ff
+8cc
+4a
+8cc
+=10
+4b-
+8g
+4b-
+8a}
+!!LO:LB:g=esac
+=11
+{4ff
+8cc
+4a
+8cc
+=12
+4b-
+8g
+4f
+8f}
+!!LO:LB:g=esac
+=13
+{4g
+8g
+8b-
+8g
+8f
+=14
+4a
+8b-
+8cc
+8ee
+8ee}
+!!LO:LB:g=esac
+=15
+{4ff
+8dd
+8cc
+8a
+8f
+=16
+4b-
+8g
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=293 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 274} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 274}
+!!!page: 274
+!!!ONB: Converted on 2024/12/26 with esac2hum

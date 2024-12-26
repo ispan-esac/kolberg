@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK35A-35A07800002-a_w_sobotejku_pered_weczerem.krn
+!!!OTL: A w sóbotejku pered weczerem
+!!!source: DWOK35A
+!!!id: 35A078
+!!!signature: 35A07800002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+16ee
+16dd
+8ff
+=2
+16ff
+16ee
+4ee
+=3
+8gg
+8ff
+8ee
+=4
+16dd
+16cc
+4ee
+=5
+16dd
+16b
+4cc
+=6
+16cc
+16g}
+8r
+8r
+!!LO:LB:g=esac
+=7
+{16g
+16cc
+16dd
+16cc
+8ee
+=8
+8dd
+4cc
+=9
+8gg
+8ff
+8ee
+=10
+16dd
+16cc
+4ee}
+!!LO:LB:g=esac
+=11
+{8ee
+16ee
+16dd
+8ff
+=12
+16ff
+16ee
+16ee
+16b
+16cc
+16b
+=13
+16dd
+16cc
+4cc
+=14
+16cc
+16b}
+8r
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 60} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

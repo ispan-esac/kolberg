@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK35A-35A06000002-moja_luba_mamunesejku.krn
+!!!OTL: Moja luba mamunesejku
+!!!source: DWOK35A
+!!!id: 35A060
+!!!signature: 35A06000002
+**kern
+*clefG2
+*k[]
+*a:
+*MX
+=1
+{8cc
+8dd
+8dd
+8dd
+8.dd
+24cc
+24b
+24b
+24cc
+24b
+24a
+4a
+=2
+8a
+8b
+8cc
+8a
+8a
+8cc
+8dd
+8a
+2a}
+!!LO:LB:g=esac
+=3
+{16cc
+16dd
+16dd
+16dd
+48dd
+48cc
+48b
+16cc
+8b
+8a
+2a
+=4
+8a
+8b
+8cc
+8dd
+24dd
+24cc
+24b
+16cc
+16a
+16cc
+8b
+8a
+2a
+=5
+4dd
+8dd
+8a
+16cc
+16a
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 52} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

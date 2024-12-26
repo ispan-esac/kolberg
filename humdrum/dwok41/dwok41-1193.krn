@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK41119300000-niech_bedzie_jezus_chrystus_pochwalony.krn
+!!!OTL: Niech będzie Jezus Chrystus pochwalony
+!!!source: DWOK41
+!!!id: 411193
+!!!signature: 41119300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4b
+8dd
+8cc
+8b
+8a
+=2
+8b
+8dd
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=3
+{4b
+8dd
+8cc
+8b
+8a
+=4
+8b
+8dd
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{4b
+8cc
+8a
+8f#
+8d
+=6
+8g
+8b
+2dd}
+!!LO:LB:g=esac
+=7
+{4dd
+8ee
+8cc
+8dd
+8b
+=8
+8a
+8a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=608 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 521-522} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 521-522}
+!!!page: 521-522
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1925600010-nie_darmo_nie_darmo.krn
+!!!OTL: Nie darmo, nie darmo
+!!!source: DWOK19
+!!!id: 192561
+!!!signature: 1925600010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+8ff
+16dd
+16ff
+=2
+16ee
+16ee
+8ff
+16dd
+16cc
+=3
+8cc
+4ff
+=4
+16ee
+16ee
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{8cc
+4ff
+=6
+16aa
+16gg
+8ff
+16dd
+16cc
+=7
+16ee
+16gg
+8ff
+16dd
+16ff
+=8
+16ee
+16gg
+8ff
+16dd
+16b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 79} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 79}
+!!!page: 79
+!!!ONB: Converted on 2024/12/26 with esac2hum

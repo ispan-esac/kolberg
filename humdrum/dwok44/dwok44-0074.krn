@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4407400000-siadla_muszka_na_konopek.krn
+!!!OTL: Siadła muszka na konopek
+!!!source: DWOK44
+!!!id: 44074
+!!!signature: 4407400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8ee
+=2
+8ff
+8ee
+8dd
+8cc
+=3
+8dd
+8ee
+8ff
+8ee
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+8dd
+8ee
+=6
+8dd
+8cc
+8b
+8g
+=7
+8b
+8cc
+8dd
+8ee
+=8
+2cc}
+==
+*-
+!!!ONB: Przy robieniu wianka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 117} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 117}
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

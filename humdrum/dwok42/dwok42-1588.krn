@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK42158800000-idac_ja_w_pole.krn
+!!!OTL: Idąc ja w pole
+!!!source: DWOK42
+!!!id: 421588
+!!!signature: 42158800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8.cc
+16a
+4g
+4e
+=2
+8.g
+16g
+8.b
+16g
+4e
+4d}
+!!LO:LB:g=esac
+=3
+{8g
+8a
+8.b
+16b
+4a
+4ee
+=4
+8.dd
+16dd
+8.cc
+16a
+4g
+4g}
+==
+*-
+!!!ONB: wariant w takcie 4: 5_.56_.43__1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=597 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 588} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 588}
+!!!page: 588
+!!!ONB: Converted on 2024/12/26 with esac2hum

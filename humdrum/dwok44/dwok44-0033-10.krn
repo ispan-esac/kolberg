@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK4403300010-my_swojemu_panu_wianycek_uwily.krn
+!!!OTL: My swojemu panu wianycek uwiły
+!!!source: DWOK44
+!!!id: 44033
+!!!signature: 4403300010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8dd
+8cc
+=2
+8cc
+4.b
+=3
+8ff
+8ff
+8ee
+8dd
+=4
+8dd
+4.cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8dd
+=6
+8ee
+4.cc
+=7
+8g
+8g
+8a
+8b
+=8
+8b
+4.cc}
+==
+*-
+!!!ONB: Dożynkowa
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 96} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

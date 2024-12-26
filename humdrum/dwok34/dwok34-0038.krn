@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3403800000-oho_najmy_meni_mamo.krn
+!!!OTL: Oho najmy meni mamo
+!!!source: DWOK34
+!!!id: 34038
+!!!signature: 3403800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+16r
+{16b-
+16a
+16g
+16f
+=1
+8a
+4cc
+=2
+8dd
+8b-
+8g
+=3
+8b-
+8dd
+8cc
+=4
+8.cc
+16a
+8f}
+!!LO:LB:g=esac
+=5
+{8b-
+8a
+16g
+16e
+=6
+8a
+4cc
+=7
+8dd
+8b-
+8dd
+=8
+8cc
+8a
+16g
+16e
+=9
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=44 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 27} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 27}
+!!!page: 27
+!!!ONB: Converted on 2024/12/26 with esac2hum

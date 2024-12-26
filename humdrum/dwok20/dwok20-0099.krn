@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2009900000-dobranoc_dobra_marys_nadobna.krn
+!!!OTL: Dobranoc dobra Maryś nadobna
+!!!source: DWOK20
+!!!id: 20099
+!!!signature: 2009900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+8a
+=2
+8b
+4g
+=3
+8g
+8dd
+8cc
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+8b
+=6
+8cc
+4dd
+=7
+8.cc
+16a
+8g}
+!!LO:LB:g=esac
+=8
+{8cc
+8cc
+8dd
+=9
+8ee
+4cc
+=10
+8ee
+8dd
+16cc
+16a
+=11
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=12
+{8a
+8g
+16a
+16b
+=13
+16cc
+16b
+4dd
+=14
+4cc
+8cc}
+==
+*-
+!!!ONB: W 7 takcie brakuje kropki przy ósemce. Melodia oznaczona jako Waryant
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 146} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 146}
+!!!page: 146
+!!!ONB: Converted on 2024/12/26 with esac2hum

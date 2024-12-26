@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK1700900000-hej_nasza_karczmareczka.krn
+!!!OTL: Hej nasza karczmareczka
+!!!source: DWOK17
+!!!id: 17009
+!!!signature: 1700900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+8cc
+16cc
+16b
+=2
+16cc
+16ee
+8gg
+8gg
+=3
+8aa
+16ff
+16aa
+16ff
+16dd
+=4
+16dd
+16ff
+8aa
+8gg}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8cc
+=6
+16cc
+16ee
+8gg
+8gg
+=7
+8aa
+8ff
+16ff
+16dd
+=8
+16b
+16g
+16b
+16dd
+8cc}
+!!LO:LB:g=esac
+=9
+{16.dd
+32dd
+8ee
+16dd
+16cc#
+=10
+16.dd
+32dd
+8ee
+16dd
+16cc#
+=11
+16dd
+16dd
+8ee
+16dd
+16cc
+=12
+16.aa
+32aa
+8bb
+8cc}
+!!LO:LB:g=esac
+=13
+{8dd
+8ee
+16dd
+16cc#
+=14
+8dd
+8ee
+8dd
+=15
+8dd
+8ee
+16dd
+16cc
+=16
+16b
+16g
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 4} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 4}
+!!!page: 4
+!!!ONB: Converted on 2024/12/26 with esac2hum

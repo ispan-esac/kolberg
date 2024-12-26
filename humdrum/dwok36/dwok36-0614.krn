@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK3661400000-ach_za_horonku.krn
+!!!OTL: Ach za horońku
+!!!source: DWOK36
+!!!id: 36614
+!!!signature: 3661400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8ee
+8dd
+8ee
+16dd
+16b
+=2
+4cc
+4g
+=3
+8cc
+8dd
+4ee
+=4
+8ee
+8dd
+8cc
+8ee
+=5
+4.dd
+8b
+=6
+4g}
+4r
+!!LO:LB:g=esac
+=7
+{8ee
+8dd
+8ee
+16dd
+16b
+=8
+4cc
+4g
+=9
+8g
+8b
+8cc
+16dd
+16ee
+=10
+8cc
+16b
+16a
+8g
+8b
+=11
+4a
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 404
+!!!ONB: Converted on 2024/12/26 with esac2hum

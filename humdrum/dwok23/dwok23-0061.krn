@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2306100000-rochu_swiety_chorych_ludzi.krn
+!!!OTL: Rochu święty chorych ludzi
+!!!source: DWOK23
+!!!id: 23061
+!!!signature: 2306100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4.b
+8cc
+4dd
+4dd
+=2
+4ee
+4ee
+4cc#
+4dd
+=3
+4.b
+8a
+4b
+4dd
+=4
+4ee
+4cc#
+2dd}
+!!LO:LB:g=esac
+=5
+{4.a
+8b
+4cc
+4b
+=6
+4dd
+4b
+4a
+4a
+=7
+4.dd
+8ee
+4cc
+4b
+=8
+4a
+4cc
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 105} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

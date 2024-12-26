@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK27085a0000-ej_dzien_dobry.krn
+!!!OTL: Ej dzień dobry
+!!!source: DWOK27
+!!!id: 27085a
+!!!signature: 27085a0000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16dd
+8cc
+8b-
+=2
+16a
+16b-
+8g
+8f
+=3
+16cc
+16dd
+8cc
+16cc
+16b-
+=
+24g
+24a
+24b-
+8g
+8f}
+!!LO:LB:g=esac
+=4
+{16f
+16a
+8g
+8f
+=5
+16a
+16cc
+8.b-
+16g
+=6
+16f
+16a
+8g
+8f
+=7
+16a
+16cc
+8.b-
+16g}
+!!LO:LB:g=esac
+=8
+{8cc
+16cc
+16c
+8e
+=9
+4.f}
+==
+*-
+!!!ONB: Wprowadzone oznaczenie literowe bo u Kolberga błędna numeracja
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 185} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 185}
+!!!page: 185
+!!!ONB: Converted on 2024/12/26 with esac2hum

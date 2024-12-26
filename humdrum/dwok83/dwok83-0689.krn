@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK8368900000-nad_rzeka_co_bystro_plynie.krn
+!!!OTL: Nad rzeką, co bystro płynie
+!!!source: DWOK83
+!!!id: 83689
+!!!signature: 8368900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+4cc
+4dd
+=2
+8ee
+8cc
+4b
+4a
+=3
+8dd
+8ee
+4ff
+4aa
+=4
+8ee
+8dd#
+4ee
+4ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8ff
+4ee
+4b
+=6
+8dd
+8cc
+4b
+4a
+=7
+8g#
+8b
+4ee
+4ccc
+=8
+8bb
+8gg#
+4aa
+4aa}
+!!LO:LB:g=esac
+=9
+{8bb
+8gg#
+4.ee
+8dd
+=10
+8ff
+8ee
+4cc
+4a
+=11
+8g#
+8b
+4.ff
+8ee
+=12
+8a
+8b
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 48} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 48}
+!!!page: 48
+!!!ONB: Converted on 2024/12/26 with esac2hum

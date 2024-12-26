@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2531300000-a_jakem_ja_kozy_pasal.krn
+!!!OTL: A jakem ja kozy pasał
+!!!source: DWOK25
+!!!id: 25313
+!!!signature: 2531300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16b
+8dd
+8dd
+=2
+16ee
+16ee
+8gg
+8gg
+=3
+16g
+16b
+8dd
+8b
+=4
+16cc
+16cc
+8ee
+8ee}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+16d
+16f#
+16d
+16f#
+=6
+16a
+16cc
+8ee
+8ee
+=7
+16dd
+16dd
+8d
+8f#
+=8
+16a
+16a
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 142} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 142}
+!!!page: 142
+!!!ONB: Converted on 2024/12/26 with esac2hum

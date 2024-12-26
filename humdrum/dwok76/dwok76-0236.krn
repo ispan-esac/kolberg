@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7623600000-co_sie_stalo_we_warszawie.krn
+!!!OTL: Co się stało we Warszawie
+!!!source: DWOK76
+!!!id: 76236
+!!!signature: 7623600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+8ee
+8ee
+=2
+16ff
+16dd
+8dd
+8cc
+=3
+16g
+16cc
+8ee
+8ee
+=4
+16ff
+16b
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8gg
+8gg
+=6
+16ff
+16ee
+8dd
+8cc
+=7
+16cc
+16dd
+8ee
+8ee
+=8
+16ff
+16b
+8dd
+8cc}
+==
+*-
+!!!ONB: Wariant t. 5 +1+3+5_+5+2; t. 6 +5+4+2_+1_;t. 7 +1+2+3_+3+5
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 120} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

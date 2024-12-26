@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK04-K0428a-oj_dziewczyno_kochana.krn
+!!!OTL: Oj dziewczyno kochana
+!!!source: DWOK04
+!!!id: K0428a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16ee
+8dd
+16b
+16g
+=
+24ff#
+24ee
+24ff#
+8aa
+16gg
+16ee
+=2
+16cc
+16ee
+8dd
+16b
+16g
+=3
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=4
+{16cc
+16cc
+8dd
+16b
+16g
+=
+16a
+16a
+8g
+24ee
+24ff#
+24gg
+=5
+16ee
+16ee
+8dd
+16b
+16g
+=6
+16a
+16f#
+4g}
+==
+*-
+!!!ONB: wariant alternatywny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 247} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 247}
+!!!page: 247
+!!!ONB: Converted on 2024/12/26 with esac2hum

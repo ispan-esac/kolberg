@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK1901500001-lecialsa_krzyczalsa.krn
+!!!OTL: Leciałśa, krzyczałśa
+!!!source: DWOK19
+!!!id: 19015
+!!!signature: 1901500001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8cc
+8a
+8.f
+16a
+=2
+16b-
+16a
+4g
+8f
+=3
+8b-
+8cc
+8.dd
+16dd
+=4
+16cc
+16ff
+4ff}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+16dd
+16cc
+8.f
+16a
+=6
+16b-
+16a
+4g
+8a
+=7
+8e
+8g
+8.cc
+16cc
+=8
+8a
+4f}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8.ff
+16gg
+=10
+8ff
+[4ee
+8ee]
+=11
+8dd
+8dd
+8ff
+8dd
+=12
+8dd
+[4cc}
+8cc]
+!!LO:LB:g=esac
+=13
+{8.ff
+16ee
+16dd
+16cc
+16b-
+16a
+=14
+16b-
+16a
+4g
+8f
+=15
+8e
+8g
+8.cc
+16cc
+=16
+8cc
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=23 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 9} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 9}
+!!!page: 9
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK42188500000-coz_za_kara_pana_boga.krn
+!!!OTL: Cóż za kara Pana Boga
+!!!source: DWOK42
+!!!id: 421885
+!!!signature: 42188500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16d
+8b
+8dd
+=2
+16d
+16d
+8b
+8dd
+=3
+16d
+16d
+8.cc
+16b}
+!!LO:LB:g=esac
+=4
+{16a
+16g
+8f#
+8g
+=5
+16f#
+16a
+8.dd
+16cc
+=6
+16b
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=7
+{16f#
+16g
+8a
+8b
+=8
+16a
+16f#
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 275} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 275}
+!!!page: 275
+!!!ONB: Converted on 2024/12/26 with esac2hum

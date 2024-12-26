@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK1925600020-nie_darmo_nie_darmo-instrumentalna.krn
+!!!OTL: Nie darmo, nie darmo-Instrumentalna
+!!!source: DWOK19
+!!!id: 19256
+!!!signature: 1925600020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+4cc
+=2
+16a
+16cc
+8b
+16b
+16dd
+=3
+8g
+4cc
+=4
+16a
+16cc
+8b
+16b
+16g
+=5
+16a
+16cc
+16b
+16dd
+16b
+16g
+=6
+16a
+16cc
+16b
+16dd
+16b
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 79} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 79}
+!!!page: 79
+!!!ONB: Converted on 2024/12/26 with esac2hum

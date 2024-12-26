@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1623900001-poszla_marysia_do_ogroda.krn
+!!!OTL: Poszła Marysia do ogroda
+!!!source: DWOK16
+!!!id: 16239
+!!!signature: 1623900001
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{8a
+8a
+8ff
+=2
+8ee
+4dd
+=3
+8cc
+8a
+8cc
+=4
+8g
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8ff
+=6
+8ee
+4dd
+=7
+8cc
+8a
+8cc
+=8
+8g
+4a}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8b-
+=10
+8a
+4g
+=11
+4cc
+8dd
+=12
+8dd
+8cc
+8a
+=13
+16g
+16a
+8b-
+8b-
+=14
+8a
+4g
+=15
+8cc
+8a
+8cc
+=16
+8g
+4a}
+==
+*-
+!!!ONB: Kolberg podaje błędnie metrum 3/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 207} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 207}
+!!!ONB: Converted on 2024/12/26 with esac2hum

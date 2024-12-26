@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK45185900000-zgasl_ostatni_promien_slonca.krn
+!!!OTL: Zgasł ostatni promień słońca
+!!!source: DWOK45
+!!!id: 451859
+!!!signature: 45185900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8ee
+8ee
+4.ee
+8dd
+=2
+8cc
+8b
+4a
+4cc}
+!!LO:LB:g=esac
+=3
+{8b
+8b
+4.ee
+8b
+=4
+8cc
+8b
+2a}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+4.ee
+8dd
+=6
+8cc
+8b
+4a
+4cc}
+!!LO:LB:g=esac
+=7
+{8b
+8b
+4.ee
+8b
+=8
+8cc
+8b
+2a}
+!!LO:LB:g=esac
+=9
+{4.b
+8e
+8e
+8g#
+=10
+8a
+8a
+4a
+4cc}
+!!LO:LB:g=esac
+=11
+{8b
+8b
+4.ee
+8b
+=12
+8cc
+8b
+2a}
+!!LO:LB:g=esac
+=13
+{8cc
+8ee
+4.ff
+8ee
+=14
+8ee
+8ee
+8.aa
+16ee
+8ff
+8dd}
+!!LO:LB:g=esac
+=15
+{8ee
+8cc
+4cc
+4b
+=16
+8b
+8cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=332 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 318} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 318}
+!!!page: 318
+!!!ONB: Converted on 2024/12/26 with esac2hum

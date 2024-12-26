@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK04-K0132-przyjechalo_trzech_zolnierzy.krn
+!!!OTL: Przyjechalo trzech zolnierzy
+!!!source: DWOK04
+!!!id: K0132
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8ee
+8ff
+8ee
+=2
+8dd
+8cc
+8b
+8g
+=3
+8cc
+8dd
+8ee
+8gg
+=4
+4ff
+4ee}
+!!LO:LB:g=esac
+=5
+{16ff
+16ee
+16dd
+16ee
+8ff
+8ee
+=6
+8dd
+8cc
+8b
+8g
+=7
+8a
+8a
+8b
+8dd
+=8
+4cc
+4b}
+!!LO:LB:g=esac
+=9
+{8cc
+8dd
+8ee
+8gg
+=10
+4ff
+4ee
+=11
+8cc
+8dd
+8ee
+8gg
+=12
+4ff
+4ee}
+!!LO:LB:g=esac
+=13
+{8ee
+8ee
+8ff
+8ee
+=14
+8dd
+8cc
+8b
+8g
+=15
+8a
+8a
+8b
+8dd
+=16
+4cc
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 78} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 78}
+!!!page: 78
+!!!ONB: Converted on 2024/12/26 with esac2hum

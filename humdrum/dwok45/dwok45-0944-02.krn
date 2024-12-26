@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK4594400002-szla_dziewcyna_po_wode.krn
+!!!OTL: Szła dziewcyna po wode
+!!!source: DWOK45
+!!!id: 45944
+!!!signature: 4594400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+{12d
+12g
+12a
+4a
+4g
+=1
+8a
+8b
+2d}
+!!LO:LB:g=esac
+=
+{12d
+12g
+12a
+4b
+4cc
+=2
+4.dd
+8cc
+4b}
+!!LO:LB:g=esac
+=3
+{4.dd
+8b
+8cc
+8a
+=4
+8g
+8b
+2d}
+!!LO:LB:g=esac
+=5
+{8d
+8g
+4a
+4b
+=6
+8cc
+16b
+16f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=20 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 10} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 10}
+!!!page: 10
+!!!ONB: Converted on 2024/12/26 with esac2hum

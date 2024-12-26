@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5601400000-ruska_do_koledy.krn
+!!!OTL: ruska, do kolędy
+!!!source: DWOK56
+!!!id: 56014
+!!!signature: 5601400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8g
+8cc
+8b
+4a
+8f#
+=2
+8g
+8cc
+8b
+4a
+8f#
+=3
+8g
+8f#
+8g
+8a
+16b
+16a
+8g}
+!!LO:LB:g=esac
+=4
+{8g
+8cc
+8b
+4a
+8f#
+=5
+8g
+8cc
+8b
+4a
+8f#
+=6
+8a
+8g
+8f#
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 70} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

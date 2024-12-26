@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3115100000-kazut_myni_handziu_braty.krn
+!!!OTL: Kazut myni Handziu braty
+!!!source: DWOK31
+!!!id: 31151
+!!!signature: 3115100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+8r
+{8b
+8g
+8g
+=2
+8g
+8g
+8g
+8g
+=3
+8g
+8b
+8g
+8g
+=4
+4g
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+16a
+16g#
+16a
+16g#
+=6
+8a
+8a
+8a
+8a
+=7
+8a
+8cc
+16a
+16cc
+16a
+16cc
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 24} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 24}
+!!!page: 24
+!!!ONB: Converted on 2024/12/26 with esac2hum

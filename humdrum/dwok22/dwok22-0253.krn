@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2225300000-a_po_boru_gnal_owcarek.krn
+!!!OTL: A po boru gnał owcarek
+!!!source: DWOK22
+!!!id: 22253
+!!!signature: 2225300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8dd
+=2
+16dd
+16ff#
+8dd
+8a
+=3
+8.dd
+16b
+16dd
+16ee
+=4
+16dd
+16ff#
+8dd
+8a}
+!!LO:LB:g=esac
+=5
+{8.dd
+16b
+16dd
+16ee
+=6
+16dd
+16ff#
+16dd
+16ee
+8cc}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+16b
+16cc
+16dd
+16ee
+=8
+16dd
+16cc
+16a
+16f#
+8d
+=9
+16b
+16b
+16g
+16a
+8f#
+=10
+16.dd
+32cc
+16a
+16f#
+8d}
+!!LO:LB:g=esac
+=11
+{16.b
+32b
+8g
+8f#
+=12
+16.dd
+32cc
+8a
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 145} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 145}
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

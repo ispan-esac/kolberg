@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK3621400002-joj_u_poli_dwi_topoli.krn
+!!!OTL: Joj u poli dwi topoli
+!!!source: DWOK36
+!!!id: 36214
+!!!signature: 3621400002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+{8g
+=1
+8cc
+16dd
+16ff
+8ee
+8dd
+=2
+16cc
+16b
+16cc
+16a
+8g
+8g
+=3
+8cc
+16dd
+16ff
+8ee
+8cc
+=4
+4.g
+8b
+=5
+4.dd
+8b}
+!!LO:LB:g=esac
+=6
+{8cc
+16dd
+16ff
+8ee
+16dd
+16ee
+=7
+16cc
+16b
+16cc
+16a
+8g
+8ff
+=8
+8ee
+16dd
+16ee
+16cc
+16b
+16a
+16a
+=9
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

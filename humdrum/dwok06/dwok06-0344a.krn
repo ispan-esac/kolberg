@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK06-K0344a-w_zielonym_gajiku.krn
+!!!OTL: W zielonym gajiku
+!!!source: DWOK06
+!!!id: K0344a
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+4cc
+8cc
+=2
+8b-
+8a
+4cc
+=3
+8a
+4cc
+8cc
+=4
+8b-
+8a
+4f}
+!!LO:LB:g=esac
+=5
+{8f
+4a
+16b-
+16a
+=6
+8g
+8f
+8.a
+16f
+=7
+8f
+4a
+8b-
+=8
+8g
+8a
+4f}
+!!LO:LB:g=esac
+=9
+{8f
+4a
+8cc
+=10
+8b-
+8a
+16g
+16e
+16g
+16a
+=11
+8f
+4a
+16cc
+16b-
+=12
+16g
+16e
+16g
+16a
+4f}
+!!LO:LB:g=esac
+=13
+{8f
+4a
+8cc
+=14
+8b-
+8a
+8g
+8e
+=15
+16g
+16e
+16g
+16a
+16g
+16e
+16g
+16a
+=16
+16g
+16e
+16g
+16a
+4f}
+==
+*-
+!!!ONB: Wariant alternatywny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 173} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

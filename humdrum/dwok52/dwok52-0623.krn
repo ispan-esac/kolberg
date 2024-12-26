@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK5262300000-sedyt_jaszczur.krn
+!!!OTL: Sedyt Jaszczur
+!!!source: DWOK52
+!!!id: 52623
+!!!signature: 5262300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc#
+=2
+4dd
+4a
+=3
+8dd
+8cc#
+8.b
+16a
+=4
+2b}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc#
+=6
+4dd
+4a
+=7
+8dd
+8cc#
+8.b
+16a
+=8
+2b}
+!!LO:LB:g=esac
+=9
+{4b
+4b
+=10
+4a
+4a
+=11
+4b
+4b
+=12
+4a
+4a}
+!!LO:LB:g=esac
+=13
+{8dd
+8cc#
+8.b
+16f#
+=14
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=462 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 397} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 397}
+!!!page: 397
+!!!ONB: Converted on 2024/12/26 with esac2hum

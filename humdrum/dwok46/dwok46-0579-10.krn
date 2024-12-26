@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4657900010-lubowalem_we_warszawie_dadi_dadi_dadi_dadi_dadi_da.krn
+!!!OTL: Lubowałem we Warszawie, dadi dadi dadi dadi dadi da
+!!!source: DWOK46
+!!!id: 46579
+!!!signature: 4657900010
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16cc
+16cc
+8ee-
+8ee-
+=2
+16dd
+16dd
+8b-
+8b-
+=3
+16f
+16g
+16a
+16b-
+16cc
+16a
+=4
+16b-
+16cc
+16dd
+16ee-
+8ff}
+!!LO:LB:g=esac
+=5
+{16gg
+16ff
+8ee-
+8ee-
+=6
+16dd
+16cc
+8b-
+8b-
+=7
+16f
+16g
+16a
+16b-
+16cc
+16a
+=8
+4.b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=392 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 358-359} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, pp. 358-359}
+!!!page: 358-359
+!!!ONB: Converted on 2024/12/26 with esac2hum

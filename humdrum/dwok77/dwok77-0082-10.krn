@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7708200010-oj_wycian_konik_wycian.krn
+!!!OTL: Oj wyciąn konik wyciąn
+!!!source: DWOK77
+!!!id: 77082
+!!!signature: 7708200010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24g
+24b
+24a
+16b
+16ee
+16dd
+16cc#
+=
+24dd
+24b
+24a
+24cc
+24a
+24b
+16g
+16f#}
+!!LO:LB:g=esac
+=
+{24g
+24b
+24a
+24cc
+24a
+24b
+16dd
+16b
+=
+24g
+24b
+24a
+24cc
+24a
+24b
+16g
+16f#}
+==
+*-
+!!!ONB: Utwór składa się z dwóch części - od 5 taktu część instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 67
+!!!ONB: Converted on 2024/12/26 with esac2hum

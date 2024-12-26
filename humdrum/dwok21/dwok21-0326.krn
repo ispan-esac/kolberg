@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2132600000-dajze_mi_panno_swojej_gebiny.krn
+!!!OTL: Dajze mi panno swojej gębiny
+!!!source: DWOK21
+!!!id: 21326
+!!!signature: 2132600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8ee
+8ee
+8ee
+8dd
+4a
+=2
+8cc
+8cc
+8dd
+8gg
+4ee
+=3
+8ee
+8ee
+8ee
+8dd
+4a
+=4
+8cc
+8cc
+8b
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8e
+8a
+8b
+8dd
+4a
+=6
+8cc
+8cc
+8dd
+8dd
+4ee
+=7
+8ee
+8ee
+8ee
+8dd
+4a
+=8
+8cc
+8cc
+8b
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 131} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 131}
+!!!page: 131
+!!!ONB: Converted on 2024/12/26 with esac2hum

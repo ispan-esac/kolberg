@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK0626900001-karcmarke_mi_raja.krn
+!!!OTL: Karcmarkę mi rają
+!!!source: DWOK06
+!!!id: K0269
+!!!signature: 0626900001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8g
+8e
+8g
+8b-
+=2
+8dd
+4dd
+8cc
+=3
+8a
+8cc
+8dd
+8b-
+=4
+16g
+16e
+4f}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8e
+8g
+8b-
+=6
+16b-
+16dd
+4dd
+8cc
+=7
+16cc
+16a
+8cc
+8dd
+8b-
+=8
+16g
+16e
+4f}
+8r
+!!LO:LB:g=esac
+=9
+{8g
+8g
+8g
+8b-
+=10
+8a
+8a
+8a
+8cc
+=11
+8g
+8g
+8g
+8b-
+=12
+8a
+8f
+8a
+8a}
+!!LO:LB:g=esac
+=13
+{16g
+16e
+8g
+4b-
+=14
+8a
+4cc
+8a
+=15
+8dd
+8cc
+8b-
+8g
+=16
+16g
+16e
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 135} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

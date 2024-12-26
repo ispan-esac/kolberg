@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2549500000-oj_zlapales_mnie_zlapal.krn
+!!!OTL: Oj złapałeś mnie złapał
+!!!source: DWOK25
+!!!id: 25495
+!!!signature: 2549500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8b
+8dd
+=2
+16cc
+16ee
+8dd
+16dd
+16b
+=3
+8cc
+8b
+8dd
+=4
+16cc
+16a
+8g
+8e}
+!!LO:LB:g=esac
+=5
+{8f
+8d
+16d
+16f
+=6
+16f
+16a
+8g
+8e
+=7
+8f
+8e
+8g
+=8
+16d
+16B
+8c
+8c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=224 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 199} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

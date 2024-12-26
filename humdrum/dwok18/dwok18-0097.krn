@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK1809700000-a_hela_hela_staroscicu_panie.krn
+!!!OTL: A hela hela starościcu panie
+!!!source: DWOK18
+!!!id: 18097
+!!!signature: 1809700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8b
+8a
+=2
+4g
+8g
+=3
+16a
+16b
+8cc
+8b
+=4
+8dd
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8a
+=6
+4g
+8cc
+=7
+16b
+16a
+8f#
+8a
+=8
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{8cc
+8b
+8a
+=10
+4g
+8g
+=11
+16e
+16e
+8e
+8a
+=12
+8f#
+4d}
+!!LO:LB:g=esac
+=13
+{8cc
+8b
+8a
+=14
+4g
+8cc
+=15
+16b
+16a
+8f#
+8a
+=16
+8a
+4g}
+==
+*-
+!!!ONB: Z kościoła do karczmy
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 90} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK57152500001-a_brat_i_sestra_sluzyli_u_korola.krn
+!!!OTL: A brat i sestra służyli u korola
+!!!source: DWOK57
+!!!id: 571525
+!!!signature: 57152500001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8e
+8e
+8e
+8g#
+=2
+2a
+=3
+8cc
+8b
+8e
+8e
+=4
+8g
+8f#
+4e}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8g
+8e
+=6
+8d
+4.g
+=7
+8b
+8cc
+8e
+8e
+=8
+8g
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 560
+!!!ONB: Converted on 2024/12/26 with esac2hum

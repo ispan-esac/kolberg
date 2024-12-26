@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK8355200002-a_ja_idu_i_dumaju.krn
+!!!OTL: A ja idu i dumaju
+!!!source: DWOK83
+!!!id: 83552
+!!!signature: 8355200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8dd
+=2
+8ee
+8dd
+8dd
+8cc
+=3
+8cc
+8b
+4b}
+!!LO:LB:g=esac
+=4
+{8b
+8a
+8b
+8cc
+=5
+8cc
+8cc
+8a
+8f#
+=6
+8f#
+8g
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8b
+8b
+=8
+4cc
+8a
+8g
+=9
+8b
+8dd
+4dd}
+!!LO:LB:g=esac
+=10
+{8b
+8b
+8b
+8b
+=11
+4cc
+8a
+8f#
+=12
+8f#
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=447 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 336} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 336}
+!!!page: 336
+!!!ONB: Converted on 2024/12/26 with esac2hum

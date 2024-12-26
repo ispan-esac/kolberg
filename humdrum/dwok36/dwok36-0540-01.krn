@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK3654000001-ponad_berezkom_szowkowa_trawa.krn
+!!!OTL: Ponad bereżkom szowkowa trawa
+!!!source: DWOK36
+!!!id: 36540
+!!!signature: 3654000001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8.e
+16d
+8.e
+16a
+4g#
+=2
+8b
+8b
+16cc
+16b
+16a
+16b
+8g#
+8e
+=3
+16cc
+16b
+8a
+8g#
+8a
+8e
+8cc
+=4
+8b
+8a
+8g#
+8a
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 355
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK57126900000-oj_ty_zywesz_na_horonce.krn
+!!!OTL: Oj, ty żywesz na horońce
+!!!source: DWOK57
+!!!id: 571269
+!!!signature: 57126900000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8g
+16b-
+16a
+4g
+4b-
+=2
+8a
+8f#
+4d
+4d}
+!!LO:LB:g=esac
+=3
+{8g
+16b-
+16a
+8g
+8b-
+8dd
+8b-
+=4
+8a
+8f#
+4d}
+4r
+!!LO:LB:g=esac
+=5
+{8b-
+8b-
+4dd
+8ff
+8dd
+=6
+8cc
+16cc
+16dd
+8cc
+8b-
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{8f#
+16a
+16f#
+4.d
+8f#
+=8
+4g
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 378
+!!!ONB: Converted on 2024/12/26 with esac2hum

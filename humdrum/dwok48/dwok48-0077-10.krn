@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4807700010-przyszed_jasio_do_kasiuni.krn
+!!!OTL: Przyszed Jasio do Kasiuni
+!!!source: DWOK48
+!!!id: 48077
+!!!signature: 4807700010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8d
+8g
+8a
+=2
+8b
+8b
+8b
+8dd
+=3
+8cc
+8cc
+8cc
+8ee
+=4
+8dd
+4.dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8cc
+8ee
+=6
+8dd
+8cc#
+8dd
+8b
+=7
+8a
+8b
+8cc
+8a
+=8
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 139} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 139}
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK5252200000-kalynonku_lamlu.krn
+!!!OTL: Kałynońku łamlu
+!!!source: DWOK52
+!!!id: 52522
+!!!signature: 5252200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+16ee
+16ff#
+8gg
+8ee
+=2
+8dd
+8b
+4g
+=3
+8dd
+16ee
+16ff#
+8gg
+8ee
+=4
+8dd
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8d
+8cc
+8cc
+8cc
+=6
+8g
+8b
+4dd
+=7
+8cc
+8a
+8d
+8f#
+=8
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{8d
+8cc
+8cc
+8cc
+=10
+8g
+8b
+4dd
+=11
+8cc
+8a
+8d
+8f#
+=12
+4g
+4g}
+==
+*-
+!!!ONB: Wariant taktu 8 i ostatniego 1_1_1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=392 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 329} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 329}
+!!!page: 329
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK3611700000-pszenycia_nasza_jaraja.krn
+!!!OTL: Pszenycia nasza jaraja
+!!!source: DWOK36
+!!!id: 36117
+!!!signature: 3611700000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8ee
+4ee
+=2
+8cc
+8b
+4a
+=3
+8b
+8g#
+[4a}
+=4
+2a]
+!!LO:LB:g=esac
+=5
+{4ee
+8ee
+8dd
+=6
+2ee
+=7
+8ff#
+8ee
+4ee
+=8
+16dd
+16cc
+16b
+16cc
+8b
+8g
+=9
+2a}
+!!LO:LB:g=esac
+=10
+{4b
+4ee
+=11
+2ee
+=12
+8ff#
+8ee
+4ee
+=13
+16dd
+16cc
+16b
+16cc
+8b
+8g
+=14
+2a}
+!!LO:LB:g=esac
+=15
+{4b
+4ee
+=16
+2ee
+=17
+8ff#
+8ee
+4ee
+=18
+16dd
+16cc
+16b
+16a
+8b
+8g#
+=19
+4a
+4b}
+!!LO:LB:g=esac
+=20
+{4ee
+8dd
+8a
+=21
+16cc
+16b
+16a
+16g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 67
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3629400000-ne_szumy_luze_ponad_berehamy.krn
+!!!OTL: Ne szumy łuże ponad berehamy
+!!!source: DWOK36
+!!!id: 36294
+!!!signature: 3629400000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+=1
+{8e
+8e
+8e
+8g#
+=2
+4a
+16g#
+8.e
+=3
+8cc
+8cc
+8b
+8a
+=4
+8g#
+8b
+4e}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8b
+8a
+=6
+8g#
+8g#
+8d
+8d
+=7
+8g#
+8g#
+8f#
+8f#
+=8
+4.e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 180
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK41116800001-ej_gospodyni_nasa.krn
+!!!OTL: Ej, gospodyni nasa
+!!!source: DWOK41
+!!!id: 411168
+!!!signature: 41116800001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16dd
+16dd
+8ee
+8cc
+=2
+16b
+16dd
+8ee
+8a}
+!!LO:LB:g=esac
+=3
+{16cc
+16cc
+8ee
+16dd
+16b
+=4
+16dd
+16b
+8g#
+8a}
+!!LO:LB:g=esac
+=5
+{16e
+16e
+8.g#
+16b
+=6
+16dd
+16dd
+8a
+8cc}
+!!LO:LB:g=esac
+=7
+{16e
+16e
+8g#
+8b
+=8
+16dd
+16dd
+8g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=591 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 504} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 504}
+!!!page: 504
+!!!ONB: Converted on 2024/12/26 with esac2hum

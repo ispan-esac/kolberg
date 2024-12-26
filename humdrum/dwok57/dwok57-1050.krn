@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK57105000000-diwczyno_jedyno_zdorowas_bula.krn
+!!!OTL: Diwczyno jedyno, zdorowaś buła
+!!!source: DWOK57
+!!!id: 571050
+!!!signature: 57105000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4cc
+4dd
+4cc
+=2
+4b-
+4dd
+4cc
+=3
+8cc
+8b-
+4a
+4b-
+=4
+4dd
+2cc}
+!!LO:LB:g=esac
+=5
+{4cc
+4dd
+4cc
+=6
+4b-
+4dd
+4cc
+=7
+8b-
+8a
+4.g
+8e
+=8
+4f
+2f}
+!!LO:LB:g=esac
+=9
+{4g
+4g
+4g
+=10
+4a
+4a
+4a
+=11
+4.b-
+8cc
+4cc
+=12
+4dd
+2cc}
+!!LO:LB:g=esac
+=13
+{4cc
+4dd
+4cc
+=14
+4cc
+4dd
+4cc
+=15
+8b-
+8a
+4.g
+8e
+=16
+4f
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

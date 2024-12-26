@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1242400001-czemu_dziewulo_w_dole_stojisz.krn
+!!!OTL: Czemu dziewulo w dole stojisz
+!!!source: DWOK12
+!!!id: 12424
+!!!signature: 1242400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+8ee
+4cc
+=3
+8cc
+4a
+=4
+8b
+4dd}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8b
+=6
+8dd
+4a
+=7
+8cc
+4cc
+=8
+8b
+4dd}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8b
+=10
+8dd
+4a
+=11
+8cc
+4cc
+=12
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 220} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 220}
+!!!page: 220
+!!!ONB: Converted on 2024/12/26 with esac2hum

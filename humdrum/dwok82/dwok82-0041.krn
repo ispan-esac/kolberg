@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK8204100000-juz_to_siodmy_roczek_idzie.krn
+!!!OTL: Już to siódmy roczek idzie
+!!!source: DWOK82
+!!!id: 82041
+!!!signature: 8204100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4ff
+8ee
+8ff
+4cc
+4cc
+=2
+4ff
+8ee
+8ff
+4.cc
+8b-}
+!!LO:LB:g=esac
+=3
+{8a
+8b-
+4cc
+4cc
+8ff
+8ee
+=4
+4.dd
+8b-
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+8cc
+8cc
+8cc
+8a
+4f
+=6
+8b-
+8cc
+8dd
+8dd
+4dd
+8cc
+8b-}
+!!LO:LB:g=esac
+=7
+{4a
+4b-
+4cc
+8ff
+8ee
+=8
+4.dd
+8b-
+4g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 30-31} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, pp. 30-31}
+!!!page: 30-31
+!!!ONB: Converted on 2024/12/26 with esac2hum

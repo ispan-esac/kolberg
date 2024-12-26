@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7773600000-da_dopiero_ja_przyszla.krn
+!!!OTL: Da dopiero ja przyszła
+!!!source: DWOK77
+!!!id: 77736
+!!!signature: 7773600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8b
+8dd
+4ff
+4aa
+=2
+4aa
+4gg
+4gg
+=3
+8gg
+8ff
+4dd
+8b
+8g
+=4
+4b
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4ff
+4ff
+=6
+4ee
+4ee
+4cc
+=7
+8ee
+8ff
+4dd
+8b
+8g
+=8
+4b
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 368
+!!!ONB: Converted on 2024/12/26 with esac2hum

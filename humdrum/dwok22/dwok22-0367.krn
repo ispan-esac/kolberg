@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2236700000-na_kujawy_patrz_koniu_moj.krn
+!!!OTL: Na Kujawy patrz koniu mój
+!!!source: DWOK22
+!!!id: 22367
+!!!signature: 2236700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8a
+16cc
+16ee
+=
+24cc
+24b
+24a
+8cc
+16ee
+16ff#
+=2
+8ee
+8dd
+16cc
+16ee
+=
+24dd
+24cc
+24a
+8g
+8a}
+!!LO:LB:g=esac
+=3
+{8g
+8a
+16a
+16cc
+=4
+16b
+16a
+8dd
+8a
+=5
+8g
+8a
+16a
+16ee
+=6
+16cc
+16a
+8g
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 195} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 195}
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

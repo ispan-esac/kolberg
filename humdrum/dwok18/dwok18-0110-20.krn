@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK1811000020-w_stodole_w_stodole.krn
+!!!OTL: W stodole w stodole
+!!!source: DWOK18
+!!!id: 18110
+!!!signature: 1811000020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8e
+8f#
+=2
+8f#
+8g
+8a
+=3
+8b
+8g
+8f#
+=4
+8d
+4d}
+!!LO:LB:g=esac
+=5
+{8d
+8e
+8f#
+=6
+8f#
+8g
+8a
+=7
+16b
+16cc
+8dd
+16cc
+16f#
+=8
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 94} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 94}
+!!!page: 94
+!!!ONB: Converted on 2024/12/26 with esac2hum

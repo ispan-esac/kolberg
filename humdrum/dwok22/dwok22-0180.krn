@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2218000000-oj_i_matulinka_moja.krn
+!!!OTL: Oj i matulinka moja
+!!!source: DWOK22
+!!!id: 22180
+!!!signature: 2218000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8b
+8dd
+=2
+16cc
+16b
+8dd
+8a
+=3
+16a
+16g
+8b
+8dd
+=4
+16cc
+16b
+8g
+8d}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8b
+8d
+=6
+16cc
+16b
+8g
+8d
+=7
+16f#
+16g
+8b
+8dd
+=8
+16cc
+16b
+8g
+8d}
+==
+*-
+!!!ONB: Obertas
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 111} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3611000001-ohlan_sia_ta_horpyno.krn
+!!!OTL: Ohlań sia ta Horpyno
+!!!source: DWOK36
+!!!id: 36110
+!!!signature: 3611000001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8ee
+=2
+16dd
+16cc
+16b
+16cc
+4b
+=3
+8b
+8cc
+4ee
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8ff
+8ee
+8b
+=6
+8ee
+8ee
+16dd
+16a
+16b
+16ee
+=7
+4r
+8ee
+8dd
+=8
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 63-64
+!!!ONB: Converted on 2024/12/26 with esac2hum

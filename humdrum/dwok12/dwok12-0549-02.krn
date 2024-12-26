@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1254900002-nie_powiadaj_przed_owczarczykiem.krn
+!!!OTL: Nie powiadaj przed owczarczykiem
+!!!source: DWOK12
+!!!id: 12549
+!!!signature: 1254900002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+16ee
+16cc
+=2
+4ee
+16dd
+16b
+=3
+8g#
+8b
+8dd
+=4
+32b
+16.cc
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+32cc
+16.a
+32cc
+16.a
+=6
+4b
+8g#
+=7
+8e
+8g#
+32b
+16.dd
+=8
+32b
+16.cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 282} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 282}
+!!!page: 282
+!!!ONB: Converted on 2024/12/26 with esac2hum

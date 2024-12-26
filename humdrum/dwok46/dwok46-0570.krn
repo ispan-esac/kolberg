@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK4657000000-pieknas_panno_piekna_podobnas_do_rozy.krn
+!!!OTL: Pięknaś, panno, piękna, podobnaś do róży
+!!!source: DWOK46
+!!!id: 46570
+!!!signature: 4657000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16cc
+8e
+8f
+=2
+8a
+4g
+=3
+16cc
+16cc
+8e
+8f
+=4
+16a
+16g
+4g}
+!!LO:LB:g=esac
+=5
+{8.g
+16b
+16dd
+16ff
+=6
+16ee
+16b
+8cc
+8ee
+=7
+16b
+16b
+8.b
+16b
+=8
+8cc
+4cc}
+!!LO:LB:g=esac
+=9
+{8.g
+16b
+16dd
+16ff
+=10
+16ee
+16b
+8cc
+8ee
+=11
+16b
+16b
+8.b
+16b
+=12
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=386 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 352} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 352}
+!!!page: 352
+!!!ONB: Converted on 2024/12/26 with esac2hum

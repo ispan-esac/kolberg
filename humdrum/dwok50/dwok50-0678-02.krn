@@ -1,0 +1,117 @@
+!!!!SEGMENT: DWOK5067800002-instrumentalna_-_horniak.krn
+!!!OTL: Instrumentalna - Horniak
+!!!source: DWOK50
+!!!id: 50678
+!!!signature: 5067800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.dd
+16cc
+8dd
+8ee
+=2
+16dd
+16ee
+16dd
+16cc#
+8dd
+8ee
+=3
+16dd
+16ee
+16dd
+16cc#
+8dd
+8ee
+=4
+4dd
+4cc#}
+!!LO:LB:g=esac
+=5
+{8g
+16a
+16g
+8b
+16a
+16f#
+=6
+8g
+8b
+16b
+16a
+16b
+16dd
+=7
+8cc
+16cc
+16g
+8b
+16a
+16f#
+=8
+4g
+4d}
+!!LO:LB:g=esac
+=9
+{4g
+16b
+16a
+16b
+16dd
+=10
+8cc
+16cc
+16b
+16cc
+16b
+16a
+16g
+=11
+8g
+8b
+16b
+16a
+16b
+16dd
+=12
+4cc
+16b
+16a
+8g}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+16a
+16cc
+16b
+16a
+=14
+8g
+16g
+16f#
+8g
+16b
+16a
+=15
+8g
+16a
+16g
+16a
+16cc
+16b
+16a
+=16
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=443 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 410} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 410}
+!!!page: 410
+!!!ONB: Converted on 2024/12/26 with esac2hum

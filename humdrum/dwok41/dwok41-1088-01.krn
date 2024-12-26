@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK41108800001-poszla_zosia_na_jagody.krn
+!!!OTL: Poszła Zosia na jagody
+!!!source: DWOK41
+!!!id: 411088
+!!!signature: 41108800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8g
+8b
+=2
+16dd
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=3
+{16gg
+16gg
+8ff#
+8aa
+=4
+4gg
+8g}
+!!LO:LB:g=esac
+=5
+{16gg
+16gg
+8ff#
+8aa
+=6
+4gg
+8g}
+!!LO:LB:g=esac
+=7
+{16gg
+16gg
+8ff#
+8a
+=8
+16ee
+16ee
+8dd
+8g}
+!!LO:LB:g=esac
+=9
+{8b
+16b
+16a
+16cc
+16ee
+=10
+16dd
+16dd
+4b}
+!!LO:LB:g=esac
+=11
+{16a
+16a
+8cc
+8b
+=12
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=548 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 461} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 461}
+!!!page: 461
+!!!ONB: Converted on 2024/12/26 with esac2hum

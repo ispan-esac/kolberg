@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3654500002-pasla_kasia_woly_kony.krn
+!!!OTL: Pasła Kasia woły kony
+!!!source: DWOK36
+!!!id: 36545
+!!!signature: 3654500002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8g
+8b
+4g
+8G
+16f
+16d
+=2
+8ee
+8ee
+8ee
+8dd
+16ee
+16dd
+8cc
+=3
+16b
+16g
+8a
+4g
+4g
+=4
+8dd
+8ee
+16dd
+16cc
+16b
+16cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{4f
+4g
+8cc
+8dd
+=6
+8ee
+16dd
+16cc
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 360
+!!!ONB: Converted on 2024/12/26 with esac2hum

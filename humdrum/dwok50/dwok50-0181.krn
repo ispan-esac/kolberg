@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5018100000-ide_woda_z_baligroda.krn
+!!!OTL: Ide woda z Baligroda
+!!!source: DWOK50
+!!!id: 50181
+!!!signature: 5018100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+4b
+4cc
+=2
+8dd
+8dd
+4ee
+4cc
+=3
+8a
+8a
+4a
+4cc
+=4
+2dd
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4b
+4cc
+=6
+8dd
+8dd
+4ee
+4cc
+=7
+8a
+8a
+4d
+4f#
+=8
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 83} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

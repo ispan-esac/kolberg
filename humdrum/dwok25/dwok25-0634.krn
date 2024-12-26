@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2563400000-oj_dobrze_temu_dobrze.krn
+!!!OTL: Oj dobrze temu dobrze
+!!!source: DWOK25
+!!!id: 25634
+!!!signature: 2563400000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8e
+8g#
+8a
+=2
+16b
+16b
+8cc#
+8a
+=3
+16b
+16dd
+8ff#
+8ee
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+8a
+=
+24b
+24g#
+24b
+8cc#
+8a
+=6
+16b
+16dd
+8cc#
+8a
+=7
+8f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 232} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 232}
+!!!page: 232
+!!!ONB: Converted on 2024/12/26 with esac2hum

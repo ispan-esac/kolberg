@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK3648800000-bidna_moja_holowonka.krn
+!!!OTL: Bidna moja hołowońka
+!!!source: DWOK36
+!!!id: 36488
+!!!signature: 3648800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+16cc
+16b
+4a
+8g
+8dd
+=2
+4cc
+8a
+8dd
+8cc
+8cc
+=3
+8g
+8g
+8a
+8f#
+4g
+=4
+8cc
+8b
+8a
+8b
+8cc
+8ee
+=5
+8dd
+8dd
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 317
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK3104400000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK31
+!!!id: 31044
+!!!signature: 3104400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4ee
+4ee
+=2
+4ee
+4ee
+=3
+16dd#
+16ee
+16ff#
+16ee
+16ee
+16dd#
+16cc
+16b
+=4
+4dd
+4ee
+=5
+16dd#
+16ee
+16ff#
+16ee
+16ee
+16dd#
+16cc
+16b
+=6
+4a
+4e}
+!!LO:LB:g=esac
+=7
+{8a
+16dd#
+16cc
+16cc
+16b
+16b
+16a
+=8
+4cc
+4ee
+=9
+8a
+16dd#
+16cc
+16cc
+16b
+16b
+16a
+=10
+4a
+4e}
+!!LO:LB:g=esac
+=11
+{8a
+8dd#
+16cc
+16b
+16b
+16a
+=12
+4cc
+4ee
+=13
+8a
+8dd#
+16cc
+16b
+16b
+16a
+=14
+4a
+4e}
+==
+*-
+!!!ONB: Instrumentalna-Z hory
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 14} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 14}
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

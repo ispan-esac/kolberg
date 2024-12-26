@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK1643900000-a_beben_bija_skrzypce_graja.krn
+!!!OTL: A bęben biją, skrzypce grają
+!!!source: DWOK16
+!!!id: 16439
+!!!signature: 1643900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4ee
+4cc
+=2
+8cc
+8ee
+4gg
+4ee
+=3
+8cc
+8ff
+4ee
+4g
+=4
+8a
+8b
+4cc
+4a
+=5
+8cc
+8ff
+4ee
+4g
+=6
+8a
+8b
+4cc
+4a}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+4ee
+4cc
+=8
+8cc
+8ee
+4gg
+8ee
+8dd
+=9
+8cc
+8ff
+4ee
+4g
+=10
+8a
+8b
+4cc
+8b
+8a
+=11
+8cc
+8ff
+4ee
+4g
+=12
+8a
+8b
+4cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 272} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 272}
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK1203200000-gdym_ja_jachal_do_krakowa.krn
+!!!OTL: Gdym ja jachał do Krakowa
+!!!source: DWOK12
+!!!id: 12032
+!!!signature: 1203200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8cc
+8ee
+8ee
+=2
+8dd
+8b
+8g
+8g
+=3
+8f#
+8a
+8d
+8d
+=4
+4g
+4dd}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8ee
+8ee
+=6
+8dd
+16dd
+16b
+8g
+8g
+=7
+8f#
+8a
+8d
+8d
+=8
+4g
+4dd}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+4cc
+=10
+8dd
+8b
+4b
+=11
+8f#
+8a
+8d
+8d
+=12
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=32 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 16} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

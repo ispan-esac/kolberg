@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK57208700000-miesiac_swieci_w_okno_moje.krn
+!!!OTL: Miesiąc swieci w okno moje
+!!!source: DWOK57
+!!!id: 572087
+!!!signature: 57208700000
+**kern
+*clefG2
+*k[b-]
+*F:
+=1
+*M3/4
+{8cc
+8cc
+4a
+4ff
+=2
+*M2/4
+8dd
+8dd
+8dd
+8dd}
+!!LO:LB:g=esac
+=3
+*M3/4
+{8dd
+8cc
+4a
+4cc
+=4
+*M2/4
+8b-
+8b-
+8g
+8b-}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8a
+8cc
+4ff
+4aa
+=6
+8gg
+8gg
+4ee
+4ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1145
+!!!ONB: Converted on 2024/12/26 with esac2hum

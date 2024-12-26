@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1634100001-szczesliwa_nam_dzis_sobotenka.krn
+!!!OTL: Szczęśliwa nam dziś Soboteńka
+!!!source: DWOK16
+!!!id: 16341
+!!!signature: 1634100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+4dd
+=2
+8cc
+4b
+=3
+8dd
+8dd
+8ee
+=4
+8dd
+8cc
+8b
+=5
+8dd
+4b
+=6
+4g}
+8r
+!!LO:LB:g=esac
+=7
+{8b
+4dd
+=8
+8cc
+4b
+=9
+8a
+8g
+8b
+=10
+8dd
+8cc
+8b
+=11
+8dd
+4b
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 236} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 236}
+!!!ONB: Converted on 2024/12/26 with esac2hum

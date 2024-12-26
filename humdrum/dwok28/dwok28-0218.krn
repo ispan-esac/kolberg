@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2821800000-w_ciemnym_lasku_ptaszek_spiewa.krn
+!!!OTL: W ciemnym lasku ptaszek śpiewa
+!!!source: DWOK28
+!!!id: 28218
+!!!signature: 2821800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4f
+4cc
+=2
+8cc
+8ff
+4cc
+4cc
+=3
+8b-
+8a
+4f
+4f
+=4
+8b-
+8a
+4f
+4c}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+8f
+16a
+16b-
+4cc
+=6
+8cc
+8ff
+8cc
+8dd
+4cc
+=7
+8b-
+16b-
+16a
+8f
+8g
+8f
+8cc
+=8
+8b-
+8a
+8f
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 241} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK02-K0122-nie_ma_marysi.krn
+!!!OTL: Nie ma Marysi
+!!!source: DWOK02
+!!!id: K0122
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8a
+8b
+=2
+4cc
+8b
+=3
+8dd
+8dd
+8cc
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+=6
+8cc
+8b
+8dd
+=7
+4.cc
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8b
+=10
+4cc
+8b
+=11
+16dd
+16dd
+8cc
+8b
+=12
+8a
+4g}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+8b
+=14
+8cc
+8b
+8dd
+=15
+4.cc
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 90} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2220300000-u_mlynarza_dolnego.krn
+!!!OTL: U młynarza dolnego
+!!!source: DWOK22
+!!!id: 22203
+!!!signature: 2220300000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8f
+8g
+8a
+8b-
+=2
+4cc
+4dd
+=3
+2b-
+=4
+8dd
+8cc
+8dd
+8ee-
+=5
+4ff
+4gg
+=6
+2cc}
+!!LO:LB:g=esac
+=7
+{4ff
+4dd
+=8
+4ee-
+4cc
+=9
+8dd
+8ff
+4b-
+=10
+8a
+8cc
+4f}
+!!LO:LB:g=esac
+=11
+{8a
+8a
+8a
+8a
+=12
+4b-
+8a
+8cc
+=13
+8a
+8a
+8a
+8a
+=14
+4b-
+4cc
+=15
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 121} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 121}
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

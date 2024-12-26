@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1927700000-a_ja_sobie_z_gory_jade.krn
+!!!OTL: A ja sobie z góry jadę
+!!!source: DWOK19
+!!!id: 19277
+!!!signature: 1927700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16b
+16dd
+8cc
+8ee
+=2
+16dd
+16dd
+8dd
+8cc
+=3
+16ee
+16gg
+8ff
+8ee
+=4
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8cc
+8b
+=6
+8cc
+8a
+8f
+=7
+16g
+16a
+8b
+8b
+=8
+8b
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=99 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 85} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK3902700000-po_cozes_me_matulenku_za_maz_wydala.krn
+!!!OTL: Po cożeś mę matuleńku, za mąż wydała
+!!!source: DWOK39
+!!!id: 39027
+!!!signature: 3902700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8dd
+4ee
+4ee
+=2
+8aa
+8ee
+4dd
+4ee
+=3
+8cc
+8cc
+4b
+4ee
+=4
+2.a}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4ee
+4ee
+=6
+8aa
+8ee
+4dd
+4ee
+=7
+8cc
+8cc
+4b
+4ee
+=8
+2.a}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc
+4.b
+8a
+=10
+8cc
+8dd
+4ee
+4ee}
+!!LO:LB:g=esac
+=11
+{8dd
+8cc
+4.b
+8a
+=12
+8cc
+8dd
+4ee
+4ee}
+!!LO:LB:g=esac
+=13
+{8dd
+8cc
+4b
+4ee
+=14
+2.a}
+==
+*-
+!!!ONB: Przy przenosinach
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 98} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

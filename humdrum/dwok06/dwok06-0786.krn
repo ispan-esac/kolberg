@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK06-K0786-o_lu_lu_husiu_i_no_husiu.krn
+!!!OTL: O lu lu husiu i no husiu
+!!!source: DWOK06
+!!!id: K0786
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+8b
+8cc
+=2
+4dd
+4b
+=3
+4dd
+8dd
+8b
+=4
+8b
+16dd
+16cc
+4a}
+!!LO:LB:g=esac
+=5
+{4g
+4cc
+=6
+8b
+8dd
+8a
+8a
+=7
+4g
+4cc
+=8
+8b
+8dd
+4a}
+!!LO:LB:g=esac
+=9
+{4g
+8b
+8cc
+=10
+8dd
+16ee
+16dd
+8b
+8cc
+=11
+4dd
+4dd
+=12
+8b
+16dd
+16cc
+4a}
+!!LO:LB:g=esac
+=13
+{4g
+4cc
+=14
+16b
+16dd
+16b
+16g
+8a
+8a
+=15
+8g
+8b
+8a
+8cc
+=16
+16b
+16dd
+16b
+16g
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=501 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 475} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 475}
+!!!page: 475
+!!!ONB: Converted on 2024/12/26 with esac2hum

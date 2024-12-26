@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK4155000002-o_slicne_laki_o_slicne_krzaki.krn
+!!!OTL: O ślicne łąki, o ślicne krzaki
+!!!source: DWOK41
+!!!id: 41550
+!!!signature: 4155000002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+4cc
+=2
+8b-
+8a
+8g
+=3
+8cc
+4cc
+=4
+8b-
+8a
+8g
+=5
+8a
+8a
+8b-
+=6
+4cc
+8b-
+=7
+8a
+8cc
+8g
+=8
+4g
+8f}
+!!LO:LB:g=esac
+=9
+{8g
+4g
+=10
+8b-
+8a
+8g
+=11
+8a
+4a
+=12
+8cc
+8b-
+8a
+=13
+8a
+8a
+8b-
+=14
+4cc
+8b-
+=15
+8a
+8cc
+8g
+=16
+4g
+8f}
+!!LO:LB:g=esac
+=17
+{8g
+4g
+=18
+8b-
+8a
+8g
+=19
+8a
+4a
+=20
+8cc
+8b-
+8a
+=21
+8a
+8a
+8b-
+=22
+4cc
+8b-
+=23
+8a
+8cc
+8g
+=24
+4g
+8f}
+==
+*-
+!!!ONB: Śpiew wieśniaków czerniakowskich
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=371 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 288} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 288}
+!!!page: 288
+!!!ONB: Converted on 2024/12/26 with esac2hum

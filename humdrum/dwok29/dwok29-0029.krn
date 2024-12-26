@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK2902900000-de_ty_malanko_buwala.krn
+!!!OTL: De ty Małanko buwała
+!!!source: DWOK29
+!!!id: 29029
+!!!signature: 2902900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8a
+8b
+4cc
+4b
+4g
+=2
+4a
+4f#
+2g
+=3
+4a
+4f#
+2g}
+!!LO:LB:g=esac
+=4
+{8a
+8b
+4cc
+4b
+4g
+=5
+4a
+4f#
+2g
+=6
+4a
+4f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 122} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 122}
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

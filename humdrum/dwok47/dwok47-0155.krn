@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK4715500000-koly_lubysz_luby_duze.krn
+!!!OTL: Koły lubysz, luby duże
+!!!source: DWOK47
+!!!id: 47155
+!!!signature: 4715500000
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M2/4
+=1
+{8.dd
+16ff#
+16ee
+16dd
+16cc#
+16b
+=2
+8dd
+8dd
+16cc#
+16a#
+8b}
+!!LO:LB:g=esac
+=3
+{8.dd
+16ff#
+16ee
+16dd
+16cc#
+16b
+=4
+8dd
+8dd
+16cc#
+16a#
+8b}
+!!LO:LB:g=esac
+=5
+{8.a#
+16f#
+16dd
+16cc#
+8b
+=6
+8cc#
+8ff#
+16dd
+16cc#
+8b}
+!!LO:LB:g=esac
+=7
+{8.a#
+16f#
+16dd
+16cc#
+8b
+=8
+16a#
+16f#
+8a#
+8b
+8b}
+!!LO:LB:g=esac
+=9
+{8.a#
+16f#
+16dd
+16cc#
+8b
+=10
+8cc#
+8ff#
+16dd
+16cc#
+8b}
+!!LO:LB:g=esac
+=11
+{8.a#
+16f#
+16dd
+16cc#
+8b
+=12
+16a#
+16f#
+8a#
+8b
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 154} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 154}
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

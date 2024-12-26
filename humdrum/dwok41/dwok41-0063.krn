@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4106300000-z_tamtej_strony_jezioreczka.krn
+!!!OTL: Z tamtej strony jezioreczka
+!!!source: DWOK41
+!!!id: 41063
+!!!signature: 4106300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+{12d
+12f#
+12a
+4d
+4dd
+=1
+8dd
+8b
+4a
+4g}
+!!LO:LB:g=esac
+=
+{12d
+12f#
+12a
+4d
+4f#
+=2
+8g
+8g
+4b
+4g}
+!!LO:LB:g=esac
+=
+{12d
+12f#
+12a
+4d
+4f#
+=3
+8g
+8g
+4b
+4dd}
+!!LO:LB:g=esac
+=
+{12d
+12f#
+12a
+4d
+4f#
+=4
+8g
+8g
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 57} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

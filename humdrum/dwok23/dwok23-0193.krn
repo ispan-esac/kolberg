@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2319300000-nie_chciala_we_wianeczku_chodzic.krn
+!!!OTL: Nie chciała we wianeczku chodzić
+!!!source: DWOK23
+!!!id: 23193
+!!!signature: 2319300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8cc
+=2
+8cc
+8ee
+8ee
+=
+8cc
+8ee
+24dd
+24cc
+24b
+=3
+8a
+4g}
+!!LO:LB:g=esac
+=4
+{8a
+8cc
+8b
+=5
+8a
+8cc
+8b
+=6
+8a
+8cc
+16dd
+16b
+=7
+16a
+16g#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 181} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 181}
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

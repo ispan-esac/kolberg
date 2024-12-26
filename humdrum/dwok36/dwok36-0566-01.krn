@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK3656600001-czy_ne_baczyly_czy_ne_wydaly.krn
+!!!OTL: Czy ne baczyły czy ne wydały
+!!!source: DWOK36
+!!!id: 36566
+!!!signature: 3656600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8b
+=2
+4a
+8g
+=3
+8b
+8b
+8b
+=4
+4a
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+=6
+4a
+8cc
+=7
+4b
+8a
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8b
+=10
+4a
+8f#
+=11
+8g
+4a
+=12
+4b
+8g}
+!!LO:LB:g=esac
+=13
+{8b
+8b
+8b
+=14
+4a
+8cc
+=15
+8b
+4a
+=16
+4g
+8d}
+==
+*-
+!!!ONB: W publikacji jest numer 366 zapisano poprawnie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 380-381
+!!!ONB: Converted on 2024/12/26 with esac2hum

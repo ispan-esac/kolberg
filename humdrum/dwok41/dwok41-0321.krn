@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4132100000-masz_mnie_kochac_kochaj_stale.krn
+!!!OTL: Masz mnie kochać, kochaj stale
+!!!source: DWOK41
+!!!id: 41321
+!!!signature: 4132100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8b
+4dd
+4ff
+=2
+8aa
+8gg
+4ee
+4cc
+=3
+8ee
+8ff
+4dd
+4a
+=4
+8b
+8cc
+4a
+4f}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4.dd
+8g
+=6
+8b
+8cc
+4.dd
+8cc
+=7
+8ee
+8ff
+4.dd
+8a
+=8
+8dd
+8cc
+4a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 190-191} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 190-191}
+!!!page: 190-191
+!!!ONB: Converted on 2024/12/26 with esac2hum

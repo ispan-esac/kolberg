@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK5061200000-wierzba_smutna_u_jeziora.krn
+!!!OTL: Wierzba smutna u jeziora
+!!!source: DWOK50
+!!!id: 50612
+!!!signature: 5061200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4.ee
+8dd#
+=2
+8ee
+8dd#
+8ee
+8cc
+4a
+=3
+4.b
+8ee
+16dd
+16cc
+16b
+16a
+=4
+8g#
+16f#
+16g#
+4a}
+4r
+!!LO:LB:g=esac
+=5
+{4.g
+8ff
+8ee
+8ff
+=6
+4ee
+4ee
+4r
+=7
+4.dd
+8dd
+16ee
+16cc
+8a}
+!!LO:LB:g=esac
+=8
+{4.b
+8ee
+16dd
+16cc
+16b
+16a
+=9
+8g#
+16f#
+16g#
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=395 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 362} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 362}
+!!!page: 362
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK3408300000-oj_wbyta_dorozenka_wbyta.krn
+!!!OTL: Oj wbyta dorożeńka wbyta
+!!!source: DWOK34
+!!!id: 34083
+!!!signature: 3408300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{2dd
+=2
+8cc
+8ee
+8dd
+8cc
+=3
+8cc
+8ee
+8dd
+8b
+=4
+8cc
+8a
+4e}
+!!LO:LB:g=esac
+=5
+{8e
+8g
+8a
+8g
+=6
+8cc
+8ee
+8dd
+8b
+=7
+8cc
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 54} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 54}
+!!!page: 54
+!!!ONB: Converted on 2024/12/26 with esac2hum

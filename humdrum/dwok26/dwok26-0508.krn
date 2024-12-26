@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2650800000-oj_pognala_marysia.krn
+!!!OTL: Oj pognała Marysia
+!!!source: DWOK26
+!!!id: 26508
+!!!signature: 2650800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16b
+16dd#
+8ee
+8cc
+=2
+16a
+16f
+8e
+8d
+=3
+16f#
+16a
+8b
+8b
+=4
+16a
+16f
+8e
+8d}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8b
+8b
+=6
+16b
+16dd#
+8ee
+8cc
+=7
+16a
+16a
+8b
+8b
+=8
+16a
+16f
+8e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 324
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK8350900000-oj_cym_to_pole_peka.krn
+!!!OTL: Oj, cym to póle pęka
+!!!source: DWOK83
+!!!id: 83509
+!!!signature: 8350900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4.b
+8a
+=2
+8cc
+8b
+4a
+4g
+=3
+4a
+2a
+=4
+8g
+8f#
+4e
+4d}
+!!LO:LB:g=esac
+=5
+{8d
+8e
+4f#
+4g
+=6
+4cc
+2a
+=7
+8b
+8g
+2f#
+=8
+4e
+4e
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=404 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 293} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 293}
+!!!page: 293
+!!!ONB: Converted on 2024/12/26 with esac2hum

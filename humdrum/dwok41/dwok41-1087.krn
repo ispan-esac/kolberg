@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK41108700000-z_tamtej_strony.krn
+!!!OTL: Z tamtej strony
+!!!source: DWOK41
+!!!id: 411087
+!!!signature: 41108700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8a
+8a
+4cc
+4cc
+=2
+4b
+2dd
+=3
+8a
+8cc
+4.ee
+8cc
+=4
+4b
+2g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+4.cc
+8a
+=6
+8g
+8g
+4cc
+4e
+=7
+8g
+8g
+4.f
+8d
+=8
+8e
+8f
+2g}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+4.cc
+8a
+=10
+8g
+8g
+4cc
+4e
+=11
+8g
+8g
+4.f
+8d
+=12
+8d
+8e
+2c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=547 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 460} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 460}
+!!!page: 460
+!!!ONB: Converted on 2024/12/26 with esac2hum

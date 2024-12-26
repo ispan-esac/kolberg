@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1008800000-w_stodole_swita_w_progu_dzien.krn
+!!!OTL: W stodole świta w progu dzień
+!!!source: DWOK10
+!!!id: 10088
+!!!signature: 1008800000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8f
+8b-
+8cc
+=2
+8dd
+8cc
+8b-
+=3
+4ff
+8ee
+=4
+4ff}
+8r
+!!LO:LB:g=esac
+=5
+{8f
+8b-
+8cc
+=6
+8dd
+8cc
+8b-
+=7
+4ff
+8ee
+=8
+4ff}
+8r
+!!LO:LB:g=esac
+=9
+{8ff
+8ff
+8gg
+=10
+8ee-
+8ee-
+16ff
+16ee-
+=11
+16dd
+16cc
+8dd
+8ee-
+=12
+8cc
+8cc
+16ff
+16ee-}
+!!LO:LB:g=esac
+=13
+{4dd
+8cc
+=14
+4b-}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 243} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 243}
+!!!page: 243
+!!!ONB: Converted on 2024/12/26 with esac2hum

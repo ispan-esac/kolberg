@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK3637600000-posadzu_ja_wynohradu.krn
+!!!OTL: Posadżu ja wynohradu
+!!!source: DWOK36
+!!!id: 36376
+!!!signature: 3637600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4ee
+8dd#
+8ff#
+=2
+16ee
+16dd#
+8cc
+4b
+8cc
+8b
+=3
+8a
+8cc
+4ee
+8dd#
+8ff#
+=4
+16ee
+16dd
+8cc
+4b}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+8b
+8cc
+8b
+=6
+8a
+8g#
+4e
+8g#
+8a
+=7
+8cc
+8ee
+8dd
+8b
+8cc
+8b
+=8
+8a
+16g#
+16f#
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

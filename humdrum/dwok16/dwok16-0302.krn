@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1630200000-trzeba_jej_dac_na_garnusek.krn
+!!!OTL: Trzeba jej dać na garnusek
+!!!source: DWOK16
+!!!id: 16302
+!!!signature: 1630200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc
+8ee
+8dd
+=2
+16cc
+16a
+8g
+8a}
+!!LO:LB:g=esac
+=3
+{16a
+16cc
+8ee
+8dd
+=4
+16cc
+16a
+16g
+16f#
+16a
+16cc}
+!!LO:LB:g=esac
+=5
+{16a
+16f#
+8g
+8a
+=6
+16a
+16f#
+8g
+8a}
+!!LO:LB:g=esac
+=7
+{16a
+16f#
+8g
+16a
+16f#
+=8
+16a
+16f#
+8g
+16a
+16cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 225} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 225}
+!!!ONB: Converted on 2024/12/26 with esac2hum

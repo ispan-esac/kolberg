@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK4817500001-o_ktorej_berla.krn
+!!!OTL: O, której berła
+!!!source: DWOK48
+!!!id: 48175
+!!!signature: 4817500001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8a
+8b
+=2
+4cc
+4cc
+=3
+8b
+8dd
+8b
+8g
+=4
+4ee
+4cc}
+!!LO:LB:g=esac
+=5
+{4cc
+8dd
+8ee
+=6
+4gg
+4ff
+=7
+8ff
+8ff
+8ee
+8cc
+=8
+4ee
+4dd}
+!!LO:LB:g=esac
+=9
+{4g
+8g
+8g
+=10
+8.ff
+16ee
+4dd
+=11
+8g
+8g
+8a
+8g
+=12
+4ee
+4cc}
+!!LO:LB:g=esac
+=13
+{4cc
+8b
+8a
+=14
+4g
+4gg
+=15
+8ee
+8gg
+8ff
+8b
+=16
+4dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 211} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 211}
+!!!page: 211
+!!!ONB: Converted on 2024/12/26 with esac2hum

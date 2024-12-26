@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK1648000002-stala_na_sie_nowina_pani_pana_zabila.krn
+!!!OTL: Stała na się nowina pani pana zabiła
+!!!source: DWOK16
+!!!id: 16480
+!!!signature: 1648000002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8a
+8cc
+=2
+8ff
+8ee
+4ff
+=3
+8dd
+8ff
+8dd
+8dd
+=4
+8ee
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8dd
+8ee
+=6
+8dd
+4.ee
+=7
+8cc}
+8r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=314 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 294} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 294}
+!!!ONB: Converted on 2024/12/26 with esac2hum

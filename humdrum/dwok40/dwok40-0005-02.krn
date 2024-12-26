@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK4000500002-plon_niesiem_plon.krn
+!!!OTL: Plon niesiem, plon
+!!!source: DWOK40
+!!!id: 40005
+!!!signature: 4000500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{2b
+8dd
+8cc
+=2
+8a
+8b
+2g}
+!!LO:LB:g=esac
+=3
+{2b
+8dd
+8cc
+=4
+8a
+8b
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b
+4ee
+=6
+2dd
+4cc}
+!!LO:LB:g=esac
+=7
+{8b
+8a
+4b
+8dd
+8cc
+=8
+8a
+8b
+2g}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+4b
+4ee
+=10
+2dd
+4cc}
+!!LO:LB:g=esac
+=11
+{8b
+8a
+4b
+8dd
+8cc
+=12
+8a
+8b
+2g}
+!!LO:LB:g=esac
+=13
+{4a
+8dd
+8cc
+8a
+8b
+=14
+2.g}
+==
+*-
+!!!ONB: 1 głos
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 96} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

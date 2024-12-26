@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4907900002-w_pole_pasterze_zasli.krn
+!!!OTL: W pole pasterze zaśli
+!!!source: DWOK49
+!!!id: 49079
+!!!signature: 4907900002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8a
+8b
+=2
+4cc
+8b
+=3
+8cc
+4a}
+!!LO:LB:g=esac
+=4
+{8a
+8a
+8b
+=5
+4cc
+8b
+=6
+16cc
+16b
+8a}
+8r
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8b
+=8
+8cc
+4g
+=9
+8a
+8a
+16a
+16b
+=10
+8cc
+4g}
+!!LO:LB:g=esac
+=11
+{8f
+8a
+8b
+=12
+4cc
+8cc
+=13
+8dd
+8dd
+8dd
+=14
+4cc
+8b
+=15
+16cc
+16b
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 169} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 169}
+!!!page: 169
+!!!ONB: Converted on 2024/12/26 with esac2hum

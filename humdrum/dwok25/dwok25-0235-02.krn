@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2523500002-ozenilem_sie_tam_na_podolu.krn
+!!!OTL: Ożeniłem się tam na Podolu
+!!!source: DWOK25
+!!!id: 25235
+!!!signature: 2523500002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+8ee
+8ff
+8dd
+=2
+4cc
+4r
+=3
+8ee
+8ee
+8ff
+8dd
+=4
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{4cc
+8b
+8a
+=6
+4g
+8ff
+8dd
+=7
+8g
+8g
+8a
+8b
+=8
+4cc
+4ee
+=9
+8ff
+8g
+8a
+8b
+=10
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 102} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 102}
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

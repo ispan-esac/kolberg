@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK06-K0285b-idzie_stary_przez_wies.krn
+!!!OTL: Idzie stary przez wies
+!!!source: DWOK06
+!!!id: K0285b
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8dd
+8dd
+8b
+8b
+=2
+8cc
+4cc
+8ee
+=3
+8dd
+8ee
+8ff
+8dd
+=4
+8gg
+4ee
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8b
+8b
+=6
+8cc
+4cc
+8cc
+=7
+8dd
+8ee
+8ff
+8b
+=8
+8dd
+4.cc}
+!!LO:LB:g=esac
+=9
+{8dd
+8ee
+8ff
+8dd
+=10
+8gg
+4ee
+8ee
+=11
+16dd
+16ee
+16dd
+16ee
+16ff
+16ee
+16ff
+16dd
+=12
+8gg
+4.ee}
+!!LO:LB:g=esac
+=13
+{8dd
+8dd
+8b
+8b
+=14
+8cc
+4cc
+8ee
+=15
+8dd
+8ee
+8ff
+8b
+=16
+8dd
+4cc
+8ee
+=17
+8dd
+8dd
+8b
+8b
+=18
+8cc
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 142-143} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 142-143}
+!!!page: 142-143
+!!!ONB: Converted on 2024/12/26 with esac2hum

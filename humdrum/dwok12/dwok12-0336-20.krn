@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1233600020-czy_to_pod_olszyna.krn
+!!!OTL: Czy to pod olszyną
+!!!source: DWOK12
+!!!id: 12336
+!!!signature: 1233600020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16g
+8b
+8g
+=2
+16g
+16f#
+8f#
+8f#
+=3
+16.d
+32f#
+8a
+8f#
+=4
+16cc
+16dd
+16cc
+16a
+8b}
+!!LO:LB:g=esac
+=5
+{16d
+16g
+16b
+16g
+8g
+=6
+16g
+16f#
+16f#
+16f#
+8f#
+=7
+16.d
+32f#
+16a
+16d
+16f#
+16a
+=8
+16cc
+16b
+16g
+16g
+8g}
+==
+*-
+!!!ONB: Fragment melodii w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 178} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 178}
+!!!page: 178
+!!!ONB: Converted on 2024/12/26 with esac2hum

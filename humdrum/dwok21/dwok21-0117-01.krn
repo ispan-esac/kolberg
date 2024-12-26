@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2111700001-w_dole_kalinka_stojala.krn
+!!!OTL: W dole kalinka stojała
+!!!source: DWOK21
+!!!id: 21117
+!!!signature: 2111700001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+8g
+=2
+8b
+4g
+=3
+8a
+4g
+=4
+8b
+8g}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8cc
+=6
+8dd
+4b
+=7
+8dd
+4ee
+=8
+8dd
+8g}
+8r
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+8cc#
+=10
+8a
+4a
+=11
+8a
+4g
+=12
+8b
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 57} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK2709400000-a_w_mym_ogrodenku.krn
+!!!OTL: A w mym ogródeńku
+!!!source: DWOK27
+!!!id: 27094
+!!!signature: 2709400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8ee
+4ee
+=2
+8dd
+8ff
+4ee
+=3
+8dd
+8cc
+8a
+8cc
+=4
+4ee
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+4ee
+=6
+8dd
+8ff
+4ee
+=7
+8cc
+8cc
+8dd
+16dd
+16cc
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+4dd
+=10
+8a
+8cc
+4ee
+=11
+8dd
+16dd
+16cc
+8a
+8cc
+=12
+4ee
+4a}
+!!LO:LB:g=esac
+=13
+{8cc
+8ee
+4ee
+=14
+8dd
+8dd
+4ee
+=15
+8cc
+8cc
+8dd
+16dd
+16cc
+=16
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 189} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

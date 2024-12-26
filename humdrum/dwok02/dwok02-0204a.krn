@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK02-K0204a-oj_od_onego.krn
+!!!OTL: Oj od onego
+!!!source: DWOK02
+!!!id: K0204a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4cc
+8b
+8cc
+=2
+4cc
+8b
+8g
+=3
+8b
+8cc
+8cc
+8b
+=4
+4.cc
+8g}
+!!LO:LB:g=esac
+=5
+{4b
+8b
+8dd
+=6
+4cc
+8b
+8f
+=7
+2g}
+!!LO:LB:g=esac
+=8
+{8g
+8b
+8b
+8g
+=9
+4cc
+8dd
+8b
+=10
+4.cc
+8g}
+!!LO:LB:g=esac
+=11
+{8b
+8g
+8b
+8dd
+=12
+4cc
+8b
+8f
+=13
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 168} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

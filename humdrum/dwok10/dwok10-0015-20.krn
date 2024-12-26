@@ -1,0 +1,121 @@
+!!!!SEGMENT: DWOK1001500020-nie_chciala_maku_ni_pasternaku.krn
+!!!OTL: Nie chciała maku ni pasternaku
+!!!source: DWOK10
+!!!id: 10015
+!!!signature: 1001500020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+16a
+16cc
+8ee
+=2
+8ee
+16ff#
+16ee
+8dd
+=3
+8b
+8g
+16a
+16cc
+=4
+8b
+8b
+8g
+=5
+8a
+8a
+8g
+=6
+8b
+4dd}
+!!LO:LB:g=esac
+=7
+{8a
+16a
+16cc
+8ee
+=8
+8ee
+16ff#
+16ee
+8dd
+=9
+8b
+8g
+16a
+16cc
+=10
+8b
+8b
+8g
+=11
+8a
+8a
+8f#
+=12
+4.g}
+!!LO:LB:g=esac
+=13
+{8d
+8f#
+8g
+=14
+8b
+8dd
+16dd
+16cc
+=15
+8b
+8g
+16a
+16cc
+=16
+8b
+8b
+8g
+=17
+8a
+8a
+8g
+=18
+8b
+4dd}
+!!LO:LB:g=esac
+=19
+{8d
+8f#
+8g
+=20
+8b
+8dd
+16dd
+16cc
+=21
+8b
+8g
+16a
+16cc
+=22
+8b
+8b
+8g
+=23
+8a
+8a
+8f#
+=24
+4.g}
+==
+*-
+!!!ONB: Fragment melodii na 3/8-na ksebkę ostro
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 86-87} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, pp. 86-87}
+!!!page: 86-87
+!!!ONB: Converted on 2024/12/26 with esac2hum

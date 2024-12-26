@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK57176600000-jichaw_ulan_bez_las.krn
+!!!OTL: Jichaw ułan bez las
+!!!source: DWOK57
+!!!id: 571766
+!!!signature: 57176600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8b
+8g#
+4b
+4ee
+=2
+8dd#
+8ee
+8dd#
+8cc
+8b
+8cc}
+!!LO:LB:g=esac
+=3
+{8b
+8a
+4g#
+4e
+=4
+8cc
+8ee
+8dd#
+8cc
+4ee
+=5
+2a}
+4r
+==
+*-
+!!!ONB: Wariant t. 2: 4#_5_4#_3b_213b_; wariant t. 4: 3b_5_4#_3b_5_-7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 853
+!!!ONB: Converted on 2024/12/26 with esac2hum

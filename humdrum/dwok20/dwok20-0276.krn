@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK2027600000-a_siadaj_siadaj_marys_kochanie.krn
+!!!OTL: A siadaj siadaj Maryś kochanie
+!!!source: DWOK20
+!!!id: 20276
+!!!signature: 2027600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8ee
+=2
+8.dd
+16cc#
+16a
+16g
+=3
+8b
+32dd
+16.cc#
+16a
+16b
+=4
+8.g
+16f#
+16d
+16c}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ee
+=6
+8.dd
+16cc#
+16a
+16g
+=7
+8b
+32dd
+16.cc#
+16a
+16b
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+8a
+8g
+=10
+16b
+16dd
+8cc
+32a
+16.g
+=11
+16g
+16b
+8a
+8g
+=12
+16b
+16dd
+8cc
+32a
+16.g}
+!!LO:LB:g=esac
+=13
+{16b
+16b
+8a
+8g
+=14
+16b
+16dd
+8cc
+32a
+16.g
+=15
+8b
+32dd
+16.cc
+16a
+16b
+=16
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 213} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 213}
+!!!page: 213
+!!!ONB: Converted on 2024/12/26 with esac2hum

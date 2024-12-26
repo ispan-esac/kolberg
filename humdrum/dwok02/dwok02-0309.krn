@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK02-K0309-w_stodole.krn
+!!!OTL: W stodole
+!!!source: DWOK02
+!!!id: K0309
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8ee
+8ee
+=2
+8cc
+8ee
+8ee
+=3
+8ee
+8ff
+8ee
+=4
+4dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+=6
+8b
+8dd
+8dd
+=7
+8dd
+8ee
+8dd
+=8
+4cc
+8cc}
+!!LO:LB:g=esac
+=9
+{16ee
+16ff
+16gg
+16aa
+16gg
+16ff#
+=10
+8gg
+16gg
+16aa
+16gg
+16ff#
+=11
+8gg
+16aa
+16gg
+16ff
+16ee
+=12
+4ff
+8dd}
+!!LO:LB:g=esac
+=13
+{16dd
+16ee
+16ff
+16gg
+16ff
+16ee
+=14
+16ff
+16gg
+16aa
+16gg
+16ff
+16ee
+=15
+8ff
+16gg
+16ff
+16ee
+16dd
+=16
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 228} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 228}
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

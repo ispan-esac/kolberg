@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK4152400002-a_ty_szelmo_kanalijo.krn
+!!!OTL: A ty szelmo, kanalijo
+!!!source: DWOK41
+!!!id: 41524
+!!!signature: 4152400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16dd
+8cc#
+8cc#
+=2
+16dd
+16dd
+8.ee
+16b}
+!!LO:LB:g=esac
+=3
+{16dd
+16dd
+8cc#
+8ee
+=4
+16dd
+16dd
+8.dd
+16b}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8cc
+8f#
+=6
+16g
+16a
+8b
+8b}
+!!LO:LB:g=esac
+=7
+{16a
+16ff#
+8ff#
+8ff#
+=8
+8.gg
+16ff#
+16ee
+16dd}
+!!LO:LB:g=esac
+=9
+{16dd
+16dd
+8cc
+8f#
+=10
+16g
+16a
+8b
+8b}
+!!LO:LB:g=esac
+=11
+{16a
+16cc
+8ee
+8dd
+=12
+8.g
+16b
+16a
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=351 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 268-269} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 268-269}
+!!!page: 268-269
+!!!ONB: Converted on 2024/12/26 with esac2hum

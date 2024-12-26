@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7748700000-oj_dziewcynko_moja.krn
+!!!OTL: Oj dziewcynko moja
+!!!source: DWOK77
+!!!id: 77487
+!!!signature: 7748700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+16a
+16b
+8cc
+=2
+8b
+8dd
+8dd
+=3
+8dd
+16ee
+16dd
+8cc
+=4
+16a
+16b
+8g
+16f#
+16d}
+!!LO:LB:g=esac
+=5
+{8g
+16a
+16b
+8cc
+=6
+16a
+16b
+8g
+16a
+16f#
+=7
+8g
+16a
+16b
+8cc
+=8
+16a
+16b
+8g
+16f#
+16d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK41111800001-jasio_konie_poil.krn
+!!!OTL: Jasio konie poił
+!!!source: DWOK41
+!!!id: 411118
+!!!signature: 41111800001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16b
+16g#
+8a
+8cc
+=2
+8dd
+4a
+=3
+16b
+16g#
+8a
+8cc
+=4
+8dd
+4a}
+!!LO:LB:g=esac
+=5
+{4cc
+8ee
+=6
+16gg
+16ee
+8dd
+8b
+=7
+16g
+16b
+8dd
+8dd
+=8
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=567 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 480} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 480}
+!!!page: 480
+!!!ONB: Converted on 2024/12/26 with esac2hum

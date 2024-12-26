@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK35A-35A01400002-a_wieta_maryja_z_tego_sie_zasmiala.krn
+!!!OTL: A Święta Maryja z tego się zaśmiała
+!!!source: DWOK35A
+!!!id: 35A014
+!!!signature: 35A01400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+4b
+=3
+4.dd
+8cc
+=4
+4b
+4dd
+=
+12dd
+12cc
+12b
+4b}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8dd
+8cc
+=6
+4b
+4g
+=7
+4.b
+8a
+=8
+4b
+4cc
+=
+12b
+12a
+12g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 22} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 22}
+!!!page: 22
+!!!ONB: Converted on 2024/12/26 with esac2hum

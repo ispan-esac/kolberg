@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK2903800000-szczedryj_weczer_dobryj_weczer.krn
+!!!OTL: Szczedryj weczer dobryj weczer
+!!!source: DWOK29
+!!!id: 29038
+!!!signature: 2903800000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4ee
+4ee
+4cc
+4dd
+=2
+4ee
+8dd
+8ee
+4cc
+4dd}
+!!LO:LB:g=esac
+=3
+{4ee
+4ee
+4cc
+4dd
+=4
+4ee
+8dd
+8ee
+4cc
+4dd}
+=5
+1r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 134} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 134}
+!!!page: 134
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK2244300020-instrumentalna-tracaj_we_stronki_graluchna.krn
+!!!OTL: Instrumentalna-Trącaj we strónki graluchna
+!!!source: DWOK22
+!!!id: 22443
+!!!signature: 2244300020
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=
+{24e
+24f#
+24g#
+8a
+8cc
+=
+24e
+24f#
+24g#
+8a
+8cc
+=
+24e
+24f#
+24g#
+8a
+16cc
+16a
+=1
+8e
+8b
+8a}
+!!LO:LB:g=esac
+=2
+{16ee
+16ee
+16r
+16ee
+16ee
+16ee
+=3
+16ee
+16ee
+8ff#
+8ee
+=4
+16ee
+16ee
+16r
+16ee
+8ee
+=5
+16r
+16b
+8b
+8a}
+!!LO:LB:g=esac
+=6
+{8cc
+8b
+8a
+=7
+8cc
+8b
+8a
+=8
+8cc
+16b
+16a
+16cc
+16ee
+=9
+16.e
+32b
+8b
+8a}
+!!LO:LB:g=esac
+=10
+{8cc
+8b
+8a
+=11
+8cc
+8b
+8a
+=12
+8cc
+16b
+16a
+16cc
+16a
+=13
+16.e
+32b
+8b
+8a}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 217} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 217}
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

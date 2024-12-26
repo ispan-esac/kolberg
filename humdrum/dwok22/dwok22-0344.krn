@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2234400000-kochalem_cie_kochac_bede.krn
+!!!OTL: Kochałem cię kochać będę
+!!!source: DWOK22
+!!!id: 22344
+!!!signature: 2234400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24a
+24cc
+24ee
+8ff#
+8ee
+=1
+16dd
+16ee
+16dd
+16a
+8b
+=2
+16cc
+16ee
+8ff#
+8ee
+=3
+16dd
+16ee
+16dd
+16a
+8g}
+!!LO:LB:g=esac
+=4
+{16a
+16cc
+8dd
+16g
+16b
+=5
+16a
+16a
+8f#
+8g
+=
+16a
+16cc
+8dd
+24d
+24g
+24b
+=6
+16cc
+16a
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 189} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

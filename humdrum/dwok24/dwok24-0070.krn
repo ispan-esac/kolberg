@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK2407000000-matko_niebieskiego.krn
+!!!OTL: Matko niebieskiego
+!!!source: DWOK24
+!!!id: 24070
+!!!signature: 2407000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4dd
+8ff
+=2
+4.ee
+=3
+8dd
+4dd
+=4
+8cc
+4ee
+=5
+4dd
+8cc
+=6
+4b}
+8r
+!!LO:LB:g=esac
+=7
+{4dd
+8ff
+=8
+4.ee
+=9
+8dd
+4dd
+=10
+8cc
+4ee
+=11
+4dd
+8cc
+=12
+4b}
+8r
+!!LO:LB:g=esac
+=13
+{8b
+4dd
+=14
+8a
+4a
+=15
+8dd
+4dd
+=16
+8cc
+4cc
+=17
+8b
+16b
+8.dd
+=18
+8a
+4a}
+!!LO:LB:g=esac
+=19
+{8dd
+4dd
+=20
+8ee
+4ee
+=21
+4dd
+8cc
+=22
+4b}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 189} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

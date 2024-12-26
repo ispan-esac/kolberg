@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1903500010-a_ja_sobie_kobietka.krn
+!!!OTL: A ja sobie kobietka
+!!!source: DWOK19
+!!!id: 19035
+!!!signature: 1903500010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8b
+8cc
+8ee
+=2
+8gg
+8ee
+4cc
+=3
+8ee
+8ee
+8ee
+8b
+=4
+4cc
+4ee}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8cc
+8ee
+=6
+16gg
+16aa
+8gg
+8gg
+16b
+16cc
+=7
+8ee
+8ee
+8ee
+16b
+16cc
+=8
+4cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=29 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 15} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 15}
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

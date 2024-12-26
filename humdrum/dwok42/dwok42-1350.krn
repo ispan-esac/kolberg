@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK42135000000-w_polu_ogrodeczek.krn
+!!!OTL: W polu ogródeczek
+!!!source: DWOK42
+!!!id: 421350
+!!!signature: 42135000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8ee
+8cc
+4dd
+4ee
+=2
+4dd
+2cc
+=3
+8ff
+8ee
+4dd
+4cc
+=4
+4a
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4cc
+4ee
+=6
+4dd
+2cc
+=7
+8cc
+8ee
+8dd
+8b
+4cc
+=8
+2a
+4a}
+==
+*-
+!!!ONB: Melodia nr 1350
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=17 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 8} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 8}
+!!!page: 8
+!!!ONB: Converted on 2024/12/26 with esac2hum

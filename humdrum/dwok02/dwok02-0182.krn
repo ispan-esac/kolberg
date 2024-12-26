@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK02-K0182-ctyry_mile_za_warsawka.krn
+!!!OTL: Ctyry mile za Warsawka
+!!!source: DWOK02
+!!!id: K0182
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16b
+8a
+8g
+=2
+16ee
+16ee
+8dd
+8cc
+=3
+16a
+16cc
+8d
+8f#
+=4
+16g
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16.a
+32a
+8b
+8a
+=6
+16.a
+32a
+8b
+8a
+=7
+16.a
+32a
+8b
+8a
+=8
+16.a
+32a
+8b
+8a}
+!!LO:LB:g=esac
+=9
+{16a
+32b
+32cc#
+8a
+16b
+16cc#
+=10
+4dd
+8cc
+=11
+16b
+16b
+8a
+8g}
+!!LO:LB:g=esac
+=12
+{16ee
+16ee
+4dd
+=13
+16d
+32e
+32f#
+8d
+16e
+16f#
+=14
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 149} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 149}
+!!!page: 149
+!!!ONB: Converted on 2024/12/26 with esac2hum

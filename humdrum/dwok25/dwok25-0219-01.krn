@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2521900001-z_tamtej_strony_jeziora.krn
+!!!OTL: Z tamtej strony jeziora
+!!!source: DWOK25
+!!!id: 25219
+!!!signature: 2521900001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8g
+=2
+4ee
+8dd
+8a
+=3
+2g
+=4
+8ff
+8ee
+8ff
+8dd
+=5
+4ee
+8cc
+8b
+=6
+2a}
+!!LO:LB:g=esac
+=7
+{4ee
+8ff
+8ee
+=8
+4dd
+4g
+=9
+8ee
+8ee
+16dd
+16cc
+8b
+=10
+4a
+4g
+=11
+8ee
+8ee
+8ff
+8dd
+=12
+4ee
+4g
+=13
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 95} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 95}
+!!!page: 95
+!!!ONB: Converted on 2024/12/26 with esac2hum

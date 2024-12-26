@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK02-K0316-oj_kaska_i_maryna.krn
+!!!OTL: Oj Kaska i Maryna
+!!!source: DWOK02
+!!!id: K0316
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{24g
+24b
+24dd
+8ff
+16ff
+16dd
+=1
+8cc
+16ee
+16cc
+16ee
+16gg
+=2
+16aa
+16dd
+8ff
+16ff
+16ee
+=3
+8cc
+16a
+16f
+8g}
+!!LO:LB:g=esac
+=
+{24g
+24b
+24dd
+8a
+16a
+16g
+=4
+8cc
+8ee
+16dd
+16cc
+=5
+16b
+16dd
+8a
+16a
+16g
+=6
+8cc
+16a
+16f
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 230-231} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 230-231}
+!!!page: 230-231
+!!!ONB: Converted on 2024/12/26 with esac2hum

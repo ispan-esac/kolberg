@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK5600800000-w_tej_koledzie.krn
+!!!OTL: W tej kolędzie
+!!!source: DWOK56
+!!!id: 56008
+!!!signature: 5600800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8a
+8b
+8cc
+=2
+8dd
+8dd
+8dd
+8dd
+=3
+8.ee
+16ee
+8ee
+8dd
+=4
+4cc
+4b}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8b
+8cc
+=6
+8dd
+8dd
+8dd
+8dd
+=7
+8dd
+8ee
+8dd
+8cc
+=8
+4b
+4a}
+!!LO:LB:g=esac
+=9
+{4b
+8a
+8g
+=10
+4b
+8a
+8g
+=11
+8f#
+8e
+8f#
+8g
+=12
+4a
+4a}
+!!LO:LB:g=esac
+=13
+{4b
+8a
+8g
+=14
+4b
+8a
+8g
+=15
+8f#
+8e
+8f#
+8g
+=16
+4a
+4a}
+==
+*-
+!!!ONB: Wariant t. 4: 4_3_3__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 65} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 65}
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

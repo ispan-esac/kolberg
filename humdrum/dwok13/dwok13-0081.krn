@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK1308100000-wsi_spokojna_wsi_wesola.krn
+!!!OTL: Wsi spokojna wsi wesoła
+!!!source: DWOK13
+!!!id: 13081
+!!!signature: 1308100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8.f
+16f
+16a
+16cc
+=2
+16dd
+16dd
+8cc
+8a
+=3
+8.cc
+16ff
+16ee
+16dd
+=4
+16dd
+16dd
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8.dd
+16dd
+16cc
+16b-
+=6
+16a
+16b-
+8cc
+8a
+=7
+8.cc
+16g
+16a
+16b-
+=8
+16a
+16b-
+8cc
+8cc}
+!!LO:LB:g=esac
+=9
+{8.dd
+16dd
+16cc
+16b-
+=10
+16a
+16b-
+8cc
+8a
+=11
+8.cc
+16cc
+16dd
+16ee
+=12
+16ff
+16ee
+8ff
+8ff}
+==
+*-
+!!!ONB: Wiersz Jana Kochanowskiego, muz. T. Klonowskiego
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 47} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

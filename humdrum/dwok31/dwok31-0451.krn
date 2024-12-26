@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK3145100000-ani_ja_ani_ty_ne_choczem_robyty.krn
+!!!OTL: Ani ja ani ty ne choczem robyty
+!!!source: DWOK31
+!!!id: 31451
+!!!signature: 3145100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8cc
+8a
+=2
+8g
+8b
+4dd
+=3
+16cc#
+16dd
+16ee
+16dd
+16b
+16cc#
+16a
+16f#
+=4
+8g
+8g
+4d}
+!!LO:LB:g=esac
+=5
+{16cc#
+16dd
+16ee
+16dd
+16cc#
+16dd
+16cc
+16a
+=6
+8g
+8b
+4dd
+=7
+16cc#
+16dd
+16ee
+16dd
+16b
+16cc
+16a
+16f#
+=8
+8g
+8g
+4g}
+==
+*-
+!!!ONB: Kozak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 52} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

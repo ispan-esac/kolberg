@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK0658500020-prawda_ze_wase_cielicki.krn
+!!!OTL: Prawda ze wase cielicki
+!!!source: DWOK06
+!!!id: K0585b
+!!!signature: 0658500020
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8a
+8a
+8a
+8dd
+=2
+8a
+8a
+8a
+8ff#
+=3
+8ee
+8ee
+8cc#
+8cc#
+=4
+8dd
+16cc#
+16b
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8dd
+=6
+8a
+8a
+8a
+8ff#
+=7
+8ee
+8ee
+8cc#
+8cc#
+=8
+4dd
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 337-338} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 337-338}
+!!!page: 337-338
+!!!ONB: Converted on 2024/12/26 with esac2hum

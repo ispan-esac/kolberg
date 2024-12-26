@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2234200000-gegala_krzycala_siwa_ges_nad_woda.krn
+!!!OTL: Gęgała krzycała siwa gęś nad wodą
+!!!source: DWOK22
+!!!id: 22342
+!!!signature: 2234200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8dd
+=2
+16dd
+16ee
+8cc
+16cc
+16b
+=3
+16g
+16b
+8b
+16b
+16dd
+=4
+16cc
+16b
+8dd
+16a
+16f#}
+!!LO:LB:g=esac
+=5
+{[8d
+16d]
+32e
+32f#
+16a
+16b
+=6
+16g
+16b
+8b
+16a
+16f#
+=7
+8g
+8b
+16dd
+16ee
+=8
+16cc
+16b
+8b
+16a
+16f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 189} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK5610300002-oj_po_hori_hori_pawonkie_chodit.krn
+!!!OTL: Oj, po hori, hori, pawonkie chodit
+!!!source: DWOK56
+!!!id: 56103
+!!!signature: 5610300002
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M4/4
+{8cc
+8cc
+8cc
+8ee
+4dd
+8dd
+8cc
+=2
+8ee
+8ee
+8ff
+8gg
+4ff
+8ee
+8dd
+=3
+*M3/4
+8ee
+16ee
+16dd
+4cc
+4dd
+=4
+8dd
+16ee
+16dd
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 125} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 125}
+!!!page: 125
+!!!ONB: Converted on 2024/12/26 with esac2hum

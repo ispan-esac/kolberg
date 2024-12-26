@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3005800000-oj_sluzyla_nasti_u_pana.krn
+!!!OTL: Oj słuzyła Nasti u pana
+!!!source: DWOK30
+!!!id: 30058
+!!!signature: 3005800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16dd
+16dd
+8dd
+8a
+=2
+8dd
+[8dd
+32dd]
+32cc
+32b
+32a
+=3
+8.dd
+16b
+16cc
+16a}
+!!LO:LB:g=esac
+=4
+{16.b
+32dd
+8cc
+8a
+=5
+8a
+4a
+=6
+8dd
+8b
+16cc
+16a}
+!!LO:LB:g=esac
+=7
+{16b
+16dd
+8cc
+8a
+=8
+8a
+4a
+=9
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 51} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 51}
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

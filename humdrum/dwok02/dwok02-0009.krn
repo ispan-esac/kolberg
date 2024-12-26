@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK02-K0009-oj_jedzie_jedzie_jasin_nadobny.krn
+!!!OTL: Oj jedzie jedzie Jasin nadobny
+!!!source: DWOK02
+!!!id: K0009
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8a
+8a
+=2
+8b
+4cc
+=3
+8ee
+8dd
+8dd
+=4
+8.cc
+16a
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+=6
+8cc
+4dd
+=7
+4cc
+8a
+=8
+8g}
+4r
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8cc
+=10
+8b-
+4a
+=11
+8cc
+8cc
+8cc
+=12
+16b-
+16a
+4g}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+8b
+=14
+8cc
+4dd
+=15
+4cc
+8a
+=16
+8g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 26} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 26}
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1809000000-siadaja_wyjezdzaja.krn
+!!!OTL: Siadają wyjezdzają
+!!!source: DWOK18
+!!!id: 18090
+!!!signature: 1809000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8a
+8b
+=2
+8cc
+8dd
+8ee
+=3
+8dd
+8b
+8dd}
+!!LO:LB:g=esac
+=4
+{8cc
+8b
+8a
+=5
+4.cc
+=6
+4g}
+8r
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8dd
+=8
+8dd
+8dd
+8ee
+=9
+4dd
+8dd}
+!!LO:LB:g=esac
+=10
+{8cc
+8b
+8a
+=11
+4.cc
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 88} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

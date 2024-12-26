@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK02-K0237-instrumentalna_-_polka.krn
+!!!OTL: Instrumentalna - Polka
+!!!source: DWOK02
+!!!id: K0237
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8gg
+16ee
+16gg
+8ff#
+16dd
+16ff#
+=2
+8ee
+8gg
+8ff
+8gg
+=3
+8gg
+16ee
+16gg
+8ff#
+16dd
+16ff#
+=4
+8ee
+8cc
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ff
+16dd
+16gg
+=6
+8ee
+16ee
+16gg
+8ff#
+16dd
+16gg
+=7
+8ee
+16dd
+16gg
+8ff#
+16dd
+16gg
+=8
+16ee
+16cc
+16g
+16cc
+8dd
+16b
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 197} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 197}
+!!!page: 197
+!!!ONB: Converted on 2024/12/26 with esac2hum

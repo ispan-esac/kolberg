@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK1835300000-a_dajze_mi_tez_boze.krn
+!!!OTL: A dajże mi też Boże
+!!!source: DWOK18
+!!!id: 18353
+!!!signature: 1835300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+{8b
+=1
+8a
+8g
+8f#
+8e
+=2
+4.d
+8g
+=3
+8a
+8b
+8cc
+8a
+=4
+4.dd
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+8f#
+8e
+=6
+4.d
+8g
+=7
+8a
+8b
+8cc
+8a
+=8
+4.g
+8g}
+!!LO:LB:g=esac
+=9
+{8a
+8g
+8f#
+8g
+=10
+8a
+8g
+8f#
+8g
+=11
+8a
+8g
+8f#
+8g
+=12
+8a
+8g
+8f#
+8g}
+!!LO:LB:g=esac
+=13
+{8a
+8g
+8f#
+8e
+=14
+4.d
+8g
+=15
+8a
+8b
+8cc
+8a
+=16
+8g
+4.g}
+!!LO:LB:g=esac
+=17
+{8a
+8g
+8f#
+8e
+=18
+4.d
+8g
+=19
+8a
+8b
+8cc
+8a
+=20
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 191} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 191}
+!!!page: 191
+!!!ONB: Converted on 2024/12/26 with esac2hum

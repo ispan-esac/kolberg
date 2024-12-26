@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4819500000-tam_na_bloniu_blyszczy_kwiecie.krn
+!!!OTL: Tam na błoniu błyszczy kwiecie
+!!!source: DWOK48
+!!!id: 48195
+!!!signature: 4819500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{4b
+8g
+4b
+8dd
+=2
+4cc
+8a
+8a
+8cc
+8cc
+=3
+4b
+8g
+4b
+8dd
+=4
+4cc
+8a
+4cc
+8cc}
+!!LO:LB:g=esac
+=5
+{4b
+8dd
+8gg
+8ff#
+8ee
+=6
+4dd
+8dd
+4gg
+8gg
+=7
+4ff#
+8ff#
+4ee
+8ff#
+=8
+4gg}
+8r
+4.r
+==
+*-
+!!!ONB: Wariant t. 4: 4_2244; wariant t. 6: 5+1+1+1_+1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 224} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 224}
+!!!page: 224
+!!!ONB: Converted on 2024/12/26 with esac2hum

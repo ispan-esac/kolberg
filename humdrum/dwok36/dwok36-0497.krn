@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK3649700000-pry_kameni_jest_krenycia.krn
+!!!OTL: Pry kameni jest' krenycia
+!!!source: DWOK36
+!!!id: 36497
+!!!signature: 3649700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4.cc
+8g
+4cc
+4g
+=2
+4.cc
+8g
+4cc
+4g
+=3
+4.gg
+8ff#
+4gg
+4ee
+=4
+4.gg
+8dd
+2g}
+!!LO:LB:g=esac
+=5
+{4.ff#
+8ff#
+4ee
+4dd
+=6
+4.ee
+8ee
+4dd
+4cc
+=7
+4.dd
+8ee
+4dd
+4cc
+=8
+4b
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 322-323
+!!!ONB: Converted on 2024/12/26 with esac2hum

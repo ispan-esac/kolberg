@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK4725400000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK47
+!!!id: 47254
+!!!signature: 4725400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8ee
+16dd
+16cc
+16b
+16a
+=2
+8e
+8g#
+4a}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+16dd
+16cc
+16b
+16a
+=4
+8e
+8g#
+4b}
+!!LO:LB:g=esac
+=5
+{8.ee
+16ff
+16ee
+16dd
+16cc
+16b
+=6
+8a
+8b
+16cc
+16a
+16g#
+16e}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+16dd
+16cc
+16b
+16a
+=8
+8e
+8g#
+4a}
+==
+*-
+!!!ONB: Wariant t. 6: 1_2_43b21-75
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=289 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 235} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 235}
+!!!page: 235
+!!!ONB: Converted on 2024/12/26 with esac2hum

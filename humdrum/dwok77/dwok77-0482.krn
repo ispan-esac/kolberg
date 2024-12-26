@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7748200000-oj_sierota_ja_byla.krn
+!!!OTL: Oj sierota ja byla
+!!!source: DWOK77
+!!!id: 77482
+!!!signature: 7748200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16a
+16cc
+8ee-
+8gg
+=2
+8gg
+8ff
+16ff
+16dd
+=3
+16ff
+16ee-
+8cc
+16a
+16f
+=4
+8a
+8b-
+8b-}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8ee-
+8ee-
+=6
+8dd
+8dd
+8b-
+=7
+16dd
+16ee-
+8cc
+16a
+16f
+=8
+8a
+8b-
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 248
+!!!ONB: Converted on 2024/12/26 with esac2hum

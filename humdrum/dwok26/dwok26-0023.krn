@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK2602300000-gdzies_bywal.krn
+!!!OTL: Gdzieś bywał
+!!!source: DWOK26
+!!!id: 26023
+!!!signature: 2602300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8cc
+=2
+8b
+8a
+8g
+=3
+8b
+8cc
+8ee
+=4
+4dd
+8b}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc
+=6
+8b
+8a
+8g
+=7
+8b
+8cc
+8a
+=8
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

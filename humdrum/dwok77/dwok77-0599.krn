@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK7759900000-o_nie_masz_ci_nie_masz.krn
+!!!OTL: O nie masz ci nie masz
+!!!source: DWOK77
+!!!id: 77599
+!!!signature: 7759900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4.gg
+8ee
+8ff
+8gg
+=2
+8aa
+8gg
+4ff
+4dd}
+!!LO:LB:g=esac
+=3
+{4.gg
+8ee
+8gg
+8ff
+=
+12dd
+12b
+12dd
+4ee
+4cc}
+!!LO:LB:g=esac
+=4
+{4.g
+8cc
+4ee
+=5
+8gg
+8aa
+4ff
+4dd}
+!!LO:LB:g=esac
+=6
+{4g
+4cc
+4ee
+=
+12ee
+12dd
+12ee
+4ff
+4dd}
+==
+*-
+!!!ONB: Wariant taktu 6-7: +5+6+5_+4+2^  +27+1_+3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 307
+!!!ONB: Converted on 2024/12/26 with esac2hum

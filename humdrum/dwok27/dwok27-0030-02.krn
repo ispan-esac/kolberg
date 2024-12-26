@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK2703000002-w_stodole_swita.krn
+!!!OTL: W stodole świta
+!!!source: DWOK27
+!!!id: 27030
+!!!signature: 2703000002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8g
+=2
+4b
+8g
+=3
+4cc
+8dd
+=4
+4ee}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+16cc
+16g
+=6
+16b
+16a
+8b
+16g
+16b
+=7
+4cc
+8dd
+=8
+4ee}
+8r
+!!LO:LB:g=esac
+=9
+{16ee
+16gg
+8gg
+16aa
+16dd
+=10
+16ff
+16ee
+8ff
+8gg
+=11
+16ee
+16dd
+8ee
+16gg
+16cc
+=12
+8dd
+16cc
+16b
+16a
+16g}
+!!LO:LB:g=esac
+=13
+{16a
+16b
+8cc
+32dd
+32ee
+16ff
+=14
+4gg
+8b
+=15
+4cc}
+8r
+==
+*-
+!!!ONB: Podane metrum 3/4 zapisano poprawnie na 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 159} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 159}
+!!!page: 159
+!!!ONB: Converted on 2024/12/26 with esac2hum

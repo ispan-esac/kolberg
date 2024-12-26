@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK5323000000-o_kam_zalos_ruteles.krn
+!!!OTL: O! Kam zalos ruteles?
+!!!source: DWOK53
+!!!id: 53230
+!!!signature: 5323000000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=1
+{4ee
+4dd
+4cc#
+4ff#
+=2
+4ee
+4dd
+2cc#}
+!!LO:LB:g=esac
+=3
+{4b
+4b
+4cc#
+4b
+=4
+4a
+4cc#
+2cc#}
+!!LO:LB:g=esac
+=5
+{2b
+4b
+4a
+=6
+4cc#
+4cc#
+2ee}
+!!LO:LB:g=esac
+=7
+{4ff#
+4ee
+4dd
+4ee
+=8
+2cc#
+2cc#}
+!!LO:LB:g=esac
+=9
+{2b
+4b
+4a
+=10
+4cc#
+4cc#
+2ee}
+!!LO:LB:g=esac
+=11
+{4ff#
+4ee
+4dd
+4ee
+=12
+2cc#
+2cc#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=370 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 330} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 330}
+!!!page: 330
+!!!ONB: Converted on 2024/12/26 with esac2hum

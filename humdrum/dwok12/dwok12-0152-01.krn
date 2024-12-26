@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1215200001-wstaj_ino_synowa_nie_trzeba_to_lezec.krn
+!!!OTL: Wstaj ino synowa nie trzeba to leżeć
+!!!source: DWOK12
+!!!id: 12152
+!!!signature: 1215200001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8dd
+8ee
+8cc
+8b
+8g
+=2
+8cc
+8dd
+8ee
+8cc
+8b
+8g
+=3
+8a
+8a
+4a
+4dd
+=4
+4b
+2g}
+!!LO:LB:g=esac
+=5
+{8e
+8f
+8g
+8cc
+8g
+8f
+=6
+8e
+8f
+8g
+8cc
+4ee
+=7
+8b
+8dd
+4ff
+4ee
+=8
+8dd
+8b
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 76} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 76}
+!!!page: 76
+!!!ONB: Converted on 2024/12/26 with esac2hum

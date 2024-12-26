@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK3649600001-malaja_ptaszyna_po_dorozi_skacze.krn
+!!!OTL: Małaja ptaszyna po dorozi skacze
+!!!source: DWOK36
+!!!id: 36496
+!!!signature: 3649600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+8g
+8b
+4.dd
+8b
+=2
+8cc
+8dd
+8ee
+8dd
+8cc
+8b
+8a
+8g
+=3
+4dd
+8a
+8a
+4g
+8cc
+8cc
+=4
+8b
+8b
+8a
+8a
+4.g
+8b}
+!!LO:LB:g=esac
+=5
+{4dd
+8a
+8a
+4g
+8cc
+8cc
+=6
+8b
+8b
+8a
+8a
+4.g
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 322
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK5303300000-o_taj_ne_dekuj.krn
+!!!OTL: O, taj ne dekuj
+!!!source: DWOK53
+!!!id: 53033
+!!!signature: 5303300000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{4b-
+4b-
+4dd
+=2
+2ff
+4ff}
+!!LO:LB:g=esac
+=3
+{4gg
+4ee-
+4gg
+=4
+2ff
+4dd}
+!!LO:LB:g=esac
+=5
+{4ff
+4gg
+4ee-
+=6
+2ee-
+4dd}
+!!LO:LB:g=esac
+=7
+{4cc
+4ee-
+4cc
+=8
+2b-
+4b-}
+!!LO:LB:g=esac
+=9
+{4ff
+4gg
+4ee-
+=10
+2ee-
+4dd}
+!!LO:LB:g=esac
+=11
+{4cc
+4ee-
+4cc
+=12
+2b-
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 198} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 198}
+!!!page: 198
+!!!ONB: Converted on 2024/12/26 with esac2hum

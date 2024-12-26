@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4810200000-a_stary_ja_moje_dziewce.krn
+!!!OTL: A stary ja, moje dziewce
+!!!source: DWOK48
+!!!id: 48102
+!!!signature: 4810200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8b-
+8dd
+16dd
+16cc
+8b-
+=2
+8cc
+8dd
+8ee-
+8dd
+=3
+8dd
+4cc
+8cc
+=4
+8dd
+4ee-
+8ee-}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+16dd
+16cc
+8b-
+=6
+8cc
+8dd
+8ee-
+8dd
+=7
+8dd
+4cc
+8a
+=8
+8b-
+4b-
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 155} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

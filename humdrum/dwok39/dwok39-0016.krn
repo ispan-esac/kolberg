@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK3901600000-pokulne_ja_swoj_wianuszek_po_stole.krn
+!!!OTL: Pokulne ja swój wianuszek po stole
+!!!source: DWOK39
+!!!id: 39016
+!!!signature: 3901600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8ee
+8ff#
+4gg
+4ee
+=2
+8dd
+8cc
+4b
+4a
+=3
+2b
+4dd
+=4
+2.ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8ff#
+4gg
+4ee
+=6
+8dd
+8cc
+4b
+4a
+=7
+2ee
+4g#
+=8
+2.a}
+!!LO:LB:g=esac
+=9
+{8a
+8b
+4cc
+4ee
+=10
+8dd
+8cc
+4b
+4a
+=11
+2b
+4dd
+=12
+2.ee}
+!!LO:LB:g=esac
+=13
+{8ee
+8ff#
+4gg
+4ee
+=14
+8dd
+8cc
+4b
+4a
+=15
+2ee
+4g#
+=16
+2.a}
+==
+*-
+!!!ONB: W sobotę gdy wianki wiją
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 90} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

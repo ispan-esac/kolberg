@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK04-K0245-a_w_warszawie_w_pirwszym_domie.krn
+!!!OTL: A w Warszawie w pirwszym domie
+!!!source: DWOK04
+!!!id: K0245
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8.a
+16a
+8a
+8e
+=2
+8g#
+8g#
+8g#
+8e
+=3
+8a
+8b
+8cc
+8dd
+=4
+16ee
+16ff
+8ee
+16dd
+16cc
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8e
+=6
+8g#
+8g#
+4g#
+=7
+8d
+8e
+8f
+8d
+=8
+8e
+8e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 124} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

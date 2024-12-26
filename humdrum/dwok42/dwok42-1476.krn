@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK42147600000-gdziez_to_jedziesz_jasiu.krn
+!!!OTL: Gdzież to jedziesz Jasiu?
+!!!source: DWOK42
+!!!id: 421476
+!!!signature: 42147600000
+**kern
+*clefG2
+*k[f#]
+*e:
+=1
+*M2/4
+{8b
+8a
+8b
+16cc#
+16dd
+=2
+4ee
+4b
+=3
+8b
+8a
+8b
+8dd
+=4
+4ee
+4b}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8b
+8dd#
+4ee
+4gg
+=6
+8ff#
+8dd#
+2b
+=7
+*M2/4
+4b
+4ee
+=8
+8b
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=9
+{4a
+4a
+=10
+8g
+8f#
+8e
+8d#
+=11
+*M3/4
+8e
+8g
+4a
+4cc
+=12
+8b
+8g
+2e}
+==
+*-
+!!!ONB: wariant w takcie szóstym +2_+17b5___
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 65} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 65}
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

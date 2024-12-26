@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK41122500002-leca_liscie_z_drzewa.krn
+!!!OTL: Lecą liście z drzewa
+!!!source: DWOK41
+!!!id: 411225
+!!!signature: 41122500002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8a
+8b
+=2
+4cc
+8g
+=3
+16dd
+16g
+8g
+16cc
+16dd
+=4
+8.ee
+16dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16cc
+8b
+8a
+=6
+4g
+8e
+=7
+16g
+16g
+8f
+8d
+=8
+4a
+8g}
+!!LO:LB:g=esac
+=9
+{16dd
+16cc
+8b
+8a
+=10
+8.a
+16g
+16f#
+16g
+=11
+16a
+16g
+8f
+8d
+=12
+8d
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=632 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 545} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 545}
+!!!page: 545
+!!!ONB: Converted on 2024/12/26 with esac2hum

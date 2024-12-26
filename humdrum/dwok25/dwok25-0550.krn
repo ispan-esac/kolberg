@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2555000000-a_ja_tobie_raz_powiadam.krn
+!!!OTL: A ja tobie raz powiadam
+!!!source: DWOK25
+!!!id: 25550
+!!!signature: 2555000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8g
+8b
+=2
+16cc
+16cc
+8b
+16a
+16b
+=3
+8cc
+8g
+16a
+16g
+=4
+16f
+16e
+8g
+8d}
+!!LO:LB:g=esac
+=
+{24d
+24e
+24f
+8g
+16a
+16g
+=
+24f
+24e
+24f
+8g
+24a
+24g
+24a
+=5
+16d
+16f
+8g
+8a
+=6
+16f
+16e
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=237 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 212} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 212}
+!!!page: 212
+!!!ONB: Converted on 2024/12/26 with esac2hum

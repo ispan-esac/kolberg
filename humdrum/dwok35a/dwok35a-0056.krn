@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK35A-35A05600000-u_naszego_pana.krn
+!!!OTL: U naszego pana
+!!!source: DWOK35A
+!!!id: 35A056
+!!!signature: 35A05600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+4cc
+8ee
+=2
+8dd
+4b
+8b
+=3
+8cc
+16b
+16cc
+4a
+=4
+16cc
+16b
+4dd
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+8ee
+=6
+8dd
+4b
+8b
+=7
+8cc
+16b
+16cc
+4a
+=8
+8f#
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 47} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK3313100000-biala_luzenka_temna_stezenka.krn
+!!!OTL: Biała łużeńka temna steżeńka
+!!!source: DWOK33
+!!!id: 33131
+!!!signature: 3313100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8a
+8ee
+=2
+8dd#
+4ee
+=3
+8ee
+8ee
+8b
+=4
+8b
+4ee}
+!!LO:LB:g=esac
+=5
+{16cc
+16a
+4ee
+=6
+8ee
+4a
+=7
+4.b
+=8
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8b
+8ee
+=10
+8dd#
+4ee
+=11
+8cc
+4a}
+!!LO:LB:g=esac
+=12
+{8a
+8b
+8ee
+=13
+8ff#
+4ee
+=14
+16cc
+16g#
+4a}
+!!LO:LB:g=esac
+=15
+{8a
+8b
+8ee
+=16
+8dd#
+4b
+=17
+8dd#
+4ee}
+!!LO:LB:g=esac
+=18
+{8ff#
+8ee
+8ee
+=19
+16cc
+16a
+8b
+8g#
+=20
+4.a
+=21
+8a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 245} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 245}
+!!!page: 245
+!!!ONB: Converted on 2024/12/26 with esac2hum

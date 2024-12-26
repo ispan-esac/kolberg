@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK5039900001-jasio_konie_poil_kasia_wode_brala.krn
+!!!OTL: Jasio konie poił, Kasia wodę brała
+!!!source: DWOK50
+!!!id: 50399
+!!!signature: 5039900001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4a
+4g#
+=2
+4a
+2cc
+=3
+8b
+8a
+4a
+4g#
+=4
+4a
+4cc
+4a}
+!!LO:LB:g=esac
+=5
+{4cc
+4cc
+4cc
+=6
+8cc
+8ee
+4.dd
+8b
+=7
+8g
+8g
+4b
+4dd
+=8
+4cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=253 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 228} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 228}
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

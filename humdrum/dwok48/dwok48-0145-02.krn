@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK4814500002-kasienka_mloda.krn
+!!!OTL: Kasieńka młoda
+!!!source: DWOK48
+!!!id: 48145
+!!!signature: 4814500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+8g
+16b
+16cc
+8dd
+8dd
+=2
+4dd
+8dd
+16ee
+16ff#
+8gg
+8dd
+=3
+8dd
+16ee
+16ff#
+4gg
+16ff#
+16gg
+16ff#
+16ee
+=4
+8ee
+16ff#
+16ee
+2dd}
+!!LO:LB:g=esac
+=5
+{4gg
+8dd
+16ee
+16ff#
+8gg
+8b
+=6
+8cc
+8b
+8a
+16b
+16cc
+8dd
+8dd
+=7
+8g
+16a
+16b
+4cc
+16b
+16cc
+16b
+16a
+=8
+8a
+16b
+16a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 188} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

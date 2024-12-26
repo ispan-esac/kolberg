@@ -1,0 +1,119 @@
+!!!!SEGMENT: DWOK2916400000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK29
+!!!id: 29164
+!!!signature: 2916400000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{16gg#
+16ff#
+16ee
+16dd#
+8ee
+8b
+=2
+16gg#
+16ff#
+16ee
+16dd#
+8ee
+8ee
+=3
+16cc
+16b
+16a
+16g#
+16a
+16b
+16cc
+16b
+=4
+8dd
+16b
+16g#
+8a
+8a}
+!!LO:LB:g=esac
+=5
+{16gg#
+16ff#
+16ee
+16dd#
+4ee
+=6
+16gg#
+16ff#
+16ee
+16dd#
+4ee
+=7
+16cc
+16b
+16a
+16g#
+4a
+=8
+8dd
+16b
+16g#
+4a}
+!!LO:LB:g=esac
+=9
+{8e
+8e
+8e
+16b
+16dd#
+=10
+8ee
+16b
+16g#
+8a
+8a
+=11
+8b
+8e
+8b
+16b
+16dd#
+=12
+8ee
+16b
+16g#
+4a}
+!!LO:LB:g=esac
+=13
+{8e
+8e
+8e
+16b
+16dd#
+=14
+8ee
+16b
+16g#
+8a
+8a
+=15
+8b
+8e
+8b
+16b
+16dd#
+=16
+8ee
+16b
+16g#
+4a}
+==
+*-
+!!!ONB: Melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 260} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 260}
+!!!page: 260
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK3617100001-horez_tomu_kozakowi.krn
+!!!OTL: Horeż tomu kozakowi
+!!!source: DWOK36
+!!!id: 36171
+!!!signature: 3617100001
+**kern
+*clefG2
+*k[b-]
+*d:
+*M9/8
+=1
+{4dd
+8ee
+4ff
+8ee
+4.dd
+=2
+4.cc#
+8cc#
+[4a}
+4.a]
+!!LO:LB:g=esac
+=3
+{8ff
+8ee
+8dd
+8cc#
+8a
+8cc#
+8dd
+4a
+=4
+4.a
+8g
+8a
+8cc#
+4.dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 94
+!!!ONB: Converted on 2024/12/26 with esac2hum

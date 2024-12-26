@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK1308200000-raz_chodzac_sobie_po_polu.krn
+!!!OTL: Raz chodząc sobie po polu
+!!!source: DWOK13
+!!!id: 13082
+!!!signature: 1308200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+{8b
+8cc
+=1
+4dd
+8.cc
+16a
+4g
+8b
+8cc
+=2
+4ee
+4dd
+4r
+8b
+8cc
+=3
+4dd
+8.cc
+16a
+4g
+8b
+8cc
+=4
+4ee
+4dd
+4r
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{4.dd
+8gg
+4gg
+8ff#
+8ee
+=6
+4dd
+4g
+4r
+8f#
+8g
+=7
+4.a
+8b
+4cc
+8ee
+8f#
+=8
+4a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 48} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 48}
+!!!page: 48
+!!!ONB: Converted on 2024/12/26 with esac2hum

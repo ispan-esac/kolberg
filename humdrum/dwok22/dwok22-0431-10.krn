@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2243100010-instrumentalna-ojze_ojze_dziewcze_moje.krn
+!!!OTL: Instrumentalna-Ojże ojże dziewcze moje
+!!!source: DWOK22
+!!!id: 22431
+!!!signature: 2243100010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8g
+16cc
+16a
+=2
+16f#
+16a
+8cc
+8ee
+=3
+16ee
+16dd
+8b
+16cc
+16a
+=4
+16f#
+16d
+8g
+8e}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8g
+16cc
+16a
+=
+24g
+24f#
+24a
+8cc
+8ee
+=6
+16ee
+16dd
+8b
+16cc
+16a
+=
+24g
+24f#
+24d
+8g
+8e}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 213} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 213}
+!!!page: 213
+!!!ONB: Converted on 2024/12/26 with esac2hum

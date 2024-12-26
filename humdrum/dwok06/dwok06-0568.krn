@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK06-K0568-ten_mem_zdaniem_dobrze_zyje.krn
+!!!OTL: Ten mem zdaniem dobrze zyje
+!!!source: DWOK06
+!!!id: K0568
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4.a
+8b-
+4cc
+4cc
+=2
+4.a
+8b-
+4cc
+4cc
+=3
+8dd
+8cc
+8cc
+8b-
+8b-
+8a
+8a
+8g
+=4
+4.cc
+8b-
+4b-
+4a}
+!!LO:LB:g=esac
+=5
+{4.a
+8b-
+4cc
+4cc
+=6
+4.a
+8b-
+4cc
+4cc
+=7
+8dd
+8cc
+8cc
+8b-
+8b-
+8a
+8a
+8g
+=8
+4.cc
+8b-
+4b-
+4a}
+!!LO:LB:g=esac
+=9
+{4.b-
+8g
+4a
+4a
+=10
+4.b-
+8g
+4a
+4a
+=11
+4cc
+8a
+8cc
+4ff
+4dd
+=12
+8cc
+8b-
+8a
+8g
+4g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=350 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 324} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 324}
+!!!page: 324
+!!!ONB: Converted on 2024/12/26 with esac2hum

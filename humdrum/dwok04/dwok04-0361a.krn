@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK04-K0361a-gdzie_sie_dzialy_one_lata.krn
+!!!OTL: Gdzie sie dzialy one lata
+!!!source: DWOK04
+!!!id: K0361a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+16b
+16a
+16cc
+16ee
+=2
+16dd
+32cc
+32b
+8a
+8dd
+=3
+8b
+16b
+16a
+16cc
+16ee
+=4
+16dd
+32cc
+32b
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+16b
+16a
+16cc
+16a
+=6
+8b
+16b
+16a
+16cc
+16a
+=7
+8b
+16b
+16a
+16cc
+16ee
+=8
+16dd
+32cc
+32b
+8a
+8g}
+==
+*-
+!!!ONB: Wariant alternatywny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 195-196} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 195-196}
+!!!page: 195-196
+!!!ONB: Converted on 2024/12/26 with esac2hum

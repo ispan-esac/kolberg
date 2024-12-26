@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK57172700001-z_widki_jasiu_zza_dunaju.krn
+!!!OTL: Z widki, Jasiu? Zza dunaju
+!!!source: DWOK57
+!!!id: 571727
+!!!signature: 57172700001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4a
+4dd
+=2
+8cc
+8b
+4a
+4g}
+!!LO:LB:g=esac
+=3
+{4.cc
+8dd
+8ee
+8ff
+=4
+8ee
+8dd
+4ee
+4a}
+!!LO:LB:g=esac
+=5
+{4.cc
+8dd
+8ee
+8ff
+=6
+8ee
+8dd
+4ee
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 816
+!!!ONB: Converted on 2024/12/26 with esac2hum

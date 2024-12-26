@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2708300001-w_stodole_swita.krn
+!!!OTL: W stodole świta
+!!!source: DWOK27
+!!!id: 27083
+!!!signature: 2708300001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+4cc
+=2
+4b
+8g
+=3
+4cc
+8dd
+=4
+4ee}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8cc
+=6
+8b
+8a
+8g
+=7
+8cc
+4dd
+=8
+4ee}
+8r
+!!LO:LB:g=esac
+=9
+{16ee
+16gg
+8ff#
+8gg
+=10
+8ff
+8ee
+8dd
+=11
+16cc
+16b
+8cc
+8dd
+=12
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=13
+{8gg
+4gg
+=14
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 184} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

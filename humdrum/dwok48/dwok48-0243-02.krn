@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4824300002-instrumentalna_-_kozak.krn
+!!!OTL: Instrumentalna - Kozak
+!!!source: DWOK48
+!!!id: 48243
+!!!signature: 4824300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8gg
+4dd
+=2
+8dd
+8gg
+4dd
+=3
+8cc
+16ee
+16cc
+16b
+16dd
+16b
+16g
+=4
+8a
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+16b
+16dd
+16b
+16g
+=6
+8a
+8a
+16g
+16a
+16b
+16dd
+=7
+16cc
+16dd
+16ee
+16cc
+8b
+8b
+=8
+16a
+16f#
+16a
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 253} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 253}
+!!!page: 253
+!!!ONB: Converted on 2024/12/26 with esac2hum

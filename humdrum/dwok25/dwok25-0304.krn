@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2530400000-a_za_lasem_woly_moje.krn
+!!!OTL: A za lasem woły moje
+!!!source: DWOK25
+!!!id: 25304
+!!!signature: 2530400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8g
+8a
+=2
+16cc
+16cc
+8b
+8dd
+=3
+8cc
+8a
+16g
+16f#}
+!!LO:LB:g=esac
+=4
+{16.d
+32d
+4d}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8g
+8a
+=6
+16g
+16e
+8c
+8e
+=7
+8f#
+8a
+8d}
+!!LO:LB:g=esac
+=8
+{16.d
+32d
+4d}
+==
+*-
+!!!ONB: po wersie wokalnym melodia na trzcince
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 138} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 138}
+!!!page: 138
+!!!ONB: Converted on 2024/12/26 with esac2hum

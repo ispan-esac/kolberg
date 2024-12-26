@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3404800000-dajze_boze_nedeli_dozdaty.krn
+!!!OTL: Dajże Boże nedeli dożdaty
+!!!source: DWOK34
+!!!id: 34048
+!!!signature: 3404800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+4ee
+=2
+4dd
+8a
+8g
+=3
+8b
+8cc
+8cc
+8a
+=4
+4g
+4d}
+!!LO:LB:g=esac
+=5
+{8f#
+8g
+8a
+16b
+16cc
+=6
+8dd
+16dd
+16cc
+8b
+16b
+16a
+=7
+4g
+4d}
+!!LO:LB:g=esac
+=8
+{8f#
+8g
+8a
+16b
+16cc
+=9
+8dd
+16dd
+16cc
+8b
+8a
+=10
+4g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 32} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 32}
+!!!page: 32
+!!!ONB: Converted on 2024/12/26 with esac2hum

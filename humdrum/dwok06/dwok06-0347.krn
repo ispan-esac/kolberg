@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0347-pojedzies_pojade.krn
+!!!OTL: Pojedzies pojade
+!!!source: DWOK06
+!!!id: K0347
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+4cc
+=2
+8cc
+4cc
+8cc
+=3
+8b
+8dd
+4b
+=4
+8g
+4b
+8dd}
+!!LO:LB:g=esac
+=5
+{8dd
+16cc
+16b
+4a
+=6
+8g#
+4a
+8cc
+=7
+8b
+16a
+16g#
+4e
+=8
+8e
+4g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 174} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK2642900000-zajade_cie_moja_kasiu.krn
+!!!OTL: Zajadę cię moja Kasiu
+!!!source: DWOK26
+!!!id: 26429
+!!!signature: 2642900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8b
+8dd
+=2
+16dd
+16cc
+8a
+8f#
+=3
+16cc#
+16ee
+4dd}
+!!LO:LB:g=esac
+=4
+{16a
+16g
+8b
+8dd
+=5
+16dd
+16cc
+8a
+8a
+=6
+16g
+16e
+4d}
+==
+*-
+!!!ONB: Pieśń weselna owczarska
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 298
+!!!ONB: Converted on 2024/12/26 with esac2hum

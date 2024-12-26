@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK4823900010-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK48
+!!!id: 48239
+!!!signature: 4823900010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4g
+4ee
+=2
+8dd
+4cc
+8ee
+=3
+16dd
+16ee
+8dd
+8b
+8dd
+=4
+8cc
+4ee
+16b
+16cc}
+!!LO:LB:g=esac
+=5
+{4g
+4ee
+=6
+8dd
+4cc
+8ee
+=7
+8g
+8a
+8b
+8g
+=8
+8cc
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=296 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 252} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

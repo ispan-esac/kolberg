@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK57206900000-cala_moja_nadzieja_w_tych_torbach_skorzanych.krn
+!!!OTL: Cała moja nadzieja w tych torbach skórzanych
+!!!source: DWOK57
+!!!id: 572069
+!!!signature: 57206900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8g
+8g
+16g
+16g
+8e
+8g
+=2
+8g
+8a
+8g
+8g
+8e
+8g}
+!!LO:LB:g=esac
+=3
+{8e
+8g
+8g
+8g
+8g
+8e
+=4
+8g
+8a
+8g
+8g
+8e
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4f
+8e
+8e
+=6
+4g
+2g}
+!!LO:LB:g=esac
+=7
+{8g
+8g
+4f
+8e
+8e
+=8
+4e
+8e
+8g
+4g}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+4a
+4b
+=10
+2.cc}
+!!LO:LB:g=esac
+=11
+{8g
+8g
+4g
+4g
+=12
+2c}
+4r
+==
+*-
+!!!ONB: Wariant t. 8: 3_3_5__5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1133
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK06-K0431-dawnij_krol_dziada_mial.krn
+!!!OTL: Dawnij krol dziada mial
+!!!source: DWOK06
+!!!id: K0431
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4e
+4a
+4b
+=2
+2cc
+4b
+=3
+8dd
+8cc
+4b
+4a
+=4
+4a
+2g#}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+4a
+4b
+=6
+2cc
+4b
+=7
+8dd
+8cc
+4b
+4a
+=8
+4a
+2g#}
+!!LO:LB:g=esac
+=9
+{4a
+4a
+4b
+=10
+2cc
+4b
+=11
+8dd
+8cc
+4b
+4a
+=12
+4cc
+2b}
+!!LO:LB:g=esac
+=
+{12a
+12b
+12cc
+6b
+6a
+6g#
+=13
+2a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=253 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 227} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 227}
+!!!page: 227
+!!!ONB: Converted on 2024/12/26 with esac2hum

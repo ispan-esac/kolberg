@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4463500000-ktore_dziwcze_panow_lubi.krn
+!!!OTL: Które dziwcze panów lubi
+!!!source: DWOK44
+!!!id: 44635
+!!!signature: 4463500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ee
+8ff
+4ee
+4dd
+=2
+8ff
+8ff
+4ee
+4dd}
+!!LO:LB:g=esac
+=3
+{8ee
+8ee
+4dd
+4cc
+=4
+8cc
+8cc
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+4cc
+4b
+=6
+8b
+8g
+4a
+4a}
+!!LO:LB:g=esac
+=7
+{8a
+8b
+4cc
+4a
+=8
+8g
+8g
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=392 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 334} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 334}
+!!!page: 334
+!!!ONB: Converted on 2024/12/26 with esac2hum

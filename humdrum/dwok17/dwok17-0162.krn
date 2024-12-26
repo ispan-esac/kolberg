@@ -1,0 +1,110 @@
+!!!!SEGMENT: DWOK1716200000-instrumentalna_-_mazur.krn
+!!!OTL: Instrumentalna - Mazur
+!!!source: DWOK17
+!!!id: 17162
+!!!signature: 1716200000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16.f#
+32a
+16e
+16g
+16f#
+16c#
+=2
+16d
+16f#
+8a
+8dd
+=3
+8cc#
+8.e
+16g
+=4
+16b
+16a
+4f#}
+!!LO:LB:g=esac
+=5
+{16.f#
+32a
+16e
+16g
+16f#
+16c#
+=6
+16d
+16f#
+8a
+8dd
+=7
+8cc#
+8.e
+16g
+=8
+16b
+16a
+8.f#
+16d}
+!!LO:LB:g=esac
+=9
+{16.cc#
+32ee
+16b
+16dd
+16cc#
+16a
+=10
+16.cc#
+32ee
+16b
+16cc#
+8a
+=11
+16.cc#
+32ee
+16b
+16dd
+16cc#
+16a
+=12
+8b
+8b
+8a}
+!!LO:LB:g=esac
+=13
+{16.cc#
+32ee
+16b
+16dd
+16cc#
+16a
+=14
+16.cc#
+32ee
+16b
+16cc#
+8a
+=15
+16.cc#
+32ee
+16b
+16dd
+16cc#
+16ee
+=16
+16b
+16b
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=76 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 54} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 54}
+!!!page: 54
+!!!ONB: Converted on 2024/12/26 with esac2hum

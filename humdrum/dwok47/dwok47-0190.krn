@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4719000000-horiwoczka_okowyta_lublu_tebe_pyty.krn
+!!!OTL: Horiwoczka, okowyta, lublu tebe pyty
+!!!source: DWOK47
+!!!id: 47190
+!!!signature: 4719000000
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M2/4
+=1
+{8cc
+8ff
+8ff
+8ff
+=2
+8ff
+16ff
+16gg
+4aa-
+=3
+8gg
+8ff
+8ff
+8ff
+=4
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8b-
+8dd-
+8dd-
+8dd-
+=6
+8cc
+16cc
+16dd-
+4ee-
+=7
+8a-
+8a-
+8g
+8g
+=8
+4f
+4f}
+==
+*-
+!!!ONB: Wariant t. 5: 456b__6b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 190} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 190}
+!!!page: 190
+!!!ONB: Converted on 2024/12/26 with esac2hum

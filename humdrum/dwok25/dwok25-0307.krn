@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2530700000-a_za_lasem_wolki_moje.krn
+!!!OTL: A za lasem wołki moje
+!!!source: DWOK25
+!!!id: 25307
+!!!signature: 2530700000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+32f
+32a
+8b-
+8dd
+=2
+16ff
+32gg
+32ff
+8ee-
+8dd
+=3
+16cc
+16ee-
+4ff}
+!!LO:LB:g=esac
+=4
+{16f
+32f
+32a
+8b-
+8dd
+=5
+16ff
+32gg
+32ff
+8ee-
+8dd
+=6
+16cc
+16a
+4b-}
+!!LO:LB:g=esac
+=7
+{16f
+32cc
+32ee-
+8ff
+8gg
+=8
+16ff
+32gg
+32ff
+8ee-
+8dd
+=9
+16cc
+16ee-
+4ff}
+!!LO:LB:g=esac
+=10
+{16f
+32cc
+32ee-
+8gg
+8gg
+=11
+16ff
+32gg
+32ff
+8ee-
+8dd
+=12
+16cc
+16a
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 139} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 139}
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

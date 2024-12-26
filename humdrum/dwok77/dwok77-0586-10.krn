@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK7758600010-ojze_ja_mazur_i_ty_mazur.krn
+!!!OTL: Ojze ja Mazur i ty Mazur
+!!!source: DWOK77
+!!!id: 77586
+!!!signature: 7758600010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4b
+8dd
+8b
+8dd
+8gg
+=2
+8gg
+8b
+4dd
+8cc
+8b}
+!!LO:LB:g=esac
+=3
+{4a
+8cc
+8a
+8cc
+8ee
+=4
+8ee
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+4f#
+4d
+=6
+8g
+8b
+4dd
+8cc
+8b}
+!!LO:LB:g=esac
+=7
+{4a
+8cc
+8a
+8cc
+8ee
+=8
+8ee
+8dd
+4b
+4g}
+==
+*-
+!!!ONB: Od taktu 9 utwór instrumentalny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 301
+!!!ONB: Converted on 2024/12/26 with esac2hum

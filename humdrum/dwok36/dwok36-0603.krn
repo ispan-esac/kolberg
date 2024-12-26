@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK3660300000-sijaw_ja_oraw_ja.krn
+!!!OTL: Sijaw ja oraw ja
+!!!source: DWOK36
+!!!id: 36603
+!!!signature: 3660300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4a
+4ff
+4dd
+=2
+8ee
+8cc
+2a
+=3
+4g
+4cc
+4cc
+=4
+8g
+8cc
+2a}
+!!LO:LB:g=esac
+=5
+{4a
+4cc
+4cc
+=6
+8cc
+8dd
+2ee
+=7
+8ff
+8ee
+4dd
+4a
+=8
+8a
+8cc#
+2dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 399
+!!!ONB: Converted on 2024/12/26 with esac2hum

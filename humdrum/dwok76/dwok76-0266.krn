@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK7626600000-ojze_ino_o_dyna.krn
+!!!OTL: Ojże ino, o dyna
+!!!source: DWOK76
+!!!id: 76266
+!!!signature: 7626600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4dd
+4ee
+4cc
+=2
+2dd
+8dd
+8dd
+=3
+4cc
+4dd
+4ff
+=4
+4ee
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4dd
+4b
+=6
+4cc
+4cc
+8dd
+8b
+=7
+4cc
+4dd
+4ff
+=8
+8ee
+8cc
+4dd
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 137} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 137}
+!!!page: 137
+!!!ONB: Converted on 2024/12/26 with esac2hum

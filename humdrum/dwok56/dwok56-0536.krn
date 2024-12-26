@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK5653600000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK56
+!!!id: 56536
+!!!signature: 5653600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+32a
+32b
+8cc
+16ee
+16dd
+=
+8ee
+8dd
+48ee
+48ff
+48ee
+48dd
+48cc
+=
+4dd
+24b
+24a
+24g
+=2
+4.g}
+!!LO:LB:g=esac
+=3
+{16g
+32a
+32b
+8cc
+16ee
+16dd
+=
+16ee
+16ff
+32ee
+32ff
+16ee
+48ee
+48ff
+48ee
+48dd
+48b
+=4
+16dd
+16b
+4cc}
+!!LO:LB:g=esac
+=
+{16cc
+16ff
+8ee
+48ee
+48ff
+48ee
+48dd
+48cc
+=5
+4dd
+16g
+16b
+=6
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=488 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 384} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 384}
+!!!page: 384
+!!!ONB: Converted on 2024/12/26 with esac2hum

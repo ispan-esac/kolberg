@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK3623000000-maty_maty_serce_ne_zwazaje.krn
+!!!OTL: Maty maty serce ne zważaje
+!!!source: DWOK36
+!!!id: 36230
+!!!signature: 3623000000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{4ee
+8dd
+8a
+=2
+4cc
+8cc
+8b
+=3
+8.a
+16g#
+16a
+16b
+8cc
+=4
+4b
+8e}
+8r
+!!LO:LB:g=esac
+=5
+{8.ee
+16dd
+8cc
+8ee
+=6
+4dd
+8cc
+8b
+=7
+16b
+16a
+8g#
+16a
+16b
+8cc
+=8
+4b
+8e}
+8r
+!!LO:LB:g=esac
+=9
+*M3/4
+{8.a
+16g#
+8a
+8b
+8cc
+8dd
+=10
+8.ee
+16dd#
+8ee
+8dd
+8cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 131
+!!!ONB: Converted on 2024/12/26 with esac2hum

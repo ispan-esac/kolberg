@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK42184200001-mozna_poznac_chlopa_ze_wsi.krn
+!!!OTL: Mozna poznać chłopa ze wsi
+!!!source: DWOK42
+!!!id: 421842
+!!!signature: 42184200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8dd
+4ee
+4a
+=2
+8cc
+8cc
+4dd
+4dd
+=3
+8b
+8g
+4cc
+4cc
+=4
+8a
+8f#
+4d
+4d}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+4g
+4g
+=6
+8a
+8f#
+4g
+4g
+=7
+8b
+8g
+4cc
+4cc
+=8
+8a
+8f#
+4d
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 236} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 236}
+!!!ONB: Converted on 2024/12/26 with esac2hum

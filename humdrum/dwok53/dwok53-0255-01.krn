@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK5325500001-vaj_mes_trys.krn
+!!!OTL: Vaj! Mes trys
+!!!source: DWOK53
+!!!id: 53255
+!!!signature: 5325500001
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{4d
+4f
+4d
+=2
+4f
+2d
+=3
+4f
+4f
+4e-
+=4
+4f
+2d}
+!!LO:LB:g=esac
+=5
+{4f
+4f
+4e-
+=6
+2d
+4g
+=7
+2f
+4g}
+!!LO:LB:g=esac
+=8
+{4f
+4g
+4e-
+=9
+4.d
+8f
+4e-
+=10
+2.d}
+!!LO:LB:g=esac
+=11
+{4f
+4f
+4e-
+=12
+2d
+4g
+=13
+2f
+4g}
+!!LO:LB:g=esac
+=14
+{4f
+4g
+4e-
+=15
+4.d
+8f
+4e-
+=16
+2.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=379 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 339} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 339}
+!!!page: 339
+!!!ONB: Converted on 2024/12/26 with esac2hum

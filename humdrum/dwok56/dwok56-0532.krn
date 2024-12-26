@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5653200000-tam_na_hore_fijalonki_zacwyly.krn
+!!!OTL: Tam na hor'e fijałońki zacwyły
+!!!source: DWOK56
+!!!id: 56532
+!!!signature: 5653200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8cc
+8b
+8b
+8a
+8cc
+=2
+8b
+8g
+4.a
+8g
+=3
+4cc
+4b
+8cc
+16a}
+16r
+!!LO:LB:g=esac
+=4
+{8a
+8cc
+8b
+8b
+8a
+8cc
+=5
+8b
+8g
+2a
+=6
+8a
+8f#
+4g
+8g
+16g}
+16r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=486 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 382} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 382}
+!!!page: 382
+!!!ONB: Converted on 2024/12/26 with esac2hum

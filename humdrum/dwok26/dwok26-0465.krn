@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2646500000-o_bida_mi_z_ta_kokosa.krn
+!!!OTL: O bida mi z tą kokosą
+!!!source: DWOK26
+!!!id: 26465
+!!!signature: 2646500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.cc
+32ee
+8ee
+8dd
+=2
+16.cc
+32b
+8dd
+8a}
+!!LO:LB:g=esac
+=3
+{16.cc
+32ee
+8ee
+8dd
+=4
+16.cc
+32b
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{16.a
+32cc
+8a
+8b
+=6
+16.g
+32b
+8dd
+8ee}
+!!LO:LB:g=esac
+=7
+{16.a
+32cc
+8a
+8b
+=8
+16.g
+32b
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 312
+!!!ONB: Converted on 2024/12/26 with esac2hum

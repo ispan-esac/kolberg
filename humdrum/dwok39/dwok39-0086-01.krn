@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK3908600001-w_zielonym_raju_ptaszki_spiewaja.krn
+!!!OTL: W zielonym raju ptaszki śpiewają
+!!!source: DWOK39
+!!!id: 39086
+!!!signature: 3908600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+4gg
+8b
+=3
+8dd
+8dd
+8dd
+=4
+4cc
+8a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8ff#
+=6
+4aa
+8ff#
+=7
+8dd
+8dd
+8dd
+=8
+4b
+8g}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8dd
+=10
+4gg
+8b
+=11
+8dd
+8dd
+8dd
+=12
+4cc
+8a}
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+8ff#
+=14
+4aa
+8ff#
+=15
+8gg
+8gg
+8gg
+=16
+4gg}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 142-143} @EN{Oskar Kolberg Complete Works 39: Pomerania, pp. 142-143}
+!!!page: 142-143
+!!!ONB: Converted on 2024/12/26 with esac2hum

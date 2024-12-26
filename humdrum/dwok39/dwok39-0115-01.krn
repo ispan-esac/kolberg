@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK3911500001-wieci_miesiaczek_na_niebie.krn
+!!!OTL: Świeci miesiączek na niebie
+!!!source: DWOK39
+!!!id: 39115
+!!!signature: 3911500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+{12dd
+12dd
+12dd
+8dd
+8ee
+=1
+8ff#
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=
+{12g
+12b
+12dd
+8cc
+8b
+=2
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=
+{12d
+12e
+12f#
+8g
+16a
+16f#
+=
+12d
+12e
+12f#
+8g
+16a
+16f#
+=
+12g
+12a
+12b
+4cc}
+!!LO:LB:g=esac
+=3
+{8dd
+16gg
+16dd
+8cc
+8a
+=4
+8g
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 165} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 165}
+!!!page: 165
+!!!ONB: Converted on 2024/12/26 with esac2hum

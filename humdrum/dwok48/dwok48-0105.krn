@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4810500000-u_naszego_mlynarza.krn
+!!!OTL: U naszego młynarza
+!!!source: DWOK48
+!!!id: 48105
+!!!signature: 4810500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8cc
+8cc
+=2
+8b
+8a
+4g
+=3
+8g
+8b
+8dd
+8ff
+=4
+8ee
+8dd
+4ee}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+=6
+4cc
+4g
+=7
+8b
+8b
+8dd
+8b}
+!!LO:LB:g=esac
+=8
+{4cc
+4ee
+=9
+4cc
+4g
+=10
+8a
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 157} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 157}
+!!!page: 157
+!!!ONB: Converted on 2024/12/26 with esac2hum

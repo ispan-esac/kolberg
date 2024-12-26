@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2649900000-nie_chciala_dziewczyna.krn
+!!!OTL: Nie chciała dziewczyna
+!!!source: DWOK26
+!!!id: 26499
+!!!signature: 2649900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+4dd
+=2
+16.a
+32b
+8cc
+8g
+=3
+8cc
+8.dd
+16ee
+=4
+16dd
+16dd
+8ff#
+8gg}
+!!LO:LB:g=esac
+=5
+{8.dd
+16b
+16dd
+16ff
+=
+24ee
+24ff
+24ee
+8cc
+16ee
+16gg
+=6
+8.dd
+16g
+16b
+16dd
+=
+24ee
+24ff
+24ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 321
+!!!ONB: Converted on 2024/12/26 with esac2hum

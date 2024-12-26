@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK1229400000-s_tej_ta_strony_jeziora.krn
+!!!OTL: S tej ta strony jęziora
+!!!source: DWOK12
+!!!id: 12294
+!!!signature: 1229400000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8dd
+8dd
+16a
+16ee-
+=2
+8dd
+8dd
+8cc
+=3
+16b-
+16a
+8b-
+8g
+=4
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+16a
+16ee-
+=6
+8dd
+8dd
+8cc
+=7
+16b-
+16a
+8b-
+8g
+=8
+8f#
+4d}
+!!LO:LB:g=esac
+=9
+{8g
+16g
+16a
+16b-
+16g
+=10
+8cc
+16cc
+16ee-
+16dd
+16cc
+=11
+8b-
+8dd
+8g
+=12
+8f#
+4d}
+!!LO:LB:g=esac
+=13
+{8g
+16g
+16a
+16b-
+16g
+=14
+8cc
+16cc
+16ee-
+16dd
+16cc
+=15
+8b-
+8.dd
+16f#
+=16
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 158} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 158}
+!!!page: 158
+!!!ONB: Converted on 2024/12/26 with esac2hum

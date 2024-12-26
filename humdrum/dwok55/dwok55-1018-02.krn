@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK55101800002-oj_popid_haj_zelenenkij.krn
+!!!OTL: Oj popid haj zeleneńkij
+!!!source: DWOK55
+!!!id: 551018
+!!!signature: 55101800002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8ee
+8ee
+8ee
+=2
+8ee
+4.ee
+=
+8ee
+8dd
+24dd
+24ee
+24dd
+24cc
+24b
+24a}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+8dd
+8dd
+=4
+8dd
+4.dd
+=5
+4ee
+16dd
+16cc
+16b
+16a}
+!!LO:LB:g=esac
+=6
+{8cc
+8ee
+16dd
+16cc
+16b
+16a
+=7
+8a
+4.a
+=8
+4ee
+16dd
+16cc
+16b
+16a}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+16dd
+16cc
+16b
+16a
+=10
+8a
+4.a
+=11
+8a
+8a}
+4r
+==
+*-
+!!!ONB: DWOK 55 nr 1018
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=463 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 434} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 434}
+!!!page: 434
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,116 @@
+!!!!SEGMENT: DWOK4124500000-instrumentalna-walc.krn
+!!!OTL: Instrumentalna-Walc
+!!!source: DWOK41
+!!!id: 41245
+!!!signature: 4124500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16.f
+32a
+16f
+16a
+16f
+16a
+=2
+16g
+16f
+16g
+16a
+8b-
+=3
+16a
+16cc
+16ff
+16aa
+16gg
+16ee
+=4
+16ff
+16ee
+16dd
+16cc
+16b-
+16g}
+!!LO:LB:g=esac
+=5
+{16.f
+32a
+16f
+16a
+16f
+16a
+=6
+16g
+16f
+16g
+16a
+8b-
+=7
+16a
+16cc
+16ff
+16aa
+16gg
+16ee
+=8
+4.ff}
+!!LO:LB:g=esac
+=9
+{16.gg
+32ee
+16cc
+16dd
+16ee
+16gg
+=10
+16ff
+16ee
+16ff
+16gg
+16aa
+16ff
+=11
+16gg
+16ee
+16cc
+16dd
+16ee
+16gg
+=12
+4.ff}
+!!LO:LB:g=esac
+=13
+{16.gg
+32ee
+16cc
+16dd
+16ee
+16gg
+=14
+16ff
+16ee
+16ff
+16gg
+16aa
+16ff
+=15
+16gg
+16ee
+16cc
+16dd
+16ee
+16gg
+=16
+4.ff}
+==
+*-
+!!!ONB: Przy weselu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 141} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 141}
+!!!page: 141
+!!!ONB: Converted on 2024/12/26 with esac2hum

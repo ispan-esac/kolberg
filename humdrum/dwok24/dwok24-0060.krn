@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2406000000-zrobcie_mu_miejsce.krn
+!!!OTL: Zróbcie mu miejsce
+!!!source: DWOK24
+!!!id: 24060
+!!!signature: 2406000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4f
+8f
+8f
+4g
+4g
+=2
+4cc
+8b-
+8a
+4a
+4g}
+!!LO:LB:g=esac
+=3
+{4cc
+8b-
+8a
+4dd
+8cc
+8b-
+=4
+4a
+8b-
+8g
+4g
+4f}
+!!LO:LB:g=esac
+=5
+{4f
+8f
+8f
+4g
+4g
+=6
+4cc
+8b-
+8a
+4a
+4g}
+!!LO:LB:g=esac
+=7
+{4cc
+8b-
+8a
+4dd
+8cc
+8b-
+=8
+4a
+8b-
+8g
+4g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 165} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 165}
+!!!page: 165
+!!!ONB: Converted on 2024/12/26 with esac2hum

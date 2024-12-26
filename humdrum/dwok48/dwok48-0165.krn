@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4816500000-cos_tam_w_lesie_steknelo.krn
+!!!OTL: Coś tam w lesie stękneło
+!!!source: DWOK48
+!!!id: 48165
+!!!signature: 4816500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{4b
+8dd
+4b
+8dd
+=2
+4a
+8b
+4cc}
+8r
+!!LO:LB:g=esac
+=3
+{4cc
+8ee
+4cc
+8ee
+=4
+4dd
+8cc#
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{4b
+8dd
+4gg
+8dd
+=6
+4ee
+8dd
+4a}
+8r
+!!LO:LB:g=esac
+=7
+{4dd
+8dd
+4cc
+8g
+=8
+4b
+8a
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 205} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 205}
+!!!page: 205
+!!!ONB: Converted on 2024/12/26 with esac2hum

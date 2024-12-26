@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK4643300000-to_rudlickie_pole_ni_w_gorze_ni_w_dole.krn
+!!!OTL: To rudlickie pole ni w górze, ni w dole
+!!!source: DWOK46
+!!!id: 46433
+!!!signature: 4643300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8ee
+=2
+8dd
+4.b
+=3
+8a
+8b
+8cc
+8cc
+=4
+8dd
+4.b}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+4a
+=6
+8a
+4b
+8g#
+=7
+8e
+8e
+8e
+8g#
+=8
+8b
+4.a}
+!!LO:LB:g=esac
+=9
+{8cc
+8b
+4a
+=10
+8cc
+4b
+8e
+=11
+8e
+8e
+8e
+8g#
+=12
+8b
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=304 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 270} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 270}
+!!!page: 270
+!!!ONB: Converted on 2024/12/26 with esac2hum

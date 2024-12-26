@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK4808300000-nieszczesliwy_ten_ganeczek.krn
+!!!OTL: Nieszczęśliwy ten ganeczek
+!!!source: DWOK48
+!!!id: 48083
+!!!signature: 4808300000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8b
+8cc
+4.dd
+8dd
+=2
+8ee
+8a
+4cc
+4a}
+!!LO:LB:g=esac
+=3
+{8b
+8cc
+4.dd
+8dd
+=4
+8ee
+8a
+4cc
+4a}
+!!LO:LB:g=esac
+=5
+{4a
+8b
+8f#
+4g
+=6
+8a
+8g
+8b
+8f#
+4g}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+4.a
+8g
+=8
+*M2/4
+8cc
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=9
+*M3/4
+{8f#
+8g
+4.a
+8g
+=10
+*M2/4
+8cc
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=11
+{8a
+8g
+8b
+8g
+=12
+8f#
+8g
+8a
+8f#
+=13
+4g}
+4r
+==
+*-
+!!!ONB: Wariant t. 4: 62432_; wariant t. 11: -7131
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 143-144} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, pp. 143-144}
+!!!page: 143-144
+!!!ONB: Converted on 2024/12/26 with esac2hum

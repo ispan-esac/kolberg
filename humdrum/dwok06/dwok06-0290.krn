@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK06-K0290-w_mojim_ogrodecku.krn
+!!!OTL: W mojim ogrodecku
+!!!source: DWOK06
+!!!id: K0290
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4cc
+8cc
+=2
+16cc
+16cc
+8b-
+8dd
+=3
+4cc
+8a
+=4
+16g
+16g
+8b-
+8g}
+!!LO:LB:g=esac
+=5
+{4cc
+8cc
+=6
+16cc
+16cc
+8b-
+8dd
+=7
+4cc
+8a
+=8
+16g
+16g
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 146} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 146}
+!!!page: 146
+!!!ONB: Converted on 2024/12/26 with esac2hum

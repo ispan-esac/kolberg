@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1642400002-a_ty_ptasku_kregulaszku.krn
+!!!OTL: A ty ptasku kręgulaszku
+!!!source: DWOK16
+!!!id: 16424b
+!!!signature: 1642400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.dd
+16ee
+16dd
+16cc
+=2
+8.dd
+16b
+16cc
+16ee
+=3
+16dd
+16b
+8cc
+16a
+16f#
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8.a
+16b
+16a
+16g
+=6
+8.a
+16b
+16cc
+16ee
+=7
+16dd
+16g
+8cc
+16a
+16f#
+=8
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 264} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 264}
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK27190b0000-cas_nam_do_domu_dziewcyno.krn
+!!!OTL: Cas nam do domu dziewcyno
+!!!source: DWOK27
+!!!id: 27190b
+!!!signature: 27190b0000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8ff
+8dd
+16ff
+16ee
+=2
+16cc
+16cc
+8ee
+8gg
+=3
+16ff
+16dd
+8ff
+16dd
+16cc
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{8b-
+8g
+16b-
+16a
+=6
+16f
+16f
+8a
+16cc
+16dd
+=7
+16b-
+16e
+8g
+16b-
+16a
+=8
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=270 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 251} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

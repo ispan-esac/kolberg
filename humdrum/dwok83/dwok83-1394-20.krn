@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK83139400020-instrumentalna_-_polka.krn
+!!!OTL: Instrumentalna - Polka
+!!!source: DWOK83
+!!!id: 831394
+!!!signature: 83139400020
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8.f
+16f
+8a
+8cc
+=2
+8ee-
+8cc
+8a
+8a
+=3
+8.f
+16f
+8a
+8cc
+=4
+8ff
+8dd
+8b-
+8b-
+=5
+8f
+8f
+8a
+8cc
+=6
+8gg
+8gg
+4gg
+=7
+16ff
+16gg
+16ff
+16dd
+16ee-
+16dd
+16cc
+16a
+=8
+8b-
+8b-
+4b-}
+==
+*-
+!!!ONB: Wariant t. 2: 4542-7_-7_; wariant t. 8: 1_1-71__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=335 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 232-233} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, pp. 232-233}
+!!!page: 232-233
+!!!ONB: Converted on 2024/12/26 with esac2hum

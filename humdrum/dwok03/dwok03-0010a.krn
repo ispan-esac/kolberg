@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK03-K0010a-dalej_dalej_dalej.krn
+!!!OTL: Dalej dalej dalej
+!!!source: DWOK03
+!!!id: K0010a
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=1
+{8d
+8e
+8f#
+8g
+4a
+4dd
+=2
+8dd
+16ee
+16dd
+8cc#
+8b
+4b
+4a
+=3
+8f#
+8f#
+8e
+8g
+4f#
+4a}
+!!LO:LB:g=esac
+=4
+{8f#
+8f#
+8e
+8g
+4f#
+4a
+=5
+4cc#
+8dd
+8f#
+4b
+4a
+=6
+4ff#
+8gg
+8cc#
+4ee
+4dd}
+!!LO:LB:g=esac
+=7
+{8d
+8e
+8f#
+8g
+4a
+4dd
+=8
+8dd
+16ee
+16dd
+8cc#
+8b
+8b
+8a
+4a
+=9
+8g
+8f#
+8e
+8g
+8f#
+8f#
+4a}
+!!LO:LB:g=esac
+=10
+{8g
+8f#
+8e
+8g
+8f#
+8a
+4a
+=11
+4cc#
+8dd
+8f#
+8b
+8a
+4a
+=12
+4ff#
+8gg
+8cc#
+8ee
+8dd
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 222} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 222}
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

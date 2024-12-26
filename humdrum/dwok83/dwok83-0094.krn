@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK8309400000-instrumentalna_-_krakowiak_weselny.krn
+!!!OTL: Instrumentalna - Krakowiak weselny
+!!!source: DWOK83
+!!!id: 83094
+!!!signature: 8309400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8g#
+8a
+8cc
+=2
+4dd
+4a
+=3
+8cc
+8dd
+4ee
+=4
+4ee
+4dd#}
+!!LO:LB:g=esac
+=5
+{8cc
+16b
+16a
+8cc
+8ee
+=6
+8dd#
+16cc
+16b
+4a
+=7
+8cc
+8a
+8b
+8g#
+=8
+8a
+4a
+8a}
+==
+*-
+!!!ONB: Wariant t. 4: 5__4#54#_; wariant t. 6: 4#__3b21_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 92} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 92}
+!!!page: 92
+!!!ONB: Converted on 2024/12/26 with esac2hum

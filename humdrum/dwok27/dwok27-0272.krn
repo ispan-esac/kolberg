@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK2727200000-a_w_sadenku_na_debie.krn
+!!!OTL: A w sadeńku na dębie
+!!!source: DWOK27
+!!!id: 27272
+!!!signature: 2727200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4ee
+8ff
+=2
+8dd
+4cc
+=3
+8a
+4b
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8gg
+8gg
+=6
+8dd
+8gg
+8ee
+=7
+16cc
+16ee
+8gg
+8dd
+=8
+8dd
+8gg
+8ee}
+!!LO:LB:g=esac
+=9
+{16cc
+16ee
+8ff
+8dd
+=10
+8a
+4b
+=11
+4.g}
+!!LO:LB:g=esac
+=12
+{8.ee
+16cc
+16ee
+16ff
+=13
+8dd
+4cc
+=14
+8a
+4b
+=15
+4.g}
+!!LO:LB:g=esac
+=16
+{16cc
+16ee
+8gg
+16gg
+16ff
+=17
+8dd
+8gg
+8ee
+=18
+16cc
+16ee
+8gg
+8ff
+=19
+8dd
+8gg
+8ee}
+!!LO:LB:g=esac
+=20
+{16cc
+16ee
+8ff
+16dd
+16cc
+=21
+8a
+4b
+=22
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=306 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 287} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 287}
+!!!page: 287
+!!!ONB: Converted on 2024/12/26 with esac2hum

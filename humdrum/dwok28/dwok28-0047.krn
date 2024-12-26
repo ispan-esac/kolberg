@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK2804700000-niedaleko_miastecka.krn
+!!!OTL: Niedaleko miastecka
+!!!source: DWOK28
+!!!id: 28047
+!!!signature: 2804700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8b
+=2
+16b
+16a
+8b
+8g
+=3
+4a
+8a
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8b
+=6
+8b
+8b
+8b
+=7
+4cc
+8cc
+=8
+4b}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 98} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

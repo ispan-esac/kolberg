@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3651200002-oj_zadumaw_zahadaw.krn
+!!!OTL: Oj zadumaw zahadaw
+!!!source: DWOK36
+!!!id: 36512
+!!!signature: 3651200002
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8a
+8a
+4.ee
+16dd
+16b
+=2
+*M2/4
+8a
+8cc
+8dd
+8b
+=3
+8a
+8a
+8ee
+16dd
+16ee
+=4
+16cc
+16dd
+16b
+16cc
+4a}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8a
+8cc
+8b
+8a
+8ee
+8dd
+=6
+8cc
+8b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 334
+!!!ONB: Converted on 2024/12/26 with esac2hum

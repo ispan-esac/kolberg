@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2241800000-jakem_poszed_na_polrolki.krn
+!!!OTL: Jakem poszed na półrólki
+!!!source: DWOK22
+!!!id: 22418
+!!!signature: 2241800000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16g
+16b-
+8dd
+8dd
+=2
+16cc#
+16cc#
+8dd
+8a
+=3
+16g
+16b-
+8dd
+8dd
+=4
+16cc#
+16cc#
+8dd
+8a}
+!!LO:LB:g=esac
+=5
+{16cc
+16b-
+8g
+8a
+=6
+16f#
+16f#
+8g
+8dd
+=7
+16cc
+16b-
+8a
+8g
+=8
+16f#
+16f#
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 208} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 208}
+!!!page: 208
+!!!ONB: Converted on 2024/12/26 with esac2hum

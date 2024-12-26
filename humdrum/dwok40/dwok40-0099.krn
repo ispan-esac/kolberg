@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK4009900000-spod_tego_gaju_spod_zielonego.krn
+!!!OTL: Spod tego gaju spod zielonego
+!!!source: DWOK40
+!!!id: 40099
+!!!signature: 4009900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8g
+8a
+4a
+8a
+8cc
+=2
+4a
+2g
+=3
+8g
+8a
+4a
+8a
+8cc
+=4
+4a
+2g}
+!!LO:LB:g=esac
+=5
+{4.g
+8b
+8dd
+8b
+=6
+8dd
+8ee
+4cc
+[4a
+=7
+2a]
+4a}
+!!LO:LB:g=esac
+=8
+{8a
+8cc
+4ee
+4cc
+=9
+8dd
+16ee
+16ff
+2ee
+=10
+4dd
+8ee
+8dd
+4cc
+=11
+4a
+2g}
+!!LO:LB:g=esac
+=12
+{8g
+8b
+4dd
+4b
+=13
+8dd
+8ee
+4cc
+[4a
+=14
+2a]
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=242 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 183} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 183}
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

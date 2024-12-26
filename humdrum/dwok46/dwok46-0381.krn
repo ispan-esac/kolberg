@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4638100000-mars_mi_graja_mars_mi_graja.krn
+!!!OTL: Mars mi grają, mars  mi grają
+!!!source: DWOK46
+!!!id: 46381
+!!!signature: 4638100000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+=1
+*M3/4
+{8a
+8a
+4ee
+4cc
+=2
+*M2/4
+8dd
+8ff#
+8gg
+8ee
+=3
+8dd
+8ff#
+8gg
+8ee}
+!!LO:LB:g=esac
+=4
+*M3/4
+{8dd
+8ff#
+4ee
+4a
+=5
+8dd
+8b
+4.a
+8cc}
+!!LO:LB:g=esac
+=6
+{8dd
+8gg
+4ee
+4a
+=7
+8dd
+8b
+4a
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 246-247} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, pp. 246-247}
+!!!page: 246-247
+!!!ONB: Converted on 2024/12/26 with esac2hum

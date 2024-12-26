@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK03-K0017-instrumentalna_-_marsz.krn
+!!!OTL: Instrumentalna - Marsz
+!!!source: DWOK03
+!!!id: K0017
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M6/4
+{8g
+8g
+8cc
+8ee
+=1
+4gg
+4ee
+4gg
+4ee
+8aa
+8gg
+8ff
+8ee
+=2
+4ff
+4dd
+4ff
+4dd
+8gg
+8ff
+8ee
+8dd}
+!!LO:LB:g=esac
+=3
+{8cc
+8dd
+8ee
+8ff
+8gg
+8aa
+8dd
+16ee
+16ff
+8ee
+8dd
+8cc
+8b
+=4
+4cc
+4cc
+4dd
+8cc
+8b
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{4g
+4e
+4g
+4e
+8a
+8g
+8f
+8e
+=6
+4f
+4d
+4f
+4d
+8g
+8f
+8e
+8g}
+!!LO:LB:g=esac
+=7
+{4cc
+4g
+4cc
+4g
+8cc
+8g
+8cc
+8ee
+=8
+4gg
+4gg
+4aa
+8gg
+8ff#
+4gg
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 240} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 240}
+!!!page: 240
+!!!ONB: Converted on 2024/12/26 with esac2hum

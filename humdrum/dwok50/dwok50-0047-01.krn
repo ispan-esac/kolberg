@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5004700001-oj_z_hore_na_dolyjku_oj_pomalenku_zyjdu.krn
+!!!OTL: Oj, z hore na dołyjku, oj, pomaleńku zyjdu
+!!!source: DWOK50
+!!!id: 50047
+!!!signature: 5004700001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+8cc
+8cc
+=2
+16ee
+16ee
+8cc
+8cc
+=3
+8ff
+8dd
+8dd
+=
+24dd
+24ff
+24ee
+8b
+8g}
+!!LO:LB:g=esac
+=
+{24g
+24a
+24b
+4cc
+=4
+8dd
+8ff
+8ff
+=5
+16ff
+16ff
+4dd
+=6
+8b
+8cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 19} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 19}
+!!!page: 19
+!!!ONB: Converted on 2024/12/26 with esac2hum

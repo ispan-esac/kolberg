@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4054000000-na_polu_sosnia_stojala.krn
+!!!OTL: Na polu sośnia stojała
+!!!source: DWOK40
+!!!id: 40540
+!!!signature: 4054000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4dd
+4ee
+=2
+2dd
+4a
+=3
+8cc
+8b
+2g}
+!!LO:LB:g=esac
+=4
+{4dd
+4dd
+4ee
+=5
+2dd
+4a
+=6
+8cc
+8b
+2g}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+4g
+4dd
+=8
+4cc
+4b
+4dd}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+4g
+4dd
+=10
+4cc
+4b
+4dd}
+!!LO:LB:g=esac
+=11
+{8cc
+8a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=569 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 502} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 502}
+!!!page: 502
+!!!ONB: Converted on 2024/12/26 with esac2hum

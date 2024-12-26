@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1649400001-idzie_zolnierz_borem_lasem.krn
+!!!OTL: Idzie żołnierz borem lasem
+!!!source: DWOK16
+!!!id: 16494a
+!!!signature: 1649400001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8cc
+8dd
+4ee
+4ee
+=2
+8cc
+8dd
+4.a
+16a}
+16r
+!!LO:LB:g=esac
+=3
+*M2/4
+{8ee
+8ee
+8gg
+8ff
+=4
+8ee
+8dd
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8dd
+8ff
+4ee
+4a
+=6
+*M2/4
+8a
+8cc
+8dd
+8cc}
+!!LO:LB:g=esac
+=7
+*M3/4
+{8dd
+8ff#
+4ee
+4a
+=8
+8cc
+8dd
+4.a
+16a}
+16r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=321 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 301} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 301}
+!!!ONB: Converted on 2024/12/26 with esac2hum

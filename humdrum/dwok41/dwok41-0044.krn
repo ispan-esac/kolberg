@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4104400000-oj_nie_moj_konik_nie_moj.krn
+!!!OTL: Oj, nie moj konik, nie moj
+!!!source: DWOK41
+!!!id: 41044
+!!!signature: 4104400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4cc
+8cc
+8b
+=2
+8cc
+8dd
+4ee
+8cc
+8a}
+!!LO:LB:g=esac
+=3
+{4g
+4b
+4dd
+=4
+8b
+8dd
+4ff
+8dd
+8b}
+!!LO:LB:g=esac
+=5
+{4g
+4cc
+8cc
+8b
+=6
+8cc
+8dd
+4ee
+8cc
+8a}
+!!LO:LB:g=esac
+=7
+{4g
+4b
+8dd
+8ee
+=8
+8ff
+8dd
+4b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 47} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

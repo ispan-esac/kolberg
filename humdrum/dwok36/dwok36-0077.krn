@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3607700000-zarizu_kaczora.krn
+!!!OTL: Zariżu kaczora
+!!!source: DWOK36
+!!!id: 36077
+!!!signature: 3607700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8g
+8g
+=2
+8b
+8cc
+8cc
+=3
+8b
+8cc
+8cc
+=4
+8b
+8b
+8a
+=5
+8f#
+4d}
+!!LO:LB:g=esac
+=6
+{8b
+8cc
+8b
+=7
+8d
+8f#
+8g
+=8
+8b
+8cc
+8a
+=9
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 43
+!!!ONB: Converted on 2024/12/26 with esac2hum

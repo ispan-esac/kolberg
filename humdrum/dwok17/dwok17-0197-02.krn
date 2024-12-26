@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK1719700002-instrumentalna_-_kozaczek_szopkowy.krn
+!!!OTL: Instrumentalna - Kozaczek szopkowy
+!!!source: DWOK17
+!!!id: 17197
+!!!signature: 1719700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16d
+8.d
+16d
+8.d
+=2
+16d
+8.d
+16d
+8.d}
+!!LO:LB:g=esac
+=3
+{16d
+16f#
+16a
+16cc
+16b
+16g
+16b
+16dd
+=4
+16a
+16f#
+16a
+16cc
+16b
+16g
+16b
+16dd
+=5
+16a
+16f#
+16a
+16cc
+16b
+16g
+16b
+16dd
+=6
+16cc
+16a
+16f#
+16d
+4g}
+!!LO:LB:g=esac
+=7
+{16d
+16f#
+16a
+16cc#
+16dd
+16ee
+16dd
+16cc#
+=8
+16dd
+16ee
+16dd
+16cc#
+16dd
+16ee
+16dd
+16b
+=9
+8cc
+8cc
+16b
+16dd
+16b
+16g
+=10
+8a
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 63} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 63}
+!!!page: 63
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK7786600000-instrumentalne_mazur.krn
+!!!OTL: Instrumentalne, Mazur
+!!!source: DWOK77
+!!!id: 77866
+!!!signature: 7786600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4d
+8c
+=2
+16B
+16d
+8g
+8b
+=3
+8dd
+8f#
+8a
+=4
+16.a
+32a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16gg
+16ff#
+8gg
+16ee
+16cc
+=6
+8ee
+16dd
+16b
+8dd
+=7
+16.b
+32b
+8cc
+16a
+16g
+=8
+8b
+16cc
+16a
+8dd}
+!!LO:LB:g=esac
+=9
+{16gg
+16ff#
+8gg
+16ee
+16cc
+=10
+8ee
+16dd
+16b
+8g
+=11
+16.b
+32b
+8cc
+16a
+16g
+=12
+8b
+16cc
+16a
+8g}
+==
+*-
+!!!ONB: Wariant w takcie drugim -3_-3_-5__1_3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 64
+!!!ONB: Converted on 2024/12/26 with esac2hum

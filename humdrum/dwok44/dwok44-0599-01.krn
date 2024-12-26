@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4459900001-trzymajze_sie_trzymaj.krn
+!!!OTL: Trzymajze się, trzymaj
+!!!source: DWOK44
+!!!id: 44599
+!!!signature: 4459900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+4cc
+=2
+8b
+8dd
+4cc
+=3
+8b
+8dd
+8cc
+8b
+=4
+4b
+4d}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+4g
+=6
+8a
+8a
+4g
+=7
+8f#
+8a
+8g
+8b
+=8
+4a
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=374 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 316} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 316}
+!!!page: 316
+!!!ONB: Converted on 2024/12/26 with esac2hum

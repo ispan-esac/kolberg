@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK06-K0834-idzie_woda.krn
+!!!OTL: Idzie woda
+!!!source: DWOK06
+!!!id: K0834
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8gg
+8dd
+8ee-
+8dd
+=2
+8cc
+8a
+8.dd
+16b-
+=3
+8g
+8b-
+8dd
+8ff#
+=4
+4dd
+4gg}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ee-
+8dd
+=6
+8cc
+8a
+8.dd
+16b-
+=7
+8g
+8b-
+8f#
+8a
+=8
+4d
+4g}
+!!LO:LB:g=esac
+=9
+{4a
+4dd
+=10
+4b-
+4g
+=11
+16d
+16f#
+16a
+16dd
+8cc#
+8dd
+=12
+8g
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=521 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 495} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 495}
+!!!page: 495
+!!!ONB: Converted on 2024/12/26 with esac2hum

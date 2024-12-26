@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK06-K0761-cyje_to_koniki.krn
+!!!OTL: Cyje to koniki
+!!!source: DWOK06
+!!!id: K0761
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+4dd
+8dd
+=2
+8dd
+8b
+8cc
+8a
+=3
+8b
+4b
+8a
+=4
+8b
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+4dd
+8b
+=6
+8b
+8b
+8cc
+8a
+=7
+8b
+4b
+8cc
+=8
+8a
+8b
+8g
+8f#}
+!!LO:LB:g=esac
+=9
+{4b
+4cc
+=10
+8a
+8b
+8g
+8f#
+=11
+8g
+4b
+8cc
+=12
+16a
+16b
+8cc
+8g
+8f#}
+!!LO:LB:g=esac
+=13
+{4b
+4cc
+=14
+8a
+8b
+8g
+8f#
+=15
+8g
+4b
+8cc
+=16
+16a
+16b
+8cc
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=489 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 463} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 463}
+!!!page: 463
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK03-K0031-oj_przyjechali_zolnierze.krn
+!!!OTL: Oj przyjechali zolnierze
+!!!source: DWOK03
+!!!id: K0031
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8d
+8dd
+8cc#
+=2
+4dd
+8g
+=3
+16b-
+16a
+8g
+8a
+=4
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8d
+8dd
+8cc#
+=6
+4dd
+8cc#
+=7
+16b-
+16a
+8g
+8a
+=8
+8f#
+4d}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+8d
+=10
+4g
+16b-
+16a
+=11
+16g
+16a
+8f#
+8d
+=12
+8g
+4b-}
+!!LO:LB:g=esac
+=13
+{8d
+8f#
+8d
+=14
+4g
+16b-
+16a
+=15
+16g
+16a
+8f#
+8d
+=16
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 269} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 269}
+!!!page: 269
+!!!ONB: Converted on 2024/12/26 with esac2hum

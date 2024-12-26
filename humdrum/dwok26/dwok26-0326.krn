@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2632600000-za_stodola_bylica.krn
+!!!OTL: Za stodołą bylica
+!!!source: DWOK26
+!!!id: 26326
+!!!signature: 2632600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8cc
+8cc
+=2
+8a
+8b
+4g
+=3
+8cc
+8ee
+8gg
+8ee
+=4
+8ff
+8aa
+4dd}
+!!LO:LB:g=esac
+=5
+{4ff
+8ee
+8cc
+=6
+8b
+8dd
+4g
+=7
+8g
+8a
+8b
+8g
+=8
+8cc
+8b
+4cc}
+!!LO:LB:g=esac
+=9
+{4ff
+8ee
+8cc
+=10
+8b
+8dd
+4g
+=11
+8g
+8a
+8b
+8dd
+=12
+8cc
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 249
+!!!ONB: Converted on 2024/12/26 with esac2hum

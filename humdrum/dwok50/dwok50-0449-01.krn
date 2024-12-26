@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK5044900001-chcialbym_wam_powiedziec_ten_jeden_kawalek.krn
+!!!OTL: Chciałbym wam powiedzieć ten jeden kawałek
+!!!source: DWOK50
+!!!id: 50449
+!!!signature: 5044900001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8cc
+8a
+=2
+4.dd
+8cc
+=3
+8b
+8a
+8g
+8f
+=4
+8e
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+4cc
+=6
+8dd
+4ff
+8ee
+=7
+8dd
+8cc
+8b
+8b
+=8
+8cc
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=295 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 268} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 268}
+!!!page: 268
+!!!ONB: Converted on 2024/12/26 with esac2hum

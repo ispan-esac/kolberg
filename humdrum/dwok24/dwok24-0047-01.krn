@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2404700001-przyszlismy_tu_po_dyngusie.krn
+!!!OTL: Przyszliśmy tu po dyngusie
+!!!source: DWOK24
+!!!id: 24047
+!!!signature: 2404700001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4b
+4b
+4dd
+4cc#
+=2
+4a
+4cc
+4b
+4a}
+!!LO:LB:g=esac
+=3
+{4b
+4b
+4dd
+4cc#
+=4
+4a
+4cc
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{4b
+4cc
+4dd
+4b
+=6
+4d
+4cc
+4b
+4a}
+!!LO:LB:g=esac
+=7
+{4b
+4g
+4a
+4f#
+=8
+4d
+4cc
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 144} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 144}
+!!!page: 144
+!!!ONB: Converted on 2024/12/26 with esac2hum

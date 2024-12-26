@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK2730600000-opasali_mnie_fartuskiem.krn
+!!!OTL: Opasali mnie fartuskiem
+!!!source: DWOK27
+!!!id: 27306
+!!!signature: 2730600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.g
+16a
+16b
+16cc
+=2
+16dd
+16dd
+8ee
+8dd
+=3
+16dd
+16cc
+8a
+8a
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{8.g
+16a
+16b
+16cc
+=6
+16dd
+16dd
+8ee
+8dd
+=7
+16dd
+16cc
+8a
+8dd
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16cc
+16cc
+8.a
+16g
+=10
+16f#
+16g
+8a
+8a
+=11
+16cc
+16cc
+8.a
+16g
+=12
+16f#
+16g
+8a
+8a}
+!!LO:LB:g=esac
+=13
+{16dd
+16cc
+8a
+8dd
+=14
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=323 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 304} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 304}
+!!!page: 304
+!!!ONB: Converted on 2024/12/26 with esac2hum

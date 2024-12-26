@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1222900000-siwy_golabecek_i_biala_ptaszyna.krn
+!!!OTL: Siwy gołąbecek i biała ptaszyna
+!!!source: DWOK12
+!!!id: 12229
+!!!signature: 1222900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8a
+8b
+8cc
+4b
+4d
+=2
+8g
+8a
+8b
+8cc
+4b
+4d
+=3
+8g
+8a
+8b
+8cc
+4dd
+4ee
+=4
+8dd
+8cc
+8a
+8f#
+4g
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+4dd
+4ee
+=6
+8dd
+8cc
+8a
+8f#
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 121} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 121}
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

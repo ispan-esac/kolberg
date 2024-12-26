@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2249600020-instrumentalna-oj_w_lecie_w_lecie_slonce_gorace.krn
+!!!OTL: Instrumentalna-Oj w lecie w lecie słońce gorące
+!!!source: DWOK22
+!!!id: 22496
+!!!signature: 2249600020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8a
+8cc
+=2
+16b
+[16b
+16b]
+16a
+8cc
+=3
+16dd
+[16dd
+16dd]
+16cc#
+[8dd
+=4
+16dd]
+32b
+32a
+16g
+16f#
+8d}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8a
+8cc
+=6
+16b
+16b
+8a
+8a
+=7
+16g
+[16g
+16g]
+16f#
+8g
+=8
+8d
+16c
+16e
+8d}
+==
+*-
+!!!ONB: Partia instrumentalna-Ksebka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=251 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 233} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7615800001-z_wieciora_mi_geby_dala.krn
+!!!OTL: Z wieciora mi gęby dała
+!!!source: DWOK76
+!!!id: 76158
+!!!signature: 7615800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8dd
+8ee
+4cc
+4cc
+=3
+4cc
+4b
+8g
+8b
+=4
+8a
+8f#
+2d}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+4g
+4d
+=6
+8f#
+8a
+4g
+8g
+8b
+=7
+8dd
+8cc
+4b
+8g
+8b
+=8
+8a
+8f#
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 84} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 84}
+!!!page: 84
+!!!ONB: Converted on 2024/12/26 with esac2hum

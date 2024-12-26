@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1925100000-a_janie_moj_janie.krn
+!!!OTL: A Janie mój Janie
+!!!source: DWOK19
+!!!id: 19251
+!!!signature: 1925100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8dd
+=2
+16dd
+16dd
+8ee
+8ee
+=3
+8cc
+8b
+8g
+=4
+16.a
+32a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16cc
+16cc
+8b
+8g
+=6
+16a
+16a
+8b
+8dd
+=7
+8cc
+8b
+8g
+=8
+16a
+16a
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 78} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 78}
+!!!page: 78
+!!!ONB: Converted on 2024/12/26 with esac2hum

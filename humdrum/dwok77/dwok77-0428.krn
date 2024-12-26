@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7742800000-oj_sukalem_se_sukal.krn
+!!!OTL: Oj sukałem se sukał
+!!!source: DWOK77
+!!!id: 77428
+!!!signature: 7742800000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+16a
+8b-
+8dd
+=2
+8ff
+16cc
+16dd
+8b-
+=3
+16a
+16f
+8g
+8g
+=4
+8a
+8cc
+8b-}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8b-
+8dd
+=6
+8dd
+8cc
+8b-
+=7
+16a
+16cc
+8b-
+16g
+16f
+=8
+8a
+8cc
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 218
+!!!ONB: Converted on 2024/12/26 with esac2hum

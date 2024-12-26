@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7725200010-oj_matko_moja_matko.krn
+!!!OTL: Oj matko moja matko
+!!!source: DWOK77
+!!!id: 77252
+!!!signature: 7725200010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8gg
+8ee
+16ee
+16cc
+=2
+16ee
+16ff
+8dd
+8ff#
+=3
+8gg
+8ee
+16ee
+16cc
+=4
+16ee
+16ff
+4dd}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+16dd
+16b
+=6
+8dd
+8ee
+8b
+=7
+8cc
+8a
+16a
+16f
+=8
+16a
+16b
+4g}
+==
+*-
+!!!ONB: Od taktu 9 do 16 melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 139-140
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK57114700001-na_horodi_zyta_mnoho.krn
+!!!OTL: Na horodi żyta mnoho
+!!!source: DWOK57
+!!!id: 571147
+!!!signature: 57114700001
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M2/4
+{8cc
+8ee
+8ee
+8cc
+=2
+*M3/4
+4.gg
+8aa
+8gg
+8ee
+=3
+4.gg
+8aa
+8gg
+8ee
+=4
+4gg
+8ff
+8dd
+8ee
+8cc}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8g
+8cc
+8ee
+8gg
+=6
+*M3/4
+4gg
+8ff
+8dd
+8ee
+8cc
+=
+!!UNCATEGORIZED MEASURE
+=7
+*M3/4
+8b
+8g
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 272
+!!!ONB: Converted on 2024/12/26 with esac2hum

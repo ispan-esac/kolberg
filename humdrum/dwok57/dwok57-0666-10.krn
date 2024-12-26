@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK5766600010-oj_ty_diwczyno_krasnaja_kalyno.krn
+!!!OTL: Oj, ty diwczyno, krasnaja kałyno
+!!!source: DWOK57
+!!!id: 57666
+!!!signature: 5766600010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+8a
+8a
+=2
+4g
+4d
+=3
+8b
+8dd
+8b
+8dd
+=4
+4dd
+8cc
+8b
+=5
+8.dd
+16ee
+8dd
+8cc
+=6
+4b
+8a
+8g
+=7
+8a
+8cc
+8a
+8cc
+=8
+4cc
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

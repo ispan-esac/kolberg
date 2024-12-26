@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK42135300000-wczoraj_byla_pogodeczka.krn
+!!!OTL: Wczoraj była pogodeczka
+!!!source: DWOK42
+!!!id: 421353
+!!!signature: 42135300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8dd
+8cc
+4b
+4dd
+=2
+8cc
+8b
+8a
+8b
+4cc
+=3
+8b
+8a
+4g#
+4a
+=4
+2.e}
+!!LO:LB:g=esac
+=5
+{8e
+8g
+4g
+8f
+8e
+=6
+8d
+8f
+4.a
+8b
+=7
+8cc
+8a
+4.g#
+8a
+=8
+2.e}
+!!LO:LB:g=esac
+=9
+{8e
+8g
+4.g
+16f
+16e
+=10
+8d
+8f
+4.a
+8a
+=11
+8e
+8g
+4.g
+16f
+16e}
+!!LO:LB:g=esac
+=12
+{8d
+8f
+4.a
+8b
+=13
+8cc
+8a
+4.g
+8a
+=14
+2.e}
+==
+*-
+!!!ONB: Wariant w takcie dziesiątym -4_-6b1__.-7b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=18 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 9-10} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 9-10}
+!!!page: 9-10
+!!!ONB: Converted on 2024/12/26 with esac2hum

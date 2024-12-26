@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2722100001-z_zielonym_majem.krn
+!!!OTL: Z zielonym majem
+!!!source: DWOK27
+!!!id: 27221
+!!!signature: 2722100001
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M4/4
+{4g
+8g
+8g
+4a
+4f#
+=2
+4g
+8b
+8cc
+4dd
+4b
+=3
+4dd
+8ee
+8cc
+4b
+4g
+=4
+4b
+8a
+8f#
+4g
+4d}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8dd
+8dd
+8b
+8dd
+=6
+8cc
+8cc
+8a
+8cc
+=7
+8b
+8dd
+8g
+8b
+=8
+4a
+4d}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8b
+8dd
+=10
+8cc
+8cc
+8a
+8cc
+=11
+8b
+8dd
+8g
+8b
+=12
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 266} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 266}
+!!!page: 266
+!!!ONB: Converted on 2024/12/26 with esac2hum

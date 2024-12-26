@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2101900000-seroka_woda_na_wissle.krn
+!!!OTL: Seroka woda na Wiśśle
+!!!source: DWOK21
+!!!id: 21019
+!!!signature: 2101900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8ee
+8ff#
+=2
+4gg
+8ee
+=3
+4dd
+8ff#
+=4
+4.gg}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8ff#
+=6
+4gg
+8ee
+=7
+4cc
+8a
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+8dd
+=10
+4ee
+8cc
+=11
+4a
+8dd
+=12
+4.b}
+!!LO:LB:g=esac
+=13
+{8b
+8cc
+8dd
+=14
+4ee
+8cc
+=15
+4b
+8a
+=16
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=27 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 9} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 9}
+!!!page: 9
+!!!ONB: Converted on 2024/12/26 with esac2hum

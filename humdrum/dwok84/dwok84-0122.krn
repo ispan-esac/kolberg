@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK8412200000-po_sadoczku_chodzu.krn
+!!!OTL: Po sadoczku chodżu
+!!!source: DWOK84
+!!!id: 84122
+!!!signature: 8412200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4a
+4a
+8ff
+8ee
+=2
+8dd
+8a
+2cc
+=3
+4a
+4a
+8ff
+8ee
+=4
+8dd
+8a
+2cc
+=
+12a
+12cc
+12dd
+4ee
+8ff
+8ee
+=5
+8dd
+8a
+8cc
+8ee
+4dd
+=
+12cc
+12b
+12a
+4g
+8cc
+8b
+=6
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 129} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 129}
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

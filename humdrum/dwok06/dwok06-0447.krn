@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK06-K0447-z_tamtej_strony_dunaja.krn
+!!!OTL: Z tamtej strony Dunaja
+!!!source: DWOK06
+!!!id: K0447
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ff
+8ff
+8ee
+8dd
+=2
+4ee
+4cc
+=3
+2a
+=4
+8a
+8a
+8cc
+8a
+=5
+4ee
+4g#
+=6
+2a}
+!!LO:LB:g=esac
+=7
+{8ff
+8ff
+8ee
+8dd
+=8
+4ee
+4cc
+=9
+2a
+=10
+8a
+8a
+8cc
+8a
+=11
+4ee
+4g#
+=12
+2a}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+8cc
+8a
+=14
+4ee
+4cc
+=15
+4a
+4a
+=16
+8a
+8a
+8cc
+8a
+=17
+4ee
+4g#
+=18
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 239-240} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 239-240}
+!!!page: 239-240
+!!!ONB: Converted on 2024/12/26 with esac2hum

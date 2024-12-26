@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2512800000-z_poniedzialku_na_swieto.krn
+!!!OTL: Z poniedziałku na święto
+!!!source: DWOK25
+!!!id: 25128
+!!!signature: 2512800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8ee
+=2
+4dd
+8g
+=3
+16g
+16b
+4a
+=4
+16g
+16b
+4d}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ee
+=6
+4dd
+8g
+=7
+16g
+16b
+4a
+=8
+16g
+16b
+4d}
+!!LO:LB:g=esac
+=9
+{16a
+16a
+8a
+8cc
+=10
+16a
+16f#
+8d
+8f#
+=11
+8g
+4b}
+!!LO:LB:g=esac
+=12
+{16a
+16a
+8a
+8cc
+=13
+16a
+16f#
+8d
+8f#
+=14
+8g
+4d}
+==
+*-
+!!!ONB: (alias) w metrum 4/4  5__6__5__1__  1_3_2__1_3_-5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 52} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

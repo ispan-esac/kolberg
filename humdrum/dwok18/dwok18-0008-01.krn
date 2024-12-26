@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK1800800001-idzie_chmurecka_carna_nie_biala.krn
+!!!OTL: Idzie chmurecka carna nie biała
+!!!source: DWOK18
+!!!id: 18008
+!!!signature: 1800800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4.dd
+=2
+8ee
+8dd
+8cc
+=3
+8b
+4a
+=4
+16g
+16b
+4a
+=5
+16g
+16b
+4a}
+!!LO:LB:g=esac
+=6
+{8dd
+16dd
+16dd
+16dd
+16cc
+=7
+8b
+8a
+8g
+=8
+16a
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 57} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

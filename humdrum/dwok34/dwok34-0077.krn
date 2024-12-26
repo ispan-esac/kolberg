@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK3407700000-oj_zadumaw_zahadaw.krn
+!!!OTL: Oj zadumaw zahadaw
+!!!source: DWOK34
+!!!id: 34077
+!!!signature: 3407700000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=1
+{8d
+8d
+4a
+4f
+=2
+8g
+8a
+4f
+4d
+=3
+8g
+8g
+4a
+4g
+=4
+8g
+8f
+2d}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+4f
+8a
+8g
+=6
+8f
+8e
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 48} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 48}
+!!!page: 48
+!!!ONB: Converted on 2024/12/26 with esac2hum

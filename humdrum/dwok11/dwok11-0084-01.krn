@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1108400001-moj_wionycku_lewandowy.krn
+!!!OTL: Mój wionycku lewandowy
+!!!source: DWOK11
+!!!id: 11084
+!!!signature: 1108400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8f#
+4a
+4g
+=2
+2dd
+4g
+=3
+8a
+8cc
+2a}
+!!LO:LB:g=esac
+=4
+{8cc
+8dd
+4cc
+4a
+=5
+2g
+4c
+=6
+8d
+8f#
+2a}
+!!LO:LB:g=esac
+=7
+{8cc
+8dd
+4cc
+4a
+=8
+2g
+4c
+=9
+8d
+8f#
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 196} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

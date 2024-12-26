@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK42135400000-juz_wyjezdzam_matulinku.krn
+!!!OTL: Już wyjeżdżam, matulinku
+!!!source: DWOK42
+!!!id: 421354
+!!!signature: 42135400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8cc
+8ee
+4cc
+4ee
+=2
+8dd
+8dd
+4b
+4dd
+=3
+8ee
+16cc
+16b
+4a
+8b
+8a
+=4
+2.g}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+4cc
+4ee
+=6
+8dd
+8dd
+4b
+4dd
+=7
+8ee
+16cc
+16b
+4a
+8b
+8a
+=8
+2.g}
+!!LO:LB:g=esac
+=9
+{8b
+8a
+4g
+4a
+=10
+8cc
+8b
+4dd
+4cc
+=11
+8b
+8a
+4g
+4a}
+!!LO:LB:g=esac
+=12
+{8cc
+8b
+4dd
+4cc
+=13
+8b
+8cc
+4a
+4a
+=14
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=19 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 10} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 10}
+!!!page: 10
+!!!ONB: Converted on 2024/12/26 with esac2hum

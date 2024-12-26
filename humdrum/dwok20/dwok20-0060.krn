@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK2006000000-hej_swiety_janie.krn
+!!!OTL: Hej święty Janie
+!!!source: DWOK20
+!!!id: 20060
+!!!signature: 2006000000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4ee
+8dd
+8cc
+4b
+4a
+=2
+8a
+8dd
+8dd
+8ff
+4ee
+4dd
+=3
+4cc
+4a}
+2r
+!!LO:LB:g=esac
+=4
+{8cc
+8dd
+8dd
+8ff
+4ee
+4dd
+=5
+4cc
+4a
+2r
+=6
+4dd
+8a
+8b
+8cc
+8b
+4b}
+!!LO:LB:g=esac
+=7
+{4ee
+8dd
+8cc
+4b
+4a
+=8
+8a
+8dd
+8dd
+8ff
+4ee
+8dd
+8a
+=9
+8cc
+8b
+4a}
+2r
+!!LO:LB:g=esac
+=10
+{8cc
+8dd
+8dd
+8ff
+4ee
+8dd
+8a
+=11
+8cc
+8b
+4a
+2r
+=12
+4dd
+8a
+8b
+8cc
+8b
+4b}
+==
+*-
+!!!ONB: W takcie 2 na 3 wartość rytmiczną jest plama na pięciolinii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 119} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 119}
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

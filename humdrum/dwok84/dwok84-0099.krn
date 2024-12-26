@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK8409900000-oj_u_polu_nywka.krn
+!!!OTL: Oj, u polu nywka
+!!!source: DWOK84
+!!!id: 84099
+!!!signature: 8409900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8a
+8a
+8cc
+8b
+8a
+=2
+8g#
+8e
+2e}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+8cc
+8ee
+4ee
+=4
+8dd
+[8b}
+2b]
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8dd
+8cc
+16dd
+16cc
+16b
+16a
+=6
+4g#
+2e}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+4b
+8ee
+8g#
+=8
+4a
+2a}
+==
+*-
+!!!ONB: Wariant t. 3: 3b_3b_3b_5_5_5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 111} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

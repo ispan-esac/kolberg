@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2245300020-instrumentalna-kujawiak.krn
+!!!OTL: Instrumentalna-Kujawiak
+!!!source: DWOK22
+!!!id: 22453
+!!!signature: 2245300020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8a
+4b
+8dd
+8ee
+=
+12dd
+12ee
+12ff#
+4ee
+4a
+=
+8b
+8a
+8b
+8dd
+12ee
+12dd
+12cc
+=2
+4g
+8a
+8g
+4a}
+!!LO:LB:g=esac
+=3
+{8b
+8a
+8b
+8cc
+8dd
+8a
+=4
+4b
+8a
+8b
+4a
+=
+8b
+8a
+8b
+8dd
+12ee
+12dd
+12cc
+=5
+8b
+8b
+8a
+8b
+4a}
+==
+*-
+!!!ONB: Melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 221} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 221}
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

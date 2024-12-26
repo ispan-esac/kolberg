@@ -1,0 +1,112 @@
+!!!!SEGMENT: DWOK3021700000-ej_w_poly_mohyla.krn
+!!!OTL: Ej w poly mohyła
+!!!source: DWOK30
+!!!id: 30217
+!!!signature: 3021700000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+4r
+{4e
+4.a
+8g
+=2
+4f#
+4g
+2e}
+!!LO:LB:g=esac
+=3
+4r
+{[4cc
+4.cc]
+8b
+=4
+8a
+8a
+4cc
+2b}
+!!LO:LB:g=esac
+=5
+4r
+{[4b
+4.b]
+8cc
+=6
+8b
+8a
+8g
+8f#
+8g
+8e
+4e}
+!!LO:LB:g=esac
+=7
+4r
+{[4a
+4.a]
+8b
+=8
+8cc
+8b
+8cc
+8g#
+4a
+8a}
+8r
+!!LO:LB:g=esac
+=9
+4r
+{4e
+4.a
+8g
+=10
+4f#
+4g
+2e}
+!!LO:LB:g=esac
+=11
+4r
+{[4cc
+4.cc]
+8b
+=12
+8a
+8a
+4cc
+2b}
+!!LO:LB:g=esac
+=13
+4r
+{[4b
+4.b]
+8cc
+=14
+8b
+8a
+8g
+8f#
+8g
+8e
+4e}
+!!LO:LB:g=esac
+=15
+4r
+{[4a
+4.a]
+8b
+=16
+4cc
+4cc
+4a
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 133} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 133}
+!!!page: 133
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK42187400000-a_od_samego_poranku.krn
+!!!OTL: A od samego poranku
+!!!source: DWOK42
+!!!id: 421874
+!!!signature: 42187400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4.cc
+8b-
+4a
+4cc
+=2
+4ff
+4gg
+4aa
+4ff}
+!!LO:LB:g=esac
+=3
+{4.cc
+8b-
+4a
+4cc
+=4
+4ff
+4cc
+4aa
+4ff
+=5
+4dd
+4dd
+4gg
+4ee}
+!!LO:LB:g=esac
+=6
+{4.cc
+8b-
+4b-
+4a
+=7
+8g
+8a
+8b-
+8cc
+4dd
+4dd
+=8
+4.cc
+8f
+2f}
+==
+*-
+!!!ONB: wariant w takcie 8: 5_.11_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=274 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 265} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 265}
+!!!page: 265
+!!!ONB: Converted on 2024/12/26 with esac2hum

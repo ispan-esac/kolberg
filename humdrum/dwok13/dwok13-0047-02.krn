@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK1304700002-ty_ze_mnie_szydzisz.krn
+!!!OTL: Ty ze mnie szydzisz
+!!!source: DWOK13
+!!!id: 13047
+!!!signature: 1304700002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8.cc
+16g
+16cc
+16g
+=2
+16cc
+16cc
+8ee
+8gg
+=3
+8.gg
+16ee
+16dd
+16ff#
+=4
+4gg}
+8r
+!!LO:LB:g=esac
+=5
+{8.cc
+16g
+16cc
+16g
+=6
+16cc
+16ee
+8gg
+8gg
+=7
+8.ff
+16ee
+16dd
+16ee
+=8
+4cc}
+8r
+!!LO:LB:g=esac
+=9
+{8ff
+4aa
+=10
+16gg
+16ee
+4cc
+=11
+16dd
+16ee
+16dd
+16g
+8ff
+=12
+16ee
+16ff
+16ee
+16cc
+8gg}
+!!LO:LB:g=esac
+=13
+{8ff
+4aa
+=14
+16gg
+16ee
+4cc
+=15
+16dd
+16ee
+16dd
+16dd
+16g
+16dd
+=16
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 26-27} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 26-27}
+!!!page: 26-27
+!!!ONB: Converted on 2024/12/26 with esac2hum

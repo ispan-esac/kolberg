@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1933000000-od_krakowa_chmura_idzie.krn
+!!!OTL: Od Krakowa chmura idzie
+!!!source: DWOK19
+!!!id: 19330
+!!!signature: 1933000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8dd
+16dd
+16ff
+=2
+16ff
+16ff
+8ee
+8gg
+=3
+16ee
+16ee
+8.cc
+16g
+=4
+16g
+16g
+8e
+8g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+8ff
+=6
+16ee
+16dd
+8cc
+8ee
+=7
+8ee
+8.cc
+16g
+=8
+16g
+16g
+8e
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 100} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

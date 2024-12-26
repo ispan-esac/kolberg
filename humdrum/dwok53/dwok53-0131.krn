@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5313100000-neceslyvas_jomarkelis.krn
+!!!OTL: Neceslyvas jomarkelis
+!!!source: DWOK53
+!!!id: 53131
+!!!signature: 5313100000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{4dd
+2ff
+=2
+4ff
+2ee-
+=3
+4ff
+2cc
+=4
+4b-
+2f}
+!!LO:LB:g=esac
+=5
+{4b-
+2cc
+=6
+4dd
+2ee-
+=7
+4ff
+2cc
+=8
+4b-
+2f}
+!!LO:LB:g=esac
+=9
+{4b-
+2cc
+=10
+4dd
+2ee-
+=11
+4ff
+2cc
+=12
+4b-
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 263} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 263}
+!!!page: 263
+!!!ONB: Converted on 2024/12/26 with esac2hum

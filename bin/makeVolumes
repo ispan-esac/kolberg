@@ -1,0 +1,81 @@
+#!/usr/bin/env perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Wed Dec 25 17:50:13 PST 2024
+# Last Modified: Wed Dec 25 17:50:16 PST 2024
+# Filename:      makeVolumes
+# Syntax:        perl 5
+#
+# Description:   Collect individual EsAC recordings into a single file for
+#                each DWOK volume in the esac directory.
+#
+
+use strict;
+
+my $targetdir = "esac";
+die "Cannot find target directory $targetdir" if !-d $targetdir;
+
+my @files = sort glob("$targetdir/dwok*");
+my @dirs = grep { -d } @files;
+
+for (my $i=0; $i<@dirs; $i++) {
+	generateVolumeFile($dirs[$i]);
+}
+
+createAllVolumesFile();
+
+exit(0);
+
+###########################################################################
+
+
+##############################
+##
+## createAllVolumesFile -- Collect individual volume files into a single file.
+##
+
+sub createAllVolumesFile {
+	my @files = sort glob("$targetdir/dwok*.txt");
+	@files = grep { /dwok\d{2}[a-g]?.txt$/ } @files;
+	my $vvfile = "$targetdir/dwok02-84.txt";
+	print STDERR "Creating $vvfile...\n";
+	open(VVFILE, ">$vvfile") or die "Cannot write to $vvfile\n";
+	for (my $i=0; $i<@files; $i++) {
+		open(FILE, $files[$i]) or die "Cannot read $files[$i]\n";
+		my @contents = <FILE>;
+		close FILE;
+		print VVFILE @contents;
+		if ($i < @files - 1) {
+			print VVFILE "\n";
+		}
+	}
+	close VVFILE;
+}
+
+
+
+##############################
+##
+## generateVolumeFile -- Collect individual records for a volume into a single file.
+##
+
+sub generateVolumeFile {
+	my ($dir) = @_;
+	my @files = sort glob("$dir/dwok*.txt");
+	my $vfile = "$dir.txt";
+	print STDERR "Creating $vfile...\n";
+	open(VFILE, ">$vfile") or die "Cannot write to $vfile\n";
+	for (my $i=0; $i<@files; $i++) {
+		open(FILE, $files[$i]) or die "Cannot read $files[$i]\n";
+		my @contents = <FILE>;
+		close FILE;
+		print VFILE @contents;
+		if ($i < @files - 1) {
+			print VFILE "\n";
+		}
+	}
+	close VFILE;
+}
+
+
+

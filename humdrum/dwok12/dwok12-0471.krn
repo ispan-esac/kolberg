@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK1247100000-jeno_pojde_do_goscinca.krn
+!!!OTL: Jeno pójdę do gościńca
+!!!source: DWOK12
+!!!id: 12471
+!!!signature: 1247100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8b
+8dd
+4dd
+4cc
+=2
+4.ee
+8dd
+8ff
+8ee
+=3
+4.gg
+8dd
+8ff
+8ee
+=4
+4.gg
+8dd
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{4.gg
+8dd
+8ff
+8ee
+=6
+4.gg
+8dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+4dd
+4a
+=8
+4.g
+8b
+8cc
+8ee
+=9
+8b
+8dd
+4dd
+4a
+=10
+4.g
+8b
+8cc
+8a}
+!!LO:LB:g=esac
+=11
+{8b
+8dd
+4dd
+4a
+=12
+4.g
+8b
+8cc
+8ee
+=13
+8b
+8dd
+4dd
+4a
+=14
+4.g
+8b
+8cc
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 243} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 243}
+!!!page: 243
+!!!ONB: Converted on 2024/12/26 with esac2hum

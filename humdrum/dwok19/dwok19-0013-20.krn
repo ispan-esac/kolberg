@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK1901300020-kochajze_mnie_panno.krn
+!!!OTL: Kochajże mnie panno
+!!!source: DWOK19
+!!!id: 19013
+!!!signature: 1901300020
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+8dd
+8ff
+8b
+=2
+8dd
+4cc
+8g
+=3
+8cc
+8b
+8dd
+8b
+=4
+8dd
+4cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8dd
+4cc
+8cc
+=6
+16cc
+16b
+16a
+16b
+8dd
+8b
+=7
+8cc
+4ee
+8ee}
+!!LO:LB:g=esac
+=8
+{16ee
+16dd
+16cc#
+16dd
+8ff
+8b
+=9
+8dd
+4cc
+8g
+=10
+8cc
+8b
+8dd
+8b
+=11
+8dd
+4cc
+8cc}
+!!LO:LB:g=esac
+=12
+{8dd
+4cc
+8cc
+=13
+16cc
+16b
+16a
+16b
+8dd
+8b
+=14
+8cc
+4ee
+8ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=22 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 8} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 8}
+!!!page: 8
+!!!ONB: Converted on 2024/12/26 with esac2hum

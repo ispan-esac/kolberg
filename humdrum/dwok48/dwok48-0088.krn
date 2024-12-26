@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK4808800000-z_tamtej_strony_jeziora.krn
+!!!OTL: Z tamtej strony jeziora
+!!!source: DWOK48
+!!!id: 48088
+!!!signature: 4808800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+8ee
+8cc#
+=3
+4dd}
+4r
+!!LO:LB:g=esac
+=4
+{8dd
+8gg
+8b
+8cc
+=5
+4dd
+8ee
+8cc#
+=6
+4dd}
+4r
+!!LO:LB:g=esac
+=7
+{4dd
+8dd
+8cc
+=8
+4b
+4g
+=9
+4a
+8b
+8cc
+=10
+4a
+4g}
+!!LO:LB:g=esac
+=11
+{8g
+8a
+8b
+8cc
+=12
+4dd
+8ee
+8cc#
+=13
+4dd}
+4r
+==
+*-
+!!!ONB: Wariant t. 10: 2_-5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 147-148} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, pp. 147-148}
+!!!page: 147-148
+!!!ONB: Converted on 2024/12/26 with esac2hum

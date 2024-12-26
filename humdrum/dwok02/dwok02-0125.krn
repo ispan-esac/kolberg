@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK02-K0125-a_gdzie_sie_nam_panna_mloda_podziala.krn
+!!!OTL: A gdzie sie nam panna mloda podziala
+!!!source: DWOK02
+!!!id: K0125
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8ee
+8dd
+8cc
+=2
+8b
+8a
+8a
+8g
+=3
+4g
+4b
+=4
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+8cc
+=6
+8b
+8a
+8a
+8g
+=7
+8g
+8b
+8dd
+8b
+=8
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 91} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 91}
+!!!page: 91
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2249800020-a_gdzie_ja_jade_to_ja_jade.krn
+!!!OTL: A gdzie ja jadę to ja jadę
+!!!source: DWOK22
+!!!id: 22498
+!!!signature: 2249800020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24f#
+24a
+24cc#
+8dd
+8b
+=1
+16.dd
+32ee
+8a
+8g
+=
+24f#
+24a
+24cc
+8g
+8b
+=2
+16.dd
+32cc
+8a
+8g}
+!!LO:LB:g=esac
+=
+{24f#
+24a
+24cc#
+8dd
+8b
+=3
+16.dd
+32cc
+8a
+8g
+=
+24f#
+24a
+24cc
+8g
+8b
+=4
+16.dd
+32cc
+8a
+8g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=251 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 233} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

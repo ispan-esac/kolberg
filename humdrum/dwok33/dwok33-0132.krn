@@ -1,0 +1,112 @@
+!!!!SEGMENT: DWOK3313200000-de_mi_sia_dila_de_sia_podila.krn
+!!!OTL: De mi sia diła de sia podiła
+!!!source: DWOK33
+!!!id: 33132
+!!!signature: 3313200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+8dd
+4b
+=3
+8a
+4dd
+=4
+8dd
+8b
+8f#
+=5
+4.g}
+!!LO:LB:g=esac
+=6
+{16b
+16dd
+8dd
+16b
+16a
+=7
+8g
+8b
+16a
+16f#
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{16dd
+16cc
+4b
+=10
+8g
+8b
+8a
+=11
+16a
+16dd
+8dd
+16b
+16f#
+=12
+4.g}
+!!LO:LB:g=esac
+=13
+{16b
+16dd
+8dd
+8dd
+=14
+16b
+16f#
+4g
+=15
+16dd
+16b
+8dd
+16b
+16f#
+=16
+[4.g
+=17
+8g]
+8b
+16a
+16f#
+=18
+4g}
+8r
+!!LO:LB:g=esac
+=19
+{8b
+8dd
+8dd
+=20
+8b
+4g
+=21
+8dd
+8dd
+8b
+=22
+[4.g
+=23
+8g]
+8b
+8a
+=24
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 245-246} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, pp. 245-246}
+!!!page: 245-246
+!!!ONB: Converted on 2024/12/26 with esac2hum

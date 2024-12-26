@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK35A-35A18400000-hladka_kapusta_hladka.krn
+!!!OTL: Hładka kapusta hładka
+!!!source: DWOK35A
+!!!id: 35A184
+!!!signature: 35A18400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8e
+8a
+8b
+=2
+8dd
+4cc
+=3
+4b
+8a
+=4
+4b}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8b
+=6
+4dd
+8cc
+=7
+8b
+4a}
+!!LO:LB:g=esac
+=8
+{8dd
+8a
+8b
+=9
+8cc
+4b
+=10
+4a
+8a}
+!!LO:LB:g=esac
+=
+{24e
+24f#
+24g#
+8a
+8b
+=
+24dd
+24cc
+24b
+8dd
+8a
+=11
+4b
+8a
+=12
+4b}
+8r
+!!LO:LB:g=esac
+=13
+{8b
+8a
+8b
+=
+[8dd
+24dd]
+24cc
+24b
+16cc
+16a
+=14
+16b
+16g#
+4a}
+!!LO:LB:g=esac
+=15
+{16dd
+16dd
+8a
+8b
+=
+16cc
+16a
+8b
+24cc
+24b
+24g#
+=16
+4a
+8a}
+==
+*-
+!!!ONB: Do swachy
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 99} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 99}
+!!!page: 99
+!!!ONB: Converted on 2024/12/26 with esac2hum

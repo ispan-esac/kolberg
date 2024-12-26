@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2550800000-odwroc_bydla_od_stawidla.krn
+!!!OTL: Odwróć bydła od stawidła
+!!!source: DWOK25
+!!!id: 25508
+!!!signature: 2550800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8dd
+8ee
+=
+24cc
+24b
+24a
+8cc
+24ee
+24b
+24cc
+=2
+16dd
+16b
+8g
+8a
+=
+24f
+24e
+24d
+16f
+16g
+24f
+24e
+24f}
+!!LO:LB:g=esac
+=3
+{16g
+16b
+8g
+8a
+=4
+16f
+16a
+8cc
+8cc
+=5
+16dd
+16b
+8g
+8a
+=6
+16f
+16d
+8f
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 202} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 202}
+!!!page: 202
+!!!ONB: Converted on 2024/12/26 with esac2hum

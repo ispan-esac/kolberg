@@ -1,0 +1,114 @@
+!!!!SEGMENT: DWOK35A-35A10300000-marsz_do_cerkwi.krn
+!!!OTL: Marsz do cerkwi
+!!!source: DWOK35A
+!!!id: 35A103
+!!!signature: 35A10300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4ee
+4ee
+=2
+8ee
+8ee
+8ff#
+16ee
+16dd#
+=3
+8ee
+16ee
+16dd#
+8ff#
+16ee
+16dd#
+=4
+8ee
+16ee
+16dd#
+8ff#
+16ee
+16dd#}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8dd
+16cc
+16b
+=6
+8a
+8a
+8dd
+8b
+=7
+8cc
+8a
+8b
+8g#
+=8
+8a
+16a
+16e
+8a
+16a
+16e
+=9
+4a}
+4r
+!!LO:LB:g=esac
+=10
+{8e
+8e
+8e
+8e
+=11
+8e
+8e
+8dd
+8b
+=12
+8cc
+8a
+8b
+8g#
+=13
+8a
+8a
+4ee}
+!!LO:LB:g=esac
+=14
+{8ee
+8ee
+8dd
+16cc
+16b
+=15
+8a
+8a
+8dd
+8b
+=16
+8cc
+8a
+8b
+8g#
+=17
+8a
+16a
+16e
+8a
+16a
+16e
+=18
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 69} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 69}
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

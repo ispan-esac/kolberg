@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK5253100000-woly_moje.krn
+!!!OTL: Woły moje
+!!!source: DWOK52
+!!!id: 52531
+!!!signature: 5253100000
+**kern
+*clefG2
+*k[]
+*a:
+=
+!!UNCATEGORIZED MEASURE
+{8ee
+4.ee
+8ee
+4ee
+=1
+*M4/4
+8cc
+4.ee
+8dd
+8ee
+8cc}
+8r
+!!LO:LB:g=esac
+=2
+{8dd
+4.dd
+8ee
+4.cc
+=3
+2a
+4a}
+4r
+!!LO:LB:g=esac
+=4
+{8ee
+4.ee
+8cc
+4.ee
+=5
+2.dd
+4ee
+=6
+1a}
+!!LO:LB:g=esac
+=7
+*M6/4
+{8a
+4.a
+8a
+4.g
+2cc
+=8
+8a
+4.a
+8a
+4.g
+2cc}
+!!LO:LB:g=esac
+=9
+{8dd
+4.ff
+8ee
+4.dd
+2ee
+=
+!!UNCATEGORIZED MEASURE
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=399 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 336} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 336}
+!!!page: 336
+!!!ONB: Converted on 2024/12/26 with esac2hum

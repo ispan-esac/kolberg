@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK3907100001-sluzyla_dziewczyna_w_tym_czerwonym_dworze.krn
+!!!OTL: Służyła dziewczyna w tym czerwonym dworze
+!!!source: DWOK39
+!!!id: 39071
+!!!signature: 3907100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4.dd
+8f#
+=2
+4a
+4g
+4r
+=3
+8gg
+8dd
+4.gg
+8cc
+=4
+4ee
+4dd}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+16b
+16dd
+4.gg
+8ff#
+=6
+8aa
+8a
+4.cc
+8a
+=7
+8ee
+8ee
+4.dd
+8f#
+=8
+4a
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{8g
+16b
+16dd
+4.gg
+8ff#
+=10
+8aa
+8a
+4.cc
+8a
+=11
+8ee
+8ee
+4.dd
+8f#
+=12
+4a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 132} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 132}
+!!!page: 132
+!!!ONB: Converted on 2024/12/26 with esac2hum

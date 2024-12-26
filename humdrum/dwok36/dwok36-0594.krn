@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK3659400000-kalyna_malina_czoho_w_lozi_stojisz.krn
+!!!OTL: Kałyna malina czoho w łozi stojisz
+!!!source: DWOK36
+!!!id: 36594
+!!!signature: 3659400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8g
+8b
+=2
+4dd
+8b
+8g
+=3
+8cc
+8b
+8a
+8g
+=4
+8ee
+8dd
+8ee
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8dd
+8g
+=6
+8a
+8f#
+4g
+=7
+8cc
+8b
+8a
+8ee
+=8
+8dd
+8b
+8g
+8ee}
+!!LO:LB:g=esac
+=9
+{8dd
+8ee
+8dd
+8g
+=10
+8a
+8f#
+4g
+=11
+8cc
+8b
+8a
+8ee
+=12
+8dd
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 395
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK57198200000-zawitaj_koniu_lysy_z_niebieska_kulbaka.krn
+!!!OTL: Zawitaj koniu łysy z niebieską kulbaką
+!!!source: DWOK57
+!!!id: 571982
+!!!signature: 57198200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*MX
+=1
+{8b
+4.dd
+8a
+8a
+8b
+8cc
+8a
+=2
+8a
+8b
+8cc
+8a
+4b
+8e}
+!!LO:LB:g=esac
+=3
+{8b
+8a
+8a
+8b
+8cc
+8a
+=4
+8a
+8b
+8cc
+8a
+4b
+4e}
+!!LO:LB:g=esac
+=5
+{8b
+8.dd
+8dd
+8dd
+8dd
+16dd
+16cc
+8b
+=6
+8dd
+8dd
+8dd
+8dd
+16dd
+16cc
+4b}
+!!LO:LB:g=esac
+=7
+{4.dd
+8b
+8b
+8b
+8b
+8b
+8b
+=8
+8dd
+8dd
+8cc
+8b
+8dd
+8b}
+8r
+!!LO:LB:g=esac
+=9
+{4.a
+8a
+8a
+8a
+8a
+8a
+=10
+8b
+8a
+8g
+8b
+8a
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1022
+!!!ONB: Converted on 2024/12/26 with esac2hum

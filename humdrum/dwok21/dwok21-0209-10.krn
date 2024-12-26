@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2120900010-koniki_kaliki.krn
+!!!OTL: Koniki kaliki
+!!!source: DWOK21
+!!!id: 21209
+!!!signature: 2120900010
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8a
+8cc
+4cc
+=2
+8dd
+4b-
+8b-
+=3
+8a
+8cc
+4cc
+=4
+16ee-
+16dd
+4b-
+16b-
+16a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4cc
+=6
+16cc
+16dd
+4ff
+8ff
+=7
+8ff
+8gg
+4cc
+=8
+16ee-
+16dd
+4b-
+16b-
+16a}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 103} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 103}
+!!!page: 103
+!!!ONB: Converted on 2024/12/26 with esac2hum

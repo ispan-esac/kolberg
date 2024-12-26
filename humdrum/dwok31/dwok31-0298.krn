@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK3129800000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK31
+!!!id: 31298
+!!!signature: 3129800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16dd
+16ee
+16ff
+32ee
+32r
+16ff
+16gg
+8ff
+=2
+16ff
+16gg
+8ff
+8aa
+8aa
+=3
+16dd
+16ee
+16ff
+16ee
+16ff
+16gg
+8ff
+=4
+8r
+4dd
+16ee
+16dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16ee
+16ff
+16ee
+16ff
+16ee
+8ff
+=6
+8ff
+8dd
+8dd
+8cc
+=7
+8dd
+8ff
+8ee
+8ff
+=8
+4ee
+8g
+8g}
+!!LO:LB:g=esac
+=
+{8g
+24ee
+24ff
+24ee
+8g
+24ee
+24ff
+24ee
+=
+8g
+8ee
+24ff#
+24ee-
+24dd
+8dd
+=9
+16g
+16cc
+16dd
+16ee
+16g
+16cc
+16dd
+16ee
+=
+8ff#
+24ee-
+24dd
+24cc
+4cc}
+==
+*-
+!!!ONB: Kołomyjka powolna dla starych
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 36} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 36}
+!!!page: 36
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1706000002-oj_pusc_konia_do_koni.krn
+!!!OTL: Oj puśc konia do koni
+!!!source: DWOK17
+!!!id: 17060
+!!!signature: 1706000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=
+24dd
+24ee
+24dd
+8a
+8cc
+=2
+16b
+16cc
+8dd
+16g
+16b
+=3
+16a
+16a
+8f#
+8d}
+!!LO:LB:g=esac
+=4
+{16d
+16f#
+8a
+8a
+=5
+8b
+16b
+16f#
+16g
+16b
+=6
+8a
+8d
+16f#
+16a
+=
+24g
+24f#
+24g
+8e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=46 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 24} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 24}
+!!!page: 24
+!!!ONB: Converted on 2024/12/26 with esac2hum

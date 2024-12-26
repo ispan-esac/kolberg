@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK0419800020-u_mynarza_naszego.krn
+!!!OTL: U mynarza naszego
+!!!source: DWOK04
+!!!id: K0198
+!!!signature: 0419800020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16.g
+32f
+16e
+16g
+16cc
+16e
+=2
+16.g
+32f
+16e
+16g
+16cc
+16ee
+=3
+4gg
+16ff
+16dd
+=4
+16b
+16g
+4cc}
+==
+*-
+!!!ONB: Przygrywka instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 105} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

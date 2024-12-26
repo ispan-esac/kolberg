@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK2633100000-widzialem_cie_dziewcyno.krn
+!!!OTL: Widziałem cię dziewcyno
+!!!source: DWOK26
+!!!id: 26331
+!!!signature: 2633100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16f#
+8g
+8b
+=2
+8a
+8ee
+8dd
+=3
+16a
+16cc#
+8dd
+8b
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16f#
+8g
+8b
+=6
+8a
+8ee
+8dd
+=7
+16a
+16cc#
+8dd
+8b
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{16a
+16g
+8f#
+8f#
+=10
+8f#
+8a
+8cc
+=11
+8b
+16b
+16a
+8g
+=12
+8g
+8b
+8dd}
+!!LO:LB:g=esac
+=13
+{16dd
+16cc#
+8.a
+16f#
+=14
+4g}
+8r
+!!LO:LB:g=esac
+=15
+{16a
+16g
+8f#
+8f#
+=16
+8f#
+8a
+8cc
+=17
+16cc
+16b
+16b
+16a
+8g
+=18
+8g
+8b
+8dd}
+!!LO:LB:g=esac
+=19
+{16dd
+16cc#
+8.a
+16f#
+=20
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

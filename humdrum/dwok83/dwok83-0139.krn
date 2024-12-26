@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK8313900000-hledaj_maty_zawoja.krn
+!!!OTL: Hledaj, maty, zawoja
+!!!source: DWOK83
+!!!id: 83139
+!!!signature: 8313900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8dd
+8dd
+16dd
+16ff
+=2
+16ee
+16dd
+8dd
+8b
+=3
+4.cc}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+16dd
+16ff
+=5
+16ee
+16dd
+8dd
+8b
+=6
+4.cc}
+!!LO:LB:g=esac
+=7
+{8ff
+8gg
+8ff
+=8
+8ee
+4dd
+=9
+8ff
+4ee}
+!!LO:LB:g=esac
+=10
+{8dd
+8dd
+8ff
+=11
+16ee
+16dd
+8dd
+8b
+=12
+4.cc
+=13
+4cc}
+8r
+!!LO:LB:g=esac
+=14
+{8ff
+8gg
+8ff
+=15
+16ee
+16dd
+8dd
+8cc
+=16
+8ff
+4ee}
+!!LO:LB:g=esac
+=17
+{8dd
+8dd
+8ff
+=18
+16ee
+16dd
+8dd
+8b
+=19
+4.cc
+=20
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 126} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 126}
+!!!page: 126
+!!!ONB: Converted on 2024/12/26 with esac2hum

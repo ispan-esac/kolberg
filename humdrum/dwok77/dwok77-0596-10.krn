@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK7759600010-wesoly_ja_parobecek.krn
+!!!OTL: Wesoły ja parobecek
+!!!source: DWOK77
+!!!id: 77596
+!!!signature: 7759600010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16ff
+16ff
+8a
+8a
+=2
+16g
+16g
+8b-
+8b-
+=3
+16dd
+16dd
+8e
+8e
+=4
+16f
+16a
+8cc
+8cc}
+!!LO:LB:g=esac
+=5
+{16ff
+16ff
+8a
+8a
+=6
+16g
+16a
+8b-
+8b-
+=7
+16dd
+16dd
+8.cc
+16e
+=8
+16f
+16a
+8f
+8f}
+!!LO:LB:g=esac
+=9
+{16.g
+32g
+4b-
+=10
+16a
+16cc
+4ff
+=11
+16.gg
+32ff
+16ee
+16dd
+8cc
+=12
+16.aa
+32gg
+16ff
+16ee
+16dd
+16cc}
+!!LO:LB:g=esac
+=13
+{16.b
+32cc
+8.dd
+16cc
+=14
+16b
+16cc
+8.ff
+16cc
+=15
+8.ee
+16dd
+16b-
+16g
+=16
+8f
+8f}
+8r
+==
+*-
+!!!ONB: Po takcie 16 nastpuje utwór instrumentalny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 305
+!!!ONB: Converted on 2024/12/26 with esac2hum

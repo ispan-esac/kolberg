@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3006400000-hoj_wylikiv_sokil.krn
+!!!OTL: Hoj wylikiv sokił
+!!!source: DWOK30
+!!!id: 30064
+!!!signature: 3006400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8dd
+8ee
+=2
+4dd
+4g
+=3
+4cc
+4dd
+=4
+8cc
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8g
+=6
+4g
+4g
+=7
+4cc
+4dd
+=8
+8cc
+8b
+4a
+=9
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 54} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 54}
+!!!page: 54
+!!!ONB: Converted on 2024/12/26 with esac2hum

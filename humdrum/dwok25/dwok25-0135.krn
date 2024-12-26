@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2513500000-gdzie_mi_sie_podzialy_tulipany.krn
+!!!OTL: Gdzie mi się podziały tulipany
+!!!source: DWOK25
+!!!id: 25135
+!!!signature: 2513500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16b
+8cc
+8cc
+=2
+16dd
+16cc
+8b
+8a
+=3
+8b
+4ee}
+!!LO:LB:g=esac
+=4
+{16a
+16b
+8cc
+8cc
+=5
+16dd
+16cc
+8b
+8a
+=6
+8b
+4a}
+!!LO:LB:g=esac
+=7
+{16b
+16b
+8g#
+8g#
+=8
+16a
+16a
+8f#
+8f#
+=9
+8g#
+4e}
+!!LO:LB:g=esac
+=10
+{16b
+16b
+8g#
+8g#
+=11
+16a
+16a
+8f#
+8f#
+=12
+8g#
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 56} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

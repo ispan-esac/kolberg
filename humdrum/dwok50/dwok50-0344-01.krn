@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5034400001-jak_ja_se_zaspiwam_z_ranenka_po_rosie.krn
+!!!OTL: Jak ja se zaśpiwam z raneńka po rosie
+!!!source: DWOK50
+!!!id: 50344
+!!!signature: 5034400001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8dd
+8cc
+8b
+8a
+=2
+4dd
+4cc
+=3
+4b
+4a
+=4
+2e
+=5
+4.ee
+8dd#
+=6
+2ee}
+!!LO:LB:g=esac
+=7
+{8dd
+8cc
+8b
+8a
+=8
+4dd
+4cc
+=9
+4b
+4a
+=10
+8e
+4.g#
+=11
+4a
+8g#
+8b
+=12
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 179} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 179}
+!!!page: 179
+!!!ONB: Converted on 2024/12/26 with esac2hum

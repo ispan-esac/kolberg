@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK1900200010-aboswa_to_nie_krakusy.krn
+!!!OTL: Abośwa to nie Krakusy
+!!!source: DWOK19
+!!!id: 19002
+!!!signature: 1900200010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc#
+=2
+8dd
+8cc#
+16ee
+8.cc#
+=3
+8dd
+16cc#
+16dd
+16ee
+8.cc#
+=4
+16dd
+8.cc#
+16ee
+8.cc#
+=5
+16dd
+8.cc#
+16ee
+8.cc#}
+!!LO:LB:g=esac
+=6
+{8dd
+8ee
+16cc
+8.a
+=7
+4g
+4b
+=8
+8dd
+16ee
+16dd
+16cc
+8.f#
+=9
+4g
+4b}
+!!LO:LB:g=esac
+=10
+{8ff#
+16ee
+16dd
+16cc
+8.a
+=11
+8g
+8a
+8b
+8cc#
+=12
+8dd
+16ee
+16dd
+16cc
+8.f#
+=13
+16a
+8.g
+16b
+8.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=16 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 2} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 2}
+!!!page: 2
+!!!ONB: Converted on 2024/12/26 with esac2hum

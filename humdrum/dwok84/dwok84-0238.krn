@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK8423800000-oj_szou_czumak_z_donu.krn
+!!!OTL: Oj, szou czumak z Donu
+!!!source: DWOK84
+!!!id: 84238
+!!!signature: 8423800000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{4e
+4a
+=2
+4cc
+8b
+8a
+=3
+4g#
+4e}
+!!LO:LB:g=esac
+=4
+{8cc
+4.ee
+=5
+8ff#
+4ee
+8dd
+=6
+8dd
+8b
+4cc}
+!!LO:LB:g=esac
+=7
+{4dd
+4ee
+=8
+8cc
+8b
+8a
+8cc
+=9
+4g#
+4e}
+!!LO:LB:g=esac
+=10
+{8g#
+8g#
+8b
+8dd
+=11
+4cc
+8b
+8a
+=12
+4g#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 224} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 224}
+!!!page: 224
+!!!ONB: Converted on 2024/12/26 with esac2hum

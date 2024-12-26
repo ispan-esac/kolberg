@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK5786600000-oj_u_poli_kiernyczonka_bezodna.krn
+!!!OTL: Oj, u poli kiernyczońka bezodna
+!!!source: DWOK57
+!!!id: 57866
+!!!signature: 5786600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+8ff
+8gg
+8aa
+=2
+8dd
+8dd
+8dd
+8gg
+=3
+8ee
+8ee
+4cc}
+!!LO:LB:g=esac
+=4
+{8ee
+8ff
+8gg
+8aa
+=5
+8dd
+8dd
+4gg
+=6
+8ee
+8cc
+4g}
+!!LO:LB:g=esac
+=7
+{8dd
+8cc
+8b
+8a
+=8
+8g
+8g
+4b
+=9
+8dd
+8dd
+4gg}
+!!LO:LB:g=esac
+=10
+{8dd
+8cc
+8b
+8a
+=11
+8g
+8g
+4ff
+=12
+8ee
+8ee
+4cc}
+==
+*-
+!!!ONB: Wariant t. 2: +2+5+2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 92
+!!!ONB: Converted on 2024/12/26 with esac2hum

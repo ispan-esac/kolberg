@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2104900000-z_poniedzialku_na_swieto_furmanowi_zajeto.krn
+!!!OTL: Z poniedziałku na święto furmanowi zajęto
+!!!source: DWOK21
+!!!id: 21049
+!!!signature: 2104900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+4ff#
+=2
+8dd
+8b
+8a
+=3
+16cc
+16dd
+4ee}
+!!LO:LB:g=esac
+=4
+{8ee
+4ff#
+=5
+8dd
+4b
+=6
+16cc
+16g#
+4a}
+!!LO:LB:g=esac
+=7
+{16g#
+16b
+8dd
+8cc
+=8
+16b
+16a
+8g#
+8e
+=9
+16g#
+16a
+4b}
+!!LO:LB:g=esac
+=10
+{16g#
+16b
+8dd
+8cc
+=11
+16b
+16a
+8g#
+8e
+=12
+8d
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 27} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 27}
+!!!page: 27
+!!!ONB: Converted on 2024/12/26 with esac2hum

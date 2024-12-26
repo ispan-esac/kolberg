@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4821100000-gdzie_sie_podzial_ten_wiek_zloty.krn
+!!!OTL: Gdzie się podział ten wiek złoty
+!!!source: DWOK48
+!!!id: 48211
+!!!signature: 4821100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8dd
+4b
+4g
+=2
+8g
+8g
+4ee
+4dd
+=3
+8dd
+8dd
+4cc
+4a
+=4
+4ee
+2dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4ee
+4ff#
+=6
+8gg
+8b
+4ee
+4dd
+=7
+8dd
+8dd
+4cc
+4f#
+=8
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 237} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 237}
+!!!page: 237
+!!!ONB: Converted on 2024/12/26 with esac2hum

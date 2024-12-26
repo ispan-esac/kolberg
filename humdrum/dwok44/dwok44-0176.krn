@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4417600000-na_hali.krn
+!!!OTL: Na hali
+!!!source: DWOK44
+!!!id: 44176
+!!!signature: 4417600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8dd
+8ee
+4ff
+4ff
+=2
+4ee
+2dd
+=3
+8dd
+8ee
+4ff
+4ff
+=4
+4ee
+2dd}
+!!LO:LB:g=esac
+=5
+{4ff
+2ee
+=6
+8dd
+8dd
+4b
+4g
+=7
+8b
+8cc
+4dd
+4ee
+=8
+4dd
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 187} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

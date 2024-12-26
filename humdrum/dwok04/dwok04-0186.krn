@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK04-K0186-ja_ze_swoja_kadzielina.krn
+!!!OTL: Ja ze swoja kadzielina
+!!!source: DWOK04
+!!!id: K0186
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+8ee
+=2
+16ff
+16ee
+8ff
+8dd
+=3
+4ff
+8dd
+=4
+8gg
+4ee}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8ee
+8ee
+=6
+16ff
+16ee
+8ff
+8dd
+=7
+4ff
+8dd
+=8
+8gg
+4ee}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8cc
+=10
+16g
+16b
+4dd
+=11
+8g
+8g
+8g
+=12
+16cc
+16dd
+4ee}
+!!LO:LB:g=esac
+=13
+{8cc
+8cc
+8cc
+=14
+16g
+16b
+4dd
+=15
+16g
+16a
+8b
+8b
+=16
+16cc
+16ee
+8cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 101} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 101}
+!!!page: 101
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4410800001-plakala_dziewcyna.krn
+!!!OTL: Płakała dziewcyna
+!!!source: DWOK44
+!!!id: 44108
+!!!signature: 4410800001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+4ee
+=2
+8ee
+4ee
+8dd#
+=3
+8a
+8cc
+4ee
+=4
+8ee
+4ee
+8dd#}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+4dd
+=6
+8b
+4dd
+8b
+=7
+8dd
+8ee
+4dd
+=8
+8a
+4cc
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 147} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 147}
+!!!page: 147
+!!!ONB: Converted on 2024/12/26 with esac2hum

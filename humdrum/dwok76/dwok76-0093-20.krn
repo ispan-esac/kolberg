@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7609300020-oj_zmiluj_sie_nade_mna.krn
+!!!OTL: Oj, zmiłuj się nade mną
+!!!source: DWOK76
+!!!id: 76093
+!!!signature: 7609300020
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8b
+8cc
+4ee
+4gg
+=2
+4aa
+2ff#
+=3
+8gg
+8dd
+4ff
+4ee
+=4
+4cc
+2b}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+4dd
+=6
+8dd
+8cc
+4ee
+4ff
+=7
+8ff
+8dd
+4ff
+4ee
+=8
+4cc
+2b}
+==
+*-
+!!!ONB: Melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 56} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

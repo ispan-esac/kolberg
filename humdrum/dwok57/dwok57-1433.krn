@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK57143300000-switi_misiciu_na_rozi_na_rozi.krn
+!!!OTL: Switi misiciu na rozi, na rozi
+!!!source: DWOK57
+!!!id: 571433
+!!!signature: 57143300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+8cc
+8g
+8cc
+8g
+=2
+4cc
+8dd
+8dd
+8gg
+8gg
+=3
+2.ee}
+!!LO:LB:g=esac
+=4
+{4ee
+8dd
+8g
+8a
+8g
+=5
+4a
+8dd
+8dd
+8dd
+8dd
+=6
+2.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 486
+!!!ONB: Converted on 2024/12/26 with esac2hum

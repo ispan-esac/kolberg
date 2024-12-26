@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK06-K0013-krakowiak.krn
+!!!OTL: Krakowiak
+!!!source: DWOK06
+!!!id: K0013
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.b
+16cc
+8dd
+8dd
+=2
+8dd
+16dd
+16cc#
+8dd
+8b
+=3
+8dd
+16dd
+16cc#
+8dd
+8ee
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+16b
+16a
+16b
+16dd
+=6
+8.cc
+16b
+16a
+16b
+16cc
+16a
+=7
+8g
+8b
+8b
+8dd
+=8
+4cc
+4a}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+16b
+16a
+16b
+16dd
+=10
+8.cc
+16b
+16a
+16b
+16cc
+16a
+=11
+8g
+8b
+8b
+8dd
+=12
+4cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 16} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

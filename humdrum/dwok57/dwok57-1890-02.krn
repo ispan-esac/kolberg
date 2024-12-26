@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK57189000002-oj_ne_szumy_luze_duze.krn
+!!!OTL: Oj, ne szumy łuże duże
+!!!source: DWOK57
+!!!id: 571890
+!!!signature: 57189000002
+**kern
+*clefG2
+*k[f#c#]
+*D:
+=1
+*M2/4
+{16f#
+16f#
+8a
+8a
+8a
+=
+!!UNCATEGORIZED MEASURE
+8a
+8b
+16a
+16g
+8f#}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8g
+8a
+4b
+12e
+12f#
+12e
+=2
+*M3/4
+16e
+16f#
+16e
+16d
+2d}
+!!LO:LB:g=esac
+=3
+{4.g
+8b
+8a
+8g
+=4
+*M2/4
+8f#
+16a
+16f#
+8e
+8d}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8e
+8e
+8g
+8f#
+8a
+16g
+16f#
+=6
+16e
+16f#
+16e
+16d
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 952
+!!!ONB: Converted on 2024/12/26 with esac2hum

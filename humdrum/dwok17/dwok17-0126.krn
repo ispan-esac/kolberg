@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK1712600000-oj_poszed_niemiec_orac.krn
+!!!OTL: Oj poszed Niemiec orać
+!!!source: DWOK17
+!!!id: 17126
+!!!signature: 1712600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.dd
+16cc#
+16dd
+16cc#
+=2
+16dd
+16cc#
+8dd
+8b
+=3
+16b
+16dd
+8cc
+8a
+=4
+16a
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+16cc
+16a
+16f#
+16a
+=6
+16cc
+16cc
+8ee
+8dd
+=7
+16b
+16dd
+8cc
+8a
+=8
+16a
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{8.g
+16f#
+16g
+16f#
+=
+24g
+24a
+24cc
+8b
+8f#
+=10
+8.g
+16f#
+16g
+16f#
+=
+24g
+24a
+24cc
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 43} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 43}
+!!!page: 43
+!!!ONB: Converted on 2024/12/26 with esac2hum

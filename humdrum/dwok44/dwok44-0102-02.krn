@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4410200002-przypatrzcie_sie_ludzie.krn
+!!!OTL: Przypatrzcie się, ludzie
+!!!source: DWOK44
+!!!id: 44102
+!!!signature: 4410200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8b
+8a
+=2
+8g
+8g
+8g
+=3
+16a
+16b
+8cc
+8cc
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8a
+=6
+8g
+8b
+8g
+=7
+16f#
+16e
+8e
+8a
+=8
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 143} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 143}
+!!!page: 143
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK5046300001-oj_mala_baba_j-a_try_diwojki.krn
+!!!OTL: Oj, mała baba j-a try diwojki
+!!!source: DWOK50
+!!!id: 50463
+!!!signature: 5046300001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8b
+8dd
+16cc
+16b
+=2
+4a
+4g
+=3
+16g
+16a
+8b
+8cc
+8ee
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8b
+8dd
+16cc
+16b
+=6
+4a
+4dd
+=7
+8cc
+8cc
+8dd
+8g
+=8
+2a}
+!!LO:LB:g=esac
+=9
+{8cc
+8b
+8dd
+16cc
+16b
+=10
+4a
+4dd
+=11
+8cc
+8cc
+8dd
+8g
+=12
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=307 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 278} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 278}
+!!!page: 278
+!!!ONB: Converted on 2024/12/26 with esac2hum

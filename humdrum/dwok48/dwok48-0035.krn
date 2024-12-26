@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK4803500000-da_przyjechali_depukaci_z_wojny.krn
+!!!OTL: Da, przyjechali depukaci z wojny
+!!!source: DWOK48
+!!!id: 48035
+!!!signature: 4803500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4g
+4g
+=2
+2a
+4g
+=3
+8b
+8cc
+4dd
+4dd
+=4
+8dd
+8cc
+2a}
+!!LO:LB:g=esac
+=5
+{4dd
+4b
+4g
+=6
+2a
+4d
+=7
+8f#
+8g
+4a
+8a
+8b
+=8
+4f#
+2g}
+==
+*-
+!!!ONB: Wariant t. 3: 345_65; wariant t. 5: 5_432_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 108} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 108}
+!!!page: 108
+!!!ONB: Converted on 2024/12/26 with esac2hum

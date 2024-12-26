@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK1260800002-u_kaczuszki_zlote_nozki.krn
+!!!OTL: U kaczuszki złote nóżki
+!!!source: DWOK12
+!!!id: 12608
+!!!signature: 1260800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+{8b
+=1
+8dd
+4cc
+=2
+8a
+4g
+=3
+8b
+4a
+=4
+8d
+8r
+8g
+=5
+8dd
+4cc
+=6
+8a
+4g
+=7
+8b
+4a
+=8
+8d
+8r
+8b}
+!!LO:LB:g=esac
+=9
+{8b
+4a
+=10
+8cc
+4b
+=11
+8dd
+4cc
+=12
+8ee
+8r
+8b
+=13
+8dd
+4cc
+=14
+8a
+4cc
+=15
+8e
+4f#
+=16
+8g}
+4r
+==
+*-
+!!!ONB: Druga wersja w rytmie ósemka ćwierćnuta
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=322 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 306-307} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 306-307}
+!!!page: 306-307
+!!!ONB: Converted on 2024/12/26 with esac2hum

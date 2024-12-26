@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK06069200001-a_w_mojim_sadeczku_pasa_sie_gasieta.krn
+!!!OTL: A w mojim sadeczku pasa sie gasieta
+!!!source: DWOK06
+!!!id: K0692
+!!!signature: 06069200001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+4ff
+8ee
+=2
+8ff
+8ff
+4ee
+=3
+8gg
+4ff
+8dd
+=4
+16cc
+16ee
+16ff
+16cc
+8a}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+4b-
+16b-
+16a
+=6
+16b-
+16cc
+16dd
+16b-
+4g
+=7
+8f
+4ff
+16ee
+16dd
+=8
+16cc
+16ee
+16ff
+16cc
+8a}
+8r
+!!LO:LB:g=esac
+=9
+{8c
+4b-
+16b-
+16a
+=10
+16b-
+16cc
+16dd
+16b-
+4g
+=11
+8f
+4ff
+16ee
+16dd
+=12
+16cc
+16b
+16cc
+16a
+8f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=457 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 431} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 431}
+!!!page: 431
+!!!ONB: Converted on 2024/12/26 with esac2hum

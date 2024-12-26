@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK3654800002-oj_w_polu_krynycia.krn
+!!!OTL: Oj w polu krynycia
+!!!source: DWOK36
+!!!id: 36548
+!!!signature: 3654800002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8ee
+8ee
+8ee
+8dd#
+8ee
+8b
+=2
+8dd
+8ee
+16dd
+16cc
+16b
+16a
+8b
+8g#}
+!!LO:LB:g=esac
+=3
+{8A
+8B
+8c
+8e
+8d
+16e
+16G#
+=4
+8a
+8g#
+8e
+8b
+16a
+16g#
+8a
+=5
+2e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 362-363
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK1830600000-lepsa_ja_jasiu_nizli_ty.krn
+!!!OTL: Lepsa ja Jasiu niźli ty
+!!!source: DWOK18
+!!!id: 18306
+!!!signature: 1830600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+8ff
+8dd
+=2
+8ee
+4g
+=3
+16b
+16dd
+4cc}
+!!LO:LB:g=esac
+=4
+{8a
+8a
+8b
+=5
+8cc
+4g
+=6
+16b
+16dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 170} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 170}
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

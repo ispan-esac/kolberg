@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK02-K0231-krakowiak.krn
+!!!OTL: Krakowiak
+!!!source: DWOK02
+!!!id: K0231
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+4b
+16dd
+16b
+=2
+8ee
+8dd
+8dd
+8b
+=3
+8dd
+4ee
+8b
+=4
+8dd
+8ee
+8gg#
+8bb
+=5
+8ccc#
+4gg#
+8bb
+=6
+8gg#
+[8ee
+8ee]
+16dd
+16b
+=7
+8dd
+4ee
+8b}
+!!LO:LB:g=esac
+=8
+{8ee
+8dd
+8g
+8a
+=9
+8f
+4g
+16b
+16dd
+=10
+8ee
+8dd
+8dd
+8b
+=11
+8g
+4f
+8d}
+!!LO:LB:g=esac
+=12
+{8B-
+8c
+8d
+8a
+=13
+8f
+4g
+16b
+16dd
+=14
+8ee
+[8dd
+8dd]
+8b
+=15
+8g
+[8f
+16f]
+16d
+16c
+16d
+=16
+8B-
+8c
+8d
+16a
+16g}
+==
+*-
+!!!ONB: zapis wskazujacy na blad Kolberga albo zla intonacja wykonania
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 194} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 194}
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

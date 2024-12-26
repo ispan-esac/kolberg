@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7729500000-oj_z_gory_jeno_z_gory.krn
+!!!OTL: Oj z góry jeno z góry
+!!!source: DWOK77
+!!!id: 77295
+!!!signature: 7729500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+8ff
+8aa
+=2
+16gg
+16ff
+8ee
+8ee}
+!!LO:LB:g=esac
+=3
+{8dd
+8b
+8cc
+=4
+16dd
+16b
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8cc
+=6
+16dd
+16ff
+8ee
+8ee}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8ee
+=8
+16cc
+16b
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 159
+!!!ONB: Converted on 2024/12/26 with esac2hum

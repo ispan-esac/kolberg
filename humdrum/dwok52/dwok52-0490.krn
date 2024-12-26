@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK5249000000-zdrasti_milaja_charoszaja_maja.krn
+!!!OTL: Zdrasti, miłaja, charoszaja maja
+!!!source: DWOK52
+!!!id: 52490
+!!!signature: 5249000000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8dd
+8b
+8cc
+8ee
+=2
+8dd
+8b
+8cc
+8a
+=3
+8g
+8b
+4g}
+!!LO:LB:g=esac
+=4
+{8ee
+8ee
+8ee
+8dd
+=5
+8cc
+8b
+8a
+16b
+16cc
+=6
+8dd
+8dd
+4dd}
+!!LO:LB:g=esac
+=7
+*M3/4
+{8dd
+8b
+8gg
+8ff#
+8ee
+16ff#
+16ee
+=8
+*M2/4
+8dd
+8b
+8cc
+16cc
+16a}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+4g
+=10
+8ee
+8ee
+8ee
+8dd
+=11
+8cc
+8b
+8a
+16b
+16cc
+=12
+8dd
+8dd
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=372 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 311} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 311}
+!!!page: 311
+!!!ONB: Converted on 2024/12/26 with esac2hum

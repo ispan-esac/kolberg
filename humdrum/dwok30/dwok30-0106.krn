@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3010600000-ani_spaty_ni_drymaty.krn
+!!!OTL: Ani spaty ni drymaty
+!!!source: DWOK30
+!!!id: 30106
+!!!signature: 3010600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4b
+4dd
+8cc
+8b
+=2
+8a
+8e
+4g
+4e}
+!!LO:LB:g=esac
+=3
+{4ee
+4ff#
+8dd#
+8b
+=4
+8b
+8dd#
+2ee}
+!!LO:LB:g=esac
+=5
+{4b
+4dd
+8cc
+8b
+=6
+8a
+8e
+4g
+4e}
+!!LO:LB:g=esac
+=7
+{4ee
+4ff#
+8dd#
+8b
+=8
+8dd
+16cc
+16b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 73} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

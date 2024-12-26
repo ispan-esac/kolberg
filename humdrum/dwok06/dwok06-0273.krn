@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK06-K0273-powiadaja_zem_ladna.krn
+!!!OTL: Powiadaja zem ladna
+!!!source: DWOK06
+!!!id: K0273
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16cc#
+8ee
+8ee
+=2
+8ee
+8cc#
+8ee
+=3
+16dd
+16dd
+8b
+8dd
+=4
+8ee
+8cc#
+8a}
+!!LO:LB:g=esac
+=5
+{16b
+16b
+8g#
+8e
+=6
+8a
+8cc#
+8a
+=7
+16dd
+16dd
+8b
+8dd
+=8
+8ee
+8cc#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 137} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 137}
+!!!page: 137
+!!!ONB: Converted on 2024/12/26 with esac2hum

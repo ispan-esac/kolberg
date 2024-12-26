@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK3638400002-cwyte_roza_w_siniach_na_porozi.krn
+!!!OTL: Cwyte roża w siniach na porozi
+!!!source: DWOK36
+!!!id: 36384
+!!!signature: 3638400002
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M4/4
+{8g
+8b
+4dd
+4gg
+4ee
+=2
+*M3/4
+8dd
+16ee
+16ff#
+8gg
+8ee
+8dd
+16cc
+16b
+=3
+8cc
+8a
+8dd
+8b
+4g}
+!!LO:LB:g=esac
+=4
+{16a
+16g
+16a
+16b
+8cc
+8a
+8b
+8dd
+=5
+16cc
+16b
+8a
+4dd
+4g
+=6
+16a
+16g
+16a
+16b
+4cc
+8ee
+8dd
+=7
+*M4/4
+2g}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

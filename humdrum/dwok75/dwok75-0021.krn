@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7502100000-da_za_stodola_sciezka.krn
+!!!OTL: Da, za stodołą ścieżka
+!!!source: DWOK75
+!!!id: 75021
+!!!signature: 7502100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4cc
+4ee
+=2
+4ff
+4ee
+4ee}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+4ff
+4ee
+=4
+4dd
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4cc
+4ee
+=6
+4cc
+4a
+4a}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+4cc
+4ee
+=8
+4dd
+4b
+4g}
+==
+*-
+!!!ONB: Melodia dodana poniżej: (134)67b64  (467b)6531  (134)6422  (2-7b2)4531
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 15} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 15}
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

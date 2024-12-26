@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3108800010-kolomyjka_ja_w_dorozi.krn
+!!!OTL: Kołomyjka ja w dorozi
+!!!source: DWOK31
+!!!id: 31088
+!!!signature: 3108800010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16dd
+8.dd
+16b
+8.b
+=2
+16cc
+8.a
+16g
+8.b
+=3
+16dd
+16cc#
+8dd
+16b
+8.b
+=4
+16cc
+16a
+8g
+4g}
+!!LO:LB:g=esac
+=5
+{16d
+8.d
+16f#
+8.g
+=6
+16b
+8.dd
+16b
+8.b
+=7
+16cc
+8.a
+16b
+8.b
+=8
+16cc
+16a
+8g
+4g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 18} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 18}
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

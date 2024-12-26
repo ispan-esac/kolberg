@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2256300020-instrumentalna-uciekala_po_rowie.krn
+!!!OTL: Instrumentalna-Uciekała po rowie
+!!!source: DWOK22
+!!!id: 22563
+!!!signature: 2256300020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{16b
+16a
+8g
+24b
+24a
+24b
+=1
+16ee
+16dd
+16cc
+16b
+16a
+16ee
+=
+8b
+8g
+24d
+24f#
+24g
+=2
+16ee
+16dd
+16cc
+16b
+16a
+16g}
+!!LO:LB:g=esac
+=
+{24f#
+24g
+24d
+24e
+24f#
+24g
+24cc
+24dd
+24ee
+=
+24ff#
+24ee
+24dd
+16cc
+[16b
+24b]
+24a
+24ee
+=
+24a
+24g
+24d
+24e
+24f#
+24g
+16a
+16b
+=3
+16ee
+16dd
+16cc
+16b
+16a
+16g}
+==
+*-
+!!!ONB: Partia instrumentalna-Ksebka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=270 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 252} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

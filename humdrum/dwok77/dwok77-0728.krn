@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK7772800000-za_gorecka_za_gorecka.krn
+!!!OTL: Za górecką za górecką
+!!!source: DWOK77
+!!!id: 77728
+!!!signature: 7772800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16gg
+16b
+8dd
+8cc
+=2
+16a
+16cc
+8ee
+8dd}
+!!LO:LB:g=esac
+=3
+{16gg
+16b
+8dd
+8cc
+=4
+16a
+16b
+16g
+16f#
+8d}
+!!LO:LB:g=esac
+=5
+{16g
+16f#
+8a
+8g
+=6
+16b
+16a
+8cc
+8ee}
+!!LO:LB:g=esac
+=7
+{16ee
+16b
+8dd
+8cc
+=8
+16a
+16b
+16g
+16f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 365
+!!!ONB: Converted on 2024/12/26 with esac2hum

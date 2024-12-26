@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4713900000-kumki_kumoczki_wy_holuboczki_moji.krn
+!!!OTL: Kumki, kumoczki, wy hołuboczki moji
+!!!source: DWOK47
+!!!id: 47139
+!!!signature: 4713900000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+4ee
+=2
+16dd
+16cc
+4.b
+=3
+8cc
+8dd
+8ee
+8ee
+=4
+8cc
+8dd
+4ee}
+!!LO:LB:g=esac
+=5
+{4.gg
+8ff
+=6
+8ee
+16dd
+16cc
+4b
+=7
+8cc
+8dd
+8ee
+8ee
+=8
+8cc
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 137} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 137}
+!!!page: 137
+!!!ONB: Converted on 2024/12/26 with esac2hum

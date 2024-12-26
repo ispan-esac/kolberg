@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK02-K0004-a_cyli_mi_wesla.krn
+!!!OTL: A cyli mi wesla
+!!!source: DWOK02
+!!!id: K0004
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{2.c
+=2
+2.f
+=
+12g
+12a
+12b
+12cc
+12dd
+12ee
+8ff
+8ee
+=
+12cc
+12b
+12cc
+4dd
+4ee
+=
+8ff
+8gg
+4ff
+12ee
+12dd
+12cc}
+!!LO:LB:g=esac
+=3
+{4b
+4.a
+8f
+=
+12g
+12a
+12b
+4cc
+8cc
+8b
+=4
+4a
+4.dd
+16a
+16f
+=5
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 24} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 24}
+!!!page: 24
+!!!ONB: Converted on 2024/12/26 with esac2hum

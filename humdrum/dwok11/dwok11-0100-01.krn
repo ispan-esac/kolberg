@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1110000001-nie_widzieliscie_nie_slyszeliscie.krn
+!!!OTL: Nie widzieliście, nie słyszeliście
+!!!source: DWOK11
+!!!id: 11100
+!!!signature: 1110000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+8b
+=2
+8dd
+8cc#
+8a
+=3
+8g
+8g
+8b
+=4
+8dd
+8cc#
+8a}
+!!LO:LB:g=esac
+=5
+{4dd
+8cc#
+=6
+8a
+4f#
+=7
+8g
+4b
+=8
+4dd
+8cc#
+=9
+8a
+4b
+=10
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 211} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 211}
+!!!page: 211
+!!!ONB: Converted on 2024/12/26 with esac2hum

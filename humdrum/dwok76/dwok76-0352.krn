@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK7635200000-a_miala_ja_miala_czarna_kokoszeczke.krn
+!!!OTL: A miała ja, miała, czarną kokoszeczkę
+!!!source: DWOK76
+!!!id: 76352
+!!!signature: 7635200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+2dd
+=2
+4dd
+4dd
+4dd
+=3
+8dd
+8b
+2g
+=4
+4cc
+2a}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+2cc
+=6
+4cc
+4cc
+4cc
+=7
+8cc
+8a
+4f
+4a
+=8
+4b
+2g}
+==
+*-
+!!!ONB: Wariant t. 3: 533_3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=219 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 183} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 183}
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

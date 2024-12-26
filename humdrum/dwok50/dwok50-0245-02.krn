@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK5024500002-nieszczesliwe_te_pokoje_oj-jo-joj.krn
+!!!OTL: Nieszczęśliwe te pokoje, oj-jo-joj
+!!!source: DWOK50
+!!!id: 50245
+!!!signature: 5024500002
+**kern
+*clefG2
+*k[]
+*a:
+{16a
+8b
+4cc
+4ee
+=1
+*M3/4
+8ee
+16dd
+16cc
+4b
+4a
+=2
+4cc
+4b
+4a
+=3
+2a}
+4r
+!!LO:LB:g=esac
+=4
+{8a
+8b
+4cc
+4ee
+=5
+8dd
+8cc
+4b
+4a
+=6
+4cc
+4.b
+8g#
+=7
+2a}
+4r
+!!LO:LB:g=esac
+=8
+*M2/4
+{8ee
+8ee
+8e
+8e
+=9
+8a
+8a
+8a
+8cc#
+=10
+8ee
+8ee
+8e
+8e
+=11
+8a
+8a
+8a
+8cc#}
+!!LO:LB:g=esac
+=12
+{4ee
+4e
+=13
+8f#
+8f#
+8f#
+8g#
+=14
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 120} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK57187000001-pytau_si_bohacz.krn
+!!!OTL: Pytau si bohacz
+!!!source: DWOK57
+!!!id: 571870
+!!!signature: 57187000001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{4ee
+8ff#
+8ee
+=2
+16dd
+16cc
+16b
+16cc
+8a
+8e
+=3
+*M3/4
+8a
+8cc
+4dd
+8cc
+8dd
+=4
+*M2/4
+4ee
+16dd
+16cc
+16b
+16a}
+!!LO:LB:g=esac
+=5
+{4ee
+8ff#
+8ee
+=6
+16dd
+16cc
+16b
+16cc
+8a
+8e
+=7
+*M3/4
+8a
+8cc
+4dd
+8ee
+8dd
+=8
+2b
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 937
+!!!ONB: Converted on 2024/12/26 with esac2hum

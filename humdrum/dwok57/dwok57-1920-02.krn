@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK57192000002-oj_popid_haj_zelenenkij.krn
+!!!OTL: Oj, popid haj zełeneńkij
+!!!source: DWOK57
+!!!id: 571920
+!!!signature: 57192000002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+16b
+16cc
+4dd
+4dd
+=2
+8dd
+8dd
+4dd
+8cc
+8a}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+4.ee
+8cc
+=4
+8cc
+8ee
+4ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4dd
+4dd
+=6
+8a
+8a
+4cc
+4b}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+4ee
+4dd
+=8
+8a
+8a
+4g#
+4a}
+!!LO:LB:g=esac
+=9
+{16cc
+16dd
+16cc
+16dd
+4dd
+4dd
+=
+8ee
+8a
+4cc
+12cc
+12b
+12a}
+!!LO:LB:g=esac
+=10
+{8cc
+8ee
+4ee
+4dd
+=
+8dd
+8a
+12cc
+12b
+12g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 984
+!!!ONB: Converted on 2024/12/26 with esac2hum

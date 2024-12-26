@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK5617700000-oj_szczoz_bo_ja_uczynyla.krn
+!!!OTL: Oj, szczoż bo ja uczynyła
+!!!source: DWOK56
+!!!id: 56177
+!!!signature: 5617700000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4ee
+4ee
+4ee
+4a
+=2
+4dd
+8cc
+8b
+4a
+4a}
+!!LO:LB:g=esac
+=3
+{4ee
+4ee
+4ee
+4a
+=4
+4dd
+16dd
+16cc
+16b
+16a
+4a
+4a}
+!!LO:LB:g=esac
+=
+{4dd
+12dd
+12cc
+12b
+4.b
+8a
+=
+4dd
+12dd
+12cc
+12b
+4a
+12a
+12b
+12cc}
+!!LO:LB:g=esac
+=
+{4dd
+12dd
+12cc
+12b
+4.b
+8a
+=
+4dd
+12dd
+12cc
+12b
+4a
+12a
+12b
+12cc}
+!!LO:LB:g=esac
+=5
+{4ee
+4ee
+4ee
+4a
+=6
+4dd
+8cc
+8b
+4b
+4b}
+!!LO:LB:g=esac
+=7
+{4ee
+4ee
+4ee
+4a
+=
+4dd
+12dd
+12cc
+12b
+4a
+4a}
+==
+*-
+!!!ONB: Wariant t. 2: 4__(4_3b_2_)1__1__; wariant t. 4: 4__(4_3b_2_)1__1__; wariant t. 8: 4__(4_3b_2_(1__(1_2_34)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 194} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 194}
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

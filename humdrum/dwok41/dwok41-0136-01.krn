@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK4113600001-za_dworaka_za_hultaja.krn
+!!!OTL: Za dworaka za hultaja
+!!!source: DWOK41
+!!!id: 41136
+!!!signature: 4113600001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{16g
+16e
+8g
+8b
+=
+8dd
+8ee
+24cc
+24b
+24a}
+!!LO:LB:g=esac
+=2
+{16g
+16e
+8g
+8b
+=
+8dd
+8ee
+24cc
+24b
+24a}
+!!LO:LB:g=esac
+=3
+{16g
+16e
+8g
+8b
+=
+8f#
+8a
+24cc
+24b
+24a}
+!!LO:LB:g=esac
+=4
+{16g
+16e
+8g
+8b
+=5
+8f#
+8a
+16g
+16e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=175 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 96} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK2203300000-straszliwego_majestatu_panie.krn
+!!!OTL: Straszliwego majestatu Panie
+!!!source: DWOK22
+!!!id: 22033
+!!!signature: 2203300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4f
+4g
+4a
+4f
+=2
+8a
+8a
+8a
+8b-
+4cc
+4a}
+!!LO:LB:g=esac
+=3
+{8f
+8a
+8g
+8b-
+8a
+8g
+4f
+=4
+8cc
+8cc
+8cc
+8dd
+4cc
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+8a
+8b-
+8b-
+8b-
+8g
+=6
+8a
+16a
+16b-
+8a
+8f
+8g
+8a
+8b-
+8g}
+!!LO:LB:g=esac
+=7
+{8cc
+16cc
+16dd
+8cc
+8a
+8b-
+8cc
+8dd
+8g
+=8
+8a
+8a
+8a
+8f
+8g
+8a
+8b-
+8g}
+!!LO:LB:g=esac
+=9
+{4a
+4cc
+8b-
+8a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 40} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 40}
+!!!page: 40
+!!!ONB: Converted on 2024/12/26 with esac2hum

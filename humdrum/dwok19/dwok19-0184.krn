@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1918400000-wylecial_golabek.krn
+!!!OTL: Wyleciał gołąbek
+!!!source: DWOK19
+!!!id: 19184
+!!!signature: 1918400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8b
+8cc
+=2
+8dd
+4a
+=3
+16b
+16dd
+8ee
+8ee
+=4
+8dd
+8.cc
+16a}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8b
+8cc
+=6
+8dd
+8.d
+16f#
+=7
+16g
+16cc
+8cc
+8b
+=8
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 60} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

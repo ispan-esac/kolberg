@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK06-K0052-a_grala_muzyka_od_rana.krn
+!!!OTL: A grala muzyka od rana
+!!!source: DWOK06
+!!!id: K0052
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8ee
+=2
+8dd
+4b
+8r
+=3
+8ee
+8ee
+4ee
+=4
+8ee
+4dd
+16cc
+16b}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8ee
+=6
+8dd
+4b
+8r
+=7
+16b
+16cc
+16b
+16cc
+4a
+=8
+8g#
+4e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 32} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 32}
+!!!page: 32
+!!!ONB: Converted on 2024/12/26 with esac2hum

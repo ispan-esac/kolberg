@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK5017100002-oj_hodowala_jij_dla_melnyckoho_syna.krn
+!!!OTL: Oj, hodówała jij dla melnyćkoho syna
+!!!source: DWOK50
+!!!id: 50171
+!!!signature: 5017100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8e
+16g#
+16a
+8b
+8cc
+4dd
+=2
+8dd
+16cc
+16b
+8dd
+16cc
+16b
+4a
+=3
+2b
+4b}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+8dd
+8ee
+4cc
+=5
+8b
+8dd
+8cc
+16b
+16g
+4a
+=6
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 79} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 79}
+!!!page: 79
+!!!ONB: Converted on 2024/12/26 with esac2hum

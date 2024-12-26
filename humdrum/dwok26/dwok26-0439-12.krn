@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2643900012-na_ligawce-instrumentalna.krn
+!!!OTL: Na ligawce-Instrumentalna
+!!!source: DWOK26
+!!!id: 26439
+!!!signature: 2643900012
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8.dd
+32cc
+32b
+=
+24a
+24cc
+24ee
+8dd
+24b
+24g
+24b
+=
+8.dd
+16cc
+24a
+24f#
+24a
+=2
+8b
+4g}
+!!LO:LB:g=esac
+=3
+{16b
+16cc
+8.dd
+32cc
+32b
+=4
+16cc
+16ee
+8.dd
+32cc
+32b
+=5
+16a
+16b
+4g
+=6
+8b
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 301
+!!!ONB: Converted on 2024/12/26 with esac2hum

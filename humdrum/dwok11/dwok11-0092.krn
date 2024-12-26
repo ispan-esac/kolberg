@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK1109200000-spadla_z_wisni.krn
+!!!OTL: Spadła z wiśni
+!!!source: DWOK11
+!!!id: 11092
+!!!signature: 1109200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4ee
+8cc
+=2
+8dd
+4g
+=3
+4ff
+8dd
+=4
+8ff
+4ee}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8ee
+8ee
+=6
+16ee
+16ee
+8cc
+16ee
+16gg
+=7
+4ff
+8b
+=8
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 200} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 200}
+!!!page: 200
+!!!ONB: Converted on 2024/12/26 with esac2hum

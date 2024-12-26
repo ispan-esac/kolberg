@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1830400000-wyjechalci_pan_starosta.krn
+!!!OTL: Wyjechałci pan starosta
+!!!source: DWOK18
+!!!id: 18304
+!!!signature: 1830400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+[4dd
+8dd]
+8dd
+8g
+=2
+8b
+8b
+8ee
+8dd
+8cc
+8b
+=3
+8a
+4a
+8a
+8a
+8a
+=4
+8dd
+8dd
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4g
+4d
+=6
+8g
+8b
+2dd
+=7
+8gg
+8gg
+4gg
+4ee
+=8
+8dd
+8b
+2g}
+==
+*-
+!!!ONB: Podane metrum 3/8, poprawiono na 3/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 170} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 170}
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

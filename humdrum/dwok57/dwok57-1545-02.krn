@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK57154500002-oj_nawysly_czorny_chmary.krn
+!!!OTL: Oj, nawysły czorny chmary
+!!!source: DWOK57
+!!!id: 571545
+!!!signature: 57154500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+4g
+=2
+8b
+4dd
+=3
+8cc
+4a
+=4
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+4g
+=6
+8b
+4dd
+=7
+8a
+8b
+8cc
+=8
+4.dd}
+!!LO:LB:g=esac
+=9
+{8cc
+4cc
+=10
+8ee
+8ee
+8dd
+=11
+8b
+8b
+8b
+=12
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=13
+{8b
+4a
+=14
+8cc
+8a
+8f#
+=15
+4.g
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 583
+!!!ONB: Converted on 2024/12/26 with esac2hum

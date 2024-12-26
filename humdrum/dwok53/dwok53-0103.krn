@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK5310300000-o_as_paklausciau_savu_merguzes.krn
+!!!OTL: O as pakłausciau savu merguzes
+!!!source: DWOK53
+!!!id: 53103
+!!!signature: 5310300000
+**kern
+*clefG2
+*k[f#]
+*e:
+=1
+*M6/4
+{4e
+4g
+4f#
+4g
+2e
+=2
+4g
+4b
+4a
+4b
+2e}
+!!LO:LB:g=esac
+=3
+{4g
+4b
+4a
+4f#
+2e
+=4
+*M4/4
+4e
+2.d}
+!!LO:LB:g=esac
+=5
+*M6/4
+{4e
+4g
+4f#
+4a
+2f#
+=6
+*M4/4
+2e
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 242} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

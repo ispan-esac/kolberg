@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK57174700002-wy_ulany_wy_ulany.krn
+!!!OTL: Wy ułany, wy ułany
+!!!source: DWOK57
+!!!id: 571747
+!!!signature: 57174700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8g
+4g
+4a
+4g
+=2
+4dd
+4dd
+8cc
+8b
+4g}
+!!LO:LB:g=esac
+=3
+{4a
+8a
+8a
+4g
+4f#
+=
+4d
+4a
+12g
+12f#
+12e
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 832
+!!!ONB: Converted on 2024/12/26 with esac2hum

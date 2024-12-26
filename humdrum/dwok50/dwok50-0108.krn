@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK5010800000-i_zdamy_my_sia_zdamy.krn
+!!!OTL: I zdamy my sia, zdamy
+!!!source: DWOK50
+!!!id: 50108
+!!!signature: 5010800000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M2/4
+{8ee
+8ee
+8dd
+8cc
+=2
+8ee
+4cc
+8dd
+=3
+8gg
+8gg
+8ee
+8ff
+=4
+*M3/4
+8ee
+4dd
+8ee
+4cc}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8ee
+8ee
+8dd
+8cc
+=6
+8b
+8cc
+4dd
+=7
+8gg
+8gg
+8ee
+8ff
+=8
+8ee
+8dd
+8ee
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 45} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 45}
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

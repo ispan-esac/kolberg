@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK03-K0032-przede_dworem.krn
+!!!OTL: Przede dworem
+!!!source: DWOK03
+!!!id: K0032
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{4d
+8f#
+=2
+4g
+8b-
+=3
+16g
+16a
+8g
+8e-
+=4
+8f
+4a}
+!!LO:LB:g=esac
+=5
+{4d
+8f#
+=6
+4g
+16a
+16b-
+=7
+16g
+16a
+8g
+16f
+16e-
+=8
+8f
+4d}
+!!LO:LB:g=esac
+=9
+{8d
+8b-
+8g
+=10
+8f#
+4d
+=11
+16g
+16a
+8b-
+8cc
+=12
+8dd
+4a}
+!!LO:LB:g=esac
+=13
+{8a
+8b-
+8g
+=14
+8f
+4d
+=15
+16c
+16B
+8c
+8g
+=16
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 270} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 270}
+!!!page: 270
+!!!ONB: Converted on 2024/12/26 with esac2hum

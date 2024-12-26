@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK7734500002-oj_zdradziles_mie_zdradzl.krn
+!!!OTL: Oj zdradziłes mię zdradzł
+!!!source: DWOK77
+!!!id: 77345
+!!!signature: 7734500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4d
+4cc
+8cc
+8a
+=2
+8g
+8b
+8dd
+8cc
+8cc
+8a}
+!!LO:LB:g=esac
+=3
+{4d
+4cc
+8cc
+8b
+=4
+8b
+8a
+4g
+4f#}
+!!LO:LB:g=esac
+=5
+{4d
+4f#
+4g
+=
+12b
+12a
+12b
+4cc
+8cc
+8b}
+!!LO:LB:g=esac
+=6
+{4a
+4cc
+8cc
+8b
+=7
+8b
+8a
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

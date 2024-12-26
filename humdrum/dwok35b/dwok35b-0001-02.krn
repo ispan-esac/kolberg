@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK35B-35B00100002-hej_ore_bohacz.krn
+!!!OTL: Hej ore bohacz
+!!!source: DWOK35B
+!!!id: 35B001
+!!!signature: 35B00100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8ee
+4dd
+8cc
+=3
+8b
+8dd
+8cc
+8b
+=4
+16a
+16b
+4.g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8cc
+16a
+16g
+=6
+8b
+4.d
+=7
+8f#
+8g
+8a
+8g
+=8
+8b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 127} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 127}
+!!!page: 127
+!!!ONB: Converted on 2024/12/26 with esac2hum

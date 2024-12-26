@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK1643000001-z_poniedzialku_na_swieto.krn
+!!!OTL: Z poniedziałku na święto
+!!!source: DWOK16
+!!!id: 16430a
+!!!signature: 1643000001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4cc
+4b
+=2
+4.cc
+8a
+=3
+8a
+8a
+16cc
+16b
+16a
+16g#
+=4
+4a
+4e}
+!!LO:LB:g=esac
+=5
+{4cc
+8b
+8dd
+=6
+4cc
+16cc
+16b
+16a
+16g#
+=7
+8g#
+8a
+16cc
+16b
+16a
+16g#
+=8
+4a
+4e}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8cc
+8dd
+=10
+8ee
+8b
+8cc
+8dd
+=11
+4ee
+4ee
+=12
+8a
+8a
+8cc
+8dd
+=13
+8ee
+8ee
+16cc
+16b
+16a
+16g#
+=14
+4a
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 267} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 267}
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK1914100000-instrumentalna-mijana_polka.krn
+!!!OTL: Instrumentalna-Mijana polka
+!!!source: DWOK19
+!!!id: 19141
+!!!signature: 1914100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4b
+4dd
+=2
+8b
+8a
+4a
+=3
+4cc
+8a
+8f#
+=4
+8g
+8ee
+16ee
+16dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16b
+16a
+16b
+16cc
+8dd
+8b
+=6
+8b
+8a
+16a
+16b
+8cc
+=7
+8cc
+16a
+16b
+16cc
+16a
+16f#
+16d
+=8
+8g
+8g
+4g}
+!!LO:LB:g=esac
+=9
+{4dd
+8dd
+8dd
+=10
+8dd
+8dd
+4ee
+=11
+4dd
+8cc
+8f#
+=12
+8g
+8g
+4g}
+!!LO:LB:g=esac
+=13
+{16dd
+16dd
+8dd
+8dd
+8dd
+=14
+8dd
+8dd
+8ee
+8a
+=15
+16dd
+16ee
+16dd
+16b
+16cc
+16a
+16f#
+16d
+=16
+8g
+8g
+8b
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 47} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

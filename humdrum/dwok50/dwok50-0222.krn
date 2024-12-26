@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5022200000-tam_za_pecem_triska_bukowa.krn
+!!!OTL: Tam za pecem triska bukowa
+!!!source: DWOK50
+!!!id: 50222
+!!!signature: 5022200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8b
+8cc
+=2
+4dd
+4ee
+=3
+8dd
+4cc
+8cc}
+!!LO:LB:g=esac
+=4
+{8aa
+8gg
+8ff
+8ee
+=5
+4gg
+4ff
+=6
+8ee
+4dd
+8dd}
+!!LO:LB:g=esac
+=7
+{8g
+8cc
+8b
+8cc
+=8
+4dd
+4ee
+=9
+8dd
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 105} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

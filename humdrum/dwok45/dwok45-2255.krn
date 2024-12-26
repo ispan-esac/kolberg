@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK45225500000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK45
+!!!id: 452255
+!!!signature: 45225500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ee
+8gg
+8ee
+8gg
+8ee
+8cc
+=2
+4ee
+4gg
+8ff#
+8dd
+=3
+4dd
+2cc}
+!!LO:LB:g=esac
+=4
+{8ee
+8gg
+2ff#
+=5
+2.cc}
+!!LO:LB:g=esac
+=6
+{8ee
+8gg
+8ee
+8gg
+8ee
+8cc
+=7
+8.aa
+16gg
+4.ff#
+8dd
+=8
+4dd
+2cc}
+!!LO:LB:g=esac
+=9
+{8ee
+8gg
+8ff#
+8cc
+4dd
+=10
+2.cc}
+==
+*-
+!!!ONB: wariant Bartka (nie zawsze grany ze śpiewem)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=486 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 468-469} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, pp. 468-469}
+!!!page: 468-469
+!!!ONB: Converted on 2024/12/26 with esac2hum

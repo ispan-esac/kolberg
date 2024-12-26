@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK2301700000-przybiezeli_do_betlejem.krn
+!!!OTL: Przybieżeli do Betlejem
+!!!source: DWOK23
+!!!id: 23017
+!!!signature: 2301700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+16dd
+16ee
+8ff#
+8dd
+=3
+8gg
+8gg
+8ff#
+=4
+8ee
+8dd
+8r
+=5
+8gg
+8gg
+8ff#
+=6
+8ee
+8dd}
+8r
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8cc
+=8
+16dd
+16ee
+8ff#
+8dd
+=9
+8gg
+8gg
+8ff#
+=10
+8ee
+8dd
+8r
+=11
+8gg
+8gg
+8ff#
+=12
+8ee
+8dd}
+8r
+!!LO:LB:g=esac
+=13
+{8ee
+4ee
+=14
+8cc
+8cc
+8ee
+=15
+8dd
+4dd
+=16
+8b
+8b
+8dd}
+!!LO:LB:g=esac
+=17
+{8cc
+8cc
+8b
+=18
+8a
+8cc
+8ee
+=19
+4dd
+8f#
+=20
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 61} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 61}
+!!!page: 61
+!!!ONB: Converted on 2024/12/26 with esac2hum

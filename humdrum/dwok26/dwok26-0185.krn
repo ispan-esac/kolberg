@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK2618500000-rozsypala_sie_rutecka.krn
+!!!OTL: Rozsypała się rutecka
+!!!source: DWOK26
+!!!id: 26185
+!!!signature: 2618500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8dd
+8dd
+8ee
+4dd
+=2
+4dd
+8b
+8g
+4a
+=3
+4g
+8cc
+8cc
+8b
+8f#
+=4
+8g
+8f#
+4d}
+4r
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8ee
+4dd
+=6
+4dd
+8b
+8g
+4a
+=7
+4g
+8cc
+8cc
+8b
+8f#
+=8
+8g
+16g
+16f#
+4d}
+4r
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8a
+8f#
+4g
+=10
+8a
+8cc
+8cc
+8cc
+4b
+=11
+4.a
+8g
+8b
+8cc
+=12
+8g
+8f#
+4g}
+4r
+!!LO:LB:g=esac
+=13
+{8a
+8a
+8a
+8f#
+4g
+=14
+8a
+8cc
+8cc
+8cc
+4b
+=15
+4.a
+8g
+8b
+8cc
+=16
+8g
+8f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

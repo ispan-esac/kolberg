@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK3046300000-buv_hrycko_mudry_rodom_z_kolomyji.krn
+!!!OTL: Buv Hryćko mudry rodom z Kołomyji
+!!!source: DWOK30
+!!!id: 30463
+!!!signature: 3046300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8dd
+8dd
+=2
+4.dd
+8cc
+=3
+8b
+8b
+8a
+8a
+=4
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+8dd
+=6
+4.dd
+8cc
+=7
+8b
+8b
+8a
+8a
+=8
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8b
+8b
+=10
+8a
+8b
+8cc
+8a
+=11
+8g
+8b
+8b
+8b
+=12
+8a
+8b
+8cc
+8a}
+!!LO:LB:g=esac
+=13
+{4g
+8b
+8d
+=14
+4g
+8b
+8dd
+=15
+4g
+8b
+8d
+=16
+4g
+8b
+8dd}
+!!LO:LB:g=esac
+=17
+{4g
+8a
+8b
+=18
+4g
+4r
+=19
+4g
+8a
+8b
+=20
+4g}
+4r
+==
+*-
+!!!ONB: Hryćko Fylozof
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 248} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 248}
+!!!page: 248
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2600400000-kazal_haniol_do_betlejem.krn
+!!!OTL: Kazał hanioł do Betlejem
+!!!source: DWOK26
+!!!id: 26004
+!!!signature: 2600400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+8dd
+8dd
+=2
+16ee
+16ee
+8.dd
+16cc
+=3
+16cc
+16b
+8b}
+8r
+!!LO:LB:g=esac
+=4
+{16b
+16cc
+8dd
+8dd
+=5
+16ee
+16ee
+8.dd
+16cc
+=6
+16cc
+16b
+8b}
+8r
+!!LO:LB:g=esac
+=7
+{16dd
+16dd
+8cc
+8a
+=8
+16b
+16g
+8.dd
+16b
+=9
+16b
+16a
+8a}
+8r
+!!LO:LB:g=esac
+=10
+{16dd
+16dd
+8cc
+8a
+=11
+16b
+16g
+8.f#
+16a
+=12
+16a
+16g
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

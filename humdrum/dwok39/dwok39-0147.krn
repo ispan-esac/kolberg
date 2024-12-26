@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3914700000-bzi_bzi_bzibziana_zjedli_wilcy_barana.krn
+!!!OTL: Bzi bzi, bzibziana, zjedli wilcy barana
+!!!source: DWOK39
+!!!id: 39147
+!!!signature: 3914700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{2f#
+2g
+=2
+4f#
+4f#
+2g}
+!!LO:LB:g=esac
+=3
+{4f#
+4f#
+4g
+4g
+=4
+4f#
+4f#
+2g}
+!!LO:LB:g=esac
+=5
+{4f#
+4f#
+4g
+4g
+=6
+4f#
+4f#
+2g}
+!!LO:LB:g=esac
+=7
+{4f#
+4f#
+4g
+4g
+=8
+4f#
+4f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 188} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

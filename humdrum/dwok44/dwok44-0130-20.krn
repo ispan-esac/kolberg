@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4413000020-a_bez_uwagi_maz_zone_bije.krn
+!!!OTL: A bez uwagi mąz zone bije
+!!!source: DWOK44
+!!!id: 44130
+!!!signature: 4413000020
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8d
+8g
+8g
+8g
+=2
+8g
+8a
+8f
+8d
+=3
+8d
+8f
+8f
+8f
+=4
+8f
+8g
+8e
+8c}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8g
+8cc
+=6
+2ee
+=7
+8ff
+8ff
+8g
+16a
+16b
+=8
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 160} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

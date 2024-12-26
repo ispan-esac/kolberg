@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK57200500000-oj_sedyt_komar_na_duboczku.krn
+!!!OTL: Oj, sedyt komar na duboczku
+!!!source: DWOK57
+!!!id: 572005
+!!!signature: 57200500000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=1
+{8d
+8d
+8g
+8f#
+=2
+2d
+=3
+8b-
+8b-
+8b-
+8dd
+=4
+2a}
+!!LO:LB:g=esac
+=5
+{4b-
+8a
+8g
+=6
+8g
+8g
+8f#
+8g
+=7
+8d
+8d
+4f#
+=8
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1057
+!!!ONB: Converted on 2024/12/26 with esac2hum

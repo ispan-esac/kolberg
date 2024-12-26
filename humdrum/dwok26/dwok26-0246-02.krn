@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2624600002-a_wyjrzyjcie_matko.krn
+!!!OTL: A wyjrzyjcie matko
+!!!source: DWOK26
+!!!id: 26246
+!!!signature: 2624600002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+4cc
+=2
+8g
+4b
+=3
+8cc
+4cc
+=4
+8g
+8.b
+16dd}
+!!LO:LB:g=esac
+=5
+{8cc
+4cc
+=6
+8ee
+4gg
+=7
+4.ff
+=8
+8ee
+8cc}
+8r
+!!LO:LB:g=esac
+=9
+{8dd
+4ff
+=10
+8gg
+8.ee
+16cc
+=11
+8dd
+8.b
+16g
+=12
+8a
+4f}
+!!LO:LB:g=esac
+=13
+{8a
+8.cc
+16b
+=14
+8dd
+4b
+=15
+4.g
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 210
+!!!ONB: Converted on 2024/12/26 with esac2hum

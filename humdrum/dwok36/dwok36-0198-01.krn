@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3619800001-oj_tam_na_hori.krn
+!!!OTL: Oj tam na hori
+!!!source: DWOK36
+!!!id: 36198
+!!!signature: 3619800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+4gg
+=2
+8gg
+8gg
+4a
+=3
+8cc
+8cc
+4ee
+=4
+8ee
+8dd
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8b
+8dd
+=6
+8dd
+8cc
+8cc
+8cc
+=7
+4cc
+8cc
+8f#
+=8
+8g
+8g
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

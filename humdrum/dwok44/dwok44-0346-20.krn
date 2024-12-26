@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4434600020-a_spala_ja_spala.krn
+!!!OTL: A spała ja spała
+!!!source: DWOK44
+!!!id: 44346
+!!!signature: 4434600020
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8f#
+4g#
+4a
+=2
+8b
+16cc
+16a
+2b
+=3
+8cc
+8dd
+4dd
+8cc
+8b
+=4
+8cc
+8a
+2b}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4dd
+4cc
+=6
+8dd
+8cc
+2b
+=7
+4dd
+8cc
+8b
+4cc
+=8
+4b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=381 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 323} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 323}
+!!!page: 323
+!!!ONB: Converted on 2024/12/26 with esac2hum

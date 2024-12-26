@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1642300000-ja_kalinke_lomala.krn
+!!!OTL: Ja kalinkę łomała
+!!!source: DWOK16
+!!!id: 16423
+!!!signature: 1642300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4g
+4ff
+=2
+4.dd
+8dd
+=3
+8cc
+8cc
+4a
+=4
+4g
+4ff
+=5
+4.dd
+8dd
+=6
+8cc
+8cc
+4a}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8a
+8a
+=8
+8b-
+8a
+8g
+8g
+=9
+8cc
+8cc
+4cc
+=10
+8a
+8a
+8a
+8a
+=11
+8b-
+8a
+8g
+8g
+=12
+8f
+8f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 264} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 264}
+!!!ONB: Converted on 2024/12/26 with esac2hum

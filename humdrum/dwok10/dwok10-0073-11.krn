@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK1007300011-wesele_jedzie_kapusta_w_klodzie.krn
+!!!OTL: Wesele jedzie, kapusta w kłodzie
+!!!source: DWOK10
+!!!id: 10073
+!!!signature: 1007300011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+8a
+=2
+8b
+4g
+=3
+8cc
+8cc
+8dd
+=4
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ee
+=6
+8ee
+4cc
+=7
+8a
+8a
+8dd
+=8
+8dd
+4g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 228} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 228}
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

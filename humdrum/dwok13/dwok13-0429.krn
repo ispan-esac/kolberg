@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK1342900000-o_gwiazdeczko_cos_blyszczala.krn
+!!!OTL: O gwiazdeczko coś błyszczała
+!!!source: DWOK13
+!!!id: 13429
+!!!signature: 1342900000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8.b-
+16b-
+4a
+4g
+=2
+8.dd
+16dd
+4ee-
+4dd
+=3
+8.a
+16a
+4b-
+4a
+=4
+4g}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{8.b-
+16b-
+4a
+4g
+=6
+8.dd
+16dd
+4ee-
+4dd
+=7
+8.a
+16a
+4b-
+4a
+=8
+4g}
+4r
+4r
+!!LO:LB:g=esac
+=9
+{8.f
+16f
+4g
+4f
+=10
+8.b-
+16b-
+4a
+4b-
+=11
+8.cc
+16cc
+4ff
+4ee-
+=12
+4dd}
+4r
+4r
+!!LO:LB:g=esac
+=13
+{8.a
+16a
+4b-
+4a
+=14
+8.g
+16dd
+4ee-
+4dd
+=15
+8.a
+16a
+4b-
+4a
+=16
+4g}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 181} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 181}
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

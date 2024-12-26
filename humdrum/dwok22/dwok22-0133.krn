@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2213300000-jedzie_jasio_od_torunia.krn
+!!!OTL: Jedzie Jasio od Torunia
+!!!source: DWOK22
+!!!id: 22133
+!!!signature: 2213300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16a
+8cc
+8dd
+=2
+16.ee
+32ee
+8cc
+8a
+=3
+16.g#
+32g#
+8g#
+16b
+16cc
+=4
+8a
+8a
+16cc
+16b}
+!!LO:LB:g=esac
+=5
+{16.g#
+32g#
+8g#
+16b
+16cc
+=6
+4a}
+8r
+!!LO:LB:g=esac
+=7
+{16ee
+16ee
+8cc
+8dd
+=8
+16.ee
+32ee
+8cc
+8a
+=9
+16.g#
+32g#
+8g#
+16b
+16cc
+=10
+8a
+8a
+16cc
+16b}
+!!LO:LB:g=esac
+=11
+{16.g#
+32g#
+8g#
+16b
+16cc
+=12
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 90} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

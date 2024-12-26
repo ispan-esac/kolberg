@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK42159500001-moja_dziewczyno_bywaj_mi_zdrowa.krn
+!!!OTL: Moja dziewczyno bywaj mi zdrowa
+!!!source: DWOK42
+!!!id: 421595
+!!!signature: 42159500001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4f
+8a
+8f
+4ff
+8ee
+8dd
+=2
+4cc
+8cc
+8b-
+4a
+8g
+8f}
+!!LO:LB:g=esac
+=3
+{4g
+8e
+8g
+4.b-
+8g
+=4
+4a
+4cc
+4f}
+4r
+!!LO:LB:g=esac
+=5
+{4g
+8e
+8g
+4.b-
+8dd
+=6
+4cc
+8b-
+8g
+4.f
+8a}
+!!LO:LB:g=esac
+=7
+{4g
+8e
+8g
+4.b-
+8g
+=8
+4a
+4cc
+4f}
+4r
+==
+*-
+!!!ONB: Melodia dworska, znana też między ludem
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 118} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 118}
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

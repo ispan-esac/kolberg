@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK1248500000-trebace_trabia_kapela_graje.krn
+!!!OTL: Trębace trąbią, kapela graje
+!!!source: DWOK12
+!!!id: 12485
+!!!signature: 1248500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4d
+8g
+8b
+4.dd
+8cc
+=2
+8b
+8cc
+8dd
+8b
+2a}
+!!LO:LB:g=esac
+=3
+{4dd
+8b
+8g
+4g
+8ee
+8dd
+=4
+4cc
+8a
+8f#
+4d
+8cc
+8a
+=5
+8b
+8cc
+8dd
+8b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 251} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

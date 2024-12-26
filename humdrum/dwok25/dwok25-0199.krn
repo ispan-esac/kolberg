@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2519900000-tam_pod_borem_na_murawce.krn
+!!!OTL: Tam pod borem na murawce
+!!!source: DWOK25
+!!!id: 25199
+!!!signature: 2519900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8cc
+=2
+8b
+4g
+=3
+4b
+8a
+=4
+8g
+4e}
+!!LO:LB:g=esac
+=5
+{4dd
+8cc
+=6
+8b
+4g
+=7
+4b
+8a
+=8
+8g
+4e}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+8a
+8a
+=10
+16g
+16b
+4dd
+=11
+16ee
+16dd
+8cc
+8a
+=12
+16ee
+16dd
+4dd}
+!!LO:LB:g=esac
+=13
+{16d
+16f#
+8a
+8a
+=14
+16g
+16b
+4dd
+=15
+16ee
+16cc
+8a
+8a
+=16
+16a
+16g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 88} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

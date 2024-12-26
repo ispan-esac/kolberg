@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK8419400000-oj_zacwyla_kalynojka_w_lozi.krn
+!!!OTL: Oj, zacwyła kałynojka w łozi
+!!!source: DWOK84
+!!!id: 84194
+!!!signature: 8419400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4cc
+4ff
+=2
+8cc
+16dd
+16ee
+8ff
+8dd
+16cc
+16b-
+16a
+16b-}
+!!LO:LB:g=esac
+=3
+{8cc
+8dd
+8.cc
+16a
+4f
+=4
+8g
+8a
+8b-
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8cc
+8a
+4f
+=6
+8g
+8a
+8b-
+8dd
+8cc
+8a
+=7
+2.f}
+==
+*-
+!!!ONB: Wariant t. 1: 1_3_5__+1_76; wariant t. 4: 2_3_4_6_5434
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 185} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 185}
+!!!page: 185
+!!!ONB: Converted on 2024/12/26 with esac2hum

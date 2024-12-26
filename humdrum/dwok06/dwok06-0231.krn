@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK06-K0231-da_hojze_ino_dyna.krn
+!!!OTL: Da hojze ino dyna
+!!!source: DWOK06
+!!!id: K0231
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+4ee
+8ee
+=2
+8ee
+8ee
+8ee
+8ee
+=3
+8ee
+4dd
+8ee
+=4
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8g#
+8a
+8cc
+8b
+=6
+4dd
+4b
+=7
+8b
+4dd
+8ee
+=8
+8dd
+8cc
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 119} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 119}
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

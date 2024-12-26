@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK2518800000-jak_ja_bede_dziecko_miala.krn
+!!!OTL: Jak ja będę dziecko miała
+!!!source: DWOK25
+!!!id: 25188
+!!!signature: 2518800000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/8
+{16dd
+16cc
+8b
+8a
+=2
+16dd
+16cc
+8b
+8a
+=3
+8.dd
+16cc
+16b
+16a
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8a
+=6
+16cc
+16b
+8a
+8g
+=7
+8.b
+16a
+16g
+16f#
+=8
+4e}
+8r
+!!LO:LB:g=esac
+=9
+*M2/4
+{8g
+8g
+8b
+8dd
+=10
+8d
+8d
+8f#
+8a
+=11
+8g
+8g
+8b
+8dd
+=12
+4a
+4dd}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+8b
+8dd
+=14
+8d
+8d
+8f#
+8a
+=15
+8dd
+8cc
+8b
+8a
+=16
+2dd}
+!!LO:LB:g=esac
+=17
+{8dd
+8cc
+8b
+8a
+=18
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 83} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

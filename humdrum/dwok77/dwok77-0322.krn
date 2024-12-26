@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7732200000-po_owsianej_slomie_deptal.krn
+!!!OTL: Po owsianej słomie deptał
+!!!source: DWOK77
+!!!id: 77322
+!!!signature: 7732200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4b
+4dd
+=2
+8ff
+8aa
+4gg
+4ee
+=3
+4gg
+8gg
+8ff#
+4dd
+=4
+8dd
+8b
+4a
+4cc}
+!!LO:LB:g=esac
+=5
+{4g
+4b
+4dd
+=6
+8ff
+8ff
+4ee
+4cc
+=7
+4a
+4cc
+4a
+=8
+8dd
+8b
+4a
+4cc}
+==
+*-
+!!!ONB: Wariant w t. 7: +3_+2_+2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

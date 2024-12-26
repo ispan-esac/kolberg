@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK2603100000-do_tego_domu_wstepujemy.krn
+!!!OTL: Do tego domu wstępujemy
+!!!source: DWOK26
+!!!id: 26031
+!!!signature: 2603100000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+8dd
+8ee
+4cc
+4b
+=2
+4a
+4b
+4g
+4g}
+!!LO:LB:g=esac
+=3
+{4cc
+4ee
+4.gg
+8ee
+=4
+8ff
+8dd
+8ee
+8dd
+8cc
+8ee
+4gg
+=5
+4ff
+4ee
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 81
+!!!ONB: Converted on 2024/12/26 with esac2hum

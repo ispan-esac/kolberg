@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7650100000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK76
+!!!id: 76501
+!!!signature: 7650100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8cc
+8cc
+8a
+=2
+8g
+4b
+16a
+16g
+=3
+8d
+8f#
+8f#
+8f#
+=4
+8g
+4b
+8dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+8cc
+8a
+=6
+8g
+4b
+8dd
+=7
+16cc
+16b
+16cc
+16a
+16g
+16f#
+16e
+16f#
+=8
+8a
+4g
+8g}
+==
+*-
+!!!ONB: Wariant t. 3: -5-6-7_-7_-7_; t.4: 1-7-6-7-7__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=300 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 264} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 264}
+!!!page: 264
+!!!ONB: Converted on 2024/12/26 with esac2hum

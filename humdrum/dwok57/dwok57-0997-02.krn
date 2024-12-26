@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5799700002-tam_popid_haj_zelenenki.krn
+!!!OTL: Tam popid haj zełeneńki
+!!!source: DWOK57
+!!!id: 57997
+!!!signature: 5799700002
+**kern
+*clefG2
+*k[b-]
+*F:
+=1
+*M2/4
+{8f
+8a
+8cc
+8cc
+=2
+8cc
+8dd
+8cc
+8a
+=3
+8b-
+8cc
+8dd
+8cc
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+*M3/4
+{4.ff
+8gg
+8cc
+8cc
+=6
+*M2/4
+8dd
+8dd
+8cc
+8b-
+=7
+8a
+16a
+16cc
+4g
+=8
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

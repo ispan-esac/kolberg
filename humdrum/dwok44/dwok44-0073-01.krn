@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK4407300001-rzegoce_sroka.krn
+!!!OTL: Rzegoce sroka
+!!!source: DWOK44
+!!!id: 44073
+!!!signature: 4407300001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4dd
+4ee
+=2
+4ee
+4cc
+4ff
+=3
+2.ff
+=4
+4ee
+2cc}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4ee
+=6
+4ff
+4ee
+4dd
+=7
+2.cc
+=8
+4b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 117} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 117}
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

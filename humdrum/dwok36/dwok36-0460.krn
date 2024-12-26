@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3646000000-ach_ja_czumak_neszczaslywy.krn
+!!!OTL: Ach ja czumak neszczasływy
+!!!source: DWOK36
+!!!id: 36460
+!!!signature: 3646000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8ee
+8ee
+8ee
+=2
+8dd
+8dd
+8ff
+8ff
+=3
+8ee
+8ee
+8ee
+8ee
+=4
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+8e
+8e
+=6
+8a
+8b
+8cc
+8dd
+=7
+8ee
+8ee
+8ee
+8ee
+=8
+8dd
+8cc
+8b
+8a}
+==
+*-
+!!!ONB: Nie zakodowano przygrywki instr. w akordach
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 295
+!!!ONB: Converted on 2024/12/26 with esac2hum

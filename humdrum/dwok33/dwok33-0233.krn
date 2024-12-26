@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK3323300000-letyla_ptaszyna_czy_cze_cze.krn
+!!!OTL: Letyła ptaszyna czy cze cze
+!!!source: DWOK33
+!!!id: 33233
+!!!signature: 3323300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8cc
+8b
+8g
+=2
+4b
+8cc
+8b
+=3
+4a
+4b
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8b
+8g
+=6
+4g
+8cc
+8b
+=7
+4g
+4b
+=8
+2g}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc
+8b
+8g
+=10
+4b
+8cc
+8b
+=11
+4a
+4b
+=12
+2cc}
+!!LO:LB:g=esac
+=13
+{8dd
+8cc
+8b
+8g
+=14
+4g
+8cc
+8b
+=15
+4g
+4b
+=16
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=327 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 285} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 285}
+!!!page: 285
+!!!ONB: Converted on 2024/12/26 with esac2hum

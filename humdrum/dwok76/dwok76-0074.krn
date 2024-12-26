@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7607400000-o_kochanie_o.krn
+!!!OTL: O, kochanie, o
+!!!source: DWOK76
+!!!id: 76074
+!!!signature: 7607400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8g
+8a
+8b
+=2
+8cc
+8b
+4g
+=3
+8ee
+8dd
+8ee
+8ff#
+=4
+8gg
+8ff#
+4dd}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+16cc
+16a
+8g
+=6
+8b
+8cc
+4dd
+=7
+8ff
+8dd
+16cc
+16a
+8g
+=8
+8b
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 44} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 44}
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK5310800000-o_ce_berzelis_stoveju.krn
+!!!OTL: O! Ce berzelis stoveju
+!!!source: DWOK53
+!!!id: 53108
+!!!signature: 5310800000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{4e
+4g
+4a
+=2
+2b
+4cc
+=3
+4b
+4a
+4b}
+!!LO:LB:g=esac
+=4
+{4e
+4g
+4a
+=5
+2b
+4cc
+=6
+4b
+4a
+4b}
+!!LO:LB:g=esac
+=7
+{4a
+4a
+4g
+=8
+4f#
+2g
+=9
+4b
+4a
+4b}
+!!LO:LB:g=esac
+=10
+{4a
+4a
+4g
+=11
+4f#
+2g
+=12
+4f#
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 244} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 244}
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK1000300000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK10
+!!!id: 10003
+!!!signature: 1000300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4ee
+4.gg
+8ff
+=2
+8ee
+8dd
+4b
+4g
+=3
+8b
+8dd
+4ff
+8ee
+8dd
+=
+12cc
+12b
+12g
+4ee
+4cc}
+!!LO:LB:g=esac
+=
+{12ee
+12gg
+12gg
+4.gg
+8ff
+=4
+8ee
+8dd
+4b
+4g
+=5
+8b
+8dd
+4ff
+8ee
+8dd
+=
+12cc
+12b
+12g
+4a
+4f}
+!!LO:LB:g=esac
+=6
+{4g
+4.b
+8dd
+=7
+8ee
+8dd
+4b
+4g
+=8
+8b
+8dd
+4ff
+8ee
+8dd
+=
+12cc
+12b
+12g
+4ee
+4cc}
+!!LO:LB:g=esac
+=
+{12g
+12b
+12b
+4.b
+8dd
+=9
+8ee
+8dd
+4b
+4g
+=10
+8b
+8dd
+4ff
+8ee
+8dd
+=
+12cc
+12b
+12g
+4a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 62} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 62}
+!!!page: 62
+!!!ONB: Converted on 2024/12/26 with esac2hum

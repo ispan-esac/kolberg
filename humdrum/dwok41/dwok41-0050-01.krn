@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4105000001-oj_nie_moj_ogrodeczek.krn
+!!!OTL: Oj, nie mój ogródeczek
+!!!source: DWOK41
+!!!id: 41050
+!!!signature: 4105000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+{16a
+32r
+8cc
+8ff#
+=1
+16ee
+16dd
+16b
+16cc
+8ee}
+!!LO:LB:g=esac
+=2
+{8a
+8cc
+8ff#
+=3
+16ee
+16dd
+16b
+16cc
+8a}
+!!LO:LB:g=esac
+=4
+{16d
+16r
+8cc
+16g
+16f#
+=5
+16g
+32a
+32b
+8dd
+16a
+16f#}
+!!LO:LB:g=esac
+=6
+{8d
+8cc
+16g
+16f#
+=7
+16d
+16f#
+16g
+16f#
+8d}
+==
+*-
+!!!ONB: Kujawiak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 51} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 51}
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

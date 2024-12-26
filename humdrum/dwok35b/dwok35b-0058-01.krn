@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK35B-35B05800001-a_juz_moje_sino_do_zemli_prysilo.krn
+!!!OTL: A już moje sino do zemli prysiło
+!!!source: DWOK35B
+!!!id: 35B058
+!!!signature: 35B05800001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+4cc
+=2
+8dd
+4b
+=3
+8a
+4g
+=4
+8g
+4cc
+=5
+8cc
+8b
+8a
+=6
+8a
+4g#}
+!!LO:LB:g=esac
+=7
+{8g
+4cc
+=8
+8b
+4a
+=9
+16a
+16g
+4ee
+=10
+8ee
+4dd
+=11
+8ee
+4g
+=12
+8f
+4a
+=13
+4.cc
+=14
+8cc}
+8r
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 161} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 161}
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

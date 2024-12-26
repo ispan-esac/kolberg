@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4021200000-jak_wiele_welenki.krn
+!!!OTL: Jak wiele wełenki
+!!!source: DWOK40
+!!!id: 40212
+!!!signature: 4021200000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8a
+8dd
+8ff#
+=2
+16ff#
+16ee
+8cc#
+8a
+=3
+16cc#
+16dd
+8ee
+16cc#
+16b
+=4
+8a
+4e}
+!!LO:LB:g=esac
+=5
+{4g#
+8b
+=6
+16dd
+16cc#
+8a
+16f#
+16d
+=7
+16f#
+16a
+8g#
+8f#
+=8
+4e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 252} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

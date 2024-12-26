@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK1302900000-bede_zynala_trawke_zielona.krn
+!!!OTL: Będę żynała trawkę zieloną
+!!!source: DWOK13
+!!!id: 13029
+!!!signature: 1302900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8g
+8b
+=2
+4dd
+8dd
+=3
+8a
+8a
+8dd
+=4
+16a
+16b
+4g}
+!!LO:LB:g=esac
+=5
+{8d
+8g
+8b
+=6
+4dd
+16dd
+16cc
+=7
+8a
+8a
+16dd
+16cc
+=8
+16a
+16b
+4g}
+!!LO:LB:g=esac
+=9
+{16a
+16a
+8.cc
+16a
+=10
+16b
+16b
+8.dd
+16b
+=11
+16a
+16a
+8.cc
+16a
+=12
+16b
+16b
+8.dd
+16b}
+!!LO:LB:g=esac
+=13
+{16a
+16a
+8cc
+8a
+=14
+8.g
+16b
+16b
+16dd
+=15
+16dd
+16cc
+8a
+8b
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 18} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 18}
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

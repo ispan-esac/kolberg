@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK4052200000-cap_trap_klap.krn
+!!!OTL: Cap trap klap
+!!!source: DWOK40
+!!!id: 40522
+!!!signature: 4052200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8g
+8g
+8f#
+8g
+8g
+8f#
+=2
+8g
+8g
+8a
+4b
+8a}
+!!LO:LB:g=esac
+=3
+{8b
+8b
+8a
+8b
+8b
+8a
+=4
+8b
+8b
+8cc
+4dd
+8b}
+!!LO:LB:g=esac
+=5
+{8dd
+8gg
+8b
+8dd
+8cc
+8a
+=6
+8cc
+8ee
+8cc
+4b
+8a}
+!!LO:LB:g=esac
+=7
+{8g
+8g
+8g
+8e
+8e
+8e
+=8
+8cc
+8a
+8f#
+8g
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=555 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 488} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 488}
+!!!page: 488
+!!!ONB: Converted on 2024/12/26 with esac2hum

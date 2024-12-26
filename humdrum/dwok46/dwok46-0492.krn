@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4649200000-ida_gaski_ida_tak_sobie_gegaja.krn
+!!!OTL: Idą gąski, idą, tak sobie gęgają
+!!!source: DWOK46
+!!!id: 46492
+!!!signature: 4649200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+4a
+=2
+8ee
+8dd
+8cc
+=3
+16b
+16b
+4a
+=4
+8cc
+8g
+8f#}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+4a
+=6
+8b
+8dd
+8cc
+=7
+16dd
+16b
+4a
+=8
+8cc
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=335 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 301} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 301}
+!!!page: 301
+!!!ONB: Converted on 2024/12/26 with esac2hum

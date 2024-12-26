@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK5711220000-pryjszow_ja_do_diwczyny_hubki.krn
+!!!OTL: Pryjszow ja do diwczyny: hubki
+!!!source: DWOK57
+!!!id: 571122
+!!!signature: 5711220000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8ee
+=2
+8ee
+8dd
+8cc
+8b
+=3
+2dd
+=4
+2b}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8dd
+8ee
+=6
+8ee
+8dd
+8cc
+8b
+=7
+2dd
+=8
+2g}
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+8dd
+8dd
+=10
+4ee
+4dd
+=11
+4cc
+4b
+=12
+4b
+4b}
+!!LO:LB:g=esac
+=13
+{8g
+8b
+8b
+8b
+=14
+4cc
+4b
+=15
+4a
+4f#
+=16
+2g
+=17
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 260
+!!!ONB: Converted on 2024/12/26 with esac2hum

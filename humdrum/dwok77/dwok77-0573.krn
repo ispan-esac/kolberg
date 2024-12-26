@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK7757300000-to_utonal_popielarczyk_utonal.krn
+!!!OTL: To utonął popielarczyk utonął
+!!!source: DWOK77
+!!!id: 77573
+!!!signature: 7757300000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8a
+8cc#
+4ee
+4ff#
+=2
+8dd
+8b
+4g#
+4b
+=3
+4dd
+4ff#
+4ee}
+!!LO:LB:g=esac
+=4
+{8ee
+8cc#
+4ee
+4ff#
+=5
+8dd
+8b
+4g#
+4b
+=6
+4dd
+4cc#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 293
+!!!ONB: Converted on 2024/12/26 with esac2hum

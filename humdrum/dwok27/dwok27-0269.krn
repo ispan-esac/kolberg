@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK2726900000-tery_konie_jasio_mial.krn
+!!!OTL: Śtery konie Jasio miał
+!!!source: DWOK27
+!!!id: 27269
+!!!signature: 2726900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8dd
+8cc
+=2
+8ee
+16cc
+16b
+8g
+=3
+16ee
+16ff
+8gg
+8ee
+=4
+8gg
+8ff
+8dd}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8dd
+8cc
+=6
+8ee
+8ff
+8dd
+=7
+16cc
+16ee
+8dd
+8cc
+=8
+8ee
+16cc
+16b
+8g}
+!!LO:LB:g=esac
+=9
+{16g
+16b
+8dd
+8cc
+=10
+8ee
+16cc
+16b
+8g
+=11
+16ee
+16ff
+8gg
+8ee
+=12
+8gg
+8aa
+8gg}
+!!LO:LB:g=esac
+=13
+{16ff
+16ee
+8dd
+8b
+=14
+8cc
+8dd
+8ee
+=15
+16gg
+32ff
+32ee
+8dd
+16cc
+16dd
+=16
+8ee
+16cc
+16b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 286} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 286}
+!!!page: 286
+!!!ONB: Converted on 2024/12/26 with esac2hum

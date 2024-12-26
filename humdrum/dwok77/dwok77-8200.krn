@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK7782000000-bywaj_mi_zdrowa.krn
+!!!OTL: Bywaj mi zdrowa
+!!!source: DWOK77
+!!!id: 778200
+!!!signature: 7782000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8b
+8b
+4.cc
+8b
+=2
+8ee
+8dd
+8dd
+8cc
+8cc
+8b
+4b}
+!!LO:LB:g=esac
+=3
+{4dd
+8a
+8a
+4a
+8a
+8cc
+=4
+8ee
+8dd
+8dd
+8f#
+4a
+4g}
+==
+*-
+!!!ONB: U Kolberga błąd w zapisie rytmicznym (półnuta zamiast ćwierćnuty)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 24
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2729700000-z_tamty_strony_wody.krn
+!!!OTL: Z tamty strony wody
+!!!source: DWOK27
+!!!id: 27297
+!!!signature: 2729700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8ff
+8ff
+=2
+8ee
+4gg
+=3
+16.aa
+32dd
+8ff
+8ff
+=4
+8ee
+4g}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8ff
+8dd
+=6
+16cc
+16dd
+8cc
+8b-
+=7
+16g
+16a
+8b-
+8cc
+=8
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{16b
+16dd
+16ff
+16ee
+8dd
+=10
+16cc
+16dd
+8cc
+16b-
+16a
+=11
+16g
+16a
+8b-
+16cc
+16b-
+=12
+8a
+16cc
+16g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=318 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 299} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 299}
+!!!page: 299
+!!!ONB: Converted on 2024/12/26 with esac2hum

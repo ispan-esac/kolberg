@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK5065100000-pid_pilit_pid_pilit.krn
+!!!OTL: Pid pilit, pid pilit
+!!!source: DWOK50
+!!!id: 50651
+!!!signature: 5065100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.dd
+16cc#
+4dd
+=2
+8.dd
+16cc#
+4dd
+=3
+8dd
+8cc
+8a
+8dd
+=4
+8b
+4.g}
+!!LO:LB:g=esac
+=5
+{8.dd
+16cc#
+4dd
+=6
+8.dd
+16cc#
+4dd
+=7
+8dd
+8cc
+8a
+8dd
+=8
+8b
+4.g}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+4a
+=10
+8g
+4b
+8b
+=11
+8dd
+8cc
+8a
+8dd
+=12
+8b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=427 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 394} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 394}
+!!!page: 394
+!!!ONB: Converted on 2024/12/26 with esac2hum

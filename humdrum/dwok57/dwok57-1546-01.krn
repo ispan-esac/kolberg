@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK57154600001-taj_cy_budesz_diwczenonko.krn
+!!!OTL: Taj cy budesz, diwczenońko
+!!!source: DWOK57
+!!!id: 571546
+!!!signature: 57154600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+4dd
+4ee
+=2
+8a
+8a
+8a
+16g
+16f
+4d}
+!!LO:LB:g=esac
+=3
+{8b
+8cc
+4dd
+4ee
+=4
+4a
+2dd}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8cc
+8b
+4dd
+=6
+8a
+8a
+8a
+16g
+16f
+4d}
+!!LO:LB:g=esac
+=7
+{8g
+8a
+8cc
+8b
+4dd
+=8
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 584
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK4908600001-koleda.krn
+!!!OTL: Kolęda
+!!!source: DWOK49
+!!!id: 49086
+!!!signature: 4908600001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8cc
+8g
+=
+8cc
+8dd
+8ee
+24ff
+24ee
+24dd
+=2
+8cc
+8cc
+8cc
+8g
+=3
+8cc
+8dd
+4ee}
+!!LO:LB:g=esac
+=4
+{8gg
+8gg
+4gg
+=5
+8ff
+8ff
+4ff
+=6
+8ee
+8ee
+4gg
+=7
+8dd
+8dd
+8dd
+8dd}
+!!LO:LB:g=esac
+=8
+{8ee
+8ff#
+4gg
+=9
+8ff
+8ff
+4ff
+=10
+8dd
+8dd
+4gg
+=11
+8cc
+8ee
+8dd
+8dd}
+!!LO:LB:g=esac
+=12
+{8gg
+8gg
+8ff
+16ee
+16ff
+=13
+8ee
+8ee
+8dd
+8dd
+=14
+8gg
+8gg
+8ff
+8ee
+=15
+16ee
+16ff#
+8gg
+4gg
+=16
+8ff
+8ff
+4ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 175} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 175}
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

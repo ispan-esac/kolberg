@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK3646300000-szczoja_budu_bidny_dijaw.krn
+!!!OTL: Szczoja budu bidny dijaw
+!!!source: DWOK36
+!!!id: 36463
+!!!signature: 3646300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8aa
+8aa
+8gg#
+16gg#
+16bb
+=2
+8aa
+16aa
+16ee
+16ff
+16ee
+8dd
+=3
+8ee
+8ee
+8cc
+8ee
+=4
+8dd
+8dd
+16cc
+16b
+8a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+16a
+16b
+8cc
+=6
+8dd
+8ee
+16ff
+16ee
+8dd
+=7
+8ff
+8ff
+8dd
+8ff
+=8
+8dd
+8dd
+16cc
+16b
+8a}
+!!LO:LB:g=esac
+=9
+{4a
+8a
+16b
+16cc
+=10
+8dd
+8ee
+16ff
+16ee
+8dd
+=11
+8ff
+16ff
+16ee
+8ff
+16dd
+16ff
+=12
+8dd
+8dd
+16cc
+16b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 297-298
+!!!ONB: Converted on 2024/12/26 with esac2hum

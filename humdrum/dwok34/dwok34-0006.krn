@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK3400600000-pojichaw_synoczok_w_daleku_dorohu.krn
+!!!OTL: Pojichaw synoczok w dałeku dorohu
+!!!source: DWOK34
+!!!id: 34006
+!!!signature: 3400600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+4cc
+=2
+16cc
+16cc
+8dd
+8g
+=3
+8cc
+4ee
+=4
+16ff
+16ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8ee
+4cc
+=6
+16a
+16a
+8a
+8g
+=7
+8g
+4cc
+=8
+16dd
+16ee
+8cc
+8a}
+!!LO:LB:g=esac
+=9
+{8ee
+4cc
+=10
+16dd
+16ee
+16cc
+16a
+8g
+=11
+8g
+4cc
+=12
+16dd
+16ee
+8cc
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=23 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 6} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 6}
+!!!page: 6
+!!!ONB: Converted on 2024/12/26 with esac2hum

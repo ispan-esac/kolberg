@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK2411600002-oj_zabili_zabili.krn
+!!!OTL: Oj zabili zabili
+!!!source: DWOK24
+!!!id: 24116
+!!!signature: 2411600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+16dd
+16ee
+8dd
+16cc
+16a
+=3
+16f#
+16g
+8b
+8g
+=4
+8a
+4d}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+8g
+=6
+16dd
+16cc
+8a
+8g
+=7
+16f#
+16g
+8b
+8g
+=8
+8a
+4d}
+!!LO:LB:g=esac
+=9
+{8a
+8g
+8b
+=10
+16a
+16cc
+8a
+8g
+=11
+16a
+16cc
+8b
+8b
+=12
+8g
+4a}
+!!LO:LB:g=esac
+=13
+{8a
+8g
+8b
+=14
+16a
+16cc
+8a
+8g
+=15
+16a
+16cc
+8dd
+8b
+=16
+8g
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 236} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 236}
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

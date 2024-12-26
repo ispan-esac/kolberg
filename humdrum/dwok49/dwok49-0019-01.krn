@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4901900001-kady_chodymo_boha_slidemo.krn
+!!!OTL: Kady chodymo Boha ślidemo
+!!!source: DWOK49
+!!!id: 49019
+!!!signature: 4901900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*MX
+=1
+{4g
+4a
+4b
+4cc
+2dd
+=2
+4dd
+4dd
+8dd
+8ee
+8dd
+8cc
+8a
+8g
+=3
+8b
+8g
+4.a
+8f#
+2g}
+!!LO:LB:g=esac
+=4
+{2dd
+8ff#
+8ee
+8dd
+8cc
+8a
+8g
+=5
+2b
+2dd
+8b
+8g
+4.a
+8g
+2b
+8a
+16f#
+16g
+2.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 111} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

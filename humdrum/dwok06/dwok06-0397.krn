@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0397-oj_swinie_moje_swinie.krn
+!!!OTL: Oj swinie moje swinie
+!!!source: DWOK06
+!!!id: K0397
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8f
+8a
+8cc
+=2
+16a
+16f
+8a
+8cc
+=3
+16a
+16f
+8a
+8cc
+=4
+8b-
+4g}
+!!LO:LB:g=esac
+=5
+{8e-
+8g
+8b-
+=6
+16g
+16e-
+8g
+8b-
+=7
+16g
+16e-
+8g
+8b-
+=8
+8a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 208} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 208}
+!!!page: 208
+!!!ONB: Converted on 2024/12/26 with esac2hum

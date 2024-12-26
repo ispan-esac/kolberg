@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK55101100000-koly_sonyczko_schodylo.krn
+!!!OTL: Koły sonyczko schodyło
+!!!source: DWOK55
+!!!id: 551011
+!!!signature: 55101100000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8dd
+8dd
+8dd
+8dd
+=2
+8dd
+8dd
+8dd
+8dd
+=3
+8dd
+8dd
+4dd
+=4
+4ee
+4dd#}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8b
+8cc
+=6
+8b
+8a
+8a
+8a
+=7
+8a
+8cc
+8b
+8cc
+=8
+4a
+4a}
+==
+*-
+!!!ONB: DWOK55 nr 1011, wariant t. 2: 4_4_; wariant t. 3: 4444; wariant t. 4: 524#2; wariant t. 5: 4#3b23b; wariant t. 7: 1111
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=357 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 332} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 332}
+!!!page: 332
+!!!ONB: Converted on 2024/12/26 with esac2hum

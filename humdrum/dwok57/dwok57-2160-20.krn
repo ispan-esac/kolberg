@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK57216000020-instrumentalna_-_szukma_wloska.krn
+!!!OTL: Instrumentalna - Szukma włoska
+!!!source: DWOK57
+!!!id: 572160
+!!!signature: 57216000020
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M2/4
+=1
+{8bb
+4bb
+16ddd
+16ccc#
+=2
+8bb
+8aa#
+4bb
+=3
+8bb
+4bb
+16ddd
+16ccc#
+=4
+8bb
+8bb
+4fff#}
+!!LO:LB:g=esac
+=5
+{8.ddd
+16ccc#
+16bb
+16aa#
+16bb
+16ddd
+=6
+8ccc#
+4ccc#
+8aa#
+=7
+8ff#
+4ff#
+16gg#
+16aa#
+=8
+16bb
+16aa#
+16bb
+16ccc#
+4ddd}
+!!LO:LB:g=esac
+=9
+{8.ddd
+16ccc#
+16bb
+16aa#
+16bb
+16ddd
+=10
+8ccc#
+4ccc#
+8aa#
+=11
+8ff#
+4ff#
+16gg#
+16aa#
+=12
+4bb}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1206
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2924400000-oj_husacze_bilokrylyj.krn
+!!!OTL: Oj husacze biłokrylyj
+!!!source: DWOK29
+!!!id: 29244
+!!!signature: 2924400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8cc
+8cc
+16cc
+16b
+16a
+16g
+=2
+8cc
+8cc
+16cc
+16b
+16a
+16g
+=3
+8cc
+8cc
+16cc
+16b
+16a
+16g
+=4
+16b
+16g
+16g
+16d
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+16cc
+16b
+16a
+16g
+=6
+8cc
+8cc
+16cc
+16b
+16a
+16g
+=7
+8cc
+8cc
+16cc
+16b
+16a
+16g
+=8
+8g
+16g
+16d
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=339 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 307} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 307}
+!!!page: 307
+!!!ONB: Converted on 2024/12/26 with esac2hum

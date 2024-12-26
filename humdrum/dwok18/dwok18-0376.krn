@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1837600000-oto_ponowa_wstawaj_mysliwy.krn
+!!!OTL: Oto ponowa wstawaj mysliwy
+!!!source: DWOK18
+!!!id: 18376
+!!!signature: 1837600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4ff
+8ee
+8dd
+4cc
+8dd
+8b-
+=2
+8b-
+8a
+8b-
+8dd
+2cc
+=3
+4ff
+8ee
+8dd
+4cc
+8dd
+8b-
+=4
+8b-
+8a
+8b-
+8dd
+2cc}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8cc
+8cc
+8cc
+8ff
+8ff
+8ff
+=6
+8g
+8b-
+8b-
+8b-
+8b-
+8dd
+8dd
+8b-
+=7
+8a
+8cc
+8cc
+8cc
+4f
+4g
+=8
+4c
+2.f}
+==
+*-
+!!!ONB: Myśliwska
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 205} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 205}
+!!!page: 205
+!!!ONB: Converted on 2024/12/26 with esac2hum

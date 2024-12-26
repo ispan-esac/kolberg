@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK02-K0090-a_wybieraj_ze_sie_nadobna_kasieniu.krn
+!!!OTL: A wybieraj ze sie nadobna Kasieniu
+!!!source: DWOK02
+!!!id: K0090
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8a
+8a
+4cc#
+4dd
+=2
+4dd
+4.cc#
+8a
+=3
+8cc#
+8dd
+4dd
+4cc#
+=4
+4dd
+4cc#
+4a}
+!!LO:LB:g=esac
+=5
+{8cc#
+8cc#
+4dd
+4ee
+=6
+4dd
+4cc#
+4g
+=7
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 76} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 76}
+!!!page: 76
+!!!ONB: Converted on 2024/12/26 with esac2hum

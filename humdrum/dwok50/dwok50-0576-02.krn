@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK5057600002-hej_musieliscie_chlopcy_w_krakowie_nie_bywac.krn
+!!!OTL: Hej, musieliście, chłopcy, w Krakowie nie bywać
+!!!source: DWOK50
+!!!id: 50576
+!!!signature: 5057600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{2dd}
+!!LO:LB:g=esac
+=2
+{8dd
+8b
+8b
+8b
+=3
+4a
+8f#
+8d
+=4
+8e
+8e
+8g
+8b
+=5
+4a
+4f#}
+!!LO:LB:g=esac
+=6
+{8g
+8a
+4cc
+=7
+8ee
+4dd
+8dd
+=8
+8b
+8b
+8b
+8g
+=9
+4a
+4f#}
+!!LO:LB:g=esac
+=10
+{8g
+8a
+4cc
+=11
+8ee
+4dd
+8dd
+=12
+8b
+8b
+8b
+8g
+=13
+4a
+4f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 334} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 334}
+!!!page: 334
+!!!ONB: Converted on 2024/12/26 with esac2hum

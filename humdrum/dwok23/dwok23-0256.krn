@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK2325600000-ciebie_na_wieki_wychwalac_bedziemy.krn
+!!!OTL: Ciebie na wieki wychwalać będziemy
+!!!source: DWOK23
+!!!id: 23256
+!!!signature: 2325600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4b
+8b
+8cc
+4dd
+4cc
+=2
+8b
+8dd
+8b
+8g
+4a
+4d
+=3
+8b
+8a
+8b
+8cc
+8dd
+8cc
+4b
+=4
+8a
+8b
+8cc
+8b
+2a}
+!!LO:LB:g=esac
+=5
+{4b
+8b
+8cc
+4dd
+4cc
+=6
+4b
+8b
+8g
+4a
+4d
+=7
+4b
+8b
+8cc
+4dd
+4cc
+=8
+4b
+4b
+2a}
+!!LO:LB:g=esac
+=9
+{4a
+8b
+8a
+4a
+4g
+=10
+8dd
+8ee
+8dd
+8cc
+4b
+4a
+=11
+4a
+8b
+8a
+4a
+4g
+=12
+4dd
+8dd
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=13
+{4dd
+4ee
+8dd
+8cc
+4b
+=14
+4.dd
+8cc
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 244} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 244}
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

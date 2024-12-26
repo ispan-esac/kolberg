@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2411700010-a_w_niedziele_raniusienko.krn
+!!!OTL: A w niedzielę raniusieńko
+!!!source: DWOK24
+!!!id: 24117
+!!!signature: 2411700010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+4cc
+=2
+8dd#
+4ee
+=3
+8ff#
+4dd#
+=4
+8ee
+4b}
+!!LO:LB:g=esac
+=5
+{8dd#
+4ee
+=6
+8b
+4dd
+=7
+8cc
+4a
+=8
+8g#
+4e}
+!!LO:LB:g=esac
+=9
+{8g#
+4a
+=10
+8b
+4ee
+=11
+8a
+4b
+=12
+8cc
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 236} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 236}
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

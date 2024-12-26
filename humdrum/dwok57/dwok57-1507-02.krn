@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK57150700002-oj_napyjmo_si_kumciu.krn
+!!!OTL: Oj, napyjmo si, kumciu
+!!!source: DWOK57
+!!!id: 571507
+!!!signature: 57150700002
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8cc
+8cc
+8ee
+8dd
+8cc
+8a
+=2
+8a
+8g
+2g}
+!!LO:LB:g=esac
+=3
+*M2/4
+{8cc
+8cc
+8ee
+16dd
+16cc
+=4
+8ee
+8ff
+8gg
+8gg}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8ee
+8cc
+=6
+8ee
+8ff
+8gg
+8gg}
+!!LO:LB:g=esac
+=7
+*M3/4
+{8cc
+8cc
+8ee
+8cc
+8cc
+8a
+=8
+8a
+8g
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 550
+!!!ONB: Converted on 2024/12/26 with esac2hum

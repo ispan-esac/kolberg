@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7632300000-ksiedza_kochac_ksiedza_kochac.krn
+!!!OTL: Księdza kochać, księdza kochać
+!!!source: DWOK76
+!!!id: 76323
+!!!signature: 7632300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8g#
+4b
+4e
+=2
+8e
+8g#
+4b
+4e
+=3
+8a
+8cc
+4ee
+4ee
+=4
+8dd
+8ee
+2b}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+4b
+4e
+=6
+8e
+8g#
+4b
+4e
+=7
+8a
+8cc
+4ee
+4cc
+=8
+8b
+8g#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 167} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 167}
+!!!page: 167
+!!!ONB: Converted on 2024/12/26 with esac2hum

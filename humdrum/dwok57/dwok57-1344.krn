@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK57134400000-tuha_za_tuhoju.krn
+!!!OTL: Tuha za tuhoju
+!!!source: DWOK57
+!!!id: 571344
+!!!signature: 57134400000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4dd
+4dd
+4cc
+8dd
+8ee
+=
+4.ff
+8ee
+12ee
+12dd
+12cc}
+4r
+!!LO:LB:g=esac
+=2
+{4dd
+4dd
+4cc
+8dd
+8ee
+=
+4.ff
+8ee
+12ee
+12dd
+12cc}
+4r
+!!LO:LB:g=esac
+=3
+{4dd
+4dd
+4cc
+8dd
+8ee
+=4
+4ff
+4ee
+4dd
+4gg}
+!!LO:LB:g=esac
+=5
+{4ee
+4ee
+4dd
+8dd
+8b
+=6
+2cc
+2cc}
+!!LO:LB:g=esac
+=7
+{4dd
+4dd
+4cc
+8dd
+8ee
+=8
+4ff
+4ee
+4dd
+4gg}
+!!LO:LB:g=esac
+=9
+{4ee
+4ee
+4dd
+8dd
+8b
+=10
+2cc
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 421
+!!!ONB: Converted on 2024/12/26 with esac2hum

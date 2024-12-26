@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5000500002-ej_bylem_na_podolu_ej_bylem_na_zawislu.krn
+!!!OTL: Ej, byłem na Podolu, ej, byłem na Zawiślu
+!!!source: DWOK50
+!!!id: 50005
+!!!signature: 5000500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8cc
+8cc
+=2
+16g
+16b
+8dd
+8b
+=3
+8cc
+8cc
+8cc
+=4
+16dd
+16b
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8cc
+8a
+=6
+16g
+16b
+8dd
+8b
+=7
+8cc
+4ee
+=8
+16dd
+16b
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=16 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 3} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 3}
+!!!page: 3
+!!!ONB: Converted on 2024/12/26 with esac2hum

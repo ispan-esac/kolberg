@@ -1,0 +1,34 @@
+!!!!SEGMENT: DWOK57117400020-nieszczesliwy_ten_ganeczek.krn
+!!!OTL: Nieszczęśliwy ten ganeczek
+!!!source: DWOK57
+!!!id: 571174
+!!!signature: 57117400020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8g
+8d}
+=
+=
+=
+!!LO:LB:g=esac
+=2
+{8dd
+8d
+8d
+8f#
+=3
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 295
+!!!ONB: Converted on 2024/12/26 with esac2hum

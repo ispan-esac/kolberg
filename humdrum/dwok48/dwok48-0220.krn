@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK4822000000-dalej_bracia_do_bulata.krn
+!!!OTL: Dalej, bracia, do bułata
+!!!source: DWOK48
+!!!id: 48220
+!!!signature: 4822000000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8g
+8g
+8g
+8a
+=2
+8b
+8a
+8g
+8f#
+=3
+8e
+8f#
+8g
+8e
+=4
+8e
+8d
+4d}
+!!LO:LB:g=esac
+=5
+{8d
+8e
+8f#
+8d
+=6
+8g
+8g
+8g
+8g
+=7
+8b
+8b
+8b
+8b
+=8
+8a
+8a
+4dd}
+!!LO:LB:g=esac
+=9
+*M4/4
+{4dd
+4cc
+8cc
+16b
+16cc
+8dd
+8cc
+=
+!!UNCATEGORIZED MEASURE
+4b
+4g
+16g
+16f#
+16g
+8cc
+8b}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{4a
+4a
+4e
+4f#
+=10
+*M4/4
+4b
+4a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 244} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 244}
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

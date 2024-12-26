@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK22526a0000-a_bez_pole_dziewucha_sla.krn
+!!!OTL: A bez pole dziewucha sła
+!!!source: DWOK22
+!!!id: 22526a
+!!!signature: 22526a0000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16g
+8ee
+8dd
+=2
+16ee
+16ee
+8gg
+8aa
+=3
+16ff
+16ff
+8ee
+8dd
+=4
+16dd
+16dd
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+8cc
+8dd
+=6
+16dd
+16dd
+8cc
+8a
+=7
+16a
+16b
+8cc
+8dd
+=8
+16a
+16g
+8cc
+8a}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 241} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

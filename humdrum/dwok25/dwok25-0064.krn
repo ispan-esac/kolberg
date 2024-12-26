@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2506400000-u_nasego_mlyna_zielona_olsyna.krn
+!!!OTL: U nasego młyna zielona olsyna
+!!!source: DWOK25
+!!!id: 25064
+!!!signature: 2506400000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+16g
+8a
+8f
+=2
+8b-
+4dd
+=3
+16ee-
+16ff
+8gg
+8a
+=4
+8b-
+4dd}
+!!LO:LB:g=esac
+=5
+{16f
+16g
+8a
+8f
+=6
+8b-
+8.dd
+16cc
+=7
+8b-
+8cc
+16b-}
+16r
+!!LO:LB:g=esac
+=8
+{16f
+16g
+8a
+8f
+=9
+8b-
+4dd
+=10
+16ee-
+16ff
+8gg
+8a
+=11
+8b-
+4dd}
+!!LO:LB:g=esac
+=12
+{16f
+16g
+8a
+8f
+=13
+8b-
+8.dd
+16cc
+=14
+16b-
+16a
+8cc
+16b-}
+16r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 24} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 24}
+!!!page: 24
+!!!ONB: Converted on 2024/12/26 with esac2hum

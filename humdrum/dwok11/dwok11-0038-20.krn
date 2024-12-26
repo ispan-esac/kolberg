@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1103800020-instrumentalna-wo_zapomnisz_panienko_swywoli.krn
+!!!OTL: Instrumentalna-Wo zapomnisz panienko swywoli
+!!!source: DWOK11
+!!!id: 11038
+!!!signature: 1103800020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+{16d
+32e
+32f#
+8g
+8b
+=1
+16a
+16cc
+8a
+8f#}
+!!LO:LB:g=esac
+=-
+{16d
+32e
+32f#
+8g
+8b
+=2
+16a
+16cc
+8a
+8f#}
+!!LO:LB:g=esac
+=-
+{16.a
+32cc
+8dd
+8b
+=3
+16a
+16cc
+8a
+8f#}
+!!LO:LB:g=esac
+=-
+{16.a
+32cc
+8dd
+8b
+=4
+16a
+16cc
+8a
+8f#}
+==
+*-
+!!!ONB: Partia instrumentalna-Mazur
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 79} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 79}
+!!!page: 79
+!!!ONB: Converted on 2024/12/26 with esac2hum

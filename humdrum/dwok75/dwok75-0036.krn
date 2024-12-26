@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7503600000-ej_obiecal_mi_kowal.krn
+!!!OTL: Ej, obiecał mi kowal
+!!!source: DWOK75
+!!!id: 75036
+!!!signature: 7503600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4dd
+4ee
+=2
+8dd
+8cc
+4b
+4a
+=3
+4g
+4b
+4dd
+=4
+8dd
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8f#
+4g
+4d
+=6
+8d
+8f#
+4g
+4a
+=7
+4g
+4b
+4dd
+=8
+8dd
+8cc
+4b
+4a}
+==
+*-
+!!!ONB: Wariant t. 1: 355_6_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 23} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 23}
+!!!page: 23
+!!!ONB: Converted on 2024/12/26 with esac2hum

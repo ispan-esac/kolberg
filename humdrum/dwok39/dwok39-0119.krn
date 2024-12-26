@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK3911900000-na_szopie_na_sianie_tam_dobre_wyspanie.krn
+!!!OTL: Na szopie, na sianie, tam dobre wyspanie
+!!!source: DWOK39
+!!!id: 39119
+!!!signature: 3911900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+8g
+8b
+8dd
+8g
+=2
+8b
+8dd
+8dd
+8cc
+8a
+8d
+=3
+2cc
+8a
+8b
+=4
+2g}
+4r
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+8cc
+8a
+8d
+=6
+2cc
+8a
+8b
+=7
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 168} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

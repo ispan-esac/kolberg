@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK4817800000-luba_dziewico_chciej_wierzyc_mi.krn
+!!!OTL: Luba dziewico, chciej wierzyć mi
+!!!source: DWOK48
+!!!id: 48178
+!!!signature: 4817800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4d
+8g
+8a
+4b
+4b
+=2
+4a
+8a
+8b
+4g}
+4r
+!!LO:LB:g=esac
+=3
+{4d
+8g
+8a
+4b
+4b
+=4
+4a
+8a
+8b
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{4d
+8g
+8a
+4b
+4b
+=6
+4dd
+8cc
+8b
+4a}
+4r
+!!LO:LB:g=esac
+=7
+{4dd
+8a
+8b
+8dd
+8cc
+8b
+8a
+=8
+4g
+8b
+8a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 213} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 213}
+!!!page: 213
+!!!ONB: Converted on 2024/12/26 with esac2hum

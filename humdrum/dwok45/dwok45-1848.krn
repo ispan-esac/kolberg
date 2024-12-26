@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK45184800000-pamietaj_clowiece.krn
+!!!OTL: Pamiętaj cłowiece
+!!!source: DWOK45
+!!!id: 451848
+!!!signature: 45184800000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4g
+4cc
+4dd
+4ee
+=2
+8dd
+[8cc}
+2cc]
+4r
+!!LO:LB:g=esac
+=3
+{4dd
+4dd
+4gg
+4ff
+=4
+4ee
+2dd}
+4r
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4gg
+4ff
+=6
+4ee
+2cc}
+4r
+!!LO:LB:g=esac
+=7
+{4dd
+4ee
+4dd
+4ee
+=8
+8dd
+[8cc}
+2cc]
+4r
+==
+*-
+!!!ONB: W ostatnim takcie dodano brakującą pauzę ćwierćnutową
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=321 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 307} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 307}
+!!!page: 307
+!!!ONB: Converted on 2024/12/26 with esac2hum

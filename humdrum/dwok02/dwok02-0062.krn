@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK02-K0062-prosili_nas_na_wesele.krn
+!!!OTL: Prosili nas na wesele
+!!!source: DWOK02
+!!!id: K0062
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8dd
+8dd
+8dd
+8dd
+=2
+8cc#
+8cc#
+8.dd
+16a
+=3
+8b-
+8cc
+8dd
+8cc
+=4
+8b-
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+8f#
+8f#
+=6
+8g
+8a
+8b-
+8b-
+=7
+8cc
+8cc
+8dd
+8cc
+=8
+8b-
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 63} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 63}
+!!!page: 63
+!!!ONB: Converted on 2024/12/26 with esac2hum

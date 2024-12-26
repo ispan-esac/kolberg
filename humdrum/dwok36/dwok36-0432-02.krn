@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK3643200002-oj_zza_hory_wysokoji.krn
+!!!OTL: Oj zza hory wysokoji
+!!!source: DWOK36
+!!!id: 36432
+!!!signature: 3643200002
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8b
+8dd
+4ee
+4b
+=2
+16b
+16a
+16b
+16cc
+4dd
+4b
+=3
+8b
+8b
+8b
+8gg
+8ff#
+8ee
+=4
+8dd#
+8b
+2ee}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8g
+8b
+8dd
+8ee
+=6
+8dd
+8g
+8a
+16g
+16f#
+4e
+=7
+8dd
+8ee
+16dd
+16cc
+16b
+16cc
+8b
+8a
+=8
+4g
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 276
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK06-K0147a-dobranocka_dobra_dziewczyno.krn
+!!!OTL: Dobranocka dobra dziewczyno
+!!!source: DWOK06
+!!!id: K0147a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8dd
+8dd
+16dd
+16ee
+=2
+8ff
+4dd
+=3
+8ff
+8ff
+32ee
+32dd
+16b
+=4
+8cc
+16b
+16g}
+8r
+!!LO:LB:g=esac
+=5
+{16dd
+16ee
+8ff
+16dd
+16b
+=6
+4cc
+8cc}
+!!LO:LB:g=esac
+=7
+{16dd
+16dd
+8dd
+16dd
+16ee
+=8
+8ff
+4dd
+=9
+8ff
+8ff
+16ee
+16dd
+=10
+8cc
+4b}
+!!LO:LB:g=esac
+=11
+{8dd
+8cc
+16dd
+16ee
+=12
+8ff
+8dd
+8b
+=13
+4.cc
+=14
+8cc}
+4r
+==
+*-
+!!!ONB: Czesc pierwsza melodii w tonacji C
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 74} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 74}
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

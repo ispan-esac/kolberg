@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK06-K0080a-wegle_tego_mlyna.krn
+!!!OTL: Wegle tego mlyna
+!!!source: DWOK06
+!!!id: K0080a
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{8f
+8b-
+8cc
+8dd
+8cc
+8b-
+=2
+8cc
+8ee-
+16ee-
+16gg
+16ee-
+16cc
+16dd
+16cc
+8b-
+=3
+16cc
+16dd
+8ee-
+4ff
+4cc
+=4
+8ee-
+16dd
+16cc
+4b-
+4f}
+!!LO:LB:g=esac
+=5
+{8.ff
+16dd
+8ff
+8ee-
+8ee-
+8cc
+=6
+8.ff
+16dd
+8gg
+8ee-
+16ff
+16ee-
+8cc
+=7
+8ee-
+8ee-
+16ee-
+16gg
+16ee-
+16cc
+16dd
+16cc
+8b-
+=8
+16cc
+16dd
+8ee-
+4ff
+4cc
+=9
+8ee-
+16dd
+16cc
+4b-
+4f}
+==
+*-
+!!!ONB: Wariant 2
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 46} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

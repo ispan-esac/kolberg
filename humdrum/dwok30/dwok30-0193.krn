@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK3019300000-jedna_hora_wysokaja.krn
+!!!OTL: Jedna hora wysokaja
+!!!source: DWOK30
+!!!id: 30193
+!!!signature: 3019300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8dd
+8cc
+8dd
+=2
+4ee
+16cc
+16b
+16a
+16g
+=3
+16dd
+16cc
+8a
+8cc
+8a
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8dd
+8dd
+=6
+4ee
+16dd
+16cc
+16b
+16a
+=7
+8ee
+8dd
+8cc
+8ee
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 121} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 121}
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

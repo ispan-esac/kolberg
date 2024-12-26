@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK8359800000-wyszla_na_lukie_zahnula_rukie.krn
+!!!OTL: Wyszła na łukie, zahnuła rukie
+!!!source: DWOK83
+!!!id: 83598
+!!!signature: 8359800000
+**kern
+*clefG2
+*k[]
+*a:
+*M5/8
+=1
+{8cc
+8ee
+8ee
+8cc
+8ee
+=2
+8ee
+8cc
+8dd
+8a
+8cc
+=3
+8cc
+8ee
+8ee
+8cc
+8ee
+=4
+4dd
+8ee
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8ee
+8cc
+8a
+=6
+8a
+8a
+8a
+8a
+8g#
+=7
+8a
+8a
+8cc
+8dd
+8cc
+=8
+2a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=496 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 385} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 385}
+!!!page: 385
+!!!ONB: Converted on 2024/12/26 with esac2hum

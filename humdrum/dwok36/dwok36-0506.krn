@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK3650600000-bulo_u_batka_ta_czetyry_syna.krn
+!!!OTL: Buło u bat'ka ta czetyry syna
+!!!source: DWOK36
+!!!id: 36506
+!!!signature: 3650600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4ee
+8cc
+8a
+=2
+4ee
+4b
+=3
+8cc
+8g#
+8a
+8a
+=4
+8b
+8g#
+4e}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8b
+=6
+8ee
+8ee
+8dd
+8ee
+=7
+16ee
+16dd
+16cc
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 330
+!!!ONB: Converted on 2024/12/26 with esac2hum

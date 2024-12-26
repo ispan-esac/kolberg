@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1217400010-wyjrzyj_jeno_za_okienko.krn
+!!!OTL: Wyjrzyj jeno za okienko
+!!!source: DWOK12
+!!!id: 12174
+!!!signature: 1217400010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16f
+8f
+8a
+=2
+16cc
+16cc
+8a
+8f
+=3
+16b-
+16b-
+8g
+8e
+=4
+8f
+4cc}
+!!LO:LB:g=esac
+=5
+{16f
+16f
+16f
+16g
+16a
+16b-
+=6
+16cc
+16cc
+8a
+8f
+=7
+16b-
+16b-
+8g
+8e
+=8
+8f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 88} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

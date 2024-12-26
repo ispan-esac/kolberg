@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7608100002-od_sieradza_chmura.krn
+!!!OTL: Od Sieradza chmura
+!!!source: DWOK76
+!!!id: 76081
+!!!signature: 7608100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8dd
+8dd
+4ee
+4cc
+=3
+8a
+8f#
+4d
+4a
+=4
+8a
+8a
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b
+4b
+=6
+8b
+8b
+4cc
+4a
+=7
+8a
+8f#
+4a
+4cc
+=
+12a
+12f#
+12a
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 50} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

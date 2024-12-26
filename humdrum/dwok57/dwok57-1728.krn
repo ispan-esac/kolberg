@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK57172800000-skad_ty_jasiu_zza_dunaju.krn
+!!!OTL: Skąd ty, Jasiu? Zza dunaju
+!!!source: DWOK57
+!!!id: 571728
+!!!signature: 57172800000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8a
+8a
+4a
+4dd
+=2
+8cc
+8b
+4a
+4g}
+!!LO:LB:g=esac
+=3
+*M2/4
+{8cc
+8dd
+8ee
+8ff
+=4
+*M3/4
+8ee
+8dd
+8ee
+8a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 816
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK1109100000-nie_kciala_nie_kciala_ojca_matki_sluchac.krn
+!!!OTL: Nie kciała, nie kciała ojca, matki sluchać
+!!!source: DWOK11
+!!!id: 11091
+!!!signature: 1109100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4.b
+8a
+=2
+4g
+4.b
+8dd
+=3
+8dd
+8ee
+4dd
+4b
+=4
+8g
+8f#
+2d}
+!!LO:LB:g=esac
+=5
+{4d
+4.cc
+8a
+=6
+4a
+4.b
+8g
+=7
+8g
+8f#
+4g
+4b
+=8
+8g
+8f#
+2a}
+!!LO:LB:g=esac
+=9
+{4d
+4.cc
+8a
+=10
+4a
+4.b
+8g
+=11
+8g
+8f#
+4g
+4b
+=12
+8g
+8f#
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 200} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 200}
+!!!page: 200
+!!!ONB: Converted on 2024/12/26 with esac2hum

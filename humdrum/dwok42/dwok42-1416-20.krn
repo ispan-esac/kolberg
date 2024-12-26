@@ -1,0 +1,35 @@
+!!!!SEGMENT: DWOK42141600020-instrumentalne.krn
+!!!OTL: Instrumentalne
+!!!source: DWOK42
+!!!id: 421416
+!!!signature: 42141600020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8g
+8b
+=2
+8g
+8g
+8g
+8d
+=3
+4cc
+4a
+=4
+8f#
+8a
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=46 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 37} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

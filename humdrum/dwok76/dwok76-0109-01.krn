@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK7610900001-oj_kasiu_moja_kasiu.krn
+!!!OTL: Oj Kasiu, moja Kasiu
+!!!source: DWOK76
+!!!id: 76109
+!!!signature: 7610900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4b
+4dd
+4dd
+=2
+8b
+8cc
+4cc
+4a
+=3
+4cc
+4b
+4g
+=4
+8b
+8a
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4dd
+4b
+=6
+4cc
+4cc
+4a
+=7
+8cc
+8b
+2g
+=8
+4a
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 61} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 61}
+!!!page: 61
+!!!ONB: Converted on 2024/12/26 with esac2hum

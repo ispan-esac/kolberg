@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK2571500000-oryl-instrumentalna.krn
+!!!OTL: Oryl-Instrumentalna
+!!!source: DWOK25
+!!!id: 25715
+!!!signature: 2571500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+32a
+16.f
+8b-
+32b-
+16.g
+=2
+8cc
+32cc
+16.a
+4ff
+=3
+8a
+16a
+16g
+8b-
+16b-
+16g
+=4
+8f
+16a
+16g
+4f}
+!!LO:LB:g=esac
+=5
+{8a
+32a
+16.f
+8b-
+32b-
+16.g
+=6
+8cc
+32cc
+16.a
+4ff
+=7
+8a
+16a
+16g
+8b-
+16b-
+16g
+=8
+16f
+16a
+16g
+16e
+4f}
+!!LO:LB:g=esac
+=9
+{8.cc
+16a
+16b-
+16a
+16b-
+16g
+=10
+8cc
+32cc
+16.a
+8ff
+8ff
+=11
+8cc
+8cc
+8b-
+8g
+=12
+8f
+16g
+16a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=277 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 252} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

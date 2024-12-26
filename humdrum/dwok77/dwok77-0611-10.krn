@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK7761100010-idzie_chmura_od_wiatraka.krn
+!!!OTL: Idzie chmura od wiatraka
+!!!source: DWOK77
+!!!id: 77611
+!!!signature: 7761100010
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=
+{12e-
+12g
+12cc
+4ee-
+4b-
+=1
+8ff
+8dd
+4b-
+4cc}
+!!LO:LB:g=esac
+=
+{12e-
+12g
+12cc
+4ee-
+4b-
+=2
+8dd
+8dd
+4b-
+4cc}
+!!LO:LB:g=esac
+=
+{12e-
+12g
+12cc
+4ee-
+8a
+8b-
+=3
+8dd
+8ff
+4gg
+4ee-}
+!!LO:LB:g=esac
+=
+{12e-
+12g
+12cc
+4ee-
+8a
+8b-
+=4
+8dd
+8dd
+4b-
+4cc}
+==
+*-
+!!!ONB: Od taktu 9 utwór instrumentalny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 312
+!!!ONB: Converted on 2024/12/26 with esac2hum

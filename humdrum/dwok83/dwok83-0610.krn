@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK8361000000-woj_rano_rano_kurojki_pijut_murauu.krn
+!!!OTL: Woj, rano, rano kurojki pijut, murauu
+!!!source: DWOK83
+!!!id: 83610
+!!!signature: 8361000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8cc
+8dd
+=2
+8ee
+4ee
+=3
+8dd#
+8ee
+8ff#
+=4
+8ee
+8dd#
+8a
+=5
+8cc
+4b
+=6
+4a}
+8r
+!!LO:LB:g=esac
+=7
+{8ee
+8ee
+8ff#
+=8
+8dd#
+4ee
+=9
+8ee
+8ee
+8cc
+=10
+8b
+8.cc
+16g#
+=11
+4.a
+=12
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=504 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 393} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 393}
+!!!page: 393
+!!!ONB: Converted on 2024/12/26 with esac2hum

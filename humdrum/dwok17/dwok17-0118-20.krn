@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1711800020-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK17
+!!!id: 17118
+!!!signature: 1711800020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{24g
+24a
+24b
+8cc
+24cc
+24b
+24a
+=
+24g
+24a
+24b
+8cc
+24cc
+24b
+24a
+=
+24g
+24a
+24b
+8cc
+24cc
+24b
+24a
+=
+24g
+24f
+24e
+8d
+8c}
+!!LO:LB:g=esac
+=1
+{16g
+16g
+16f
+16e
+16f
+16a
+=
+24g
+24f
+24e
+8d
+16e
+16f
+=2
+16g
+16g
+16f
+16e
+16f
+16a
+=
+24g
+24f
+24e
+8d
+8c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 40} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 40}
+!!!page: 40
+!!!ONB: Converted on 2024/12/26 with esac2hum

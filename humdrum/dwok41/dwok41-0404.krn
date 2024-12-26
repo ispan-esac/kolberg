@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4140400000-da_i_wolnyc_ja_tez_wolny.krn
+!!!OTL: Da, i wolnyć ja też, wolny
+!!!source: DWOK41
+!!!id: 41404
+!!!signature: 4140400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8cc
+8a
+=2
+16dd
+16ee
+8a
+8g
+=3
+16b
+16dd
+8cc
+8a
+=4
+16dd
+16a
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8b
+8g
+=6
+16f#
+16f#
+8a
+8cc
+=7
+16b
+16dd
+8cc
+8a
+=8
+16dd
+16a
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=302 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 221} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 221}
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

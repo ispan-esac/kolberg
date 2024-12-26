@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK06-K0524-w_zielonym_gaju_przy_milym_chlodzie.krn
+!!!OTL: W zielonym gaju przy milym chlodzie
+!!!source: DWOK06
+!!!id: K0524
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{8dd
+8cc#
+8b
+=2
+4a
+8f#
+=3
+8a
+8g
+8e
+=4
+4a
+8f#}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc#
+8b
+=6
+4a
+8f#
+=7
+8a
+8g
+8e
+=8
+8d
+8d}
+8r
+!!LO:LB:g=esac
+=9
+{4e
+8e
+=10
+4a
+8e
+=11
+8a
+8g
+8e
+=12
+4a
+8f#}
+!!LO:LB:g=esac
+=13
+{8dd
+8cc#
+8b
+=14
+4a
+8f#
+=15
+8a
+8g
+8e
+=16
+8d
+8d}
+8r
+!!LO:LB:g=esac
+=17
+{4e
+8e
+=18
+4a
+8e
+=19
+8a
+8g
+8e
+=20
+4a
+8f#}
+!!LO:LB:g=esac
+=21
+{8dd
+8cc#
+8b
+=22
+4a
+8f#
+=23
+8a
+8g
+8e
+=24
+8d
+8d}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=321 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 295} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 295}
+!!!page: 295
+!!!ONB: Converted on 2024/12/26 with esac2hum

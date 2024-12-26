@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK2826600000-bywaj_jasiu_bywaj.krn
+!!!OTL: Bywaj Jasiu bywaj
+!!!source: DWOK28
+!!!id: 28266
+!!!signature: 2826600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16ff
+16dd
+8ff
+8gg
+=2
+8ee
+4cc
+=3
+16ee
+16gg
+8gg
+8aa
+=4
+8dd
+4g}
+!!LO:LB:g=esac
+=5
+{16b
+16g
+8b
+8cc
+=6
+8a
+4d
+=7
+16f
+16a
+8cc
+8dd
+=8
+8dd
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 261} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 261}
+!!!page: 261
+!!!ONB: Converted on 2024/12/26 with esac2hum

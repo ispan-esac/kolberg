@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK1250100000-nasz_kozielski_kapitan.krn
+!!!OTL: Nasz Kozielski kapitan
+!!!source: DWOK12
+!!!id: 12501
+!!!signature: 1250100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8cc
+8b-
+8a
+8b-
+=2
+4cc
+4ff
+=3
+2cc
+=4
+8cc
+8b-
+8a
+8b-
+=5
+4cc
+4a
+=6
+2f}
+!!LO:LB:g=esac
+=7
+{4.a
+8b-
+=8
+4cc
+4dd
+=9
+4.g
+8a
+=10
+8b-
+8a
+8b-
+8dd
+=11
+8cc
+8b-
+8a
+8g
+=12
+4f
+4e
+=13
+2f}
+!!LO:LB:g=esac
+=14
+{4.a
+8b-
+=15
+4cc
+4dd
+=16
+4.g
+8a
+=17
+8b-
+8a
+8b-
+8dd
+=18
+8cc
+8b-
+8a
+8g
+=19
+4f
+4e
+=20
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 260} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 260}
+!!!page: 260
+!!!ONB: Converted on 2024/12/26 with esac2hum

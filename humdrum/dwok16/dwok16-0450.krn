@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK1645000000-i_wyjechal_pan_starosta_z_chartem_na_zajace.krn
+!!!OTL: I wyjechał pan starosta z chartem na zające
+!!!source: DWOK16
+!!!id: 16450
+!!!signature: 1645000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8g
+8g
+=2
+8cc
+8cc
+8g
+8g
+=3
+8ff
+8dd
+8b
+8dd
+=4
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8ff
+8ee
+=6
+8cc
+8cc
+8a
+8f
+=7
+8a
+8a
+8cc
+8b
+=8
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8g
+8g
+=10
+8cc
+8cc
+8ee
+8ee
+=11
+8ff
+8dd
+8b
+8dd
+=12
+4cc
+4cc}
+!!LO:LB:g=esac
+=13
+{8b
+8dd
+8ff
+8ee
+=14
+8cc
+8cc
+8a
+8f
+=15
+8a
+8a
+8cc
+8b
+=16
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 277} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 277}
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7735200001-oj_spiewajcie_dziewczyny.krn
+!!!OTL: Oj śpiewajcie dziewczyny
+!!!source: DWOK77
+!!!id: 77352
+!!!signature: 7735200001
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16g
+16a
+8b-
+8dd
+=2
+8dd
+8ee
+8cc#
+=3
+16dd
+16ee
+8dd
+8cc#
+=4
+8a
+8g
+8f#}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b-
+8dd
+=6
+8cc
+8b-
+8dd
+=7
+16cc
+16cc
+8b-
+8b-
+=8
+8a
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 185
+!!!ONB: Converted on 2024/12/26 with esac2hum

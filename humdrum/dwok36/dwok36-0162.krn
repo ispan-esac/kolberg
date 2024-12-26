@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK3616200000-zazuryw_sia_suside.krn
+!!!OTL: Zażuryw sia suside
+!!!source: DWOK36
+!!!id: 36162
+!!!signature: 3616200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8f
+8f
+4f
+=2
+8b-
+8b-
+8dd
+8dd
+=3
+8f
+8f
+8f
+8f
+=4
+8b-
+8b-
+8dd
+8dd}
+!!LO:LB:g=esac
+=5
+{8ee-
+8ee-
+8ee-
+8ee-
+=6
+8dd
+8dd
+8dd
+8dd
+=7
+8cc
+8a
+8f
+16f
+16a
+=8
+8b-
+8b-
+8b-
+8b-}
+!!LO:LB:g=esac
+=9
+{8ee-
+8ee-
+8gg
+8ee-
+=10
+8dd
+16dd
+16ee-
+8ff
+8ff
+=11
+8ee-
+16ee-
+16cc
+8f
+16f
+16a
+=12
+8b-
+8b-
+8b-
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK45184600002-juz_sie_jasna_koruna.krn
+!!!OTL: Juz sie jasna koruna
+!!!source: DWOK45
+!!!id: 451846
+!!!signature: 45184600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+{12d
+12g
+12b
+4a
+4b
+=1
+8cc
+8b
+8cc
+8g
+4g
+=2
+16g
+16b
+8dd
+4.dd
+8cc
+=3
+8b
+8a
+2a}
+!!LO:LB:g=esac
+=
+{12d
+12g
+12b
+4a
+4dd
+=4
+8cc
+8g
+8a
+8f#
+4g
+=5
+16b
+16a
+16b
+16dd
+4cc
+4g
+=6
+8a
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=319 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 305} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 305}
+!!!page: 305
+!!!ONB: Converted on 2024/12/26 with esac2hum

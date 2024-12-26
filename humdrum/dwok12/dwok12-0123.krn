@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1212300000-na_szklanej_gorze_stoja_zolnierze.krn
+!!!OTL: Na szklanej górze stoją żołnierze
+!!!source: DWOK12
+!!!id: 12123
+!!!signature: 1212300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8dd
+8ee
+=2
+4.cc
+=3
+16ee
+16gg
+8gg
+8ff
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{8dd
+4ff
+=6
+16ff
+16dd
+8gg
+8ee
+=7
+8cc
+4b
+=8
+16g
+16b
+8cc
+8a}
+!!LO:LB:g=esac
+=9
+{16a
+16cc
+8dd
+8b
+=10
+4.g}
+==
+*-
+!!!ONB: Alternatywnie można zakodować w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=76 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 60} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

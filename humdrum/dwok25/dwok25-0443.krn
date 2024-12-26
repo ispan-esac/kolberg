@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2544300000-oj_rycaly_bucaly.krn
+!!!OTL: Oj rycały, bucały
+!!!source: DWOK25
+!!!id: 25443
+!!!signature: 2544300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+16a
+16b
+8cc
+=2
+16b
+16g
+8a
+8cc
+=3
+16b
+16g
+16a
+16b
+8cc
+=4
+16b
+16g
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{8e
+16d
+16f
+8a
+=6
+16g
+16b
+8dd
+8cc
+=7
+8b
+16a
+16b
+8cc
+=8
+16b
+16g
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 187} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

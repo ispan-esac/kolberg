@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4643600000-a_widzisz_ty_kujawiaku.krn
+!!!OTL: A widzisz ty, Kujawiaku
+!!!source: DWOK46
+!!!id: 46436
+!!!signature: 4643600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4cc
+4ee
+=2
+4.dd
+8b
+8cc
+8a}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+4cc
+4b
+=4
+4.g
+8e
+8f#
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4cc
+4a
+=6
+4dd
+4dd
+8cc
+8a}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+4cc
+4b
+=8
+4.g
+8e
+8f#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=306 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 272} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 272}
+!!!page: 272
+!!!ONB: Converted on 2024/12/26 with esac2hum

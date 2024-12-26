@@ -1,0 +1,112 @@
+!!!!SEGMENT: DWOK8100900000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK81
+!!!id: 81009
+!!!signature: 8100900000
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*MX
+=1
+{16ff#
+16ee
+8ff#
+8aa
+8gg
+2gg
+16ff#
+16ee
+16gg
+16gg
+8gg
+8ff
+24dd
+24ff
+24ee-
+8dd
+8cc
+2cc}
+!!LO:LB:g=esac
+=2
+{16ff#
+16dd
+8ff
+16aa
+16gg
+2gg
+24gg
+24ff
+24ee-
+8.dd
+16cc
+2cc}
+!!LO:LB:g=esac
+=3
+{24dd
+24ff
+24ee-
+4dd
+16ff
+16ee-
+4dd
+24dd
+24ff
+24ee-
+8.dd
+16cc
+2cc}
+!!LO:LB:g=esac
+=4
+{24g
+24cc
+24dd
+8.ee-
+16dd
+4.ff
+8g
+8g
+8g
+8g
+24g
+24cc
+24dd
+8gg
+24gg
+24ff
+24ee-
+4dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{24g
+24b
+24cc
+8dd
+8cc
+8ff#
+16ff
+16dd
+8gg
+16ee-
+16dd
+24g
+24b
+24cc
+8dd
+8cc
+8gg
+24ff
+24ee-
+24dd
+8.dd
+8cc}
+==
+*-
+!!!ONB: Weselna jak się goście rozchodzą
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 10-11} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, pp. 10-11}
+!!!page: 10-11
+!!!ONB: Converted on 2024/12/26 with esac2hum

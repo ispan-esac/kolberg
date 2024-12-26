@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2503400000-otworzze_mi_otworz.krn
+!!!OTL: Otwórzze mi otwórz
+!!!source: DWOK25
+!!!id: 25034
+!!!signature: 2503400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16ff
+8ee
+8dd
+=2
+4gg
+8cc
+=3
+16cc
+16ff
+8ee
+8dd
+=4
+4ee
+8cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16ff
+8ee
+8dd
+=6
+4gg
+8cc
+=7
+16cc
+16ff
+8ee
+8dd
+=8
+4ee
+8cc}
+!!LO:LB:g=esac
+=9
+{8g
+4b
+=10
+16cc
+16ff
+8ee
+8dd
+=11
+16ff
+16ee
+8dd
+8ee
+=12
+4gg
+8cc}
+!!LO:LB:g=esac
+=13
+{16g
+16a
+8b
+8b
+=14
+16cc
+16ff
+8ee
+8dd
+=15
+16ff
+16ee
+8dd
+8cc
+=16
+4ee
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 13} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 13}
+!!!page: 13
+!!!ONB: Converted on 2024/12/26 with esac2hum

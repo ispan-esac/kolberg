@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK8203800000-czom_ne_szumysz_dobrowonko.krn
+!!!OTL: Czom ne szumysz dobrowońko
+!!!source: DWOK82
+!!!id: 82038
+!!!signature: 8203800000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8e
+8e
+8e
+8cc
+=2
+4b
+4a
+=3
+4b
+4g
+=4
+8a
+8b
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+4b
+=6
+4.e
+8d
+=7
+8g
+8a
+8b
+8cc
+=8
+4a
+4g
+=9
+4.e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 28} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 28}
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum

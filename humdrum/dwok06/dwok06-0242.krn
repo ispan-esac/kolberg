@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK06-K0242-zachodzi_slonecku_ku_lasowi.krn
+!!!OTL: Zachodzi slonecku ku lasowi
+!!!source: DWOK06
+!!!id: K0242
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8f
+8b-
+8dd
+=2
+8ff
+8ee-
+8cc
+=3
+8ee-
+4gg
+=4
+8ff
+4dd}
+!!LO:LB:g=esac
+=5
+{8f
+8b-
+8dd
+=6
+8ff
+8ee-
+8cc
+=7
+8ee-
+4dd
+=8
+8b-
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 123} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

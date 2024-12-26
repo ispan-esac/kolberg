@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK04-K0139-czemus_oczka_zaplakala.krn
+!!!OTL: Czemus oczka zaplakala
+!!!source: DWOK04
+!!!id: K0139
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16a
+16a
+8d
+8f#
+=2
+8.a
+16d
+16f#
+16a
+=3
+16a
+16a
+8ff#
+8ee
+=4
+4dd
+16cc#
+16dd}
+!!LO:LB:g=esac
+=5
+{16ee
+16cc#
+8g
+8g
+=6
+16b
+16a
+8f#
+8f#
+=7
+16e
+16g
+8.b
+16a
+=8
+4dd
+16cc#
+16dd}
+!!LO:LB:g=esac
+=9
+{16ee
+16cc#
+8g
+8g
+=10
+16b
+16a
+8f#
+8f#
+=11
+16e
+16g
+8.b
+16a
+=12
+8.d
+16f#
+16f#
+16f#
+=13
+16e
+16g
+8.b
+16a
+=14
+8d}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 81} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 81}
+!!!page: 81
+!!!ONB: Converted on 2024/12/26 with esac2hum

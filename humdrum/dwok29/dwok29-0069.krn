@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK2906900000-oj_ja_chodzu_po_torhu.krn
+!!!OTL: Oj ja chodżu po torhu
+!!!source: DWOK29
+!!!id: 29069
+!!!signature: 2906900000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8g
+8b
+16b
+16cc
+8b
+=2
+4a
+8a
+8b
+=3
+4g
+16g
+16f#
+8e}
+!!LO:LB:g=esac
+=4
+{8g
+8b
+8b
+8b
+=5
+4a
+8a
+8f#
+=6
+4g
+8g
+8e}
+==
+*-
+!!!ONB: Żinka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 168} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

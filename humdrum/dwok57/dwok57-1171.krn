@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK57117100000-kalina_malina_czerwona_jagoda.krn
+!!!OTL: Kalina, malina, czerwona jagoda
+!!!source: DWOK57
+!!!id: 571171
+!!!signature: 57117100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8g
+8a
+8b-
+=2
+8dd
+4.cc
+=3
+8ff
+8ff
+8ee
+8dd
+=4
+8dd
+4.cc}
+!!LO:LB:g=esac
+=5
+{8b-
+8dd
+4dd
+=6
+8dd
+4cc
+8f
+=7
+8g
+8g
+8b-
+8g
+=8
+8a
+4.cc}
+!!LO:LB:g=esac
+=9
+{8b-
+8dd
+4dd
+=10
+8dd
+4cc
+8f
+=11
+8g
+8g
+8b-
+8e
+=12
+8f
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 293
+!!!ONB: Converted on 2024/12/26 with esac2hum

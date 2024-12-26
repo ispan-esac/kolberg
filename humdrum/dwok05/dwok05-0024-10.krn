@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK0502400010-instrumentalna_-_kozak.krn
+!!!OTL: Instrumentalna - Kozak
+!!!source: DWOK05
+!!!id: K0024
+!!!signature: 0502400010
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8dd
+8dd
+8a
+8a
+=2
+8g
+8g
+4a
+=3
+8f#
+8e
+8f#
+8g
+=4
+4a
+4f#}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8a
+8a
+=6
+8g
+8g
+4a
+=7
+8f#
+8f#
+8e
+8e
+=8
+4d
+4d}
+==
+*-
+!!!ONB: Melodia częśći wokalnej, bez tekstu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=246 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 218} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 218}
+!!!page: 218
+!!!ONB: Converted on 2024/12/26 with esac2hum

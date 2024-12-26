@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1922500000-a_moj_boze_co_za_umyssl.krn
+!!!OTL: A mój Boze co za umyśśl
+!!!source: DWOK19
+!!!id: 19225
+!!!signature: 1922500000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16cc
+16ee
+8ff
+8a
+=2
+16b-
+16dd
+8cc
+8b-
+=3
+16cc
+16ee
+8ff
+8a
+=4
+16b-
+16dd
+16cc
+16dd
+8ff}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee-
+4ff
+=6
+16dd
+16cc
+8a
+16cc
+16dd
+=7
+4b-
+8a
+=8
+16cc
+16cc
+16a
+16g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 70} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

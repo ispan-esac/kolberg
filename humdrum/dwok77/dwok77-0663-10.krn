@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK7766300010-nie_wyganiaj_owczarzyku_owczarzyku.krn
+!!!OTL: Nie wyganiaj owczarzyku owczarzyku
+!!!source: DWOK77
+!!!id: 77663
+!!!signature: 7766300010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8b
+8cc
+4dd
+4ff
+=2
+8ff
+8aa
+4.gg
+8dd
+=3
+8ff
+8aa
+4.gg
+8dd}
+!!LO:LB:g=esac
+=4
+{8ff
+8aa
+4.gg
+8ff
+=5
+8dd
+8ee
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=6
+{8cc
+8cc
+4ee
+16cc
+8.ee
+=7
+8dd
+8b
+4g
+4gg}
+!!LO:LB:g=esac
+=8
+{8cc
+8cc
+4ee
+16cc
+8.ee
+=9
+8dd
+8cc
+8b
+8a
+4g}
+==
+*-
+!!!ONB: wariant taktu 5:  +3_+2_7_6_5__, od taktu 10 utwór instrumentalny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 335
+!!!ONB: Converted on 2024/12/26 with esac2hum

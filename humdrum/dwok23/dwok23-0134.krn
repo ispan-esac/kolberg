@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2313400000-a_coz_ci_po_mnie_kiej_nadaremnie.krn
+!!!OTL: A cóż ci po mnie kiej nadaremnie
+!!!source: DWOK23
+!!!id: 23134
+!!!signature: 2313400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16cc
+16cc
+8ee
+8cc
+=2
+4.ee
+=3
+16ff
+16ee
+8dd
+8a
+=4
+4.g
+=5
+16cc
+16ee
+8ee
+8cc
+=6
+4ee
+8dd
+=7
+4.a}
+!!LO:LB:g=esac
+=8
+{16a
+16a
+8a
+8g
+=9
+4.cc
+=10
+16ff
+16ee
+8dd
+8a
+=11
+4.g
+=12
+16cc
+16dd
+8ee
+8cc
+=13
+4ee
+8dd
+=14
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 155} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

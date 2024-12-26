@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK41101000001-prosili_mnie_na_wesele.krn
+!!!OTL: Prosili mnie na wesele
+!!!source: DWOK41
+!!!id: 411010
+!!!signature: 41101000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16b
+8dd
+16dd
+16b
+=2
+16b
+16dd
+8ee
+16cc
+16a}
+!!LO:LB:g=esac
+=3
+{16a
+16a
+16cc
+16a
+8f#
+=4
+16g
+16b
+8.g
+16g}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+16cc
+16a
+8f#
+=6
+16g
+16b
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=7
+{16cc
+16cc
+16cc
+16a
+8f#
+=8
+16g
+16b
+8.g
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=509 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 422} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 422}
+!!!page: 422
+!!!ONB: Converted on 2024/12/26 with esac2hum

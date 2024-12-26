@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2114300000-jedzie_ulan_lasem_pokrzykuje_czasem.krn
+!!!OTL: Jedzie ułan lasem pokrzykuje czasem
+!!!source: DWOK21
+!!!id: 21143
+!!!signature: 2114300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8cc
+8a
+=2
+8b
+4g
+8r
+=3
+8dd
+8dd
+8cc
+8a
+=4
+8b
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8d
+8d
+8e
+8f#
+=6
+8g
+8g
+8a
+8b
+=7
+8cc
+8cc
+8b
+8a
+=8
+8b
+4.g}
+!!LO:LB:g=esac
+=9
+{8d
+8d
+8e
+8f#
+=10
+8g
+8g
+8a
+8b
+=11
+8cc
+8cc
+8b
+8a
+=12
+8b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 70} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2218200000-a_w_stodole_sowka_siada.krn
+!!!OTL: A w stodole sówka siada
+!!!source: DWOK22
+!!!id: 22182
+!!!signature: 2218200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+8ee
+8ff
+=2
+16ee
+16dd
+8a
+8g
+=3
+16f
+16g
+8a
+8g
+=4
+16a
+16b-
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16f
+16g
+8a
+8f
+=6
+16b-
+16cc
+8a
+8g
+=7
+16f
+16g
+8a
+8g
+=8
+16a
+16b-
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 112} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 112}
+!!!page: 112
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK04-K0275-oberek.krn
+!!!OTL: Oberek
+!!!source: DWOK04
+!!!id: K0275
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+16b
+16cc
+16.dd
+32ff#
+=2
+16ee
+16gg
+16ff#
+16ee
+16.dd
+32cc
+=3
+16ee
+16gg
+16ff#
+16ee
+16.dd
+32cc
+=4
+16dd
+16ff#
+16ee
+16cc
+16.dd
+32cc}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+8dd
+16.gg
+32ff#
+=6
+16dd
+16ff#
+16ee
+16cc
+16.dd
+32cc
+=
+24cc
+24b
+24cc
+8dd
+8g}
+!!LO:LB:g=esac
+=
+{24dd
+24ee
+24ff#
+16ee
+16cc
+16.dd
+32cc
+=7
+16g
+16b
+16cc
+16dd
+16.gg
+32ff#
+=
+24dd
+24ee
+24ff#
+16ee
+16cc
+16.dd
+32cc
+=
+24cc
+24b
+24cc
+8dd
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 137} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 137}
+!!!page: 137
+!!!ONB: Converted on 2024/12/26 with esac2hum

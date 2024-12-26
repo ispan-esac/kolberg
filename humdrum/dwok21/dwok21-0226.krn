@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2122600000-piewajcie_ptaszyny.krn
+!!!OTL: Śpiewajcie ptaszyny
+!!!source: DWOK21
+!!!id: 21226
+!!!signature: 2122600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8gg
+8gg
+8gg
+8ee
+=2
+8dd
+4gg
+8ee
+=3
+8dd
+8b
+8cc
+8a
+=4
+8g
+4b
+8g}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+8d
+8f#
+=6
+8g
+4b
+8g
+=7
+8cc
+8a
+8a
+8a
+=8
+8b
+[4g}
+8g]
+!!LO:LB:g=esac
+=9
+{8d
+8d
+8d
+8f#
+=10
+8g
+4b
+16ee
+16dd
+=11
+8cc
+8a
+16b
+16a
+16g
+16a
+=12
+8b
+4g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 107} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

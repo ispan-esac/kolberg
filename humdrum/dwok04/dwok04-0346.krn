@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK04-K0346-co_te_panny_dokazuja.krn
+!!!OTL: Co te panny dokazuja
+!!!source: DWOK04
+!!!id: K0346
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16b-
+16b-
+8g
+8b-
+=2
+16a
+16a
+8f
+8ff
+=3
+16ee
+16ee
+8dd
+8cc
+=4
+16ff
+16ff
+8ff
+8cc}
+!!LO:LB:g=esac
+=5
+{16b-
+16b-
+8g
+32b
+16.cc
+=6
+16f
+16f
+8a
+8cc
+=7
+16b-
+16b-
+8g
+32b
+16.cc
+=8
+16f
+16f
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 187-188} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 187-188}
+!!!page: 187-188
+!!!ONB: Converted on 2024/12/26 with esac2hum

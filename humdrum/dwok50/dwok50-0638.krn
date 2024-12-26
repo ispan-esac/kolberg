@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK5063800000-gdy_w_czystym_polu_sloneczko_swieci.krn
+!!!OTL: Gdy w czystym polu słoneczko świeci
+!!!source: DWOK50
+!!!id: 50638
+!!!signature: 5063800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+8cc#
+8ee
+=2
+2dd
+4b
+=3
+8dd
+8cc
+4a
+8a
+8b
+=4
+2g
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+8cc#
+8ee
+=6
+2dd
+4b
+=7
+8dd
+8cc
+4a
+8a
+8b
+=8
+2g
+4d}
+!!LO:LB:g=esac
+=9
+{8f#
+8f#
+4a
+4a
+=10
+8g
+8g
+4b
+4b
+=11
+8dd
+8dd
+8cc
+8b
+8cc
+8a
+=12
+8dd
+8dd
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=416 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 383} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 383}
+!!!page: 383
+!!!ONB: Converted on 2024/12/26 with esac2hum

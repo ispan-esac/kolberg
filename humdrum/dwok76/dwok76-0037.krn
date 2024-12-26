@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK7603700000-a_cozes_mi_za_trzewiczek_kupil.krn
+!!!OTL: A cożeś mi za trzewiczek kupił
+!!!source: DWOK76
+!!!id: 76037
+!!!signature: 7603700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+8ee
+8ff
+=2
+8dd
+8b
+4cc
+8ee
+8ff#
+=3
+4gg
+2dd}
+!!LO:LB:g=esac
+=4
+{8g
+8b
+4dd
+4ee
+=5
+8dd
+8b
+4cc
+4a
+=6
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 26} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 26}
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

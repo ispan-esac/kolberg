@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK8105100000-instrumentalna-kolomyjka.krn
+!!!OTL: Instrumentalna-Kołomyjka
+!!!source: DWOK81
+!!!id: 81051
+!!!signature: 8105100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+{32dd
+32ee
+16r
+32ff
+32ee
+16r
+32ff
+32gg
+8ff
+=1
+16ff
+16gg
+8ff
+8aa
+8aa
+=2
+16dd
+16ee
+16ff
+16ee
+16ff
+16gg
+8ff
+=3
+16dd
+16ee
+16ff
+16ee
+8ff
+8ff}
+!!LO:LB:g=esac
+=4
+{8ff
+8ff
+8ff
+8ff
+=5
+16dd
+16ee
+16ff
+16ee
+8ee
+8ee
+=6
+4cc
+8cc
+8g
+=7
+8cc
+8cc
+8cc
+8cc}
+!!LO:LB:g=esac
+=8
+{8cc
+16b
+16cc
+8dd
+8b
+=9
+8g
+8cc
+8cc
+8cc
+=10
+4cc
+4cc}
+==
+*-
+!!!ONB: Kołomyjka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 46} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

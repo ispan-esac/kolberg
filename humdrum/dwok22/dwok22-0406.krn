@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2240600000-instrumentalna-chodzony.krn
+!!!OTL: Instrumentalna-Chodzony
+!!!source: DWOK22
+!!!id: 22406
+!!!signature: 2240600000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8d
+16g
+16dd
+4ee
+8dd
+8b-
+=2
+4dd
+8a
+8cc
+16b-
+16a
+8g
+=3
+8d
+16g
+16dd
+4ee
+8dd
+8b-
+=4
+8dd
+8ee
+8ff#
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8g
+8f#
+4d
+=6
+8g
+16a
+16b-
+4dd
+8cc#
+8dd
+=7
+8g
+8a
+8g
+8f#
+4d
+=8
+8g
+16a
+16b-
+8dd
+16cc
+16b-
+8g
+16f#
+16d}
+==
+*-
+!!!ONB: melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=223 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 205} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 205}
+!!!page: 205
+!!!ONB: Converted on 2024/12/26 with esac2hum

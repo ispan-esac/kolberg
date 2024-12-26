@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK41101200000-nase_druhny_posowialy.krn
+!!!OTL: Nase druhny posowiały
+!!!source: DWOK41
+!!!id: 411012
+!!!signature: 41101200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8ee
+8a
+=2
+16cc
+16cc
+8ee
+8dd}
+!!LO:LB:g=esac
+=3
+{16b
+16dd
+8ee
+8a
+=4
+16cc
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16cc
+16a
+8b
+8b
+=6
+16cc
+16a
+8b
+8dd}
+!!LO:LB:g=esac
+=7
+{16cc
+16a
+8b
+8b
+=8
+16a
+16f#
+8g
+8g}
+==
+*-
+!!!ONB: Drużbowie do druhen
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=510 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 423} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 423}
+!!!page: 423
+!!!ONB: Converted on 2024/12/26 with esac2hum

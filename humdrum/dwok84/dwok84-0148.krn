@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK8414800000-horez_meni_hore_neszczasnaja_dole.krn
+!!!OTL: Horeż meni, hore, neszczasnaja dołe
+!!!source: DWOK84
+!!!id: 84148
+!!!signature: 8414800000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8.ee
+16cc#
+8.a
+16cc#
+=2
+8.ee
+16dd
+4b
+=3
+8.dd
+16ff#
+16dd
+16cc#
+16dd
+16ff#
+=4
+8ff#
+8ee
+4ee}
+!!LO:LB:g=esac
+=5
+{8g#
+8b
+8dd
+8ff#
+=6
+8ee
+8ee
+16ee
+16cc#
+8a
+=7
+8g#
+8b
+16dd
+16cc#
+32ee
+32dd
+32cc#
+32b
+=8
+8b
+8a
+8a}
+8r
+==
+*-
+!!!ONB: Wariant t. 3: 4__.6_4__4__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=211 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 149} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 149}
+!!!page: 149
+!!!ONB: Converted on 2024/12/26 with esac2hum

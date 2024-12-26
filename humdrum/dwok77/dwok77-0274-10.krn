@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK7727400010-jakem_ja_byl_maly_chlopiec.krn
+!!!OTL: Jakem ja był mały chłopiec
+!!!source: DWOK77
+!!!id: 77274
+!!!signature: 7727400010
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=1
+{8e
+8g#
+4b
+4b
+=2
+8cc#
+8b
+4g#
+4e}
+!!LO:LB:g=esac
+=3
+{8a
+8cc#
+4.ee
+8dd#
+=4
+8ff#
+8ee
+4dd#
+4cc#}
+!!LO:LB:g=esac
+=5
+{8f#
+8g#
+4a
+4a
+=6
+8g#
+8f#
+4g#
+4e}
+!!LO:LB:g=esac
+=7
+{8f#
+8g#
+4a
+4a
+=8
+8cc#
+8b
+4a#
+4b}
+==
+*-
+!!!ONB: Od taktu 9 do 12 melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 149
+!!!ONB: Converted on 2024/12/26 with esac2hum

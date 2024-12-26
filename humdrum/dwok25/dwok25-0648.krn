@@ -1,0 +1,116 @@
+!!!!SEGMENT: DWOK2564800000-instrumentalna-walc.krn
+!!!OTL: Instrumentalna-Walc
+!!!source: DWOK25
+!!!id: 25648
+!!!signature: 2564800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8.cc
+16dd
+16cc
+16b-
+=2
+16a
+16cc
+16ff
+16ee
+16dd
+16cc
+=3
+16cc
+16dd
+16ee
+16cc
+16dd
+16ee
+=4
+16ff
+16cc
+16b-
+16a
+16g
+16f}
+!!LO:LB:g=esac
+=5
+{8.cc
+16dd
+16cc
+16b-
+=6
+16a
+16cc
+16ff
+16ee
+16dd
+16cc
+=7
+16cc
+16dd
+16ee
+16cc
+16dd
+16ee
+=8
+4.ff}
+!!LO:LB:g=esac
+=9
+{8e
+16g
+16b-
+16a
+16g
+=10
+16f
+16a
+16cc
+16ff
+16ee
+16dd
+=11
+16cc
+16dd
+16ee
+16cc
+16dd
+16ee
+=12
+16ff
+16cc
+16b-
+16a
+16g
+16f}
+!!LO:LB:g=esac
+=13
+{8e
+16g
+16b-
+16a
+16g
+=14
+16f
+16a
+16cc
+16ff
+16ee
+16dd
+=15
+16cc
+16dd
+16ee
+16cc
+16dd
+16ee
+=16
+4.ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 235} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 235}
+!!!page: 235
+!!!ONB: Converted on 2024/12/26 with esac2hum

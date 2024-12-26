@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK8364700000-duszo_duszo_sliczny_kwiecie.krn
+!!!OTL: Duszo, duszo, śliczny kwiecie
+!!!source: DWOK83
+!!!id: 83647
+!!!signature: 8364700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+4cc
+4a
+=2
+2b
+4a
+=3
+4a
+2g#}
+!!LO:LB:g=esac
+=4
+{8a
+8b
+4cc
+8cc
+8a
+=5
+2b
+4a
+=6
+4a
+2g#}
+!!LO:LB:g=esac
+=7
+{8cc
+8dd
+2ee}
+!!LO:LB:g=esac
+=8
+{8ee
+8ee
+4ee
+4ee
+=9
+4.dd
+8cc
+8ee
+8cc}
+!!LO:LB:g=esac
+=
+{8cc
+8b
+4cc
+12a
+12b
+12cc
+=10
+4.b
+8a
+8a
+8g#}
+!!LO:LB:g=esac
+=11
+{4.ee
+8dd
+8cc
+8b
+=12
+2.a}
+==
+*-
+!!!ONB: Wariant t. 9-10: 4__.3b_5_3b2  3b_2_3b__2_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=537 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 426} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 426}
+!!!page: 426
+!!!ONB: Converted on 2024/12/26 with esac2hum

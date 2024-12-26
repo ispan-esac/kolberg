@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1903800020-idzie_woda_z_ogroda-weselna.krn
+!!!OTL: Idzie woda z ogroda-Weselna
+!!!source: DWOK19
+!!!id: 19038
+!!!signature: 1903800020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8f#
+8a
+8.dd
+16f#
+=2
+8g
+4b
+16a
+16g
+=3
+8f#
+8a
+8.dd
+16f#
+=4
+8e
+4.g}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+8.dd
+16f#
+=6
+8g
+4b
+8a
+=7
+8cc#
+8ee
+8.gg
+16cc#
+=8
+8ee
+4.dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=30 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 16} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

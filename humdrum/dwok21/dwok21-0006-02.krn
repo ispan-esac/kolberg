@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2100600002-rano_rano_raniusienko.krn
+!!!OTL: Rano, rano, raniusieńko
+!!!source: DWOK21
+!!!id: 21006
+!!!signature: 2100600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.g
+16b
+16b
+16dd
+=2
+16dd
+16ee
+16cc
+16b
+8g
+=3
+16g
+16b
+16cc
+16a
+8b
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8.a
+16g
+16a
+16b
+=6
+16dd
+16cc
+16a
+16f#
+8d
+=7
+16g
+16b
+16cc
+16a
+8f#
+=8
+4g}
+8r
+==
+*-
+!!!ONB: W 2 takcie przy pierwszym powtórzeniu u Kolberga pojawia się błąd w zapisie metrycznym na trzecią wartośść
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=22 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 4} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 4}
+!!!page: 4
+!!!ONB: Converted on 2024/12/26 with esac2hum

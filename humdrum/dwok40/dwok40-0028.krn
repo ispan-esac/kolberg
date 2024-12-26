@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4002800000-obejrzyj_sie_ma_najmilsza.krn
+!!!OTL: Obejrzyj się ma najmilsza
+!!!source: DWOK40
+!!!id: 40028
+!!!signature: 4002800000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M2/4
+{8cc
+8g
+8e
+8g
+=2
+8cc
+8g
+8e
+8g
+=3
+8cc
+8cc
+8a
+16b
+16cc
+=4
+4dd
+4g}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8g
+8b
+4.dd
+8cc
+=6
+16ff
+16ee
+16dd
+16ee
+4ff
+4ee
+=7
+8g
+8b
+4.dd
+8cc
+=8
+16ff
+16ee
+16dd
+16ee
+4ff
+4ee}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+4.dd
+8cc
+=10
+16ff
+16ee
+16dd
+16ee
+4ff
+4ee}
+==
+*-
+!!!ONB: w rękopisie Gizewiusza zamiast taktów 7-10 jest melodia: +2_+1+2+3__+2__  +1__+1__0__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 136} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 136}
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

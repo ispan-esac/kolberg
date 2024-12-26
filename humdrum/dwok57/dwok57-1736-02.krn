@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK57173600002-oj_tam_w_pole_bereza_stojala.krn
+!!!OTL: Oj tam, w połe, bereza stojała
+!!!source: DWOK57
+!!!id: 571736
+!!!signature: 57173600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8b
+4dd
+4b
+=2
+8b
+8dd
+8dd
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=3
+{8b
+8cc
+8cc
+8cc
+8b
+8g
+=4
+8b
+8dd
+8ee
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8cc
+8b
+8b
+8g
+=6
+8b
+8dd
+8cc
+16dd
+16cc
+8b
+8g
+=7
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 825
+!!!ONB: Converted on 2024/12/26 with esac2hum

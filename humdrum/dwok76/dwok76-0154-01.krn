@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7615400001-oj_sypialam_se_w_gumnie.krn
+!!!OTL: Oj, sypiałam se w gumnie
+!!!source: DWOK76
+!!!id: 76154
+!!!signature: 7615400001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4gg
+4ff
+4dd
+=2
+8ee
+8gg
+4ff#
+4dd
+=3
+8ee
+8gg
+4ff
+4dd
+=4
+4ee
+2a}
+!!LO:LB:g=esac
+=5
+{4f
+4a
+4cc
+=6
+8g
+8g
+4b-
+4dd
+=7
+8ff
+8ff
+4ee
+4cc
+=8
+4dd
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 82} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

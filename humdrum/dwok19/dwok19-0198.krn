@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1919800000-pod_prosowicami.krn
+!!!OTL: Pod Prosowicami
+!!!source: DWOK19
+!!!id: 19198
+!!!signature: 1919800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4ff
+16ee
+16gg
+=2
+16ff
+16dd
+8cc
+8dd
+=3
+8b-
+8cc
+16dd
+16b-
+=4
+16g
+16b-
+8cc
+16a
+16f}
+!!LO:LB:g=esac
+=5
+{8b-
+8cc
+8ee
+=6
+16ff
+16dd
+8cc
+8dd
+=7
+4b-
+8dd
+=8
+16g
+16b-
+8cc
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 63} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 63}
+!!!page: 63
+!!!ONB: Converted on 2024/12/26 with esac2hum

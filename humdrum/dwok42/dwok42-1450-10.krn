@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK42145000010-zaszlo_slonce_zaszlo.krn
+!!!OTL: Zaszło słońce, zaszło
+!!!source: DWOK42
+!!!id: 421450
+!!!signature: 42145000010
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16d
+16d
+8d
+8f#
+=2
+4a
+8cc#
+=3
+16ee
+16ee
+8dd
+8e
+=4
+4b
+8a}
+!!LO:LB:g=esac
+=5
+{16ee
+16dd
+8cc#
+8e
+=6
+4b
+8a
+=7
+16a
+16a
+8g
+8c#
+=8
+4d
+8f#
+=9
+16b
+16a
+8g
+8c#
+=10
+4d
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 51-52} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 51-52}
+!!!page: 51-52
+!!!ONB: Converted on 2024/12/26 with esac2hum

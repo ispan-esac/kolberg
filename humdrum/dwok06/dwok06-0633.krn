@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK06-K0633-nie_wielki_to_rozum.krn
+!!!OTL: Nie wielki to rozum
+!!!source: DWOK06
+!!!id: K0633
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8cc
+4cc
+=2
+8b
+4b
+16a
+16g
+=3
+16g
+16f#
+16e
+16f#
+4a
+=4
+8g
+4b
+8dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16ee
+8cc
+8cc
+8a
+=6
+8b
+4b
+8g
+=7
+8f#
+8f#
+4a
+=8
+8f#
+4g
+8g}
+!!LO:LB:g=esac
+=9
+{8d
+8cc
+4cc
+=10
+8b
+4b
+8g
+=11
+8cc
+8a
+4a
+=12
+8g
+4b
+8dd}
+!!LO:LB:g=esac
+=13
+{8ee
+8cc
+4cc
+=14
+16g
+16b
+4b
+8b
+=15
+8cc
+8a
+4a
+=16
+16f#
+16g
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=418 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 392-393} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 392-393}
+!!!page: 392-393
+!!!ONB: Converted on 2024/12/26 with esac2hum

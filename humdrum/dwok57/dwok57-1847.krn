@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK57184700000-po_tym_boci_dunaju.krn
+!!!OTL: Po tym boci dunaju
+!!!source: DWOK57
+!!!id: 571847
+!!!signature: 57184700000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8a
+8b
+8dd
+8cc#
+=2
+8dd
+8b
+4a
+=3
+8cc#
+8cc#
+8dd
+8b
+=4
+4a
+4dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8g
+8g
+8g
+=6
+8f#
+8a
+4d
+=7
+8f#
+8a
+8g
+8e
+=8
+4d
+4d}
+!!LO:LB:g=esac
+=9
+{8f#
+8b
+8a
+8a
+=10
+8f#
+8a
+4d
+=11
+8f#
+8a
+8g
+8e
+=12
+4d
+4d}
+==
+*-
+!!!ONB: Wariant t. 3: 7_7_+176_; wariant t. 7 i 11: 3_5_432_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 924
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,110 @@
+!!!!SEGMENT: DWOK2571900000-instrumentalna-szot.krn
+!!!OTL: Instrumentalna-Szot
+!!!source: DWOK25
+!!!id: 25719
+!!!signature: 2571900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4gg
+8aa
+8gg
+=2
+8g
+8b
+8cc
+8gg
+=3
+8ee
+8gg
+8aa
+8gg
+=4
+8dd
+8dd
+4ee}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8g
+16b
+16dd
+8g
+=6
+8d
+8f#
+8g
+16a
+16cc
+=7
+16b
+16dd
+8g
+16b
+16dd
+8g
+=8
+8d
+8d
+4cc}
+!!LO:LB:g=esac
+=9
+{4gg
+16aa
+16gg
+16ff#
+16gg
+=10
+8g
+8b
+8cc
+8gg
+=11
+16ee
+16gg
+16ff#
+16gg
+16aa
+16gg
+16ff#
+16gg
+=12
+8g
+8g
+4cc}
+!!LO:LB:g=esac
+=13
+{16b
+16dd
+8g
+16b
+16dd
+8g
+=14
+8d
+8f#
+8g
+16a
+16cc
+=15
+16b
+16dd
+8g
+16b
+16dd
+8g
+=16
+8d
+8d
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 253} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 253}
+!!!page: 253
+!!!ONB: Converted on 2024/12/26 with esac2hum

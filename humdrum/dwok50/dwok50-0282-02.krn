@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK5028200002-oj_i_spiwam_i_placzu_tiszu_sie_jak_mozu.krn
+!!!OTL: Oj, i spiwam, i płaczu, tiszu sie, jak możu
+!!!source: DWOK50
+!!!id: 50282
+!!!signature: 5028200002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8ff
+8ff
+=2
+16ff
+16ff
+8ee
+8dd
+=3
+16dd
+16cc
+8dd
+8dd
+=4
+8cc
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8dd
+=6
+16cc
+16cc
+8g
+16a
+16b
+=7
+16cc
+16cc
+8dd
+8dd
+=8
+8cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 139} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 139}
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

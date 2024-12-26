@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2527000002-zielenia_sie_lasy_gory_pola.krn
+!!!OTL: Zielenią się lasy, góry, pola
+!!!source: DWOK25
+!!!id: 25270
+!!!signature: 2527000002
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4a
+4a
+4.ee
+8cc
+=2
+8dd
+8ee
+8ff
+8ee
+4dd
+4cc}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+8ee
+8ee
+4.a
+8a
+=4
+8cc
+8cc
+8dd
+8b
+4a
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8g#
+8a
+8b
+4.g#
+8e
+=6
+8dd
+8dd
+8dd
+8dd
+4.ee
+16cc
+16b}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8a
+8b
+4.g#
+8e
+=8
+8e
+8g#
+8g#
+8g#
+4a
+4a}
+==
+*-
+!!!ONB: W ostatnim takcie jest za dużo o jedną ósemkę
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 119} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 119}
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK2816800000-moj_wianusku_lawendowy.krn
+!!!OTL: Mój wianusku lawendowy
+!!!source: DWOK28
+!!!id: 28168
+!!!signature: 2816800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16b
+8cc
+8a
+=2
+16dd
+16cc
+8b
+8g
+=3
+16a
+16cc
+8a
+8a
+=4
+16g
+16f#
+8g
+8d}
+!!LO:LB:g=esac
+=5
+{16e
+16f#
+8g
+8a
+=6
+4.b
+=7
+16cc
+16cc
+8a
+8g
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{16a
+16b
+8cc
+8cc
+=10
+16dd
+16cc
+8b
+8g
+=11
+16a
+16b
+8a
+8g
+=12
+16g
+16f#
+8g
+8d}
+!!LO:LB:g=esac
+=13
+{16e
+16f#
+8g
+8a
+=14
+4.b
+=15
+16cc
+32b
+32cc
+8a
+8g
+=16
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 219} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 219}
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

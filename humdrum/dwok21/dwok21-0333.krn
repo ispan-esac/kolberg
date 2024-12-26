@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2133300000-oj_dobrze_jezdzic_wozem.krn
+!!!OTL: Oj dobrze jeździć wozem
+!!!source: DWOK21
+!!!id: 21333
+!!!signature: 2133300000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8b
+8g#
+8a
+=2
+16b
+16ff#
+8ee
+16ff#
+16cc#
+=3
+32dd
+32cc#
+32b
+32g#
+8a
+8f#
+=4
+16e
+16dd
+8cc#
+8b}
+!!LO:LB:g=esac
+=5
+{8b
+8g#
+8a
+=
+16b
+16ff#
+8ee
+24dd
+24cc#
+24e
+=6
+8a
+8e
+8f#
+=7
+16e
+32f#
+32g#
+8a
+8e}
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 132} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 132}
+!!!page: 132
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK06-K0462-swiat_jest_sala_redutowa.krn
+!!!OTL: Swiat jest sala redutowa
+!!!source: DWOK06
+!!!id: K0462
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{4a
+8b-
+4cc
+8cc
+=2
+4ff
+8ee
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8b-
+8b-
+8a
+8g
+8g
+=4
+4cc
+8b-
+4b-
+8a}
+!!LO:LB:g=esac
+=5
+{4a
+8b-
+4cc
+8cc
+=6
+4ff
+8ee
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=7
+{8ff
+8ee
+8dd
+8cc
+8ff
+8a
+=8
+8cc
+8b-
+8g
+8g
+8f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 249} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 249}
+!!!page: 249
+!!!ONB: Converted on 2024/12/26 with esac2hum

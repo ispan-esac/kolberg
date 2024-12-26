@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK55120500000-instrumentalna_-_na_sopilce.krn
+!!!OTL: Instrumentalna - na Sopiłce
+!!!source: DWOK55
+!!!id: 551205
+!!!signature: 55120500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+{24ee
+24ff
+24ee
+8dd#
+8cc
+8cc
+=
+24b
+24cc
+24b
+8a
+8cc
+8dd#
+=
+24ee
+24ff
+24ee
+8dd#
+16cc
+16b
+8a
+=1
+4cc
+4dd#}
+!!LO:LB:g=esac
+=
+{24ee
+24ff
+24ee
+8dd#
+8cc
+8cc
+=
+24b
+24cc
+24b
+8a
+8a
+8a
+=2
+16cc
+16b
+8a
+8a
+8a
+=3
+4a
+4a}
+==
+*-
+!!!ONB: DWOK 55 nr 1205
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=434 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 407} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 407}
+!!!page: 407
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK3611100000-prymajte_myski_tarylki.krn
+!!!OTL: Prymajte myski taryłki
+!!!source: DWOK36
+!!!id: 36111
+!!!signature: 3611100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+8ee
+8dd
+8cc
+=3
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8dd
+=5
+8ee
+8dd
+8cc
+=6
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+16b
+16a
+=8
+8cc
+8cc
+8b
+=9
+8dd
+4dd}
+!!LO:LB:g=esac
+=10
+{16dd
+16ee
+16ee
+16dd
+8cc
+=11
+8b
+4a
+=12
+8g
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 64
+!!!ONB: Converted on 2024/12/26 with esac2hum

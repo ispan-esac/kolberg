@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK7781300001-mily_stachu_posluchajcie.krn
+!!!OTL: Miły Stachu, posłuchajcie
+!!!source: DWOK77
+!!!id: 77813
+!!!signature: 7781300001
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=
+{12f
+12g
+12a
+4b-
+4dd
+=1
+8cc
+8gg
+4ff
+4ee-
+=
+12f
+12g
+12a
+4b-
+4dd
+=2
+8cc
+8cc
+4a
+4b-}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+4.a
+8f
+=4
+8g
+8a
+8b-
+8a
+8b-
+8dd
+=5
+8cc
+8ff
+4ee
+4ff
+=6
+8g
+8a
+4b-
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 17
+!!!ONB: Converted on 2024/12/26 with esac2hum

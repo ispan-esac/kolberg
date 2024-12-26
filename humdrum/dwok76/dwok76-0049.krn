@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7604900000-oj_cisawy_koniku.krn
+!!!OTL: Oj cisawy koniku
+!!!source: DWOK76
+!!!id: 76049
+!!!signature: 7604900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4cc
+4ee
+=2
+8dd
+8dd
+4ee
+4cc
+=3
+4g
+4cc
+4ee
+=4
+8dd
+8dd
+4ee
+4cc}
+!!LO:LB:g=esac
+=5
+{4g
+4cc
+4ee
+=6
+8dd
+8dd
+4ee
+4gg
+=7
+4ff
+4ee
+4cc
+=8
+8dd
+8dd
+4ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 32} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 32}
+!!!page: 32
+!!!ONB: Converted on 2024/12/26 with esac2hum

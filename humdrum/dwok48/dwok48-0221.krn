@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK4822100000-nie_dbam_jaka_spadnie_kara.krn
+!!!OTL: Nie dbam jaka spadnie kara
+!!!source: DWOK48
+!!!id: 48221
+!!!signature: 4822100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4.dd
+8g
+=2
+8f#
+8a
+4ee
+4dd
+=3
+8g
+8b
+4.dd
+8g
+=4
+8f#
+8ee
+4ee
+4dd}
+!!LO:LB:g=esac
+=5
+{4.dd
+8dd
+8cc#
+8dd
+=6
+8ff#
+8ee
+4cc
+4a
+=7
+4.ee
+8dd
+8cc
+8a
+=8
+8g
+16b
+16ee
+4ee
+4dd}
+!!LO:LB:g=esac
+=9
+{4.dd
+8dd
+8cc#
+8dd
+=10
+8ff#
+8ee
+4cc
+4a
+=11
+4.ee
+8dd
+8cc
+8a
+=12
+8g
+8b
+4a
+4g}
+==
+*-
+!!!ONB: Wariant t. 2 i 4: -7_266__5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=289 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 245} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 245}
+!!!page: 245
+!!!ONB: Converted on 2024/12/26 with esac2hum

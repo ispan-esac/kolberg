@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2827000000-wyleciala_na_gorecke.krn
+!!!OTL: Wyleciała na góreckę
+!!!source: DWOK28
+!!!id: 28270
+!!!signature: 2827000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.ee
+8dd
+8ee
+8b
+=2
+8cc
+8ee
+4dd
+4b
+=3
+4.dd
+8ee
+8dd
+8cc
+=4
+8.a
+16a
+4g
+4e}
+!!LO:LB:g=esac
+=5
+{4.g
+16b
+16cc
+8g
+8e
+=6
+16b
+16cc
+8ee
+4dd
+4b
+=7
+4.g
+16b
+16cc
+8dd
+8cc
+=8
+8.a
+16a
+4g
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 262} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 262}
+!!!page: 262
+!!!ONB: Converted on 2024/12/26 with esac2hum

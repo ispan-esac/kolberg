@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2800400000-betleem_swiete.krn
+!!!OTL: Betleem święte
+!!!source: DWOK28
+!!!id: 28004
+!!!signature: 2800400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4cc
+8cc
+8cc
+4.cc
+8a
+=2
+8a
+8f
+8b-
+8g
+8g
+8f
+4f
+=3
+4cc
+8ff
+8cc
+4.cc
+8a
+=4
+8a
+8f
+8b-
+8g
+8g
+8f
+4f}
+!!LO:LB:g=esac
+=5
+{4g
+8cc
+8cc
+8cc
+8b
+4b
+=6
+8b
+8dd
+8ee
+8ff
+8ff
+8ee
+4ee
+=7
+4cc
+8ff
+8cc
+4.cc
+8a
+=8
+8a
+8f
+8b-
+8g
+8g
+8f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 65} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 65}
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

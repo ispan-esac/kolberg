@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK750400000-czemuzes_sie_nie_ozenil_bartosie.krn
+!!!OTL: Czemużeś się nie ozenił, Bartosie
+!!!source: DWOK75
+!!!id: 75040
+!!!signature: 750400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4ee
+4ee
+=2
+8cc
+8cc
+4a
+4cc
+=3
+4dd
+4dd
+4dd}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+4ee
+4ee
+=5
+8cc
+8cc
+4a
+4f#
+=6
+4g
+4g
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+4b
+4dd
+=8
+8a
+8a
+4f#
+4d
+=9
+4dd
+4dd
+4dd}
+!!LO:LB:g=esac
+=10
+{8b
+8b
+4b
+4dd
+=11
+8cc
+8a
+4f#
+4d
+=12
+4g
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 26} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 26}
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

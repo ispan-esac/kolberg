@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK7713000000-oj_wywierce_wywierce_da_w_komoreczce_dziurke.krn
+!!!OTL: Oj wywiercę wywiercę da w komóreczce dziurkę
+!!!source: DWOK77
+!!!id: 77130
+!!!signature: 7713000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8gg
+8b
+4dd
+4cc
+=2
+8a
+8cc
+4ee
+4dd
+=3
+8gg
+8b
+4dd
+8cc
+8b
+=4
+8a
+8b
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8f#
+4a
+4g
+=6
+8b
+8a
+4cc
+4ee
+=7
+8ee
+8b
+4dd
+8cc
+8b
+=8
+8a
+8b
+8g
+8f#
+4d}
+==
+*-
+!!!ONB: Wariant w t. 3: +135_4_ , t. 7: 635_4_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 84
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK4821600000-jedziem_na_low_na_low_na_low.krn
+!!!OTL: Jedziem na łów, na łów, na łów
+!!!source: DWOK48
+!!!id: 48216
+!!!signature: 4821600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8d
+8g
+8g
+=2
+8e
+8e
+8c
+8c
+=3
+8d
+8d
+8g
+8g
+=4
+4d}
+4r
+!!LO:LB:g=esac
+=5
+{8d
+8e
+8f#
+8d
+=6
+4g
+8f#
+8g
+=7
+8a
+8a
+8dd
+8cc
+=8
+4b
+8g
+8e}
+!!LO:LB:g=esac
+=9
+{8d
+8d
+8e
+8f#
+=10
+4g
+4r
+=11
+8dd
+8dd
+8cc
+8f#
+=12
+4g}
+4r
+==
+*-
+!!!ONB: Wariant t. 5: -5-6-7-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 241} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK3005500000-maty_syna_hodowala.krn
+!!!OTL: Maty syna hodowała
+!!!source: DWOK30
+!!!id: 30055
+!!!signature: 3005500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8ee
+8ee
+8ee
+=2
+8ee
+8b
+16cc
+16b
+8a
+=3
+8dd
+8dd
+8dd
+8a
+=4
+8cc
+4a
+8a}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+8dd
+=6
+8dd
+8b
+16cc
+16b
+8a
+=7
+16cc
+8.cc
+8a
+8a
+=8
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 46} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

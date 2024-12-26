@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1246800001-ubogi_ja_pijanica.krn
+!!!OTL: Ubogi ja pijanica
+!!!source: DWOK12
+!!!id: 12468
+!!!signature: 1246800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4cc#
+=2
+8a
+8b
+4g
+4g
+=3
+4.dd
+8ee
+8ee
+8dd
+=4
+8b
+8dd
+4ee
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+4cc#
+=6
+8a
+8b
+4g
+4e
+=7
+4.e
+8f#
+8f#
+8e
+=8
+8d
+8f#
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 241-242} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 241-242}
+!!!page: 241-242
+!!!ONB: Converted on 2024/12/26 with esac2hum

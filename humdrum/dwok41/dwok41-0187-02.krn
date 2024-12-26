@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4118700002-krakowiak._uboga_wdowusia_chciala_sie_dorobic.krn
+!!!OTL: Krakowiak. Uboga wdowusia chciała się dorobić
+!!!source: DWOK41
+!!!id: 41187
+!!!signature: 4118700002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+4cc
+=2
+16cc
+16ee
+4ee
+8cc
+=3
+8b
+8dd
+8ff
+8aa
+=4
+8gg
+4ee}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+16b
+16a
+=6
+8g
+8g
+8g
+8g
+=7
+8b
+8dd
+8ff
+16ff
+16ee
+=8
+8ee
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 120} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

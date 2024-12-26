@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK2302700000-coc_matko_zec_okiem.krn
+!!!OTL: Coć Matko żeć okiem
+!!!source: DWOK23
+!!!id: 23027
+!!!signature: 2302700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4.f
+8e
+4f
+4g
+=
+4a
+12cc
+12b-
+12a
+2g
+=2
+4g
+4g
+4g
+4a
+=
+4b-
+12dd
+12cc
+12b-
+2a}
+!!LO:LB:g=esac
+=3
+{4.f
+8e
+4f
+4g
+=
+4a
+12cc
+12b-
+12a
+2g
+=4
+4g
+4g
+4g
+4a
+=
+4b-
+12dd
+12cc
+12b-
+2a}
+!!LO:LB:g=esac
+=5
+{4cc
+4a
+2f
+=6
+4dd
+4b-
+2ff
+=7
+8cc
+8ff
+8ee
+8dd
+4cc
+4cc
+=8
+4a
+4g
+2f}
+!!LO:LB:g=esac
+=9
+{4cc
+8a
+8g
+2f
+=10
+4dd
+8b-
+8dd
+2ff
+=11
+8cc
+8ff
+8ee
+8dd
+8cc
+8dd
+8cc
+8b-
+=12
+8a
+8b-
+8a
+8g
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 76} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 76}
+!!!page: 76
+!!!ONB: Converted on 2024/12/26 with esac2hum

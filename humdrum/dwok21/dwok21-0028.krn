@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK2102800000-uwazajcie_chlopcy_jak_sie_macie_zenic.krn
+!!!OTL: Uważajcie chłopcy jak się macie żenić
+!!!source: DWOK21
+!!!id: 21028
+!!!signature: 2102800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8f#
+8g
+4b
+=2
+8cc
+4b
+8g
+=3
+8a
+8cc
+4ee
+=4
+8dd
+4b
+8g}
+!!LO:LB:g=esac
+=5
+{8f#
+8g
+4b
+=6
+8cc
+4b
+8g
+=7
+8a
+8cc
+4d
+=8
+8f#
+4g
+8g}
+!!LO:LB:g=esac
+=9
+{8f#
+8g
+8b
+8dd
+=10
+16dd
+16cc
+8cc
+8cc
+8cc
+=11
+8b
+8b
+8b
+8b
+=12
+16a
+16cc
+8cc
+8cc
+8a}
+!!LO:LB:g=esac
+=13
+{8f#
+4g
+8b
+=14
+8cc
+4b
+8g
+=15
+8.d
+16d
+8d
+8f#
+=16
+8a
+4.g}
+==
+*-
+!!!ONB: Krakowiak. Błędny zapis metrum - u Kolberga 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 16} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

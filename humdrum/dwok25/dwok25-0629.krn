@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2562900000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK25
+!!!id: 25629
+!!!signature: 2562900000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16cc#
+16b
+16a
+16cc#
+16dd
+=2
+16ee
+16ff#
+16dd
+16ff#
+16ee
+16cc#
+=3
+16a
+16cc#
+16b
+16a
+16cc#
+16dd
+=4
+16ee
+16ff#
+16dd
+16cc#
+16b
+16a}
+!!LO:LB:g=esac
+=
+{24a
+24cc#
+24b
+8a
+16cc#
+16e
+=5
+16a
+16cc#
+8dd
+8ff#
+=
+24a
+24cc#
+24b
+8a
+16cc#
+16b
+=6
+16a
+16cc#
+16b
+16a
+16g#
+16e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 231} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 231}
+!!!page: 231
+!!!ONB: Converted on 2024/12/26 with esac2hum

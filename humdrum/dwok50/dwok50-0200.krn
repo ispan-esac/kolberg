@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK5020000000-posijalam_pred_jablona_liliju.krn
+!!!OTL: Posijałam pred jabłoną liliju
+!!!source: DWOK50
+!!!id: 50200
+!!!signature: 5020000000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8cc
+8g
+8cc
+8g
+=2
+4cc
+4ee
+=3
+4dd
+4cc
+=4
+8b
+4a
+8a}
+!!LO:LB:g=esac
+=5
+{8e
+8f#
+8g
+8f#
+=6
+4g
+4b
+=7
+4a
+4g
+=8
+8f#
+4e
+8e}
+!!LO:LB:g=esac
+=9
+{8e
+8f#
+8g
+8f#
+=10
+4g
+4b
+=11
+4a
+4g
+=12
+8f#
+4e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 91} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 91}
+!!!page: 91
+!!!ONB: Converted on 2024/12/26 with esac2hum

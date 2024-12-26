@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3662900000-pogardzam_wami_dziewczeta.krn
+!!!OTL: Pogardzam wami dziewczęta
+!!!source: DWOK36
+!!!id: 36629
+!!!signature: 3662900000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8d
+8d
+8d
+8b
+8a
+8g
+=2
+4.a
+8a
+4r
+=3
+8a
+8g#
+8a
+8cc
+8b
+8a
+=4
+4.b
+8b}
+4r
+!!LO:LB:g=esac
+=5
+*M4/4
+{4b
+4dd
+2g
+=6
+4e
+4cc
+2a
+=7
+8d
+8d
+4d
+4.cc
+8a
+=8
+4a
+4f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 411
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK04-K0432a-spojrzyj_ino_raz_chlopaku.krn
+!!!OTL: Spojrzyj ino raz chlopaku
+!!!source: DWOK04
+!!!id: K0432a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8.g
+16b
+16dd
+16ff
+=2
+16ee
+16ee
+8cc
+8ee
+=3
+16dd
+16dd
+8b
+8dd
+=4
+16cc
+16d
+8e
+8g}
+!!LO:LB:g=esac
+=5
+{8.g
+16b
+16dd
+16ff
+=6
+16ee
+16ee
+8cc
+8ee
+=7
+16dd
+16dd
+8b
+8dd
+=8
+4.cc}
+!!LO:LB:g=esac
+=9
+{16b
+16dd
+16gg
+16ff#
+16ee
+16dd
+=10
+16gg
+32r
+32a
+8a
+16cc
+16b
+=11
+16g
+32r
+32ff#
+8ff#
+8aa
+=12
+16gg
+16aa
+8bb
+8ddd}
+!!LO:LB:g=esac
+=13
+{16b
+16dd
+16gg
+16ff#
+16ee
+16dd
+=14
+16gg
+32r
+32a
+8cc
+16cc
+16b
+=15
+16a
+16ff#
+8dd
+16ee
+16ff#
+=16
+8gg
+4gg}
+==
+*-
+!!!ONB: Wariant alternatywny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=263 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 249} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 249}
+!!!page: 249
+!!!ONB: Converted on 2024/12/26 with esac2hum

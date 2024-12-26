@@ -1,0 +1,126 @@
+!!!!SEGMENT: DWOK1300300001-kto_bogaty_i_szczesliwy.krn
+!!!OTL: Kto bogaty i szczęśliwy
+!!!source: DWOK13
+!!!id: 13003
+!!!signature: 1300300001
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+{16dd
+16dd
+=1
+8dd
+8d
+16dd
+16cc#
+=2
+8cc#
+8b
+16ee
+16dd
+=3
+8.cc#
+16b
+16a
+16g
+=4
+8g
+8f#
+16d
+16dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8d
+16dd
+16cc#
+=6
+8cc#
+8b
+16a
+16a
+=7
+8.b
+16cc#
+16dd
+16cc#
+=8
+16ee
+16dd
+16cc#
+16b
+16a
+16a
+=9
+8a
+8a
+16g
+16c#
+=10
+8e
+8d}
+!!LO:LB:g=esac
+=-
+{16dd
+16dd
+=11
+8dd
+8d
+16dd
+16cc#
+=12
+8cc#
+8b
+16ee
+16dd
+=13
+8.cc#
+16b
+16a
+16g
+=14
+8g
+8f#
+16d
+16dd}
+!!LO:LB:g=esac
+=15
+{8dd
+8d
+16dd
+16cc#
+=16
+8cc#
+8b
+16a
+16a
+=17
+8.b
+16cc#
+16dd
+16ee
+=18
+16ee
+16dd
+16cc#
+16b
+16a
+16a
+=19
+8a
+8a
+16g
+16c#
+=20
+8e
+8d}
+==
+*-
+!!!ONB: Wersja z przedtaktem
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 4} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 4}
+!!!page: 4
+!!!ONB: Converted on 2024/12/26 with esac2hum

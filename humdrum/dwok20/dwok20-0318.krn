@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK2031800000-a_dajciez_nam_a_dajciez_nam_coscie_mieli_dac.krn
+!!!OTL: A dajciez nam, a dajciez nam, coście mieli dać
+!!!source: DWOK20
+!!!id: 20318
+!!!signature: 2031800000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/8
+=1
+{8g#
+4a
+=2
+8cc
+4b
+=3
+8a
+4b
+=4
+8g#
+4e}
+!!LO:LB:g=esac
+=5
+{8g#
+[4a
+=6
+8a]
+8g#
+8e
+=7
+8g#
+4e}
+!!LO:LB:g=esac
+=8
+{8g#
+[4a
+=9
+8a]
+8g#
+8e
+=10
+8d
+4e}
+!!LO:LB:g=esac
+=11
+{8g#
+4a
+=12
+8a
+4g#
+=13
+8a
+8b
+8b
+=14
+8g#
+4e}
+!!LO:LB:g=esac
+=15
+{8g#
+[4a
+=16
+8a]
+8g#
+8e
+=17
+8g#
+4e}
+!!LO:LB:g=esac
+=18
+{8g#
+[4a
+=19
+8a]
+8g#
+8e
+=20
+8d
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 225} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 225}
+!!!page: 225
+!!!ONB: Converted on 2024/12/26 with esac2hum

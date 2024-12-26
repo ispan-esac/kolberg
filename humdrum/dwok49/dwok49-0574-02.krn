@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK4957400002-ej_chmielu_chmielu_ty_bujne_ziele.krn
+!!!OTL: Ej, chmielu, chmielu ty bujne ziele
+!!!source: DWOK49
+!!!id: 49574
+!!!signature: 4957400002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4dd
+4dd
+4ee
+=2
+4ff
+8ee
+8dd
+4dd
+=3
+8.ee
+16ee
+2ee
+=4
+4cc#
+2a}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc#
+4dd
+4ee
+=6
+4ff
+8ee
+8dd
+4dd
+=7
+8.ee
+16ee
+2ee
+=8
+4cc#
+2a}
+!!LO:LB:g=esac
+=9
+{8ee
+8dd
+4cc
+8cc
+8b
+=10
+8cc
+8dd
+4ee
+8ee
+8dd
+=11
+8ee
+8dd
+4cc
+16cc
+8.b
+=12
+8cc
+8dd
+4ee
+8ee
+8dd}
+!!LO:LB:g=esac
+=13
+{8ee
+8dd
+4cc
+8b
+8cc
+=14
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=576 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 486} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 486}
+!!!page: 486
+!!!ONB: Converted on 2024/12/26 with esac2hum

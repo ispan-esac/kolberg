@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK3645900002-diwczynonka_czumaka_lubyla.krn
+!!!OTL: Diwczynońka czumaka lubyła
+!!!source: DWOK36
+!!!id: 36459
+!!!signature: 3645900002
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8e
+8ee
+8ee
+16ff#
+16ee
+=2
+8.ee
+16b
+16dd
+16cc
+16b
+16a
+=3
+8.b
+16a
+4g}
+!!LO:LB:g=esac
+=4
+{8g
+8dd
+8dd
+8dd
+=5
+8dd
+8gg
+16dd
+16cc
+16b
+16a
+=6
+4g
+4B}
+!!LO:LB:g=esac
+=7
+{4b
+16dd
+16cc
+16b
+16a
+=
+12g
+12e
+12g
+8f#
+8d#
+=8
+8e
+16dd#
+16ee
+16ff#
+16ee
+16dd#
+16ee}
+!!LO:LB:g=esac
+=9
+{8b
+16b
+16dd
+8cc
+16b
+16a
+=
+12g
+12e
+12a
+8f#
+8d#
+=10
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 294-295
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2101000000-na_wysokiej_gorze_tam_jasienko_orze.krn
+!!!OTL: Na wysokiej górze tam Jasieńko orze
+!!!source: DWOK21
+!!!id: 21010
+!!!signature: 2101000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8b
+8dd
+8dd
+8ee
+8cc
+8cc
+=2
+8b
+8a
+8g#
+8a
+8b
+8e
+=3
+8a
+8cc
+4dd
+4ee
+=4
+8cc
+8cc
+2b}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8g#
+8a
+8b
+8cc
+=6
+8b
+8a
+8g#
+8a
+8g#
+8e
+=7
+8a
+8cc
+4dd
+4ee
+=8
+8cc
+8cc
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=23 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 5} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 5}
+!!!page: 5
+!!!ONB: Converted on 2024/12/26 with esac2hum

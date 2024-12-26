@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK3917000000-nieszczesliwa_wojna.krn
+!!!OTL: Nieszczęśliwa wojna
+!!!source: DWOK39
+!!!id: 39170
+!!!signature: 3917000000
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+{8g
+=1
+8cc
+8b
+8a
+4g
+8ee
+=2
+8ff
+8ee
+8dd
+8cc
+8r
+8ee
+=3
+4gg
+8ee
+8gg
+8ff
+8dd
+=4
+4cc
+8r
+4r
+8ee}
+!!LO:LB:g=esac
+=5
+{4gg
+8gg
+4gg
+8b
+=6
+8cc
+8b
+8a
+4g
+8ee
+=7
+4gg
+8ee
+8gg
+8ff
+8dd
+=8
+4cc}
+8r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 206} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 206}
+!!!page: 206
+!!!ONB: Converted on 2024/12/26 with esac2hum

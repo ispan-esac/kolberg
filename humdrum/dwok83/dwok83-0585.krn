@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK8358500000-o_boze_mij_boze_na_szto_ja_rodyu_sia.krn
+!!!OTL: O Boże mij, Boże, na szto ja rodyu sia
+!!!source: DWOK83
+!!!id: 83585
+!!!signature: 8358500000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8a
+8cc
+4ee
+4ee
+=2
+4dd
+2a
+=3
+8a
+8cc
+4ee
+4ee
+=4
+4dd
+2a}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4.ee
+8ee
+=6
+8ee
+8dd
+4ee
+4a}
+!!LO:LB:g=esac
+=7
+*M2/4
+{8cc
+16b
+16cc
+16dd
+16a
+32cc
+32b
+32a
+32g#
+=8
+*M3/4
+2a
+4a}
+==
+*-
+!!!ONB: Wariant t. 6: 5__4__5___3b_2_1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=480 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 369} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 369}
+!!!page: 369
+!!!ONB: Converted on 2024/12/26 with esac2hum

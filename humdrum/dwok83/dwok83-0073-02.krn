@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK8307300002-komuz_ty_sie_kasununiu_klaniajesz.krn
+!!!OTL: Komuż ty się, Kasununiu, kłaniajesz
+!!!source: DWOK83
+!!!id: 83073
+!!!signature: 8307300002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8a
+8cc
+16cc
+16b
+=2
+8dd
+16dd
+16a
+16cc
+16a
+8b
+=3
+4cc
+4dd
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+8dd
+16cc
+16b
+=6
+8cc
+8cc
+8a
+8b
+=7
+4cc
+8b
+8g#
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 79} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 79}
+!!!page: 79
+!!!ONB: Converted on 2024/12/26 with esac2hum

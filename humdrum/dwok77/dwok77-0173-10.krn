@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7717300010-oj_wsystkos_powiedala.krn
+!!!OTL: Oj wsystkoś powiedała
+!!!source: DWOK77
+!!!id: 77173
+!!!signature: 7717300010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4cc
+4cc
+=2
+8b
+8cc
+4dd
+4cc
+=3
+4ee
+4ee
+4ee
+=4
+8g
+8b
+4dd
+4cc}
+!!LO:LB:g=esac
+=5
+{4cc
+4cc
+4cc
+=6
+8b
+8cc
+4dd
+4cc
+=7
+4ee
+4ee
+4ff
+=8
+8g
+8b
+4dd
+4cc}
+==
+*-
+!!!ONB: Takty 1 do 8 część wokalna, takty 9 do 16 część instrumentalna, wariant t. 5:  +1_+1_7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 103
+!!!ONB: Converted on 2024/12/26 with esac2hum

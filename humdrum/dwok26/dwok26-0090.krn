@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2609000000-powidziala_klucnica.krn
+!!!OTL: Powidziała klucnica
+!!!source: DWOK26
+!!!id: 26090
+!!!signature: 2609000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8cc
+8cc
+=2
+8dd
+8ee
+4cc
+=3
+8g
+8g
+8cc
+8cc
+=4
+8dd
+8ee
+4cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc
+8a
+=6
+4dd
+8cc
+8a
+=7
+8dd
+8dd
+8cc
+8a
+=8
+8dd
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+4cc
+=10
+8dd
+8ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

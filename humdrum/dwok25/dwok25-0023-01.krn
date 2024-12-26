@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK2502300001-pod_borem_sosna_pod_nia_topola.krn
+!!!OTL: Pod borem sośna pod nią topola
+!!!source: DWOK25
+!!!id: 25023
+!!!signature: 2502300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8f#
+8f#
+=2
+4.g
+=3
+16a
+16cc
+8cc
+8dd
+=4
+4.b}
+!!LO:LB:g=esac
+=5
+{16a
+16dd
+8.cc
+16a
+=6
+16b
+16f#
+16g
+16f#
+8e
+=7
+16.d
+32d
+16d
+16e
+8f#
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16a
+16cc#
+8cc#
+8a
+=10
+4.dd
+=11
+16a
+16cc#
+8cc#
+8cc#
+=12
+4.dd}
+!!LO:LB:g=esac
+=13
+{16cc
+16cc
+8cc
+8cc
+=14
+16b
+16b
+16g
+16a
+8b
+=15
+16cc
+16ee
+16gg
+16ff#
+8ee
+=16
+4.dd}
+!!LO:LB:g=esac
+=17
+{16dd
+16ee
+8.cc
+16a
+=18
+16.b
+32f#
+16g
+16f#
+8e
+=19
+16.d
+32d
+16d
+16e
+8f#
+=20
+4.g}
+==
+*-
+!!!ONB: w takcie osiemnastym dodano kropkę przy pierwszej nucie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 10} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 10}
+!!!page: 10
+!!!ONB: Converted on 2024/12/26 with esac2hum

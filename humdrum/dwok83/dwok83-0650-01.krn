@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK8365000001-susid_so_susidom_ne_po_prawdie_zyje.krn
+!!!OTL: Susid so susidom ne po prawdie żyje
+!!!source: DWOK83
+!!!id: 83650
+!!!signature: 8365000001
+**kern
+*clefG2
+*k[]
+*a:
+*MX
+=1
+{8cc
+4dd
+8ee
+4dd
+[4cc
+24cc]
+24b
+24a
+4.a}
+!!LO:LB:g=esac
+=2
+{8cc
+4dd
+8ee
+4dd
+[4cc
+24cc]
+24b
+24a
+4.a}
+!!LO:LB:g=esac
+=3
+{8cc
+4dd
+8dd
+4cc
+8a
+4a
+16cc
+16b
+4b}
+!!LO:LB:g=esac
+=4
+{8cc
+4dd
+8dd
+8cc
+8a
+4cc
+24cc
+24b
+24a
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+4dd
+4dd
+4cc
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=542 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 431} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 431}
+!!!page: 431
+!!!ONB: Converted on 2024/12/26 with esac2hum

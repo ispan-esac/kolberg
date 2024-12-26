@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06069400002-nie_wiem_co_takiego.krn
+!!!OTL: Nie wiem co takiego
+!!!source: DWOK06
+!!!id: K0694
+!!!signature: 06069400002
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8d
+8f#
+4a
+=2
+8ff#
+4ff#
+8ee
+=3
+8dd
+8cc#
+8dd
+8b
+=4
+8a
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8e
+8f#
+4g
+=6
+8b
+4b
+8g
+=7
+8e
+8e
+8.g
+16c#
+=8
+8e
+4d}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=458 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 432} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 432}
+!!!page: 432
+!!!ONB: Converted on 2024/12/26 with esac2hum

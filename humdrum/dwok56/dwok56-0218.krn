@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5621800000-wozymynynu_skinczyly.krn
+!!!OTL: Wozymynynu skinczyły
+!!!source: DWOK56
+!!!id: 56218
+!!!signature: 5621800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8cc
+8dd
+=2
+8ee
+8b
+4cc
+=3
+4cc}
+4r
+!!LO:LB:g=esac
+=4
+{8dd
+8ee
+8ff
+8ee
+=5
+4.dd
+8cc
+=6
+8ff
+4.ee}
+!!LO:LB:g=esac
+=7
+{8dd
+8ee
+8ff
+8ee
+=8
+8dd
+8b
+4cc
+=9
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=330 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 226} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 226}
+!!!page: 226
+!!!ONB: Converted on 2024/12/26 with esac2hum

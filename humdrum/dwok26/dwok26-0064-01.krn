@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2606400001-w_poniedzialek_rutke_siala.krn
+!!!OTL: W poniedziałek rutkę siała
+!!!source: DWOK26
+!!!id: 26064
+!!!signature: 2606400001
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{16dd
+16ff
+8ee
+8dd
+=2
+4cc
+8g
+=3
+8b-
+4a}
+!!LO:LB:g=esac
+=4
+{16dd
+16ff
+8ee
+8dd
+=5
+4cc
+8g
+=6
+8b-
+4a}
+!!LO:LB:g=esac
+=7
+{16cc
+16b-
+8g
+8a
+=8
+4cc
+8dd
+=9
+8dd
+4cc}
+!!LO:LB:g=esac
+=10
+{16g
+16a
+8b-
+8dd
+=11
+4cc
+8g
+=12
+8b-
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

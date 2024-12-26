@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1910900000-pod_zielona_miedza.krn
+!!!OTL: Pod zieloną miedzą
+!!!source: DWOK19
+!!!id: 19109
+!!!signature: 1910900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8dd
+8cc
+8.b-
+16e
+=2
+8f
+4.f
+=3
+16dd
+16cc
+8cc
+8.b-
+16e
+=4
+8f
+4.a}
+!!LO:LB:g=esac
+=5
+{8b-
+[4dd
+8dd]
+=6
+8cc
+8ff
+8ff
+8dd
+=7
+8cc
+8cc
+8.b-
+16e
+=8
+8f
+4.f}
+!!LO:LB:g=esac
+=9
+{16b-
+16dd
+[4dd
+8dd]
+=10
+8cc
+8ff
+16ff
+16ee
+8dd
+=11
+16dd
+16cc
+8cc
+8.b-
+16g
+=12
+8a
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 38} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 38}
+!!!page: 38
+!!!ONB: Converted on 2024/12/26 with esac2hum

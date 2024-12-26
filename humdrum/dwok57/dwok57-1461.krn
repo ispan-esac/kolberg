@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK57146100000-oj_dala_mne_moja_maty.krn
+!!!OTL: Oj, dała mne, moja maty
+!!!source: DWOK57
+!!!id: 571461
+!!!signature: 57146100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4ee
+8a
+8b
+=2
+4cc
+4dd
+8b
+8cc
+=3
+4dd
+4ee
+8a
+8b
+=4
+4cc
+2dd}
+!!LO:LB:g=esac
+=5
+{4b
+4b
+8g
+8cc
+=6
+4a
+4f#
+8d
+8d
+=7
+4b
+4b
+8g
+8cc
+=8
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 515
+!!!ONB: Converted on 2024/12/26 with esac2hum

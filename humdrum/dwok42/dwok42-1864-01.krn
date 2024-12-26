@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK42186400001-juz_mnie_minelo_szesnascie_latek.krn
+!!!OTL: Już mnie minęło szesnaście latek
+!!!source: DWOK42
+!!!id: 421864
+!!!signature: 42186400001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8ee
+=2
+8dd
+8.dd
+16ff
+=3
+8ff
+8b
+8b
+=4
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8ee
+=6
+8ee
+8.dd
+16ff
+=7
+8ff
+8b
+8b
+=8
+8dd
+4cc}
+!!LO:LB:g=esac
+=9
+{16dd
+16dd
+8b
+8g
+=10
+16dd
+16dd
+8b
+8g
+=11
+4ff
+16ee
+16ff
+=12
+4dd}
+8r
+!!LO:LB:g=esac
+=13
+{16ee
+16ee
+8cc
+8a
+=14
+16dd
+16dd
+8b
+8g
+=15
+4cc
+8ee
+=16
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 252-253} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 252-253}
+!!!page: 252-253
+!!!ONB: Converted on 2024/12/26 with esac2hum

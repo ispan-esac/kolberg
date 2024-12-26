@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK83147700002-instrumentalna_-_polonez.krn
+!!!OTL: Instrumentalna - Polonez
+!!!source: DWOK83
+!!!id: 831477
+!!!signature: 83147700002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8gg
+16ee
+16dd
+8cc
+16cc
+16cc
+8cc
+8ee
+=2
+8ee
+8dd
+2dd
+=3
+8.ff
+16dd
+8b
+16b
+16a
+8g
+16b
+16dd
+=4
+8ff
+8ee
+2ee}
+!!LO:LB:g=esac
+=5
+{16ee
+16ff
+16ee
+16dd
+8cc
+8cc
+8cc
+8ee
+=6
+8ee
+16ee
+16dd
+2dd
+=7
+8.ff
+16dd
+16cc
+16b
+16a
+16g
+8b
+8dd
+=8
+8dd
+8cc
+2cc}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+8g
+8f
+8e
+8d
+=10
+8c
+16B
+16d
+16f
+16g
+16a
+16b
+8cc
+8a
+=11
+16g
+16b
+8dd
+16dd
+16b
+16dd
+16ee
+16ee
+16ff
+16ee
+16dd
+=12
+8b
+16b
+16a
+8g
+16a
+16b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=388 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 277} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 277}
+!!!page: 277
+!!!ONB: Converted on 2024/12/26 with esac2hum

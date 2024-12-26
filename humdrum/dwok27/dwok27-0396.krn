@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK2739600000-a_za_lasem_moje_wolki.krn
+!!!OTL: A za lasem moje wołki
+!!!source: DWOK27
+!!!id: 27396
+!!!signature: 2739600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16cc
+16ee
+8ff#
+8ee
+=2
+16dd
+16dd
+8cc
+8a
+=3
+16cc
+16ee
+8.dd
+16a}
+!!LO:LB:g=esac
+=4
+{16g#
+16a
+8cc
+8b
+=5
+16dd
+16dd
+8ee
+16cc
+16a
+=6
+16cc
+16ee
+8.dd
+16e}
+!!LO:LB:g=esac
+=7
+{16cc
+16ee
+16gg#
+16ff#
+8ee
+=
+24dd
+24ee
+24dd
+16cc
+16b
+8a
+=8
+16b
+16a
+8.g#
+16e}
+!!LO:LB:g=esac
+=9
+{16g#
+16a
+8cc
+16cc
+16b
+=
+24dd
+24cc
+24dd
+8ee
+24cc
+24b
+24a
+=10
+16b
+16a
+8.g#
+16e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=367 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 348} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 348}
+!!!page: 348
+!!!ONB: Converted on 2024/12/26 with esac2hum

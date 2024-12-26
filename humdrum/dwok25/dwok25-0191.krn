@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2519100000-niescesliwy_ten_ganecek.krn
+!!!OTL: Niescęśliwy ten ganecek
+!!!source: DWOK25
+!!!id: 25191
+!!!signature: 2519100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.g
+16a
+8b
+8a
+=2
+8cc
+8b
+8a
+8g
+=3
+8.ee
+16dd
+4cc#
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8.g
+16a
+8b
+8a
+=6
+8cc
+8b
+8a
+8g
+=7
+8.ee
+16dd
+4cc#
+=8
+2dd}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+8b
+8b
+=10
+8a
+8cc
+8ee
+8dd
+=11
+4dd
+4d}
+!!LO:LB:g=esac
+=12
+{8d
+8f#
+8a
+8a
+=13
+8a
+8b
+8cc
+8a
+=14
+8g
+8b
+8a
+8f#
+=15
+4g}
+4r
+==
+*-
+!!!ONB: Jest pauza ósemkowa, zapisano cwierćnutową. Wariant w takcie szóstym zapisu 2_4_6_6_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 84} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 84}
+!!!page: 84
+!!!ONB: Converted on 2024/12/26 with esac2hum

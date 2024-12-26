@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1818300000-da_warkocku_warkocku.krn
+!!!OTL: Da warkocku warkocku
+!!!source: DWOK18
+!!!id: 18183
+!!!signature: 1818300000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{8dd
+8a
+8cc#
+=2
+16dd
+16cc#
+16a
+16a
+16cc#
+16ee
+=3
+8dd
+8a
+8b
+=4
+16g
+16f#
+8d
+8e}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8g
+=6
+16g
+16b
+8a
+8cc#
+=7
+8dd
+16a
+16g
+16b
+16g
+=8
+16g
+16f#
+8d
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 118} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 118}
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

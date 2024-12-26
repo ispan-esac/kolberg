@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2547000000-oj_za_nic_mi_to_za_nic.krn
+!!!OTL: Oj za nic mi to za nic
+!!!source: DWOK25
+!!!id: 25470
+!!!signature: 2547000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16b
+16cc
+8ee
+16gg
+16dd
+=2
+8ff
+8aa
+8gg
+=3
+16ff
+16ee
+8cc
+16b
+16g
+=4
+8a
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+8ee
+16ee
+16dd
+=6
+8ff
+8ee
+8ee
+=7
+16ff
+16ee
+8cc
+16b
+16g
+=8
+8f
+8f
+8g}
+!!LO:LB:g=esac
+=9
+{16b
+16cc
+8ee
+16ee
+16dd
+=10
+8ff
+8ee
+8cc
+=11
+16ff
+16ee
+8cc
+16b
+16g
+=12
+8f
+8f
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 193} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 193}
+!!!page: 193
+!!!ONB: Converted on 2024/12/26 with esac2hum

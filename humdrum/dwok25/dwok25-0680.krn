@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK2568000000-dziewcyno_kochanie.krn
+!!!OTL: Dziewcyno kochanie
+!!!source: DWOK25
+!!!id: 25680
+!!!signature: 2568000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8ff
+8ee
+=2
+16dd
+16cc
+4ee
+=3
+8gg
+8ff
+8ee
+=4
+16dd
+16cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8ff
+8ee
+=6
+16dd
+16cc
+4ee
+=7
+8gg
+8ff
+8ee
+=8
+16dd
+16cc
+4cc}
+!!LO:LB:g=esac
+=9
+{8g
+8cc
+8b
+=10
+16a
+16g
+4cc
+=11
+16ee
+16gg
+8ff
+8ee
+=12
+16dd
+16cc
+4ee}
+!!LO:LB:g=esac
+=13
+{16g
+16g
+8cc
+8b
+=14
+16cc
+16b
+8cc
+8ee
+=15
+16ee
+16gg
+16aa
+16gg
+16ee
+16cc
+=16
+16dd
+16cc
+4cc}
+==
+*-
+!!!ONB: Wariant w takcie ósmym  +2+17_+1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 243} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 243}
+!!!page: 243
+!!!ONB: Converted on 2024/12/26 with esac2hum

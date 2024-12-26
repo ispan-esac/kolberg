@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2641400000-najswietsza_panno_opiekunko_moja.krn
+!!!OTL: Najświętsza Panno opiekunko moja
+!!!source: DWOK26
+!!!id: 26414
+!!!signature: 2641400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+8dd
+8dd
+8cc
+8b
+=2
+8dd
+8dd
+8dd
+8dd
+8cc
+8b
+=3
+4dd
+8dd
+8dd
+8cc
+8b
+=4
+8dd
+8dd
+8dd
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{4d
+8f#
+8a
+8g
+8d
+=6
+8e
+8e
+8f#
+8a
+8g
+8g
+=7
+4d
+8f#
+8a
+8g
+8d
+=8
+8g
+8b
+8dd
+8dd
+8cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 289
+!!!ONB: Converted on 2024/12/26 with esac2hum

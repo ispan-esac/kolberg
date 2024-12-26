@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2602700000-posluchajcie_posluchace.krn
+!!!OTL: Posłuchajcie posłuchace
+!!!source: DWOK26
+!!!id: 26027
+!!!signature: 2602700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4b
+4g
+4b
+4dd
+=2
+4cc
+8a
+8b
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=3
+{8d
+8d
+8d
+8f#
+4g
+4b
+=4
+4cc
+8a
+8b
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{4b
+4g
+4b
+4dd
+=6
+4cc
+8a
+8b
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=7
+{8d
+8d
+8d
+8f#
+8g
+8g
+8g
+8b
+=8
+4cc
+8a
+8b
+8g
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 77
+!!!ONB: Converted on 2024/12/26 with esac2hum

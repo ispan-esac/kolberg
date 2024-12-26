@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK4102900020-a_zajeto_furmanoju_konie.krn
+!!!OTL: A zajęto furmanoju konie
+!!!source: DWOK41
+!!!id: 41029
+!!!signature: 4102900020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8dd
+=2
+16cc
+16cc
+8b-
+8g
+=3
+8a
+4cc}
+!!LO:LB:g=esac
+=4
+{16f
+16a
+8cc
+8dd
+=5
+16cc
+16cc
+8b-
+8g
+=6
+8a
+4f}
+==
+*-
+!!!ONB: Fragment w F
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 42} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 42}
+!!!page: 42
+!!!ONB: Converted on 2024/12/26 with esac2hum

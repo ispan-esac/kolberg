@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK2218600000-nieszczesliwy_ten_ganeczek.krn
+!!!OTL: Nieszczęśliwy ten ganeczek
+!!!source: DWOK22
+!!!id: 22186
+!!!signature: 2218600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16.a
+32b
+8cc
+8cc
+=2
+16b
+16cc
+8a
+8a
+=3
+8b
+4g#
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{16.a
+32b
+8cc
+8cc
+=6
+16b
+16cc
+8b
+8a
+=7
+8b
+4g#
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{16e
+16e
+8a
+8a
+=10
+16g#
+16f#
+8g#
+8e
+=11
+8.e
+16f#
+16g#
+16a
+=12
+16b
+16cc#
+8a
+8ee}
+!!LO:LB:g=esac
+=13
+{16e
+16e
+8a
+8a
+=14
+16g#
+16a
+8b
+8g#
+=15
+8.e
+16f#
+16g#
+16a
+=16
+16.b
+32b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=133 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 115} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

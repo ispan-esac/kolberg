@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4804800000-bede_ja_jezdzil_we_dnie_i_w_nocy.krn
+!!!OTL: Będe ja jeździł we dnie i w nocy
+!!!source: DWOK48
+!!!id: 48048
+!!!signature: 4804800000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M6/8
+{8d
+8g
+8g
+4g
+8f#
+=2
+8a
+8a
+8a
+4a
+8d}
+!!LO:LB:g=esac
+=3
+{8d
+8cc
+8cc
+4cc
+8b
+=4
+8dd
+8dd
+8dd
+4dd
+8dd}
+!!LO:LB:g=esac
+=5
+*M4/4
+{4d
+4g
+4b
+4b
+=6
+4dd
+4dd
+4.gg
+8ee}
+!!LO:LB:g=esac
+=7
+{4dd
+4cc
+4a
+4f#
+=8
+4g
+4g
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 117-118} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, pp. 117-118}
+!!!page: 117-118
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK4115100000-umar_maciek_umar.krn
+!!!OTL: Umar Maciek umar
+!!!source: DWOK41
+!!!id: 41151
+!!!signature: 4115100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8b
+8b
+=2
+8dd
+4dd
+=3
+16gg
+16ff#
+8dd
+8ff#
+=4
+8gg
+4gg}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8b
+8b
+=6
+8dd
+4dd
+=7
+16gg
+16ff#
+8dd
+8ff#
+=8
+8gg
+4gg}
+!!LO:LB:g=esac
+=9
+{8gg
+8gg
+8gg
+=10
+16ee
+16ee
+8b
+8cc}
+!!LO:LB:g=esac
+=11
+{4dd
+16a
+16cc
+=12
+16b
+16dd
+8gg
+8ff#}
+!!LO:LB:g=esac
+=13
+{4dd
+16a
+16cc
+=14
+16b
+16dd
+8gg
+8ff#}
+!!LO:LB:g=esac
+=15
+{4dd
+16a
+16cc
+=16
+16b
+16dd
+8a
+16cc
+16b
+=17
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 104} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 104}
+!!!page: 104
+!!!ONB: Converted on 2024/12/26 with esac2hum

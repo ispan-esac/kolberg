@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4106800000-uciekala_po_rowie.krn
+!!!OTL: Uciekała po rowie
+!!!source: DWOK41
+!!!id: 41068
+!!!signature: 4106800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16a
+8b
+8cc
+=2
+8ee
+8.dd
+16b
+=3
+8dd
+8.cc
+16a
+=4
+8cc
+8.b
+16g}
+!!LO:LB:g=esac
+=5
+{16b
+16a
+8b
+8cc
+=6
+8ee
+8.dd
+16b
+=7
+8dd
+8.cc
+16a
+=8
+8cc
+8.b
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 60} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

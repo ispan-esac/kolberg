@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2103200001-dziwna_dziwna_dziwna_ja_matke_mam.krn
+!!!OTL: Dziwną, dziwną, dziwną ja matkę mam
+!!!source: DWOK21
+!!!id: 21032
+!!!signature: 2103200001
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16b-
+16g
+4f
+=2
+16b-
+16g
+4f
+=3
+8b-
+8dd
+8ff
+=4
+8gg
+4ee-
+=5
+4cc}
+8r
+!!LO:LB:g=esac
+=6
+{8b-
+8dd
+8ff
+=7
+8gg
+4ee-
+=8
+8dd
+8b-
+8cc
+=9
+8g
+4f}
+!!LO:LB:g=esac
+=10
+{8b-
+8dd
+8ee-
+=11
+8dd
+8.cc
+16g
+=12
+4.b-}
+==
+*-
+!!!ONB: W takcie 11 na trzecią wartośść u Kolberga jest ósemka, a powinna być szesnastka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 18} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 18}
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

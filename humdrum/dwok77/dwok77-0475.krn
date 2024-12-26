@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7747500000-oj_kolyse_dzieciatko.krn
+!!!OTL: Oj kołysę dzieciątko
+!!!source: DWOK77
+!!!id: 77475
+!!!signature: 7747500000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8ee
+8ee
+8b
+=2
+16a
+16b
+8dd
+8ff}
+!!LO:LB:g=esac
+=3
+{8ee
+8ee
+8b
+=4
+16cc
+16a
+8g#
+8e}
+!!LO:LB:g=esac
+=5
+{8f#
+8f#
+8e
+=6
+16g#
+16b
+8a
+8a}
+!!LO:LB:g=esac
+=7
+{8f#
+8.e
+16g#
+=8
+16b
+16a
+8g#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

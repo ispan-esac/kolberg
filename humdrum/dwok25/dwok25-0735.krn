@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2573500000-kto_pieniazki_ma.krn
+!!!OTL: Kto pieniążki ma
+!!!source: DWOK25
+!!!id: 25735
+!!!signature: 2573500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+8dd
+8b
+4cc
+=2
+8g
+8b
+8b
+8a
+8a
+8g
+=3
+8b
+8dd
+8dd
+8b
+8cc
+8a
+=4
+8g
+8b
+8b
+8a
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8b
+8a
+4cc
+=6
+8g
+8b
+8b
+8a
+8a
+8g
+=7
+8g
+8b
+8b
+8a
+8cc
+8a
+=8
+8g
+8b
+8b
+8a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=283 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 258} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 258}
+!!!page: 258
+!!!ONB: Converted on 2024/12/26 with esac2hum

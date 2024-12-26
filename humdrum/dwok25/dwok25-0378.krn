@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2537800000-choc_ja_goly_i_tys_gola.krn
+!!!OTL: Choć ja goły i tyś goła
+!!!source: DWOK25
+!!!id: 25378
+!!!signature: 2537800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16ee
+8.ff
+16a
+=2
+16b-
+16dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=3
+{16cc
+16ee
+8.ff
+16a
+=4
+16.cc
+32b-
+8e
+8f}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8.f
+16cc
+=6
+16b-
+16dd
+8ff
+16ee
+16dd}
+!!LO:LB:g=esac
+=7
+{16cc
+16ee
+8ff
+8a
+=8
+16.cc
+32b-
+8e
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 171} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 171}
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

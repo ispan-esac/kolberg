@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK06-K0477-idac_z_jarmarku_w_jesiennej_dobie.krn
+!!!OTL: Idac z jarmarku w jesiennej dobie
+!!!source: DWOK06
+!!!id: K0477
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8ff
+8ee
+8dd
+=2
+8dd
+4cc
+=3
+8dd
+8.cc
+16b-
+=4
+8b-
+8a}
+8r
+!!LO:LB:g=esac
+=5
+{8f
+8a
+8a
+=6
+8dd
+4cc
+=7
+8dd
+8.cc
+16b-
+=8
+8b-
+8a}
+8r
+!!LO:LB:g=esac
+=9
+{8g
+4g
+=10
+8b-
+8g
+8e
+=11
+8a
+4a
+=12
+8cc
+8a
+8f}
+!!LO:LB:g=esac
+=13
+{8ff
+8ee
+8dd
+=14
+4cc
+16dd
+16b-
+=15
+8a
+8b-
+8g
+=16
+8g
+8f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 261} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 261}
+!!!page: 261
+!!!ONB: Converted on 2024/12/26 with esac2hum

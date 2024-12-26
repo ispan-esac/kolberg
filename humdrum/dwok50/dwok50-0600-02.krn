@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK5060000002-oj_po_pid_lis_zelenejki.krn
+!!!OTL: Oj, po pid lis zełenejki
+!!!source: DWOK50
+!!!id: 50600
+!!!signature: 5060000002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16b
+16dd
+16dd
+16cc
+8cc
+=2
+16dd
+16dd
+16dd
+16cc
+8dd
+=3
+16b
+16cc
+8ee
+8ee
+=4
+16ee
+16ee
+16ee
+16dd
+8ee}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8dd
+16cc
+16b
+=6
+16a
+16a
+8a
+16b
+16cc
+=7
+16cc
+16ee
+8dd
+8dd
+=8
+16cc
+16b
+8.a
+16a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=381 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 350} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 350}
+!!!page: 350
+!!!ONB: Converted on 2024/12/26 with esac2hum

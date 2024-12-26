@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4302200000-albo_ty_mi_ten_wianek_wroc.krn
+!!!OTL: Albo ty mi ten wianek wróć
+!!!source: DWOK43
+!!!id: 43022
+!!!signature: 4302200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8e
+4.a
+8b
+=2
+8cc
+8ee
+4ee
+8dd
+8cc
+=3
+8cc
+8cc
+4.b
+8a
+=4
+4g#
+2ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4.ee
+8ff#
+=6
+8gg#
+8ee
+4.dd
+8b
+=7
+8cc
+8ee
+4.b
+8g#
+=8
+2a
+4a}
+==
+*-
+!!!ONB: Wariant t. 4: 2_-5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 41} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 41}
+!!!page: 41
+!!!ONB: Converted on 2024/12/26 with esac2hum

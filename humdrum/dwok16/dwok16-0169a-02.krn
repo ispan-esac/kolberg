@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1616900002-wyjezdzaj_starostenka.krn
+!!!OTL: Wyjeżdżaj starosteńka
+!!!source: DWOK16
+!!!id: 16169a
+!!!signature: 1616900002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8dd
+8ee
+=2
+8dd
+8ff
+8ee
+=3
+4dd
+8cc
+=4
+8dd
+8cc}
+8r
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8dd
+=6
+8ee
+8ff
+8ee
+=7
+8dd
+8cc}
+8r
+!!LO:LB:g=esac
+=8
+{16cc
+16ee
+4ff
+=9
+8ee
+8dd
+8cc
+=10
+16cc
+16b
+8cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 188} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 188}
+!!!ONB: Converted on 2024/12/26 with esac2hum

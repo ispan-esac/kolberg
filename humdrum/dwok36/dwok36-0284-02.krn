@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK3628400002-zaszcebetaw_solowej.krn
+!!!OTL: Zaszcebetaw sołowej
+!!!source: DWOK36
+!!!id: 36284
+!!!signature: 3628400002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8e
+8a
+8g#
+8e
+=2
+8a
+8b
+8cc#
+8a
+=3
+16b
+16a
+8b
+8cc#
+8a
+=4
+8g#
+8f#
+4e}
+!!LO:LB:g=esac
+=5
+{4a
+8a
+8a
+=6
+8b
+8a
+8b
+8b
+=7
+8a
+16b
+16a
+8g#
+8f
+=8
+4e
+4cc#}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8cc#
+8g
+=10
+8a
+8a
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

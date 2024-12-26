@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3402000000-a_pryjichaw_moj_mylenkij.krn
+!!!OTL: A pryjichaw mój myłeńkij
+!!!source: DWOK34
+!!!id: 34020
+!!!signature: 3402000000
+**kern
+*clefG2
+*k[f#]
+*e:
+=1
+*M2/4
+{8e
+8b
+8b
+8b
+=2
+8dd
+16cc
+16b
+8a
+8a
+=3
+8dd
+8dd
+8ff#
+8ee
+=4
+*M3/4
+8dd
+8b
+2b}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8b
+8dd
+8dd
+16cc
+16b
+=6
+8b
+8a
+16g
+16e
+8e
+=7
+8g
+8cc
+8b
+8a
+=8
+*M3/4
+8g
+8e
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 17} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 17}
+!!!page: 17
+!!!ONB: Converted on 2024/12/26 with esac2hum

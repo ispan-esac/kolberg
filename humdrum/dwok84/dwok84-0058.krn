@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK8405800000-ty_sama_maty_prowynyla.krn
+!!!OTL: Ty sam'a maty, prowynyła
+!!!source: DWOK84
+!!!id: 84058
+!!!signature: 8405800000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{16e
+16g#
+8b
+8a
+8g#
+=2
+8cc
+4.b
+=3
+8a
+16g#
+[16e}
+4e]
+!!LO:LB:g=esac
+=4
+{16g
+16a
+8a
+8g
+8a
+=5
+8e
+4.d
+=6
+8e
+4g#
+8e}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8a
+8g
+=8
+8cc
+[4b
+32b]
+32a
+32b
+32a
+=9
+8g#
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 84} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 84}
+!!!page: 84
+!!!ONB: Converted on 2024/12/26 with esac2hum

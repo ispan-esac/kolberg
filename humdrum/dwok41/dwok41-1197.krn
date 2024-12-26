@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK41119700000-stas_mi_z_jarmarku_przywiozl_pierscionek.krn
+!!!OTL: Staś mi z jarmarku przywiózł pierscionek
+!!!source: DWOK41
+!!!id: 411197
+!!!signature: 41119700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8b
+8a
+8b
+4dd
+8dd
+=2
+8dd
+8cc
+8cc
+4b
+8b}
+!!LO:LB:g=esac
+=3
+{8b
+8a
+8a
+8a
+8cc
+8f#
+=4
+4.g
+4.g}
+!!LO:LB:g=esac
+=5
+{8ee
+8cc
+8cc
+8.gg
+16ff#
+8ee
+=6
+8dd
+8dd
+8ee
+4dd
+8dd}
+!!LO:LB:g=esac
+=7
+{8dd
+8.ee
+16dd
+8dd
+8cc
+8f#
+=8
+4.g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=612 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 525} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 525}
+!!!page: 525
+!!!ONB: Converted on 2024/12/26 with esac2hum

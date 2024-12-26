@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1006600000-jak_sie_kuma_z_kuma_zejdzie.krn
+!!!OTL: Jak się kuma z kumą zejdzie
+!!!source: DWOK10
+!!!id: 10066
+!!!signature: 1006600000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{8a
+8cc
+8ee-
+8gg
+8ff
+8ee-
+=2
+8dd
+8dd
+4ff
+4f
+=3
+8a
+8cc
+4.ee-
+8cc
+=4
+8b-
+8b-
+4a
+4f}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4.ee-
+8cc
+=6
+8dd
+8dd
+4ff
+4f
+=7
+8a
+8cc
+4.ee-
+8cc
+=8
+4b-
+4a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 215} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 215}
+!!!page: 215
+!!!ONB: Converted on 2024/12/26 with esac2hum

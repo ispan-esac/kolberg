@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK3035700000-a_szczoz_to_je_za_zilaczko.krn
+!!!OTL: A szczoż to je za zilaczko
+!!!source: DWOK30
+!!!id: 30357
+!!!signature: 3035700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8a
+8a
+8f
+=2
+8b-
+8b-
+8b-
+8g
+=3
+8cc
+8cc
+8cc
+8a
+=4
+4cc
+4ff}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8b-
+=6
+8cc
+8cc
+8cc
+8a
+=7
+8b-
+8b-
+8b-
+8g
+=8
+4cc
+4ff}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8dd
+8b-
+=10
+8cc
+8cc
+8cc
+8a
+=11
+8b-
+8b-
+8b-
+8g
+=12
+4f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 192} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 192}
+!!!page: 192
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK7734600000-w_moim_ogrodku_ziolko_jako_gaj.krn
+!!!OTL: W moim ogródku ziółko jako gaj
+!!!source: DWOK77
+!!!id: 77346
+!!!signature: 7734600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4gg
+4.gg
+8ff
+=2
+8dd
+8ee
+4cc
+4a
+=3
+4cc
+4.cc
+8b
+=4
+4a
+4.b
+8g}
+!!LO:LB:g=esac
+=5
+{4cc
+4.cc
+8b
+=6
+8a
+8cc
+4.dd
+8b
+=7
+4cc
+4.cc
+8b
+=8
+8a
+8cc
+4.dd
+8b}
+!!LO:LB:g=esac
+=9
+{4cc
+4.cc
+8b
+=10
+4a
+4.b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

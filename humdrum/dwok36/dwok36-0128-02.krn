@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3612800002-maty_doczku_hodowala.krn
+!!!OTL: Maty doczku hodowała
+!!!source: DWOK36
+!!!id: 36128
+!!!signature: 3612800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+16b
+16a
+=
+24cc
+24b
+24g
+4a
+=2
+4.a
+=3
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=4
+{16g
+16a
+8b
+16a
+16b
+=5
+8cc
+8b
+8a
+=6
+4.g}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+8b
+=8
+8a
+8b
+8a
+=9
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum

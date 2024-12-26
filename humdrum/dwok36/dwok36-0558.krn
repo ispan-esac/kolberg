@@ -1,0 +1,116 @@
+!!!!SEGMENT: DWOK3655800000-czuchy_czuchy_u_maczochy.krn
+!!!OTL: Czuchy czuchy u maczochy
+!!!source: DWOK36
+!!!id: 36558
+!!!signature: 3655800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+16dd
+16cc
+16b
+16cc
+=2
+8dd
+8dd
+16dd
+16cc
+16b
+16cc
+=3
+8dd
+8dd
+8dd
+8gg
+=4
+8dd
+8dd
+16dd
+16cc
+16b
+16cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8gg
+=6
+8dd
+8dd
+16dd
+16cc
+16b
+16cc
+=7
+8b
+8b
+8a
+8a
+=8
+8b
+8b
+8a
+8a}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+16a
+16b
+16cc
+16a
+=10
+8b
+8b
+8a
+8a
+=11
+8b
+8b
+8a
+8a
+=12
+8b
+8b
+8a
+8a}
+!!LO:LB:g=esac
+=13
+{8b
+8b
+16a
+16b
+16cc
+16a
+=14
+8b
+8b
+16a
+16b
+16cc
+16a
+=15
+8b
+8b
+16a
+16b
+16cc
+16a
+=16
+8b
+8b
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 375
+!!!ONB: Converted on 2024/12/26 with esac2hum

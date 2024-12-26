@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2816000000-powiedz_kasiu_raz.krn
+!!!OTL: Powiedz Kasiu raz
+!!!source: DWOK28
+!!!id: 28160
+!!!signature: 2816000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+16cc
+16b
+8a
+=2
+4.g
+=3
+16cc
+16dd
+16ee
+16ff
+8gg
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+16ee
+16ff
+8gg
+=6
+16dd
+16cc
+16b
+16cc
+8dd
+=7
+16a
+16b
+16cc
+16b
+8a
+=8
+8dd
+4g}
+!!LO:LB:g=esac
+=9
+{16cc
+16dd
+16ee
+16ff
+8gg
+=10
+16dd
+16cc
+16b
+16cc
+8dd
+=11
+16a
+16b
+16cc
+16b
+8a
+=12
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 215} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 215}
+!!!page: 215
+!!!ONB: Converted on 2024/12/26 with esac2hum

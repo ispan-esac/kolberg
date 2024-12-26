@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK05-K0071-hej_bracia_czy_wy_spicie.krn
+!!!OTL: Hej bracia czy wy spicie
+!!!source: DWOK05
+!!!id: K0071
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16g
+16b
+4dd
+8dd
+=2
+8dd
+8dd
+8b
+8g
+=3
+8a
+8b
+8cc
+8dd
+=4
+4b
+8g
+8r
+=5
+8a
+8b
+8cc
+8dd
+=6
+4b
+8g}
+8r
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+4f#
+=8
+8g
+4b
+8b
+=9
+8a
+8b
+8cc
+8dd
+=10
+4b
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=387 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 359} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 359}
+!!!page: 359
+!!!ONB: Converted on 2024/12/26 with esac2hum

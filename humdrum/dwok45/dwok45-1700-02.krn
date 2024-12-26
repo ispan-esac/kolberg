@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK45170000002-a_gdziezes_bywal.krn
+!!!OTL: A gdzieżeś bywał
+!!!source: DWOK45
+!!!id: 451700
+!!!signature: 45170000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+4b
+8b
+8b
+8b
+=2
+8a
+4cc
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=3
+{8f#
+4a
+8g
+8f#
+8e
+=4
+8d
+8cc
+8b
+8a
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 253-254} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, pp. 253-254}
+!!!page: 253-254
+!!!ONB: Converted on 2024/12/26 with esac2hum

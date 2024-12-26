@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK42160100000-kukaweczka_w_lesie_kuka.krn
+!!!OTL: Kukaweczka w lesie kuka
+!!!source: DWOK42
+!!!id: 421601
+!!!signature: 42160100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16d
+8d
+8d
+=2
+16g
+16g
+8g
+8g
+=3
+16a
+16cc
+8cc
+8ee
+=4
+4dd
+8dd}
+!!LO:LB:g=esac
+=5
+{16d
+16d
+8d
+8d
+=6
+16g
+16g
+8g
+8g
+=7
+16a
+16cc
+8cc
+8ee
+=8
+4dd
+8dd}
+!!LO:LB:g=esac
+=9
+{8dd
+8.dd
+16cc
+=
+16b
+16a
+24cc
+24b
+24a
+16b
+16g
+=10
+16f#
+16a
+16dd
+16cc#
+16dd
+16f#
+=11
+8a
+8g}
+8r
+==
+*-
+!!!ONB: wariant w takcie 3 i 7: 444_6_. wariant w ostatnim takcie: 211_0_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 122} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 122}
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

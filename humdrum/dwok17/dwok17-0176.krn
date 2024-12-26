@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1717600000-a_gdzie_to_ten_kusy_jan.krn
+!!!OTL: A gdzie to ten kusy Jan
+!!!source: DWOK17
+!!!id: 17176
+!!!signature: 1717600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8ff
+8ff
+8ee
+8cc
+=2
+8ee
+8gg
+8ff
+8dd}
+!!LO:LB:g=esac
+=3
+{8ff
+8ff
+8ee
+8cc
+=4
+8dd
+8b-
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8g
+8b-
+=6
+8a
+8cc
+8b-
+8g}
+!!LO:LB:g=esac
+=7
+{8b-
+8b-
+8a
+8cc
+=8
+8dd
+8b-
+8g
+8f}
+==
+*-
+!!!ONB: ob. Lud Ser. VI nr. 420. Ser. XIII n. 600. Nuta ob. nr 56.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 58} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

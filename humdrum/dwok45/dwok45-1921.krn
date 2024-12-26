@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK45192100000-ma_noimer.krn
+!!!OTL: Ma noimer
+!!!source: DWOK45
+!!!id: 451921
+!!!signature: 45192100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*MX
+=1
+{8b
+8b
+8dd
+4dd
+8cc
+8cc
+8g
+8g
+8b
+4b
+=2
+8g
+8g
+8g
+8g
+4b
+8b
+8g
+=3
+8b
+8b
+4b}
+!!LO:LB:g=esac
+=4
+{8b
+8b
+8b
+8dd
+8dd
+8b
+8b
+8b
+8b
+8b
+8g
+=5
+8b
+8b
+8b
+8g
+8b
+8b
+8b
+8g
+4dd
+4dd
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=369 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 351} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 351}
+!!!page: 351
+!!!ONB: Converted on 2024/12/26 with esac2hum

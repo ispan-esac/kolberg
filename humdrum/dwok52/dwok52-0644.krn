@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK5264400000-w_kontusiku_wymuskana_nie_spojrze_tylko_na_pana.krn
+!!!OTL: W kontusiku, wymuskana, nie spojrzę, tylko na pana
+!!!source: DWOK52
+!!!id: 52644
+!!!signature: 5264400000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8cc#
+8a
+4b
+4cc#
+=2
+8dd
+8ee
+4ff#
+4b
+=3
+8g#
+8b
+4.ee
+8dd
+=4
+8cc#
+8b
+4cc#
+4a}
+!!LO:LB:g=esac
+=5
+{8cc#
+8a
+4b
+4cc#
+=6
+8dd
+8ee
+4.ff#
+16b
+16a
+=7
+8.g#
+16e
+8e
+8e
+8f#
+8g#
+=8
+4b
+4a}
+4r
+!!LO:LB:g=esac
+=9
+{8g#
+8b
+4g#
+4b
+=
+12b
+12ee
+12gg#
+4.bb
+16gg#
+16ee
+=10
+8dd#
+8b
+4cc#
+4dd#
+=11
+8ee
+8ee
+4dd
+4b}
+!!LO:LB:g=esac
+=12
+{8cc#
+8ee
+4cc#
+4ee
+=13
+8dd
+8ee
+4.ff#
+8b
+=14
+8.g#
+16e
+8e
+8e
+8f#
+8g#
+=15
+4b
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=477 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 412} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 412}
+!!!page: 412
+!!!ONB: Converted on 2024/12/26 with esac2hum

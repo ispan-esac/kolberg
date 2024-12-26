@@ -1,0 +1,186 @@
+!!!!SEGMENT: DWOK2251900000-instrumentalna-chodzony_pasterski.krn
+!!!OTL: Instrumentalna-Chodzony pasterski
+!!!source: DWOK22
+!!!id: 22519
+!!!signature: 2251900000
+**kern
+*clefG2
+*k[b-]
+*F:
+=1
+{8g
+8a
+8b
+8cc
+4dd
+=2
+*M3/4
+8ff
+8ee
+8dd
+8cc
+4dd
+=3
+8g
+8a
+8b
+8cc
+8ff
+8ee
+=4
+8g
+8b
+8a
+8g
+4f}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+4dd
+=
+!!UNCATEGORIZED MEASURE
+12gg
+12ff
+12ee
+8dd
+8ee
+4dd
+=6
+*M3/4
+8g
+8a
+8b
+8cc
+8ff
+8ee
+=7
+8g
+8b
+8a
+8g
+4f}
+!!LO:LB:g=esac
+=8
+{4ff
+8ff
+8ee
+8ff
+8gg
+=
+!!UNCATEGORIZED MEASURE
+12aa
+12bb-
+12dd
+4gg
+8ff
+8ee
+=
+!!UNCATEGORIZED MEASURE
+12cc
+12dd
+12ee
+4gg
+8ff
+8ee
+=9
+*M3/4
+4g
+8a
+8g
+4f}
+!!LO:LB:g=esac
+=10
+{4ff
+8ff
+8ee
+8ff
+8gg
+=11
+8aa
+8bb-
+8dd
+8gg
+8ff
+8ee
+=12
+8cc
+8dd
+8ee
+8gg
+8ff
+8ee
+=
+!!UNCATEGORIZED MEASURE
+4g
+8a
+8g
+4f}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{24g
+24a
+24b
+8dd
+8ff
+=
+!!UNCATEGORIZED MEASURE
+16ff
+16aa
+8aa
+24gg
+24ff
+24ee
+=
+!!UNCATEGORIZED MEASURE
+24g
+24a
+24b
+8dd
+8g
+=
+!!UNCATEGORIZED MEASURE
+24cc
+24b
+24g
+8g
+8f}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{24g
+24a
+24b
+8dd
+8ff
+=13
+*M3/8
+16ff
+16ee
+16dd
+16cc
+8gg
+=
+!!UNCATEGORIZED MEASURE
+24g
+24a
+24b
+8dd
+8g
+=14
+16cc
+16b
+16a
+16g
+4f}
+==
+*-
+!!!ONB: Melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 239} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 239}
+!!!page: 239
+!!!ONB: Converted on 2024/12/26 with esac2hum

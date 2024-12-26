@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1639500001-matulu_moja_dodaj_zawoja.krn
+!!!OTL: Matulu moja dodaj zawoja
+!!!source: DWOK16
+!!!id: 16395
+!!!signature: 1639500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+8g
+8b
+=2
+4.dd
+8b
+=3
+8dd
+8cc#
+4a
+=4
+4.g
+8d
+=5
+4d
+4f#
+=6
+4.g
+8a}
+!!LO:LB:g=esac
+=7
+{8b
+8a
+8b
+8cc
+=8
+4.dd
+8g
+=9
+8b
+8a
+8b
+8cc
+=10
+4.dd
+8g
+=11
+4a
+8a
+8f#
+=12
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 249} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 249}
+!!!ONB: Converted on 2024/12/26 with esac2hum

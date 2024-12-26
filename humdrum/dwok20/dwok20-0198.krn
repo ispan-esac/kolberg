@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2019800000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK20
+!!!id: 20198
+!!!signature: 2019800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16ff#
+8gg
+16ee
+16dd
+=2
+16cc
+16ee
+8gg
+8gg
+=3
+16dd
+16ff#
+8gg
+16ee
+16dd
+=4
+16cc
+16b-
+8g
+8b-}
+!!LO:LB:g=esac
+=5
+{8.cc
+16dd
+16ee
+16dd
+=6
+16ee
+16gg
+16ff#
+16gg
+16aa
+16gg
+=7
+8.cc
+16dd
+16ee
+16dd
+=8
+16cc
+16b-
+8g
+8b-}
+!!LO:LB:g=esac
+=9
+{8dd
+8ff#
+8gg
+=10
+8dd
+8ff#
+8gg
+=11
+8dd
+8ff#
+8gg
+=12
+8dd
+8ff#
+8gg}
+==
+*-
+!!!ONB: Melodia określona jako Waryant
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 186} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 186}
+!!!page: 186
+!!!ONB: Converted on 2024/12/26 with esac2hum

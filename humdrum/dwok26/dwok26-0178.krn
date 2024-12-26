@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2617800000-pod_borem_sosna.krn
+!!!OTL: Pod borem sosna
+!!!source: DWOK26
+!!!id: 26178
+!!!signature: 2617800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+4cc
+=2
+8b
+8dd
+16a
+16r
+=3
+8cc
+4ee
+=4
+8dd
+8ee
+16cc}
+16r
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+=6
+8ff
+4dd
+=7
+8ee
+4cc
+=8
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{8a
+4cc
+=10
+8b
+8dd
+16a}
+16r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 165
+!!!ONB: Converted on 2024/12/26 with esac2hum

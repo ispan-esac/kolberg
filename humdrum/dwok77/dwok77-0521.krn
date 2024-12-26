@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7752100000-matka_corke_ubrala.krn
+!!!OTL: Matka córke ubrała
+!!!source: DWOK77
+!!!id: 77521
+!!!signature: 7752100000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{8a
+8b-
+4dd
+4dd
+=2
+4dd
+4dd
+4b-
+=3
+8ee
+8ff
+4.ee--
+8dd
+=4
+4cc
+4ee
+4ff}
+!!LO:LB:g=esac
+=5
+{8a
+8b-
+4dd
+4b-
+=6
+4cc
+4dd
+4b-
+=7
+8dd
+8dd
+4.ee-
+8dd
+=8
+4cc
+4a
+4f}
+==
+*-
+!!!ONB: Wariant taktu 7: 4#54B_.3
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 271
+!!!ONB: Converted on 2024/12/26 with esac2hum

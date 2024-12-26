@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2310600000-a_ojze_ino_ojze.krn
+!!!OTL: A ojże ino ojże
+!!!source: DWOK23
+!!!id: 23106
+!!!signature: 2310600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8g
+8b-
+8dd
+=2
+16cc
+32b-
+32a
+8g
+8f
+=3
+8ff
+8.ee
+16dd
+=4
+16cc
+32b-
+32a
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{8g
+8b-
+8f
+=6
+16g
+32b-
+32a
+8g
+8f
+=7
+8ff
+8.ee
+16dd
+=8
+16cc
+32b-
+32a
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 142} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 142}
+!!!page: 142
+!!!ONB: Converted on 2024/12/26 with esac2hum

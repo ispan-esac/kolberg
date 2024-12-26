@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK41105600000-ej_da_moja_dziewcyno.krn
+!!!OTL: Ej, da, moja, dziewcyno
+!!!source: DWOK41
+!!!id: 411056
+!!!signature: 41105600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16b
+8dd
+16dd
+16cc#
+=2
+8a
+8cc#
+8dd
+=3
+16dd
+16b
+8dd
+16dd
+16cc#
+=4
+8a
+8f#
+8d}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+16cc
+16a
+=6
+8g
+8g
+8b
+=7
+16d
+16f#
+8a
+16cc
+16a
+=8
+8g
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=531 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 444} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 444}
+!!!page: 444
+!!!ONB: Converted on 2024/12/26 with esac2hum

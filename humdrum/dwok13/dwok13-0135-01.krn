@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1313500001-objadlam_sie_klusek_z_woda.krn
+!!!OTL: Objadłam się klusek z wodą
+!!!source: DWOK13
+!!!id: 13135
+!!!signature: 1313500001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16cc
+8dd
+8ee
+=2
+16dd
+32cc
+32b
+8a
+8g
+=3
+16cc
+16cc
+8b
+8cc
+=4
+16g
+32f
+32e
+8d
+8c}
+!!LO:LB:g=esac
+=5
+{16c
+16d
+8e
+8e
+=6
+16e
+16d
+8f
+8a
+=7
+16g
+32a
+32b
+8cc
+8e
+=8
+16g
+32f
+32e
+8d
+8c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 80} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

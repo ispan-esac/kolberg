@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2700100000-lezy_lezy_jezus_malusienki.krn
+!!!OTL: Leży leży Jezus malusieńki
+!!!source: DWOK27
+!!!id: 27001
+!!!signature: 2700100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16b-
+8cc
+8cc
+=2
+16a
+16b-
+8cc
+8cc
+=3
+16cc
+16dd
+8.cc
+16b-
+=4
+8b-
+4a}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8g
+8b-
+=6
+16a
+16a
+8g
+8b-
+=7
+16a
+16cc
+8.b-
+16e
+=8
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 115} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

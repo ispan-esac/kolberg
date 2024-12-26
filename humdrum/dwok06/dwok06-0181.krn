@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK06-K0181-wyjechal_ci_nas_jegomosc.krn
+!!!OTL: Wyjechal ci nas jegomosc
+!!!source: DWOK06
+!!!id: K0181
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8a
+8a
+8b
+=2
+8cc
+8dd
+8cc
+8b-
+=3
+8a
+8a
+8a
+8b
+=4
+4cc
+16a
+8.f}
+!!LO:LB:g=esac
+=5
+{8a
+8f
+8a
+8b
+=6
+8cc
+8b-
+8a
+8f
+=7
+8a
+8f
+8f
+8g
+=8
+4b-
+16g
+8.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 98} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

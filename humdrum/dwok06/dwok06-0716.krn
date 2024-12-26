@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK06-K0716-powiadaja_ludzie.krn
+!!!OTL: Powiadaja ludzie
+!!!source: DWOK06
+!!!id: K0716
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+8g
+=2
+8f#
+8a
+8cc
+8r
+=3
+8g
+4b
+8d
+=4
+8d
+16e
+16f#
+8g}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+4a
+8a
+=6
+8cc
+8ee
+8.dd
+16cc
+=7
+8b
+8g
+8cc
+16a
+16f#
+=8
+8d
+16e
+16f#
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=471 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 445} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 445}
+!!!page: 445
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK0669300012-wysoki_zameczek_na_gorze_buduja.krn
+!!!OTL: Wysoki zameczek na gorze buduja
+!!!source: DWOK06
+!!!id: K0693
+!!!signature: 0669300012
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8b-
+4cc
+=2
+8cc
+4ff
+8ee
+=3
+8dd
+8cc
+8b-
+8a
+=4
+8b-
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8c
+8e
+4g
+=6
+8b-
+4dd
+16cc
+16b-
+=7
+8a
+8cc
+8.b-
+16g
+=8
+8g
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=458 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 432} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 432}
+!!!page: 432
+!!!ONB: Converted on 2024/12/26 with esac2hum

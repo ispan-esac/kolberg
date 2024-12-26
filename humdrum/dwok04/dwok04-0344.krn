@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK04-K0344-juz_sie_nachyla_slonce.krn
+!!!OTL: Juz sie nachyla slonce
+!!!source: DWOK04
+!!!id: K0344
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M6/8
+=1
+{8f
+8b-
+8dd
+4ff
+8ee-
+=2
+8f
+8a
+8cc
+4ee-
+8dd
+=3
+8f
+8b-
+8dd
+4ff
+8ee-
+=4
+8dd
+8cc
+8b-
+4dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8f
+8g
+8a
+4b-
+8b-
+=6
+8ff
+8dd
+8b-
+4a
+8g
+=7
+8ee-
+8dd
+8cc
+4cc
+8f
+=8
+8f
+8g
+8a
+4cc
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 187} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

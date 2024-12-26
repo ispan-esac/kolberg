@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1241200000-a_w_poznaniu_w_kamienicy.krn
+!!!OTL: A w Poznaniu w kamienicy
+!!!source: DWOK12
+!!!id: 12412
+!!!signature: 1241200000
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{4g
+8b
+4cc
+8cc
+=2
+4cc
+8a
+4g
+8g
+=3
+4f
+8a
+4g
+8g
+=4
+8g
+8b
+8dd
+4cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+4ff
+8ff
+=6
+4ee
+8cc
+4g
+8e
+=7
+4f
+8a
+4g
+8g
+=8
+8g
+8b
+8dd
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 212} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 212}
+!!!page: 212
+!!!ONB: Converted on 2024/12/26 with esac2hum

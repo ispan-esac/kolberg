@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK5045600000-prodaj_maty_prodaj_konia_uoronoho.krn
+!!!OTL: Prodaj, maty, prodaj konia uoronoho
+!!!source: DWOK50
+!!!id: 50456
+!!!signature: 5045600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8cc
+4ee
+4ee
+=2
+16dd
+8.b
+8cc
+4.a}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+4ee
+4ee
+=4
+16dd
+8.b
+8cc
+4.a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4dd
+4ee
+=6
+16ee
+16dd
+16cc
+16b
+4.a
+8a}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+8b
+8a
+4cc
+=8
+4g#
+2a}
+==
+*-
+!!!ONB: wariant t. 1: 3b23b_5__5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=302 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 273} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 273}
+!!!page: 273
+!!!ONB: Converted on 2024/12/26 with esac2hum

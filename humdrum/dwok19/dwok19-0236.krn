@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1923600000-oj_kazali_mi_issc.krn
+!!!OTL: Oj kazali mi iśść
+!!!source: DWOK19
+!!!id: 19236
+!!!signature: 1923600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc#
+8.dd
+16b
+=2
+16a
+16f#
+4g
+=3
+16a
+16cc#
+8.dd
+16b
+=4
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8g
+=6
+16a
+16cc
+16b
+16cc
+8g
+=7
+16a
+16cc#
+8.dd
+16b
+=8
+16a
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 74} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 74}
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

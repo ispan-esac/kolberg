@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2546200000-ojze_ojze_na_dunaju.krn
+!!!OTL: Ojze, ojze, na dunaju
+!!!source: DWOK25
+!!!id: 25462
+!!!signature: 2546200000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16f#
+16a
+16dd
+16cc#
+8a
+=2
+8.dd
+16cc#
+16a
+16ff#
+=3
+16ee
+16cc#
+16dd
+16cc#
+8a
+=4
+8.dd
+16cc#
+16a
+16f#}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+16e
+16d
+=6
+16e
+16g
+8b
+16g
+16e
+=7
+16d
+16f#
+8a
+8e
+=8
+8g
+16f#
+16a
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 192} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 192}
+!!!page: 192
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,113 @@
+!!!!SEGMENT: DWOK2006200000-dzien_on_dzien_gniewu_panskiego.krn
+!!!OTL: Dzień on dzień gniewu Pańskiego
+!!!source: DWOK20
+!!!id: 20062
+!!!signature: 2006200000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4cc
+4b
+4cc
+4a
+=2
+4b
+4g#
+4a
+4a
+=3
+4cc
+4dd
+8cc
+8b
+8a
+8g
+=4
+4b
+4cc
+4b
+4a
+=5
+4e
+4g
+4a
+4g
+=6
+4b
+4cc
+4b
+4cc}
+!!LO:LB:g=esac
+=7
+{4cc
+4b
+4cc
+4a
+=8
+4b
+4g#
+4a
+4a
+=9
+4cc
+4dd
+8cc
+8b
+8a
+8g
+=10
+4b
+4cc
+4b
+4a
+=11
+4e
+4g
+4a
+4g
+=12
+4b
+4cc
+4dd
+4cc}
+!!LO:LB:g=esac
+=13
+{4ee
+4dd
+4cc
+4b
+=14
+8cc
+8cc
+4dd
+2ee
+=15
+4ee
+4dd
+4cc
+4b
+=16
+8cc
+8cc
+4dd
+2ee
+=17
+4ee
+4dd
+4cc
+4b
+=18
+4.dd
+8cc
+4b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 120-121} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, pp. 120-121}
+!!!page: 120-121
+!!!ONB: Converted on 2024/12/26 with esac2hum

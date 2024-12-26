@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK25292a0000-bylem_i_bede_mazur_bogaty.krn
+!!!OTL: Byłem i będę Mazur bogaty
+!!!source: DWOK25
+!!!id: 25292a
+!!!signature: 25292a0000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8g
+8b
+=2
+4.dd
+=3
+16dd
+16ee
+8dd
+8a
+=4
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8g
+8b
+=6
+4.dd
+=7
+16dd
+16ee
+8dd
+8a
+=8
+4dd}
+8r
+!!LO:LB:g=esac
+=9
+{16b
+16b
+8.dd
+16cc
+=10
+16a
+16g
+8b
+8d
+=11
+16f#
+16a
+8g
+8g
+=12
+16e
+16d
+8f#
+8d
+=13
+16f#
+16a
+8g
+8g
+=14
+16e
+16d
+8dd
+8dd}
+!!LO:LB:g=esac
+=15
+{16cc#
+16ee
+8dd
+8a
+=16
+4.dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 131} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 131}
+!!!page: 131
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK4806700010-a_dejze_mi_boze_w_tem_szczesliwem_roczku.krn
+!!!OTL: A dejże mi, Boże, w tem szczęśliwem roczku
+!!!source: DWOK48
+!!!id: 48067
+!!!signature: 4806700010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+4cc
+=2
+16cc
+16ee
+8gg
+8ff
+=3
+8ff
+4cc
+=4
+16cc
+16b-
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+4cc
+=6
+16cc
+16ee
+8gg
+8ff
+=7
+8ff
+4cc
+=8
+16cc
+16b-
+8dd
+8cc}
+!!LO:LB:g=esac
+=9
+{16f
+16a
+8.cc
+16b-
+=10
+16g
+16g
+8g
+16b-
+16a
+=11
+16f
+16a
+8.cc
+16b-
+=12
+16g
+16g
+8g
+16b-
+16a}
+!!LO:LB:g=esac
+=13
+{16f
+16a
+8cc
+8cc
+=14
+8cc
+8ff
+8ee
+=15
+8ff
+4cc
+=16
+16cc
+16b-
+8dd
+16dd
+16cc}
+==
+*-
+!!!ONB: Wariant t. 1: 3_5__; wariant t. 2 i 6: 57+2_+17; wariant t. 4: 546_65; wariant t. 15: +1_5_4#_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 133} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 133}
+!!!page: 133
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2565400010-a_sama_ja_sama.krn
+!!!OTL: A sama ja sama
+!!!source: DWOK25
+!!!id: 25654
+!!!signature: 2565400010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8a
+16cc
+16b
+8cc
+=2
+8a
+16cc
+16b
+8cc
+=3
+8a
+16cc
+16b
+8cc
+=4
+8b-
+16g
+16e
+8f}
+!!LO:LB:g=esac
+=5
+{8f
+8f
+16e
+16d
+=6
+8c
+16e
+16g
+8a
+=7
+4f
+16e
+16d
+=8
+8c
+16e
+16g
+8f}
+==
+*-
+!!!ONB: Wariant w takcie -5-5-721_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 236} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 236}
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK2303500000-dzis_chrystus_krol_wiecznej_chwaly.krn
+!!!OTL: Dziś Chrystus król wiecznej chwały
+!!!source: DWOK23
+!!!id: 23035
+!!!signature: 2303500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4b
+4b
+4b
+4b
+=2
+8a
+8b
+4a
+4g
+4f#
+=
+4f#
+4f#
+4b
+12a
+12g
+12f#
+=3
+8e
+8f#
+4g
+4d#
+4e}
+!!LO:LB:g=esac
+=4
+{4g
+8g
+8a
+4b
+4b
+=5
+8a
+8b
+4a
+4g
+4f#
+=6
+4f#
+4f#
+4b
+8a
+8f#
+=7
+8e
+8f#
+4g
+4d#
+4e}
+!!LO:LB:g=esac
+=8
+{4f#
+4g
+4a
+4b
+=9
+4cc
+8b
+8a
+8dd
+8cc
+4b
+=10
+4f#
+4g
+4a
+4b
+=11
+4cc
+4b
+4a
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 83} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

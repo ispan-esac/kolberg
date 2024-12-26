@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK2304500000-nas_gaicek_z_lasa_idzie.krn
+!!!OTL: Nas gaicek z lasa idzie
+!!!source: DWOK23
+!!!id: 23045
+!!!signature: 2304500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4a
+4a
+4cc
+4cc
+=2
+4a
+4cc
+4dd
+4dd
+=3
+4dd
+8dd
+8dd
+4cc
+4cc
+=4
+8a
+8f#
+8d
+8d
+4g
+4b
+=5
+8a
+8f#
+8d
+8d
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 90} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

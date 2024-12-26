@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2418900000-jescem_ja_nie_twoja.krn
+!!!OTL: Jesce'm ja nie twoja
+!!!source: DWOK24
+!!!id: 24189
+!!!signature: 2418900000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M3/8
+{4ee
+8cc
+=2
+16ff
+16ee
+8dd
+16dd
+16cc
+=3
+4ee
+8cc
+=4
+16ff
+16ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{4ee
+8cc
+=6
+16ff
+16ee
+8dd
+16dd
+16cc
+=7
+4ee
+8cc
+=8
+16ff
+16ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=9
+*M2/4
+{8g
+8g
+8a
+8b
+=10
+8cc
+8dd
+8b
+8a
+=11
+8g
+8g
+8a
+8b
+=12
+8cc
+8cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=314 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 290} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 290}
+!!!page: 290
+!!!ONB: Converted on 2024/12/26 with esac2hum

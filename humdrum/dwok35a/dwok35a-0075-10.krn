@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK35A-35A07500010-wczoraj_bula_sobotojka.krn
+!!!OTL: Wczoraj buła sóbotojka
+!!!source: DWOK35A
+!!!id: 35A075
+!!!signature: 35A07500010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16g#
+16a
+8dd
+16cc
+16b
+=2
+16cc
+16a
+8b
+8b
+=3
+16g#
+16a
+8dd
+8cc
+=4
+16b
+16a
+4b}
+!!LO:LB:g=esac
+=5
+{16g#
+16a
+16b
+16dd
+16cc
+16a
+=6
+16b
+16a
+8b
+16g#
+16f#
+=7
+16g#
+16a
+16cc
+16b
+16a
+16g#
+=8
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 59} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 59}
+!!!page: 59
+!!!ONB: Converted on 2024/12/26 with esac2hum

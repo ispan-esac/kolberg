@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK4105200000-pytal_sie_jas_kasi_gdzie_panna_wedrujesz.krn
+!!!OTL: Pytał się Jaś Kasi gdzie panna wędrujesz?
+!!!source: DWOK41
+!!!id: 41052
+!!!signature: 4105200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+8cc
+8cc
+=2
+16dd
+16b
+4dd
+=3
+16cc
+16dd
+8ee
+16cc
+16b
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8.cc
+16a
+=6
+16a
+16g
+8.cc
+16g
+=7
+16g
+16g
+8f
+8d
+=8
+8f
+4e}
+!!LO:LB:g=esac
+=9
+{16b
+16dd
+8.cc
+16a
+=10
+16a
+16g
+8.e
+16g
+=11
+16a
+16g
+8f
+8d
+=12
+16d
+16c
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 52} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

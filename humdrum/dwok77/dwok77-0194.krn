@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7719400000-oj_joziu_moja_joziu.krn
+!!!OTL: Oj Józiu moja Józiu
+!!!source: DWOK77
+!!!id: 77194
+!!!signature: 7719400000
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/4
+=1
+{4gg
+4gg
+4ff
+=2
+8dd
+8cc
+4ee-
+4ff#
+=3
+4gg
+4gg
+4ff
+=4
+8dd
+8cc
+4ee-
+4cc}
+!!LO:LB:g=esac
+=5
+{4b
+4dd
+4ff
+=6
+8gg
+8gg
+4ee-
+4cc
+=7
+4b
+4dd
+4ff
+=8
+8dd
+8cc
+4ee-
+4cc}
+==
+*-
+!!!ONB: Wariant t. 3: +5_+5_+4+2, t. 7: 7_+2_+4+5
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 114
+!!!ONB: Converted on 2024/12/26 with esac2hum

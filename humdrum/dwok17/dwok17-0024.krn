@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1702400000-a_chto_na_pomoc_wzywa_onufrego.krn
+!!!OTL: A chto na pomoc wzywa Onufrego
+!!!source: DWOK17
+!!!id: 17024
+!!!signature: 1702400000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8ee
+8ee
+8ee
+=2
+8ee
+4cc#
+=3
+16dd
+16ee
+8dd
+8cc#
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+=6
+4dd
+8g#
+=7
+8cc#
+4dd
+=8
+4.ee}
+!!LO:LB:g=esac
+=9
+{8gg#
+8ee
+8ee
+=10
+4ee
+8cc#
+=11
+8b
+4cc#
+=12
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 15} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 15}
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

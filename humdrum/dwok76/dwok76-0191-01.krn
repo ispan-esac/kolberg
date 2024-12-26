@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK7619100001-oj_dyna_moja_dyna.krn
+!!!OTL: Oj, dyna moja, dyna
+!!!source: DWOK76
+!!!id: 76191
+!!!signature: 7619100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+8dd
+8ee
+8dd
+8cc#
+=2
+2a
+4cc#
+=3
+8dd
+8b
+8dd
+8dd
+4cc#
+=4
+2a
+4f#}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+8dd
+4cc#
+=6
+2a
+4cc#
+=7
+8dd
+8b
+8dd
+8dd
+4cc#
+=8
+2a
+4f#}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+2g
+=10
+8f#
+8d
+2g
+=11
+8d
+8f#
+2g
+=12
+8f#
+8d
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 100} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

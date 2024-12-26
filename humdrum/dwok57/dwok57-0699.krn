@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK5769900000-soiala_na_kolodci.krn
+!!!OTL: Soiała na kołodci
+!!!source: DWOK57
+!!!id: 57699
+!!!signature: 5769900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8cc
+=2
+4cc
+8dd
+=3
+8ee
+4cc}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+8dd
+=5
+4dd
+8ee
+=6
+8ff
+4ee}
+!!LO:LB:g=esac
+=7
+{8ee
+8gg
+8gg
+=8
+4gg
+8aa
+=9
+16aa
+16gg
+4ff}
+!!LO:LB:g=esac
+=10
+{16ff
+16ee
+8dd
+8cc
+=11
+4b
+8dd
+=12
+8dd
+4cc}
+==
+*-
+!!!ONB: Wariant t. 10: +6+5+4+3+2+1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 29
+!!!ONB: Converted on 2024/12/26 with esac2hum

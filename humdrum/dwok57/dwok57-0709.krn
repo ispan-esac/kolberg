@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK5770900000-kazala_salocha_pryjdy_szczos_dam.krn
+!!!OTL: Kazała Sałocha: pryjdy, szczoś dam
+!!!source: DWOK57
+!!!id: 57709
+!!!signature: 5770900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.g
+16g
+8g
+=2
+8b
+8b
+8cc
+=3
+8ee
+4dd
+=4
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{8.a
+16a
+8a
+=6
+8a
+8a
+8a
+=7
+8ee
+4dd
+=8
+8cc
+4b}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8cc
+=10
+4b
+8cc
+=11
+8dd
+8dd
+8cc
+=12
+4b
+8cc}
+!!LO:LB:g=esac
+=13
+{8dd
+8dd
+8cc
+=14
+4b
+8cc
+=15
+8dd
+8dd
+8cc
+=16
+4b
+8cc}
+!!LO:LB:g=esac
+=17
+{4a
+8a
+=18
+4b
+8b
+=19
+8a
+8a
+8a
+=20
+4b
+8b}
+!!LO:LB:g=esac
+=21
+{8a
+8a
+8g
+=22
+4b
+8dd
+=23
+8dd
+8cc
+8cc
+=24
+4b
+8b}
+==
+*-
+!!!ONB: Wariant t. 3: 5__65
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 35
+!!!ONB: Converted on 2024/12/26 with esac2hum

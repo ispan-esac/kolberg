@@ -1,0 +1,112 @@
+!!!!SEGMENT: DWOK2245100000-dopiero_my_rutka_kwitnie.krn
+!!!OTL: Dopiero my rutka kwitnie
+!!!source: DWOK22
+!!!id: 22451
+!!!signature: 2245100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4.f
+8g
+8b-
+8a
+=2
+8cc
+8ee
+4dd
+8b-
+8g
+=3
+4.f
+8g
+8b-
+8a
+=4
+8f
+8e
+4c
+4cc}
+!!LO:LB:g=esac
+=5
+{4.a
+8g
+4b-
+=
+12b-
+12a
+12cc
+4ff
+12dd
+12b-
+12g
+=6
+4.a
+8g
+8b-
+8a
+=
+12a
+12f
+12e
+4c
+4c}
+!!LO:LB:g=esac
+=7
+{8a
+8g
+8b-
+8a
+8cc
+8ee
+=8
+8dd
+8cc
+4g
+4f
+=9
+8a
+8g
+8b-
+8a
+8f
+8e
+=10
+8c
+8c
+4c
+4cc}
+!!LO:LB:g=esac
+=11
+{8a
+8g
+8b-
+8a
+8cc
+8ee
+=12
+8dd
+8cc
+4g
+4f
+=13
+8a
+8g
+8b-
+8a
+8f
+8e
+=14
+8c
+8c
+4e
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 220} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 220}
+!!!page: 220
+!!!ONB: Converted on 2024/12/26 with esac2hum

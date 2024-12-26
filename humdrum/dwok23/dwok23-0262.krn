@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2326200000-omni_die_die_mariae.krn
+!!!OTL: Omni die die Mariae
+!!!source: DWOK23
+!!!id: 23262
+!!!signature: 2326200000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{2cc
+4.b
+8a
+=2
+2a
+2g
+=3
+2a
+4.g
+8f
+=4
+2f
+2e}
+!!LO:LB:g=esac
+=5
+{2g
+2g
+=6
+2a
+2ff
+=7
+2ee
+4.dd
+8b
+=8
+2cc}
+2r
+!!LO:LB:g=esac
+=9
+{2ee
+2cc
+=10
+4cc
+4dd
+2ee
+=11
+2dd
+2cc
+=12
+4b
+4cc
+2dd}
+!!LO:LB:g=esac
+=13
+{2cc
+2b
+=14
+2a
+2dd
+=15
+2cc
+4.b
+8a
+=16
+2g}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 251} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

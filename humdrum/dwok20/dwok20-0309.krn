@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK2030900000-posla_marysia_do_ogroda.krn
+!!!OTL: Posła Marysia do ogroda
+!!!source: DWOK20
+!!!id: 20309
+!!!signature: 2030900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4a
+8a
+8b
+4cc
+=2
+4a
+4.g
+8a
+=3
+4g
+4e}
+4r
+!!LO:LB:g=esac
+=4
+{8d
+8e
+4g
+4e
+=5
+4g
+2a
+=6
+4g
+8f
+8e}
+4r
+!!LO:LB:g=esac
+=7
+{8d
+8e
+8g
+8f
+4e
+=8
+4g
+2a
+=9
+4a
+4.g
+8e}
+!!LO:LB:g=esac
+=10
+{4a
+8a
+8b
+8cc
+8b
+=11
+4a
+4.g
+8a
+=12
+4g
+8f
+8e}
+4r
+!!LO:LB:g=esac
+=13
+{8d
+8e
+4g
+4e
+=14
+4g
+2a
+=15
+4g
+8f
+8e}
+4r
+!!LO:LB:g=esac
+=16
+{8d
+8e
+8g
+8f
+4e
+=17
+4g
+2a
+=18
+4a
+4.g
+8e}
+==
+*-
+!!!ONB: U Kolberga wpisane jest metrum 4/4 poprawiono na 3/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 223} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 223}
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

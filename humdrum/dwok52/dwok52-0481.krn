@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5248100000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK52
+!!!id: 52481
+!!!signature: 5248100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4ee
+4ff
+4dd
+=2
+4gg
+4ee
+4dd
+=3
+8ee
+8dd
+2cc}
+!!LO:LB:g=esac
+=4
+{4ee
+4ff
+4dd
+=5
+4ee
+4cc
+4g
+=6
+2.cc}
+!!LO:LB:g=esac
+=7
+{8dd
+8ee
+8ff
+8ee
+8dd
+8cc
+=8
+8dd
+8ee
+4ff
+4dd
+=9
+4ee
+4cc
+4g
+=10
+2.cc}
+==
+*-
+!!!ONB: Do czepin
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=364 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 303} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 303}
+!!!page: 303
+!!!ONB: Converted on 2024/12/26 with esac2hum

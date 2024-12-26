@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK3919800000-karczmarska_jewka_rabala_drewka_kamieniem.krn
+!!!OTL: Karczmarska Jewka rąbała drewka kamieniem
+!!!source: DWOK39
+!!!id: 39198
+!!!signature: 3919800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8g
+8b
+8cc
+4dd
+8b
+=2
+8g
+8b
+8cc
+4dd
+8b
+=3
+4gg
+8b
+4.dd}
+!!LO:LB:g=esac
+=4
+{8g
+8b
+8cc
+4dd
+8b
+=5
+8g
+8b
+8cc
+4dd
+8b
+=6
+4gg
+8b
+4.dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=274 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 222} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 222}
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

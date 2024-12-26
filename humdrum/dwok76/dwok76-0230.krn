@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7623000000-oj_dolina_dolina_przy_dolinie_hangryst.krn
+!!!OTL: Oj, dolina, dolina przy dolinie hangryst
+!!!source: DWOK76
+!!!id: 76230
+!!!signature: 7623000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ee
+8dd
+4cc
+4cc
+=2
+4cc
+4cc
+4ee
+=3
+8dd
+8b
+2g
+=4
+8b
+8cc
+4dd
+4gg}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+4cc
+8cc
+8b
+=6
+8cc
+8b
+4cc
+4ee
+=7
+8dd
+8b
+2b
+=8
+8b
+8cc
+4cc
+4cc}
+==
+*-
+!!!ONB: Zakodowane górne nuty
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 117} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 117}
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

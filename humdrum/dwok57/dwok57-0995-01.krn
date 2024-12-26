@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5799500001-tam_popid_haj_zelenenki_popid_lystenenki.krn
+!!!OTL: Tam popid haj zełeneńki, popid łysteneńki
+!!!source: DWOK57
+!!!id: 57995
+!!!signature: 5799500001
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8g
+8a
+8b
+8cc
+=2
+8dd
+8ee
+8dd
+8b
+=3
+8cc
+8dd
+8ee
+8cc
+=4
+*M3/4
+8ee
+8dd
+2dd}
+!!LO:LB:g=esac
+=5
+{4.gg
+8aa
+8dd
+8dd
+=6
+*M2/4
+8ee
+8ee
+8dd
+8cc
+=7
+8b
+8b
+4a
+=8
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

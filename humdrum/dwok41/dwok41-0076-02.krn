@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4107600002-zaszlo_slonce_zaszlo_za_wysokie_deby.krn
+!!!OTL: Zaszło słońce, zaszło za wysokie dęby
+!!!source: DWOK41
+!!!id: 41076
+!!!signature: 4107600002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16cc
+8ff
+8ff
+=2
+4cc
+16a
+16f
+=3
+16cc
+16cc
+8b-
+16g
+16e
+=4
+4f
+16a
+16f}
+!!LO:LB:g=esac
+=5
+{16e
+16g
+8b-
+8b-
+=6
+4a
+8cc
+=7
+16cc
+16dd
+8b-
+16g
+16e
+=8
+4f
+16a
+16f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 64} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 64}
+!!!page: 64
+!!!ONB: Converted on 2024/12/26 with esac2hum

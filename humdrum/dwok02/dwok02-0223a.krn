@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK02-K0223a-biezy_wiewioreczka.krn
+!!!OTL: Biezy wiewioreczka
+!!!source: DWOK02
+!!!id: K0223a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8a
+8.cc
+16ee
+=2
+8dd
+4b
+8dd
+=3
+8dd
+16ee
+16dd
+8cc
+8a
+=4
+8cc
+4b
+8dd}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8.cc
+16ee
+=6
+8dd
+4b
+16dd
+16b
+=7
+8dd
+16ee
+16dd
+8cc
+8a
+=8
+8cc
+4b
+8dd}
+!!LO:LB:g=esac
+=9
+{8.gg
+16ff#
+16aa
+16gg
+16ff#
+16ee
+=10
+8dd
+4gg
+8b
+=11
+8.dd
+32ee
+32dd
+8cc
+8f#
+=12
+8a
+[4g}
+8g]
+!!LO:LB:g=esac
+=13
+{8.gg
+16ff#
+16aa
+16gg
+16ff#
+16ee
+=14
+8dd
+4gg
+8b
+=15
+8.dd
+32ee
+32dd
+8cc
+8f#
+=16
+8a
+[4g}
+8g]
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 191} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 191}
+!!!page: 191
+!!!ONB: Converted on 2024/12/26 with esac2hum

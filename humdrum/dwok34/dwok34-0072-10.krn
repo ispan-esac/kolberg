@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK3407200010-haleluja_boze.krn
+!!!OTL: Hałełuja Boże
+!!!source: DWOK34
+!!!id: 34072
+!!!signature: 3407200010
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=1
+{8.a
+16a
+8g
+8a
+4e
+4d
+=2
+8.cc
+16cc
+8dd
+8b
+4a
+4b}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+8b
+8a
+8g
+8b
+8a
+8g
+=4
+8.a
+16a
+8g
+8a
+4e
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 44} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 44}
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

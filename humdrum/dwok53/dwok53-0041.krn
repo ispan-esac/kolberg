@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK5304100000-taj_karetoj_ursuloj.krn
+!!!OTL: Taj karetoj Ursuloj
+!!!source: DWOK53
+!!!id: 53041
+!!!signature: 5304100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4cc
+4cc
+=2
+4.dd
+8cc
+4ee}
+!!LO:LB:g=esac
+=3
+{8ff
+8ee
+4ff
+8ee
+8dd
+=4
+4.cc
+8dd
+4ff}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+4ff
+8ee
+8dd
+=6
+4.cc
+8dd
+4ff}
+!!LO:LB:g=esac
+=7
+{8dd
+8ff
+4ff
+8ee
+8dd
+=8
+4.cc
+8dd
+4g}
+!!LO:LB:g=esac
+=9
+{4g
+4cc
+4cc
+=10
+4.dd
+8cc
+4ee}
+!!LO:LB:g=esac
+=11
+{8ff
+8ee
+4ff
+8ee
+8dd
+=12
+4.cc
+8dd
+4ff}
+!!LO:LB:g=esac
+=13
+{8ff
+8ee
+4ff
+8ee
+8dd
+=14
+4.cc
+8dd
+4ff}
+!!LO:LB:g=esac
+=15
+{8dd
+8ff
+4ff
+8ee
+8dd
+=16
+4.cc
+8dd
+4g}
+==
+*-
+!!!ONB: Weselna Jadąc do ślubu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 203} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 203}
+!!!page: 203
+!!!ONB: Converted on 2024/12/26 with esac2hum

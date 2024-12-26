@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2822900000-z_poniedzialku_na_swieto.krn
+!!!OTL: Z poniedziałku na święto
+!!!source: DWOK28
+!!!id: 28229
+!!!signature: 2822900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16b
+16dd
+8ff
+8ee
+=2
+8cc
+8ff
+8dd
+=3
+16b
+16dd
+8ff
+8ee
+=4
+16cc
+16cc
+8ff
+8dd}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8ff
+8ee
+=6
+16cc
+16cc
+16cc
+16a
+8f
+=7
+16g
+16b
+4dd}
+!!LO:LB:g=esac
+=8
+{16b
+16dd
+16ff
+16ee
+8cc
+=9
+16cc
+16a
+8f
+8f
+=10
+16a
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 245} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 245}
+!!!page: 245
+!!!ONB: Converted on 2024/12/26 with esac2hum

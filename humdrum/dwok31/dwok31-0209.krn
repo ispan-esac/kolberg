@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3120900000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK31
+!!!id: 31209
+!!!signature: 3120900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+8dd
+8dd
+=2
+8cc#
+8cc#
+16cc
+16b
+8b
+=3
+8b
+8b
+8dd
+8dd
+=4
+8cc
+8b
+8a-
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+16cc
+16b
+16a-
+16g
+=6
+8g
+8g
+8g
+8g
+=7
+8b
+8b
+16cc
+16b
+16a-
+16g
+=8
+4g
+4g}
+==
+*-
+!!!ONB: Kołomyjka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 28} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 28}
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,112 @@
+!!!!SEGMENT: DWOK2130400020-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK21
+!!!id: 21304
+!!!signature: 2130400020
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/8
+=1
+{8g
+8b-
+16b-
+16g
+=2
+16g
+32a-
+32b-
+8.cc
+16b-
+=3
+16g
+16a-
+16g
+16f
+8e-
+=4
+16f
+16g
+16a-
+16b-
+8cc}
+!!LO:LB:g=esac
+=5
+{8g
+8b-
+16b-
+16a-
+=6
+16b-
+16dd
+8.cc
+16b-
+=7
+16g
+16a-
+16g
+16f
+8e-
+=8
+16f
+32a-
+32g
+8e-
+8f}
+!!LO:LB:g=esac
+=9
+{8c
+16d
+16e-
+16f
+16e-
+=
+24f
+24g
+24a-
+8.cc
+16b-
+=10
+16g
+16a-
+16g
+16f
+8e-
+=11
+16f
+16g
+16a-
+16b-
+8cc}
+!!LO:LB:g=esac
+=12
+{8c
+8e-
+16f
+16e-
+=13
+16f
+16a-
+8.cc
+16b-
+=14
+16g
+16a-
+16g
+16f
+8e-
+=15
+16f
+32a-
+32g
+8e-
+8f}
+==
+*-
+!!!ONB: Utwór zakodowany w dwóch częśściach: od taktu 9 zaczyna się inna tonacja. U Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 125} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 125}
+!!!page: 125
+!!!ONB: Converted on 2024/12/26 with esac2hum

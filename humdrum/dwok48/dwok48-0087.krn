@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK4808700000-kiedym_jechal_od_swojej_dziewczyny.krn
+!!!OTL: Kiedym jechał od swojej dziewczyny
+!!!source: DWOK48
+!!!id: 48087
+!!!signature: 4808700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4cc
+4a
+=2
+8a
+8cc
+8cc
+8cc
+16b-
+16a
+16g
+16f}
+!!LO:LB:g=esac
+=3
+{8g
+8a
+4b-
+4g
+=4
+8f
+8a
+8cc
+16dd
+16cc
+16b-
+16a
+16g
+16f}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b-
+4dd
+=6
+8cc
+8cc
+2a}
+!!LO:LB:g=esac
+=7
+{8g
+8a
+4b-
+4g
+=8
+8f
+8a
+8cc
+16ff
+16ee
+16dd
+16cc
+16b-
+16a}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+4b-
+4dd
+=10
+8cc
+8cc
+2a}
+==
+*-
+!!!ONB: Wariant t. 1: 1_3_5__3_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 147} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 147}
+!!!page: 147
+!!!ONB: Converted on 2024/12/26 with esac2hum

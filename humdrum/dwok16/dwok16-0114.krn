@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK1611400000-trzeba_jej_dac_na_miseczke.krn
+!!!OTL: Trzeba jej dać na miseczkę
+!!!source: DWOK16
+!!!id: 16114
+!!!signature: 1611400000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{8a
+8a
+8ff
+=2
+4.ee
+=3
+4dd
+8cc
+=4
+8g
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8ff
+=6
+4.ee
+=7
+4dd
+8cc
+=8
+8g
+4a}
+!!LO:LB:g=esac
+=9
+{16a
+16a
+8a
+8g
+=10
+4cc
+8dd
+=11
+8ff
+8dd
+8cc}
+!!LO:LB:g=esac
+=12
+{16a
+16cc
+8a
+8g
+=13
+4cc
+8dd
+=14
+8g
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 165} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 165}
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK06-K0890-sztajer_weselny.krn
+!!!OTL: Sztajer weselny
+!!!source: DWOK06
+!!!id: K0890
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{4cc#
+8dd
+=2
+4ee
+8a
+=3
+4b
+8dd
+=4
+8cc#
+8cc#
+8a}
+!!LO:LB:g=esac
+=5
+{8cc#
+8cc#
+8dd
+=6
+4ee
+8a
+=7
+4b
+8dd
+=8
+8cc#
+8cc#
+8a}
+!!LO:LB:g=esac
+=9
+{4e
+8cc#
+=10
+8a
+8a
+8e
+=11
+4f#
+8g#
+=12
+8a
+8a
+8e}
+!!LO:LB:g=esac
+=13
+{4e
+8cc#
+=14
+8a
+8a
+8e
+=15
+4f#
+8g#
+=16
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=541 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 515} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 515}
+!!!page: 515
+!!!ONB: Converted on 2024/12/26 with esac2hum

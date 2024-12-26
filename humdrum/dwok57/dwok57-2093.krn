@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK57209300000-tiazko_znesty_toji_rozluki.krn
+!!!OTL: Tiażko znesty toji rozłuki
+!!!source: DWOK57
+!!!id: 572093
+!!!signature: 57209300000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M6/8
+=1
+{8g
+8b-
+8dd
+8.dd
+16cc
+8b-
+=2
+8cc#
+8cc#
+8cc#
+8.dd
+16cc#
+16b-
+16a
+=3
+8b-
+8b-
+16b-
+16a
+4a
+8ee-
+=4
+8dd
+8.dd
+16f#
+4g
+8g}
+!!LO:LB:g=esac
+=5
+{8ff
+8ff
+8ff
+8ff
+8ff
+8ff
+=6
+8gg
+8.gg
+16ff
+4ee-
+8dd
+=7
+8cc
+8cc
+8cc
+8cc
+8cc
+8cc
+=8
+8ff
+8.ff
+16ee-
+8.dd
+16cc
+16b-
+16a}
+!!LO:LB:g=esac
+=
+{8.dd
+16cc
+24b-
+24a
+24g
+8.dd
+16cc
+24b-
+24a
+24g
+=9
+8cc#
+8cc#
+8cc#
+8.dd
+16cc
+16b-
+16a
+=10
+8b-
+8b-
+16b-
+16a
+4a
+16ee-
+16dd
+=11
+8dd
+8.dd
+16f#
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1151
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK57197500000-pojichala_baba_w_lis.krn
+!!!OTL: Pojichała baba w lis
+!!!source: DWOK57
+!!!id: 571975
+!!!signature: 57197500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8b
+8a
+=2
+8a
+8g
+4cc
+=3
+8b
+8b
+4dd
+=4
+8cc
+8cc
+4ee}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8b
+8a
+=6
+8g
+8g
+4cc
+=7
+8b
+8b
+4dd
+=8
+8cc
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1012
+!!!ONB: Converted on 2024/12/26 with esac2hum

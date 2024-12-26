@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK7705800000-jechalem_z_warsawy.krn
+!!!OTL: Jechałem z Warsawy
+!!!source: DWOK77
+!!!id: 77058
+!!!signature: 7705800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4b
+8b
+8dd
+=2
+4cc
+8cc
+8ee
+4dd
+=3
+4cc
+8cc
+8ee
+4dd
+=4
+8b
+8cc
+8a
+8f
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4b
+8g
+8b}
+==
+*-
+!!!ONB: Melodia niedokończona
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

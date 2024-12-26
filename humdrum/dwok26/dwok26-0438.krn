@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK2643800000-owczarek-instrumentalna.krn
+!!!OTL: Owczarek-Instrumentalna
+!!!source: DWOK26
+!!!id: 26438
+!!!signature: 2643800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+16b
+16cc
+8dd
+=2
+16ff
+16ee
+16dd
+16cc#
+8a
+=3
+16ff
+16ee
+16dd
+16cc#
+8a}
+!!LO:LB:g=esac
+=4
+{16ff
+16ee
+16dd
+16cc#
+16dd
+16ee
+=5
+16ff
+16ee
+16dd
+16cc#
+8a
+=6
+16ff
+16ee
+16dd
+16cc#
+16dd
+16ee
+=7
+4.dd}
+!!LO:LB:g=esac
+=8
+{16g
+16a
+16b-
+16cc
+8dd
+=9
+16b-
+16a
+16g
+16f#
+8d
+=10
+16g
+16a
+16b-
+16cc
+8dd
+=11
+16b-
+16a
+16g
+16f#
+8d}
+!!LO:LB:g=esac
+=12
+{16g
+16a
+8b-
+16a
+16f#
+=13
+16g
+16b-
+8a
+16g
+16f#
+=14
+8g
+8g
+8g
+=15
+16g
+16b-
+8a
+16g
+16f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 301
+!!!ONB: Converted on 2024/12/26 with esac2hum

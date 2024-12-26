@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK02-K0166b-krakowiak_idz_glosie_po_rosie.krn
+!!!OTL: Krakowiak Idz glosie po rosie
+!!!source: DWOK02
+!!!id: K0166b
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8a
+4cc
+8cc
+=2
+8g
+16a
+16b
+4cc
+=3
+8b
+8dd
+8.ff
+16dd
+=4
+8ee
+4.cc}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8.ff
+16dd
+=6
+8ee
+4cc
+8cc
+=7
+8b
+4dd
+8dd
+=8
+8ee
+4.cc}
+==
+*-
+!!!ONB: Skrzypce bez spiewu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 137} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 137}
+!!!page: 137
+!!!ONB: Converted on 2024/12/26 with esac2hum

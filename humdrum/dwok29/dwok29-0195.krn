@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2919500000-pid_wiknom_czereszenka.krn
+!!!OTL: Pid wiknom czereszeńka
+!!!source: DWOK29
+!!!id: 29195
+!!!signature: 2919500000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=
+{24e
+24g#
+24a
+8b
+8b
+=
+24b
+24dd
+24ee
+8dd
+16b
+16a
+=1
+4b
+8b}
+!!LO:LB:g=esac
+=
+{24e
+24g#
+24a
+8b
+8b
+=2
+16dd
+16ee
+4dd
+=3
+8b
+4a}
+!!LO:LB:g=esac
+=
+{24b
+24ee
+24ff#
+8ee
+16dd
+16b
+=4
+8ee
+16dd
+16b
+16dd
+16g#
+=5
+4a
+8a}
+==
+*-
+!!!ONB: Gdy młodą ubierają
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=309 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 277} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 277}
+!!!page: 277
+!!!ONB: Converted on 2024/12/26 with esac2hum

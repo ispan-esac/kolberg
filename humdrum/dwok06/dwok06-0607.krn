@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK06-K0607-a_za_nami_zawsze_nedza.krn
+!!!OTL: A za nami zawsze nedza
+!!!source: DWOK06
+!!!id: K0607
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8f#
+8g
+8a
+=2
+8g
+8f#
+8g
+8d
+=3
+8g
+8f#
+8g
+8a
+=4
+8g
+8f#
+8g
+8a}
+!!LO:LB:g=esac
+=5
+{4b
+8b
+8a
+=6
+8g
+8f#
+4e
+=7
+8a
+8a
+8a
+8g
+=8
+8f#
+8e
+4d}
+!!LO:LB:g=esac
+=9
+{4b
+8b
+8a
+=10
+8g
+8f#
+4e
+=11
+8a
+8a
+8a
+8g
+=12
+8f#
+8e
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=383 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 357} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 357}
+!!!page: 357
+!!!ONB: Converted on 2024/12/26 with esac2hum

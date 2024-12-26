@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK2303100000-wszystka_moja_nadzieja.krn
+!!!OTL: Wszystka moja nadzieja
+!!!source: DWOK23
+!!!id: 23031
+!!!signature: 2303100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4d
+4g
+8b
+8f#
+8g
+8e
+=2
+4.a
+8f#
+4d
+8r
+8d
+=3
+2e
+4d
+4f#
+=4
+4.g
+8a
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{4d
+8.g
+16a
+16b
+16a
+8f#
+16g
+16f#
+8e
+=6
+4.a
+8f#
+4d
+8r
+8d
+=7
+2e
+4d
+4f#
+=8
+4.g
+8d
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{4.a
+8b
+4cc
+8b
+8g
+=10
+4.b
+8f#
+4g
+4d
+=11
+4.a
+8b
+8cc
+8b
+16b
+16a
+8g
+=12
+[4b
+16b]
+16a
+8f#
+8.g
+16e
+4d}
+!!LO:LB:g=esac
+=13
+{2e
+4d
+4f#
+=14
+4.g
+8d
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 77} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 77}
+!!!page: 77
+!!!ONB: Converted on 2024/12/26 with esac2hum

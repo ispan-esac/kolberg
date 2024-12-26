@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK04-K0252a-a_na_kotki_dwa.krn
+!!!OTL: A na kotki dwa
+!!!source: DWOK04
+!!!id: K0252a
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4cc
+4dd
+=2
+8cc
+16ee
+16gg
+4ff
+=3
+8cc
+8cc
+8dd
+8dd
+=4
+8cc
+8b-
+4a}
+!!LO:LB:g=esac
+=5
+{4cc
+4g
+=6
+8b-
+8b-
+4a
+=7
+8cc
+8cc
+16g
+16b-
+8dd
+=8
+8a
+8g
+4f}
+!!LO:LB:g=esac
+=9
+{4f
+4g
+=10
+8f
+8e
+4f
+=11
+8g
+8a
+8b-
+8a
+=12
+16g
+16a
+8g
+4f}
+!!LO:LB:g=esac
+=13
+{4f
+4g
+=14
+8f
+8e
+4f
+=15
+8g
+8a
+8b-
+8a
+=16
+16g
+16a
+8g
+4f}
+==
+*-
+!!!ONB: Wariant alternatywny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 126} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 126}
+!!!page: 126
+!!!ONB: Converted on 2024/12/26 with esac2hum

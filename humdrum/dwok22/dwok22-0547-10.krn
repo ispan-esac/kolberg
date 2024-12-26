@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK2254700010-niedaleko_koscielna_wies_badkowa.krn
+!!!OTL: Niedaleko Kościelna Wieś Bądkowa
+!!!source: DWOK22
+!!!id: 22547
+!!!signature: 2254700010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4f
+4f
+4f
+=2
+8g
+8b-
+4dd
+4dd
+=3
+8cc
+8dd
+8cc
+8dd
+8cc
+8b-
+=4
+4g
+4b-
+4cc}
+!!LO:LB:g=esac
+=5
+{8g
+8b-
+4dd
+4dd
+=6
+8cc
+8dd
+8cc
+8dd
+16b-
+16a
+8f
+=7
+4g
+4e
+4f}
+!!LO:LB:g=esac
+=8
+{8c
+8e
+8f
+8g
+8f
+8g
+=9
+8a
+8b-
+8a
+8b-
+16cc
+16a
+8f
+=10
+4g
+4b-
+4cc}
+!!LO:LB:g=esac
+=11
+{8c
+8e
+8f
+8g
+8f
+8g
+=12
+8a
+8b-
+8a
+8b-
+8a
+8f
+=13
+8g
+8a
+8g
+8e
+4f}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 247} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 247}
+!!!page: 247
+!!!ONB: Converted on 2024/12/26 with esac2hum

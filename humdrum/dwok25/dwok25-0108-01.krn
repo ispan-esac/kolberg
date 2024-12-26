@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2510800001-kukulecka_kuka_jasio_listy_pise.krn
+!!!OTL: Kukułecka kuka, Jasio listy pise
+!!!source: DWOK25
+!!!id: 25108
+!!!signature: 2510800001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8g
+8a
+8b-
+=2
+4cc
+4ff
+=3
+8ee
+8ff
+4gg
+=4
+8ff
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+4ff
+=6
+8dd
+8cc
+4a
+=7
+8cc
+8cc
+4dd
+=8
+8b-
+8g
+4f}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc
+8ff
+8ee
+=10
+8dd
+8cc
+4a
+=11
+8cc
+8cc
+4dd
+=12
+8b-
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 44} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 44}
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

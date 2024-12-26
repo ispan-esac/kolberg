@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK2516600000-ojze_powiedzialas_mala.krn
+!!!OTL: Ojze powiedziałaś mała
+!!!source: DWOK25
+!!!id: 25166
+!!!signature: 2516600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8cc
+8ee
+=2
+16ee
+16dd
+8b
+8dd
+=3
+16dd
+16ee
+8cc
+8a
+=4
+16d
+16f#
+8g
+8f#}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8cc
+8a
+=6
+16d
+16f#
+8g
+8b
+=7
+16b
+16a
+8cc
+8a
+=8
+16d
+16f#
+8g
+8f#}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+8cc
+8ee
+=10
+16ee
+16dd
+8ee
+16cc
+16b
+=11
+16dd
+16ee
+8cc
+16a
+16f#
+=
+24d
+24e
+24f#
+8g
+8f#}
+!!LO:LB:g=esac
+=12
+{16g
+16a
+8cc
+16a
+16f#
+=
+24d
+24e
+24f#
+8g
+8b
+=13
+16b
+16dd
+8cc
+16a
+16f#
+=
+24d
+24e
+24f#
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 70} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

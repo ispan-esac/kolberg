@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK5010900000-diwcze_diwcze_siwe_oczka.krn
+!!!OTL: Diwcze, diwcze, siwe oczka
+!!!source: DWOK50
+!!!id: 50109
+!!!signature: 5010900000
+**kern
+*clefG2
+*k[]
+*a:
+*MX
+=1
+{8b
+8b
+8ee
+8dd
+8cc
+8b
+8ee
+8dd}
+!!LO:LB:g=esac
+=2
+{4dd
+8dd
+8ee
+8a
+8cc
+8a
+=3
+4b
+8g
+8f#
+8e}
+4r
+!!LO:LB:g=esac
+=4
+{4a
+8dd
+8cc
+4b
+=5
+4a
+4e
+8a
+8g}
+4r
+!!LO:LB:g=esac
+=6
+{4cc
+8b
+8a
+8g#
+4a
+=7
+4e
+4e}
+!!LO:LB:g=esac
+=8
+{4a
+8dd
+8cc
+4b
+=9
+4a
+4e
+8a
+8g}
+4r
+!!LO:LB:g=esac
+=10
+{4cc
+8b
+8a
+8g#
+4a
+=11
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 45} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 45}
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

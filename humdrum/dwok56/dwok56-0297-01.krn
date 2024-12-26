@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK5629700001-bilawa_muku_siejala.krn
+!!!OTL: Bilawa muku siejała
+!!!source: DWOK56
+!!!id: 56297
+!!!signature: 5629700001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8dd
+8ff
+=2
+16ee
+16ee
+4dd
+=3
+4cc
+8dd
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{16dd
+16ee
+8ff
+8gg
+=6
+16ee
+16ee
+8dd
+8cc
+=7
+8dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=8
+{8dd
+8ee
+16dd
+16b
+=9
+8cc
+4cc
+=10
+8dd
+4ff}
+!!LO:LB:g=esac
+=11
+{16dd
+16cc
+8ee
+16dd
+16b
+=12
+8cc
+4cc
+=13
+8ee
+4ff}
+!!LO:LB:g=esac
+=14
+{16dd
+16cc
+8ee
+16dd
+16b
+=15
+8cc
+4cc
+=16
+8ee
+4ff}
+!!LO:LB:g=esac
+=17
+{8ee
+8ee
+8dd
+=18
+8dd
+4cc
+=19
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=379 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 275} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 275}
+!!!page: 275
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK35A-35A18700000-hadajte_bojary_hadajte.krn
+!!!OTL: Hadajte bojary hadajte
+!!!source: DWOK35A
+!!!id: 35A187
+!!!signature: 35A18700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8e
+8a
+8b
+=2
+8cc
+4a
+=3
+4b
+8a
+=4
+8dd
+4dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8cc
+=6
+8cc
+4a
+=7
+4b
+8a
+=8
+8cc
+4b
+=9
+4a}
+8r
+!!LO:LB:g=esac
+=10
+{8e
+8a
+8b
+=11
+8cc
+8a
+8a
+=12
+4b
+8a
+=13
+8dd
+4dd}
+!!LO:LB:g=esac
+=
+{24dd
+24cc
+24b
+8cc
+16cc
+16b
+=14
+8cc
+4a
+=15
+4b
+8a
+=16
+8cc
+8.b
+16g#
+=17
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 101} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 101}
+!!!page: 101
+!!!ONB: Converted on 2024/12/26 with esac2hum

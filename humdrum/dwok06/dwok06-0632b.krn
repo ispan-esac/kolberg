@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK06-K0632b-krakowiak_kuligowy_-_melodia_instrumentalna.krn
+!!!OTL: Krakowiak kuligowy - melodia instrumentalna
+!!!source: DWOK06
+!!!id: K0632b
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+4gg
+=2
+8ff#
+4a
+8a
+=3
+8a
+8cc
+4ee
+=4
+8dd
+4g
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8ee
+8dd
+=6
+8cc
+4f#
+8f#
+=7
+8d
+8d
+8e
+8f#
+=8
+8g
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8cc
+8d
+8e
+8f#
+=10
+8a
+8g
+4g
+=11
+8f#
+8a
+4cc
+=12
+8b
+4gg
+8b}
+!!LO:LB:g=esac
+=13
+{8cc
+16ee
+16dd
+8cc
+8f#
+=14
+8g
+4b
+16a
+16g
+=15
+8f#
+8d
+16c#
+16d
+16e
+16f#
+=16
+8a
+8g
+4g}
+==
+*-
+!!!ONB: Fragment melodii w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=418 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 392} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 392}
+!!!page: 392
+!!!ONB: Converted on 2024/12/26 with esac2hum

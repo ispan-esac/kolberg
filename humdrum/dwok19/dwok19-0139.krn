@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK1913900000-instrumentalna-polka.krn
+!!!OTL: Instrumentalna-Polka
+!!!source: DWOK19
+!!!id: 19139
+!!!signature: 1913900000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8dd
+8cc#
+8dd
+8b
+=2
+8a
+8f#
+8f#
+8f#
+=3
+8g
+8e
+8e
+8e
+=4
+8d
+8f#
+8a
+8cc#}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff#
+8dd
+8b
+=6
+8a
+8f#
+8d
+8f#
+=7
+8g
+8e
+8e
+8e
+=8
+4d
+4d}
+!!LO:LB:g=esac
+=9
+{8f#
+8f#
+8f#
+8d
+=10
+4.f#
+8dd
+=11
+8cc#
+8cc#
+8cc#
+8ee
+=12
+8dd
+8dd
+8dd
+8ff#}
+!!LO:LB:g=esac
+=13
+{8dd
+8a
+8f#
+8d
+=14
+4.f#
+8dd
+=15
+8cc#
+8cc#
+8cc#
+8ee
+=16
+4dd
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 47} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

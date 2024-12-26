@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK04-K0220-a_w_niedziele_z_poranna.krn
+!!!OTL: A w niedziele z poranna
+!!!source: DWOK04
+!!!id: K0220
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8g
+8b
+4.dd
+8b
+=2
+4dd
+4dd
+4cc
+=3
+8a
+8b
+4cc
+4a}
+!!LO:LB:g=esac
+=4
+{4cc
+4cc
+4a
+=5
+4b
+4b
+[4a}
+=6
+2a]
+4r
+!!LO:LB:g=esac
+=7
+{8g
+8b
+4.dd
+8b
+=8
+4dd
+4dd
+8dd
+8cc
+=9
+16b
+16a
+8b
+4cc
+4a}
+!!LO:LB:g=esac
+=10
+{4cc
+4cc
+4a
+=11
+4b
+4b
+[4a}
+=12
+2a]
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 112} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 112}
+!!!page: 112
+!!!ONB: Converted on 2024/12/26 with esac2hum

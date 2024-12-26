@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK57188100000-skazy_myni_ty_mij_synu.krn
+!!!OTL: Skaży myni, ty mij synu
+!!!source: DWOK57
+!!!id: 571881
+!!!signature: 57188100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8cc
+8ee
+8ee
+4ee
+8cc
+=2
+4b
+8dd
+4dd
+8g
+=3
+4a
+8a
+4cc
+8f#
+=4
+4g
+8b
+4dd
+8dd}
+!!LO:LB:g=esac
+=5
+{4dd
+8gg
+4gg
+8b
+=6
+4cc
+8ee
+4ee
+8ee
+=7
+4a
+8ee
+4dd
+8f#
+=8
+8f#
+8e
+8f#
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 945
+!!!ONB: Converted on 2024/12/26 with esac2hum

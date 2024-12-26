@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2000600000-nie_nalezy_tobie_jezu_lezyc_w_grobie.krn
+!!!OTL: Nie należy tobie Jezu leżyć w grobie
+!!!source: DWOK20
+!!!id: 20006
+!!!signature: 2000600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8.a
+16b
+4cc
+4dd
+=2
+2b
+4a}
+!!LO:LB:g=esac
+=3
+{8.a
+16b
+8cc
+8b
+8dd
+8cc
+=4
+2b
+4a}
+!!LO:LB:g=esac
+=5
+{8.ee
+16ee
+4ee
+4ff
+=6
+8.dd
+16b
+4dd
+4ee
+=7
+8cc
+8b
+4a
+4ee
+=8
+2b
+4a}
+!!LO:LB:g=esac
+=9
+{8.ee
+16ee
+4ee
+4ff
+=10
+8.dd
+16dd
+4dd
+4ee
+=11
+8cc
+8b
+4a
+4ee
+=12
+2b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=99 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 79} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 79}
+!!!page: 79
+!!!ONB: Converted on 2024/12/26 with esac2hum

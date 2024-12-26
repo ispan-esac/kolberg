@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK06-K0543-kiedy_okropna_cichosc_panuje.krn
+!!!OTL: Kiedy okropna cichosc panuje
+!!!source: DWOK06
+!!!id: K0543
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{4e
+8b
+8b
+=2
+4.b
+8a
+=3
+8g
+8f#
+16a
+16g
+16f#
+16e
+=4
+4e
+8d}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+8dd
+=6
+4.dd
+8b
+=7
+4a
+4a
+=8
+2b}
+!!LO:LB:g=esac
+=9
+{4e
+8b
+8b
+=10
+4.b
+8a
+=11
+8g
+8f#
+16a
+16g
+16f#
+16e
+=12
+4e
+8d}
+8r
+!!LO:LB:g=esac
+=13
+{8cc
+8a
+8a
+8a
+=14
+8b
+8g
+8f#
+8e
+=15
+4.b
+8d#
+=16
+4e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=334 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 308} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 308}
+!!!page: 308
+!!!ONB: Converted on 2024/12/26 with esac2hum

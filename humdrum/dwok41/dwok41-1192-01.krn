@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK41119200001-w_zielonym_gajku.krn
+!!!OTL: W zielonym gajku
+!!!source: DWOK41
+!!!id: 411192
+!!!signature: 41119200001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4cc
+8cc
+8cc
+4cc
+4cc
+=2
+8b-
+8dd
+8ff
+8dd
+4cc
+4cc}
+!!LO:LB:g=esac
+=3
+{4b-
+8dd
+8b-
+4a
+8f
+8a
+=4
+8cc
+8b-
+8g
+8e
+4f
+4f}
+!!LO:LB:g=esac
+=5
+{4.g
+8b-
+4a
+4f
+=6
+8ff
+8ee
+8ff
+8dd
+8dd
+8cc
+4cc}
+!!LO:LB:g=esac
+=7
+{4b-
+8dd
+8b-
+4a
+8f
+8a
+=8
+8cc
+8b-
+8g
+8e
+4f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=608 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 521} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 521}
+!!!page: 521
+!!!ONB: Converted on 2024/12/26 with esac2hum

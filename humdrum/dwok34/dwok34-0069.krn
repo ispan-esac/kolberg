@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK3406900000-pyjmo_kumunciu_dobra_horylka.krn
+!!!OTL: Pyjmo kumuńciu dobra horyłka
+!!!source: DWOK34
+!!!id: 34069
+!!!signature: 3406900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8cc
+8dd
+=2
+4ee
+8ff
+=3
+8ee
+8dd
+8ee
+=4
+4a
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8dd
+=6
+4cc
+8dd
+=7
+8cc
+8b
+8b
+=8
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 42} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 42}
+!!!page: 42
+!!!ONB: Converted on 2024/12/26 with esac2hum

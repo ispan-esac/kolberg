@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK5055300000-boze_wieczny_boze_wieczny.krn
+!!!OTL: Boże wieczny, Boże wieczny
+!!!source: DWOK50
+!!!id: 50553
+!!!signature: 5055300000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+{8a
+8b
+4cc
+2b
+=2
+*M4/4
+8a
+8b
+4cc
+2b
+=3
+*M3/4
+8cc
+8dd
+4.ee
+8dd
+=
+!!UNCATEGORIZED MEASURE
+12dd
+12cc
+12b
+2a}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8a
+8b
+4cc
+2b
+=4
+*M4/4
+8a
+8b
+4cc
+2b
+=5
+*M3/4
+8cc
+8dd
+4.ee
+8dd
+=6
+12dd
+12cc
+12b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=353 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 324} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 324}
+!!!page: 324
+!!!ONB: Converted on 2024/12/26 with esac2hum

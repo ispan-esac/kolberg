@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2718000000-jedzie_jedzie_nadobny_jasieniek.krn
+!!!OTL: Jedzie jedzie nadobny Jasieniek
+!!!source: DWOK27
+!!!id: 27180
+!!!signature: 2718000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4g
+4a
+4g
+=2
+8g
+8g
+8g
+8a
+4b
+4g
+=3
+4cc
+4cc
+4g
+4b
+=4
+1cc}
+!!LO:LB:g=esac
+=5
+{4.cc
+8g
+4.ee
+8cc
+=6
+8dd
+8cc
+8b
+8a
+4a
+4dd
+=7
+4cc
+4g
+4a
+4f#
+=8
+2.g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 246} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 246}
+!!!page: 246
+!!!ONB: Converted on 2024/12/26 with esac2hum

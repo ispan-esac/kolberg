@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK2638800000-na_podolu_w_cystem_polu.krn
+!!!OTL: Na Podolu w cystem polu
+!!!source: DWOK26
+!!!id: 26388
+!!!signature: 2638800000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=1
+{8a
+8ff
+8ee
+8cc#
+=2
+8dd
+8ff
+4cc#
+=3
+8cc#
+8a
+4g}
+!!LO:LB:g=esac
+=4
+{8g
+8a
+8cc#
+8a
+=5
+8dd
+8cc#
+8a
+8g
+=6
+8a
+8ff
+8ee
+8cc#
+=7
+8dd
+8ee
+8cc#
+8a}
+!!LO:LB:g=esac
+=8
+{8a
+8ff
+8ee
+8cc#
+=9
+16dd
+16ee
+8ff
+8cc#
+8a
+=10
+8cc#
+8a
+4g}
+!!LO:LB:g=esac
+=11
+{8g
+8a
+8cc#
+8a
+=12
+8dd
+8cc#
+8a
+8g
+=13
+8a
+8ff
+8ee
+8cc#
+=14
+8dd
+8ee
+8cc#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 276
+!!!ONB: Converted on 2024/12/26 with esac2hum

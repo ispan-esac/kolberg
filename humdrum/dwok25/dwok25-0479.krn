@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2547900000-da_ja_chlopiec_ksiezy.krn
+!!!OTL: Da ja chłopiec księzy
+!!!source: DWOK25
+!!!id: 25479
+!!!signature: 2547900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16b
+16cc
+8ee
+8gg
+=2
+8ff
+4gg
+=3
+8ee
+8.ff
+16dd
+=4
+16a
+16cc
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+8ee
+8cc
+=6
+8dd
+4ff
+=7
+8dd
+8.dd
+16b
+=8
+16a
+16cc
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 195} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 195}
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

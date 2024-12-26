@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK5625500001-oj_ja_moloda_wziela_mich_pszona.krn
+!!!OTL: Oj, ja mołoda, wzieła mich pszona
+!!!source: DWOK56
+!!!id: 56255
+!!!signature: 5625500001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8b
+8a
+=2
+2g
+=3
+8cc
+8ee
+8dd
+8ff
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{8g
+8ff
+4ff
+=6
+8ee
+8ee
+4ee
+=7
+16ee
+16ff
+8gg
+8b
+8dd
+=8
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=356 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 252} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,116 @@
+!!!!SEGMENT: DWOK2254800000-juzes_u_boru_antolek.krn
+!!!OTL: Jużeś u boru Antolek
+!!!source: DWOK22
+!!!id: 22548
+!!!signature: 2254800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc
+8.ee
+16dd
+=2
+16b
+16dd
+8ee
+16a
+16f#
+=3
+16a
+16cc
+8.ee
+16dd
+=4
+16b
+16g
+8cc
+16a
+16f#}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8.g
+16a
+=6
+16b
+16a
+8cc
+16a
+16f#
+=7
+16d
+16f#
+8.g
+16b
+=8
+8ee
+16dd
+16b
+8a}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+16g
+16b
+16ee
+16dd
+=10
+16cc
+16b
+16a
+16ee
+16a
+16f#
+=11
+16d
+16f#
+16g
+16a
+16b
+16d
+=12
+16cc
+16b
+16a
+16g
+16b
+16g}
+!!LO:LB:g=esac
+=13
+{16d
+16f#
+16g
+16b
+16ee
+16dd
+=14
+16cc
+16b
+8g
+8a
+=15
+16d
+16f#
+16g
+16a
+16b
+16d
+=16
+16cc
+16b
+8g
+16a
+16f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 248} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 248}
+!!!page: 248
+!!!ONB: Converted on 2024/12/26 with esac2hum

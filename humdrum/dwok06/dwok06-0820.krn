@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK06-K0820-nie_pojde_ja_za_maz.krn
+!!!OTL: Nie pojde ja za maz
+!!!source: DWOK06
+!!!id: K0820
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+16b
+16a
+16cc
+16b
+16a
+16g
+=2
+16g
+16f#
+4.f#
+=3
+8d
+8d
+8.dd
+16cc
+=4
+16cc
+16b
+4.b}
+!!LO:LB:g=esac
+=5
+{8g
+16b
+16a
+16cc
+16b
+16a
+16g
+=6
+16g
+16f#
+4f#
+8d
+=7
+8dd
+8cc#
+8cc
+8a
+=8
+8a
+4.g}
+!!LO:LB:g=esac
+=9
+{8b
+4dd
+16ee
+16ff#
+=10
+16gg
+16ff#
+16ee
+16dd
+16cc
+16b
+16a
+16g
+=11
+8dd
+8cc#
+8cc
+8a
+=12
+8b
+4.dd}
+!!LO:LB:g=esac
+=13
+{8b
+4dd
+16ee
+16ff#
+=14
+16gg
+16ff#
+16ee
+16dd
+16cc
+16b
+16a
+16g
+=15
+8dd
+8cc#
+8cc
+8a
+=16
+8a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=515 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 489-490} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 489-490}
+!!!page: 489-490
+!!!ONB: Converted on 2024/12/26 with esac2hum

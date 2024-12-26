@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK25765000001-marsz_marsz_agronomia.krn
+!!!OTL: Marsz marsz agronomia
+!!!source: DWOK25
+!!!id: 25765
+!!!signature: 25765000001
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4cc
+8cc
+8gg
+8ee
+8cc
+=2
+8b
+8dd
+8gg
+8ff
+4.ee
+8cc}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+8cc
+8a
+8ee
+8cc
+8b
+8e
+=4
+8g#
+8ff
+8ee
+8g#
+4.a
+8b}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ee
+8cc
+8gg
+8ee
+8dd
+8cc
+=6
+8b
+8aa
+8gg
+8b
+4cc
+4cc}
+==
+*-
+!!!ONB: Marsz uczniów Instytutu rolniczego w Marymoncie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 274} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 274}
+!!!page: 274
+!!!ONB: Converted on 2024/12/26 with esac2hum

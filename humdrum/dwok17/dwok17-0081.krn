@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1708100000-ja_z_toba_ty_ze_mna_-_walc.krn
+!!!OTL: Ja z tobą ty ze mną - Walc
+!!!source: DWOK17
+!!!id: 17081
+!!!signature: 1708100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8g
+8g
+=2
+8b
+16a
+16g#
+8a
+=3
+8d
+8g
+8g
+=4
+8b
+16a
+16g#
+8a}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+=6
+8ee
+8ee
+8ee
+=7
+8dd
+16f#
+16a
+16cc
+16a
+=8
+8b
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 30} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 30}
+!!!page: 30
+!!!ONB: Converted on 2024/12/26 with esac2hum

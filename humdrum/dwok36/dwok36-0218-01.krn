@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3621800001-tejez_mene_z_swita_zzene.krn
+!!!OTL: Tejeż mene z świta zżene
+!!!source: DWOK36
+!!!id: 36218
+!!!signature: 3621800001
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=1
+{4ee
+8dd
+8cc#
+4b
+4ee
+=2
+4a
+4b
+8cc#
+8b
+4a
+=3
+4ee
+8ff#
+8ee
+4dd
+4cc#
+=4
+4dd
+4ff#
+2ee}
+!!LO:LB:g=esac
+=5
+{4ee
+8dd
+8cc#
+4b
+4ee
+=6
+4a
+4b
+4cc#
+4ee
+=7
+4dd
+4ff#
+8ee
+8dd
+8cc#
+8dd
+=8
+4ee
+4cc#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

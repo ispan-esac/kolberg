@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK1005800010-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK10
+!!!id: 10058
+!!!signature: 1005800010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+{8ff
+8.ff
+16ff
+=1
+2ff
+=2
+8cc
+16a
+16b-
+8cc
+16a
+16b-
+=3
+8cc
+8cc
+8.dd
+16cc
+=4
+8b-
+8gg
+8cc
+16dd
+16ee
+=5
+8ff
+8a
+8dd
+8cc}
+!!LO:LB:g=esac
+=6
+{8cc
+16a
+16b-
+8cc
+16a
+16b-
+=7
+8cc
+8cc
+8.dd
+16cc
+=8
+8b-
+8gg
+8cc
+16dd
+16ee
+=9
+8ff
+8ee
+4ff}
+==
+*-
+!!!ONB: Marsz kurkowy grywany niegdyś w Poznaniu i innych miastach
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 204} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 204}
+!!!page: 204
+!!!ONB: Converted on 2024/12/26 with esac2hum

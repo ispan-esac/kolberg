@@ -1,0 +1,112 @@
+!!!!SEGMENT: DWOK2200100000-spusccie_nam_na_ziemskie_niwy.krn
+!!!OTL: Spuśćcie nam na ziemskie niwy
+!!!source: DWOK22
+!!!id: 22001
+!!!signature: 2200100000
+**kern
+*clefF4
+*k[]
+*C:
+*M4/4
+{8G
+8G
+=1
+4c
+4G
+4A
+4B
+=2
+4c
+4c
+4r
+4e
+=3
+4d
+4B
+4c
+4A
+=4
+8A
+8G
+4G
+4r
+8G
+8G}
+!!LO:LB:g=esac
+=5
+{4c
+4G
+4A
+4B
+=6
+4c
+4c
+4r
+4e
+=7
+4d
+4B
+4c
+4A
+=8
+8A
+8G
+4G
+4r
+8G
+8G}
+!!LO:LB:g=esac
+=9
+{4d
+4d
+4d
+4e
+=10
+8f
+8d
+4d
+4r
+8G
+8G
+=11
+4d
+4d
+4d
+4e
+=12
+8f
+8d
+4d
+4r
+4d}
+!!LO:LB:g=esac
+=13
+{4e
+4d
+4c
+4B
+=14
+8A
+8G
+4G
+4r
+4c
+=15
+4G
+4c
+8e
+8d
+8c
+8B
+=16
+8d
+8c
+4c}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 18} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 18}
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

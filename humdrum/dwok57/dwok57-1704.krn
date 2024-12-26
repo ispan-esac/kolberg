@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK57170400000-j-a_w_luzi_kalyna.krn
+!!!OTL: J-a w łuzi kałyna
+!!!source: DWOK57
+!!!id: 571704
+!!!signature: 57170400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4a
+2ee
+=2
+4dd
+4a
+4dd
+=3
+4cc
+4a
+4r
+=4
+4a
+2ee
+=5
+4dd
+4a
+4dd
+=6
+4cc
+4a}
+4r
+!!LO:LB:g=esac
+=7
+{4cc
+4dd
+4dd
+=8
+2.dd
+=9
+4ee
+4cc
+4a
+=10
+4a
+4g#
+4r
+=11
+4a
+4cc
+4a
+=12
+4ee
+4dd
+4cc
+=13
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 793
+!!!ONB: Converted on 2024/12/26 with esac2hum

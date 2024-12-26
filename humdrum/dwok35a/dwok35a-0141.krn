@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK35A-35A14100000-wstante_bojare_wstante.krn
+!!!OTL: Wstańte bojare wstańte
+!!!source: DWOK35A
+!!!id: 35A141
+!!!signature: 35A14100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8b
+8a
+=2
+4g
+8a
+=3
+4.a
+=4
+16g
+16f#
+8g}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8a
+=6
+4.g
+=7
+8a
+8b
+8a
+=8
+4.g
+=9
+8a
+16b
+16a
+16g
+16f#
+=10
+4.g
+=11
+16f#
+16e
+8d}
+8r
+!!LO:LB:g=esac
+=12
+{16b
+16cc
+8dd
+8dd
+=13
+16ee
+16dd
+8cc
+8a
+=14
+4.b
+=15
+16b
+16a
+8g}
+8r
+!!LO:LB:g=esac
+=16
+{8a
+8b
+8cc
+=17
+8b
+8a
+8b
+=18
+4.g
+=19
+16f#
+16e
+8d}
+8r
+==
+*-
+!!!ONB: Podane metrum 3/4 zapisano poprawnie na 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 79} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 79}
+!!!page: 79
+!!!ONB: Converted on 2024/12/26 with esac2hum

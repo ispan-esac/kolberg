@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK8428400000-juz_mi_minelo_pietnascie_latek.krn
+!!!OTL: Już mi minęło piętnaście latek
+!!!source: DWOK84
+!!!id: 84284
+!!!signature: 8428400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16f#
+8g
+8b
+=2
+4dd
+8cc
+=3
+8a
+8ff#
+8ff#
+=4
+8aa
+4gg}
+!!LO:LB:g=esac
+=5
+{16g
+16f#
+8g
+8b
+=6
+4dd
+8cc
+=7
+8a
+8ff#
+8ff#
+=8
+8aa
+4gg}
+!!LO:LB:g=esac
+=9
+{8.g
+16a
+16b
+16cc
+=10
+16dd
+16dd
+8dd
+8dd
+=11
+4ccc
+8bb
+=12
+4aa}
+8r
+!!LO:LB:g=esac
+=13
+{16ff#
+16ff#
+8dd
+8ff#
+=14
+16aa
+16aa
+8gg
+8dd
+=15
+4aa
+16aa
+16ff#
+=16
+4gg}
+8r
+==
+*-
+!!!ONB: Wariant t. 1 i 5: 1_1_3_; wariant t. 10: 55555_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=331 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 261} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 261}
+!!!page: 261
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK45107400000-a_ja_se_myslal.krn
+!!!OTL: A ja se myślał
+!!!source: DWOK45
+!!!id: 451074
+!!!signature: 45107400000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4a
+8a
+8a
+4a
+8g#
+8e
+=2
+8a
+8b
+8cc
+8cc
+2b}
+!!LO:LB:g=esac
+=3
+{4a
+8a
+8a
+4a
+8g#
+8e
+=4
+8a
+8b
+8cc
+8cc
+2b}
+!!LO:LB:g=esac
+=5
+{4cc
+8cc
+8dd
+4cc
+4b
+=6
+8a
+8a
+8a
+8b
+4a
+4g#
+=7
+8e
+8e
+8f#
+8g#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 58} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

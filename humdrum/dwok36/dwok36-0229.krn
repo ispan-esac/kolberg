@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3622900000-oj_tam_u_poli.krn
+!!!OTL: Oj tam u poli
+!!!source: DWOK36
+!!!id: 36229
+!!!signature: 3622900000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4a
+8.cc
+16a
+=2
+8g#
+4.e
+=3
+16cc
+8.cc
+16dd
+8.dd
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{16dd
+8dd
+8g
+8gg
+16ff
+=6
+16ee
+8ee
+16dd
+8cc
+8a
+=7
+16b
+8.b
+16e
+8f#
+16g#
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 130-131
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2526100002-z_tamtej_strony_ukowa.krn
+!!!OTL: Z tamtej strony Łukowa
+!!!source: DWOK25
+!!!id: 25261
+!!!signature: 2526100002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8a
+8cc
+8cc
+=2
+4cc
+8ff
+8cc
+=3
+2cc
+=4
+8ff
+8ee
+8dd
+8cc
+=5
+4a
+8cc
+8a
+=6
+2g}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+8dd
+8cc
+=8
+4b-
+8a
+8g
+=9
+8f
+8g
+8a
+8b-
+=10
+4cc
+8dd
+8ee}
+!!LO:LB:g=esac
+=11
+{8ff
+8cc
+8dd
+8cc
+=12
+4b-
+8g
+8e
+=13
+4f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 115} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

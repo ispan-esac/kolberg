@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK2300900000-wiwat_dzisiaj_boskiej_istnosci.krn
+!!!OTL: Wiwat dzisiaj Boskiej istności
+!!!source: DWOK23
+!!!id: 23009
+!!!signature: 2300900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4ff
+8ee
+=2
+4ff
+16cc
+16b-
+=3
+16a
+16cc
+8a
+16g
+16e
+=4
+4.f}
+!!LO:LB:g=esac
+=5
+{4ff
+8ee
+=6
+4ff
+8cc
+=7
+8a
+8a
+8g
+=8
+4.f}
+!!LO:LB:g=esac
+=9
+{16a
+16b-
+8cc
+8dd
+=10
+8cc
+8b-
+8a
+=11
+16a
+16b-
+8cc
+8dd
+=12
+8cc
+8b-
+8a}
+!!LO:LB:g=esac
+=13
+{4a
+8b-
+=14
+16cc
+16b-
+8a
+8g
+=15
+4a
+8b-
+=16
+16cc
+16b-
+8a
+8g}
+!!LO:LB:g=esac
+=17
+{16ff
+16ee
+8ff
+8cc
+=18
+16a
+16g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 57-58} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, pp. 57-58}
+!!!page: 57-58
+!!!ONB: Converted on 2024/12/26 with esac2hum

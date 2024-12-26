@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK8206100000-makryno_swieta_perlorodne_morze.krn
+!!!OTL: Makryno święta perłorodne morze
+!!!source: DWOK82
+!!!id: 82061
+!!!signature: 8206100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4ff
+4.ff
+8dd
+=2
+4dd
+2cc
+=3
+8a
+8cc
+4.b-
+8g
+=4
+4g
+2f}
+!!LO:LB:g=esac
+=5
+{4ff
+4.ff
+8dd
+=6
+4dd
+2cc
+=7
+8a
+8cc
+4.b-
+8g
+=8
+4g
+2f}
+!!LO:LB:g=esac
+=9
+{8.g
+16g
+4.cc
+8b-
+=10
+4b-
+2a
+=11
+8.g
+16g
+4.cc
+8b-
+=12
+4b-
+2a}
+!!LO:LB:g=esac
+=13
+{8.f
+16a
+4cc
+8dd
+8ee
+=14
+2ff
+4dd
+=15
+8.cc
+16b-
+4a
+4g
+=16
+2g
+4f}
+==
+*-
+!!!ONB: O św. Makrynie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 48} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 48}
+!!!page: 48
+!!!ONB: Converted on 2024/12/26 with esac2hum

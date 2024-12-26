@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK4646100000-a_za_lasem_moje_wolki.krn
+!!!OTL: A za lasem moje wołki
+!!!source: DWOK46
+!!!id: 46461
+!!!signature: 4646100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8dd
+8ee
+=2
+16cc
+16b
+8a
+8cc
+=3
+8dd
+8dd
+8g}
+!!LO:LB:g=esac
+=4
+{16b
+16dd
+8dd
+8a
+=5
+16cc
+16b
+8d
+8f#
+=6
+8g
+8b
+8a}
+!!LO:LB:g=esac
+=7
+{16b
+16b
+8dd
+8a
+=8
+16cc
+16b
+8d
+8f#
+=9
+8g
+8a
+8dd}
+!!LO:LB:g=esac
+=10
+{16b
+16b
+8b
+8a
+=11
+16ee
+16dd
+8d
+8f#
+=12
+8g
+8b
+8a}
+==
+*-
+!!!ONB: Wariant t. 2: 432_34; wariant t. 10: 337_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=318 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 284} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 284}
+!!!page: 284
+!!!ONB: Converted on 2024/12/26 with esac2hum

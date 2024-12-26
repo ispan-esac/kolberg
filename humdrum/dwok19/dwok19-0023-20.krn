@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK1902300020-hola_wraz.krn
+!!!OTL: Hola wraz
+!!!source: DWOK19
+!!!id: 19023
+!!!signature: 1902300020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.b
+16cc
+8dd
+8ee
+=2
+8dd
+8cc#
+8dd
+8cc
+=3
+8.b
+16cc
+8dd
+8ee
+=4
+8dd
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{8.b
+16cc
+8dd
+8ee
+=6
+8dd
+8cc#
+16ee
+16dd
+16cc
+16a
+=7
+8.b
+16cc
+8dd
+8ee
+=8
+16dd
+16cc
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=9
+{8d
+8cc
+8r
+8b
+=10
+8r
+8a
+8r
+8b
+=11
+8r
+16a
+16cc
+8r
+16g
+16b
+=12
+8dd
+8f#
+4g}
+!!LO:LB:g=esac
+=13
+{16d
+16f#
+16a
+16cc
+8d
+8b
+=14
+8d
+8a
+8d
+8b
+=15
+8d
+16a
+16cc
+8d
+16g
+16b
+=16
+16dd
+16dd
+16a
+16f#
+4g}
+==
+*-
+!!!ONB: Biegany v. Suwany
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=25 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 11} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 11}
+!!!page: 11
+!!!ONB: Converted on 2024/12/26 with esac2hum

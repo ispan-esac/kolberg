@@ -1,0 +1,2923 @@
+DWOK17
+CUT[Gdy w czystem polu słoneczko świeci]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina, Sławinek s. 1]
+FKT[]
+SIG[1700100000]
+KEY[17001   16  D 3/8]
+MEL[135_.3  +1_5__  6_4_2_  5_3__
+    135_.3  +1_5_3_  664_2_  5_3__
+    354_.2  436_.5  354_.2  3_1__ //]
+BEM[]
+
+DWOK17
+CUT[Gdy w czystem polu słoneczko świeci]
+REG[]
+TRD[DWOK17 Lubelskie 2 Krasnystaw s. 1]
+FKT[]
+SIG[1700200000]
+KEY[17002   16  D 3/8]
+MEL[+1_7_6_  5__3_  5_434_  6_5__
+    +1_7_6_  5__3_  5_434_  2_1__
+    224_21  335_31  224_21  135_31
+    224_21  +1__6_  5__-7_  1__0_ //]
+BEM[U Kolberga w t. 15 błąd rytmiczny: 5__.-7_. Wariant t. 14: +1__76]
+
+DWOK17
+CUT[Na owej łące zielonej]
+REG[]
+TRD[DWOK17 Lubelskie 2 Lublin s. 1,2]
+FKT[]
+SIG[1700300000]
+KEY[17003   08  G 6/8]
+MEL[133323  5_.40_
+    244434  6_.50_
+    +176543  6_55_0
+    5+13542  4300_0
+    3_1123  4_-7-725
+    3_1123  4_-7-725
+    3_11-7-6  -644432
+    1_1-7-6-7  1_00_0 //]
+BEM[Wariant t. 3: 234434]
+
+DWOK17
+CUT[Pastereczka świt postrzega]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina s. 2]
+FKT[]
+SIG[1700400000]
+KEY[17004   32  F 3/8]
+MEL[1_-7_1__.2_  3_.33__.3_  3_.33_3_2_3_  5___2__
+    4_3_2__2__  3_2_1__1__  2_3_4__4__  5_5_+1__.3_
+    6_5_4__.2_  3_3_5__.3_  2_2_5__4_2_  4___3__
+    6_5_4___  3_3_5___  2_2_5__4_-7_  1___0__ //]
+BEM[Wariant t. 4: 5__.4_2__]
+
+DWOK17
+CUT[Poszła panna na góreczkę]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Puhaczowa, Stręczyn s. 2,3]
+FKT[]
+SIG[1700500000]
+KEY[17005   16  G 3/8]
+MEL[533_3_  345_3_
+    133_5_  442_-71
+    -5-5-5_-5_  223_1_
+    113_5_  422_1_ //]
+BEM[]
+
+DWOK17
+CUT[Oj nie chodź kole róży - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Markuszowa, Garbów, Mazur s. 3]
+FKT[]
+SIG[1700600000]
+KEY[17006   16  A 3/8]
+MEL[3b53b_6b_  442_-7_  -724_43b  1_3b__
+    3b53b_6b_  6b52_-7_  -724_43  1_1__
+    3b_1_1-7  -6-72_-5_  -724_42  3b_5__
+    123b21-7  -6-72-7-5_  -724_42  1_1__ //]
+BEM[]
+
+DWOK17
+CUT[Oj chłopiec ci ja chłopiec]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Opola s. 3]
+FKT[]
+SIG[1700700000]
+KEY[17007   16  F 3/8]
+MEL[2_4_32  335_5_  6_+1_.4  653_1_
+    +1_+1_+17  +2+17_65  67+1_.4  653_1_ //]
+BEM[]
+
+DWOK17
+CUT[A biedny to kujawiacek]
+REG[]
+TRD[DWOK17 Lubelskie 2 Lublin, Kujawiak s. 4]
+FKT[]
+SIG[1700800000]
+KEY[17008   32  G 3/8]
+MEL[3__.2_4_6_  5_432__6__
+    3__.2_4_6_  5_432__-7__
+    1__.3_2_4_  1_3_2__4_3_
+    1__.3_4_6_  5_432__-7__ //]
+BEM[]
+
+DWOK17
+CUT[Hej nasza karczmareczka]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Kraśnika, Mazur s. 4]
+FKT[]
+SIG[1700900000]
+KEY[17009   32  C 3/8]
+MEL[5_+1_+1__+1_7_  +1_+3_+5__+5__  +6__+4_+6_+4_+2_  +2_+4_+6__+5__
+    5__+1__+1__  +1_+3_+5__+5__  +6__+4__+4_+2_  7_5_7_+2_+1__
+    +2_.+2+3__+2_+1#_  +2_.+2+3__+2_+1#_  +2_+2_+3__+2_+1_  +6_.+6+7__+1__
+    +2__+3__+2_+1#_  +2__+3__+2__  +2__+3__+2_+1_  7_5_7__+1__ //]
+BEM[]
+
+DWOK17
+CUT[Dalej dalej do mazura]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 4]
+FKT[]
+SIG[1701000010]
+KEY[17010   32  A 3/8]
+MEL[1_5_5__5__  4#_5_6__.5_  5_5_5__5__  4#_5_6__.5_
+    5_5_5__5__  4#_5_6__.5_  5_5_5__5__  4#_5_6__.5_
+    -5_-7_-7__-7__  1_2_3b__3b__  2_2_5__.-7_  3b_3b_2__1__
+    -5_-7_-7__-7__  1_2_3b__3b__  6b_6b_5__.4_  1_1_2__1__ //]
+BEM[U Kolberga błąd w zapisie rytmicznym t. 16: 112__1__]
+
+DWOK17
+CUT[Dalej dalej do mazura - Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 4]
+FKT[]
+SIG[1701000020]
+KEY[17010   32  C 3/8]
+MEL[5_7_+1__+2__  +1_+3_+5___  +4_+3_+2__+1__  +1_+3_+5__.+5_
+    5_7_+1__+2_7_  +1_+3_+5___  +4_+3_+2__+6_+5_  +3_7_+2__+1__
+    +2__.+3_+2_+1_  7_.+2+2_+3_+2_+1_  7_6_5__5__  +1__+1___
+    +2__.+3_+2_+1_  7_.+2+2_+3_+2_+1_  7_+2_+2_+3_+2_7_  +5__+5_+4#_+5__
+    +5__+5__+5__  +4_+6_+5__+5__  +2__+2__+3__  +1__+1___
+    +5__+5__+5_+3_  +4_+6_+5__+5_+3_  +2_+1#_+2_+4_+3_+2_  +1_+3_+5__++1__ //]
+BEM[]
+
+DWOK17
+CUT[Miłą cieszmy się nadzieją]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Biskupic s. 5]
+FKT[]
+SIG[1701100010]
+KEY[17011   32  C 3/8]
+MEL[+1__.5_+1_.+3  +1__.5_+1_.+3  +5__+4__+2_+4_  +6_+5_+3__.7_
+    +1__.5_+1_.+3  +1__.5_+1_.+3  +5__+4__+2_7_  5_7_+1__5__ //]
+BEM[]
+
+DWOK17
+CUT[Miłą cieszmy się nadzieją - Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Biskupic s. 5]
+FKT[]
+SIG[1701100021]
+KEY[17011   32  G 3/8]
+MEL[5__.6_5_.4  3__.3_5_+1_  7__.5_6_.7  +1__.6_5_4_
+    3__.6_5_.4  -6__.2_1_3_  5__.4_2_-7_  2_-7_1__.3_ //]
+BEM[]
+
+DWOK17
+CUT[Miłą cieszmy się nadzieją - Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Biskupic s. 5]
+FKT[]
+SIG[1701100022]
+KEY[17011   32  G 3/8]
+MEL[5__.6_5_.4  3__.3_5_+1_  7__.5_6_.7  +1__.6_5_4_
+    3__.6_5_.4  -6__.2_1_3_  5__.4_2_-7_  -5_-7_1__.3_ //]
+BEM[]
+
+DWOK17
+CUT[Majtek ubogi puścił się na morze]
+REG[]
+TRD[DWOK17 Lubelskie 2 Biłgoraj s. 5,6]
+FKT[]
+SIG[1701300000]
+KEY[17013   08  F 3/4]
+MEL[+1_7_67  +1__3_  544_.2  433__
+    +177_67  +1__35  544_.2  433__
+    3_5565  542443  3_5565  542431
+    355565  542443  355565  542431 //]
+BEM[]
+
+DWOK17
+CUT[Chodzi dzieciąteńko]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Janowa, Goraja s. 6,7]
+FKT[]
+SIG[1701400000]
+KEY[17014   16  C 3/4]
+MEL[+1_+3_+3_+2_+3_7_  +1_+3_+2_+176_5_
+    5_+1_7_+1_+2_7_  +1_+3_+2_+17+1_+1_
+    5_+1_7_+1_+2_75  +1_+3_+2_+176_5_ //]
+BEM[]
+
+DWOK17
+CUT[Z tamtej strony pola]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Łęczny, Chełma s. 7]
+FKT[]
+SIG[1701500001]
+KEY[17015   08  A 3/4]
+MEL[123_.5  4_1__
+    654_5_  5_3__
+    654_5_  321_-7_
+    123_.5  4_1__ //]
+BEM[]
+
+DWOK17
+CUT[Z tamtej strony pola]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Łęczny, Chełma s. 7]
+FKT[]
+SIG[1701500002]
+KEY[17015   08  A 3/4]
+MEL[123_.5  (432)1__
+    65465_  (543)3__
+    654_5_  321_-7_
+    123_.5  (432)1__ //]
+BEM[]
+
+DWOK17
+CUT[Piękna duszo, śliczny kwiecie]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Końskowoli s. 8]
+FKT[]
+SIG[1701600000]
+KEY[17016   16  G 3/4]
+MEL[1_1_1_5_4__  5_6_7b__5__  7b_4_5__3b__  (2_4_3b_)2_1_0__
+    5__.5_543b2  (1_3b_4_)5___  7__.4_5_3b_  (2_4_3b_)2_1_0__ //]
+BEM[]
+
+DWOK17
+CUT[Sła dziewcyna z Torunia]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Puław, Osiny s. 9]
+FKT[]
+SIG[1701700000]
+KEY[17017   08  F 2/4]
+MEL[3455  5_65  4654  3_21
+    5_3_  465_  4654  5_21 //]
+BEM[]
+
+DWOK17
+CUT[Polska korono co słychać o tobie]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Kaźmierza s. 11]
+FKT[]
+SIG[1701900000]
+KEY[17019   16  A 3/8]
+MEL[-5_-5_.-5  -721__  243_2_  2_1__
+    321_1_  -7-6-6_.-6  -51-7_2_  1_3_.4
+    321_1_  -7-6-6_.-6  -51-7_2_  1_-5__ //]
+BEM[]
+
+DWOK17
+CUT[Czego się, mój Jezu, tak bardzo turbujesz]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Goraja, Janowa,  s. 12]
+FKT[]
+SIG[1702000001]
+KEY[17020   16  A 2/4]
+MEL[1_1_5_5_  5#__5__  5_5_4_2_  5__1__
+    4#_4_5__  4_321__  1_2_3_5_  4_2__. //]
+BEM[Pieśń w chorobie]
+
+DWOK17
+CUT[Czego się, mój Jezu, tak bardzo turbujesz]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Goraja, Janowa, pieśń w chorobie s. 12]
+FKT[]
+SIG[1702000002]
+KEY[17020   32  A 2/4]
+MEL[1__1__5__5__  5#__6__5___  5__54321___
+    4#__4__5__.2_  2_4_3_2_1___  1__2__3__5__  4__2___. //]
+BEM[Pieśń w chorobie]
+
+DWOK17
+CUT[Zawitaj ranna jutrzenko]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Goraja, Janowa, do Matki Bożej s. 12,13]
+FKT[]
+SIG[1702100000]
+KEY[17021   08  A 3/4]
+MEL[3b3b_4_  2_3b_4_  5_.43b_
+    5_5_4_  5_.43b_  53b_00_
+    3b_4_1_  4_3b_04
+    (3b45)(43b2)(123b)  4_3_04
+    4_4_4_  5_.43b_  21_00_ //]
+BEM[]
+
+DWOK17
+CUT[O Matko Boska Gidelska]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Goraja, Janowa s. 13,14]
+FKT[]
+SIG[1702200000]
+KEY[17022   08  A 3/4]
+MEL[243_-7_  345_.3  554_5_  321_.1
+    555_5_  445_.3  554_54  321_.1 //]
+BEM[]
+
+DWOK17
+CUT[Była to święta Dorota]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Łęczny, Sawina. Pieśń ta przypomina męczeństwa ś.Barbary, ś.Katarzyny i innych śś.Panien s. 14]
+FKT[]
+SIG[1702300000]
+KEY[17023   16  F 3/4]
+MEL[(1_2_3_)4__(5_4_3_)  2__1__0__
+    1_345__(6_6_4_)  4_3_3__0__
+    (1_2_3_)4__(5_4_3_)  2__1__0__
+    1_2_3_4_(4_2_-7_)  1__1__0__ //]
+BEM[]
+
+DWOK17
+CUT[A chto na pomoc wzywa Onufrego]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Szczebrzeszyna, s. 15]
+FKT[]
+SIG[1702400000]
+KEY[17024   16  A 3/8]
+MEL[5_5_5_  5_3__  454_3_  2_1__
+    4_4_4_  4__-7_  3_4__  5__.
+    7_5_5_  5__3_  2_3__  1__. //]
+BEM[]
+
+DWOK17
+CUT[Oj żeby nie kowale, nie chłopy, nie rolnicy]
+REG[]
+TRD[DWOK17 Lubelskie 2 Tarnogóra s. 16]
+FKT[]
+SIG[1702500000]
+KEY[17025   16  F 3/8]
+MEL[5_5_7_  765_3_  7_6543  2-71_3_
+    5_5_4#5  6_5_3_  5_5_4_  2-71_3_ //]
+BEM[]
+
+DWOK17
+CUT[Oj dziś nasza, dziś nasza]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lubartowa, wśród tańca s. 16]
+FKT[]
+SIG[1702600000]
+KEY[17026   16  A 3/8]
+MEL[(342)3_5_  7_+1_7b_  (765)4_5_  3_2_-7_
+    (342)-7_1_  3#_4_5_  (765)4_5_  3_2_-7_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Kraśnika s. 16]
+FKT[]
+SIG[1702700000]
+KEY[17027   16  A 3/8]
+MEL[12345_  5_345_  53432-7  -5_-6-71_
+    1_342-7  2_345_  434_2-7  -5_-6-71_ //]
+BEM[]
+
+DWOK17
+CUT[Oj już byłem za wodą]
+REG[]
+TRD[DWOK17 Lubelskie 2 Tarnogóra, Izbica s. 16]
+FKT[]
+SIG[1702800000]
+KEY[17028   16  A 3/8]
+MEL[135_5_  4_5_32
+    135_5_  4_321_
+    -7-5-6#-72_  1_1_-5-6#
+    -7-5-6#-72_  4_321_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina s. 16]
+FKT[]
+SIG[1702900000]
+KEY[17029   16  A 3/8]
+MEL[135_3_  5_432_
+    245_3_  1_-6-4-7_
+    13123_  5_432_
+    2-7123_  1_-6_-7_ //]
+BEM[]
+
+DWOK17
+CUT[Stoji lipa, pod nią korzeń]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Tarnogóry (Ostrzyca) s. 17]
+FKT[]
+SIG[1703000000]
+KEY[17030   16  C 3/8]
+MEL[(234)5_52  312_54
+    245_52  312_7_
+    241_15  (123)3_27
+    241_15  132_7_ //]
+BEM[]
+
+DWOK17
+CUT[Oj w dziedzicowym sadzie]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina s. 17]
+FKT[]
+SIG[1703100000]
+KEY[17031   16  F 3/8]
+MEL[+1_5_67  +1+17_65
+    +1_5_52  431_2_
+    245_24  457_6_
+    645_52  431_2_ //]
+BEM[]
+
+DWOK17
+CUT[Oj cy mi cię kaci dali]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lubartowa s. 17]
+FKT[]
+SIG[1703200000]
+KEY[17032   16 Bb 3/8]
+MEL[5_2_34  533_2-7  1-61-7-5_  -5-72_-7-5
+    1_1-7-5_  -713_2-7  1-61-7-5_  -5-72_-7-5 //]
+BEM[]
+
+DWOK17
+CUT[Ej leci głos po rosie]
+REG[]
+TRD[DWOK17 Lubelskie 2 Tarnogóra s. 17]
+FKT[]
+SIG[1703300000]
+KEY[17033   16  A 3/8]
+MEL[5_4#_5_  6#54_52  3_3_5_  421_-7-5
+    -7_-7_-7-5  -713_21  3_3_5_  421_-7_ //]
+BEM[]
+
+DWOK17
+CUT[Hej nie chę chłopa ze wsi]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Puław (Osiny)s. 18]
+FKT[]
+SIG[1703400000]
+KEY[17034   16  F 3/8]
+MEL[5_5_5_  562_5_  4_3_2_  -712_1_
+    443_2_  -712_3_  4_3_2_  -712_1_ //]
+BEM[]
+
+DWOK17
+CUT[Ej fartuszek z jabłuszek]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Tatary) s. 18]
+FKT[]
+SIG[1703500000]
+KEY[17035   16  F 3/8]
+MEL[7_+2_+1_  +1+3+2_7_  5_7_+1_  664_2_
+    5_3_3_  446_4_  2_-7_-7_  113_5_
+    7_+2_+1_  +1+3+2_7_  7_+1_+1_  664_2_
+    5_3_3_  446_4_  2_-7_-7_  113_5_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Bychawy, pasterska s. 18]
+FKT[]
+SIG[1703600001]
+KEY[17036   16  C 3/8]
+MEL[5_.7+1_  +3+5_+5+4#_  +5_(+3+2+1)+3+1
+    5_.7+1+3  +5+5_+5(+4+2+4)  +5_(+3+2+1)+3+1
+    5_.7+2_  +4+1_+3(+3+27)  55(7+2+1)+3+1
+    5_.7+2_  +1+3_+3+2_  57+2+1+3+1 //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Bychawy, pasterska s. 18]
+FKT[]
+SIG[1703600002]
+KEY[17036   16  C 3/8]
+MEL[5_.7+1_  +3+5_+5+4#_  +5_(+3+2+1)+3+1
+    5_.7+1+3  +5+5_+5(+4+2+4)  +5_(+3+2+1)+3+1
+    5_.7+2_  +4+1_+3(+3+27)  55(7+2+1)+3+1
+    5_.7+2+4  +1+3_+3+27  57+2+1+3+1 //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Owczarska]
+REG[]
+TRD[DWOK17 Lubelskie 2, s. 18 od Lublina (Turka, Luszczów)]
+FKT[]
+SIG[1703700000]
+KEY[17037   32  C 3/8]
+MEL[(+2_+3_+4_)+5__+4_+3_  (+2_+3_+4_)+5__(+4_+3_+2)  (+1_7_6_)5__5__
+    5_7_+1__+2_+1_  (+5_+4_+3_)+2__+1__  (+2_+3_+4_)+5__+2__
+    (+2_+3_+4_)+5__+4_+3_  (+2_+3_+4_)+5__(+4_+3_+2)  (+1_7_6_)5__5__
+    5_7_+1__+2_+1_  (+5_+4_+3_)+2__+1__  (+2_+3_+4_)+5__(+4_+3_+2_)  (+1_7_6_)5__5__
+    5_7_+1__+2_+1_  +2__5__5__  5_7_+1__+2_+1_  +2__5__5__
+    5_7_+1__+2_+1_  +2__+2__+2__  5_7_+1__+2_+1_  +2__+5__+5__
+    5_7_+1__+2_+1_  +2+3b+2+3+2_+3_+2__  5_7_+1__+3b_+1_  +2__+5__+5__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna — Pasterska]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lubartowa,  s. 19]
+FKT[]
+SIG[1703800011]
+KEY[17038   32  C 3/8]
+MEL[567_+1__+3__  +4__+1__+2_+3_  +4__+1__+3_+5_
+    +4_+4_+3_+1_+2_+3_  +4_+4_+3_+1_+3_+5_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna — Pasterska]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lubartowa, s. 19]
+FKT[]
+SIG[1703800012]
+KEY[17038   32  C 3/8]
+MEL[567_+1_+2_+3__  +4__+1__+2_+3_  +4__+1__+3_+5_
+    +4_+4_+3_+1_+2_+3_  +4_+4_+3_+1_+3_+5_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna — A nie orzesz kochaneńku, nie orzesz]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lubartowa, pasterska s. 19]
+FKT[]
+SIG[1703800020]
+KEY[17038   16  C 3/8]
+MEL[+4_+3_+2_  57+1_4_  6_+175_
+    +4_+3_+2_  (57+2)+1_4_  6_+175_
+    (567)+1_4_  6_+17+27
+    (57+2)+1_4_  6_+175_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Owczarek]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Żółkiewki (Sobieska wola), s. 19]
+FKT[]
+SIG[1703900000]
+KEY[17039   32  C 3/8]
+MEL[+3_0+5+3_+5_+5__  +2_+4_+5__+5__  +4__+3_+1_+1__  +3_+2_7_5_+1__
+    +3_0+5+3_+5_+5__  +2_+4_+5__+5_+3_  +4_+3_+3_+1_+3__  +3_+2_7_5_+1__
+    5__5_7_+1__  7_+1_+2_+3_+5__  +4__+3__+1__  +3_+2_7_5_+1__
+    5__5_7_+1__  +2_+1_+2_+3_+5__  +4__+3_+1_+3_+1_  +3_+2_7_5_+1__
+    +4__+3_+5_+3_+1_  +2_+4_+3_+5_+3_+1_
+    +4__+3_+5_+3_+1_  +2_7_5__4__
+    (5_4_7_)+1__6_4_  5_7_+1__6__  (5_6_7_)+1__+3__  +2_7_5__4__
+    (5_4_7_)+1__6_4_  5_7_+1__6_4_  (5_6_7_)+1__+3__  +2_7_5__4__
+    5__5_7_+1__  7_+1_+2_+3_+5__  +4__+3__+1__  +3_+2_7_5_+1__
+    5__5_7_+1__  +2_+1_+2_+3_+5__  +4__+3_+1_+3_+1_  +3_+2_7_5_+1__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Urzędowa, Kraśnika s. 19]
+FKT[]
+SIG[1704000001]
+KEY[17040   16  C 3/8]
+MEL[+1+2+3_+3_  +3_+1_+2+3  +4_+275_
+    (567)+1_+1_  664_67  +1_5_5_
+    +1_+1_+1+1  664_67  +1_.+2+3_
+    +5_.+4#+1+2  +5__+1+2  +5_.+4#+17
+    +1_+2_+5_  +4#_+2_+1_  7+1+2_+5_  +4#_+2_+1_
+    +5_.+4#+1+2  +5__+1+2  +5_.+4#+17
+    +1_+2_+5_  +4#_+2_+1_  7+1+2_+5_  +4#_+1_+3_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Urzędowa, Kraśnika s. 19]
+FKT[]
+SIG[1704000002]
+KEY[17040   16  C 3/8]
+MEL[+1+2+3_+3_  +3+3+1_+2+3  +3+4+2_+2_
+    (567)+1_+1_  664_67  +1_.757
+    +3_+1_+1+1  664_67  +1_.+2+3_
+    +5_.+4#+1+2  +5__+1+2  +5_.+4#+17
+    +1_+2_+5_  +4#_+2_+1_  7+1+2_+5_  +4#_+2_+1_
+    +5_.+4#+1+2  +5__+1+2  +5_.+4#+17
+    +1_+2_+5_  +4#_+2_+1_  7+1+2_+5_  +4#_+1_+3_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Pasterski]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Łęcznej, Piastów, s. 20]
+FKT[]
+SIG[1704100000]
+KEY[17041   16  C 3/8]
+MEL[7+1+3_+3+2  +4+3+1_+2+4  +4_+275_
+    57+1_+17  +164_46  7_+275_
+    +5__.  +5__.  +4#+5+6_+5_  +4#+5+6_+5_  +4+2+1_+3_  +5_+4#+2+1_ //]
+BEM[Nuta nr 10]
+
+DWOK17
+CUT[Oj jadę ci ja jadę]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Kraśnika s. 20]
+FKT[]
+SIG[1704200000]
+KEY[17042   16  G 3/8]
+MEL[255_5_  5_4#21_
+    255_65  54#4#21_
+    2-6-7_-7-6  -5_-7_2-7
+    21-7_-7-6  -5_-6-71_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Łęczny, s. 20]
+FKT[]
+SIG[1704300000]
+KEY[17043   16  G 3/8]
+MEL[1357+17  +164653
+    1357+17  +164313
+    5_-5_-5-7  246_53
+    5_-5_-5-7  243_1_ //]
+BEM[Ob. nr 21]
+
+DWOK17
+CUT[A zkądżeście w tej sukmanie?]
+REG[]
+TRD[DWOK17 Lubelskie 2 Lublin, s. 20]
+FKT[]
+SIG[1704400000]
+KEY[17044   16  G 3/8]
+MEL[1-71234  553_1_  446_4_  22-7_-5_
+    135_31  446_4_  315_3_  (242)-7_-5_
+    135_31  446_4_  (313)5_31  (242)-7_-5_ //]
+BEM[Ob. nr 96, 155]
+
+DWOK17
+CUT[Oj żeby ja wiedziała]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Firleja, s. 20]
+FKT[]
+SIG[1704500000]
+KEY[17045   16  F 3/8]
+MEL[5_77+1_  642_1_
+    5_(757)+1_  (646)+1_7_
+    5_3_1_  242_1_
+    5_3_1_  (234)6_+17 //]
+BEM[]
+
+DWOK17
+CUT[Oj u nasego pana]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Turka), s. 21]
+FKT[]
+SIG[1704600000]
+KEY[17046   16  F 3/8]
+MEL[2_425_  7+2+2_6_  +1_+1_7_  57764_
+    2_4_5_  76+1_5_  6_+1_7_  556_4_
+    2_4_5_  7_+1_5_  7_+1_5_  556_4_
+    2_(424)5_  (757)+1_5_  57764_ //]
+BEM[Nuta Ser. I. nr 131. 190. 197. - Ser. XIII. nr 196. 278, 279. 399]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Łęcznej, Biskupic s. 21]
+FKT[]
+SIG[1704700000]
+KEY[17047   16  C 3/8]
+MEL[5_7_+1_  +3+5+4_+1_  (+3+2+3)+1_(+2+3+2)  7+2+1_(565)
+    (+3+2+3)+1_+4_  (+3+2+3)+1_+4_  (+3+2+3)+1_+2_  7+2+1_5_ //]
+BEM[]
+
+DWOK17
+CUT[Oj miała ci ja miała]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Głuska, s. 21]
+FKT[]
+SIG[1704800001]
+KEY[17048   32  A 3/8]
+MEL[-7__-7__2__  (4#_2_4_)5__2__  4#__5__2__  (2_-7_2_)1__-5__
+    -7__-7__2__  4_321__2__  -7__-7__2__  4_321__-5__
+    -7__-7__2__  4_321__2__  -7_.5-7__2__  4_321__-5__ //]
+BEM[Ob. nr 39, 16]
+
+DWOK17
+CUT[Oj miała ci ja miała]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Głuska, s. 21]
+FKT[]
+SIG[1704800002]
+KEY[17048   32  A 3/8]
+MEL[-7__-7__2__  (4#_2_4_)5__2__  (4#_2_4_)5__4__  (2_-7_2_)1__-5__
+    -7__-7__2__  4_321__2__  -7__-7__2__  4_321__-5__
+    -7__-7__2__  4_321__2__  -7_.5-7__2__  4_321__-5__ //]
+BEM[Ob. nr 39, 16]
+
+DWOK17
+CUT[A moja mateńko da gotuj pierożki]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Bełżyc, s. 21,22]
+FKT[]
+SIG[1704900001]
+KEY[17049   16 Bb 3/8]
+MEL[-5_-7_1_  4_6_5_  465_4_  5_3_1_
+    2_-6_-4_  -5-54_3_  2_(-6-7b-6)-4_  -5_-3_-4_ //]
+BEM[]
+
+DWOK17
+CUT[A moja mateńko da gotuj pierożki]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Bełżyc, s. 21,22]
+FKT[]
+SIG[1704900002]
+KEY[17049   16 Bb 3/8]
+MEL[-5_(-7-6-7)1_  446_5_  465_(432)  5_3_1_
+    2_-6_-4_  -5-54_3_  2_(-6-7b-6)-4_  -5_-3_-4_ //]
+BEM[]
+
+DWOK17
+CUT[A moja dziewcyno]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Firleja, s. 22]
+FKT[]
+SIG[1705000000]
+KEY[17050   32  G 3/8]
+MEL[2_345__1__  2_346__5__
+    2_345__-7__  1_-7-6-5__-7__
+    -6_-7-6-4__-6__  -7_-6-72__-7__
+    -6_-7-6-4__-6__  1_-7-6-5__-7__ //]
+BEM[]
+
+DWOK17
+CUT[Wróć mi wianek, wróć mi]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Markuszewa, s. 22]
+FKT[]
+SIG[1705100000]
+KEY[17051   16 Bb 3/8]
+MEL[353_1_  342__  354#531  342__
+    -712_-7_  243_1_  -71-6-4-6_  1-7-5__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Baranowa, s. 22]
+FKT[]
+SIG[1705200000]
+KEY[17052   16  G 3/8]
+MEL[1346+16  7b567b+16
+    5346+16  13534_
+    135654  323453
+    1_.353  42221_ //]
+BEM[]
+
+DWOK17
+CUT[Oj wyjeżdżaj wyjeżdżaj]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lubartowa, s. 22,23]
+FKT[]
+SIG[1705300001]
+KEY[17053   16  G 3/8]
+MEL[324_3_  5_7_6_  554#_3_  2_-7_1_
+    354#_3-7  2_4_31  354#_31  2_-7_1_ //]
+BEM[]
+
+DWOK17
+CUT[Oj wyjeżdżaj wyjeżdżaj]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lubartowa, s. 22,23]
+FKT[]
+SIG[1705300002]
+KEY[17053   16  G 3/8]
+MEL[324_3_  5_7_63  664#_31  2_-7-51_
+    354#_3-7  2_4_31  354#_35  2_-7-51_ //]
+BEM[]
+
+DWOK17
+CUT[Miała baba figla]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Końskowoli, s. 23]
+FKT[]
+SIG[1705400000]
+KEY[17054   16  G 3/8]
+MEL[1__1_  131_1_  131_1_  135_.3  421_1_
+    135_.3  24#6_2_  135_.3  421_1_
+    135_.4#  24#6_62  135_.3  421_1_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Tatary), s. 23]
+FKT[]
+SIG[1705500000]
+KEY[17055   16  G 3/8]
+MEL[(134)67b64  (467b)6531  (134)6422  (2-7b2)4531
+    (134)6_4_  6+17b_5_  (535)6_4_  2-7b2_1_ //]
+BEM[]
+
+DWOK17
+CUT[Siedmiu miała, siedmiu dała]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Wrotków), s. 23]
+FKT[]
+SIG[1705600000]
+KEY[17056   16  D 3/8]
+MEL[+1+17_5_  57+1_.6  +1+17_5_  643_.1
+    221_3_  465_.3  443_5_  643_.1 //]
+BEM[]
+
+DWOK17
+CUT[Za to cię matka biła]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Bełżyc, s. 23]
+FKT[]
+SIG[1705700000]
+KEY[17057   16  G 3/8]
+MEL[6_5_4#_  565_4#_  5_4_2-7  (-5-6-7)1_-5_
+    134_2-7  246_5_  (313)(454)2_  -5-71_-5_ //]
+BEM[]
+
+DWOK17
+CUT[Oj Boże mój, Boże, Boże]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Tatary), s. 24]
+FKT[]
+SIG[1705800000]
+KEY[17058   16  A 3/8]
+MEL[-722_1_  345_5_
+    345_5_  321_-5_
+    -722_1_  321_-5_
+    -722_1_  321_-5_ //]
+BEM[]
+
+DWOK17
+CUT[Oj dziewczyno z Powiśla]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Kaźmierza, s. 24]
+FKT[]
+SIG[1705900000]
+KEY[17059   16  A 3/8]
+MEL[3b_5_5_  654_4_  3b_5_5_  654#_1_
+    3b_-5_-7_  13b4_.1  3b_-5_-7_  13b4_.1 //]
+BEM[]
+
+DWOK17
+CUT[Oj puśc konia do koni]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Końskowoli (Zyrzyn), s. 24]
+FKT[]
+SIG[1706000001]
+KEY[17060   16  G 3/8]
+MEL[5_3_6_  552_4_  3_5_1_  22-7_-5_
+    -5-72_2_  3_-7_13  2_-5_-72  11-6_-5_ //]
+BEM[]
+
+DWOK17
+CUT[Oj puśc konia do koni]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Końskowoli (Zyrzyn), s. 24]
+FKT[]
+SIG[1706000002]
+KEY[17060   16  G 3/8]
+MEL[5_5_5_  (565)2_4_  345_13  22-7_-5_
+    -5-72_2_  3_3-713  2_-5_-72  (1-71)-6_-5_ //]
+BEM[]
+
+DWOK17
+CUT[Wicentowa]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Puław (Osiny), s. 25]
+FKT[]
+SIG[1706100000]
+KEY[17061   16  F 3/8]
+MEL[(134)5_+1_  +1+17_5_  6_3_46  553_1_
+    2_2_41  113_5_  6_3_46  553_1_ //]
+BEM[]
+
+DWOK17
+CUT[Oj dziwują się ludzie]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Głuska, s. 25]
+FKT[]
+SIG[1706200000]
+KEY[17062   16  A 3/8]
+MEL[1_6b_5_  456b_5_  7b6b5_3b_  42-7b_1_
+    -7b-7b1_3b_  223b_1_  -6b-7b1_3b_  42-7b_1_ //]
+BEM[]
+
+DWOK17
+CUT[A cyje to koniki]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Turka), s. 25]
+FKT[]
+SIG[1706300000]
+KEY[17063   16  C 3/8]
+MEL[665_67  +1+1+2_+4_  +3+5+4+3+27  +1_5_4_
+    6_5_7_  +1_+2_7_  665_67  +1_5_4_
+    657_+1_  +1_+2_7_  657_+1_  +1_5_4_
+    657_+1_  +1_5_4_  657_+1_  +1_5_4_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Kowal]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Jastków),  s. 25,26]
+FKT[]
+SIG[1706400000]
+KEY[17064   16  G 3/8]
+MEL[123_4_  5_5_54#  5_5_54#  554_32  123_1_
+    (234)5_-7_  1_1_23  (234)5_-7_  1_1_21
+    -5-72_25  (5-6-6)1_1_  -722_2-5  (-6-71)-6_-5_
+    -7_2_5_  -6_1_1_  -7_2_-5_  -6_-6_-5_ //]
+BEM[Kowal (taniec). Lud, Ser. XVII]
+
+DWOK17
+CUT[Na Tatarach zubożało]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Tatary), s. 26]
+FKT[]
+SIG[1706500000]
+KEY[17065   16  F 3/8]
+MEL[57+1_5_  57+1_+1_  57+1_5_  421_1_
+    553_5_  465_3_  553_5_  (432)3_1_ //]
+BEM[]
+
+DWOK17
+CUT[Byłem w raju, byłem w niebie - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Kaźmierza, s. 26]
+FKT[]
+SIG[1706600000]
+KEY[17066   16  G 3/8]
+MEL[+1_5_54  31345+3  +1_5_54  313543
+    2-7-5_4_  313543  2_-5_4_  3_3_1_
+    -511_3_  265_.4  3-5-5_3_  21-7_1_
+    -511_3_  21-7_1_  3-5-5_3_  21-7_1_
+    -513_32  313_32  (345)342-7  (-5-6-7)1__
+    2-71-713  (234)5__  2-71-713  2-71__ //]
+BEM[]
+
+DWOK17
+CUT[Oj sierota ja była]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Końskowoli, Kurowa, s. 26,27]
+FKT[]
+SIG[1706700000]
+KEY[17067   16  G 3/8]
+MEL[6_5_4_  335_2_  6_5_4_  331_-7_
+    -5_-5_4_  335_2_  -5_-5_4_  331_2_
+    665_5_  435_2_  465_5_  431_2_
+    -713_32  435_2_  -713_3_  4_312_ //]
+BEM[]
+
+DWOK17
+CUT[Oj jadę ja se jadę]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Markuszewa, s. 27]
+FKT[]
+SIG[1706800010]
+KEY[17068   32  G 3/8]
+MEL[5_4#_2__4#__  5_2_2__.1_  -7__.-5_-6__  -5_.-7-7__1__
+    -5_2_1__3__  3__2__.1_  -7__.-5_-6__  -5_.-7-7__1__ //]
+BEM[]
+
+DWOK17
+CUT[Oj jadę ja se jadę]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Markuszewa, s. 27]
+FKT[]
+SIG[1706800020]
+KEY[17068   32  G 3/8]
+MEL[-5_.-71_-7_1_3_  3__2_3_2_-7_  1__-7_-5_-6__  -5_.-7-7_2_1__ //]
+BEM[]
+
+DWOK17
+CUT[Oj mocna moja główka]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina, s. 27]
+FKT[]
+SIG[1706900000]
+KEY[17069   16  A 3/8]
+MEL[554#_24#  553b_2_  -7-7-6_-5_  -7_2_1_
+    -5-5-7_1-7  113b_2_  -7-7-6_-5_  -7_2_1_ //]
+BEM[Obacz nr 30]
+
+DWOK17
+CUT[Niedaleko stawu rzeka]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina, s. 27]
+FKT[]
+SIG[1707000000]
+KEY[17070   16  F 3/8]
+MEL[+1+13_+1_  764_6_  +1+13_+1_  764_3_
+    113_-5_  -724_6_  553_1_  -724_3_ //]
+BEM[]
+
+DWOK17
+CUT[Oj na Tatarach grają]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Tatary), s. 27]
+FKT[]
+SIG[1707100001]
+KEY[17071   16  E 3/8]
+MEL[+1_+1_+17  +17+1_+17  +175_3b2  13b5_1_
+    2_4_3b2  13b5_6b_  4_4_42  13b5_1_ //]
+BEM[]
+
+DWOK17
+CUT[Oj na Tatarach grają]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Tatary), s. 27]
+FKT[]
+SIG[1707100002]
+KEY[17071   16  E 3/8]
+MEL[+1_+1_+17  +17+1_+17  +175_3b2  (123b)5_3b_
+    2_4_3b2  (123b)5_6b_  4_4_(43b2)  (123b)5_1_ //]
+BEM[]
+
+DWOK17
+CUT[A dał mi pan pieniędzy]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Markuszewa, s. 28]
+FKT[]
+SIG[1707200001]
+KEY[17072   16  C 3/8]
+MEL[+5_+5_+3_  +4+3+5_+2_  +5_+5_+3_  +4+2+1_6_
+    5_7_+1_  +4+3+1_+2_  +3_+4_+2_  75+1_6_ //]
+BEM[]
+
+DWOK17
+CUT[A dał mi pan pieniędzy]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Markuszewa, s. 28]
+FKT[]
+SIG[1707200002]
+KEY[17072   16  C 3/8]
+MEL[+5_+5_+3_  +4+3+5_+2_  +5_+5_+3_  +27+1_6_
+    5_7_+1_  +4+3+1_+2_  +3_+4_+2_  755_6_ //]
+BEM[]
+
+DWOK17
+CUT[Oj staremu, staremu]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Firleja, Kamionki s. 28]
+FKT[]
+SIG[1707300000]
+KEY[17073   16  C 3/8]
+MEL[+5+4#+1_+3+2  +3+4#+5_+2_
+    +5+4#+1_+3+2  +3+17_5_
+    57+1_+3+2  +3+1+4_5_
+    57+1_+2+3  +2+17_5_ //]
+BEM[]
+
+DWOK17
+CUT[Malutki ja dla dzieweczki]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Końskowoli (Zyrzyn) s. 28]
+FKT[]
+SIG[1707400000]
+KEY[17074   32  A 3/8]
+MEL[4__2__3b_4_  5_3b21__3b__
+    4_4_2__3b_4_  5_3b21__2_3b_
+    -5__-7__-7__  1_2_3b_1_3b_5_
+    -5_-5_-7__-7__  1_-7b-6b-5__-6b__ //]
+BEM[]
+
+DWOK17
+CUT[Oj do dom chłopcy do dom]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Turka) s. 28]
+FKT[]
+SIG[1707500000]
+KEY[17075   16  G 3/8]
+MEL[112_4_  24#5_3_  132_4_  24#5_31
+    132_54#  2-71_3_  332_3_  2-71_-5_ //]
+BEM[]
+
+DWOK17
+CUT[Ej mynarzu - Kowal]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Bełżyc, Opola s. 28,29]
+FKT[]
+SIG[1707600010]
+KEY[17076   16  C 3/8]
+MEL[57+1_+3_  7_+1_+3_  +3+17_5_  7_+1_+3_
+    57+1_+3_  7_+1_+3_  +1+17_5_  5_7_+1_ //]
+BEM[Ob. nr 29]
+
+DWOK17
+CUT[Ej mynarzu - instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Bełżyc, Opola s. 28,29]
+FKT[]
+SIG[1707600020]
+KEY[17076   16  C 3/8]
+MEL[57+1_+3_  +5_+5_+4#_  +27+1_+3_  +5_+5_+4#_
+    +27+1_+3_  +27+1_5_  57+1_5_  5_7_+1_ //]
+BEM[]
+
+DWOK17
+CUT[Jechał kozak z Ukrainy - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina, s. 29]
+FKT[]
+SIG[1707700010]
+KEY[17077   32  G 3/8]
+MEL[1_.35__5__  5_.35__5__  5_.+15__5__  5_3_5___ //]
+BEM[W szopce, wśród tańca lalek]
+
+DWOK17
+CUT[Jechał kozak z Ukrainy - instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina, s. 29]
+FKT[]
+SIG[1707700020]
+KEY[17077   16  G 3/8]
+MEL[246_6_  531_31  -72-7_2-5  131_.-7
+    -72-7_-7-5  131_2_  -72-7_2-5  131_.-7 //]
+BEM[]
+
+DWOK17
+CUT[I Ja Mazur i ty Mazur ]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Kaźmierza, Wąwolnicy, s. 29]
+FKT[]
+SIG[1707800010]
+KEY[17078   16  C 3/8]
+MEL[+1+3+5_+2_  +4+6+5_+3_  (5+1+3)+5_+5+2  +4+4+3_+1_
+    7+2+4_+27  +1+3+3_+5_  (57+2)+4_+4+6  +6+5+3_+1_ //]
+BEM[]
+
+DWOK17
+CUT[I ja Mazur i ty Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Kaźmierza, Wąwolnicy, s. 29]
+FKT[]
+SIG[1707800020]
+KEY[17078   16  C 3/8]
+MEL[(5+1+3)+5_+5+4#  +5+5+3_+17  (57+2)+4_+4+3  +4+4+2_7_
+    5+1+3_+3+2  +3+3+2_+17  657_+2_  +2+27_5_
+    5+1+3_+3+2  +3+3+2_+17  (57+2)+4_+4+3  +4+4+2_7_ //]
+BEM[]
+
+DWOK17
+CUT[Cztery mile za Warszawą]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Puław, s. 29,30]
+FKT[]
+SIG[1707900000]
+KEY[17079   16  F 3/8]
+MEL[135_7_  +166_5_  135_7_  +166_53
+    135_4_  222-71_  135_43  422_1_ //]
+BEM[]
+
+DWOK17
+CUT[Stara baba dziad młody]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Puław (Osiny), s. 30]
+FKT[]
+SIG[1708000000]
+KEY[17080   16  G 3/8]
+MEL[3b54#56b5  4#53b_21  3b5+1_.5  4#_3b_21
+    1-7-5_-7_  155_3b2  1-7-5_-7_  2_1_3b2 //]
+BEM[]
+
+DWOK17
+CUT[Ja z tobą ty ze mną - Walc]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Puław, walc, s. 30]
+FKT[]
+SIG[1708100000]
+KEY[17081   16  G 3/8]
+MEL[-5_1_1_  3_21#2_  -5_1_1_  3_21#2_
+    5_5_5_  6_6_6_  5_-7242  3_1_1_ //]
+BEM[]
+
+DWOK17
+CUT[Takie kwaśne mliko dobre]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lubartowa, s. 30]
+FKT[]
+SIG[1708200000]
+KEY[17082   16  F 3/8]
+MEL[+1+17_+2_  +1+15_7_  +1+17_+2_  +156__
+    445_7_  665_3_  445_31  421__ //]
+BEM[]
+
+DWOK17
+CUT[Oj zdybałem se ptaszka]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Tatary), weselna, s. 30]
+FKT[]
+SIG[1708300000]
+KEY[17083   16  C 3/8]
+MEL[+5_+5_+4_  +3+5+5_+4_  +3_+1_+2_  7+2+1_5_
+    4_6_5_  7+1+2_+4_  +3_+1_+2_  7+2+1_5_ //]
+BEM[]
+
+DWOK17
+CUT[Oj służbo moja służbo ]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Opola, s. 31]
+FKT[]
+SIG[1708400010]
+KEY[17084   16  G 3/8]
+MEL[5__35  554_2_  1_1_-5_  -6-1-6_-5_
+    -7_1_1_  334_2_  1_1_-5_  -41-5_-5_ //]
+BEM[Ob. nr 62]
+
+DWOK17
+CUT[Oj służbo moja służbo]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Opola, s. 31]
+FKT[]
+SIG[1708400020]
+KEY[17084   32  G 3/8]
+MEL[1_3_2__3_4_  5_432__4_3_  1_3_2__3_4_  5_432__1__
+    3_3_2__4__  2_-7_1__3_2_  3_1_2__4__  2_-7_1__-5__ //]
+BEM[]
+
+DWOK17
+CUT[Ej otwórzże mi otwórz, moja Kasiu pirsa - Owczarska zalotna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Opola, s. 31]
+FKT[]
+SIG[1708500001]
+KEY[17085   16  F 3/8]
+MEL[+1__57  +1+1+2_+2_  +175_6_  421__
+    2_5_1_  245_2_  245_65  421__ //]
+BEM[]
+
+DWOK17
+CUT[Ej otwórzże mi otwórz, moja Kasiu pirsa - Owczarska zalotna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Opola, s. 31]
+FKT[]
+SIG[1708500002]
+KEY[17085   16  F 3/8]
+MEL[+1__57  +1+3+2_+2_  +175_6_  421__
+    2_5_1_  245_21  245_65  421__ //]
+BEM[]
+
+DWOK17
+CUT[Ten ładny, ten ładny]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Puław (Osiny), s. 31,32]
+FKT[]
+SIG[1708600000]
+KEY[17086   32  C 3/8]
+MEL[+4__+3__+2__  +4__+3__+2__  +4__+3__+1__  +2_+1_6__5__
+    6_7_+1__5__  6_7_+1__+2__  +2__+1__6_7_  +2_.+16__5__
+    +4__+3__+1__  +2_+3_+4__+2_+3_  +2_7_+1__+3__  +2_+176_7_5__
+    6_7_+1__5__  6_7_+1_+3_+2__  +2_7_+1_7_6_7_  +2_.+16_7_5__ //]
+BEM[]
+
+DWOK17
+CUT[Oj u nasego pana]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Kaźmierza, s. 32]
+FKT[]
+SIG[1708700000]
+KEY[17087   16 Bb 3/8]
+MEL[5_5_54#  565_6_  3_2_4#5  421_-5_
+    -5-71_2_  -5-71_2_  -5-71_31  (432)1_-5_
+    (-5-6-7)1-72-7  (-5-6-7)1-72-7  (-5-6-7)1_35  432_1_ //]
+BEM[Wariant t. 4: 4321_-5_]
+
+DWOK17
+CUT[Po ctyry po ctyry]
+REG[]
+TRD[DWOK17 Lubelskie 2 Gałęzowska wola, s. 32]
+FKT[]
+SIG[1708800000]
+KEY[17088   16  G 3/8]
+MEL[3_5_6_  3_5_1_  3_5_65  3_5_21
+    4_2-71_  3_5_65  342-71_  3_1_-6-5 //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Owczarek]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Turka), s. 32]
+FKT[]
+SIG[1708900000]
+KEY[17089   32  F 3/8]
+MEL[6__+1__+1_7_  +1_+1_7__5__  7__6__2__  4_4_3__5__
+    2_34#5__7__  +1_+1_7__5__  7__6__2__  4_4_3__1__
+    3b__5__6_7_  +1_+1_7__4#__  5__(4#_3_2_)1__  3b_3b_2__4__
+    3b__5__6_7_  +1_6_7__4#__  5__4#_2_1__  3b_3b_2__4__ //]
+BEM[U Kolberga wątpliwy zapis melodyczny, prawdopodobnie niekonsekwentnie stosowane znaki chromatyczne]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 Bychawa, s. 32,33]
+FKT[]
+SIG[1709000000]
+KEY[17090   16  G 3/8]
+MEL[1_.234  5_.342  3_3_32  1-7-5-6-7-5
+    1_.234  5_.342  -724_32  345_-5_
+    -712_2_  5_-7_-7_  1_-6_-6-5  -712321
+    -712_2_  5_5_7_  +1_6_4#2  5_-5-6-7-5 //]
+BEM[]
+
+DWOK17
+CUT[Oj boże mój, da boże]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Lublina (Dys), s. 33]
+FKT[]
+SIG[1709100000]
+KEY[17091   16  G 3/8]
+MEL[124_6_  +1_7_5_  654__  3_2_1_
+    124_4_  1_3_2_  124__  3_2_1_ //]
+BEM[]
+
+DWOK17
+CUT[Nie byłem tam tylko raz]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Bychawy (Gałęzów), s. 33]
+FKT[]
+SIG[1709200001]
+KEY[17092   16  C 3/8]
+MEL[57+1_+3_  +2_+3_+1_  +2+4+3+4+6_  +6_+3+4+27
+    (567)+1_+3_  +2_+3_+1_  776_6_  5767+2_ //]
+BEM[]
+
+DWOK17
+CUT[Nie byłem tam tylko raz]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Bychawy (Gałęzów), s. 33]
+FKT[]
+SIG[1709200002]
+KEY[17092   16  C 3/8]
+MEL[(567)+1_+3_  +5+4+2+3+1_  (+2+3+4)+6_+6_  +6_+5+6+4_
+    +27+1_+3_  +2_+3_+1_  7+26_64  (567)+1_5_ //]
+BEM[]
+
+DWOK17
+CUT[A szanują mię ludzie i konika mojego]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Markuszewa, Lubartowa, s. 33]
+FKT[]
+SIG[1709300000]
+KEY[17093   16 Bb 3/8]
+MEL[4_4_6_  432_1_  2_2-7-5_  -713_5_
+    4_4_6_  653_1_  4_2-7-5_  -713_1_
+    222-7-5_  -5-72135  342-7-5_  -713_1_ //]
+BEM[]
+
+DWOK17
+CUT[A jesce ja nie hultaj]
+REG[]
+TRD[DWOK17 Lubelskie 2 Gałęzów, s. 34]
+FKT[]
+SIG[1709400000]
+KEY[17094   16 Bb 3/8]
+MEL[4_4_42  353_2-7
+    4_4_42  313_2_
+    -5_-6-71_  353_2-7
+    -5_-6-71_  313_2_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 Bychawka, s. 34]
+FKT[]
+SIG[1709500000]
+KEY[17095   16 Bb 3/8]
+MEL[321_-71  2_-7-6-5_  -724_34  345_.4
+    321_-71  2_-7-6-5_  -724_5_  3_1_1_
+    3_5_4#_  2_-5_-5-6  -724_5_  3_1_2_
+    3_5_4#_  2_-5_-5-6  -724_1_  3_1_1_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 Bychawa, s. 34]
+FKT[]
+SIG[1709600000]
+KEY[17096   32  G 3/8]
+MEL[1_3_5__+1__  6__+1__6_4_  5__3__+1_5_  5_.52__4_3_
+    1_3_5__+1__  6__+1__6_4_  5__3__5_3_  5_.52__4_3_
+    1_3_5__3_1_  4_6_7_6_5_4_  3__(1_2_3_)4_2_  2_.-72__4_3_
+    1_3_4__3_1_  4_6_7_6_5_4_  3__1_3_4_2_  -7_-5_2__1__ //]
+BEM[]
+
+DWOK17
+CUT[Kazali mi orać]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Bychawy (Gałęzów), s. 34]
+FKT[]
+SIG[1709700001]
+KEY[17097   16  G 3/8]
+MEL[2_6_6_  5#62__  465_4_  231__
+    4_3_5_  2-71_2_  465_4_  231__ //]
+BEM[]
+
+DWOK17
+CUT[Kazali mi orać]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Bychawy (Gałęzów), s. 34]
+FKT[]
+SIG[1709700002]
+KEY[17097   16  G 3/8]
+MEL[266_6_  5#62__  465_43  231__
+    4_3_5_  2-71_23  465_43  231__ //]
+BEM[]
+
+DWOK17
+CUT[A chodziła po miedzy i sukała pieniędzy]
+REG[]
+TRD[DWOK17 Lubelskie 2 Gałęzów, s. 34]
+FKT[]
+SIG[1709800000]
+KEY[17098   16  G 3/8]
+MEL[-5-7246_  5_235_  342-7-5-7  -6_-5-61_
+    -5-72_4_  3_231_  3_2-7-5_  -6_-5-61_ //]
+BEM[]
+
+DWOK17
+CUT[Tutaj buty, tam buciki]
+REG[]
+TRD[DWOK17 Lubelskie 2 Gorzków, s. 35]
+FKT[]
+SIG[1709900000]
+KEY[17099   16  G 3/8]
+MEL[135_5_  565_54  312_2-7  -5_-5-71_
+    -5-71_32  354_4_  312_2-7  -5_-5-71_ //]
+BEM[]
+
+DWOK17
+CUT[Ej głosie bo mój głosie]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Tarnogóry (Ostrzyca) s. 35]
+FKT[]
+SIG[1710000000]
+KEY[17100   16  C 3/8]
+MEL[5_7_+1_  +3+1+4_.+3  +2_+2_+1_  66+2_7_
+    5_7_+1_  667_+2_  5_7_+1_  66+2_7_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Turobina (Chłaniów) s. 35]
+FKT[]
+SIG[1710100000]
+KEY[17101   16  C 3/8]
+MEL[5_67+1_  (+2+3+4)+3+2+6+5  (+4+3+2)+1+3+2_  (+175)67+16
+    5_67+1_  +2_(+27+1)+2+3  +3_(+3+2+3)+4_  (+175)67+16
+    5_67+1_  +2_(+27+1)+2+3  +4+3(+3+2+3)+4+2  (+175)67+16 //]
+BEM[]
+
+DWOK17
+CUT[Zielona dąbrowo]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Tarnogóry (Ostrzyca) s. 35]
+FKT[]
+SIG[1710200001]
+KEY[17102   16 Bb 3/8]
+MEL[135__  5_6_6_  5_2_.-5  4_321_
+    -712_.-5  4_3_3-6  -712_.-5  4_321_ //]
+BEM[]
+
+DWOK17
+CUT[Zielona dąbrowo]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Tarnogóry (Ostrzyca) s. 35]
+FKT[]
+SIG[1710200002]
+KEY[17102   16 Bb 3/8]
+MEL[135__  5_6_6_  562_.1  4_321_
+    -712_.1  4_3_32  312_.1  4_321_ //]
+BEM[]
+
+DWOK17
+CUT[Ja parobek nie tutejszy]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Tarnogóry (Ostrzyca) s. 35]
+FKT[]
+SIG[1710300000]
+KEY[17103   16  G 3/8]
+MEL[212_6_  654_.3
+    212_6_  654_.3
+    212_-7_  124_.3
+    -5-72_-7_  124_.3 //]
+BEM[]
+
+DWOK17
+CUT[Ej a wy sieroteńki]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Turobina s. 36]
+FKT[]
+SIG[1710400000]
+KEY[17104   16  G 3/8]
+MEL[5__(4#56)  54#5_(321)
+    354#_2_  213__
+    354#_2_  (234#)5_31
+    354#_2_  -713__ //]
+BEM[]
+
+DWOK17
+CUT[Oj płakała dziewczyna]
+REG[]
+TRD[DWOK17 Lubelskie 2 Modlibożyce s. 36]
+FKT[]
+SIG[1710500000]
+KEY[17105   32  A 3/8]
+MEL[3b__5__5__  5_+17b6b__5__
+    4_3b21__3b__  5__4___
+    -7b__3b__2__  3b_4_6b__5__
+    4_2_1__3b__  2__1___ //]
+BEM[U Kolberga błędnie zapisano metrum 3/4]
+
+DWOK17
+CUT[Hej zieleń że się zieleń]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Szczebrzeszyna s. 36]
+FKT[]
+SIG[1710600000]
+KEY[17106   16  F 3/8]
+MEL[+1+17_64#  554#567
+    3_.234  554562
+    +1_7_6_  54#5_31
+    3_.234  54#5_31 //]
+BEM[]
+
+DWOK17
+CUT[W Poniedziałki i we wtorki]
+REG[]
+TRD[DWOK17 Lubelskie 2 od Urzędowa s. 36]
+FKT[]
+SIG[1710700000]
+KEY[17107   16  G 3/8]
+MEL[135_+1_  +1767+1_
+    135_+1_  65431_
+    443_3_  222135
+    443_3_  2-71-6-5_ //]
+BEM[]
+
+DWOK17
+CUT[Wara chłopcy wara]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 37 od Tarnogóry]
+FKT[]
+SIG[1710800000]
+KEY[17108   16  C 3/8]
+MEL[+1+3+5__  +4_+3+2+1_  +2+1+3_+4#_  +5_+2__
+    +1+3+5__  +4_+3+2+3_  +2+15_67  +1_5__
+    (567)+1_+3+2  +4_+3+2+3+1  (+2+3+4)+2_+3+3  +5_+5+4#+5_
+    (+2+3+4)+6_+6+5  +4_+3+2+1+1  7+26_64  5_57+1_ //]
+BEM[U Kolberga błędnie podano metrum 3/4]
+
+DWOK17
+CUT[OJ nie bij że mnie nie bij]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 37 od Żółkiewki]
+FKT[]
+SIG[1710900000]
+KEY[17109   16  G 3/8]
+MEL[5_4#_24#  532_-7_
+    1_-5_-7_  1-6-5__
+    1_-5_-72  134#_2_
+    1_-5_-7_  1-6-5__ //]
+BEM[W t. 6 dwudźwięk]
+
+DWOK17
+CUT[Oj sierota ja była]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 37 Sobieska-wola, Ob. Nr. 127.]
+FKT[]
+SIG[1711000000]
+KEY[17110   32 Bb 3/8]
+MEL[5_4#_2__3_4#_  5_4#21__.3_
+    5_4#_2__3_4#_  5_4#21__-5__
+    -4_-6-72__2_-7_  1_3_1_2_3_1_
+    -4_-6-72__-7__  1_3_1__-5__ //]
+BEM[]
+
+DWOK17
+CUT[Siwy konik zaryżał]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 37 od Tarnogóry]
+FKT[]
+SIG[1711100000]
+KEY[17111   16  F 3/8]
+MEL[6_+16+1_  757+275
+    6_+1_+1_  754_.3
+    1_3135  46+17+2_
+    1_3_3_  424_.3 //]
+BEM[]
+
+DWOK17
+CUT[Oj nie pójdę]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 38 od Piasków (Rybczewice)]
+FKT[]
+SIG[1711200001]
+KEY[17112   16  F 3/8]
+MEL[+175_.7  +1+2+1_7_  +164_31  2_2_1_
+    464_31  4_6_53  464353  2_2_1_
+    464_3_  4_6_5_  464313  2_2_1_ //]
+BEM[Nuta Ser. II n 279.]
+
+DWOK17
+CUT[Oj nie pójdę]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 38 od Piasków (Rybczewice)]
+FKT[]
+SIG[1711200002]
+KEY[17112   16  F 3/8]
+MEL[575_.7  +1_+1_7_  +164_3_  2_2_1_
+    464_31  4_6_53  464353  2_2_1_
+    464_3_  4_6_5_  464313  2_2_1_ //]
+BEM[Nuta Ser. II n 279.]
+
+DWOK17
+CUT[Oj uwiód żeś mnie uwiód]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 38 od Bychawy]
+FKT[]
+SIG[1711300000]
+KEY[17113   16  C 3/8]
+MEL[+4_+4_+3+2  +1+3+2_7b_  5_5_75  (67+1)+2_(67b6)
+    +5_+4_(+4+3+2)  +3+1+2_7_  5_5_(765)  (67+1)+2_+1_
+    +4_+4+5+3+2  (+4+5+6)+2_(+176)  5_5675  (67+1)+2_(+4+3+2)
+    +4_+4+5+3+2  +4+6+2_(+176)  5_5675  (67+1)+2_+1_ //]
+BEM[Text ob. Ser. XVI n. 456.]
+
+DWOK17
+CUT[Oj da to w tych tatarach]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 39 od Lublina Tatary]
+FKT[]
+SIG[1711400000]
+KEY[17114   16  G 3/8]
+MEL[-716_6_  (54#5)6_6_  554_4_  2_1__
+    -71234_  5__42  243_4_  2_1__
+    (234)5_54#  565_43  (311)-5-72-7  132_43
+    235_54#  565_43  1_-5-72-7  132_43 //]
+BEM[]
+
+DWOK17
+CUT[Oj nowy dwór]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 39 od Wąwolnicy]
+FKT[]
+SIG[1711500000]
+KEY[17115   16  A 3/8]
+MEL[5_5_5_  46b5_1_  3b_4_1_  2-71_-5_
+    -7_1_3b_  554_1_  3b_4_1_  2-71_-5_ //]
+BEM[]
+
+DWOK17
+CUT[Oj da moja matulu]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 39 Gałęzów]
+FKT[]
+SIG[1711600000]
+KEY[17116   16  C 3/8]
+MEL[7_+1_+2+4  (+3+5+3)+2_.+1
+    7_+1_+2+4  +3+3+2_(765)
+    7+1+2_(765)  464_56
+    (67+1)+2_(765)  464_5_ //]
+BEM[Obacz nr 42]
+
+DWOK17
+CUT[Wtenczas kowal młotem bije -Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 40 Mazur, Janów ordynacki]
+FKT[]
+SIG[1711700010]
+KEY[17117   16  C 3/8]
+MEL[57+1_+3_  +2_+1_+3_  57+1_.+3  +2_7_+1_
+    (567)+1_+3_  +27+1+2+3+1  (567)+1_.+3  +2+17+2+1_
+    57+1_.6  +2_7_+1_  +2_7_+1_  +2+1765_
+    (567)+1_.6  +2+1767+1  +2+1767+1  +2+17+2+1_ //]
+BEM[]
+
+DWOK17
+CUT[W tenczas kowal młotem bije -Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 40, Janów ordynacki]
+FKT[]
+SIG[1711700020]
+KEY[17117   16  G 3/8]
+MEL[557_+1_  6+17_+1_  1357+1_  642_1_
+    552_1_  6+12_1_  557_+1_  642_1_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 40 Mazur od Puław]
+FKT[]
+SIG[1711800010]
+KEY[17118   16  G 3/8]
+MEL[-5_-5__  -531__  35+1_43  234__
+    -7_6_43  21-726_  5_5_-6-7  1_1__
+    -5-5-51-7-6  -531__  35+1_43  234__
+    -7-76_43  21-726_  555-5-6-7  131__
+    35+1_43  222_(1-7-6)  -5-72_4#6  5_4_3_
+    35+1_43  222_(1-7-6)  -5-72_4#6  5_4_32 //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 40 Mazur od Puław]
+FKT[]
+SIG[1711800020]
+KEY[17118   16  C 3/8]
+MEL[(567)+1_(+176)  (567)+1_(+176)  (567)+1_(+176)  (543)2_1_
+    554346  (543)2_34  554346  (543)2_1_ //]
+BEM[]
+
+DWOK17
+CUT[Oj dziwują się ludzie]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 41 Ob. n. 119 i 111 od Żółkiewki (Sobieska Wola)]
+FKT[]
+SIG[1711900000]
+KEY[17119   32  C 3/8]
+MEL[+2_+4#_+5__+5__  +2__+4_+3_+1__  +2_7_6__6_4_  5__5_7_+1__
+    +1_6_4__6_+1_  +2__+3__+1__  +2_7_6__4__  5__7__+1__
+    +2_7_+1__+2__  (+3_+2_+3_)+4__.+1_  (+2_+3_+4_)+6__+6__  +5__+4__+3_+1_
+    (5_6_7_)+1__+2__  +3_+5_+2__.7_  +2_.+16_.+16__  5__5_7_+1__ //]
+BEM[W t. 15 dwudźwięki; w t. 9 skorygowano oryginalny zapis rytmiczny: +2__7__+1__+2__ ]
+
+DWOK17
+CUT[Ej kowalu]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 41 od Żółkiewki]
+FKT[]
+SIG[1712000000]
+KEY[17120   16  C 3/8]
+MEL[+2+4#+5_.+5  +4#_+5_+3_
+    +2+4#+5_.+5  +4#_+3+1+3_
+    +275_.7  +1_6_+1_
+    +275_.7  +1_+1+1+3_ //]
+BEM[Lud, Ser. XVII.]
+
+DWOK17
+CUT[Ej rada bym sie rada]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 42 od Żółkiewki]
+FKT[]
+SIG[1712100000]
+KEY[17121   32  E 3/8]
+MEL[3__5__7__  +1_6b54__1__
+    3__5__3__  2_4_2__1__
+    3__5__3__  2_4_6__1__
+    3__5__3__  2_4_2__1__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 42 Sobieska-wola]
+FKT[]
+SIG[1712200000]
+KEY[17122   16  C 3/8]
+MEL[+3_+4_+2+1  +3_+5_+2+1  +3_+4_+2+1  (+3+1+3)+5_+2+1
+    +3_+5+4#+2+5  +3_+5_+2+1  +3_+5+4#+2+5  (+3+1+3)+5_+2+1
+    +3_+5+4#+2+5  +4#+2+5+4#+2+5  +4#+2+5+4#+27  +3+16_4_
+    (+3+1+3)+5+4#+2+5  +4#+2+5+4#+2+5  +4#+2+5+4#+2+5  +3+16_4_
+    5_57+27  +1646+16  5_57+27  +164_6_
+    5_57+27  +1646+16  5_57+27  +164_6_ //]
+BEM[W 1t. dwudźwięki]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 42 Bychawa]
+FKT[]
+SIG[1712300000]
+KEY[17123   16  G 3/8]
+MEL[353565  353565  353565  4#56567
+    +1_+1_7_  6_.434  6_4_6_  653_1_
+    +1_+1_7_  6_6434  6_646_  653_1_
+    234_42  135_5_
+    234242  1_1__ //]
+BEM[]
+
+DWOK17
+CUT[Nie będę ja barszczu jadła]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 43 od Urzędowa]
+FKT[]
+SIG[1712400000]
+KEY[17124   16 Bb 3/8]
+MEL[-5-5-7_1_  2-72432  226_5_  42-7_1_
+    246_5_  2-72_3_  22-7_1_  12-7_1_
+    2_2-71_  32-7-51_  124_31  32-7-51_ //]
+BEM[Nuta: LudSer. XIII n. 201, 215, 311, 325, 328.]
+
+DWOK17
+CUT[Oj świećże nam miesiączku od Goraja (Chrzanów szlachecki]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 43]
+FKT[]
+SIG[1712500000]
+KEY[17125   16  G 3/8]
+MEL[4_6_6_  531_.3  4_6_6_  531__
+    4_3_5_  421__  4_3_-5_  -721_23
+    464_46  531_13  464346  531_1_
+    42-7_-72  431_13  42-7-6-72  431_1_ //]
+BEM[Przy żniwie, gdy tłoka. Przygrywają wtedy na skrzypcach, i biją w bębenek (ob. Ser. XVI str.123).]
+
+DWOK17
+CUT[Oj poszed Niemiec orać]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 43 od Biłgoraja]
+FKT[]
+SIG[1712600000]
+KEY[17126   16  G 3/8]
+MEL[5_.4#54#  54#5_3_  354_2_  243_1_
+    3542-72  446_5_  354_2_  243_1_
+    1_.-71-7  (124)3_-7_  1_.-71-7  (124)3__ //]
+BEM[]
+
+DWOK17
+CUT[Oj czy ja skrobię]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 44 Obacz nr 67, od Zamościa]
+FKT[]
+SIG[1712700000]
+KEY[17127   16  G 3/8]
+MEL[1_2_43  242_5_  6_5_43  242_-71
+    3_5_31  242_-71  235_31  246_65
+    2124#6_  624_31  2124#6_  642_-71
+    -5-6-713_  324_.1  24313_  32-7_.1 //]
+BEM[]
+
+DWOK17
+CUT[Co to masz dziewczyno pod zapaseczką]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 44 od Zamościa (Wielącza)]
+FKT[]
+SIG[1712800000]
+KEY[17128   32  G 3/8]
+MEL[5__6__5__  4#__6__5__  1__3__5__  4#__2__1__
+    3__3__2__  -7_1_3__2__  1__3__5__  4#__2__1__
+    5__4#_6_5__  4__3_2_1__  3__2_3_5__  4__3_2_1__
+    1_2_3__5__  4__.2_3__  1_.21_2_3__  4__3_.23_2_ //]
+BEM[]
+
+DWOK17
+CUT[Ośenił się rano]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 44 od Szczebrzeszyna]
+FKT[]
+SIG[1712900000]
+KEY[17129   16 Bb 3/8]
+MEL[0_3_22  6_531_  (324)6_5_  -5_-721_
+    0_3_22  2-72-724  332_4_  -5_-7_1_ //]
+BEM[]
+
+DWOK17
+CUT[Ej obiecał mi kowal]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 45 Janów Ordynacki]
+FKT[]
+SIG[1713000000]
+KEY[17130   16  G 3/8]
+MEL[123_4_  5_6_7_
+    535_4_  1_3_2_
+    123_4_  2_5_-7_
+    123_4_  1_3_2_ //]
+BEM[Nuta ob. Ser. XIII n. 150.]
+
+DWOK17
+CUT[Ej obiecał mi kowal]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 45, Radecznica]
+FKT[]
+SIG[1713100000]
+KEY[17131   16 Bb 3/8]
+MEL[-5-71_2_  435__  (313)5_3_  2-7-5__
+    135_31  -724__  (313)5_31  2-7-5__
+    (-5-6-7)1_2_  465_.2  (313)5_3_  2-7-5_.-7
+    135_31  (1-72)4_.5  (313)5_31  (12-7)-5_.-7 //]
+BEM[Nuta ob. Ser. XIII n. 277. W tańcu]
+
+DWOK17
+CUT[Instumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 45 Mazur, od Janowa Frampola]
+FKT[]
+SIG[1713200000]
+KEY[17132   16  C 3/8]
+MEL[+3+5+6_+6_  +5_+4+3+2+1  +3+5+4+3+2+1  +2+37_+1_
+    +5_+6_+6_  +5_+4+3+2+1  +3+5+4+3+2+1  +2+37_+1_
+    5_7+1+2+3  +4_+4+3+4+6  +5+5+3_+1_  +2+4+2_+1_
+    567+1+2+3  +4+5+4+3+4+6  +5+5+3_+1_  +2+4+27+1_
+    +1+3+2+1+3+5  5_7_+1_  +1+3+2+1+3+5  57+27+1_ //]
+BEM[]
+
+DWOK17
+CUT[Wiele się chłop założył]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 46 od Janowa (Flisy)]
+FKT[]
+SIG[1713300000]
+KEY[17133   16  G 3/8]
+MEL[1_.564  3_2_2_  354_4_  3_2_2_
+    354_4_  5_642_  354_6_  3_2_2_ //]
+BEM[Nuta Ser. I n. 188, 235. Wariant t. 1: 5_.564]
+
+DWOK17
+CUT[Oj ze główka mnie boli]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 46 od Frampola]
+FKT[]
+SIG[1713400000]
+KEY[17134   16  F 3/8]
+MEL[6+17_75  6_4#_5_  6+17_+2_  67+1_5_
+    643_5_  234_1_  243_31  2_-7_1_ //]
+BEM[W t. 5 skorygowano rytm, zgodnie z przebiegiem dla t. 7]
+
+DWOK17
+CUT[Oj niech mnie matka bije]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 46 od Frampola]
+FKT[]
+SIG[1713500000]
+KEY[17135   32  F 3/8]
+MEL[+1__+1__7__  5_7_+1__6__
+    +1__+1__7__  5_3_2__4__
+    3__5__7__  6_7+16__4__
+    3__5__7__  6_532__4__ //]
+BEM[]
+
+DWOK17
+CUT[Kożuszek barani]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 47]
+FKT[]
+SIG[1713600000]
+KEY[17136   16  C 3/8]
+MEL[+5_+4_+2_  +165__
+    +3_+4_+2_  +165__
+    +1+3+4_+27  +1+2+3_+1_
+    +3+3+4_+27  +1+2+3_+1+2
+    +3_+4_+2_  +165__ //]
+BEM[obacz Ser. II nr. 305.]
+
+DWOK17
+CUT[Ty muzyczku ładno grasz]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 47 od Łęcznej]
+FKT[]
+SIG[1713700000]
+KEY[17137   16  C 3/8]
+MEL[+1+3+5_(+4#+5+4#)  (+2+3+4#)+5_+3_
+    +1+3+5_+4#_  +27+1_5_
+    (+5+4#+5)+2_(+5+4#+5)  (567)+1_(+3+5+4#)
+    +5_+2_+5_  +27+1_5_ //]
+BEM[Ob. nr 15.]
+
+DWOK17
+CUT[Ej gorzałeczko moja]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 47 od Łęcznej (Łuszczów)]
+FKT[]
+SIG[1713800000]
+KEY[17138   16  G 3/8]
+MEL[(-5-6-7)1_34#  535_6_
+    531_34#  535_4#_
+    2-7-5_-6-7  135_6_
+    2-7-5_-6-7  1-61_-7_ //]
+BEM[]
+
+DWOK17
+CUT[A ja tobie, a ty mnie]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 47 od Łęcznej]
+FKT[]
+SIG[1713900001]
+KEY[17139   16  G 3/8]
+MEL[(-5-6-7)1_2_  4_6_5_
+    (432)1_2_  4_6_5_  (432)1_-5_  -7b_-6_-5_
+    (-5-72)1_-5_  -7_1_3_  (242)1_2_  -7b_-6_-5_ //]
+BEM[Ob. nr 159. Wariant t. 9: (242)1_2_]
+
+DWOK17
+CUT[Oj moja matuleńku]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 47 od Markuszowa, Kurowa]
+FKT[]
+SIG[1714000000]
+KEY[17140   16  G 3/8]
+MEL[1_3_4#_  5_6_6_  5_6_42  -72433_
+    1_3543  24655_  1_3542  -72433_
+    1_3_4#_  566_65  566_42  -72433_
+    3_3543  24655_  3_3542  -72433_
+    1_3_3_  1_3_3_  1_3_3_  1_3_3_ //]
+BEM[]
+
+DWOK17
+CUT[Czyliż ty dziewczyno z kamienia -Sierota]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 48, od Puchaczowa, Łęczny]
+FKT[]
+SIG[1714100000]
+KEY[17141   16  G 3/8]
+MEL[-721__  4_3_5_  421__  -6_-7_-5_
+    -721__  4_3_5_  421__  -6_-7_-5_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna -Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 48 od Piasków]
+FKT[]
+SIG[1714200000]
+KEY[17142   16  C 3/8]
+MEL[+5_+4#_+2_  +3__+16  +2+17_6_  5_.567
+    +1+2+3+4+5_  +6_+4_+2_  +3+3+1_6_  5_.567
+    +1+2+3+4+5_  +6_+4_+2_  +3+3+1_6_  5_.567
+    +1+2+3_+1_  7+2+6_.+5  +4+2+3_7_  +165_.7
+    +1+2+3_+1_  7+2+6_.+5  +4+2+3_7_  +1_5__
+    +1__+2+3  +1__+2+3  +1__+2+3  +1__+2+3 //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna -Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 49, Zamość]
+FKT[]
+SIG[1714300000]
+KEY[17143   16  F 3/8]
+MEL[5_3_.1  5_+1_.7  557_+2_  +1_+3_+1_
+    5_3_.1  5_+1_.7  557_+2_  (+17+1)+3_+16
+    5_3_.1  -724_6_  65342-7  21-7_1_
+    565_31  -724_6_  65342-7  135_+1_ //]
+BEM[]
+
+DWOK17
+CUT[Jasieńku Jasieńku]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 49 od Zaklikowa]
+FKT[]
+SIG[1714400001]
+KEY[17144   16 Bb 3/8]
+MEL[5_313_  5__6_  3_1_2-7  -5__.
+    1_3_1_  4_2_-7_  1_3_5_  2-7-5__ //]
+BEM[]
+
+DWOK17
+CUT[Jasieńku Jasieńku]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 49 od Zaklikowa]
+FKT[]
+SIG[1714400002]
+KEY[17144   32 Bb 3/8]
+MEL[5__(3_2_1_)3_4_  5___6__  (3_4_3_)1__(2_1_-7_)  -5___.
+    1__3__1__  4__2__(-7_-6_-5_)  1__3__5_4_  2_1-7-5___ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna -Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 49, Krasnystaw]
+FKT[]
+SIG[1714500000]
+KEY[17145   16  C 3/8]
+MEL[+5__+5_  +5+6+5_+3_  7+2+4_+3+1  7+2+4_+3_
+    7+2+4_+3+1  7+2+4_+3_  +4+6+5+6+5+1  7+2+1_5_
+    5+1+3_(+2+4#+6)  +5+4#+5_(+2+4#+6)  +5+4#+2+4+3+1  7+2+1_5_
+    5+1+3_(+2+4#+6)  +5+4#+5_(+2+4#+6)  +5+4#+2+4+3+1  7+2+1_5_
+    5+1+3_+1+3  +2+17+2+5_  5+1+3__  +2+17+2+1_ //]
+BEM[W t. 2, 4, 7, 8, 12 dwudźwięki]
+
+DWOK17
+CUT[Kociołek z descułek z dembowych tarcic]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 49 od Lublina (Dys)]
+FKT[]
+SIG[1714600001]
+KEY[17146   32  F 3/8]
+MEL[+1__5__7__  +1__7__+2__  +1__5__6__  3__1___
+    4__1__2__  4_3_1__2__  4__1__(2_3_2_)  4_3_1__2__
+    34_.34_.6_5_  (3_2_3_)1___ //]
+BEM[Lud, Ser. XVII. W t. 1, 5, 7 dwudźwięki]
+
+DWOK17
+CUT[Kociołek z descułek z dembowych tarcic]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 49 od Lublina (Dys)]
+FKT[]
+SIG[1714600002]
+KEY[17146   32  F 3/8]
+MEL[+1__5__(7_6_7_)  +1_+1_7__+2__  +1__(5_4_5_)6__  (3_2_3_)1___
+    4__1__2__  4_3_1__2__  4__1__(2_3_2_)  4_3_1__2__
+    34_.34_.6_5_  (3_2_3_)1___ //]
+BEM[Lud, Ser. XVII. W t. 1, 5, 7 dwudźwięki]
+
+DWOK17
+CUT[Oj w poluber]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 50 od Frampola (Dzwola)]
+FKT[]
+SIG[1714700000]
+KEY[17147   16  G 3/8]
+MEL[(123)4_57  +1_7+176  4_5_.3  421_1_
+    134_53  4_.576  4_5_.3  421__
+    (+17+1)7575  312321  135464  312_1_
+    435464  (567)6_1_  135464  312_1_ //]
+BEM[]
+
+DWOK17
+CUT[Mazureczka krowydoji]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 50 od Lublina (Czwartek)]
+FKT[]
+SIG[1714800001]
+KEY[17148   16  G 3/8]
+MEL[465#_6_  443_5_  342_3_  32-7_1_
+    (-5-6-7)1_23  446_5_  465_31  32-7_1_ //]
+BEM[]
+
+DWOK17
+CUT[Mazureczka krowy doji]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 50 od Lublina (Czwartek)]
+FKT[]
+SIG[1714800002]
+KEY[17148   16  G 3/8]
+MEL[465#_6_  443_5_  342131  32-7_-5_
+    (-5-6-7)1_23  (434)6_5_  465_31  32-7_1_ //]
+BEM[]
+
+DWOK17
+CUT[A ja sobie Tatarzanka]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 51, od Lublina (Tatary)]
+FKT[]
+SIG[1714900000]
+KEY[17149   16  C 3/8]
+MEL[+2+3+4_+23  +4_+3_+2+5
+    +2+3+4_+2_  +4_+3_+2+1
+    +2+17_54  +4_+3_+27
+    +2+17_5_  3_5_64 //]
+BEM[Obacz nr. 63]
+
+DWOK17
+CUT[Ej kobyła w olszynie]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 51 od Turobina]
+FKT[]
+SIG[1715000000]
+KEY[17150   16  G 3/8]
+MEL[2_6_5_  4#56_2_  2_6_5_  4#5(323)1_
+    2_3_1_  -712_3_  4_(323)1_  24#5_1_ //]
+BEM[Obacz nr 97]
+
+DWOK17
+CUT[Oj nie daj Boże deszczu]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 51 od Łęcznej Biskupic]
+FKT[]
+SIG[1715100000]
+KEY[17151   16  D 3/8]
+MEL[+1_+1_+1_  757_+1_  6+17+1+2+1  756_4_
+    3_1__  324_65  3_1__  323_1_ //]
+BEM[Nuta Ser. I n. 104. Wariant t. 2: 757_+2+1]
+
+DWOK17
+CUT[Oj uciekaj Jasienku]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 52 od Janowa ordynacki]
+FKT[]
+SIG[1715200001]
+KEY[17152   16  C 3/8]
+MEL[+1__+2+4  +3+1+2_+4_  +275_7_  +1_4_6_
+    5__57  +1+3+2_7_  5__57  +1_4_6_
+    5__(567)  +1+3+2_76  555_(567)  +1_4_6_ //]
+BEM[]
+
+DWOK17
+CUT[Oj uciekaj Jasienku]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 52 od Janowa ordynacki]
+FKT[]
+SIG[1715200002]
+KEY[17152   16  C 3/8]
+MEL[+1__+2+4  +3+1+2+3+4_  (+276)5_67  +1_4_6_
+    5__(567)  +1+3+2_76  555_(567)  +1_4_6_
+    5__57  +1+3+2_7_  5__57  +1_4_6_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Owczarek]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 52 Owczarek od Biłgoraja]
+FKT[]
+SIG[1715300000]
+KEY[17153   16  C 3/8]
+MEL[(57+1)+4_+3_  +2+1+2_76  5_+4_+3_  +2+1+2__
+    (57+1)+4_+3_  +2+1+2_(765)  4_7b_6_  545__ //]
+BEM[]
+
+DWOK17
+CUT[Marcinowa moja miła]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 52 Kaźmierz]
+FKT[]
+SIG[1715400000]
+KEY[17154   16  G 3/8]
+MEL[531_2_  -724_6_
+    531_2_  -7-5-6-71_
+    -724_6_  531_3_
+    -724_2_  5-5-6-71_ //]
+BEM[Nuta ob. Ser. XIII. nr. 316.]
+
+DWOK17
+CUT[Z tamtej strony]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 52 od Zaklikowa]
+FKT[]
+SIG[1715500000]
+KEY[17155   16  C 3/8]
+MEL[75+2_+4+3  +4+6+5_+3+1
+    (757)+2_+4+3  7+2+1_5_
+    75+2_+4+3  7+2+1_+3+1
+    75+2_+4+3  7+2+1_5_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 53, od Lubartowa]
+FKT[]
+SIG[1715600000]
+KEY[17156   16  C 3/8]
+MEL[757+2+4+5  +3b+1+2+4+6_  +2+4+6_+3b+1  7567+2_
+    756+1+3+1  7567+27  6+1+3_.+1  7567+2_
+    (765)7+2+4+5  (+3b+2+1)+2+4+6_  +2+4+6_(+3b+2+1)  (765)67+2_
+    (765)6+1+3+1  (765)67+27  6+1+3_.+1  (765)67+2_ //]
+BEM[Ob. nr 92]
+
+DWOK17
+CUT[Oj kochałem cię dziewcze]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 53 od Bychawy]
+FKT[]
+SIG[1715700000]
+KEY[17157   16  G 3/8]
+MEL[1_3_3_  42-713_
+    1_3_3_  42-7_-5_
+    -6_-6-5-72  42-713_
+    -6_-6_-72  42-7_-5_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Owczarek]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 53 od Biskupic]
+FKT[]
+SIG[1715800000]
+KEY[17158   16  C 3/8]
+MEL[+1_+2+3+4_  +3+1+2+3+4_  +3+1+2_7_  645__
+    4_6_5_  5+1+2_+2_  +3+1+2_7_  645__ //]
+BEM[Wariant t. 6: 5+1+2_3_4_ (dla tonacji C)]
+
+DWOK17
+CUT[Ej staremu rzepę parzyć]
+REG[]
+TRD[DWOK17 Lubelskie 2 s.  od Opola]
+FKT[]
+SIG[1715900000]
+KEY[17159   16  G 3/8]
+MEL[112_35  44354#5
+    112_3_  443_1_
+    (1-71)3_1-6  -5-5-7_2_
+    113_1_  -5-7-6-7-5_ //]
+BEM[Ob. Nr. 149. Nuta Ser. II n. 300. Ser. XIII n. 142.]
+
+DWOK17
+CUT[Siedmiu mi się zaleciało]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 54 od Bikupic]
+FKT[]
+SIG[1716000000]
+KEY[17160   16  G 3/8]
+MEL[431_2_  431_2_  43-7_2_  1_^-7-5_
+    (-5-6-7)2__  1__35  (-5-6-7)2_-7-5  1_1_35
+    432_-7_  1_(^-7-6)-5_  43232-7  1_(^-7-6)-5_ //]
+BEM[Text. Ser. I. n. 79. Nuta zbliżona ob. Ser. II. nr 255. 310. Ser. I. n. 70, 74, 111, 134, 410, 464. Wariant t. 3-4: 431-72_  1_(^-7-6)-5_]
+
+DWOK17
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 54 od Biłgoraja]
+FKT[]
+SIG[1716100000]
+KEY[17161   32  G 3/8]
+MEL[5_.43_3_2_3_  4_6_5_4#_5__  5_.43_3_2_1_  -6_.-71__-5__
+    5_.43_3_2_1_  -6_-7_-5__5__  1_.32_1_-7_-6_  (-5_-6_-7_)1__2_-7_
+    1_.32_1_-7_-6_  (-5_-6_-7_)1__-5__ //]
+BEM[Mazur do n. 108.]
+
+DWOK17
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 54 Lublin]
+FKT[]
+SIG[1716200000]
+KEY[17162   32  D 3/8]
+MEL[3_.52_4_3_-7_  1_3_5__+1__  7__2__.4_  6_5_3___
+    3_.52_4_3_-7_  1_3_5__+1__  7__2__.4_  6_5_3__.1_
+    7_.+26_+1_7_5_  7_.+26_7_5__  7_.+26_+1_7_5_  6__6__5__
+    7_.+26_+1_7_5_  7_.+26_7_5__  7_.+26_+1_7_+2_  6_6_6__5__ //]
+BEM[]
+
+DWOK17
+CUT[Oj bida jak się jeść chce - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 54, od Markuszewa]
+FKT[]
+SIG[1716300000]
+KEY[17163   16  F 3/8]
+MEL[135_+1_  +175_64  655_5_  54243-7
+    135__  542464  315__  424_3-7 //]
+BEM[]
+
+DWOK17
+CUT[Oj sieje się sieje]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 55 od Lubartowa]
+FKT[]
+SIG[1716400000]
+KEY[17164   16  F 3/8]
+MEL[123_4#_  5_5_5_  554#_2_  3_-7_1_
+    354#_2_  5_4#_6_  354#_2_  3_-7_1_
+    556_6_  -7_1_3_  554#_2_  3_-7_1_ //]
+BEM[]
+
+DWOK17
+CUT[Siedzi wróbel na desce]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 55 od Opola]
+FKT[]
+SIG[1716500000]
+KEY[17165   32  C 3/8]
+MEL[5_5_+4__+3_+2_  +1__+3__+2__
+    (5_7_+2_)+4__+3_+2_  +1__6__5__
+    7_.+25__6_7_  +1__+1__+2__
+    7_.+25__6_7_  +1__6__5__ //]
+BEM[]
+
+DWOK17
+CUT[Oj Boże da mój Boże]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 55 Od Lublina (Sławinek)]
+FKT[]
+SIG[1716600000]
+KEY[17166   32  C 3/8]
+MEL[+5__+5__+2__  +2_+3+4+5__+2__
+    +5__+5__+2__  +2__+1__5__
+    7__+1__+2__  +4_+3_+1__+2__
+    7__+1__+2__  +4_+3_+1__5__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 56, od Baranowa Puław]
+FKT[]
+SIG[1716700000]
+KEY[17167   16  G 3/8]
+MEL[+1_7_5_  6__4_  3_3123  443_1_
+    (+1+2+1)7_5_  6__4_  (354)3123  46+17+1_
+    -5_.72-7  135_43  254#654  553_1_
+    (+1+2+1)7+2+17  654_43  254#654  553_1_ //]
+BEM[Skorygowano rytm w t. 3 i 8, zgodnie z metrum]
+
+DWOK17
+CUT[Oj sumiała dąbrowa]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 56 od Lublina]
+FKT[]
+SIG[1716800000]
+KEY[17168   32  A 3/8]
+MEL[1_3b_5__5__  4__5__5__  4_3b21__2_-7b_  -5__-7__-7__
+    1_3b_1__1__  4__2__-7__  1_3b21__2__  -5__-7__-7__ //]
+BEM[Nuta Ser. XIII n. 173.]
+
+DWOK17
+CUT[Oj dziewczyno nie chcesz mnie]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 56 od Lublina]
+FKT[]
+SIG[1716900000]
+KEY[17169   16 Bb 3/8]
+MEL[54#5654#  565_42
+    1_3_5_  431_2-7
+    1_-7_-5_  -713_2-7
+    1_3_5_  431_2-7 //]
+BEM[]
+
+DWOK17
+CUT[Kościółek z descułek]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 56, od Kaźmierza]
+FKT[]
+SIG[1717000001]
+KEY[17170   16  C 3/8]
+MEL[+5_+5_+6_  +5_+5_+2_  +27+2_+2_  +5__+2_
+    +1_+3_+3_  +3+4+2_7_  +164_6_  57+2__
+    +1_+3_+5_  +5+4+2_7+2  +164_6+1  +275__ //]
+BEM[Ob. nr 146]
+
+DWOK17
+CUT[Kościółek z descułek]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 56, od Kaźmierza]
+FKT[]
+SIG[1717000002]
+KEY[17170   16  C 3/8]
+MEL[+5+4#+5_+6_  +5_+5_+2_  +2+4+2+4+2+4#  +5__+2_
+    +1_+3_+3_  +3+4+2_7_  +164_6_  57+2__
+    +1_+3_+5_  +5+4+2_7+2  +164_6+1  +275__ //]
+BEM[Ob. nr 146]
+
+DWOK17
+CUT[Moja matka bałamutka - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 57, od Puław]
+FKT[]
+SIG[1717100000]
+KEY[17171   32  C 3/8]
+MEL[+2_+4_+3__+2_+1_  +2_+5_+4#__+5__  +2_+4_+3__+2_+4#_  +5__+2_+3_+1__
+    +2_+4_+3__+2_+1_  7_5_6_7_+1_+3_  +5__+2_+3_+1__  +5_.56_7_+1__
+    +2_+4_+3__+2_+1_  7_5_6_7_+1__  +5__+2_+3_+1__  +5_.56_7_+1__ //]
+BEM[Nuta Ser. I. nr. 103, 331, 354.]
+
+DWOK17
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 57 od Puław]
+FKT[]
+SIG[1717200001]
+KEY[17172   16  C 3/8]
+MEL[5+1+3_+2+1  +3+5+4#_+5_
+    5+1+3_+2+1  +2+57_+1_
+    57+27+1+3  +2_.5+1+3
+    57+27+1+3  +2+1765_
+    57+27+1+3  +2_.5+1+3
+    57+27+1+3  +2_7_+1_ //]
+BEM[Nuta Ser. I. nr. 115, 337.]
+
+DWOK17
+CUT[Instrumentalna - Mazur ]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 57 od Puław]
+FKT[]
+SIG[1717200002]
+KEY[17172   16  C 3/8]
+MEL[5+1+3+3+2+1  +3+5+4#_+5_
+    5+1(+3+4+3)+2+1  +2+57_+1_
+    57+27+1+3  +2_.5+1+3
+    57+27+1+3  +2+1765_
+    57+27+1+3  +2_.5+1+3
+    57+27+1+3  +2_7_+1_ //]
+BEM[Nuta Ser. I. nr. 115, 337.]
+
+DWOK17
+CUT[Oj moje dziewczyny]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 57 od Opola]
+FKT[]
+SIG[1717300001]
+KEY[17173   16  G 3/8]
+MEL[3_5_5_  424_5_  3_5_6_  432_3_
+    -7_2_2_  1-61_32  -7_2_2_  1-61-7-5_
+    -7_2_2_  1-61231  3_232-7  1-61-7-5_ //]
+BEM[Text Ser. I. nr. 275.]
+
+DWOK17
+CUT[Oj moje dziewczyny]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 57 od Opola]
+FKT[]
+SIG[1717300002]
+KEY[17173   16  G 3/8]
+MEL[3_5_5_  42345_  3_5_6_  432_31
+    -7_2_2_  1-61_32  -7_2_2_  1-61-7-5_
+    -7_2_2_  1-61231  3_232-7  1-61-7-5_ //]
+BEM[Text Ser. I. nr. 275.]
+
+DWOK17
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 57, od Kaźmierza]
+FKT[]
+SIG[1717400000]
+KEY[17174   16  C 3/8]
+MEL[5_5_+3_  +2+4+27+1_
+    5__+1_  7567+1_
+    +3+5+4#+5+3+1  7+2+4_+6_
+    +3+5+4#+5+3+1  +4+27_+1_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 57, od Puław]
+FKT[]
+SIG[1717500010]
+KEY[17175   16  E 3/8]
+MEL[3b_1_3b_  5_+1__  6b_4_6b_  5_3b__
+    3b_5_.4  3b_4_2_  -725_7_  +1_1__
+    3b2123b4  5_+1__  6b5456b_  5_3b__
+    3b_5_.4  3b243b21  -7257+27  +1_+1__ //]
+BEM[Lud, Ser. XVII.]
+
+DWOK17
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 57, od Puław]
+FKT[]
+SIG[1717500020]
+KEY[17175   16  B 3/8]
+MEL[1_.234  5_5_5_  6_5_3_  5_54#53
+    1_.234  5_54#53  -5_-4#-5-6-7  1_2_31 //]
+BEM[Lud, Ser. XVII.]
+
+DWOK17
+CUT[A gdzie to ten kusy Jan]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 58  od Lublina Łęcznej]
+FKT[]
+SIG[1717600000]
+KEY[17176   08  F 2/4]
+MEL[+1+175  7+2+16
+    +1+175  6421
+    3324  3542
+    4435  6421 //]
+BEM[ob. Lud Ser. VI nr. 420. Ser. XIII n. 600. Nuta ob. nr 56.]
+
+DWOK17
+CUT[Jadę ja se od Kulika]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 58 od Biskupic (Chojno)]
+FKT[]
+SIG[1717800000]
+KEY[17178   08  F 2/4]
+MEL[3132  1335
+    5352  4333
+    535+1  +1655
+    5352  4333 //]
+BEM[]
+
+DWOK17
+CUT[Dana moja dana]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 58 Tarnogóra]
+FKT[]
+SIG[1717900000]
+KEY[17179   08  G 2/4]
+MEL[1355  4_2_
+    2466  5_3_
+    1355  4_2_
+    2-724  3_1_ //]
+BEM[]
+
+DWOK17
+CUT[A za rzeczką a za bystrą]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 59 od Biskupic (Chojno)]
+FKT[]
+SIG[1718000000]
+KEY[17180   08  F 2/4]
+MEL[3544  3522
+    3544  2_21
+    57+16  4655
+    57+16  4_21 //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Owczarek]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 59, od Łęcznej]
+FKT[]
+SIG[1718100000]
+KEY[17181   16  C 2/4]
+MEL[+1_+2+3+4_+5+4  +3_+4+3+2_75  +1_+2+3+4__
+    +1_+2+3+4_+5+4  +3_+4+3+2_75  5_67+1__
+    +1_+2+3+4_+5+4  +3_+4+3+2_75  +1_+2+3+4__
+    +1_+2+3+4_+5+4  +3_+4+3+2_75  5_67+1__
+    +3_+3_+2_75  +1_+2+3+4_+2_  +3_+1_+2_76  5_67+1__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Oryl]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 59, od Lubartowa, Kocka]
+FKT[]
+SIG[1718200000]
+KEY[17182   16  G 2/4]
+MEL[1_3_5_67  +1_3_4_6_  6_6_5_67  +1_5_4_2_
+    123_5_67  +1_3_4_6_  6_+1_5_67  +1_5_432_
+    13532_42  13534_64  3_532_2_  13534__
+    13532_42  13534_64  3_532_2_  2_-7_1_1_ //]
+BEM[Oryl (Flisak)]
+
+DWOK17
+CUT[Instrumentalna - Oryl Taniec weselny Flisaków]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 59 , od Puław (Osiny)]
+FKT[]
+SIG[1718300000]
+KEY[17183   16  C 2/4]
+MEL[+3_.+2+1_+1_  57+2_7_+2_  +4_.+3+2_+2_  57+2_+1_+3_
+    +5_.+4+3_+3_  57+2_7_+2_  +4_.+3+2_+2_  57+2_+1__
+    3_5_+1_+2_  +3+2+17+1_5_  3_5_+1_+2_  +3+2+17+1__
+    3_5_+1_+2_  +3+2+17+1_5_  3_5_+1_+2_  +3+2+17+1__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Oryl Taniec Flisaków]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 59, od Urzędowa]
+FKT[]
+SIG[1718400000]
+KEY[17184   16  G 2/4]
+MEL[34  5__5__  5_+1_6__  2__6__  4_2_1_34
+    5_5_5_5_  5_+1_6543  2_2_6_.5  432-71__
+    -5_-5_3__  2_4_2__  -5_-5_3__  2_2_1__
+    -5_-5_3__  23432_2_  -5_-5_3_.1  23421__
+    3_3_+1__  2_2_4__  3_5_+1__  4_2_1__
+    3_5_+1__  2222454_  3_5_+1__  432-71__
+    4_6_3_5_  2_4_1_3_  4_643_53  2_421353 //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Oryl]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 60, od Puchaczowa, Łęczny]
+FKT[]
+SIG[1718500000]
+KEY[17185   16  C 2/4]
+MEL[+1_5+1+3_.+2  +1_5_+3_.+2  +1_+3_+4_+2_  +1_6_5__
+    3_676_54  3_5_+1__  7_+2_+4_7_  +2_+1_+1__ //]
+BEM[Adnotacja: Przypomina pieśń ruską: J szumyt i hudć itd.]
+
+DWOK17
+CUT[Za górą, za górą - Krakowiak]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 60, od Biłgoraja]
+FKT[]
+SIG[1718600000]
+KEY[17186   16 Bb 2/4]
+MEL[1_1__1_  1_-7_-6__
+    121__1_  1_-7_-6__
+    2__1-7-6-5  -5_-6-71__
+    2__1-7-6-5  -5_-6-71__ //]
+BEM[Text ob. Ser. VI n. 641: Nuta Ser. VI n. 686. W t. 1 skorygowano rytm]
+
+DWOK17
+CUT[Ej osa osa osa - Krakowiak ]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 60, od Lublina (Tatary)]
+FKT[]
+SIG[1718700000]
+KEY[17187   16  F 2/4]
+MEL[5__5_5_  5_5_5_5_  1_3_4_4_  3__1__
+    1_234_4_  5__5__  3_3_4_4_  3__1__
+    5__5_5_  5__5__  1_3_4_4_  3_321__
+    1_234_4_  5_5_5_5_  3_234_54  3_321__ //]
+BEM[W t. 8 i 12 skorygowano rytm]
+
+DWOK17
+CUT[Tam się ptaszek ciśnie - Krakowiak]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 60, od Piasków Biskupic]
+FKT[]
+SIG[1718800010]
+KEY[17188   16  G 2/4]
+MEL[3_3_3_1_  6__4__  2_2_2_34  5__4__
+    3_(432)3_1_  6_5_4_3_  2_2_2_34  1__1__ //]
+BEM[]
+
+DWOK17
+CUT[Tam się ptaszek ciśnie - Krakowiak część instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 60, od Piasków Biskupic]
+FKT[]
+SIG[1718800020]
+KEY[17188   16  G 2/4]
+MEL[3_.45654  3_-7_1_1_  3_-5_-7_2_  4_2_1_1_
+    3_.45654  3_-7_1_1_  3_-5_-7_2_  1_(21-7)1__ //]
+BEM[]
+
+DWOK17
+CUT[Uciekła mi przepióreczka w proso - Krakowiak]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 61, od Krzeszowa, Radomyśla]
+FKT[]
+SIG[1718900000]
+KEY[17189   16  G 2/4]
+MEL[3_.45_5_  5_5_5_5_  3_.45_6_  4_2__.
+    2_.34_4_  4_4_4_4_  2_.34_5_  3_3__.
+    1_.23_3_  3_3_3_3_  1_.23_4_  2_-7__.
+    -7_.12_2_  2_2_2_2_  -7_1_2_2_  1_1__. //]
+BEM[Text. ob. Ser XIII nr. 211. - Nuta ob. Ser. VI n. 357. 661. 695.]
+
+DWOK17
+CUT[Chodziłam po sadzie - Krakowiak]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 61, Krasnystaw]
+FKT[]
+SIG[1719000001]
+KEY[17190   16  C 2/4]
+MEL[+3_.+2+1_6_  5__3__  +2_.+17_6_  5__4__
+    +3_.+2+1_6_  5__+1_+3_  +5_.+4+3_+1_  +2_+2_+1__ //]
+BEM[]
+
+DWOK17
+CUT[Chodziłam po sadzie - Krakowiak]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 61, Krasnystaw]
+FKT[]
+SIG[1719000002]
+KEY[17190   16  C 2/4]
+MEL[+3_.+2+1765  5_5_3_1_  +2_.+17_6_  5_5_4_2_
+    +3_.+2+1765  5_5_+1_+3_  +5_.+4+3+4+3+1  +2+3+27+1__ //]
+BEM[]
+
+DWOK17
+CUT[Intrumentalna - Krakowiak szopkowy]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 61, od Biskupic (Chojno)]
+FKT[]
+SIG[1719100001]
+KEY[17191   16  G 2/4]
+MEL[3_4_5_54#  5_54#5654  5+154#5654
+    5_6_4_2_  -7_-5_1_3_
+    5_654321  -7_5_5_5_  3_3_4_2_  -7_-5_1__
+    1_3_4_2_  -7_5_4#565  43234321  -7_-7_1__ //]
+BEM[]
+
+DWOK17
+CUT[Intrumentalna - Krakowiak szopkowy]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 61, od Biskupic (Chojno)]
+FKT[]
+SIG[1719100002]
+KEY[17191   16  G 2/4]
+MEL[3_4_5_54#  5_54#5654  5+154#5654
+    4#5654321  -7-6-5-71234
+    5_654321  -7_5_5_5_
+    3_3_4_2_  -7_-5_1__
+    1_3_4_2_  -7_5_4#565
+    4323432-7  -7_-7_1__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Krakowiak]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 62, od Zamościa]
+FKT[]
+SIG[1719200000]
+KEY[17192   16  G 2/4]
+MEL[5_24#5_24#  5_24#5_24#  5_24#5_53  4_4_3_2_  1_.-71234
+    5654#5654#  5654#5654#  5654#5_53  4_4_3_2_  1-7-5-71__
+    -5_-5_4__  3_234321  -7-6-5-71_3_
+    -5_-5_4_4_  3_222_21  -7-6-5-71__
+    -5_-5_4_4_  3_234_32  1_.-71234  5_6_4_4_  3_234321  -7-6-5-71__
+    -5_-5_4_4_  5_+1_6_7+1  5_+1_6_7+1  5_6_4_4_  3_234321  -7-6-5-71__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Kozak]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 62, od Zamościa Krasnobrodu]
+FKT[]
+SIG[1719300000]
+KEY[17193   16  C 2/4]
+MEL[+1_+1_+4_+4_  +3_+1_+2+2+2+1  7657+1__
+    +5_+3+5+4_+2+4  +3_+1+3+4+3+2+1  7657+1__
+    5_+4_+3_.+1  +2+4+27+1__
+    5_+4_+3_.+1  +2+4+27+1_+3_
+    57+27+1_+3_  +4_+2_+4+5+3+1
+    +2_+2_+1+3+3_  57+27+1__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Ułan szopkowy]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 62, od Końskowoli (Zyrzyn)]
+FKT[]
+SIG[1719400001]
+KEY[17194   16  G 2/4]
+MEL[5__5654  3_53-5_13  5_5_5654  3_5_-5__
+    2_5_-7_1_  -7_1_2__  7__6+164#  5_54#5__
+    5_5_5_6_  4_4_4_5_  3_3_3_4_  2_-7_-5_-7_
+    2_5_-7_1_  -7_1_2__  7__6+164#  5_54#5__
+    5_5_5_6_  4_4_4_5_  3_5_-5_-6-7  1_1-71__ //]
+BEM[Obacz Ser. V str 218 nr 23, Z tematu tego ułożono niegdyś Marsza kawaleryi w. p.]
+
+DWOK17
+CUT[Instrumentalna - Ułan szopkowy]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 62, od Końskowoli (Zyrzyn)]
+FKT[]
+SIG[1719400002]
+KEY[17194   16  G 2/4]
+MEL[5__5654  3_53-5_13  5_5_5654  3_5_-5__
+    2_5_-7_1_  -7_1_2__  7__6+164#  5_54#5__
+    5_5_5465  4_4_4354  3_3_3243  21-7-6-5-6-71
+    2_5_-7_1_  -7_1_2__  7__6+164#  5_54#5__
+    5_5_5465  4_4_4354  3_5_-5_-6-7  1_1-71__ //]
+BEM[]
+
+DWOK17
+CUT[Intrumentalna - Kozak]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 63, od Zamościa]
+FKT[]
+SIG[1719500000]
+KEY[17195   16  G 2/4]
+MEL[+1__5_5_  3_3_2__  1_1_135_
+    +1__5654  3_3_2_-5_  1_1_1__
+    3_.45_5_  3_3_2__  1_1_133_
+    3_.45654  3_3_2_-5_  1_1_1__
+    1_.35_5_  3_5_3_5_  4_2_1__
+    +1_+1_5654  3_5_3_5_  43211_1_ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Oryl]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 63, od Żółkiewki (Sobieska- Wola)]
+FKT[]
+SIG[1719600000]
+KEY[17196   16  C 2/4]
+MEL[+5__+6_+5_  +5_+5_+6_+5_  +5_+5_+27+2+4  +3_+3+1+2__
+    +5__+6_+5_  +5+4#+5_+6_+5_  +5_+5_+27+2+4  +3_+3+17__
+    +5__+27+2+4  +1_+3+1+27+2+4#  +5__+27+2+4  +1_+3+1+2__
+    +5_+5_+27+2+4  +3_+3_+27+2+4#  +5_+5_+27+2+4  +1_+3+17__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Kozaczek szopkowy]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 63, od Bychawy (Gałęzów)]
+FKT[]
+SIG[1719700001]
+KEY[17197   16  G 2/4]
+MEL[-5-5_.-5-5_.  -5-5_.-5-5_.
+    -5-7243_5_  2_4_3_5_  2_4_3_5_  4_-7_1__
+    -5-724#5_5_  5_5_5_3_  4_4_3_1_  2_2_1__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Kozaczek szopkowy]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 63, od Bychawy (Gałęzów)]
+FKT[]
+SIG[1719700002]
+KEY[17197   16  G 2/4]
+MEL[-5-5_.-5-5_.  -5-5_.-5-5_.
+    -5-7243135  2-7243135  2-7243135  42-7-51__
+    -5-724#5654#  5654#5653  4_4_3531  2_2_1__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Kozaczek szopkowy]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 63, od Bychawy (Gałęzów)]
+FKT[]
+SIG[1719800000]
+KEY[17198   16  G 2/4]
+MEL[1_354342  1_354342  1_354342  3_1_2_-7_
+    1_1_2342  1_1_2342  1_1_2342  1_1_2_-7_
+    1_354342  1_354342  1_354342  3_1_2_-7_
+    1_1_2342  1_1_2342  1_1_2342  1_31-7_2-7 //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna - Kozak]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 64, od Żółkiewki]
+FKT[]
+SIG[1719900000]
+KEY[17199   16  G 2/4]
+MEL[135_5_67  +1_54321_
+    135_5_67  +1_+1_5__
+    353_2_2_  353_2__
+    1353464_  13532__ //]
+BEM[]
+
+DWOK17
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK17 Lubelskie 2 s. 64 od Krasnego stawu]
+FKT[]
+SIG[1720000000]
+KEY[17200   16  F 2/4]
+MEL[+1_+2_7_57  6_+165__
+    5_6_4_4_  3_3_1__
+    1_1_3_13  2_-721__
+    1_4_3_13  2_-721__
+    12345675  6_6+15_5_  2_2_3__
+    12345675  6_4_3_53  2_-721__ //]
+BEM[]

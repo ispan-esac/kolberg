@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK4814200000-nasza_maryna_robotna_byla.krn
+!!!OTL: Nasza Maryna robotna była
+!!!source: DWOK48
+!!!id: 48142
+!!!signature: 4814200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8b
+8b
+=2
+16dd
+16cc
+4cc
+=3
+8a
+8a
+8a
+=4
+16cc
+16b
+4b}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8b
+=6
+16dd
+16cc
+4cc
+=7
+8a
+8a
+8a
+=8
+16cc
+16b
+4b}
+!!LO:LB:g=esac
+=9
+{8b
+4b
+=10
+4g
+8r
+=11
+8ee
+4ee
+=12
+4cc}
+8r
+!!LO:LB:g=esac
+=13
+{8a
+8a
+8a
+=14
+8dd
+8dd
+8f#
+=15
+8a
+4a
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 186} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 186}
+!!!page: 186
+!!!ONB: Converted on 2024/12/26 with esac2hum

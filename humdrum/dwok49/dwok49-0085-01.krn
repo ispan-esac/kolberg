@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK4908500001-boh_predwiczny_nam_narodyu_sie.krn
+!!!OTL: Boh predwiczny nam narodyu się
+!!!source: DWOK49
+!!!id: 49085
+!!!signature: 4908500001
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M4/4
+{4cc
+4b
+4a
+8a
+8b
+=2
+*M2/4
+2g
+=3
+*M4/4
+4cc
+8dd
+8dd
+2ee}
+!!LO:LB:g=esac
+=4
+{8ee
+8ff
+8ee
+8ff
+2ff
+=5
+8ee
+8dd
+8ee
+8ff
+2gg}
+!!LO:LB:g=esac
+=6
+{4dd
+4dd
+2dd
+=7
+8cc
+8b
+4a
+2g}
+!!LO:LB:g=esac
+=8
+{4ee
+4cc
+8dd
+8ff
+8dd
+8b
+=9
+2cc}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=254 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 174} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

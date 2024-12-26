@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2572600002-instrumentalna-krakowiak.krn
+!!!OTL: Instrumentalna-Krakowiak
+!!!source: DWOK25
+!!!id: 25726
+!!!signature: 2572600002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.g
+16g
+8.ff
+16dd
+=2
+8ee
+4.cc
+=3
+8dd
+16dd
+16ee
+8.ff
+16b
+=4
+8dd
+4.cc}
+!!LO:LB:g=esac
+=5
+{8e
+8f
+8g
+16g
+16f#
+=6
+8g
+8cc
+8ee
+16dd
+16cc
+=7
+8b
+8dd
+8.ff
+16b
+=8
+8dd
+4.cc}
+==
+*-
+!!!ONB: W takcie drugim dodano brakujacą kropkę
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 254} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 254}
+!!!page: 254
+!!!ONB: Converted on 2024/12/26 with esac2hum

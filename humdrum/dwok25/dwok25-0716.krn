@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2571600000-kozak-instrumentalna.krn
+!!!OTL: Kozak-Instrumentalna
+!!!source: DWOK25
+!!!id: 25716
+!!!signature: 2571600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8g
+8b
+=2
+8a
+8d
+8f#
+8a
+=3
+8g
+8b
+8g
+8b
+=4
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+16b
+16cc
+8dd
+8b
+=6
+8a
+8dd
+8f#
+8a
+=7
+16g
+16a
+16b
+16cc
+8dd
+8b
+=8
+16a
+16g
+16f#
+16e
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=277 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 252} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

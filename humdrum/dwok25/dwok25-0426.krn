@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2542600000-oj_nie_mas_ci_to_nie_mas.krn
+!!!OTL: Oj nie mas ci to nie mas
+!!!source: DWOK25
+!!!id: 25426
+!!!signature: 2542600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8b
+16a
+16f#
+=2
+16g
+16g
+8b
+8dd
+=3
+8cc
+8b
+16a
+16f#
+=4
+16g
+16f#
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16e
+16e
+8a
+16f#
+16d
+=6
+16e
+16g
+8b
+8d
+=7
+8e
+8a
+16f#
+16d
+=8
+16e
+16g
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 182} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 182}
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK7728600000-u_mej_matki_na_polu.krn
+!!!OTL: U mej matki na polu
+!!!source: DWOK77
+!!!id: 77286
+!!!signature: 7728600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8b
+4cc
+4cc
+=2
+8dd
+8b
+2cc}
+!!LO:LB:g=esac
+=3
+{8dd
+8ee
+4ff
+4ff
+=4
+8ee
+8dd
+2ee}
+!!LO:LB:g=esac
+=5
+{4ff
+4ff
+8ff
+8ee
+=6
+4cc
+4a
+4g
+=7
+8g
+8b
+2dd}
+!!LO:LB:g=esac
+=8
+{4ff
+4ff
+8ff
+8ee
+=9
+4cc
+4a
+4g
+=10
+8g
+8b
+2cc}
+==
+*-
+!!!ONB: Wariant w t. 8 +4__+4+3
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

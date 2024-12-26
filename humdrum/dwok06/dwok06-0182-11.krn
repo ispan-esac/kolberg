@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK060182a0011-u_nasego_jegomosci.krn
+!!!OTL: U nasego jegomosci
+!!!source: DWOK06
+!!!id: K0182
+!!!signature: 060182a0011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8cc#
+8dd
+=2
+8ee
+8dd
+8cc#
+8dd
+=3
+8a
+8cc
+8cc
+8cc
+=4
+8b
+4g
+8g}
+!!LO:LB:g=esac
+=5
+{8d
+4.f#
+=6
+8a
+8g
+8f#
+8g
+=7
+8a
+8cc
+8cc
+8cc
+=8
+8b
+4g
+8g}
+!!LO:LB:g=esac
+=9
+{8d
+4f#
+8f#
+=10
+8a
+8g
+4g
+=11
+8a
+8cc
+16cc
+16b
+16cc
+16dd
+=12
+8b
+4.g}
+==
+*-
+!!!ONB: Czesc 1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 99} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 99}
+!!!page: 99
+!!!ONB: Converted on 2024/12/26 with esac2hum

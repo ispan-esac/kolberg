@@ -1,0 +1,114 @@
+!!!!SEGMENT: DWOK06-K0875a-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK06
+!!!id: K0875a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16e
+16g
+8cc
+16b
+16a
+=2
+16g
+16f
+8d
+8f
+=3
+16e
+16e
+8c
+8e
+=4
+16g
+16f
+8d
+8f
+=5
+16e
+16e
+4c}
+!!LO:LB:g=esac
+=6
+{16.f
+32e
+16f
+16g
+16a
+16b
+=
+16.cc
+32a
+24g
+24a
+24b
+16cc
+16e
+=7
+16g
+16f
+4d
+=8
+16.e
+32e
+4c}
+!!LO:LB:g=esac
+=9
+{16f
+16e
+16f
+16g
+16a
+16b
+=10
+16.cc
+32b
+16.g
+32b
+16.cc
+32e
+=11
+16g
+16f
+4d
+=12
+16.e
+32e
+4c}
+!!LO:LB:g=esac
+=13
+{16.f
+32a
+16cc
+16b
+16dd
+16cc
+=14
+16f
+16a
+4cc
+=15
+16f
+16a
+16cc
+16b
+16dd
+16cc
+=16
+16g
+16b-
+8a
+8f}
+==
+*-
+!!!ONB: Frazy 1-4; nastepuje modulacja do F
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=536 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 510} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 510}
+!!!page: 510
+!!!ONB: Converted on 2024/12/26 with esac2hum

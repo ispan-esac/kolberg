@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3043800000-napyjmo_sie_kumciu_lubciu.krn
+!!!OTL: Napyjmo sie kumciu lubciu
+!!!source: DWOK30
+!!!id: 30438
+!!!signature: 3043800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8b
+32b
+16.g#
+=2
+4e
+4e
+=3
+8a
+16a
+16cc
+8b
+32b
+16.g#
+=4
+4e
+4e}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd#
+16b
+16dd#
+=6
+8ee
+8ee
+8cc
+16b
+16g#
+=7
+8b
+16b
+16g#
+8b
+16b
+16cc
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 236} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 236}
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

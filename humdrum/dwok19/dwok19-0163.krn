@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK1916300000-od_krakowa_jedzie_rataj.krn
+!!!OTL: Od Krakowa jedzie rataj
+!!!source: DWOK19
+!!!id: 19163
+!!!signature: 1916300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8b
+=2
+16dd
+16cc
+16a
+16f#
+16a
+16b
+=3
+16g
+16b
+8dd
+8ee
+=4
+16dd
+16cc
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+16b
+16g
+=6
+16.g
+32f#
+8f#
+8d
+=7
+16.a
+32cc
+16b
+16cc
+16a
+16f#
+=8
+16g
+16g
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{16b
+16dd
+16cc#
+16dd
+16b
+16g
+=10
+16.g
+32f#
+8f#
+8d
+=11
+16.a
+32cc
+16b
+16cc
+16a
+16f#
+=12
+16g
+16gg
+8ff#
+8gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 54} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 54}
+!!!page: 54
+!!!ONB: Converted on 2024/12/26 with esac2hum

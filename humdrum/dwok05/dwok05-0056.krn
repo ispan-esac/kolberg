@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK05-K0056-przybierzeli_do_betlejem.krn
+!!!OTL: Przybierzeli do Betlejem
+!!!source: DWOK05
+!!!id: K0056
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8f#
+8g
+8a
+8b
+8a
+8b
+8cc
+=2
+4dd
+4ee
+2dd
+=3
+8g
+8f#
+8g
+8a
+8b
+8a
+8b
+8cc
+=4
+4dd
+4ee
+2dd}
+!!LO:LB:g=esac
+=5
+{4gg
+4dd
+8ee
+8dd
+8cc
+8b
+=6
+4cc
+4cc
+8dd
+8cc
+8b
+8a
+=7
+4g
+4b
+2dd
+=8
+4cc
+4f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=270 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 242} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

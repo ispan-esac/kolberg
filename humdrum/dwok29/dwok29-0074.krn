@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2907400000-oj_chodyt_zuk_po_zukach.krn
+!!!OTL: Oj chodyt żuk po żukach
+!!!source: DWOK29
+!!!id: 29074
+!!!signature: 2907400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8dd
+8dd
+8dd
+=2
+4cc
+8b
+8a
+=3
+8g
+8dd
+8dd
+16ee
+16dd
+=4
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8a
+8a
+=6
+2g
+=7
+4cc
+8a
+8a
+=8
+2g}
+==
+*-
+!!!ONB: Żuk
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 174} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

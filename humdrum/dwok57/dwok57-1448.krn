@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK57144800000-ozenyw_sia_newirny_druzok.krn
+!!!OTL: Ożenyw sia newirny drużok
+!!!source: DWOK57
+!!!id: 571448
+!!!signature: 57144800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8a
+8g
+=2
+2b
+=3
+4g
+4dd
+=4
+8dd
+8cc#
+8dd
+8g
+=5
+2b}
+!!LO:LB:g=esac
+=6
+{8dd
+8cc#
+8b
+8a
+=7
+4g
+4b
+=8
+4a
+4g
+=9
+8b
+8cc#
+8b
+8a
+=10
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 504
+!!!ONB: Converted on 2024/12/26 with esac2hum

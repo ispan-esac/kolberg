@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK3011500000-oj_jichaly_tre_kozakie_z_wengier.krn
+!!!OTL: Oj jichaly tre kozakie z Wengier
+!!!source: DWOK30
+!!!id: 30115
+!!!signature: 3011500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8dd
+8ee
+8dd
+=2
+4ee
+4cc
+=3
+8dd
+8dd
+8cc
+8b
+=4
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+8b
+=6
+8dd
+8dd
+8cc
+8b
+=7
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 80} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,39 @@
+!!!!SEGMENT: DWOK57206100001-oj_iszla_iszla_swieta_halina.krn
+!!!OTL: Oj iszła, iszła święta Halina
+!!!source: DWOK57
+!!!id: 572061
+!!!signature: 57206100001
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{8a
+8b
+8cc
+8b
+4a
+4g#
+=2
+8ee
+8dd
+8cc
+8dd
+2ee
+=3
+4ee
+16dd
+16cc
+16b
+16a
+8cc
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1122
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK5064500002-jak_nicz_mia_pokryje.krn
+!!!OTL: Jak nicz mia pokryje
+!!!source: DWOK50
+!!!id: 50645
+!!!signature: 5064500002
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+2.r
+{4g
+=2
+4cc
+8cc
+8dd
+4ee
+8cc
+8cc
+=3
+4dd
+8dd
+8ee
+4ff
+8dd
+8cc
+=4
+4ee
+8ee
+8ff
+4gg
+4ff
+=5
+8dd
+8b
+2cc
+4cc}
+!!LO:LB:g=esac
+=6
+{4ff
+8ff
+8gg
+4aa
+8ff
+8ff
+=7
+8ee
+8dd
+8ee
+8ff
+4gg
+8ff
+8ee
+=8
+4dd
+8b
+8dd
+4ff
+4b
+=9
+4dd
+2cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=421 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 388} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 388}
+!!!page: 388
+!!!ONB: Converted on 2024/12/26 with esac2hum

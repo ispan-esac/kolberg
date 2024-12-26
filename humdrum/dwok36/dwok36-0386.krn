@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK3638600000-wyrosla_sosna_wysoka_prosta.krn
+!!!OTL: Wyrosła sosna wysoka prosta
+!!!source: DWOK36
+!!!id: 36386
+!!!signature: 3638600000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8g
+8f#
+8b
+8a#
+8e
+8g
+=2
+8f#
+8f#
+8b
+8a#
+8e
+8cc#}
+!!LO:LB:g=esac
+=3
+{4.b
+8a#
+16b
+16a
+16g
+16f#
+=4
+8e
+8g
+8f#
+8f#
+8b
+8a#
+=5
+2.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 243
+!!!ONB: Converted on 2024/12/26 with esac2hum

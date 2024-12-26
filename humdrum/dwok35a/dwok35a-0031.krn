@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK35A-35A03100000-oj_rano_rano_kurojkie_pile.krn
+!!!OTL: Oj rano rano kurojkie piłe
+!!!source: DWOK35A
+!!!id: 35A031
+!!!signature: 35A03100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8dd
+4ff
+=2
+8ee
+8dd
+8cc
+=3
+8dd
+8dd
+8cc
+=4
+8a
+4a
+=5
+8g
+4cc
+=6
+4b
+8cc}
+!!LO:LB:g=esac
+=7
+{16dd
+16ee
+16ff
+16ee
+16dd
+16ff
+=8
+8.ee
+16ff
+8dd
+=9
+16dd
+16ee
+8dd
+16cc
+16b
+=10
+16a
+16b
+4a
+=11
+8g
+4cc
+=12
+4b
+8cc}
+==
+*-
+!!!ONB: Podane metrum 3/4 zapisano poprawnie w metrum 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=66 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 30} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 30}
+!!!page: 30
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK5035100001-kadyj_byla_dorozejka.krn
+!!!OTL: Kadyj była dorożejka
+!!!source: DWOK50
+!!!id: 50351
+!!!signature: 5035100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.g
+16a
+8b
+8dd
+=2
+8cc
+16b
+16a
+8b
+8g
+=3
+8g
+8a
+8b
+8dd
+=4
+4cc
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8dd
+=6
+8cc
+16b
+16a
+8b
+8g
+=7
+8cc
+16b
+16a
+8b
+16a
+16f#
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 183} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 183}
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3338000000-oto_marysiu_oto.krn
+!!!OTL: Oto Marysiu oto
+!!!source: DWOK33
+!!!id: 33380
+!!!signature: 3338000000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8b
+8ff#
+8ee
+=2
+4dd#
+8dd#
+=3
+8ee
+4dd#
+=4
+8b
+8ff#
+8ee
+=5
+4dd#
+8cc
+=6
+8b
+4a}
+!!LO:LB:g=esac
+=7
+{8b
+8b
+8a
+=8
+4b
+8dd#
+=9
+8ee
+4dd#
+=10
+8b
+8b
+8a
+=11
+8dd
+4cc
+=12
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=381 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 339} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 339}
+!!!page: 339
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2003700000-a_w_niedziele_po_objedzie.krn
+!!!OTL: A w niedzielę po objedzie
+!!!source: DWOK20
+!!!id: 20037
+!!!signature: 2003700000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{4e
+4b
+8g
+8g
+=
+8a
+8g
+12a
+12b
+12cc
+4b
+=2
+4dd
+4b
+8a
+8a
+=3
+8b
+8b
+4g
+4e}
+!!LO:LB:g=esac
+=4
+{4a
+4b
+8e
+8g
+=5
+8a
+8g
+4a
+4b
+=
+4dd
+4b
+12a
+12b
+12cc
+=
+8b
+8b
+12a
+12g
+12f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 101} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 101}
+!!!page: 101
+!!!ONB: Converted on 2024/12/26 with esac2hum

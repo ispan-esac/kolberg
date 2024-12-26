@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2531400000-tam_pod_borem.krn
+!!!OTL: Tam pod borem
+!!!source: DWOK25
+!!!id: 25314
+!!!signature: 2531400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8.cc
+16ee
+16gg
+16ee
+=2
+16.gg
+32ee
+8gg
+8ee
+=3
+16gg
+16ff
+8dd
+8gg
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8cc
+8cc
+=6
+16ff
+16aa
+8.gg
+16ee
+=7
+16cc
+16b
+8g
+8cc
+=8
+4.g}
+==
+*-
+!!!ONB: Zapisane metrum 3/4, poprawiono na 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 142} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 142}
+!!!page: 142
+!!!ONB: Converted on 2024/12/26 with esac2hum

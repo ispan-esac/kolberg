@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7737200000-oj_wroc_mi_wianek.krn
+!!!OTL: Oj wróć mi wianek
+!!!source: DWOK77
+!!!id: 77372
+!!!signature: 7737200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8b-
+8dd
+8ff
+=2
+16ee-
+16cc
+8.b-
+16a}
+!!LO:LB:g=esac
+=3
+{8b-
+8dd
+8f
+=4
+16a
+16cc
+8.b-
+16a}
+!!LO:LB:g=esac
+=5
+{8b-
+16dd
+16cc
+8dd
+=6
+16ee-
+16cc
+8dd
+16b-
+16a}
+!!LO:LB:g=esac
+=7
+{8b-
+8dd
+8f
+=8
+16a
+16cc
+8.b-
+16a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 193
+!!!ONB: Converted on 2024/12/26 with esac2hum

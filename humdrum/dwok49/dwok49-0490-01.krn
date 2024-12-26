@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4949000001-ubieraj_sie_kasinku_ubieraj.krn
+!!!OTL: Ubieraj się, Kasińku, ubieraj
+!!!source: DWOK49
+!!!id: 49490
+!!!signature: 4949000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+8a
+8a
+=2
+8a
+8cc
+8b
+=3
+8b
+4g
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8a
+16a
+16g
+=6
+8g
+8a
+8b
+=7
+8cc
+4cc
+=8
+4cc
+16b
+16a}
+!!LO:LB:g=esac
+=9
+{8a
+8g
+8b
+=10
+8cc
+4b
+=11
+8a
+4g
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=545 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 455} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 455}
+!!!page: 455
+!!!ONB: Converted on 2024/12/26 with esac2hum

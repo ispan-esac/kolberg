@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK30050a0000-iwan_konie_napowaje.krn
+!!!OTL: Iwan konie napowaje
+!!!source: DWOK30
+!!!id: 30050a
+!!!signature: 30050a0000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8dd
+8dd
+8dd
+8dd
+=2
+16ee
+16dd
+8dd
+8dd
+8b
+=3
+16cc
+16a}
+4r
+8r
+!!LO:LB:g=esac
+=4
+{8a
+8b
+8cc
+8dd
+=
+12dd
+12cc
+12b
+8cc
+8a
+=5
+8cc
+8cc}
+4r
+!!LO:LB:g=esac
+=6
+{8ee
+8dd
+8dd
+8dd
+=7
+8ee
+8dd
+8dd
+8b
+=8
+16cc
+16a}
+8r
+4r
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8dd
+16cc
+16a
+=10
+4a
+[4a
+=11
+8a]
+8a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 42} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 42}
+!!!page: 42
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1832500000-oj_po_boru_po_lesie.krn
+!!!OTL: Oj po boru po lesie
+!!!source: DWOK18
+!!!id: 18325
+!!!signature: 1832500000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16cc#
+8ee
+8ee
+=2
+8dd
+8b
+8dd
+=3
+16a
+16cc#
+4a
+=4
+8b
+8g#
+8e}
+!!LO:LB:g=esac
+=5
+{16a
+16cc#
+8ee
+8ee
+=6
+8dd
+8b
+8dd
+=7
+16ee
+16cc#
+4a
+=8
+8b
+8g#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 177} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

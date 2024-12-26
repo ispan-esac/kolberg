@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4131800000-oj_co_mi_to_za_uciecha.krn
+!!!OTL: Oj, co mi to za uciecha
+!!!source: DWOK41
+!!!id: 41318
+!!!signature: 4131800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4dd
+=2
+8ee
+8cc
+4b
+8a
+8f#
+=3
+8g
+8a
+4b
+8cc
+8dd
+=4
+8ee
+8cc
+4.b
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b
+8a
+8b
+=6
+8cc
+8b
+4cc
+8a
+8f#
+=7
+8g
+8a
+4b
+4dd
+=8
+8ee
+8cc
+4.b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 189} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

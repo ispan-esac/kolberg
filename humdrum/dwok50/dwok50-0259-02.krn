@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5025900002-ej_zarizu_kaczura_ta_niej_kaczka_kwacze.krn
+!!!OTL: Ej, zariżu kaczura, ta niej kaczka kwacze
+!!!source: DWOK50
+!!!id: 50259
+!!!signature: 5025900002
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{4dd
+16dd
+16ee
+=2
+16dd
+16dd
+8cc#
+8g
+=3
+8a
+16b-
+16a
+8b-
+=4
+16b-
+16a
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b-
+16b-
+16a
+=6
+16b-
+16dd
+8dd
+8g
+=7
+16g
+16a
+16b-
+16a
+16b-
+16a
+=8
+16b-
+16a
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 129} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 129}
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

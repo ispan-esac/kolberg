@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK42146900000-oj_prosilam_ja_boga.krn
+!!!OTL: Oj prosiłam ja Boga
+!!!source: DWOK42
+!!!id: 421469
+!!!signature: 42146900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M7/8
+=1
+{8cc
+8a
+8cc
+8b
+8dd
+8ee
+8dd
+=2
+8cc
+8a
+8cc
+8b
+8g
+8e
+8d}
+!!LO:LB:g=esac
+=3
+{8d
+8d
+8f#
+8g
+8b
+8cc
+8a
+=4
+8a
+8g
+8b
+8cc
+8a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 61} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 61}
+!!!page: 61
+!!!ONB: Converted on 2024/12/26 with esac2hum

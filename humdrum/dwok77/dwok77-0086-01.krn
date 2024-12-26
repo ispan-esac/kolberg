@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7708600001-oj_gozdziku_gozdziku.krn
+!!!OTL: Oj Goździku Goździku
+!!!source: DWOK77
+!!!id: 77086
+!!!signature: 7708600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8cc
+8dd
+=2
+8a
+8g
+8b}
+!!LO:LB:g=esac
+=3
+{16dd
+16cc
+8b
+8cc
+=4
+8a
+8g
+8d}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+8cc
+=6
+8a
+8g
+8b}
+!!LO:LB:g=esac
+=7
+{16b
+16cc
+8b
+8cc
+=8
+8a
+8g
+8d}
+==
+*-
+!!!ONB: Wariant w takcie 7: 543_4_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 68
+!!!ONB: Converted on 2024/12/26 with esac2hum

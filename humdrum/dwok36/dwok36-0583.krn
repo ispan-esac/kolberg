@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK3658300000-kto_tolko_znaje.krn
+!!!OTL: Kto tolko znaje
+!!!source: DWOK36
+!!!id: 36583
+!!!signature: 3658300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=
+{12cc
+12ee
+12ee
+2dd#
+=1
+8ee
+16cc
+16b
+4r
+4r
+=
+12a
+12cc
+12cc
+4.b
+8a
+=2
+8g#
+8e}
+4r
+4r
+!!LO:LB:g=esac
+=
+{12e
+12ee
+12ff
+4.ee
+8dd
+=3
+8dd
+16cc
+16b
+4r
+4r
+=
+12a
+12cc
+12cc
+4.b
+8a
+=4
+8g#
+8e}
+4r
+4r
+!!LO:LB:g=esac
+=
+{12g#
+12g#
+12a
+2cc
+=5
+8b
+8a
+4r
+4r
+=
+12a
+12cc
+12cc
+4.b
+8a
+=6
+8g#
+8e}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 389
+!!!ONB: Converted on 2024/12/26 with esac2hum

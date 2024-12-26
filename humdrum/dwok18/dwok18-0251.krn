@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1825100000-przy_sadecku_przy_ziolecku.krn
+!!!OTL: Przy sadecku przy ziółecku
+!!!source: DWOK18
+!!!id: 18251
+!!!signature: 1825100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4dd
+2dd
+=2
+4ee
+4.cc
+8a
+=3
+2cc
+4b
+=4
+4a
+2g
+=5
+4cc
+4.ee
+8dd#
+=6
+4ee
+2b}
+!!LO:LB:g=esac
+=7
+{4dd
+2dd
+=8
+4ee
+4.cc
+8a
+=9
+8cc
+8dd
+4cc
+4b
+=10
+4a
+2g
+=11
+4cc
+4.ee
+8dd#
+=12
+4ee
+2b}
+==
+*-
+!!!ONB: Przy weselu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 145} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 145}
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

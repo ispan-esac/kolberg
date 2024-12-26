@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2129500010-obiecal_mi_ksiadz_kielbas.krn
+!!!OTL: Obiecał mi ksiądz kiełbas
+!!!source: DWOK21
+!!!id: 21295
+!!!signature: 2129500010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8c
+8c
+8e
+=2
+16g
+16f
+4d
+=3
+8g
+8e
+16e
+16g
+=4
+16a
+16f
+4d}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8a
+8g
+=6
+16d
+16f
+8e
+8c
+=7
+16e
+16g
+8a
+8f
+=8
+16d
+16f
+8e
+8c}
+==
+*-
+!!!ONB: część wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 123} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

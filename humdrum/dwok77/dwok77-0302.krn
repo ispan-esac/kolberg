@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7730200000-oj_siedzi_wiewiorecka.krn
+!!!OTL: Oj siedzi wiewiórecka
+!!!source: DWOK77
+!!!id: 77302
+!!!signature: 7730200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8cc
+8ee
+=2
+8ee
+8dd
+8b
+=3
+16dd
+16ee
+8cc
+16a
+16d
+=4
+8f#
+8g
+8b}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8cc
+8cc
+=6
+8b
+8b
+8g
+=7
+16b
+16cc
+8a
+8d
+=8
+8f#
+8g
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 162
+!!!ONB: Converted on 2024/12/26 with esac2hum

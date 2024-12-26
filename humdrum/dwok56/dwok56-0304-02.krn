@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK5630400002-dez_ty_marysiu.krn
+!!!OTL: Deż ty, Marysiu
+!!!source: DWOK56
+!!!id: 56304
+!!!signature: 5630400002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8dd
+8ff
+=2
+8ee
+8dd
+8b
+=3
+4cc
+8dd
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{8dd
+8ff
+8ff
+=6
+8ff
+8ee
+8dd
+=7
+8dd
+8ff
+8dd}
+!!LO:LB:g=esac
+=8
+{8cc
+8ee
+16dd
+16cc
+=9
+8cc
+4cc
+=10
+16cc
+16ee
+4ff}
+!!LO:LB:g=esac
+=11
+{8ee
+8ee
+16dd
+16cc
+=12
+8cc
+4cc
+=13
+16cc
+16ee
+4ff}
+!!LO:LB:g=esac
+=14
+{8ee
+8ee
+8dd
+=15
+8dd
+4cc
+=16
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=382 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 278-279} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, pp. 278-279}
+!!!page: 278-279
+!!!ONB: Converted on 2024/12/26 with esac2hum

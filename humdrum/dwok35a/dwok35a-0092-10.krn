@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK35A-35A09200010-instrumentalna-oj_wud_horojki_da_do_horojki.krn
+!!!OTL: Instrumentalna-Oj wud horojki da do horojki
+!!!source: DWOK35A
+!!!id: 24092
+!!!signature: 35A09200010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+8ee
+16dd
+16cc
+=2
+16dd
+16ff
+8ee
+16dd
+16cc
+=3
+16dd
+16ff
+8ee
+16dd
+16cc
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=
+{24a
+24b
+24cc
+8dd
+16dd
+16g
+=
+24a
+24b
+24cc
+8dd
+8g
+=5
+8dd
+8ee
+16dd
+16cc
+=
+24b
+24a
+24g
+4g}
+==
+*-
+!!!ONB: podane metrum 3/4 zapisano poprawnie na 3/8 Andante
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 66} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

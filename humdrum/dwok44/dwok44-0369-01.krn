@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK4436900001-moja_mila_gdziesi_bula.krn
+!!!OTL: Moja miła gdziesi buła
+!!!source: DWOK44
+!!!id: 44369
+!!!signature: 4436900001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16g#
+8a
+8b
+=2
+16a
+16cc
+8cc
+8b
+=3
+8a
+4e}
+!!LO:LB:g=esac
+=4
+{16a
+16g#
+8a
+8b
+=5
+16a
+16cc
+8cc
+8b
+=6
+8a
+4e}
+!!LO:LB:g=esac
+=7
+{8ee
+8ee
+8dd
+=8
+16cc
+16b
+4a
+=9
+4g
+16f
+16e
+=10
+16a
+16b
+8cc
+8dd
+=11
+16cc
+16b
+8a
+8e}
+!!LO:LB:g=esac
+=12
+{8ee
+8ee
+8dd
+=13
+16cc
+16b
+4a
+=14
+4g
+16f
+16e
+=15
+16a
+16b
+8cc
+8dd
+=16
+16cc
+16b
+8a
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 240-241} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, pp. 240-241}
+!!!page: 240-241
+!!!ONB: Converted on 2024/12/26 with esac2hum

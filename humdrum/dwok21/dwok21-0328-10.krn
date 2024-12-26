@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2132800010-oj_dynac_moja_dyna.krn
+!!!OTL: Oj dynać moja dyna
+!!!source: DWOK21
+!!!id: 21328
+!!!signature: 2132800010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16dd
+8ee
+8dd
+=2
+8a
+8dd
+8b
+=3
+16b
+16dd
+8ee
+8dd
+=4
+8a
+8dd
+8b}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8f#
+8a
+=6
+8a
+8dd
+8b
+=7
+16g
+16g
+8f#
+8a
+=8
+8a
+8b
+8g}
+==
+*-
+!!!ONB: część wokalna, u Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 131} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 131}
+!!!page: 131
+!!!ONB: Converted on 2024/12/26 with esac2hum

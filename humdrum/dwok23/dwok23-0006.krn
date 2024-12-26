@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2300600000-pasli_pasterze_woly.krn
+!!!OTL: Paśli pasterze woły
+!!!source: DWOK23
+!!!id: 23006
+!!!signature: 2300600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8a
+8b
+8cc
+=2
+8a
+4b
+8g#
+=3
+8cc
+8cc
+8dd
+8ee
+=4
+8cc
+4dd
+8ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8a
+8b
+=6
+8g#
+4a
+8dd
+=7
+8cc
+8b
+8a
+8b
+=8
+8g#
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 56} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

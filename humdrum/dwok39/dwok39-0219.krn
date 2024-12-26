@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3921900000-chcecie_wiedziec_o_obrazie.krn
+!!!OTL: Chcecie wiedzieć o obrazie
+!!!source: DWOK39
+!!!id: 39219
+!!!signature: 3921900000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=1
+{2g
+2f#
+=2
+4g
+4b
+4g
+4e
+=3
+2f#
+2B}
+!!LO:LB:g=esac
+=4
+{2g
+2f#
+=5
+4g
+4b
+4g
+4e
+=6
+2f#
+2B}
+!!LO:LB:g=esac
+=7
+{2b
+2b
+=8
+4b
+4b
+4a
+4g
+=9
+2a
+2b}
+!!LO:LB:g=esac
+=10
+{2g
+2f#
+=11
+4g
+4b
+4g
+4e
+=12
+2f#
+2B}
+==
+*-
+!!!ONB: w t. 10 wpisany tryl dziadowski 43b21
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=289 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 237} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 237}
+!!!page: 237
+!!!ONB: Converted on 2024/12/26 with esac2hum

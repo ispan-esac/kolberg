@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK02-K0297-zolnierz_ci_ja_zolnierz.krn
+!!!OTL: Zolnierz ci ja zolnierz
+!!!source: DWOK02
+!!!id: K0297
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4e
+16g#
+16e
+=2
+16g#
+16a
+8cc
+8a
+=3
+16cc
+16ee
+8dd#
+8ee
+=4
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+16g#
+16e
+=6
+16g#
+16a
+8cc
+8a
+=7
+16cc
+16ee
+8dd#
+8ee
+=8
+8cc
+4a}
+!!LO:LB:g=esac
+=9
+{4e
+16g#
+16e
+=10
+16g#
+16a
+16cc
+16ee
+16dd#
+16ee
+=11
+16ff#
+16ee
+16dd#
+16ee
+16ff#
+16gg#
+=12
+8dd#
+4ee}
+!!LO:LB:g=esac
+=13
+{8e
+8e
+16g#
+16a
+=14
+16cc
+16ee
+8dd#
+8ee
+=15
+16ff#
+16ee
+8dd#
+8ee
+=16
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 223} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 223}
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

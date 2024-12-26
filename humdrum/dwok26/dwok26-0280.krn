@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK2628000000-juz_mi_sie_sprzykszylo.krn
+!!!OTL: Już mi się sprzykszyło
+!!!source: DWOK26
+!!!id: 26280
+!!!signature: 2628000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+4b
+=2
+8cc
+4ee
+8ee
+=3
+8ee
+8dd
+4dd
+=4
+8b
+4cc
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4b
+=6
+8cc
+4ee
+8ee
+=7
+8dd
+8dd
+8cc
+8f#
+=8
+8g
+4.g}
+!!LO:LB:g=esac
+=9
+{8.dd
+16cc
+4cc
+=10
+8cc
+8b
+8b
+8g
+=11
+8b
+8a
+8a
+8f#
+=12
+8a
+8g
+8b
+8dd}
+!!LO:LB:g=esac
+=13
+{8.dd
+16cc
+8cc
+8a
+=14
+8a
+4b
+8g
+=15
+8.d
+16f#
+8f#
+8f#
+=16
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 225
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK1713900001-a_ja_tobie_a_ty_mnie.krn
+!!!OTL: A ja tobie, a ty mnie
+!!!source: DWOK17
+!!!id: 17139
+!!!signature: 1713900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24d
+24e
+24f#
+8g
+8a
+=1
+8cc
+8ee
+8dd}
+!!LO:LB:g=esac
+=
+{24cc
+24b
+24a
+8g
+8a
+=2
+8cc
+8ee
+8dd
+=
+24cc
+24b
+24a
+8g
+8d
+=3
+8f
+8e
+8d}
+!!LO:LB:g=esac
+=
+{24d
+24f#
+24a
+8g
+8d
+=4
+8f#
+8g
+8b
+=
+24a
+24cc
+24a
+8g
+8a
+=5
+8f
+8e
+8d}
+==
+*-
+!!!ONB: Ob. nr 159. Wariant t. 9: (242)1_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 47} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

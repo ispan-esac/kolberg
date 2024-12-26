@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK2912400000-instrumentalna-marsz_weselny.krn
+!!!OTL: Instrumentalna-Marsz weselny
+!!!source: DWOK29
+!!!id: 29124
+!!!signature: 2912400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8e
+8a
+8e
+=2
+4cc
+16b
+16a
+16b
+16dd
+=3
+16cc
+16b
+16a
+16e
+8a
+8e}
+!!LO:LB:g=esac
+=4
+{8a
+8e
+8a
+8e
+=5
+4cc
+16b
+16a
+16b
+16dd
+=6
+4cc
+8a
+8e}
+!!LO:LB:g=esac
+=7
+{8a
+16g#
+16a
+4cc
+=8
+16a
+16ee
+8ee
+16dd
+16ff#
+8ee
+=9
+16b
+16cc
+16dd
+16cc
+16b
+16a
+8a}
+!!LO:LB:g=esac
+=10
+{8a
+16g#
+16a
+4cc
+=11
+16b
+16a
+16b
+16ee
+16dd
+16ff#
+8ee
+=12
+16b
+16cc
+16dd
+16cc
+16b
+16a
+8a}
+==
+*-
+!!!ONB: Melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 234} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 234}
+!!!page: 234
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK45184300002-sla_sirotka_po_wsi.krn
+!!!OTL: Sła sirotka po wsi
+!!!source: DWOK45
+!!!id: 451843
+!!!signature: 45184300002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=
+{12e
+12a
+12b
+4g#
+4f#
+=1
+8g#
+2e}
+8r
+!!LO:LB:g=esac
+=
+{12e
+12a
+12b
+4cc
+4a
+=2
+2ee
+8ee
+8dd#}
+!!LO:LB:g=esac
+=
+{12cc
+12b
+12a
+4b
+4a
+=3
+2ee
+8ee
+8dd#}
+!!LO:LB:g=esac
+=4
+{8cc
+8a
+4b
+4cc
+=5
+8g#
+2a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 301-302} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, pp. 301-302}
+!!!page: 301-302
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK45160000000-oj_ni_masz_ci_to_ni_masz.krn
+!!!OTL: Oj, ni masz ci to ni masz
+!!!source: DWOK45
+!!!id: 451600
+!!!signature: 45160000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4ee
+4dd
+4dd
+=2
+8dd
+8dd
+4b
+4g
+=3
+4cc
+2dd
+=4
+8ee
+8dd
+8b
+8f
+4g}
+!!LO:LB:g=esac
+=5
+{4f
+2b
+=6
+8b
+8b
+4f
+4g
+=7
+4f
+2b
+=8
+8b
+8a
+4f
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 215} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 215}
+!!!page: 215
+!!!ONB: Converted on 2024/12/26 with esac2hum

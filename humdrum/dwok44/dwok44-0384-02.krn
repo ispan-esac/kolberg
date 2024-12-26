@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4438400002-lilija_lilja.krn
+!!!OTL: Lilija, lilja
+!!!source: DWOK44
+!!!id: 44384
+!!!signature: 4438400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+8dd
+=2
+8ee
+8ee
+4dd
+=3
+8dd
+4g
+8b
+=4
+8a
+8cc
+4d
+=5
+2g}
+!!LO:LB:g=esac
+=6
+{8b
+4dd
+8dd
+=7
+8dd
+8dd
+8cc
+8a
+=8
+8g
+4b
+16cc
+16a
+=9
+4a
+4f#
+=10
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 247} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 247}
+!!!page: 247
+!!!ONB: Converted on 2024/12/26 with esac2hum

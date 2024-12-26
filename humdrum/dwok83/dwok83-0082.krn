@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK8308200000-oj_zagraj_mi_muzyka.krn
+!!!OTL: Oj, zagraj mi, muzyka
+!!!source: DWOK83
+!!!id: 83082
+!!!signature: 8308200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8e
+8a
+8a
+=2
+16a
+16g#
+8a
+8a
+=3
+16a
+16a
+8a
+8b
+=4
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+=6
+16b
+16a
+8b
+8b
+=7
+16b
+16a
+8cc
+16b
+16a
+=8
+8g#
+4a}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8cc
+=10
+16b
+16a
+8b
+8cc
+=11
+16b
+16a
+8b
+8g#
+=12
+8a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=188 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 85} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK2305200000-boze_kocham_cie.krn
+!!!OTL: Boże kocham Cię
+!!!source: DWOK23
+!!!id: 23052
+!!!signature: 2305200000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=1
+{4g
+4a
+4dd
+8cc
+8b-
+=2
+2a
+2r
+=3
+4g
+4a
+4dd
+8cc
+8b-
+=4
+2a}
+2r
+!!LO:LB:g=esac
+=5
+{4dd
+8cc
+8b-
+8ee-
+8dd
+8cc
+8a
+=6
+4b-
+4a
+2g}
+!!LO:LB:g=esac
+=7
+{4dd
+4ee-
+4ff
+4dd
+=8
+4ee-
+8dd
+8cc
+4dd
+4b-
+=9
+4dd
+4ee-
+4ff
+4dd
+=10
+8ee-
+8dd
+4cc
+4dd
+4b-}
+!!LO:LB:g=esac
+=11
+{4dd
+4cc
+4b-
+4a
+=12
+4g
+4a
+8f#
+8e
+4d
+=13
+4dd
+4cc
+4b-
+4a
+=14
+4g
+4a
+4f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 96} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

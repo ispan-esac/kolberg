@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0390-z_tamty_strony_jeziora.krn
+!!!OTL: Z tamty strony jeziora
+!!!source: DWOK06
+!!!id: K0390
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8.a
+16b
+8cc
+8cc
+=2
+8b
+8cc
+4a}
+!!LO:LB:g=esac
+=3
+{16cc
+16dd
+8ee
+8ee
+8ee
+=4
+8dd
+8dd
+16dd
+16ee
+8dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+16cc
+16ee
+16dd
+16cc
+=6
+8.b
+16cc
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 204} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 204}
+!!!page: 204
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2205300000-pod_borem_sosnia_gorzala.krn
+!!!OTL: Pod borem sośnia gorzała
+!!!source: DWOK22
+!!!id: 22053
+!!!signature: 2205300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4d
+4d
+4g
+=2
+4b
+4a
+4g
+=3
+8b
+8ee
+2dd}
+!!LO:LB:g=esac
+=4
+{4d
+4d
+4g
+=5
+4b
+4a
+4g
+=6
+8f#
+8a
+2g}
+!!LO:LB:g=esac
+=7
+{4dd
+4dd
+4cc
+=8
+4b
+4a
+4g
+=9
+8f#
+8a
+4.cc
+8ee}
+!!LO:LB:g=esac
+=10
+{4dd
+4dd
+4cc
+=11
+4b
+4a
+4g
+=12
+8f#
+8a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 53} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 53}
+!!!page: 53
+!!!ONB: Converted on 2024/12/26 with esac2hum

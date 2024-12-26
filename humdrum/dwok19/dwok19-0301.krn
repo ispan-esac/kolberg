@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1930100000-oj_pali_mi_sie_pali.krn
+!!!OTL: Oj pali mi się pali
+!!!source: DWOK19
+!!!id: 19301
+!!!signature: 1930100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+16ff
+16aa
+8gg
+8ee
+=3
+8dd
+8b
+8dd
+=4
+16ff
+16dd
+8cc
+8ee}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+=6
+16ff
+16ff
+8dd
+16ff
+16ee
+=7
+8g
+8b
+8g
+=8
+16b
+16dd
+8cc
+16a
+16f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 92} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 92}
+!!!page: 92
+!!!ONB: Converted on 2024/12/26 with esac2hum

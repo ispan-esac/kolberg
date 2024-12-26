@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4400800001-o_jezu_maluski_maluski.krn
+!!!OTL: O Jezu maluśki, maluśki
+!!!source: DWOK44
+!!!id: 44008
+!!!signature: 4400800001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8ee
+=2
+8ee
+8ff
+4ee
+=3
+8ee
+8ff
+4ee}
+!!LO:LB:g=esac
+=4
+{8ff
+8ee
+8dd
+8ee
+=5
+8cc
+8b
+4a}
+!!LO:LB:g=esac
+=6
+{8a
+8b
+8cc
+8cc
+=7
+8dd
+8cc
+4b
+=8
+8dd
+8cc
+4b}
+!!LO:LB:g=esac
+=9
+{8ee
+8ee
+8dd
+8ee
+=10
+8cc
+8b
+4a}
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 70} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

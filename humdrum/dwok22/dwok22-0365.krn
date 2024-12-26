@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2236500000-szlabym_za_cie_bys_dobry_byl.krn
+!!!OTL: Szłabym za cię byś dobry był
+!!!source: DWOK22
+!!!id: 22365
+!!!signature: 2236500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8ee
+=2
+16.ff
+32dd
+8dd
+8cc
+=3
+16f
+16a
+8cc
+8ee
+=4
+16.ff
+32dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8f
+16a
+16cc
+=6
+16.b-
+32dd
+8dd
+16cc
+16g
+=7
+16f
+16a
+8cc
+8a
+=8
+16.b-
+32g
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 195} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 195}
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

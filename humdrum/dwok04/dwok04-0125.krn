@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK04-K0125-czarna_kura_pieje.krn
+!!!OTL: Czarna kura pieje
+!!!source: DWOK04
+!!!id: K0125
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd#
+8b
+8dd#
+=2
+4ee
+8dd#
+8b
+=3
+8b
+8dd#
+8b
+8dd#
+=4
+4ee
+8dd#
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4b
+=6
+8a
+8cc
+4b
+=7
+8a
+8g
+8f#
+8g
+=8
+4e
+4ee}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc
+4b
+=10
+8a
+8cc
+4b
+=11
+8a
+8g
+8f#
+8g
+=12
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 75} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 75}
+!!!page: 75
+!!!ONB: Converted on 2024/12/26 with esac2hum

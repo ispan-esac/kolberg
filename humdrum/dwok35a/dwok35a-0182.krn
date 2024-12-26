@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK35A-35A18200000-wyjdy_wyjdy_matinko.krn
+!!!OTL: Wyjdy wyjdy matinko
+!!!source: DWOK35A
+!!!id: 35A182
+!!!signature: 35A18200000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8g
+8g
+4cc
+4b
+=2
+8a
+8a
+2g
+=3
+8a
+8a
+8cc
+8b
+4g
+=4
+*M2/4
+8cc
+8cc
+8b
+8a
+=5
+8g
+8f#
+4g}
+!!LO:LB:g=esac
+=6
+*M3/4
+{8g
+8g
+8cc
+8a
+8b
+8g
+=7
+8a
+8a
+2g
+=8
+8a
+8a
+8cc
+16b
+16g
+4g
+=9
+*M2/4
+8cc
+16cc
+16a
+16b
+16g
+8a
+=10
+8g
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 98} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

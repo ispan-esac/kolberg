@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK03-K0092-wesoly_nam_swiat_dziewuchno.krn
+!!!OTL: Wesoly nam swiat dziewuchno
+!!!source: DWOK03
+!!!id: K0092
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+8ee
+=2
+16ff
+16dd
+8.dd
+16cc
+=3
+16b
+16a
+8g
+8g
+=4
+4.ff}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8.ee
+16gg
+=6
+16ff
+16ee
+8.dd
+16cc
+=7
+16b
+16a
+8g
+8g
+=8
+4.cc}
+!!LO:LB:g=esac
+=
+{24dd
+24ee-
+24ff#
+8gg
+8gg
+=
+24ff
+24ee-
+24cc
+8.dd
+16cc
+=9
+16b
+16a
+8g
+8g
+=10
+8ff
+16ff
+16ee
+8ff}
+!!LO:LB:g=esac
+=
+{24dd
+24ee-
+24ff#
+8gg
+8gg
+=11
+16ff
+16ee-
+8.dd
+16cc
+=12
+16b
+16a
+8g
+8g
+=13
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=322 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 310} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 310}
+!!!page: 310
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK06-K0196-a_w_lecie_slonce_gorace.krn
+!!!OTL: A w lecie slonce gorace
+!!!source: DWOK06
+!!!id: K0196
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+4ee
+8ee
+8ee
+8ee
+=2
+8ee
+4dd
+8b
+8dd
+8ee
+=3
+8cc
+4a
+8b
+8cc
+8ee
+=4
+8b
+8g#
+8e
+8g#
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+8ee
+8ee
+8ee
+=6
+8ee
+4dd
+8b
+8dd
+8ee
+=7
+8cc
+4a
+8b
+8cc
+8ee
+=8
+8b
+8g#
+8e
+8g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 106} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 106}
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

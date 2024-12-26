@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK5003000000-a_z_gory_z_gory_jada_mazury.krn
+!!!OTL: A z góry, z góry, jadą Mazury
+!!!source: DWOK50
+!!!id: 50030
+!!!signature: 5003000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8cc
+8b
+8a
+=2
+2b
+=3
+8cc
+8b
+8a
+8g
+=4
+8a
+4.dd}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8dd
+8dd
+=6
+8b
+8b
+8g
+8g
+=7
+8a
+8a
+8dd
+8dd
+=8
+8b
+8b
+8g
+8g}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8dd
+8dd
+=10
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 13} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 13}
+!!!page: 13
+!!!ONB: Converted on 2024/12/26 with esac2hum

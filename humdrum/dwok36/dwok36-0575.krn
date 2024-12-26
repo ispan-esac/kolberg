@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK3657500000-oj_wyjrze_ja_przez_okienko.krn
+!!!OTL: Oj wyjrze ja przez okienko
+!!!source: DWOK36
+!!!id: 36575
+!!!signature: 3657500000
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M3/4
+=1
+{8f
+8f
+4f
+4a
+=2
+8cc
+8cc
+4cc
+4ff
+=3
+8ee
+8ee
+4gg
+4ee
+=4
+4cc
+2ff}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+4gg
+4ee
+=6
+4cc
+2ff}
+!!LO:LB:g=esac
+=7
+{4a-
+4cc
+4cc
+=8
+8g
+8b-
+4b-
+4g
+=9
+4f
+4a-
+4g
+=10
+4f
+2ff}
+!!LO:LB:g=esac
+=11
+{4a-
+4cc
+4cc
+=12
+8g
+8b-
+4b-
+4g
+=13
+4f
+4a-
+8g
+8e
+=14
+4f
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 384
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2912300000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK29
+!!!id: 29123
+!!!signature: 2912300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8ee
+8ee
+8ee
+8dd
+4dd
+=2
+4gg
+4ee
+8ee
+8dd
+=3
+16dd
+16cc
+16b
+16a
+4b
+4a}
+!!LO:LB:g=esac
+=4
+{16dd
+16cc
+16b
+16a
+4dd
+4cc
+=5
+4ee
+4gg
+8ee
+8dd
+=6
+16dd
+16cc
+16b
+16a
+4b
+4a}
+!!LO:LB:g=esac
+=7
+{16dd
+16cc
+16b
+16a
+4dd
+4cc
+=8
+4ee
+4gg
+8ee
+8dd
+=9
+16dd
+16cc
+16b
+16a
+4b
+4a}
+==
+*-
+!!!ONB: Mel. instrumentalna przy pożegnaniu panny młodej
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 234} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 234}
+!!!page: 234
+!!!ONB: Converted on 2024/12/26 with esac2hum

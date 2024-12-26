@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7760200000-oj_na_tutejsym_polu.krn
+!!!OTL: Oj na tutejsym polu
+!!!source: DWOK77
+!!!id: 77602
+!!!signature: 7760200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4cc
+=2
+4dd
+4dd
+4b}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+4cc
+8cc
+8a
+=4
+4f#
+4g
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+4cc
+8cc
+8a
+=6
+4f#
+4g
+4a}
+!!LO:LB:g=esac
+=7
+{8b
+8b
+4cc
+8cc
+8a
+=8
+4f#
+4g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 309
+!!!ONB: Converted on 2024/12/26 with esac2hum

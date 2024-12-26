@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK57132900001-na_hory_dub_dub.krn
+!!!OTL: …na hory dub, dub
+!!!source: DWOK57
+!!!id: 571329
+!!!signature: 57132900001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8f
+4f
+=2
+8g
+4e
+=3
+4.f
+=4
+4c}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+4a
+=6
+8b-
+4g
+=7
+4.a
+=8
+4a}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+4a
+=10
+8b-
+4b-
+=11
+8a
+4a
+=12
+8g
+4g}
+!!LO:LB:g=esac
+=13
+{8f
+4f
+=14
+8g
+8.g
+16e
+=15
+4.f
+=16
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 412
+!!!ONB: Converted on 2024/12/26 with esac2hum

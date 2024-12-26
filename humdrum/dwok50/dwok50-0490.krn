@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK5049000000-jeste_ja_ydzioch_ubogi.krn
+!!!OTL: Jeste, ja Żydzioch ubogi
+!!!source: DWOK50
+!!!id: 50490
+!!!signature: 5049000000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M4/4
+{4a
+8a
+8b
+4cc
+4b
+=2
+4a
+8g#
+8b
+2e}
+!!LO:LB:g=esac
+=3
+{4a
+8a
+8b
+4cc
+4b
+=4
+4a
+8g#
+8b
+2e}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8a
+8a
+8a
+8b
+8cc
+8b
+=6
+8a
+8a
+8a
+8b
+8cc
+8b
+=7
+*M4/4
+4ee
+4ee
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=322 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 293} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 293}
+!!!page: 293
+!!!ONB: Converted on 2024/12/26 with esac2hum

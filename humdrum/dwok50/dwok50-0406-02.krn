@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK5040600002-pyjte_lude_mid_horyuku.krn
+!!!OTL: Pyjte, lude, mid, horyuku
+!!!source: DWOK50
+!!!id: 50406
+!!!signature: 5040600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8dd
+4dd
+4dd
+=2
+8dd
+8cc
+4ee
+8cc
+8a
+=3
+8cc
+16dd
+16ee
+4.ff
+8ee
+=4
+4gg
+4dd
+4cc
+=5
+8ee
+8ee
+4.ff
+8ee
+=6
+4gg
+2dd}
+!!LO:LB:g=esac
+=7
+{8dd
+8gg
+4ff
+4dd
+=8
+8ff
+8ee
+4dd
+4cc
+=9
+8cc
+8g
+4.b-
+8a
+=10
+4cc
+2g
+=11
+8dd
+8cc
+8g
+8a
+8b-
+8a
+=12
+4b-
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 234} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 234}
+!!!page: 234
+!!!ONB: Converted on 2024/12/26 with esac2hum

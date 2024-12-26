@@ -1,0 +1,326 @@
+!!!!SEGMENT: DWOK04-K0329-oberek.krn
+!!!OTL: Oberek
+!!!source: DWOK04
+!!!id: K0329
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+{24a
+24b
+24cc
+8ee
+8ee
+=1
+*M3/8
+8b
+8dd
+8cc#
+=
+!!UNCATEGORIZED MEASURE
+16dd
+16ee
+8ff#
+16ee
+16dd}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{24a
+24b
+24cc
+8ee
+8ee
+=2
+*M3/8
+8b
+8ee
+8dd
+=
+!!UNCATEGORIZED MEASURE
+16b
+16cc
+8a
+16g
+16f#}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{24d
+24e
+24f#
+8g
+8g
+=3
+*M3/8
+8a
+8b
+16a
+16g
+=
+!!UNCATEGORIZED MEASURE
+16b
+16cc
+8dd
+16cc
+16b}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{24d
+24e
+24f#
+8g
+8g
+=
+!!UNCATEGORIZED MEASURE
+8dd
+[8b
+24b]
+24a
+24g
+=4
+*M3/8
+16b
+16cc
+8a
+16g
+16f#}
+!!LO:LB:g=esac
+=5
+{16a
+32b
+32cc
+8ee
+8ee
+=
+!!UNCATEGORIZED MEASURE
+16b
+16dd
+16cc#
+16dd
+32ee
+32ff#
+16ee
+8dd}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{24a
+24b
+24cc
+8ee
+8ee
+=6
+*M4/8
+16b
+16ee
+8dd
+16b
+16cc
+16a
+32g
+32f#
+=
+!!UNCATEGORIZED MEASURE
+24d
+24e
+24f#
+8g
+8g}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8a
+16b
+32a
+32g
+16b
+16cc
+16dd
+32cc
+32b
+=7
+*M3/8
+16d
+32e
+32f#
+8g
+8g
+=
+!!UNCATEGORIZED MEASURE
+16dd
+[16b
+16b]
+32a
+32g
+16b
+16cc
+16a
+32g
+32f#}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{24a
+24b
+24cc
+8ee
+8ee
+=8
+*M3/8
+8b
+8dd
+16cc#
+[16dd
+=
+!!UNCATEGORIZED MEASURE
+16dd]
+16ee
+8ff#
+16ee
+16dd}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{24a
+24b
+24cc
+8ee
+8ee
+=9
+*M3/8
+8dd
+8ee
+16dd
+[16b
+=
+!!UNCATEGORIZED MEASURE
+16b]
+16cc
+8a
+16g
+16f#}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{24d
+24e
+24f#
+8g
+8g
+=10
+*M3/8
+8d
+8b
+16a
+16g
+=
+!!UNCATEGORIZED MEASURE
+16b
+16cc
+8dd
+16cc
+16b}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{24d
+24e
+24f#
+8g
+8g
+=
+!!UNCATEGORIZED MEASURE
+8dd
+[8b
+24b]
+24a
+24g
+=11
+*M3/8
+16b
+16cc
+8a
+16g
+16f#}
+!!LO:LB:g=esac
+=12
+{16a
+32b
+32cc
+8ee
+8ee
+=
+!!UNCATEGORIZED MEASURE
+16b
+16dd
+16cc#
+16dd
+32ee
+32ff#
+16ee
+8dd}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{24a
+24b
+24cc
+8ee
+8ee
+=13
+*M4/8
+16dd
+16ee
+8dd
+16b
+16cc
+16a
+32g
+32f#
+=
+!!UNCATEGORIZED MEASURE
+24d
+24e
+24f#
+8g
+8g}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8a
+16b
+32a
+32g
+16b
+16cc
+16dd
+32cc
+32b
+=14
+*M3/8
+16d
+32e
+32f#
+8g
+8g
+=15
+16dd
+[16b
+16b]
+32a
+32g
+16b
+16cc
+16a
+32g
+32f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 163-164} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 163-164}
+!!!page: 163-164
+!!!ONB: Converted on 2024/12/26 with esac2hum

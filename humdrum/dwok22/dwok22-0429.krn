@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2242900000-o_matko_matko_moja.krn
+!!!OTL: O matko matko moja
+!!!source: DWOK22
+!!!id: 22429
+!!!signature: 2242900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8cc
+8cc
+=2
+16cc
+16dd
+8ee
+16dd
+16cc
+=3
+8b
+8gg
+8gg
+=4
+16gg
+16dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=5
+{16dd
+16cc
+8.a
+16cc
+=6
+16b
+16dd
+8gg
+16gg
+16ff#
+=7
+16dd
+16cc
+8.a
+16cc
+=8
+16b
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{16dd
+16cc
+8.a
+16cc
+=10
+16b
+16dd
+8gg
+16gg
+16b
+=11
+16dd
+16cc
+8.a
+16cc
+=12
+16b
+16a
+8b
+8g}
+==
+*-
+!!!ONB: Mazur
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 212-213} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, pp. 212-213}
+!!!page: 212-213
+!!!ONB: Converted on 2024/12/26 with esac2hum

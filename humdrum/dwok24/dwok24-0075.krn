@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK2407500000-zielona_bylicka.krn
+!!!OTL: Zielona bylicka
+!!!source: DWOK24
+!!!id: 24075
+!!!signature: 2407500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+4cc#
+=3
+4.dd
+8ee
+=4
+8dd
+8cc
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+=6
+4dd
+4ee
+=7
+4.dd
+8ee
+=8
+8dd
+8cc
+8a
+8g}
+!!LO:LB:g=esac
+=9
+{4.cc
+8b
+=10
+4.dd
+8b
+=11
+4.a
+16g
+16b
+=12
+4g}
+4r
+!!LO:LB:g=esac
+=13
+{4.cc
+8dd
+=14
+4.b
+8a
+=15
+4.f#
+16g
+16a
+=16
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 206} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 206}
+!!!page: 206
+!!!ONB: Converted on 2024/12/26 with esac2hum

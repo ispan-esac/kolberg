@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK2108400001-przyjechala_dziewczyna_do_mlyna.krn
+!!!OTL: Przyjechała dziewczyna do młyna
+!!!source: DWOK21
+!!!id: 21084
+!!!signature: 2108400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8ee
+=2
+16a
+16cc
+8b
+8dd
+=3
+8ee
+4a}
+!!LO:LB:g=esac
+=4
+{16g
+16ee
+8dd
+8cc
+=5
+16b
+16g
+8a
+8f#
+=6
+8g
+4d}
+!!LO:LB:g=esac
+=7
+{8d
+4cc
+=8
+16b
+16b
+8a
+8f#
+=9
+8g
+4a}
+!!LO:LB:g=esac
+=10
+{8d
+4cc
+=11
+16dd
+16b
+8a
+8f#
+=12
+8g
+4d}
+!!LO:LB:g=esac
+=13
+{16g
+16g
+8b
+8dd
+=14
+8ee
+4a
+=15
+16cc
+16ee
+8dd
+8cc
+=16
+8b
+4d}
+!!LO:LB:g=esac
+=17
+{8d
+4cc
+=18
+16b
+16b
+8a
+8f#
+=19
+8g
+4a
+=20
+16cc
+16b
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 41} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 41}
+!!!page: 41
+!!!ONB: Converted on 2024/12/26 with esac2hum

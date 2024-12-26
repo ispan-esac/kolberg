@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK5320700000-mociute_manu_miela_kuri_uzauginaj.krn
+!!!OTL: Mociute manu mieła kuri uzauginaj
+!!!source: DWOK53
+!!!id: 53207
+!!!signature: 5320700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4d
+4g
+4a
+4f#
+=2
+2.f#
+4e
+=3
+4f#
+4g
+4a
+4f#
+=4
+2.d
+4d}
+!!LO:LB:g=esac
+=5
+{4g
+4g
+4g
+4a
+=6
+2.dd
+4cc
+=7
+4a
+4ee
+4dd
+4cc
+=8
+4dd
+4cc
+4b
+4a}
+!!LO:LB:g=esac
+=9
+{4d
+4d
+2g
+=10
+4d
+4d
+2b
+=11
+4cc
+4cc
+4a
+4f#
+=12
+2g
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 323} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 323}
+!!!page: 323
+!!!ONB: Converted on 2024/12/26 with esac2hum

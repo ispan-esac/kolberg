@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK3638500002-j-a_lisy_lisamy.krn
+!!!OTL: J-a lisy lisamy
+!!!source: DWOK36
+!!!id: 36385
+!!!signature: 3638500002
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8cc
+8ee
+4dd
+16ee
+16dd
+16cc
+16b
+=2
+8cc
+8a
+2g
+=3
+8cc
+8ee
+4dd
+8ee
+16cc
+16b
+=
+!!UNCATEGORIZED MEASURE
+8cc
+8a
+2g}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8a
+8g
+8a
+8g
+16a
+16b
+8.cc
+16ee
+=4
+*M3/4
+8dd
+8cc
+8b
+8g
+8cc
+8a
+=
+!!UNCATEGORIZED MEASURE
+2g
+4g}
+!!LO:LB:g=esac
+=5
+*M4/4
+{8a
+8a
+[4g
+8g]
+16a
+16b
+8cc
+8ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

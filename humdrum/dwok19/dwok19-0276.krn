@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK1927600000-oj_plsynie_wodeczka.krn
+!!!OTL: Oj płśynie wódeczka
+!!!source: DWOK19
+!!!id: 19276
+!!!signature: 1927600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8ff
+8ee
+8ff
+=2
+8cc
+8dd
+8cc
+=3
+8cc
+8.ee
+16dd
+=4
+4cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+8ff
+=6
+8cc
+8dd
+8b-
+=7
+8a
+8.cc
+16g
+=8
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=99 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 85} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

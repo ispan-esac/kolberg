@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK1011600002-mloda_panna_na_cepecek_prosi.krn
+!!!OTL: Młoda panna na cepecek prosi
+!!!source: DWOK10
+!!!id: 10116
+!!!signature: 1011600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8ff
+4ee
+4cc
+=2
+16dd
+16ee
+8ff
+8ee
+8dd
+4cc
+=3
+16ff
+16ee
+8ff
+4gg
+8ff
+8gg
+=4
+4ee
+8cc
+8g}
+4r
+!!LO:LB:g=esac
+=5
+{8dd
+8ff
+4ee
+4cc
+=6
+16dd
+16ee
+8ff
+8ee
+8dd
+4cc
+=7
+16ff
+16ee
+8ff
+4gg
+8ff
+8gg
+=8
+4ee
+8cc
+8g}
+4r
+!!LO:LB:g=esac
+=9
+{8dd
+8ff
+4ee
+4ee
+=10
+16dd
+16ee
+8ff
+8ee
+8dd
+4ee
+=11
+4dd
+4b-
+16a
+16g
+8f
+=12
+8b-
+8cc
+2dd}
+!!LO:LB:g=esac
+=13
+{8dd
+8ff
+4ee
+4ee
+=14
+16dd
+16ee
+8ff
+8ee
+8dd
+4ee
+=15
+4dd
+4b-
+16a
+16g
+8f
+=16
+4b-
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 264} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 264}
+!!!page: 264
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1822200000-kto_chce_ladna_zone_miec.krn
+!!!OTL: Kto chcę ładną żonę mieć
+!!!source: DWOK18
+!!!id: 18222
+!!!signature: 1822200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+8dd
+8b
+8dd
+=3
+16a
+16b
+8cc
+8a
+=4
+8cc
+8a
+8b}
+!!LO:LB:g=esac
+=5
+{8f#
+4d
+=6
+8b
+4dd
+=7
+16cc
+16b
+8cc
+8a
+=8
+16g
+16a
+8b
+8g
+=9
+16a
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 133} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 133}
+!!!page: 133
+!!!ONB: Converted on 2024/12/26 with esac2hum

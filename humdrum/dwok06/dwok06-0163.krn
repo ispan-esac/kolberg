@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK06-K0163-biednaz_ja_biednaz.krn
+!!!OTL: Biednaz ja biednaz
+!!!source: DWOK06
+!!!id: K0163
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4a
+8cc#
+=2
+16dd
+16ee
+8dd
+8cc#
+=3
+4a
+8cc#
+=4
+16dd
+16cc#
+8a
+8b}
+!!LO:LB:g=esac
+=5
+{4dd
+8cc#
+=6
+16a
+16b
+8g
+8f#
+=7
+16d
+16e
+16f#
+16g
+16a
+16b
+=8
+8f#
+8g
+8a}
+!!LO:LB:g=esac
+=9
+{4dd
+8cc#
+=10
+16a
+16b
+8g
+8dd
+=11
+16d
+16e
+16f#
+16g
+16a
+16b
+=12
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 85} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

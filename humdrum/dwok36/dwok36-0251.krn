@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3625100000-etiw_horel_ponad_morem.krn
+!!!OTL: Łetiw horeł ponad morem
+!!!source: DWOK36
+!!!id: 36251
+!!!signature: 3625100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{16a
+8.a
+8a
+8cc
+8ee
+8dd
+=2
+8cc
+8a
+4g#
+4e
+=3
+16cc
+8.cc
+8cc
+8ee
+8gg
+8ee
+=4
+4dd
+2ee}
+!!LO:LB:g=esac
+=5
+{16a
+8.a
+8a
+8cc
+8ee
+8dd
+=6
+8cc
+8a
+4g#
+4e
+=7
+16g#
+8.g#
+4.e
+8g#
+=8
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 148
+!!!ONB: Converted on 2024/12/26 with esac2hum

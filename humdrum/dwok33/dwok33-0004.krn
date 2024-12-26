@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK3300400000-nam_sie_dzis_stala_nowina.krn
+!!!OTL: Nam się dziś stała nowina
+!!!source: DWOK33
+!!!id: 33004
+!!!signature: 3300400000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+8cc
+8dd
+4ee
+4ee
+=2
+8dd
+8ee
+8ff
+8dd
+2ee
+=3
+8cc
+8b
+8cc
+8dd
+8ee
+8dd
+8ee
+8cc
+=4
+8dd
+8ee
+8ff
+8dd
+2ee}
+!!LO:LB:g=esac
+=5
+{4ee
+4ee
+4.dd
+8ee
+=6
+8cc
+8b
+4a
+4.b
+8cc
+=7
+8ee
+8ee
+8ee
+8ee
+4dd
+4ee
+=8
+8cc
+8b
+8a
+8a
+4.b
+8cc
+=9
+8b
+8dd
+8cc
+8b
+2a}
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 117} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 117}
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

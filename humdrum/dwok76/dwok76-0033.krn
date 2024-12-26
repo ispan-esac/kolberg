@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7603300000-jasne_moje_wlosy.krn
+!!!OTL: Jasne moje włosy
+!!!source: DWOK76
+!!!id: 76033
+!!!signature: 7603300000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+4.dd
+=2
+8gg
+8gg
+8ff
+8ee
+=3
+8dd
+4.gg
+=4
+8b
+8dd
+8cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8b
+4.dd
+=6
+8ee
+8ee
+8dd
+8cc
+=7
+8ee
+4dd
+16b
+16g
+=8
+8b
+8dd
+8cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 24} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 24}
+!!!page: 24
+!!!ONB: Converted on 2024/12/26 with esac2hum

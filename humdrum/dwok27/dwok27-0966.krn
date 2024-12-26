@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK2799600000-jacyncie_swiety.krn
+!!!OTL: Jacyncie święty
+!!!source: DWOK27
+!!!id: 27966
+!!!signature: 2799600000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{2cc
+4g
+4a
+=2
+4g
+4f
+2e
+=3
+4g
+4g
+4a
+4b
+=4
+2cc
+2cc}
+!!LO:LB:g=esac
+=5
+{2cc
+4g
+4a
+=6
+4g
+4f
+2e
+=7
+4g
+4g
+4a
+4b
+=8
+2cc
+2cc}
+!!LO:LB:g=esac
+=9
+{2ee
+4dd
+4cc
+=10
+4dd
+4ee
+2ff
+=11
+4ee
+4dd
+4cc
+4dd
+=12
+4ee
+4ff
+2gg}
+!!LO:LB:g=esac
+=13
+{2ff
+2ee
+=14
+4dd
+4dd
+2cc}
+==
+*-
+!!!ONB: Pieśń o ś. Jacku śpiewana w d. 17 sierpnia po kościołach Dominikańskich, od tej pieśni numeracja powinna być ciągła (440)?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=397 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 378} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 378}
+!!!page: 378
+!!!ONB: Converted on 2024/12/26 with esac2hum

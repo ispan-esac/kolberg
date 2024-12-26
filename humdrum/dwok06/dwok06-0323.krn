@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK06-K0323-w_olsynie_ja_wolki_pasla.krn
+!!!OTL: W olsynie ja wolki pasla
+!!!source: DWOK06
+!!!id: K0323
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16ff
+8.ee
+16g
+=2
+16b-
+16dd
+8cc
+8f
+=3
+16a
+16cc
+8.b-
+16a
+=4
+16g
+16b-
+16dd
+16cc
+8a}
+!!LO:LB:g=esac
+=5
+{16cc
+16ff
+8.ee
+16g
+=6
+16b-
+16dd
+8cc
+8f
+=7
+16a
+16cc
+8.b-
+16a
+=8
+16g
+16e
+16g
+16a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 163} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 163}
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

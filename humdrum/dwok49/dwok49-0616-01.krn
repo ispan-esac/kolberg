@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK4961600001-blahoslowy_boze.krn
+!!!OTL: Błahosłowy, Boże
+!!!source: DWOK49
+!!!id: 49616
+!!!signature: 4961600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc
+8b
+16a
+16f#
+=2
+4g
+8g}
+!!LO:LB:g=esac
+=3
+{8b
+4cc
+=4
+8b
+4a
+=
+8cc
+24b
+24a
+24g}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+4a
+=6
+4g
+8g
+=7
+4cc
+8cc}
+!!LO:LB:g=esac
+=8
+{16a
+16cc
+8b
+16a
+16f#
+=9
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=602 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 512} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 512}
+!!!page: 512
+!!!ONB: Converted on 2024/12/26 with esac2hum

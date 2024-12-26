@@ -1,0 +1,116 @@
+!!!!SEGMENT: DWOK4438000001-o_haijcku.krn
+!!!OTL: O haijcku
+!!!source: DWOK44
+!!!id: 44380
+!!!signature: 4438000001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16ee
+8dd
+8cc
+=2
+16b
+16a
+8b
+8g
+=3
+16a
+16a
+8b
+8g
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{32cc
+32ee
+16gg
+8cc
+8ee
+=6
+16dd
+16b
+4cc}
+!!LO:LB:g=esac
+=7
+{16cc
+16ee
+8dd
+8cc
+=8
+16b
+16a
+8b
+8g
+=9
+16a
+16a
+8b
+8g
+=10
+4.cc}
+!!LO:LB:g=esac
+=11
+{32cc
+32ee
+16gg
+8cc
+8ee
+=12
+16dd
+16b
+4cc}
+!!LO:LB:g=esac
+=13
+{16g
+16cc
+8dd
+8ee
+=14
+16ff
+16ee
+32dd
+16.ee
+8cc}
+!!LO:LB:g=esac
+=15
+{16ff
+16ee
+32dd
+16.ee
+8cc
+=16
+16b
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=17
+{16a
+16a
+8b
+8g
+=18
+4.cc
+=19
+32cc
+32ee
+16gg
+8cc
+8ee
+=20
+16dd
+16b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 244-245} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, pp. 244-245}
+!!!page: 244-245
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK2514500001-masz_mnie_kochac_kochaj_stale.krn
+!!!OTL: Masz mnie kochać, kochaj stale
+!!!source: DWOK25
+!!!id: 25145
+!!!signature: 2514500001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16cc
+16b
+8a
+8a
+=2
+16a
+16b
+8cc
+16b
+16a
+=3
+8e
+8g#
+8e
+=4
+16g#
+16b
+8dd#
+8ee}
+!!LO:LB:g=esac
+=5
+{16cc
+16b
+8a
+16a
+16g#
+=6
+16a
+16b
+8cc
+16b
+16a
+=7
+8e
+8g#
+8e
+=8
+16g#
+16e
+8g#
+8a}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8ee
+=10
+16ee
+16ee
+8dd
+8g
+=11
+8b
+8dd
+8dd
+=12
+16dd
+16dd
+8ee
+8cc}
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+8cc
+=14
+16a
+16b
+8cc
+16b
+16a
+=15
+8e
+8g#
+8g#
+=16
+16g#
+16e
+8g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 61} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 61}
+!!!page: 61
+!!!ONB: Converted on 2024/12/26 with esac2hum

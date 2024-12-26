@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK02-K0034-nie_wydam_pani_mlody.krn
+!!!OTL: Nie wydam pani mlody
+!!!source: DWOK02
+!!!id: K0034
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+4dd
+=2
+16dd
+16ee
+8dd
+8dd
+=3
+16dd
+16b
+4g}
+!!LO:LB:g=esac
+=4
+{16g
+16a
+8b
+8b
+=5
+16b
+16cc
+8b
+8b
+=6
+16f#
+16e
+4d
+=7
+16g
+16f#
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 41} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 41}
+!!!page: 41
+!!!ONB: Converted on 2024/12/26 with esac2hum

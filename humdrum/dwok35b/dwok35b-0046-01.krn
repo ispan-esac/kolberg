@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK35B-35B04600001-eby_tak_tobi_jak_teper_meni.krn
+!!!OTL: Żeby tak tobi jak teper meni
+!!!source: DWOK35B
+!!!id: 35B046
+!!!signature: 35B04600001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8ee
+8ee
+8cc
+4ee
+=2
+8dd
+8dd
+8dd
+8a
+4cc
+=3
+8ee
+8ee
+4ee
+4ee
+=4
+4.dd
+8ee
+8cc
+16a}
+16r
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8dd
+8a
+4cc
+=6
+8a
+8a
+8a
+8cc
+4g
+=7
+8cc
+8ee
+4dd
+4cc
+=8
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 156} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 156}
+!!!page: 156
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2710300000-oj_bez_uwagi_maz_zone_bije.krn
+!!!OTL: Oj bez uwagi mąz zone bije
+!!!source: DWOK27
+!!!id: 27103
+!!!signature: 2710300000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{8a
+8dd
+8ee
+=2
+8ff
+4ee
+=3
+8cc
+8g
+8a
+=4
+8b-
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8dd
+8ee
+=6
+8ff
+4ee
+=7
+8cc
+8g
+8a
+=8
+8b-
+4a}
+!!LO:LB:g=esac
+=9
+{16g
+16g
+8a
+8b
+=10
+4cc
+8ee
+=11
+8dd
+4cc}
+!!LO:LB:g=esac
+=12
+{16g
+16g
+8a
+8b
+=13
+4cc
+8g
+=14
+8b-
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 194} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 194}
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

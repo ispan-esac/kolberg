@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK42181900000-jak_ja_bylam_grzecna.krn
+!!!OTL: Jak ja byłam grzecną
+!!!source: DWOK42
+!!!id: 421819
+!!!signature: 42181900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8b
+8cc
+4dd
+4dd
+=2
+4ff
+2ee
+=3
+4ee
+2b
+=4
+8b
+8cc
+4dd
+4dd}
+!!LO:LB:g=esac
+=5
+{4ff
+2ee
+=6
+4ee
+2b
+=7
+8dd
+8cc
+4b
+4g#
+=8
+4a
+2f#}
+!!LO:LB:g=esac
+=9
+{4g#
+2b
+=10
+8ee
+8dd
+4cc
+4g#
+=11
+4b
+2g#
+=12
+4b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 224} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 224}
+!!!page: 224
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2219800000-poszla_panna_po_wode.krn
+!!!OTL: Poszła panna po wodę
+!!!source: DWOK22
+!!!id: 22198
+!!!signature: 2219800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.b
+32dd
+8dd
+8ee
+=2
+16dd
+16cc#
+4dd
+=3
+16.b
+32dd
+8dd
+8ee
+=4
+16dd
+16cc#
+4dd}
+!!LO:LB:g=esac
+=5
+{16.b
+32dd
+8dd
+16cc
+16b
+=6
+4cc
+8a
+=7
+16.b
+32b
+8a
+16g
+16f#
+=8
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 119} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 119}
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

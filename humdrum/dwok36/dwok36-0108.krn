@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK3610800000-etily_halonki_u_try_hradonki.krn
+!!!OTL: Łetiły hałońki u try hradońki
+!!!source: DWOK36
+!!!id: 36108
+!!!signature: 3610800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8dd
+8ff
+8ee
+8dd
+8ee
+=2
+16dd
+16cc#
+8dd
+16dd
+16cc#
+8dd
+4dd
+=3
+16dd
+16cc#
+8a
+8dd
+8a
+4g
+=4
+2a
+4a}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+16dd
+16cc#
+8a
+4g
+=6
+8g
+8a
+16dd
+16cc#
+8g
+4a
+=7
+8f#
+8g
+8a
+8b-
+8a
+8f#
+=8
+2g
+4g}
+==
+*-
+!!!ONB: Wariant
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 63
+!!!ONB: Converted on 2024/12/26 with esac2hum

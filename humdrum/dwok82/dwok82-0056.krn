@@ -1,0 +1,119 @@
+!!!!SEGMENT: DWOK8205600000-oblecz_sie_ziemio_w_zlotolite_szaty.krn
+!!!OTL: Oblecz się ziemio w złotolite szaty
+!!!source: DWOK82
+!!!id: 82056
+!!!signature: 8205600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4cc
+8a
+8cc
+8b-
+8g
+4r
+=2
+8f
+8a
+8g
+8b-
+8a
+8f}
+4r
+!!LO:LB:g=esac
+=3
+{4cc
+8a
+8cc
+8b-
+8g
+4r
+=4
+8f
+8a
+8g
+8b-
+8a
+8f}
+4r
+!!LO:LB:g=esac
+=5
+{4ff
+8ee
+8dd
+8.cc
+16b-
+4a
+=6
+8a
+8dd
+4cc
+16b-
+16a
+16b-
+16cc
+4a}
+!!LO:LB:g=esac
+=7
+{4ff
+8ee
+8dd
+8.cc
+16b-
+4a
+=8
+8a
+8dd
+4cc
+16b-
+16a
+16b-
+16cc
+4a}
+!!LO:LB:g=esac
+=9
+{8a
+16a
+16g
+8a
+8cc
+8g
+16g
+16a
+8g
+8g
+=10
+8a
+16a
+16g
+8a
+8cc
+8g
+16g
+16a
+8g
+8g}
+!!LO:LB:g=esac
+=11
+{4cc
+8dd
+8cc
+8.dd
+16ee
+8.ff
+16dd
+=12
+4cc#
+4dd}
+2r
+==
+*-
+!!!ONB: O ofiarowaniu Najświętszej Maryji Panny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 43} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 43}
+!!!page: 43
+!!!ONB: Converted on 2024/12/26 with esac2hum

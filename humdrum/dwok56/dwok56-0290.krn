@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK5629000000-ia_w_lisi_kernyczenka.krn
+!!!OTL: Ia w lisi kern'yczeńka
+!!!source: DWOK56
+!!!id: 56290
+!!!signature: 5629000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+16b
+16a
+16b
+16g
+=2
+8cc
+8b
+8g
+=3
+4a
+8g
+=4
+8a
+8g}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+16b
+16a
+16b
+16g
+=6
+4cc
+8b
+=7
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=8
+{16cc
+16cc
+8b
+8b
+=9
+8b
+8a
+8f#
+=10
+4.g
+=11
+8g}
+4r
+==
+*-
+!!!ONB: Wariant t. 8: 443234
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=374 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 270} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 270}
+!!!page: 270
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2032100000-koziel_w_ogrodzie_matulu.krn
+!!!OTL: Kozieł w ogrodzie matulu
+!!!source: DWOK20
+!!!id: 20321
+!!!signature: 2032100000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16b-
+16cc
+8dd
+8dd
+=2
+16cc
+16dd
+8cc
+8g
+=3
+16b-
+16cc
+8cc
+8g
+=4
+4b-
+8a
+=5
+16b-
+16cc
+8cc
+8g
+=6
+4b-
+8a}
+!!LO:LB:g=esac
+=7
+{16b-
+16cc
+8dd
+8dd
+=8
+16cc
+16dd
+8cc
+8g
+=9
+16b-
+16cc
+8cc
+8g
+=10
+4b-
+8a
+=11
+16b-
+16cc
+8cc
+8g
+=12
+4b-
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 225} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 225}
+!!!page: 225
+!!!ONB: Converted on 2024/12/26 with esac2hum

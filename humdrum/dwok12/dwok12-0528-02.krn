@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK1252800002-gdzie_ja_jade_to_ja_jade.krn
+!!!OTL: Gdzie ja jadę, to ja jadę
+!!!source: DWOK12
+!!!id: 12528
+!!!signature: 1252800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8gg
+=2
+8ee
+4cc
+=3
+16g
+16b
+8dd
+8b
+=4
+8a
+4d}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+8gg
+=6
+16ee
+16ee
+8cc
+8a
+=7
+16b
+16b
+8dd
+8b
+=8
+8a
+4d}
+!!LO:LB:g=esac
+=9
+{16g
+16b
+8b
+8dd
+=10
+4cc
+8f#
+=11
+16g
+16b
+8b
+8b
+=12
+8a
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=289 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 273} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 273}
+!!!page: 273
+!!!ONB: Converted on 2024/12/26 with esac2hum

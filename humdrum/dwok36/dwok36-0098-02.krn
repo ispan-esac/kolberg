@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK3609800002-ja_w_sadonku_holubok_hude.krn
+!!!OTL: Ja w sadońku hołubok hude
+!!!source: DWOK36
+!!!id: 36098
+!!!signature: 3609800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8cc
+8cc
+8dd
+8cc
+=2
+8b
+8g
+4a
+=
+4.g
+24f#
+24e
+24f#
+=3
+4d}
+4r
+!!LO:LB:g=esac
+=4
+{8d
+8f#
+8g
+8a
+=5
+8a
+8g
+4cc
+=6
+4b
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+8dd
+8cc
+=8
+8b
+8g
+8a
+8f#
+=9
+2g
+=10
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

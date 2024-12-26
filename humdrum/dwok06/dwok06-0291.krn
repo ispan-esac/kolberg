@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK06-K0291-badz_zdrowa_dziewcze.krn
+!!!OTL: Badz zdrowa dziewcze
+!!!source: DWOK06
+!!!id: K0291
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8.cc
+16ee
+=2
+16dd
+16b
+8g
+8r
+=3
+16.dd
+32cc
+8a
+8ee
+=4
+16dd
+16b
+8g}
+8r
+!!LO:LB:g=esac
+=5
+{16b
+16a
+8.f#
+16cc
+=6
+16b
+16g
+8d
+8r
+=7
+16f#
+16a
+8.cc
+16b
+=8
+16g
+16a
+8b}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8.f#
+16cc
+=10
+16b
+16g
+8d
+8r
+=11
+16f#
+16a
+8.cc
+16b
+=12
+8g
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 146-147} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 146-147}
+!!!page: 146-147
+!!!ONB: Converted on 2024/12/26 with esac2hum

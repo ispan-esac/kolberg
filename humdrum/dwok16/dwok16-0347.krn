@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK1634700000-stapne_ja_na_kaline.krn
+!!!OTL: Stąpnę ja na kalinę
+!!!source: DWOK16
+!!!id: 16347
+!!!signature: 1634700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8g
+8b
+=2
+8dd#
+4ee
+=3
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=4
+{8a
+8b
+8dd#
+=5
+8ff#
+8.ee
+16dd
+=6
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=7
+{8a
+8b
+8ee
+=8
+16dd
+16b
+4a
+=9
+8dd#
+4ee}
+!!LO:LB:g=esac
+=10
+{8ee
+8b
+8ee
+=11
+16cc
+16a
+4b
+=12
+4.a
+=13
+4a}
+8r
+!!LO:LB:g=esac
+=14
+{8a
+8b
+16ee
+16dd
+=15
+16dd
+16b
+4a
+=16
+8dd#
+4ee}
+!!LO:LB:g=esac
+=17
+{8ee
+8b
+16ee
+16dd
+=18
+16cc
+16a
+8.b
+16g#
+=19
+4.a
+=20
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 238} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 238}
+!!!ONB: Converted on 2024/12/26 with esac2hum

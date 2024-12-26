@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK3624700000-od_tekicza_z_ukrainy.krn
+!!!OTL: Od Tekicza z Ukrainy
+!!!source: DWOK36
+!!!id: 36247
+!!!signature: 3624700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{4b
+8b
+4b
+8b
+=2
+4dd
+8dd
+4dd
+8cc
+=3
+4b
+8b
+4b
+8b
+=4
+8b
+8a
+8b
+4dd
+8b}
+!!LO:LB:g=esac
+=5
+{4cc
+8a
+4dd
+8cc
+=6
+4gg
+8gg
+4gg
+8cc
+=7
+4b
+8a
+4b
+8a
+=8
+4a
+8b
+4a
+8b}
+!!LO:LB:g=esac
+=9
+{4cc
+8a
+4dd
+8cc
+=10
+4gg
+8gg
+4gg
+8cc
+=11
+4b
+8a
+4b
+8a
+=12
+8g
+8f#
+8g
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 143-144
+!!!ONB: Converted on 2024/12/26 with esac2hum

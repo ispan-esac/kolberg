@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1803200000-da_wycial_diabel_diabla.krn
+!!!OTL: Da wyciął diabeł diabła
+!!!source: DWOK18
+!!!id: 18032
+!!!signature: 1803200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8cc
+=2
+16b
+16dd
+8dd
+8cc
+=3
+16b
+16a
+8g
+8a
+=4
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8g
+=6
+16d
+16f#
+8f#
+8g
+=7
+16b
+16a
+8g
+8a
+=8
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 73} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK1323900000-szklanne_okieneczka.krn
+!!!OTL: Szklanne okieneczka
+!!!source: DWOK13
+!!!id: 13239
+!!!signature: 1323900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.dd
+8cc
+4b
+=2
+8a
+8cc
+4ee
+16gg
+8.ff#
+=3
+4.dd
+8b
+4cc
+=4
+8a
+8a
+4f#
+4d}
+!!LO:LB:g=esac
+=5
+{4.g
+8f#
+4e
+=6
+8d
+8f#
+4g
+4b
+=7
+4.g
+8e
+4f#
+=8
+8d
+8cc
+4a
+4d}
+!!LO:LB:g=esac
+=9
+{4.dd
+8cc
+4b
+=10
+8a
+8cc
+4ee
+16gg
+8.ff#
+=11
+4.dd
+8b
+4cc
+=12
+8cc
+8a
+4f#
+4d}
+!!LO:LB:g=esac
+=13
+{4.g
+8f#
+4e
+=14
+8d
+8f#
+4g
+4b
+=15
+4.g
+8e
+4f#
+=16
+8d
+8cc
+4a
+4d}
+==
+*-
+!!!ONB: Kolberg podaje metrum 3/8 zapisane prawidłowo na 3/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 116} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 116}
+!!!page: 116
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK06-K0891-pod_woda_rak.krn
+!!!OTL: Pod woda rak
+!!!source: DWOK06
+!!!id: K0891
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8f
+8a
+8cc
+=2
+4.ff
+=3
+8f
+8g
+8e
+=4
+4.f}
+!!LO:LB:g=esac
+=5
+{8cc
+8a
+8b-
+=6
+8cc
+8a
+8b-
+=7
+8cc
+8a
+8b-
+=8
+8cc
+8a
+8b-}
+!!LO:LB:g=esac
+=9
+{8cc
+8a
+8cc
+=10
+4.ff
+=11
+8f
+8g
+8e
+=12
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=542 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 516} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 516}
+!!!page: 516
+!!!ONB: Converted on 2024/12/26 with esac2hum

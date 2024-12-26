@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK45191600000-pstra_koteczka_pstra.krn
+!!!OTL: Pstra koteczka pstra
+!!!source: DWOK45
+!!!id: 451916
+!!!signature: 45191600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8b
+4a
+4g
+=2
+4a
+4r
+4r
+=3
+8cc
+8b
+4a
+4g
+=4
+4a}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+4a
+4g
+=6
+8a
+8cc
+4b
+4dd
+=7
+8cc
+8b
+4a
+4g
+=8
+4a}
+4r
+4r
+!!LO:LB:g=esac
+=9
+{8cc
+8b
+4a
+4g
+=10
+8a
+8cc
+4b
+4dd
+=11
+8cc
+8b
+4a
+4g
+=12
+8a
+8cc
+4b
+4dd}
+!!LO:LB:g=esac
+=13
+{8cc
+8b
+4a
+4g
+=14
+4a}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=367 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 349} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 349}
+!!!page: 349
+!!!ONB: Converted on 2024/12/26 with esac2hum

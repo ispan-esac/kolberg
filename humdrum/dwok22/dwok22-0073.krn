@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2207300000-siadajze_siadaj_moje_kochanie.krn
+!!!OTL: Siadajze siadaj moje kochanie
+!!!source: DWOK22
+!!!id: 22073
+!!!signature: 2207300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8dd
+8dd
+4dd
+4b
+=2
+4dd
+8cc
+8b
+4cc
+4a
+=3
+4g
+4b
+4dd
+8cc
+8b
+=4
+8a
+8g
+4f#
+4e
+4d}
+!!LO:LB:g=esac
+=5
+{4d
+4e
+4g
+4d
+=6
+8g
+8f#
+4a
+4b
+4g
+=7
+8d
+8g
+8a
+8cc
+4dd
+4b
+=8
+8a
+8g
+8f#
+8a
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 67-68} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, pp. 67-68}
+!!!page: 67-68
+!!!ONB: Converted on 2024/12/26 with esac2hum

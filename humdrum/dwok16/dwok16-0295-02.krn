@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK1629500002-oj_chmielu_chmielu.krn
+!!!OTL: Oj chmielu chmielu
+!!!source: DWOK16
+!!!id: 16295
+!!!signature: 1629500002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8a
+8ff
+=2
+4ee
+4dd
+=3
+8cc#
+16b-
+16a
+8g
+8b-
+=4
+2a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8ff
+=6
+4.ee
+8dd
+=7
+8cc#
+16b-
+16a
+8g
+8b-
+=8
+2a}
+!!LO:LB:g=esac
+=9
+{4cc
+8g
+8a
+=10
+8cc
+16b-
+16a
+8g
+8a
+=11
+4cc
+8g
+8a
+=12
+8cc
+8b-
+8g
+8a
+=13
+8cc
+8dd
+8a
+8g
+=14
+2a}
+==
+*-
+!!!ONB: W t. 11 skorygowano błędny zapis rytmiczny: 7b_4_5_, analogicznie do t. 9
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 224} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 224}
+!!!ONB: Converted on 2024/12/26 with esac2hum

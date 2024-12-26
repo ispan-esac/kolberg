@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK8417800000-ty_bilaja_berezonko.krn
+!!!OTL: Ty biłaja berezońko
+!!!source: DWOK84
+!!!id: 84178
+!!!signature: 8417800000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*MX
+=1
+{8e
+8a
+8g#
+8a
+8b
+16cc
+16b
+16a
+8g#
+4e}
+!!LO:LB:g=esac
+=2
+{4cc
+8b
+8cc
+8g#
+8a
+8b
+8g#
+4e}
+!!LO:LB:g=esac
+=3
+{4cc
+8b
+8b
+8a
+8b
+16b
+16a
+8g#
+4e}
+!!LO:LB:g=esac
+=4
+{8g#
+8g#
+8a
+8a
+8cc
+16b
+16a
+8g#
+4e}
+==
+*-
+!!!ONB: Wariant t. 2: 6b__5_6b_3_4_6b543_1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 173} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK3620100000-oj_u_lozi_lozi_kalyna.krn
+!!!OTL: Oj u łozi łozi kałyna
+!!!source: DWOK36
+!!!id: 36201
+!!!signature: 3620100000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8b
+8cc
+=2
+4a
+4a
+=3
+4.ee
+8a
+=4
+8cc
+8ee
+8dd
+8ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8cc
+8b
+8cc
+=6
+4a
+4a
+=7
+8cc
+8ee
+8dd
+8ee
+=8
+8dd
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc
+8b
+8cc
+=10
+4a
+4a
+=11
+8cc
+8ee
+8dd
+8cc
+=12
+8dd
+16cc
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

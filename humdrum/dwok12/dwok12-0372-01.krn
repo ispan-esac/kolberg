@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1237200001-u_naszego_mlynarza.krn
+!!!OTL: U naszego młynarza
+!!!source: DWOK12
+!!!id: 12372
+!!!signature: 1237200001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8g
+4ee
+4dd
+=2
+8cc
+8a
+4g
+4r
+=3
+8g
+8g
+4cc
+4a
+=4
+8g
+8f
+4e}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8f
+8e
+8g
+8cc
+8cc
+=6
+8g
+8f
+8e
+8g
+8cc
+8cc
+=7
+8g
+8g
+4ff
+4dd
+=8
+8dd
+8b
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 194} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 194}
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

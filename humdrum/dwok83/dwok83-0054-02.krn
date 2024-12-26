@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK8305400002-oj_czyj_to_sokil.krn
+!!!OTL: Oj, czyj to sokił
+!!!source: DWOK83
+!!!id: 83054
+!!!signature: 8305400002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ee
+16cc
+16ee
+16dd
+8ff
+=2
+16ff
+16dd
+8ee
+16dd
+16cc
+=3
+16ee
+16cc
+8dd
+16dd
+16b
+=4
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+16b
+16g
+8cc
+=6
+8ee
+8ff
+8dd
+=
+24ee
+24dd
+24cc}
+4r
+!!LO:LB:g=esac
+=7
+{16ee
+16cc
+8ee
+8ff
+=8
+16ff
+16dd
+4ee
+=9
+16ee
+16dd
+8cc
+8dd
+=10
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=
+{24g
+24a
+24b
+8cc
+8ee
+=11
+16dd
+16b
+4cc
+=12
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 64} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 64}
+!!!page: 64
+!!!ONB: Converted on 2024/12/26 with esac2hum

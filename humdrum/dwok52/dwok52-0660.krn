@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK5266000000-nie_mam_srebra_ani_zlota.krn
+!!!OTL: Nie mam srebra ani złota
+!!!source: DWOK52
+!!!id: 52660
+!!!signature: 5266000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16g
+16cc
+8g
+8ee
+8cc
+=2
+8cc
+8g
+8a
+8g
+=3
+16cc
+16cc
+8g
+8ee
+8dd
+=4
+8cc
+8ff
+4ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8dd
+=6
+8dd
+8ee
+8ff
+8dd
+=7
+8cc
+8ff
+8ee
+16ee
+16dd
+=8
+8cc
+8b
+4a}
+!!LO:LB:g=esac
+=9
+{8g
+8ff
+4dd
+=10
+8cc
+8dd
+4cc
+=11
+8dd
+8ee
+8ff
+8ee
+=12
+8dd
+8ee
+8ff
+8dd}
+!!LO:LB:g=esac
+=13
+{8cc
+8ff
+8ee
+16ee
+16dd
+=14
+8cc
+8b
+4a
+=15
+8g
+8ff
+4dd
+=16
+8cc
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=485 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 420} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 420}
+!!!page: 420
+!!!ONB: Converted on 2024/12/26 with esac2hum

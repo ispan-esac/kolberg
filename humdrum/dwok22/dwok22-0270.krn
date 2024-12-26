@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK2227000000-mialem_ja_piec_koszul.krn
+!!!OTL: Miałem ja pięć koszul
+!!!source: DWOK22
+!!!id: 22270
+!!!signature: 2227000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+16cc
+16cc
+16cc
+16cc
+=2
+16cc
+16b
+16g
+16g
+16g
+16g
+=3
+16g
+16b
+16cc
+16cc
+8cc
+=4
+16cc
+32cc
+32b
+16g
+16g
+16g
+16g}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+8dd
+8b
+=6
+16cc
+32dd
+32ee
+8ff
+8ee
+=7
+16cc
+32b
+32cc
+8dd
+8b
+=8
+16cc
+32dd
+32ee
+8ff
+8ee}
+!!LO:LB:g=esac
+=9
+{16dd
+16cc
+8dd
+8b
+=10
+16cc
+16ee
+8.ff
+16ee
+=11
+16dd
+16cc
+8dd
+8b
+=12
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 151} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 151}
+!!!page: 151
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK57119500000-widte_hora_widte_hora.krn
+!!!OTL: Widte hora, widte hora
+!!!source: DWOK57
+!!!id: 571195
+!!!signature: 57119500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+16cc
+16b
+16a
+16b
+=2
+8dd
+8dd
+16dd
+16cc
+16b
+16a
+=3
+8b
+8g
+8g
+8b
+=4
+4dd
+4dd}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+16cc
+16b
+16a
+16b
+=6
+8dd
+8dd
+8dd
+8cc
+=7
+8b
+8a
+8g
+8b
+=8
+4g
+4g}
+==
+*-
+!!!ONB: Wariant t. 7: 43233212
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 317
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK4102100000-przyjechal_panicz_z_dalekich_granic.krn
+!!!OTL: Przyjechał panicz z dalekich granic
+!!!source: DWOK41
+!!!id: 41021
+!!!signature: 4102100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8ff
+8ff
+=2
+8ff
+8ee
+8dd
+=3
+8g
+8ee
+8ee
+=4
+8ee
+8dd
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8cc
+=6
+4gg
+8ee
+=7
+8dd
+8g
+8b
+=8
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 37} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

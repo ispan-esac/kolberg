@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1711100000-siwy_konik_zaryzal.krn
+!!!OTL: Siwy konik zaryżał
+!!!source: DWOK17
+!!!id: 17111
+!!!signature: 1711100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8dd
+16ff
+16dd
+8ff
+=2
+16ee
+16cc
+16ee
+16gg
+16ee
+16cc}
+!!LO:LB:g=esac
+=3
+{8dd
+8ff
+8ff
+=4
+16ee
+16cc
+8.b-
+16a}
+!!LO:LB:g=esac
+=5
+{8f
+16a
+16f
+16a
+16cc
+=6
+16b-
+16dd
+16ff
+16ee
+8gg}
+!!LO:LB:g=esac
+=7
+{8f
+8a
+8a
+=8
+16b-
+16g
+8.b-
+16a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 37} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK4921200002-hulaj_hulaj_na_sobitku.krn
+!!!OTL: Hulaj, hulaj na sobitku
+!!!source: DWOK49
+!!!id: 49212
+!!!signature: 4921200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+4g
+=2
+8a
+4b
+=3
+4cc
+8b
+=4
+8cc
+4g
+=5
+4a
+8g}
+!!LO:LB:g=esac
+=6
+{8b
+4cc
+=7
+8cc
+4b
+=8
+8cc
+4g
+=9
+4.a
+=10
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=350 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 268} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 268}
+!!!page: 268
+!!!ONB: Converted on 2024/12/26 with esac2hum

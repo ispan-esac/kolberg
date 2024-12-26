@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2647400010-wolki_moje-instrumentalna.krn
+!!!OTL: Wołki moje-Instrumentalna
+!!!source: DWOK26
+!!!id: 26474
+!!!signature: 2647400010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4gg
+8gg
+=2
+16ff#
+16gg
+8aa
+8gg
+=3
+16ff#
+16gg
+8aa
+8gg
+=4
+8aa
+8aa
+8gg
+=5
+8gg
+16ee
+16dd
+8cc}
+!!LO:LB:g=esac
+=6
+{16g
+16cc
+8dd
+8gg
+=7
+16dd
+16cc
+8dd
+8gg
+=8
+16dd
+16cc
+8dd
+8gg
+=9
+8gg
+16ee
+16dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 314
+!!!ONB: Converted on 2024/12/26 with esac2hum

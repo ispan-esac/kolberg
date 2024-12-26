@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK42187100000-nie_ma_jak_kawalerski_stan.krn
+!!!OTL: Nie ma jak kawalerski stan
+!!!source: DWOK42
+!!!id: 421871
+!!!signature: 42187100000
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{8cc
+8cc
+8cc
+16cc
+16cc
+8b
+8cc
+=2
+4dd
+8r
+4r
+8r
+=3
+8dd
+8dd
+8dd
+8dd
+8cc
+8dd}
+!!LO:LB:g=esac
+=4
+{4ee
+8r
+4r
+8r
+=5
+8cc
+8ee
+8ee
+8ee
+8dd
+8ee
+=6
+4ff}
+8r
+4r
+8r
+!!LO:LB:g=esac
+=7
+{8b
+8b
+8b
+8b
+8a
+8b
+=8
+4cc
+8r
+4r
+8r
+=9
+8cc
+8ee
+8ee
+8ee
+8dd
+8ee}
+!!LO:LB:g=esac
+=10
+{4ff
+8a
+4dd
+8cc
+=11
+8b
+8b
+8b
+8b
+8a
+8b
+=12
+8cc
+8cc}
+8r
+4r
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 263} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 263}
+!!!page: 263
+!!!ONB: Converted on 2024/12/26 with esac2hum

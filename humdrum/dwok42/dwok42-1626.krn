@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK42162600000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK42
+!!!id: 421626
+!!!signature: 42162600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+16ee
+16gg
+16dd
+16b
+16dd
+16ff
+=2
+16ee
+16cc
+16ee
+16gg
+16dd
+16b
+16dd
+16ff
+=3
+16ee
+16cc
+16ee
+16gg
+16dd
+16b
+16dd
+16ff}
+!!LO:LB:g=esac
+=4
+{16ee
+16cc
+16ee
+16gg
+4dd
+=5
+8cc
+16cc
+16ee
+8g
+16b
+16dd
+=6
+16dd
+16cc
+16b
+16a
+8g
+16a
+16b}
+!!LO:LB:g=esac
+=7
+{8cc
+16cc
+16ee
+8g
+16b
+16dd
+=8
+8cc
+16b
+16a
+8g
+16a
+16b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 136} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 136}
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

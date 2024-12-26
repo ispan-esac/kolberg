@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5769800001-sedila_na_kolodci.krn
+!!!OTL: Sediła na kołodci
+!!!source: DWOK57
+!!!id: 57698
+!!!signature: 5769800001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8cc
+=2
+4cc
+8dd
+=3
+8ee
+4cc}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8dd
+=5
+4dd
+8ee
+=6
+8ff
+4ee}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+8ee
+=8
+4ee
+8ee
+=9
+8gg
+4ff}
+!!LO:LB:g=esac
+=10
+{8dd
+8b
+8a
+=11
+4g
+8b
+=12
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 29
+!!!ONB: Converted on 2024/12/26 with esac2hum

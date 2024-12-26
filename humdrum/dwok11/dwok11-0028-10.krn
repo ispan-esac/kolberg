@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1102800010-oj_umrzyj_jasiu_umrzyj.krn
+!!!OTL: Oj umrzyj, Jasiu umrzyj
+!!!source: DWOK11
+!!!id: 11028
+!!!signature: 1102800010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8ee
+8r
+16a
+16cc
+=2
+16ee
+16dd
+8b
+8dd
+=3
+8.ee
+16ee
+16a
+16cc
+=4
+16ee
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+16r
+16a
+16cc
+16b
+=6
+16g
+16d
+8g
+16b
+16dd
+=7
+8.a
+16cc
+16a
+16cc
+=8
+16ee
+16dd
+8b
+8g}
+==
+*-
+!!!ONB: Mazur-partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 63} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 63}
+!!!page: 63
+!!!ONB: Converted on 2024/12/26 with esac2hum

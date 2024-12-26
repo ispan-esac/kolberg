@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK2628800000-zla_ja_zla_matke_mam.krn
+!!!OTL: Złą ja złą matkę mam
+!!!source: DWOK26
+!!!id: 26288
+!!!signature: 2628800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8.ee
+16dd#
+16ee
+16b
+=2
+16b
+16dd#
+8ee
+8b
+=3
+8.dd#
+16ee
+16ff#
+16ee
+=4
+16dd
+16b
+8a
+16g#
+16e}
+!!LO:LB:g=esac
+=5
+{16.e
+32g#
+8g#
+8b
+=6
+16cc
+16b
+8a
+8b
+=7
+16.e
+32g#
+8g#
+8b
+=8
+16cc
+16b
+8a
+8g#}
+!!LO:LB:g=esac
+=9
+{8.ee
+16dd#
+16ee
+16b
+=10
+16b
+16dd#
+8ee
+8b
+=11
+8.dd#
+16ee
+16gg#
+32ff#
+32ee
+=12
+16dd
+32cc
+32b
+8a
+16g#
+16e}
+!!LO:LB:g=esac
+=13
+{16.g#
+32g#
+8g#
+16b
+16dd
+=14
+16dd
+32cc
+32b
+8a
+8b
+=15
+16.g#
+32g#
+8g#
+16b
+16dd
+=16
+16dd
+32cc
+32b
+8a
+8g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 230
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3000900000-w_pietnyciu_na_czestnyj_chrest.krn
+!!!OTL: W pietnyciu na czestnyj chrest
+!!!source: DWOK30
+!!!id: 30009
+!!!signature: 3000900000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8dd
+8dd
+4ee
+=2
+8dd
+8dd
+8dd
+8b
+=3
+8b
+8dd
+8dd
+8ee
+=4
+8dd
+8b
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+16cc
+16b
+8a
+=6
+8a
+8a
+16a
+16g
+8a
+=7
+16a
+16b
+8cc
+8a
+8cc
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=23 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 10} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 10}
+!!!page: 10
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0800-w_mojim_ogrodku.krn
+!!!OTL: W mojim ogrodku
+!!!source: DWOK06
+!!!id: K0800
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+32gg
+16.ff
+4dd
+=2
+8ee
+4.gg
+=3
+8ee
+32gg
+16.ff
+8dd
+32ff
+16.ee
+=4
+8b
+4.cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+4a
+=6
+8b
+4dd
+8b
+=7
+8dd
+32ee
+16.cc
+4a
+=8
+8b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=508 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 482} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 482}
+!!!page: 482
+!!!ONB: Converted on 2024/12/26 with esac2hum

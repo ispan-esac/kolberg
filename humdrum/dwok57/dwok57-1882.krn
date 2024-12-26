@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK57188200000-de_mnie_nocz_pokryla.krn
+!!!OTL: De mnie nocz pokryła
+!!!source: DWOK57
+!!!id: 571882
+!!!signature: 57188200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8g
+8ee
+=2
+8.ee
+16dd
+8.dd
+16cc
+=3
+8cc
+8cc
+8b
+8a
+=4
+8.ff
+16ee
+8.ee
+16dd
+=5
+8ee
+8ee
+8dd
+8cc
+=6
+8b
+8a
+4ee}
+!!LO:LB:g=esac
+=7
+{8g
+8ff
+8ff
+8aa
+=8
+4aa
+8gg
+8ff
+=9
+8ee
+8ee
+8ee
+8gg
+=10
+8gg
+8ff
+8ee
+8dd
+=11
+4dd
+8dd
+8ee
+=12
+8ff
+8g
+8ee
+8dd
+=13
+2cc}
+==
+*-
+!!!ONB: Wariant t. 7: 5_+4_+4+6+6_; wariant t. 9: +3_+3+3+3_+5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 947
+!!!ONB: Converted on 2024/12/26 with esac2hum

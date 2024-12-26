@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK3317900000-a_pocozez_pani_staroscina.krn
+!!!OTL: A pocożeż pani starościna
+!!!source: DWOK33
+!!!id: 33179
+!!!signature: 3317900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16g
+16a
+16b
+16cc
+8dd
+8dd
+=2
+8dd
+8dd
+8ee
+8a
+=3
+8dd
+8dd
+8ee
+8a
+=4
+16a
+16dd
+16cc
+16cc
+8b
+16b
+16g
+=5
+16a
+16a
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=6
+{4cc
+8b
+16b
+16g
+=7
+8a
+8g
+4b
+=8
+8cc
+16cc
+16dd
+8b
+8g
+=9
+8a
+8f#
+4g}
+!!LO:LB:g=esac
+=10
+{8cc
+8cc
+8b
+16b
+16g
+=11
+8a
+8g
+4b
+=12
+8cc
+16cc
+16dd
+8b
+8g
+=13
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=306 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 264} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 264}
+!!!page: 264
+!!!ONB: Converted on 2024/12/26 with esac2hum

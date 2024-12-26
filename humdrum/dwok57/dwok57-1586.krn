@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK57158600000-tam_pole_kernyci.krn
+!!!OTL: Tam połe kernyci
+!!!source: DWOK57
+!!!id: 571586
+!!!signature: 57158600000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8gg
+8ff#
+8gg
+8dd
+8ee
+8dd
+=2
+*M4/4
+8gg
+8ff#
+8gg
+8dd
+4ee
+4dd}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+8ee
+8ff#
+4.gg
+8dd
+=4
+8ee
+8dd
+16cc
+16a
+8a
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 630
+!!!ONB: Converted on 2024/12/26 with esac2hum

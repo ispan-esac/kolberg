@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK4193200000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK41
+!!!id: 41932
+!!!signature: 4193200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.b
+16a
+4g
+8g
+8g
+=2
+8.g
+16f#
+4e
+8e
+8e
+=3
+8.e
+16d
+8e
+8d
+8e
+8d
+=4
+8d
+8c
+4B
+4d}
+!!LO:LB:g=esac
+=5
+{8.b
+16a
+4g
+8g
+8g
+=6
+8.g
+16f#
+4e
+4e
+=7
+4e
+8cc
+8a
+8f#
+8a
+=8
+4g
+2g}
+!!LO:LB:g=esac
+=9
+{8.d
+16g
+8g
+8g
+4g
+=10
+8g
+8f#
+4.a
+8f#
+=
+12d
+12f#
+12a
+4cc
+4cc
+=11
+8cc
+8b
+4.dd
+8b}
+!!LO:LB:g=esac
+=12
+{8d
+8g
+8g
+8g
+8g
+8g
+=13
+8g
+8f#
+4.a
+8f#
+=
+12d
+12f#
+12a
+4dd
+4dd
+=14
+4g
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=483 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 396} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 396}
+!!!page: 396
+!!!ONB: Converted on 2024/12/26 with esac2hum

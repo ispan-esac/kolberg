@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4808200000-pacholiku_na_koniku.krn
+!!!OTL: Pacholiku, na koniku
+!!!source: DWOK48
+!!!id: 48082
+!!!signature: 4808200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8ee
+4cc
+4g
+=2
+8a
+8a
+4a
+4g
+=3
+8cc
+8ee
+4cc
+4g
+=4
+4a
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4.dd
+8gg
+=6
+8ff
+8ee
+8ee
+8dd
+4cc
+=7
+8dd
+8dd
+4g
+8a
+8b
+=8
+4cc
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 143} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 143}
+!!!page: 143
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,127 @@
+!!!!SEGMENT: DWOK1302200000-oj_z_kamienia_na_kamien.krn
+!!!OTL: Oj z kamienia na kamień
+!!!source: DWOK13
+!!!id: 13022
+!!!signature: 1302200000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8a
+8e
+8a
+=2
+16g#
+16a
+8b
+8cc#
+=3
+8dd
+8e
+16g#
+16b
+=4
+16a
+16cc#
+8.ff#
+16ee}
+!!LO:LB:g=esac
+=5
+{8cc#
+8e
+8a
+=6
+16g#
+16a
+8b
+8cc#
+=7
+8.ee
+16dd
+16b
+16g#
+=8
+16b
+16a
+4a}
+!!LO:LB:g=esac
+=9
+{16ee
+16ee
+8ff#
+8ee
+=10
+8dd#
+4ee
+=11
+16ee
+16ee
+8ff#
+8ee
+=12
+8dd#
+4ee}
+!!LO:LB:g=esac
+=13
+{16ee
+16ee
+8ff#
+8ee
+=14
+4cc#
+8a
+=15
+16ee
+16dd
+8b
+8g#
+=16
+8b
+4a}
+!!LO:LB:g=esac
+=17
+{16ee
+16ee
+8ff#
+8ee
+=18
+8dd#
+4ee
+=19
+16ee
+16ee
+8ff#
+8ee
+=20
+8dd#
+4ee}
+!!LO:LB:g=esac
+=
+{24ee
+24cc#
+24ee
+8ff#
+8ee
+=21
+8.cc#
+16e
+16a
+16cc#
+=22
+16ee
+16dd
+8b
+8g#
+=23
+8b
+4a}
+==
+*-
+!!!ONB: Mazur
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 15} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 15}
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

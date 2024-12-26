@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK5327100000-bodaj_ta_kolasa_do_tej_ziemi_wrosla.krn
+!!!OTL: Bodaj ta kolasa do tej ziemi wrosła
+!!!source: DWOK53
+!!!id: 53271
+!!!signature: 5327100000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8cc
+=2
+4b
+4g#
+=3
+8cc
+8b
+8cc
+8dd
+=4
+4ee
+4b}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8dd
+8cc
+=6
+4b
+4g#
+=7
+8cc
+8b
+8ee
+8g#
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=391 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 351} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 351}
+!!!page: 351
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK7751800000-od_szuski_do_szoski_daj_pani_piwa.krn
+!!!OTL: Od szuski do szoski daj pani piwa
+!!!source: DWOK77
+!!!id: 77518
+!!!signature: 7751800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+8b
+8dd
+8dd
+=3
+8dd
+8gg
+8a
+=4
+4cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8cc
+=6
+8a
+8cc
+8cc
+=7
+8ee
+8dd
+8g
+=8
+4b
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 269
+!!!ONB: Converted on 2024/12/26 with esac2hum

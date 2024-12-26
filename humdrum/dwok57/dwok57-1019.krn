@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK57101900000-ej_nie_bede_nie_bede_dworaka_kochala.krn
+!!!OTL: Ej, nie będę, nie będę dworaka kochała
+!!!source: DWOK57
+!!!id: 571019
+!!!signature: 57101900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+4cc
+8cc
+=2
+8b
+8b
+8dd
+8b
+=3
+8a
+8a
+8cc
+8cc
+=4
+4b
+4dd}
+!!LO:LB:g=esac
+=5
+{8dd
+4cc
+8cc
+=6
+8b
+8b
+8dd
+8b
+=7
+8a
+8a
+8f#
+8f#
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

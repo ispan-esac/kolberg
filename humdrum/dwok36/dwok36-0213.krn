@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK3621300000-o_mym_lubym_ciagle_marze.krn
+!!!OTL: O mym lubym ciągle marzę
+!!!source: DWOK36
+!!!id: 36213
+!!!signature: 3621300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8g
+4b
+4b
+=2
+8b
+8cc
+4a
+4a
+=3
+8d
+8f#
+4a
+4a
+=4
+8a
+8b
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{8dd
+8b
+4d
+4d
+=6
+8cc
+8b
+4d
+4g
+=7
+8b
+8a
+4cc
+4f#
+=8
+8g
+8a
+4b
+4dd}
+!!LO:LB:g=esac
+=9
+{8dd
+8b
+4d
+4d
+=10
+8cc
+8b
+4d
+4g
+=11
+8b
+8a
+4cc
+4f#
+=12
+8e
+8f#
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

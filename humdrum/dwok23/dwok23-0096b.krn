@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK23096b0000-ktoz_to_bedzie_warkoc_rozplatal.krn
+!!!OTL: Któż to będzie warkoc rozplatał
+!!!source: DWOK23
+!!!id: 23096b
+!!!signature: 23096b0000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4f
+8g
+=2
+4a
+8e
+=3
+16d
+16e
+8f
+8g
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{4ff
+8dd
+=6
+4cc
+8ee
+=7
+16dd
+16cc
+8b-
+8f
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{4g
+8g
+=10
+4a
+8f
+=11
+16d
+16e
+8f
+8b-
+=12
+4.a}
+!!LO:LB:g=esac
+=13
+{8ff
+8ee
+8dd
+=14
+4cc
+8ee
+=15
+16dd
+16cc
+8b-
+8f
+=16
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 139} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 139}
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

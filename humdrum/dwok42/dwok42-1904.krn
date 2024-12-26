@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK42190400000-ide_sobie_przez_nowy_wiat.krn
+!!!OTL: Idę sobie przez Nowy Świat
+!!!source: DWOK42
+!!!id: 421904
+!!!signature: 42190400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8dd
+8g
+=2
+8a
+8a
+16cc
+16b
+8a
+=3
+8g
+8g
+8b
+8g
+=4
+4d
+4d}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8dd
+8cc
+=6
+8b
+8dd
+16cc
+16b
+8a
+=7
+8g
+8g
+8a
+8cc
+=8
+8b
+8dd
+4gg}
+!!LO:LB:g=esac
+=9
+{8ee
+8ee
+8dd
+8cc
+=10
+8b
+8dd
+16cc
+16b
+8a
+=11
+8g
+8g
+8a
+8a
+=12
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 290} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 290}
+!!!page: 290
+!!!ONB: Converted on 2024/12/26 with esac2hum

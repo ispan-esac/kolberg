@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2116100000-w_sieni_obarek_obarek.krn
+!!!OTL: W sieni obarek obarek
+!!!source: DWOK21
+!!!id: 21161
+!!!signature: 2116100000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{8dd
+8a
+16a
+16a
+=2
+16b
+16dd
+8ee
+8a
+=3
+4cc
+8a
+=4
+16g
+16f#
+8g
+8e}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8a
+=6
+16b
+16dd
+8ee
+8a
+=7
+8cc
+8cc
+16dd
+16dd
+=8
+16g
+16f#
+8g
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 78} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 78}
+!!!page: 78
+!!!ONB: Converted on 2024/12/26 with esac2hum

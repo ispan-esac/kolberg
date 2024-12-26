@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK2549400000-pojade_ja_do_owica.krn
+!!!OTL: Pojadę ja do Łowica
+!!!source: DWOK25
+!!!id: 25494
+!!!signature: 2549400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8e
+8g
+=2
+16cc
+16cc
+8ee
+8gg
+=3
+16g
+16g
+16e
+16g
+16a
+16b
+=4
+16cc
+16cc
+8ee
+8cc}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8g
+8ff
+=6
+16ee
+16dd
+8cc
+8ee
+=7
+16a
+16a
+8g
+8ff
+=8
+16ee
+16dd
+16cc
+16b
+16a
+16g}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+8a
+8g
+=10
+16b
+16b
+8cc
+8d
+=11
+16d
+16f#
+8a
+8g
+=12
+16b
+16dd
+16cc
+16b
+16a
+16g}
+!!LO:LB:g=esac
+=13
+{16d
+16f#
+8a
+8g
+=14
+16b
+16b
+8cc
+16a
+16f#
+=15
+16d
+16f#
+8a
+8g
+=16
+16b
+16dd
+16cc
+16b
+16a
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=224 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 199} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7786000000-sprawiedliwosc_zosiu_mila.krn
+!!!OTL: Sprawiedliwość Zosiu miła
+!!!source: DWOK77
+!!!id: 778600
+!!!signature: 7786000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+{8g
+8b
+8dd
+8cc#
+12ee
+12dd
+12cc#
+=1
+2dd
+4b
+=2
+8d
+8g
+4.b
+8a
+=
+12cc
+12b
+12a
+4b
+4g}
+!!LO:LB:g=esac
+=3
+{8f#
+8g
+8a
+8b
+8cc
+8dd
+=4
+2ff#
+4ee
+=5
+8dd
+8d
+4.b
+8a
+=6
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 59
+!!!ONB: Converted on 2024/12/26 with esac2hum

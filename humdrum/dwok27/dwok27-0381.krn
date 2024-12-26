@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2738100000-kiedy_zakwitnie_roza_w_ogrodzie.krn
+!!!OTL: Kiedy zakwitnie róża w ogrodzie
+!!!source: DWOK27
+!!!id: 27381
+!!!signature: 2738100000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8f
+8a
+8cc
+=2
+4ff
+8f
+=3
+8f
+8a
+8cc
+=4
+4dd
+8b-}
+!!LO:LB:g=esac
+=5
+{8f
+8b-
+8a
+=6
+4g
+8cc
+=7
+8a
+8g
+8a
+=8
+4b-
+8dd}
+!!LO:LB:g=esac
+=9
+{8f
+8b-
+8a
+=10
+4g
+8cc
+=11
+8a
+8f
+8a
+=12
+4b-
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=358 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 339} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 339}
+!!!page: 339
+!!!ONB: Converted on 2024/12/26 with esac2hum

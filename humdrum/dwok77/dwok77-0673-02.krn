@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7767300002-a_cuda_mi_sie_dzieja.krn
+!!!OTL: A cuda mi się dzieją
+!!!source: DWOK77
+!!!id: 77673
+!!!signature: 7767300002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16b
+16dd
+8ff#
+8ee
+=2
+8b
+8dd
+8ee}
+!!LO:LB:g=esac
+=3
+{16b
+16dd
+8ff#
+8ee
+=4
+8b
+8cc#
+8a}
+!!LO:LB:g=esac
+=5
+{16e
+16g#
+8a
+8a
+=6
+8b
+16dd
+16cc#
+8a}
+!!LO:LB:g=esac
+=7
+{16b
+16g#
+8a
+16a
+16cc#
+=8
+8b
+8dd
+8a}
+==
+*-
+!!!ONB: t. 5 wariant: -5-71_13 takt 8 wariant: 2_2_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 340
+!!!ONB: Converted on 2024/12/26 with esac2hum

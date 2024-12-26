@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK5002500001-oj_powidz_my_ty_dziewczyno.krn
+!!!OTL: Oj, powidż my ty, dziewczyno
+!!!source: DWOK50
+!!!id: 50025
+!!!signature: 5002500001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4cc
+16dd
+8.ee
+=2
+8ff
+8a
+4b-
+4b-
+=3
+8a
+8a
+4g
+4g
+=4
+2.f}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+4cc
+16dd
+8.ee
+=6
+8ff
+8a
+4b-
+4b-
+=7
+8a
+8a
+4g
+4g
+=8
+2.f}
+!!LO:LB:g=esac
+=9
+{8f
+8a
+4cc
+4cc
+=10
+4cc
+4dd
+4b-
+=11
+8f
+8a
+4cc
+4cc
+=12
+4cc
+4dd
+4b-}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+4g
+4g
+=14
+2.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=22 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 9-10} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, pp. 9-10}
+!!!page: 9-10
+!!!ONB: Converted on 2024/12/26 with esac2hum

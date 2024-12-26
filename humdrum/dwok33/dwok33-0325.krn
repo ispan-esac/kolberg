@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK3332500000-diekowala_bereza_zelonyj_dubrowe.krn
+!!!OTL: Diekowała bereza zelonyj dubrowe
+!!!source: DWOK33
+!!!id: 33325
+!!!signature: 3332500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8cc
+8cc
+=2
+16b
+16f#
+4g
+=3
+8a
+4b
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+=6
+16cc
+16dd
+8b
+8f#
+=7
+[4g}
+8g]
+!!LO:LB:g=esac
+=8
+{4cc
+8cc
+=9
+8cc
+16b
+16g
+8r
+=10
+8b
+8b
+8dd
+=11
+8cc
+8b
+8f#
+=12
+4.g}
+!!LO:LB:g=esac
+=13
+{8b
+16b
+16dd
+8cc
+=14
+16cc
+16b
+4g
+=15
+8b
+16a
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 321} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 321}
+!!!page: 321
+!!!ONB: Converted on 2024/12/26 with esac2hum

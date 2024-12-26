@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4907200001-ja_uwczora_z_wieczora.krn
+!!!OTL: Ja uwczora z wieczora
+!!!source: DWOK49
+!!!id: 49072
+!!!signature: 4907200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+2b
+=2
+8cc
+8b
+4a
+4g}
+!!LO:LB:g=esac
+=3
+{4b
+2dd
+=4
+8ee
+8dd
+4cc
+4b}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+4cc
+4b
+=6
+8dd
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=7
+{4g
+2b
+=8
+8cc
+8b
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 164} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 164}
+!!!page: 164
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1707500000-oj_do_dom_chlopcy_do_dom.krn
+!!!OTL: Oj do dom chłopcy do dom
+!!!source: DWOK17
+!!!id: 17075
+!!!signature: 1707500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8a
+8cc
+=2
+16a
+16cc#
+8dd
+8b
+=3
+16g
+16b
+8a
+8cc
+=4
+16a
+16cc#
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8a
+16dd
+16cc#
+=6
+16a
+16f#
+8g
+8b
+=7
+16b
+16b
+8a
+8b
+=8
+16a
+16f#
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 28} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 28}
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum

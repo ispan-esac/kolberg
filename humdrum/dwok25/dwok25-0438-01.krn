@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2543800001-ona_pasla_bycki.krn
+!!!OTL: Ona pasła bycki
+!!!source: DWOK25
+!!!id: 25438
+!!!signature: 2543800001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+8cc
+8cc
+=2
+8b
+4dd
+=3
+16cc
+16ee
+8ee
+8ee
+=4
+8dd
+4ff}
+!!LO:LB:g=esac
+=5
+{16ff
+16ee
+4dd
+=6
+16ee
+16dd
+4cc
+=7
+16g
+16b
+8b
+8b
+=8
+8dd
+4cc}
+!!LO:LB:g=esac
+=9
+{16ff
+16ee
+4dd
+=10
+16ee
+16dd
+4cc
+=11
+16g
+16b
+8b
+16b
+16dd
+=12
+16dd
+16cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=211 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 186} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 186}
+!!!page: 186
+!!!ONB: Converted on 2024/12/26 with esac2hum

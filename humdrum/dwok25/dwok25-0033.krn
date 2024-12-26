@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2503300000-da_we_swiecie_ja_byl.krn
+!!!OTL: Da we świecie ja był
+!!!source: DWOK25
+!!!id: 25033
+!!!signature: 2503300000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{16b
+16ee
+16dd#
+16b
+16dd#
+16ee
+=2
+16a
+16f#
+4g
+=3
+16b
+16ee
+16dd#
+16b
+16dd#
+16ee
+=4
+16a
+16f#
+4e}
+!!LO:LB:g=esac
+=5
+{16b
+16ee
+16dd#
+16b
+16dd#
+16ee
+=6
+16cc
+16dd#
+4ee
+=7
+16b
+16ee
+16cc
+16a
+16dd#
+16ee
+=8
+16a
+16f#
+8g
+16dd#
+16ee
+=9
+16a
+16f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 13} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 13}
+!!!page: 13
+!!!ONB: Converted on 2024/12/26 with esac2hum

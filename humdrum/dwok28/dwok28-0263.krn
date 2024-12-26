@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK2826300000-za_stodola_modry_chaber.krn
+!!!OTL: Za stodołą modry chaber
+!!!source: DWOK28
+!!!id: 28263
+!!!signature: 2826300000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4e
+4g
+=2
+4a
+4cc
+=3
+8e
+8g
+8f
+8d}
+!!LO:LB:g=esac
+=4
+{8e
+8g
+8cc
+8cc
+=5
+8dd
+8dd
+8ee
+16cc
+16b
+=6
+16g
+16a
+16cc
+16a
+8g
+8g
+=7
+8a
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 259} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 259}
+!!!page: 259
+!!!ONB: Converted on 2024/12/26 with esac2hum

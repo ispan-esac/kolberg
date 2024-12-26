@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK4474000020-oj_w_lecie_w_lecie.krn
+!!!OTL: Oj, w lecie, w lecie
+!!!source: DWOK44
+!!!id: 44740
+!!!signature: 4474000020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+16a
+16b
+4cc
+4g
+=2
+8f
+4a
+8g
+8a
+8f}
+!!LO:LB:g=esac
+=3
+{8e
+8g
+4cc
+4g
+=4
+8e
+8g
+8f
+8d
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=426 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 368} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 368}
+!!!page: 368
+!!!ONB: Converted on 2024/12/26 with esac2hum

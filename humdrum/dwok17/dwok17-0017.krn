@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1701700000-sla_dziewcyna_z_torunia.krn
+!!!OTL: Sła dziewcyna z Torunia
+!!!source: DWOK17
+!!!id: 17017
+!!!signature: 1701700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8b-
+8cc
+8cc
+=2
+4cc
+8dd
+8cc
+=3
+8b-
+8dd
+8cc
+8b-
+=4
+4a
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{4cc
+4a
+=6
+8b-
+8dd
+4cc
+=7
+8b-
+8dd
+8cc
+8b-
+=8
+4cc
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 9} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 9}
+!!!page: 9
+!!!ONB: Converted on 2024/12/26 with esac2hum

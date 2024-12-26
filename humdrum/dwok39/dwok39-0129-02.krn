@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK3912900002-u_jeziora_zimna_woda.krn
+!!!OTL: U jeziora zimna woda
+!!!source: DWOK39
+!!!id: 39129
+!!!signature: 3912900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4b
+=2
+8dd
+8dd
+4dd
+4a}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+4cc
+8b
+8dd
+=
+12dd
+12b
+12g
+4f#
+4d}
+!!LO:LB:g=esac
+=
+{4.g
+8b
+12g
+12f#
+12d
+=
+4.cc
+8dd
+12b
+12a
+12g}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+4dd
+4cc
+=5
+8b
+8f#
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 176} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 176}
+!!!page: 176
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK42140200000-ej_z_gory_woda_bije.krn
+!!!OTL: Ej, z góry woda bije
+!!!source: DWOK42
+!!!id: 421402
+!!!signature: 42140200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4gg
+4gg
+=2
+8ff#
+8dd
+4ee
+4cc
+=3
+8b
+8a
+4g
+4cc
+=4
+4a
+2g
+=5
+8b
+8a
+4g
+4cc
+=6
+4a
+2g}
+!!LO:LB:g=esac
+=7
+{4g
+4cc
+4dd
+=8
+8ff
+8dd
+4ee
+4cc
+=9
+8b
+8a
+4g
+4cc
+=10
+4a
+2g
+=11
+8b
+8a
+4g
+4cc
+=12
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 30} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 30}
+!!!page: 30
+!!!ONB: Converted on 2024/12/26 with esac2hum

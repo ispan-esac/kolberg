@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK8410500000-plywe_czolen_wody_polen.krn
+!!!OTL: Pływe czołen wody połen
+!!!source: DWOK84
+!!!id: 84105
+!!!signature: 8410500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8d
+8g
+8g
+=2
+8g
+8g
+8a
+8b
+=3
+8cc
+8cc
+8ee
+8ee
+=4
+8.ee
+16dd
+8dd}
+8r
+!!LO:LB:g=esac
+=5
+{8.dd
+16dd
+8dd
+8dd
+=6
+8dd
+8dd
+8ee
+8dd
+=7
+8.dd
+16dd
+8cc
+8f#
+=8
+8g
+8b
+8dd
+8dd}
+!!LO:LB:g=esac
+=9
+{8.dd
+16dd
+8dd
+8dd
+=10
+8dd
+8dd
+8ee
+8dd
+=11
+8dd
+8dd
+8cc
+8f#
+=12
+4.g
+8g}
+==
+*-
+!!!ONB: Wariant t. 1: 1_1_1_1_; wariant t. 11: 5_654_-7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 116} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 116}
+!!!page: 116
+!!!ONB: Converted on 2024/12/26 with esac2hum

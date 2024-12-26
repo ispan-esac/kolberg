@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK35B-35B02600000-zelena_sosna_horela.krn
+!!!OTL: Zełena sosna horeła
+!!!source: DWOK35B
+!!!id: 35B026
+!!!signature: 35B02600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8ee
+=2
+8dd
+8b
+8a
+=3
+8dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=4
+{8ee
+8ee
+8ee
+=5
+8dd
+8b
+8a
+=6
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=7
+{8e
+8e
+8g#
+=8
+4a
+8cc
+=9
+8b
+8dd
+8a}
+!!LO:LB:g=esac
+=10
+{8e
+8e
+8g#
+=11
+4a
+8cc
+=12
+8b
+8dd
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 145} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 145}
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

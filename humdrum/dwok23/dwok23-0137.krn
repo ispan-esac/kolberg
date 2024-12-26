@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK2313700000-a_siadajze_na_woz.krn
+!!!OTL: A siadajże na wóz
+!!!source: DWOK23
+!!!id: 23137
+!!!signature: 2313700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16e
+8f#
+8d
+=2
+8g
+4b
+=3
+16cc
+16ee
+8dd
+8cc
+=4
+16a
+16f#
+4d}
+!!LO:LB:g=esac
+=5
+{16d
+16e
+8f#
+8d
+=6
+8g
+4a
+=7
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 156} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 156}
+!!!page: 156
+!!!ONB: Converted on 2024/12/26 with esac2hum

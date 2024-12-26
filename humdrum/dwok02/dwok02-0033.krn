@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK02-K0033-a_wstydzcie_siz_panowie_starostowie.krn
+!!!OTL: A wstydzcie siďż˝ panowie starostowie
+!!!source: DWOK02
+!!!id: K0033
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8g
+8b
+=2
+4cc
+8dd
+8b
+=3
+8cc
+8b
+4cc
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8g
+8b
+=6
+4cc
+4g
+=7
+2a}
+!!LO:LB:g=esac
+=8
+{8g
+8b
+8g
+8b
+=9
+4cc
+8dd
+8b
+=10
+4.cc
+8g}
+!!LO:LB:g=esac
+=11
+{8g
+8b
+8g
+8b
+=12
+4cc
+4g
+=13
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 40} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 40}
+!!!page: 40
+!!!ONB: Converted on 2024/12/26 with esac2hum

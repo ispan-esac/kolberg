@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4460700000-co_sie_stalo_we_dwoze.krn
+!!!OTL: Co się stało we dwoze
+!!!source: DWOK44
+!!!id: 44607
+!!!signature: 4460700000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8cc
+=2
+8ff
+8ff
+4ff}
+!!LO:LB:g=esac
+=3
+{8ff
+8ee
+8dd
+8cc
+=4
+8ee
+8ee
+4ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+8cc
+8b
+=6
+8dd
+8dd
+4dd}
+!!LO:LB:g=esac
+=7
+{8g
+8a
+8b
+8g
+=8
+8cc
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=379 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 321} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 321}
+!!!page: 321
+!!!ONB: Converted on 2024/12/26 with esac2hum

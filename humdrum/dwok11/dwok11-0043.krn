@@ -1,0 +1,115 @@
+!!!!SEGMENT: DWOK1104300000-instrumentalna-kujawiak.krn
+!!!OTL: Instrumentalna-kujawiak
+!!!source: DWOK11
+!!!id: 11043
+!!!signature: 1104300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4d
+8cc
+8b
+8a
+8f#
+=2
+8g
+16r
+16a
+8b
+8cc
+8dd
+8ee
+=3
+4d
+8cc
+8b
+8a
+8g
+=4
+8.f#
+16d
+4f#
+4g}
+!!LO:LB:g=esac
+=5
+{4d
+8cc
+8b
+8a
+8f#
+=6
+4g
+4b
+4cc
+=7
+8.b
+16cc
+4b
+8a
+8g
+=8
+8f#
+8d
+8f#
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{4dd
+8b
+8g
+8b
+8dd
+=10
+8a
+8cc
+4ee
+4a
+=11
+4d
+8cc
+8b
+8a
+8f#
+=12
+8g
+16r
+16a
+8b
+8cc
+8dd
+8ee}
+!!LO:LB:g=esac
+=13
+{4dd
+8b
+8g
+8b
+8dd
+=14
+8.a
+16cc
+4ee
+4a
+=15
+8.b
+16cc
+4b
+8a
+8g
+=16
+8.f#
+16d
+8f#
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 97-98} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, pp. 97-98}
+!!!page: 97-98
+!!!ONB: Converted on 2024/12/26 with esac2hum

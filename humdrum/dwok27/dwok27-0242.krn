@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2724200000-chocbym_ja_jezdzil.krn
+!!!OTL: Choćbym ja jeździł
+!!!source: DWOK27
+!!!id: 27242
+!!!signature: 2724200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{8a
+8a
+8b-
+4cc
+8ff
+=2
+8ee
+8dd
+8ee
+4ff
+8ff
+=3
+8a
+8a
+8b-
+4cc
+8cc
+=4
+8cc
+8g
+8b-
+4b-
+8a}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+8dd
+4cc
+8a
+=6
+4b-
+8dd
+4.cc
+=7
+8a
+8a
+8a
+8g
+8a
+8a
+=8
+4a
+8g
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 275} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 275}
+!!!page: 275
+!!!ONB: Converted on 2024/12/26 with esac2hum

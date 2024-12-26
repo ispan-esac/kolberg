@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK57181900000-pyte_lude_horilonku.krn
+!!!OTL: Pyte, lude, horiłońku
+!!!source: DWOK57
+!!!id: 571819
+!!!signature: 57181900000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8g
+8b-
+4.dd
+8b-
+=
+8dd
+8dd
+8cc
+8g
+12b-
+12a
+12g
+=2
+8g
+8b-
+4.dd
+8b-
+=3
+2cc
+4cc}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+8cc
+8g
+8b-
+8g
+=5
+8b-
+8cc
+4.dd
+8b-
+=6
+8dd
+8dd
+8cc
+8g
+4b-
+=7
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 901
+!!!ONB: Converted on 2024/12/26 with esac2hum

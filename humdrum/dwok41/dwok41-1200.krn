@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK41120000000-gdy_sie_zenisz_przyjacielu.krn
+!!!OTL: Gdy się żenisz, przyjacielu
+!!!source: DWOK41
+!!!id: 411200
+!!!signature: 41120000000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16cc#
+8.ee
+16dd#
+=2
+16b
+16dd#
+8.ee
+16cc#
+=3
+16ee
+16dd#
+4b
+=4
+16cc#
+16ee
+4a}
+!!LO:LB:g=esac
+=5
+{16cc#
+16cc#
+8b
+8g#
+=6
+16a
+16a
+8.ff#
+16cc#
+=7
+16ee
+16dd#
+4b
+=8
+16b
+16cc#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=614 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 527} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 527}
+!!!page: 527
+!!!ONB: Converted on 2024/12/26 with esac2hum

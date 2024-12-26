@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4709000000-u_poli_klyn_derewo_rizno.krn
+!!!OTL: U poli kłyn, d'erewo rizno
+!!!source: DWOK47
+!!!id: 47090
+!!!signature: 4709000000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8b
+8a
+8b
+8dd#
+4ee
+=2
+8dd
+16cc
+16b
+8a
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=3
+{8a
+8b
+4e
+4d
+=4
+8g
+16b
+16g
+8a
+16dd
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+4e
+4d
+=6
+8g
+16b
+16g
+8a
+16dd
+16cc
+8b
+8e}
+==
+*-
+!!!ONB: Wariant t. 2: (7b+17b)6b54_7b_5_3b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 98} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

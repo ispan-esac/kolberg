@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK57165100000-oj_mala_handzi_swekruju_lechuju.krn
+!!!OTL: Oj, mała Handzi swekruju łechuju
+!!!source: DWOK57
+!!!id: 571651
+!!!signature: 57165100000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{4b
+8b
+8a
+=2
+8g
+4dd
+8cc
+=3
+8b
+8b
+8b
+8a
+=4
+8g
+8e
+8a
+8d}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+8a
+8f#
+=6
+4d
+4d
+=7
+8g
+8g
+8a
+8cc
+=8
+4b
+4e}
+==
+*-
+!!!ONB: Wariant t. 1: 5554; wariant t. 5: 1__4_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 723
+!!!ONB: Converted on 2024/12/26 with esac2hum

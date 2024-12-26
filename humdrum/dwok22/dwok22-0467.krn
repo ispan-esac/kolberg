@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK2246700000-migaj_po_rosie_jagoda.krn
+!!!OTL: Śmigaj po rosie jagoda
+!!!source: DWOK22
+!!!id: 22467
+!!!signature: 2246700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+16ee
+16dd
+8cc
+=2
+16b
+16a
+16a
+16g
+8a
+=
+16b
+16dd
+8gg
+24ff#
+24ee
+24cc
+=3
+16b
+16dd
+8ee
+8d}
+!!LO:LB:g=esac
+=4
+{16g
+16b
+16ee
+16dd
+8cc
+=5
+16b
+16g
+8g
+8e
+=6
+16c
+16e
+8e
+8g
+=7
+16b
+16a
+8f#
+8d}
+!!LO:LB:g=esac
+=8
+{16d
+16f#
+8a
+8b
+=9
+16a
+32cc
+32b
+8g
+8e
+=10
+16c
+16e
+8e
+8g
+=
+24g
+24b
+24a
+8f#
+8d}
+!!LO:LB:g=esac
+=11
+{16d
+16f#
+8a
+8b
+=12
+16dd
+32cc
+32b
+8g
+8e
+=13
+16c
+16e
+8e
+8g
+=
+24g
+24b
+24a
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 225} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 225}
+!!!page: 225
+!!!ONB: Converted on 2024/12/26 with esac2hum

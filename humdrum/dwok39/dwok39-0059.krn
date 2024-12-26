@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK3905900000-a_w_niedziele_raniuleczko_deszcz_leje.krn
+!!!OTL: A w niedziele raniuleczko deszcz leje
+!!!source: DWOK39
+!!!id: 39059
+!!!signature: 3905900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8ee
+16ff
+32ee
+32dd
+=2
+16cc
+32b
+32a
+8g#
+8a
+=3
+16cc
+16dd
+4ee}
+!!LO:LB:g=esac
+=4
+{16a
+16cc
+8ee
+16ff
+32ee
+32dd
+=5
+16cc
+32b
+32a
+8g#
+8a
+=6
+16a
+32b
+32cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 125} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 125}
+!!!page: 125
+!!!ONB: Converted on 2024/12/26 with esac2hum

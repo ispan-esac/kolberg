@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK7782600001-oj_jak_srogie_przeznaczenie.krn
+!!!OTL: Oj jak srogie przeznaczenie
+!!!source: DWOK77
+!!!id: 778261
+!!!signature: 7782600001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8.ee
+16a
+8a
+8a
+16a
+16b
+8a
+=2
+8.a
+16g#
+4b}
+4r
+!!LO:LB:g=esac
+=3
+{8.ff
+16b
+8b
+16cc
+16dd
+8cc
+8b
+=4
+4a}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{4ee
+4dd
+4ee
+=6
+4gg
+2gg
+=7
+4gg
+4.aa
+8gg
+=8
+4gg
+4ee
+8r
+8dd}
+!!LO:LB:g=esac
+=9
+{2ee
+4dd
+=10
+4cc
+2cc
+=11
+4b
+4.cc
+8b
+=12
+4a}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 30
+!!!ONB: Converted on 2024/12/26 with esac2hum

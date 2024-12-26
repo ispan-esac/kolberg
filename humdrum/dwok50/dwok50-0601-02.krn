@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5060100002-oj_po_pid_haj_zelenejkyj.krn
+!!!OTL: Oj, po pid haj zełenejkyj
+!!!source: DWOK50
+!!!id: 50601
+!!!signature: 5060100002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8a
+8g
+=2
+8g
+8cc
+8cc
+8dd
+=3
+8ee
+16ee
+16dd
+4cc}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+8ee
+16ee
+16b
+=5
+4dd
+4ee
+=6
+4a
+4g}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+8ee
+8ee
+=8
+4dd
+4ee
+=9
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=386 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 353} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 353}
+!!!page: 353
+!!!ONB: Converted on 2024/12/26 with esac2hum

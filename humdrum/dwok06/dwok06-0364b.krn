@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK06-K0364b-umar_maciek_umar.krn
+!!!OTL: Umar Maciek umar
+!!!source: DWOK06
+!!!id: K0364b
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8f#
+8f#
+8f#
+=2
+8g
+4g
+8r
+=3
+8b
+8cc#
+8dd
+8cc#
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{4.dd
+8dd
+=6
+8cc
+8b
+8a
+8g
+=7
+4.a
+8dd
+=8
+8cc
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=9
+{4.dd
+8dd
+=10
+8cc
+8b
+8a
+8g
+=11
+4.a
+16cc
+16b
+=12
+8a
+8g
+8f#
+8g}
+!!LO:LB:g=esac
+=13
+{4g
+8d
+8d
+=14
+8d
+8f#
+8d
+8f#
+=15
+4.g
+8g
+=16
+8f#
+8d
+8d
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 184} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

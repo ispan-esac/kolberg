@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK3907300002-siwa_gaska_siwa.krn
+!!!OTL: Siwa gąska, siwa
+!!!source: DWOK39
+!!!id: 39073
+!!!signature: 3907300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8cc
+8b
+8d
+=2
+4.g
+8b
+=3
+8dd
+8cc
+8b
+8a
+=4
+4.a
+8a}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8dd
+=6
+4.ee
+8dd
+=7
+8ee
+8dd
+8cc
+8f#
+=8
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 133-134} @EN{Oskar Kolberg Complete Works 39: Pomerania, pp. 133-134}
+!!!page: 133-134
+!!!ONB: Converted on 2024/12/26 with esac2hum

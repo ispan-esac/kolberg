@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK4651200000-jakem_jechal_przez_rudlice.krn
+!!!OTL: Jakem jechał przez Rudlice
+!!!source: DWOK46
+!!!id: 46512
+!!!signature: 4651200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8f
+4a
+4b-
+=2
+8cc
+8ee
+4ff
+8cc
+8a}
+!!LO:LB:g=esac
+=3
+{8f
+8f
+4a
+8b-
+8cc
+=4
+8cc
+8ee
+8ee
+8ff
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8f
+8f
+4a
+4b-
+=6
+8b-
+8cc
+4a
+4g}
+!!LO:LB:g=esac
+=7
+{8b-
+8dd
+4cc
+8g
+8a
+=8
+8b-
+8cc
+4a
+4f}
+!!LO:LB:g=esac
+=9
+{8f
+8f
+4a
+4b-
+=10
+8b-
+8cc
+4a
+4g}
+!!LO:LB:g=esac
+=11
+{8b-
+8dd
+4cc
+8g
+8a
+=12
+8b-
+8cc
+4a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=348 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 314} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 314}
+!!!page: 314
+!!!ONB: Converted on 2024/12/26 with esac2hum

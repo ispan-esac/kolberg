@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK0905300010-instrumentalna_-_przodek.krn
+!!!OTL: Instrumentalna - Przodek
+!!!source: DWOK09
+!!!id: 09053
+!!!signature: 0905300010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.ee
+16dd#
+8ee
+8ff#
+8gg
+8ee
+=2
+4dd
+8a
+8cc
+4b}
+!!LO:LB:g=esac
+=3
+{8.ee
+16dd#
+8ee
+8ff#
+8gg
+8ee
+=4
+4dd
+8a
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{8.f#
+16e
+8d
+8e
+8f#
+8a
+=6
+4dd
+4a
+4b}
+!!LO:LB:g=esac
+=7
+{8.f#
+16e
+4d
+8f#
+8a
+=8
+4dd
+4a
+4b}
+==
+*-
+!!!ONB: "Na ksób"
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 196} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

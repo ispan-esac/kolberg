@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK4410700000-a_swieci_swieci_slonce_gorace.krn
+!!!OTL: A świeci świeci słońce gorące
+!!!source: DWOK44
+!!!id: 44107
+!!!signature: 4410700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+8dd
+8dd
+4dd
+=2
+16b
+16g
+8b
+16cc
+16a
+8f#
+4g}
+!!LO:LB:g=esac
+=3
+{8a
+8f#
+8d
+8d
+4cc
+=4
+16b
+16dd
+8b
+16a
+16f#
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 146} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 146}
+!!!page: 146
+!!!ONB: Converted on 2024/12/26 with esac2hum

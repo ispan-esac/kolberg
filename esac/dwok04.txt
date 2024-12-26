@@ -1,0 +1,5848 @@
+DWOK04
+CUT[Kiedy będzie słońce i pogoda. Polski czyli Chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 69, od Babiska, Brdowa]
+FKT[]
+SIG[0410800010]
+KEY[K0108a  16  A 3/4]
+MEL[1_3b_5__.5_  5_5_4#_5_3b_1_
+    2_5_-5__.-5_  1_2_3b_3b_2_1_
+    2_5_-5__.-5_  1_2_3b_3b_2_1_ //]
+BEM[Część wokalna]
+
+DWOK04
+CUT[Kiedy będzie słońce i pogoda. Polski czyli Chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 69, od Babiska, Brdowa]
+FKT[]
+SIG[0410800020]
+KEY[K0108b  16  A 3/4]
+MEL[4_6b_+1__.7_  +1_7_+17+1_+17+1_  +17+1_+1+2b+1_6b54_
+    5_+1_5__.3b_  1_3b_4_5_6b54_
+    5_+1_5__.3b_  1_3b_4_5_6b54_ //]
+BEM[Część instrumentalna. W zapisie melodycznym jest dodatkowo dolna linia - zrytmizowany burdon na dźwięku a1, prawdopodobnie pusta struna skrzypiec]
+
+DWOK04
+CUT[Kiedy bedzie slonce i pogoda]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 69]
+FKT[]
+SIG[]
+KEY[K0109   16  C 3/4]
+MEL[5__5__5__  5__5__5__  5__5__5__  5__5__5__
+    +2_+2_+3__5__  6_6_7_+2_+1_7_  +2_+2_+4#_+3_5__  6_6_7_5_+1_7_
+    6_5_+2__+1_7_  6_6_7_+2_+1_7_  +2_+2_+4#+3_.5__  6_6_7_5_+1_7_
+    6_5_+2__+1_7_  6_6_7_+2_+1_7_  +2_+2_+4#+3_.5__  6_6_7_5_+1_7_ //]
+BEM[]
+
+DWOK04
+CUT[Przyjechalo ctyrych rekrutantow z wojny]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 69-70]
+FKT[]
+SIG[]
+KEY[K0110   08  C 4/4]
+MEL[+1+1+1+17_5_  6667+2_5_  6_+165_.4
+    32135_+1_  6_+165_.4  32135_1_ //]
+BEM[]
+
+DWOK04
+CUT[A wyjrzyjcie pacholicy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 70]
+FKT[]
+SIG[]
+KEY[K0111a  16  G 3/8 5/16]
+MEL[135_5_  562_-7_  (-5-72)43-7_  1__0_
+    -722_4_  431_-5_  -7243-7_  1__0_
+    5_5_5_  562_-5_  (-5-72)43-7_  1__.
+    542_4_  565_.3  542_43  1__. //]
+BEM[Wariant 1]
+
+DWOK04
+CUT[A wyjrzyjcie pacholicy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 70]
+FKT[]
+SIG[]
+KEY[K0111b  16  G 3/8]
+MEL[135_5_  562_-7_  (-5-72)43-7_  1__0_
+    -722_4_  431-5-5_  -7243-7_  1__0_
+    1_5_5_  562_-5_  (-5-72)43-72  1__.
+    542_34  565_.3  54(2-72)43  1__. //]
+BEM[Wariant 2]
+
+DWOK04
+CUT[Otworzcie mu pacholicy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 70]
+FKT[]
+SIG[]
+KEY[K0112   16  C 3/8]
+MEL[55+1_.7  +1+27_6_  575_67  +1__0_
+    55+1_.5  654_3_  225_.4  3__0_
+    55+1_.7  +1+27_6_  575_67  +1__0_
+    55+1_.5  654_3_  225_.4  3__0_ //]
+BEM[]
+
+DWOK04
+CUT[Wyjechalem na polecko]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 71]
+FKT[]
+SIG[]
+KEY[K0113   16  C 3/8]
+MEL[11+1_7_  +1+2+176_  575_67  +1__0_
+    55+1_5_  65432_  225_.4  3__0_
+    2_3_.2  345_6_  2_5_.4  3__0_ //]
+BEM[]
+
+DWOK04
+CUT[Rano rano raniusienko]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 71]
+FKT[]
+SIG[]
+KEY[K0114   16  C 3/8]
+MEL[5+1+1_+1_  +1+3+3_+2+1  +3_+3_+5+4  +2__+3+1
+    7+2+2_+2+3  +166_5_  +1_+1_7+2  +1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Da pojechale w wolki orac]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 71-72]
+FKT[]
+SIG[]
+KEY[K0115   16  F 3/8]
+MEL[546_+1_  7b+26_6_  546_+1_  665_1_
+    334_67b  5+16_42  334_67b  531_42
+    334_67b  5+16_42  334_67b  531_42
+    446_53  152_-7-5  446_53  112_-5_
+    42-7_13  542_-5_  42-7_13  332_-5_ //]
+BEM[]
+
+DWOK04
+CUT[Wyjechalem na poleczko]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 72]
+FKT[]
+SIG[]
+KEY[K0116   32  E 3/8]
+MEL[5_6_7__5__  4_3b_2__1__  -7_1_3b__4__  5__2___
+    5_6_7__5__  4_3b_2__1__  -7_1_2__4__  1___.
+    -7_1_3b__4__  5__.43b2_1_  -7_1_3b__4__  5__2___
+    -7_1_3b__4__  5__.43b2_1_  -7_1_2__4__  1___. //]
+BEM[]
+
+DWOK04
+CUT[Zalicalem sie na Ukrainie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 72]
+FKT[]
+SIG[]
+KEY[K0117   08 Bb 6/8]
+MEL[-5135_3  -5-724_3  -5-724_6  5421_1
+    -5-72-5-72  1335_3  -5-72446  5421_1
+    -5135_3  -5-724_3  -5-724_6  5421_1
+    -5-72-5-72  1335_3  -5-72446  5421_1 //]
+BEM[]
+
+DWOK04
+CUT[Wyjrzyj no ino chlopczyku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 73]
+FKT[]
+SIG[]
+KEY[K0118   08  C 2/4]
+MEL[3367  +1+17_  +1+176  6666  5_.3
+    3666  555_  2346  3_3_
+    3367  +1+17_  +1+176  6666  5_.3
+    +1766  5553  2346  3_3_ //]
+BEM[]
+
+DWOK04
+CUT[Coz ja bede czynila]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 73]
+FKT[]
+SIG[]
+KEY[K0119   08  F 2/4]
+MEL[+1+17+1  765_  +1+17+1  6_5_
+    442-7  135_  4434  1_1_
+    +1+17+1  765_  +1+17+1  6_5_
+    442-7  1355  4434  1_1_ //]
+BEM[]
+
+DWOK04
+CUT[Konik zmok jam zmok]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 73]
+FKT[]
+SIG[]
+KEY[K0120   16  A 3/4]
+MEL[1_3b_5__5__  4_2_-7b__2__  4__5__^43b2
+    1_3b_5__5__  4_2_-7b__2__  5__43b21-7__
+    1_1_1__1__  4_2_-7b__2__  4__5__3b_2_
+    1_1_1__1__  4_2_-7b__2__  5__43b21-7__ //]
+BEM[]
+
+DWOK04
+CUT[Zielona łączka, piękny kwiat]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 73-74, znad Gopła]
+FKT[]
+SIG[0412100000]
+KEY[K0121   16  D 3/4]
+MEL[+1__5_5_3_1_  6_6+15___
+    4_453___  2_231__0__
+    +1_.+2+3_+1_+2_5_  +2_.+3+4_+2_+3_5_
+    5_57+1___  4_453___  54231__0__ //]
+BEM[W t. 2 u Kolberga błędny zapis: 6_6+15__; skorygowano analogiczne do t. 3 ]
+
+DWOK04
+CUT[Wedrowala mala]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 74]
+FKT[]
+SIG[]
+KEY[K0122a  16  G 3/8]
+MEL[1-71_2_  5_5__  24#5_2_  1_-7__
+    1-71_2_  5_5__  221_43  1_2__
+    -5_1-72_  -5_1-72_  1#2-7_-6-7  -6-7-5__ //]
+BEM[Wariant 1]
+
+DWOK04
+CUT[Wedrowala mala]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 74]
+FKT[]
+SIG[]
+KEY[K0122b  16  G 3/8]
+MEL[1-71_2_  565_4#_  24#5_2_  12-7__
+    1-71_2_  54#5__  221_43  1-72__
+    -5_1-72_  -5_1-72_  1#2-7_-6-7  -6-7-5__ //]
+BEM[Wariant 2]
+
+DWOK04
+CUT[A w ktoredyk ty Jasiu jedziesz]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 74]
+FKT[]
+SIG[]
+KEY[K0123   16  G 3/8]
+MEL[135_4#_  6_765_  4#56_.2
+    135_4#_  ^_5_1_  ^_2-7-5_  123_1_  ^_432_
+    123_1_  ^_432_  135_4#_  ^_5_1_  ^_2-7-5_ //]
+BEM[]
+
+DWOK04
+CUT[Pod borem sosnia]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 75]
+FKT[]
+SIG[]
+KEY[K0124   16  C 3/8]
+MEL[+1+3+4_.+2  +3__0_  +1+3+4_.+2  +3__0_
+    +1+3+4_.+2  +3+17_+2_  57+2_.7
+    +1_0_7_  57+2_7_  +1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Czarna kura pieje]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 75]
+FKT[]
+SIG[]
+KEY[K0125   08  G 2/4]
+MEL[35#35#  6_5#3  35#35#  6_5#3
+    243_  243_  21-71  -6_6_
+    543_  243_  21-71  -6_-6_ //]
+BEM[]
+
+DWOK04
+CUT[Wyjrzala panna ku ogrodkowi]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 75]
+FKT[]
+SIG[]
+KEY[K0126   16  G 3/4]
+MEL[5__5_5_6_5_  3_3_2_-7_1__
+    5__5_5_6_4_  3_3_2_-7_1__
+    -5__1__2_4_  3_3_2_-7_1__
+    -5__-7__2_4_  3_3_2_2-71__ //]
+BEM[]
+
+DWOK04
+CUT[Jedzie Jasio od Torunia]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 76]
+FKT[]
+SIG[]
+KEY[K0127a  16  G 3/8]
+MEL[12345_  553_1_  2-7-5_3_  1_(123)(543)
+    2-7-5_3_  1_(123)(543)  2-7-5_-5_  1__0_
+    (-5-5-5)-5_(-5-6-7)  1_(123)(543)  (222)-5_(-5-6-7)  1__0_ //]
+BEM[Wariant 1]
+
+DWOK04
+CUT[Jedzie Jasio od Torunia]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 76]
+FKT[]
+SIG[]
+KEY[K0127b  16  G 3/8]
+MEL[1234(542)  553_1_  -7-7-5_(32-7)  1_(123)(543)
+    2-7(-5-71)(32-7)  1_(123)(543)  2-7-5_(-5-6-7)  1__0_
+    (-5-5-5)-5_(-5-6-7)  1_(123)(543)  (222)-5_(-5-6-7)  1__0_ //]
+BEM[Wariant 2]
+
+DWOK04
+CUT[Jechał Jasio od Torunia. Zalotny owczarski]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 76, od Chodcza (Kubłowo)]
+FKT[]
+SIG[0412800000]
+KEY[K0128   16  C 3/8]
+MEL[(566)+1_+2_  +2+4+3_+1_
+    (+2+4+4)+2_+5+4  +2_+2+16_
+    (+2+4+4)+2_+5+4  +2__.
+    (566)+1_+2_  57b6_4_
+    (57b7b)5_+17b  5_57b+2_
+    (57b7b)5_+17b  5__. //]
+BEM[]
+
+DWOK04
+CUT[Jedzie Jasio od Torunia. Po oczepinach]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 76, od Brześcia (Wieniec)]
+FKT[]
+SIG[0412900021]
+KEY[K0129   16  A 3/8]
+MEL[123b_5_  43b2_1_
+    2-7-5_-6-7  124_.3b
+    2-7-5_-6-7  1_5__
+    57+1_6_  57+1__
+    57+1_6_  57+1__
+    42-7_23b  1-6-5_.-7
+    2-7-5_-6-7  124_.3b
+    2-7-5_-6-7  124_.3b
+    2-7-5_-6-7  1__0_ //]
+BEM[Część instrumentalna]
+
+DWOK04
+CUT[Jedzie Jasio od Torunia. Po oczepinach]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 76, od Brześcia (Wieniec)]
+FKT[]
+SIG[0412900022]
+KEY[K0129   16  A 3/8]
+MEL[123b23b5  43b2_1_
+    2-7-5_-6-7  124_.3b
+    2-7-5_-6-7  1_5_.3b
+    57+1_6_  57+1_6b_
+    57+1_6_  57+1_6b_
+    422-723b  1-6-5_.-6
+    -7-7-5_-6-7  124_.3b
+    2-7-5_-6-7  124_.3b
+    2-7-5_-6-7  1__0_ //]
+BEM[Część instrumentalna]
+
+DWOK04
+CUT[Jedzie Jasio od Torunia. Po oczepinach]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 76, od Brześcia (Wieniec)]
+FKT[]
+SIG[0412900010]
+KEY[K0129a  16  A 3/8]
+MEL[3b3b3b_5_  43b2_1_
+    -7-7-5_-6-7  112_.1
+    -7-7-5_-6-7  1__0_
+    3b3b3b_5_  43b2_1_
+    -7-7-5_-6-7  112_.1
+    -7-7-5_-6-7  1__0_ //]
+BEM[Część wokalna]
+
+DWOK04
+CUT[Jedzie Jasio od Torunia]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 77]
+FKT[]
+SIG[]
+KEY[K0130   16  A 3/8]
+MEL[5__.  5__5_  565_43  265_(432)  112_(1-7-6)  (-5-6-7)1_.2
+    334_3_  265_(432)  112_(1-7-6)  (-5-6-7)1_.1
+    (-5-6-7)143_  (-5-6-7)1_.3  24#5_3-6  (-5-6-7)1__
+    (-5-6-7)143_  (-5-6-7)1_.3  24#5_(31-6)  (-5-6-7)1__ //]
+BEM[]
+
+DWOK04
+CUT[Swieci miesiac a nie grzeje]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 77]
+FKT[]
+SIG[]
+KEY[K0131   08 Bb 3/4]
+MEL[5_.353  653_1_  (234)2_.3  42-7_-5_
+    133_.1  244_.2  5_.353  422_1_
+    133_.1  244_.2  5_.353  422_1_ //]
+BEM[]
+
+DWOK04
+CUT[Przyjechalo trzech zolnierzy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 78]
+FKT[]
+SIG[]
+KEY[K0132   16  C 2/4]
+MEL[+1_+3_+4_+3_  +2_+1_7_5_  +1_+2_+3_+5_  +4__+3__
+    +4+3+2+3+4_+3_  +2_+1_7_5_  6_6_7_+2_  +1__7__
+    +1_+2_+3_+5_  +4__+3__  +1_+2_+3_+5_  +4__+3__
+    +3_+3_+4_+3_  +2_+1_7_5_  6_6_7_+2_  +1__7__ //]
+BEM[]
+
+DWOK04
+CUT[Z poniedzialku na swieto]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 78]
+FKT[]
+SIG[]
+KEY[K0133   16  C 3/8]
+MEL[7+2+1_6_  2_+2_5_  77+1_6_  2_3_1_
+    345_+1_  642_2_  345__
+    135_+1_  642_2_  231__ //]
+BEM[]
+
+DWOK04
+CUT[Z poniedzialku na swieto]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 78-79]
+FKT[]
+SIG[]
+KEY[K0134a  16  G 3/8]
+MEL[354_2_  -5_5_3_  354_2-7  -5-5-6_-5_
+    222_4_  2-7-5_-5_  -6-71__
+    222_4_  2-72_.1  -6_-5__ //]
+BEM[Wariant 1]
+
+DWOK04
+CUT[Z poniedzialku na swieto]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 78-79]
+FKT[]
+SIG[]
+KEY[K0134b  16  G 3/8]
+MEL[35432-7  -5_531_  35432-7  -5-5-6_-5_
+    222_4_  2-7-5_-5_  -6-71__
+    222_4_  2-72_.1  -6_-5__ //]
+BEM[Wariant 2]
+
+DWOK04
+CUT[A z niedzieli na swieto]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 79]
+FKT[]
+SIG[]
+KEY[K0135a  16 Bb 3/8]
+MEL[225_2_  2_3_21  -725_2_  223_21
+    -7_2_2_  321_-6_  -7_2__
+    -712_2_  321_-6_  -6_-5__ //]
+BEM[]
+
+DWOK04
+CUT[A z niedzieli na swieto]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 79]
+FKT[]
+SIG[]
+KEY[K0135b  16  C 3/8]
+MEL[35+1_.3  4_6_54  35+1_.5  4_2_1_
+    135_5_  642_-7_  135__
+    +1+3+5_+5_  +6+4+2_7_  57+1__ //]
+BEM[Partia instrumentalna w tonacji C]
+
+DWOK04
+CUT[A z niedzieli na swieto]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 79]
+FKT[]
+SIG[]
+KEY[K0135c  16  C 3/8]
+MEL[35+1_.3  4_6_54  35+1_.5  +4_+2_+1_
+    +1+3+5_+5_  +6+4+2_7_  +1+3+5__
+    +1+3+5_+5_  +6+4+2_7_  57+1__ //]
+BEM[Partia instrumentalna w tonacji C wariant alternatywny]
+
+DWOK04
+CUT[Po cozes mnie matulinku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 79-80]
+FKT[]
+SIG[]
+KEY[K0136   16  A 3/8]
+MEL[13b5_.4  3b13b_(3b21)  242_(21-7)  1__.
+    (123b)5_.4  3b13b_(3b21)  242_(21-7)  1__.
+    211_.-7  124_3b_  211_-7_
+    124_3b_  241_-7_  1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Stane ja sie wodna rybeczka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 80]
+FKT[]
+SIG[]
+KEY[K0137   08  G 6/8]
+MEL[133321  2222_-7  2456_-7  1333_1
+    1_3321  2_22_.  2456_-7  1_3301
+    -5_-7-7_-5  -6123_-4#  -5-7254#3  2-7-7-7_. //]
+BEM[]
+
+DWOK04
+CUT[Czegos oczka zaplakala]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 80]
+FKT[]
+SIG[]
+KEY[K0138   08  D 3/4]
+MEL[+1_+17+1+3  +176_5_  +1_4346  523_1_
+    345_.4#  5+16_4_  234346  523_1_
+    234_6_  57+2_+1_
+    234346  57+2_+1_ //]
+BEM[]
+
+DWOK04
+CUT[Czemus oczka zaplakala]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 81]
+FKT[]
+SIG[]
+KEY[K0139   16  D 3/8]
+MEL[551_3_  5_.135  55+3_+2_  +1__7+1
+    +274_4_  653_3_  246_.5  +1__7+1
+    +274_4_  653_3_  246_.5  1_.333  246_.5  1_0__ //]
+BEM[]
+
+DWOK04
+CUT[Kajscimy sie kochaneczku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 81]
+FKT[]
+SIG[]
+KEY[K0140   16 Bb 3/8]
+MEL[-5-72_4_  2-71_3_  5_6_2_
+    -5-72_4_  2-71_1_  3_1_1_
+    -613_3_  2-7-5_-7_  2_3_-6_
+    -6-6-6_1_  2-7-5_-7_  2_31-6_
+    3_(21-7)-6_  2_31-6_  3_(21-7)-6_
+    -5-72_4_  2-71_1_  3_1_1_ //]
+BEM[]
+
+DWOK04
+CUT[Lec glosie po rosie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 82]
+FKT[]
+SIG[]
+KEY[K0141   16  F 2/4]
+MEL[1_2_3__  3_3__1_  2_3_4__  4_4__2_
+    1_2_3__  3_3__5_  5_4_2_-7_  1_1__0_
+    1_3_5__  5_5__3_  4_5_6__  7_+1__6_
+    3_135__  5_5__3_  5_4_2_-7_  1_1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Najlepsza furmanka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 82]
+FKT[]
+SIG[]
+KEY[K0142   16 Bb 3/8]
+MEL[135_6_  4_3_1_  253_1_  1_-7_1_
+    223_3_  5_2_1_  243_1_  1_-7_1_
+    -5-72_3_  1_-7_1_  -5-72_1_  1_-7_1_
+    -5-72_3_  1_-7_1_  -5-72_1_  1_-7_1_ //]
+BEM[]
+
+DWOK04
+CUT[W calkim moim zyciu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 82-83]
+FKT[]
+SIG[]
+KEY[K0143a  16 Bb 3/8 5/16]
+MEL[-5-5-5_-5_  3_2__  1-71_-6_  1_-7__
+    -5-5-5_-5_  3_2__  -6-71_-4#_  -6_-5__
+    -6-61_1_  -725_5_  4#4#1_1_  32-7_-5_
+    -6-61_-4#  -5-7-7__  -6-61_-4#_  -5_-5__ //]
+BEM[]
+
+DWOK04
+CUT[W calkim moim zyciu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 82-83]
+FKT[]
+SIG[]
+KEY[K0143b  16 Bb 3/8 5/16]
+MEL[-5-5-5_-5_  322__  -6-71_-6_  3_2__
+    -5-5-5_-5_  322__  -6-71_-4#_  -6_-5__
+    -6-61_1_  -725_5_  4#4#1_1_  322_-7-5
+    -6-61_-4#  -5-7-7__  -6-61_-4#_  -5_-5__ //]
+BEM[]
+
+DWOK04
+CUT[Poszla do goscinca]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 83]
+FKT[]
+SIG[]
+KEY[K0144   16  F 3/4]
+MEL[5_.31_3_5_3_  4_.22_2_4_3_
+    5_.31_3_5_3_  4_.22_2_4_3_
+    1_1_1__+1__  6_6_5___
+    6_4_3__1__  4_2_1__0__ //]
+BEM[]
+
+DWOK04
+CUT[Bodaj żeś mi kochaneczko]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 83-84, Radziejowo]
+FKT[]
+SIG[0414500021]
+KEY[K0145  32  F 3/8]
+MEL[-7_2_2__5__  5_3_3__1__  4_+1_+1__+1__  +1__5___
+    76+1_6__.4_  3_5_5__3__  2_5_5__5__  5__1___ //]
+BEM[]
+
+DWOK04
+CUT[Bodaj żeś mi kochaneczko]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 83-84, Radziejowo]
+FKT[]
+SIG[0414500022]
+KEY[K0145  32  F 3/8]
+MEL[-7_2_2__5__  5_3_3__1__  4_6_6_4_6_7_  +1__5___
+    6_+1_6__.4_  3_5_5__3__  2_2_5__5__  5__1___ //]
+BEM[]
+
+DWOK04
+CUT[Bodaj żeś mi kochaneczko]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 83-84, Radziejowo]
+FKT[]
+SIG[0414500010]
+KEY[K0145a  16 Bb 3/8]
+MEL[133_.1  -722_.-7  -6-61_1_  -7_2__
+    133_.1  -722_.-7  -6-62_2_  2_-5__ //]
+BEM[]
+
+DWOK04
+CUT[Wzialem sobie panieneczke]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 84]
+FKT[]
+SIG[]
+KEY[K0146   08  C 6/8]
+MEL[+1_+1+176  6555_5  6_4+1_6  6555_5
+    5_4+2_4  35+1+1_3  234567  +17+2+176
+    54+2+2_4  35+1+1_3  234567  +17+2+17+1 //]
+BEM[]
+
+DWOK04
+CUT[Hej hej hejze deszczyk pada]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 84]
+FKT[]
+SIG[]
+KEY[K0147   32  A 3/8]
+MEL[7_5_2__.4_  6__5___  5_5_5__2__  2_2_2__-7__  2_4_6__5__  (4_3b_2_)1_-7_^__
+    1_3b_2__1__  -712_-7__-5__  -7_1_2__5__  (4_3b_2_)1_-7_^__
+    1_3b_2__1__  -712_-7__-5__  -7_1_2__5__  (4_3b_2_)1_-7_^__ //]
+BEM[]
+
+DWOK04
+CUT[Przede dworem]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 85]
+FKT[]
+SIG[]
+KEY[K0148   16  D 3/8]
+MEL[+1+2+3b_+2_  +176b_.4  5_7_.5
+    +1+2+3b_+2_  +176b_4_  5_7_.5
+    456b_5_  7+16b_4_  +1_7_.5
+    456b_.5  7+16b_.4  6b_4_.5 //]
+BEM[]
+
+DWOK04
+CUT[W ciemnym lesie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 85]
+FKT[]
+SIG[]
+KEY[K0149   16  F 3/8]
+MEL[-724_6_  5_5_4_  332_.-7  1_1_-5_
+    -724_6_  5_5_4_  314_.-7  1_1_21
+    -724_6_  5_5_42  314_.-7  1_1_21 //]
+BEM[]
+
+DWOK04
+CUT[Zlapalem rybke]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 85]
+FKT[]
+SIG[]
+KEY[K0150   16  F 3/4]
+MEL[6_6__5_6_4_  232__-6_1_-6_
+    1_1__1_3_1_  432__-6_1_-6_  1_1__3_3_2_  232__-6_1_-6_
+    1_1__1_3_1_  2_4_4_5_6_4_  3_3__2_3_1_  232__-6_1__ //]
+BEM[]
+
+DWOK04
+CUT[Ej zobaczysz dziewucho]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 86]
+FKT[]
+SIG[]
+KEY[K0151   16  G 3/8]
+MEL[-735_5_  564__  -5-72_3_  1__0_
+    135_5_  564__  -5-72_3_  1__0_
+    -722_2_  123__  -722_2_  123__
+    542_5_  133_5_  542_5_  133_56  542_5_  1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Zobaczysz kochaneczko]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 86]
+FKT[]
+SIG[]
+KEY[K0152   16  F 3/8]
+MEL[1_1_2_  665_2_  665_2_  1_-5_0_
+    1_1_2_  465_2_  465_.2  1__0_
+    1__2_  334_2_  1__2_  334_.2  465_.2  1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Czego wiecy chcesz dziewulo]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 87]
+FKT[]
+SIG[]
+KEY[K0153   16  A 3/8]
+MEL[224_2_  335_3_  224_2_  1__0_
+    -6-5-7_-5_  1_3_1_  -5-5-7_-5_  1_3_1_
+    224_2_  3_5_3_  224_2_  1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Weźże mnie Jasiu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 87, od Sompolna (Ruszkowo)]
+FKT[]
+SIG[0415400000]
+KEY[K0154   16  G 3/4]
+MEL[5__5_4_3_2_  3_4_5___
+    6__5_4_3_1_  2_-7_1__0__
+    -5_-7_1_3_2_1_  -5_-7_1_3_2_1_
+    -5_.-71_3_2_1_  -5_.-71_3_2_1_
+    5__5_4_3_1_  2_-7_1__0__ //]
+BEM[]
+
+DWOK04
+CUT[Listeczki opadly]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 155]
+FKT[]
+SIG[]
+KEY[K0155   08  C 2/4]
+MEL[+15+3+2  +1_.+1  +3+4+5+1  +4_+2_
+    +3+2+1+3  +4+2+16  +1+1+27  +1_.+1 //]
+BEM[]
+
+DWOK04
+CUT[Podaj raczke]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 88]
+FKT[]
+SIG[]
+KEY[K0156   16  F 3/4]
+MEL[1_2_3__.4_  5_6_5_4#_5_6_
+    5_6_5_4#_5_6_  5_67+1__.7_  6_6_5___
+    5_67+1_5_3_1_  6_5_6_5_4_3_  2_3_4__.3_  2_2_1__0__ //]
+BEM[]
+
+DWOK04
+CUT[Pojdziesz ci ty przez las]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 88]
+FKT[]
+SIG[]
+KEY[K0157   16  G 3/8]
+MEL[3_3_43  21-7-6-5_  133_46  5__.
+    3_3_43  21-7-6-5_  222_32  1__.
+    35423_  35423_  465__  465__
+    3_3_43  21-7-6-5_  -722_32  1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Dejze panie Boze]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 88-89]
+FKT[]
+SIG[]
+KEY[K0158   16  A 3/8]
+MEL[1__-5_  124_3_  -5__-7_  21-7_2_
+    1__1-7  124_3_  -5__-7_  21-7_2_
+    123_5_  675_(432)  123_5_  215_(432)
+    1__1-7  124_3_  -5__-7_  21-7_1_ //]
+BEM[]
+
+DWOK04
+CUT[Rajono mnie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 89]
+FKT[]
+SIG[]
+KEY[K0159   16  D 3/8]
+MEL[134_5_  567_5_  567_5_  57+1_7_  +1__.
+    134_5_  132_4_  133_45  132_4_  132_3_  1__. //]
+BEM[]
+
+DWOK04
+CUT[Oj na Sedzinskim polu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 89]
+FKT[]
+SIG[]
+KEY[K0160   16  G 3/8]
+MEL[1_3b_3b_  3b5+1_5_  46b6b_+1_  7_5__
+    1_3b_3b_  3b45_5_  42-7b_4_  3b_1__ //]
+BEM[]
+
+DWOK04
+CUT[Na Boguslawskim polu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 90]
+FKT[]
+SIG[]
+KEY[K0161   08  G 2/4]
+MEL[5313  54#2_  4464  2-7-5_
+    -5-71_  243_  1-5-54  2-7-5_
+    -5-71_  243_  1-5-54  2-7-5_ //]
+BEM[]
+
+DWOK04
+CUT[Wyszed w pole pan starosta]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 90]
+FKT[]
+SIG[]
+KEY[K0162   16  C 3/8]
+MEL[5+1+1_+1_  +1+3+3_+2+1  +5__+4_  +3+2+3_+1_
+    7+2+2_+2_  +176_5_  7__+1_  7+1+2_+1_ //]
+BEM[]
+
+DWOK04
+CUT[Wyjechal ci pan starosta w pole]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 90-91]
+FKT[]
+SIG[]
+KEY[K0163   16  G 3/8]
+MEL[113_5_  446_+1_  113_5_  4_1__
+    123_3_  234_4_  113_1_  2_-5__
+    113_5_  446_+1_  113135  4_1__
+    123_3_  234_4_  113_1_  2_-5__
+    -5_-7_2_  1_3_5_  -5_-7_2_  1_-5__
+    -5_-7_2_  113_5_  -5_-7_2_  1_-5__
+    -513_3_  22-7_-5_  111_3_  5_2__
+    531_3_  22-7_-5_  -6-71_-7_  -6_-5__
+    135_.4  3_2_1_  -712_.1  -7_-6_-5_
+    135_.4  3_2_1_  123_4_  2_-7_-5_  5_-7_1_ //]
+BEM[]
+
+DWOK04
+CUT[A dzien dobry panience]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 91]
+FKT[]
+SIG[]
+KEY[K0164   16 Bb 2/4]
+MEL[-5_-5_1__  -5_-5_3_1_  -5_-5_1_3_  5__4__
+    3_3_4_2_  3_3_-5_1_  -7_-7_-5_-7_  2__1__
+    -5_-5_1_-5_  -5_-5_3_1_  -5_-5_1_3_  5__4_2_
+    3_3_4_2_  3_3_-5_1_  -7_-7_-5_-7_  2__1__
+    -5__1__  -5__3__  -5_-5_1-513  5__4__
+    3_6_5_.4  3_3_-5_.1  -7_-7_-5_-7_  2__1_0_
+    -7_-7_-6_-7_  1_-3_-6_.-5  -4#_-6_-4#_2_  3_.2-7_-5_
+    -7__-6_-7_  1_-3_-6_-5_  -4#_-6_-4#_2_  -7_-7-6-5__ //]
+BEM[]
+
+DWOK04
+CUT[A dzien dobry panience]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 91]
+FKT[]
+SIG[]
+KEY[K0164a  08 Bb 2/4]
+MEL[-5-51_  -5-531  -5-513  5_4_
+    3342  33-51  -7-7-5-7  2_1_
+    -5-51-5  -5-531  -5-513  5_42
+    3342  33-51  -7-7-5-7  2_1_ //]
+BEM[Partia wokalna]
+
+DWOK04
+CUT[A dzien dobry panience]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 91]
+FKT[]
+SIG[]
+KEY[K0164b  16 Bb 2/4]
+MEL[-5__1__  -5__3__  -5_-5_1-513  5__4__
+    3_6_5_.4  3_3_-5_.1  -7_-7_-5_-7_  2__1_0_
+    -7_-7_-6_-7_  1_-3_-6_.-5  -4#_-6_-4#_2_  3_.2-7_-5_
+    -7__-6_-7_  1_-3_-6_-5_  -4#_-6_-4#_2_  -7_-7-6-5__ //]
+BEM[Partia skrzypcowa]
+
+DWOK04
+CUT[Zebymci ja miala skrzydelk]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 91-92]
+FKT[]
+SIG[]
+KEY[K0165   16  F 3/8]
+MEL[323_3_  4_2__  46+175_  6_2_1_
+    323_3_  2_4_.2  456_5_  4_2_1_
+    323_3_  2_4_2_  46+175_  6_2_1_
+    323_3_  2_4_.2  556_5_  4_2_1_ //]
+BEM[]
+
+DWOK04
+CUT[U jeziora]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 92]
+FKT[]
+SIG[]
+KEY[K0166   32  G 3/8]
+MEL[3_4_5__3__  5__.6_321_
+    3_3_4__2_-7_  1__.-5_432_  3_3_4__2_-7_  1__.3_2_1_
+    3_3_5__3__  5__.6_321_  3_3_4__2_-5_
+    1__.-5_4_2_  3_3_4__2_-5_  1__.-5_321_ //]
+BEM[]
+
+DWOK04
+CUT[A jak ci ja bylam]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 92-93]
+FKT[]
+SIG[]
+KEY[K0167   16  A 3/8]
+MEL[13b3b_4_  1__1_  456b_5_  7b_5__
+    456b_5_  453b21_  13b3b_4_  1__1_
+    13b3b46b5  3b21_23b  456b_5_  7b_5_3b_
+    456b_5_  453b21_  13b3b_4_  1__1_
+    -7b1-6b-5-4_  -5-7b-7b_1_  -51-6b_-4_  -5_-7b_1_ //]
+BEM[]
+
+DWOK04
+CUT[Oj ciezkie rozstanie chłopalek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 93, od Lubrańca (Redecz kalny)]
+FKT[]
+SIG[0416800000]
+KEY[K0168   16  G 3/4]
+MEL[2_3_4_6_7_.6  5_5_^_433__  2_3_4_6_^__  6__1___
+    2_3_4_3_6543  2_3_4_6_5_43  2_3_4_65432_  1__.3_2_1_
+    2_3_4_6_^__  7_6__6_5_43  2_3_4_6_^__  1__.3_2_1_
+    2_3_4_3_^__  2_3_4_6_5_43  2_3_4_3_^__  1__.3_2_1_ //]
+BEM[]
+
+DWOK04
+CUT[Oj zebym ci ja byla]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 93]
+FKT[]
+SIG[]
+KEY[K0169   16 Bb 3/8]
+MEL[356_2_  465_3_  223_2_  1-7-5_1_
+    -513_2_  653_-5_  223_2_  1-7-5_1_
+    4_.135  -721_3_  4_.135  1-7-5_1_
+    4_.135  -721_3_  4_.135  1-7-5_1_ //]
+BEM[]
+
+DWOK04
+CUT[Uczylam sie trzy niedzieli]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 94]
+FKT[]
+SIG[]
+KEY[K0170   16  G 3/4]
+MEL[1__.-5_1_3_  6_5_4__2__  2_3_4__6__  5_4#_5__.-7_
+    1__.-7_1_3_  2_3_2__1_-6_  -6_-6_-7__2__  -5_-6-71__-5__
+    1__.-7_1_3_  3_3_2__1_-6_  -6_-6_-7__2__  1-7-6-71__-5__
+    1__4_3_4_6_  +2_+1_7__5__  5_7b_5__7b__  6_7b_+1__.5_
+    1__4_3_4_67  +2_+1_7__5__  5_7b_5__7b__  6_7b_+1__.5_
+    4__.3_4_6_  6_5_3__2__  2_2_3__5__  1_3_4__.1_
+    4__.3_4_6_  6_5_3__2_2_  2_2_3__5__  1_3_4__.1_ //]
+BEM[]
+
+DWOK04
+CUT[A zeby ja tak sluchala]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 94]
+FKT[]
+SIG[]
+KEY[K0171   16  F 3/8]
+MEL[123_4_  556_5_  213_3_  1__0_
+    123_4_  556_5_  213_3_  1__0_
+    422_.3  135_5_  422_3_  135_54  213_3_  1__0_
+    422_.3  335_54  (422)2_3_  335_54  213_32  1__0_ //]
+BEM[]
+
+DWOK04
+CUT[A niewinna dziewula]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 95]
+FKT[]
+SIG[]
+KEY[K0172   16  G 3/4]
+MEL[2_2_5__6__  4__2__6__  6_5_3_5_6__  4_5_3__1_-7_
+    2_2_5__6__  3_4_2__7_6_  6_5_3_5_6__  5_4_2_3_1_-7_
+    -6_1_1_2_1__  -6_432__1_-7_  -6_-7_1__1_-7_  -6_432__1_-7_
+    -6_1_1_2_1__  -6_432__1_-7_  -6_-7_1__1_-7_  -6_432__1_-7_
+    2_2_5__6__  4__2__6__  6_5_3_5_6__  4_5_3_2_1_-7_
+    2_2_5__6__  3_4_2__7_6_  6_5_3_5_6__  5_4_2_3_1_-7_
+    -6_1_1_2_1__  -6_432__1_-7_  -6_-7_1__1_-7_  -6_432__1_-7_
+    -6_1_1_2_1__  -6_432__1_-7_  -6_-7_1__1_-7_  -6_432__1_-7_ //]
+BEM[]
+
+DWOK04
+CUT[Po co zes me matulin]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 95-96]
+FKT[]
+SIG[]
+KEY[K0173   16  G 3/8]
+MEL[335_5_  665_.1  332_4_  1__0_
+    335_5_  665_2_  332_4_  1__0_
+    2__41  235_2_
+    2__41  235_2_  332_4_  1__0_
+    2__(234)  (123)54#21
+    2__(234)  (123)54#21  332134  1__. //]
+BEM[]
+
+DWOK04
+CUT[A pod borem]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 96]
+FKT[]
+SIG[]
+KEY[K0174   16  A 3/8]
+MEL[345_6_  5__1_  6_4_.2
+    323_5_  2__-7_  -5_4_.2  323_5_  2__-7_  -5_4_.2
+    345_6_  5__1_  6_4_.2
+    323_5_  2__-7_  -5_4_.2  323_5_  2__-7_  -5_4_.2 //]
+BEM[]
+
+DWOK04
+CUT[A na stodole sowa]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 96]
+FKT[]
+SIG[]
+KEY[K0175   08 Bb 3/8]
+MEL[-5-72  46_  -71_  35_
+    -5-72  46_  543  21_
+    -5-72  4-5_  13_  51-7
+    -5-72  4-5_  13_  21_ //]
+BEM[]
+
+DWOK04
+CUT[Na zielony lace]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 96-97]
+FKT[]
+SIG[]
+KEY[K0176   16  C 3/8]
+MEL[+15+1_+3_  +1_5__  55+1_+3_  +1_5__
+    67+1_76  565_.4  322_5_  3_1__
+    67+1_76  565_.4  322_5_  3_1__
+    313_5_  313_5_  322_5_  3_1__ //]
+BEM[]
+
+DWOK04
+CUT[Na Krakowskiej ulicy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 97]
+FKT[]
+SIG[]
+KEY[K0177   16  C 3/8]
+MEL[55+1_+1_  75+1__  +1+2+3_+3_  +4+2+3__
+    +2__+3_  +2__+1_  7+2+1_0_
+    55+1_+1_  75+1__  +1+2+3_+3_  +4+2+3__
+    +2__+5_  +3__+1_  7+2+1_0_ //]
+BEM[]
+
+DWOK04
+CUT[Ganala woly do dabrowy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 97]
+FKT[]
+SIG[]
+KEY[K0178   16  F 3/8]
+MEL[123_4_  567_5_
+    +1_+2_.+3  +1+17_5_  +1__7_  5__0_
+    567b_6_  56423_  567b_6_
+    56423_  5_4_.3  113_5_  4__3_  1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Na rokacie bialene kwiecie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 97]
+FKT[]
+SIG[]
+KEY[K0179   16  F 6/8]
+MEL[2_4_6_6__5_  5_4#_5_6__2_  2_4_6_6__5_  3_2_3_4__2_
+    2_3_1_1__-6_  -6__-6_2__-5_  2_3_1_1__-6_  -6_-5#_-6_-7__-5_ //]
+BEM[]
+
+DWOK04
+CUT[Co ja zrobila matusiu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 98]
+FKT[]
+SIG[]
+KEY[K0180   32  A 3/8]
+MEL[5__5__5_4#_  5__5_4#_5__
+    -7_2_5__(4_3b_2_)  5_3b21__1__  -7_2_5__(4_3b_2_)  1_23b1__1__
+    2_2_4__3b_2_  1_3b_5__(4_3b_2_)  -7_2_5__(4_3b_2_)  1_23b1__1__ //]
+BEM[]
+
+DWOK04
+CUT[Nieszczesliwy ten ganeczek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 98]
+FKT[]
+SIG[]
+KEY[K0181   16  A 3/8]
+MEL[123b_2_  43b2_1_  3b_3b_3b_  2__0_
+    123b_2_  43b2_1_  -725_.-7  1__0_
+    -5-5-7_-5_  -712_3b1  3b_3b_3b1  242__
+    -5-5-7_-5_  -712_3b1  5_5_5-7  1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Czyli za gorecka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 99]
+FKT[]
+SIG[]
+KEY[K0182   16  A 3/8]
+MEL[-5-5-5_-5_  1_3__  24-7_2_  1_3__
+    -5-5-4#-5-6-5  1_3__  24-7_2_  2_1__
+    -5-5-5_-5_  1_3__  442_4_  6_5__
+    -5-5-5_-5_  1_3__  24-7_2_  2_1__
+    5__4_  3__4_  5__6_  2_6__
+    5__4_  3__4_  5__4_  3_1__
+    -5-5-5_-5_  1_3_5_  442_4_  655__
+    -5-5-5_-5_  1_3__  24-7_2_  2_1__
+    5__42  3__4_  5__6_  2_6_5_
+    5__42  3__46  5__4_  3_1__ //]
+BEM[]
+
+DWOK04
+CUT[Pod borem]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 99-100]
+FKT[]
+SIG[]
+KEY[K0183   16  F 3/4 3/8]
+MEL[135__5_5_5_  556__4_2_-7_  -724__4_4_4_  465__4_3_1_
+    135_5_  556_.5  234_4_  465_.3
+    123_3_  334_.3  -712_2_  265_.3
+    123_3_  334_.3  -712_2_  223_1_ //]
+BEM[]
+
+DWOK04
+CUT[Pasla pastereczka mlode jagniateczka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 100]
+FKT[]
+SIG[]
+KEY[K0184   32  F 3/8]
+MEL[1_1_1_3_5_5_  5_4_4_4_6_5_  1_1_1_3_5_5_  3_.22_-7_2_1_
+    +1__5___  6__3___  4__2___  4__3___
+    +1__5___  6__3___  4__2___  4__3___ //]
+BEM[]
+
+DWOK04
+CUT[W olszynie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 100]
+FKT[]
+SIG[]
+KEY[K0185   08  C 4/4]
+MEL[+1_7_+1__  5+177+1__
+    5+1756_5_  4435+1__
+    5+1+1+1+3_+2_  7+2+2+2+4_+3_
+    5+1+1+1+3_+2_  +2+1765_+1_ //]
+BEM[]
+
+DWOK04
+CUT[Ja ze swoja kadzielina]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 101]
+FKT[]
+SIG[]
+KEY[K0186   16  C 3/8]
+MEL[+1+2+3_+3_  +4+3+4_+2_  +4__+2_  +5_+3__
+    +1+2+3_+3_  +4+3+4_+2_  +4__+2_  +5_+3__
+    +1_+1_+1_  57+2__  5_5_5_  +1+2+3__
+    +1_+1_+1_  57+2__  567_7_  +1+3+1_0_ //]
+BEM[]
+
+DWOK04
+CUT[A ja ze swoja kadzielina]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 101]
+FKT[]
+SIG[]
+KEY[K0187   16  A 3/8]
+MEL[123_3_  334_2_  5__3_  123_0_
+    123_3_  334_2_  5__-5_  -5-71_0_
+    5_-5_-5_  123__  5_-5_-5_  -5-71_0_
+    5_-5_-5_  123__  5_-5_-5_  -721_0_ //]
+BEM[]
+
+DWOK04
+CUT[Za stodola narzyce]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 101-102]
+FKT[]
+SIG[]
+KEY[K0188   16  G 2/4]
+MEL[1_3_5_4_  3_5_1__  1_3_5_4_  3_5_1__
+    4_3_2_1_  -712_-712_  4_3_2_6_  5_-7_1__
+    5__5__  4_-7_1__  -5-6-5_-5-6-5_  5_-7_1__
+    5__5__  4_-7_1__  -5-6-5_-5-6-5_  5_-7_1__ //]
+BEM[]
+
+DWOK04
+CUT[Kapala sie Kasia w morzu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 102]
+FKT[]
+SIG[]
+KEY[K0189   16  A 3/4]
+MEL[3b_4_5__6b__  4_4_2__5_4_  3b_4_5__6b__  56b542__5_4_
+    3b_2_1__2__  -5_-7_2__5_4_  43b23b1__-7__  -5_-7_2__1__
+    -5___-5_-4#_  -5_-7_2__4__  43b23b1__-7__  -5__2__1__ //]
+BEM[]
+
+DWOK04
+CUT[Z tamtej strony jęziora]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 102]
+FKT[]
+SIG[0419000000]
+KEY[K0190   16  C 2/4]
+MEL[5_+1_+1_+3_  +2_7_5__
+    +2_+2_+2_+4_  +3_+3_+1+3+5_
+    +2_+2_+1+3+5_  +5+175+1__ //]
+BEM[]
+
+DWOK04
+CUT[Dzień dobry panience]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 102]
+FKT[]
+SIG[0419100000]
+KEY[K0191   16  F 3/8]
+MEL[5__5_  553_5_  6__+1_  664_5_
+    4_6_24  3_5_13  2_2_12  3_5__
+    4_6_24  3_5_13  2_2_12  3_1__ //]
+BEM[U Kolberga w t. 3 błędny zapis rytmiczny: 6_+1_]
+
+DWOK04
+CUT[Moj mezu powiedz kiedzu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 103]
+FKT[]
+SIG[]
+KEY[K0192   16  A 3/8]
+MEL[1_2_3_  432_3_  345_5_  5_5__
+    432_2_  123_3_  2-7-5_-5_  5_5__
+    4_3_2_  123_3_  2-7-5_-5_  1_1__ //]
+BEM[]
+
+DWOK04
+CUT[Corus moja dziecie moje]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 103]
+FKT[]
+SIG[]
+KEY[K0193   16  G 3/8]
+MEL[135_6_  54#5_3_  54#2_4#_  5_3__
+    1__2_  432_3_  1-7-6_2_  -7_-5__
+    432_3_  1-71_2_  1-7-6_2_  -7_-5__  -5_1__
+    (23-7)1_.2  332_32  1-7-6_2_  (1-7-6)-5__ //]
+BEM[]
+
+DWOK04
+CUT[Anulinku dziecie moje]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 103-104]
+FKT[]
+SIG[]
+KEY[K0194   16  A 3/8 5/16]
+MEL[565_-7_  132_1_  123_4#_  5__-5_
+    -543b2-7  132_1_  131-7-6_  2__-5_
+    4__4_  3-71_3_  2__.  234_5_  431_3_  1-7-5__ //]
+BEM[]
+
+DWOK04
+CUT[Coruchno co w pokoju sluka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 104]
+FKT[]
+SIG[]
+KEY[K0195   16  F 3/8]
+MEL[+1+17_6_  5__67  +1+17_6_  5__6_
+    754_2_  253_1_  3_3234  5__6_
+    754_2_  253_1_  1_3234  5__6_
+    +1+17_6_  5__67  +1+17_6_  5__6_
+    754_2_  253_1_  3_3234  5__6_
+    754_2_  253_1_  333234  5__6_ //]
+BEM[]
+
+DWOK04
+CUT[Prosilci ja w ogrodzie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 104]
+FKT[]
+SIG[]
+KEY[K0196   16  A 2/4]
+MEL[3_3_3_1_  3__5_4_  2_2_2_2_  3_4_6_5_
+    3__1_1_  3__5_43  2_3_4_2_  1__0__ //]
+BEM[]
+
+DWOK04
+CUT[U Mlynarza Marcina]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 104-105]
+FKT[]
+SIG[]
+KEY[K0197   16  C 3/4]
+MEL[5_5_+3__+2__  +1_6_4___  4_6_+1__7__  5_.55___
+    5_.43_5_+1_+3_  5_.43_5_+1_+3_  +3_+2_+4__+2_+1_  7_5_+1__0__ //]
+BEM[]
+
+DWOK04
+CUT[U mynarza naszego]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 105]
+FKT[]
+SIG[0419800010]
+KEY[K0198   32  C 3/8]
+MEL[5_7_+1__+3__  +1__6___  6_4_+1__6__  4_5_3___
+    5_4_3_5_+1_+1_  5_4_3_5_+1_+1_  +2_+3_+4__+4_7_  +1_.+1+1___ //]
+BEM[Część wokalna]
+
+DWOK04
+CUT[U mynarza naszego]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 105]
+FKT[]
+SIG[0419800020]
+KEY[K0198   32  C 3/8]
+MEL[5_.43_5_+1_3_  5_.43_5_+1_+3_  +5___+4_+2_  7_5_+1___ //]
+BEM[Przygrywka instrumentalna]
+
+DWOK04
+CUT[U menarza Marcina]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 105]
+FKT[]
+SIG[]
+KEY[K0199   16  C 3/8]
+MEL[55+1_+1_  +1+35__  +1+2+3_+1_  +3+4+2__
+    57+2_+2_  +5+5+5+3+4+6  +3+3+2_+2_  55+1__
+    +3+2+3+5+4+3  +2+2+5_+6_  567_+2_  +17+1__
+    +3+2+3+5+4+3  +2+2+5_+6_  567_+2_  +17+1__ //]
+BEM[]
+
+DWOK04
+CUT[Dalij raptem do ni]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 105-106]
+FKT[]
+SIG[]
+KEY[K0200   08  D 3/4]
+MEL[67+1+1+2+3  +2+17_65
+    67+17+2+3  +2+17_65
+    67+16+2+1  56421_
+    3_5464  354_5_  5_7b6+16  57b4_3_
+    67+1+1+2+3  +2+17_65
+    67+17+2+3  +2+17+165
+    67+16+2+1  56421_
+    355464  354_57b  5_7b6+16  57b4_3_ //]
+BEM[]
+
+DWOK04
+CUT[Spadla z wisni]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 106]
+FKT[]
+SIG[]
+KEY[K0201   16  D 3/8]
+MEL[+1__+1_  +1_7__  +2__+2_  +2_+1__
+    35+1765  6_.432  5__-7_  1_5__
+    35+1765  6_.432  5__-7_  2_1__ //]
+BEM[]
+
+DWOK04
+CUT[Spadla z wisni]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 106]
+FKT[]
+SIG[]
+KEY[K0201a  16  D 3/8]
+MEL[+1__+1_  +177__  +2__+2_  +2+1+1__
+    35+1765  6_.432  5__-7_  135__
+    35+1765  6_.432  5__-7_  211__ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Spadla z wisni]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 106]
+FKT[]
+SIG[]
+KEY[K0202   16  G 3/8]
+MEL[5__4#_  5_1__  4__5_  3_1__
+    123_3_  432_3_  4__-7_  1_-5__
+    123_3_  432_3_  4__-7_  2_1__ //]
+BEM[]
+
+DWOK04
+CUT[Spadla z wisni]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 106]
+FKT[]
+SIG[]
+KEY[K0202a  16  G 3/8]
+MEL[5__4#2  511__  4__45  321__
+    123_3_  432_3_  4__-7_  1-5-5__
+    123_3_  432_3_  4__-7_  211__ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Siedzi tam pani]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 106-107]
+FKT[]
+SIG[0420300010]
+KEY[K0203   16 Bb 6/8]
+MEL[-5_1_3_5__3_  3_2_1_1__-7_
+    -5_-7_2_4__6_  6_5_-7_2__1_ //]
+BEM[]
+
+DWOK04
+CUT[Siedzi tam pani]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 106-107]
+FKT[]
+SIG[0420300020]
+KEY[K0203   16 Bb 6/8]
+MEL[-5_135_-5_135_  3_2_1_1__-7_
+    -5_-724_-7_246_  -5_-6_-7_1__. //]
+BEM[Przygrywka instrumentalna. U Kolberga w t. 4 bład w zapisie rytmu]
+
+DWOK04
+CUT[Juz to temu piec lat bedzie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 107]
+FKT[]
+SIG[]
+KEY[K0204   16  A 3/8]
+MEL[123_3_  323_4_  2_21#23  1__0_
+    345_5_  54#5_6_  4_4345  3__.
+    2_21#23  1_3_35  2_21#23  1__0_ //]
+BEM[]
+
+DWOK04
+CUT[W debinie ja wolki posla]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 107]
+FKT[]
+SIG[]
+KEY[K0205   16 Eb 3/8]
+MEL[333_3_  544_4_  27724_  3+1+135_
+    333_3_  544_4_  277227  +1__0_ //]
+BEM[]
+
+DWOK04
+CUT[A za maz ci me wydaja]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 107]
+FKT[]
+SIG[]
+KEY[K0206   16 Bb 3/8]
+MEL[4_4__  3_1__  5_2__  -7_1__
+    4_4__  531__  3_2__  -7_1__
+    2_1__  -6_-5__  -7_1__  -7_1__
+    2_1__  -6_-5__  -7_1__  2_1__ //]
+BEM[]
+
+DWOK04
+CUT[Na goreczce]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 108]
+FKT[]
+SIG[]
+KEY[K0207   08  C 2/4]
+MEL[+1+2+3+1  +27+1_  +1+2+3+3
+    +4+2+3+3  +2+166  +165_ //]
+BEM[]
+
+DWOK04
+CUT[Z tamty strony jeziora]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 108]
+FKT[]
+SIG[]
+KEY[K0208   16  A 2/4]
+MEL[1_1_1_-7b_  3b__2_3b_  1___
+    5_5_6_4#_  5__(4_3b_2_)  1___
+    5__4_4_  5__.-7b_  1_3b_23b4_  3b_2_1_-7b_
+    -7b_-7b_5_5_  4__3b_2_  1___
+    5__(4_5_6b_)  5__.-7b_  123b_23b4_  3b_2_1_-7b_
+    -7b_-7b_5_5_  4__3b_2_  1___
+    1_-7b_1_2_  3b__4_2_  1___
+    5_5_6_4_  5__3b_2_  1___
+    5__3b_5_  4__-7b__  1_-7b_1_2_  3b__-7b__
+    -7b_-7b_3b_5_  4__3b_2_  1___
+    1_-7b_1_2_  3b__4_23b  1___
+    5_4#56_4_  5__3b_23b  1___
+    5__3b_5_  4_5_-7b__  1_-7b_1_2_  3b__-7b__
+    3b_2_3b__  5__3b_23b  1___ //]
+BEM[]
+
+DWOK04
+CUT[Z tamtej strony jeziora]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 109]
+FKT[]
+SIG[]
+KEY[K0209   16  A 3/4]
+MEL[-7b_-7b_2_-7b_3b__  2__1___  2_3b_4_7b_5__  3b_2_1__0__
+    5__5_3b_7b_5_  4_2_7b_4_2_-7b_  1_2_3b_1_5__  4_3b_1___
+    5__5_3b_7b_5_  4_2_7b_4_2_-7b_  1_2_3b__5__  4_3b21___ //]
+BEM[]
+
+DWOK04
+CUT[Obleke kontusz]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 109]
+FKT[]
+SIG[]
+KEY[K0210   16  A 3/4]
+MEL[1__3b_2_1_-5_  1__2_1_-7_-5_  1_2_3b__4__  5___.
+    5_5_6b_5_4_2_  4_2_5_3b_2_1_  3b_1_5__-7__  1___.
+    5_53b6b_5_4_23b  4_23b5_3b_2_12  3b_13b5__-7__  1___. //]
+BEM[]
+
+DWOK04
+CUT[Moij matki]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 109]
+FKT[]
+SIG[]
+KEY[K0211   08  A 3/4]
+MEL[115_5_  4_4_3b_  454_5_  1_2_-7b_
+    1_3b_.4  56b5_-7b_  1_3b_1_
+    115_5_  4_5_3b_  454_5_  1_2_-7b_
+    1_3b_.-7b  57b5_-7b_  1_3b_1_ //]
+BEM[]
+
+DWOK04
+CUT[Moij matki]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 109]
+FKT[]
+SIG[]
+KEY[K0211a  08  A 3/4]
+MEL[115_5_  4_4_3b_  454_5_  1_(3b21)-7b_
+    1_3b_.4  56b5_-7b_  1_(123b)1_
+    115_5_  4_(6b54)3b_  454_5_  1_(3b21)-7b_
+    123b_.-7b  57b5_-7b_  1_(43b2)1_ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Dziewcze moje]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 109-110]
+FKT[]
+SIG[]
+KEY[K0212   08  A 3/4]
+MEL[1__2_  2__1_  2_1_-7_  1_0_0_
+    3b__4_  5__3b_  3b_5_5_  4__3b_
+    243b_2_  3b_2_1_  2_1_-7_  1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Dziewcze moje]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 109-110]
+FKT[]
+SIG[]
+KEY[K0212a  08  A 3/4]
+MEL[1__23b  2__1_  2_-5_-7_  1_0_0_
+    3b__4_  5__3b2  3b55_5_  4__3b_
+    243b_2_  3b_2_1_  2_-5_-7_  1__0_ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[A na podolu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 110]
+FKT[]
+SIG[]
+KEY[K0213   08  F 3/4]
+MEL[1_1_1_  2__5_  3__1_  2_1_0_
+    3_3_4_  5__5_  5_5_3_  4_3_2_
+    333_1_  2__5_  3__1_  2_1_0_ //]
+BEM[]
+
+DWOK04
+CUT[A w Warszawie w kamienicy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 110]
+FKT[]
+SIG[]
+KEY[K0214   16  G 2/4]
+MEL[1_1_1_3_  5_4_+1_5_  3_5_3_5_  4_2_1_1_
+    -712_-712_  1_1_3_.1  -712_-712_  1_-6_-5__ //]
+BEM[]
+
+DWOK04
+CUT[Posluchajcie ludzie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 110-111]
+FKT[]
+SIG[]
+KEY[K0215   08  C 4/4]
+MEL[+1535+1_.+3  +2+1765_.4  3557b6_.4  66+175_.5
+    57+2+3+4_.+2  +3+17+2+1_.6  57+25+4_.7  +1+357+1_+1_ //]
+BEM[]
+
+DWOK04
+CUT[Wyjechal pan z charta]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 111]
+FKT[]
+SIG[]
+KEY[K0216   08  G 3/4]
+MEL[543_.1  556543  422_.3  465432
+    11-7_-5_  135__  +153_13  421_0_ //]
+BEM[]
+
+DWOK04
+CUT[A z tamty strony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 111]
+FKT[]
+SIG[]
+KEY[K0217   16  F 3/4]
+MEL[1__1_2_3_4_  5__5_6_7_5_  5_5_+1___  7_+275__0__
+    +1__7_2_4_6_  5__5_1_3_5_  2_2_4___  3_531__0__ //]
+BEM[]
+
+DWOK04
+CUT[Oj lowilo dwoch rybakow]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 112]
+FKT[]
+SIG[]
+KEY[K0218   08  F 3/4]
+MEL[3__.  67+1_7_  543_2_  345__
+    345_4_  (654)5_(432)  345__
+    123_2_  1-7-6__  -7__.
+    67+1_76  543_2_  345__
+    345_4_  (654)5_(432)  345__
+    123_2_  1-7-6__  -7__. //]
+BEM[]
+
+DWOK04
+CUT[Z tamty strony jęzioreczka. Duma]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 112, od Kruszwicy (Piaski)]
+FKT[]
+SIG[0421900000]
+KEY[K0219   16  C 3/8]
+MEL[5_.67+1  +2+27_5_  +1+3+1_+4_  +2__.
+    +4_.+2+3+1  +1+27_5_  7+2+2_+3_  +1__0_ //]
+BEM[U Kolberga błędne określenie metrum 3/4]
+
+DWOK04
+CUT[A w niedziele z poranna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 112]
+FKT[]
+SIG[]
+KEY[K0220   16  A 3/4]
+MEL[-7b_2_4__.2_  4__4__3b__  1_2_3b__1__
+    3b__3b__1__  2__2__1__  ^___0__
+    -7b_2_4__.2_  4__4__4_3b_  212_3b__1__
+    3b__3b__1__  2__2__1__  ^___0__ //]
+BEM[]
+
+DWOK04
+CUT[A w niedziele raniuchno]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 112-113]
+FKT[]
+SIG[]
+KEY[K0221   16  A 2/4]
+MEL[4_4_6b_5_  4_5_3b__  4_4_5_3b_  1_1_-7b__
+    3b__24_.  1_-7b_2_4_  3b__24_.  1___ //]
+BEM[]
+
+DWOK04
+CUT[Nagotuj tu jesc]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 113]
+FKT[]
+SIG[]
+KEY[K0222   16  A 3/8]
+MEL[13b2_.3b  1__0_  53b2_.3b  1__0_
+    13b2_.-7  13b5_.4  53b2_.-7  13b5_4_  2_4_3b_  2-71_0_
+    13b2_.3b  1__0_  53b2_.3b  1__0_
+    13b2_.-7  13b5_.4  53b2_.-7  13b5_4_  2_4_3b_  2-71_0_
+    5_3b_4_  5_.43b2  13b2_3b_  1__0_
+    5_3b_4_  5_.43b2  3b12_-7_  1__0_
+    1_3b_3b_  3b_5_4_  2_2_2_  2_4_3b_  2-71_0_
+    5_3b_4_  5_.43b2  13b2_3b_  1__0_
+    5_3b_4_  5_.43b2  3b12_-7_  1__0_
+    13b3b_3b_  3b_5_4_  422_2_  2_4_3b_  2-71_0_ //]
+BEM[]
+
+DWOK04
+CUT[Stala sie nam tu taka ogloska]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 113-114]
+FKT[]
+SIG[]
+KEY[K0223   16  A 3/8]
+MEL[5_5_7b_  5_4_2_  1_3b_1_  2_-5__
+    5_5_7b_  5_4_2_  1_3b21_  2_-5__
+    -7b_-7b_-7b_  -7b24__  1_3b_3b_  3b45__  2__42  1__0_
+    5_5_7b_  5_4_2_  1_3b21_  2_-5__
+    5_5_7b_  5_4_23b  1_3b21_  2_-5__
+    -7b12_2_  23b4_4_  123b_3b2  3b45_5_
+    -7b_-7b_-7b_  -7b24__  1_3b_3b2  3b45__  2__42  1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Oj biada my biada]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 114-115, od Osięcin (Borucin)]
+FKT[]
+SIG[0422400000]
+KEY[K0224   16  D 3/4]
+MEL[1_.11_2_3_4_  5_.55_6_7_5_  5_7_+1__7__  6_6_5___
+    5_7_+1_5_3_1_  4_4_6_5_4_3_  2_3_4__5__  2_2_1___
+    1_3_4__.3_  2__2__1__  1_3_4__.3_  2_2_1__0__ //]
+BEM[]
+
+DWOK04
+CUT[Z tamtej strony miast a]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 115]
+FKT[]
+SIG[]
+KEY[K0225   16  G 3/4]
+MEL[5_.65_4#_5_3_  5__4#__5__  4#_.65_4#_5_3_  5__2__1__
+    -7_2_4_2_-7_-5_  1__3__5__  -7_2_4_2_3_1_  -7__-5__1__ //]
+BEM[]
+
+DWOK04
+CUT[Zachcialo sie starej babie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 115]
+FKT[]
+SIG[]
+KEY[K0226a  16  A 3/8]
+MEL[135_5_  432_2_  2-7-5_-5_  5_5__
+    136_.5  432_2_  -7-6-5_-5_  1_1__
+    123_3_  432_2_  2-7-5_-5_  5_5__
+    123_3_  432_2_  -7-6-5_-5_  1_1__ //]
+BEM[Partia wokalna w tonacji A]
+
+DWOK04
+CUT[Zachcialo sie starej babie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 115-116]
+FKT[]
+SIG[]
+KEY[K0226b  16 F# 3/8]
+MEL[(13b5)+1_.7b  6b54_4_  21-7b_-7b_  7b7b6_7b_
+    (13b5)+1+2+17b  6b54_4_  21-7b_2_  421__
+    13b3b_5_  6b54_4_  21-7b_-7b_  7b7b6_7b_
+    13b3b13b5  6b54_4_  21-7b_-7b2  421__ //]
+BEM[Partia instrumentalna w tonacji F#]
+
+DWOK04
+CUT[Jużci bym się był ożenił]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 116, od Inowrocławia]
+FKT[]
+SIG[0422700010]
+KEY[K0227a  16  F 3/8]
+MEL[135_5_  564_4_  6_.7+17  6_5__
+    135_5_  562_2_  2_.343  2_1__
+    131_1_  242_2_  6_.7+17  6_5__
+    131_1_  242_2_  2_.34-7  2_1__ //]
+BEM[Część wokalna]
+
+DWOK04
+CUT[Jużci bym się był ożenił]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 116, od Inowrocławia]
+FKT[]
+SIG[0422700020]
+KEY[K0227b  16  F 3/8]
+MEL[321_5_  564_4_  321_5_  562_2_
+    321_1-7  12-6_-71  21-7123  1_2343
+    5__43  562_2_  2_2343  2_1__ //]
+BEM[Część instrumentalna]
+
+DWOK04
+CUT[Ma babka ma babka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 117]
+FKT[]
+SIG[]
+KEY[K0228   16  C 3/8]
+MEL[+1_5_3_  +1_5_3_  +1_+3_+5_  +1_7__
+    +4_+2_.+2  +4_+2_+2_  7_+5_+4_  +3_+2__
+    +1_5_3_  +1_5_3_  +1_+3_+5_  +1_7__
+    +3_+4_.+2  +3_+4_.+2  +2_+3_7_  +1_+1__ //]
+BEM[]
+
+DWOK04
+CUT[Ma babka ma babka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 117]
+FKT[]
+SIG[]
+KEY[K0228a  16  C 3/8]
+MEL[+1_5_3_  +1_5_3_  +1_+3_+5_  +1_7__
+    +4_+2_.+2  +4_+2_+2_  7+2(+4+5+6)+6+4  +3_+2__
+    +1_5_3_  +1_5_3_  +1_+3_+5_  +1_7__
+    +3_+4_.+2  +3_+4_.+2  7+2+3+275  +1_+1__ //]
+BEM[]
+
+DWOK04
+CUT[A bije mnie maz moj Boze]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 117]
+FKT[]
+SIG[]
+KEY[K0229   16  C 3/8]
+MEL[67+1_+1_  +2+4+3_6_  +2+3+4_+2_  +4+3+5_+4_  +3__6_
+    +3+2+1_7_  +1+17_3_  6+17_3_  54#6_5_  3__.
+    67+1_+1_  +2+4+3_6_  +2+3+4_+2_  +4+3+5_+4_  +3__6_
+    +3+2+1_7_  +17+1_3_  6+17_3_  54#6_5_  3__.
+    54#6_5_  7__53  54#6_54#  34#54#3_
+    54#6_5_  7__53  54#6_54#  3__3_ //]
+BEM[]
+
+DWOK04
+CUT[Zono kochana]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 117-118]
+FKT[]
+SIG[]
+KEY[K0230   16 Bb 3/8]
+MEL[1_3_5_  4_.321  -7-7-5_-7_  1_3__
+    1_3_3_  4_.321  -7-7-5_-7_  1_1__
+    21-7-6-7-5  1_3_3_  21-7-6-7-5  1_1__ //]
+BEM[]
+
+DWOK04
+CUT[Na piecu oral]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 118]
+FKT[]
+SIG[]
+KEY[K0231   16  A 3/8]
+MEL[5_3_1_  2__-5_  -724__
+    5_3_1_  2__-5_  -721__
+    1_3_3_  2__-5_  -724__  1_3_3_  2__-5_  -721__ //]
+BEM[]
+
+DWOK04
+CUT[Com zarobila tom zarobila]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 118]
+FKT[]
+SIG[]
+KEY[K0232   16 Bb 3/8]
+MEL[1-71353  1-71353  1-7-6_2_  -7_-5__
+    1-71353  1-71353  1-7-6_2_  -7_-5__
+    3_1_.2  -7-6-5_5_  3_1_.2  -7-6-7_-5_
+    3_1_.2  -7-6-5_5_  3_1_.2  -7-6-7_-5_ //]
+BEM[]
+
+DWOK04
+CUT[Matko moja mateczko]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 118]
+FKT[]
+SIG[]
+KEY[K0233   16 Bb 2/4]
+MEL[1_2_3_3_  3_5_1__  2_4_2__  1_3_-5__
+    1_2_3_3_  3_5_1__  2_4_2__  1_3_-5__
+    6_5_424_  3_-5_1__  2_-5_-7__  3_-5_1__
+    6_5_4_4_  3_-5_1_3_  2_-5_-7_4_  3_-5_1_3_
+    5_.67_76#  7_+2_5_2_  6_+1_6_2_  5_7_2__
+    5_.67_76#  7_+2_5_2_  6_+1_6_2_  5_7_2__
+    +3_+2_+164#6  7_2_5_7_  6_2_4#_+1_  7_2_5__
+    +3_+2_+164#6  7_2_5_7_  6_2_4#_+1_  7_2_5__ //]
+BEM[]
+
+DWOK04
+CUT[Cóż to z tego będzie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 119, od Izbicy (Orle)]
+FKT[]
+SIG[0223400000]
+KEY[K0234   08  C 2/4]
+MEL[+1+155  7+1_0  +1+155  65_0
+    +1+15_  46_.  5077  +1+10_ //]
+BEM[]
+
+DWOK04
+CUT[Sa na boru szyszki]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 119]
+FKT[]
+SIG[]
+KEY[K0235   08  D 3/4]
+MEL[1-71234  54#5675
+    +17+1_5_  675__
+    +17+1531  65#6424
+    345_1_  321_0_ //]
+BEM[]
+
+DWOK04
+CUT[Nie sama ja]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 119-220]
+FKT[]
+SIG[]
+KEY[K0236   32  A 3/8]
+MEL[1_3_1__3__  5__4_3_2_1_  4_6_4__6__  6_6_5__.4_
+    1__1__1__  3_531__1__  -5__-7__2__  4_6_5__4__
+    1_3_1__3__  5_654_3_2_1_  4_6_4__6__  6_6_5__.4_
+    1_3_1__3__  5_5_3__(1_-7_-6_)  -5__-7__2__  4_6_5__4_2_
+    1__1__2_4_  3__2__-5__  1__1__2_4_  3__2__-5__
+    1__1__2_4_  3__2_5_6_5_  1__1__2_4_  3__2__-5__  -5__-5__-5__  -5__-5__-5__
+    1__1__2_4_  3_432__-5__  1__1__2_4_  3_432__-5__
+    1__1__2_4_  3__2_5_6_5_  1__1__2_4_  4_3_2__-5__  -5__-5__-5__  -5_-7_-5__-5__ //]
+BEM[]
+
+DWOK04
+CUT[Nie sama ja]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 119-220]
+FKT[]
+SIG[]
+KEY[K0236a  32  A 3/8]
+MEL[1_3_1__3__  5__4_3_2_1_  4_6_4__6__  6_6_5__.4_
+    1__1__1__  3_531__1__  -5__-7__2__  4_6_5__4__
+    1_3_1__3__  5_654_3_2_1_  4_6_4__6__  6_6_5__.4_
+    1_3_1__3__  5_5_3__(1_-7_-6_)  -5__-7__2__  4_6_5__4_2_ //]
+BEM[Partia wokalna]
+
+DWOK04
+CUT[Nie sama ja]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 120]
+FKT[]
+SIG[]
+KEY[K0236b  32  A 3/8]
+MEL[1__1__2_4_  3__2__-5__  1__1__2_4_  3__2__-5__
+    1__1__2_4_  3__2_5_6_5_  1__1__2_4_  3__2__-5__  -5__-5__-5__  -5__-5__-5__
+    1__1__2_4_  3_432__-5__  1__1__2_4_  3_432__-5__
+    1__1__2_4_  3__2_5_6_5_  1__1__2_4_  4_3_2__-5__  -5__-5__-5__  -5_-7_-5__-5__ //]
+BEM[Partia instrumentalna]
+
+DWOK04
+CUT[Wedle stolu sobie skacze]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 120]
+FKT[]
+SIG[]
+KEY[K0237   08  A 6/8]
+MEL[1_23b22  3b223b22  4_44_2  3b_23b_1
+    2-7-5-5_-7  1_23b23b  -7_25_-7  1_00_0 //]
+BEM[]
+
+DWOK04
+CUT[A moj towarzyszu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 120]
+FKT[]
+SIG[]
+KEY[K0238   08  F 4/4]
+MEL[12345_+1_  65413_21  12345_+1_  65413_21
+    5_413_1_  5_413_21  12345_+1_  6_413_21
+    5_413_21  5_413_21  12345_+1_  65413_21 //]
+BEM[]
+
+DWOK04
+CUT[Dobry wieczor]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 120-121]
+FKT[]
+SIG[]
+KEY[K0239   16  G 3/8]
+MEL[-5-52_-7_  -713_3_  333_3_  5_2__
+    +1_.553  224_4_  222_2_  3_1__
+    4__2_  146_5_  542_2_  3_1__
+    11-7_-5_  -713_.1  11-7_-5_  -713_5_
+    4__2_  146_5_  542_2_  3_1__ //]
+BEM[]
+
+DWOK04
+CUT[Kaczmareczka rada]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 121]
+FKT[]
+SIG[]
+KEY[K0240   16  C 3/8]
+MEL[+2__7_  57+2_+3_  +1__6_  6+17_5_
+    +5__+4_  +3+1+3_+5_  +4__+2_  7+2+3_+1_
+    5_6_6_  657_+2_  +3_+1_+17  +1+3+5_+4_
+    +2+4#+5_+2_  757_+2_  +3_+1_64  6+17_5_
+    +1__6_  6+17_5_  +1__6_  667_5_
+    +1__64  6+17_5_  +1__64  6+17_5_ //]
+BEM[]
+
+DWOK04
+CUT[Kaczmareczka rada]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 121]
+FKT[]
+SIG[]
+KEY[K0240a  16  C 3/8]
+MEL[+2__+1_  7+1+2_+3_  +1__64  (46+1)7_5_
+    +5__+4_  +3+4+5_+6_  +4__+2_  7+2+3_+1_
+    5_6_6_  657_+2_  +3_+1_+17  +1+3+5_+4_
+    +2+4#+5_+2+1  757_+2_  +3_+1_64  6+17_5_
+    +1__6_  6+17_5_  +1__6_  667_5_
+    +1__64  6+17_5_  +1__64  6+17_5_ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Zabebniono zadzwoniono]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 122]
+FKT[]
+SIG[]
+KEY[K0241   16  C 3/4]
+MEL[6_7_+1__+1__  +2_+3_+2_+1#_+2_5_  6_7_+1__+1__  +2_5_+2__+1_5_
+    6__6_5_432_  +2_.+2+2__+1_5_  6__6_5_432_  3_4#_5__5__
+    6_7_+1__+1__  +2_+3_+2_+1#_+2_5_  6_7_+1__+1__  +2_5_+2__+1_5_
+    6_6_6_5_432_  +2_.+2+2__+1_5_  6__6_5_432_  3_4#_5__5__ //]
+BEM[]
+
+DWOK04
+CUT[Gdzie to jedziesz Jasiu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 122]
+FKT[]
+SIG[]
+KEY[K0242   16  E 4/4 3/4]
+MEL[1_3b_5_7_+1__+2__  5_3b_5_7_+1__+2__  5_3b_5__7__  +1__(7b_6b_5_)5__
+    5__6b__7b_6b_5_3b_  4__5__4_3b_2_-7_  1_3b_4__5__  4__43b23b1__
+    5_3b_5_7_+1__+2__  5_3b_5_7_+1__+2_7_  5_3b_5__7__  +1__(7b_6b_5_)5__
+    5__6b__7b_6b_5_3b_  4__5__4_3b_2_-7_  1_3b_4__5__  4__43b23b1__ //]
+BEM[]
+
+DWOK04
+CUT[Gdzież to jedziesz Jasiu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 122-123, od Kowala Lubrańca]
+FKT[]
+SIG[0424300010]
+KEY[K0243   16  E 2/4]
+MEL[5_4_5_7_  +1__7__
+    5_4_5_7_  +1__7__
+    5_4_5_7_  +1__+2__  5___
+    5__+1__  7b_5_7b_6b5
+    4__5__  3b_2_4_3b2
+    1_2_3b_4_  5__7__  +1___ //]
+BEM[]
+
+DWOK04
+CUT[Gdzież to jedziesz Jasiu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 122-123, od Kowala Lubrańca]
+FKT[]
+SIG[0424300020]
+KEY[K0243   16  E 2/4]
+MEL[5_4_5_7_  +1__+2__  5___
+    5_4_5_7_  +1__+2__  5___
+    5_4_5_7_  +1__+2__  5___
+    5__+1__  5_+1_7b_6b5
+    4__5__  3b_2_4_3b2
+    1_3b_4_4_  5__43b2_  1__3b_5_  7b___
+    6_6_4_4_  5__43b23b  1___ //]
+BEM[Część bez tekstu, być może instrumentalna]
+
+DWOK04
+CUT[A kto chce rozkoszy uzyc]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 123]
+FKT[]
+SIG[]
+KEY[K0244   08  G 4/4]
+MEL[1_1_1_3_  2_.1-7_-5_  4_4_4_6_  5_.43_5_
+    2_2_2_5_  3_.21_5_  2_2_2_5_  3_.21_1_
+    1_1_1_3_  2_.1-7_-5_  4_4_4_6_  5_.43_5_
+    2_2_2_5_  3_.21_5_  2_2_2_5_  3_.21_1_ //]
+BEM[]
+
+DWOK04
+CUT[A w Warszawie w pirwszym domie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 124]
+FKT[]
+SIG[]
+KEY[K0245   16  A 2/4]
+MEL[1_.11_-5_  -7_-7_-7_-5_  1_2_3b_4_  56b5_43b2_
+    1_1_1_-5_  -7_-7_-7__  -4_-5_-6b_-4_  -5_-5_-5__ //]
+BEM[]
+
+DWOK04
+CUT[A prosi tam Boga]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 124]
+FKT[]
+SIG[]
+KEY[K0246   08  C 2/4]
+MEL[5555  +1_+1_  5557  +1_+1_
+    57+2_  +1+3+1_  +2+176  655_
+    57+2_  +1+3+1_  +2+176  655_ //]
+BEM[]
+
+DWOK04
+CUT[Za boramy za lasamy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 124]
+FKT[]
+SIG[]
+KEY[K0247   16  G 3/8]
+MEL[5__6_  5_1__  4__2_  5_1__
+    123_4_  123_4_  5__3_  2_1__
+    123_4_  123_4_  5__3_  211__ //]
+BEM[]
+
+DWOK04
+CUT[Swiniakowiczy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 124]
+FKT[]
+SIG[]
+KEY[K0248   16  D 2/4]
+MEL[+1_7_+1_6_  5_5_5_5_  6_6_+1_6_  5_5_5_5_
+    345_345_  +1_+1_+1_+1_  +2+2+2_567_  +1_7_+1__ //]
+BEM[]
+
+DWOK04
+CUT[Oj kołysz że się kołysz]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 125, od Kowala (Bogusławice)]
+FKT[]
+SIG[0424900010]
+KEY[K0249a  16  A 3/8]
+MEL[13b5_7_  654_3b2  13b5_.4  1-6-7_-5_
+    1__-6_  -724_2_  13b5_.-6  1-6-7_-5_
+    1__-6_  -724_2_  13b5_.-6  1-6-7_-5_
+    13b5_.-5  -7-6-7_-5_  13b5_.-5  -7-6-7_-5_
+    1_.-6-72  4_2_13b  54#5_0-5  -7-6-7_-5_ //]
+BEM[Część wokalna. U Kolberga błędny zapis rytmu w t. 3: 1.3b5_.4]
+
+DWOK04
+CUT[Oj kołysz że się kołysz]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 125, od Kowala (Bogusławice)]
+FKT[]
+SIG[0424900020]
+KEY[K0249b  16  A 3/8]
+MEL[13b5_7_  654_3b2  13b5_.4  1-6-7_-5_
+    1__-6_  -724_2_  13b5_.-6  1-6-7_-5_
+    1__-6_  -724_2_  13b5_.-6  1-6-7_-5_
+    13b5_.-5  -7-6-7_-5_  13b5_.-5  -7-6-7_-5_
+    1_.-6-72  4_2_13b  54#5_0-5  -7-6-7_-5_ //]
+BEM[Część instrumentalna]
+
+DWOK04
+CUT[Kujawiak]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 125, Kowal]
+FKT[]
+SIG[0425000000]
+KEY[K0250   16  G 3/4]
+MEL[+1_  5__.4#_5_4_  3_2_1_-7_1_2_  3_4_^__2_1_  4___2_1_
+    0__3_5_2_4_  ^__(2_3_2_)1_3_
+    0__3_4_2_4_  ^__(2_3_2_)1_3_
+    13_.13_.13_.  5___0_ //]
+BEM[]
+
+DWOK04
+CUT[Bzi biz bzi bziana]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 126]
+FKT[]
+SIG[]
+KEY[K0251   16  G 2/4]
+MEL[5__6__  5_5_4__  3_3_2_2_  6_6_5__
+    3__2__  246_5__  3_3_2_2_  6_6_5__
+    5__6__  5_5_4__  3_3_2_2_  6_6_5__
+    3_3_2_2_  246_5_+1_  3_3_2_2_  6_6_5__ //]
+BEM[]
+
+DWOK04
+CUT[A na kotki dwa]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 126]
+FKT[]
+SIG[]
+KEY[K0252   16  F 2/4]
+MEL[5__6__  5_5_+1__  5_5_6_6_  5_4_3__
+    5__2__  4_4_3__  5_5_2_2_  3_2_1__
+    1__2__  1_-7_1__  2_3_4_3_  232_1__
+    1__2__  1_-7_1__  2_3_4_3_  232_1__ //]
+BEM[]
+
+DWOK04
+CUT[A na kotki dwa]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 126]
+FKT[]
+SIG[]
+KEY[K0252a  16  F 2/4]
+MEL[5__6__  5_7+2+1__  5_5_6_6_  5_4_3__
+    5__2__  4_4_3__  5_5_246_  3_2_1__
+    1__2__  1_-7_1__  2_3_4_3_  232_1__
+    1__2__  1_-7_1__  2_3_4_3_  232_1__ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Szed chlop szed chlop]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 126]
+FKT[]
+SIG[]
+KEY[K0253   08  A 2/4]
+MEL[5_4#_  5_4#_  5__
+    2_4_  3b_5_  2-7-5_  2_4_  3b_1_  2-7-5_
+    1_1_  1_1_  -5-5-5_
+    1_1_  1_1_  2-7-5_ //]
+BEM[]
+
+DWOK04
+CUT[Oj i kolysz sie kolysz]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 127]
+FKT[]
+SIG[]
+KEY[K0254   16  G 3/8]
+MEL[-7-71_.3  575_42
+    -7-71_.3  422_54  2-71_.3  421_21
+    -7-71_.3  575_42
+    -7-71_.3  422_54  2-71_.3  421_21
+    -7-51_.3  425_4_  422_.3
+    421_3_  2-71_.3  421_21 //]
+BEM[]
+
+DWOK04
+CUT[Sikoreczka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 127, od Lubrańca (Redecz Kalny)]
+FKT[]
+SIG[0425500000]
+KEY[K0255   16  F 3/8]
+MEL[0_4_4_  5__3_  232_6_  2__1_
+    0_4_4_  5__2_  212__  3__1_
+    0_3_4_  4__3_  232_3_  2__1_
+    0_4_4_  5__3_  2_3__  3__1_ //]
+BEM[]
+
+DWOK04
+CUT[W Mazowieckiem miescie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 127]
+FKT[]
+SIG[]
+KEY[K0256   16  G 3/8]
+MEL[123_4_  5__6_  42-7_-5_  5_3__
+    123_4_  5__6_  42-7_-5_  5_3__
+    1__2_  1__2_  1_1_1_
+    132__  42-7_-5_  1_1__ //]
+BEM[]
+
+DWOK04
+CUT[Byla babulinka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 128]
+FKT[]
+SIG[]
+KEY[K0257   16  G 3/8]
+MEL[123_4_  6_5__  5_4_.2  431__
+    123_4_  6_5_3_  5_4_.2  431__
+    3_5_.3  224_4_  3_5__  224__  335_5_
+    224_4_  3_5__  654_-7_  211__ //]
+BEM[]
+
+DWOK04
+CUT[Byla babulinka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 128]
+FKT[]
+SIG[]
+KEY[K0257a  16  G 3/8]
+MEL[123_4_  6_5__  5_4_.2  431__
+    123_4_  6_5_3_  5_4_.2  431__
+    3_5_.3  224_4_  3_5__  224__  335_5_
+    224_42  3_5__  65434-7  211__ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Byla babulinka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 128]
+FKT[]
+SIG[]
+KEY[K0258   16  F 2/4]
+MEL[12345_4_  3_5_2__  12345_4_  3_3_2__
+    1__5__  1_1_2__  12345_5_  1_1_2__ //]
+BEM[]
+
+DWOK04
+CUT[Sluzylem u pana na pirsze]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 128-129]
+FKT[]
+SIG[]
+KEY[K0259   16  G 3/8]
+MEL[3_5_5_  3_5_5_  5_4_-7_  2_1_0_
+    3_5_5_  3_5_5_  554_.-7  2_1_0_
+    3_5_5_  3_5_5_  5_4_-7_  2_1_0_
+    345_5_  345_5_  554_.-7  2_1_0_
+    -712__  -712_2_  -712_2_  -712_2_
+    -712__  -712_2_  -712_2_  -712_2_
+    -7-76_6_  6_5__  5_4_4_  4_3_3_  554_.-7  2_1_0_ //]
+BEM[]
+
+DWOK04
+CUT[By duda byl]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 129]
+FKT[]
+SIG[]
+KEY[K0260   16  F 3/8]
+MEL[5_5_4_  3__0_  5_5_4_  3__0_
+    5_54#64#  5_54#64#  5_5_64#
+    5_54#64#  5_5_4_  3__0_
+    1_1-72-7  1_1-72-7  1_1_-7_  -5__. //]
+BEM[]
+
+DWOK04
+CUT[Siedzial dudek na kosiele]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 129]
+FKT[]
+SIG[]
+KEY[K0261   16  A 3/8]
+MEL[123_3_  4__2_  3_5__
+    123_3_  4__-7_  2_1__
+    -5-6-7_-7_  1__-6_  -7_2__
+    123_3_  4__-7_  2_1__ //]
+BEM[]
+
+DWOK04
+CUT[A przed laty przed wielu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 130]
+FKT[]
+SIG[]
+KEY[K0262   08 Bb 2/4]
+MEL[3331  234_  2-7-5-5  135_
+    3331  234_  2-7-5-5  1_1_
+    3553  466_  2224  655_
+    3331  234_  2-7-5-5  1_1_ //]
+BEM[]
+
+DWOK04
+CUT[Dziwne midly z grabiamy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 130]
+FKT[]
+SIG[]
+KEY[K0263   16  A 2/4]
+MEL[5_5_5_2_  424_7b__  5_5_5_2_  43b2_1__
+    -5_-7_-5__  1_3b_3b21_  -5_-7_-5_-7_  1_3b_3b21_  2_4_4_5_  4_2_1__ //]
+BEM[]
+
+DWOK04
+CUT[Umar Maciek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 131]
+FKT[]
+SIG[]
+KEY[K0264   16  F 3/8]
+MEL[123_4_  5_+1__
+    7+2+1767  5_+1__  7+25_67  5_+1__
+    +1_+1_+1_  564_4_  5__24  352_34
+    5__24  352_34  35432-7  1__0_
+    -5_1-712  332_1_  5_54#24#  24#5__
+    -5_1-712  332_1_  2__-61  22-6_-71
+    2__-61  22-6_-71  2__-61  22-6_-5_ //]
+BEM[]
+
+DWOK04
+CUT[Umar Maciek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 131]
+FKT[]
+SIG[]
+KEY[K0264a  16  F 3/8]
+MEL[123_4_  5_+1__
+    7+2+1767  5_+1__  7+25_67  5_+1__
+    +1_+1_+1_  564_4_  5__24  352_34
+    5__24  352_34  35432-7  1__0_ //]
+BEM[Partia wokalna]
+
+DWOK04
+CUT[Umar Maciek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 131]
+FKT[]
+SIG[]
+KEY[K0264b  16  F 3/8]
+MEL[-5_1-712  332_1_  5_54#24#  24#5__
+    -5_1-712  332_1_  2__-61  22-6_-71
+    2__-61  22-6_-71  2__-61  22-6_-5_ //]
+BEM[Partia instrumentalna]
+
+DWOK04
+CUT[Siedzi zajac]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 131-132]
+FKT[]
+SIG[]
+KEY[K0265   16  A 2/4]
+MEL[1_1_5_5_  4_4_5_4_  3b_2_1__
+    1_3b45_5_  4_4_5_4_  3b_2_1__
+    3b_5_3b_3b_  4_6b_4_2_  3b_5_3b_3b_
+    4_6b_4_2_  3b_4_5_4_  3b_2_1__ //]
+BEM[]
+
+DWOK04
+CUT[A kiedy przyndzie ow dzien]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 132]
+FKT[]
+SIG[]
+KEY[K0266   08  F 3/4]
+MEL[5_67+15  5+17665  5_67+15  6+17665
+    555565  543221  4_5634
+    5_67+15  5+17665  5_67+15  6+17665
+    555565  543221  4_5634 //]
+BEM[]
+
+DWOK04
+CUT[Dziewcze moje]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 132]
+FKT[]
+SIG[]
+KEY[K0267   08  C 3/8]
+MEL[567  +2_+1  7+1_  6_0
+    567  +2_+1  7+1_  6_0
+    +1_.  +2_+1  765  67_  650 //]
+BEM[]
+
+DWOK04
+CUT[Owczarek. Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 133, od Osięcin (Bodzanów Bachorny)]
+FKT[]
+SIG[0426800000]
+KEY[K0268   32  C 3/8]
+MEL[1__7__+1_7b_  6b_6b_5__4__  +1_+2_+3b__+2_+1_  7_5_+1___
+    1_3_5_7_+1_7b_  6b_6b_5__4__  3b__2_1_-7_1_  3b_1_3b_1_+1__  3b__2_1_-7_1_  3b_1_+1___
+    +1_+2b_+1_7b_6b_5_  6b_5_4__6b__  5_3_1__+1__  4_5_6b__7b__
+    +1_+3_+4__+3b__  +2b_+2b_+1__7b__  +4_+5_+6b_+5_+4_+3_  +1_+4_4___
+    0_+1_+3__+4_+3b_  +2b_+2b_+1__7b__  6b_5_4_3_4_6b_  4_6b_4__+4__  0__4_3_4_6b_  4___.
+    5__7__+1_7b_  6b_5_4___  +1_+2_+3b__+2_+1_  7_+2_+1___
+    5_3_5_7_+1_7b_  6b_5_4___  3b_2_1_-7_1_3b2  1_3b21__5__  3b_2_1_-7_1_3b2  1___. //]
+BEM[]
+
+DWOK04
+CUT[Nie wyganiaj owczaryszku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 133]
+FKT[]
+SIG[]
+KEY[K0269   16  G 3/8]
+MEL[246_6_  1_.323  246_6_  1_.32-7
+    445_(432)  1_.325  (356)4_(432)  1_.32-7
+    246_6_  1_.3(235)  246_6_  1_.3(2-7-5)
+    445_(432)  1_.525  (356)4_(432)  1_.3(2-7-5) //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 134, od Włocławka (Łęg, Modzerowo)]
+FKT[]
+SIG[0427000001]
+KEY[K0270a  16  G 3/4]
+MEL[1_3_5_4_2__  2_-7_2__(2_3_4_)  6_7_6_4_6__
+    1_3_5_4_3__  (2_1_-7_)-5__(-5_-6_-7_)  1__.3_21-7_
+    1_3_2_3_3_4_  (2_1_-7_)-5__(-5_-6_-7_)  1__.3_5_2_
+    1_3_2_3_3_4_  (2_1_-7_)-5__(-5_-6_-7_)  1__.3_21-7_ //]
+BEM[]
+
+DWOK04
+CUT[Oberek. Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 134]
+FKT[]
+SIG[0427000002]
+KEY[K0270b  16  G 3/4]
+MEL[5_3_5_4_(4_3_2_)  2_-7_2__(2_3_4_)  6_7_6_4_6_-7_
+    1_3_5_4_3_4_  (2_1_-7_)-5__(-5_-6_-7_)  1__.3_21-7-5
+    1_3_2_3_3_4_  (2_1_-7_)-5__(-5_-6_-7_)  1__.3_5_2_
+    1_323__3_4_  (2_1_-7_)-5__(-5_-6_-7_)  1__.3_21-7_ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Nie wyganiaj owczaryszku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 134-135]
+FKT[]
+SIG[]
+KEY[K0271   16  G 3/8]
+MEL[123_4_  556_42  24346_  4_342_
+    123_4_  12-7_-7_  -5-51-72_  -5_1_3_
+    123_4_  12-7_-7_  -7-51-72_  -5_1_3_
+    -7-71-72_  465_3_  -7-71_22  442_1_
+    -7-71_23  425_31  -7-71_23  442_1_ //]
+BEM[]
+
+DWOK04
+CUT[Nie wyganiaj owczaryszku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 134-135]
+FKT[]
+SIG[]
+KEY[K0271a  16  G 3/8]
+MEL[123_4_  576_42  46567_  4_342_
+    123_4_  12-7_-7_  -5-51-72_  -5_1_3_
+    123_4_  12-7_-7_  -5-51-72_  -5_1_3_
+    -5-71-72_  465_3_  -7-71_22  44231_
+    -5-51_23  425_31  -7-71_23  44231_ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Da jedziesz nie jedziesz]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 135]
+FKT[]
+SIG[]
+KEY[K0272   16  G 3/4]
+MEL[-5_-6_-7_1_2_2_  2__3_1_2__
+    2_4_6_7_6__  3_312___  2_4_6_7_6__  3_1_2___
+    -5_-6_-7_1_2_-7_  -5_-7_-6_-4_-6_-4_  -5_-7_-5_1_-7__  -5_1_-7__2__
+    -5_-7_-5_1_-7__  -5___. //]
+BEM[]
+
+DWOK04
+CUT[Nie wyganiaj owczaryszku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 135-136, od Sempolna (Sadlno)]
+FKT[]
+SIG[0427300010]
+KEY[K0273a  16  F 3/8]
+MEL[356_4_  46+1_5_  356_4_  1-72_1_
+    333_2_  46+1_5_  333_2_  1-72_5_  334_2_  1-72_1_ //]
+BEM[Część wokalna]
+
+DWOK04
+CUT[Nie wyganiaj owczaryszku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 135-136, od Sempolna (Sadlno)]
+FKT[]
+SIG[0427300020]
+KEY[K0273b  32  F 3/8]
+MEL[3_5_6__4_3_  (2_4_6_)+1__5__  3_5_6__4_3_  (2_4_6_)+1__5__
+    3_5_6__4_3_  (2_1_-7_)1__2__  3_5_6__4_3_  (2_1_-7_)2__3_1_
+    3__3__3__  2_4_6_+1_5__  3__3__3__  2_.1-7_2_5__  3__3__3__  2_.1-7_2_1__ //]
+BEM[Część instrumentalna]
+
+DWOK04
+CUT[Oberek. Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 136, od Osięcin, Radziejowa]
+FKT[]
+SIG[0427400000]
+KEY[K0274   32  G 3/8]
+MEL[1_2_3_4_5__  5_7_6_4_5__  +1_7_5_6_5__  5_7_6_4_5__  +1_7_5_6_5__
+    5_7_6_4_5__  5_6_7_5_+1_7_  5___5__
+    1_2_3_4_5__  5_7_6_4_5__  +1_7_5_6_5__  5_7_6_4_5__  +1_7_5_6_5__
+    5_7_6_4_5__  5_6_7_5_+1_7_  5___5__
+    1_2_3_5_2_3_  1_3_2_-7_-5__  1_2_3_1_4_3_  1__1_-7_1__
+    1_2_3_5_2_3_  1_3_2_-7_-5__  1_2_3_1_4_3_  1___.
+    6__.4_6_7_  5__5__+1_7_  6__.4_6_7_  5___.  ^___.
+    (1_2_3_)5__(5_4_3_)  4__2_-7_-5__  1_2_3_1_4_3_  1__1_3_5__
+    6__.4_6_7_  5__5__+1_7_  6__.4_6_7_  5___.  ^___.
+    (1_2_3_)5__(5_4_3_)  4__2_-7_-5__  1_2_3_1_4_3_  1___.  1___.
+    1_2_3_4_(5_+1_7_)  5_6_5_4_(5_+1_7_)  5_6_5_4_(5_+1_7_)  5___.
+    1_2_3_5_2__  3__2_-7_-5__  1_2_3__(1_4_3_)  1__1_3_5__  1_2_3__(1_4_3_)  1___.  ^___.
+    1_2_3_4_5_+17  5_6_5_4_5_+17  5_6_5_4_5_+17
+    5_6_7_+1_+3_(+2+17)  +2_+1_7_+2_+1_7_  +2_+1_7_+2_+3_(+2+17)
+    +1__.7_+1__  +2_+1_7_+2_+1_7_  5__.4#_5__  +2__+2__+2__
+    +1__.+4#_+1__  +2_+1_7_+2_+1_7_  5___.  ^___.
+    1_2_3_2_-7__  1_2_3_2_5_43  1__3_2_5_43  1___.
+    5_6_7_+1_+3_(+2+17)  +2_+1_7_+2_+1_7_  +2_+1_7_+2_+3_(+2+17)
+    +1__.7_+1__  +2_+1_7_+2_+1_7_  5__.4#_5__  +2__+2__+2__
+    +1__.+4#_+1__  +2_+1_7_+2_+1_7_  5___.  ^___.
+    1_2_3_2_-7__  1_2_3_2_5_43  1__3_2_5_43  1___. //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 137]
+FKT[]
+SIG[]
+KEY[K0275   32  G 3/8]
+MEL[1_2_3_4_5_.7  6_+1_7_6_5_.4  6_+1_7_6_5_.4  5_7_6_4_5_.4
+    3_4_5__+1_.7  5_7_6_4_5_.4  (4_3_4_)5__1__
+    (5_6_7_)6_4_5_.4  1_3_4_5_+1_.7  (5_6_7_)6_4_5_.4  (4_3_4_)5__1__ //]
+BEM[]
+
+DWOK04
+CUT[Wolarek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 137]
+FKT[]
+SIG[]
+KEY[K0276   16  G 3/4 4/4]
+MEL[-5_-7_1_2_7_6_  5_4#_5_2_3_2_1_-7_  -5_-7_1_2_7_6_  5_4#_2__3_321__
+    -5_-7_1__(3_5_4#_)  3_2_1_2_5_4_-5__  -5_-7_1_3_5_4#_  3_2_1__2_4_1__ //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 138]
+FKT[]
+SIG[]
+KEY[K0277   32  G 3/8]
+MEL[1_2_3_4_5_6_  7_6_5_4#_5_6_  7_6_5_4#_2__
+    5_67+1__7__  +1_7_5_4#_2__
+    5_7_+2_+3_+2_7_  +1__.7_5__  5_7_+2_+3_+2_7_  5__.4#_2__
+    1_3_5_4#_5__  4_3_1_-7_-5__  1_2_3_1_4_3_
+    1__1_3_5__  1_2_3_1_4_3_  1___. //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 138-139]
+FKT[]
+SIG[]
+KEY[K0278   32  E 3/8]
+MEL[1_2_2_3b_4_2_  4_6b53b__1__  4_6b53b__1__
+    4_6b_+1_7_+1__  5__5_4_5__  1_2_2_3b_4_2_
+    5__1_3b_5__  1_2_3b_4_5_3b_  1__1_2_-7__
+    -5_3b_2_1_-7_-5_  1__-7b_-6b_-5__  -5_-6_-6_-7b_1_-6_
+    -5__-5_-7b_2__  -5_-6_-7b_1_2__  -5___.
+    1_2_2_3b_4_2_  4_6b53b__1__  4_6b53b__1__
+    4_6b_+1_7_+1__  5__5_4_5__  1_2_2_3b_4_2_
+    5__1_3b_5__  1_2_3b_4_5_3b_  1__1_2_-7__
+    -5_3b_2_1_-7_-5_  1__-7b_-6b_-5__  -5_-6_-6_-7b_1_-6_
+    -5__-5_-7b_2__  -5_-6_-7b_1_2_-7b_  -5___.
+    -5_-6_-7b_1_2__  2_7b_6_5_4#_2_  2_7b_6_5_4#_2_
+    2_4#_2_4#_5_6_  7b_6_7b_5_7b_+2_  6___.
+    -5_-6_-7b_1_2__  2_5_4_3b_2_1_  2_5_4_3b_2_1_  2___.  2___.
+    -5_-6_-6_-7b_1_-6_  1_3b2-7b__-5__
+    -5_-6_-6_-7b_1_-6_  2__-5_-7b_2__  -5_-6_-6_-7b_1_2_  -5___. //]
+BEM[]
+
+DWOK04
+CUT[Krowiarek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 139-140]
+FKT[]
+SIG[]
+KEY[K0279   32  G 3/8]
+MEL[3_4_4_5_6_7_  5_4_6__5_32  1___0__
+    3_4_4_5_6_7_  5_4_6__^532  1___0__
+    23431__^_34  5_321__0__  23431__3_46  ^5321__0__
+    46_.75_.7+1_.  64_.5_430__  46_.7b5_.64_.  34_.5_430__
+    4_5_6__7__  (6_7_+1_)6__5__  6_+1_5__4_3_
+    4_5_6__7__  (6_7_+1_)6__5__  6__5__4_3_
+    4_5_6_7_67+1_  67+1_67+1_67+1_  4_5_6_7_67+1_  6__6__+1__
+    4_5_6_7_67+1_  6_5_6_+1_543_  4_5_6_7_67+1_  6_5_6__543_
+    4_5_6_7_6_4_  5__5_4_56+1_  4_5_6_7_6_4_  5_4_6__(5_4_3_)
+    4_5_6_7_6_4_  5_4_6_4_5_4_  6_4_5__6_4_  5_4_6__(5_4_3_) //]
+BEM[]
+
+DWOK04
+CUT[Owczarek. Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 140, od Kowala]
+FKT[]
+SIG[0428000000]
+KEY[K0280   32  C 3/8]
+MEL[+1_+2_+3_+4#_+3__  +1__+2_+3_+2__  +1__+2+3+5_^__
+    +1_+2_+3_+4#_+3__  +1__+2_+3_+2__  +1__+2+3+5_^__
+    +1_+2_+3_+4#_+3__  +1__+2_+3_+2__  +1_7_+1_+3+2+1__
+    +1_+2_+3_+4#_+3__  +1__+2_+3_+2__  +1_7_+1_+3+2+1__
+    +1_+2_+3_+4#_+3_+1_  +2_+3_+2_+1_+2+3+5_  +1_+2_+3_+4#_+3_+1_  (+2_+3_+2_)(+1_7_+1_)+3+2+1_
+    +2_7_+1_+3_+5+4#+3_  ^__+2__+5__  ^__+3__+2+17_
+    +2_7_+1_+3_+5+4#+3_  ^__+2__+5__  ^__+3__+2+17_
+    +2_7_+1_+3_+5+4#+3_  +2_+5_+3__+2+17_
+    +2_7_+1_+3_+3_.+2  +3_.+2+1__+2+17_
+    +2_7_+1_+3_+3_.+2  +3_.+2+1__+2+17_ //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 140]
+FKT[]
+SIG[]
+KEY[K0281   16  D 3/8]
+MEL[531_34  5+17+15_  ^31_0_
+    531_34  52456_  642_0_
+    (531)1_35  (+17+1)5_54#  (531)3_45  (245)6_42
+    (531)1_35  (+17+1)5_51  (531)3_45  (245)6_42 //]
+BEM[Za bydlem nawracajac je]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 141, od Kowala (Rakutów)]
+FKT[]
+SIG[0428200000]
+KEY[K0282   32  G 3/8]
+MEL[5__2_3_4_5_  ^_2_3_4_5__  5_7_6_4_1__  5_7_6_4_1__
+    5_6_7_5_+1__  75054__5__  ^_6_7_5_+1__  75054__5__  ^__4323432_
+    1__1_3_4_6_  5__4323(4_3_2_)  1_.1+1__+1_1_
+    5__4323(4_3_2_)  1__.3_4_2_  5__4323(4_3_2_)  1__.3_4_6_
+    5__5_6_7_5_  +1_7_0_5_5_4_  5__5_6_7_5_  +1_7_0_5_5_4_
+    5__4323(4_3_2_)  1__.3_4_6_  5__4323(4_3_2_)  1__.3_4_2_
+    5__2_3_4_5_  ^_2_3_4_5__  5_7_6_4_1__  5_7_6_4_1__
+    5_6_7_5_+1__  75054__5__  ^_6_7_5_+1__  75054__5__  ^__4323432_
+    1__2_3_4_6_  5__4323(4_3_2_)  1_.1+1__+1_1_
+    5__4323(4_3_2_)  1__.3_4_2_  5__4323(4_3_2_)  1__.3_4_6_
+    5__5_6_7_5_  +1_7_0_5_5_4_  5__5_6_7_5_  +1_7_0_5_5_4_
+    5__4323(4_3_2_)  1__.3_4_6_  5__4323(4_3_2_)  1__.3_4_6_ //]
+BEM[]
+
+DWOK04
+CUT[Da owczarzu psierakarzu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 141]
+FKT[]
+SIG[]
+KEY[K0283   32  A 3/8]
+MEL[(4_6b_5_)4__3__  1_1_-7__-5_-5_  1_2_3b_4_5__  5__.4_6b_5_
+    6b_5_4__4_3_  1_1_-7__-5_-5_
+    (-7_2_1_)-7__-5__  1_3b_5__2_-5_  1_3b_2__-7__  1__.-7_2_-5_
+    (4_6b_5_)4__3__  1_1_-7__-5_-5_  1_2_3b_4_5__  5__.4_6b_54
+    6b_5_4__4_3_  1_1_-7__-5_-5_
+    (-7_2_1_)-7__-5__  1_3b_5__2_-5_  1_3b_2__-7__  1__.-7_2_-5_ //]
+BEM[]
+
+DWOK04
+CUT[Oberek. Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 142, od Pakości (Kościelec)]
+FKT[]
+SIG[0428400000]
+KEY[K0284   16  A 3/8]
+MEL[-5-72_3_  1-7-5__  135_6_  4_2__
+    -5-72_3_  1__23  1__23  1-72__
+    -5-72_3_  1_1_23  1_1_23  1-7-5__ //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 142]
+FKT[]
+SIG[]
+KEY[K0285   16  G 3/8]
+MEL[456_6_  6_65(432)  465__
+    456_6_  6_65(432)  465__
+    5_(432)3_  5_(432)3_  2_1-7-6-5  -725__
+    5_(432)3_  5_(432)3_  -721-7-6-5  -721__
+    3_323_  2_(1-7-6)-5_  -725__
+    3_323_  2_1-7-6-5  -721__ //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 142-143]
+FKT[]
+SIG[]
+KEY[K0286   32  G 3/8]
+MEL[0__5__+1__  7__5__+1__  6_4_3_2_1__
+    0__5__+1__  7__6_5_4_5_  6_4_3_2_1__
+    5_5_1_5_7__  6_6_5_6_+1__  5_5_1_5_7__
+    6_6_5_6_+1__  5_5_1_5_(6_7_04)  6_4_3_2_1__
+    0__3_4_5_5_  6__5_4_3_4_  5__3_2_1__
+    3_4_5_+1_6__  5_4_3_2_1__  3_4_3_2_1__
+    3_4_3_2_1__  3_4_5__3__  5__4_2_3_4_  5__3_2_1__
+    3_4_3_2_1__  3_4_5__3__  5__4_2_3_4_  5__3_2_1__ //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 142-143]
+FKT[]
+SIG[]
+KEY[K0286a  32  G 3/8]
+MEL[0__5_5_+1_+17  ^__5__+1__  6_4_3_2_1__
+    0__5_5_+1__  7__6_5_4_5_  6_4_3_2_1__
+    5_5_1_5_7__  6_6_5_6_+1__  5_5_1_5_7__
+    6_6_5_6_+1__  5_5_1_5_(6_7_04)  6_4_3_2_1__
+    0__3_4_5_5_  6__5_4_3_4_  5__3_2_1__
+    3_4_5_+1_6__  5_4_3_2_1__  3_4_3_2_1__
+    3_4_3_2_1__  3_4_5__3__  5__4_2_3_4_  5__3_2_1__
+    3_4_3_2_1__  3_4_5__3__  5__4_2_3_4_  5__3_2_1__ //]
+BEM[Warian alternatywny]
+
+DWOK04
+CUT[A za lasem moje wolki]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 143]
+FKT[]
+SIG[]
+KEY[K0287   16  G 3/8]
+MEL[32654_  3_2324#  5_6_21
+    32654_  3_2-7-5-7  1_.321
+    323_4_  323_4_  5_6_21
+    32654_  3_2-7-5-7  1_3_21
+    0_3265  432324#  5_6_21
+    0_3265  432-7-5-7  1_.321
+    0_3234  0_3234  5_6_21
+    0_3265  432-7-5-7  1_.321 //]
+BEM[]
+
+DWOK04
+CUT[Wyganiaj woly bladusiu]
+REG[Kujawskie]
+REG[]
+TRD[DWOK04 Kujawy, s. 143-144]
+FKT[]
+SIG[]
+KEY[K0288   32  G 3/8]
+MEL[3_4_2__+1__  6_5_76_.21_.  3_4_2__+1__  6_5_43_.21_.
+    3_4_3_2_1__  -5_1_3_4_5__  3_4_3_2_1_-7_  1__.3_2_1_
+    3_4_2__6_7_  6_5#_6__7_2_  3_4_2__6_7_  6_5_4_3_2_1_
+    3__3_2_1__  -5_1_3_4_5_6_  3_4_3_2_1__  -5_1_3__2_1_ //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 144]
+FKT[]
+SIG[]
+KEY[K0289   16  G 3/8]
+MEL[332_+2_  7+1#6_42  312_6_  (345)3_21
+    32126_  (346)3_2_  32126_  (345)3_21
+    (342)126_  54(346)61  32126_  353_1_ //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 144]
+FKT[]
+SIG[]
+KEY[K0289a  16  G 3/8]
+MEL[312_+2_  (76+1#)6_21  312_(576)  (345)3_21
+    32126_  (346)^323  ^2126_  (345)3_21
+    (342)126_  54(346)61  32126_  353_1_ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[A za lasem wolki moje]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 144-145]
+FKT[]
+SIG[]
+KEY[K0290   32  A 3/8]
+MEL[1_2_3b__6__  5_43b2__1_-7b_  3b_5_-7___
+    1_2_3b__6__  5_43b2__1_-7b_  1_3b_-7___
+    1_1_2__2__  5_43b1__-7b__  3b_5_-7___
+    1_1_2__2__  5_43b1__-7b__  2_3b_-7___
+    1_.23b_5_-7_2_  (1_-7b_2_)3b_5_-7_2_  (1_-7b_2_)3b__-7_2_  1__1__1__
+    1_2_3b__6__  5_43b2__1_2_  3b_5_-7___
+    1_2_3b__6__  5_43b2__1_-7b_  (1_2_3b_)-7___
+    1_1_2__2__  5_43b1__-7b__  3b54#5-7___
+    1_1_2__2__  5_43b1__-7b__  2_3b_-7___
+    1_.23b_5_-7_2_  (1_-7b_2_)3b_5_-7_2_  (1_-7b_2_)3b_5_-7_2_  1__1__1__ //]
+BEM[]
+
+DWOK04
+CUT[Kujawiak]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 145]
+FKT[]
+SIG[]
+KEY[K0291   16  G 3/4]
+MEL[(3_4_6_)7__(6_5_4_)  (4_3_2_)1__(3_4_5_)  6__3_2_1_-7_
+    (3_4_6_)7__(6_5_4_)  3_2_1__2_3_  4__3_2_1__
+    -5_.-6-7_1_2_3_  6_.5(4_3_2_)(3_4_5_)  6__3_2_1_-7_
+    -5_.-6-7_1_2_3_  6_.5(4_3_2_)(1_2_3_)  4__3_2_1__ //]
+BEM[W ksiazce pojawia sie literowka bledne oznaczenie 201]
+
+DWOK04
+CUT[A za lasem czarna chmura]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 145]
+FKT[]
+SIG[]
+KEY[K0292   32  F 3/8]
+MEL[-7_2_4__6__  5_3_1__(1_3_5_)  6_4_2__(2_-7_-5_)
+    -7_2_2__(4_3_2_)  1_1_1__(1_2_3_)  5_4_2__(2_-7_-5_)
+    -7_2_2__(4_3_2_)  1_-6_-4__(-4_-5_-6_)  2__2__(2_-7_-5_)
+    -7_2_4__6__  5_321__(1_3_5_)  6_4_2__(2_-7_-5_)
+    -7_2_2__(4_3_2_)  1_1_1__(1_2_3_)  6_4_2__(2_-7_-5_)
+    -7_2_2__(4_3_2_)  1_-6-5-4__(-4_-5_-6_)  2_2_2__(2_-7_-5_) //]
+BEM[]
+
+DWOK04
+CUT[Jagem jechal z Lubranczyka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 145-146]
+FKT[]
+SIG[]
+KEY[K0293   08  G 3/4]
+MEL[(-5-72)4_6_  +165_(313)  5_4_2-7
+    -5-72_3_  1-6-4_-4-6  -7_2_-7-5
+    -5-72_4_  2-71_3_  5_6_2-7
+    -5-72_3_  (1-6-4)-4_-4-6  -7_2_-7-5 //]
+BEM[]
+
+DWOK04
+CUT[Marynami moje chlopcy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 146]
+FKT[]
+SIG[04029400001]
+KEY[K0294   16  C 3/8]
+MEL[5__.  5__.  5__.  +1+2+3_+3_  +3_+1_+2+3  +4+27__
+    (567)+1_7_  +164__  +175__
+    +1+3b+5_+5_  +5_.+3b+2+1  +3b+5+4_0_
+    +1+3b+5_+5_  +5_.+3b+2+1  7+2+1_0_
+    +1+2+3_+3_  +3+27_5_  +1+3+5__
+    +1+2+3_+3_  +2+27_5_  7+2+1_0_ //]
+BEM[]
+
+DWOK04
+CUT[Marynami moje chlopcy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 146]
+FKT[]
+SIG[04029400002]
+KEY[K0294   16  C 3/8]
+MEL[5__.  5__.  5__.  +1+2+3_+3_  +4+3+1_+2+3  +4+27_5_
+    (567)+1_7_  +174_6_  +175_7_
+    +1+3b+5_+5_  +5_.+3b+2+1  +3b+5+4_0_
+    +1+3b+5_+5_  +5_.+3b+2+1  7+2+1_0_
+    +1+2+3_+3_  +3+27_5_  +1+3+5__
+    +1+2+3_+3_  +2+27_5_  7+2+1_0_ //]
+BEM[Wartiant alternatywny]
+
+DWOK04
+CUT[Da i stado gąsek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 146, od Służewa, Raciążka]
+FKT[]
+SIG[0429500010]
+KEY[K0295  08  A 3/4]
+MEL[-5-713b52  12452-7  -5-713b52  43b2_1_
+    -5-7123b2  1-7-5-6-5-6  -5-7123b2  (1-7-5)1_-5-4 //]
+BEM[Część wokalna. U Kolberga w t. 6 błąd rytmiczny: 1_-7-5-6-5-6]
+
+DWOK04
+CUT[Da i stado gąsek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 146, od Służewa, Raciążka]
+FKT[]
+SIG[0429500020]
+KEY[K0295  08  A 3/4]
+MEL[-5-7123b2  1-7-5-6-5_  -5-7123b2  1-7-5-4-5_
+    1-7-5-6-5-7  1-7-5-4-5_  1-7-5-7-5_  -7_-7_-5_ //]
+BEM[Część instrumentalna]
+
+DWOK04
+CUT[Niedaleko swiety Michal]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 147]
+FKT[]
+SIG[]
+KEY[K0296   32  C 3/8]
+MEL[+1_+1_+2__+1_7_  5_67+1___  +3_+3_+2__+1_7_  5_67+1___
+    +1__+3_+2_+1__  +2_+4_+6__+2__  +3__+3_+2_+1_7_  5_67+1___
+    +1_+1_+2__+1_7_  5_67+1__5__  +3_+3_+2__+1_7_  5_67+1__5__
+    +3__+3_+2_+1_7_  +2_+4_+6__+2__  +3__+3_+2_+1_7_  5_67+1__5__ //]
+BEM[]
+
+DWOK04
+CUT[Kujawiak]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 147]
+FKT[]
+SIG[]
+KEY[K0297   16  C 3/4]
+MEL[4567+1__.7_  (5_7_+2_)+1__.7_  5_6_4__.1_
+    4567+1__.7_  (5_7_+2_)+1__.7_  5_6_4___
+    12345__.6_  4__.3_1__  12345__.4#_  5_6_4___
+    12345__.6_  4__.3_1__  12345__.4#_  5_6_4___ //]
+BEM[]
+
+DWOK04
+CUT[Ha la la la ku dabrowie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 147-148]
+FKT[]
+SIG[]
+KEY[K0298   16  C 3/8]
+MEL[667_+2_  6+1+2_.7  667_+2_  6+16_.5
+    66+2_+2+1  667_5_  66+2_+2+1  6+26_.5
+    6+16_5_  6+26_.5  (6+16)5_32  6+26_.5 //]
+BEM[]
+
+DWOK04
+CUT[Da konie w zycie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 148]
+FKT[]
+SIG[]
+KEY[K0299   16  G 3/8]
+MEL[5_7653  556_2_  5_7653  354_2_
+    2_3113  356_2_  2_3113  654_2_
+    5_7653  556_2_  5_7653  554_2_
+    2_3113  556_2_  2_3113  654_2_
+    2_321-6  -5-7213_  2_321-6  -4-61-7-5_ //]
+BEM[]
+
+DWOK04
+CUT[Chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 148]
+FKT[]
+SIG[]
+KEY[K0300   08  G 3/4]
+MEL[5_4_32  1_3456  7_6_(543)
+    213456  7_6_(543)  213456
+    4_.543  (123)5_43  231_-5_
+    -5-6-7254  231_-5_  -5-6-7254  21-7-6-5-4
+    -7b_-7b_-7b-6  -51-7-6-5-4  -51-7b_-7b-6  -51-7-6-5_
+    5_4_32  1_3456  7_6_(543)
+    213456  676_(543)  213456
+    4_.543  (123)5_43  231_(-5-4-3)
+    -5-6-7254  231_-5_  -5-6-7254  21-7-6-5-4
+    -7b_-7b_-7b-6  -51-7-6-5-4  -51-7b_-7b-6  -51-7-6-5_ //]
+BEM[]
+
+DWOK04
+CUT[Oj da owczareczku Kudla]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 149]
+FKT[]
+SIG[]
+KEY[K0301   16  G 3/8]
+MEL[-7-71_23  465_31  -7-71_23  442_1_
+    -7-71_23  425_3_  -7-71_23  442_1_
+    -7-71_23  425_31  -7-51_23  44231_
+    -7-51_23  442_5_  321_35  (654)2_1_
+    24#5_67  +1+16_5_  4#25_.3  4_-7_1_
+    -7-51_23  442_5_  321_35  (654)2_13
+    24#5_67  +1+16_5_  4#25_.3  442_1_
+    -5-71_.3  4#25_3_  -7-51_.3  242_1_
+    -5-71_.5  4#25_31  -7-51_.3  242_1_ //]
+BEM[]
+
+DWOK04
+CUT[Chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 149]
+FKT[]
+SIG[]
+KEY[K0302   08  G 3/4]
+MEL[-722_2_  24#67(654#)  3_2131
+    (-724#)67(654#)  3_(321)31  (-724#)67(654#)
+    -722_-7-5  (-6-71)35^_  531_1-6  -4-6-7_-5_
+    -5-52_-7-5  (-6-71)(34#5)^_  531_1-6  -4#12_-5_ //]
+BEM[]
+
+DWOK04
+CUT[Chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 149]
+FKT[]
+SIG[]
+KEY[K0302a  08  G 3/4]
+MEL[(-5-6-7)2_2_  (-724#)67(654#)  3_2131
+    (-724#)67(654#)  3_(321)31  (-724#)67(654#)
+    (-5-6-7)2_-7-5  (-6-71)35^_  531_1-6  -4-6-7_-5_
+    -5-52_-7-5  (-6-71)(34#5)^_  531_1-6  -4#12_-5_ //]
+BEM[]
+
+DWOK04
+CUT[Wolarek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 150]
+FKT[]
+SIG[]
+KEY[K0303   32  G 3/8]
+MEL[1_2_3_4_3_.2  4_6_7_6_5_2_  1_2_3_4_2_1_  3_3_5_2_1__
+    1_3_5_4_3_1_  2_1_2_4_3_1_  3_3_5_4_2_1_  3_3_5_2_1__
+    1_1_5__2_1_  3_5_5_2_1__  1__5__2_1_  3_3_5_2_1__
+    1_1_5__2_1_  3_5_5_2_1__  1__5__2_1_  3_3_5_2_1__ //]
+BEM[]
+
+DWOK04
+CUT[Wolarek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 150]
+FKT[]
+SIG[]
+KEY[K0304   32  F 3/8]
+MEL[3_.32_1_3_4_  5_6_7_6_5_6_  3_042_1_3_-5_  -6_-7_1_3_2_1_
+    3_4_2_3_-5__  -7_1_3560-5__  5_023__.-5_  -7_1_3_2_1__
+    3_4_2_3_-5__  -7_1_3560-5__  3___.  -7_1_3_2_1__ //]
+BEM[]
+
+DWOK04
+CUT[Krowiarek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 150-151]
+FKT[]
+SIG[]
+KEY[K0305   16  G 3/4]
+MEL[1_2_3_4#_5_6_  7_6_5_4#_6_-5_  1_3_5__.-5_  1_3_6_5_^_-5_
+    1_3_5__5_.-5  1_3_6_5_^_2_  ^__3__.2_  1__.-7_-5__
+    (3_5_4#_)5__4#_  2__.1_1__  ^__.-7_-5__
+    -5_-7_2_3_2_1_  2_3_2_1_-7_-6_  -5_-6_-7_-5_4#_5_  ^__3__.2_
+    3_0-71_.-7-5__  -5_-6_-7_-5_4#__  ^__2__.1_  ^__.-7_-5__
+    -5_-6_-7_-5_1__  ^__.-7_-5__  -5_-6_-7_-5_1__  ^___. //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 151]
+FKT[]
+SIG[]
+KEY[K0306   32  G 3/8]
+MEL[1_2_3_4#_5_6_  7_6_5_4#_6_.-5  1_3_5_4#_6_.-5
+    1_2_3_4#_5_6_  7_6_5_4#_6_-7_  1__.-7_1_-5_
+    -5_.54#__5_4#_  -5_.54#__5_4#_  (3b_2_1_)-7__-5__
+    -5_.-6-7_-5_-6_-7_  (2_4#_6_)7_6_5_2_  -5_-6_-7_-5_(2_3_5_)
+    4#_0-71__-5__  -5_-6_-7_-5_-7_1_  3_-7_1__-5__
+    1_2_3_4#_5_6_  7_6_5_4#_6_.5  1_3_5_7_6_.-5
+    1_2_3_4#_5_6_  7_6_5_4#_6_-7_  1__.-7_1_-5_
+    -5_.54#__5_4#_  -5_.54#__5_4#_  (3b_2_1_)-7__-5__
+    -5_.-6-7_-5_-6_-7_  (2_4#_6_)7_6_5_2_  -5_-6_-7_-5_(2_3_5_)
+    4#_0-71__-5__  -5_-6_-7_-5_-7_1_  (2_3_-7_)1__-5__ //]
+BEM[]
+
+DWOK04
+CUT[A wygnaj woly zaspala]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 151-152]
+FKT[]
+SIG[]
+KEY[K0307   16  G 3/8]
+MEL[1_4567  +1+2+3+2+17  +2_(146)+17  +2_(146)+17  5_5_(431)
+    6_61(+175)  6_61(+175)  5_5_(421)
+    (135)^46_  (135)^46_  (135)^_(431)
+    (135)+1_64  357_+1_  35+1_64  352_1_
+    (135)^_46  (^35)2_2_  3_(543)42  352_1_
+    (135)5_46  (135)^_46  (135)^_(431) //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 152]
+FKT[]
+SIG[]
+KEY[K0308   16  G 3/4]
+MEL[1_2_3_4_5_+1_  (^_7_5_)^_6_7__  +1__.7_1__
+    7_+1_+2_+1_(+1_7_5_)  ^__6_7_+1_.7  6__(5_4_3_)2_5_  4__.3_1__
+    1_2_3_4_6_5_  (4_3_1_)5_4_3_1_  4_3_2_-7_2_3_  1_3_5_7_+1__
+    1_2_3_4_6_5_  (4_3_1_)5_4_3_1_  4_3_2_-7_2_3_  1__1__1__
+    1_2_3_4_5_+1_  (^_7_5_)6_7_(+1_7_5_)  6_7_(+1_7_5_)6_7_  +1__.7_1__
+    7_+2_+3_+2_(+1_7_5_)  6_7_+1_7_6__  5__(4_3_1_)2_5_  4__.3_1__
+    5_4_3_1_2_5_  4__.3_1__
+    4___3_1_  3_3_4__3__  3__2__(-7_2_3_)  1__1__(5_7_+1_)
+    3__2_-7_2_3_  1__1__(5_7_+1_)  3__2_-7_2_3_  1___. //]
+BEM[]
+
+DWOK04
+CUT[Oberek. Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 153, od Lubrańca, Otmianów]
+FKT[]
+SIG[0430900000]
+KEY[K0309   32  G 3/8]
+MEL[3_023_4_5_6_  7_6_5_4_-5__  1_3_5__3_-5_
+    3_023_4_5_6_  7_6_5_4_-5__  3_2_1_-7_-5__
+    3__.5_4#_5_  3_.35__4_-5_  3_023_5_4_2_  3_.33__4_2_
+    3__.5_4#_5_  3_.35__4_-5_  3_023_5_4_2_  3_.33__4_2_
+    3_023_4_5_6_  7_6_2_6_5_-5_  1_3_5_4#_5_-5_
+    3_023_4_5_6_  7_6_-5__5_-5_  3_2_1_-7_-5__
+    3__.5_4#_5_  3_6_5__4_-5_  3_2_3_5_4_2_  3_.33__4_2_
+    3__.(5+15)4#_5_  3_6_5__4_-5_  3_2_3_5_4_2_  3_.33__4_2_ //]
+BEM[]
+
+DWOK04
+CUT[Owczarek prawowierny]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 153-154]
+FKT[]
+SIG[]
+KEY[K0310   16  G 3/4]
+MEL[5_6_7_5_6_7_  +1__^5431__  4_6_+1_.76_5_  43231___
+    5_6_7_+2_+3_+2_  +1_7_5___  7_+2_+3_+2_+1_5_  43231___
+    43235___  43231___  43235___  43231___
+    5_6_7_5_6_5_  6_7_+1_7_5_6_  5_6_7_5_6_5_  6_7_+1_7_5_6_
+    5_6_7_5_6_7_  +1_7_+1_5_6_5_  4_3_4_2_-7_-7_  1_-7_1_2_3_5_
+    4__.2_-7__  (1_2_3_)5__.6_  4__.2_-7__  (1_2_3_)1__.3_
+    4__.2_-7__  ^1235__.6_  4__.2_-7__  ^1231___ //]
+BEM[]
+
+DWOK04
+CUT[Dygu dygu dygu po pszenicy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 154]
+FKT[]
+SIG[]
+KEY[K0311   32  G 3/4 3/8]
+MEL[1__3__5__3__5__3__  (5__6__5__)4___2___  2__3__4__2__4__2__  4___6___5___
+    1__2__3___3__1__  2__2__-7___-5___  -5__-6__-7__-5__-7__2__  4___(6__7__6__)5__2__
+    1__1__1___1___  2__2__-7___-5___  -5__-6__-7__-5__-7__1__  3__-7__1__-7__1__-5__
+    3_5_3_5_3_5_  3_5_3_5_6_54#  2_4_2_4_2_4_  2_4_6_7_6_5_
+    1_3_2_1_3_2_  1_3_2_1_3_54#  2_3_2_1_-7_-6_  -5_-7_2_4_6_5_
+    1_3_2_1_3_2_  1_3_2_1_3_54#  2_3_2_1_-7_-6_  -5_-6-71__-5__
+    2_-7_-5__5__  1__3__.4_  2_1-7-5__5__  1__1__1__
+    -5_-6-71__1_2_  3_2_3_4_2_-7_  -5_-6-71__1_3_  6_5_3__1__ //]
+BEM[]
+
+DWOK04
+CUT[Dygu dygu dygu po pszenicy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 154]
+FKT[]
+SIG[]
+KEY[K0311a  32  G 3/4 3/8]
+MEL[1__3__5__3__5__3__  6__6__5__4__2___  2__3__4__2__4__2__  4___(6__7__6__)5__2__
+    1__1__1___1__1__  (2__3__2__)-7___-5___  -5__-6__-7__-5__(-6__-7__2__)  2__4__5___5__2__
+    1__1__1___1___  (2__3__2__)-7___-5___  -5__-6__-7__-5__(-6__-7__1__)  3__-7__1_-7_1_-7_1__-5__
+    3_5_3_5_3_5_  3_5_3_5_6_54#  2_4_2_4_2_4_  2_4_6_7_6_5_
+    1_3_2_1_3_2_  1_3_2_1_3_54#  2_3_2_1_-7_-6_  -5_-7_2_4_6_5_
+    1_3_2_1_3_2_  1_3_2_1_3_54#  2_3_2_1_-7_-6_  -5_-6-71__-5__
+    2_-7_-5__5__  1__3__.4_  2_1-7-5__5__  1__^_2_3_1_
+    -5_-6-71__1_2_  3_2_3_4_2_-7_  -5_-6-71__1_3_  6_5_3__1__ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[A jesli ci sie nie podobom]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 155]
+FKT[]
+SIG[]
+KEY[K0312   16  G 3/4 3/8]
+MEL[3_5_3_5_3_5_  7_6_5__4__  2_4_2_4_2_4_  7_6_5__2__
+    1_3_3__3_5_  5_4_2_-7_-5__  -5-6-7_-7__2__  234_5__(4_2_1_)
+    1_3_3__3_3_  2_3_2_1_(1_-7_-6_)  -5_-6_-7_-5_(-7_1_2_)  4_3_2__1__
+    3_5_3_5_3_5_  6_5_4__2__  2___.  4_6_6__6__  3_2_1___
+    1_3_3__.2_  3_2_-7__-5__  -5_-7_2__4__  5__.2_1__
+    1_3_3_1_3_4_  32-7_-7__-5__  -5_-7_2__4__  5__^6521__
+    0_0553  535353  567653  2__.  355_56  321__
+    133_13  3_1-7-5_  -5-72_24  5_^21_
+    133_13  5_1-7-5_  -5-72-724  5_^21_ //]
+BEM[]
+
+DWOK04
+CUT[A jesli ci sie nie podobom]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 155]
+FKT[]
+SIG[]
+KEY[K0312a  16  G 3/4 3/8]
+MEL[3_5_3_5_3_5_  7_6_5__4__  2_4_2_4_2__  7_6_5__211_
+    3_3_3__3_5_  5_4_2_-7_-5__  -5-6-7_-7_2_2_2_  234_5__(4_2_1_)
+    1_3_3__3__  2_3_2_1_(1_-7_-6_)  -5_-6_-7_-5_(-7_1_2_)  4_3_2_3_1__
+    135_3_5_3_5_  6765(4_5_4_)2__  2___.  4_6_6__5_6_  3_2_1___
+    1_3_3__.2_  3_2_-7__-5__  -5_-7_2__4__  5__.2_1__
+    1_3_3_1_3_4_  32-7_-7__-5__  -5_-7_2__4__  5__^6521__
+    0_0553  535353  567653  2__.  266_56  321__
+    133_13  3_1-7-5_  -5-72_24  5_^21_
+    133_13  5_1-7-5_  -5-72-724  5_^21_ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[O Boze moj jedyny]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 155-156]
+FKT[]
+SIG[]
+KEY[K0313   16  G 3/4 3/8]
+MEL[3_3_6__5_4_  3__.2_3_2_
+    4_6_7__6__  5___2__  3_3_6__5_4_  3__.2_1_-6_
+    -5_-6_-7__-5__  -6_-7_2___  4_6_7__6__  5___2__
+    3_3_5__.4_  (4_3_2_)-7__-5__  -5-6-7-52___  3__.-7_1__
+    135_5_  56542_  (346)6_6_  +166_(543)
+    135_53  56542_  (346)6_6_  +166_(543)
+    333_(345)  53322_  -5-5-6-72_  (-5-6-7)(234)3_
+    333_(345)  53322_  -5-5-6-72_  (-5-6-7)(234)3_ //]
+BEM[]
+
+DWOK04
+CUT[Kujawiak chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 156]
+FKT[]
+SIG[]
+KEY[K0314a  16  G 3/4]
+MEL[1_3_5_6_3_4_  3_2_1_-7_-5__  -5_-6_-7_-5_-7_2_  4_6_7_6_5__
+    3__3_2_3_6_  3_2_1_-7_-5__  -5_-6_-7_-5_-7_2_  3_-7_1___
+    -6__-6_-5#_-6_1_  -7_2#_3__(2_1_-7_)  -6__1_-7_1_3_  -7_-5#_-3__-3__
+    -6__-6_-5#_-6_1_  -7_2#_3__2_-7_  -6_-5#_-6_-5#_-6_1_  -7_-5#_-3__-6__
+    1_3_5_6_7_6_  3_2_1_-7_-5__  -5_-6_-7_-5_-7_2_  4_6_7_6_5_0-5
+    3__3_2_3_6_  3_2_1_-7_-5__  -5_-6_-7_-5_-7_2_  3_-7_1___
+    -6__-6_-5#_-6_1_  -7_2#_3__(2_1_-7_)  -6__1_-7_1_3_  4#_2#_3__1_-7_
+    -6__-6_-5#_-6_1_  -7_2#_3__2_-7_  -6__-6_-5#_-6_1_  -7_-5#_-3__-6__ //]
+BEM[]
+
+DWOK04
+CUT[Ksebka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 156-157]
+FKT[]
+SIG[]
+KEY[K0314b  32  G 3/8]
+MEL[1_.35_6_3_5_  5_.42_-7_-5__  -5_.-6-7_-5_-7_2_  4_.67_6_4__
+    1_.35_6_3_5_  5_.42_-7_-5__  -5_.-6-7_-5_-7_2_  4_.67_6_4__
+    1_3_3__34_.  3_.22_1_-7_-6_  -5_.-7-7_-5_-7_2_  2_1-71__-5__
+    1___-6__  -7_2#_3__(2_1_-7_)  1___3__  -7_-7_-7__-6__ //]
+BEM[]
+
+DWOK04
+CUT[Nie bede ja roli oral]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 157]
+FKT[]
+SIG[]
+KEY[K0315   16  C 3/8]
+MEL[+2+3+4+6+7+6  +5+2+3_+1_  5+4+5+4+3+2  (+176)7_5_
+    +2+3+4+6+7+6  +5+2+3_.7  +1_.64#2  267_5_
+    577_7_  +1_.64#2  4#67_+2_
+    577_7_  +1_.64#2  267_5_ //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 157-158]
+FKT[]
+SIG[]
+KEY[K0316   32  G 3/8]
+MEL[5__2_4_6__  5_4#_5_6_7_6_  5_4#_2_4_6_3_  5_4#_6_4#_5__
+    5_4#_2_4_6_3_  5_4#_2_4_6_3_  5_4#_2_4_6_3_  5_6_5_4#_5__
+    2__5_4#_6_5_  4#_3_2_3_2__  5__5_6_7_6_  5_4#_3_4#_3__
+    5__2_4_6__  5_4#_5_6_7_6_  5_4#_2_4_6_3_  5_4#_6_4#_5__
+    5_4#_2_4_6_3_  5_4#_5_6_7_6_  5_4#_2_4_6_3_  5_6_5_4#_5__
+    2__5_4#_6_5_  4#_3_2_3_2__  5__5_6_7_6_  5_4#_3_4#_3__
+    -5_-6_(-7b_-6_-7b_)1_-6_  -5_-6_-7b_1_2_3_  -5_-7b_-6_-7b_1_-6_  -5_-7b_-6_-4_-5__
+    -5_-6_(-7b_-6_-7b_)1_-6_  -5_-6_-7b_1_2_3_  -5_-7b_-6_-7b_1_-6_  -5_-7b_-6_-4_-5__
+    -7b__-7b__-7b-6-7b-5  -5_-6_-7b_1_2__  -7b__-7b__-7b_-5_  -5_-7b_-6_-4_-5__
+    -7b__-7b__-7b-6-7b-5  -5_-6_-7b_1_2__  -7b__-7b__-7b_-5_  -5_-7b_-6_-4_-5__ //]
+BEM[]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 158]
+FKT[]
+SIG[]
+KEY[K0317   32  G 3/8]
+MEL[2_345__2__  4_6_7_6_5_4#_  2_345__2__  4_6_7_6_5_4#_
+    2_-7_-6_-7_(1_-7_-6_)  -5_5_4#__6_4#_  2_-7_-6_-7_1_-7-6  -5__-5__-5__
+    2_345__2__  5_6_7_6_5_4#_  5_3_2_3_(4_3_2_)
+    1_+1_7__+2_7_  5_3_2__(4_3_2_)  1_.32__(4_3_2_)
+    1_+1_7__+2_7_  5_3_2__4_32  1__1__1__  1_3_2__4_32  1___.
+    5_3_2___  1__5__1__  1_3_2__4_32  1___. //]
+BEM[]
+
+DWOK04
+CUT[Przyszla owca do Michala]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 158]
+FKT[]
+SIG[]
+KEY[K0318   16  G 3/8]
+MEL[156_2_  465_3_  223_3_  1-61_-7_
+    113_3_  443_5_  223_-6_  1-61_-7_
+    356_4_  465_3_  223_3_  -6-61_-7_
+    113_32  443_5_  223_-6_  1-61_-72 //]
+BEM[]
+
+DWOK04
+CUT[Chodzony.]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 159, od Izbicy, Lubomin]
+FKT[]
+SIG[0431900000]
+KEY[K0319   16  D 3/4]
+MEL[+1_7_5_7_+2_7_  +1__+2__+3b_5_  +1_7_5_7_+2_7_  +1__.7_+1__
+    +1_7_5_7_+2_7_  +1_7_+1_+2_+3b_5_  +1_7_5_7_+2_7_  +1_7_+1_+2_+1__
+    1_+1_7_+2_+1__  7b_6b_5_4_5__  4_3b_2_3b_4_2_  1_2_3b_4_5__
+    1_+1_7_+2_+1__  7b_6b_5_4_5__  4_3b_2_3b_4_3b2  1_3b_2_-7_1__
+    1_2_3b_4_6b__  5_4_5___  4_3b_2_3b_5_42  1_2_3b_4_5__
+    1_2_3b_4_6b__  6b_4_5___  4_3b_2_3b_5_42  1__.-7_1__
+    1_2_3b_4_6b__  5_4_5___  4_3b_2_3b_5_42  1_2_3b_4_5__
+    1_2_3b_4_6b__  6b_4_5___  4_3b_2_3b_5_42  1__.-7_1__ //]
+BEM[]
+
+DWOK04
+CUT[Chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 159]
+FKT[]
+SIG[]
+KEY[K0320   16  G 3/4]
+MEL[4_6_7__6__  (5_4_5_)4_3_0__  4_6_7__6__  3_2_1__0__
+    4_6_7__6__  54543_0_1__  4_6_7__6__  (1_3_2_)1__0__
+    34345__(4_3_2_)  1_345_321__  4_6_5__(4_3_2_)  1_3_2__1__
+    34345__(4_3_2_)  1_345_321_3_  4_6_5__(4_3_2_)  1_3_2__1__
+    (-6_-7b_2_)1__5__  3_2_5__2__  (-6_-7b_2_)1__5__  3_2_1__-5__
+    (-6_-7b_2_)1__5__  3_2_5__2__  (-6_-7b_2_)1__5__  3_2_1__-5__
+    (-6_-7b_2_)1__-6_-5_  (-6_-7b_2_)1__-6_-5_  (-6_-7b_2_)1__5__  3_2_1__-5__ //]
+BEM[]
+
+DWOK04
+CUT[Chodzony pasterski. Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 160, od Kowala (Skrzynki, Goreń)]
+FKT[]
+SIG[0432100010]
+KEY[K0321a  16  G 3/4]
+MEL[0_3_2_4_6__  ^_543___  ^_3_2_4_6__  ^_321___  ^_3_2_4_6_54  3_3_3_(242)1__
+    0_2_3_4_2_45  432_3_45321_  ^_2_3_4_2_45  3_3_^_(232)1__
+    0_2_3_4_2_45  432_3_45321_  ^_2_3_4_2_45  3_3_^_(232)1__ //]
+BEM[Andante]
+
+DWOK04
+CUT[Chodzony pasterski. Odsibka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 160, od Kowala (Skrzynki, Goreń)]
+FKT[]
+SIG[0432100020]
+KEY[K0321b  32  G 3/8]
+MEL[-5_-7_2_4_6_01  3__2_4_6_0-7  -5_-7_2_4_6_01  3__2_-7_1__
+    -5_-7_2_4_6_01  3__2_4_6_0-7  -5_-7_2_4_6_01  3__2_-7_1__
+    -5_-7_2_4_6__  3__2_4_6__  -5_-7_2_4_6__  3__2_-7_1__
+    -5_-7_2_4_1__  3_4_2_-7_1__  -5_-7_2_3_4_1_  3_2_-7_-5_1__
+    -5_-7_2_4_1__  3_4_2_-7_1__  -5_-7_2_3_4_1_  3_2_-7_-5_1__ //]
+BEM[]
+
+DWOK04
+CUT[Chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 160]
+FKT[]
+SIG[]
+KEY[K0322   08  G 3/4]
+MEL[-5-71356  7_534_  2_1-7-5_
+    -5-71354  3-54_21  -7_1-7-5_
+    -5-7131_  253_4_  2_1-72_
+    -5-7131_  21342_  2_1-7-5_
+    -4_-6-7b2_  1_342_  ^_1-7-5_
+    -4_-6-7b2_  1_342_  ^_1-7-5_ //]
+BEM[]
+
+DWOK04
+CUT[Chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 160]
+FKT[]
+SIG[]
+KEY[K0322a  08  G 3/4]
+MEL[-5-71356  7_534_  2_1-7-5_
+    -5-71354  3-55_34  2_1-7-5_
+    -5-713(1-71)  2-53_1_  2_1-7^_
+    -5-713(1-71)  2134^_  2_1-7-5_
+    -4_-6-7b23  1_342_  ^_1-7-5_
+    -4_-6-7b23  1_342_  ^_1-7-5_ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 161]
+FKT[]
+SIG[]
+KEY[K0323   32  G 3/8]
+MEL[-5_  -7_2_4_3_5_5_  4_3_(3_4_3_)5_2_  -7_2_4_3_5_5_
+    4_3_1_235_2_  2_2_7_+1#_7_6_  5_4_2_1_-7b__
+    -7b_2_-7b__2_4_  5_5_3b__1__  1__1_-6_1_3b_  5_6_5_4_2__
+    -7_2_4_3_5_5_  4_3_(3_4_3_)5_2_  -7_2_4_3_5_5_
+    4_3_1_235_2_  2_2_7_+1#_7_6_  5_4_2_1_-7b__
+    -7b_2_-7b__2_4_  7b_5_3b__1__  1__1_-6_1_3b_  5_6_5_4_2__ //]
+BEM[]
+
+DWOK04
+CUT[Chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 161]
+FKT[]
+SIG[]
+KEY[K0324   16  D 3/4]
+MEL[1_2_3_5_+1_.7  5_7_+1_.75__  7_+2_+3__(+2_+1#_6_)
+    5_7_+1_7_6__  5_4_3_2_5_4_  3__1___
+    3_4_6___  5_4_3_2_5_4_  3__1___
+    -5___.  -5_-6_-7_2_5_4_  3__1___  1___. //]
+BEM[]
+
+DWOK04
+CUT[Owczarski Karczemny]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 161]
+FKT[]
+SIG[]
+KEY[K0325   16  C 3/4]
+MEL[5_6_7_+1_+2_.+1  +3_+5_+4_+3_+2_+1_  +3_+5_+6__+6_+6_  +3_+5_+4_+3_+2_+1_
+    +3_+5_+6__(+7_+6_+5_)  +3_+5_+4_+3_+2_+3_
+    (+4_+3_+1_)+2__(7b_6_5_)  4_5_6_+1_+2_+4_  +3_+2_+1__(7b_6_5_)  4___(5_6_+1_)
+    (+4_+3_+1_)+2__(7b_6_5_)  4___+2_+4_  (+5_+3_+1_)+2__(7b_6_5_)  4___(5_6_+1_) //]
+BEM[]
+
+DWOK04
+CUT[Owczaryszek za owcami]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 161-162, od Inowrocławia, Pakości]
+FKT[]
+SIG[0432600011]
+KEY[K0326  32  G 3/8]
+MEL[1_3_3__3__  3_5_6__4_2_  1_-6_-4__-6_1_  3_5_7__5__
+    3_1_1__3_1_  3_5_6__4_2_  1_-6_-4__-6__  -7_2_3__1__ //]
+BEM[Część wokalna]
+
+DWOK04
+CUT[Owczaryszek za owcami]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 161-162]
+FKT[]
+SIG[0432600012]
+KEY[K0326  32  G 3/8 6/16]
+MEL[1_3_3__3_1_  3_5_6__4_2_  1_-6_-4__-6_1_  3_5_7_6_5_4_
+    3_1_1__3_1_  3_5_6__(4_2_3_)  1_-6_-4__-6_1_  -7_2_3__1__
+     //]
+BEM[Część wokalna]
+
+DWOK04
+CUT[Owczaryszek za owcami]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 161-162, od Inowrocławia, Pakości]
+FKT[]
+SIG[0432600020]
+KEY[K0326  32  G 3/8]
+MEL[1_3_5__(6_5_3_)  246_7_6_5_3_  1_3_5__.3_  4_6_7_6_5_3_
+    1_-6_-4__.-6_  1__2_4_5_3_  1_-6_-4__(-3_-4_-6_)  1__2_4_5_3_
+    1_2_3_4_5_7_  6_5_4_2_6_-7_  1__3_4_5_7_  6_5_4_2_3_-7_
+    1__3_4_5_3_  4_2_-7_-5_6_-7_  1_2_3_4_5_3_  4_2_-7_-5_1_-5_
+    1_3_5__.3_  2_6_7__6__  1_1_5__.3_  4_2_-7__-5__
+    1_3_5__.3_  2_6_7__6__  1_3_5__.3_  4_2_-7__-5__ //]
+BEM[Część instrumentalna. U Kolberga w t. 9 błędny zapis rytmiczny: 1_-6_-4__-6_]
+
+DWOK04
+CUT[Da na Brzesciu rzna da i rzna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 162]
+FKT[]
+SIG[]
+KEY[K0327   16  G 3/8]
+MEL[345_3_  5_6_65  542__
+    467_6_  5_321-7  -5__0_
+    323_(321)  234_42  124_65  32-7_-5_
+    323_(321)  (123)4_(456)  124_65  32-7_-5_ //]
+BEM[]
+
+DWOK04
+CUT[Woly w zycie nie widzicie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 163]
+FKT[]
+SIG[]
+KEY[K0328   08  G 3/4]
+MEL[134_57b  6b45_1_  +1+17_+1_  57+1_.1
+    134_57b  6b45_1_  -7b-7b-7b_-7b_  135_.1
+    57+1_57  +16b5451  57+1_57  +16b545_
+    (3b2b1)-7b_13  57+1_(6b54)  (3b2b1)-7b_(135)  (123)5_4_ //]
+BEM[]
+
+DWOK04
+CUT[Woly w zycie nie widzicie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 163]
+FKT[]
+SIG[]
+KEY[K0328a  08  G 3/4]
+MEL[(123)4_57b  (6b54)5_1_  +1+17_+1_  57+1_.1
+    (123)4_57b  (6b54)5_1_  -7b-7b-7b_-7b_  135_.1
+    (567)+1_57  +16b5451  (567)+1_+17  +16b545_
+    (3b2b1)-7b_13  57+1_(6b54)  (3b2b1)-7b_(135)  (123)5_4_ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Oberek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 163-164]
+FKT[]
+SIG[]
+KEY[K0329   32  G 3/8 4/8]
+MEL[(2_3_4_)6__6__  3__5__4#__  5_6_7__6_5_
+    (2_3_4_)6__6__  3__6__5__  3_4_2__1_-7_
+    (-5_-6_-7_)1__1__  2__3__2_1_  3_4_5__4_3_
+    (-5_-6_-7_)1__1__  5__3__(^_2_1_)  3_4_2__1_-7_
+    2_346__6__  3_5_4#_5_676_5__
+    (2_3_4_)6__6__  3_6_5__3_4_2_1-7  (-5_-6_-7_)1__1__
+    2__3_213_4_5_43  -5_-6-71__1__  5_3_^_213_4_2_1-7
+    (2_3_4_)6__6__  3__5__4#_5_  ^_6_7__6_5_
+    (2_3_4_)6__6__  5__6__5_3_  ^_4_2__1_-7_
+    (-5_-6_-7_)1__1__  -5__3__2_1_  3_4_5__4_3_
+    (-5_-6_-7_)1__1__  5__3__(^_2_1_)  3_4_2__1_-7_
+    2_346__6__  3_5_4#_5_676_5__
+    (2_3_4_)6__6__  5_6_5__3_4_2_1-7  (-5_-6_-7_)1__1__
+    2__3_213_4_5_43  -5_-6-71__1__  5_3_^_213_4_2_1-7 //]
+BEM[]
+
+DWOK04
+CUT[Owczarek wolny]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 164]
+FKT[]
+SIG[]
+KEY[K0330   32  G 3/8]
+MEL[(3_4_5_)6_.34__  3_.21_.2(3_4_6_)  ^__7_6_5_2_
+    (3_4_5_)6_.35_4_  3_2_(1_-7_-5_)-6_.-7  1__.3_2_1_
+    1_.32_1_3_54#  1_.32_1_3_54#  3_.23_.2(3_4_6_)  ^__7_6_5_2_
+    1_.32_1_3_54#  1_.32_1_3_54#  3_.2(1_-7_-5_)-6_-7_  1__.3_2_1_ //]
+BEM[]
+
+DWOK04
+CUT[Obertas owczarski]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 164]
+FKT[]
+SIG[]
+KEY[K0331   32  G 3/8]
+MEL[5___.  5_4#_2_4#_6__  2_4_2_4_2_4_  2_4_2_4_2_4_  2_4_6_7_6_5_
+    3_.33__3_2_  3_323__3__  3_323__3__
+    3__2_4_6_5_  3__3__3__  3__2_4_6_5_
+    2__.1_-7_-6_  -5_-6_-7_1_2_5_  2__.1_-7_-6_  -5_-6_-7_-7_-5__
+    2__.1_-7_-6_  -5_-6_-7_1_2_5_  2__.1_-7_-6_  -5_-6_-7_-7_-5__
+    -5__-5__-5__  -5_-6_-7_5_-5__  -5__-5__-5__  -5_-6_-7_-7_-5__
+    -5__-5__-5__  -5_-6_-7_5_-5__  -5__-5__-5__  -5_-6_-7_-7_-5__ //]
+BEM[]
+
+DWOK04
+CUT[Już ty śpiewasz skowroneczku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 181]
+FKT[]
+SIG[0433200001]
+KEY[K0332a  16  A 3/8]
+MEL[123b_21  -725_.4  3b21_-71  3b_2__
+    123b_21  -725_.4  3b25_.-7  2_1_0_
+    5_6b_.5  425_.4  3b21_-71  3b_2_0_
+    123b_21  -725_.4  3b25_.-7  2_1_0_ //]
+BEM[]
+
+DWOK04
+CUT[Już ty śpiewasz skowroneczku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 181]
+FKT[]
+SIG[0433200002]
+KEY[K0332b  32  A 3/8]
+MEL[1_2_3b_43b2_1_  -7_2_5__.4_  3b_2_1__-7_1_  3b__2___
+    1_2_3b_43b2_1_  -7_2_5__.4_  3b_3b_5__.-7_  2__1__0__
+    5__6b__.5_  4_2_5__.4_  3b_2_1_21-7_1_  3b_2_2__0__
+    1_2_3b_43b2_1_  -7_2_5__.4_  3b_2_5__.-7_  2__1__0__ //]
+BEM[]
+
+DWOK04
+CUT[Ja ciebie nie zapomnę]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 181-182]
+FKT[]
+SIG[0433300000]
+KEY[K0333   16  F 6/8]
+MEL[3_3_3_3_6_5_  5__4_2_0_4_  3__3_2_5_-7_  1_3_5_+1_7642
+    3_3_3_3_6_5_  5__4_2_0_4_  3__3_2_5_-7_  3__1_0__5_
+    4#_3_2_2_3_4#_  5__.5#__.  6_54#322_3_4#_  5_4#_6_5_4342
+    3_3_3_3_6_5_  5__4_2_0_4_  3__3_254_-7_  2_1__0__0_ //]
+BEM[U Kolberga w t. 8 błędny zapis rytmu: 3__1_0_5_]
+
+DWOK04
+CUT[Sprawiedliwosc Zosiu śmiała. Mazurek (słowa Brodzińskiego)]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 182]
+FKT[]
+SIG[0433400000]
+KEY[K0334   16  F 3/8]
+MEL[13b5_.4#  54#5_+1_  56b5_.4  3b23b_1_
+    3b57b_.5  43456b_  56b5_3b_  21#23b42
+    3b57b_.5  43456b4  56b5_3b_  23b2_1_ //]
+BEM[U Kolberga w t. 7 i 11 błędny zapis rytmu: 56b53b]
+
+DWOK04
+CUT[Kochanku gdzies mi bywal]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 182]
+FKT[]
+SIG[]
+KEY[K0335   08  C 6/8]
+MEL[+1  +3_+1667  +1_.50+3  +5_+5+6+5+2  +4+300_+1
+    +3_+1767  +1_.50+3  +5_+5+4_7  +2+100_+1
+    +3_+1667  +1_.50+3  +5_+5+6+5+2  +4+300_+1
+    +3_+1767  +1_.50+3  +5_+5+467  +2+100_ //]
+BEM[]
+
+DWOK04
+CUT[Chcesz abym ci piosnke wysnul]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 183]
+FKT[]
+SIG[]
+KEY[K0336   16  F 3/8]
+MEL[1_.234  556_5_  556_5_  542_6_  5__5_
+    556_.-7  11-7_-6_  -5-72_3_  1__3_
+    556_.-7  11-7_-6_  -5-72-723  1_1__ //]
+BEM[]
+
+DWOK04
+CUT[Kochalem ja pieknosc w swiecie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 183-184]
+FKT[]
+SIG[]
+KEY[K0337   16  D 3/8]
+MEL[554#565  3_1__  +1+17+1+2+1  7_6__
+    66-7_.-7  551_1_  556_7_  +1+2+3_+1_
+    +2+24_4_  +1+15_5_  4#5765-7  2_1__
+    354#565  3_1__  3+17+1+2+1  7_6__
+    +4+45_5_  +3+35_5_  5567+1+2  +3_+1__
+    +2+24_4_  +1+15_5_  557642  2_1__ //]
+BEM[]
+
+DWOK04
+CUT[Ja jestem latolosl mloda]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 184]
+FKT[]
+SIG[]
+KEY[K0338   16  E 4/4]
+MEL[5__3_5_+1__7_6_  6__.5_5__0__
+    5__3_5_+1__7_6_  6__.5_5__0__
+    +2__+1#_+2_+4__6_7_  +1__.3_6___  5__5_5_4__4_-7_  1__.3_5__0__
+    +2_+3+2+1#_+2_+4__6_7_  +1__.3_6___  5__5_5_5_4_4_-7_  1___1__0__ //]
+BEM[]
+
+DWOK04
+CUT[W szczesliwosci sobie zylem]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 184]
+FKT[]
+SIG[]
+KEY[K0339   16  F 3/8]
+MEL[345_+1_  77+1_6_  234_6_  4#56_5_
+    345_+1_  67+1_6_  2342-72  431_1_
+    553_4_  556_5_  234346  4#56_5_
+    553_4_  5+16_4_  2342-72  431_1_ //]
+BEM[]
+
+DWOK04
+CUT[Gdy w czystem polu słoneczko świeci]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 185]
+FKT[]
+SIG[0434000000]
+KEY[K0340   16  A 3/8]
+MEL[-5_1_3_  5__3_  255_23  1__1_
+    -5_1_3_  5__3_  255_23  1__1_
+    245_23  133_5_
+    245_23  133_5_
+    245_23  1__0_ //]
+BEM[U Kolberga w t. 9 błędny zapis rytmu: 24523]
+
+DWOK04
+CUT[Sialem proso na zagonie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 185]
+FKT[]
+SIG[]
+KEY[K0341   16  E 3/8]
+MEL[55+1_5_  6b6b5_4_  3b3b2_5_  1__0_
+    55+1_5_  6b6b5_4_  3b3b2_5_  1__0_
+    2_2_2_  1_5__  2_2_2_  1_5__
+    55+3b_+2_  +1__5_  6b6b5_-7_  1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Bystry konik na wygonie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 186]
+FKT[]
+SIG[]
+KEY[K0342   16  G 3/8]
+MEL[1_.-512  3_.-513  556_.3  5_4__
+    245_4_  246_4_  247_4_  +1_3__
+    243_4_  35+1_65  554_2_  5_3_1_
+    -5-72_-7_  116_5_  224_2_  3_1__ //]
+BEM[]
+
+DWOK04
+CUT[Bystry konik na wygonie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 186]
+FKT[]
+SIG[]
+KEY[K0342a  16  G 3/8]
+MEL[1_.-512  3_.-513  556_.3  5_4_2_
+    245_4_  246_4_  247_4_  +1_3__
+    244_4_  35+1_65  554_2_  5_3_1_
+    -5-72_-7_  136_5_  -5-72_-7_  3_1__ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Powiadaja zem ja plocha]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 186]
+FKT[]
+SIG[]
+KEY[K0343   16 Bb 3/8]
+MEL[-5-51_1_  -7-54_2_  6_.531  -7-54_2_
+    6_.531  -7-6-6_-6_  -5-54_2_  123_4_
+    6_.531  -7-6-6_-6_  -5-54_.2  123_1_
+    -7_2__  -4#-21_-6_  2_-7__  -4#-2-4#_-5_
+    -7_2_.-5  -4#-21_-6_  32-7_.-5  -4#-2-4#_-5_ //]
+BEM[]
+
+DWOK04
+CUT[Juz sie nachyla slonce]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 187]
+FKT[]
+SIG[]
+KEY[K0344   08 Bb 6/8]
+MEL[-5135_4  -5-724_3  -5135_4  3213_2
+    -5-6-71_1  531-7_-6  4322_-5  -5-6-72_1 //]
+BEM[]
+
+DWOK04
+CUT[W zielonym gaju]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 187]
+FKT[]
+SIG[]
+KEY[K0345   16  F 6/8]
+MEL[4_2_-7_1_3_5_  67+1_6_5_3_3_  4_-7_-7_1_3_5_  -7_5_5_1__1_
+    +1__5_+1_7_6_  +2_+1_7_6__5_  67+1_6_5_3_3_  4_2_-7_1_3_5_  67+1_6_5_3_1_  -7_5_5_1__1_ //]
+BEM[]
+
+DWOK04
+CUT[Co te panny dokazuja]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 187-188]
+FKT[]
+SIG[]
+KEY[K0346   32  F 3/8]
+MEL[4_4_2__4__  3_3_1__+1__  7_7_6__5__  +1_+1_+1__5__
+    4_4_2__4#5_.  1_1_3__5__  4_4_2__4#5_.  1_1_3__1__ //]
+BEM[]
+
+DWOK04
+CUT[Panienki wierne sa]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 188]
+FKT[]
+SIG[]
+KEY[K0347   16  C 3/8 2/4]
+MEL[+1_+3_.+2  +1_+1_+1_  +1_+1_+1_
+    +2_+4_+3_  +2_+2_+2_  +2_+2_+2_
+    5_+1_+3_  +5_+5_+5_  5_7_+2_  +4_+3_+3_
+    5_+1_+3_  +5__  +5_+5_7_  +1__0_
+    5_+3_.+2  +1_+1_+1_  5_7_.5  +1_+1_+1_
+    5_+3_.+2  +1__.  5_6_5_  +1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Juz sie panstwo pozbieralo]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 188]
+FKT[]
+SIG[]
+KEY[K0348   08  A 2/4]
+MEL[3334  2223  4345  3212
+    3543  2223  5432  1111
+    -6-611  1144  321-7b  -6211
+    -6-611  1144  321-7b  -6-5-4-4 //]
+BEM[]
+
+DWOK04
+CUT[Kiedy chcialem pocalowac]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 189-190]
+FKT[]
+SIG[]
+KEY[K0349   16  F 3/8]
+MEL[135_4#_  653_1_  542_-7_  6_5__
+    135_4#_  654#_5_  765_-7_  2_1__
+    6_6__  54#5__  -722_-5_  1_1__
+    135_4#_  654#_5_  765_-7_  2_1__
+    5_3135  653135  542-724  65313_
+    653135  542-724  653135  542-71_
+    3_3335  542-724  3_3135  542-71_ //]
+BEM[]
+
+DWOK04
+CUT[Zawsze ja mialem przyjaciol]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 190]
+FKT[]
+SIG[]
+KEY[K0350   08  F 4/4]
+MEL[12  3_.33_65  5_4_0_43  2_6_5_4-7  2_1_0_22
+    2_.22_54  4_3_0_33  2_4#6+1_.4#  6_5_0_55
+    3_.33_.4  6_5_0_55  3_.33_4-7  2_1_0_12
+    3_.33_65  544_0_43  2_6_5_4-7  2_1_0_22
+    2_.22_54  433_0_33  324#_+1_.4#  655_0_55
+    3_.33_.4  65_50_55  3_.33_4-7  211_0_ //]
+BEM[]
+
+DWOK04
+CUT[Od urodzenia zylem swobodnie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 190-191]
+FKT[]
+SIG[]
+KEY[K0351   08  F 4/4]
+MEL[5_345_5_  +1_765_3_  3_345_64  3_2_1_0_
+    1_64+1_76  5_643_2_  3_345_64  3_2_1_0_ //]
+BEM[]
+
+DWOK04
+CUT[Niech Jezus Chrystus bedzie pochwalony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 191]
+FKT[]
+SIG[]
+KEY[K0352   08  G 3/4]
+MEL[354#565  354#565  243454  243454
+    4_21-7-6  -544__  -7_6542  155__
+    4_21-7-6  -544__  -7_6542  111_0_ //]
+BEM[]
+
+DWOK04
+CUT[Z wysokich Parnasow]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 191-192]
+FKT[]
+SIG[]
+KEY[K0353   32 Bb 3/4]
+MEL[-5__1__3__5__4__3__  2__6__5__4_3_2_1_-7_-6_  -5__1__3__5__4__3__  2__26_.1____
+    -5__1__3__5__4__3__  2__6__5__4_3_2_1_-7_-6_  -5__1__3__5__4__3__  2__26_.1____
+    2__.-7_-5__4__4__3__  2__.-7_-5__4__4__3__  2__.-7_-5__4__4__3__
+    2__.-7_-5__4__2__-7__  -5__1__3__5__4__3__  2__6__1___0___ //]
+BEM[]
+
+DWOK04
+CUT[Starosta spadl z mosta]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 192]
+FKT[]
+SIG[]
+KEY[K0354   16  A 3/4]
+MEL[1_3_-5___  5_4_2___  1__2_2_3_-5_
+    1_.12_.23_.3  4_.45_.56_4_  3__4_2_1_3_  542_1__0__
+    5_.56_5_4_3_  4_.45_4_3_2_  3_.34_3_2_1_  5_.55_5_-5_-5_
+    1_3_-5___  5_4_2___  1__2_2_3_-5_
+    1_1_2_2_3_3_  4_4_5_5_6_4_  3__4_2_1_3_  542_1__0__ //]
+BEM[]
+
+DWOK04
+CUT[Panstwo soltysostwo]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 192-193]
+FKT[]
+SIG[]
+KEY[K0355   08  D 2/4]
+MEL[+1+176  65_0  +4+467  +2+1_0
+    246_  13_5  5544  65_0
+    246_  13_5  7642  21_0 //]
+BEM[]
+
+DWOK04
+CUT[Jak sie miewasz Kasiu droga]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 193]
+FKT[]
+SIG[]
+KEY[K0356   32  G 3/8]
+MEL[2_2_3__2__  5_5_4#__5__  6_4#_2__+1_7_  5___0__
+    1_3_5__5__  5_5_6__.4_  2_-7_-5__4_3_  1__0_3_3_3_  -5_.-5-5__4_3_  1___0__
+    3_5_4#__5__  6_5_4__.3_  2_-7_-5_-5_4_3_  1_3_2#__3__
+    2_-7_-5__4_3_  1__3_2_3_4_  5_.5-5_-5_4_3_  1___0__ //]
+BEM[]
+
+DWOK04
+CUT[Razno chlopcy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 193-194]
+FKT[]
+SIG[]
+KEY[K0357   16  G 3/8]
+MEL[1_.-513  553_1_  234_6_  555_-5_
+    1_.-513  553_1_  234_6_  555_4_
+    3_.243  21-7_-6_  -5-5-5_2_  -5-71_2_
+    3_3243  21-7_-6_  -5-5-5_2_  -5-71_1_
+    1_.-513  553_1_  234_6_  555_-5_
+    1_.-513  553_1_  234_6_  555_4_
+    3_.243  21-7_-6_  -5-5-5_2_  -5-71_2_
+    3_3243  21-7_-6_  -5-5-5_2_  -5-71_-5_
+    1-5-4_.-6  -5-71_3_  3_.243  -5-71_1_
+    1-5-4_.-6  -5-71_3_  3_.243  -5-71_1_ //]
+BEM[]
+
+DWOK04
+CUT[Chlopek ci ja chlopek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 194]
+FKT[]
+SIG[]
+KEY[K0358   16  D 3/8]
+MEL[55+1_+1_  7_+2__  +1+2+3_+3_  +2_+4__
+    +3_.7+16  553_5_  55+4_7_  +1_+3__
+    +3_.7+16  553_5_  55+4_7_  +2_+1__ //]
+BEM[]
+
+DWOK04
+CUT[Wesoły ja parobecek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 194-195]
+FKT[]
+SIG[04035900001]
+KEY[K0359   16  G 3/8]
+MEL[1_.-513  554#_2_  222_6_  54#5_.4
+    3_.234  31-7_-5_  -6-6-6_2_  -5-71_-5_
+    3_.234  31-7_-5_  -6-6-6_2_  -5-71_-5_ //]
+BEM[]
+
+DWOK04
+CUT[Wesoły ja parobecek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 194-195]
+FKT[]
+SIG[04035900002]
+KEY[K0359   16  G 3/8]
+MEL[1_.-513  554#_2_  222_6_  54#5_.4
+    3_.234  31-7_-5_  -6-6-6_2_  -5-71_-5_
+    3_.234  31-7_-5_  -6-6-6_2_  -5-71_-5_ //]
+BEM[Adnotacja: ob. mel. No 170. U Kolberga w t. 4 błędny zapis rytmu: 54#5__.4]
+
+DWOK04
+CUT[Gdzie sie dzialy one lata]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 195]
+FKT[]
+SIG[]
+KEY[K0360   16  A 3/8]
+MEL[5_5_54#  24#5_3_  5_5_54#  22-7_1_
+    2_.-713  24#5_3_  2_.-713  243_1_
+    5_5_64#  24#6_53  5_5_64#  224_31
+    2_.-513  24#6_53  2_.-513  224_31 //]
+BEM[]
+
+DWOK04
+CUT[Gdzie sie dzialy one lata]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 195-196]
+FKT[]
+SIG[]
+KEY[K0361   16  G 3/8]
+MEL[3_3_46  542_5_  3_3_46  542_1_
+    3_3_42  3_3_42  3_3_46  542_1_ //]
+BEM[]
+
+DWOK04
+CUT[Gdzie sie dzialy one lata]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 195-196]
+FKT[]
+SIG[]
+KEY[K0361a  32  G 3/8]
+MEL[3__3_2_4_6_  5_432__5__  3__3_2_4_6_  5_432__1__
+    3__3_2_4_2_  3__3_2_4_2_  3__3_2_4_6_  5_432__1__ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Chociaz ci ja jezdem chlopek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 196]
+FKT[]
+SIG[]
+KEY[K0362   08  F 2/4]
+MEL[1234  5565  5565  5565
+    5344  33_1  2346  65_0
+    5344  33_1  66-7-7  21_0 //]
+BEM[]
+
+DWOK04
+CUT[Szerokie jest Radziejewo]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 196]
+FKT[]
+SIG[]
+KEY[K0363   16  F 2/4]
+MEL[1_-7_1_2_  3_3_2_34  5_5_6_54  4_3__0_  5_5_5_.4  4_3__0_
+    3_323__  4_4__3_  21-712_3_  1_5__0_
+    3_323__  4_4__3_  2_1_-7_1_  2_1__3_  2_1_-7_1_  2_1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Szorc]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 213]
+FKT[]
+SIG[]
+KEY[K0364   16  C 2/4]
+MEL[+1__5__  +1__^_+1+3  +5__+3_+1_
+    5__0_+1+3  +5_+3_+1_+1_  5___
+    +1_+3_+1_+3_  +2+1765_5_  57+2_57+2_  +5+4+3+2+1_+1_
+    +1_+3_+1_+3_  +2+1765_5_  57+2_57+2_  +5+4+3+2+1__
+    +5_+3+1+5_+3+1  +5_+5+5+5_+3+1  +2_+2+3+4_+2_  +1_+1+2+3_+5_
+    +5_+3+1+5_+3+1  +5_+5+5+5_+3+1  +2_+2+3+4_+27  +1_+3+2+1__ //]
+BEM[]
+
+DWOK04
+CUT[Poszed kozak na rynek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 213-214]
+FKT[]
+SIG[]
+KEY[K0365   16  G 2/4]
+MEL[3_5_5_5_  6_4_4__  4_6_6_7_  7_5_5_3_
+    3_1_123_  4_2_2_4_  3_1_123_  4_2_2__
+    3_1_1_1_  1_234_54  2_-5_-5_-5_  1_3_565_
+    3_1_1_1_  1_23454_  3_5_-5_-5_  1_1_1_1_
+    6_4_4_4_  4_6_+176_  5_3_1_-5_  1_3_5_4_
+    3_1_1_1_  1_23454_  3_5_-5_-5_  1_1_1_1_
+    6_3_4_3_  4_6_+1767  5_3_1_-5_  1_3_5_4_
+    3_1_1_1_  1_23454_  3_5_-5_-5_  1_1_1_1_ //]
+BEM[]
+
+DWOK04
+CUT[Instrumentalna - Szorc]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 214]
+FKT[]
+SIG[]
+KEY[K0366   16  C 2/4]
+MEL[5_+1_+1_+1_  +1_7+1+2_7_  5_+1_5_+1_  +1_7+1+2_7_
+    5_+4_+4__  5_+3_+3__  +4+2756_7_  +1_+3_+6_+5_
+    5_+4_+4__  5_+3_+3__  +4+2756_7_  +1_+1_+1__
+    5_+4_+4__  5_+3_+3__  +4+2756_7_  +1_+3_+6_+5_
+    5_+4_+6__  5_+3_+5__  +4+2756_7_  +1_+1_+1__ //]
+BEM[]
+
+DWOK04
+CUT[Zydoweczko pojdz pod bez]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 215]
+FKT[]
+SIG[]
+KEY[K0367   16  C 2/4]
+MEL[+1_5_+1_5_  +3_+3+2+1__  +1_5_+1_5_  +3_+3+2+1__
+    +2_.+17_6_  5_57+1__  +2_.+17_6_  5_57+1__
+    +2_.+17_6_  5_+5_+4#_+5_  +2_.+17_6_  5_57+1__
+    +2_7_+4__  +3_+5_+1__  +2_.+17_5_  +1_+3_+5__
+    +2_7_+4__  +3_+5_+1__  +2_.+17_5_  +1_+1_+1__ //]
+BEM[]
+
+DWOK04
+CUT[Zydoweczko co tam masz]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 215]
+FKT[]
+SIG[]
+KEY[K0368   16  C 2/4]
+MEL[+1_5_+1_5_  +4_+3_+1__  +3_5_+1_5_  +4_+4+3+1__
+    +2_.+17_6_  5_+4#_+5__  +2_.+17_6_  5_5_+1__
+    7_.+27_5_  +1_+5_+3_+1_  7_.+27_5_  +4_+3_+1__
+    7_.+27_5_  +1_+5_+1__  7_+2_5__  5_7_+1__ //]
+BEM[]
+
+DWOK04
+CUT[Instrumentalna - Polka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 216]
+FKT[]
+SIG[]
+KEY[K0369   16  C 2/4]
+MEL[+4_.+3+2_+2_  +2_+1_7_6_  567+1+2_7_  +1_+3_+6_+5_
+    +4_.+3+2_+2_  +2_+1_7_6_  567+1+2_7_  +1_+1_+1__
+    +4_.+3+2_5_  +3_.+2+1_5_  +2_.+17_5_  +1_+3_+6_+5_
+    +4_+3_+2_5_  +3_+2_+1_5_  +2_+1_7_5_  +1_+1_+1__ //]
+BEM[]
+
+DWOK04
+CUT[Polka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 216]
+FKT[]
+SIG[]
+KEY[K0369a  16  C 2/4]
+MEL[+4_.+3+2_+2_  +2+3+2+17_6_  567+1+2_7_  +1_+3_+6_+5_
+    +4_.+3+2_+2_  +2+3+2+17_6_  567+1+2_7_  +1_+1_+1__
+    +4_.+3+2_5_  +3_.+2+1_5_  +2_.+17_5_  +17+1+3+6_+5_
+    +4+5+4+3+2_5_  +3+4+3+2+1_5_  +2+3+2+17_5_  +1_+1_+1__ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Instrumentalna - Szosz]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 216]
+FKT[]
+SIG[]
+KEY[K0370   16  C 2/4]
+MEL[+2+1765_5_  6_5_6_5_  135+1+3_+3_  5_+1+3+5_+5_
+    +2+1765_5_  6_5_6_5_  135+1+3_+27  +1_+17+1__
+    +4_+4_+6_+6_  +5_+5_+3_+3_  +5__+3_+1_  +4+3+2+17+1+2+3
+    +4_+4_+6_+6_  +5_+5_+3_+3_  +5_+5_+3_+27  +1_+17+1__ //]
+BEM[]
+
+DWOK04
+CUT[Instrumentalna - Polka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 217]
+FKT[]
+SIG[]
+KEY[K0371   16  F 2/4]
+MEL[+1_+1_5_3_  4_4_2_-7_  2_21#2_4_  4_3_323_
+    +1_+1_5_3_  4_4_2_-7_  2_6_5_4_  4_3_321_
+    6_.+27+1+2+1  6_.+1654_  +1_7b_7b65_  7b_6_654_
+    6_.+17+1+2+1  6_+1_654_  1_7b_6_5_  5_4_4__
+    6_.+27+1+2+1  6_.+1654_  +1_7b_7b65_  7b_6_654_
+    6_.+17+1+2+1  6_+1_654_  1_7b_6_5_  5_4_434_ //]
+BEM[]
+
+DWOK04
+CUT[Szorcfilisacki]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 217]
+FKT[]
+SIG[]
+KEY[K0372   16  F 2/4]
+MEL[5__+1_3_  4_2_-7_2_  4_346_5_  5_4_343_
+    5__+1_3_  4_2_-7_2_  4_346_5_  5_4_343_
+    123_234_  3_5_5_5_  2_4_4_4_  1_3_3_3_
+    123_234_  3_5_5_5_  6_5_4_2-7  1_1_1__
+    -7_2_4_.2  1__3_1_  -7_2_4_.2  1_1_1__
+    -7_2_4_.2  1__3_1_  -7_2_4_.2  1_1_1__ //]
+BEM[]
+
+DWOK04
+CUT[Szorc]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 218]
+FKT[]
+SIG[04037300001]
+KEY[K0373   16  F 2/4]
+MEL[-7_2_4_6_  6_5_5_1_  3_2_4_-7_  2_1_1_0_
+    -7_2_4_6_  6_3_5_1_  3_2_4_-7_  2_1_3_-5_
+    -7_-7_-7__  1_1_1__  3_2_4_6_  6_5_5_1_
+    -7_-7_-7__  1_1_1__  3_2_4_-7_  2_1_1_0_
+    -7_-7_-7__  1_1_1__  3_2_4_6_  6_5_5_1_
+    -5_-7_-7__  1_3_3__  3_2_4_-7_  2_1_1_0_
+    5_5_7b_+2_  6_4_6_4_  6_5_7b_3_  3_4_6_4_
+    5_5_7b_+2_  +3_+1_6_4_  6_5_7b_3_  3_4_6_4_
+    5_7b_5_7b_  6_+1_+1__  5_7b_7b__  4_6_6__
+    5_5_7b_7b_  6_6_+1__  +2_+1_7b_3_  3_4_4__
+    5_7b_5_7b_  6_+1_+1__  5_7b_7b__  4_6_6__
+    5_5_7b_7b_  6_6_+1_+1_  +2_+1_7b_3_  3_4_4__ //]
+BEM[U Kolberga w t. 10 i 18 błędny zapis rytmu: 111__]
+
+DWOK04
+CUT[Szorc]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 218, od Chodcza (Choceń)]
+FKT[]
+SIG[04037300002]
+KEY[K0373   16  F 2/4]
+MEL[-7_2_4_6_  6_5_5_1_  3_2_4_-7_  2_1_1_0_
+    -7_2_4_6_  6_3_5_1_  3_2_4_-7_  2_1_3_-5_
+    -7_-7_-7__  1_1_1__  3_2_4_6_  6_5_5_1_
+    -7_-7_-7__  1_1_1__  3_2_4_-7_  2_1_1_0_
+    -7_-7_-7__  1_1_1__  3_2_4_6_  6_5_5_1_
+    -5_-7_-7__  1_3_3__  3_2_4_-7_  2_1_1_0_
+    5_5_7b_+2_  6_4_6_4_  6_5_7b_3_  3_4_6_4_
+    5_5_7b_+2_  +3_+1_6_4_  6_5_7b_3_  3_4_6_4_
+    5_7b_5_7b_  6_+1_+1__  5_7b_7b__  4_6_6__
+    5_5_7b_7b_  6_6_+1__  +2_+1_7b_3_  3_4_4__
+    5_7b_5_7b_  6_+1_+1__  5_7b_7b__  4_6_6__
+    5_5_7b_7b_  6_6_+1_+1_  +2_+1_7b_3_  3_4_4__ //]
+BEM[U Kolberga w t. 10 i 18 błędny zapis rytmu: 111__]
+
+DWOK04
+CUT[Flis]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 218]
+FKT[]
+SIG[]
+KEY[K0374   16  A 2/4]
+MEL[5__1__  5_4_2__  -7_-5_-7_2_  4_3_1__
+    1_3_1_3_  3_4_2__  -7_-5_-7_2_  4_3_1__
+    5_3_1__  5_4_2__  -7_-5_-7_2_  4_3_1__
+    1_3_1_3_  3_4_2__  -7_-5_-7_2_  4_3_1__
+    355_5_4_  3_1_1_1_  134_4_54  2_-7_-5_-5_
+    -5_1_1__  3_1_3_1_  3_4_4_54  2_-7_-5_-5_
+    -5_1_1__  3_1_3_1_  3_4_4_54  2_-7_1__ //]
+BEM[]
+
+DWOK04
+CUT[Moja gospodyni]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 219]
+FKT[]
+SIG[]
+KEY[K0375   16  G 2/4]
+MEL[5__5_43  1_3_2__  5__4_32  1_-7_-5__
+    1_1_2_4_  3_3_2__  1_3_2_4_  3_1-7-5__
+    5__5_43  1_3_2__  5__4_32  1_-7_-5__
+    1_1_2_4_  3_3_2_2-7  1_3_2_4_  3_1-7-5__ //]
+BEM[]
+
+DWOK04
+CUT[Instrumetalna. Polka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 219, od Kowala]
+FKT[]
+SIG[0437600010]
+KEY[K0376a  16  C 2/4]
+MEL[0_+3_  +5__.+3_  +5__.+3_
+    +2_+4_+4_+2_  +3_+3_+3_+1_  +2_7_5_67  +1_+1_+3_+5_
+    ^_+4_+4_+2_  +3_+3_+3_+1_  +2_7_5_67  +1_+1_+1__
+    +5__.+3_  +5__.+3_
+    +2_+4_+4_+2_  +3_+3_+3_+1_  +2_7_5_67  +1_+1_+3_+5_
+    ^_+4_+4_+2_  +3_+3_+3_+1_  +2_7_5_67  +1_+1_+1__ //]
+BEM[]
+
+DWOK04
+CUT[Instrumetalna. Polka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 219, od Kowala]
+FKT[]
+SIG[0437600020]
+KEY[K0376b  16  G 2/4]
+MEL[0_2_4_6_  6_5_5_3_  565_4_2_  1_1_3_3_
+    ^_2_4_6_  6_5_5_3_  565_4_2_  1_1_1__ //]
+BEM[]
+
+DWOK04
+CUT[Instrumentalna - Polka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 219-220]
+FKT[]
+SIG[]
+KEY[K0377   16 Bb 2/4]
+MEL[1_.-7b-6_-6_  -5_-7b21_1_  1_.-7b-6_-6_  -7b_-5_-4__
+    1_.-7b-6_-4_  -7b_-7b_1_1_  1_.-7b-6_-6_  -5_-5-3-4__
+    4567b+1_6_  5_.34_4_  4567b+1_6_  5_.31__
+    5_.43_1_  4_6_5_1_  5_4_3_1_  4_6_5__
+    1_.35_5_  1_1_3_3_  45432343  21-7-6-5-6-7-5
+    12345_5_  1_1_3__  -7_2_-7_2_  -5_-5_1__
+    3_4_5_5_  1_1_3__  -7_2_1_-5_  -5_-5_1__
+    -5-6-712_3_  1_-5_1__  -7_1_2_3_  1_1_1__
+    -5-6-712_3_  -5_-5_1_-5_  -7_1_2_3_  1_-5_1__ //]
+BEM[]
+
+DWOK04
+CUT[Skoczek u Hocy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 220]
+FKT[]
+SIG[]
+KEY[K0378   16  C 2/4]
+MEL[+2_+4_+3_+1_  +275_+1__  +2+4+6_+3_+1_  +275_+1__
+    +2_+4_+3_+1_  +275_+1__  +2+4+6_+3_+1_  +275_5__
+    +2+4+5+4+3_+1_  +175_+1+3+5++1  +6_+6_+5__  +6_+6_+5__
+    +6_+6_+5_++1_  +6_+6_+5__  +6_+4_+3_+1_  +2_+4_+3_+1_
+    +275_+1+3+5_  +2_+4_+3_+1_  +275_+1+3+5_
+    +275_+1+3+5_  +275_+1+3+5_  +275_+1__
+    +2+4+5+4+3_+1_  +175_+1+3+5++1  +6_+6_+5__  +6_+6_+5__
+    +6_+6_+5_++1_  +6_+6_+5__  +6_+4_+3_+1_  +2_+4_+3_+1_
+    +275_+1+3+5_  +2_+4_+3_+1_  +2+4+6_+1+3+5_
+    +275_+1+3+5_  +275_+1+3+5_  +275_5__ //]
+BEM[]
+
+DWOK04
+CUT[Pytala sie matka cory]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 221]
+FKT[]
+SIG[]
+KEY[K0379   16  G 2/4]
+MEL[5_5_5_5_  3_5_5_4_  3_3_543_  3_1_1-7-5_
+    -5_-7_1_2_  -5_321__  3_5_4_3_  1_-7_-5__
+    -5_-7_1_2_  -5_321__  236_543_  1_-7_-5__ //]
+BEM[]
+
+DWOK04
+CUT[A pod borem orywat]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 221]
+FKT[]
+SIG[]
+KEY[K0380   16  C 2/4]
+MEL[5_7_+1_+2_  +3_7_+1_.6  5_6_5_7_  +2_7_+1__
+    5_7_+1_+2_  +3_7_+1__  6_6_5_7_  +2_7_+1__
+    5_7_+1__  6_57+1__  5_7_+1__  +2_7_+1__ //]
+BEM[]
+
+DWOK04
+CUT[Da moj bracie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 221-222]
+FKT[]
+SIG[0438100010]
+KEY[K0381  08  C 2/4 3/4]
+MEL[57+1+2  +3+4+5+3+1_  +4+27+2  +3+164#5_
+    57+1+2  +3+4+5+3+1_  +4+27+2  +3+164#5_ //]
+BEM[Część wokalna]
+
+DWOK04
+CUT[Da moj bracie. Chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 222, od Lubienia]
+FKT[]
+SIG[04038100021]
+KEY[K0381  08  C 3/4]
+MEL[0_57+1+2  +3+4+5+3+1_  ^_+4+27+2  +3+164#5_
+    5_57+1_  +3+4+5+3+1_  +4_+2_7+2  +3+164#5_ //]
+BEM[Część instrumentalna]
+
+DWOK04
+CUT[Da moj bracie. Chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 222]
+FKT[]
+SIG[040381000022]
+KEY[K0381  08  C 3/4]
+MEL[0_57+1+2  +3+4+5+3+1_  ^_+4+27+2  +3+164#5_
+    5_57+1_  +3+4+5+3+1_  +4_+2_7+2  +3+164#5_ //]
+BEM[Część instrumentalna]
+
+DWOK04
+CUT[Matusia mnie tu przyslala]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 222]
+FKT[]
+SIG[]
+KEY[K0382   16  C 2/4]
+MEL[57+2_+3_+1_  +4#+2+2_+5+3+1_  57+2_+3_+1_  +4#+2+2_+1__
+    +4_+4_+3_+5_  57+2_+1+3+5_  +4_+4_+3_5_  57+2_+1__ //]
+BEM[]
+
+DWOK04
+CUT[Hocy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 222]
+FKT[]
+SIG[]
+KEY[K0383   16  G 2/4]
+MEL[35+1_35+1_  7_2_4_4_  35+1_35+1_  7_2_1__
+    35+1_35+1_  7_2_4_4_  35+1_35+1_  7_2_1__
+    1_333_55  5_4_2__  1_333_55  5_4_2_1_
+    1_333_55  5_4_2_7_  1_333_55  5_4_2_1_ //]
+BEM[]
+
+DWOK04
+CUT[Skoczek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 223]
+FKT[]
+SIG[]
+KEY[K0384   16  C 2/4]
+MEL[+1+3+5_^_+4+6  +3_+5_^_+4+2  +1+3+5_^_+4+6  +3_+1_+2__
+    +1+3+5_^_+4+6  +3_+5_^_+4+2  +1+3+5_^_+4+6  +3_+1_+2_5_
+    +1+2+3_+4_+2+4  +4_+1_+4_+2_  +1+2+3_+4_+2+4  +3_+1_7__
+    +1+2+3_+4_+2+4  +4_+1_+4_+2_  +1+2+3_+4_+2+4  +3_+1_7_5_
+    5_5_^7+2_  +3_+1_+2__  5_5_^7+2_  +3_+1_7__
+    5_5_^7+2_  +3_+1_+2_5_  5_5_^7+2_  +3_+1_7_5_ //]
+BEM[]
+
+DWOK04
+CUT[Instrumentalna - Polka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 223]
+FKT[]
+SIG[]
+KEY[K0385   16  G 2/4]
+MEL[3_234_3_  5_6_543_  3_234_3_  1_2_-6_-5_
+    3_234_3_  5_6_543_  3_234_3_  1_1-7-6__
+    3_234_3_  1_2_-6_-5_  3_234_3_  1_1-7-6_0_
+    3_234_3_  1_2_-6_-5_  3_234_3_  1_1-7-6_0_ //]
+BEM[]
+
+DWOK04
+CUT[Uciekala hyc po rowie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 223]
+FKT[]
+SIG[]
+KEY[K0386   16 Bb 2/4]
+MEL[1_3_2_2_  3_5_6_.4  3_1_2_.-7  -6_-6_-5_-7_
+    1_3_2_.1  -6_-6_-5_.5  3_1_2_.-7  -6_-6_-5_-7_
+    1_3_2_.1  -6_-6_-5_.5  3_1_2_.-7  -6_-6_-5_-7_ //]
+BEM[]
+
+DWOK04
+CUT[Da i chodzi tam]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 224]
+FKT[]
+SIG[]
+KEY[K0387   16  G 2/4]
+MEL[234_5_5_  7_625_31  234_5_5_  7_625_31
+    223_3_31  2_4_6_53  223_3_31  2_4_6_1_ //]
+BEM[]
+
+DWOK04
+CUT[Instrumentalna - Polka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 224]
+FKT[]
+SIG[]
+KEY[K0388   16  F 2/4]
+MEL[2_4_5__  5_2_5__  2_-7_1__  2_4_5__
+    4_231__  2_2_1__  4_4_1__  ^_3_5__
+    2_2-71__  4_341__  ^_3_1__  2_2_1__ //]
+BEM[]
+
+DWOK04
+CUT[Jak się będę żenił. Krakowiak]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 224-225, od Osięcin (Bodzanowo bach)]
+FKT[]
+SIG[0438900000]
+KEY[K0389   16  A 2/4]
+MEL[23b5_4_3b_  2_1__0_
+    -7b_-7b_-7b_.1  3b_5__0_
+    7b6b5_4_.3b  2_1__0_
+    -7b_-7b_-7b_1_  3b_2__0_
+    -7b_-7b_-7b_1_  3b_2__0_
+    4_3b_-7b_.1  3b_5__0_
+    -7b_-7b_-7b_1_  3b_2__0_
+    4_3b_-7b_1_  2_1__0_ //]
+BEM[U Kolberga błąd w zapisie rytmu t. 6: 2_1__.0_]
+
+DWOK04
+CUT[Krakowiak]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 225]
+FKT[]
+SIG[]
+KEY[K0390   08  G 2/4]
+MEL[4666  53_.  564-7  13_0
+    4666  53_5  564-7  11_0
+    2-7-7-7  11_3  5542  13_1
+    2-7-72  13_5  564-7  11_0
+    2-726  53_5  464-7
+    13_5  654-7  11_. //]
+BEM[]
+
+DWOK04
+CUT[Z tamtej strony Wisły. Krakowiak]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 225-226, od Kowala (Chodcza)]
+FKT[]
+SIG[0439100001]
+KEY[K0391a  16  C 2/4]
+MEL[5_5_+1__  +1_7__5_  57+2_+4__  +5_+3__+1_
+    5_5_+1__  +1_7__5_  7_+2_+4__  +4_+3__+1_
+    5_5_+1__  +1_7__5_  57+2_+4__  +4+5+3__+1_
+    5_5_+1__  +177__5_  7_+2_+4__  +4_+3__+1_
+    5_5_+1_+2_  7_7_7_5_  5_5_+4__  +3_+3__+1_
+    +3_+5_+1__  +1_7__5_  5_7_+2__  +2+3+1__.
+    +1_5_5__  3_2__4_  6_+1_7__  5_+1__+2_
+    +3_+5_+1__  +1_7__5_  5_7_+2__  +2+3+1__0_ //]
+BEM[]
+
+DWOK04
+CUT[Z tamtej strony Wisły. Krakowiak]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 225-226. od Kowala (Chodcza)]
+FKT[]
+SIG[0439100002]
+KEY[K0391b  16  C 2/4]
+MEL[5_5_+1__  +1_7__5_  57+2_+4__  +5_+3__+1_
+    5_5_+1__  +1_7__5_  7_+2_+4__  +4_+3__+1_
+    5_5_+1__  +1_7__5_  57+2_+4__  +4+5+3__+1_
+    5_5_+1__  +177__5_  7_+2_+4__  +4_+3__+1_
+    5_5_+1_+2_  7_7_7_5_  5_5_+4__  +4+3+3__+1_
+    +5_+5_+1_+1_  +177__5_  5_7_+2__  +2+3+1__5_
+    +1_5_5__  3_2__4_  6_+1_7__  5_+1__+2_
+    +3+4+5_+1__  +1_7__55  5_7_+2__  +2+3+1__0_ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Po głębokiej wodzie pływają łabędzie. Krakowiak]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 226-227, od Przedcza, Kłodawy]
+FKT[]
+SIG[0439200010]
+KEY[K0392a  16  G 2/4]
+MEL[3b_5__5_  5_5_5__  3b_23b43b23b  2_2_-5__
+    -5_-5__-7_  1_3b_3b__  5_5__4_  3b_3b_2__
+    -5_-5__-7_  1_3b21__  3b_5__4_  3b_3b21__
+    3b_5__5_  56b54#5__  3b_23b43b23b  2_2_-5__
+    -5_-5__-7_  1_3b23b__  6b55__4_  3b_3b_2__
+    -5_-5__-7_  1_3b21__  3b_5__4_  3b_3b21__ //]
+BEM[]
+
+DWOK04
+CUT[Po głębokiej wodzie pływają łabędzie. Krakowiak]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 226-227, od Przedcza, Kłodawy]
+FKT[]
+SIG[0439200020]
+KEY[K0392b  16  G 2/4]
+MEL[3b_5__3b_  4_4_4_2_  4_3b_2_3b_  4__5__
+    3b_5__5_  4_4__2_  2_4__5_  3b_2_1__
+    1_3b__3b_  2_4__2_  1_5__4_  3b_2_1__
+    3b_5__5_  4_4__2_  2_4__5_  3b_2_1__
+    1_3b__3b_  2_4__2_  1_5__4_  3b_2_1__
+    1_-7121-71  -7_-7_-5__  43b23b43b23b  4__5__ //]
+BEM[]
+
+DWOK04
+CUT[Owczarek]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 227-228]
+FKT[]
+SIG[]
+KEY[K0393   08  G 2/4]
+MEL[535_  467_  6545  6_1_
+    535_  467_  6_54  321_
+    535_  467_  6545  6_1_
+    535_  467_  6_54  321_
+    535_  46_.  1_44
+    535_  465_  1__
+    535_  467_  6_54
+    535_  465_  1__
+    535_  6_54  321_
+    535_  465_  1__ //]
+BEM[]
+
+DWOK04
+CUT[Siwy konik]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 228]
+FKT[]
+SIG[]
+KEY[K0394   16  C 2/4]
+MEL[+1_7_+1_+2_  +3__+2_+1_  +1_+5_+4#_+6_  +5_5__0_
+    +1_7_+1_+2_  +3_+3_+2_7_  +1_7_6_+4_  +2__7_5_
+    +1_7_+1_+2_  +3_+3_+2_7_  6_7_6_+4_  +2__7_5_
+    +1_7_+1_+2_  +3_+3_+2_+1_  +5_+5_+4#_+6_  +5_5__0_
+    +1_7_+1_+2_  +3_+3_+2_7_  +1_7_6_+4_  +2__+1765
+    +1_7_+1_+2_  +3_+3_+2_7_  +167_6_+4_  +2__7_5_
+    +1_7_+1_+2_  +3___  6_+4_+2_75  +5__+5+4+3+2
+    +1_7_+1_+2_  +3_+4_+3_+2_  5_+4_+2_75  +1__0__ //]
+BEM[]
+
+DWOK04
+CUT[A czy widzisz ty Kruswice]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 229]
+FKT[]
+SIG[]
+KEY[K0395   32  G 3/8]
+MEL[-5___.  -5___.  5__5__5_6_  5_4_2__5__  5__5__5_6_  5_4_2__1__
+    1__1_3_5_4_  2_4_6__5__  1__1_3_5_4_  2_4_2__1__
+    5__5_3_5_7_  6_4_2__4__  5__5_3_5_7_  6_4_2__1__
+    -5_-6-71__3_5_  5_4_(-5_-7_2_)6_5_  -5_-6-71__.3_  4_-5_-7__1__
+    -5_-6-71__3_5_  5_4_(-5_-7_2_)6_5_  -5_-6-71__.3_  4_-5_-7__1__
+    3__3__5__  2_4#_5__.2_  3__3__5__  2_-7_1__-5__
+    -5_-7_1__5__  2_4_5__.2_  -5_-7_1__5__  2_4_2__1__ //]
+BEM[]
+
+DWOK04
+CUT[A czy widzisz ty Kruswice]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 229]
+FKT[]
+SIG[]
+KEY[K0395a  32  G 3/8]
+MEL[-5___.  -5___.  5__5_4#_5_6_  5_4_2__6__  5__5_4#_5_6_  5_4_2__1__
+    1__1_3_5_6_  424_6__5__  1__1_3_5_4_  2_4_2__1__
+    5__5_3_5_7_  6_542__3_4_  5__5_3_5_7_  6_542__1__
+    -5_-6-71__3_5_  6_542_4_6_5_  -5_-6-71__.3_  5_4_2__1__
+    -5_-6-71__3_5_  6_542_4_6_5_  -5_-6-71__.3_  5_4_2__1__
+    3_3_3__5__  2_4#_5__.2_  3_1_3__5__  2_-7_1__-5__
+    -5_-7_1__5__  2_4_5__.2_  3_1_3__5__  2_4_2__1__ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Kujawiak ci ja dziewczyno]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 229]
+FKT[]
+SIG[]
+KEY[K0396   32  G 3/8]
+MEL[5_5_6__4__  5_4_2__6__  5_5_6__3__  5_4_2_3_1__
+    -5_-7_1__2_3_  4_3_2__4__  3_2_1__3_5_  4_2_-7__1__
+    5_7_+1__.7_  5_4_2__+2__  5_7_+1__.7_  5_4_2__4_3_
+    -5_-7_1__.3_  2_4_6__4_3_  -5_-7_1__.3_
+    5_4_2__7__  +1_7_2__.4_  5_432__7__  +1_762__.4_  5_4_2__4_3_
+    -5_-7_1_3_5_6_  5_432__5_3_  1__1__5_6_  5_432__4_3_
+    -5_-7_1_3_5_6_  5_432__5_3_  1__1__5_6_  5_432__4_3_ //]
+BEM[]
+
+DWOK04
+CUT[Obertas. Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 230, od Radziejowa (Płowce)]
+FKT[]
+SIG[0439700000]
+KEY[K0397   32  F 3/8]
+MEL[+1__7_6_5_4_  2_7_+2__+1__  +1__7_6_5_4_  2_4_2__1__
+    1_3_5__.3_  4__6__5__  1_3_5__.4_  2_4_2__1__
+    (+1_7_6_)5__(4_3_2_)  (2_3_4_)6__5__  (+1_7_6_)5__(4_3_2_)  (2_3_4_)6__5__
+    (+1_7_6_)5__(4_3_2_)  (2_3_4_)6__5__  (+1_7_6_)5__(4_3_2_)  (2_3_4_)2__1__
+    (1_2_3_)5_5_0_1_  (1_2_3_)4_6_6_5_  (1_2_3_)5_5_0_1_  (1_2_3_)2__1__
+    +1__7_6_5_4_  2_7_+2__+1__  +1__7_6_5_4_  2_4_2__1__
+    1_3_5__.3_  4__6__5__  1_3_5__.4_  2_4_2__1__
+    (+1_7_6_)5__(4_3_2_)  (2_3_4_)6__5__  (+1_7_6_)5__(4_3_2_)  (2_3_4_)6__5__
+    (+1_7_6_)5__(4_3_2_)  (2_3_4_)6__5__  (+1_7_6_)5__(4_3_2_)  (2_3_4_)2__1__
+    (1_2_3_)5_5_0_1_  (1_2_3_)4_6_6_5_  (1_2_3_)5_5_0_1_  (1_2_3_)2__1__ //]
+BEM[]
+
+DWOK04
+CUT[Sterego ja meza miala]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 230-231]
+FKT[]
+SIG[]
+KEY[K0398   32  G 3/8]
+MEL[1__1__1__  1__1__1__  1__3__3_5_  5_4#_2__5__  1__3__3_5_  5_4#_2__-7__
+    1__3__1_-7_  -5_-7_2__4_2_  1__3__1_-6_  -5_-7_2__-5__
+    -5_-7_1__1_-6_  -5_-7_2__(4_3_2_)  -5_-7_1__(2_-7_-6_)  -5_-7_2__-5__
+    -5_-7_1__2_4#_  5_4#_2__5__  -5_-7_1__2_4#_  5_4_2__1__
+    -5_-7_1__2_4_  2_1_3__3__  2_1-71__2_4_  2_1_3__1__ //]
+BEM[]
+
+DWOK04
+CUT[Oj napijmy sie wujku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 231]
+FKT[]
+SIG[0439900001]
+KEY[K0399   32  F 3/8]
+MEL[1__3__5__  6_4_2__5__  1__3__5__  6_4_2__1__
+    1__3__3__  2_4_2__5__  1__3__3__  2_4_2__1__
+    4_6_+1__+1__  +2_7b_5__+1__  4_6_+1__+1__  +2_7b_5__3__
+    4_5_4__4__  3_5_+1__5__  4_5_4__4__  6_7b_5__3__
+    4_67b+1__+1__  +2__+17b5_+2_5_  4_67b+1__+1__  +2__6__653_
+    4__432_1_1_  1__235_+1_3_  4__(4_3_2_)1_1_  1_2_3_5_431_
+    1_3_2__2__  (3_4_6_)6__5__  4_2_2__2__  1_3_1__1__
+    (-5_1_3_)2__2__  3_3_6_5_6__  (3_2_1_)2__2__  1_3_1__1__ //]
+BEM[]
+
+DWOK04
+CUT[Oj napijmy sie wujku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 231]
+FKT[]
+SIG[0439900002]
+KEY[K0399a  32  F 3/8]
+MEL[1__3__5__  6_4_2__5__  1__3__5__  6_4_2__1__
+    1__3__3__  2_4_2__5__  1__3__3__  2_4_2__1__
+    4_67b+1__+1__  +2_7b_5__+1__  4_67b+1__+1__  +2_7b_5__3__
+    4_654__4__  3456+1__5__  45654__4__  67b+17b5__3__
+    4_67b+1__+1__  +2__+17b5_+2_53  4_67b+1__+1__  +2__6__653_
+    4__432_1_1_  1__235_+1_5_  4__(4_3_2_)1_1_  1_2_3_5_431_
+    1_3_2__2__  (3_4_6_)6__5__  43232__2__  12341__1__
+    (-5_1_3_)2__2__  3_3_6_5_6__  43212__2__  12341__1__ //]
+BEM[]
+
+DWOK04
+CUT[Do ciebie jade da jade]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 232]
+FKT[]
+SIG[]
+KEY[K0400   16  D 3/8]
+MEL[2_4346  +175_+1_  2_4346  +175_.3
+    2_4342  135_+1_  +1_642-7  135_.3
+    2_4346  135_+1_  +1_642-7  135_.3
+    1_0_+6+5  +4+3+1_+6b+5  +4+3+1_+6+5  +4+3+4_(+2b+17b)
+    +4+44_.6  7b+1+2b_+1+2b  +4+44_.6  7b+1+2b_+17b
+    1_0_+6+5  +4+3+1_+6b+5  +4+3+1_+6+5  +4+3+4_(+2b+17b)
+    +4+44_.6  7b+1+2b_+1+2b  +4+44_.6  7b+1+2b_+17b
+    6_.42-7  135_+1_  +1_642-7  135_3_
+    6_.42-7  135_+1_  +1_642-7  135_3_ //]
+BEM[]
+
+DWOK04
+CUT[Na moście trawka rośnie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 233, od Gniewkowa (Ostrowo)]
+FKT[]
+SIG[0440100011]
+KEY[K0401   16  G 3/8]
+MEL[5__6_  6-71_3_  5__6_  6-72_1_
+    5_5_6_  6-71_3_  5_5_6_  6-72_1_
+    -513_4_  3-71_3_  -513_4_  3-71_3_
+    -513_54  3-72_1_ //]
+BEM[]
+
+DWOK04
+CUT[Na moście trawka rośnie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 233, od Gniewkowa (Ostrowo)]
+FKT[]
+SIG[0440100012]
+KEY[K0401   16  G 3/8]
+MEL[5__6_  6-71_3_  5__6_  6-72_1_
+    5_5_6_  6-71_34#  556__  6-72_1_
+    -51324_  3-71_-5_  -51324_  3-71-713
+    -513254  3-72_1_ //]
+BEM[]
+
+DWOK04
+CUT[Na moście trawka rośnie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 233, od Gniewkowa (Ostrowo)]
+FKT[]
+SIG[0440100021]
+KEY[K0401   16  G 3/8]
+MEL[464_4_  (567)6_5_  464_4_  (45-7)2_1_
+    (-5-71)3_43  (13-7)1_43  (-5-71)3_43  (143)-7_1_ //]
+BEM[]
+
+DWOK04
+CUT[Na moście trawka rośnie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 233, od Gniewkowa (Ostrowo)]
+FKT[]
+SIG[0440100022]
+KEY[K0401   16  G 3/8]
+MEL[464_(434)  (567)6_5_  464_(434)  (45-7)2_1_
+    (-5-71)3_43  (13-7)1_43  (-5-71)3_43  (143)-7_1_ //]
+BEM[]
+
+DWOK04
+CUT[Od naszego jasniepana]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 233]
+FKT[]
+SIG[]
+KEY[K0402   16  G 3/8]
+MEL[5_5_54#  24#5_3_  5_5_54  22-7_-5_
+    -5-71_3_  324_3_  1_1_35  643_5_  2_2135  643_1_
+    -5-71_3_  324_3_  3_1_35  643_5_  2_2135  643_1_ //]
+BEM[]
+
+DWOK04
+CUT[Oj tuli tulineczku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 234, od Gniewkowa]
+FKT[]
+SIG[0440300000]
+KEY[K0403   16  D 3/8]
+MEL[+5_.+3+4+2  +1+3+2_+6_  +5_.+3+4+2  +1+3+2_5_
+    5_.7+16  754#_6_  +2_+27+16  754#_2_
+    4#65_5_  6+1#+2_7_  64#5_5_  6+17_5_
+    57+2+36+1  7_+2_+16  57+2+36+1  7_54#32
+    5_7_6_  576_6_  57+1_+3_  +3+2+1765
+    57+2+36+1  7_+2_+16  57+2+36+1  7654#32
+    577_6_  576_6_  57+1_+3_  +3+2+1765 //]
+BEM[takty 1-4 to przygrywka instrumentalna; t. 5-12 melodia wokalna; t. 13-20 mel. instrumentalna]
+
+DWOK04
+CUT[Karczmareczko lij piweczko]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 234-235, od Babiaka]
+FKT[]
+SIG[0440400000]
+KEY[K0404   16  D 3/8]
+MEL[+1+17_7_  +165_.7  +1+17_7_  +165_.3
+    443_3_  421_.3  443_3_  421_.1
+    221_23  443_5_  221_23  443_1_
+    221_23  443_5_  221_23  443_1_
+    5_+4__  +4+4+3_+5_  +2+2+1_+2+3  +4+4+3_+1_
+    5_+4__  +4+4+3_+5_  +2+2+1_+2+3  +4+4+3_+1_
+    +2+4+6_.+2  +4+4+3_+5_  +2+2+1_+2+3  +4+4+3_+1_
+    +2+4+6_.+2  +4+4+3_+5_  +2+2+1_+2+3  +4+4+3_+1_ //]
+BEM[]
+
+DWOK04
+CUT[Obertas]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 235]
+FKT[]
+SIG[]
+KEY[K0405   16  D 3/8]
+MEL[(+176)5_67  (+176)5_67  +1__.  +1__.
+    +1+3+5_+2+4  +3+17_5_  +1+3+5_+2+3  +1__65
+    +1+3+5_+2+4  +3+17_5_  +1+3+5_+2+3  +1__.
+    +1+2+1_64#  675_+5_  (57+2)+1_64#  675_5_
+    7+2+1_64#  675_+5_  (57+2)+1_64#  5__. //]
+BEM[]
+
+DWOK04
+CUT[Cos mi miluska miluska]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 236]
+FKT[]
+SIG[]
+KEY[K0406   16  A 3/8]
+MEL[13b5_7b_  6b54_2_  3b52_.4  3b12_-7_
+    13b5_.2  43b2_1_  13b2_.4  3b12_-7_
+    1_3246  534_.2  1_3242  312_.-7
+    1_3242  356_.2  3_3242  356_.2
+    3_3242  357+164  3_3242  357+164
+    3_3524  3142-7-5 //]
+BEM[]
+
+DWOK04
+CUT[Czemu druchny nie spiwacie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 236]
+FKT[]
+SIG[]
+KEY[K0407   32  F 3/8]
+MEL[2_3_4__7__  6_5_4__1__  3_3_2__4__  3_1_2__-7__
+    1_234__1__  6_5_3__1__  3_3_2__4__  312_2__-7__
+    1_-6-5-5__-7_2_  1_235__2__  1_-6_-5__-7__  1__3__2__ //]
+BEM[]
+
+DWOK04
+CUT[Chodzony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 236-237]
+FKT[]
+SIG[]
+KEY[K0408a  16  G 3/4]
+MEL[-5_1__3_5_6_  7__5_3_2_6_  -5_1_^_3_5_43  2_5_3__21-71
+    -5_1__3_5_6_  7__5_432_6_  -5_1_^_3_5_43  2_5_3__21-71
+    -5-71_^_2_3_1_  2-7-5_^_4_21-7_  -5-71_^_3_5_43  2-7-5_4__21-7_
+    -5-71_^_2_3_1_  2-7-5_^_4_21-7_  -5-71_^_3_5_43  2-7-5_4__21-7_
+    1__32356__  5__2_4_6__  6__5_3_6__  54#321__21-71
+    ^__32356__  5_-5_6__321_  ^__32356__  54#321__21-7-5
+    1__(3_2_1_)(3_4#_5_)  5_-5_5__3_2_  1__(3_2_1_)(3_4#_5_)  54#321__21-7-5
+    1__(3_2_1_)(3_4#_5_)  5_-5_5__3_2_  1__(3_2_1_)(3_4#_5_)  54#321__21-7-5 //]
+BEM[]
+
+DWOK04
+CUT[Brzakaly naleszniki]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 237]
+FKT[]
+SIG[]
+KEY[K0408b  16  G 3/8]
+MEL[135_5_  6_(543)26  5_5_(456)  5_(432)1_
+    -513_52  135_2_  -513_52  1_.32-7
+    -513_(542)  35_62-7  -642_-7-5  35_62-7  642_-7-5
+    1_.32-7  (-6-72)3_-7-5  1_.231 //]
+BEM[]
+
+DWOK04
+CUT[Ciezka to zalosc]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 237]
+FKT[]
+SIG[]
+KEY[K0409   32  G 3/8]
+MEL[2_4_6_7_6__  5_4_2__6__  2_4_6_7_6__  5_4_2__1__
+    3_5_2__1__  5_432__6__  3_5_2__3__  4_3_2__1__
+    2_4_5__6__  +1_6_5__4_3_  4_6_5__4_3_  2_2_5__3__
+    2_6_5__4_3_  1_4_5__6_7_  2_6_5__4_3_  2_2_5__3__
+    1__.2_4__  4_6_7_6_5_3_  1_2_4_6_(5_4_3_)  4_2_5__3__
+    1__.2_4__  5_432__6__  6__5__2_3_  4_3_2__1__ //]
+BEM[]
+
+DWOK04
+CUT[Ciezka to zalosc]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 237]
+FKT[]
+SIG[]
+KEY[K0409a  32  G 3/8]
+MEL[2_4_6_7_6_7_  5_432__6__  2_4_6_7_6_7_  5_432__1__
+    3_5_2__1__  5_432__6__  6_5_2__3__  4_3_2__1__
+    2_4_5__6_7_  +1_6_5__+2__  +1_6_5__4_3_  2_2_5__4_3_
+    4_6_5__4_3_  1_4_5__6_7+1  2_765__4_3_  2_2_5__3__
+    1__.2_4__  4_6_7_6_5_3_  1_2_4_6_(5_4_3_)  4_2_5__3__
+    1__.2_4__  5_432__6__  6__5__2_3_  4_3_2__1__ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[A ino pojde]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 238-239]
+FKT[]
+SIG[0441000000]
+KEY[K0410   32  G 3/8]
+MEL[4_6_7__6__  5_4_6__2__  4_6_7__6__  5__4_3_2_1-7
+    -5__^_-7_1_23  5_432__6__  -5__-5_-7_1_3_  2_4_3_2_1__
+    -5__^_-7_1_23  5_432__4_6_  -5__-5_-7_1_3_  2_4_3_2_1__
+    -5__-5_-7_1__  -5__-5_-7_1__  -5__-5_-7_1_3_  2_4_3_2_1__
+    -5__-5_-7_1__  -5__-5_-7_1__  -5__-5_-7_1_3_  2_4_3_2_1_3_ //]
+BEM[]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 239]
+FKT[]
+SIG[0441100000]
+KEY[K0411   32  G 3/8]
+MEL[2_4_6__6_7_  7_6_5#__6__  2_4_6__6__  7_6_5__3_1_
+    2_4_5__2_-7_  1__^_3_5_6_  2_4_5__2_-7_  1__1__1__ //]
+BEM[Obertas nie wskazany w tytule]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 239]
+FKT[]
+SIG[0441200000]
+KEY[K0412   32  A 3/8]
+MEL[1_3b_5__5__  2_4_5__.3b_  1_3b_5__5__  -5_-7_2__1__
+    1_3b_5__5__  2_6b_5__.3b_  1_3b_5__5__  -5_-7_2__1__
+    2_4_5__1__  2_4_3b__.1_  2_4_5__1__  2_4_3b__.1_
+    2_.45__1_3_  2_.43__1__  2_.45__1_3_  2_4_3__1__
+    (2_3_4_)3__(2_3_4_)  (3_2_3_)6__5__  (2_3_4_)3__(2_3_4_)  (3_2_3_)2__1__
+    (2_3_4_)3__(2_3_4_)  (3_2_3_)6__5__  (2_3_4_)3__(2_3_4_)  (3_2_3_)2__1__ //]
+BEM[Obertas nie wskazany w tytule]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 240]
+FKT[]
+SIG[0441300000]
+KEY[K0413   16  C 3/4]
+MEL[+1_+3_+5_+6_+5_+4#_  +5_+4_+2_+4_+4__  +1_+2_(+3_+4_+3_)+2_+1_  +2_6_5_7_+1__
+    +2_+4_(+3_+4_+3_)+2_+1_  +2_6_5_7_+1__  +2_+4_(+3_+4_+3_)+2_+1_  +2_6_5_7_+1__
+    +1_.+3+5__++1_+7+6  +5_.65__+3_+2_  +1_.+3+5__++1_+7+6  +5_6_5__+3_+2_
+    +1_.+2+3__+4_+3_  +2_.+2+2__+3_+2_  +1_.+2+3__+4_+3_  +2_.+2+2__+3_+2_
+    +3+4+4#+5++1__+6_+2_  +4_+4_+3__+1__  +2_.+2+2__+2_7_  +1_+2_+3_+2_+3__
+    +1_+3_+5_+6_+5_+4#_  +5_+4_+2_+4_+4__  +1_+2_(+3_+4_+3_)+2_+1_  +2_6_5_7_+1__
+    +2_+4_(+3_+4_+3_)+2_+1_  +2_6_5_7_+1__  +2_+4_(+3_+4_+3_)+2_+1_  +2_6_5_7_+1__
+    +1_.+3+5__++1_+7+6  +5_.65__+3_+2_  +1_.+3+5__++1_+7+6  +5_6_5__+3_+2_
+    +1_.+2+3__+4_+3_  +2_.+2+2__+3_+2_  +1_.+2+3__+4_+3_  +2_.+2+2__+3_+2_
+    +3+4+4#+5++1_+6++1+6_+2_  +4_+4_+3__+1__  +2_.+2+2__+2_7_  +1_+2_+3_+2_+3__
+    +2_+2_+2__+3_+2_  +1_+2_+3_+2_+3_+2_  +2_+2_+2__+3_+2_  +1_+2_+3_+2_+3__
+    +3_+3_+3__+4_+3_  +2_+1_+2__+2__  5_7_+2__+4_+6_  +5__0__+4__
+    +3__+3__+4_+3_  +2_+1_+2__+2__  5_7_+2__+2_+3_  +1__0__+2__
+    +3_+5_+2__+4_+2_  +3_+5_+2__+4_+2_  +3_+6_+5__.+4_  +3_+6_+5__.+4_
+    +3__+3__+4_+3_  +2_+1_+2__+2__  5_7_+2__+2_+3_  +1___0__ //]
+BEM[Kujawiak nie wskazany w tytule]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 241, od Radziejowa]
+FKT[]
+SIG[0441400000]
+KEY[K0414   16  C 3/4]
+MEL[+1_+3_+2__+4_+6_  +5_+3_+4__.+2_  +1_.+3+2__+4_+2_  +3_+1_+2__.+2_
+    +1_.+3+2__+4_+2_  +3_+5_+6__.+4_  +1_+3_+2__+4_+2_  +3_+1_+2__.+2_ //]
+BEM[Kujawiak, nie wskazany w tytule]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 241, od Brześcia (Wieniec)]
+FKT[]
+SIG[0441500010]
+KEY[K0415   16  C 3/4]
+MEL[+2_+4+4(+4_+5_+4_)+4_+3_  +2_+4+4+4__+3__  +2_+4+4(+4_+5_+4_)+4_+3_  (+4_+2_7_)7__+1__
+    +2_+4+4(+4_+5_+4_)+4_+3_  +2_+4+4+4__+3__  +2_+4+4(+4_+5_+4_)+4_+3_  (+4_+2_7_)7__+1__
+    (+2_+4_+6_)+5__(+1_+3_+5_)  (+4_+2_7_)+1__+3__  (+2_+4_+6_)+5__(+1_+3_+5_)  (+4_+2_7_)7__+1__
+    (+2_+4_+6_)+5__(+1_+3_+5_)  (+4_+2_7_)+1__+3__  (+2_+4_+6_)+5__(+1_+3_+5_)  (+4_+2_7_)7__+1__ //]
+BEM[Kujawiak, nie wskazany w tytule]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 241, od Brześcia (Wieniec)]
+FKT[]
+SIG[0441500020]
+KEY[K0415   16  G 3/4]
+MEL[(1_2_3_)3_3_3_5_  (2_1_-7_)-6__-6_2_  (1_2_3_)3_3_3_5_  (2_1_-7_)-6__-5__
+    3_.33__3_3_  3_.34__2__  2_.22__(4_3_2_)  1_.23__1__
+    5_7b7b(7b_+1_7b_)7b_6_  5_7b7b7b__6__  5_7b7b(7b_+1_7b_)7b_6_  (7b_5_3_)3__4__
+    5_7b7b(7b_+1_7b_)7b_6_  5_7b7b7b__6__  5_7b7b(7b_+1_7b_)7b_6_  (7b_5_3_)3__4__
+    (5_7b_+2_)+1__(4_6_+1_)  (7b_5_3_)4__6__  (5_7b_+2_)+1__(4_6_+1_)  (7b_5_3_)3__4__
+    (5_7b_+2_)+1__(4_6_+1_)  (7b_5_3_)4__6__  (5_7b_+2_)+1__(4_6_+1_)  (7b_5_3_)3__4__
+    (1_2_3_)3_3_3_5_  (2_1_-7_)-6__-6_2_  (1_2_3_)3_3_3_5_  (2_1_-7_)-6__-5__
+    3_.33__3_3_  3_.34__2__  2_.22__(4_3_2_)  1_.23__1__
+    1_.35__5_5_  4_.46__4__  2_.22__(4_3_2_)  1_.23__1__
+    1_.35__5_5_  4_.46__4__  2_.22__(4_3_2_)  1_.23__1__ //]
+BEM[Kujawiak, nie wskazany w tytule. Liczne dwudźwięki; kodowano górne nuty]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 242, od Brześcia (Wieniec)]
+FKT[]
+SIG[0441600000]
+KEY[K0416   16  D 3/4]
+MEL[+2__+2_+3_+2_5_  +1_+3_+5__+3_+1_  +2__+2_+4_+3_+2_  +3_0+2+1__+2_+1_
+    +2__+2_+3_+2_5_  +1_+3_+5__+3_+1_  +2__+2_+4_+3_+2_  +3_0+2+1__+2_+1_
+    +2_+4_+6__+6_+5#_  +6_.+5#+6__+5_+3_  +2_+4_+6__+5_7_  +1_0+2+3__+2_+1_
+    +2_+4_+6__+6_+5#_  +6_.+5#+6__+5_+3_  +2_+4_+6__+5_7_  +1__+1_+2_+1__ //]
+BEM[Kujawiak, nie wskazany w tytule]
+
+DWOK04
+CUT[Instrumentalna. ]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 242, z pod Lubrańca]
+FKT[]
+SIG[04417]
+KEY[K0417   16  A 3/4]
+MEL[+1__+1__(+2_+3b_+2_)  (+1_7b_6b_)5__.2_  1__1__(2_1_2_)  (5_4_3b_)1___
+    +1__+1__(+2_+3b_+2_)  (+1_7b_6b_)5__.2_  1__1__(2_1_2_)  (5_4_3b_)1___
+    (-5_-7_2_)4_4_3b_2_  1_5_(3b_3b_2_)1__  (-5_-7_2_)4_4_3b_2_  1_-7_1___
+    (-5_-7_2_)4_4_3b_2_  1_5_(3b_3b_2_)1__  (-5_-7_2_)4_4_3b_2_  1_-7_1___
+    2__2_6_5_1_  2_6_5__.3_  2__2_6_5_1_  2_4_3__1__
+    2__2_6_5_1_  2_6_5__.3_  2__2_6_5_1_  2_4_3__1__
+    (-5_-7_2_)4_5_3_1_  2_.53__1__  (-5_-7_2_)4_5_3_1_  2_.43__1__
+    (-5_-7_2_)4_5_3_1_  2_.53__1__  (-5_-7_2_)4_5_3_1_  2_.43__1__ //]
+BEM[Mazur, nie wskazany w tytule. Dwudźwięki]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 242-243]
+FKT[]
+SIG[0441800000]
+KEY[K0418   32  D 3/4]
+MEL[+1__+3b__(+3b__+4__+3b__)+2__+1__  +4__+6b__++1__+4__+5___
+    +1__+3b__+3b__+1__+3b__+5__  +2__7__5__7__+1___
+    +1__+3b__(+3b__+4__+3b__)+2__+1__  +4__+6b__++1__+4__+5___
+    +1__+3b__+3b__+1__+3b__+5__  +2__7__5__7__+1___
+    +5__5__(+4__+5__+4__)+3__+1__  +5__5__(+4__+5__+4__)+3__+1__  +2__5__+2__+4__+3__.+1_  +2__.+4_+3___+1___
+    +2__5__+2__+4__+3__.+1_  +2__.+4_+3___+1___  +2+2+3_+4_+6_+2___+4__+3__  +2__+4__+3___+1___
+    +1__+3b__(+3b__+4__+3b__)+2__+1__  +4__+6b__++1__+4__+5___
+    +1__+3b__+3b__+1__+3b__+5__  +2__7__5__7__+1___
+    +1__+3b__(+3b__+4__+3b__)+2__+1__  +4__+6b__++1__+4__+5___
+    +1__+3b__+3b__+1__+3b__+5__  +2__7__5__7__+1___
+    +5__5__(+4__+5__+4__)+3__+1__  +5__5__(+4__+5__+4__)+3__+1__  +2__5__+2__+4__+3__.+1_  +2__.+4_+3___+1___
+    +2__5__+2__+4__+3__.+1_  +2__.+4_+3___+1___  +2+2+3_+4_+6_+2___+4__+3__  +2__+4__+3___+1___
+    +2__.+1_6___6__7__  5___5__6__7__+1__  +2__.+1_6___6__7__  5___+5___+5___
+    +2__.+1_6___6__7__  5___5__6__7__+1__  +2__.+1_6___6__7__  5___+5___+5___
+    +2__+4#__+5__+4#__+2__+4#__  +5__+4#__+2__+4#__+5___  0__6__+1___7__6__  5___+5___+5___
+    +2__+4#__+5__+4#__+2__+4#__  +5__+4#__+2__+4#__+5___  0__6__+1___7__6__  5___+5___+5___
+    +2__6__+1___7__6__  5___+5___+5___  0__6__+1___7__6__  5___5___5___ //]
+BEM[Kujawiak nie wskazany w tytule]
+
+DWOK04
+CUT[Kujawiak]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 243]
+FKT[]
+SIG[]
+KEY[K0419   16  C 3/4]
+MEL[5_.35__7_+2_  (+1_+2_+3_)+1__+1_6_  5_.35__7_+2_  (+1_+2_+3_)+1__++1__
+    5_.35__7_+2_  (+1_+2_+3_)+1__+1_6_  5_.35__7_+2_  (+1_+2_+3_)+1__++1__
+    (+1_+2_+3_)+1__+5__  (+2_+3_+4#_)+2_+4#_+6_+5_  (+1_+2_+3_)+1__+5__  +2_+4_+3_+2_+1__
+    (+1_+2_+3_)+1__+5__  (+2_+3_+4#_)+2_+4#_+6_+5_  (+1_+2_+3_)+1__+5__  +2_+4_+3_+2_+1__
+    5_7_+2__+1_6_  +2__7_5_6_4#_  5_7_+2__+1_6_  7__.5_6_4#_
+    5__7_+2_+1_6_  +2__7_5_6_4#_  5__7_+2_+1_6_  5__5__5__ //]
+BEM[]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 243-244]
+FKT[]
+SIG[0442000000]
+KEY[K0420   16  A 3/4]
+MEL[1__(4_5_6b_)7__  +1_7_+1__^6b54  1__(4_5_6b_)7__  +1_6b_(5_6b_5_)4__
+    1__(4_5_6b_)7__  +1_7_+1__^6b54  1__(4_5_6b_)7__  +1_6b_(5_6b_5_)4__
+    1_456b__7__  +1_7_+1_6b54__  1_456b__7__  +1_6b_(5_6b_5_)4__
+    1_456b__7__  +1_7_+1_6b54__  1_456b__7__  +1_6b_(5_6b_5_)4__
+    6_7_+1__7_5_  6_7_+1__7_5_  6_7_+1__7_5_  6_4_5__4__
+    6_7_+1__7_5_  6_7_+1__7_5_  6_7_+1__7_5_  6_4_5__4__
+    5__1__7b_6_  5__6_6_6__  5__6_7_+1_5_  7b_6_(5_6_5_)6__
+    5__1__7b_6_  5__6_6_6__  5__6_7_+1_5_  7b_6_(5_6_5_)6__
+    7b_6_(5_6_5_)4__ //]
+BEM[Kujawiak, nie wskazany w tytule]
+
+DWOK04
+CUT[Kujawiak]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 244]
+FKT[]
+SIG[]
+KEY[K0421   08  F 3/4]
+MEL[5__5_  5_5_5_  565_43  265_(432)  112_(1-7-6)  (-5-6-7)1_.2
+    (323)4_3_  265_(432)  (1-71)2_(1-7-6)  (-5-6-7)1_.3
+    (-5-6-7)143_  -5-71_.3  (-5-6-7)143_  -5-71_.3 //]
+BEM[]
+
+DWOK04
+CUT[Kujawiak]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 244]
+FKT[]
+SIG[0442200000]
+KEY[K0422   16  C 3/4]
+MEL[5__5_7_+2_+3_  +4_.+4+3__+1__  +1_+5_+4___  +3_+5_+4___
+    5__5_7_+2_+3_  +4_+4_+3__+1__  6_7_5___  6_7_5___
+    5__5_7_+2_+3_  +4_.+4+3__+1__  +3_+5_+4___  +3_+5_+4___
+    5__5_7_+2_+3_  +4_+4_+3__+1__  6_7_5___  6_7_5___
+    +5__.+6_+4_+2_  +3_+3_+2__+1__  7_+1_6___  6_7_5___
+    +5__.+6_+4_+2_  +3__+1___  7_+1_6___  6_+2_5___ //]
+BEM[W t. 23 błędny zapis rytmu: 7_+1_6__]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 245, od Inowrocławia]
+FKT[]
+SIG[]
+KEY[K0423   08  G 3/4]
+MEL[(467)+1+2(7b53)  46+1_+3_  (467)+1+2(7b53)  462_1_
+    (467)+1+2(7b53)  46+1_+3_  (467)+1+2(7b53)  462_1_
+    54#5_3_  213_3_  54#5_43  213_1_
+    54#5_43  213_3_  54#5_43  211_1_ //]
+BEM[Kujawiak, nie wskazany w tytule. T. 9-12 Chór mężczyzn. T. 13-16 Chór dziewcząt]
+
+DWOK04
+CUT[Da pójdę ja do ogrodu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 245, od Osięcin (Bodzanowo bach)]
+FKT[]
+SIG[0442400010]
+KEY[K0424   16  G 3/8]
+MEL[(342)1_3_  (456)7_6_  5_6_5_  (342)-7_-5_
+    1_.365  34213-7  1_.365  (342)-7_1_ //]
+BEM[]
+
+DWOK04
+CUT[Da pójdę ja do ogrodu]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 245, od Osięcin (Bodzanowo bach)]
+FKT[]
+SIG[0442400020]
+KEY[K0424   16  G 3/8]
+MEL[5_3__  67+1_6_  5_3__  (542)-7_1_
+    -5_1__  3_3242  1_1234  (542)-7_1_ //]
+BEM[]
+
+DWOK04
+CUT[Swinia mi sie oproszczyla]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 245-246]
+FKT[]
+SIG[]
+KEY[K0425   16 Bb 3/8]
+MEL[231_-5_  465_4_  231_-5_  42-7_1_
+    231-7-5_  46753_  231_-5_  42-7_1_
+    357_6_  2_6_5_  357_6_  42-7_1_
+    231-7-5_  445_3_  023_1_  42-7_1_
+    24#5_54#  2_5_2-7  24#5_54#  2_-7_1_
+    231_1-7  -5_4#_5_  231_1-7  -5_-7_1_
+    24#5_54#  2_5_2-7  24#5_54#  2_-7_1_
+    231_1-7  -5_4#_5_  231_1-7  -5_-7_1_ //]
+BEM[]
+
+DWOK04
+CUT[Obertas]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 246]
+FKT[]
+SIG[]
+KEY[K0426   16  C 3/8]
+MEL[+3_+4_+2+1  75+1+3+5+4  +3_+4_+2+1  75+1_.+3
+    +3_+4_+2+1  75+1+3+5+4  +3_+4_+2+1  75+1__
+    +5_+6_+4#+2  +5+3+1_(+2+3+4#)  +5_+6_+4#+2  +5_5_0_
+    +3_+4_+2+1  75+1+3+5_  +3_+4_+2+1  75+1__
+    6+17+164  57+1__  7_+1_64  57+1__
+    6+17+164  57+1_64  6+17+164  57+1__ //]
+BEM[]
+
+DWOK04
+CUT[Obertas]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 246]
+FKT[]
+SIG[]
+KEY[K0426a  16  C 3/8]
+MEL[+3_+4_+2+1  75+1+3+5+4  +3_+4_+2+1  75+1_.+3
+    +3_+4_+2+1  75+1+3+5+4  +3_+4_+2+1  75+1__
+    +5_+6_+4#+2  +5+3+1_(+2+3+4#)  +5_+6_+4#+2  +5+4#+5+6+4+2
+    +3_+4_+2+1  75+1+3+5_  +3_+4_+2+1  75+1__
+    6+17+164  57+1__  7_+1_64  57+1__
+    6+17+164  57+1_64  6+17+164  57+1__ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Da z tegos mi sie chlopcze udal]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 247]
+FKT[]
+SIG[]
+KEY[K0427   32  A 3/8]
+MEL[3_1_-7__-5__  3_4_6__5__  3_1_-7__-5__  4__-7__1_2_
+    3_1_-7__-5__  3_4_6__5_4_  3_1_-7__-5__  4_2_-7__1__
+    2__3_1_-7_-5_  4_2_1__3__  5__3_1_-7_-5_  4_2_-7__1__
+    3_1_-7__-5__  3_4_6__5__  3_1_-7__-5__  4_2_-7__1_2_
+    3_1_-7__-5__  3_4_6__5432  3_1_-7__-5__  4_2_-7__1__
+    2__3_1_-7_-5_  4_2_1__3__  5__3_1_-7_-5_  4_2_-7__1__
+    5__3_1_-7_-5_  4_2_1__3__  5__3_1_-7_-5_  4_2_-7__1__
+    5__3_1_-7_-5_  4_2_1__3__  5__3_1_-7_-5_  4_2_-7__1__ //]
+BEM[]
+
+DWOK04
+CUT[Oj dziewczyno kochana]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 247]
+FKT[]
+SIG[]
+KEY[K0428   16  G 3/8]
+MEL[465_3_  7_+2_+16  465_31  2-71__
+    445_31  221_+1_  665_31  2-71__ //]
+BEM[]
+
+DWOK04
+CUT[Oj dziewczyno kochana]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 247]
+FKT[]
+SIG[]
+KEY[K0428a  16  G 3/8]
+MEL[465_31  (767)+2_+16  465_31  2-71__
+    445_31  221_(67+1)  665_31  2-71__ //]
+BEM[wariant alternatywny]
+
+DWOK04
+CUT[Oj pojedz Jasiu pojedz]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 247-248]
+FKT[]
+SIG[]
+KEY[K0429   16  G 3/8]
+MEL[465_.3  546_24  (6+16)5_.3  1_532_
+    223_(1-6-5)  (^44)5_31  223_1_  4_2-71_
+    -5-73_46  531-72_  -5-73_6_  531-72_
+    31-6_-54  54323_  112-6-72  5_1-72_
+    3_4__  5_1-72_  3_4__  5_1-7-5_ //]
+BEM[]
+
+DWOK04
+CUT[Gdzie to idziesz opalony]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 248]
+FKT[]
+SIG[]
+KEY[K0430   16 Bb 3/8]
+MEL[135_6_  654_2_  433_3_  22-7_-5_
+    135_3_  22-7_2_  463_5_  22-7_-5_
+    (-713)5_.6  4_3_2_  421_.3  12-7_-5_
+    -713_.2  453_2_  -713_.2  1_-7_-5_
+    -5-72_2_  332_-7_  11-7_-7_  -6-4#-5_-2_
+    11-7_-5_  -4#-6-5-72_  11-7_-7-5  1-4#-5_-2_ //]
+BEM[]
+
+DWOK04
+CUT[Idą wołki]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 249, od Babiaka, Brdowa]
+FKT[]
+SIG[0443100010]
+KEY[K0431   16  G 3/8]
+MEL[135_5_  6+15_5_  443_1_  2-71_-5_
+    135_5_  6+15_5_  443_1_  2-71_-5_
+    135_31  22-7_-5_  443_5_  2-71_-5_ //]
+BEM[]
+
+DWOK04
+CUT[Idą wołki]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 249, od Babiaka, Brdowa]
+FKT[]
+SIG[0443100020]
+KEY[K0431   16  D 3/8]
+MEL[135_5_  643_5-5  135_5_  645_.3
+    -5-72_13  5_6435  -5-72_13  2_1__ //]
+BEM[]
+
+DWOK04
+CUT[Spojrzyj ino raz chlopaku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 249]
+FKT[]
+SIG[]
+KEY[K0432   32  C 3/8]
+MEL[5__.7_+2_+4_  +3_+3_+1__+3__  +2_+2_7__+2__  +1___.
+    5__.7_+2_+4_  +3_+3_+1__+3__  +2_+2_7__5__  +1___.
+    7_+2_+5_+4#_+3_+2_  +5_066__+1__  5_0+4#+4#__+6__  +5__+7__++2__
+    7_+2_+5_+4#_+3_+2_  +5_06+1__+1_7_  6_+4#_+2__+3_+4#_  +5__+5___ //]
+BEM[]
+
+DWOK04
+CUT[Spojrzyj ino raz chlopaku]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 249]
+FKT[]
+SIG[]
+KEY[K0432a  32  C 3/8]
+MEL[5__.7_+2_+4_  +3_+3_+1__+3__  +2_+2_7__+2__  +1_2_3__5__
+    5__.7_+2_+4_  +3_+3_+1__+3__  +2_+2_7__+2__  +1___.
+    7_+2_+5_+4#_+3_+2_  +5_066__+1_7_  5_0+4#+4#__+6__  +5_+6_+7__++2__
+    7_+2_+5_+4#_+3_+2_  +5_06+1__+1_7_  6_+4#_+2__+3_+4#_  +5__+5___ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Ciężko my cię żal dziewucho]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 250, od Izbicy, Chodcza]
+FKT[]
+SIG[0443300010]
+KEY[K0433a  16  G 3/8]
+MEL[334_6_  5_.245  334_6_  5_.-5-71
+    332_-7_  1_.241  334_2-7  1_.-5-71 //]
+BEM[Partia wokalna ]
+
+DWOK04
+CUT[Ciężko my cię żal dziewucho]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 250, od Izbicy, Chodcza]
+FKT[]
+SIG[0443300020]
+KEY[K0433b  32  C 3/8]
+MEL[+1_+3_+4__+6__  +5__.5_7_+1_  +3_5_+4__+2_7_  +1__.5_7_+1_
+    +3_05+4__+2_7_  +1_05+3__+4#_+5_  +3_5_+4__+2_7_  +1__.5_7_+1_
+    +3_+3_+4__+6__  +5_+3_+4__+6__  +3_+3_+4__+6__  +6+5+4+3+4__+2__
+    +3_+3_+4__+4__  +5_+4_+4__+3__  +3_+3_+4__+4__  +5_+4_+3__+2__
+    +3__.+4_+2_+3_  +1_+1_7__(5_6_7_)  +1__+4__+2_+3_  +1___^__ //]
+BEM[Partia instrumentalna]
+
+DWOK04
+CUT[Z boru jedziemy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 250-251]
+FKT[]
+SIG[]
+KEY[K0434   16  F 3/4]
+MEL[-7_1_3__2__  3_1_-6__.-7_  1_1_3__2__  321-7-6__.-7_
+    1_1_3__2__  2_4#_5__3__  2_1_3__2__  321-7-6__.-7_
+    1#_1#_2__6__  65432__6__  1#_1#_2__6__  65432__2__
+    1#_1#_2__4__  -6_432__2__  1#_1#_2__4__  65432__2__
+    5#_5#_6__+3__  +3+2+176__+3__  5#_5#_6__+3__  7_+2#_+3__+1_6_
+    5#_5#_6__+3__  +3+2+176__+3__  5#_5#_6__+3__  3_5#_6__3_1_ //]
+BEM[]
+
+DWOK04
+CUT[Zawróćc bydła od moczydla]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 251, od Sompolna (Ruszkowo)]
+FKT[]
+SIG[0443500000]
+KEY[K0435   32  A 3/8]
+MEL[1_2_3b__5__  7_6b_5__(4_3b_2_)  1_2_3b__3b_5_  -7_-7_2__1_-7_
+    1_2_3b__3b_2_  -5_2_5_4_3b_2_  1_2_3b__3b__  -7_-7_2__1_-7_
+    -5__-5__-5__  -7_-7_2__1_-7_  3b_2_3b_3b_2_1_  -5_-7_2__1_-7_
+    1_2_3b__3b_5_  7_6b_5__(4_3b_2_)  1_2_3b__3b_5_  -5_-7_2__1_-7_
+    1_2_3b__3b_2_  -7_26b5_4_3b_2_  1_2_3b__3b_5_  -5_-7_2__1_-7_
+    -5__-5__-5__  -7_-7_2__1_-7_  3b_2_3b_3b_2_1_  -5_-7_2__1_-7_ //]
+BEM[T. 9-12 i 21-24 przygrywki instrumentalne]
+
+DWOK04
+CUT[Podkoweczki jak talirze]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 252]
+FKT[]
+SIG[]
+KEY[K0436   16  G 3/8]
+MEL[135_5_  542_4_  531_(-6-71)  2-7-5_-5_
+    -523_1_  2-7-5_4_  2_31(-6-71)  2-7-5_-5_ //]
+BEM[]
+
+DWOK04
+CUT[Da wyjrzyj ino za goreczke]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 252]
+FKT[]
+SIG[]
+KEY[K0437   32  G 3/8]
+MEL[-6___.  1_3_5__5__  6_4_2_4_5_3_  1_3_5__5__  6_4_2__1_-6_
+    1_3_1__1__  2_4_6__5__  1_231__1_-7_  2_4_2__1_-6_ //]
+BEM[]
+
+DWOK04
+CUT[Tyś mi dziewucha miluśka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 252, od Chodcza (Łania)]
+FKT[]
+SIG[0443800010]
+KEY[K0438   32  G 3/8]
+MEL[1_3_5__5__  6_4_2__34_.  5_3_1__-6_1_  2_-7_-5__.-7_
+    1_3_1__-6__  -7_2_4__43_.  5_3_1__-61_.  2_-7_-5__.-7_
+    1_3_1__-6__  -7_4_2__-7__  5_3_1__-61_.  2_-7_-5__.-7_ //]
+BEM[Część wokalna]
+
+DWOK04
+CUT[Tyś mi dziewucha miluśka]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 252, od Chodcza (Łania)]
+FKT[]
+SIG[0443800020]
+KEY[K0438   32  G 3/8]
+MEL[1_3_5__+1__  6_2_4__6__  1_3_5__+1__  6_2_4__2__
+    1_3_1__-6__  -5_-7_2__5__  1_3_1__-6__  -5_-7_2___ //]
+BEM[Część instrumentalna]
+
+DWOK04
+CUT[Nie wiela nas matka miala]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 253-254]
+FKT[]
+SIG[]
+KEY[K0439   32  G 3/8]
+MEL[1_3_5__7__  6_2_4__34_.  5_3_1__2__  -5_-5_-7__2__
+    1___2__  -7_2_4__34_.  5_3_1__2__  -5_-5_-7__2__
+    1_3_5__7_+2_  +1_7_2__.4_  3_5_5__3__  6_4_2__.4_
+    3_5_5__5_3_  4_6_6__+1__  +1_7_5__7__  6_4_2__.4_
+    (3_5_5_)5__4_3_  6_4_6__+1__  +2__+1_7_5_+1_  6_4_6__+1__
+    +2__+1_7_5_+1_  6_4_6__+1__  +2__+1_7_5_+1_  6_4_2__.4_
+    2_4_6__6__  5_5_3__.5_  (6_5_3_)1__2__  -5_-5_-7__2__
+    1_2_3_2_1_2_  3_1_3__5__  (6_5_3_)1__2__  -5_-5_-7__2__ //]
+BEM[]
+
+DWOK04
+CUT[Swieci miesiac a nie grzeje]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 254]
+FKT[]
+SIG[]
+KEY[K0440   16  G 3/8]
+MEL[246_6_  5_5_35  642_-7_  21-6_.1
+    242_-72  21-6_5_  242_-72  31-6_.1
+    -724_6_  65-6_.1  -72-7_2_  31-6_.1
+    -72-7_2_  21-6_5_  54-7_2_  31-6_.1
+    246_6_  5_5_(535)  642_-7_  21-6_.1
+    (254)2_-72  21-6_53  (254)2_-72  31-6_.1
+    -724_6_  65-6_.1  -72-7_2_  31-6_.1
+    -72-7_2_  31-6_5_  (564)-7_2_  31-6_.1 //]
+BEM[]
+
+DWOK04
+CUT[Oj i psy Mazury]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 254-255]
+FKT[]
+SIG[]
+KEY[K0441   16  C 3/8]
+MEL[7+2+1_6_  5__.  57+1_6_  +2__.
+    5_7+1+2_  +1_+3+2+4+3  +2+17+1+2_  +1_6_5_
+    +1+3+5_+4#_  +5__+3_  +3+4+4_+2_  +1__5_
+    +1+3+5_+4#_  +5__+3_  +3+4+4_+2_  +1__5_
+    +1_+3_+27  +1+3+5_+4+2  +1_+3_+27  +166_5_
+    +1_+3_+27  +1+3+5_+4+2  +1_+3_+27  +166_5_ //]
+BEM[]
+
+DWOK04
+CUT[Oj i psy Mazury]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 254-255]
+FKT[]
+SIG[]
+KEY[K0441a  16  C 3/8]
+MEL[7+2+1_6_  5__.  57+1_6_  +2__.
+    567+1+27  +1+3+5+6+4+3  +2+17+1+27  +166_5_
+    +1+3+5_+4#_  +5__+3_  +3+4+4_+2_  +1__5_
+    +1+3+5_+4#_  +5__+3_  +3+4+4_+2_  +1__5_
+    +1_+3_+27  +1+3+5_+4+2  +1_+3_+27  +166_5_
+    +1_+3_+27  +1+3+5_+4+2  +1_+3_+27  +166_5_ //]
+BEM[Wariant alternatywny]
+
+DWOK04
+CUT[Czylis panna czylis wdowa]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 255]
+FKT[]
+SIG[]
+KEY[K0442   16  G 3/4 3/8]
+MEL[1_3_6_5_(4_3_1_)  (5_6_4_)2__2_-7_  1_3_6_5_(4_3_4_)  2_1_2__(2_1_-7_)
+    -5_-7_3_2_(1_-7_1_)  (2_3_2_)-6__-6_-4#_  -5_-7_3_2_(1_-7_-5_)  -6_-5_-6__-6_-5_
+    -725_.3  243_1_  -725_3_  1-6-6_-6-5
+    -712_.2  314_2_  -712_.2  31-6_-6-5
+    -725_.3  253_1-6  -725_31  1-6-6_-6-5
+    -712_.2  314_2-5  -712_.2  31-6_-7-5 //]
+BEM[]
+
+DWOK04
+CUT[W sieni grają w izbie grają. Weselna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 255, od Kowala (Czerniewice)]
+FKT[]
+SIG[0444300010]
+KEY[K0443   32  C 3/8]
+MEL[+2_+4_+6__+2__  +3_+3_+4__+2_+1_  +2_+2_+3__.+2_  +1_7_5__+1__
+    7_+1_+3__+2__  +5_+4_+3__5__  7_+1_+3__+2__  +1_7_5__+1__ //]
+BEM[Część wokalna. "Ob No 169"]
+
+DWOK04
+CUT[W sieni grają w izbie grają. Weselna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 255, od Kowala (Czerniewice)]
+FKT[]
+SIG[0444300020]
+KEY[K0443   32  C 3/8]
+MEL[+3__+5_+4#_(+2_+3_+2_)  +1_7_5__+5__  +3__+5_+4#_(+2_+3_+2_)  +1_7_5__+1__ //]
+BEM[Część instrumentalna, fragment w C]
+
+DWOK04
+CUT[W sieni grają w izbie grają. Weselna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 255, od Kowala (Czerniewice)]
+FKT[]
+SIG[0444300030]
+KEY[K0443   32  G 3/8]
+MEL[5__.4_231_  2_4_6__3__  5__.4_231_  2_-7_-5__1__
+    -5__.-7_1__  3_2_4__6__  5__.4_231_  1_-7_-5__5__
+    5__.7_+1__  +3_+2_+4__+6__  +5__.+4_+2_+3_  +1_7_5__+1__ //]
+BEM[Część instrumentalna, przekodować do G]
+
+DWOK04
+CUT[Obertas]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 256-257]
+FKT[]
+SIG[]
+KEY[K0444   16  A 3/8]
+MEL[24#6_7b_  54#5_21  24#6_7b_  54#5_21
+    24#5_21  -7-54#_5_  24#5_21  -7-5-7_1_
+    2-71_13b  2-71_.3b  24#5_.3b  2-71_3b_  -5-71_13b
+    2-71_.3b  24#5_.4#  54#5_.4#  54#54#54#  54#56#54#
+    24#6_7b_  54#5_21  24#6_7b_  54#5_21
+    24#5_21  -7-54#_5_  24#5_21  -7-5-7_1_ //]
+BEM[]
+
+DWOK04
+CUT[Na kapuscie zwiedly liscie]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 257]
+FKT[]
+SIG[]
+KEY[K0445   16  F 3/8]
+MEL[356_6_  5_.346  356_6_  5_.342
+    133_2_  1_.246  133_2_  1_.342
+    5_.7+16  +1_+17+16  5_.7+16  5_.342
+    133_2_  1_.+164  133_2_  1_.342 //]
+BEM[]
+
+DWOK04
+CUT[Obertas]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 257]
+FKT[]
+SIG[]
+KEY[K0446   16  F 3/8]
+MEL[3_2_1_  332_1_  3_2_1_  4#5425_
+    3_2_1_  332_1_  3_2_1_  542-71_
+    357+164  357+2+1_  357+164  555_5_
+    357+164  357+2+1_  357+164  555_5_
+    5__64  356+2+1_  +40(+1+2+1)64  555_5_
+    5__64  357+2+1_  +60(+1+2+1)64  555_5_ //]
+BEM[]
+
+DWOK04
+CUT[Nie będę ja żon pszenicy]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 258, od Strzelna, Gembic]
+FKT[]
+SIG[0444700000]
+KEY[K0447   16  A 3/8]
+MEL[3_5_5_  5_5_5_
+    355432  345_2_  355432  345_2_
+    3554#6_  (4#54#)24#5_  3554#6_  (4#54#)24#5_
+    3_.212  -5-5-7_1_  343212  -5-5-7_1_
+    3_.212  -5-5-7_1_  343212  -5-5-7_1_ //]
+BEM[T. 1-2 przygrywka instrumentalna, dwudźwięki]
+
+DWOK04
+CUT[Obertas]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 258]
+FKT[]
+SIG[]
+KEY[K0448   32  C 3/8 3/4]
+MEL[3___5__+1__+3__+1__  7__5__+2__+2__7_6_5_4_  3__3__5__+1__+3__+1__  7__+2__+3_+2_7_+2_+1___
+    +1__+3__+3__+3__+3__+1__  7__+2__+2__+2__7__5__  +1__+3__+3__+3__+3__+1__  7__+2__+5__7__+1___
+    5__+1__+3___.+1__  7__5__+2___+2__7__  5__+1___+1__3__5__  5__6__4__2__1___
+    5__+1__+3___.+1__  7__5__+2___+2__7__  5__+1___+1__3__5__  5__6__4__2__1___
+    1__3___3__3__5__  2__4__4__4__2_4_3_2_  1__3___3__3__5__  2__4__4__4__2_4_3_2_
+    1__3__5__+1__+3__+1__  7__+2___+2__+1___
+    +1_.+3+4_+3_+2_+3_  +4__+5_+4_5__  +1_.+3+4_+3_+2__  +1__+3_+2_5__
+    +1_.+3+4_+3_+2_+3_  +4__+5_+4_5__  +1_.+3+4_+3_+2__  +1__+3_+2_5__
+    +2_+3+4+6__+6__  +5__.+3_+4__  +2_+3+4+6__+6__  +5__.+3_+2__
+    +4__5__6_7_  +1__.+2_+3__  +4__5__6_7_  +1__.+3_+5_++1_
+    +4__5__6_7_  +1__.+2_+3__  +4__5__6_7_  +1__5_3_1__
+    +2_+3+4+6__+6__  +5__.+3_+4__  +2_+3+4+6__+6__  +5__.+3_+2__
+    +4__5__6_7_  +1__.+2_+3__  +4__5__6_7_  +1__.+3_+5_++1_
+    +4__5__6_7_  +1__.+2_+3__  +4__5__6_7_  +1__5_3_1__ //]
+BEM[Wersja bez nut wariantowych]
+
+DWOK04
+CUT[Obertas]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 258]
+FKT[]
+SIG[]
+KEY[K0448a  32  C 3/8 3/4]
+MEL[3__3__5__+1__+3__+1__  7__+2__+2__+2__7_6_5_4_  3__3__5__+1__+3__+1__  7__+2__+3_+2_7_+2_+1___
+    +1__+3_+3_+3__+3__+3__+1__  7__+2__+2__+2__7__5__  +1__+3_+3_+3__+3__+3__+1__  7__+2_+2_+5__7_7_+1___
+    5__+1__+3__+1__5__+1__  7__5__+2__+2__+2_+1_7_6_  5__+1__5__+1__5__+1__  5__6_6_4__2__1___
+    5__+1__+3__+1__5__+1__  7__5__+2__+2__+2_+1_7_6_  5__+1__5__+1__5__+1__  5__6_6_4__2__1___
+    1__3___3__3__5__  2__4_4_4__4__2_4_3_2_  1__3___3__3__5__  2__4_4_4__4__2_4_3_2_
+    1__3__5__+1__+3__+3__  7__+2_+2_+3_+2_7_+2_+1___
+    +1_.+3+4_+3_+2_+3_  +4__+5_+4_5__  +1_.+3+4_+3_+2__  +1__+3_+2_5__
+    +1_.+3+4_+3_+2_+3_  +4__+5_+4_5__  +1_.+3+4_+3_+2__  +1__+3_+2_5__
+    +2_+3+4+6__+6__  +5__.+3_+4__  +2_+3+4+6__+6__  +5__.+3_+2__
+    +4_+2_5__6_7_  +1__.+2_+3_+1_  +4_+2_5__6_7_  +1__.++1_++1__
+    +4_+2_5__6_7_  +1__.+2_+3_+5_  +4_+2_5__6_7_  +1__5_3_1__
+    +2_+3+4+6__+6__  +5__.+3_+4__  +2_+3+4+6__+6__  +5__.+3_+2__
+    +4_+2_5__6_7_  +1__.+2_+3_+1_  +4_+2_5__6_7_  +1__.++1_++1__
+    +4_+2_5__6_7_  +1__.+2_+3_+5_  +4_+2_5__6_7_  +1__5_3_1__ //]
+BEM[Wersja z nutami wariantowymi //]
+
+DWOK04
+CUT[Obertas]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 259]
+FKT[]
+SIG[]
+KEY[K0449   16  F 3/8]
+MEL[135_56  5_535_  135_56  5_535_
+    35+1_+1_  2_432_  246_65  3_321_
+    -5_1113  5_3_1_  -5_-72-72  4_2_-7_
+    -5_1-513  5_3_1_  -5_-7-5-72  1__.
+    -5_1113  5_3_1_  -7-5-72-72  4_2_-7_
+    -511-513  5_3_1_  5_5555  1__. //]
+BEM[]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 259, od Inowrocławia (Szarlej)]
+FKT[]
+SIG[0445000010]
+KEY[K0450   32  C 3/8]
+MEL[+1__+3__+1_6_  5_7_+2__+5__  +1__+3__+1_6_  5_7_+2__+1__
+    +1__+3__+1_6_  5_7_+2__+5__  +4__+3__+1_6_  5_7_+2__+1__ //]
+BEM[Obertas?]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 259, od Inowrocławia (Szarlej)]
+FKT[]
+SIG[0445000020]
+KEY[K0450   32  A 3/8]
+MEL[0_4_3b_2_3b_4_  5_7b_6b__5__  0_4_3b_2-7-5__  0_-7_1__2_1_
+    0_4_3b__2_-7_  -5_-7_2__5__  4_3b21_-7_1_2_  -5_-7_1__1__
+    0_4_3b_2_3b_4_  5_7b_6b__5__  0_4_3b_2-7-5__  0_-7_1__2_1_
+    0_4_3b__2_-7_  -5_-7_2__5__  4_3b21_-7_1_5_  -5_-7_1__2_1_ //]
+BEM[Obertas?]
+
+DWOK04
+CUT[Instrumentalna]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 259-260, od Kruszwicy (Polonowice)]
+FKT[]
+SIG[0445100000]
+KEY[K0451   32  C 3/8]
+MEL[5_67+1__+3__  +5__.+4#_+5_+6_  +5_+4#_+2__+4#__  +5___.
+    +2_+2_+3__+17_.  5__5__5__  6_4#_2__4#__  5___7_+1_
+    +2_+4#_+3__+2+1_.  5__7__7__  6_4#_2__4#__  5___.
+    (5_6_7_)+1__.+2_  +3__+3_+2_+4_+2_  (5_6_7_)+1__.+3_  +5_+4#_+2__+1__
+    5_67+1__+3__  +5__.+4#_+5_+6_  +5_+4#_+2__+4#__  +5__+5_+4#_+5__
+    +2_+2_+3__+17_.  5__5__5__  6_4#_2__4#__  5___7_+1_
+    +2_+4#_+3__+2+1_.  5__7__7__  6_4#_2__4#__  5___.
+    (5_6_7_)+1__.+2_  +3__+3_+2_+4_+2_  (5_6_7_)+1__.+3_  +5_+4#_+2_7_+1__
+    (5_7_+1_)+3__+5__  +6_+4_+2__+4#_+5_  (5_7_+1_)+3__+5__  +6_+4_+2__+17_.
+    (5_7_+1_)+3__+1__  (+2_+3_+4_)+2__7__  (5_7_+1_)+3__+1__  +2_+4_+2__+1__
+    (5_7_+1_)+3__+5__  +6_+4_+2__+4#_+5_  (5_7_+1_)+3__+5__  +6_+4_+2__+17_.
+    (5_7_+1_)+3__+1__  (+2_+3_+4_)+2__+4#_+5_  (5_7_+1_)+3__+1__  +2_+4_+2__+1__ //]
+BEM[Obertas?]
+
+DWOK04
+CUT[Pasterski]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 452]
+FKT[]
+SIG[]
+KEY[K0452   16  G 3/4]
+MEL[5__5_3_5_6_  5__3_2_6_7_  6__5_3_5_6_  5__3_2_1_-7_
+    -5__1_3_(3_2_1_)  1__(3_4_5_)6_70  -5__1_3_(3_2_1_)  1__(3_4_2_)1_-7_
+    1___1_-7_  (-5_-7_1_)(2_3_2_)(^_1_-7_)  1__(^_-7_-5_)^__  5_.4(2_1_-7_)-5__
+    1___1_-7_  (-5_-7_1_)(2_3_2_)(^_1_-7_)  1__(^_-7_-5_)^__  5_.4(2_1_-7_)-5__ //]
+BEM[]
+
+DWOK04
+CUT[Pasterski]
+REG[Kujawy]
+TRD[DWOK04 Kujawy, s. 260]
+FKT[]
+SIG[]
+KEY[K0453   16  G 3/4]
+MEL[3_2_3_5_3_-5_  -6_-7_2_.1(3_5_4#_)  3_2_3_5_3_-5_  -6_-7_2_.1(1_-7_-5_)
+    3_2_3_5_3_-5_  -6_-7_2_.1(3_5_4#_)  3_2_3_5_3_-5_  -6_-7_2_.1(1_-7_-5_)
+    (-6_-7_2_)1__3__  (-6_-7_2_)1__3__  (-6_-7_2_)1__3__  (-5_-6_-7_)2_.1(1_-7_-5_)
+    2__.1_3__  (-5_-6_-7_)2__1_3_  2_2_1__3__  (-5_-6_-7_)2_.1(^_-7_-5_) //]
+BEM[]

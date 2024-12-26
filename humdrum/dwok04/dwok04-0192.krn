@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK04-K0192-moj_mezu_powiedz_kiedzu.krn
+!!!OTL: Moj mezu powiedz kiedzu
+!!!source: DWOK04
+!!!id: K0192
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8a
+8b
+8cc#
+=2
+16dd
+16cc#
+8b
+8cc#
+=3
+16cc#
+16dd
+8ee
+8ee
+=4
+8ee
+4ee}
+!!LO:LB:g=esac
+=5
+{16dd
+16cc#
+8b
+8b
+=6
+16a
+16b
+8cc#
+8cc#
+=7
+16b
+16g#
+8e
+8e
+=8
+8ee
+4ee}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc#
+8b
+=10
+16a
+16b
+8cc#
+8cc#
+=11
+16b
+16g#
+8e
+8e
+=12
+8a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 103} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 103}
+!!!page: 103
+!!!ONB: Converted on 2024/12/26 with esac2hum

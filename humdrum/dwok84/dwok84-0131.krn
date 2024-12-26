@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK8413100000-i_sczerniu_ja_i_stemniu_ja.krn
+!!!OTL: I sczerniu ja, i stemniu ja
+!!!source: DWOK84
+!!!id: 84131
+!!!signature: 8413100000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8cc
+8ee
+8dd
+8cc
+8b
+8a
+=2
+8g#
+8b
+4e
+4e
+=3
+8cc
+8ee
+8dd
+16cc
+16b
+8a
+8cc
+=
+!!UNCATEGORIZED MEASURE
+2ee}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8cc
+8ee
+12dd
+12cc
+12b
+4a
+=4
+*M3/4
+16b
+16g#
+8b
+4e
+4e
+=5
+*M2/4
+8cc
+16dd
+16cc
+16b
+16a
+8ee
+=6
+*M3/4
+2a
+4a}
+==
+*-
+!!!ONB: Wariant t. 2-3: 1-72_-5_-5_  3b_5_4_3b21_3b4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 134} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 134}
+!!!page: 134
+!!!ONB: Converted on 2024/12/26 with esac2hum

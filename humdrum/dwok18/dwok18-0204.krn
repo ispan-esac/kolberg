@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK1820400000-mocny_boze_maz_mnie_bije.krn
+!!!OTL: Mocny Boze mąz mnie bije
+!!!source: DWOK18
+!!!id: 18204
+!!!signature: 1820400000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{4dd
+8ff
+=2
+8ee
+4dd
+=3
+8cc
+16cc
+16a
+8g
+=4
+4a}
+8r
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ff
+=6
+8ee
+4dd
+=7
+8cc
+16cc
+16a
+8g
+=8
+4a}
+8r
+!!LO:LB:g=esac
+=9
+{8.cc
+16a
+16a
+16g
+=10
+16a
+16cc
+8dd
+8dd
+=11
+8.cc
+16a
+16a
+16g
+=12
+16a
+16cc
+8dd
+8dd
+=13
+8.cc
+16a
+16a
+16g
+=14
+4a}
+8r
+==
+*-
+!!!ONB: zakodować od G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 124} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

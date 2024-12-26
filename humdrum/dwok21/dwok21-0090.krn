@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2109000000-prosilci_ja_w_ogrodzie.krn
+!!!OTL: Prosiłci ją w ogrodzie
+!!!source: DWOK21
+!!!id: 21090
+!!!signature: 2109000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8cc
+8cc
+=2
+8cc
+8a
+4g
+=3
+8e
+8g
+8g
+8g
+=4
+8f
+8d
+4c}
+!!LO:LB:g=esac
+=5
+{4cc
+8b
+8dd
+=6
+4cc
+8b
+8dd
+=7
+8b
+8dd
+8dd
+8dd
+=8
+2cc}
+!!LO:LB:g=esac
+=9
+{8g
+8cc
+8cc
+8dd
+=10
+8cc
+8a
+4g
+=11
+8g
+8e
+8g
+8a
+=12
+8f
+8d
+4c}
+!!LO:LB:g=esac
+=13
+{4cc
+8b
+8dd
+=14
+4cc
+8b
+8dd
+=15
+8b
+8dd
+8dd
+8dd
+=16
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=63 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 45} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 45}
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

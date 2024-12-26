@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK1256100000-hej_stoji_w_okieneczku.krn
+!!!OTL: Hej stoji w okieneczku
+!!!source: DWOK12
+!!!id: 12561
+!!!signature: 1256100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.g
+8a
+8cc
+8ee
+=2
+8b
+8dd
+16gg
+8.ff#
+4d
+=3
+4.g
+8a
+8cc
+8cc
+=4
+8b
+8dd
+4b
+4d}
+!!LO:LB:g=esac
+=5
+{4.g
+8a
+8cc
+8a
+=6
+8f#
+8g
+4b
+4b
+=7
+4.g
+8a
+8cc
+8a
+=8
+8f#
+8g
+4b
+4d}
+!!LO:LB:g=esac
+=9
+{4.g
+8a
+8cc
+8ee
+=10
+8b
+8dd
+16gg
+8.ff#
+4d
+=11
+4.g
+8a
+8cc
+8ee
+=12
+8b
+8dd
+4b
+4d}
+!!LO:LB:g=esac
+=13
+{4.g
+8a
+16cc
+16a
+8a
+=14
+8f#
+8g
+4b
+8b
+8a
+=15
+4.g
+8a
+16cc
+16a
+8a
+=16
+8f#
+8g
+4b
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 285-286} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 285-286}
+!!!page: 285-286
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK8312700002-oj_zabrynily_kowaneji_wozy_na_dwori.krn
+!!!OTL: Oj, zabrynily kowaneji wozy na dwori
+!!!source: DWOK83
+!!!id: 83127
+!!!signature: 8312700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+4cc
+=2
+8cc
+8b
+8g
+=3
+8a
+8g
+8cc
+=4
+8b
+8a
+8b
+=5
+8a
+4g
+=6
+8f#
+8d}
+8r
+!!LO:LB:g=esac
+=7
+{8a
+8a
+16a
+16g
+=8
+8f#
+4g
+=9
+8cc
+8dd
+8cc
+=10
+8b
+4a
+=11
+8g
+4f#
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 118} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 118}
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

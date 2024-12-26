@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK02-K0144-oj_grzmia_wozy.krn
+!!!OTL: Oj grzmia wozy
+!!!source: DWOK02
+!!!id: K0144
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8g
+8a
+4b-
+4cc
+=2
+2.dd
+=3
+8cc#
+8dd
+4.ee
+8cc#
+=4
+2.dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+4.dd
+8a
+=6
+8g
+8a
+4b-
+4a
+=7
+2.dd
+=8
+8dd
+8g
+4.b-
+8a
+=9
+2g}
+4r
+!!LO:LB:g=esac
+=10
+{8g
+8a
+4b-
+4cc
+=11
+2.dd
+=12
+8cc#
+8dd
+4.ee
+8cc#
+=13
+2.dd}
+!!LO:LB:g=esac
+=14
+{8dd
+8ee
+4.dd
+8a
+=15
+8g
+8a
+4.b-
+8a
+=16
+8dd
+8g
+4.b-
+8a
+=17
+2g
+4r
+=18
+8dd
+8g
+4.b-
+8a
+=19
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 144} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 144}
+!!!page: 144
+!!!ONB: Converted on 2024/12/26 with esac2hum

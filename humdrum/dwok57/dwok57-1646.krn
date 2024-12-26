@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK57164600000-oj_bula_bula_wdowa_jidna.krn
+!!!OTL: Oj buła, buła wdowa jidna
+!!!source: DWOK57
+!!!id: 571646
+!!!signature: 57164600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4dd
+4dd
+4dd
+=2
+4a
+4.cc
+8a
+=3
+4dd
+4dd
+4dd
+=4
+4a
+4.cc
+8a}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4ee
+=6
+4dd
+4.ee
+8dd
+=7
+4dd
+4cc
+4a
+=8
+4cc
+2a}
+==
+*-
+!!!ONB: Wariant t. 8: 3b11__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 719
+!!!ONB: Converted on 2024/12/26 with esac2hum

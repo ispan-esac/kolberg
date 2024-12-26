@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2232800000-instrumentalna-skoczek_i_wiwat_orylski.krn
+!!!OTL: Instrumentalna-Skoczek i wiwat orylski
+!!!source: DWOK22
+!!!id: 22328
+!!!signature: 2232800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8gg
+8dd
+8cc
+8a
+=2
+8f#
+8g
+8dd
+16cc
+16a
+=3
+8gg
+8dd
+8cc
+16a
+16g
+=4
+8f#
+8g
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8g
+=6
+8f#
+8g
+8dd
+8a
+=7
+8b
+8dd
+8cc
+8g
+=8
+8f#
+8g
+8b
+8a}
+==
+*-
+!!!ONB: melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 185} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 185}
+!!!page: 185
+!!!ONB: Converted on 2024/12/26 with esac2hum

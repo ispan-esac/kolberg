@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2517900000-a_gdzie_pani_idzie_gdzie_pani_wedruje.krn
+!!!OTL: A gdzie pani idzie, gdzie pani wędruje
+!!!source: DWOK25
+!!!id: 25179
+!!!signature: 2517900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16a
+16a
+8a
+8cc
+=2
+8b
+4dd
+=3
+16a
+16cc
+8.ee
+16cc
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+16cc
+16b
+8a
+=6
+16g
+16g
+16a
+16g
+8e
+=7
+16d
+16f
+8a
+8f
+=8
+8a
+4cc}
+!!LO:LB:g=esac
+=9
+{16a
+16a
+8cc
+8a
+=10
+16g
+16g
+8a
+8e
+=11
+16d
+16d
+8d
+8f
+=12
+8e
+4c}
+==
+*-
+!!!ONB: Wariant w takcie pierwszym 67+1_+1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 77} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 77}
+!!!page: 77
+!!!ONB: Converted on 2024/12/26 with esac2hum

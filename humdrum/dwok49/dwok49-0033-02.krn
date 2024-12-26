@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK4903300002-radujte_sia_wsi_ludyja.krn
+!!!OTL: Radujte sia, wsi ludyja
+!!!source: DWOK49
+!!!id: 49033
+!!!signature: 4903300002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8cc
+4b
+4cc
+=2
+8dd
+8ee
+8dd
+8b
+4cc
+=3
+8g
+8cc
+4b
+4cc
+=4
+8dd
+8ee
+8dd
+8b
+4cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8ff#
+2gg
+=6
+8aa
+8gg
+4ff
+4ee
+=7
+8dd
+8ee
+4ff
+8ee
+8dd
+=8
+8gg
+8ff
+4ee
+4dd}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+4ff
+4dd
+=10
+2gg
+4ff
+=11
+4ee
+4dd
+4b
+=12
+2cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 127} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 127}
+!!!page: 127
+!!!ONB: Converted on 2024/12/26 with esac2hum

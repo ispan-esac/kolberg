@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK55117000000-jak_sie_majesz_czernyce.krn
+!!!OTL: Jak sie majesz czernyce
+!!!source: DWOK55
+!!!id: 551170
+!!!signature: 55117000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.g
+16b
+8dd
+8dd
+=2
+8b
+8dd
+4g
+=3
+8f#
+8a
+4g}
+!!LO:LB:g=esac
+=4
+{8f#
+8a
+8g
+8g
+=5
+16f#
+16f#
+8a
+8g
+8g}
+!!LO:LB:g=esac
+=6
+{8f#
+8a
+8g
+8g
+=7
+16f#
+16f#
+8a
+8g
+8g}
+!!LO:LB:g=esac
+=8
+{8ee
+8ee
+8.dd
+16b
+=9
+8b
+8g
+4dd
+=10
+16b
+16b
+8g
+8.dd
+16b
+=11
+8b
+8g
+8dd
+8dd}
+!!LO:LB:g=esac
+=12
+{8dd
+8dd
+8ee
+8ff#
+=13
+2gg}
+==
+*-
+!!!ONB: DWOK 55 nr 1170
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=416 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 391} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 391}
+!!!page: 391
+!!!ONB: Converted on 2024/12/26 with esac2hum

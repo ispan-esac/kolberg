@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1713000000-ej_obiecal_mi_kowal.krn
+!!!OTL: Ej obiecał mi kowal
+!!!source: DWOK17
+!!!id: 17130
+!!!signature: 1713000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+8dd
+8ee
+8ff#}
+!!LO:LB:g=esac
+=3
+{16dd
+16b
+8dd
+8cc
+=4
+8g
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8cc
+=6
+8a
+8dd
+8f#}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8cc
+=8
+8g
+8b
+8a}
+==
+*-
+!!!ONB: Nuta ob. Ser. XIII n. 150.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 45} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 45}
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK1220700002-abo_mnie_wez_do_toneczka.krn
+!!!OTL: Abo mnie weź do toneczka
+!!!source: DWOK12
+!!!id: 12207
+!!!signature: 1220700002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16e
+16g#
+8b
+8b
+=2
+16b
+16e
+8.a
+16e
+=3
+16b
+16dd#
+8b
+16ee
+16dd#
+=4
+4b
+16g#
+16e}
+!!LO:LB:g=esac
+=5
+{16e
+16g#
+8b
+8b
+=6
+16b
+16dd
+8.cc
+16cc
+=7
+16a
+16f#
+8g#
+8b
+=8
+4e
+16g#
+16b}
+!!LO:LB:g=esac
+=9
+{16e
+16g#
+8b
+8b
+=10
+16b
+16dd
+8.cc
+16cc
+=11
+16a
+16f#
+8g#
+16a
+16g#
+=12
+4e
+16g#
+16e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 107} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

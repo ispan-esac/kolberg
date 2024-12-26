@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK05-K0037-hej_nam_hej_nadobna_panienka.krn
+!!!OTL: Hej nam hej nadobna panienka
+!!!source: DWOK05
+!!!id: K0037
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8a
+8cc#
+4ee
+=2
+16dd
+16dd
+16dd
+16ff#
+16dd
+16cc#
+16b
+16a
+=3
+16a
+16cc#
+16cc#
+16a
+8b
+8e
+=4
+8f#
+8g#
+4a}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+16cc#
+16dd
+4ee
+=6
+16ff#
+16ff#
+16dd
+16ff#
+16dd
+16cc#
+16b
+16a
+=7
+16cc#
+16cc#
+16cc#
+16a
+8b
+8e
+=8
+8f#
+8g#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 232} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 232}
+!!!page: 232
+!!!ONB: Converted on 2024/12/26 with esac2hum

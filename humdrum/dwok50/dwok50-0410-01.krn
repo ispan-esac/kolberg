@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK5041000001-stala_nam_sia_w_syli_nowyna.krn
+!!!OTL: Stała nam sia, w syli nowyna
+!!!source: DWOK50
+!!!id: 50410
+!!!signature: 5041000001
+**kern
+*clefG2
+*k[f#]
+*G:
+{8g
+8cc
+12b
+12a
+12g
+4a
+=
+!!UNCATEGORIZED MEASURE
+8g
+8cc
+12b
+12a
+12g
+4a
+=1
+*M2/4
+8b
+8a
+8b
+8cc
+=2
+*M3/4
+2.dd}
+!!LO:LB:g=esac
+=3
+{8dd
+8ff
+4ee
+4dd
+=4
+8cc
+8b
+4a
+4dd
+=5
+*M2/4
+8cc
+8b
+8a
+8a
+=6
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 239} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 239}
+!!!page: 239
+!!!ONB: Converted on 2024/12/26 with esac2hum

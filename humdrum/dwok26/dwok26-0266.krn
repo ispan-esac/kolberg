@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK2626600000-na_wysokiej_gorze.krn
+!!!OTL: Na wysokiej górze
+!!!source: DWOK26
+!!!id: 26266
+!!!signature: 2626600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+8dd
+8dd
+8dd
+8b
+=2
+8cc
+8ee
+8dd
+8cc
+8b
+8a
+=3
+8g
+8b
+4cc
+4b
+=4
+8a
+8f#
+8g
+8a
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4cc
+4b
+=6
+8a
+8f#
+4g}
+4r
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8a
+8g
+8f#
+8d
+=8
+8g
+8b
+8a
+8g
+8f#
+8d
+=9
+8g
+16a
+16b
+4cc
+4b
+=10
+8a
+8f#
+8g
+8b
+8a
+8d}
+!!LO:LB:g=esac
+=11
+{8g
+16a
+16b
+4cc
+4b
+=12
+8a
+8f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

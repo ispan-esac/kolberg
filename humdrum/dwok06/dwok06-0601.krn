@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK06-K0601-szego_lezysz_ma_kobyli.krn
+!!!OTL: Szego lezysz ma kobyli
+!!!source: DWOK06
+!!!id: K0601
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.g
+16a
+16b
+16g
+=2
+16b
+16b
+8.b
+16a
+=3
+8.a
+16b
+16cc
+16a
+=4
+16cc
+16cc
+8.cc
+16b}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8.dd
+16b
+=6
+16cc
+16cc
+8.a
+16cc
+=7
+16dd
+16b
+8.g
+16b
+=8
+16a
+16f#
+8d
+8d}
+!!LO:LB:g=esac
+=9
+{16dd
+16dd
+8.dd
+16b
+=10
+16cc
+16cc
+8.a
+16cc
+=11
+16dd
+16b
+8.g
+16b
+=12
+16a
+16f#
+8d
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=378 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 352} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 352}
+!!!page: 352
+!!!ONB: Converted on 2024/12/26 with esac2hum

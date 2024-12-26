@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7709200000-oj_jesce_ja_nie_zacian_da_siekierecka.krn
+!!!OTL: Oj jesce ja nie zaciąn da siekierecką
+!!!source: DWOK77
+!!!id: 77092
+!!!signature: 7709200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4b
+4dd
+=2
+8a
+8a
+4cc
+8ee
+8r
+=3
+4g
+4b
+4dd
+=4
+8a
+8a
+4cc
+8b}
+8r
+!!LO:LB:g=esac
+=5
+{4g
+4b
+4dd
+=6
+8ff#
+8ee
+4cc
+8a
+8r
+=7
+4g
+4b
+4dd
+=8
+8a
+8a
+4cc
+8ee}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

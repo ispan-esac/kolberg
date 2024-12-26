@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK1935200000-kaze_na_kominie_napalic_chlsopcami.krn
+!!!OTL: Kazę na kominie napalić chłśopcami
+!!!source: DWOK19
+!!!id: 19352
+!!!signature: 1935200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8dd
+8b
+=2
+8cc
+4g
+=3
+16b
+16cc
+8dd
+8ff
+=4
+8ee
+4gg}
+!!LO:LB:g=esac
+=5
+{8gg
+8ee
+8ff
+=6
+16ee
+16cc
+8b
+8f
+=7
+16g
+16b
+8dd
+8b
+=8
+8cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 107} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

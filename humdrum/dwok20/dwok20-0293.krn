@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2029300000-oj_do_dom_zas_nase_wesele.krn
+!!!OTL: Oj do dom zas nase wesele
+!!!source: DWOK20
+!!!id: 20293
+!!!signature: 2029300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8dd
+8dd
+=2
+16b
+16cc
+8dd
+8dd
+=3
+8ee
+16dd
+16cc#
+[8dd
+=4
+8dd]
+16b
+16a
+[8g
+=5
+8g]
+16f#
+16d}
+8r
+!!LO:LB:g=esac
+=6
+{8b
+8dd
+8dd
+=7
+8b
+8b
+8g
+=8
+8b
+8dd
+8dd
+=9
+8b
+8b
+8a
+=10
+8g
+4f#
+=11
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 218} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 218}
+!!!page: 218
+!!!ONB: Converted on 2024/12/26 with esac2hum

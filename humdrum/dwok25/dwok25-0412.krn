@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2541200000-niewola_me_z_karcmy_pedzi.krn
+!!!OTL: Niewola me z karcmy pędzi
+!!!source: DWOK25
+!!!id: 25412
+!!!signature: 2541200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8ff
+8ff
+16ff
+16ee
+=2
+16cc
+16ee
+8gg
+16aa
+16gg
+=3
+8ff
+8dd
+16ff
+16ee
+=4
+16cc
+16dd
+16b-
+16a
+8f}
+!!LO:LB:g=esac
+=5
+{16g
+32a
+32b-
+8dd
+16ff
+16ee
+=6
+16cc
+16b-
+8dd
+8f
+=7
+8g
+8g
+16a
+16cc
+=8
+16b-
+16b-
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 179} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 179}
+!!!page: 179
+!!!ONB: Converted on 2024/12/26 with esac2hum

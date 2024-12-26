@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK57174200000-oj_od_kijowa_da_do_pitera_au.krn
+!!!OTL: Oj, od Kijowa da do Pitera, au
+!!!source: DWOK57
+!!!id: 571742
+!!!signature: 57174200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8a
+8a
+=2
+2ee}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8cc
+8b
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8cc
+8b
+=6
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 829
+!!!ONB: Converted on 2024/12/26 with esac2hum

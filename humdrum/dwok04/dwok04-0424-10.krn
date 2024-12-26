@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK0442400010-da_pojde_ja_do_ogrodu.krn
+!!!OTL: Da pójdę ja do ogrodu
+!!!source: DWOK04
+!!!id: K0424
+!!!signature: 0442400010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24b
+24cc
+24a
+8g
+8b
+=
+24cc
+24dd
+24ee
+8ff#
+8ee
+=1
+8dd
+8ee
+8dd
+=
+24b
+24cc
+24a
+8f#
+8d}
+!!LO:LB:g=esac
+=2
+{8.g
+16b
+16ee
+16dd
+=3
+16b
+16cc
+16a
+16g
+16b
+16f#
+=4
+8.g
+16b
+16ee
+16dd
+=
+24b
+24cc
+24a
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 245} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 245}
+!!!page: 245
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK57104100000-mezy_dwoma_dorohamy.krn
+!!!OTL: Meży dwóma dor'ohamy
+!!!source: DWOK57
+!!!id: 571041
+!!!signature: 57104100000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8b
+8b
+8ee
+8ee
+8b
+8b
+=2
+4a#
+2b}
+!!LO:LB:g=esac
+=3
+{8b
+8b
+8ee
+8ee
+8b
+8b
+=4
+4a#
+2b}
+!!LO:LB:g=esac
+=5
+{8e
+8g
+4b
+8a#
+8e
+=6
+8g
+16g
+16f#
+4e
+4d#}
+!!LO:LB:g=esac
+=7
+{8e
+8g
+8b
+8b
+8a#
+16a#
+16e
+=8
+4g
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 210
+!!!ONB: Converted on 2024/12/26 with esac2hum

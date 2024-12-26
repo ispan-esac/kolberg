@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK45226800000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK45
+!!!id: 452268
+!!!signature: 45226800000
+**kern
+*clefG2
+*k[f#]
+*G:
+{4dd
+8dd
+24cc#
+24dd
+24ee
+4dd
+4b
+=
+!!UNCATEGORIZED MEASURE
+4dd
+8dd
+24cc#
+24dd
+24ee
+4dd
+4b}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8ee
+4ee
+24dd
+24ee
+24dd
+4cc
+4b
+=1
+*M4/4
+8.a
+16g
+8f#
+8a
+2g}
+!!LO:LB:g=esac
+=2
+{8d
+4d
+8d
+4e
+4f#
+=
+!!UNCATEGORIZED MEASURE
+8g
+4g
+8g
+4a
+4g}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8ee
+4ee
+24dd
+24ee
+24dd
+4cc
+4b
+=3
+*M4/4
+8.a
+16g
+8f#
+8a
+2g}
+!!LO:LB:g=esac
+=4
+*M2/4
+{8a
+8cc
+8b
+8a
+=5
+4b
+4g
+=6
+4a
+4a
+=7
+2dd}
+!!LO:LB:g=esac
+=8
+{8cc
+8cc
+8b
+8a
+=9
+4b
+4g
+=10
+4a
+16a
+8.f#
+=11
+2g}
+==
+*-
+!!!ONB: Marsz Orawski
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=492 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 474} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 474}
+!!!page: 474
+!!!ONB: Converted on 2024/12/26 with esac2hum

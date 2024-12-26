@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK42151800000-w_olsynie_ja_wolki_pasla.krn
+!!!OTL: W olsynie ja wołki pasła
+!!!source: DWOK42
+!!!id: 421518
+!!!signature: 42151800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8ee
+8ee
+=2
+8dd
+8dd
+8ee
+16cc
+16b
+=3
+8a
+8cc
+8ee
+8ee
+=4
+8dd
+8ff
+8ee
+16cc
+16b}
+!!LO:LB:g=esac
+=5
+{8dd
+16cc
+16b
+8a
+8a
+=6
+8g#
+8g#
+8a
+16b
+16cc
+=7
+8dd
+16cc
+16b
+8a
+8a
+=8
+8g#
+8g#
+8a
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 82} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

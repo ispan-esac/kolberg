@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK4715400000-wijut_witry_wijut_bujny.krn
+!!!OTL: Wijut witry, wijut bujny
+!!!source: DWOK47
+!!!id: 47154
+!!!signature: 4715400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8.ee
+16a
+16cc
+16b
+16cc
+16dd
+=2
+8.ee
+16a
+16cc
+16b
+16cc
+16dd
+=3
+8ee
+8aa
+8.gg
+16ff
+=4
+8.ee
+16cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8.dd
+16ee
+16ff
+16ee
+8dd
+=6
+8ee
+8cc
+8.b
+16a
+=7
+8g#
+8ff
+8ee
+8g#
+=8
+16a
+16b
+16cc
+16dd
+4ee}
+!!LO:LB:g=esac
+=9
+{8ee
+8aa
+8.gg
+16ff
+=10
+8ee
+8cc
+8.b
+16a
+=11
+8g#
+8ff
+8.ee
+16g#
+=12
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 152} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 152}
+!!!page: 152
+!!!ONB: Converted on 2024/12/26 with esac2hum

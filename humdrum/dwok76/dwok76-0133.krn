@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7613300000-na_wojenke_nie_pojade.krn
+!!!OTL: Na wojenkę nie pojadę
+!!!source: DWOK76
+!!!id: 76133
+!!!signature: 7613300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8ee
+4dd
+4cc
+=2
+8b
+8a
+4a
+4g
+=3
+8b
+8dd
+4dd
+4a
+=4
+2.cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+4dd
+4cc
+=6
+8b
+8a
+4a
+4g
+=7
+8b
+8dd
+4ff
+4dd
+=8
+2.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 71} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 71}
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum

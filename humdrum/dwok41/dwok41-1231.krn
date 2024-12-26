@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK41123100000-instrumentalna-krakowiak_zwawy.krn
+!!!OTL: Instrumentalna-Krakowiak żwawy
+!!!source: DWOK41
+!!!id: 411231
+!!!signature: 41123100000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=1
+{8dd
+8ff
+8aa
+8aa
+=2
+8gg
+8ee
+4cc#
+=3
+8dd
+16ff
+16ee
+8dd
+8dd
+=4
+4a
+4cc#}
+!!LO:LB:g=esac
+=5
+{8dd
+16ff
+16ee
+4dd
+=6
+8ee
+16gg
+16ee
+4cc#
+=7
+8dd
+16ff
+16ee
+8dd
+8dd
+=8
+4a
+4cc#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=635 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 548} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 548}
+!!!page: 548
+!!!ONB: Converted on 2024/12/26 with esac2hum

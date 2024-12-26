@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK8358800002-skad_ty_jasiu.krn
+!!!OTL: Skąd ty, Jasiu?
+!!!source: DWOK83
+!!!id: 83588
+!!!signature: 8358800002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8b
+8dd
+8g
+[8dd
+4dd]
+=2
+8cc
+16b
+16g
+8a
+[8g}
+4g]
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+8cc
+[8gg
+4gg]
+=4
+8ff
+16ee
+16cc
+16dd
+16b
+[8cc}
+4cc]
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=485 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 374} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 374}
+!!!page: 374
+!!!ONB: Converted on 2024/12/26 with esac2hum

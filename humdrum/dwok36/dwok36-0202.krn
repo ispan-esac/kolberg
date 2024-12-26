@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK3620200000-zeszlyj_myni_boze.krn
+!!!OTL: Zeszłyj myni Boże
+!!!source: DWOK36
+!!!id: 36202
+!!!signature: 3620200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8dd
+8b
+8dd
+8ee
+8dd
+=2
+8cc
+8cc
+8a
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=3
+{8dd
+8ee
+8dd
+8dd
+8ee
+8dd
+=4
+8cc
+16b
+16cc
+8a
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{4a
+8cc
+8a
+8f#
+8d
+=6
+8g
+8b
+2dd}
+!!LO:LB:g=esac
+=7
+{4cc
+8.ee
+16cc
+8a
+8dd
+=8
+8.dd
+16f#
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{4a
+8cc
+8a
+16f#
+16a
+16f#
+16d
+=10
+8g
+8b
+2dd}
+!!LO:LB:g=esac
+=11
+{4cc
+8.ee
+16cc
+8a
+8dd
+=12
+8.dd
+16f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 112
+!!!ONB: Converted on 2024/12/26 with esac2hum

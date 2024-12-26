@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2556000000-syroko_wysoko.krn
+!!!OTL: Syroko, wysoko
+!!!source: DWOK25
+!!!id: 25560
+!!!signature: 2556000000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8f
+8ff
+8ff
+=2
+16ff
+16gg
+8ee-
+16ee-
+16dd
+=3
+16b-
+16dd
+8dd
+16dd
+16ff
+=4
+16ee-
+16dd
+8dd
+16cc
+16a}
+!!LO:LB:g=esac
+=5
+{8.f
+16a
+16cc
+16dd
+=6
+16a
+16f
+8a
+16cc
+16dd
+=7
+4b-
+16dd
+16ff
+=8
+16ee-
+16dd
+8dd
+16cc
+16a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 214} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 214}
+!!!page: 214
+!!!ONB: Converted on 2024/12/26 with esac2hum

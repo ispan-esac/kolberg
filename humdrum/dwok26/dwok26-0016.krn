@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2601600000-wietego_wojciecha.krn
+!!!OTL: Świętego Wojciecha
+!!!source: DWOK26
+!!!id: 26016
+!!!signature: 2601600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8ee
+8cc
+=2
+4ff
+4ee
+=3
+8dd
+8dd
+8b
+8dd
+=4
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8ee
+8cc
+=6
+4ff
+4ee
+=7
+8dd
+8dd
+8b
+8dd
+=8
+4cc}
+4r
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8b
+8g
+=10
+8cc
+8ee
+8ee
+8ee
+=11
+8dd
+8b
+8a
+8g
+=12
+8cc
+8ee
+8ff
+8ee}
+!!LO:LB:g=esac
+=13
+{4dd
+8b
+8dd
+=14
+4cc}
+4r
+==
+*-
+!!!ONB: U Kolberga metrum 3/4, poprawnie 2/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

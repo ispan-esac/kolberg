@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2736700000-rozbujaly_sie_siwe_golebie.krn
+!!!OTL: Rozbujały się siwe gołębie
+!!!source: DWOK27
+!!!id: 27367
+!!!signature: 2736700000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4a
+8cc
+8cc
+4a
+4a
+=2
+4ee
+8gg
+8gg
+4ee
+4gg
+=3
+8ee
+8ff
+2.dd}
+!!LO:LB:g=esac
+=4
+{4ee
+8cc
+8cc
+4cc
+4ee
+=5
+8ff
+8ee
+8dd
+8dd
+4a
+4cc
+=6
+8a
+8g#
+2a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=350 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 331} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 331}
+!!!page: 331
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2609300000-zielona_ruta.krn
+!!!OTL: Zielona ruta
+!!!source: DWOK26
+!!!id: 26093
+!!!signature: 2609300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8b
+8b
+=2
+8b
+4g
+=3
+8cc
+4ee
+=4
+4.gg}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8gg
+=6
+8gg
+4ee
+=7
+8ff
+4dd
+=8
+4b}
+8r
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8b
+=10
+8b
+4g
+=11
+8cc
+4ee
+=12
+4cc}
+8r
+==
+*-
+!!!ONB: w ostatnim takcie powinna być pauza ósemkowa
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

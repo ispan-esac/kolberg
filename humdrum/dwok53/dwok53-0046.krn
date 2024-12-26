@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK5304600000-dukriteli_muna_leljeli_muna.krn
+!!!OTL: Dukriteli muna, leljeli muna
+!!!source: DWOK53
+!!!id: 53046
+!!!signature: 5304600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8cc
+=2
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=3
+{8ee
+8gg
+8gg
+=4
+8gg
+8ff
+8dd}
+!!LO:LB:g=esac
+=5
+{4.ee
+=6
+8ff
+16ff
+16gg
+8ee}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8cc
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{4.ee
+=10
+8ff
+16ff
+16gg
+8ee}
+!!LO:LB:g=esac
+=11
+{8dd
+8dd
+8cc
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=242 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 206} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 206}
+!!!page: 206
+!!!ONB: Converted on 2024/12/26 with esac2hum

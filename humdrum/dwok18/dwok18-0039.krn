@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1803900000-zasialem_tatarki.krn
+!!!OTL: Zasiałem tatarki
+!!!source: DWOK18
+!!!id: 18039
+!!!signature: 1803900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4.dd
+8dd
+=3
+8dd
+8ee
+8cc#
+8ee
+=4
+4dd
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+8dd
+=6
+4b
+8a
+8f#
+=7
+2g}
+!!LO:LB:g=esac
+=8
+{8g
+8a
+8b
+8cc
+=9
+4.dd
+8dd
+=10
+8dd
+8ee
+8cc#
+8ee
+=11
+4dd
+8b
+8g}
+!!LO:LB:g=esac
+=12
+{8g
+8b
+8dd
+8dd
+=13
+4b
+8a
+8f#
+=14
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 39} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 39}
+!!!page: 39
+!!!ONB: Converted on 2024/12/26 with esac2hum

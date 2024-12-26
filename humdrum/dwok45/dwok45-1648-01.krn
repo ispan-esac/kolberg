@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK45164800001-poslala_mnie_matka.krn
+!!!OTL: Posłała mnie matka
+!!!source: DWOK45
+!!!id: 451648
+!!!signature: 45164800001
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M2/4
+{8cc
+8b
+8a
+8g
+=2
+8cc
+4.dd}
+!!LO:LB:g=esac
+=3
+{8cc
+8b
+8a
+8g
+=4
+8cc
+4.dd}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8g
+8b
+4cc
+4dd
+=6
+4ee
+2gg}
+!!LO:LB:g=esac
+=7
+{8gg
+8ff#
+4cc
+4dd
+=8
+4b
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=251 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 237} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 237}
+!!!page: 237
+!!!ONB: Converted on 2024/12/26 with esac2hum

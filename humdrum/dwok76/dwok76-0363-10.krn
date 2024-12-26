@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7636300010-da_ja_sobie_z_gory_jade.krn
+!!!OTL: Da, ja sobie z góry jadę
+!!!source: DWOK76
+!!!id: 76363
+!!!signature: 7636300010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8f#
+8a
+4f#
+4d
+=2
+8g
+8g
+4b
+4dd
+=3
+8a
+8b
+8cc
+8b
+8cc
+8ee
+=4
+8dd
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+4f#
+4d
+=6
+8g
+8g
+4b
+4dd
+=7
+4.a
+8f#
+4a
+=8
+8cc
+8cc
+4b
+4g}
+==
+*-
+!!!ONB: Pierwsza część melodii, wariant t. 7: 2_.-724
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=224 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 188} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

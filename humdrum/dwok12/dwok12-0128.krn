@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK1212800000-a_jakiem_jechal_tys_siala_rutke.krn
+!!!OTL: A jakiem jechał, tyś siała rutkę
+!!!source: DWOK12
+!!!id: 12128
+!!!signature: 1212800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8f#
+8a
+=2
+4cc
+8ee
+=3
+8ee
+8dd
+8b
+=4
+8g
+8e
+8d}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+8a
+=6
+8g
+8b
+8g
+=7
+8a
+8a
+8b
+=8
+8g
+8e
+8d}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+8a
+=10
+4cc
+8ee
+=11
+8ee
+8dd
+8b
+=12
+8g
+8e
+8d}
+!!LO:LB:g=esac
+=13
+{8f#
+8a
+8a
+=14
+8g
+8b
+8g
+=15
+8a
+8a
+8b
+=16
+8g
+8e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 62} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 62}
+!!!page: 62
+!!!ONB: Converted on 2024/12/26 with esac2hum

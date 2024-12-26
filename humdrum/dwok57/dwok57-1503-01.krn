@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK57150300001-oj_tam_u_pole.krn
+!!!OTL: Oj, tam u połe
+!!!source: DWOK57
+!!!id: 571503
+!!!signature: 57150300001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ff
+8dd
+8cc
+8ee
+=2
+4cc
+4g
+=3
+8a
+8b
+4cc
+=4
+8dd
+8dd
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{4cc
+8ee
+8ff
+=6
+8.gg
+16ee
+4ff
+=7
+8aa
+16aa
+16gg
+16ff
+16ee
+8dd
+=8
+8gg
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 545
+!!!ONB: Converted on 2024/12/26 with esac2hum

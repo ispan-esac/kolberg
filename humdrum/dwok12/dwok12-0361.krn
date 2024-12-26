@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK1236100000-poszla_kasia_miedzy_wroty.krn
+!!!OTL: Poszła Kasia między wroty
+!!!source: DWOK12
+!!!id: 12361
+!!!signature: 1236100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16ee
+8ff
+8cc
+=2
+16cc
+16cc
+8dd
+8b-
+=3
+8f
+8.b-
+16a
+=4
+4f}
+8r
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8ff
+8cc
+=6
+16cc
+16cc
+8dd
+8b-
+=7
+8f
+8.b-
+16a
+=8
+4f}
+8r
+!!LO:LB:g=esac
+=9
+{16cc
+16a
+8f
+8f
+=10
+16ee-
+16ee-
+8.ee-
+16dd
+=11
+16cc
+16a
+8f
+8f
+=12
+16ee-
+16ee-
+8.ee-
+16dd}
+!!LO:LB:g=esac
+=13
+{16cc
+16a
+8f
+8f
+=14
+16cc
+16a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 189} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2400400000-krakowiacek_ci_ja_nielada.krn
+!!!OTL: Krakowiacek ci ja nielada
+!!!source: DWOK24
+!!!id: 24004
+!!!signature: 2400400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8a
+8b
+8cc
+=2
+8ee
+4.dd
+=3
+8dd
+8dd
+8.cc
+16a
+=4
+8b
+4.g}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8b
+8cc
+=6
+8dd
+4.dd
+=7
+8b
+8a
+8.cc
+16a
+=8
+8a
+4.g}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8gg
+8ee
+=10
+8dd
+4.b
+=11
+8b
+8a
+8.cc
+16a
+=12
+8a
+4.g}
+!!LO:LB:g=esac
+=13
+{8ee
+8ee
+8gg
+8ee
+=14
+8dd
+4.b
+=15
+8dd
+8dd
+8.cc
+16a
+=16
+8dd
+4.b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 80} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

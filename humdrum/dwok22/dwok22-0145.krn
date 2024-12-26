@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK2214500000-przy_goreczce_mlyneczek.krn
+!!!OTL: Przy góreczce młyneczek
+!!!source: DWOK22
+!!!id: 22145
+!!!signature: 2214500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8b
+=2
+8a
+8g#
+4a
+=3
+8a
+8b
+8cc
+8b
+=4
+8a
+8g#
+8g#
+8e}
+!!LO:LB:g=esac
+=5
+{8g
+8f
+8e
+8d
+=6
+4e
+4a
+=7
+8g#
+8g#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 96} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

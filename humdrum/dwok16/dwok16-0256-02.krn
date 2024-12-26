@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK1625600002-a_gdzie_sie_nam_panna_mloda_podziala.krn
+!!!OTL: A gdzie się nam panna młoda podziała
+!!!source: DWOK16
+!!!id: 16256
+!!!signature: 1625600002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8a
+8b
+8ee
+=2
+8ee
+8ee
+8dd
+8b
+=3
+4cc
+4dd
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{8ff#
+8ee
+8ee
+8b
+=6
+8ee
+8ee
+8cc
+8a
+=7
+4cc
+4b
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 213} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 213}
+!!!ONB: Converted on 2024/12/26 with esac2hum

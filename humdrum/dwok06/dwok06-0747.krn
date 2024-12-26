@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK06-K0747-o_boze_boze_juz_ojciec_nie_moze.krn
+!!!OTL: O Boze Boze juz ojciec nie moze
+!!!source: DWOK06
+!!!id: K0747
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+16a
+16b
+4cc
+=2
+8cc
+4.ee
+=3
+8dd
+8dd
+4ee
+=4
+8cc
+4ee
+8dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+4dd
+=6
+8b
+4cc
+8g
+=7
+8g
+16a
+16b
+4cc
+=8
+8b
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=484 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 458} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 458}
+!!!page: 458
+!!!ONB: Converted on 2024/12/26 with esac2hum

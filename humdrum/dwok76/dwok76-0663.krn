@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK7666300000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK76
+!!!id: 76663
+!!!signature: 7666300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8g
+4a
+4b-
+=2
+4cc
+4dd
+4b-
+=3
+8cc
+8cc
+4b-
+4a
+=
+12g
+12a
+12g
+4e
+4f}
+!!LO:LB:g=esac
+=4
+{8f
+8g
+4a
+4b-
+=
+4cc
+4dd
+12b-
+12cc
+12b-
+=5
+8a
+8cc
+4b-
+4a
+=
+12g
+12a
+12g
+4e
+4f}
+==
+*-
+!!!ONB: od Siewierza(Mierzęcice)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=375 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 339} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 339}
+!!!page: 339
+!!!ONB: Converted on 2024/12/26 with esac2hum

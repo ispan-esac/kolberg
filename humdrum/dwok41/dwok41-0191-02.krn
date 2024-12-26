@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK4119100002-moja_matka_dobra_byla.krn
+!!!OTL: Moja matka dobra była
+!!!source: DWOK41
+!!!id: 41191
+!!!signature: 4119100002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=
+{24f
+24g
+24a
+8cc
+8cc
+=1
+16cc
+16ee
+8gg
+16ff
+16dd}
+!!LO:LB:g=esac
+=
+{24ff
+24ee
+24ff
+8cc
+8f
+=
+24g
+24a
+24b-
+8g
+16g
+16e}
+!!LO:LB:g=esac
+=
+{24f
+24g
+24a
+8cc
+8f
+=2
+16a
+16b-
+8dd
+8dd}
+!!LO:LB:g=esac
+=
+{24cc
+24ee
+24ff
+8cc
+8f
+=3
+16a
+16b-
+8g
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 123} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

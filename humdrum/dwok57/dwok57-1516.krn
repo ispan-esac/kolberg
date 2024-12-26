@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK57151600000-oj_chody_son_kolo_wikon.krn
+!!!OTL: Oj, chody son koło wikon
+!!!source: DWOK57
+!!!id: 571516
+!!!signature: 57151600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8cc
+8b
+8a
+8g
+=2
+8g
+8b
+4cc
+=3
+2a}
+!!LO:LB:g=esac
+=4
+{8.g
+16a
+8b
+8cc
+=5
+8b
+8dd
+8dd
+8cc
+=6
+8cc
+8b
+8a
+8g
+=7
+8g
+8b
+4cc
+=8
+2g}
+!!LO:LB:g=esac
+=9
+{8.a
+16g
+8a
+8g
+=10
+8g
+8b
+4cc
+=11
+2g}
+==
+*-
+!!!ONB: Wariant t. 2, 7 i 10: 1_3_4_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 557
+!!!ONB: Converted on 2024/12/26 with esac2hum

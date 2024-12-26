@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK06-K0709-wsyckie_konie_dobre.krn
+!!!OTL: Wsyckie konie dobre
+!!!source: DWOK06
+!!!id: K0709
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+4dd
+=2
+16cc
+16b
+16a
+16b
+4dd
+=3
+8dd
+4cc
+8ee
+=4
+8dd
+8dd
+16cc
+16b
+16a
+16b
+=5
+8dd
+4cc
+8ee
+=6
+8dd
+8dd
+16cc
+16b
+16a
+16b}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8cc
+8cc
+=8
+8b
+4d
+8r
+=9
+8f#
+8f#
+4a
+=10
+8a
+4b
+8g}
+!!LO:LB:g=esac
+=11
+{8a
+8a
+8cc
+8cc
+=12
+8b
+4d
+8r
+=13
+8f#
+8f#
+4a
+=14
+8a
+4b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=467 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 441} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 441}
+!!!page: 441
+!!!ONB: Converted on 2024/12/26 with esac2hum

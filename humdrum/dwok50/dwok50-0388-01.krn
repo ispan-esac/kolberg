@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5038800001-stala_sie_nam_nowina.krn
+!!!OTL: Stała się nam nowina
+!!!source: DWOK50
+!!!id: 50388
+!!!signature: 5038800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8g
+8a
+8g
+=2
+4a
+4dd
+=3
+2g}
+!!LO:LB:g=esac
+=4
+{8b
+8cc
+8dd
+8dd
+=5
+4dd
+8ee
+8dd
+=6
+8cc
+8b
+8a
+8g
+=7
+4dd
+8ee
+8dd}
+!!LO:LB:g=esac
+=8
+{8cc
+8b
+8a
+8g
+=9
+4a
+4dd
+=10
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=242 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 217} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 217}
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

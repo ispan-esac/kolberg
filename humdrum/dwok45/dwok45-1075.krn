@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK45107500000-dalij_chuopcy_rychtujcie_sie.krn
+!!!OTL: Dalij chuopcy, rychtujcie sie
+!!!source: DWOK45
+!!!id: 451075
+!!!signature: 45107500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8cc
+8ee
+=2
+8ee
+8cc
+8ff
+8dd
+=3
+8cc
+8cc
+8cc
+8ee
+=4
+8ee
+8cc
+8dd
+8b}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+8ee
+=6
+8ee
+8cc
+8ff
+8dd
+=7
+8cc
+8cc
+8cc
+8ee
+=8
+8ee
+8cc
+8dd
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 59} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 59}
+!!!page: 59
+!!!ONB: Converted on 2024/12/26 with esac2hum

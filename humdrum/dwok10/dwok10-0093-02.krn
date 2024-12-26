@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK1009300002-poszla_dziewczyna_ku_ogrodkowi.krn
+!!!OTL: Poszła dziewczyna ku ogródkowi
+!!!source: DWOK10
+!!!id: 10093
+!!!signature: 1009300002
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{4dd
+4dd
+4ee
+=2
+4ff
+2dd
+=3
+8dd
+8dd
+8b-
+8a
+4g
+=4
+2.a}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4ee
+=6
+4ff
+2dd
+=7
+8dd
+8dd
+8b-
+8a
+4g
+=8
+2.a}
+!!LO:LB:g=esac
+=9
+{4cc
+4g
+4a
+=10
+8a
+8dd
+8b-
+8a
+4g
+=11
+4cc
+4g
+4a
+=12
+8a
+8dd
+8b-
+8a
+4g}
+!!LO:LB:g=esac
+=13
+{16a
+16cc
+8dd
+8b-
+8a
+4g
+=14
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 248} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 248}
+!!!page: 248
+!!!ONB: Converted on 2024/12/26 with esac2hum

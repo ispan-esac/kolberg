@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2104400000-biezy_konik_po_debinie.krn
+!!!OTL: Biezy konik po dębinie
+!!!source: DWOK21
+!!!id: 21044
+!!!signature: 2104400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8ee
+=2
+8gg
+8ee
+8dd
+8a
+=3
+8cc
+8dd
+8ee
+8ee
+=4
+8gg
+8ee
+8dd
+8a}
+!!LO:LB:g=esac
+=5
+{4cc
+4dd
+=6
+4b
+4a
+=7
+4.ee
+8dd}
+!!LO:LB:g=esac
+=8
+{8cc
+8ee
+8dd
+8cc
+=9
+4b
+4g
+=10
+4a
+4b}
+!!LO:LB:g=esac
+=11
+{4cc
+4dd
+=12
+4b
+4cc
+=13
+4.ee
+8dd}
+!!LO:LB:g=esac
+=14
+{8cc
+8ee
+8dd
+8cc
+=15
+4b
+4g
+=16
+4a
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 25} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 25}
+!!!page: 25
+!!!ONB: Converted on 2024/12/26 with esac2hum

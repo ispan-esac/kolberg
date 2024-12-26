@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2412100011-uciekla_mi_przepiorecka_w_proso.krn
+!!!OTL: Uciekła mi przepiórecka w proso
+!!!source: DWOK24
+!!!id: 24121
+!!!signature: 2412100011
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ee
+16ee
+8gg
+8gg
+=2
+16gg
+16gg
+8ee
+8cc
+=3
+8gg
+4dd}
+!!LO:LB:g=esac
+=4
+{16g
+16b
+8cc
+8cc
+=5
+16cc
+16a
+8f
+8a
+=6
+8cc
+4dd}
+!!LO:LB:g=esac
+=7
+{16g
+16b
+8cc
+8cc
+=8
+16cc
+16a
+8f
+8a
+=9
+8cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 121} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 121}
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

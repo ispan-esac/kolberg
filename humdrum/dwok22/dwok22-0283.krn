@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK2228400000-a_w_niedziele_z_zarania.krn
+!!!OTL: A w niedzielę z zarania
+!!!source: DWOK22
+!!!id: 22283
+!!!signature: 2228400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8ee
+8ee
+4dd
+4r
+=3
+8cc
+8cc
+4b
+4dd
+=4
+8a
+8a
+8g
+8b
+8dd
+8ee
+=5
+8a
+8a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 160} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

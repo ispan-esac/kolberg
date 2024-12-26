@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK3922600001-hej_gospodarzu_a_nie_ma_cie_tu.krn
+!!!OTL: Hej, gospodarzu, a nie ma cię tu!
+!!!source: DWOK39
+!!!id: 39226
+!!!signature: 3922600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8dd
+4cc#
+4ee
+=2
+2.dd
+=3
+8dd
+8dd
+4cc#
+4ee
+=4
+2.dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4.ee
+8a
+=6
+8cc
+8b
+4g
+4b}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+4.ee
+8a
+=8
+8cc
+8b
+4g
+4gg}
+!!LO:LB:g=esac
+=9
+{8gg
+8gg
+4ff#
+4aa
+=10
+2.gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=296 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 244} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 244}
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

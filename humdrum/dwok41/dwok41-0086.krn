@@ -1,0 +1,116 @@
+!!!!SEGMENT: DWOK4108600000-moja_marychna_robotna_byla.krn
+!!!OTL: Moja Marychna robotna była
+!!!source: DWOK41
+!!!id: 41086
+!!!signature: 4108600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+16dd
+16cc#
+4a
+=3
+8b
+8.g
+16e
+=4
+16e
+16f#
+8d}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+=6
+16dd
+16cc#
+4a
+=7
+8b
+8.g
+16e
+=8
+16e
+16f#
+8d}
+8r
+!!LO:LB:g=esac
+=9
+{8f#
+4a
+=10
+8f#
+8d
+8r
+=11
+8b
+4dd
+=12
+8cc#
+8a}
+8r
+!!LO:LB:g=esac
+=13
+{16g
+16a
+8b
+8dd
+=14
+16dd
+16cc#
+8a
+16b
+16g
+=15
+16f#
+16a
+8g}
+8r
+!!LO:LB:g=esac
+=16
+{8f#
+4a
+=17
+8f#
+8d
+8r
+=18
+8b
+4dd
+=19
+8cc#
+8a}
+8r
+!!LO:LB:g=esac
+=20
+{16g
+16a
+8b
+8dd
+=21
+16dd
+16cc#
+8a
+16b
+16g
+=22
+16f#
+16a
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 70-71} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 70-71}
+!!!page: 70-71
+!!!ONB: Converted on 2024/12/26 with esac2hum

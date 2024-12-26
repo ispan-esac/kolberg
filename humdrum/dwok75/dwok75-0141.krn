@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK7514100000-co_to_za_gwar_w_warszawie_car.krn
+!!!OTL: Co to za gwar, w Warszawie car
+!!!source: DWOK75
+!!!id: 75141
+!!!signature: 7514100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+8b
+8g
+2dd
+=2
+4g
+8b
+8g
+2dd}
+!!LO:LB:g=esac
+=3
+{8g
+8g
+8b
+8dd
+8gg
+8dd
+8gg
+8dd
+=4
+8gg
+8dd
+8gg
+8dd
+4gg}
+4r
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8cc
+8cc
+8ee
+8ee
+8dd
+8b
+=6
+8dd
+8dd
+8cc
+8a
+8ee
+8ee
+8dd
+8b}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8cc
+8cc
+8ee
+8ee
+8dd
+8b
+=8
+8dd
+8dd
+8ee
+8dd
+4g}
+4r
+==
+*-
+!!!ONB: Przygrywka: 1_234567+1_5_3_1_  -5_-6-71234#5_2_-7_-5_; wariant t. 2-4: 1_3_3_1_5__  1_1_3_5_+1_55+1_5_  +1_55+1_5_+1__0__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 103} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 103}
+!!!page: 103
+!!!ONB: Converted on 2024/12/26 with esac2hum

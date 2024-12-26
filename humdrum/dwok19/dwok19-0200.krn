@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1920000000-jak_pojedziesz_w_pole_orac.krn
+!!!OTL: Jak pojedziesz w pole orać
+!!!source: DWOK19
+!!!id: 19200
+!!!signature: 1920000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8g
+8b
+=2
+16dd
+16dd
+8cc#
+8a
+=3
+16cc#
+16ee
+8dd
+8b
+=4
+16dd
+16dd
+8cc#
+8a}
+!!LO:LB:g=esac
+=5
+{16a
+16cc#
+8dd
+8f#
+=6
+16a
+16a
+8g
+8e
+=7
+16e
+16f#
+8g
+8b
+=8
+16a
+16a
+8f#
+8d}
+==
+*-
+!!!ONB: zakodowac od D
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 64} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 64}
+!!!page: 64
+!!!ONB: Converted on 2024/12/26 with esac2hum

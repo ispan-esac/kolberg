@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK57171200002-oj_zakuwala_sywa_zazulenka.krn
+!!!OTL: Oj, zakuwała sywa zazułeńka
+!!!source: DWOK57
+!!!id: 571712
+!!!signature: 57171200002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8dd
+8cc
+8dd
+=2
+8ee
+8dd
+8cc
+8dd
+=3
+8ee
+8dd
+8cc
+8b
+=4
+4a
+4e
+=5
+8a
+8cc
+8b
+8a
+=6
+8cc
+8dd
+4ee
+=7
+4ee}
+4r
+!!LO:LB:g=esac
+=8
+{8ee
+8dd
+8cc
+8dd
+=9
+8ee
+8dd
+8cc
+8dd
+=10
+8ee
+8dd
+8cc
+8b
+=11
+4a
+4e
+=12
+8a
+8cc
+8ee
+8ee
+=13
+8dd
+8a
+8cc
+8a
+=14
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 804
+!!!ONB: Converted on 2024/12/26 with esac2hum

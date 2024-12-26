@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK3650800000-oj_u_poli_tam_berozka_stoit.krn
+!!!OTL: Oj u poli tam berozka stoit'
+!!!source: DWOK36
+!!!id: 36508
+!!!signature: 3650800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8b
+8.cc
+16e
+=2
+8f
+8g
+8a
+8g
+=3
+16f
+16e
+8d
+4c}
+!!LO:LB:g=esac
+=4
+{8cc
+8b
+8cc
+8dd
+=5
+8ee
+8cc
+16b
+16g
+8b
+=6
+8cc
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 331
+!!!ONB: Converted on 2024/12/26 with esac2hum

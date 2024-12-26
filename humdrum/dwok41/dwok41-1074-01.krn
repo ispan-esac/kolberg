@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK41107400001-a_chodzila_po_boru.krn
+!!!OTL: A chodziła po boru
+!!!source: DWOK41
+!!!id: 411074
+!!!signature: 41107400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8ee
+4dd
+8b
+=3
+8dd
+4cc
+8a
+=4
+8cc
+4b
+8g}
+!!LO:LB:g=esac
+=5
+{8gg
+8ff#
+16aa
+16gg
+16ff#
+16ee
+=6
+8ee
+4dd
+8b
+=7
+8dd
+4cc
+8cc
+=8
+8dd
+4b
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=539 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 452} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 452}
+!!!page: 452
+!!!ONB: Converted on 2024/12/26 with esac2hum

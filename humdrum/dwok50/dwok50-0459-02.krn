@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK5045900002-oj_tre_lita_i_tre_zymy.krn
+!!!OTL: Oj, tre lita i tre zymy
+!!!source: DWOK50
+!!!id: 50459
+!!!signature: 5045900002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8g
+8cc
+8b
+=2
+8cc
+8b
+8cc
+8dd
+=3
+2cc
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{8cc
+16cc
+16b
+8dd
+8dd
+=6
+16cc
+16b
+16a
+16g
+4g
+=7
+2a
+=8
+2g}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8dd
+8dd
+=10
+16cc
+16b
+16a
+16g
+4g
+=11
+2a
+=12
+2a}
+!!LO:LB:g=esac
+=13
+2r
+=14
+2r
+=15
+2r
+=16
+2r
+==
+*-
+!!!ONB: brak melodii do t. 13-16
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=304 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 275} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 275}
+!!!page: 275
+!!!ONB: Converted on 2024/12/26 with esac2hum

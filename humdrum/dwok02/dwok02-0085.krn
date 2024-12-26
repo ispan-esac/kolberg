@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK02-K0085-oj_lacki_ino_brzeg_moja_kasieniu.krn
+!!!OTL: Oj lacki ino brzeg moja Kasieniu
+!!!source: DWOK02
+!!!id: K0085
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8a
+8b
+8cc
+=2
+4dd
+8dd
+8b
+=3
+8cc
+8b
+8cc
+8dd
+=4
+8b
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+16b
+16dd
+8cc
+=6
+4cc
+16b
+16f#
+8g
+=7
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 75} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 75}
+!!!page: 75
+!!!ONB: Converted on 2024/12/26 with esac2hum

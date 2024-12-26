@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7767100000-nie_bede_ja_sieczki_rzezal.krn
+!!!OTL: Nie będę ja sieczki rzezał
+!!!source: DWOK77
+!!!id: 77671
+!!!signature: 7767100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8g
+4b
+4dd
+=2
+8ff
+8ff
+4ee
+4gg}
+!!LO:LB:g=esac
+=3
+{8g
+8g
+4b
+4dd
+=4
+8cc
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4b
+4dd
+=6
+8cc
+8cc
+4b
+4dd}
+!!LO:LB:g=esac
+=7
+{8g
+8g
+4b
+4dd
+=8
+8cc
+8cc
+4b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 339
+!!!ONB: Converted on 2024/12/26 with esac2hum

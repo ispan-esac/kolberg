@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2640200002-a_w_krakowie_na_ulicy.krn
+!!!OTL: A w Krakowie na ulicy
+!!!source: DWOK26
+!!!id: 26402
+!!!signature: 2640200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4g
+4dd
+8a
+8cc
+=2
+8b
+8dd
+4a
+4g
+4r
+=3
+2cc
+2cc}
+!!LO:LB:g=esac
+=4
+{8b
+8g
+8cc
+8a
+8g
+8b
+8a
+8a
+=5
+8g
+8b
+8cc
+8a
+8g
+8b
+8a
+8cc
+=6
+8b
+8cc
+4dd
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 283
+!!!ONB: Converted on 2024/12/26 with esac2hum

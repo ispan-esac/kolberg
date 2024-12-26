@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK57215700000-instrumentalna_-_kozak_ruski.krn
+!!!OTL: Instrumentalna - Kozak ruski
+!!!source: DWOK57
+!!!id: 572157
+!!!signature: 57215700000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+16e
+16a
+16a
+16cc
+16cc
+16ee
+=2
+8ee
+8ee
+8ff
+8ee
+=3
+8aa
+16e
+16a
+16a
+16cc
+16cc
+16ee
+=4
+8ee
+8ee
+8ff
+8ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4b
+=6
+8a
+4g#
+8e
+=7
+8e
+8e
+4a
+=8
+4.g#
+8e}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+4b
+=10
+8a
+4g#
+8e
+=11
+8e
+8e
+4ee
+=12
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1203
+!!!ONB: Converted on 2024/12/26 with esac2hum

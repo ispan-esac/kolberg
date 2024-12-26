@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK45186500002-mospanie_kawalerze.krn
+!!!OTL: Mospanie kawalerze
+!!!source: DWOK45
+!!!id: 451865
+!!!signature: 45186500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8a
+8g
+8g
+8a
+8b
+=2
+8dd
+8cc
+2cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8a
+8b
+8cc
+8ee
+8dd
+=4
+4b
+2g}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ee
+8ff#
+8gg
+8b
+=6
+4ee
+2dd}
+!!LO:LB:g=esac
+=7
+{8dd
+16ee
+16dd
+8cc
+16a
+16cc
+8b
+8dd
+=8
+4f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=339 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 323} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 323}
+!!!page: 323
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK57105800000-oj_smuten_ja_smuten_w_temnenkoji_noczy.krn
+!!!OTL: Oj, smuten ja, smuten, w temneńkoji noczy
+!!!source: DWOK57
+!!!id: 571058
+!!!signature: 57105800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+2r
+{4dd
+=2
+8dd
+8b
+4g
+8a
+8b
+=3
+2.cc
+=4
+8a
+8a
+8a
+8f#
+4d
+=5
+8g
+8b
+2dd}
+!!LO:LB:g=esac
+=6
+{8g
+8g
+4g
+4ee
+=7
+2dd
+8b
+8g
+=8
+8b
+8a
+4d
+4a
+=9
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 226
+!!!ONB: Converted on 2024/12/26 with esac2hum

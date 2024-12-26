@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK2242300000-instrumentalna-walc.krn
+!!!OTL: Instrumentalna-Walc
+!!!source: DWOK22
+!!!id: 22423
+!!!signature: 2242300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8b
+16g
+16b
+=2
+8d
+16f#
+16a
+16ee
+16dd
+=3
+8cc
+16a
+16cc
+16f#
+16a
+=4
+8g
+16b
+16dd
+16gg
+16dd}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+16g
+16b
+=6
+8d
+16f#
+16a
+16ee
+16dd
+=7
+8cc
+16a
+16cc
+16f#
+16a
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16g
+16b
+8b
+16b
+16g
+=10
+8a
+16a
+16g
+16g
+16f#
+=11
+16a
+16cc
+8cc
+16a
+16cc
+=12
+8b
+8dd
+16a
+16g}
+!!LO:LB:g=esac
+=13
+{16g
+16b
+8b
+16b
+16g
+=14
+8ee
+16a
+16g
+16g
+16f#
+=15
+16a
+16cc
+8cc
+16f#
+16a
+=16
+4.g}
+==
+*-
+!!!ONB: Melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 210} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 210}
+!!!page: 210
+!!!ONB: Converted on 2024/12/26 with esac2hum

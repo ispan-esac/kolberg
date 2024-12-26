@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK8403300002-wypil_wypil_nic_nie_zostawil.krn
+!!!OTL: Wypił, wypił, nic nie zostawił
+!!!source: DWOK84
+!!!id: 84033
+!!!signature: 8403300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+32b
+32a
+32b
+32cc
+=2
+4dd
+8b
+=3
+16cc
+16b
+8cc
+16ee
+16dd
+=4
+16b
+16a
+4b}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8f#
+=6
+8g
+8b
+8b
+=7
+16a
+16b
+8cc
+8cc
+=8
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+8f#
+=10
+16g
+16b
+8b
+8b
+=11
+16a
+16b
+8cc
+8cc
+=12
+16b
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 65} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 65}
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

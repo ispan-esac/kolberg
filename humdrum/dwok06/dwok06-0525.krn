@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK06-K0525-kukuleczka_w_lesie_kuka.krn
+!!!OTL: Kukuleczka w lesie kuka
+!!!source: DWOK06
+!!!id: K0525
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16e
+16f
+16g
+16a
+16b-
+=2
+16cc
+16cc
+8b
+8cc
+=3
+16ff
+16ff
+8a
+8b-
+=4
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{16f
+16e
+16f
+16g
+16a
+16b-
+=6
+16cc
+16cc
+8b
+8cc
+=7
+16ff
+16ff
+8a
+8b-
+=8
+8dd
+4cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+16cc
+16b
+=10
+16dd
+16cc
+8b
+8cc
+=11
+16cc
+16cc
+16dd
+16cc
+16b-
+16g
+=12
+16f
+16f
+8a
+8f}
+!!LO:LB:g=esac
+=13
+{8cc
+8cc
+16cc
+16b
+=14
+16dd
+16cc
+8b
+8cc
+=15
+16cc
+16cc
+16dd
+16cc
+16b-
+16g
+=16
+16f
+16f
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=322 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 296} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 296}
+!!!page: 296
+!!!ONB: Converted on 2024/12/26 with esac2hum

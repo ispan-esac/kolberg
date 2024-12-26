@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK2303800000-wstal_pan_chrystus_z_martwych_ninie.krn
+!!!OTL: Wstał Pan Chrystus z martwych ninie
+!!!source: DWOK23
+!!!id: 23038
+!!!signature: 2303800000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M6/4
+=1
+{4d
+4a
+4dd
+4cc
+4b
+4a
+=2
+8b
+8cc
+4a
+4cc
+4b
+4a
+4g}
+!!LO:LB:g=esac
+=3
+{4g
+4a
+4g
+4f
+2e
+=4
+4f
+4g
+2a
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 83} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK77116600000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK77
+!!!id: 771166
+!!!signature: 77116600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8ee
+8g
+8ee
+=2
+8g
+8ee
+16ee
+16dd
+8ee
+=3
+8ff
+8dd
+16dd
+16cc
+8b
+=4
+8dd
+8cc
+16cc
+16b
+8cc}
+!!LO:LB:g=esac
+=5
+{8gg
+8gg
+16gg
+16gg
+8gg
+=6
+8ccc
+8ee
+16ee
+16ee
+8ee
+=7
+8ff
+8dd
+16dd
+16cc
+8b
+=8
+8dd
+8cc
+16cc
+16b
+8cc}
+==
+*-
+!!!ONB: wariant w takcie piątym +5_+5_+5__+6+7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 204
+!!!ONB: Converted on 2024/12/26 with esac2hum

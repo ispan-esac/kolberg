@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7627100000-da_taczajze_sie_taczaj.krn
+!!!OTL: Da, taczajże się taczaj
+!!!source: DWOK76
+!!!id: 76271
+!!!signature: 7627100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4ff
+4ff
+=2
+8ee
+8ee
+4dd
+8b
+8dd
+=3
+8cc
+8b
+4g
+4a
+=4
+4f
+2g}
+!!LO:LB:g=esac
+=5
+{4g
+4ff
+4ff
+=6
+8ee
+8gg
+4dd
+8b
+8dd
+=7
+8cc
+8b
+4g
+4a
+=8
+4f
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 138} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 138}
+!!!page: 138
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK7704500000-siedmiu_mi_sie_zalicalo.krn
+!!!OTL: Siedmiu mi się zalicało
+!!!source: DWOK77
+!!!id: 77045
+!!!signature: 7704500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8dd
+8cc#
+8ee
+8dd}
+!!LO:LB:g=esac
+=3
+{8dd
+8cc#
+8ee
+8dd
+=4
+8dd
+8cc#
+8ee
+8dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc#
+4a
+=6
+8ee
+4dd
+8b}
+!!LO:LB:g=esac
+=7
+{8dd
+8cc#
+8a
+8f#
+=8
+4g
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{8b
+8cc
+8a
+8f#
+=10
+4g
+8b
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK06-K0484-wsi_spokojna_wsi_wesola.krn
+!!!OTL: Wsi spokojna wsi wesola
+!!!source: DWOK06
+!!!id: K0484
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4.cc
+8b-
+4a
+4a
+=2
+4a
+4g
+4dd
+4dd}
+!!LO:LB:g=esac
+=3
+{4.cc
+8b-
+4a
+4a
+=4
+4g
+4g
+4f
+4f}
+!!LO:LB:g=esac
+=5
+{4g
+4g
+4.cc
+8b-
+=6
+4a
+4g
+4cc
+4a}
+!!LO:LB:g=esac
+=7
+{4g
+4g
+4.cc
+8b-
+=8
+8a
+8g
+8b-
+8g
+4g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=295 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 269} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 269}
+!!!page: 269
+!!!ONB: Converted on 2024/12/26 with esac2hum

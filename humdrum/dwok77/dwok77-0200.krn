@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK7720000000-oj_potocze_potocze.krn
+!!!OTL: Oj potoczę potoczę
+!!!source: DWOK77
+!!!id: 77200
+!!!signature: 7720000000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8g
+8b
+8cc
+8ee
+=2
+*M3/4
+4gg
+8gg
+8ff#
+4dd
+=3
+*M2/4
+8dd
+8ff#
+8aa
+8ff#
+=4
+*M3/4
+4gg
+8gg
+8ff#
+4dd}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8ee
+8cc
+8b
+8g
+=6
+*M3/4
+2a
+8b
+8dd
+=7
+*M2/4
+8ee
+8cc
+8b
+8dd
+=8
+*M3/4
+2a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 116
+!!!ONB: Converted on 2024/12/26 with esac2hum

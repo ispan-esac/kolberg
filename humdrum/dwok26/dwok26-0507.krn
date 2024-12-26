@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2650700000-oj_posed_by_ja_posed.krn
+!!!OTL: Oj posed by ja posed
+!!!source: DWOK26
+!!!id: 26507
+!!!signature: 2650700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+16a
+16g
+16b
+16dd
+=2
+16cc
+16a
+16cc
+16ee
+8dd}
+!!LO:LB:g=esac
+=
+{24d
+24f#
+24a
+8g
+16b
+16dd
+=3
+16cc
+16a
+8cc
+8b}
+!!LO:LB:g=esac
+=4
+{16d
+16f#
+16a
+16b
+16g
+16e
+=5
+16c
+16e
+16g
+16f#
+8a}
+!!LO:LB:g=esac
+=
+{24d
+24f#
+24a
+8b
+16g
+16e
+=6
+16c
+16e
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 324
+!!!ONB: Converted on 2024/12/26 with esac2hum

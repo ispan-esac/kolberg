@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK5653000010-marsz_weselny.krn
+!!!OTL: Marsz weselny
+!!!source: DWOK56
+!!!id: 56530
+!!!signature: 5653000010
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{8g
+8e
+8c
+8e
+4.g
+16a
+16b
+=2
+4cc
+8cc
+8a
+8a
+8g
+4g
+=3
+8.g
+16e
+8f
+8d
+8a
+8g
+4g
+=4
+8.g
+16e
+16g
+16f
+16d
+16B
+8c
+8c
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=485 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 381} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 381}
+!!!page: 381
+!!!ONB: Converted on 2024/12/26 with esac2hum

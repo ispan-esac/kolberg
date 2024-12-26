@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2722200000-wywija_wywija_kary_konik.krn
+!!!OTL: Wywija wywija kary konik
+!!!source: DWOK27
+!!!id: 27222
+!!!signature: 2722200000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4b
+4ee
+4.b
+8g#
+=2
+8a
+8b
+8cc
+8ee
+4dd
+4b
+=3
+8dd
+8b
+8dd
+8ee
+4dd
+4ee
+=4
+1b}
+!!LO:LB:g=esac
+=5
+{4b
+4ee
+4.b
+8g#
+=6
+8a
+8b
+8cc
+8a
+4b
+4e
+=7
+8a
+8g#
+8a
+8cc
+4b
+4g#
+=8
+1e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 267} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 267}
+!!!page: 267
+!!!ONB: Converted on 2024/12/26 with esac2hum

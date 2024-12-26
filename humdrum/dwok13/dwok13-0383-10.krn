@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1338300010-kruszki_duze_jabka_male.krn
+!!!OTL: Kruszki duże jabka małe
+!!!source: DWOK13
+!!!id: 13383
+!!!signature: 1338300010
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16cc#
+8a
+8a
+=2
+16a
+16dd
+8.b
+16g#
+=3
+16a
+16cc#
+8a
+8a
+=4
+16a
+16dd
+8.b
+16g#}
+!!LO:LB:g=esac
+=5
+{16a
+16cc#
+8a
+8b
+=6
+16g#
+16g#
+16ee
+16dd
+16cc#
+16b
+=7
+16a
+16cc#
+8a
+8b
+=8
+8g#
+8g#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 162} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 162}
+!!!page: 162
+!!!ONB: Converted on 2024/12/26 with esac2hum

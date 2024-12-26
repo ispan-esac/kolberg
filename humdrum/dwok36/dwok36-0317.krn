@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK3631700000-o_zdradne_serce_kobiece.krn
+!!!OTL: O zdradne serce kobiece
+!!!source: DWOK36
+!!!id: 36317
+!!!signature: 3631700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+4b
+4a
+=2
+2g#
+4e
+=3
+4e
+4f#
+4g#
+=4
+4a}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{4cc
+4b
+4a
+=6
+2g#
+4e
+=7
+4e
+4f#
+4g#
+=8
+4a}
+4r
+4r
+!!LO:LB:g=esac
+=9
+{4cc
+4cc
+4ee
+=10
+4.gg
+8ff
+4ee
+=11
+2dd
+4ff
+=12
+4ee}
+4r
+4r
+!!LO:LB:g=esac
+=13
+{4cc
+4b
+4a
+=14
+2g#
+4e
+=15
+4e
+4f#
+4g#
+=16
+4a}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

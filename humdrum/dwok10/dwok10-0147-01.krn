@@ -1,0 +1,110 @@
+!!!!SEGMENT: DWOK1014700001-bodajes_ty_chmielu.krn
+!!!OTL: Bodajeś ty chmielu
+!!!source: DWOK10
+!!!id: 10147
+!!!signature: 1014700001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16dd
+8dd
+8ee
+=2
+4dd
+16cc
+16b
+=3
+16a
+16cc
+8b
+8g
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8dd
+8ee
+=6
+4dd
+16cc
+16b
+=7
+32a
+32dd
+16cc
+8b
+8g
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{16b
+16cc
+8.g
+16a
+=10
+16cc
+16b
+8a
+8g
+=11
+16b
+16cc
+8.g
+16a
+=12
+16cc
+16b
+8a
+8g}
+!!LO:LB:g=esac
+=13
+{16a
+16cc
+8b
+8g
+=14
+4.a}
+!!LO:LB:g=esac
+=15
+{8.dd
+16g
+16a
+16b
+=16
+16cc
+16cc
+8b
+8a
+=17
+8.dd
+16g
+16a
+16b
+=18
+16cc
+16cc
+8b
+8a}
+!!LO:LB:g=esac
+=19
+{16cc
+16ee
+8dd
+8g
+=20
+4.a}
+==
+*-
+!!!ONB: U Kolberga przy kluczu 3/4 zapisano według wartości w takcie na 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 295} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 295}
+!!!page: 295
+!!!ONB: Converted on 2024/12/26 with esac2hum

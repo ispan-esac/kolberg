@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK1107300002-nie_kciala_nie_kciala_w_wianyszku_chodzic.krn
+!!!OTL: Nie kciała, nie kciała, w wianyszku chodzić
+!!!source: DWOK11
+!!!id: 11073
+!!!signature: 1107300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+16e
+16f#
+8g
+8a
+8b
+8cc
+=2
+8b
+8dd
+4a
+4d
+=3
+2.cc
+=4
+8b
+16b
+16g
+4a
+8g
+8f#
+=5
+2.d}
+!!LO:LB:g=esac
+=6
+{8b
+16b
+16g
+8a
+8d
+8cc
+8cc
+=7
+8.b
+16b
+4a
+4d
+=8
+2.cc
+=9
+8b
+16b
+16g
+4a
+8g
+8f#
+=10
+2.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 184} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

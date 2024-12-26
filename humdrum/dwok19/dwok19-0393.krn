@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1939300000-oj_jasiu_moj_jasiu.krn
+!!!OTL: Oj Jasiu mój Jasiu
+!!!source: DWOK19
+!!!id: 19393
+!!!signature: 1939300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8b
+8cc
+8ee
+=2
+8dd
+8b
+8a
+=3
+16cc
+16cc
+8.b
+16g#
+=4
+8e
+16e
+16g#
+8a}
+!!LO:LB:g=esac
+=5
+{16b
+16b
+8cc
+8ee
+=6
+8ee
+16dd
+16b
+8a
+=7
+16cc
+16cc
+8.b
+16g#
+=8
+8e
+16e
+16g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 120} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

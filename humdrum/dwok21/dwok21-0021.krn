@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2102100000-piewajze_slowiku_w_zielonym_gajiku.krn
+!!!OTL: Śpiewajze słowiku w zielonym gajiku
+!!!source: DWOK21
+!!!id: 21021
+!!!signature: 2102100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8cc
+8dd
+=2
+4cc
+8b
+=3
+4dd
+8b}
+!!LO:LB:g=esac
+=4
+{8b
+8a
+8cc
+=5
+4dd
+8a
+=6
+4g
+8d}
+!!LO:LB:g=esac
+=7
+{8f#
+8a
+8b
+=8
+4g
+8e
+=9
+4g
+8g}
+!!LO:LB:g=esac
+=10
+{8b
+8a
+8f#
+=11
+4f#
+8e
+=12
+4g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 10} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 10}
+!!!page: 10
+!!!ONB: Converted on 2024/12/26 with esac2hum

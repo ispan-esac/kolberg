@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK83144200000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK83
+!!!id: 831442
+!!!signature: 83144200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8gg
+8b
+8dd
+=2
+16cc
+16b
+16cc
+16ee
+8dd
+8dd
+=3
+8dd
+8gg
+8a
+8dd
+=4
+16b
+16cc
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8g
+8b
+=6
+16dd
+16cc
+16a
+16g
+8b
+8b
+=7
+8a
+8a
+8g
+8b
+=8
+16dd
+16cc
+16a
+16f#
+4g}
+==
+*-
+!!!ONB: Wariant t. 6: 54253_3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=360 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 257} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 257}
+!!!page: 257
+!!!ONB: Converted on 2024/12/26 with esac2hum

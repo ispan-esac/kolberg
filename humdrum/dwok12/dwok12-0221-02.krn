@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK1222100002-schodzila_sie_rzeka_z_woda.krn
+!!!OTL: Schodziła się rzeka z wodą
+!!!source: DWOK12
+!!!id: 12221
+!!!signature: 1222100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.g
+16g
+4b
+4dd
+=2
+16b
+16dd
+16cc
+16b
+4a
+4b
+=3
+8.d
+16d
+4f#
+4a
+=4
+16b
+16a
+16g
+16f#
+4e
+4d}
+!!LO:LB:g=esac
+=5
+{8.g
+16g
+4b
+4dd
+=6
+16b
+16dd
+16cc
+16b
+4a
+4b
+=7
+8.d
+16d
+4f#
+4a
+=8
+16b
+16a
+16g
+16f#
+4e
+4d}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+4dd
+16ee
+16gg
+16ff#
+16ee
+=10
+8dd
+8b
+4g
+4g
+=11
+4a
+4cc
+16a
+16cc
+16b
+16a
+=12
+16b
+16a
+16g
+16f#
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 115} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

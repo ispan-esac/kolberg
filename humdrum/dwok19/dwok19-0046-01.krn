@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1904600001-zebys_sty_sslonecko_na_wyrobku_byslo.krn
+!!!OTL: Zebyś śty sśłonecko na wyrobku byśło
+!!!source: DWOK19
+!!!id: 19046
+!!!signature: 1904600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8ee
+[4gg
+8gg]
+=2
+8ee
+8ee
+8cc
+8ee
+=3
+8gg
+8ee
+8gg
+8ee
+=4
+8ee
+4.dd}
+!!LO:LB:g=esac
+=5
+{8dd
+[4gg
+8gg]
+=6
+8ee
+8ee
+8cc
+8a
+=7
+8a
+8a
+8dd
+8dd
+=8
+8b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=32 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 18} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 18}
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

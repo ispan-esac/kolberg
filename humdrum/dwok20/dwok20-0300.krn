@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2030000000-gorzalke_wypiliscie_a_kasiuni_nie_daliscie.krn
+!!!OTL: Gorzałkę wypiliście, a Kasiuni nie daliście
+!!!source: DWOK20
+!!!id: 20300
+!!!signature: 2030000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8ee
+8dd
+8dd
+8g
+=3
+8dd
+8b
+8g
+8b
+=4
+8dd
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+=6
+8ee
+8dd
+8dd
+8g
+=7
+16dd
+16cc
+16b
+16a
+8g
+8b
+=8
+16dd
+16cc
+16b
+16a
+16g
+16e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 220} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 220}
+!!!page: 220
+!!!ONB: Converted on 2024/12/26 with esac2hum

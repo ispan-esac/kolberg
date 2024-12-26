@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK2507700000-tam_w_ogrodku_listki_padaja.krn
+!!!OTL: Tam w ogródku listki padają
+!!!source: DWOK25
+!!!id: 25077
+!!!signature: 2507700000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{4b-
+8dd
+=2
+4ff
+8dd
+=3
+8cc
+8ee-
+8dd
+=4
+4b-
+8f}
+!!LO:LB:g=esac
+=5
+{8b-
+8b-
+8dd
+=6
+4ff
+8dd
+=7
+8cc
+8ee-
+8dd
+=8
+4b-
+8f}
+!!LO:LB:g=esac
+=9
+{4b-
+8f
+=10
+16b-
+16cc
+8b-
+8dd
+=11
+16cc
+16cc
+8a
+16g
+16f}
+!!LO:LB:g=esac
+=12
+{16b-
+16cc
+8b-
+8dd
+=13
+16cc
+16cc
+8ee-
+8dd
+=14
+4b-
+8f}
+!!LO:LB:g=esac
+=15
+{4b-
+8f
+=16
+16b-
+16cc
+8b-
+8dd
+=17
+16cc
+16cc
+8a
+16g
+16f}
+!!LO:LB:g=esac
+=18
+{16b-
+16cc
+8b-
+8dd
+=19
+16cc
+16cc
+8ee-
+8dd
+=20
+4b-
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 30} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 30}
+!!!page: 30
+!!!ONB: Converted on 2024/12/26 with esac2hum

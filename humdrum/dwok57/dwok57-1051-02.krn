@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK57105100002-oj_wyjdu_ja_na_horu.krn
+!!!OTL: Oj, wyjdu ja na hor'u
+!!!source: DWOK57
+!!!id: 571051
+!!!signature: 57105100002
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M3/4
+{8g
+8cc
+4cc
+8ee
+8dd
+=2
+8dd
+8b
+2cc}
+!!LO:LB:g=esac
+=3
+*M2/4
+{8cc
+8dd
+4ee
+=4
+8dd
+8gg
+8ff
+8ee
+=5
+8dd
+8dd
+8dd
+8cc
+=6
+8b
+8dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=7
+*M3/4
+{8dd
+8cc
+4cc
+8b
+8dd
+=8
+8dd
+8b
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

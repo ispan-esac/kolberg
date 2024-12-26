@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2541800000-zeby_nie_wodecka_toby_nadwislanka.krn
+!!!OTL: Zeby nie wódecka, toby Nadwiślanka
+!!!source: DWOK25
+!!!id: 25418
+!!!signature: 2541800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{24g
+24b
+24dd
+8ee
+24cc
+24b
+24g
+=1
+4a
+16cc
+16b
+=
+24g
+24a
+24b
+8cc
+16b
+16g
+=2
+4a
+16f
+16d}
+!!LO:LB:g=esac
+=
+{16c
+16e
+8g
+24g
+24f
+24g
+=
+24g
+24b
+24a
+8g
+24f
+24e
+24d
+=3
+16c
+16e
+8g
+8f
+=4
+4a
+16f
+16d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 180} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 180}
+!!!page: 180
+!!!ONB: Converted on 2024/12/26 with esac2hum

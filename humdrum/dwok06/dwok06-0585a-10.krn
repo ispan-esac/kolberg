@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK0658500010-pedzcie_trzode_z_lak_pasterze.krn
+!!!OTL: Pędźcie trzodę z łąk pasterze
+!!!source: DWOK06
+!!!id: K0585a
+!!!signature: 0658500010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8b
+16a
+16g
+=2
+8b
+8dd
+8dd
+8ee
+=3
+8cc
+8b
+8a
+8dd
+=4
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8b
+16a
+16g
+=6
+8b
+8dd
+16dd
+16cc#
+16dd
+16ee
+=7
+8cc
+8b
+8a
+8dd
+=8
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8ee
+16dd
+16cc
+=10
+8b
+8dd
+8dd
+16cc
+16b
+=11
+8a
+8b
+8cc
+8ee
+=12
+4dd
+4b}
+!!LO:LB:g=esac
+=13
+{8cc
+8ee
+8ee
+16dd
+16cc
+=14
+8b
+8dd
+8dd
+16cc
+16b
+=15
+8a
+8cc
+8a
+8f#
+=16
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 337} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 337}
+!!!page: 337
+!!!ONB: Converted on 2024/12/26 with esac2hum

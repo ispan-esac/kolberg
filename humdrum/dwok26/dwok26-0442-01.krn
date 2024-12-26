@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2644200001-gnala_woly_do_dabrowy.krn
+!!!OTL: Gnała woły do dąbrowy
+!!!source: DWOK26
+!!!id: 26442
+!!!signature: 2644200001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16f
+8a
+8b-
+=2
+16cc
+16cc
+8ee
+8ff
+=3
+8dd
+4ff
+=4
+16cc
+16cc
+8ee
+8ff}
+!!LO:LB:g=esac
+=5
+{8dd
+4ff
+=6
+4cc}
+8r
+!!LO:LB:g=esac
+=7
+{16cc
+16a
+8.b-
+16f
+=8
+16a
+16f
+8a
+8cc
+=9
+8g
+4b-
+=10
+16f
+16f
+8a
+8cc}
+!!LO:LB:g=esac
+=11
+{8g
+4b-
+=12
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 302
+!!!ONB: Converted on 2024/12/26 with esac2hum

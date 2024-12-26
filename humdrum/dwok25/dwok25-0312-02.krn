@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2531200002-z_pola_bydelko_do_dom.krn
+!!!OTL: Z pola bydełko do dom
+!!!source: DWOK25
+!!!id: 25312
+!!!signature: 2531200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16dd
+8ee
+8dd
+=2
+16a
+16a
+8b
+8g
+=3
+16a
+16f#
+8d
+8d
+=4
+16g
+16g
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8dd
+4ee
+=6
+8a
+8b
+8g
+=7
+16a
+16f#
+4d
+=8
+8g
+8a
+8g}
+!!LO:LB:g=esac
+=9
+{16.f#
+32g
+8a
+8a
+=10
+4.dd
+=11
+16dd
+16ee
+8cc#
+8a
+=12
+4.dd}
+!!LO:LB:g=esac
+=13
+{16dd
+16ee
+8.cc
+16a
+=14
+16b
+16a
+8b
+8g
+=15
+16a
+16f#
+8d
+8d
+=16
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 141} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 141}
+!!!page: 141
+!!!ONB: Converted on 2024/12/26 with esac2hum

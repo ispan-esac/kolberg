@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK5267000000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK52
+!!!id: 52670
+!!!signature: 5267000000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8ee
+8b
+8cc#
+8dd
+=2
+4ee
+8aa
+8gg
+=3
+8ff#
+16ee
+16ff#
+8aa
+8ff#
+=4
+4ee
+4cc#}
+!!LO:LB:g=esac
+=5
+{8ff#
+4ff#
+8ff#
+=6
+8ee
+4.ee
+=7
+4b
+8dd
+8b
+=8
+8a
+4ee
+8ee}
+!!LO:LB:g=esac
+=9
+{8.ff#
+16ff#
+16ff#
+16ff#
+16ff#
+16ff#
+=10
+8ee
+8ee
+4ee
+=11
+4b
+8ee
+16b
+16g#
+=12
+4a}
+4r
+==
+*-
+!!!ONB: Zawierucha, dwudźwięki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=491 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 426} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 426}
+!!!page: 426
+!!!ONB: Converted on 2024/12/26 with esac2hum

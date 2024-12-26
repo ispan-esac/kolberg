@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK06-K0210-przylecial_gawron.krn
+!!!OTL: Przylecial gawron
+!!!source: DWOK06
+!!!id: K0210
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16g#
+16a
+8b
+8g#
+=2
+4a
+8r
+=3
+16cc
+16dd
+8ee
+8ee
+=4
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+=6
+16dd
+16cc
+8b
+8a
+=7
+8b
+4cc
+=8
+16b
+16a
+8g#
+8e
+=9
+16g#
+16a
+8b
+8g#
+=10
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 112} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 112}
+!!!page: 112
+!!!ONB: Converted on 2024/12/26 with esac2hum

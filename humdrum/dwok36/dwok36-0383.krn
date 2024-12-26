@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK3638300000-och_ty_mij_mylenkij.krn
+!!!OTL: Och ty mij myłeńkij
+!!!source: DWOK36
+!!!id: 36383
+!!!signature: 3638300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+4dd
+=2
+8ee
+8ee
+8dd
+8b
+=3
+2cc
+=4
+8b
+8cc
+4dd
+=5
+8ee
+8ee
+8dd
+8b
+=6
+2cc}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+4g
+=8
+8dd
+8b
+[4cc
+=9
+8cc]
+4ee
+16dd
+16cc
+=10
+8b
+8g
+8a
+8cc
+=11
+8b
+8a
+4g}
+==
+*-
+!!!ONB: w takcie 9 przesunięcie wartości
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 240-241
+!!!ONB: Converted on 2024/12/26 with esac2hum

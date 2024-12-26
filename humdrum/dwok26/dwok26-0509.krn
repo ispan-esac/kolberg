@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2650900000-oj_pulawy_pulawy.krn
+!!!OTL: Oj Puławy Puławy
+!!!source: DWOK26
+!!!id: 26509
+!!!signature: 2650900000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16dd
+16dd
+8cc
+8gg
+=2
+16f
+32g
+32a
+4b-
+=3
+16dd
+16dd
+8cc
+8gg
+=4
+16f
+32g
+32a
+4b-}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8cc
+8gg
+=6
+16ff
+16ff
+8ee-
+16dd
+16cc
+=7
+16dd
+16dd
+8cc
+16b-
+16a
+=8
+16f
+32g
+32a
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 324
+!!!ONB: Converted on 2024/12/26 with esac2hum

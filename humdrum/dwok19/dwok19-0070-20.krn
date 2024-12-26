@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1907000020-uszczyknelsa_z_wdziekow_piekny_rozy.krn
+!!!OTL: Uszczyknełśa z wdzięków piękny róży
+!!!source: DWOK19
+!!!id: 19070
+!!!signature: 1907000020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8.cc
+32dd
+32cc
+8b-
+8g
+=2
+8a
+4cc
+8a
+=3
+8.cc
+32dd
+32cc
+8b-
+8e
+=4
+8g
+4.f}
+!!LO:LB:g=esac
+=5
+{8.cc
+32dd
+32cc
+8b-
+8g
+=6
+8a
+4cc
+8a
+=7
+8dd
+8cc
+8b-
+8e
+=8
+16g
+16f
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 26} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 26}
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

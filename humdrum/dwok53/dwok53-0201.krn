@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK5320100000-merguzele_lelijele.krn
+!!!OTL: Merguzele lelijele
+!!!source: DWOK53
+!!!id: 53201
+!!!signature: 5320100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+4dd
+4b
+4a
+=2
+4g
+4a
+4b
+4cc}
+!!LO:LB:g=esac
+=3
+{4dd
+4ee
+4b
+4a
+=4
+2g
+2d}
+!!LO:LB:g=esac
+=5
+{4g
+4g
+4f#
+4d
+=6
+4g
+4a
+4b
+4cc}
+!!LO:LB:g=esac
+=7
+{4dd
+4dd
+4b
+4a
+=8
+2g
+2d}
+!!LO:LB:g=esac
+=9
+{4g
+4g
+4f#
+4d
+=10
+4g
+4a
+4b
+4cc}
+!!LO:LB:g=esac
+=11
+{4dd
+4dd
+4b
+4a
+=12
+2g
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=358 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 320} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 320}
+!!!page: 320
+!!!ONB: Converted on 2024/12/26 with esac2hum

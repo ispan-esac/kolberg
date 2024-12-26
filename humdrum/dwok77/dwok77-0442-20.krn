@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7744200020-ej_zono_moja_zono.krn
+!!!OTL: Ej żono moja żono
+!!!source: DWOK77
+!!!id: 77442
+!!!signature: 7744200020
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16g#
+8a
+8b
+=2
+16cc
+16ee
+8dd#
+8ee}
+!!LO:LB:g=esac
+=3
+{16a
+16g#
+8a
+8b
+=4
+16cc
+16cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8ee
+=6
+16cc
+16cc
+8b
+8a}
+!!LO:LB:g=esac
+=7
+{8b
+8b
+8ee
+=8
+16cc
+16cc
+8b
+8a}
+==
+*-
+!!!ONB: Pierwsze cztery takty instrumentalne
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 226
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK771075b0000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK77
+!!!id: 771075b
+!!!signature: 771075b0000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16a
+16cc#
+8ee
+16ee
+16cc#
+=2
+16dd
+16ff#
+8ff#
+16dd
+16b
+=3
+16a
+16cc#
+8ee
+16ee
+16ff#
+=4
+16dd
+16cc#
+8dd
+16dd
+16cc#}
+!!LO:LB:g=esac
+=5
+{16a
+16cc#
+8ee
+16ee
+16cc#
+=6
+16dd
+16ff#
+8ff#
+16dd
+16b
+=7
+16a
+16cc#
+8ee
+16ee
+16ff#
+=8
+16dd
+16b
+8dd
+16dd
+16cc#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

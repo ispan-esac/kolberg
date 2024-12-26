@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2511800000-czarna_kura_gdacze_kowalicka_skacze.krn
+!!!OTL: Czarna kura gdacze kowalicka skacze
+!!!source: DWOK25
+!!!id: 25118
+!!!signature: 2511800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8b
+8cc
+8dd
+=2
+4ee
+8g
+8r
+=3
+8cc
+8b
+8cc
+8dd
+=4
+4b
+8a}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8a
+=6
+4b
+8g
+8r
+=7
+8g
+8b
+8b
+8dd
+=8
+4ee
+4cc}
+!!LO:LB:g=esac
+=9
+{8a
+8b
+8cc
+8a
+=10
+4b
+8g
+8r
+=11
+8g
+8b
+8b
+8dd
+=12
+4ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 48-49} @EN{Oskar Kolberg Complete Works 25: Mazovia II, pp. 48-49}
+!!!page: 48-49
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK8427500000-w_gaiku_zielonym_dziewcze_rwie_jagody.krn
+!!!OTL: W gaiku zielonym dziewcze rwie jagody
+!!!source: DWOK84
+!!!id: 84275
+!!!signature: 8427500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8e
+8f
+=2
+4.a
+8g
+=3
+8cc
+8cc
+8e
+8f
+=4
+4.a
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8g
+8ff
+=6
+4.ee
+8dd
+=7
+8g
+8g
+8a
+8b
+=8
+4.cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=322 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 252} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK35B-35B08000000-myslalas_myla_ze_to_wojna_szpas.krn
+!!!OTL: Myślałaś myła, że to wojna szpas
+!!!source: DWOK35B
+!!!id: 35B080
+!!!signature: 35B08000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4e
+8a
+8a
+=2
+4g#
+4e
+=3
+8a
+8b
+8cc
+8cc
+=4
+2b}
+!!LO:LB:g=esac
+=5
+{4cc
+8ee
+8ee
+=6
+4dd
+4b
+=7
+8a
+8b
+8cc
+8cc
+=8
+4a
+4e}
+!!LO:LB:g=esac
+=9
+{8a
+8b
+8cc
+8cc
+=10
+8a
+8b
+8cc
+8g#
+=11
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 172} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 172}
+!!!page: 172
+!!!ONB: Converted on 2024/12/26 with esac2hum

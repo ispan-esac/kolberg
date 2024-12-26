@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4679800000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK46
+!!!id: 46798
+!!!signature: 4679800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4d
+8f#
+8g
+8a
+8b
+=2
+8cc
+8cc
+4b
+4g
+=3
+8b
+8dd
+4cc
+8b
+8dd
+=4
+2a}
+4r
+!!LO:LB:g=esac
+=5
+{4d
+8f#
+8g
+8a
+8b
+=6
+8cc
+8cc
+4b
+4g
+=7
+8f#
+8a
+4e
+8f#
+8a
+=8
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=479 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 445} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 445}
+!!!page: 445
+!!!ONB: Converted on 2024/12/26 with esac2hum

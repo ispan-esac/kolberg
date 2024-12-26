@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK3626200000-ty_diwczyno_molodaja.krn
+!!!OTL: Ty diwczyno mołodaja
+!!!source: DWOK36
+!!!id: 36262
+!!!signature: 3626200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8aa
+8ee
+8ee
+8ee
+=2
+8dd
+32ee
+32dd
+32cc#
+32dd
+8.ee
+16dd
+=3
+8cc
+8b
+8cc
+8dd
+=4
+4ee
+4ee}
+!!LO:LB:g=esac
+=5
+{8aa
+8ee
+8ee
+8ee
+=6
+8dd
+8dd
+8.ee
+16dd
+=7
+8cc
+8cc
+16b
+16a
+16b
+16cc
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8.ee
+16dd
+=10
+16dd
+16cc
+16b
+16cc
+16dd
+16cc
+16b
+16a
+=11
+8g#
+8b
+8e
+8g#
+=12
+16a
+16g#
+16a
+16b
+16cc
+16b
+16cc
+16a}
+!!LO:LB:g=esac
+=13
+{8b
+8b
+8.ee
+16dd
+=14
+16dd
+16cc
+16b
+16cc
+16dd
+16cc
+16b
+16a
+=15
+8g#
+8b
+8e
+8g#
+=16
+4a
+4aa}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 156-157
+!!!ONB: Converted on 2024/12/26 with esac2hum

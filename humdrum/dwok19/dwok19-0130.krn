@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1913000000-owczarek-a_za_rzeka_wolski_hej_ryca.krn
+!!!OTL: Owczarek-A za rzeką wołśki hej rycą
+!!!source: DWOK19
+!!!id: 19130
+!!!signature: 1913000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc#
+=2
+4.dd
+8b
+=3
+4dd
+16cc#
+8.a
+=4
+16f#
+[8.d}
+4d]
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc#
+=6
+4.dd
+8g
+=7
+16a
+[8.g}
+4g]
+!!LO:LB:g=esac
+=8
+{8g
+8a
+8b
+8cc#
+=9
+4.dd
+8b
+=10
+4dd
+16cc#
+8.a
+=11
+16f#
+[8.d}
+4d]
+!!LO:LB:g=esac
+=12
+{8g
+8a
+8b
+8cc#
+=13
+4.dd
+8g
+=14
+16a
+[8.g}
+4g]
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 44} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 44}
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

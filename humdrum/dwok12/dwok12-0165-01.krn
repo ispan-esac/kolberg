@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK1216500001-czemuzes_mnie_matulinku_za_maz_wydala.krn
+!!!OTL: Czemużeś mnie matulinku za mąż wydała
+!!!source: DWOK12
+!!!id: 12165
+!!!signature: 1216500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4dd
+4dd
+=2
+8b
+8dd
+4.ee
+8cc
+=3
+8a
+8f#
+4a
+4b
+=4
+4g}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4dd
+4dd
+=6
+8b
+8dd
+4.ee
+8cc
+=7
+8a
+8f#
+4a
+4b
+=8
+4g}
+4r
+4r
+!!LO:LB:g=esac
+=9
+{4.a
+8d
+8f#
+8g
+=10
+8b
+8b
+4.dd
+8cc
+=11
+4.a
+8d
+8f#
+8g
+=12
+8b
+8b
+4.dd
+8cc}
+!!LO:LB:g=esac
+=13
+{8a
+8f#
+4a
+4b
+=14
+4g}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=99 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 83} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

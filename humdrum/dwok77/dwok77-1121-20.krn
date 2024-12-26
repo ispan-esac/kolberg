@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK77112100020-instrumentalna_polka.krn
+!!!OTL: Instrumentalna, polka
+!!!source: DWOK77
+!!!id: 771121
+!!!signature: 77112100020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+{16dd
+16cc
+=1
+8b
+8b
+8d
+16cc
+16b
+=2
+8a
+8a
+8e
+16ee
+16dd
+=3
+8cc
+8cc
+8d
+16dd
+16cc
+=4
+8b
+8b
+8d
+16b
+16a}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8d
+16g
+16f#
+=6
+8e
+8e
+8c
+16a
+16g
+=7
+8f#
+8f#
+8dd
+16cc
+16a
+=8
+8g
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK5318800002-ajna_ajna_moteriszka.krn
+!!!OTL: Ajna, ajna moteriszka
+!!!source: DWOK53
+!!!id: 53188
+!!!signature: 5318800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4.dd
+8b
+=2
+4.ddd
+8b
+=3
+16ee
+16dd
+16cc
+16b
+8cc
+8a}
+!!LO:LB:g=esac
+=4
+{4.cc
+8a
+=5
+4.cc
+8cc
+=6
+16dd
+16cc
+16b
+16a
+8b
+8a}
+!!LO:LB:g=esac
+=7
+{8g
+8g
+8g
+8g
+=8
+8cc
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=9
+{4dd
+4dd
+=10
+8f#
+8f#
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=347 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 309} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 309}
+!!!page: 309
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK45132100000-jaworze_jaworze.krn
+!!!OTL: Jaworze, jaworze
+!!!source: DWOK45
+!!!id: 451321
+!!!signature: 45132100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4ee
+4a
+=2
+4a
+2g
+=3
+8a
+8b
+4cc
+4dd
+=4
+4f#
+2g}
+!!LO:LB:g=esac
+=5
+{8b
+8g
+4b
+4dd
+=6
+4a
+2g
+=7
+8a
+8b
+4cc
+4dd
+=8
+4f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 139} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 139}
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

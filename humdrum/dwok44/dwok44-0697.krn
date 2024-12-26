@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4469700000-kazali_mi_orac.krn
+!!!OTL: Kazali mi orać
+!!!source: DWOK44
+!!!id: 44697
+!!!signature: 4469700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+4b
+=2
+8cc
+8f#
+4g
+=3
+16b
+16dd
+8dd
+4b
+=4
+4cc
+4f#
+=5
+2g}
+!!LO:LB:g=esac
+=6
+{8a
+8a
+4b
+=7
+8cc
+8a
+4b
+=8
+8dd
+8dd
+4b
+=9
+4cc
+4f#
+=10
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=408 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 350} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 350}
+!!!page: 350
+!!!ONB: Converted on 2024/12/26 with esac2hum

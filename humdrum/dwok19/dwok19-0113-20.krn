@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1911300020-trzymajze_sie_trzymaj.krn
+!!!OTL: Trzymajze się trzymaj
+!!!source: DWOK19
+!!!id: 19113
+!!!signature: 1911300020
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.gg
+16ff
+16ee
+16cc
+16dd
+16ee
+=2
+16gg
+16ff
+4.ff
+=3
+8aa
+8ff
+8ff
+8aa
+=4
+16aa
+16gg
+4gg
+8cc}
+!!LO:LB:g=esac
+=5
+{8.gg
+16ff
+16ee
+16cc
+16cc
+16ee
+=6
+8gg
+4.ff
+=7
+8aa
+8ff
+8ff
+8aa
+=8
+8aa
+4gg
+8c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=53 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 39} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 39}
+!!!page: 39
+!!!ONB: Converted on 2024/12/26 with esac2hum

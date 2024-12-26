@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK57101400000-oj_zel_komus_bude.krn
+!!!OTL: Oj, żel komuś bude
+!!!source: DWOK57
+!!!id: 571014
+!!!signature: 57101400000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{4ee
+4b
+=2
+8b
+8a
+8cc
+8b
+=3
+8b
+8ee
+8b
+8b
+=4
+8b
+8a
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{4b
+4a
+=6
+8g
+8g
+8a
+8f#
+=7
+8g
+8g
+8f#
+8d#
+=8
+8e
+8f#
+8g
+8a}
+!!LO:LB:g=esac
+=9
+{4b
+4a
+=10
+8g
+8g
+8a
+8f#
+=11
+8g
+8g
+8f#
+8d#
+=12
+8e
+8f#
+8g
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

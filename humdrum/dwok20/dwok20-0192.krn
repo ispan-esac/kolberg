@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2019200000-pod_borem_lipka_pod_nia_topola.krn
+!!!OTL: Pod borem lipka pod nią topola
+!!!source: DWOK20
+!!!id: 20192
+!!!signature: 2019200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8f#
+4a
+16cc
+16a
+=2
+8b
+4.g
+=3
+8b
+4dd
+8ff#
+=4
+8ee
+4.a}
+!!LO:LB:g=esac
+=5
+{8b
+4dd
+16gg
+16ff#
+=6
+8ee
+8cc
+4a
+=7
+4d
+8f#
+8a
+=8
+8b
+4.g}
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+8gg
+8ff#
+=10
+8ee
+16ee
+16cc
+8a
+16d
+16c
+=11
+8d
+4f#
+8a
+=12
+16cc
+16b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 185} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 185}
+!!!page: 185
+!!!ONB: Converted on 2024/12/26 with esac2hum

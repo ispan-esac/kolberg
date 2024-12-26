@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK7511000000-ozenil_sie_rano.krn
+!!!OTL: Ozenił sie rano
+!!!source: DWOK75
+!!!id: 75110
+!!!signature: 7511000000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+8r
+{8dd
+4cc
+4ee-
+=2
+4gg
+8ff
+8dd
+4b-}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+4cc
+4ee-
+=4
+4f
+8a
+8cc
+4b-}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4cc
+4ee-
+=6
+8cc
+8a
+8cc
+8a
+8cc
+8ee-}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+4cc
+4ee-
+=8
+4cc
+8a
+8cc
+4b-}
+!!LO:LB:g=esac
+=9
+{8b-
+8dd
+4cc
+4ee-
+=10
+4gg
+4gg
+4ff}
+!!LO:LB:g=esac
+=11
+{8cc
+8ee-
+4gg
+4ff
+=12
+4f
+8a
+8cc
+4b-}
+!!LO:LB:g=esac
+=13
+{8dd
+8dd
+4cc
+4ee-
+=14
+8cc
+8a
+8cc
+8a
+8cc
+8ee-}
+!!LO:LB:g=esac
+=15
+{8ff
+8dd
+4cc
+4ee-
+=16
+4cc
+8a
+8cc
+4b-}
+==
+*-
+!!!ONB: Wariant t. 6-7: 2-72-756  532_4_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 73} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

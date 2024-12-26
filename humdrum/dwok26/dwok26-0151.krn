@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2615100000-niesiemy_jalowiec.krn
+!!!OTL: Niesiemy jałowiec
+!!!source: DWOK26
+!!!id: 26151
+!!!signature: 2615100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8b
+8dd
+16dd
+16b
+=2
+8ee
+16b
+[16g#
+8g#]
+=3
+8ee
+8ee
+8dd
+=4
+8b
+16g#
+[16e}
+8e]
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+16dd
+16b
+=6
+8ee
+4cc
+=7
+4.a}
+!!LO:LB:g=esac
+=8
+{8b
+8dd
+16dd
+16b
+=9
+8ee
+4cc
+=10
+8a
+4a
+=11
+8b
+16g#
+[16e}
+8e]
+!!LO:LB:g=esac
+=12
+{8b
+8dd
+16dd
+16b
+=13
+8ee
+4cc
+=14
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

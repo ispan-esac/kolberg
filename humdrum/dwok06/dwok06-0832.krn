@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK06-K0832-a_kot_kotke_okaleczyl.krn
+!!!OTL: A kot kotke okaleczyl
+!!!source: DWOK06
+!!!id: K0832
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8e
+8cc#
+8cc#
+8cc#
+=2
+8cc#
+8b
+8b
+8dd
+=3
+8ff#
+8ee
+8ee
+8g#
+=4
+8b
+8a
+16a
+16g#
+8a}
+!!LO:LB:g=esac
+=5
+{8e
+8a
+8e
+8a
+=6
+8e
+8a
+16a
+16g#
+8a
+=7
+8e
+8a
+8g#
+8b
+=8
+8b
+8a
+16a
+16g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=520 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 494} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 494}
+!!!page: 494
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1803400000-na_boru_sosna.krn
+!!!OTL: Na boru sosna
+!!!source: DWOK18
+!!!id: 18034
+!!!signature: 1803400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8f#
+4a
+=2
+8cc
+8b
+8g
+=3
+8ee
+4dd
+=4
+8b
+8dd
+8a}
+!!LO:LB:g=esac
+=5
+{8ee
+4dd
+=6
+8b
+4dd
+=7
+8cc
+4a
+=8
+8f#
+4d}
+!!LO:LB:g=esac
+=9
+{8f#
+4a
+=10
+8cc
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 74} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 74}
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

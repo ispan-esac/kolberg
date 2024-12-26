@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK4489800002-terazniejsza_mlodziez.krn
+!!!OTL: Teraźniejsza młodzież
+!!!source: DWOK44
+!!!id: 44898
+!!!signature: 4489800002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16g
+16b
+8dd
+8ff
+8ff
+=2
+8ee
+4.gg
+=3
+16gg
+16aa
+8gg
+8ff
+8dd
+=4
+8gg
+4.gg}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+8ff
+8ff
+=6
+8ee
+4.gg
+=7
+16gg
+16aa
+8gg
+8ff
+8dd
+=8
+8cc
+4.cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8.gg
+16ee
+=10
+8dd
+4.b
+=11
+16dd
+16ee
+8dd
+8.cc
+16a
+=12
+8b
+4.dd}
+!!LO:LB:g=esac
+=13
+{16g
+16b
+8dd
+8ff
+8aa
+=14
+8ee
+4.gg
+=15
+8gg
+8ff
+8ff
+8b
+=16
+8cc
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=477 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 419} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 419}
+!!!page: 419
+!!!ONB: Converted on 2024/12/26 with esac2hum

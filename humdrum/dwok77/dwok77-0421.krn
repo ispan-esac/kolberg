@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7742100000-a_po_co_zes_za_maz_poszla.krn
+!!!OTL: A po co żeś za mąż poszła
+!!!source: DWOK77
+!!!id: 77421
+!!!signature: 7742100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4b
+4b
+=2
+8cc
+8a
+4f#
+4f#
+=3
+8d
+8f#
+4a
+4cc
+=4
+8ee
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4dd
+4dd
+=6
+8cc
+8a
+4a
+4a
+=7
+8d
+8f#
+4a
+8cc
+8b
+=8
+8g
+8g
+4b
+4g}
+==
+*-
+!!!ONB: Wariant w takcie pierwszym: 133_35
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 216
+!!!ONB: Converted on 2024/12/26 with esac2hum

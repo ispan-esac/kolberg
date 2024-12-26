@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK2403500001-nuz_my_pastuskowie.krn
+!!!OTL: Nuz my pastuskowie
+!!!source: DWOK24
+!!!id: 24035
+!!!signature: 2403500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+4b
+=2
+16b
+16cc
+8a
+8f#
+=3
+8g
+4b
+=4
+16b
+16cc
+8a
+8f#}
+!!LO:LB:g=esac
+=5
+{8d
+8.f#
+16a
+=6
+4.g}
+!!LO:LB:g=esac
+=7
+{8g
+4b
+=8
+16b
+16cc
+8a
+8f#
+=9
+8g
+4b
+=10
+16b
+16cc
+8a
+8f#}
+!!LO:LB:g=esac
+=11
+{8a
+8a
+8b
+=12
+4.g}
+!!LO:LB:g=esac
+=13
+{16a
+16f#
+8g
+8b
+=14
+16.a
+32ee
+16dd
+16cc
+16a
+16f#
+=15
+8a
+8g
+8b
+=16
+16e
+16a
+16g
+16f#
+16e
+16f#}
+!!LO:LB:g=esac
+=17
+{8d
+4f#
+=18
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 105} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

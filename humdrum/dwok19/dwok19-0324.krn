@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1932400000-oj_nie_bij_descu_nie_bij.krn
+!!!OTL: Oj nie bij descu nie bij
+!!!source: DWOK19
+!!!id: 19324
+!!!signature: 1932400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8b
+8dd
+8ee
+=2
+16ff#
+16dd#
+8ee
+16cc
+16b
+=3
+8a
+16cc
+16b
+16a
+16g#
+=4
+16a
+32cc
+32b
+8g#
+8a}
+!!LO:LB:g=esac
+=5
+{16e
+32f#
+32g#
+8a
+16cc
+16a
+=6
+16b
+16dd
+8ee
+16cc
+16b
+=7
+8a
+16cc
+16b
+16a
+16g#
+=8
+16a
+32cc
+32b
+8g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 99} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 99}
+!!!page: 99
+!!!ONB: Converted on 2024/12/26 with esac2hum

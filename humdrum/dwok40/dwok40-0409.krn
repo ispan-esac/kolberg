@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4040900000-mam_we_swiat_wedrowac.krn
+!!!OTL: Mam we świat wędrować
+!!!source: DWOK40
+!!!id: 40409
+!!!signature: 4040900000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{4b
+4cc
+4b
+=2
+8cc
+8dd
+2ee
+=3
+8b
+8b
+4.ee
+8b
+=4
+8g
+8f#
+4e}
+4r
+!!LO:LB:g=esac
+=5
+{8b
+8b
+4.a
+8g
+=6
+8a
+8b
+4cc
+4dd
+=7
+8b
+8b
+4.a
+8b
+=8
+8g
+8f#
+4e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=472 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 407} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 407}
+!!!page: 407
+!!!ONB: Converted on 2024/12/26 with esac2hum

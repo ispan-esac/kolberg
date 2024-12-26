@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK3636500000-czy_ja_bula_ne_diwonka.krn
+!!!OTL: Czy ja buła ne diwońka
+!!!source: DWOK36
+!!!id: 36365
+!!!signature: 3636500000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+=1
+{16e
+8.e
+16g#
+8.b
+=2
+16b
+8.a
+16g#
+8.e
+=3
+16e
+8.e
+16g#
+8.e
+=4
+16g#
+8.g#
+8a
+8g#
+=5
+4b
+8a
+8g#}
+!!LO:LB:g=esac
+=6
+{8.b
+16a
+8g#
+8b
+=7
+16b
+8.a
+16g#
+8.e
+=8
+16e
+8.e
+8g#
+16a
+16b
+=9
+16b
+8.g#
+16a
+8.g#
+=10
+4e
+8e}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

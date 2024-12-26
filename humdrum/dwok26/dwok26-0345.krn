@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2634500000-miedzy_ogrody_zbiegaja_wody.krn
+!!!OTL: Między ogrody zbiegają wody
+!!!source: DWOK26
+!!!id: 26345
+!!!signature: 2634500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{8ff
+8ee
+8ff
+4gg
+8ff
+=2
+8ee
+8ff
+8dd
+4cc
+8cc}
+!!LO:LB:g=esac
+=3
+{8a
+8g
+8b-
+4dd
+8dd
+=4
+8cc
+8b-
+8g
+4f
+8f}
+!!LO:LB:g=esac
+=5
+{8c
+8e
+8g
+4b-
+8a
+=6
+8f
+8f
+8dd
+4cc
+8cc}
+!!LO:LB:g=esac
+=7
+{8c
+8e
+8g
+4b-
+8cc
+=8
+8dd
+8cc
+8e
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 257
+!!!ONB: Converted on 2024/12/26 with esac2hum

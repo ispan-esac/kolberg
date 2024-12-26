@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK8355500000-bolyt_mene_holowojka_bolyt.krn
+!!!OTL: Bołyt mene hołowojka, bołyt
+!!!source: DWOK83
+!!!id: 83555
+!!!signature: 8355500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4.ee
+8dd
+=2
+8ff
+8ee
+8ee
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+4b
+4a
+=4
+8cc
+8ee
+8ee
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4b
+4a
+=6
+4cc
+4dd
+8ee
+8cc
+=7
+4cc
+2a}
+==
+*-
+!!!ONB: Wariant t. 5-6: 3b_3b_2_1_1__  3b__4__543b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=450 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 339} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 339}
+!!!page: 339
+!!!ONB: Converted on 2024/12/26 with esac2hum

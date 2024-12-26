@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2703900000-moj_wianeczku_z_bialej_rozy.krn
+!!!OTL: Mój wianeczku z białej róży
+!!!source: DWOK27
+!!!id: 27039
+!!!signature: 2703900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4a
+8cc
+=2
+8b
+4a
+=3
+4g
+8d
+=4
+8f
+4e}
+!!LO:LB:g=esac
+=5
+{4a
+8cc
+=6
+8b
+4a
+=7
+4g
+8d
+=8
+8f
+4e}
+!!LO:LB:g=esac
+=9
+{16d
+16e
+8f
+8e
+=10
+16g
+16g
+8a
+8g
+=11
+16d
+16e
+8f
+8a
+=12
+4g
+8d
+=13
+8f
+4e}
+==
+*-
+!!!ONB: Podane metrum 3/4, zapisano poprawnie 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 163} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 163}
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK45176000000-byla_koziczka.krn
+!!!OTL: Była koziczka
+!!!source: DWOK45
+!!!id: 451760
+!!!signature: 45176000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+4r
+{8b
+8cc
+8dd
+8dd
+=2
+4dd
+2g
+=3
+8dd
+8b
+2g
+=4
+8a
+8f#
+2g}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8cc
+8cc
+8g
+=6
+8dd
+8b
+2b
+=7
+8a
+8f#
+2g}
+!!LO:LB:g=esac
+=8
+{8d
+8d
+2d
+=9
+8d
+8d
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 273} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 273}
+!!!page: 273
+!!!ONB: Converted on 2024/12/26 with esac2hum

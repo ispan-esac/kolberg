@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1926000000-hulaj_jasiu_hulaj_hulaj.krn
+!!!OTL: Hulaj Jasiu, hulaj, hulaj
+!!!source: DWOK19
+!!!id: 19260
+!!!signature: 1926000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8g
+8b
+=2
+16cc
+16ee
+8.dd
+16d
+=3
+16d
+16f#
+16g
+16a
+16cc
+16b
+=4
+16a
+16a
+8b
+8d}
+!!LO:LB:g=esac
+=5
+{8f#
+8g
+8b
+=6
+16cc
+16a
+8.dd
+16d
+=7
+16d
+16f#
+16g
+16a
+16cc
+16b
+=
+24a
+24f#
+24a
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 80} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

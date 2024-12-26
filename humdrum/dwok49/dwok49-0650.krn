@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4965000000-juz_ide_do_grobu_smutnego_ciemnego.krn
+!!!OTL: Już idę do grobu smutnego, ciemnego
+!!!source: DWOK49
+!!!id: 49650
+!!!signature: 4965000000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4dd
+4.ee
+8dd
+=2
+4dd
+4b
+2cc
+=3
+4dd
+4ee
+4ff
+8gg
+8ee
+=4
+4ee
+4dd
+2dd}
+!!LO:LB:g=esac
+=5
+{4cc
+4dd
+4.ee
+8dd
+=6
+4dd
+4b
+2cc
+=7
+4ff
+4dd
+4cc
+4b
+=8
+2cc
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=625 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 535} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 535}
+!!!page: 535
+!!!ONB: Converted on 2024/12/26 with esac2hum

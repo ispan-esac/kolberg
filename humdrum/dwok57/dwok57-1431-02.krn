@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK57143100002-niechto_to_ne_wynen_sama_ja.krn
+!!!OTL: Niechto to ne wynen, sama ja
+!!!source: DWOK57
+!!!id: 571431
+!!!signature: 57143100002
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{4b
+8cc
+8a
+8g
+8d
+=2
+8e
+8e
+4d}
+4r
+!!LO:LB:g=esac
+=3
+{8g#
+8b
+8a
+8a
+8dd
+8cc
+=4
+2b}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8cc
+8a
+8g
+8d
+=6
+8e
+8e
+2d}
+!!LO:LB:g=esac
+=7
+{16d
+16g
+8b
+8a
+8a
+8b
+8b
+=8
+2e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 485
+!!!ONB: Converted on 2024/12/26 with esac2hum

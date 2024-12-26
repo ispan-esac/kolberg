@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1314500000-wyszly_rybki.krn
+!!!OTL: Wyszły rybki
+!!!source: DWOK13
+!!!id: 13145
+!!!signature: 1314500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4cc
+8ee
+=2
+16cc
+16g
+8b
+8dd
+=3
+4cc
+8ee
+=4
+16cc
+16g
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{8e
+8g
+8g
+=6
+16g
+16e
+8f
+8f
+=7
+8d
+8f
+16f
+16e
+=8
+16f
+16g
+8e
+8c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 83} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

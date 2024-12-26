@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK1649300000-umar_maciek_umar.krn
+!!!OTL: Umar Maciek umar
+!!!source: DWOK16
+!!!id: 16493
+!!!signature: 1649300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16g#
+8a
+8b
+=2
+8cc
+4cc
+=3
+16ee
+16ee
+8dd
+8cc
+=4
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{16a
+16g#
+8a
+8b
+=6
+8cc
+4cc
+=7
+16ee
+16ee
+8dd
+8cc
+=8
+8cc
+4b}
+!!LO:LB:g=esac
+=9
+{4dd
+8ee
+=10
+16dd
+16cc
+8b
+8cc
+=11
+4b
+8cc
+=12
+16b
+16a
+8g#
+8a}
+!!LO:LB:g=esac
+=13
+{4dd
+8ee
+=14
+16dd
+16cc
+8b
+8cc
+=15
+8b
+16b
+16ee
+16dd
+16cc
+=16
+16b
+16a
+8g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=320 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 300} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 300}
+!!!ONB: Converted on 2024/12/26 with esac2hum

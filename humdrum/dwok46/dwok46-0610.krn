@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK4661000000-bije_z_wiatrem_grad_mieszany.krn
+!!!OTL: Bije z wiatrem grad mieszany
+!!!source: DWOK46
+!!!id: 46610
+!!!signature: 4661000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8a
+8b
+=2
+8cc
+8cc
+8b
+8cc
+=3
+8dd
+8dd
+8gg
+8ff
+=4
+8ee
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+8cc
+8b
+=6
+8a
+8a
+8g#
+8a
+=7
+8b
+8e
+8cc
+8b
+=8
+8a
+8b
+8cc
+8dd}
+!!LO:LB:g=esac
+=9
+{8ee
+8dd
+8cc
+8b
+=10
+8a
+8a
+8g#
+8a
+=11
+8b
+8e
+8cc
+8b
+=12
+8a
+8g
+8g
+8g}
+==
+*-
+!!!ONB: Więzień syberyjski
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=420 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 386} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 386}
+!!!page: 386
+!!!ONB: Converted on 2024/12/26 with esac2hum

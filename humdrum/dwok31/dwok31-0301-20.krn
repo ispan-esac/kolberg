@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK3130100020-instrumentalna-kolomyjka_dribnenka.krn
+!!!OTL: Instrumentalna-Kołomyjka dribnenka
+!!!source: DWOK31
+!!!id: 31301
+!!!signature: 3130100020
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8gg
+4ff
+16gg
+16ff
+=2
+16ff
+16ee
+16ee
+16cc
+16dd
+16ee
+16ff
+16dd
+=3
+16ff
+16ee
+16ee
+16cc
+16dd
+16ee
+16ff
+16dd
+=4
+16b
+16cc
+16dd
+16ff#
+4gg}
+!!LO:LB:g=esac
+=5
+{8gg
+4ff
+16gg
+16ff
+=6
+8ff
+8ee
+8dd
+8dd
+=7
+8ff
+8ee
+8dd
+8dd
+=8
+16b
+16cc
+16dd
+16b
+4cc}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 37} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

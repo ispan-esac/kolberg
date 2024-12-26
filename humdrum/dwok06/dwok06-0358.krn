@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK06-K0358-kumosia_kumosi.krn
+!!!OTL: Kumosia kumosi
+!!!source: DWOK06
+!!!id: K0358
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4.dd
+8b
+=2
+8dd
+8dd
+8ee
+8b
+=3
+4.cc
+8a
+=4
+8cc
+8cc
+8dd
+8a}
+!!LO:LB:g=esac
+=5
+{4.b
+8g
+=6
+8b
+8b
+8cc
+8a
+=7
+4.a
+8f#
+=8
+8f#
+8a
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{4.b
+8g
+=10
+8b
+8b
+8cc
+8a
+=11
+4.a
+8f#
+=12
+8f#
+8a
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 180} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 180}
+!!!page: 180
+!!!ONB: Converted on 2024/12/26 with esac2hum

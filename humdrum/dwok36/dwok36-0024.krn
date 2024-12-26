@@ -1,0 +1,113 @@
+!!!!SEGMENT: DWOK3602400000-wstante_bojary_wstante.krn
+!!!OTL: Wstańte bojary wstańte
+!!!source: DWOK36
+!!!id: 36024
+!!!signature: 3602400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8ee
+=2
+8ee
+4a
+=3
+4.b
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+=6
+8ee
+4ee
+=7
+16ee
+16b
+4a}
+!!LO:LB:g=esac
+=8
+{8cc
+8ee
+8ee
+=9
+8ee
+4ee
+=10
+16ee
+16b
+4a}
+!!LO:LB:g=esac
+=11
+{8ee
+4ee
+=12
+16ee
+16b
+4a
+=13
+8cc
+8ee
+8ee
+=14
+16ee
+16b
+4a}
+!!LO:LB:g=esac
+=15
+{8ee
+4ee
+=16
+16ee
+16b
+4a
+=17
+8cc
+4ee
+=18
+16ee
+16b
+4a}
+!!LO:LB:g=esac
+=19
+{8cc
+8ee
+8ee
+=20
+16ee
+16b
+4a
+=21
+8cc
+4ee
+=22
+16ee
+16b
+4a}
+!!LO:LB:g=esac
+=23
+{8a
+8a
+8b
+=24
+8cc
+4b
+=25
+4.a
+=26
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

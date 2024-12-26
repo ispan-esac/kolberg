@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK06-K0357-brande_burek.krn
+!!!OTL: Brande burek
+!!!source: DWOK06
+!!!id: K0357
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{4dd
+4a
+=2
+8g
+8f#
+4e
+=3
+2d}
+!!LO:LB:g=esac
+=4
+{4dd
+4a
+=5
+8g
+8f#
+4e
+=6
+4d}
+4r
+!!LO:LB:g=esac
+=7
+{8e
+8f#
+8g
+16g
+16f#
+=8
+8g
+16g
+16f#
+8e
+8e
+=9
+8e
+8f#
+8g
+16g
+16f#}
+!!LO:LB:g=esac
+=10
+{8g
+16g
+16f#
+8e
+8e
+=11
+4dd
+4a
+=12
+8g
+8f#
+4e
+=13
+4d}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 180} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 180}
+!!!page: 180
+!!!ONB: Converted on 2024/12/26 with esac2hum

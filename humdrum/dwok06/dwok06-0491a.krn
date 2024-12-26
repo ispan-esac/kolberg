@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK06-K0491a-jestem_sobie_chlopek.krn
+!!!OTL: Jestem sobie chlopek
+!!!source: DWOK06
+!!!id: K0491a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8f#
+4a
+=2
+8dd
+4b
+8g
+=3
+8d
+8f#
+4a
+=4
+8b
+4g
+8b}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+4a
+=6
+8dd
+4b
+8g
+=7
+8d
+8f#
+4a
+=8
+8g
+4g
+8g}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+4dd
+=10
+8gg
+4ee
+8cc
+=11
+8g
+8b
+4dd
+=12
+8a
+4a
+8cc}
+!!LO:LB:g=esac
+=13
+{8g
+8b
+4b
+=14
+8dd
+4b
+8g
+=15
+8d
+8f#
+4a
+=16
+8g
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 273} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 273}
+!!!page: 273
+!!!ONB: Converted on 2024/12/26 with esac2hum

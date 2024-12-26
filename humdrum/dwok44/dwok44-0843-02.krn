@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK4484300002-w_jarem_polu_gruszka_stoi.krn
+!!!OTL: w jarem polu gruszka stoi
+!!!source: DWOK44
+!!!id: 44843
+!!!signature: 4484300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16dd
+16b
+8dd
+8dd
+=3
+16gg
+16ff#
+8ee
+8dd
+=4
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{16gg
+16gg
+8ff#
+8ee
+=6
+16dd
+32dd
+32cc
+8b
+8g
+=7
+16gg
+16gg
+8ff#
+8ee
+=8
+16dd
+32dd
+32cc
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{16f#
+16a
+8cc
+8cc
+=10
+16b
+16dd
+4dd
+=11
+16ee
+16dd
+8cc
+8a
+=12
+8a
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=456 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 398-399} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, pp. 398-399}
+!!!page: 398-399
+!!!ONB: Converted on 2024/12/26 with esac2hum

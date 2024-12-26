@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4818200000-w_zielonym_gaju_przy_milym_chlodzie.krn
+!!!OTL: W zielonym gaju przy miłym chłodzie
+!!!source: DWOK48
+!!!id: 48182
+!!!signature: 4818200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8d
+8e
+8f#
+4g
+8g
+=2
+8f#
+8e
+8e
+4e
+8e
+=3
+8e
+8e
+8f#
+4g
+8e
+=4
+8e
+8d
+8d
+4d
+8d}
+!!LO:LB:g=esac
+=5
+{4d
+8f#
+4a
+8cc
+=6
+4b
+8g
+4b
+8b
+=7
+4a
+8a
+4a
+8f#
+=8
+4g
+8g
+4b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 216} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 216}
+!!!page: 216
+!!!ONB: Converted on 2024/12/26 with esac2hum

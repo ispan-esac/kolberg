@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7701700000-cemu_druhny_nie_spiewata.krn
+!!!OTL: Cemu druhny nie śpiewata
+!!!source: DWOK77
+!!!id: 77017
+!!!signature: 7701700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8dd
+8b
+4g
+4ff
+=2
+8dd
+8ff
+4.gg
+8ee}
+!!LO:LB:g=esac
+=3
+{8dd
+8b
+4g
+4ff
+=4
+8dd
+8dd
+4ee
+4cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8b
+4g
+4ff
+=6
+8dd
+8ff
+4.gg
+8ee}
+!!LO:LB:g=esac
+=7
+{8dd
+8b
+4g
+4ff
+=8
+8dd
+8b
+4dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 34
+!!!ONB: Converted on 2024/12/26 with esac2hum

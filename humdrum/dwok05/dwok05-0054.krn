@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK05-K0054-oj_widziales_ty_banku.krn
+!!!OTL: Oj widziales ty Banku
+!!!source: DWOK05
+!!!id: K0054
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+=1
+*M2/4
+{4cc
+8cc
+8cc
+=2
+8b
+8cc
+8dd
+8cc
+=3
+8cc
+8cc
+8b
+8cc
+=4
+4a
+4f}
+!!LO:LB:g=esac
+=5
+{8f
+8g
+8a
+8b
+=6
+16dd
+16cc
+4.cc
+=7
+8cc
+8cc
+8b
+8cc
+=8
+4a
+4f}
+!!LO:LB:g=esac
+=9
+*M3/8
+{16f
+16f
+16f
+16g
+16a
+16b-
+=10
+16cc
+16cc
+8a
+8f
+=11
+16f
+16a
+8cc
+16cc
+16a
+=12
+4b-
+16b-
+16a}
+!!LO:LB:g=esac
+=13
+{16g
+16a
+8b-
+8b-
+=14
+16a
+16g
+8a
+8f
+=15
+16e
+16f
+16g
+16f
+16g
+16a
+=16
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 241} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

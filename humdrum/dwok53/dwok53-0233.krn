@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK5323300000-o_kur_tu_buvaj.krn
+!!!OTL: O kur tu buvaj
+!!!source: DWOK53
+!!!id: 53233
+!!!signature: 5323300000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{4e
+4f#
+=2
+4g
+4g
+=3
+4.f#
+8b}
+!!LO:LB:g=esac
+=4
+{4a
+4a
+=5
+4g
+4f#
+=6
+2e}
+!!LO:LB:g=esac
+=7
+{4e
+4f#
+=8
+4g
+4g
+=9
+4.f#
+8b}
+!!LO:LB:g=esac
+=10
+{4a
+4a
+=11
+4g
+4f#
+=12
+2e}
+!!LO:LB:g=esac
+=13
+{4g
+4a
+=14
+4b
+4b
+=15
+4.a
+8g
+=16
+4f#
+4e}
+!!LO:LB:g=esac
+=17
+{4a
+4a
+=18
+4e
+8g
+8g
+=19
+2f#
+=20
+2e}
+!!LO:LB:g=esac
+=21
+{4g
+4a
+=22
+4b
+4b
+=23
+4.a
+8g
+=24
+4f#
+4e}
+!!LO:LB:g=esac
+=25
+{4a
+4a
+=26
+4e
+4g
+=27
+4f#
+4f#
+=28
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=371 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 331} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 331}
+!!!page: 331
+!!!ONB: Converted on 2024/12/26 with esac2hum

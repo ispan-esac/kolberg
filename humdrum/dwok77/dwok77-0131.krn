@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK7713100000-z_poznania_ja_parobecek.krn
+!!!OTL: Z Poznania ja parobecek
+!!!source: DWOK77
+!!!id: 77131
+!!!signature: 7713100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+16cc#
+16a
+16g
+16b
+=2
+16a
+16cc#
+8ee
+8ee
+=3
+8dd
+16cc#
+16a
+8dd
+=4
+16b
+16g
+8a
+8a}
+!!LO:LB:g=esac
+=5
+{8a
+16a
+16g
+16b
+16dd
+=6
+16b
+16dd
+8cc
+8a
+=7
+8a
+16g
+16b
+16b
+16dd
+=8
+16b
+16g
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

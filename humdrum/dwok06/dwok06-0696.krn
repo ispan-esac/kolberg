@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK06-K0696-nie_mam_stosow_zlota.krn
+!!!OTL: Nie mam stosow zlota
+!!!source: DWOK06
+!!!id: K0696
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8b
+8cc
+=2
+8dd
+4gg
+8ff#
+=3
+8dd
+8ff#
+8.gg
+16ee
+=4
+8dd
+4b}
+8r
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8.ee
+16dd
+=6
+8dd
+4cc
+8a
+=7
+8d
+8f#
+8a
+8cc
+=8
+8b
+4dd}
+8r
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8.ee
+16dd
+=10
+8dd
+4cc
+8a
+=11
+8.d
+16f#
+8a
+8f#
+=12
+8g
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=459 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 433} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 433}
+!!!page: 433
+!!!ONB: Converted on 2024/12/26 with esac2hum

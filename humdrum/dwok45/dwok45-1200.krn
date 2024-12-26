@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK45120000000-za_co_ksiedzu.krn
+!!!OTL: Za co księdzu
+!!!source: DWOK45
+!!!id: 451200
+!!!signature: 45120000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8ff
+8dd
+=2
+4.gg
+8ee
+=3
+16dd
+16ee
+8ff
+8b
+8dd
+=4
+8dd
+4.cc}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4ff
+=6
+8ee
+4gg
+8ee
+=7
+16dd
+16ee
+8ff
+8b
+8dd
+=8
+8dd
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 99} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 99}
+!!!page: 99
+!!!ONB: Converted on 2024/12/26 with esac2hum

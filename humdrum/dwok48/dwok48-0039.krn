@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4803900000-oj_siwy_konik_siwy.krn
+!!!OTL: Oj, siwy konik, siwy
+!!!source: DWOK48
+!!!id: 48039
+!!!signature: 4803900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+8dd
+=2
+8dd
+8dd
+8b
+8dd
+=3
+8dd
+8dd
+8cc
+8cc
+=4
+16dd
+16b
+4b
+8g}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+4cc
+8cc
+=6
+8cc
+16dd
+16cc
+8a
+8cc
+=7
+8ee
+8ee
+8dd
+8cc
+=8
+8cc
+4b}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 111} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

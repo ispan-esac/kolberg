@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3041900000-oj_u_misti_w_jezupole.krn
+!!!OTL: Oj u misti w Jezupołe
+!!!source: DWOK30
+!!!id: 30419
+!!!signature: 3041900000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8dd
+4dd
+=2
+8dd
+8dd
+8b
+=3
+8dd
+8dd
+16b
+16a
+=4
+8.dd
+16b
+16b
+16a}
+!!LO:LB:g=esac
+=5
+{8dd
+4dd
+=6
+8b
+4a
+=7
+8a
+4a
+=8
+8.dd
+16b
+16b
+16a}
+!!LO:LB:g=esac
+=9
+{8dd
+4dd
+=10
+8b
+4a
+=11
+8a
+4a
+=12
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 227} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 227}
+!!!page: 227
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK4956800002-oj_obezryj_sie_nadobna_marys_za_soba.krn
+!!!OTL: Oj, obeźryj się, nadobna Maryś, za sobą
+!!!source: DWOK49
+!!!id: 49568
+!!!signature: 4956800002
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16a
+8ee
+8ee
+=2
+4.b
+=3
+16b
+16ee
+8ff##
+8ee
+=4
+8ee
+16dd
+16a
+8a
+=5
+4b
+16b
+16a}
+!!LO:LB:g=esac
+=6
+{16a
+16a
+8ee
+8ee
+=7
+4.b
+=8
+16b
+16ee
+8ff##
+8ee
+=9
+8ee
+16dd
+16a
+8a
+=10
+4b
+16b
+32a}
+32r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=573 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 483} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 483}
+!!!page: 483
+!!!ONB: Converted on 2024/12/26 with esac2hum

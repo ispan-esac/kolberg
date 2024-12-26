@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK06-K0749-a_te_podskalany.krn
+!!!OTL: A te podskalany
+!!!source: DWOK06
+!!!id: K0749
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8ee
+4cc
+8ee
+=2
+8dd
+8cc
+8b
+8a
+=3
+8g
+8b
+8dd
+8dd
+=4
+8ee
+4.cc}
+!!LO:LB:g=esac
+=5
+{8d
+4g
+8b
+=6
+8a
+8g
+8f#
+8e
+=7
+8d
+8cc
+8cc
+8cc
+=8
+8cc
+4b
+8b}
+!!LO:LB:g=esac
+=9
+{16a
+16g
+4g
+8b
+=10
+8a
+8g
+8f#
+8e
+=11
+8d
+8f#
+8g
+8a
+=12
+8g
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=484 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 458} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 458}
+!!!page: 458
+!!!ONB: Converted on 2024/12/26 with esac2hum

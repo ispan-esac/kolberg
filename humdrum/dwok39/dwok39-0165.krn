@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3916500000-poczekaj_jasiu_poczekaj_jasiu.krn
+!!!OTL: Poczekaj Jasiu, poczekaj Jasiu
+!!!source: DWOK39
+!!!id: 39165
+!!!signature: 3916500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+{12ff
+12ee
+12ff
+8gg
+8dd
+=
+12ff
+12ee
+12ff
+8gg
+8dd
+=1
+8ff
+8aa
+8gg
+8dd
+=2
+8ee
+8dd
+4cc}
+!!LO:LB:g=esac
+=
+{12ff
+12ee
+12ff
+8gg
+8dd
+=
+12ff
+12ee
+12ff
+8gg
+8dd
+=3
+8ff
+8aa
+8gg
+8dd
+=4
+8ee
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=254 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 202} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 202}
+!!!page: 202
+!!!ONB: Converted on 2024/12/26 with esac2hum

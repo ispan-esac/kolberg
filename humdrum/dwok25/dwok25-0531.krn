@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2553100000-o_ty_dziewcyno_ladna.krn
+!!!OTL: O ty dziewcyno ładna
+!!!source: DWOK25
+!!!id: 25531
+!!!signature: 2553100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8ee
+16cc
+16a
+=
+24g
+24f#
+24g
+8b
+16dd
+16a
+=2
+16b
+16dd
+8ee
+16cc
+16a
+=
+24g
+24f#
+24g
+8b
+8a}
+!!LO:LB:g=esac
+=3
+{16d
+16d
+8f#
+8g
+=
+24b
+24a
+24b
+8cc
+8a
+=4
+16d
+16d
+8f#
+16g
+16b
+=5
+16dd
+16ee
+16dd
+16cc
+16a
+16f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 208} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 208}
+!!!page: 208
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK3612900000-molodeji_motrunki_maty.krn
+!!!OTL: Mołodeji Motrunki maty
+!!!source: DWOK36
+!!!id: 36129
+!!!signature: 3612900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8ff
+8ee
+8dd
+8ee
+8dd
+8ff
+=2
+4ee
+4dd
+4cc#
+=3
+8dd
+8ee
+8ff
+8dd
+8cc#
+8a
+=4
+8g
+8b-
+4a
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum

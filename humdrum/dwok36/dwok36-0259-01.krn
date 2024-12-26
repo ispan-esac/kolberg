@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK3625900001-rozwywaj_sia_suchyj_dube.krn
+!!!OTL: Rozwywaj sia suchyj dube
+!!!source: DWOK36
+!!!id: 36259
+!!!signature: 3625900001
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8g
+8a
+8b
+8a
+8b
+8g
+=2
+8f#
+8e
+4d
+4d
+=3
+8b
+8b
+4a
+8b
+8f#
+=4
+*M4/4
+8g
+8b
+2a
+8b
+16a
+16f#}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8g
+8a
+8b
+8a
+8b
+8g
+=6
+8f#
+8e
+4d
+4d
+=7
+8f#
+8a
+8g
+8f#
+8e
+8e
+=8
+2d
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 154-155
+!!!ONB: Converted on 2024/12/26 with esac2hum

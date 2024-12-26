@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK41111900001-i_rozlecialy_sie_golebie_po_polu.krn
+!!!OTL: I rozleciały się gołębie po polu
+!!!source: DWOK41
+!!!id: 411119
+!!!signature: 41111900001
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+8cc
+8ee
+4.gg
+8ee
+=2
+4gg
+8gg
+8dd
+4ff
+8dd
+8b}
+!!LO:LB:g=esac
+=3
+{4cc
+8cc
+8ee
+4.gg
+8ee
+=4
+4gg
+8gg
+8dd
+4ff
+4ee}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+8b
+4cc
+4g
+=6
+8ee
+8dd
+8ee
+8gg
+4ff
+4ee}
+!!LO:LB:g=esac
+=7
+{4g
+8dd
+8b
+4cc
+4g
+=8
+8a
+8g
+8a
+8b
+4cc
+4g}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8dd
+8b
+4cc
+4g
+=10
+8ee
+8dd
+8ee
+8gg
+4ff
+4ee}
+!!LO:LB:g=esac
+=11
+{4g
+8dd
+8b
+4cc
+4g
+=12
+8a
+8g
+8a
+8b
+4cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=567 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 480-481} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 480-481}
+!!!page: 480-481
+!!!ONB: Converted on 2024/12/26 with esac2hum

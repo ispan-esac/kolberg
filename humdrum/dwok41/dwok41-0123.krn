@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4112300000-a_widzisz_dziewczyno_te_sucha_topola.krn
+!!!OTL: A widzisz dziewczyno tę suchą topolą
+!!!source: DWOK41
+!!!id: 41123
+!!!signature: 4112300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ee
+16ee
+8ff
+8ff
+=2
+4ee
+8cc
+=3
+16ee
+16ee
+8ff
+8ff
+=4
+4ee
+8cc}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8g
+8b
+=6
+4cc
+8ee
+=7
+16dd
+16dd
+8g
+8b
+=8
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 88} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

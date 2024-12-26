@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK8418100000-byla_zinka_czolowika.krn
+!!!OTL: Była żinka czołowika
+!!!source: DWOK84
+!!!id: 84181
+!!!signature: 8418100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8a
+8a
+8a
+=2
+16g
+16a
+8b-
+8b-
+16a
+16g
+=3
+8f
+8a
+8a
+8a
+=4
+8.g
+16e
+4c}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+16a
+16g
+8a
+=6
+8g
+8b-
+16b-
+16a
+16b-
+16g
+=7
+8f
+16a
+16cc
+8g
+16e
+16c
+=8
+4f
+4f}
+==
+*-
+!!!ONB: Wariant t. 3: 1_3_4_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=237 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 175} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 175}
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

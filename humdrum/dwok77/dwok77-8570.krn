@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK7785700000-panna_ludwika_ni_ma_jezyka.krn
+!!!OTL: Panna Ludwika ni ma języka
+!!!source: DWOK77
+!!!id: 778570
+!!!signature: 7785700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8cc
+8ee
+8b
+4cc
+=2
+8ee
+8gg
+8ccc
+8ee
+4gg
+=3
+8dd
+8ee
+8ff
+8dd
+4dd
+=4
+8cc
+8dd
+8ee
+8g
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8ee
+8b
+4cc
+=6
+8ee
+8gg
+8ccc
+8ee
+4gg
+=7
+8dd
+8ee
+8ff
+8dd
+4dd
+=8
+8cc
+8ee
+8dd
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

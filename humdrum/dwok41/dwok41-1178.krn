@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK41117800000-prosila_kasinka.krn
+!!!OTL: Prosiła Kasinka
+!!!source: DWOK41
+!!!id: 411178
+!!!signature: 41117800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8b
+8g
+8b
+=2
+4.dd
+8dd
+=3
+8dd
+8b
+8g
+8b
+=4
+4dd
+4gg}
+!!LO:LB:g=esac
+=5
+{8ee
+4cc
+8cc
+=6
+8b
+4b
+8g
+=7
+8a
+8cc
+8f#
+8a
+=8
+4g
+8gg
+8ee}
+!!LO:LB:g=esac
+=9
+{8ee
+4cc
+8cc
+=10
+8b
+4b
+8g
+=11
+8a
+8cc
+8f#
+8a
+=12
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=596 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 509} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 509}
+!!!page: 509
+!!!ONB: Converted on 2024/12/26 with esac2hum

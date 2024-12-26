@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK35B-35B01100002-w_nowym_misti_w_starym_seli_stala-s_nowyna.krn
+!!!OTL: W nowym misti, w starym seli, stała-ś nowyna
+!!!source: DWOK35B
+!!!id: 35B011
+!!!signature: 35B01100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+16a
+16cc
+4.b
+16cc
+16a
+=2
+8g
+32a
+32b
+32cc
+32a
+4.b
+16cc
+16a
+=3
+8g
+8a
+8b
+16cc
+16b
+4dd}
+!!LO:LB:g=esac
+=4
+{8dd
+8ff#
+4.ee
+16ff#
+16dd
+=5
+8cc
+16b
+16a
+4.cc
+16ee
+16dd
+=6
+8b
+16g
+16b
+8cc
+16a
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 135} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

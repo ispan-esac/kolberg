@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK5016600002-jest_ta_w_lisi_jaworoczok.krn
+!!!OTL: Jest ta w lisi jaworoczok
+!!!source: DWOK50
+!!!id: 50166
+!!!signature: 5016600002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4.f
+8a
+8cc
+16f
+16a
+=2
+4g
+8g
+8e
+4f}
+!!LO:LB:g=esac
+=3
+{4.f
+8a
+8cc
+16f
+16a
+=4
+4g
+8g
+8e
+4f}
+!!LO:LB:g=esac
+=5
+{4.b-
+8cc
+8dd
+16cc
+16b-
+=6
+4.b-
+16a
+16g
+8f
+8g}
+!!LO:LB:g=esac
+=7
+{4.f
+8a
+8cc
+8f
+=8
+4.g
+16g
+16f
+8e
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 76} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 76}
+!!!page: 76
+!!!ONB: Converted on 2024/12/26 with esac2hum

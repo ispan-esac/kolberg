@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2100800000-oj_lecie_lecie_slonce_gorace.krn
+!!!OTL: Oj lecie, lecie słońce gorące
+!!!source: DWOK21
+!!!id: 21008
+!!!signature: 2100800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+8dd
+8ee
+4cc
+=2
+8b
+8dd
+8b
+8a
+4cc
+=3
+8b
+8dd
+8dd
+8ee
+4cc
+=4
+8dd
+8b
+8a
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8b
+8a
+4cc
+=6
+8g
+8b
+8b
+8a
+4cc
+=7
+8g
+8b
+8b
+8a
+4cc
+=8
+8dd
+8b
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=22 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 4} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 4}
+!!!page: 4
+!!!ONB: Converted on 2024/12/26 with esac2hum

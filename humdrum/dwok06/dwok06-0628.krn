@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK06-K0628-juz_sie_jesien_konczy.krn
+!!!OTL: Juz sie jesien konczy
+!!!source: DWOK06
+!!!id: K0628
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8f#
+8a
+8cc
+=2
+8b
+4g
+8b
+=3
+8cc
+8a
+8f#
+8d
+=4
+8g
+4b
+8g}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8a
+8cc
+=6
+8b
+4g
+8b
+=7
+8cc
+16a
+16f#
+8.d
+16f#
+=8
+8g
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{16g
+16a
+16b
+16cc
+8.dd
+16cc#
+=10
+8dd
+4b
+8g
+=11
+16cc
+16b
+16cc
+16dd
+8.ee
+16cc
+=12
+8ee
+4gg
+16ff#
+16ee}
+!!LO:LB:g=esac
+=13
+{8dd
+16dd
+16cc#
+8dd
+16dd
+16cc#
+=14
+8dd
+8.dd
+16b
+16g
+16b
+=15
+16dd
+16cc
+16a
+16f#
+4d
+=16
+8f#
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=414 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 388} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 388}
+!!!page: 388
+!!!ONB: Converted on 2024/12/26 with esac2hum

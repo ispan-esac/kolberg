@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK35A-35A02600002-szczodry_weczyr_dobry_weczyr.krn
+!!!OTL: Szczodry weczyr dobry weczyr
+!!!source: DWOK35A
+!!!id: 35A026
+!!!signature: 35A02600002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{16e
+16a
+8cc
+4b
+8cc
+8a
+=2
+16a
+16cc
+8ee
+4dd
+8cc
+8a
+=3
+8dd
+16cc
+16a
+4a
+4b
+=4
+8dd
+16cc
+16a
+4a
+4a}
+==
+*-
+!!!ONB: Na Jordan
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 28} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 28}
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum

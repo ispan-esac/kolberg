@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK2902200000-zazuryla_si_czorna_hora.krn
+!!!OTL: Zażuryła si czorna hora
+!!!source: DWOK29
+!!!id: 29022
+!!!signature: 2902200000
+**kern
+*clefG2
+*k[f#]
+*G:
+{4dd
+24ff#
+24ee
+24dd
+24cc
+24b
+=
+!!UNCATEGORIZED MEASURE
+[4cc
+24cc]
+24dd
+24cc
+24b
+24a
+24g
+=
+!!UNCATEGORIZED MEASURE
+16a
+16g
+8d
+4g}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{[4cc
+24cc]
+24dd
+24cc
+24b
+24a
+24g
+=1
+*M2/4
+16a
+16g
+8d
+4e
+=
+!!UNCATEGORIZED MEASURE
+8d
+4d}
+8r
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{16g
+16d
+16g
+16f#
+8e
+8r
+4a}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{4dd
+8dd
+8b
+=2
+*M2/4
+[4cc
+8cc]
+8b
+=3
+16a
+16g
+8d
+4g}
+!!LO:LB:g=esac
+=4
+{[4cc
+8cc]
+8b
+=5
+16a
+16g
+8d
+4e
+=
+!!UNCATEGORIZED MEASURE
+8d
+4d}
+8r
+!!LO:LB:g=esac
+=6
+{8g
+8g
+8e
+8r
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 116} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 116}
+!!!page: 116
+!!!ONB: Converted on 2024/12/26 with esac2hum

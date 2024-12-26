@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK3608000001-oj_wytaj_wytaj_swiatyj_korowaju.krn
+!!!OTL: Oj wytaj wytaj światyj korowaju
+!!!source: DWOK36
+!!!id: 36080
+!!!signature: 3608000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16b
+16cc
+8dd
+16dd
+16cc
+8b
+=2
+16dd
+16dd
+16dd
+16cc
+8b
+16a
+16g
+=3
+8g
+16g
+16f#
+16e
+16f#
+8d}
+!!LO:LB:g=esac
+=4
+{16d
+16d
+8g
+8a
+8b
+=5
+8dd
+16dd
+16cc
+8b
+16a
+16f#
+=6
+4g
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

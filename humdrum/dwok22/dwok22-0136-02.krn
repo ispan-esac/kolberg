@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2213600002-z_tamtej_strony_zielonego_dwora.krn
+!!!OTL: Z tamtej strony zielonego dwora
+!!!source: DWOK22
+!!!id: 22136
+!!!signature: 2213600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16dd
+16cc
+8b
+8dd
+=3
+8cc
+4a
+=4
+16dd
+16cc
+8b
+8dd
+=5
+16dd
+16cc
+4a}
+!!LO:LB:g=esac
+=6
+{4cc
+8a
+=7
+32g
+32f#
+32ee
+32f#
+4d
+=8
+4dd
+8gg
+=9
+4ee
+32ee
+32dd
+32cc
+32b
+=10
+16a
+16b
+8.cc
+16f#
+=11
+16a
+16g
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 91} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 91}
+!!!page: 91
+!!!ONB: Converted on 2024/12/26 with esac2hum

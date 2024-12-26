@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK3654200000-u_marusi_chatka_na_pomosci.krn
+!!!OTL: U Marusi chatka na pomości
+!!!source: DWOK36
+!!!id: 36542
+!!!signature: 3654200000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4ee
+16ff
+8.dd
+4ee
+16dd
+16cc
+16b
+16cc
+=2
+8ee
+8ee
+8dd
+8cc
+4a
+4g
+=3
+8a
+8dd
+8dd
+8cc
+8dd
+8ee
+8dd
+8cc
+=4
+2a
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 357
+!!!ONB: Converted on 2024/12/26 with esac2hum

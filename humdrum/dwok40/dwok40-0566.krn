@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4056600000-szumiala_leszczyna.krn
+!!!OTL: Szumiała leszczyna
+!!!source: DWOK40
+!!!id: 40566
+!!!signature: 4056600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+4dd
+=2
+8b
+8dd
+4dd
+=3
+8cc
+8cc
+8cc
+8dd
+=4
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4cc
+=6
+8g
+8b
+4b
+=7
+8a
+8cc
+8cc
+8cc
+=8
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=584 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 517} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 517}
+!!!page: 517
+!!!ONB: Converted on 2024/12/26 with esac2hum

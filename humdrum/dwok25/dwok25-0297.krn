@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2529700000-wszyscy_rzemieslnicy_znaja_swoje_dzielo.krn
+!!!OTL: Wszyscy rzemieślnicy znają swoje dzieło
+!!!source: DWOK25
+!!!id: 25297
+!!!signature: 2529700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8dd
+8dd
+8dd
+8ee
+4.dd
+8cc
+=2
+8b
+8g
+8cc
+8a
+4g
+4d}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+8dd
+8ee
+4.dd
+8cc
+=4
+8b
+8dd
+8cc
+8a
+4g
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8a
+8g
+8b
+8dd
+8cc#
+8dd
+=6
+8g
+8b
+8a
+8g
+8b
+8dd
+8cc#
+8dd
+=7
+4g
+8cc
+8a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 135} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

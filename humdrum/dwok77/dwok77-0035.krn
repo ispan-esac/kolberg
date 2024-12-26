@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK7703500000-krakowiacek_ci_ja.krn
+!!!OTL: Krakowiacek ci ja
+!!!source: DWOK77
+!!!id: 77035
+!!!signature: 7703500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.ee
+16ee
+8ee
+8ee
+=2
+8ff
+4.ee
+=3
+8dd
+8dd
+8dd
+8dd
+=4
+8ee
+4.dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8b
+8a
+=6
+8g
+4.cc
+=7
+8dd
+8ee
+8gg
+8ee
+=8
+8gg
+4.ee}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc
+8b
+8a
+=10
+8g
+4.cc
+=11
+8dd
+8dd
+8ff
+8b
+=12
+8cc
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

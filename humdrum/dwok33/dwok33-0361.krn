@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3336100000-sadowcie_goscie_sadowcie.krn
+!!!OTL: Sadowcie goście sadowcie
+!!!source: DWOK33
+!!!id: 33361
+!!!signature: 3336100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+8dd
+8b
+16cc
+16b
+=3
+8dd
+8b
+8f#
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+16cc
+16b
+=6
+8dd
+8b
+8f#}
+!!LO:LB:g=esac
+=7
+{16f#
+16g
+8a
+8g
+=8
+8b
+8cc
+8b
+=9
+8dd
+8b
+8f#
+=10
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=376 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 334} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 334}
+!!!page: 334
+!!!ONB: Converted on 2024/12/26 with esac2hum

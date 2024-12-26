@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1221600000-a_widzial_ja_rano_dzisiaj.krn
+!!!OTL: A widział ja rano dzisiaj
+!!!source: DWOK12
+!!!id: 12216
+!!!signature: 1221600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16ee
+16dd
+8cc
+8ee
+=3
+16g
+16b
+8dd
+8dd
+=4
+16ee
+16dd
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8g
+8f#
+8d
+=6
+16f#
+16a
+8cc
+8b
+=7
+8g
+8f#
+8d
+=8
+16f#
+16a
+8cc
+8b}
+!!LO:LB:g=esac
+=9
+{8g
+8f#
+8d
+=10
+16f#
+16a
+8f#
+8g}
+==
+*-
+!!!ONB: wariant w takcie ósmym -724_43
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 112} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 112}
+!!!page: 112
+!!!ONB: Converted on 2024/12/26 with esac2hum

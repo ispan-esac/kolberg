@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK45147300000-hu_kozy_pasla_potracila.krn
+!!!OTL: Hu, kozy pasła potraciła
+!!!source: DWOK45
+!!!id: 451473
+!!!signature: 45147300000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{2cc
+=2
+8ee
+8ff
+8gg
+8aa
+=3
+8dd
+8ff
+8ee
+8cc}
+!!LO:LB:g=esac
+=4
+{8ee
+8ee
+8ee
+8ee
+=5
+8dd
+8ff
+8ee
+8ee}
+!!LO:LB:g=esac
+=6
+8r
+{8ee
+8r
+8ee
+=7
+8dd
+8cc
+8ee
+8ee}
+!!LO:LB:g=esac
+=8
+8r
+{16ee
+16cc
+8ee
+8ee
+=9
+8dd
+8cc
+8cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 184} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

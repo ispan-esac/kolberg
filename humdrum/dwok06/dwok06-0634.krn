@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK06-K0634-jasiu_moj_butki_wzuj.krn
+!!!OTL: Jasiu moj butki wzuj
+!!!source: DWOK06
+!!!id: K0634
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8cc
+8ee
+4ee
+=2
+8ee
+4dd
+8dd
+=3
+8a
+8cc
+4ee
+=4
+8dd
+4b
+8g}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+4a
+=6
+8a
+4g
+8b
+=7
+8a
+8cc
+4ee
+=8
+8dd
+4b
+8g}
+!!LO:LB:g=esac
+=9
+{8f#
+8a
+4d
+=10
+8d
+4g
+8b
+=11
+8d
+16f#
+16a
+4cc
+=12
+8a
+4f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=419 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 393} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 393}
+!!!page: 393
+!!!ONB: Converted on 2024/12/26 with esac2hum

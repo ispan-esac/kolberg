@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK2570700000-krakowiaczek_mlody_nie_pil_nigdy_wody.krn
+!!!OTL: Krakowiaczek młody, nie pił nigdy wody
+!!!source: DWOK25
+!!!id: 25707
+!!!signature: 2570700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+4g
+=2
+8d
+4f#
+8a
+=3
+8cc
+8a
+4f#
+=4
+8g
+4.g}
+!!LO:LB:g=esac
+=5
+{8dd
+8b
+4g
+=6
+8d
+4f#
+8a
+=7
+8cc
+8a
+8f#
+8f#
+=8
+8g
+4b
+8b}
+==
+*-
+!!!ONB: Podane metrum 3/4, poprawiono na 2/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 250} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 250}
+!!!page: 250
+!!!ONB: Converted on 2024/12/26 with esac2hum

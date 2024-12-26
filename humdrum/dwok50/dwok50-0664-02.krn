@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK5066400002-do_jamy_myszka_do_jamy.krn
+!!!OTL: Do jamy myszka, do jamy
+!!!source: DWOK50
+!!!id: 50664
+!!!signature: 5066400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+4ee
+8dd
+=3
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=4
+{8a
+8ee
+8dd
+=5
+8cc
+8b
+8a
+=6
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{8g
+8a
+8b
+=8
+8cc
+8a
+8b
+=9
+8b
+8g
+8a}
+!!LO:LB:g=esac
+=10
+{8a
+8ee
+8dd
+=11
+8cc
+8b
+8a
+=12
+8b
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=437 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 404} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 404}
+!!!page: 404
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK4945900002-siedzi_kiecejka_na_kuchni.krn
+!!!OTL: Siedzi kiecejka na kuchni
+!!!source: DWOK49
+!!!id: 49459
+!!!signature: 4945900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4d
+4e
+4f#
+=2
+2g
+8a
+8cc
+=3
+8b
+8g
+4a
+4f#
+=4
+2.g}
+!!LO:LB:g=esac
+=5
+{4d
+4e
+4f#
+=6
+2g
+8a
+8cc
+=7
+8b
+8g
+4a
+4f#
+=8
+2.g}
+!!LO:LB:g=esac
+=9
+{8b
+8cc#
+4dd
+4b
+=10
+8b
+8cc
+8b
+8cc
+8dd
+8cc
+=11
+8b
+8cc
+4dd
+4b
+=12
+4a
+4f#
+4d}
+!!LO:LB:g=esac
+=13
+{4g
+16b
+16a
+16b
+16cc
+4dd
+=14
+4cc
+4b
+8a
+8cc
+=15
+8b
+8g
+4a
+4f#
+=16
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=527 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 437} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 437}
+!!!page: 437
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1810500000-a_wynidz-ze_panno_mloda.krn
+!!!OTL: A wynidź-ze panno młoda
+!!!source: DWOK18
+!!!id: 18105
+!!!signature: 1810500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+8dd
+8dd
+=2
+16dd
+16ee
+8dd
+8dd
+=3
+8dd
+8dd
+8cc
+=4
+8b}
+4r
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+8dd
+8a
+=6
+16b
+16cc
+8dd
+8a
+=7
+8a
+4dd
+=8
+16b
+16g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 92} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 92}
+!!!page: 92
+!!!ONB: Converted on 2024/12/26 with esac2hum

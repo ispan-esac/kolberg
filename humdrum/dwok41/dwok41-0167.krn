@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4116700000-oj_nie_masz_ci_to_nie_ma.krn
+!!!OTL: Oj, nie masz ci to nie ma
+!!!source: DWOK41
+!!!id: 41167
+!!!signature: 4116700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8b
+8dd
+=2
+16.ee
+32dd
+8dd
+8g
+=3
+8a
+8b
+8f#
+=4
+16f#
+16g
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8g
+=6
+16d
+16f#
+8a
+8b
+=7
+8cc
+8b
+8f#
+=8
+16f#
+16g
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=190 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 111} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

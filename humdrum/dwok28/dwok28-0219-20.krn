@@ -1,0 +1,35 @@
+!!!!SEGMENT: DWOK2821900020-w_ciemnym_lasku-instrumentalna.krn
+!!!OTL: W ciemnym lasku-Instrumentalna
+!!!source: DWOK28
+!!!id: 28219
+!!!signature: 2821900020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.b
+32b
+8.a
+16f#
+=2
+8d
+8d
+8d
+=3
+16.b
+32b
+8.a
+16f#
+=4
+8d
+8d
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 241} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

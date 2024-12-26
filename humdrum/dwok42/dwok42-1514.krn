@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK42151400000-o_bracia_opryszki.krn
+!!!OTL: O, bracia opryszki
+!!!source: DWOK42
+!!!id: 421514
+!!!signature: 42151400000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4g
+8cc
+8dd
+4ee
+8ff
+8ee
+=2
+4dd
+8ee
+8dd
+4cc
+8g
+8e}
+!!LO:LB:g=esac
+=3
+{4g
+8cc
+8dd
+4ee
+8gg
+8gg
+=4
+8gg
+8ff
+4dd
+2r
+=5
+4g
+8cc
+8dd
+4ee
+8cc
+8a}
+!!LO:LB:g=esac
+=6
+{4a
+16b
+16cc
+8ee
+8aa
+8ee
+8ff
+8dd
+=7
+4cc
+8cc
+8ee
+8gg
+8gg
+8b
+8dd
+=8
+4cc}
+4r
+2r
+==
+*-
+!!!ONB: wariant w takcie 5: 5__+1_+2_+3__+176_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 80} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

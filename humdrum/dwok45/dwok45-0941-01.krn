@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4594100001-jas_koniki_poil.krn
+!!!OTL: Jaś Koniki poił
+!!!source: DWOK45
+!!!id: 45941
+!!!signature: 4594100001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4g
+4cc
+=2
+8b
+8cc
+8dd
+8cc
+=3
+4g
+4ff
+=4
+8ee
+8ff
+8ee
+8ff}
+!!LO:LB:g=esac
+=5
+{4ee
+4dd
+=6
+8dd
+8ee
+8ff
+8ee
+=7
+4g
+4cc
+=8
+8b
+8cc
+8dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=17 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 7} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 7}
+!!!page: 7
+!!!ONB: Converted on 2024/12/26 with esac2hum

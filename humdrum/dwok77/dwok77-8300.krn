@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK7783000000-nie_mam_wieniec_zlota.krn
+!!!OTL: Nie mam wieniec złota
+!!!source: DWOK77
+!!!id: 778300
+!!!signature: 7783000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{2a
+4f
+=2
+8g
+8b-
+4dd
+4cc
+=3
+2a
+4f
+=4
+8g
+8b-
+4dd
+4cc}
+!!LO:LB:g=esac
+=5
+{2ff
+4dd
+=6
+8dd
+8dd
+4ee
+4ff
+=7
+8cc
+8cc
+4b-
+4e
+=8
+4f
+2f}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+4e
+4c
+=10
+4f
+2a
+=11
+8b-
+8b-
+4g
+4f
+=12
+4a
+2cc}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+4g
+4f
+=14
+4b-
+2dd
+=15
+8cc
+8cc
+4b-
+4e
+=16
+4f
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 33
+!!!ONB: Converted on 2024/12/26 with esac2hum

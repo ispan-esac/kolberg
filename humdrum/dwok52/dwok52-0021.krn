@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK5202100000-kaladu.krn
+!!!OTL: Kaładu
+!!!source: DWOK52
+!!!id: 52021
+!!!signature: 5202100000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4dd
+4dd
+2cc
+=2
+4dd
+4dd
+2cc
+=3
+4ee
+4ee
+4dd
+4cc
+=4
+4dd
+4ee
+4dd
+4cc}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+2cc
+=6
+4dd
+4dd
+2cc
+=7
+4ee
+4ff
+4ee
+4dd
+=8
+4ff
+4ee
+4dd
+4ee}
+!!LO:LB:g=esac
+=9
+{4dd
+4dd
+2cc
+=10
+4dd
+4dd
+2cc
+=11
+4ee
+4ee
+4dd
+4cc
+=12
+4dd
+4ee
+4dd
+4cc}
+!!LO:LB:g=esac
+=13
+{4dd
+4dd
+2cc
+=14
+4dd
+4dd
+2cc
+=15
+4ee
+4ff
+4ee
+4dd
+=16
+4ff
+4ee
+4dd
+4ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 95} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 95}
+!!!page: 95
+!!!ONB: Converted on 2024/12/26 with esac2hum

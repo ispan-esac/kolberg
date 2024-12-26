@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2117700000-lulajze_mi_lulaj.krn
+!!!OTL: Lulajże mi lulaj
+!!!source: DWOK21
+!!!id: 21177
+!!!signature: 2117700000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8b-
+8a
+8g
+8f#
+=2
+8g
+4.a
+=3
+8dd
+8dd
+16b-
+16a
+8g
+=4
+8f#
+4.d}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8f#
+8g
+=6
+8a
+4.b-
+=7
+16b-
+16a
+8g
+8f#
+8d
+=8
+8d
+4.d}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+8f#
+8g
+=10
+8a
+4.b-
+=11
+16b-
+16a
+8g
+8f#
+8d
+=12
+8d
+4.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 85} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

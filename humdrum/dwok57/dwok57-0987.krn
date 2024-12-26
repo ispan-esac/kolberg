@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK5798700000-w_czystym_pole_kruta_weza.krn
+!!!OTL: W czystym pole kruta weża
+!!!source: DWOK57
+!!!id: 57987
+!!!signature: 5798700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8g
+8cc
+8g
+8cc
+8ee
+=2
+8gg
+8ee
+2ee
+=3
+8gg
+8ee
+8gg
+8ee
+8gg
+8ff
+=4
+2dd}
+4r
+!!LO:LB:g=esac
+=5
+{16ff
+16ee
+8ff
+[4ff
+16ff]
+16ee
+16dd
+16cc
+=6
+8ee
+8ee
+8ee
+8dd
+4cc
+=7
+8dd
+8cc
+16b
+16a
+8g
+8gg
+8gg
+=8
+2.gg}
+!!LO:LB:g=esac
+=9
+{16ff
+16ee
+8ff
+[4ff
+16ff]
+16ee
+16dd
+16cc
+=10
+8ee
+8ee
+8ee
+8dd
+4cc
+=11
+8dd
+8cc
+16b
+16a
+8g
+8cc
+8cc
+=12
+2.cc}
+==
+*-
+!!!ONB: Wariant t. 3: +5_+3_+5_+3_+5+4+3+2
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

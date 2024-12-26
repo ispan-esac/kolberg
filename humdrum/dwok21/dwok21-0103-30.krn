@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK2110300030-przysed_sasiad_do_sasiada.krn
+!!!OTL: Przysed sąsiad do sąsiada
+!!!source: DWOK21
+!!!id: 21103
+!!!signature: 2110300030
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4f
+4f
+=2
+8c
+8c
+4c
+=3
+4f
+4f
+=4
+8c
+8c
+4c}
+!!LO:LB:g=esac
+=5
+{4f
+4d
+=6
+4B-
+4G
+=7
+4c
+4c
+=8
+8f
+8f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 50} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

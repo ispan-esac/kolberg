@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2016800000-pod_borem_sosna_pod_nia_topola.krn
+!!!OTL: Pod borem sosna pod nią topola
+!!!source: DWOK20
+!!!id: 20168
+!!!signature: 2016800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8g
+8b
+16a
+16f#
+=2
+2f#
+=3
+8b
+8dd
+8dd
+16cc
+16b
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+8b
+=6
+8b
+8cc
+8cc
+8g
+=7
+8g
+8b
+8b
+16a
+16f#
+=8
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 175} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 175}
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

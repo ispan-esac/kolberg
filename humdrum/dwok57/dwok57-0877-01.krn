@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK5787700001-tam_na_hori_tam_na_wysokii.krn
+!!!OTL: Tam na hori, tam na wysokii
+!!!source: DWOK57
+!!!id: 57877
+!!!signature: 5787700001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4a
+8a
+16a
+16g#
+=2
+4cc
+4cc
+=3
+8a
+8a
+8g#
+16g#
+16b
+=4
+2e}
+!!LO:LB:g=esac
+=5
+{4cc
+8dd
+8dd
+=6
+4ee
+4ee
+=7
+16dd
+16cc
+16b
+16a
+8ee
+8ee
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 101
+!!!ONB: Converted on 2024/12/26 with esac2hum

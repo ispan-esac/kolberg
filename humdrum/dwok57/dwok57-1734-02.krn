@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK57173400002-oj_zacwyla_kalynonka.krn
+!!!OTL: Oj, zacwyła kałynońka
+!!!source: DWOK57
+!!!id: 571734
+!!!signature: 57173400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+16g
+16f#
+16g
+16f#
+16g
+16b
+=2
+8b
+16b
+16a
+16g
+16f#
+8e
+=3
+8a
+8a
+8a
+8a
+=4
+16g
+16f#
+16e
+16d
+4d}
+!!LO:LB:g=esac
+=5
+{8cc
+8a
+4dd
+=6
+8cc
+8b
+8a
+8a
+=7
+8dd
+8dd
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 823
+!!!ONB: Converted on 2024/12/26 with esac2hum

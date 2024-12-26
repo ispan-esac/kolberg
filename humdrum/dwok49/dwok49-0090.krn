@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK4909000000-podzmy_wszyscy_do_stajenki.krn
+!!!OTL: Pódźmy wszyscy do stajenki
+!!!source: DWOK49
+!!!id: 49090
+!!!signature: 4909000000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4g
+4cc
+4cc
+4cc
+=2
+4.cc
+8dd
+4ee
+4cc}
+!!LO:LB:g=esac
+=3
+{4g
+4cc
+4cc
+4cc
+=4
+4.cc
+8dd
+4ee
+4cc}
+!!LO:LB:g=esac
+=5
+{4.ff
+8ee
+4dd
+4ff
+=6
+4.ee
+8dd
+4cc
+4cc}
+!!LO:LB:g=esac
+=7
+{4b
+4dd
+4g
+4b
+=8
+4.cc
+8dd
+4ee
+4cc}
+!!LO:LB:g=esac
+=9
+{4.ff
+8ee
+4dd
+4ff
+=10
+4.ee
+8dd
+4cc
+4cc}
+!!LO:LB:g=esac
+=11
+{4b
+4dd
+4g
+4b
+=12
+4.cc
+8dd
+4ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 177} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

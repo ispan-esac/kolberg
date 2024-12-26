@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK2536100001-a_kiedys_swiat_nawiedzal_szatanie.krn
+!!!OTL: A kiedyś świat nawiedzał szatanie
+!!!source: DWOK25
+!!!id: 25361
+!!!signature: 2536100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+4dd
+=2
+8b
+4b
+=3
+8cc
+4dd
+=4
+16b
+16cc
+4a}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+4dd
+=6
+16b
+16dd
+4b
+=
+24b
+24cc
+24b
+4dd
+=7
+16b
+16cc
+4a}
+!!LO:LB:g=esac
+=8
+{8b
+4dd
+=9
+8b
+4cc
+=10
+8ee
+4cc
+=11
+8a
+4cc
+=12
+8dd
+4b
+=13
+8a
+4g}
+!!LO:LB:g=esac
+=14
+{8b
+4dd
+=15
+8cc
+4b
+=16
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=188 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 163} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 163}
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

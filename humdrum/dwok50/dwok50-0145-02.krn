@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK5014500002-hadoczku_hadaju_dumczoku_dumaju.krn
+!!!OTL: Hadoczku hadaju, dumczoku dumaju
+!!!source: DWOK50
+!!!id: 50145
+!!!signature: 5014500002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4ff
+8gg
+8ff
+=2
+8ee
+8dd
+4ee
+=3
+8ff
+8ee
+8gg
+8ff
+=4
+8ee
+8dd
+4ee}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+=6
+8dd
+8cc
+4dd
+=7
+8dd
+8cc
+4b
+=8
+4cc
+8cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 66} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

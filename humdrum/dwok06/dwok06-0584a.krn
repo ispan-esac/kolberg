@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0584a-nuz_chlopaki_dzis_w_chodaki.krn
+!!!OTL: Nuz chlopaki dzis w chodaki
+!!!source: DWOK06
+!!!id: K0584a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8e
+8f#
+8d
+16e
+16f#
+=2
+8g
+8b
+8g
+8b
+=3
+8e
+8f#
+8d
+16e
+16f#
+=4
+8g
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{4b
+4b
+=6
+4b
+4r
+=7
+4ee
+4ee
+=8
+4ee}
+4r
+==
+*-
+!!!ONB: Fragment melodii w E
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 337} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 337}
+!!!page: 337
+!!!ONB: Converted on 2024/12/26 with esac2hum

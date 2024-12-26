@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK5785800000-tam_za_lasem_za_jeziorem_malowany_dwor.krn
+!!!OTL: Tam za lasem, za jeziorem, malowany dwór
+!!!source: DWOK57
+!!!id: 57858
+!!!signature: 5785800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8g
+8b
+4dd
+4dd
+=3
+8gg
+8ff#
+4gg
+4aa
+=4
+2.dd
+=5
+8ee
+8ff#
+2gg
+=6
+8ee
+8cc
+4gg
+4ee
+=7
+2.dd
+=8
+8cc
+8dd
+4ee
+4g
+=9
+8ee
+8ee
+4dd
+4g
+=10
+8a
+8b
+4cc
+4a
+=11
+2g
+4r
+=12
+8cc
+8dd
+4ee
+4g
+=13
+8ee
+8ee
+4dd
+4g
+=14
+8a
+8b
+4cc
+4a
+=15
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 86
+!!!ONB: Converted on 2024/12/26 with esac2hum

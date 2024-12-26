@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1619200001-rozplitajcie_bracia_siostre.krn
+!!!OTL: Rozplitajcie bracia siostrę
+!!!source: DWOK16
+!!!id: 16192a
+!!!signature: 1619200001
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=1
+2r
+{8ff#
+8ee
+8ee
+8b
+=2
+8dd#
+8ee
+4b
+4b
+4a
+=3
+8b
+8b
+4dd#
+2ee}
+!!LO:LB:g=esac
+=4
+2r
+{8ff#
+8ee
+8ee
+8b
+=5
+8dd#
+8ee
+4b
+4b
+4a
+=6
+8b
+8a
+8b
+8g#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 198} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 198}
+!!!ONB: Converted on 2024/12/26 with esac2hum

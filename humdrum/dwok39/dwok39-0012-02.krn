@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3901200002-dajze_boze_plonowalo.krn
+!!!OTL: Dajże Boże, plonowało
+!!!source: DWOK39
+!!!id: 39012
+!!!signature: 3901200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+8dd
+8cc
+8b
+8cc
+=2
+4.dd
+8cc
+8a
+8g}
+!!LO:LB:g=esac
+=3
+{8b
+8cc
+8dd
+8cc
+8b
+8cc
+=4
+4.dd
+8cc
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+4cc
+4a
+=6
+2.g}
+!!LO:LB:g=esac
+=7
+{8b
+8b
+4cc
+4a
+=8
+2.g}
+==
+*-
+!!!ONB: Wieniec
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 76} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 76}
+!!!page: 76
+!!!ONB: Converted on 2024/12/26 with esac2hum

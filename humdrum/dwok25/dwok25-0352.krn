@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2535200000-a_w_niedziele_posla_panna.krn
+!!!OTL: A w niedzielę posła panna
+!!!source: DWOK25
+!!!id: 25352
+!!!signature: 2535200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8cc
+8cc
+=2
+8dd
+8b
+4g
+=3
+8g
+8ff
+8ff
+8ff
+=4
+8gg
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{4cc
+4dd
+=6
+4b
+4g
+=7
+8dd
+8ee
+4ff
+=8
+4gg
+4dd
+=9
+4cc
+4g
+=10
+8b
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 160} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK35A-35A01600002-tam_za_stinoju.krn
+!!!OTL: Tam za stinoju
+!!!source: DWOK35A
+!!!id: 35A016
+!!!signature: 35A01600002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8ee
+=2
+8dd
+16ee
+16dd
+8cc
+=3
+8ee
+8ee
+8gg
+=
+8.ff
+16dd
+24ee
+24dd
+24cc}
+!!LO:LB:g=esac
+=4
+{8ee
+8dd
+8ee
+=5
+4cc
+16dd
+16ee
+=6
+8ff
+8dd
+8ee
+=
+8.cc
+16a
+24b
+24a
+24g}
+!!LO:LB:g=esac
+=7
+{8g
+8cc
+8ee
+=8
+8dd
+16ee
+16dd
+8cc
+=9
+8ee
+8ee
+8gg
+=
+8.ff
+16dd
+24ee
+24dd
+24cc}
+!!LO:LB:g=esac
+=10
+{8cc
+8dd
+8ee
+=11
+4cc
+16dd
+16ee
+=12
+8ff
+8dd
+8ee
+=13
+4cc
+8cc}
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 23} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 23}
+!!!page: 23
+!!!ONB: Converted on 2024/12/26 with esac2hum

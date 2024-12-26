@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK1300800000-juz_minely_tamte_lata.krn
+!!!OTL: Już minęły tamte lata
+!!!source: DWOK13
+!!!id: 13008
+!!!signature: 1300800000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16g
+16a
+8b-
+8dd
+=2
+16cc
+16b-
+8a
+8g
+=3
+4d
+8f#
+=4
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+8b-
+8dd
+=6
+16cc
+16b-
+8a
+8g
+=7
+4d
+8f#
+=8
+8f#
+4g}
+!!LO:LB:g=esac
+=9
+{16b-
+16a
+16b-
+16cc
+8dd
+=10
+16ee-
+16dd
+16ee-
+16ff
+8gg
+=11
+16ff
+16ee
+8ff
+8a
+=12
+8b-
+4dd}
+!!LO:LB:g=esac
+=13
+{16b-
+16a
+16b-
+16cc
+8dd
+=14
+16ee-
+16dd
+16ee-
+16ff
+8gg
+=15
+16ff
+16ee
+8ff
+8a
+=16
+8b-
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 7} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 7}
+!!!page: 7
+!!!ONB: Converted on 2024/12/26 with esac2hum

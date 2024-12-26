@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK57118000002-tam_we_lwowi_na_rynoczku.krn
+!!!OTL: Tam we Lwowi, na rynoczku
+!!!source: DWOK57
+!!!id: 571180
+!!!signature: 57118000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8b
+8cc
+=2
+4dd
+16ee
+16ff#
+16ee
+16dd
+=3
+8dd
+8ff#
+4gg}
+!!LO:LB:g=esac
+=4
+{8dd
+8ee
+8dd
+8cc
+=5
+4b
+8a
+8g
+=6
+4gg
+16ff#
+16gg
+16ff#
+16ee}
+!!LO:LB:g=esac
+=7
+{8dd
+8ee
+8dd
+8cc
+=8
+16b
+16cc
+16b
+16a
+16a
+16b
+16a
+16g
+=9
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 300
+!!!ONB: Converted on 2024/12/26 with esac2hum

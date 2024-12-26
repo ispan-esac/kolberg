@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK06-K0578-qoucunque_ibo_tunc_semper_bibo.krn
+!!!OTL: Qoucunque ibo tunc semper bibo
+!!!source: DWOK06
+!!!id: K0578
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+8cc
+8cc
+=2
+16dd
+16cc
+4cc
+=3
+8b-
+8b-
+8b-
+=4
+16cc
+16b-
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+=6
+16dd
+16cc
+4cc
+=7
+8b-
+8b-
+8b-
+=8
+16cc
+16b-
+4a}
+!!LO:LB:g=esac
+=9
+{8cc
+8a
+8f
+=10
+8ff
+8ff
+8ff
+=11
+8b-
+8b-
+8b-
+=12
+16cc
+16b-
+4a}
+!!LO:LB:g=esac
+=13
+{8cc
+8a
+8f
+=14
+8ff
+8ff
+8ff
+=15
+8b-
+8b-
+8b-
+=16
+16cc
+16b-
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=358 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 332} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 332}
+!!!page: 332
+!!!ONB: Converted on 2024/12/26 with esac2hum

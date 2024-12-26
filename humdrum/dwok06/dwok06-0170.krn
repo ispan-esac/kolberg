@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK06-K0170-pragnelas_marysiu_na_kawalek_sieci.krn
+!!!OTL: Pragnelas Marysiu na kawalek sieci
+!!!source: DWOK06
+!!!id: K0170
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.b
+16dd
+8g
+8a
+8b
+8a
+=2
+8f#
+8g
+8d
+8f#
+8a
+8cc}
+!!LO:LB:g=esac
+=3
+{8.b
+16dd
+8g
+8a
+8b
+8a
+=4
+8f#
+8g
+8d
+8f#
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8.b
+16dd
+8g
+8a
+8b
+8a
+=6
+8f#
+8g
+8d
+8f#
+8a
+8cc}
+!!LO:LB:g=esac
+=7
+{8.b
+16dd
+8g
+8a
+8b
+8a
+=8
+8f#
+8g
+8d
+8f#
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 86} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 86}
+!!!page: 86
+!!!ONB: Converted on 2024/12/26 with esac2hum

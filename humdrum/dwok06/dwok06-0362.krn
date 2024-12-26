@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK06-K0362-napije_sie_troske_na_swoja_kokoske.krn
+!!!OTL: Napije sie troske na swoja kokoske
+!!!source: DWOK06
+!!!id: K0362
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4cc
+8dd
+=2
+16ee
+16ff
+8dd
+8gg
+=3
+4cc
+8ff
+=4
+16ee
+16ee
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{4cc
+8dd
+=6
+16ee
+16ff
+8dd
+8b
+=7
+4cc
+8g
+=8
+16g
+16g
+8b
+8cc}
+!!LO:LB:g=esac
+=9
+{16.cc
+32ee
+16ff
+16ee
+16dd
+16b
+=10
+16.cc
+32ee
+16gg
+16aa
+16ff
+16dd
+=11
+16.cc
+32ee
+16cc
+16ee
+16dd
+16b
+=12
+16.cc
+32ee
+16gg
+16aa
+16ff
+16dd}
+!!LO:LB:g=esac
+=13
+{4cc
+8ee
+=14
+16ee
+16ff
+8dd
+8b
+=15
+4cc
+8g
+=16
+16g
+16b
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 182-183} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 182-183}
+!!!page: 182-183
+!!!ONB: Converted on 2024/12/26 with esac2hum

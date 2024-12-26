@@ -1,0 +1,120 @@
+!!!!SEGMENT: DWOK4684500000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK46
+!!!id: 46845
+!!!signature: 4684500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{2.dd
+=2
+8cc#
+8dd
+8ee
+8dd
+8b
+8a
+=
+8g
+24a
+24b
+24cc#
+8dd
+8dd
+8cc#
+8g}
+!!LO:LB:g=esac
+=3
+{8b
+8a
+[2g
+=4
+8g]
+16b
+16cc#
+8dd
+8dd
+8cc#
+8g
+=5
+8b
+8a
+[4g
+8g]
+16f#
+16e}
+!!LO:LB:g=esac
+=6
+{16d
+16e
+16f#
+16g
+[4a
+8.a]
+16f#
+=7
+8g
+8b
+8b
+8b
+8dd
+8cc#
+=8
+8g
+8b
+16b
+16a
+8b
+16dd
+16cc#
+8g
+=9
+8b
+16b
+16a
+[4g
+8g]
+16f#
+16e}
+!!LO:LB:g=esac
+=10
+{16d
+16e
+16f#
+16g
+[4a
+8.a]
+16f#
+=11
+8g
+8b
+16b
+16a
+8b
+8dd
+8cc#
+=
+8g
+8b
+16b
+16a
+8b
+12dd
+12cc#
+12g
+=
+12b
+12b
+12a
+2g}
+==
+*-
+!!!ONB: Do bydła. Andante
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=493 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 459} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 459}
+!!!page: 459
+!!!ONB: Converted on 2024/12/26 with esac2hum

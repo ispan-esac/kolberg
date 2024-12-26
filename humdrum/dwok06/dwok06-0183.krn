@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK06-K0183-na_modlinickiem_polu.krn
+!!!OTL: Na modlinickiem polu
+!!!source: DWOK06
+!!!id: K0183
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16b
+8b
+8b
+=2
+8dd
+4b
+=3
+16cc
+16ee
+8ee
+8ee
+=4
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{16b
+16b
+8b
+8b
+=6
+8dd
+4b
+=7
+16cc
+16a
+8b
+8g
+=8
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 100} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

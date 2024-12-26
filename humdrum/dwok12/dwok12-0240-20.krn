@@ -1,0 +1,39 @@
+!!!!SEGMENT: DWOK1224000020-instrumentalna-juz_was_bogu_oddaje.krn
+!!!OTL: Instrumentalna-Już was Bogu oddaję
+!!!source: DWOK12
+!!!id: 12240
+!!!signature: 1224000020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc
+8dd
+16a
+16f#
+=2
+8.g
+16b
+16dd
+16ee
+=3
+16a
+16cc
+8dd
+16a
+16f#
+=4
+8g
+16b
+16a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 127} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 127}
+!!!page: 127
+!!!ONB: Converted on 2024/12/26 with esac2hum

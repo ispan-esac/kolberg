@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK57126800000-oj_ponad_morem_ponad_hlybokim.krn
+!!!OTL: Oj, ponad morem, ponad hłybokim
+!!!source: DWOK57
+!!!id: 571268
+!!!signature: 57126800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+8dd
+8a
+4cc
+=2
+8a
+8cc
+8dd
+8a
+4cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+8ff
+8dd
+4ee
+=4
+8a
+8cc
+8dd
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 377
+!!!ONB: Converted on 2024/12/26 with esac2hum

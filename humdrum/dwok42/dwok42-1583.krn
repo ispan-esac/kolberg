@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK42158300000-sialem_proso_na_zagonie.krn
+!!!OTL: Siałem proso na zagonie
+!!!source: DWOK42
+!!!id: 421583
+!!!signature: 42158300000
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M3/4
+=1
+{8ff#
+8ff#
+4.gg
+8ff#
+=2
+8ee#
+8ff#
+4dd
+8cc#
+8b
+=3
+8a#
+8cc#
+4.ff#
+8a#}
+!!LO:LB:g=esac
+=4
+{4b
+4r
+4r
+=5
+8ff#
+8ff#
+4.bb
+8ff#
+=
+8gg
+8ff#
+8ee#
+8ff#
+12dd
+12cc#
+12b}
+!!LO:LB:g=esac
+=6
+{8a#
+8cc#
+4.ff#
+8a#
+=7
+4b
+4r
+4r
+=8
+8dd
+8dd
+4.ee
+8dd
+=9
+8cc#
+8ee
+2aa}
+!!LO:LB:g=esac
+=10
+{8dd
+8dd
+4.ee
+8dd
+=11
+8cc#
+8ee
+2aa
+=12
+8bb
+8bb
+4.bb
+8ff#}
+!!LO:LB:g=esac
+=13
+{4.aa
+8gg
+8ff#
+8ee
+=14
+4.ff#
+8a#
+8a#
+8a#
+=15
+4b}
+4r
+4r
+==
+*-
+!!!ONB: wariant w takcie 4, 8, 15: 1_1_0_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 109} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 109}
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

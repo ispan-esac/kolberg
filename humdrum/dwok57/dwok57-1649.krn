@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK57164900000-pisala_maty_syna_w_dorohu.krn
+!!!OTL: Pisała maty syna w dorohu
+!!!source: DWOK57
+!!!id: 571649
+!!!signature: 57164900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8cc
+8g
+16a
+16b
+=2
+2cc
+=3
+8b
+8dd
+8g
+16a
+16b
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{4cc
+8a
+8g
+=6
+4.dd
+8cc
+=7
+8b
+8b
+8cc
+32b
+16.a
+=8
+2g}
+==
+*-
+!!!ONB: Wariant t. 5: 4__3__2__1__; wariant t. 7: 3___3_4_32_.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 721
+!!!ONB: Converted on 2024/12/26 with esac2hum

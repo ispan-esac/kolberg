@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK8416200000-ja_tuman_lisom.krn
+!!!OTL: Ja tuman lisom
+!!!source: DWOK84
+!!!id: 84162
+!!!signature: 8416200000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+=1
+*M3/4
+{16e
+16a
+4.cc
+8b
+8e
+=2
+*M2/4
+8cc
+8b
+8f#
+8e}
+!!LO:LB:g=esac
+=3
+{8a
+8g#
+8f#
+8g#
+=4
+8e
+4.d}
+!!LO:LB:g=esac
+=5
+*M3/4
+{8e
+4e
+8f#
+8b
+16a
+16g#
+=6
+*M2/4
+8f#
+4.e}
+==
+*-
+!!!ONB: Wariant t. 2: 6b_56b2_1_; wariant t. 6: 23b1__.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 160} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

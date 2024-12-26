@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4456300022-przelecialy_gaski.krn
+!!!OTL: Przeleciały gąski
+!!!source: DWOK44
+!!!id: 44563
+!!!signature: 4456300022
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+8ee
+4gg
+=2
+8ff
+4dd
+16b
+16dd
+=3
+8cc
+8cc
+8cc
+8b
+=4
+8dd
+4.dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+4gg
+=6
+8ff
+4dd
+16b
+16dd
+=7
+8cc
+8cc
+8dd
+16b
+16dd
+=8
+8cc
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=363 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 305} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 305}
+!!!page: 305
+!!!ONB: Converted on 2024/12/26 with esac2hum

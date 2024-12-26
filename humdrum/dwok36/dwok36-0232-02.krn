@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3623200002-zaszumila_berezonka.krn
+!!!OTL: Zaszumiła berezońka
+!!!source: DWOK36
+!!!id: 36232
+!!!signature: 3623200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.dd
+8b
+8cc
+8ee
+=2
+8.dd
+16cc
+8cc
+8b
+4r
+=3
+4.ee
+8ee
+8ee
+8ee
+=4
+8gg
+8ee
+4ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8ff#
+4aa
+=6
+8gg
+8gg
+8gg
+8bb
+4dd
+=7
+4.gg
+8b
+8cc
+8ee
+=8
+8cc
+8a
+4a
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 132
+!!!ONB: Converted on 2024/12/26 with esac2hum

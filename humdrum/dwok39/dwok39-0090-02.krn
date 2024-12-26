@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3909000002-ledem_dzewcze_ledem.krn
+!!!OTL: Lędem dzewcze, lędem
+!!!source: DWOK39
+!!!id: 39090
+!!!signature: 3909000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+16cc
+16b
+8ee
+=2
+4dd
+4a
+=3
+8a
+8a
+8g
+8cc
+=4
+4b
+4d}
+!!LO:LB:g=esac
+=5
+{8f#
+8g
+8a
+8a
+=6
+4g
+4cc
+=7
+8b
+8g
+8a
+8f#
+=8
+8g
+8a
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 145} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 145}
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

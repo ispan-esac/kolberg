@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1323700000-ty_goscina_z_krzywa_wicia.krn
+!!!OTL: Ty gościna z krzywą wicią
+!!!source: DWOK13
+!!!id: 13237
+!!!signature: 1323700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16cc#
+8dd
+8a
+=2
+16f#
+16g
+8b
+8dd
+=3
+16dd
+16cc#
+16dd
+16cc#
+16a
+16f#
+=4
+16f#
+16g
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16g#
+16a
+8cc
+8d
+=6
+16f#
+16g
+16b
+16g
+16b
+16dd
+=7
+16g#
+16a
+8cc
+8d
+=8
+16f#
+16g
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 115} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

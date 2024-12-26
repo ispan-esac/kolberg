@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1831800000-da_ja_sobie_owcarecka.krn
+!!!OTL: Da ja sobie owcarecka
+!!!source: DWOK18
+!!!id: 18318
+!!!signature: 1831800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8.cc
+16g
+16b
+16dd
+=2
+16ff
+16dd
+8gg
+8ee
+=3
+8.cc
+16g
+16b
+16dd
+=4
+16ff
+16dd
+8cc
+8ee}
+!!LO:LB:g=esac
+=5
+{8.cc
+16g
+16b
+16dd
+=6
+16ff
+16dd
+8gg
+8ee
+=7
+16.cc
+32g
+16b
+16g
+16b
+16dd
+=8
+16ff
+16dd
+8cc
+8ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 175} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 175}
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

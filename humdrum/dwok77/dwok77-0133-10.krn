@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7713300010-oj_namowilbym_kamien.krn
+!!!OTL: Oj namówiłbym kamień
+!!!source: DWOK77
+!!!id: 77133
+!!!signature: 7713300010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16b
+16dd
+8ee
+8ee
+=2
+8b
+8.dd
+16a
+=3
+16g#
+16a
+8cc
+8cc
+=4
+8b
+8.dd
+16a}
+!!LO:LB:g=esac
+=5
+{16g#
+16a
+8cc
+8ee
+=6
+8ee
+8b
+8dd
+=7
+16g#
+16a
+8cc
+8cc
+=8
+8b
+8.dd
+16a}
+==
+*-
+!!!ONB: Od 9 taktu fragment instrumentalny.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 85-86
+!!!ONB: Converted on 2024/12/26 with esac2hum

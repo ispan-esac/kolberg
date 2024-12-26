@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK2507800000-w_mojim_ogrodzie_liscie_padaja.krn
+!!!OTL: W mojim ogrodzie liście padają
+!!!source: DWOK25
+!!!id: 25078
+!!!signature: 2507800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8dd
+8ee
+=2
+4dd
+8b
+8cc#
+=3
+16dd
+8.cc
+8a
+8b
+=4
+4g
+16f#
+8.d}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8a
+8a
+=6
+8a
+8a
+8cc
+8ee
+=7
+16dd
+8.cc
+8a
+8b
+=8
+4g
+16f#
+8.d}
+!!LO:LB:g=esac
+=9
+{4dd
+8dd
+8ee
+=10
+4dd
+8b
+8cc#
+=11
+16dd
+8.cc
+8a
+8b
+=12
+4g
+16f#
+8.d}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+8a
+8f#
+=14
+8a
+8a
+8cc
+8ee
+=15
+16dd
+8.cc
+8a
+8b
+=16
+4g
+16f#
+8.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=56 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 31} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 31}
+!!!page: 31
+!!!ONB: Converted on 2024/12/26 with esac2hum

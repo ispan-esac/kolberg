@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK8102100010-powij_witre_powij_witre.krn
+!!!OTL: Powij witre powij witre
+!!!source: DWOK81
+!!!id: 81021
+!!!signature: 8102100010
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8cc
+16dd
+16ee
+4ff
+=2
+8gg
+16ff
+16ee
+4dd
+=3
+8cc
+16a
+16a
+8g
+8b
+=4
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+16dd
+16ee
+4ff
+=6
+8gg
+16ff
+16ee
+4dd
+=
+!!UNCATEGORIZED MEASURE
+8cc
+24a
+24cc
+24a
+8g
+=7
+*M3/8
+4.g
+=8
+8g}
+4r
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 23} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 23}
+!!!page: 23
+!!!ONB: Converted on 2024/12/26 with esac2hum

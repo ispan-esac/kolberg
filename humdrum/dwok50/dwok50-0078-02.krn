@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK5007800002-ej_bodaj_katy_wziely_dolhe_zalecania.krn
+!!!OTL: Ej, bodaj katy wzieły dółhe załecania
+!!!source: DWOK50
+!!!id: 50078
+!!!signature: 5007800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+8r
+{8g
+24a
+24b
+24cc
+=1
+16a
+16a
+8b
+8g
+=
+8cc
+12a
+12cc
+12b
+=2
+16a
+16f#
+8g
+8cc}
+!!LO:LB:g=esac
+=3
+8r
+{8cc
+16cc
+16b
+=4
+16a
+16g
+8f#
+8g
+=5
+8a
+16a
+16g
+16a
+16b
+=6
+16a
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 33} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 33}
+!!!page: 33
+!!!ONB: Converted on 2024/12/26 with esac2hum

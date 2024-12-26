@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK3619500000-oj_ty_diwczyno_zaruczenaja.krn
+!!!OTL: Oj ty diwczyno zaruczenaja
+!!!source: DWOK36
+!!!id: 36195
+!!!signature: 3619500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8g
+8g
+4g
+8g
+=2
+8a
+16g
+16f#
+16e
+16d
+4d
+8d}
+!!LO:LB:g=esac
+=3
+{8d
+8a
+8a
+4a
+8a
+=4
+8d
+8d
+8f#
+4g
+8g}
+!!LO:LB:g=esac
+=5
+{8d
+8cc
+8cc
+4cc
+8f#
+=6
+8g
+8b
+8b
+8b
+8dd
+8dd}
+!!LO:LB:g=esac
+=7
+{8dd
+8cc
+8cc
+4d
+8d
+=8
+8d
+8e
+8f#
+4g
+8g}
+==
+*-
+!!!ONB: prawdopodobne metrum 6/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

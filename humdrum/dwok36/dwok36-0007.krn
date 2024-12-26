@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK3600700000-oj_prystupy_brate_ok_sestry.krn
+!!!OTL: Oj prystupy brate ok' sestry
+!!!source: DWOK36
+!!!id: 36007
+!!!signature: 3600700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/8
+=1
+{16a
+16ee
+8ee
+=2
+8ee
+8a
+=3
+4b
+=4
+8ee
+8ee
+=5
+4ee}
+!!LO:LB:g=esac
+=6
+{16a
+16ee
+8ee
+=7
+8ee
+8a
+=8
+4b
+=9
+8ee
+8ee
+=10
+4ee}
+!!LO:LB:g=esac
+=11
+{16ff#
+16ee
+8ee
+=12
+8ee
+8a
+=13
+4b
+=14
+8ee
+8ee
+=15
+4ee}
+!!LO:LB:g=esac
+=16
+{16ff#
+16ee
+8ee
+=17
+8ee
+8a
+=18
+8b
+8ee
+=19
+16ee
+16a
+8b
+=20
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 7
+!!!ONB: Converted on 2024/12/26 with esac2hum

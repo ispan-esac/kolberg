@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK42183600000-pojechal_jasio_na_lowy.krn
+!!!OTL: Pojechał Jasio na łowy
+!!!source: DWOK42
+!!!id: 421836
+!!!signature: 42183600000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M4/4
+{8g
+8cc
+8cc
+8ee
+4ee
+8dd
+8cc
+=2
+4cc
+4b}
+2r
+!!LO:LB:g=esac
+=3
+*M3/4
+{8g
+8b
+8dd
+8ee
+8ff
+8b
+=4
+4dd
+4cc
+4r
+=5
+*M4/4
+4.ee
+8dd
+4dd
+4cc}
+!!LO:LB:g=esac
+=6
+{4ff
+8ee
+8ee
+4ee
+4dd
+=7
+*M3/4
+8g
+8b
+8dd
+8ee
+8ff
+8b
+=8
+4dd
+4cc}
+4r
+==
+*-
+!!!ONB: wariant w takcie 2:+177_0__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=242 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 233} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

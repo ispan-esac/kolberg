@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK2502200000-pod_borem_sosna.krn
+!!!OTL: Pod borem sosna
+!!!source: DWOK25
+!!!id: 25022
+!!!signature: 2502200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8g
+8a
+8b-
+=2
+2cc
+=3
+8cc
+8cc
+8b-
+8g
+=4
+2a}
+!!LO:LB:g=esac
+=5
+{8f
+8g
+8a
+8b-
+=6
+8cc
+8dd
+8cc
+8a
+=7
+8g
+8g
+4cc
+=8
+4a
+4f}
+!!LO:LB:g=esac
+=9
+{8f
+8g
+8a
+8b-
+=10
+2cc
+=11
+8cc
+8cc
+8b-
+8g
+=12
+2a}
+!!LO:LB:g=esac
+=13
+{8f
+8g
+8a
+8b-
+=14
+8cc
+8dd
+8cc
+8a
+=15
+8g
+8g
+4cc
+=16
+4a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 9} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 9}
+!!!page: 9
+!!!ONB: Converted on 2024/12/26 with esac2hum

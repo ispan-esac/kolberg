@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2009400000-oj_zacynamy_ten_wianek_wic.krn
+!!!OTL: (Oj) zacynamy ten wianek wić
+!!!source: DWOK20
+!!!id: 20094
+!!!signature: 2009400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{2dd
+4ff
+=2
+4ee
+2dd
+=3
+2cc
+4dd
+=4
+4b-
+2a}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4ff
+=6
+4ee
+2dd
+=7
+2cc
+4g
+=8
+4b-
+2a}
+!!LO:LB:g=esac
+=9
+{8f
+8g
+4a
+4a
+=10
+2cc
+4g
+=11
+4b-
+2a}
+!!LO:LB:g=esac
+=12
+{8f
+8g
+4a
+4dd
+=13
+2cc
+4dd
+=14
+4dd
+4cc
+4a}
+==
+*-
+!!!ONB: Podane metrum 3/8 poprawiono na 3/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 145} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 145}
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

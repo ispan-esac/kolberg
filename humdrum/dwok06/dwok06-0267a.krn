@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK06-K0267a-jestem_krakowiacek.krn
+!!!OTL: Jestem Krakowiacek
+!!!source: DWOK06
+!!!id: K0267a
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8a
+4cc
+=2
+8cc
+4cc
+16dd
+16ee
+=3
+8ff
+8cc
+4a
+=4
+8b-
+4b-
+16a
+16g}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+4a
+=6
+8b-
+4dd
+8dd
+=7
+8dd
+8cc
+4a
+=8
+8cc
+4b-
+8g}
+!!LO:LB:g=esac
+=9
+{8b-
+8dd
+8dd
+8dd
+=10
+8dd
+8cc
+8cc
+8cc
+=11
+8cc
+8b-
+8b-
+8g
+=12
+8b-
+8a
+8a
+8a}
+!!LO:LB:g=esac
+=13
+{8f
+8a
+4a
+=14
+8b-
+8dd
+4dd
+=15
+8ff
+8cc
+4a
+=16
+8cc
+4b-
+8g}
+==
+*-
+!!!ONB: Wariant 1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 134} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 134}
+!!!page: 134
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2528800000-jeden_mysliwy_caly_dzien_polowal.krn
+!!!OTL: Jeden myśliwy cały dzień polował
+!!!source: DWOK25
+!!!id: 25288
+!!!signature: 2528800000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{8g
+8cc
+8b
+8dd
+8cc
+8a
+4g
+=2
+8b
+8dd
+8ff
+8ee
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+8dd
+8b
+4.ee
+8gg
+=4
+8ff
+8ee
+8dd
+8cc
+4.ee
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+8b
+4.ff
+8dd
+=6
+8b
+8g
+8a
+8b
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 128} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 128}
+!!!page: 128
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4304400000-helo_helo_haniczko_nadobno.krn
+!!!OTL: Helo helo, Haniczko nadobno
+!!!source: DWOK43
+!!!id: 43044
+!!!signature: 4304400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+4r
+{4g
+2b
+=2
+2.dd
+4a
+=3
+4a
+4b
+2cc
+=4
+4b
+4a
+2g}
+!!LO:LB:g=esac
+=5
+{4g
+4a
+4b
+4cc
+=6
+4b
+2.a}
+!!LO:LB:g=esac
+=7
+{4.dd
+8cc
+4b
+4g
+=8
+4b
+2.dd}
+!!LO:LB:g=esac
+=9
+{2.cc
+4b
+=10
+4a
+2.g
+=11
+4a
+2.b
+=12
+2g}
+2r
+==
+*-
+!!!ONB: ZAPIS METRORYTMICZNY KOLBERGA WĄTPLIWY
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 58} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

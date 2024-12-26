@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK5047000002-bodaj_sia_kohut_znudiw.krn
+!!!OTL: Bodaj sia kohut znudiw
+!!!source: DWOK50
+!!!id: 50470
+!!!signature: 5047000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+4ee
+8dd
+=3
+8cc
+4b}
+!!LO:LB:g=esac
+=4
+{8dd
+8cc
+16b
+16g
+=5
+4a
+16cc
+16b
+=6
+8f#
+4g}
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+16b
+16g
+=8
+4a
+8g
+=9
+8b
+8cc
+8b}
+!!LO:LB:g=esac
+=10
+{8dd
+8b
+8g
+=
+4a
+24g
+24a
+24b
+=11
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=313 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 284} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 284}
+!!!page: 284
+!!!ONB: Converted on 2024/12/26 with esac2hum

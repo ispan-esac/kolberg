@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4642100010-ctery_lata_wiernie_sluzyl.krn
+!!!OTL: Ctery lata wiernie słuzył
+!!!source: DWOK46
+!!!id: 46421
+!!!signature: 4642100010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc#
+=2
+16dd
+16ee
+8a
+16b
+16cc#
+=3
+16dd
+16ee
+8a
+16b
+16cc#
+=4
+16dd
+16cc#
+8dd
+8ee
+=5
+4.dd}
+!!LO:LB:g=esac
+=6
+{16ee
+16dd
+8cc
+8f#
+=7
+16g
+16a
+8.b
+16g
+=8
+16f#
+16g
+8a
+8b
+=9
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 264-265} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, pp. 264-265}
+!!!page: 264-265
+!!!ONB: Converted on 2024/12/26 with esac2hum

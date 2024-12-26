@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK4152800000-da_pierwszem_lepszem_mie_czestuja.krn
+!!!OTL: Da, pierwszem lepszem mię częstują
+!!!source: DWOK41
+!!!id: 41528
+!!!signature: 4152800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+{12dd
+12ee
+12cc
+4dd
+4ff
+=
+4gg
+4aa
+12gg
+12ff
+12ee
+=
+12dd
+12ee
+12cc
+4dd
+4ff
+=
+4gg
+4aa
+12gg
+12ff
+12ee}
+!!LO:LB:g=esac
+=
+{12dd
+12ee
+12cc
+4.dd
+8cc
+=1
+8b
+8cc
+4ee
+8gg
+8ff
+=
+12dd
+12ee
+12cc
+4.dd
+8cc
+=
+12b
+12cc
+12ee
+4ff
+4ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=355 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 272} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 272}
+!!!page: 272
+!!!ONB: Converted on 2024/12/26 with esac2hum

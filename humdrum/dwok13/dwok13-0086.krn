@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1308600000-niechaj_bedzie_pochwalony.krn
+!!!OTL: Niechaj będzie pochwalony
+!!!source: DWOK13
+!!!id: 13086
+!!!signature: 1308600000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{4.a
+=2
+4.a
+=3
+16f#
+16a
+8dd
+8ff#
+=4
+16gg
+16cc#
+8ee
+8dd
+=5
+16a
+16a
+8dd
+8ff#
+=6
+16gg
+16cc#
+8ee
+8dd}
+!!LO:LB:g=esac
+=7
+{16f#
+16a
+8.dd
+16cc#
+=8
+16e
+16g
+8b
+8a
+=9
+16a
+16a
+8dd
+8ff#
+=10
+16gg
+16cc#
+8ee
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 50} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

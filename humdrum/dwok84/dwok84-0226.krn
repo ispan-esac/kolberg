@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK8422600000-w_kijowi_na_kontrakty.krn
+!!!OTL: W Kijowi na kontrakty
+!!!source: DWOK84
+!!!id: 84226
+!!!signature: 8422600000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8a
+16cc#
+16dd
+8ee
+8a
+=2
+8ff#
+8ff#
+4ee
+=3
+2a}
+!!LO:LB:g=esac
+=4
+{8ee
+16ff#
+16ee
+8dd
+8cc#
+=5
+8b
+16cc#
+16dd
+8ee
+8ee
+=6
+4a
+4aa}
+!!LO:LB:g=esac
+=7
+{8ff#
+8ee
+8dd
+8cc#
+=8
+8b
+16cc#
+16dd
+8ee
+8ee
+=9
+4a
+4a}
+!!LO:LB:g=esac
+=10
+{8a
+16cc#
+16dd
+8ee
+8aa
+=11
+8ff#
+8dd
+4ee
+=12
+2a}
+!!LO:LB:g=esac
+=13
+{8ee
+16ff#
+16ee
+16dd
+16cc#
+8b
+=14
+16cc#
+16dd
+8ee
+16dd
+16cc#
+8b
+=15
+4a
+4aa}
+!!LO:LB:g=esac
+=16
+{8ff#
+8ee
+8dd
+8cc#
+=17
+8b
+16cc#
+16dd
+8ee
+8ee
+=18
+4a
+4a}
+==
+*-
+!!!ONB: Wariant t. 6 i 15: 1__+1_7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 214} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 214}
+!!!page: 214
+!!!ONB: Converted on 2024/12/26 with esac2hum

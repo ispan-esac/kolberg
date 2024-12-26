@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4804300000-chcialo_sie_zosi_jagodek.krn
+!!!OTL: Chciało się Zosi jagódek
+!!!source: DWOK48
+!!!id: 48043
+!!!signature: 4804300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{8cc
+8cc
+8cc
+4cc
+8a
+=2
+4b-
+8dd
+4.cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+8cc
+4cc
+8a
+=4
+4b-
+8dd
+4.cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+4ff
+8dd
+=6
+4cc
+8a
+4.cc}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+8cc
+4b-
+8e
+=8
+4g
+8f
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 114} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 114}
+!!!page: 114
+!!!ONB: Converted on 2024/12/26 with esac2hum

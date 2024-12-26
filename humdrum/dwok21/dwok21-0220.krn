@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2122000000-moje_baszowice_na_gorce_stojicie.krn
+!!!OTL: Moje Baszowice na górce stojicie
+!!!source: DWOK21
+!!!id: 21220
+!!!signature: 2122000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+[4dd
+8dd]
+=2
+8ee
+8ee
+8dd
+8cc
+=3
+8cc
+8cc
+8b
+8a
+=4
+8b
+4.d}
+!!LO:LB:g=esac
+=5
+{8f#
+4a
+8g
+=6
+8f#
+8g
+8a
+8b
+=7
+8cc
+8cc
+8b
+8a
+=8
+8b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 105} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

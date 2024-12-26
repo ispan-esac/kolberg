@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK1705400000-miala_baba_figla.krn
+!!!OTL: Miała baba figla
+!!!source: DWOK17
+!!!id: 17054
+!!!signature: 1705400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4g
+8g
+=2
+16g
+16b
+8g
+8g
+=3
+16g
+16b
+8g
+8g
+=4
+16g
+16b
+8.dd
+16b
+=5
+16cc
+16a
+8g
+8g}
+!!LO:LB:g=esac
+=6
+{16g
+16b
+8.dd
+16b
+=7
+16a
+16cc#
+8ee
+8a
+=8
+16g
+16b
+8.dd
+16b
+=9
+16cc
+16a
+8g
+8g}
+!!LO:LB:g=esac
+=10
+{16g
+16b
+8.dd
+16cc#
+=11
+16a
+16cc#
+8ee
+16ee
+16a
+=12
+16g
+16b
+8.dd
+16b
+=13
+16cc
+16a
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 23} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 23}
+!!!page: 23
+!!!ONB: Converted on 2024/12/26 with esac2hum

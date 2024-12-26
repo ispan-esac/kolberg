@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK2906600000-werbowaja_doszczyczka_doszczyczka.krn
+!!!OTL: Werbowaja doszczyczka doszczyczka
+!!!source: DWOK29
+!!!id: 29066
+!!!signature: 2906600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8dd
+=2
+4.cc
+8g
+=3
+8b
+8dd
+4cc
+=4
+8a
+4.g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+8dd
+=6
+4.cc
+8g
+=7
+4b
+4cc
+=8
+8a
+4.g}
+==
+*-
+!!!ONB: Doszczyczka werbowa
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 165} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 165}
+!!!page: 165
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3406400000-czom_u_tebe_wowcze_holowa_welyka.krn
+!!!OTL: Czom u tebe wowcze hołowa welyka
+!!!source: DWOK34
+!!!id: 34064
+!!!signature: 3406400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8c
+8c
+4e
+4c
+=2
+4e
+2g
+=3
+8g
+8g
+4e
+4g
+=4
+4g
+2f}
+!!LO:LB:g=esac
+=5
+{4g
+4e
+4d
+=6
+4g
+4e
+4f
+=7
+4g
+4e
+4f
+=8
+4g
+4e
+4f}
+!!LO:LB:g=esac
+=9
+{4g
+4e
+4c
+=10
+4c
+4d
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 40} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 40}
+!!!page: 40
+!!!ONB: Converted on 2024/12/26 with esac2hum

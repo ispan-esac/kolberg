@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK2643100000-w_polu_owcarek_nocowal.krn
+!!!OTL: W polu owcarek nocował
+!!!source: DWOK26
+!!!id: 26431
+!!!signature: 2643100000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{4e
+8g#
+8b
+8dd
+16cc
+16b
+=2
+*M2/4
+8a
+8e
+4g#
+=3
+8e
+8e
+4d}
+!!LO:LB:g=esac
+=4
+*M3/4
+{4e
+8g#
+8b
+8dd
+16cc
+16b
+=5
+*M2/4
+4a
+4dd
+=6
+2b}
+!!LO:LB:g=esac
+=7
+*M3/4
+{4e
+8g#
+8b
+8a
+8g#
+=8
+*M2/4
+4.b
+8d
+=
+!!UNCATEGORIZED MEASURE
+2e}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8e
+8b
+8b
+8a
+8g#
+=9
+*M2/4
+4.b
+8d
+=10
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 298
+!!!ONB: Converted on 2024/12/26 with esac2hum

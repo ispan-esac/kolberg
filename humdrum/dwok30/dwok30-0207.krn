@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK3020700000-ta_zacwyla_kalynoczka_w_luzi.krn
+!!!OTL: Ta zacwyła kalynoczka w łuzi
+!!!source: DWOK30
+!!!id: 30207
+!!!signature: 3020700000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8cc
+16cc
+16a
+=2
+8cc
+8ee
+8ee
+8ee
+=3
+8.dd
+16cc
+16dd
+16cc
+16b
+16a}
+!!LO:LB:g=esac
+=4
+{8a
+8a
+8cc
+16cc
+16a
+=5
+8dd
+8dd
+8cc
+16cc
+16a
+=6
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 127} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 127}
+!!!page: 127
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2206200000-chodzil_jasio_po_ryneczku.krn
+!!!OTL: Chodził Jasio po ryneczku
+!!!source: DWOK22
+!!!id: 22062
+!!!signature: 2206200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8.g
+16ee
+16dd
+16cc
+=2
+16b
+16b
+8dd
+8a
+=3
+8.g
+16ee
+16dd
+16cc
+=4
+16b
+16b
+8g
+8a}
+!!LO:LB:g=esac
+=5
+{16.e
+32e
+8e
+8d
+=6
+16b
+16b
+8dd
+8a
+=7
+16.a
+32e
+8e
+8d
+=8
+16b
+16b
+8g
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 62} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 62}
+!!!page: 62
+!!!ONB: Converted on 2024/12/26 with esac2hum

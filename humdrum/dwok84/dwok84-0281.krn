@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK8428100000-niosla_zosia_wode_z_rzeczki.krn
+!!!OTL: Niosła Zosia wodę z rzeczki
+!!!source: DWOK84
+!!!id: 84281
+!!!signature: 8428100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8d
+4e
+4f#
+=2
+8g
+8g
+4f#
+4g
+=3
+8a
+8a
+4g#
+4a
+=4
+4b
+2d}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+4cc
+4cc
+=6
+8b
+8b
+4a
+4g
+=7
+8f#
+8f#
+4e
+4f#
+=8
+4a
+2g}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+4dd
+4dd
+=10
+8dd
+8cc#
+4dd
+8b
+8g
+=11
+8e
+8f#
+8g
+8a
+4b
+=12
+8cc
+8a
+2b}
+==
+*-
+!!!ONB: Wariant t. 9-10: 125_5_  54#4#_5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=328 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 258} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 258}
+!!!page: 258
+!!!ONB: Converted on 2024/12/26 with esac2hum

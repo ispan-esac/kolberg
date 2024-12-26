@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK02-K0068b-kole_lasa.krn
+!!!OTL: Kole lasa
+!!!source: DWOK02
+!!!id: K0068b
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+16cc
+16b
+16a
+16g
+=2
+16a
+16b
+16b
+16a
+16f#
+16d
+=3
+16g
+16a
+8b
+8cc
+=4
+8b
+4dd}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+16cc
+16b
+16a
+16g
+=6
+8a
+16cc
+16b
+16dd
+16cc
+=7
+16dd
+16cc
+8b
+8a
+=8
+4g
+8g}
+==
+*-
+!!!ONB: Melodia skrzypiec bez spiewu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 66} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1228100011-nade_droga_oset.krn
+!!!OTL: Nade drogą oset
+!!!source: DWOK12
+!!!id: 12281
+!!!signature: 1228100011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8ee
+8ee
+16ee
+16cc
+=2
+16b
+16dd
+4ff
+=3
+8ee
+8ee
+16ee
+16cc
+=4
+16b
+16dd
+4cc}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8dd
+16b
+16g
+=6
+16f#
+16a
+8cc
+8cc
+=7
+16b
+16dd
+8dd
+16b
+16g
+=8
+16f#
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 150} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 150}
+!!!page: 150
+!!!ONB: Converted on 2024/12/26 with esac2hum

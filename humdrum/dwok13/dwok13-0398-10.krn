@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK1339800010-instrumentalna-pasterski.krn
+!!!OTL: Instrumentalna-Pasterski
+!!!source: DWOK13
+!!!id: 13398
+!!!signature: 1339800010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+8dd
+8gg
+8ff#
+8dd
+=2
+8dd
+8ff#
+8ee
+8dd
+4cc
+=
+12dd
+12ee
+12gg
+4.aa
+8gg
+=3
+8ff#
+8aa
+8gg
+8ff#
+4aa}
+!!LO:LB:g=esac
+=4
+{8g
+8b
+8dd
+8gg
+8ff#
+8dd
+=5
+8dd
+8ff#
+8ee
+8dd
+4cc
+=6
+8g
+8b
+8g
+8f#
+4d
+=7
+8g
+8b
+8g
+8f#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=190 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 166} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 166}
+!!!page: 166
+!!!ONB: Converted on 2024/12/26 with esac2hum

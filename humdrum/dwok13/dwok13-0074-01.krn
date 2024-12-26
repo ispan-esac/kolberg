@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK1307400001-dziewcze_z_czarnemi_oczyma.krn
+!!!OTL: Dziewczę z czarnemi oczyma
+!!!source: DWOK13
+!!!id: 13074
+!!!signature: 1307400001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8f
+8.ff
+16ee
+=2
+8dd
+8.dd
+16cc
+=3
+16g
+16a
+8b-
+8dd
+=4
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{16f
+16f
+8.ff
+16ee
+=6
+16dd
+16dd
+8.dd
+16cc
+=7
+16g
+16a
+8b-
+8g
+=8
+8g
+4f}
+!!LO:LB:g=esac
+=9
+{16.f
+32g
+8a
+8cc
+=10
+16.g
+32a
+8b-
+8dd
+=11
+16dd
+16cc
+8g
+8b-
+=12
+8b-
+4a}
+!!LO:LB:g=esac
+=13
+{16.f
+32g
+8a
+8cc
+=14
+16.g
+32a
+8b-
+8dd
+=15
+16g
+16a
+8b-
+8g
+=16
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 43} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 43}
+!!!page: 43
+!!!ONB: Converted on 2024/12/26 with esac2hum

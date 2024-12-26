@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3645400002-moj_ty_pane_atamane.krn
+!!!OTL: Moj ty pane atamane
+!!!source: DWOK36
+!!!id: 36454
+!!!signature: 3645400002
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{8dd
+8dd
+4cc
+4ff
+=2
+8b-
+8cc
+8dd
+8cc
+4b-
+=3
+4.ff
+8dd
+8ee-
+8gg
+=4
+16ff
+16gg
+16ff
+16ee-
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4cc
+4ff
+=6
+8b-
+8cc
+8dd
+8cc
+4b-
+=7
+4.ee-
+8dd
+8cc
+8ff
+=8
+8ff
+8dd
+4b-}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 292
+!!!ONB: Converted on 2024/12/26 with esac2hum

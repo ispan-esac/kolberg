@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3651100001-oj_u_poli_werba.krn
+!!!OTL: Oj u poli werba
+!!!source: DWOK36
+!!!id: 36511
+!!!signature: 3651100001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8cc
+4b
+=2
+8cc
+8ee
+4dd
+=3
+8cc
+8cc
+4b
+=4
+8cc
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{4ee
+8ff
+8dd
+=6
+8ee
+8dd
+8ee
+8b
+=7
+8cc
+8cc
+4b}
+!!LO:LB:g=esac
+=8
+{4a
+4a
+=9
+8cc
+8cc
+4b
+=10
+8ee
+8ee
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 333
+!!!ONB: Converted on 2024/12/26 with esac2hum

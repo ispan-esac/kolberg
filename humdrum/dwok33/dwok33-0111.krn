@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK3311100000-na_hore_cerkowka_w_bozyj_czas.krn
+!!!OTL: Na hore cerkowka w Bożyj czas
+!!!source: DWOK33
+!!!id: 33111
+!!!signature: 3311100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8a
+8b
+8cc
+8dd
+8cc
+8dd
+8b
+=2
+8dd
+8ee
+8dd
+8cc
+8b
+8a
+8b
+8f#
+=3
+8g
+8a
+8b
+8cc
+4.dd
+8b
+=4
+8dd
+8ee
+8dd
+8cc
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8d
+8e
+8f#
+8d
+4g
+4b
+=6
+8cc
+8a
+8b
+8g
+4a
+4d
+=7
+8d
+8e
+4f#
+4g
+4d
+=8
+8d
+8e
+8f#
+8d
+2g}
+==
+*-
+!!!ONB: Marsz
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 229} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 229}
+!!!page: 229
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,117 @@
+!!!!SEGMENT: DWOK2254400000-oj_siano_siano_pod_sianem_woda.krn
+!!!OTL: Oj siano siano pod sianem woda
+!!!source: DWOK22
+!!!id: 22544
+!!!signature: 2254400000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{4a
+8a
+8cc
+8dd
+8b
+=
+!!UNCATEGORIZED MEASURE
+8dd
+8b
+8dd
+8ee
+16dd
+16cc
+=2
+*M3/4
+8a
+8cc
+8a
+8cc
+8dd
+16cc
+16b
+=3
+8d
+16ff#
+16g
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=4
+{4a
+8a
+8cc
+8dd
+8b
+=5
+8g
+8b
+8dd
+8ee
+4dd
+=6
+8a
+8cc
+8a
+8cc
+8dd
+8b
+=7
+8d
+16f#
+16g
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=8
+*M3/8
+{16g
+16g
+8ff
+8ee
+=9
+16cc
+16ee
+8.cc
+16a
+=10
+16g
+16g
+8ff
+8dd
+=11
+16g
+16g
+8.cc
+16a}
+!!LO:LB:g=esac
+=12
+{16dd
+16b
+8g
+8g
+=13
+16cc
+16ee
+8.cc
+16a
+=14
+16dd
+16b
+8g
+8g
+=15
+16g
+16g
+8.cc
+16a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 247} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 247}
+!!!page: 247
+!!!ONB: Converted on 2024/12/26 with esac2hum

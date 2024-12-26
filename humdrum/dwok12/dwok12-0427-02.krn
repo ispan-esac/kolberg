@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK1242700002-oj_plywalo_dwoch_rybakow.krn
+!!!OTL: Oj pływało dwóch rybaków
+!!!source: DWOK12
+!!!id: 12427
+!!!signature: 1242700002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8a
+8cc
+4ff
+4ff
+=2
+4dd
+4dd
+8b-
+8g
+=3
+8b-
+8dd
+2cc}
+!!LO:LB:g=esac
+=4
+{8a
+8cc
+4ff
+8ee
+8ff
+=5
+4dd
+4dd
+8b-
+8g
+=6
+8b-
+8a
+2f}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+4cc
+8b-
+8a
+=8
+4g
+4g
+8g
+8g
+=9
+8b-
+8b-
+4dd
+4cc}
+!!LO:LB:g=esac
+=10
+{8a
+8cc
+4cc
+8b-
+8a
+=11
+4g
+4g
+8g
+8g
+=12
+8b-
+8a
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 222} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 222}
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK8428600000-lsni_blaskiem_kwietna_blon.krn
+!!!OTL: Lśni blaskiem kwietna błoń
+!!!source: DWOK84
+!!!id: 84286
+!!!signature: 8428600000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M3/4
+{8g
+16a
+16b
+4dd
+4cc
+=2
+*M3/8
+8e
+4r
+=3
+*M7/8
+12e
+12f
+12g
+4a
+4g
+=4
+*M3/8
+8c}
+4r
+!!LO:LB:g=esac
+=5
+*M3/4
+{4g
+4g
+4f
+=6
+*M2/4
+4e
+4r
+=7
+*M7/8
+12e
+12d
+12e
+4a
+4e
+=8
+*M2/4
+4cc}
+4r
+!!LO:LB:g=esac
+=9
+*M7/8
+{8cc
+16b
+16a
+8b
+8cc
+8b
+4a
+=10
+*M3/4
+8cc
+16b
+16a
+4a
+4g
+=
+!!UNCATEGORIZED MEASURE
+4e}
+4r
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8g
+16a
+16g
+4ee
+24dd
+24cc
+24b
+16a
+16g
+8cc
+8e
+=11
+*M3/4
+8g
+8g
+4f
+4B
+=12
+*M2/4
+4c}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=333 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 263} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 263}
+!!!page: 263
+!!!ONB: Converted on 2024/12/26 with esac2hum

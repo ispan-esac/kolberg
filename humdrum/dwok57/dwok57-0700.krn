@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK5770000000-stojala_na_kolodei.krn
+!!!OTL: Stojała na kołodei
+!!!source: DWOK57
+!!!id: 57700
+!!!signature: 5770000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8b
+=2
+4cc
+8dd
+=3
+8ee
+4cc}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8cc#
+=5
+4dd
+8ee
+=6
+8ff
+4dd}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+8dd#
+=8
+4ee
+8gg
+=9
+8gg
+4ff}
+!!LO:LB:g=esac
+=10
+{8ff
+8dd
+8cc
+=11
+4b
+8dd
+=12
+8dd
+8cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 30
+!!!ONB: Converted on 2024/12/26 with esac2hum

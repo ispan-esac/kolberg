@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4490100000-ne_budu_plakala.krn
+!!!OTL: Ne budu płakała
+!!!source: DWOK44
+!!!id: 44901
+!!!signature: 4490100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8ff#
+8ee
+8dd
+8dd
+8b
+8g
+=2
+8ff#
+8ee
+8dd
+8dd
+8dd
+8g
+=3
+2a}
+4r
+!!LO:LB:g=esac
+=4
+{8cc
+8dd
+8cc
+8g
+8a
+8dd
+=5
+8dd
+8ee
+8dd
+8cc
+8dd
+8g
+=6
+2a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=479 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 421} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 421}
+!!!page: 421
+!!!ONB: Converted on 2024/12/26 with esac2hum

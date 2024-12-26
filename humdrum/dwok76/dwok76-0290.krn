@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK7629000000-a_jak_ci_ja_zacne....krn
+!!!OTL: A jak ci ja zacnę...
+!!!source: DWOK76
+!!!id: 76290
+!!!signature: 7629000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+32b
+16.dd
+8.g
+16b
+=2
+8b
+4a
+8a
+=3
+8f#
+32a
+16.cc
+8.f#
+16a
+=4
+8g
+4b
+32b
+16.dd}
+!!LO:LB:g=esac
+=5
+{8g
+32b
+16.dd
+8.g
+16b
+=6
+8b
+4a
+32a
+16.cc
+=7
+8cc
+32cc
+16.ee
+8.dd
+16f#
+=8
+8g
+4.g}
+!!LO:LB:g=esac
+=9
+{8g
+32b
+16.dd
+8.gg
+16ff#
+=10
+8ff#
+4ee
+32cc
+16.ee
+=11
+8cc
+32ee
+16.gg
+8.cc
+16ee
+=12
+8ee
+4dd
+32b
+16.dd}
+!!LO:LB:g=esac
+=13
+{16gg
+16dd
+16b
+16dd
+8.g
+16b
+=14
+8dd
+4cc
+32a
+16.cc
+=15
+8cc
+32cc
+16.ee
+8.dd
+16f#
+=16
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 150} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 150}
+!!!page: 150
+!!!ONB: Converted on 2024/12/26 with esac2hum

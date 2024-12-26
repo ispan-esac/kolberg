@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK5043000001-stala_nam_sia_nowyna_nowyna.krn
+!!!OTL: Stała nam sia nowyna, nowyna
+!!!source: DWOK50
+!!!id: 50430
+!!!signature: 5043000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16g
+8b
+8dd
+=2
+8cc#
+16b
+16a
+8g
+=3
+16b
+16cc
+4dd}
+!!LO:LB:g=esac
+=4
+{16dd
+16dd
+8b
+8dd
+=5
+8cc
+8b
+8g
+=6
+16a
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 256} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 256}
+!!!page: 256
+!!!ONB: Converted on 2024/12/26 with esac2hum

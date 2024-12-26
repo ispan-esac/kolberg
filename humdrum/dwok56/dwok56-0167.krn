@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK5616700000-oj_jde_didu_kaczok_pasty.krn
+!!!OTL: Oj, jd'e didu, kaczok pasty
+!!!source: DWOK56
+!!!id: 56167
+!!!signature: 5616700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4b
+4dd
+4dd
+4dd
+=2
+4cc
+8b
+8a
+4g
+4b}
+!!LO:LB:g=esac
+=3
+{4dd
+4dd
+4cc
+4a
+=4
+4dd
+4dd
+4g
+4b}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4cc
+4a
+=6
+4dd
+4dd
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 187} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

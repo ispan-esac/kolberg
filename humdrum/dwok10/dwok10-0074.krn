@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK1007400000-przyjechal_pode_drwota.krn
+!!!OTL: Przyjechał pode drwota
+!!!source: DWOK10
+!!!id: 10074
+!!!signature: 1007400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8b
+8b
+=2
+8a
+16a
+16f#
+4g
+=3
+8cc
+8cc
+8ee
+8ee
+=4
+8cc
+16cc
+16b
+4dd}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+4dd
+=6
+8a
+8a
+4cc
+=7
+16a
+16g
+16f#
+16a
+8g}
+8r
+!!LO:LB:g=esac
+=8
+{8b
+8b
+8dd
+8dd
+=9
+8a
+8a
+8cc
+8b
+=10
+16a
+16g
+16f#
+16a
+8g}
+8r
+==
+*-
+!!!ONB: Wiwat
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 231} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 231}
+!!!page: 231
+!!!ONB: Converted on 2024/12/26 with esac2hum

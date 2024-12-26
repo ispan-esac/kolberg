@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK1337800010-instrumentalna-chodzony_pasterski.krn
+!!!OTL: Instrumentalna-Chodzony pasterski
+!!!source: DWOK13
+!!!id: 13378
+!!!signature: 1337800010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8dd
+8ee
+4aa
+8gg
+=
+12dd
+12gg
+12ff#
+[4dd
+12dd]
+12cc
+12b
+=2
+8cc
+8dd
+8ee
+4.ff#
+=
+4a
+12a
+12gg#
+12ff#
+12dd
+12cc
+12b}
+!!LO:LB:g=esac
+=3
+{8cc
+8dd
+8ee
+4aa
+8gg
+=
+2a
+12dd
+12cc
+12b
+=4
+8cc
+8dd
+8ee
+4.ff#
+=
+4a
+12a
+12b
+12cc
+12dd
+12cc
+12b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 161} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 161}
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

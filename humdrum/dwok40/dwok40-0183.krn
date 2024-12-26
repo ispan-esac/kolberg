@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK4018300000-a_w_sadeczku_jabloneczka.krn
+!!!OTL: A w sadeczku jabłoneczka
+!!!source: DWOK40
+!!!id: 40183
+!!!signature: 4018300000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8b
+8cc
+8dd
+=2
+8ee
+8gg
+8ff
+8ee
+=3
+8dd
+8cc
+8b
+8dd
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8cc
+8dd
+=6
+8ee
+8gg
+8ff
+8dd
+=7
+8b
+8g
+8a
+8b
+=8
+4cc}
+4r
+!!LO:LB:g=esac
+=9
+{4ee
+4dd
+=10
+8cc
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=11
+{4ee
+4cc
+=12
+8b
+8cc
+8dd
+8ee}
+!!LO:LB:g=esac
+=13
+{8ff
+8g
+8b
+8dd
+=14
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 233} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

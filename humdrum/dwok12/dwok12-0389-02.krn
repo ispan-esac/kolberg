@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK1238900002-wola_ociec_wola_matka.krn
+!!!OTL: Woła ociec, woła matka
+!!!source: DWOK12
+!!!id: 12389
+!!!signature: 1238900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+16ee
+16dd
+=2
+16cc
+16b
+4a
+=3
+8.cc
+16b
+8dd
+=4
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8cc
+=6
+16a
+16a
+8f#
+8d
+=7
+8.cc
+16b
+8dd
+=8
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+8b
+8cc
+=10
+16a
+16a
+8f#
+8d
+=11
+8.cc
+16b
+8dd
+=12
+16b
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 202} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 202}
+!!!page: 202
+!!!ONB: Converted on 2024/12/26 with esac2hum

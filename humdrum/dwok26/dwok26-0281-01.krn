@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK2628100001-synkarke_mi_raja.krn
+!!!OTL: Synkarkę mi rają
+!!!source: DWOK26
+!!!id: 26281
+!!!signature: 2628100001
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8f
+8f
+8.ee-
+16ff
+=2
+8dd
+4.b-
+=3
+8ee-
+8ee-
+8.cc
+16b-
+=4
+8dd
+4.ff}
+!!LO:LB:g=esac
+=5
+{8f
+8f
+8.ee-
+16ff
+=6
+8dd
+4.b-
+=7
+8ee-
+8cc
+8cc
+8a
+=8
+8b-
+4.b-}
+!!LO:LB:g=esac
+=9
+{8cc
+8a
+8a
+8f
+=10
+8b-
+8b-
+8dd
+8b-
+=11
+8cc
+8a
+8a
+8f
+=12
+8a
+8b-
+8dd
+8b-}
+!!LO:LB:g=esac
+=13
+{8f
+8f
+8.ee-
+16ff
+=14
+8dd
+4.b-
+=15
+8ee-
+8cc
+8cc
+8a
+=16
+8b-
+4.b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 225
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK1626400000-oj_matulu_do_jego_dworu_jade.krn
+!!!OTL: Oj matulu do jego dworu jadę
+!!!source: DWOK16
+!!!id: 16264
+!!!signature: 1626400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8cc#
+=2
+8dd
+4b
+=3
+8dd
+8b
+8cc#
+=4
+4dd
+8g
+=5
+8b
+8g}
+8r
+!!LO:LB:g=esac
+=6
+{8dd
+8dd
+8cc#
+=7
+8dd
+4b
+=8
+8dd
+8b
+8cc#
+=9
+4dd
+8g
+=10
+8b
+8g}
+8r
+!!LO:LB:g=esac
+=11
+{8b
+8b
+8cc#
+=12
+8dd
+4b
+=13
+8g
+8b
+8cc#
+=14
+8dd
+4b
+=15
+8dd
+8b
+8cc#
+=16
+4dd
+8g
+=17
+8b
+8g}
+8r
+!!LO:LB:g=esac
+=18
+{16b
+16a
+8b
+8cc#
+=19
+8dd
+4b
+=20
+8g
+8b
+8cc#
+=21
+8dd
+4b
+=22
+8dd
+8b
+8cc#
+=23
+4dd
+8g
+=24
+8b
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 216} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 216}
+!!!ONB: Converted on 2024/12/26 with esac2hum

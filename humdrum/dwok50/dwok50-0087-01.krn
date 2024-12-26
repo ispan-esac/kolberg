@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK5008700001-jak_ja_pijdu_od-tal_precz.krn
+!!!OTL: Jak ja pijdu od-tal precz
+!!!source: DWOK50
+!!!id: 50087
+!!!signature: 5008700001
+**kern
+*clefG2
+*k[b-]
+*F:
+=1
+*M4/4
+{4cc
+4dd
+4.cc
+8a
+=2
+*M3/4
+8b--
+8a
+2g}
+!!LO:LB:g=esac
+=3
+*M2/4
+{8cc
+8cc
+8dd
+8ee
+=4
+4ff
+8gg
+8ee
+=5
+*M3/4
+8dd
+8dd
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=54 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 37} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

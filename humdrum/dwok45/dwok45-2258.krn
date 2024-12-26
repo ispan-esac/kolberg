@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK45225800000-ej_swieci_miesiacek.krn
+!!!OTL: Ej swieci miesiącek
+!!!source: DWOK45
+!!!id: 452258
+!!!signature: 45225800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4ee
+4ee
+=
+6ff#
+6gg
+6ff#
+6dd
+=2
+4dd
+2cc}
+!!LO:LB:g=esac
+=3
+{8ee
+8gg
+2ff#
+=4
+2.cc}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+4ee
+=
+6ff#
+6gg
+6ff#
+6dd
+=6
+4dd
+2cc}
+!!LO:LB:g=esac
+=7
+{8dd
+8cc
+2b
+=8
+2.cc
+=9
+4ff#
+[2cc}
+=10
+2.cc]
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=487 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 469} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 469}
+!!!page: 469
+!!!ONB: Converted on 2024/12/26 with esac2hum

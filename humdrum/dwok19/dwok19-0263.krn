@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1926300000-pijes_pijes_pijanico.krn
+!!!OTL: Pijes pijes pijanico!
+!!!source: DWOK19
+!!!id: 19263
+!!!signature: 1926300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+16b
+16b
+=2
+16cc
+16ee
+8ee
+8ee
+=3
+32dd
+32ee
+32ff#
+32gg
+8dd
+8b
+=
+8a
+24a
+24b
+24cc
+16a
+16f#}
+!!LO:LB:g=esac
+=4
+{8g
+8g
+16b
+16g
+=5
+16f#
+16a
+8cc
+16a
+16f#
+=6
+8g
+8g
+16b
+16g
+=7
+16f#
+16a
+16b
+16cc
+16a
+16f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 81} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 81}
+!!!page: 81
+!!!ONB: Converted on 2024/12/26 with esac2hum

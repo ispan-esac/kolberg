@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1006100000-a_niesiemy_plon_jasnie_panu_w_dom.krn
+!!!OTL: A niesiemy plon jaśnie panu w dom
+!!!source: DWOK10
+!!!id: 10061
+!!!signature: 1006100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8f#
+8g
+4b
+8a
+8cc
+=2
+2.dd
+=3
+8.ee
+16ee
+4cc
+4ee
+=4
+2.dd}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4.cc
+8b
+=6
+8.g
+16g
+4f#
+4d
+=7
+8b
+8dd
+4.cc
+8b
+=8
+8.g
+16g
+4f#
+4d}
+!!LO:LB:g=esac
+=9
+{8f#
+8g
+8b
+8a
+4cc
+=10
+2.g}
+==
+*-
+!!!ONB: W ostatnim takcie brakuje kropki, dopisano
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=224 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 208} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 208}
+!!!page: 208
+!!!ONB: Converted on 2024/12/26 with esac2hum

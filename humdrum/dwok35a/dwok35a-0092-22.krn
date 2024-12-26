@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK35A-35A09200022-instrumentalna-oj_wud_horojki_da_do_horojki.krn
+!!!OTL: Instrumentalna-Oj wud horojki da do horojki
+!!!source: DWOK35A
+!!!id: 24092
+!!!signature: 35A09200022
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+16a
+16b
+16cc
+16dd
+16cc
+16b
+=2
+16cc
+16dd
+16cc
+16b
+8cc
+8g
+=3
+8cc
+8ee
+16ff
+16gg
+16ff
+16gg
+=4
+2ff}
+!!LO:LB:g=esac
+=5
+{16ee
+16ff
+16ee
+16dd
+16ee
+16ff
+16ee
+16dd
+=6
+8cc
+16dd
+16ee
+16ff
+16gg
+16ff
+16gg
+=7
+2ff}
+!!LO:LB:g=esac
+=8
+{8ee
+8dd
+8cc
+8b
+=9
+8cc
+8ee
+8dd
+8cc
+=10
+8b
+8a
+8g
+8g
+=11
+2g}
+!!LO:LB:g=esac
+=12
+{16ee
+16ff
+16ee
+16dd
+8cc
+8b
+=13
+8cc
+8ee
+16dd
+16ee
+16dd
+16cc
+=14
+8b
+8a
+8g
+16g
+16a
+=15
+2g}
+==
+*-
+!!!ONB: Vivace
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 66} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2317100000-a_wylizze_mloda_panno_zza_stola.krn
+!!!OTL: A wyliźze młoda panno zza stoła
+!!!source: DWOK23
+!!!id: 23171
+!!!signature: 2317100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8a
+8b
+8cc
+=2
+8dd
+8ee
+8dd
+8cc
+=3
+4b
+8cc
+8a
+=4
+8g
+8a
+8dd
+8cc
+=5
+4b
+8cc
+8a
+=6
+4g}
+4r
+!!LO:LB:g=esac
+=7
+{8b
+8a
+8b
+8cc
+=8
+8dd
+8ee
+8dd
+8cc
+=9
+4b
+8cc
+8a
+=10
+8g
+8a
+8dd
+8cc
+=11
+4b
+8cc
+8a
+=12
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 170} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 170}
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

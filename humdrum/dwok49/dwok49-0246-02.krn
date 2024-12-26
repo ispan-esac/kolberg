@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4924600002-piesn_dozynkowa-bez_tekstu.krn
+!!!OTL: Pieśń dożynkowa-bez tekstu
+!!!source: DWOK49
+!!!id: 49246
+!!!signature: 4924600002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8dd
+8dd
+=2
+8cc
+8dd
+8cc
+=3
+4cc
+16b
+16a
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16cc
+8cc
+8ff
+=6
+8ee
+4dd
+=7
+8ff
+4ee}
+!!LO:LB:g=esac
+=8
+{16dd
+16cc
+8cc
+8dd
+=9
+8ee
+8cc
+8b
+=10
+4.cc
+=11
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=375 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 293} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 293}
+!!!page: 293
+!!!ONB: Converted on 2024/12/26 with esac2hum

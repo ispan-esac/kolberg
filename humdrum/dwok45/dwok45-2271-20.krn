@@ -1,0 +1,37 @@
+!!!!SEGMENT: DWOK45227100020-bylek_bylek.krn
+!!!OTL: Byłek, byłek
+!!!source: DWOK45
+!!!id: 452271
+!!!signature: 45227100020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8b
+8g
+=2
+8f#
+4a
+8a
+=3
+8dd
+8d
+8e
+8f#
+=4
+16a
+16g
+4g
+8g}
+==
+*-
+!!!ONB: Odmiana
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=493 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 475} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 475}
+!!!page: 475
+!!!ONB: Converted on 2024/12/26 with esac2hum

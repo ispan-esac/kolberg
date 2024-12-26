@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK3657200001-a_szczez_toho_nihdy_w_switu_ne_bulo.krn
+!!!OTL: A szczeż toho nihdy w świtu ne buło
+!!!source: DWOK36
+!!!id: 36572
+!!!signature: 3657200001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8ee
+8dd
+8ff
+=2
+4ee
+4dd
+=3
+8cc
+8ee
+4g}
+!!LO:LB:g=esac
+=4
+{8a
+8cc
+8b
+8dd
+=5
+4cc
+4b
+=6
+8a
+8a
+4e}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+8b
+8dd
+=8
+4cc
+4b
+=9
+8a
+8a
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 383
+!!!ONB: Converted on 2024/12/26 with esac2hum

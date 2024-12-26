@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK57103100000-oj_wyszou_ja_na_ulyciu.krn
+!!!OTL: Oj, wyszou ja na ułyciu
+!!!source: DWOK57
+!!!id: 571031
+!!!signature: 57103100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8g
+8g
+8g
+=2
+8a
+8g
+8g
+8g
+=3
+4cc
+4g
+=4
+8a
+8g
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8f
+8f
+=6
+8e
+8g
+8cc
+8cc
+=7
+4b
+8a
+8g
+=8
+8cc
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 202
+!!!ONB: Converted on 2024/12/26 with esac2hum

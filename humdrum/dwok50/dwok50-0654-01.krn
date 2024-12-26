@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK5065400001-za_ebry_fala_goniac_spojrzeniem.krn
+!!!OTL: Za Ebry falą goniąc spojrzeniem
+!!!source: DWOK50
+!!!id: 50654
+!!!signature: 5065400001
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=1
+4.r
+4r
+{8dd
+8dd
+8dd
+=2
+4.gg
+8dd
+4bb-
+8aa
+8gg
+=3
+8aa
+8ff#
+4dd}
+2r
+!!LO:LB:g=esac
+=4
+{4bb-
+8bb-
+8bb-
+4bb-
+8aa
+8gg
+=5
+4.aa
+8ff#
+4dd}
+4r
+!!LO:LB:g=esac
+=6
+{4dd
+8.ff
+16ee-
+4cc
+8b-
+8cc
+=7
+4cc
+8.ee-
+16dd
+8b-
+8a
+8g
+8dd}
+!!LO:LB:g=esac
+=8
+{4.dd
+8cc
+4b-
+8a
+8b-
+=9
+2a
+8g}
+4.r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=428 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 395} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 395}
+!!!page: 395
+!!!ONB: Converted on 2024/12/26 with esac2hum

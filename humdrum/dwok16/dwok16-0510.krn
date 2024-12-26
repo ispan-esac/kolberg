@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1651000000-byla_babula_rodu_bogatego.krn
+!!!OTL: Była babula rodu bogatego
+!!!source: DWOK16
+!!!id: 16510
+!!!signature: 1651000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+4dd
+8ee
+=3
+16dd
+16cc
+8a
+8cc
+=4
+4dd
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8b
+=6
+4a
+8d
+=7
+16d
+16f#
+8g
+16b
+16cc
+=8
+4dd
+8g}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+8b
+=10
+4a
+8d
+=11
+16d
+16f#
+8g
+16b
+16f#
+=12
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=328 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 308} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 308}
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2518000000-jechal_pan_na_lowy.krn
+!!!OTL: Jechał pan na łowy
+!!!source: DWOK25
+!!!id: 25180
+!!!signature: 2518000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8g
+8g
+=2
+8g
+4cc
+=3
+16a
+16a
+8a
+8a
+=4
+8a
+4dd}
+!!LO:LB:g=esac
+=5
+{8b
+8g
+8g
+=6
+16cc
+16ee
+8cc
+8cc
+=7
+16a
+16a
+8f
+8a
+=8
+32cc
+16.b
+4g}
+!!LO:LB:g=esac
+=9
+{8b
+8g
+8g
+=10
+16ee
+16ee
+8cc
+8cc
+=11
+16a
+16a
+8f
+8a
+=12
+32cc
+16.b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 78} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 78}
+!!!page: 78
+!!!ONB: Converted on 2024/12/26 with esac2hum

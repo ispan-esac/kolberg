@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7500500000-uciekala_po_rowie.krn
+!!!OTL: Uciekała po rowie
+!!!source: DWOK75
+!!!id: 75005
+!!!signature: 7500500000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8g
+8b-
+4dd
+4dd
+=2
+4dd
+4gg
+4dd}
+!!LO:LB:g=esac
+=3
+{8ee-
+8dd
+4cc
+4a
+=4
+4g
+4b-
+4g}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+4a
+4a
+=6
+4a
+4dd
+4dd}
+!!LO:LB:g=esac
+=7
+{8ee-
+8dd
+4cc
+8b-
+8a
+=8
+4g
+4b-
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 5} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 5}
+!!!page: 5
+!!!ONB: Converted on 2024/12/26 with esac2hum

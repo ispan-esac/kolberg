@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7756100000-oj_gorzaleczko_z_wykam.krn
+!!!OTL: Oj gorzałeczko z wykam
+!!!source: DWOK77
+!!!id: 77561
+!!!signature: 7756100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4dd
+4b
+=2
+4cc
+4ee
+4ee}
+!!LO:LB:g=esac
+=3
+{8ee
+8dd
+4dd
+4b
+=4
+4a
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4dd
+4b
+=6
+4dd
+4cc
+4cc}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+4b
+4g
+=8
+4a
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 289
+!!!ONB: Converted on 2024/12/26 with esac2hum

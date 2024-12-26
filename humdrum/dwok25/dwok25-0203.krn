@@ -1,0 +1,39 @@
+!!!!SEGMENT: DWOK2520300000-kapala_sie_kasia_w_morzu.krn
+!!!OTL: Kąpała się Kasia w morzu
+!!!source: DWOK25
+!!!id: 25203
+!!!signature: 2520300000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+16a
+8b-
+8dd
+=2
+4cc
+8b-
+=3
+8dd
+4ff
+=4
+16dd
+16ff
+8ff
+8ee-
+=5
+4cc
+8a
+=6
+8cc
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 90} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

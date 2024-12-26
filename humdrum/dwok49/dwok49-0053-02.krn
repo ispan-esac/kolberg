@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK4905300002-o_dsemu_domu.krn
+!!!OTL: O, d'semu domu
+!!!source: DWOK49
+!!!id: 49053
+!!!signature: 4905300002
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8g
+8a
+8a
+=2
+8a
+4dd
+=3
+8dd
+8cc
+8a
+=
+8dd
+16cc
+16a
+24b-
+24a
+24g
+=4
+16b-
+16a
+8a
+8g
+=5
+4.a}
+!!LO:LB:g=esac
+=6
+{16b-
+16cc
+8dd
+16ee
+16dd
+=7
+8cc
+16b-
+16a
+16b-
+16g
+=8
+8dd
+8cc#
+8b
+=9
+4a
+8a
+=10
+16b-
+16a
+8a
+8g
+=11
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=223 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 145} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 145}
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

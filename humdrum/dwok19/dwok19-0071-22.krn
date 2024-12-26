@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1907100022-nie_pojde_nie_pojde_za_kmiecego_syna.krn
+!!!OTL: Nie pójdę, nie pójdę za kmiecego syna
+!!!source: DWOK19
+!!!id: 19071
+!!!signature: 1907100022
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+16ee
+16dd
+16cc
+16b
+=2
+8dd
+8dd
+16ee
+16dd
+16cc
+16b
+=3
+8b
+16cc
+16cc#
+8dd
+8ee
+=4
+8dd
+4.a}
+!!LO:LB:g=esac
+=5
+{4dd
+16ee
+16dd
+16cc
+16b
+=6
+8dd
+8dd
+16ee
+16dd
+16cc
+16b
+=7
+8dd
+8a
+8g
+8f#
+=8
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 26} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 26}
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

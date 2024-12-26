@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2904100000-a_na_wodi_na_ardanie.krn
+!!!OTL: A na wodi na Ardanie
+!!!source: DWOK29
+!!!id: 29041
+!!!signature: 2904100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8dd
+8cc
+8cc
+8b
+4ee
+=2
+8dd
+16cc
+16b
+4a
+4g}
+!!LO:LB:g=esac
+=3
+{8dd
+8cc
+8cc
+8b
+4ee
+=4
+8dd
+16cc
+16b
+4.a
+8a}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+4b
+4ee
+=6
+8dd
+16cc
+16b
+4a
+4g}
+!!LO:LB:g=esac
+=7
+{8dd
+8cc
+4b
+4ee
+=8
+8dd
+16cc
+16b
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 135} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

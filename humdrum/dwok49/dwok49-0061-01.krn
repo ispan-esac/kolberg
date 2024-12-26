@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK4906100001-na_swiate_riztwo.krn
+!!!OTL: Na swiate Riztwo
+!!!source: DWOK49
+!!!id: 49061
+!!!signature: 4906100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8g
+4b
+4cc
+=2
+4dd
+2dd
+=3
+4ff#
+4ff#
+4ee
+=4
+4dd
+8b
+4.g
+=5
+4b
+4.a
+8f#
+=6
+2g}
+4r
+!!LO:LB:g=esac
+=7
+{4dd
+4dd
+4ee
+=8
+4dd
+2dd
+=9
+4cc
+4b
+4dd
+=10
+4.a
+8g
+4d
+=11
+8d
+8f#
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 153} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 153}
+!!!page: 153
+!!!ONB: Converted on 2024/12/26 with esac2hum

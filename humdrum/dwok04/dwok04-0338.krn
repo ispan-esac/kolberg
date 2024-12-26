@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK04-K0338-ja_jestem_latolosl_mloda.krn
+!!!OTL: Ja jestem latolosl mloda
+!!!source: DWOK04
+!!!id: K0338
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=1
+{4b
+8g#
+8b
+4ee
+8dd#
+8cc#
+=2
+4.cc#
+8b
+4b}
+4r
+!!LO:LB:g=esac
+=3
+{4b
+8g#
+8b
+4ee
+8dd#
+8cc#
+=4
+4.cc#
+8b
+4b}
+4r
+!!LO:LB:g=esac
+=5
+{4ff#
+8ee#
+8ff#
+4aa
+8cc#
+8dd#
+=6
+4.ee
+8g#
+2cc#
+=7
+4b
+8b
+8b
+4a
+8a
+8d#
+=8
+4.e
+8g#
+4b}
+4r
+!!LO:LB:g=esac
+=9
+{8ff#
+16gg#
+16ff#
+8ee#
+8ff#
+4aa
+8cc#
+8dd#
+=10
+4.ee
+8g#
+2cc#
+=11
+4b
+8b
+8b
+8b
+8a
+8a
+8d#
+=12
+2e
+4e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 184} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

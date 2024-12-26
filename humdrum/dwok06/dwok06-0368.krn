@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK06-K0368-kiedy_ja_byl_mlody_chlopiec.krn
+!!!OTL: Kiedy ja byl mlody chlopiec
+!!!source: DWOK06
+!!!id: K0368
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+=1
+*M3/8
+{16cc
+16cc
+8dd
+8dd
+=2
+16cc
+16cc
+8b-
+8a
+=3
+16cc
+16cc
+8dd
+8dd
+=4
+16cc
+16cc
+8b-
+8a}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8.f
+16g
+=6
+8a
+8b-
+8a
+=7
+16g
+16g
+16f
+16e
+16f
+16g
+=8
+16a
+16cc
+8b-
+8a}
+!!LO:LB:g=esac
+=9
+{8g
+4f
+=10
+8a
+4b
+=11
+16cc
+16b-
+8g
+16f
+16a
+=12
+*M2/4
+8.cc
+16b-
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 189} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

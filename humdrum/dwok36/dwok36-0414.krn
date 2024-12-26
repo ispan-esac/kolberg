@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3641400000-ja_w_polu_pod_wyszenkoju.krn
+!!!OTL: Ja w polu pod wyszeńkoju
+!!!source: DWOK36
+!!!id: 36414
+!!!signature: 3641400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+8b
+=2
+8dd
+8cc
+8a
+=3
+8b
+8g
+8b
+=4
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{4dd
+16ee
+16dd
+=6
+8cc#
+8dd
+8g
+=7
+8b
+8dd
+8cc
+=8
+8b
+4g}
+!!LO:LB:g=esac
+=9
+{4dd
+16ee
+16dd
+=10
+8cc#
+8dd
+8g
+=11
+8b
+8dd
+8cc
+=12
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 263
+!!!ONB: Converted on 2024/12/26 with esac2hum

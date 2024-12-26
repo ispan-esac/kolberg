@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK57101800002-siwy_kon_pode_mna.krn
+!!!OTL: Siwy koń pode mną
+!!!source: DWOK57
+!!!id: 571018
+!!!signature: 57101800002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16ee
+8cc
+8a
+=2
+8a
+8g
+8g
+=3
+16cc
+16ee
+8cc
+8a
+=4
+8a
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8ee
+8gg
+=6
+8gg
+8ff
+8ff
+=7
+16ee
+16ee
+8.cc
+16dd
+=8
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{16ee
+16ff#
+4gg
+=10
+8aa
+8gg
+16gg
+16ff
+=11
+16ee
+16ff#
+4gg
+=12
+8dd
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4483600001-siedzi_ptasek.krn
+!!!OTL: Siedzi ptasek
+!!!source: DWOK44
+!!!id: 44836
+!!!signature: 4483600001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16ee
+8dd
+8cc
+=2
+16dd
+16b-
+8a
+8cc
+=3
+16b-
+16a
+4g
+=4
+4f}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8dd
+8cc
+=6
+8b-
+4a
+=7
+16b-
+16a
+8b-
+8a}
+!!LO:LB:g=esac
+=8
+{8g
+8dd
+8cc
+=9
+8b-
+4a
+=10
+16b-
+16a
+4g
+=11
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=453 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 395} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 395}
+!!!page: 395
+!!!ONB: Converted on 2024/12/26 with esac2hum

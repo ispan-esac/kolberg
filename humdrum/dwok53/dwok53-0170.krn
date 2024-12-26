@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK5317000000-vajkscio_mergele_po_dvareli.krn
+!!!OTL: Vajkscio mergele po dvareli
+!!!source: DWOK53
+!!!id: 53170
+!!!signature: 5317000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4a
+4cc
+4g
+=2
+2cc
+4dd
+=3
+4ee
+4ff
+4gg
+=4
+2ee
+4dd}
+!!LO:LB:g=esac
+=5
+{4ee
+4ff
+4gg
+=6
+2g
+4cc
+=7
+4ee
+4dd
+4cc
+=8
+2.cc}
+!!LO:LB:g=esac
+=9
+{4ee
+4ff
+4gg
+=10
+2g
+4cc
+=11
+4ee
+4dd
+4cc
+=12
+2.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=337 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 299} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 299}
+!!!page: 299
+!!!ONB: Converted on 2024/12/26 with esac2hum

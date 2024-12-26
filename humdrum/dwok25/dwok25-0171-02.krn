@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2517100002-kiedym_ja_se_byla.krn
+!!!OTL: Kiedym ja se była
+!!!source: DWOK25
+!!!id: 25171
+!!!signature: 2517100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+4g
+=2
+8b
+4cc
+=3
+4.dd
+=4
+8b
+4g
+=5
+8cc
+4ee
+=6
+8gg
+4ee
+=7
+4.dd
+=8
+8b
+8g}
+8r
+!!LO:LB:g=esac
+=9
+{8g
+4g
+=10
+8b
+4cc
+=11
+4.dd
+=12
+8ee
+4cc
+=13
+8a
+4f#
+=14
+8d
+4cc
+=15
+4.b
+=16
+[8g}
+8g]
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 73} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

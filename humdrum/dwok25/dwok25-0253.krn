@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK2525300000-jeszcze_nie_bylo_jak_teraz_nastaje.krn
+!!!OTL: Jeszcze nie było jak teraz nastaje
+!!!source: DWOK25
+!!!id: 25253
+!!!signature: 2525300000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{8a
+8a
+8ff
+8ff
+4ee
+4cc
+=2
+8dd
+8ee
+8ff
+8ff
+4ee
+4g}
+!!LO:LB:g=esac
+=3
+{8a
+8g
+8a
+8b
+4cc
+4g
+=4
+8dd
+8ee
+8dd
+8cc
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 111} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

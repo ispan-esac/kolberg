@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4158300011-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK41
+!!!id: 41583
+!!!signature: 4158300011
+**kern
+*clefG2
+*k[]
+*a:
+*MX
+=1
+{4cc
+4b
+2a
+=2
+8g#
+8a
+4b
+4b
+8cc
+8a
+4cc
+4b
+4cc
+4a}
+!!LO:LB:g=esac
+=3
+{4cc
+4dd
+2ee
+=4
+4ff
+2ee
+=5
+8dd
+8cc
+4b
+4cc
+2dd
+4cc
+=6
+4dd
+2ee
+4cc
+4b
+4a
+=7
+4g#
+2a}
+==
+*-
+!!!ONB: Pieśń nabożna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=386 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 303} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 303}
+!!!page: 303
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4817200000-posluchajcie_prosze_pilno.krn
+!!!OTL: Posłuchajcie, proszę, pilno
+!!!source: DWOK48
+!!!id: 48172
+!!!signature: 4817200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8a
+4b
+4cc
+=
+8b
+8a
+16g
+16a
+24b
+24a
+24g
+4g}
+!!LO:LB:g=esac
+=2
+{8g
+8b
+4dd
+4dd
+=3
+8dd
+8dd
+4ee
+4dd}
+!!LO:LB:g=esac
+=4
+{8cc
+8b
+4a
+4g
+=
+8b
+8dd
+16cc
+16b
+24a
+24b
+24g
+4a}
+==
+*-
+!!!ONB: Wariant t. 6: 1_3_43(231)2__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=253 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 209} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 209}
+!!!page: 209
+!!!ONB: Converted on 2024/12/26 with esac2hum

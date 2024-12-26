@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK2007000000-oj_nawroc_kady_jedzies_cisawego_konia.krn
+!!!OTL: Oj nawróć kady jedzies cisawego konia
+!!!source: DWOK20
+!!!id: 20070
+!!!signature: 2007000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4.ee
+=2
+16dd#
+16ee
+8ff#
+8ee
+=3
+4dd#
+8a
+=4
+16g#
+16a
+8b
+8b
+=5
+4dd
+8a}
+!!LO:LB:g=esac
+=6
+{16g#
+16a
+8b
+8b
+=7
+4dd
+8ee
+=8
+16dd#
+32cc
+32b
+8a
+8b
+=9
+4dd
+8a}
+!!LO:LB:g=esac
+=10
+{4.ee
+=11
+16dd#
+16ee
+8ff#
+8ee
+=12
+4dd#
+8ee
+=13
+16dd#
+16cc
+8b
+8b
+=14
+4dd
+8a}
+!!LO:LB:g=esac
+=15
+{16g#
+16a
+8b
+8b
+=16
+4dd
+8ee
+=17
+16dd#
+32cc
+32b
+8a
+8b
+=18
+4dd
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 135} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

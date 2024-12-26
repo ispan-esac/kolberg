@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK5316800000-o_kas_sendien_do_diena.krn
+!!!OTL: O! Kas sendien do diena
+!!!source: DWOK53
+!!!id: 53168
+!!!signature: 5316800000
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M4/4
+=1
+{4b
+4b
+4dd
+4ee
+=2
+4ff#
+4ff#
+2dd}
+!!LO:LB:g=esac
+=3
+{4ee
+4gg
+4ff#
+4ee
+=4
+4dd
+4ee
+2b}
+!!LO:LB:g=esac
+=5
+{4dd
+4b
+2gg
+=6
+4ff#
+4ee
+4dd
+4dd
+=7
+1b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=337 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 299} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 299}
+!!!page: 299
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK03-K0027-siadaj-ze_siadaj_moje_kochanie.krn
+!!!OTL: Siadaj-ze siadaj, moje kochanie
+!!!source: DWOK03
+!!!id: K0027
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16g
+16f#
+8g
+8b-
+=2
+4dd
+8b-
+=3
+16.a
+32cc#
+8dd
+16b-
+16a
+=4
+16g
+16f#
+8d}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16f#
+8g
+8a
+=6
+4b-
+8dd
+=7
+16.d
+32f#
+8g
+16b-
+16a
+=8
+16g
+16f#}
+4r
+!!LO:LB:g=esac
+=9
+{16.dd
+32dd
+8g
+16a
+16b-
+=10
+16a
+16g
+8f#
+8a
+=11
+16.dd
+32dd
+8g
+16a
+16b-
+=12
+16a
+16g
+8f#
+8d}
+!!LO:LB:g=esac
+=13
+{16f#
+16g
+8a
+8b-
+=14
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 266} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 266}
+!!!page: 266
+!!!ONB: Converted on 2024/12/26 with esac2hum

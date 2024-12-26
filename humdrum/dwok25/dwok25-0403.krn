@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2540300000-oj_dobra_moja_glowka.krn
+!!!OTL: Oj dobra moja główka
+!!!source: DWOK25
+!!!id: 25403
+!!!signature: 2540300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8.ee
+16b
+=2
+16dd
+16cc
+8a
+8g
+=3
+16a
+16cc
+8.ee
+16b
+=4
+16dd
+16cc
+8a
+8b}
+!!LO:LB:g=esac
+=5
+{8f#
+8.a
+16g
+=6
+16b
+16cc
+8a
+8g
+=7
+16d
+16f#
+8.a
+16g
+=8
+16b
+16dd
+8a
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 177} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

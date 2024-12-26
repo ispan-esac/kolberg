@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK090040000-narodzil_sie_nam_pan_z_nieba.krn
+!!!OTL: Narodził się nam Pan z nieba
+!!!source: DWOK09
+!!!id: 09004
+!!!signature: 090040000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8dd
+=2
+16cc
+16cc
+16dd
+16cc
+8b}
+!!LO:LB:g=esac
+=3
+{16g
+16a
+8b
+8dd
+=4
+16cc
+16cc
+16dd
+16cc
+8b}
+!!LO:LB:g=esac
+=5
+{8b
+4b
+=6
+8a
+8a
+8a}
+!!LO:LB:g=esac
+=7
+{8b
+4b
+=8
+8a
+8a
+8a}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+8b
+8dd
+=10
+16cc
+16cc
+16dd
+16cc
+8b}
+==
+*-
+!!!ONB: Dwudźwięki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 120} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

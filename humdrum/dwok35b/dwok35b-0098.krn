@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK35B-35B09800000-de_budu_tam_budu.krn
+!!!OTL: De budu, tam budu
+!!!source: DWOK35B
+!!!id: 35B098
+!!!signature: 35B09800000
+**kern
+*clefG2
+*k[f#]
+*e:
+=1
+*M4/4
+{8e
+8f#
+4.g
+8g
+8g
+8g
+=2
+*M3/4
+8b
+8b
+8a
+8g
+8a
+8g}
+!!LO:LB:g=esac
+=3
+*M4/4
+{8f#
+8g
+4.a
+8a
+8a
+8a
+=4
+*M3/4
+8b
+8b
+8a
+8g
+8f#
+8e}
+!!LO:LB:g=esac
+=5
+{4b
+8e
+8f#
+8g
+8f#
+=6
+4b
+2e}
+==
+*-
+!!!ONB: U Kolberga brak metrum w zapisie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=223 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 181} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 181}
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2552900000-a_dajze_mi_panie_boze.krn
+!!!OTL: A dajze mi Panie Boze
+!!!source: DWOK25
+!!!id: 25529
+!!!signature: 2552900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16g
+16f
+8a
+16a
+16b-
+=2
+16cc
+16cc
+8ee
+16dd
+16cc
+=3
+16g
+16f
+8a
+16a
+16b-
+=4
+16cc
+16cc
+8b-
+8a}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8b-
+8a
+=6
+16a
+16cc
+8dd
+8f
+=7
+16a
+16a
+8b-
+8a
+=8
+16a
+16cc
+8b-
+16g
+16f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 207} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 207}
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

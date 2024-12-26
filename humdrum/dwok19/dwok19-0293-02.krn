@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1929300002-o_moja_ty_dziewcyno.krn
+!!!OTL: O moja ty dziewcyno
+!!!source: DWOK19
+!!!id: 19293
+!!!signature: 1929300002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8ee
+=2
+16.ee
+32ff
+8gg
+16ff
+16ee
+=3
+16dd
+16ff
+8ee
+16dd
+16b
+=4
+8dd
+4a}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8b
+8e
+=6
+8g#
+8a
+8cc
+=7
+16.b
+32dd
+8dd
+16dd
+16ee
+=8
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 90} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

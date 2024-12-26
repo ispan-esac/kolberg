@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK3408200010-pokynu_ja_konyczenka_w_sadu.krn
+!!!OTL: Pokynu ja konyczeńka w sadu
+!!!source: DWOK34
+!!!id: 34082
+!!!signature: 3408200010
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8e
+8e
+8e
+8cc
+=2
+8b
+8a
+8g
+8a
+=3
+4.b
+8g}
+!!LO:LB:g=esac
+=4
+{8b
+8cc
+8cc
+8cc
+=5
+8b
+8a
+8f#
+8g
+=6
+4.e
+8e}
+!!LO:LB:g=esac
+=7
+{4a
+4a
+=8
+4a
+4a
+=9
+8e
+8d
+8g
+8g
+=10
+4.e
+8e}
+!!LO:LB:g=esac
+=11
+{8e
+16g
+16a
+8b
+8cc
+=12
+8b
+8cc
+8f#
+8g
+=13
+4.e
+8e}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 53} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 53}
+!!!page: 53
+!!!ONB: Converted on 2024/12/26 with esac2hum

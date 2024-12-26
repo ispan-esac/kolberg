@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1814100000-dobra_noc_dobra_kasiu_nadobna.krn
+!!!OTL: Dobra noc dobra Kasiu nadobna
+!!!source: DWOK18
+!!!id: 18141
+!!!signature: 1814100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+8cc
+4ee
+=3
+8ee
+8dd
+8cc
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+=6
+8dd
+4ee
+=7
+4dd
+8b
+=8
+4a}
+8r
+!!LO:LB:g=esac
+=9
+{8cc
+8b
+8cc
+=10
+8dd
+4cc
+=11
+16dd
+16ee
+8dd
+16cc
+16b
+=12
+8a
+4g}
+!!LO:LB:g=esac
+=13
+{8a
+8b
+8cc
+=14
+8dd
+4cc
+=15
+4.a
+=16
+4a}
+8r
+==
+*-
+!!!ONB: Podane metrum 3/4, poprawiono na 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 104} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 104}
+!!!page: 104
+!!!ONB: Converted on 2024/12/26 with esac2hum

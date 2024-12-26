@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK02-K0001-bog_zaczyna_i_bog_konczy.krn
+!!!OTL: Bog zaczyna i Bog konczy
+!!!source: DWOK02
+!!!id: K0001
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=1
+{4dd
+4dd
+4ff
+=2
+2.ee
+=3
+4dd
+4cc#
+4g
+=4
+4g
+2a}
+!!LO:LB:g=esac
+=5
+{8cc
+8b-
+4a
+4b-
+=6
+2cc#
+4dd
+=7
+4dd
+4.cc
+8a}
+!!LO:LB:g=esac
+=8
+{8g
+8a
+4b-
+4a
+=9
+2cc
+4dd
+=10
+4dd
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 23} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 23}
+!!!page: 23
+!!!ONB: Converted on 2024/12/26 with esac2hum

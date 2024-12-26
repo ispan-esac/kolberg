@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK5019900001-napylam_sie_moja_mamciu.krn
+!!!OTL: Napyłam sie, moja mamciu
+!!!source: DWOK50
+!!!id: 50199
+!!!signature: 5019900001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16a
+8cc
+8dd
+=2
+16ee
+16ee
+8ff
+8ee
+=3
+16ee
+16ee
+8dd
+8b
+=
+8cc
+24cc
+24b
+24a
+8a}
+!!LO:LB:g=esac
+=4
+{16cc
+16cc
+8dd
+8dd
+=
+8cc
+24cc
+24b
+24a
+8a
+=5
+16g
+16g
+8g
+8g
+=6
+16cc
+16cc
+8ee
+8ee}
+!!LO:LB:g=esac
+=7
+{16ee
+16ee
+8dd
+8dd
+=
+8cc
+24cc
+24b
+24a
+8a
+=8
+16cc
+16cc
+8dd
+8dd
+=
+8cc
+24cc
+24b
+24a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 90} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

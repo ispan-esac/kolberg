@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2536800002-oj_cys_sie_w_piecu_ulag.krn
+!!!OTL: Oj cys się w piecu uląg
+!!!source: DWOK25
+!!!id: 25368
+!!!signature: 2536800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+16b
+16cc
+=2
+16dd
+16ee
+8dd
+16b
+16cc
+=3
+16dd
+16ee
+8dd
+16b
+16g
+=4
+16cc
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8a
+8b
+=6
+16cc
+16a
+8b
+8d
+=7
+16f#
+16g
+8a
+16b
+16dd
+=8
+16cc
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 168} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

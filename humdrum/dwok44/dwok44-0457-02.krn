@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4445700002-o_tygoralu_kucmie.krn
+!!!OTL: O, ty,góralu, kucmie
+!!!source: DWOK44
+!!!id: 44457
+!!!signature: 4445700002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16g
+16cc
+4ee
+8ee
+=2
+8ee
+16dd
+16ee
+8.ff
+16ee}
+!!LO:LB:g=esac
+=3
+{16ee
+16dd
+4dd
+8ee
+=4
+8.dd
+16cc
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+16ee
+16dd
+16ee
+16dd
+8ee
+=6
+8gg
+16ff#
+16gg
+4aa}
+!!LO:LB:g=esac
+=7
+{16ee
+16ff
+4dd
+16ff
+16ee
+=8
+8.dd
+16cc
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=323 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 269} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 269}
+!!!page: 269
+!!!ONB: Converted on 2024/12/26 with esac2hum

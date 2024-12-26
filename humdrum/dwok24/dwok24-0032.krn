@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2403200000-hej_hej_hej.krn
+!!!OTL: Hej, hej, hej
+!!!source: DWOK24
+!!!id: 24032
+!!!signature: 2403200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4cc
+4dd
+=2
+2cc}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8g
+8g
+=4
+8a
+8a
+8b-
+8b-
+=5
+8a
+8a
+8g
+8g
+=6
+8a
+8a
+8b-
+8g}
+!!LO:LB:g=esac
+=7
+{4f
+4g
+=8
+2a
+=9
+4cc
+4g
+=10
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 102} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 102}
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

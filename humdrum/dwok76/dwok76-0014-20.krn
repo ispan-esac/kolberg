@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7601400020-powiedziales_jasiu_ize_masz_palace.krn
+!!!OTL: Powiedziałeś, jasiu, iże masz pałace
+!!!source: DWOK76
+!!!id: 76014
+!!!signature: 7601400020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{2dd
+=2
+8dd
+8dd
+8cc#
+8cc
+=3
+4dd
+4b
+=4
+8b
+8b
+8cc
+8cc
+=5
+4dd
+4b}
+!!LO:LB:g=esac
+=6
+{8b
+8b
+8cc
+8cc
+=7
+8dd
+8dd
+8b
+8b
+=8
+8b
+8b
+8cc
+8cc
+=9
+4dd
+4b}
+==
+*-
+!!!ONB: Melodia w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 13} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 13}
+!!!page: 13
+!!!ONB: Converted on 2024/12/26 with esac2hum

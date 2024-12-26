@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK06067300020-ach_moj_los_dziewczyno.krn
+!!!OTL: Ach moj los dziewczyno
+!!!source: DWOK06
+!!!id: K0673
+!!!signature: 06067300020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8gg
+8gg
+8ff#
+=2
+8ff#
+4ee
+16ee
+16dd#
+=3
+16ee
+16ff#
+16gg
+16ff#
+16aa
+16gg
+16ff#
+16ee
+=4
+16ee
+16dd
+16cc#
+16ee
+8.dd
+16cc}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+16cc#
+16dd
+8.g
+16b
+=6
+8b
+4a
+16a
+16g#
+=7
+16a
+16b
+16cc
+16ee
+8dd
+8f#
+=8
+16a
+16g
+4.g}
+==
+*-
+!!!ONB: Przygrywka instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=445 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 419} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 419}
+!!!page: 419
+!!!ONB: Converted on 2024/12/26 with esac2hum

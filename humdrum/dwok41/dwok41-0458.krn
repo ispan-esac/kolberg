@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK4145800000-a_ja_swojej_kochaneczce_strzele_w_leb.krn
+!!!OTL: A ja swojej kochaneczce strzelę w łeb
+!!!source: DWOK41
+!!!id: 41458
+!!!signature: 4145800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4cc
+8ee
+8dd
+=2
+8cc
+8b-
+4g
+8a
+8b-
+=3
+4cc
+8cc
+8b-
+4a}
+!!LO:LB:g=esac
+=4
+{8a
+8cc
+4dd
+4b-
+=5
+8g
+8e
+4c
+4e
+=6
+4f
+8a
+8g
+4f}
+!!LO:LB:g=esac
+=7
+{8f
+8a
+4a
+4cc
+=8
+8b-
+8g
+4e
+4dd
+=9
+4cc
+8cc
+8b-
+4a}
+!!LO:LB:g=esac
+=10
+{8a
+8cc
+4dd
+4b-
+=11
+8g
+8e
+4.c
+8e
+=12
+4f
+8a
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=329 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 246} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 246}
+!!!page: 246
+!!!ONB: Converted on 2024/12/26 with esac2hum

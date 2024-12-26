@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1225800012-nie_pojde_ja_bez_las.krn
+!!!OTL: Nie pójdę ja bez las
+!!!source: DWOK12
+!!!id: 12258
+!!!signature: 1225800012
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4cc
+8dd
+=2
+16b-
+16dd
+8ff
+16dd
+16ee
+=3
+4cc
+8dd
+=4
+16b-
+16g
+8b-
+16b-
+16a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8dd
+=6
+16b-
+16g
+8b-
+8a
+=7
+4cc
+8dd
+=
+24b-
+24a
+24g
+8b-
+16b-
+16a}
+==
+*-
+!!!ONB: U Kolberga w t. 2 błąd rytmiczny, 46_+1+67
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 137} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 137}
+!!!page: 137
+!!!ONB: Converted on 2024/12/26 with esac2hum

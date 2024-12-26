@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK4137700000-a_gdziezes_sie_moj_jasienku_zabawil.krn
+!!!OTL: A gdzieżeś się, mój Jasienku, zabawił
+!!!source: DWOK41
+!!!id: 41377
+!!!signature: 4137700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8cc#
+8a
+4cc#
+4ee
+=3
+4dd
+4dd
+8cc
+8b}
+!!LO:LB:g=esac
+=4
+{8g
+8a
+4b
+4cc
+=5
+8b
+8a
+4b
+8g
+8f#
+=6
+4d
+4f#
+4g}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+4a
+4cc
+=8
+8b
+8a
+4b
+8g
+8f#
+=9
+4a
+4cc#
+4dd}
+!!LO:LB:g=esac
+=10
+{8d
+8f#
+4a
+4cc
+=11
+8b
+8a
+4b
+8g
+8f#
+=12
+4d
+4f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 211} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 211}
+!!!page: 211
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK3922400001-czy_ja_sobie_spiewam_czy_gram_na_gitarze.krn
+!!!OTL: Czy ja sobie spiewam, czy gram na gitarze
+!!!source: DWOK39
+!!!id: 39224
+!!!signature: 3922400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8dd
+4ee
+4dd
+=2
+4gg
+2dd
+=3
+8dd
+8dd
+4ee
+4b
+=4
+4dd
+2cc}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+4cc
+4cc
+=6
+4aa
+4aa
+4gg
+=7
+8ff#
+8ee
+4dd
+4cc
+=8
+4cc
+2b}
+!!LO:LB:g=esac
+=9
+{4b
+4b
+4g
+=10
+4b
+4b
+4g
+=11
+8dd
+8dd
+4ee
+4b
+=12
+4dd
+2cc}
+!!LO:LB:g=esac
+=13
+{4cc
+4cc
+4a
+=14
+4cc
+4cc
+4a
+=15
+8cc
+8ee
+4dd
+4f#
+=16
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 242} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

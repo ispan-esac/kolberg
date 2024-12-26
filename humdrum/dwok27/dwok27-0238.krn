@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2723800000-chces_dziewcyno_rybki_jesc.krn
+!!!OTL: Chces dziewcyno rybki jeść
+!!!source: DWOK27
+!!!id: 27238
+!!!signature: 2723800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8a
+4b
+4g
+=2
+8cc
+4ee
+8dd
+4cc
+=3
+8ee
+8ee
+8dd
+8ee
+4ff
+=4
+8cc
+4b
+8g
+4f}
+!!LO:LB:g=esac
+=
+{8a
+8b
+4cc
+12dd
+12ee
+12ff
+=5
+8dd
+4cc
+8b
+4g}
+!!LO:LB:g=esac
+=6
+{8g
+8a
+4b
+4g
+=7
+8cc
+4ee
+8dd
+4cc
+=8
+8ee
+8ee
+8dd
+8ee
+4ff
+=9
+8cc
+4b
+8g
+4f}
+!!LO:LB:g=esac
+=
+{8a
+8b
+4cc
+12dd
+12ee
+12ff
+=10
+8dd
+4cc
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=292 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 273} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 273}
+!!!page: 273
+!!!ONB: Converted on 2024/12/26 with esac2hum

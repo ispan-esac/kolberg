@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK1830900000-oj_da_juzem_sie_przypatrzyl.krn
+!!!OTL: Oj da juzem się przypatrzył
+!!!source: DWOK18
+!!!id: 18309
+!!!signature: 1830900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4.ff
+=2
+16cc
+16ee
+8ff
+8dd
+=3
+8cc
+8dd
+16b-
+16g
+=4
+16f
+16a
+8b-
+8g
+=5
+8cc
+8a
+16b-
+16g}
+!!LO:LB:g=esac
+=6
+{16f
+16a
+8b-
+8g
+=7
+8cc
+8dd
+8dd
+=8
+16cc
+16ee
+8.ff
+16dd
+=9
+8cc
+8a
+16b-
+16g}
+!!LO:LB:g=esac
+=10
+{4.ff
+=11
+16cc
+16ee
+8ff
+8dd
+=12
+8cc
+8dd
+16b-
+16g
+=13
+16f
+16a
+8b-
+8dd
+=14
+8cc
+8a
+16b-
+16g}
+!!LO:LB:g=esac
+=15
+{16f
+16a
+8b-
+8dd
+=16
+8cc
+8dd
+8dd
+=17
+16cc
+16ee
+8.ff
+16dd
+=18
+8cc
+8a
+16b-
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 171} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 171}
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

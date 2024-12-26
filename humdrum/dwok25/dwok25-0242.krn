@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2524200000-stala_nam_sie_nowina.krn
+!!!OTL: Stała nam się nowina
+!!!source: DWOK25
+!!!id: 25242
+!!!signature: 2524200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+8cc
+8dd
+8cc
+=2
+4dd
+4cc
+=3
+2g
+=4
+8cc
+8ee
+8gg
+8ee
+=5
+4gg
+8aa
+8gg}
+!!LO:LB:g=esac
+=6
+{8ff
+8ee
+8dd
+8cc
+=7
+4gg
+8aa
+8gg
+=8
+8ff
+8ee
+8dd
+8cc
+=9
+4dd
+4cc
+=10
+2g}
+==
+*-
+!!!ONB: Wariant w takcie pierwszym 7+1+2+3
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 105} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

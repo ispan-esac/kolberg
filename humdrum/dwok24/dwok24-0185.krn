@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2418500000-a_pusce_ja_swoj_wianecek.krn
+!!!OTL: A puscę ja swój wianecek
+!!!source: DWOK24
+!!!id: 24185
+!!!signature: 2418500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{8a
+8b-
+8cc
+8cc
+8cc
+8dd
+8cc
+8f
+=2
+4g
+4a
+4.b-
+8g}
+!!LO:LB:g=esac
+=3
+{8a
+8g
+8f
+8e
+2f}
+!!LO:LB:g=esac
+=4
+{8e
+8f
+8g
+8e
+8f
+8g
+16a
+16g
+8f
+=5
+4g
+4a
+4.b-
+8g}
+!!LO:LB:g=esac
+=6
+{8a
+8g
+8f
+8e
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=313 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 289} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 289}
+!!!page: 289
+!!!ONB: Converted on 2024/12/26 with esac2hum

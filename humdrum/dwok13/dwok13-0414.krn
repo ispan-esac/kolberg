@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1341400000-na_ogrodzie_tatereczka.krn
+!!!OTL: Na ogrodzie tatereczka
+!!!source: DWOK13
+!!!id: 13414
+!!!signature: 1341400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+4dd
+=2
+8b
+8cc
+4dd
+=3
+8b
+8b
+8a
+8dd
+=4
+8b
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8g
+8d
+=6
+8f#
+4g
+8b
+=7
+8b
+8a
+8cc
+8dd
+=8
+8b
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+8g
+8d
+=10
+8f#
+4g
+16b
+16b
+=11
+8b
+8a
+8cc
+8dd
+=12
+8b
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 173} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

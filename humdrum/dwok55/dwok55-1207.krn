@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK55120700000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK55
+!!!id: 551207
+!!!signature: 55120700000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+4r
+{8dd
+8dd
+=2
+8dd
+8dd
+8dd
+8dd
+=3
+16dd
+16cc
+8b
+8cc
+8a}
+!!LO:LB:g=esac
+=4
+{8cc
+8cc
+8a
+8a
+=5
+8a
+8a
+8a
+8a
+=6
+8cc
+8b
+8a
+8a
+=7
+4a
+4a}
+==
+*-
+!!!ONB: DWOK 55 nr 1207
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=435 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 408} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 408}
+!!!page: 408
+!!!ONB: Converted on 2024/12/26 with esac2hum

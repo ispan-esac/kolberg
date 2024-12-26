@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK57143500001-sama_ja_se_molodenka.krn
+!!!OTL: Sama ja se, mołodeńka
+!!!source: DWOK57
+!!!id: 571435
+!!!signature: 57143500001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8ee
+4gg
+8aa
+8gg
+=2
+8ff
+8ff
+8ff
+8ee
+4ee
+=3
+8cc
+8ee
+4gg
+8aa
+8gg
+=4
+8ff
+8ee
+2ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8ff
+4dd
+4b
+=6
+8g
+8b
+4cc
+4ee
+=7
+8ee
+8ff
+4dd
+4b
+=8
+2cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 488
+!!!ONB: Converted on 2024/12/26 with esac2hum

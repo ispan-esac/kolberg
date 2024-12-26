@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2703300000-oj_nie_placz_panno_mloda.krn
+!!!OTL: Oj nie płacz panno młoda
+!!!source: DWOK27
+!!!id: 27033
+!!!signature: 2703300000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{8ee
+8ee
+16ee
+16dd
+=2
+16ee
+16cc
+8b
+8a
+=3
+16a
+16b
+8cc
+8cc
+=4
+8dd
+4b}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+16a
+16g
+=6
+16a
+16f
+8e
+8d
+=7
+16d
+16e
+8f
+8a
+=8
+8g
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 160} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

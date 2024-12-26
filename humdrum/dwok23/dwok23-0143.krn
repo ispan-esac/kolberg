@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK2314300000-a_juz_to_prec_moje_dziewcze.krn
+!!!OTL: A już to prec moje dziewcze
+!!!source: DWOK23
+!!!id: 23143
+!!!signature: 2314300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16b
+16dd
+8ee
+8dd
+=2
+16cc
+16b
+8a
+8g#
+=3
+8cc#
+4dd
+=4
+4.ee}
+!!LO:LB:g=esac
+=5
+{16dd
+16ff#
+8ee
+16ee
+16dd
+=6
+16cc
+16b
+8a
+8g#
+=7
+8a
+4cc
+=8
+4.b}
+==
+*-
+!!!ONB: Przy oczepinach
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 158} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 158}
+!!!page: 158
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2241200000-bodaj_cie_kaci_wzieni.krn
+!!!OTL: Bodaj cię kaci wzieni
+!!!source: DWOK22
+!!!id: 22412
+!!!signature: 2241200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8a
+8cc
+8ee-
+=2
+16gg
+16gg
+8ff
+8dd
+=3
+16dd
+16ff
+8gg
+16ee-
+16cc
+=4
+16b-
+16b-
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+16cc
+16a
+=6
+16.b-
+32b-
+8b-
+8dd
+=7
+8b-
+8dd
+16b-
+16g
+=8
+16.g
+32g
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 207} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 207}
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

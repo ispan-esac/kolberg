@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK8202400000-de_ty_diwczyno_bula.krn
+!!!OTL: De ty diwczyno buła
+!!!source: DWOK82
+!!!id: 82024
+!!!signature: 8202400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+{8f
+=1
+4g
+8g
+=2
+4f
+8d
+=3
+4c
+8f
+=4
+8g
+8g
+8g
+=5
+4f
+8d
+=6
+4c
+8c}
+!!LO:LB:g=esac
+=7
+{8d
+8d
+8c
+=8
+8e
+4f
+=9
+8d
+4c
+=10
+8d
+8d
+8c
+=11
+8e
+4f
+=12
+8d
+8c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 20} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 20}
+!!!page: 20
+!!!ONB: Converted on 2024/12/26 with esac2hum

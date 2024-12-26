@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3630300002-wandrowaly_dwa_kozaki.krn
+!!!OTL: Wandrowały dwa kozaki
+!!!source: DWOK36
+!!!id: 36303
+!!!signature: 3630300002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8f#
+8g
+8f#
+4e
+=2
+8a
+8b
+8cc
+8b
+8a
+8cc
+=3
+8B
+8B
+8e
+4.B
+=4
+8cc
+8b
+8a
+8b
+8g
+8e}
+!!LO:LB:g=esac
+=5
+{8d
+8e
+8g
+8f
+4e
+=6
+8a
+8b
+8cc
+8b
+8a
+8g#
+=7
+8e
+8d
+4g#
+8a
+8g#
+=8
+2e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

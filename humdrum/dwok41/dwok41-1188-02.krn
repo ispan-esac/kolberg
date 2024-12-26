@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK41118800002-biale_gozdziki_zolte_tulipany.krn
+!!!OTL: Białe goździki, żółte tulipany
+!!!source: DWOK41
+!!!id: 411188
+!!!signature: 41118800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8dd
+8ee
+8dd
+8cc
+8cc
+8b
+4b
+=2
+8gg
+8dd
+16dd
+16ee
+16dd
+16cc
+8b
+8a
+4a}
+!!LO:LB:g=esac
+=3
+{8b
+8b
+8cc
+8b
+8cc
+16dd
+32ee
+32ff#
+4gg
+=4
+8ee
+16ee
+16dd
+16dd
+16f#
+16f#
+16a
+8a
+8g
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=605 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 518} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 518}
+!!!page: 518
+!!!ONB: Converted on 2024/12/26 with esac2hum

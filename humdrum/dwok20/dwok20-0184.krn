@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2018400000-a_tam_wele_mlyna_wysoka_debina.krn
+!!!OTL: A tam wele młyna wysoka dębina
+!!!source: DWOK20
+!!!id: 20184
+!!!signature: 2018400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ee
+16ff
+8gg
+8gg
+=2
+8dd
+4gg
+=3
+16cc
+16dd
+8ee
+8dd
+=4
+8gg
+4cc
+=5
+16ee
+16ff
+8gg
+8gg
+=6
+8dd
+4gg
+=7
+4.cc}
+!!LO:LB:g=esac
+=8
+{16g
+16a
+8b
+8g
+=9
+8cc
+8.ee
+16dd
+=10
+16ee
+16ff
+8gg
+8gg
+=11
+8dd
+4cc
+=12
+16ee
+16ff
+8gg
+8gg
+=13
+8dd
+4gg
+=14
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 181} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 181}
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

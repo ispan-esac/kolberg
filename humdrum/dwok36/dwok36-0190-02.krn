@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK3619000002-jest_u_sadu_wysznia.krn
+!!!OTL: Jest' u sadu wysznia
+!!!source: DWOK36
+!!!id: 36190
+!!!signature: 3619000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8g
+8a
+=2
+16b
+16cc
+8dd
+8dd
+8gg
+=3
+8ee
+8ee
+8ee
+8gg
+=4
+8dd
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+16ee
+16dd
+16cc
+16b
+=6
+8cc
+8a
+8cc
+16dd
+16cc
+=7
+8b
+16b
+16a
+16g
+16a
+16b
+16g
+=8
+4dd
+8cc
+8b}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8cc
+16dd
+16cc
+=10
+16cc
+16b
+8b
+8b
+8g
+=11
+8b
+8a
+8a
+8d
+=12
+8f#
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 104
+!!!ONB: Converted on 2024/12/26 with esac2hum

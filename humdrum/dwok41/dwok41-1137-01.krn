@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK41113700001-ej_kumo_moja_kumo.krn
+!!!OTL: Ej, kumo, moja kumo
+!!!source: DWOK41
+!!!id: 411137
+!!!signature: 41113700001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8b
+8dd
+=2
+16cc
+16a
+8b
+16g
+16f#
+=3
+8d
+8f#
+8g
+=4
+16e
+16c
+8e
+8d}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8b
+8cc
+=6
+16a
+16a
+8b
+8g
+=7
+8d
+8f#
+8g
+=8
+16e
+16c
+8e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=577 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 490} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 490}
+!!!page: 490
+!!!ONB: Converted on 2024/12/26 with esac2hum

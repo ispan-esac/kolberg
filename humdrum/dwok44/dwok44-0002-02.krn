@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK4400200002-janiol_pasterzom_mowil.krn
+!!!OTL: Janioł pasterzom mówił
+!!!source: DWOK44
+!!!id: 44002
+!!!signature: 4400200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16g
+8g
+8a
+=2
+8a
+4b
+=3
+8a
+4g}
+!!LO:LB:g=esac
+=4
+{16dd
+16dd
+8ee
+8ee
+=5
+8dd
+4cc#
+=6
+4dd}
+8r
+!!LO:LB:g=esac
+=7
+{8dd
+4ee
+=8
+16dd
+16dd
+8dd
+8b
+=9
+8cc
+8cc
+16b
+16a
+=10
+8b
+4a}
+!!LO:LB:g=esac
+=11
+{16b
+16dd
+8dd
+8b
+=12
+4cc
+16b
+16a
+=13
+8b
+4a}
+!!LO:LB:g=esac
+=14
+{4dd
+8b
+=15
+8cc
+4b
+=16
+8a
+4g}
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 65} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 65}
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

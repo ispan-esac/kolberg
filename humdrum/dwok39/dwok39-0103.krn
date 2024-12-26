@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3910300000-po_palcach_ich_zrachowalam.krn
+!!!OTL: Po palcach ich zrachowałam
+!!!source: DWOK39
+!!!id: 39103
+!!!signature: 3910300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8cc
+8cc
+4.ff
+8a
+=2
+8b-
+8b-
+4dd
+4cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+4.ff
+8a
+=4
+8b-
+8b-
+4dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4ff
+4ff
+=6
+8gg
+8gg
+4aa
+4aa}
+!!LO:LB:g=esac
+=7
+{8gg
+8gg
+4gg
+4aa
+=8
+8ff
+8ee
+4dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 154} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 154}
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

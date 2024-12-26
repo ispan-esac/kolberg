@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2607500001-i_przyjechal_do_pani_matki.krn
+!!!OTL: I przyjechał do pani matki
+!!!source: DWOK26
+!!!id: 26075
+!!!signature: 2607500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4d
+4a
+4g
+4d
+=2
+4g
+8b
+8g
+4a
+4d
+=3
+4a
+8a
+8b
+4cc
+4dd
+=4
+1a}
+!!LO:LB:g=esac
+=5
+{4a
+4dd
+4cc
+8a
+8g
+=6
+8b
+8b
+8b
+8g
+4a
+4d
+=7
+4g
+8e
+8f#
+4g
+4a
+=8
+1d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

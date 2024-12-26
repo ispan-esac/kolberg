@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK5066100010-pamietajcie_szwaby_coscie_wy_cierpieli.krn
+!!!OTL: Pamiętajcie, Szwaby, coście wy cierpieli
+!!!source: DWOK50
+!!!id: 50661
+!!!signature: 5066100010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+4ee
+=2
+8g
+8cc
+4ee
+=3
+8dd
+8dd
+4ff
+=4
+8ee
+4dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4dd
+=6
+8b
+8cc
+4dd
+=7
+8dd
+8dd
+4gg
+=8
+8ff
+4ee
+8dd}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+4ee
+=10
+8g
+8cc
+4ee
+=11
+8dd
+8dd
+4ff
+=12
+8ee
+4dd
+8cc}
+!!LO:LB:g=esac
+=13
+{8b
+8cc
+4dd
+=14
+8b
+8cc
+4dd
+=15
+8dd
+8dd
+4gg
+=16
+8ff
+4ee
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=434 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 401} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 401}
+!!!page: 401
+!!!ONB: Converted on 2024/12/26 with esac2hum

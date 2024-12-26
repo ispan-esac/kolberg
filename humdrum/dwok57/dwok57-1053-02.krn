@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK57105300002-oj_horez_moje_neszczaslywa_dole.krn
+!!!OTL: Oj horeż moje, neszczasływa dołe
+!!!source: DWOK57
+!!!id: 571053
+!!!signature: 57105300002
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{8cc
+8ee
+4ee
+=2
+2ee}
+!!LO:LB:g=esac
+=3
+{8ee
+8gg#
+8aa
+8ee
+=
+!!UNCATEGORIZED MEASURE
+12dd
+12cc
+12b
+2cc}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8cc
+8ee
+8ee
+8dd
+4ee
+=4
+*M3/4
+8a
+8a
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8b
+4b
+=6
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

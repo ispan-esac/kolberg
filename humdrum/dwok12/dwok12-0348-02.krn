@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK1234800002-pod_borem_na_murawce.krn
+!!!OTL: Pod borem na murawce
+!!!source: DWOK12
+!!!id: 12348
+!!!signature: 1234800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+4gg
+8b
+=3
+8cc
+4a
+=4
+8a
+8cc
+8ee
+=5
+4dd
+8cc
+=6
+8cc
+4b}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8dd
+=8
+4gg
+8b
+=9
+8cc
+4a
+=10
+8a
+8cc
+8ee
+=11
+4dd
+8cc
+=12
+16cc
+16b
+4b}
+!!LO:LB:g=esac
+=13
+{16d
+16g
+16b
+16cc
+8b
+=14
+16d
+16g
+16b
+16cc
+8b
+=15
+8d
+8b
+16a
+16g
+=16
+8f#
+8a
+8d}
+!!LO:LB:g=esac
+=17
+{8d
+8f#
+16a
+16cc
+=18
+8.ee
+16f#
+16a
+16cc
+=19
+8ee
+16dd
+16cc
+16b
+16a
+=20
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 184} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5033700002-ja_ty_powidala_ja_ty_howoryla.krn
+!!!OTL: Ja ty powidała, ja ty howoryła
+!!!source: DWOK50
+!!!id: 50337
+!!!signature: 5033700002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8ee
+8dd#
+8dd#
+=2
+8ee
+8ee
+8ee
+8ee
+=3
+8ee
+8ee
+8dd#
+8dd#
+=4
+8cc
+8a
+8a
+8e}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8cc
+=6
+8cc
+8cc
+8dd
+8cc
+=7
+8dd
+8dd
+8cc
+8a
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 175} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 175}
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

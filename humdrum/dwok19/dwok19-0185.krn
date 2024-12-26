@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1918500000-oj_pocciwa_dziewcyna.krn
+!!!OTL: Oj poćciwa dziewcyna
+!!!source: DWOK19
+!!!id: 19185
+!!!signature: 1918500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16b-
+8dd
+8cc
+=2
+8a
+8b-
+8dd
+=3
+16a
+16b-
+8dd
+8cc
+=4
+8cc
+4f}
+!!LO:LB:g=esac
+=5
+{16a
+16b-
+8dd
+16dd
+16cc
+=6
+8ee-
+8ee-
+8dd
+=7
+16ee-
+16dd
+8b-
+8cc
+=8
+8cc
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 60} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

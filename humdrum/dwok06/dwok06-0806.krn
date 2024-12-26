@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK06-K0806-w_mojim_ogrodecku_trawka.krn
+!!!OTL: W mojim ogrodecku trawka
+!!!source: DWOK06
+!!!id: K0806
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8f
+4ff
+8ff
+=2
+8ff
+8ff
+8ff
+8ff
+=3
+16ee
+16ff
+4gg
+16ff
+16ee-
+=4
+8dd
+8ee-
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8f
+4ff
+8ff
+=6
+16ee
+16ff
+8gg
+8ee
+8ff
+=7
+16gg
+16ff
+4ee-
+16ff
+16ee-
+=8
+8dd
+8ee-
+8cc
+8a}
+!!LO:LB:g=esac
+=9
+{8f
+4dd
+8dd
+=10
+8dd
+8b-
+4g
+=11
+8g
+4f
+8f
+=12
+8f
+8a
+4cc}
+!!LO:LB:g=esac
+=13
+{8b-
+4dd
+8dd
+=14
+8dd
+8b-
+4g
+=15
+8g
+4f
+8f
+=16
+8f
+8a
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=510 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 484} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 484}
+!!!page: 484
+!!!ONB: Converted on 2024/12/26 with esac2hum

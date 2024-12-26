@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK3600200001-blahoslawy_boze.krn
+!!!OTL: Błahosławy Boże
+!!!source: DWOK36
+!!!id: 36002
+!!!signature: 3600200001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16ee
+16b
+4ee
+=2
+8ee
+4a
+=3
+4.b
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+4ee
+=6
+8ee
+4ee
+=7
+16ee
+16b
+4a}
+!!LO:LB:g=esac
+=8
+{8b
+4ee
+=9
+8ee
+4ee
+=10
+16ee
+16b
+4a}
+!!LO:LB:g=esac
+=11
+{8ee
+4ee
+=12
+8b
+4ee
+=13
+16ee
+16b
+4a}
+!!LO:LB:g=esac
+=14
+{8b
+4ee
+=15
+8ee
+4ee
+=16
+8ee
+4cc}
+!!LO:LB:g=esac
+=17
+{8g
+8a
+8b
+=18
+8cc
+4b
+=19
+[4.a}
+=20
+4a]
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 3
+!!!ONB: Converted on 2024/12/26 with esac2hum

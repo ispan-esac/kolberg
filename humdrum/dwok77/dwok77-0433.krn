@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK7743300000-tam_daleko_za_gorami.krn
+!!!OTL: Tam daleko za gorami
+!!!source: DWOK77
+!!!id: 77433
+!!!signature: 7743300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.g
+16f#
+8g
+8b
+=2
+8.dd
+16dd
+8b
+8g
+=3
+8.ee
+16ee
+8ee
+8cc
+=4
+8ee
+4.dd}
+!!LO:LB:g=esac
+=5
+{4cc
+8ee
+8cc
+=6
+8b
+8b
+8dd
+8b
+=7
+8.a
+16a
+8a
+8cc
+=8
+8a
+4.g}
+!!LO:LB:g=esac
+=9
+{4cc
+8ee
+8cc
+=10
+8b
+8b
+8dd
+8b
+=11
+8.a
+16a
+8a
+8cc
+=12
+8a
+4.g}
+==
+*-
+!!!ONB: W r?kopisie pierwsza  nazwa lokalizacyjna przekreślona
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 220
+!!!ONB: Converted on 2024/12/26 with esac2hum

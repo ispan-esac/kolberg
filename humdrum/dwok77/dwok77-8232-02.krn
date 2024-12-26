@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK7782300002-pojdz_luba_pojdz.krn
+!!!OTL: Pójdź luba, pójdź
+!!!source: DWOK77
+!!!id: 778232
+!!!signature: 7782300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4d
+8g
+8a
+4b
+4d
+=2
+4dd
+8cc
+8b
+4a
+4e
+=3
+4cc
+8b
+8a
+4.g
+8g
+=4
+8.f#
+16a
+8a
+8a
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{4d
+8g
+8a
+4b
+4d
+=6
+4dd
+8cc
+8b
+4a
+4ee
+=7
+8.dd
+16ff#
+8ff#
+8ff#
+4.ff#
+8ee
+=8
+4dd
+8cc
+8f#
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{4dd
+8dd
+8cc
+4.b
+8b
+=10
+4ee
+8ee
+8dd
+4cc
+4r
+=11
+8.dd
+16ff#
+8ff#
+8ff#
+4.ff#
+8ee
+=12
+4dd
+8cc
+8f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

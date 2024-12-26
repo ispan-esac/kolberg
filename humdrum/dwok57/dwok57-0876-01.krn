@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK5787600001-oj_worle_worle_sywyj_sokole.krn
+!!!OTL: Oj worłe, worłe, sywyj sokołe
+!!!source: DWOK57
+!!!id: 57876
+!!!signature: 5787600001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4a
+8cc
+16cc
+16ee
+=2
+4cc
+4b
+=3
+8a
+8a
+8b
+8g#
+=4
+2e}
+!!LO:LB:g=esac
+=5
+{4cc
+8dd
+8ff
+=6
+4ee
+16dd
+16cc
+16b
+16a
+=7
+8cc
+8cc
+8b
+8ee
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 101
+!!!ONB: Converted on 2024/12/26 with esac2hum

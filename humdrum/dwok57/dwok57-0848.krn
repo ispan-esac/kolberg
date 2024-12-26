@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK5784800000-oj_po_haju_pochadzaju.krn
+!!!OTL: Oj, po haju pochadżaju
+!!!source: DWOK57
+!!!id: 57848
+!!!signature: 5784800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8gg
+8ee
+8ee
+8ee
+=2
+8dd
+8dd
+8dd
+8dd
+=3
+8gg
+8ee
+8ee
+8ee
+=4
+4dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8cc
+8b
+=6
+8a
+8a
+8a
+8a
+=7
+8e
+8g#
+8g#
+8g#
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8cc
+8b
+=10
+8dd
+8dd
+8dd
+16cc
+16b
+=11
+8a
+8cc
+8cc
+8cc
+=12
+4b
+4b}
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+8cc
+8b
+=14
+8dd
+8dd
+8dd
+16cc
+16b
+=15
+8ee
+8ee
+8ee
+8g#
+=16
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 79
+!!!ONB: Converted on 2024/12/26 with esac2hum

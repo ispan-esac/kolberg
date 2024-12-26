@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2535500000-sla_sirotka_po_wsi.krn
+!!!OTL: Sła sirotka po wsi
+!!!source: DWOK25
+!!!id: 25355
+!!!signature: 2535500000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8e
+8a
+8g#
+8a
+=2
+8b
+4.a
+=3
+8cc
+8b
+8a
+8g#
+=4
+8a
+16g#
+[16e}
+4e]
+!!LO:LB:g=esac
+=5
+{8g#
+8b
+8.a
+16f#
+=6
+8g#
+16e
+[16d
+4d]
+=7
+8c#
+8d
+8e
+8a
+=8
+8g#
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 161} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 161}
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

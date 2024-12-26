@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1601600000-dozynaj_zytka.krn
+!!!OTL: Dożynaj żytka
+!!!source: DWOK16
+!!!id: 16016
+!!!signature: 1601600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4b
+8b
+8dd
+=2
+4b
+4a
+=3
+4dd
+4cc#
+=4
+4.dd
+16a
+16g
+=5
+4dd
+4cc
+=6
+4.b
+16a
+16g}
+!!LO:LB:g=esac
+=7
+{8b
+8a
+8b
+8dd
+=8
+4b
+8a
+8g
+=9
+4dd
+8cc#
+8a
+=10
+4.dd
+16a
+16g
+=11
+4dd
+8cc
+8a
+=12
+4.b
+16a
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 127} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 127}
+!!!ONB: Converted on 2024/12/26 with esac2hum

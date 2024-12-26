@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK3612200002-w_ponedilok_u_noczy.krn
+!!!OTL: W ponediłok u noczy
+!!!source: DWOK36
+!!!id: 36122
+!!!signature: 3612200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8g
+8g
+=2
+16a
+16b
+4cc
+=3
+8b
+4a
+=4
+8b
+8g}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+=6
+16cc
+16b
+8cc
+16b
+16g
+=7
+8a
+4f
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8g
+16a
+16b
+=10
+8cc
+8b
+8g
+=11
+16a
+16b
+16cc
+16b
+16a
+16g
+=12
+8f
+4g}
+!!LO:LB:g=esac
+=13
+{16a
+16b
+8cc
+8b
+=14
+8a
+4f
+=15
+4.g
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 68-69
+!!!ONB: Converted on 2024/12/26 with esac2hum

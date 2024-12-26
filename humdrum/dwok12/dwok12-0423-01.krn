@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1242300001-stala_sie_nam_nowina.krn
+!!!OTL: Stała się nam nowina
+!!!source: DWOK12
+!!!id: 12423
+!!!signature: 1242300001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8cc
+=2
+4dd
+4b
+=3
+2cc}
+!!LO:LB:g=esac
+=4
+{8cc
+8dd
+8ee
+8cc
+=5
+4dd
+8ff
+8ee
+=6
+8dd
+8cc
+8b
+8g
+=7
+4dd
+8ff
+8ee}
+!!LO:LB:g=esac
+=8
+{8dd
+8cc
+8b
+8g
+=9
+4a
+4b
+=10
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 219} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 219}
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

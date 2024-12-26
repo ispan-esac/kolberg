@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2813400001-na_polu_sosnia.krn
+!!!OTL: Na polu sośnia
+!!!source: DWOK28
+!!!id: 28134
+!!!signature: 2813400001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8.b
+16cc
+=2
+4a
+8r
+=3
+16cc
+16ee
+8.dd
+16ee
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8.dd
+16cc
+=6
+16b
+16dd
+8.ee
+16g#
+=7
+16a
+16cc
+8.b
+16cc
+=8
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 189-190} @EN{Oskar Kolberg Complete Works 28: Mazovia V, pp. 189-190}
+!!!page: 189-190
+!!!ONB: Converted on 2024/12/26 with esac2hum

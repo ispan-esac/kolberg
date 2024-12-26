@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1919500000-a_od_kogo_to_do_kogo.krn
+!!!OTL: A od kogo to do kogo
+!!!source: DWOK19
+!!!id: 19195
+!!!signature: 1919500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8ee
+=2
+16ff
+16dd
+8dd
+8cc
+=3
+16cc
+16ee
+8ff
+8ee
+=4
+16ff
+16dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8.b-
+16a
+=6
+16b-
+16g
+8g
+8cc
+=7
+16f
+16a
+8.cc
+16a
+=8
+16b-
+16g
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=76 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 62} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 62}
+!!!page: 62
+!!!ONB: Converted on 2024/12/26 with esac2hum

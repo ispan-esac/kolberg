@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK3152000000-instrumentalna_-_hordylanka.krn
+!!!OTL: Instrumentalna - Hordylanka
+!!!source: DWOK31
+!!!id: 31520
+!!!signature: 3152000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16cc
+16b
+16a
+16e
+8a
+16b
+16cc
+=2
+16ee
+16dd#
+16ff#
+16dd#
+4ee
+=3
+16cc
+16b
+16a
+16e
+8a
+16b
+16cc
+=4
+4ee
+4ee}
+!!LO:LB:g=esac
+=5
+{16cc
+16b
+16a
+16e
+16a
+16b
+16cc
+16dd#
+=6
+8ee
+8ee
+8dd#
+16cc
+16b
+=7
+16dd#
+16ee
+16dd#
+16ee
+16cc
+16b
+16a
+16g#
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{16dd#
+16ee
+16ff#
+16dd#
+8ee
+16cc
+16b
+=10
+16dd#
+16ee
+16ff#
+16dd#
+8ee
+8dd#
+=11
+16cc
+16b
+16a
+16e
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=79 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 58-59} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, pp. 58-59}
+!!!page: 58-59
+!!!ONB: Converted on 2024/12/26 with esac2hum

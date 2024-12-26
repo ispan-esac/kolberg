@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK2617300001-nie_zaluj_se.krn
+!!!OTL: Nie żałuj se
+!!!source: DWOK26
+!!!id: 26173
+!!!signature: 2617300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16dd
+8b
+8cc
+=2
+16dd
+16dd
+8ee
+8dd
+=3
+8a
+8g
+8d}
+!!LO:LB:g=esac
+=4
+{8g
+4g
+=5
+8b
+4dd
+=6
+16b
+16dd
+16dd
+16cc
+8b
+=7
+8a
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

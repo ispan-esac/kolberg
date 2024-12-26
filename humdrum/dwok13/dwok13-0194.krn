@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1319400000-z_tamtej_strony_jezioreczka.krn
+!!!OTL: Z tamtej strony jezioreczka
+!!!source: DWOK13
+!!!id: 13194
+!!!signature: 1319400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16g#
+16a
+8cc
+8ee
+=2
+16ff#
+16ff#
+8dd#
+8ee
+=3
+16g#
+16a
+8cc
+8b
+=4
+16b
+16a
+8g#
+8e}
+!!LO:LB:g=esac
+=5
+{16g#
+16a
+8.ee
+16b
+=6
+16g#
+16b
+8dd
+8a
+=7
+8cc
+8a
+16b
+16dd
+=8
+16b
+16a
+8g#
+8e}
+==
+*-
+!!!ONB: Weselna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 100} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

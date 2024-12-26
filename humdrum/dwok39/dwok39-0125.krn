@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3912500000-na_czarnym_dunaju_lodka_sie_kolysze.krn
+!!!OTL: Na czarnym dunaju łódka się kołysze
+!!!source: DWOK39
+!!!id: 39125
+!!!signature: 3912500000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8d
+8f#
+4.a
+8f#
+=2
+4f#
+2e
+=3
+8g
+8g
+4.b
+8g
+=4
+4b
+2a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8g
+8f#
+8e
+=6
+8b
+8b
+8b
+8a
+16g
+16f#
+8e
+=7
+8d
+8f#
+4.a
+8g
+=8
+8g
+8f#
+2f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 173} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK02-K0245-dobrodzieja_gospodynie.krn
+!!!OTL: Dobrodzieja gospodynie
+!!!source: DWOK02
+!!!id: K0245
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16e
+16g#
+8b
+8a
+=2
+16cc#
+16cc#
+8dd
+16b
+16g#
+=3
+16e
+16g#
+8b
+8a
+=4
+16cc#
+16cc#
+8g#
+8a}
+!!LO:LB:g=esac
+=5
+{16e
+16g#
+8b
+8a
+=6
+16cc#
+16ee
+8dd
+16b
+16g#
+=7
+16e
+16g#
+8b
+8a
+=8
+16cc#
+16cc#
+8g#
+8a}
+!!LO:LB:g=esac
+=9
+{16g#
+16a
+8cc#
+8b
+=10
+16dd
+16ff#
+8ee
+8b
+=11
+16g#
+16a
+8cc#
+8b
+=12
+16dd
+16cc#
+8a
+16g#
+16e}
+!!LO:LB:g=esac
+=13
+{16g#
+16a
+8cc#
+8b
+=14
+16dd
+16cc#
+8a
+16cc#
+16a
+=15
+16g#
+16a
+8cc#
+8b
+=16
+16dd
+16cc#
+8a
+16g#
+16e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 201} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 201}
+!!!page: 201
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK1210600000-nieszczesna_dola_za_maz_zabraniaja.krn
+!!!OTL: Nieszczęsna dola za mąż zabraniają
+!!!source: DWOK12
+!!!id: 12106
+!!!signature: 1210600000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8g
+8b-
+8dd
+=2
+16a
+16f#
+4a
+=3
+16g
+16a
+8b-
+8dd
+=4
+8b-
+4a}
+!!LO:LB:g=esac
+=5
+{16b-
+16dd
+8b-
+8ff
+=6
+16cc
+16a
+8f
+8cc
+=7
+16g
+16a
+8b-
+8dd
+=8
+8b-
+4a}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+8b-
+8dd
+=10
+16a
+16f#
+16a
+16f#
+8d
+=11
+16g
+16a
+8b-
+8dd
+=12
+8b-
+4a}
+!!LO:LB:g=esac
+=13
+{16b-
+16dd
+16b-
+16dd
+8ff
+=14
+16cc
+16a
+16f
+16a
+8cc
+=15
+16g
+16a
+8b-
+8dd
+=16
+8b-
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 52} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

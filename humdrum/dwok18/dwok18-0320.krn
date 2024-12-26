@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1832000000-nie_wyganiaj_owcarecku.krn
+!!!OTL: Nie wyganiaj owcarecku
+!!!source: DWOK18
+!!!id: 18320
+!!!signature: 1832000000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16e
+16g#
+8a
+8a
+=2
+16a
+16f#
+8e
+8g#
+=3
+8a
+8b
+8dd
+=4
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=5
+{16e
+16g#
+8a
+8a
+=6
+16a
+16f#
+8e
+8g#
+=7
+8a
+8b
+8g#
+=8
+16f#
+16f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 176} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 176}
+!!!page: 176
+!!!ONB: Converted on 2024/12/26 with esac2hum

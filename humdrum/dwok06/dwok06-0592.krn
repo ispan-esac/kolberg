@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK06-K0592-hej_cichy_potok_plynie.krn
+!!!OTL: Hej cichy potok plynie
+!!!source: DWOK06
+!!!id: K0592
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{2cc
+=2
+8cc
+8cc
+8.b-
+16e
+=3
+8g
+4f
+8r
+=4
+16a
+16cc
+8cc
+8.b-
+16e
+=5
+8g
+4f}
+8r
+!!LO:LB:g=esac
+=6
+{16d
+16f
+8f
+16f
+16dd
+8dd
+=7
+16dd
+16cc
+4cc
+8r
+=8
+16a
+16cc
+8cc
+8.b-
+16e
+=9
+8g
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=370 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 344} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 344}
+!!!page: 344
+!!!ONB: Converted on 2024/12/26 with esac2hum

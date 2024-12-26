@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK06-K0336b-kmiecy_parobecek_koniki_napawal.krn
+!!!OTL: Kmiecy parobecek koniki napawal
+!!!source: DWOK06
+!!!id: K0336b
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8b
+4g
+=2
+8b
+4dd
+8b
+=3
+8ee
+16dd
+16b
+4g
+=4
+8cc
+4ee
+8ee}
+!!LO:LB:g=esac
+=5
+{8d
+16f#
+16a
+4cc
+=6
+8b
+4dd
+8g
+=7
+8a
+8f#
+4d
+=8
+8g
+4b
+8dd}
+!!LO:LB:g=esac
+=9
+{8d
+16f#
+16a
+4cc
+=10
+8ee
+4dd
+8g
+=11
+8b
+16a
+16f#
+4d
+=12
+8f#
+4g
+8g}
+==
+*-
+!!!ONB: Wariant 2
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 168} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5611100000-tam_na_horonci_nowi_korszmonci.krn
+!!!OTL: Tam na horońci nowi korszmońci
+!!!source: DWOK56
+!!!id: 56111
+!!!signature: 5611100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8cc
+8cc
+=2
+8cc
+4ee
+=3
+8dd#
+8ee
+8ff#
+=4
+8ee
+8dd#
+8a
+=5
+8cc
+8b
+8g#
+=6
+4a}
+8r
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+8ee
+=8
+8ee
+8dd#
+8a
+=9
+8cc
+8b
+8a
+=10
+4.b
+=11
+16ee
+16r
+8g#
+16a
+16a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 129} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 129}
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

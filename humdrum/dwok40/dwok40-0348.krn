@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK4034800000-nie_ma_lepszej_wygody.krn
+!!!OTL: Nie ma lepszej wygody
+!!!source: DWOK40
+!!!id: 40348
+!!!signature: 4034800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8b
+8a
+=
+24b
+24cc
+24dd
+4ee}
+!!LO:LB:g=esac
+=2
+{16gg
+16ff
+8ee
+8b
+=3
+8dd
+4b
+=4
+16gg
+16ff
+8ee
+8b
+=5
+8dd
+4b}
+!!LO:LB:g=esac
+=6
+{16e
+16g
+8b
+8ee
+=
+8.dd
+16b
+24dd
+24cc
+24b}
+!!LO:LB:g=esac
+=7
+{16a
+16cc
+8b
+16g
+16f#
+=8
+4e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=413 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 350} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 350}
+!!!page: 350
+!!!ONB: Converted on 2024/12/26 with esac2hum

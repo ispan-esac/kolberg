@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4177500000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK41
+!!!id: 41775
+!!!signature: 4177500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4a
+8cc
+8ee
+=2
+8dd
+8dd
+4ee
+4ee
+=3
+4dd
+4a
+8cc
+8ee
+=4
+8dd
+8a
+4cc
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{4g
+4a
+8cc
+8ee
+=6
+8g
+8b
+4cc
+8cc
+8a
+=7
+4g
+4a
+8cc
+8a
+=8
+8g
+8d
+4f#
+8f#
+8d}
+==
+*-
+!!!ONB: Przypuszczalna lokalizacja: od Warszawy
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=441 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 354} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 354}
+!!!page: 354
+!!!ONB: Converted on 2024/12/26 with esac2hum

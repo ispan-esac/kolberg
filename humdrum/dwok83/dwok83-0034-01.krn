@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK8303400001-pochylyj_derewo_kalyna.krn
+!!!OTL: Pochyłyj derewo, kałyna
+!!!source: DWOK83
+!!!id: 83034
+!!!signature: 8303400001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8e
+8a
+8cc
+=2
+8dd
+4dd
+=3
+4.b
+=4
+8dd
+4cc
+=5
+8dd
+8a}
+8r
+!!LO:LB:g=esac
+=6
+{8dd
+8dd
+8cc
+=7
+16cc
+16b
+4a
+=8
+4.b
+=9
+8cc
+4b
+=10
+4.a}
+!!LO:LB:g=esac
+=11
+{8dd
+8dd
+8cc
+=12
+16cc
+16b
+4a
+=13
+4.b
+=14
+16dd
+16cc
+8b
+8g#
+=15
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 51} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 51}
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

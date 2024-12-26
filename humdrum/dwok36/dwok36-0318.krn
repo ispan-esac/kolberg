@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK3631800000-czy_wiesz_dziewcze_jaka_meka.krn
+!!!OTL: Czy wiesz dziewczę jaka męka
+!!!source: DWOK36
+!!!id: 36318
+!!!signature: 3631800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8b
+4dd
+4dd
+=2
+8cc
+8cc
+4ee
+4ee
+=3
+8a
+8a
+4cc
+4f#
+=4
+8g
+8g
+2dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4ccc
+8bb
+8aa
+=6
+8bb
+8gg
+4dd
+4gg
+=7
+8ee
+8dd
+4cc
+4a
+=8
+8ee
+8dd
+2b}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+4dd
+4dd
+=10
+8cc
+8cc
+4ee
+4ee
+=11
+8a
+8a
+4cc
+4f#
+=12
+8g
+8b
+4b
+4g}
+!!LO:LB:g=esac
+=13
+{8dd
+8dd
+4ccc
+8bb
+8aa
+=14
+8bb
+8gg
+4dd
+4gg
+=15
+8ee
+8dd
+4cc
+4a
+=16
+8g
+8g
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

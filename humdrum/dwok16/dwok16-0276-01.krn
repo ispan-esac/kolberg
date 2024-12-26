@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK1627600001-rozplitaj_bracie_a_nie_targaj.krn
+!!!OTL: Rozplitaj bracie a nie targaj
+!!!source: DWOK16
+!!!id: 16276
+!!!signature: 1627600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+4cc
+8cc
+=3
+8dd
+4b
+=4
+8g
+4b}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+=6
+8b
+8cc
+8b
+=7
+8dd
+4b
+=8
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 220} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 220}
+!!!ONB: Converted on 2024/12/26 with esac2hum

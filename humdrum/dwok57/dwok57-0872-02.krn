@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK5787200002-oj_ponad_riczku_ponad_dunaji.krn
+!!!OTL: Oj, ponad riczku, ponad dunaji
+!!!source: DWOK57
+!!!id: 57872
+!!!signature: 5787200002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8b
+8dd
+=2
+4cc
+4b
+=3
+8a
+8a
+8g#
+8b
+=4
+2e}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8dd
+8ff
+=6
+4.ee
+8dd
+=7
+16cc
+16b
+8a
+8ee
+8ee
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

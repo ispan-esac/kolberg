@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK4411600000-przyjechali_dwa_wojacy.krn
+!!!OTL: Przyjechali dwa wojacy
+!!!source: DWOK44
+!!!id: 44116
+!!!signature: 4411600000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=1
+{4dd
+4cc#
+4.a
+8a
+=2
+8b
+8cc#
+8dd
+8dd
+4cc#
+4b}
+!!LO:LB:g=esac
+=3
+{4dd
+4cc#
+4.a
+8f#
+=4
+8f#
+8f#
+8f#
+8a
+4g#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 152} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 152}
+!!!page: 152
+!!!ONB: Converted on 2024/12/26 with esac2hum

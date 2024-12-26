@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1641700001-hej_zebys_nie_chodzila_bez_bor.krn
+!!!OTL: Hej żebyś nie chodziła bez bór
+!!!source: DWOK16
+!!!id: 16417a
+!!!signature: 1641700001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4ff
+16ee
+16dd
+=2
+8ff
+8ee
+16dd
+16cc
+=3
+8dd
+8ee
+16a
+16g
+=4
+16cc
+16b
+4g}
+!!LO:LB:g=esac
+=5
+{4ff
+16ee
+16ee
+=6
+8ff
+8ee
+16dd
+16cc
+=7
+8ff
+8ee
+32cc
+32a
+16g
+=
+24cc
+24a
+24b
+4g}
+!!LO:LB:g=esac
+=8
+{8a
+4a
+=9
+16a
+16cc
+8dd
+8a
+=10
+8dd
+8ee
+32cc
+32a
+16g
+=11
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 261} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 261}
+!!!ONB: Converted on 2024/12/26 with esac2hum

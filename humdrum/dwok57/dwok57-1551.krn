@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK57155100000-oj_i_w_tym_baryszu.krn
+!!!OTL: Oj i w tym Baryszu
+!!!source: DWOK57
+!!!id: 571551
+!!!signature: 57155100000
+**kern
+*clefG2
+*k[b-]
+*F:
+=1
+*M4/4
+{8f
+8g
+8a
+8f
+8cc
+4.cc
+=2
+8b-
+8cc
+8dd
+8cc
+16cc
+16ff
+4.ff}
+!!LO:LB:g=esac
+=3
+*M3/4
+{8ff
+8cc
+8dd
+8cc
+8a
+8f
+=4
+4.dd
+8cc
+8b-
+8g
+=5
+4g
+4f}
+4r
+==
+*-
+!!!ONB: Wariant t. 5: 2_1_1__0__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 591
+!!!ONB: Converted on 2024/12/26 with esac2hum

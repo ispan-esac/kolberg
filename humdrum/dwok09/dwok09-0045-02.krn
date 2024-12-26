@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK0904500002-instrumentalna_-_wiwat.krn
+!!!OTL: Instrumentalna - Wiwat
+!!!source: DWOK09
+!!!id: 09045
+!!!signature: 0904500002
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8dd
+16cc#
+16b
+4a
+=2
+8dd
+16cc#
+16b
+4a
+=3
+16dd
+16cc#
+16dd
+16ee
+16ff#
+16ee
+16ff#
+16gg
+=4
+8aa
+8cc#
+4dd}
+!!LO:LB:g=esac
+=5
+{8dd
+16cc#
+16b
+4a
+=6
+8dd
+16cc#
+16b
+4a
+=7
+16dd
+16cc#
+16dd
+16ee
+16ff#
+16ee
+16ff#
+16gg
+=8
+8aa
+8cc#
+4dd}
+!!LO:LB:g=esac
+=9
+{8ee
+16ff#
+16ee
+8dd
+8b
+=10
+8cc#
+8ee
+4aa
+=11
+8ee
+16ff#
+16ee
+8dd
+8b
+=12
+8cc#
+16cc#
+16b
+4a}
+!!LO:LB:g=esac
+=13
+{8ee
+8ee
+8b
+8dd
+=14
+8cc#
+8ee
+8aa
+8cc#
+=15
+8ee
+8ee
+8b
+8dd
+=16
+8cc#
+16cc#
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 191-192} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, pp. 191-192}
+!!!page: 191-192
+!!!ONB: Converted on 2024/12/26 with esac2hum

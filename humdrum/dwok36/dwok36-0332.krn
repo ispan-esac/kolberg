@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK3633200000-oj_poki_ja_prodousa_lubyla.krn
+!!!OTL: Oj poki ja prodousa lubyła
+!!!source: DWOK36
+!!!id: 36332
+!!!signature: 3633200000
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M2/4
+=1
+{8cc
+8cc
+16dd
+16ee-
+16ee-
+16dd
+=2
+8ff
+16ee-
+16dd
+16dd
+16ee-
+8cc
+=3
+8ee-
+8ee-
+4dd
+=4
+8cc
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{4dd
+8cc
+8a-
+=6
+8b
+8b
+8cc
+8cc
+=7
+8ee-
+16ee-
+16dd
+8cc
+8cc
+=8
+8b-
+8b-
+4cc}
+!!LO:LB:g=esac
+=9
+{8ee-
+8gg
+8cc
+8cc
+=10
+8b
+8b
+8cc
+8cc
+=11
+8ee-
+8gg
+8cc
+8cc
+=12
+8b
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 206
+!!!ONB: Converted on 2024/12/26 with esac2hum

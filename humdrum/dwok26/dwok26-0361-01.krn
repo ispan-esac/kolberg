@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2636100001-w_warsawie_na_ulicy.krn
+!!!OTL: W Warsawie na ulicy
+!!!source: DWOK26
+!!!id: 26361
+!!!signature: 2636100001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8b
+8g
+=2
+8b
+8dd
+4cc
+=3
+8cc
+8ee
+8ff
+8ff
+=4
+8ee
+8dd
+4ee}
+!!LO:LB:g=esac
+=5
+{4dd
+4ee
+=6
+4cc
+4g
+=7
+8b
+8cc
+4ee}
+!!LO:LB:g=esac
+=8
+{4dd
+4ee
+=9
+4cc
+4g
+=10
+8g
+8b
+4cc}
+==
+*-
+!!!ONB: Jest metrum 3/4, powinno być 2/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 263
+!!!ONB: Converted on 2024/12/26 with esac2hum

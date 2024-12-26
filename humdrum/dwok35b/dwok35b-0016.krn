@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK35B-35B01600000-woj_maty_syna_woj_hodowala.krn
+!!!OTL: Wój maty syna wój hodówała
+!!!source: DWOK35B
+!!!id: 35B016
+!!!signature: 35B01600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8dd
+8dd
+=2
+8dd
+4cc
+=3
+8a
+8dd
+8dd
+=4
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+=6
+8ff
+4ee
+=7
+8dd
+8dd
+8a
+=8
+8cc
+4a}
+==
+*-
+!!!ONB: Wariant taktu czwartego 43b1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 138} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 138}
+!!!page: 138
+!!!ONB: Converted on 2024/12/26 with esac2hum

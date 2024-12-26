@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK26295a0000-tam_na_podolu.krn
+!!!OTL: Tam na Podolu
+!!!source: DWOK26
+!!!id: 26295a
+!!!signature: 26295a0000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8dd
+8ee
+4dd
+4g
+=2
+8b
+8a
+4cc
+4b
+8a
+8g
+=3
+4a
+8b
+8cc
+4.a
+8g
+=4
+8b
+8a
+4cc
+4a
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 234
+!!!ONB: Converted on 2024/12/26 with esac2hum

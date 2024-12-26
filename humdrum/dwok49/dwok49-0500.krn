@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4950000000-oj_u_naszego_pana_bialy_komin_widac.krn
+!!!OTL: OJ, u naszego pana biały kómin widać
+!!!source: DWOK49
+!!!id: 49500
+!!!signature: 4950000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+16dd
+16dd
+8dd
+8ee
+=3
+16cc
+16cc
+8b
+8g
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+=6
+16cc
+16cc
+8b
+8g
+=
+16b
+16dd
+8cc
+24b
+24a
+24g
+=7
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=548 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 458-459} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, pp. 458-459}
+!!!page: 458-459
+!!!ONB: Converted on 2024/12/26 with esac2hum

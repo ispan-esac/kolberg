@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK57208300002-sliczne_gwozdziki_piekne_tulipany.krn
+!!!OTL: Sliczne gwozdziki, piękne tulipany
+!!!source: DWOK57
+!!!id: 572083
+!!!signature: 57208300002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8g
+4.ee
+8dd
+=2
+4dd
+2cc
+=3
+8g
+8g
+4.ff
+8ee
+=4
+8ee
+8dd
+2dd}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4.ee
+8dd
+=6
+8dd
+8cc
+2cc
+=7
+8g
+8g
+4.ff
+8b
+=8
+8dd
+8cc
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1143
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2739900010-a_za_bugiem_moje_byski.krn
+!!!OTL: A za Bugiem moje byśki
+!!!source: DWOK27
+!!!id: 27399
+!!!signature: 2739900010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8ee
+8ff
+8ff
+=2
+8ee
+8ee
+8dd
+8dd
+=3
+8cc
+8b
+4g
+=4
+8cc
+16dd
+16ee
+4ff}
+!!LO:LB:g=esac
+=5
+{8cc
+16dd
+16ee
+8ff
+8ff
+=6
+8ee
+8ee
+8dd
+8ee
+=7
+8cc
+8b
+4g
+=8
+8cc
+16dd
+16ee
+4ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=368 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 349} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 349}
+!!!page: 349
+!!!ONB: Converted on 2024/12/26 with esac2hum

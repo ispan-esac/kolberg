@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK8105900001-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK81
+!!!id: 81059
+!!!signature: 8105900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{2dd
+=2
+2cc
+=3
+2g
+=4
+2g
+=5
+4.dd
+8b
+=6
+4cc
+4g
+=7
+4.dd
+8b
+=8
+4cc
+4g}
+!!LO:LB:g=esac
+=9
+{16ee
+16ff
+16ee
+16ff
+8ee
+8gg
+=10
+16ee
+16ff
+16ee
+16ff
+8ee
+8dd
+=11
+16ee
+16ff
+16ee
+16ff
+8ee
+8aa}
+!!LO:LB:g=esac
+=12
+{4gg
+4dd
+=13
+8cc
+8cc
+8g
+8cc
+=14
+8cc
+8cc
+8cc
+8cc
+=15
+8g
+8cc
+8g
+8cc}
+!!LO:LB:g=esac
+=16
+{4cc
+4cc
+=17
+16cc
+16b
+8cc
+4ee
+=18
+16cc
+16b
+8cc
+4g
+=19
+16cc
+16b
+8cc
+16cc
+16b
+8cc
+=20
+4cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 51-52} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, pp. 51-52}
+!!!page: 51-52
+!!!ONB: Converted on 2024/12/26 with esac2hum

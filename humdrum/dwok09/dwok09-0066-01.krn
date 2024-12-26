@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK0906600001-a_mackowa_grusza_stoji_w_potoku.krn
+!!!OTL: A Maćkowa grusza stoji w potoku
+!!!source: DWOK09
+!!!id: 09066
+!!!signature: 0906600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+8b
+8b
+8a
+8f#
+=2
+8g
+8b
+8dd
+8ee
+4cc}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+8b
+8b
+8a
+8f#
+=4
+8g
+8b
+8dd
+8ee
+4cc}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8b
+8b
+4a
+=6
+8d
+8f#
+8a
+8a
+4cc}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8b
+8b
+8a
+8f#
+=8
+8d
+8f#
+8a
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 211} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 211}
+!!!page: 211
+!!!ONB: Converted on 2024/12/26 with esac2hum

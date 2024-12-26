@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK35A-35A21600000-tamtudy_lezyt_davna_stezejka.krn
+!!!OTL: Tamtudy łeżyt davna steżejka
+!!!source: DWOK35A
+!!!id: 35A216
+!!!signature: 35A21600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8a
+8b
+=2
+8cc
+4b
+=3
+8cc
+8cc
+8b
+=4
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+=6
+8cc
+16b
+16g
+8r
+=7
+8cc
+8cc
+8b
+=8
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8cc
+=10
+16a
+16f#
+8g
+8g
+=11
+8cc
+8cc
+8b
+=
+24b
+24a
+24b
+8cc
+8b}
+!!LO:LB:g=esac
+=12
+{16a
+16b
+16cc
+16b
+16a
+16g
+=13
+16b
+16f#
+8.g
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 120} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

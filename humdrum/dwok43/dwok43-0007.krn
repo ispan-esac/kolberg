@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK4300700000-na_folwaryi.krn
+!!!OTL: Na Folwaryi
+!!!source: DWOK43
+!!!id: 43007
+!!!signature: 4300700000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{8a
+8a
+4cc
+4b
+4e
+=2
+8a
+8a
+4cc
+4b
+4e}
+!!LO:LB:g=esac
+=3
+{8cc
+8b
+4a
+4g
+4e
+=4
+8e
+8e
+4f
+4e
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 32} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 32}
+!!!page: 32
+!!!ONB: Converted on 2024/12/26 with esac2hum

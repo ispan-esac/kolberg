@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK04-K0212-dziewcze_moje.krn
+!!!OTL: Dziewcze moje
+!!!source: DWOK04
+!!!id: K0212
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{2a
+4b
+=2
+2b
+4a
+=3
+4b
+4a
+4g#
+=4
+4a}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{2cc
+4dd
+=6
+2ee
+4cc
+=7
+4cc
+4ee
+4ee
+=8
+2dd
+4cc}
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+4cc
+4b
+=10
+4cc
+4b
+4a
+=11
+4b
+4a
+4g#
+=12
+2a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 109-110} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 109-110}
+!!!page: 109-110
+!!!ONB: Converted on 2024/12/26 with esac2hum

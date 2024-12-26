@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1014500001-ebys_ty_chmielu_na_tyczki_nie_laz.krn
+!!!OTL: Żebyś ty chmielu na tyczki nie laz
+!!!source: DWOK10
+!!!id: 10145
+!!!signature: 1014500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8dd
+8ee
+=2
+8ff
+4dd
+=3
+16cc
+16dd
+8a
+8g
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{8a
+8dd
+8ee
+=6
+8ff
+4dd
+=7
+16cc
+16dd
+8a
+8g
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{8.cc
+16g
+16a
+16b
+=10
+16cc
+16b
+8a
+8g
+=11
+8.cc
+16g
+16a
+16b
+=12
+16cc
+16b
+8a
+8g}
+!!LO:LB:g=esac
+=13
+{16cc
+16dd
+8cc
+16a
+16g
+=14
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 289} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 289}
+!!!page: 289
+!!!ONB: Converted on 2024/12/26 with esac2hum

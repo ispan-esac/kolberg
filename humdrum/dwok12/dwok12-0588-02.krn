@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK1258800002-sluzylem_u_pana_na_piersze_lato.krn
+!!!OTL: Służyłem u pana na piersze lato
+!!!source: DWOK12
+!!!id: 12588
+!!!signature: 1258800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8b
+8cc
+8dd
+=2
+4ee
+4ff#
+=3
+4ee
+8dd#
+8b
+=4
+4ee
+4b}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8dd
+=6
+4ee
+8ff#
+8gg
+=7
+8ff#
+8ee
+8dd#
+8a
+=8
+4b
+4a}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8dd
+8b
+=10
+8a
+8cc
+4b
+=11
+8cc
+8ee
+8dd
+8b
+=12
+8a
+8cc
+4b
+=13
+8cc
+8ee
+8dd
+8b
+=14
+8a
+8cc
+8b
+8b}
+!!LO:LB:g=esac
+=15
+{8a
+8b
+8cc
+8dd
+=16
+4ee
+8ff#
+8gg
+=17
+8ff#
+8ee
+8dd#
+8a
+=18
+4b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=312 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 296} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 296}
+!!!page: 296
+!!!ONB: Converted on 2024/12/26 with esac2hum

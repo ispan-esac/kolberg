@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK06-K0866c-mazur_-_instrumentalna.krn
+!!!OTL: Mazur - Instrumentalna
+!!!source: DWOK06
+!!!id: K0866c
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16a
+16a
+8dd
+8dd
+=2
+16dd
+16cc#
+4g
+=3
+16c#
+16c#
+4b
+=4
+16a
+16f#
+4d}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+16dd
+16cc#
+16ee
+16dd
+=6
+16cc#
+16b
+16a#
+16b
+16g
+16e
+=7
+16c#
+16b
+8b
+8b
+=8
+16b
+16a
+4d}
+!!LO:LB:g=esac
+=9
+{16a
+16a
+8dd
+8dd
+=10
+16dd
+16cc#
+4g
+=11
+16c#
+16c#
+4b
+=12
+16a
+16f#
+4d}
+!!LO:LB:g=esac
+=13
+{16f#
+16a
+16dd
+16cc#
+16ee
+16dd
+=14
+16cc#
+16b
+16a#
+16b
+16g
+16e
+=
+24c#
+24e
+24g
+8b
+8b
+=15
+16b
+16a
+4d}
+==
+*-
+!!!ONB: Frazy 5-6 z powtorzeniami
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=533 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 507} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 507}
+!!!page: 507
+!!!ONB: Converted on 2024/12/26 with esac2hum

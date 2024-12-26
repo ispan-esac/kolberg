@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK18361b0000-juz_wyjezdzam_w_podroz.krn
+!!!OTL: Już wyjeżdżam w podróż
+!!!source: DWOK18
+!!!id: 18361b
+!!!signature: 18361b0000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+16dd
+16cc#
+=2
+16dd
+16ee
+8cc
+8a
+=3
+4g
+8b
+=4
+16b
+16dd
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8b
+=6
+16a
+16b
+16cc
+16b
+16cc
+16ee
+=7
+8dd
+4dd
+=8
+16b
+16dd
+8cc
+8a}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+16b
+16cc
+16dd
+16gg
+=10
+16ee
+16dd
+16ee
+16ff#
+16gg
+16ee
+=11
+8dd
+8dd
+8b
+=12
+16b
+16dd
+8cc
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 197} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 197}
+!!!page: 197
+!!!ONB: Converted on 2024/12/26 with esac2hum

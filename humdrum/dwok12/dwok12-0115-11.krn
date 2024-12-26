@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK1211500011-jasio_moj_kochany.krn
+!!!OTL: Jasio mój kochany
+!!!source: DWOK12
+!!!id: 12115
+!!!signature: 1211500011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4b
+8b
+=2
+16dd
+16cc
+8b
+8cc
+=3
+4ee
+8a
+=4
+16cc
+16b
+8g
+8b}
+!!LO:LB:g=esac
+=5
+{4dd
+8b
+=6
+16dd
+16cc
+8b
+8cc
+=7
+4ee
+8a
+=8
+16cc
+16b
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 56-57} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 56-57}
+!!!page: 56-57
+!!!ONB: Converted on 2024/12/26 with esac2hum

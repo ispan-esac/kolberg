@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK02-K0103-a_nie_wydam_pani_mlodyj.krn
+!!!OTL: A nie wydam pani mlodyj
+!!!source: DWOK02
+!!!id: K0103
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+8dd
+8dd
+=2
+8dd
+8ee
+8dd
+8cc
+=3
+8b
+8dd
+4a
+=4
+8d
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8a
+8a
+=6
+8g
+8b
+8dd
+8cc
+=7
+8b
+8dd
+4a
+=8
+8d
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 82} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

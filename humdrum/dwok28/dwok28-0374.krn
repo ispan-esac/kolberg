@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2837400000-siedzi_pluskwa_w_kominie.krn
+!!!OTL: Siedzi pluskwa w kominie
+!!!source: DWOK28
+!!!id: 28374
+!!!signature: 2837400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16cc
+8b
+8g
+=2
+16b
+16ee
+4dd
+=3
+16g
+16cc
+8b
+8g
+=4
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=5
+{16cc
+16g
+8a
+8f#
+=6
+16g
+16cc
+4b
+=7
+16a
+16dd
+8cc#
+8ee
+=8
+16dd
+16ff#
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=339 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 320} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 320}
+!!!page: 320
+!!!ONB: Converted on 2024/12/26 with esac2hum

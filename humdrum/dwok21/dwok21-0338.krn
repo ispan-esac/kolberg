@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2133800000-oj_chociazci_ja.krn
+!!!OTL: Oj chociazci ja
+!!!source: DWOK21
+!!!id: 21338
+!!!signature: 2133800000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16d
+16f#
+8a
+16g
+16e
+=2
+16d
+16c#
+8e
+8a
+=3
+16d
+16f#
+8f#
+8e
+=4
+16d
+16c#
+4e}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+8a
+=6
+16g
+16b
+8g
+16e
+16c#
+=7
+16d
+16r
+4a
+=8
+16a
+16g
+16e
+16c#
+8d}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+8a
+8dd
+=10
+16cc#
+16cc#
+8ee
+16cc#
+16a
+=11
+32dd
+32ff#
+16r
+8.a
+16f#
+=12
+16a
+16g
+16e
+16c#
+8d}
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 133} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 133}
+!!!page: 133
+!!!ONB: Converted on 2024/12/26 with esac2hum

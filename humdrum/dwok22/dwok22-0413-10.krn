@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2241300010-instrumentalna-polski.krn
+!!!OTL: Instrumentalna-Polski
+!!!source: DWOK22
+!!!id: 22413
+!!!signature: 2241300010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8g#
+8a
+8b
+8dd
+16cc
+16b
+=2
+8a
+4b
+8dd#
+4ee
+=3
+8dd#
+4ee
+8dd#
+8b
+8g#
+=4
+4a
+8dd
+8b}
+4r
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+8a
+8b
+8dd
+16cc
+16b
+=6
+8a
+4b
+8ee
+4a
+=7
+8g#
+4a
+8g#
+4e
+=8
+4d
+8g#
+8e}
+4r
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 207} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 207}
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

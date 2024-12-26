@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK2236300000-oj_coby_dac_toby_dac.krn
+!!!OTL: Oj coby dać toby dać
+!!!source: DWOK22
+!!!id: 22363
+!!!signature: 2236300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+8ff#
+8ff#
+8dd
+=3
+16gg
+32dd
+32b
+8cc
+8ee
+=4
+8a
+8a
+8f#}
+!!LO:LB:g=esac
+=5
+{16d
+32e
+32f#
+4g
+=6
+8b
+8b
+8dd
+=7
+16g
+32a
+32b
+4cc
+=8
+8f#
+8f#
+8d}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+8.a
+16cc
+=10
+16.ee
+32dd
+16cc
+16b
+16a
+16g
+=11
+16.g
+32a
+16b
+16cc
+16dd
+16ee
+=12
+8a
+8a
+8f#}
+!!LO:LB:g=esac
+=13
+{16d
+16f#
+8a
+8d
+=14
+16g
+16b
+8b
+8g
+=15
+16d
+16f#
+8.a
+16e
+=16
+8f#
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 194} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 194}
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

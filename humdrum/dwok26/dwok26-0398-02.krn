@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2639800002-wyjrzyj_kasiu_za_nowy_dwor.krn
+!!!OTL: Wyjrzyj Kasiu za Nowy dwór
+!!!source: DWOK26
+!!!id: 26398
+!!!signature: 2639800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+32cc
+32dd
+8ee
+8dd
+=2
+16cc
+16b
+8a
+16b
+16cc
+=3
+16dd
+16b
+8g
+8e
+=4
+16f#
+16a
+8e
+8d}
+!!LO:LB:g=esac
+=5
+{4dd
+8b
+=6
+16b
+32cc
+32dd
+8ee
+16dd
+16b
+=7
+16cc
+16a
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 280
+!!!ONB: Converted on 2024/12/26 with esac2hum

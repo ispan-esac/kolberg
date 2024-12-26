@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK0443300010-ciezko_my_cie_zal_dziewucho.krn
+!!!OTL: Ciężko my cię żal dziewucho
+!!!source: DWOK04
+!!!id: K0433a
+!!!signature: 0443300010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16b
+8cc
+8ee
+=2
+8.dd
+16a
+16cc
+16dd
+=3
+16b
+16b
+8cc
+8ee
+=4
+8.dd
+16d
+16f#
+16g}
+!!LO:LB:g=esac
+=5
+{16b
+16b
+8a
+8f#
+=6
+8.g
+16a
+16cc
+16g
+=7
+16b
+16b
+8cc
+16a
+16f#
+=8
+8.g
+16d
+16f#
+16g}
+==
+*-
+!!!ONB: Partia wokalna 
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=264 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 250} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 250}
+!!!page: 250
+!!!ONB: Converted on 2024/12/26 with esac2hum

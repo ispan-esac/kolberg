@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK4944300002-oj_krasnaja_marysejko.krn
+!!!OTL: Oj, krasnaja Marysejko
+!!!source: DWOK49
+!!!id: 49443
+!!!signature: 4944300002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8cc
+16cc
+16b
+=
+8dd
+8dd
+48dd
+48cc
+48b
+48cc
+48a
+=2
+4b
+32b
+32cc
+32b
+32a
+=3
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=4
+{8dd
+8cc
+16cc
+16b
+=5
+4dd
+32cc
+32b
+32cc
+32a
+=6
+16b
+16g#
+4a}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8cc
+=8
+32cc
+32dd
+32cc
+32a
+8b
+8g#
+=9
+4.a
+=10
+8a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=521 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 431} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 431}
+!!!page: 431
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK1305800001-ach_boze_ach_boze_coz_ja_teraz_znacze.krn
+!!!OTL: Ach Boże ach Boże cóz ja teraz znaczę
+!!!source: DWOK13
+!!!id: 13058
+!!!signature: 1305800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16d
+8g
+8b
+=2
+4dd
+8dd
+=3
+16dd
+16dd
+8ee
+8b
+=4
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{16d
+16d
+8f#
+8a
+=6
+4cc
+8cc
+=7
+16cc
+16ee
+8dd
+8a
+=8
+8cc
+4b}
+!!LO:LB:g=esac
+=9
+{16g
+16g
+8b
+8dd
+=10
+4gg
+8gg
+=11
+16gg
+16ff#
+8ee
+8dd
+=12
+8ff#
+4ee}
+!!LO:LB:g=esac
+=13
+{16gg
+16gg
+8ff#
+8ee
+=14
+4dd
+8b
+=15
+16ee
+16dd
+8cc
+8f#
+=16
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 33} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 33}
+!!!page: 33
+!!!ONB: Converted on 2024/12/26 with esac2hum

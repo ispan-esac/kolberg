@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK2000800000-a_z_wieczora_z_wieczora.krn
+!!!OTL: A z wieczora, z wieczora
+!!!source: DWOK20
+!!!id: 20008
+!!!signature: 2000800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8dd
+8ee
+4.dd
+8cc
+=2
+4b
+4b
+2a}
+!!LO:LB:g=esac
+=3
+{8dd
+8b
+8dd
+8ee
+4.dd
+8cc
+=4
+8b
+8dd
+8b
+8g
+2a}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8a
+8a
+8g
+8b
+8dd
+8dd
+=6
+8ee
+8ee
+8cc
+8ee
+8dd
+8dd
+8b
+8b
+=7
+4dd
+8b
+8g
+2a}
+!!LO:LB:g=esac
+=8
+{8g
+8b
+8a
+8a
+8g
+8b
+8dd
+8dd
+=9
+8ee
+8ee
+8cc
+8ee
+8dd
+8dd
+8b
+8cc
+=10
+4dd
+8b
+8g
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 80} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

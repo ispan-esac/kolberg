@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1825400020-jasio_od_wody_kasia_do_wody.krn
+!!!OTL: Jasio od wody Kasia do wody
+!!!source: DWOK18
+!!!id: 18254
+!!!signature: 1825400020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+16cc
+16cc
+16b-
+16g
+=2
+16f
+16a
+16cc
+16cc
+16b-
+16g
+=3
+8g
+16b-
+16b-
+16a
+16g
+=4
+16b-
+16b-
+8a
+[8c
+=5
+8c]
+16f
+16a
+16b-
+16g}
+!!LO:LB:g=esac
+=6
+{16b-
+16b-
+8a
+[8c
+=7
+8c]
+16f
+16a
+16b-
+16g
+=8
+16a
+16e
+4f}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 147} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 147}
+!!!page: 147
+!!!ONB: Converted on 2024/12/26 with esac2hum

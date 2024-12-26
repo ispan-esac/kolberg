@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK3400900000-dala_mene_maty.krn
+!!!OTL: Dała mene maty
+!!!source: DWOK34
+!!!id: 34009
+!!!signature: 3400900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+4r
+{8a
+8cc
+4a
+=2
+8cc
+8ee
+8ff
+8ee
+4dd
+=3
+8dd
+16ee
+16ff
+4.dd
+8a
+=4
+4cc
+2a}
+!!LO:LB:g=esac
+=5
+8r
+{8ff
+4ee
+8dd
+16a
+16cc
+=6
+8cc
+8dd
+8dd
+16ff
+16ee
+8dd
+8a
+=7
+4cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 9} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 9}
+!!!page: 9
+!!!ONB: Converted on 2024/12/26 with esac2hum

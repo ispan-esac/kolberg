@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK4303900000-gasiczka_dziwoka.krn
+!!!OTL: Gąsiczka dziwoka
+!!!source: DWOK43
+!!!id: 43039
+!!!signature: 4303900000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M5/4
+=1
+{4a
+4a
+8a
+8a
+4b
+4a
+=2
+4dd
+4ff#
+8ff#
+16ff#
+16ee
+4dd
+4cc#
+=3
+4ee
+4ee
+8dd
+16cc#
+16b
+4b
+4a}
+!!LO:LB:g=esac
+=4
+{8a
+8a
+4b
+4a
+4dd
+4ff#
+=5
+4gg
+4bb
+8ccc#
+16gg#
+16ff#
+4ee
+4dd}
+!!LO:LB:g=esac
+=6
+{4aa
+4aa
+8aa
+8aa
+4bb
+4aa
+=7
+4ff#
+4aa
+8gg
+8ff#
+4ee
+4dd
+=8
+4cc#
+4ee
+8ee
+8dd
+4a
+4g}
+!!LO:LB:g=esac
+=9
+{4gg
+4gg
+8gg
+8aa
+4bb
+4aa
+=10
+4gg
+4ff#
+8aa
+16gg
+16ff#
+4ee
+4dd}
+==
+*-
+!!!ONB: [
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=95 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 52} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

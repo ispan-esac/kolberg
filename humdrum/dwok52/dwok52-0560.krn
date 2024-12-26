@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK5256000000-czy_ja_w_poli_na_trawycia_bula.krn
+!!!OTL: Czy ja w poli na trawycia buła
+!!!source: DWOK52
+!!!id: 52560
+!!!signature: 5256000000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=1
+{4gg
+4dd
+4.dd
+8cc
+=2
+8b-
+8b-
+8.dd
+16b-
+8b-
+8a}
+4r
+!!LO:LB:g=esac
+=3
+{4gg
+4dd
+4.dd
+8cc
+=4
+8b-
+8b-
+8dd
+8b-
+8b-
+8a}
+4r
+!!LO:LB:g=esac
+=5
+{8b-
+8b-
+8b-
+8b-
+8b-
+8dd
+8cc
+8b-
+=6
+8a
+8a
+8a
+8a
+8a
+8cc
+8b-
+8a}
+!!LO:LB:g=esac
+=7
+{4g
+4b-
+4.dd
+8cc#
+=8
+8dd
+8d
+8.b-
+16a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=419 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 354} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 354}
+!!!page: 354
+!!!ONB: Converted on 2024/12/26 with esac2hum

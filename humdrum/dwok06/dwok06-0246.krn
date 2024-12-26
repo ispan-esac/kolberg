@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK06-K0246-gorzala_lipka_jalowiec.krn
+!!!OTL: Gorzala lipka jalowiec
+!!!source: DWOK06
+!!!id: K0246
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8ff
+8ff
+8ff
+=2
+4ee
+8g
+=3
+16b-
+16dd
+4cc}
+!!LO:LB:g=esac
+=4
+{8f
+16a
+16f
+8a
+=5
+4b-
+8g
+=6
+16g
+16a
+4f}
+!!LO:LB:g=esac
+=7
+{16c
+16f
+8a
+8a
+=8
+4b-
+8g
+=9
+16b-
+16dd
+4cc}
+!!LO:LB:g=esac
+=10
+{16c
+16f
+8a
+8a
+=11
+4b-
+16g
+16e
+=12
+16g
+16a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 124} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

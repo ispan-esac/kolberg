@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK4927000002-ej_u_luzi_kalyna.krn
+!!!OTL: Ej, u łuzi kalyna
+!!!source: DWOK49
+!!!id: 49270
+!!!signature: 4927000002
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/8
+{16g
+16a
+8b
+8b
+=2
+*M4/8
+8a
+4g
+8g}
+!!LO:LB:g=esac
+=3
+{16g
+16b
+8b
+8b
+8a
+=4
+*M3/8
+8b
+8.cc
+16cc}
+!!LO:LB:g=esac
+=5
+{16dd
+16cc
+8b
+8b
+=6
+8b
+8.g
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=401 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 317} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 317}
+!!!page: 317
+!!!ONB: Converted on 2024/12/26 with esac2hum

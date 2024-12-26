@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK4478400000-hej_frajery_frajery.krn
+!!!OTL: Hej, frajery, frajery
+!!!source: DWOK44
+!!!id: 44784
+!!!signature: 4478400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8dd
+8ee
+=2
+8dd
+8cc
+8b
+8a
+=3
+4cc
+8cc
+8cc
+=4
+8dd
+8cc
+8b
+8g
+=5
+4.a
+8f#}
+!!LO:LB:g=esac
+=6
+{4g
+8g
+8a
+=7
+8g
+8f#
+8e
+8d
+=8
+4d
+4d
+=9
+8e
+8f#
+8g
+8f#
+=10
+4e
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=438 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 380-381} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, pp. 380-381}
+!!!page: 380-381
+!!!ONB: Converted on 2024/12/26 with esac2hum

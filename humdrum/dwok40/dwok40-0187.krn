@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4018700000-byla_niedzioleczka_byla_nieszczesliwa.krn
+!!!OTL: Była niedziołeczka była nieszczęśliwa
+!!!source: DWOK40
+!!!id: 40187
+!!!signature: 4018700000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8e
+8e
+8e
+8b
+16g
+16f#
+8e
+=2
+8b
+8a#
+4.b
+16dd
+16cc
+=3
+4b
+4a
+4f#}
+!!LO:LB:g=esac
+=4
+{8f#
+8a
+4.b
+8f#
+=5
+8b
+8a
+8g
+8f#
+4e
+=6
+8g
+8f#
+8a
+8b
+16g
+16f#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=295 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 236} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 236}
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

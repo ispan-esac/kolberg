@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK1832800000-zginela_nam_pasterecka.krn
+!!!OTL: Zginęła nam pasterecka
+!!!source: DWOK18
+!!!id: 18328
+!!!signature: 1832800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16e
+16e
+16a
+16g#
+16a
+16b
+=2
+16cc
+16cc
+8b
+16g#
+16b
+=3
+8a
+4e}
+!!LO:LB:g=esac
+=4
+{16e
+16e
+16a
+16g#
+16a
+16b
+=5
+16cc
+16cc
+8b
+16g#
+16b
+=6
+8a
+4e}
+!!LO:LB:g=esac
+=7
+{8f
+8d
+8d
+=8
+4c
+8e
+=9
+16c
+16d
+8e
+8a
+=10
+8g#
+4e}
+!!LO:LB:g=esac
+=11
+{8f
+8d
+8d
+=12
+4c
+8e
+=13
+16c
+16d
+8e
+8a
+=14
+8g#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 178} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 178}
+!!!page: 178
+!!!ONB: Converted on 2024/12/26 with esac2hum

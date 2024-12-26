@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7745800000-oj_glupias_jagus_byla.krn
+!!!OTL: Oj głupiaś Jaguś była
+!!!source: DWOK77
+!!!id: 77458
+!!!signature: 7745800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8dd
+8b
+4ee
+4cc
+=3
+8a
+8f#
+4d
+4cc
+=4
+8a
+8a
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8f#
+4d
+4cc
+=6
+8a
+8a
+4b
+4dd
+=7
+8a
+8f#
+4d
+4cc
+=8
+8a
+8a
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

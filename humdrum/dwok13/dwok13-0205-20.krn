@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1320500020-instrumentalna-mazur_szlachecki.krn
+!!!OTL: Instrumentalna-Mazur Szlachecki
+!!!source: DWOK13
+!!!id: 13205
+!!!signature: 1320500020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+16b
+16g
+=2
+16f#
+16a
+4cc
+=3
+16f#
+16a
+8d
+16f#
+16a
+=4
+16g
+16b
+4dd}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+16b
+16g
+=6
+16f#
+16a
+4cc
+=7
+16f#
+16a
+8d
+16a
+16f#
+=8
+8g
+4g}
+==
+*-
+!!!ONB: Fragment melodii w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 104} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 104}
+!!!page: 104
+!!!ONB: Converted on 2024/12/26 with esac2hum

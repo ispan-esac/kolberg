@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK06-K0883-bodaj_cie_olanie.krn
+!!!OTL: Bodaj cie Olanie
+!!!source: DWOK06
+!!!id: K0883
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{4a
+8g
+=2
+16f#
+16g
+8a
+8b
+=3
+4e
+8ee
+=4
+16ee
+16ff#
+8dd#
+8b}
+!!LO:LB:g=esac
+=5
+{4a
+8g
+=6
+16f#
+16g
+8a
+8b
+=7
+4e
+8e
+=8
+16e
+16g
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=539 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 513} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 513}
+!!!page: 513
+!!!ONB: Converted on 2024/12/26 with esac2hum

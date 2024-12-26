@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK1335000000-miala_matka_nieruchaja.krn
+!!!OTL: Miała matka nieruchaja
+!!!source: DWOK13
+!!!id: 13350
+!!!signature: 1335000000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8a
+8cc
+4dd
+8a
+8b
+=2
+8g
+8b
+4dd
+8ff#
+8ee
+=3
+8a
+8cc
+4dd
+8a
+8b
+=4
+8g
+8e
+4c
+8e
+8f#}
+!!LO:LB:g=esac
+=5
+{4d
+4d
+8d
+8f#
+=6
+8g
+8e
+4g
+8a
+8f#
+=7
+4d
+4d
+8d
+8f#
+=8
+8g
+8e
+4c
+8e
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 152} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 152}
+!!!page: 152
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK42159200001-czy_pamietasz_kasiu_droga.krn
+!!!OTL: Czy pamiętasz Kasiu droga
+!!!source: DWOK42
+!!!id: 421592
+!!!signature: 42159200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8cc#
+8dd
+=2
+16ee
+16dd
+8b
+8b
+=3
+16a
+16f#
+8d
+16cc
+16b
+=4
+16g
+16a
+8b
+8b}
+!!LO:LB:g=esac
+=5
+{16cc
+16b
+8a
+8dd
+=6
+4g
+8r
+=7
+16b
+16dd
+8cc#
+8dd
+=8
+16ee
+16dd
+8b
+8b}
+!!LO:LB:g=esac
+=9
+{16a
+16f#
+8d
+16cc
+16b
+=10
+16g
+16a
+8b
+8b
+=11
+16cc
+16b
+8a
+8dd
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 116} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 116}
+!!!page: 116
+!!!ONB: Converted on 2024/12/26 with esac2hum

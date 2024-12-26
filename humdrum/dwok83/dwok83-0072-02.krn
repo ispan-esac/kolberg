@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK8307200002-jaraja_pszenyczenku.krn
+!!!OTL: Jaraja pszenyczeńku
+!!!source: DWOK83
+!!!id: 83072
+!!!signature: 8307200002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=
+{8e
+8a
+24dd
+24cc
+24a
+=1
+8dd
+8cc
+16cc
+16a
+=2
+4b
+8a
+=3
+4b}
+8r
+!!LO:LB:g=esac
+=4
+{8e
+8a
+16cc
+16b
+=5
+8.dd
+16cc
+16cc
+16a
+=6
+16b
+16g#
+4a}
+!!LO:LB:g=esac
+=
+{8.dd
+16cc
+24cc
+24dd
+24a
+=7
+8.cc
+16b
+16b
+16g#
+=8
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 78} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 78}
+!!!page: 78
+!!!ONB: Converted on 2024/12/26 with esac2hum

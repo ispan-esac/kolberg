@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK7626200001-z_pola_do_wsi_wiatr_wieje_wiatr_wieje.krn
+!!!OTL: Z pola do wsi wiatr wieje, wiatr wieje
+!!!source: DWOK76
+!!!id: 76262
+!!!signature: 7626200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4ee
+4dd
+=2
+8a
+8f#
+4d
+8d
+8e
+=3
+4g
+4b
+4dd}
+!!LO:LB:g=esac
+=4
+{4dd
+4ee
+4dd
+=5
+8a
+8f#
+4d
+8d
+8e
+=6
+4g
+4b
+4g}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+4a
+4a
+=8
+8a
+8f#
+4d
+16e
+8.f#
+=9
+4g
+4b
+4dd}
+!!LO:LB:g=esac
+=10
+{4dd
+4ee
+4dd
+=11
+8a
+8f#
+4d
+16e
+8.f#
+=12
+4g
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=171 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 135} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

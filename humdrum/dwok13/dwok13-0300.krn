@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK1330000000-ej_ty_mazur_ja_polska.krn
+!!!OTL: Ej ty Mazur ja Polska
+!!!source: DWOK13
+!!!id: 13300
+!!!signature: 1330000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8a
+8g
+=2
+8dd
+8dd
+8cc
+=3
+16b
+16b
+8cc
+16a
+16f#
+=4
+8g
+16f#
+16d
+8e}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+8d
+=6
+8g
+16b
+16g
+8cc
+=7
+16b
+16g
+8cc
+16a
+16f#
+=8
+16g
+16a
+16f#
+16d
+8e}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+8a
+8g
+=10
+8dd
+8dd
+8cc
+=11
+16b
+16b
+8cc
+16a
+16f#
+=12
+8g
+16f#
+16d
+8e}
+!!LO:LB:g=esac
+=13
+{16d
+16f#
+8a
+8d
+=14
+8g
+16b
+16g
+8cc
+=15
+16b
+16g
+8cc
+16a
+16f#
+=16
+16g
+16a
+16f#
+16d
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 137} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 137}
+!!!page: 137
+!!!ONB: Converted on 2024/12/26 with esac2hum

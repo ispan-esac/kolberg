@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK7633200000-da_w_lesie_sa_moje_wolki_w_lesie_sa.krn
+!!!OTL: Da, w lesie są moje wołki, w lesie są
+!!!source: DWOK76
+!!!id: 76332
+!!!signature: 7633200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8dd
+8cc
+4b
+4dd
+=3
+4cc
+4b
+16a
+8.g}
+!!LO:LB:g=esac
+=4
+{8g
+8a
+4b
+4cc
+=5
+8cc
+8a
+4b
+4g
+=6
+4.a
+8f#
+4g}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+4.g
+8b
+=8
+8cc
+8a
+4g
+4dd
+=9
+4cc
+4b
+16a
+8.g}
+!!LO:LB:g=esac
+=10
+{8g
+8a
+4b
+4cc
+=11
+8b
+8a
+4b
+4g
+=12
+4a
+4f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 173} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1646000001-u_mlynarza_dolnego.krn
+!!!OTL: U młynarza dolnego
+!!!source: DWOK16
+!!!id: 16460a
+!!!signature: 1646000001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4ff
+4cc
+=2
+4dd
+8b-
+8g
+=3
+8b-
+8a
+4f
+=4
+8f
+8g
+8a
+8b-
+=5
+4cc
+8cc
+8dd}
+!!LO:LB:g=esac
+=6
+{8f
+8g
+8a
+8b-
+=7
+4cc
+8cc
+8dd
+=8
+4ff
+4cc
+=9
+4dd
+4g
+=10
+8b-
+8a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=303 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 283} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 283}
+!!!ONB: Converted on 2024/12/26 with esac2hum

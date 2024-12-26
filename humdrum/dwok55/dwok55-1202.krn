@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK55120200000-a_z_subotu_na_nedilu.krn
+!!!OTL: A z subotu na nedilu
+!!!source: DWOK55
+!!!id: 551202
+!!!signature: 55120200000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8e
+8a
+8a
+8a
+=2
+8a
+8a
+8a
+8a
+=3
+8b
+8e
+8e
+8e
+=4
+8e
+4e}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+8e
+8e
+8e
+=6
+8e
+8e
+8e
+8e
+=7
+8e
+8g#
+8e
+8e
+=8
+8e
+4e}
+8r
+==
+*-
+!!!ONB: DWOK 55 nr 1202
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=431 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 404} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 404}
+!!!page: 404
+!!!ONB: Converted on 2024/12/26 with esac2hum

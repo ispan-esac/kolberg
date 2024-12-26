@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK3906800002-bida_to_jest_dworaczku.krn
+!!!OTL: Bida to jest dworaczku
+!!!source: DWOK39
+!!!id: 39068
+!!!signature: 3906800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.gg
+8dd
+8ee
+8ff#
+=2
+8gg
+8gg
+4ee
+4gg}
+!!LO:LB:g=esac
+=
+{4.gg
+8dd
+12ee
+12dd
+12cc
+=3
+8b
+8b
+4a
+4g}
+!!LO:LB:g=esac
+=
+{12b
+12dd
+12ee
+4dd
+12dd
+12cc
+12b
+=4
+8a
+8cc
+4ee
+4dd}
+!!LO:LB:g=esac
+=5
+{4.gg
+8dd
+8ee
+8cc
+=6
+8b
+8b
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 130} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 130}
+!!!page: 130
+!!!ONB: Converted on 2024/12/26 with esac2hum

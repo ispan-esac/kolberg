@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK42150300000-ej_zasie_chlopie_zasie.krn
+!!!OTL: Ej, zasie, chłopie, zasie
+!!!source: DWOK42
+!!!id: 421503
+!!!signature: 42150300000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8b
+8ff#
+4ee
+8dd
+8b
+=
+12a
+12b
+12cc#
+4ee
+4b}
+!!LO:LB:g=esac
+=2
+{8b
+8ff#
+4ee
+8dd
+8b
+=
+12a
+12b
+12cc#
+4a
+4g#
+=3
+8b
+8dd
+8cc#
+8dd
+8ee
+8b}
+!!LO:LB:g=esac
+=
+{12b
+12cc
+12dd
+4ee
+4b
+=4
+8b
+8dd
+8cc#
+8dd
+8ee
+8b
+=
+12a
+12b
+12cc#
+4a
+4g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 75} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 75}
+!!!page: 75
+!!!ONB: Converted on 2024/12/26 with esac2hum

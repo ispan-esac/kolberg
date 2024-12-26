@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2700400000-anieli_w_niebie.krn
+!!!OTL: Anieli w niebie
+!!!source: DWOK27
+!!!id: 27004
+!!!signature: 2700400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4cc
+8a
+8b-
+=2
+4cc
+4dd
+=3
+8cc
+8b-
+4a}
+!!LO:LB:g=esac
+=4
+{4b-
+8g
+8a
+=5
+4b-
+4cc
+=6
+8a
+8g
+4f}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+8dd
+8dd
+=8
+8b-
+8b-
+8cc
+8cc
+=9
+8a
+8a
+8b-
+8b-}
+!!LO:LB:g=esac
+=10
+{8g
+8g
+8cc
+8b-
+=11
+4a
+4g
+=12
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 119} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 119}
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

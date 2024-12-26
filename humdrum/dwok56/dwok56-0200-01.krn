@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK5620000001-pasl_wasylenko_konyczenka.krn
+!!!OTL: Pas(ł) Wasyłeńko konyczeńka
+!!!source: DWOK56
+!!!id: 56200
+!!!signature: 5620000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+{12d
+12g
+12b
+8.a
+16f#
+4g
+=
+12b
+12a
+12cc
+12b
+12a
+12g
+4a}
+!!LO:LB:g=esac
+=1
+{8b
+16a
+16b
+4g
+8.a
+16g
+=2
+8a
+8b
+4f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 211} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 211}
+!!!page: 211
+!!!ONB: Converted on 2024/12/26 with esac2hum

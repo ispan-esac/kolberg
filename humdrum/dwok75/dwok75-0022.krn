@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7502200000-da_ja_sobie_kujawianka.krn
+!!!OTL: Da, ja sobie Kujawianka
+!!!source: DWOK75
+!!!id: 75022
+!!!signature: 7502200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8gg
+8gg
+8ff#
+8dd
+=2
+8ff#
+8aa
+8gg
+8ee}
+!!LO:LB:g=esac
+=3
+{8gg
+8gg
+8ff#
+8dd
+=4
+8ee
+8cc
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8a
+8cc
+=6
+8b
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+8b
+8dd
+=8
+8ee
+8cc
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 15} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 15}
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

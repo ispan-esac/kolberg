@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3042100000-oj_na_hori_dwa_duby.krn
+!!!OTL: Oj na hori dwa duby
+!!!source: DWOK30
+!!!id: 30421
+!!!signature: 3042100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4b
+4b
+=2
+4b
+8a
+8g
+=3
+8g
+8e
+4d
+=4
+8a
+8b
+8cc
+8a
+=5
+4dd
+8cc
+8b
+=6
+8a
+8a
+4g}
+!!LO:LB:g=esac
+=7
+{4b
+4b
+=8
+4b
+4g
+=9
+8e
+8e
+4d
+=10
+8g
+8d
+8g
+8d
+=11
+4dd
+8cc
+8b
+=12
+8a
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 228} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 228}
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

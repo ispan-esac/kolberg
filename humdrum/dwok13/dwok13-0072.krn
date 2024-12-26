@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK1307200000-nadziejo_nasza.krn
+!!!OTL: Nadziejo nasza
+!!!source: DWOK13
+!!!id: 13072
+!!!signature: 1307200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+{8f
+=1
+4a
+8a
+8a
+8g
+8f
+=2
+4cc
+8b-
+8g
+8r
+8c
+=3
+4b-
+8b-
+8b-
+8a
+8g
+=4
+4dd
+8cc
+8cc
+8r
+8cc}
+!!LO:LB:g=esac
+=5
+{4ff
+8ff
+8gg
+8ff
+8ee
+=6
+4.ee
+8dd
+8r
+8cc
+=7
+4ee
+8dd
+8cc
+8b-
+8e
+=8
+4.g
+8f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=66 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 42} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 42}
+!!!page: 42
+!!!ONB: Converted on 2024/12/26 with esac2hum

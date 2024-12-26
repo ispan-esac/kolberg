@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK0623400001-ej_spiwaja_slowicy.krn
+!!!OTL: Ej śpiwają słowicy
+!!!source: DWOK06
+!!!id: K0234
+!!!signature: 0623400001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4.ee}
+!!LO:LB:g=esac
+=2
+{16ee
+16ee
+8dd
+8b
+=3
+8.cc
+16b
+16a
+16g#
+=4
+16g#
+16a
+8b
+8dd
+=5
+8.cc
+16b
+16a
+16g#}
+!!LO:LB:g=esac
+=6
+{16g#
+16a
+8b
+8dd
+=7
+8cc
+4ee
+=8
+16cc
+16ee
+8dd
+8b
+=9
+8.cc
+16b
+16a
+16g#}
+!!LO:LB:g=esac
+=10
+{16e
+32g#
+32a
+8b
+8dd
+=11
+8cc
+4ee
+=12
+16ee
+16ee
+8dd
+8b
+=13
+16ee
+32cc
+32b
+16a
+16g#}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 120} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

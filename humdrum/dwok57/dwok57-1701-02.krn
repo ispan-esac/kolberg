@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK57170100002-oj_u_luzi_kalyna.krn
+!!!OTL: Oj, u łuzi kałyna
+!!!source: DWOK57
+!!!id: 571701
+!!!signature: 57170100002
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8g
+8g
+4cc
+8a
+8a
+=2
+8b-
+16cc
+16b-
+2g
+=3
+8g
+8g
+4.cc
+8a
+=4
+8b-
+16cc
+16b-
+2g}
+!!LO:LB:g=esac
+=5
+{4.b-
+8cc
+8dd
+8ee-
+=6
+8dd
+8cc
+4b-
+4dd
+=7
+8cc
+8cc
+4.b-
+8a
+=8
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 790
+!!!ONB: Converted on 2024/12/26 with esac2hum

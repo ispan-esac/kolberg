@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK05-K0070-sliczna_panienka_jako_jutrzenka.krn
+!!!OTL: Sliczna panienka jako jutrzenka
+!!!source: DWOK05
+!!!id: K0070
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8b
+8cc
+=2
+4dd
+16ee
+16dd
+=3
+8cc
+8a
+8b
+=4
+4cc
+16dd
+16cc}
+!!LO:LB:g=esac
+=5
+{8b
+8g
+8a
+=6
+4b
+8cc
+=7
+8dd
+8cc
+8b
+=8
+8b
+8a}
+8r
+!!LO:LB:g=esac
+=9
+{8g
+8dd
+8cc
+=10
+4b
+8a
+=11
+8g
+8dd
+8cc
+=12
+4b
+8a}
+!!LO:LB:g=esac
+=13
+{8g
+16g
+16a
+16b
+16cc
+=14
+4dd
+16ee
+16dd
+=15
+8b
+8cc
+8a
+=16
+16a
+16g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=386 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 358} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 358}
+!!!page: 358
+!!!ONB: Converted on 2024/12/26 with esac2hum

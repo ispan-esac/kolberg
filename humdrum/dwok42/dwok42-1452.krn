@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK42145200000-a_bodaj_to_byla.krn
+!!!OTL: A bodaj to była
+!!!source: DWOK42
+!!!id: 421452
+!!!signature: 42145200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{4dd
+4ff
+8ff
+8ee
+=2
+4ff
+4dd
+4ff
+=3
+8gg
+8ee
+4cc
+4ee
+=4
+4g
+4b-
+4b-}
+!!LO:LB:g=esac
+=5
+{4dd
+4cc
+4cc
+=6
+8ff
+8dd
+4b-
+4dd
+=7
+8a
+8b-
+8cc
+8dd
+4cc
+=8
+4g
+4b-
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 53} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 53}
+!!!page: 53
+!!!ONB: Converted on 2024/12/26 with esac2hum

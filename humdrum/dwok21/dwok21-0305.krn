@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2130500000-oj_nie_bede_ja_piwa_z_dworakami_pila.krn
+!!!OTL: Oj nie będe ja piwa z dworakami piła
+!!!source: DWOK21
+!!!id: 21305
+!!!signature: 2130500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16a
+8cc#
+16cc#
+16a
+=2
+8cc#
+8dd
+8ee
+=3
+8dd
+8.cc#
+16g
+=4
+16b
+16a
+8b
+16f#
+16d}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8cc#
+16cc#
+16a
+=6
+8cc#
+8.dd
+16b
+=7
+16a
+16f#
+4g
+=8
+8b
+16a
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 125} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 125}
+!!!page: 125
+!!!ONB: Converted on 2024/12/26 with esac2hum

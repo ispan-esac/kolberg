@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK0912100010-parami_wszyscy_parami.krn
+!!!OTL: Parami wszyscy parami
+!!!source: DWOK09
+!!!id: 09121
+!!!signature: 0912100010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16cc
+8.ff
+16a
+=2
+16cc
+16b-
+8g
+8cc}
+!!LO:LB:g=esac
+=3
+{16a
+16cc
+8.ff
+16a
+=4
+16cc
+16b-
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{16e
+16g
+8.cc
+16e
+=6
+16g
+16f
+8d
+8g}
+!!LO:LB:g=esac
+=7
+{16e
+16g
+8.cc
+16e
+=8
+16g
+16f
+8d
+8c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 260-261} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, pp. 260-261}
+!!!page: 260-261
+!!!ONB: Converted on 2024/12/26 with esac2hum

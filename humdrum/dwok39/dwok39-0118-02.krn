@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK3911800002-oj_koniu_oj_koniu_dajze_mie_sze_zlapac.krn
+!!!OTL: Oj kóniu, oj kóniu, dajże mie szę złapać
+!!!source: DWOK39
+!!!id: 39118
+!!!signature: 3911800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8dd
+8dd
+8cc#
+8cc
+4dd
+4dd
+=2
+8g
+8g
+8a
+8f#
+4g
+4d}
+!!LO:LB:g=esac
+=3
+{8g
+8f#
+8a
+8g
+8ee
+8ee
+4dd
+=4
+8ee
+16dd
+16cc
+8a
+8f#
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 168} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

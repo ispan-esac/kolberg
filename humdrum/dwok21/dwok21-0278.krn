@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2127800000-oj_sierota_sie_zeni.krn
+!!!OTL: Oj sierota się zeni
+!!!source: DWOK21
+!!!id: 21278
+!!!signature: 2127800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8d
+8dd
+=2
+16dd
+16dd
+8b
+16a
+16g
+=3
+4dd
+8g
+=4
+16d
+16d
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ff#
+=6
+16ee
+16cc
+8ee
+16cc
+16a
+=7
+4dd
+16b
+16g
+=8
+16a
+16f#
+8a
+8g}
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 119} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 119}
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,68 @@
+#!/usr/bin/env perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Wed Dec 25 17:50:13 PST 2024
+# Last Modified: Wed Dec 25 19:25:50 PST 2024
+# Filename:      makeVolumes
+# Syntax:        perl 5
+#
+# Description:   Collect individual EsAC recordings into a single file for
+#                each DWOK volume in the esac directory.  Conversion is done
+#                with esac2hum in humlib:
+#                    https://github.com/craigsapp/humlib/blob/master/src/tool-esac2hum.cpp
+#                Install humlib with these commands in a terminal:
+#                    git clone https://github.com/craigsapp/humlib
+#                    cd humlib
+#                    make
+#                    sudo make install
+#
+
+use strict;
+
+chomp(my $esac2hum = `which esac2hum`);
+die "Cannot find esac2hum, install humlib.\n" if $esac2hum =~ /^\s*$/;
+die "Wrong version of esac2hum, install humlib.\n" if $esac2hum =~ /humextra/;
+my $options = `$esac2hum --options`;
+die "Wrong version of esac2hum, install humlib.\n" if $options !~ /Generate EsAC analysis fields/;
+
+my $sourcedir = "esac";
+my $targetdir = "humdrum";
+
+die "Cannot find source directory $sourcedir" if !-d $sourcedir;
+`mkdir -p "$targetdir"`;
+
+my @files = sort glob("$sourcedir/dwok*");
+my @dirs = grep { -d } @files;
+
+for (my $i=0; $i<@dirs; $i++) {
+	convertEsacToHumdrum($dirs[$i]);
+}
+
+exit(0);
+
+###########################################################################
+
+
+##############################
+##
+## convertEsacToHumdrum -- Convert files in esac/dwok* to humdrum/dwok*.
+##
+
+sub convertEsacToHumdrum {
+	my ($dir) = @_;
+	my $kerndir = $dir;
+	$kerndir =~ s/^$sourcedir/$targetdir/;
+	`mkdir -p "$kerndir"`;
+	my @files = sort glob("$dir/dwok*.txt");
+	foreach my $file (@files) {
+		my $newfile = $file;
+		$newfile =~ s/^$sourcedir/$targetdir/;
+		$newfile =~ s/\.txt$/.krn/;
+		my $command = "$esac2hum \"$file\" > \"$newfile\"";
+		print STDERR "$command\n";
+		`$command`;
+	}
+}
+
+
+

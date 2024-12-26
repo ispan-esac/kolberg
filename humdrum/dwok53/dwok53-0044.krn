@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK5304400000-vaj_jojau_jojau.krn
+!!!OTL: Vaj, jojau, jojau
+!!!source: DWOK53
+!!!id: 53044
+!!!signature: 5304400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4ee
+4dd
+4cc
+=2
+2ee
+4gg
+=3
+4ff
+4ee
+4ee
+=4
+2dd
+4cc}
+!!LO:LB:g=esac
+=5
+{4ee
+4ee
+4ff
+=6
+2ee
+4dd
+=7
+2cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 204} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 204}
+!!!page: 204
+!!!ONB: Converted on 2024/12/26 with esac2hum

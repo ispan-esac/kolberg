@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK35B-35B07100000-zyjszow_misiac_i_zora.krn
+!!!OTL: Zyjszow misiać i zora
+!!!source: DWOK35B
+!!!id: 35B071
+!!!signature: 35B07100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8g
+8g
+8g
+=2
+8a
+8f#
+4a
+=3
+8b
+8b
+8b
+8a
+=4
+8b
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{4cc
+4a
+=6
+4b
+4g
+=7
+8cc
+8ee
+8.dd
+16b
+=8
+4cc
+8a
+8cc
+=9
+4b
+4g
+=10
+8d
+8d
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 168} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

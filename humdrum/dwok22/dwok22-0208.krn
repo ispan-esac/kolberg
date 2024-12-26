@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2220800000-zagrajze_mi_troske.krn
+!!!OTL: Zagrajże mi troskę
+!!!source: DWOK22
+!!!id: 22208
+!!!signature: 2220800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16ff#
+8ee
+8dd
+=2
+4cc
+8g
+=3
+16a
+16dd
+8cc
+8g
+=4
+4f#
+8g}
+!!LO:LB:g=esac
+=5
+{16b
+16a
+8cc
+8g
+=6
+4a
+8dd
+=7
+16b
+16a
+8cc
+8g
+=8
+4f#
+8g}
+!!LO:LB:g=esac
+=9
+{16b
+16a
+8cc
+8g
+=10
+16a
+16dd
+16cc
+16g
+16a
+16dd
+=11
+16b
+16a
+8cc
+8g
+=12
+16f#
+16d
+16f#
+16d
+16f#
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 124-125} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, pp. 124-125}
+!!!page: 124-125
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK2561100000-marys_marys_pojedziemy_na_rus.krn
+!!!OTL: Maryś, Maryś, pojedziemy na Ruś
+!!!source: DWOK25
+!!!id: 25611
+!!!signature: 2561100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+4a
+=2
+16cc
+16ee
+4dd
+=3
+16b
+16g
+4a
+=4
+16cc
+16ee
+8dd
+8f#}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+16a
+16f#
+=6
+8g
+8cc
+16cc
+16b
+=7
+16dd
+32cc
+32b
+8a
+8b
+=8
+16a
+16cc
+16b
+16g
+8e}
+!!LO:LB:g=esac
+=9
+{8g
+4a
+=10
+16cc
+16ee
+4dd
+=11
+8b
+4cc
+=12
+16a
+16ee
+8dd
+8f#}
+!!LO:LB:g=esac
+=13
+{16g
+16g
+8a
+16a
+16f#
+=14
+16g
+16b
+8cc
+16cc
+16b
+=15
+16dd
+32cc
+32b
+8a
+8b
+=16
+16a
+16cc
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=250 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 225} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 225}
+!!!page: 225
+!!!ONB: Converted on 2024/12/26 with esac2hum

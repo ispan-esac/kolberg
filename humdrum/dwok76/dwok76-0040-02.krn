@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7604000002-oj_pani_moja_pani.krn
+!!!OTL: Oj, pani moja, pani
+!!!source: DWOK76
+!!!id: 76040
+!!!signature: 7604000002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4b
+4cc
+=2
+8ee
+8gg
+4gg
+4ff
+=3
+4aa
+4gg
+4ff
+=4
+8ee
+8ff
+4dd
+4cc}
+!!LO:LB:g=esac
+=5
+{4g
+4b
+4cc
+=6
+8ee
+8dd
+4ff
+4b
+=7
+4cc
+4dd
+4ee
+=8
+8dd
+8b
+4cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 28} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 28}
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum

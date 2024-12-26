@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK4104300010-oj_nie_moj_konik_nie_moj.krn
+!!!OTL: Oj, nie mój konik, nie mój
+!!!source: DWOK41
+!!!id: 41043
+!!!signature: 4104300010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.g
+16b
+16dd
+16ee
+=2
+16cc
+16b
+8g
+8a}
+!!LO:LB:g=esac
+=3
+{8.g
+16b
+8dd
+=4
+16cc
+16b
+8g
+8f#}
+!!LO:LB:g=esac
+=5
+{8.d
+16f#
+16g
+16b
+=6
+16cc
+16b
+8dd
+8a}
+!!LO:LB:g=esac
+=7
+{8.d
+16f#
+8g
+=8
+16cc
+16b
+8g
+8f#}
+==
+*-
+!!!ONB: Część wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 47} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7769500000-oj_dyna_moja_dyna.krn
+!!!OTL: Oj dyna moja dyna
+!!!source: DWOK77
+!!!id: 77695
+!!!signature: 7769500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16ee
+8gg
+16ff
+16ee
+=2
+8cc
+8dd
+8b-}
+!!LO:LB:g=esac
+=3
+{16a
+16cc
+8g
+16g
+16e
+=4
+8f
+8g
+8b-}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8g
+8b-
+=6
+8cc
+8dd
+8b-}
+!!LO:LB:g=esac
+=7
+{16a
+16f
+8g
+16g
+16e
+=8
+8f
+8g
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 350
+!!!ONB: Converted on 2024/12/26 with esac2hum

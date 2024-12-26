@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK06-K0504-moja_dziewczyna_robotna_byla.krn
+!!!OTL: Moja dziewczyna robotna byla
+!!!source: DWOK06
+!!!id: K0504
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8b
+=2
+8cc
+8a
+8r
+=3
+8b
+8g
+8b
+=4
+8a
+8a}
+8r
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8b
+=6
+8cc
+8ee
+8r
+=7
+8d
+8e
+8f#
+=8
+8a
+8g}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8ee
+=10
+8dd
+8b
+8r
+=11
+8d
+8f#
+8a
+=12
+4g}
+8r
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+8ee
+=14
+8dd
+4b
+=15
+8cc
+8a
+8f#
+=16
+4dd
+8b}
+!!LO:LB:g=esac
+=17
+{8ee
+8dd
+8ff#
+=18
+4gg
+8b
+=19
+8a
+16dd
+16b
+16cc
+16a
+=20
+8g
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=309 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 283} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 283}
+!!!page: 283
+!!!ONB: Converted on 2024/12/26 with esac2hum

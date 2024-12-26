@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK06-K0793-hej_dalej_chlopcy_dalej.krn
+!!!OTL: Hej dalej chlopcy dalej
+!!!source: DWOK06
+!!!id: K0793
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4ff
+8ff
+16ff
+16ee
+=2
+8gg
+16ff
+16ee
+8ee
+16dd
+16cc
+=3
+8dd
+8ff
+8ee
+16dd
+16cc
+=4
+4cc
+4ee}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+8dd
+=6
+8gg
+8dd
+16cc
+16b
+16a
+16g
+=7
+16g
+16a
+16b
+16cc
+8dd
+8b
+=8
+4cc
+4ee}
+!!LO:LB:g=esac
+=9
+{4dd
+8dd
+8dd
+=10
+8gg
+8dd
+16cc
+16b
+16a
+16g
+=11
+16g
+16a
+16b
+16cc
+8dd
+8b
+=12
+4cc
+4ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=505 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 479} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 479}
+!!!page: 479
+!!!ONB: Converted on 2024/12/26 with esac2hum

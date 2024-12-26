@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK8205300000-jawor_jaworyna_kaczka_na_dolynie.krn
+!!!OTL: Jawor jaworyna kaczka na dolynie
+!!!source: DWOK82
+!!!id: 82053
+!!!signature: 8205300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ee
+16gg
+8aa
+8aa
+=2
+8gg
+4ff
+=3
+16ee
+16ee
+8dd
+8dd
+=4
+4cc
+8ff}
+!!LO:LB:g=esac
+=5
+{16ee
+16ee
+8dd
+8dd
+=
+4cc
+24ee
+24gg
+24ff
+=6
+16ee
+16ee
+8cc
+16ff
+16dd
+=7
+4ee
+8gg}
+!!LO:LB:g=esac
+=8
+{16ee
+16ee
+8dd
+8ff
+=9
+4cc
+8ff
+=10
+16dd
+16ee
+8gg
+8gg
+=11
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 39} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 39}
+!!!page: 39
+!!!ONB: Converted on 2024/12/26 with esac2hum

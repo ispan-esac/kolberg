@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2500100000-kiedy_bedzie_slonce_i_pogoda.krn
+!!!OTL: Kiedy będzie słońce i pogoda
+!!!source: DWOK25
+!!!id: 25001
+!!!signature: 2500100000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{8f
+8a
+4.b-
+8cc
+=2
+8dd
+8dd
+8dd
+8dd
+8ee-
+8cc
+=3
+8dd
+8ff
+8ff
+8ff
+8ee-
+8cc}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+8b-
+8a
+4g
+=5
+8f
+8f
+8g
+8a
+8b-
+8cc
+=6
+8dd
+8dd
+8b-
+8a
+4g
+=7
+8f
+8f
+8g
+8a
+8b-
+8b-}
+==
+*-
+!!!ONB: U Kolberga jest 3/8, zapisano poprawnie na 3/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. } @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. }
+!!!ONB: Converted on 2024/12/26 with esac2hum

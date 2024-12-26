@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK1700600000-oj_nie_chodz_kole_rozy_-_mazur.krn
+!!!OTL: Oj nie chodź kole róży - Mazur
+!!!source: DWOK17
+!!!id: 17006
+!!!signature: 1700600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16cc
+16ee
+8cc
+8ff
+=2
+16dd
+16dd
+8b
+8g#
+=3
+16g#
+16b
+8dd
+16dd
+16cc
+=4
+8a
+4cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8cc
+8ff
+=6
+16ff
+16ee
+8b
+8g#
+=7
+16g#
+16b
+8dd
+16dd
+16cc#
+=8
+8a
+4a}
+!!LO:LB:g=esac
+=9
+{8cc
+8a
+16a
+16g#
+=10
+16f#
+16g#
+8b
+8e
+=11
+16g#
+16b
+8dd
+16dd
+16b
+=12
+8cc
+4ee}
+!!LO:LB:g=esac
+=13
+{16a
+16b
+16cc
+16b
+16a
+16g#
+=14
+16f#
+16g#
+16b
+16g#
+8e
+=15
+16g#
+16b
+8dd
+16dd
+16b
+=16
+8a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=25 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 3} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 3}
+!!!page: 3
+!!!ONB: Converted on 2024/12/26 with esac2hum

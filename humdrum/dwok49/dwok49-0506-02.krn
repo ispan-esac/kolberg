@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK4950600002-czas_spac_pani_matko.krn
+!!!OTL: Czas spać, pani matko
+!!!source: DWOK49
+!!!id: 49506
+!!!signature: 4950600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+4cc
+=2
+16cc
+16cc
+32cc
+32b
+32a
+32b
+8g
+=3
+8a
+4a}
+!!LO:LB:g=esac
+=4
+{16b
+16b
+8dd
+8cc
+=5
+16cc
+16cc
+8b
+16a
+16g
+=6
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=551 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 461} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 461}
+!!!page: 461
+!!!ONB: Converted on 2024/12/26 with esac2hum

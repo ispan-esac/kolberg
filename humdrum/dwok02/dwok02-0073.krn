@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK02-K0073-nasa_marysia_nasa.krn
+!!!OTL: Nasa Marysia nasa
+!!!source: DWOK02
+!!!id: K0073
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8b
+8cc
+=2
+4dd
+8b
+=3
+8cc
+4a}
+!!LO:LB:g=esac
+=4
+{16a
+16b
+8cc
+8a
+=5
+4dd
+8b
+=6
+8g
+4a}
+!!LO:LB:g=esac
+=7
+{8a
+8b
+8cc
+=8
+4dd
+8b
+=9
+8cc
+4a}
+!!LO:LB:g=esac
+=10
+{16a
+16b
+8cc
+8a
+=11
+4dd
+8b
+=12
+8g
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 69} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 69}
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

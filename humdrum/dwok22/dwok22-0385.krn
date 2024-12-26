@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2238500000-co_mi_po_roli_po_roli.krn
+!!!OTL: Co mi po roli po roli
+!!!source: DWOK22
+!!!id: 22385
+!!!signature: 2238500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8b
+8cc
+=2
+16a
+16cc
+8ee
+8dd
+=3
+16b
+16dd
+8b
+8a
+=4
+16f#
+16g
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8g
+8a
+=6
+16f#
+16g
+8b
+8dd
+=7
+16g
+16b
+8g
+8a
+=8
+16f#
+16g
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 200} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 200}
+!!!page: 200
+!!!ONB: Converted on 2024/12/26 with esac2hum

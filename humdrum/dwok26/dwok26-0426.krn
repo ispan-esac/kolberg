@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2646200000-oj_kukawecka_kuka.krn
+!!!OTL: Oj kukawecka kuka
+!!!source: DWOK26
+!!!id: 26426
+!!!signature: 2646200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16.ff
+32ee-
+8dd
+16ff
+16gg
+=2
+16ee-
+16cc
+8dd
+16b-
+16a}
+!!LO:LB:g=esac
+=3
+{16f
+16a
+8cc
+16b-
+16a
+=4
+8f
+8g
+16g
+16f}
+!!LO:LB:g=esac
+=5
+{16a
+16b-
+8dd
+8ee-
+=6
+16dd
+16cc
+8dd
+16b-
+16a}
+!!LO:LB:g=esac
+=7
+{16f
+16a
+8cc
+8a
+=8
+8f
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 311
+!!!ONB: Converted on 2024/12/26 with esac2hum

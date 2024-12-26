@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7754200000-oj_hultaj_ci_ja.krn
+!!!OTL: Oj hultaj ci ja
+!!!source: DWOK77
+!!!id: 77542
+!!!signature: 7754200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+8dd
+=2
+8dd
+8dd
+8ee
+8dd
+=3
+8cc
+8ee
+8dd
+8cc
+=4
+8b
+4.d}
+!!LO:LB:g=esac
+=5
+{8f#
+4a
+8g
+=6
+8a
+8b
+8cc
+8cc
+=7
+8cc
+8cc
+8b
+8a
+=8
+8b
+4.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 281
+!!!ONB: Converted on 2024/12/26 with esac2hum

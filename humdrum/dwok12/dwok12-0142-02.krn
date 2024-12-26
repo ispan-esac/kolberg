@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1214200002-przylecial_gawron_byle_kandy_w_dom.krn
+!!!OTL: Przyleciał gawron byle kandy w dom
+!!!source: DWOK12
+!!!id: 12142
+!!!signature: 1214200002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8.e
+16ee
+4dd#
+4ee
+=2
+2.b
+=3
+8.e
+16dd
+4cc#
+4dd
+=4
+2.b}
+!!LO:LB:g=esac
+=5
+{8.ee
+16ee
+8dd
+8cc
+8b
+8a
+=6
+8g#
+8a
+8b
+8dd#
+8ee
+8e
+=7
+8.e
+16cc
+4b
+8dd
+8b
+=8
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 70-71} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 70-71}
+!!!page: 70-71
+!!!ONB: Converted on 2024/12/26 with esac2hum

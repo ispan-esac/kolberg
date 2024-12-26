@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK0444300020-w_sieni_graja_w_izbie_graja._weselna.krn
+!!!OTL: W sieni grają w izbie grają. Weselna
+!!!source: DWOK04
+!!!id: K0443
+!!!signature: 0444300020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{8ee
+16gg
+16ff#
+24dd
+24ee
+24dd
+=1
+16cc
+16b
+8g
+8gg
+=
+8ee
+16gg
+16ff#
+24dd
+24ee
+24dd
+=2
+16cc
+16b
+8g
+8cc}
+==
+*-
+!!!ONB: Część instrumentalna, fragment w C
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 255} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 255}
+!!!page: 255
+!!!ONB: Converted on 2024/12/26 with esac2hum

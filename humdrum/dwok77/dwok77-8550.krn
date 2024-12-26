@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK7785500000-kiedym_byl_czerwony.krn
+!!!OTL: Kiedym był czerwony
+!!!source: DWOK77
+!!!id: 778550
+!!!signature: 7785500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4b
+4b
+4b
+=2
+4cc
+4cc
+4cc
+=3
+4dd
+4dd
+4b
+=4
+4cc
+2cc}
+!!LO:LB:g=esac
+=5
+{4ff
+4ff
+4ff
+=6
+4ee
+4ee
+4ee
+=7
+4dd
+4dd
+4b
+=8
+4cc
+2cc}
+!!LO:LB:g=esac
+=9
+{4dd
+4dd
+4b
+=10
+4cc
+4cc
+4ee
+=11
+4dd
+4dd
+4b
+=12
+4cc
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

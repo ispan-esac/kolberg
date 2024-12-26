@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2737600000-idzie_zolnierz_borem.krn
+!!!OTL: Idzie żołnierz borem
+!!!source: DWOK27
+!!!id: 27376
+!!!signature: 2737600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4.cc
+8a
+=
+12cc
+12dd
+12cc
+12b
+12cc
+12dd
+12cc
+12b-}
+!!LO:LB:g=esac
+=2
+{8g
+8g
+4.b-
+8c
+=3
+8f
+8a
+4.cc
+8a
+=4
+8g
+8g
+4.b-
+8c
+=5
+8a
+8g
+4f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=355 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 336} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 336}
+!!!page: 336
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7748000000-oj_tobie_swieci_slonce.krn
+!!!OTL: Oj tobie świeci słońce
+!!!source: DWOK77
+!!!id: 77480
+!!!signature: 7748000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+4cc
+4dd
+=2
+4ee
+4ee
+4cc
+=3
+8b
+16dd
+16cc
+4a
+4b
+=4
+4b
+2g#}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4a
+4a
+=6
+4b
+4b
+4b
+=7
+8dd
+16cc
+16b
+4a
+4b
+=8
+4b
+2g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 246
+!!!ONB: Converted on 2024/12/26 with esac2hum

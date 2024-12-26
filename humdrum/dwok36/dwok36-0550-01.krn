@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK3655000001-zapalu_ja_zakuru_ja.krn
+!!!OTL: Zapalu ją zakuru ją
+!!!source: DWOK36
+!!!id: 36550
+!!!signature: 3655000001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8dd
+8ee
+8dd
+=2
+8cc
+8b
+8cc
+8dd
+=3
+8ee
+8dd
+8ee
+8dd
+=4
+8cc
+8b
+8cc
+8dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+8cc
+8b
+=6
+8g
+8b
+8cc
+8dd
+=7
+8ee
+8dd
+8cc
+8b
+=8
+4.g
+8g}
+==
+*-
+!!!ONB: w t. 4 przesunięcie wartości, w takcie pierwszym i trzecim drugi dźwięk przedłużony
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 364
+!!!ONB: Converted on 2024/12/26 with esac2hum

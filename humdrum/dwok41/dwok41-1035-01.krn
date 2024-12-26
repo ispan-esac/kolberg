@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK41103500001-z_wysokiego_mostu.krn
+!!!OTL: Z wysokiego mostu
+!!!source: DWOK41
+!!!id: 411035
+!!!signature: 41103500001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16g#
+16a
+16b
+16cc
+16b
+=2
+8a
+4g#
+=3
+16a
+16cc
+8ee
+8ee
+=4
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16b
+16a
+16b
+16cc
+16b
+=6
+8a
+4g#
+=7
+16a
+16cc
+8ee
+8g#
+=8
+8a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=522 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 435} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 435}
+!!!page: 435
+!!!ONB: Converted on 2024/12/26 with esac2hum

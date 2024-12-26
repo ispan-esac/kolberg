@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2637600000-miedzy_dwiema_goreckoma.krn
+!!!OTL: Między dwiema góreckoma
+!!!source: DWOK26
+!!!id: 26376
+!!!signature: 2637600000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8a
+4.a
+8ee
+8cc
+=2
+*M2/4
+8ee
+8gg
+8ff
+8ee
+=3
+8dd
+8dd
+8ee
+8a}
+!!LO:LB:g=esac
+=4
+*M3/4
+{8dd
+8dd
+4ee
+8cc
+8a
+=5
+8a
+4.cc
+8dd
+8cc
+=6
+8dd
+8cc
+4ee
+8cc
+8a
+=7
+8dd
+4.cc
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 269
+!!!ONB: Converted on 2024/12/26 with esac2hum

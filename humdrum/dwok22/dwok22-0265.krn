@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2226500000-pod_borem_na_murawce.krn
+!!!OTL: Pod borem na murawce
+!!!source: DWOK22
+!!!id: 22265
+!!!signature: 2226500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+4dd
+8g
+=3
+8cc
+8cc
+8ee}
+!!LO:LB:g=esac
+=4
+{8g
+8ff
+8ee
+=5
+4dd
+16cc
+16b
+=6
+8dd
+4cc}
+!!LO:LB:g=esac
+=7
+{8b
+8b
+16dd
+16b
+=8
+8cc
+8cc
+16ee
+16cc
+=9
+8g
+8a
+8b
+=10
+8cc
+8cc
+8ee}
+!!LO:LB:g=esac
+=11
+{8g
+8ff
+8ee
+=12
+4dd
+16cc
+16b
+=13
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 149} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 149}
+!!!page: 149
+!!!ONB: Converted on 2024/12/26 with esac2hum

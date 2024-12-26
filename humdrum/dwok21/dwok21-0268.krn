@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2126800000-oj_i_pocies-ze_mnie_boze.krn
+!!!OTL: Oj i pocies-ze mnie Boze
+!!!source: DWOK21
+!!!id: 21268
+!!!signature: 2126800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16ee
+8gg
+8ff
+=2
+16ee
+16gg
+8dd
+16dd
+16b
+=3
+8cc
+8g
+16b
+16a
+=4
+8cc
+8g}
+8r
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8ff
+8dd
+=6
+16ee
+16ee
+8dd
+8dd
+=7
+8cc
+8g
+16b
+16a
+=8
+8cc
+8g}
+8r
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 117} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 117}
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

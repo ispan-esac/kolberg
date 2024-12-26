@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2542100000-a_cyje_to_kuniki.krn
+!!!OTL: A cyje to kuniki
+!!!source: DWOK25
+!!!id: 25421
+!!!signature: 2542100000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{8g
+8f#
+8a
+=2
+16cc
+16ee
+8ff#
+16dd
+16b
+=3
+8g
+8f#
+8a
+=4
+16cc
+16a
+8b
+8e}
+!!LO:LB:g=esac
+=5
+{8g
+8f#
+8a
+=6
+16cc
+16a
+8b
+8e
+=7
+8g
+8f#
+8a
+=8
+16cc
+16a
+8b
+16dd
+16b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 181} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 181}
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

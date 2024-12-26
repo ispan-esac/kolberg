@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK57157000000-oj_piszla_piszla_podolanka_po_wodu.krn
+!!!OTL: Oj piszła, piszła Podolanka po wodu
+!!!source: DWOK57
+!!!id: 571570
+!!!signature: 57157000000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=1
+{4a
+8g#
+8b
+4g#
+4e
+=2
+8d
+8e
+4g#
+8g#
+8b
+4a
+=3
+8a
+8b
+4g#
+4e}
+4r
+!!LO:LB:g=esac
+=4
+{4a
+8g#
+8b
+4g#
+4e
+=5
+8d
+8e
+8g#
+8b
+[4a
+8a]
+8b
+=6
+[4g#
+8g#]
+8e
+4e}
+4r
+==
+*-
+!!!ONB: U Kolberga wątpliwy zapis metrorytmiczny t.2-3
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 615
+!!!ONB: Converted on 2024/12/26 with esac2hum

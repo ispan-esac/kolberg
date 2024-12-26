@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK5770400000-bodaj_si_kohut_znudyu.krn
+!!!OTL: Bodaj si kohut znudyu
+!!!source: DWOK57
+!!!id: 57704
+!!!signature: 5770400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8cc
+=2
+4cc
+8dd
+=3
+8ee
+4cc}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8dd
+=5
+4dd
+8ee
+=6
+8ff
+4ee}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+8ee
+=8
+4ee
+8gg
+=9
+8gg
+4ff}
+!!LO:LB:g=esac
+=10
+{16ff
+16ee
+8dd
+8cc
+=11
+4b
+8dd
+=12
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 32
+!!!ONB: Converted on 2024/12/26 with esac2hum

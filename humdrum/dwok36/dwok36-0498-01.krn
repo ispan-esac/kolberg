@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK3649800001-a_na_mori_ta_na_syniomu.krn
+!!!OTL: A na mori ta na syniomu
+!!!source: DWOK36
+!!!id: 36498
+!!!signature: 3649800001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4ee
+8dd
+8b
+=2
+4dd
+4g
+=3
+8cc
+8cc
+8b
+8g#
+=4
+8a
+8a
+4e}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8ff#
+=6
+8ee
+8ee
+8b
+8b
+=7
+8ee
+16cc
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 323
+!!!ONB: Converted on 2024/12/26 with esac2hum

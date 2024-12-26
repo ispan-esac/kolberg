@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK21105a00001-ozenil_sie_jas_na_lasku.krn
+!!!OTL: Ożenił się Jaś na Śląsku
+!!!source: DWOK21
+!!!id: 21105
+!!!signature: 21105a00001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8b
+8dd
+=2
+16dd
+16b
+8cc
+8ee
+=3
+4dd
+8b
+=4
+16cc
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+8cc
+8cc
+=6
+16b
+16a
+8b
+8g
+=7
+4cc
+8a
+=8
+16b
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 51} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 51}
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

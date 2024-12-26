@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK4713000002-tecze_riczka_newelyczka.krn
+!!!OTL: Tecz'e riczka newełyczka
+!!!source: DWOK47
+!!!id: 47130
+!!!signature: 4713000002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=
+{8f
+8dd
+2cc
+12dd
+12cc
+12b-
+=1
+8a
+8g
+2f
+8b-
+8dd
+=
+4dd
+2cc
+12dd
+12cc
+12b-
+=
+8a
+8g
+2f}
+!!LO:LB:g=esac
+=
+{12dd
+12cc
+12b-
+=
+8cc
+8f
+2a
+12b-
+12a
+12g
+=
+8f
+8g
+2e-
+12a
+12b-
+12dd-
+=2
+8cc
+8f
+2a
+8a
+8g
+=3
+8a
+8g
+2f
+4f}
+==
+*-
+!!!ONB: U Kolberga wątpliwy zapis metrorytmiczny t. 3-4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 127} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 127}
+!!!page: 127
+!!!ONB: Converted on 2024/12/26 with esac2hum

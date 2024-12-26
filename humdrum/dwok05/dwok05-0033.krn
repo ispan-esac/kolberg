@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK05-K0033-paslem_owiecki_za_dworem.krn
+!!!OTL: Paslem owiecki za dworem
+!!!source: DWOK05
+!!!id: K0033
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+8b
+8g
+4b
+4dd
+=2
+4cc
+4a
+2b
+=3
+4g
+8b
+8g
+4b
+4dd
+=4
+4cc
+4a
+2b}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+8ee
+4cc
+8cc
+8ee
+=6
+8dd
+8dd
+8dd
+8b
+4a
+4f#
+=7
+4dd
+8b
+8cc
+4a
+8a
+8f#
+=8
+2g}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 231} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 231}
+!!!page: 231
+!!!ONB: Converted on 2024/12/26 with esac2hum

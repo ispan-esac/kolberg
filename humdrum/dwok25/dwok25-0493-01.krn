@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2549300001-jedzie_jasio_od_wiatraka.krn
+!!!OTL: Jedzie Jasio od wiatraka
+!!!source: DWOK25
+!!!id: 25493
+!!!signature: 2549300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16b
+8dd
+16dd
+16b
+=2
+16cc
+16cc
+8ee
+8ee
+=3
+16a
+16a
+8cc
+16a
+16cc
+=4
+16ee
+16dd
+8b
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{16d
+16d
+8f#
+16a
+16b
+=6
+16g
+16g
+8b
+8dd
+=7
+16ee
+16ee
+8cc
+16a
+16f#
+=8
+16g
+16b
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=224 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 199} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

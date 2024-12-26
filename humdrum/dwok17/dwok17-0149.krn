@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1714900000-a_ja_sobie_tatarzanka.krn
+!!!OTL: A ja sobie Tatarzanka
+!!!source: DWOK17
+!!!id: 17149
+!!!signature: 1714900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16ee
+8ff
+16dd
+16e
+=2
+8ff
+8ee
+16dd
+16gg}
+!!LO:LB:g=esac
+=3
+{16dd
+16ee
+8ff
+8dd
+=4
+8ff
+8ee
+16dd
+16cc}
+!!LO:LB:g=esac
+=5
+{16dd
+16cc
+8b
+16g
+16f
+=6
+8ff
+8ee
+16dd
+16b}
+!!LO:LB:g=esac
+=7
+{16dd
+16cc
+8b
+8g
+=8
+8e
+8g
+16a
+16f}
+==
+*-
+!!!ONB: Obacz nr. 63
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 51} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 51}
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

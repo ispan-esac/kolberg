@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK06-K0775-zielony_trawnicek.krn
+!!!OTL: Zielony trawnicek
+!!!source: DWOK06
+!!!id: K0775
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+4ee
+8ee
+=2
+8ee
+8ee
+4dd#
+=3
+8a
+4cc
+8cc
+=4
+8b
+8b
+4dd}
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+8ee
+=6
+8ee
+8ee
+4dd#
+=7
+8a
+4cc
+8cc
+=8
+8b
+8dd
+4a}
+!!LO:LB:g=esac
+=9
+{8b
+4dd
+16cc
+16b
+=10
+8a
+16b
+16cc
+8b
+8b
+=11
+8b
+4dd
+16cc
+16b
+=12
+8a
+16b
+16cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=496 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 470} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 470}
+!!!page: 470
+!!!ONB: Converted on 2024/12/26 with esac2hum

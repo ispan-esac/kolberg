@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK57128200000-moja_maty_worozbyta_meni_worozyla.krn
+!!!OTL: Moja maty worożbyta meni worożyła
+!!!source: DWOK57
+!!!id: 571282
+!!!signature: 57128200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8cc
+8cc
+=2
+8b
+8g
+8g
+8g
+=3
+8g
+8cc
+8cc
+8cc
+=4
+4dd
+4gg}
+!!LO:LB:g=esac
+=5
+{8gg
+8ff
+8g
+8ff
+=6
+8ff
+8ee
+8g
+8ee
+=7
+8ee
+8dd
+8cc
+8dd
+=8
+4ee
+4gg}
+!!LO:LB:g=esac
+=9
+{8gg
+8ff
+8g
+8ff
+=10
+8ff
+8ee
+16dd
+16cc
+16b
+16a
+=11
+8a
+8g
+8ee
+8ee
+=12
+4dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 382
+!!!ONB: Converted on 2024/12/26 with esac2hum

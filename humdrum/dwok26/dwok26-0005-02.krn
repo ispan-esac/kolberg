@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2600500002-gdy_wam_zakwitla_piekna_lilija.krn
+!!!OTL: Gdy wam zakwitła piękna lilija
+!!!source: DWOK26
+!!!id: 26005
+!!!signature: 2600500002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4b
+8a
+8b
+=2
+4cc
+4a
+=3
+4dd
+8b
+8a
+=4
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8a
+8b
+=6
+4cc
+4a
+=7
+8dd
+8dd
+8b
+8a
+=8
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8b
+8b
+=10
+8a
+8b
+8cc
+8dd
+=11
+8ee
+8ee
+8cc
+8ee
+=12
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=13
+{8b
+8dd
+8cc
+8a
+=14
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

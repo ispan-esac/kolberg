@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3616100000-oj_rozpletut_kosenku.krn
+!!!OTL: Oj rozpłetut koseńku
+!!!source: DWOK36
+!!!id: 36161
+!!!signature: 3616100000
+**kern
+*clefG2
+*k[b-e-a-d-g-]
+*b-:
+*M3/4
+=1
+{4ff
+4ee
+4ff
+=2
+8ff
+8ff
+4dd-
+8cc
+8b-
+=3
+2ff
+4ee
+=4
+4ff}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{8ff
+16gg-
+16ff
+4cc
+4ff
+=6
+8ee-
+8dd-
+4cc
+4b-
+=7
+4cc
+4ee-
+4dd-
+=8
+4cc
+4r
+4r
+=9
+4b-}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

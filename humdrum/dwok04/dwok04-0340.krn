@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK0434000000-gdy_w_czystem_polu_sloneczko_swieci.krn
+!!!OTL: Gdy w czystem polu słoneczko świeci
+!!!source: DWOK04
+!!!id: K0340
+!!!signature: 0434000000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8e
+8a
+8cc#
+=2
+4ee
+8cc#
+=3
+16b
+16ee
+8ee
+16b
+16cc#
+=4
+4a
+8a}
+!!LO:LB:g=esac
+=5
+{8e
+8a
+8cc#
+=6
+4ee
+8cc#
+=7
+16b
+16ee
+8ee
+16b
+16cc#
+=8
+4a
+8a}
+!!LO:LB:g=esac
+=9
+{16b
+16dd
+8ee
+16b
+16cc#
+=10
+16a
+16cc#
+8cc#
+8ee}
+!!LO:LB:g=esac
+=11
+{16b
+16dd
+8ee
+16b
+16cc#
+=12
+16a
+16cc#
+8cc#
+8ee}
+!!LO:LB:g=esac
+=13
+{16b
+16dd
+8ee
+16b
+16cc#
+=14
+4a}
+8r
+==
+*-
+!!!ONB: U Kolberga w t. 9 błędny zapis rytmu: 24523
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 185} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 185}
+!!!page: 185
+!!!ONB: Converted on 2024/12/26 with esac2hum

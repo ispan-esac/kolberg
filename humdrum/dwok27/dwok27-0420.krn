@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK2742000000-nam_zbawiciel_sie_narodzil.krn
+!!!OTL: Nam Zbawiciel się narodził
+!!!source: DWOK27
+!!!id: 27420
+!!!signature: 2742000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8b
+8dd
+=2
+8g
+8cc
+8b
+8g
+=3
+8b
+8cc
+8dd
+8ee
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+16b
+16a
+16b
+16dd
+=6
+8g
+8cc
+16b
+16a
+16b
+16g
+=7
+8b
+8cc
+8dd
+16ee
+16dd
+=8
+2cc}
+!!LO:LB:g=esac
+=9
+{8ee
+8ff
+8gg
+8aa
+=10
+8ff
+8ee
+4ff
+=11
+8dd
+8ee
+8ff
+8aa
+=12
+8gg
+8ff
+4ee}
+!!LO:LB:g=esac
+=13
+{8ee
+8ff
+8gg
+16aa
+16gg
+=14
+8ff
+8ee
+4ff
+=15
+8dd
+8ee
+8ff
+8aa
+=16
+16gg
+16ff
+16ee
+16dd
+4ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=375 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 356} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 356}
+!!!page: 356
+!!!ONB: Converted on 2024/12/26 with esac2hum

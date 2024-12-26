@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK3045200000-szkoda_lisa_ebedyna.krn
+!!!OTL: Szkoda lisa Łebedyna
+!!!source: DWOK30
+!!!id: 30452
+!!!signature: 3045200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16cc
+16ee
+8ee
+8ee
+=2
+8ee
+4ee
+=3
+8ee
+16dd
+16cc
+16b
+16a}
+!!LO:LB:g=esac
+=4
+{16ee
+16dd
+8dd
+8dd
+=5
+8dd
+4dd
+=6
+8ee
+16dd
+16cc
+16b
+16a}
+!!LO:LB:g=esac
+=7
+{16ee
+32dd
+32cc
+8a
+8a
+=8
+8a
+4a
+=9
+8ee
+16dd
+16cc
+16b
+16a}
+!!LO:LB:g=esac
+=10
+{16ee
+32dd
+32cc
+8a
+8a
+=11
+8a
+4a
+=12
+4a
+8a}
+==
+*-
+!!!ONB: Dożynkowa
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 242} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

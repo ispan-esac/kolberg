@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK5323900001-o_rudeni_nuo_sermuskniu.krn
+!!!OTL: O rudeni nuo sermuskniu
+!!!source: DWOK53
+!!!id: 53239
+!!!signature: 5323900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4d
+4g
+4g
+4f#
+=2
+4g
+4e
+4d
+4d
+=3
+4g
+4a
+4b
+4cc
+=4
+2dd
+2b}
+!!LO:LB:g=esac
+=5
+{4ee
+4cc
+4cc
+4b
+=6
+4dd
+4b
+4a
+4g
+=7
+4f#
+4a
+4dd
+4f#
+=8
+2g
+2g}
+!!LO:LB:g=esac
+=9
+{4ee
+4cc
+4cc
+4b
+=10
+8dd
+8b
+4b
+4a
+4g
+=11
+4f#
+4a
+4dd
+4f#
+=12
+2g
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=373 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 333} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 333}
+!!!page: 333
+!!!ONB: Converted on 2024/12/26 with esac2hum

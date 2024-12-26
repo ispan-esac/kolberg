@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK3902600000-czas_nam_do_domu_dziewczyno.krn
+!!!OTL: Czas nam do domu dziewczyno
+!!!source: DWOK39
+!!!id: 39026
+!!!signature: 3902600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8b
+4a
+8b
+8cc
+=2
+8dd
+32dd
+16.cc
+4a
+4g
+=3
+8b
+8b
+4a
+8b
+8cc
+=4
+2.dd}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+4a
+4ee
+=6
+8dd
+32dd
+16.cc
+4a
+4g
+=7
+8b
+8cc
+4a
+4f#
+=8
+2.g}
+==
+*-
+!!!ONB: Przy przenosinach
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 97} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 97}
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1916600000-niewiele_nas_takich_jak_ja.krn
+!!!OTL: Niewiele nas takich jak ja
+!!!source: DWOK19
+!!!id: 19166
+!!!signature: 1916600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc
+8dd
+8b
+=2
+8a
+4g
+=3
+8a
+8.cc
+16e
+=4
+16f#
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8dd
+8b
+=6
+8a
+4g
+=7
+8a
+8.cc
+16ee
+=8
+16.ee
+32dd
+8dd
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 55} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 55}
+!!!page: 55
+!!!ONB: Converted on 2024/12/26 with esac2hum

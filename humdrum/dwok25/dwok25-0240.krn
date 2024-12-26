@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK2524000000-oj_matko_moja_matko.krn
+!!!OTL: Oj matko moja matko
+!!!source: DWOK25
+!!!id: 25240
+!!!signature: 2524000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16e
+16g
+8b-
+8b-
+=2
+16dd
+16cc
+8a
+8ff
+=3
+8ee
+8g
+8b-
+=4
+16a
+16e
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{16e
+16g
+8b-
+8b-
+=6
+16dd
+16cc
+8a
+8ff
+=7
+16ee
+16ee
+8g
+8b-
+=8
+16dd
+16cc
+8a
+8f}
+!!LO:LB:g=esac
+=9
+{16.b-
+32ff
+8ff
+16gg
+16ff
+=10
+16ff
+16cc
+8.ee-
+16cc
+=11
+16.b-
+32dd
+8dd
+16dd
+16cc
+=12
+16a
+16g
+8a
+8f}
+!!LO:LB:g=esac
+=13
+{16.b-
+32ff
+8ff
+16gg
+16ff
+=14
+16ff
+16cc
+8.ee-
+16dd
+=15
+16.b-
+32dd
+8dd
+16dd
+16cc
+=16
+16f
+16a
+4b-}
+==
+*-
+!!!ONB: Wariant w takcie ostatnim zapisu 1_3_4__1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 105} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7701800000-ej_przez_bloty_dumien_zloty.krn
+!!!OTL: Ej przez błoty dumień złoty
+!!!source: DWOK77
+!!!id: 77018
+!!!signature: 7701800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+{8b
+=1
+8dd
+8dd
+8b
+8cc
+=2
+8.dd
+16ee
+8dd
+8cc
+=3
+8dd
+8b
+8b
+8a
+=4
+4g
+16g
+16d}
+8r
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8b
+8cc
+=6
+8dd
+16dd
+16cc
+8b
+16b
+16a
+=7
+8g
+8f#
+8g}
+==
+*-
+!!!ONB: Do kościoła, w taktach 3 i 4 nieprawidłowy rytm, poprawiono
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 34
+!!!ONB: Converted on 2024/12/26 with esac2hum

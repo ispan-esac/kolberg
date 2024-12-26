@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2529900000-dzis_kowalczyk_pije.krn
+!!!OTL: Dziś kowalczyk pije
+!!!source: DWOK25
+!!!id: 25299
+!!!signature: 2529900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4ee
+8ee
+=2
+16ff
+16ee
+8dd
+8a
+=3
+16b
+16cc
+8dd
+8a
+=4
+16b
+16a
+8g#
+8e}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+8a
+=6
+16cc
+16b
+8dd
+8a
+=7
+16g#
+16a
+8b
+8dd
+=8
+16b
+16a
+8g#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 136} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 136}
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

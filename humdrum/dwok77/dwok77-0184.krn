@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7718400000-oj_dwoch_naju_na_gaju.krn
+!!!OTL: Oj dwóch naju na gaju
+!!!source: DWOK77
+!!!id: 77184
+!!!signature: 7718400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+16ee
+16dd
+16cc#
+16dd
+=2
+16cc
+16a
+8g
+8g
+=3
+16cc
+16ee
+8b
+8b
+=4
+16cc
+16a
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+16dd
+16ee
+=6
+16cc
+16ee
+8dd
+8dd
+=7
+16a
+16cc
+8b
+8dd
+=8
+16cc
+16a
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

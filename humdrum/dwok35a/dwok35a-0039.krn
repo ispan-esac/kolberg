@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK35A-35A03900000-sedyt_kaczor.krn
+!!!OTL: Sedyt kaczor
+!!!source: DWOK35A
+!!!id: 35A039
+!!!signature: 35A03900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8cc
+8b
+8g
+=2
+8a
+8cc
+8b
+8a
+=3
+8a
+8cc
+8b
+8g
+=4
+4a
+4b}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8b
+8b
+=6
+4g
+4g}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+16b
+16a
+8g
+=8
+8a
+8cc
+8b
+8a
+=9
+8a
+8cc
+16b
+16a
+8g
+=10
+4a
+16b
+16a
+8g}
+!!LO:LB:g=esac
+=11
+{8a
+8cc
+16b
+16a
+16b
+16f#
+=12
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=73 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 37} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

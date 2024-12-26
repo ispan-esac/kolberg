@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK5797700001-za_riczkoju_za_bystroju.krn
+!!!OTL: Za riczkoju, za bystroju
+!!!source: DWOK57
+!!!id: 57977
+!!!signature: 5797700001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4.dd
+8b-
+8dd
+8ee
+=2
+8ff
+8dd
+4dd
+4cc}
+!!LO:LB:g=esac
+=3
+{4.dd
+8b-
+8dd
+8ee
+=4
+8ff
+8dd
+4dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8b-
+8b-
+8b-
+8dd
+4ff
+=6
+8cc
+8cc
+4cc
+4f}
+!!LO:LB:g=esac
+=7
+{4.dd
+8b-
+8dd
+8ee
+=8
+8ff
+8dd
+4dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

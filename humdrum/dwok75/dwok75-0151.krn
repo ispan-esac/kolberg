@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK7515100000-instrumentalna_-_mazur.krn
+!!!OTL: Instrumentalna - Mazur
+!!!source: DWOK75
+!!!id: 75151
+!!!signature: 7515100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+{12gg
+12aa
+12gg
+8ff#
+8aa
+8gg
+8ff#
+=1
+8ee
+8dd
+4cc
+8cc
+8b
+=2
+8a
+8dd
+8cc
+8ee
+8dd
+8cc#
+=3
+8dd
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=4
+{4.d
+8f#
+8a
+8f#
+=5
+8.g
+16b
+4dd
+8cc
+8b
+=6
+8a
+8b
+8cc
+8b
+8cc
+8ee
+=
+8ff#
+8dd
+4cc
+12g
+12f#
+12e}
+!!LO:LB:g=esac
+=7
+{8e
+8d
+8d
+8f#
+4a
+=8
+8g
+8b
+4dd
+8cc
+8b
+=9
+8a
+8b
+8cc
+8ee
+8dd
+8f#
+=10
+4g
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 109} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 109}
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

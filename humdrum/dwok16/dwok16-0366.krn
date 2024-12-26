@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK163660000-oj_plakala_ja_wczora.krn
+!!!OTL: Oj płakała ja wczora
+!!!source: DWOK16
+!!!id: 16366
+!!!signature: 163660000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8ee
+8ee
+=2
+4dd
+8ee
+8ee
+=3
+8dd
+8cc
+8b
+8a
+=4
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{4a
+8cc
+8g
+=6
+8b
+8a
+8cc
+8g
+=7
+8b
+8a
+8cc
+8b
+=8
+4g
+4g}
+==
+*-
+!!!ONB: Wariant t. 2: 5566
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=262 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 242} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 242}
+!!!ONB: Converted on 2024/12/26 with esac2hum

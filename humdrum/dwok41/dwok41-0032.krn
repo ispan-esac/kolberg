@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4103200000-z_tamtej_strony_zielonego_pola.krn
+!!!OTL: Z tamtej strony zielonego pola
+!!!source: DWOK41
+!!!id: 41032
+!!!signature: 4103200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8b
+8dd
+=2
+16dd
+16ee
+8cc
+8a
+=3
+16cc
+16b
+4b
+=4
+16dd
+16ee
+8cc
+8a
+=5
+16cc
+16b
+4b}
+!!LO:LB:g=esac
+=6
+{4cc
+8a
+=7
+8b
+4b
+=8
+4dd
+8gg
+=9
+16ee
+16dd
+4dd}
+!!LO:LB:g=esac
+=10
+{16dd
+16dd
+8cc
+8f#
+=11
+16a
+16g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 43} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 43}
+!!!page: 43
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK8403100001-da_zachodiatze_hosci.krn
+!!!OTL: Da, zachodiat'że hosci
+!!!source: DWOK84
+!!!id: 84031
+!!!signature: 8403100001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16b
+16b
+4ee
+=2
+16ee
+16dd#
+8ee
+8dd#
+=3
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=4
+{16b
+16e
+4ee
+=5
+16ee
+16dd#
+8ee
+8dd#
+=6
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=7
+{8ee
+8ee
+8ee
+=8
+8cc
+8ee
+8dd#
+=9
+8cc
+4b}
+!!LO:LB:g=esac
+=10
+{16a
+16g#
+8a
+8b
+=11
+8cc
+4b
+=12
+4.a
+=13
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 63} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 63}
+!!!page: 63
+!!!ONB: Converted on 2024/12/26 with esac2hum

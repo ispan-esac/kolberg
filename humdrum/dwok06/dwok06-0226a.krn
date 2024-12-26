@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK06-K0226a-wedrowala_zosia.krn
+!!!OTL: Wedrowala Zosia
+!!!source: DWOK06
+!!!id: K0226a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8dd
+4ee
+=2
+8ee
+4ee
+8ee
+=3
+8ee
+16ff
+16ee
+4dd
+=4
+8dd
+4ff
+8ee}
+!!LO:LB:g=esac
+=5
+{16ee
+16dd
+16cc
+16b
+4a
+=6
+8b
+4cc
+8ff
+=7
+8ff
+8ee
+4dd
+=8
+8dd
+4g#
+8a}
+==
+*-
+!!!ONB: Wariant alternatywny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 118} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 118}
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

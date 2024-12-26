@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK02-K0065-dziekujemy_naprzod_panu_bogu.krn
+!!!OTL: Dziekujemy naprzod panu Bogu
+!!!source: DWOK02
+!!!id: K0065
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8b
+=2
+8dd
+4r
+=3
+16dd
+16cc
+8b
+8dd
+=4
+8dd
+8cc
+8b
+=5
+4b
+16a
+16f#
+=6
+4g
+16d}
+16r
+!!LO:LB:g=esac
+=7
+{16f#
+16g
+8a
+8cc
+=8
+8b
+4dd
+=9
+4b
+16a
+16f#
+=10
+4g
+16d}
+16r
+!!LO:LB:g=esac
+=11
+{8b
+4dd
+=12
+8b
+4dd
+=13
+4b
+16a
+16f#
+=14
+4g
+16d}
+16r
+!!LO:LB:g=esac
+=15
+{16f#
+16g
+8a
+8cc
+=16
+8b
+4dd
+=17
+4b
+16a
+16f#
+=18
+4g
+16d}
+16r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 64-65} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 64-65}
+!!!page: 64-65
+!!!ONB: Converted on 2024/12/26 with esac2hum

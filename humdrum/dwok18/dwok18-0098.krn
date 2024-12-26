@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1809800000-a_koslawce_starsy_druzba.krn
+!!!OTL: A koślawce starsy druzba
+!!!source: DWOK18
+!!!id: 18098
+!!!signature: 1809800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8.dd
+16cc
+=2
+16b
+16a
+8g
+8g
+=3
+8b
+8.dd
+16cc}
+!!LO:LB:g=esac
+=4
+{16b
+16a
+8g
+8g
+=5
+8b
+4dd
+=6
+8b
+8g}
+8r
+!!LO:LB:g=esac
+=7
+{16b
+16cc
+16dd
+16ee
+16dd
+16cc
+=8
+16b
+16a
+8g
+8g
+=9
+8b
+8.dd
+16cc}
+!!LO:LB:g=esac
+=10
+{16b
+16a
+8g
+8g
+=11
+8b
+4dd
+=12
+8b
+8g}
+8r
+==
+*-
+!!!ONB: Przed karczmą
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 91} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 91}
+!!!page: 91
+!!!ONB: Converted on 2024/12/26 with esac2hum

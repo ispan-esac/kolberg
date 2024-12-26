@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK4709800000-kryczyt_holub_na_duboczku.krn
+!!!OTL: Kryczyt hołub na duboczku
+!!!source: DWOK47
+!!!id: 47098
+!!!signature: 4709800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8b
+8cc
+=2
+8dd
+8cc
+8gg
+16aa
+16gg
+=3
+16ff
+16ee
+[4dd
+16dd]
+16cc}
+!!LO:LB:g=esac
+=4
+{16dd
+16ee
+8ff
+8gg
+8dd
+=5
+16dd
+16ee
+16dd
+16cc
+4b
+=6
+8g
+16a
+16b
+4cc}
+!!LO:LB:g=esac
+=7
+{8g
+8f
+8b-
+16a
+16cc
+=8
+4g
+16ee
+16dd
+16ff
+16ee
+=9
+16dd
+16cc
+4b
+16g
+16b
+=10
+4cc
+8g
+8f
+=11
+8b-
+16a
+16cc
+4g}
+==
+*-
+!!!ONB: U Kolberga wątpliwy zapis metrorytmiczny t. 8-11
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 105} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

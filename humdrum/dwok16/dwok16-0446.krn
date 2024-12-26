@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1644600000-cztery_jasio_konie_mial.krn
+!!!OTL: Cztery Jasio konie miał
+!!!source: DWOK16
+!!!id: 16446
+!!!signature: 1644600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16b
+8cc
+8b
+=2
+8a
+8b
+8e
+=3
+16cc
+16dd
+8ee
+8ee
+=4
+8cc
+8dd
+8ee}
+!!LO:LB:g=esac
+=5
+{16dd
+16cc
+8b
+8g#
+=6
+8a
+8cc
+8ee
+=7
+16dd
+16cc
+8b
+8g#
+=8
+8a
+8b
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=295 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 275} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 275}
+!!!ONB: Converted on 2024/12/26 with esac2hum

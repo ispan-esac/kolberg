@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK5068800020-instrumentalna_-_ydowski.krn
+!!!OTL: Instrumentalna - Żydowski
+!!!source: DWOK50
+!!!id: 50688
+!!!signature: 5068800020
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8dd
+16cc
+16cc
+8cc
+8cc
+=2
+8dd
+16cc
+16cc
+8cc
+8cc
+=3
+8ff
+8ee
+8ee
+8dd
+=4
+8dd
+16cc
+16cc
+8cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8dd
+16cc
+16cc
+8cc
+8cc
+=6
+8dd
+16cc
+16cc
+8cc
+8cc
+=7
+8ff
+8ee
+8ee
+8dd
+=8
+8dd
+16cc
+16cc
+8cc
+8cc}
+!!LO:LB:g=esac
+=9
+{8dd
+16cc
+16cc
+8cc
+8cc
+=10
+8dd
+16cc
+16cc
+8cc
+16dd
+16cc
+=11
+8ff
+8ee
+8ee
+8dd
+=12
+8dd
+8cc
+16cc
+16dd
+8ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=446 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 413} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 413}
+!!!page: 413
+!!!ONB: Converted on 2024/12/26 with esac2hum

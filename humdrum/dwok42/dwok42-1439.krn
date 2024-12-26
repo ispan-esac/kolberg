@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK42143900000-i_wyjechal_pan_z_rana.krn
+!!!OTL: I wyjechał pan z rana
+!!!source: DWOK42
+!!!id: 421439
+!!!signature: 42143900000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8a
+8ee
+8dd#
+8ee
+=2
+8b
+8cc
+4a
+=3
+8dd
+8dd
+8dd
+8ee
+=4
+4b
+4ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8b
+8g#
+=6
+8a
+8a
+8cc#
+8dd
+=7
+8cc#
+8b
+8a
+8b
+=8
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=56 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 47} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

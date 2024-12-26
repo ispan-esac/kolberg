@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK05-K0028b-na_bialym_koniu.krn
+!!!OTL: Na bialym koniu
+!!!source: DWOK05
+!!!id: K0028b
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8dd
+=2
+8b
+8dd
+8dd
+8dd
+=3
+4ee
+4a
+=4
+8a
+8cc
+8dd
+8b
+=5
+4g
+4a}
+!!LO:LB:g=esac
+=6
+{8g
+8b
+8b
+8b
+=7
+4b
+4b
+=8
+8a
+8cc
+8dd
+8b
+=9
+4g
+4a}
+!!LO:LB:g=esac
+=10
+{8g
+8b
+8b
+8b
+=11
+8b
+8dd
+8b
+8dd
+=12
+8a
+8cc
+8dd
+8b
+=13
+4g
+4a}
+==
+*-
+!!!ONB: Wariant 2
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 221} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 221}
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

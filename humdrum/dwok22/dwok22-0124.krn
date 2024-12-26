@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2212400000-a_wyjrzyjze_pacholiku_za_ten_nowy_dwor.krn
+!!!OTL: A wyjrzyjze pacholiku za ten nowy dwór
+!!!source: DWOK22
+!!!id: 22124
+!!!signature: 2212400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8.ee
+16dd
+=2
+16ff
+16ee
+8.dd
+16cc
+=3
+16b
+16dd
+8a
+8b
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16a
+16b
+8.cc
+16cc
+=6
+16b
+16dd
+8.cc
+16cc
+=7
+16b
+16dd
+8dd
+8ee
+=8
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 87} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 87}
+!!!page: 87
+!!!ONB: Converted on 2024/12/26 with esac2hum

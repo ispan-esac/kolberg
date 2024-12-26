@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK02-K0185-o_dla_boga_smierc_mi_grozi.krn
+!!!OTL: O dla Boga smierc mi grozi
+!!!source: DWOK02
+!!!id: K0185
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8cc
+8a
+=2
+16a
+16cc#
+8.dd
+16b
+=3
+16b
+16dd
+8cc
+8a
+=4
+16a
+16cc#
+8dd
+8dd}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8f#
+8a
+=6
+16g
+16e
+8.d
+16f#
+=7
+16g
+16g
+8f#
+8a
+=8
+16g
+16e
+8d
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=162 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 151} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 151}
+!!!page: 151
+!!!ONB: Converted on 2024/12/26 with esac2hum

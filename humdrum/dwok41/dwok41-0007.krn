@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK4100700000-a_siadaj_ze_a_siadajze_moje_kochanie.krn
+!!!OTL: A siadaj że, a siadajże, moje kochanie
+!!!source: DWOK41
+!!!id: 41007
+!!!signature: 4100700000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8g
+8a
+4b-
+4cc
+=2
+8dd
+8dd
+4cc
+8dd
+8cc
+=3
+8b-
+8b-
+4a
+4f#
+=4
+2.g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b-
+4cc
+=6
+8dd
+8dd
+4cc
+8dd
+8cc
+=7
+8b-
+8b-
+4a
+4f#
+=8
+2.g}
+!!LO:LB:g=esac
+=9
+{8a
+8g
+4f#
+4d
+=10
+8f#
+8a
+4cc
+4dd
+=11
+8a
+8g
+4f#
+4d}
+!!LO:LB:g=esac
+=12
+{8f#
+8a
+4cc
+4dd
+=13
+8b-
+8g
+4a
+4f#
+=14
+2.g}
+==
+*-
+!!!ONB: Gdy mają jechać do kościoła, śpiewają siadanego
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 25} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 25}
+!!!page: 25
+!!!ONB: Converted on 2024/12/26 with esac2hum

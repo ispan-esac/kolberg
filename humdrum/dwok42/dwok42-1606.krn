@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK42160600000-a_ja_mazur_rodowity.krn
+!!!OTL: A ja Mazur rodowity
+!!!source: DWOK42
+!!!id: 421606
+!!!signature: 42160600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8a
+=2
+16.cc
+32f
+8dd
+8cc
+=3
+16cc
+16cc
+8b-
+8g
+=4
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8cc
+8cc
+=6
+16.cc
+32f
+8dd
+8cc
+=7
+16cc
+16cc
+8e
+8e
+=8
+8g
+4f}
+!!LO:LB:g=esac
+=9
+{8.cc
+16ff
+16ff
+16ff
+=10
+16ff
+16a
+8dd
+8cc
+=11
+16cc
+16cc
+8b-
+8g
+=12
+8dd
+4cc}
+!!LO:LB:g=esac
+=13
+{16cc
+16ee
+8gg
+8gg
+=14
+8.aa
+16ff
+16cc
+16a
+=15
+16cc
+16cc
+8e
+8e
+=16
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 125} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 125}
+!!!page: 125
+!!!ONB: Converted on 2024/12/26 with esac2hum

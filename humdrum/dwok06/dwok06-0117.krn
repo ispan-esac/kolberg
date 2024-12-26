@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK06-K0117-zaswiecie_mi_na_kominie.krn
+!!!OTL: Zaswiecie mi na kominie
+!!!source: DWOK06
+!!!id: K0117
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc#
+=2
+16dd
+16dd
+8.cc#
+16g
+=3
+16b
+16b
+8.a
+16g
+=4
+16f#
+16g
+8a
+8b}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8cc#
+=6
+16dd
+16dd
+8.cc#
+16g
+=7
+16b
+16cc
+8a
+8g
+=8
+16f#
+16g
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 59} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 59}
+!!!page: 59
+!!!ONB: Converted on 2024/12/26 with esac2hum

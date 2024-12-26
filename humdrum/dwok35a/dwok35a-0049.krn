@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK35A-35A04900000-sidyt_jaszczur.krn
+!!!OTL: Sidyt jaszczur
+!!!source: DWOK35A
+!!!id: 35A049
+!!!signature: 35A04900000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8dd
+8ff
+8ee
+8cc
+=2
+8dd
+8ff
+8ee
+8cc
+=3
+8dd
+8ff
+8ee
+8cc
+=4
+4dd
+8ee
+8cc
+=5
+8dd
+8ff
+8ee
+8dd
+=6
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 42} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 42}
+!!!page: 42
+!!!ONB: Converted on 2024/12/26 with esac2hum

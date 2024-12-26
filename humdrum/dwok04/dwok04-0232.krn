@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK04-K0232-com_zarobila_tom_zarobila.krn
+!!!OTL: Com zarobila tom zarobila
+!!!source: DWOK04
+!!!id: K0232
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16b-
+16a
+16b-
+16dd
+16ff
+16dd
+=2
+16b-
+16a
+16b-
+16dd
+16ff
+16dd
+=3
+16b-
+16a
+8g
+8cc
+=4
+8a
+4f}
+!!LO:LB:g=esac
+=5
+{16b-
+16a
+16b-
+16dd
+16ff
+16dd
+=6
+16b-
+16a
+16b-
+16dd
+16ff
+16dd
+=7
+16b-
+16a
+8g
+8cc
+=8
+8a
+4f}
+!!LO:LB:g=esac
+=9
+{8dd
+8.b-
+16cc
+=10
+16a
+16g
+8f
+8ff
+=11
+8dd
+8.b-
+16cc
+=12
+16a
+16g
+8a
+8f}
+!!LO:LB:g=esac
+=13
+{8dd
+8.b-
+16cc
+=14
+16a
+16g
+8f
+8ff
+=15
+8dd
+8.b-
+16cc
+=16
+16a
+16g
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 118} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 118}
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2503200001-tam_na_carny_gorze.krn
+!!!OTL: Tam na carny górze
+!!!source: DWOK25
+!!!id: 25032
+!!!signature: 2503200001
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8d
+8d
+8f#
+8d
+8f#
+8g
+=2
+8a
+8a
+8a
+8b
+8cc#
+8a
+=3
+8cc#
+8ee
+4dd
+4b
+=4
+8.a
+16a
+2a}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+8f#
+8a
+8a
+16g
+16f#
+=6
+8e
+8g
+8e
+8g
+8g
+16f#
+16e
+=7
+8a
+8a
+4a
+4d
+=8
+8e
+8e
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 13} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 13}
+!!!page: 13
+!!!ONB: Converted on 2024/12/26 with esac2hum

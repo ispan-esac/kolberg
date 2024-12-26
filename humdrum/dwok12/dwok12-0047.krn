@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1204700000-kedy_moje_siwe_konie.krn
+!!!OTL: Kędy moje siwe konie
+!!!source: DWOK12
+!!!id: 12047
+!!!signature: 1204700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4dd
+8cc#
+8ee
+=2
+8dd
+8dd
+4a
+4d
+=3
+4g
+4dd
+8cc#
+8ee
+=4
+4dd
+4a}
+4r
+!!LO:LB:g=esac
+=5
+{4cc
+4b
+8b
+8a
+=6
+8g
+8g
+4a
+4d
+=7
+4cc
+4cc
+8b
+8a
+=8
+4b
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 22} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 22}
+!!!page: 22
+!!!ONB: Converted on 2024/12/26 with esac2hum

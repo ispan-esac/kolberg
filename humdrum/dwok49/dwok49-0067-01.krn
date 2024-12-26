@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK4906700001-konec_switojka_stojit_switlojka.krn
+!!!OTL: Koneć świtojka stojit switłojka
+!!!source: DWOK49
+!!!id: 49067
+!!!signature: 4906700001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8g
+4b
+4cc
+=2
+2.dd
+=3
+4ee
+4dd
+4ee
+=4
+4dd
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{4g
+4g
+8a
+8g
+=6
+2.g}
+!!LO:LB:g=esac
+=7
+4r
+{4dd
+4ee
+=8
+8dd
+8dd
+4cc
+8a
+8g
+=9
+8g
+8b
+4b
+4g
+=10
+2a
+4g}
+!!LO:LB:g=esac
+=11
+{4b
+4b
+4g
+=12
+2a
+4d
+=13
+8d
+8f#
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=237 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 159} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 159}
+!!!page: 159
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK02-K0308-oj_jade_ja_jade.krn
+!!!OTL: Oj jade ja jade
+!!!source: DWOK02
+!!!id: K0308
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8ee
+8ee
+=2
+8dd
+4dd
+=3
+8b
+8.cc
+16a
+=4
+16cc
+16b
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8.cc
+16ee
+=6
+16gg
+16ee
+8ff
+8dd
+=7
+16b
+16cc
+8.ee
+16cc
+=8
+16a
+16b
+4g}
+!!LO:LB:g=esac
+=9
+{16ee
+16ee
+8gg
+8gg
+=10
+16ff
+16dd
+8dd
+16ee
+16cc
+=11
+16ee
+16ee
+8gg
+8gg
+=12
+16ff
+[16dd}
+4dd]
+!!LO:LB:g=esac
+=
+{24g
+24b
+24cc
+8ee
+8gg
+=13
+16ff
+16dd
+8dd
+16ee
+16cc
+=14
+16ee
+16ee
+8.gg
+16gg
+=15
+16ff
+[16dd}
+4dd]
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 227-228} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 227-228}
+!!!page: 227-228
+!!!ONB: Converted on 2024/12/26 with esac2hum

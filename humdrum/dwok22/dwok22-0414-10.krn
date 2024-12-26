@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2241400010-zmienila_sie_w_stawie_woda.krn
+!!!OTL: Zmieniła się w stawie woda
+!!!source: DWOK22
+!!!id: 22414
+!!!signature: 2241400010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.b
+16cc
+32dd
+32cc
+16b
+=2
+16dd
+16dd
+8ee
+8a
+=3
+8.b
+16cc
+16dd
+16cc
+=4
+16b
+16b
+8a
+16f#
+16d}
+!!LO:LB:g=esac
+=5
+{8.g
+16cc
+16dd
+16b
+=6
+16dd
+16dd
+8ee
+8d
+=7
+8.g
+16cc
+16dd
+16cc
+=8
+16b
+16b
+8a
+8f#}
+==
+*-
+!!!ONB: Partia wokalna-Kujawiak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 207} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 207}
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

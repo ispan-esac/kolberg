@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK4924900002-u_naszoho_pana.krn
+!!!OTL: U naszoho pana
+!!!source: DWOK49
+!!!id: 49249
+!!!signature: 4924900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4b
+4dd
+8cc
+16a
+16g
+=2
+2g
+4g}
+!!LO:LB:g=esac
+=3
+{8dd
+4dd
+8ee
+4ee
+=4
+2a
+4a}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8b
+8cc
+8dd
+8ee
+=6
+8dd
+8cc
+8b
+8cc
+8dd
+8g}
+!!LO:LB:g=esac
+=7
+{4b
+4dd
+8cc
+8a
+=8
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=376 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 294} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 294}
+!!!page: 294
+!!!ONB: Converted on 2024/12/26 with esac2hum

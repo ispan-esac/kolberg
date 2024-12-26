@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK35A-35A10900002-horu_selom_iskaneju.krn
+!!!OTL: Horu, sełom Iskaneju
+!!!source: DWOK35A
+!!!id: 35A109
+!!!signature: 35A10900002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+16dd
+16ee
+8ff
+16ee
+16cc
+=2
+8dd
+8ee
+8ff
+16ee
+16cc
+=3
+8dd
+16ee
+16cc
+8b
+8cc}
+!!LO:LB:g=esac
+=
+{8ff
+16ff
+16ee
+24dd
+24ee
+24b
+=4
+8cc
+8ee
+8ff
+16ff
+16ee
+=5
+8dd
+16ee
+16cc
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 70} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

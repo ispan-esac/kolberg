@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK5062700000-najswietsza_panno_gidelska.krn
+!!!OTL: Najświętsza Panno Gidelska
+!!!source: DWOK50
+!!!id: 50627
+!!!signature: 5062700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4b
+4b
+4cc#
+4dd
+=2
+4a
+4cc
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=3
+{4dd
+4dd
+4ff#
+4gg
+=4
+4ee
+4gg
+8ff#
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4ff#
+4gg
+=6
+4ee
+4ee
+4cc
+4ee}
+!!LO:LB:g=esac
+=7
+{4dd
+4dd
+4b
+4dd
+=8
+4a
+4cc
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{4dd
+4dd
+4ff#
+4gg
+=10
+4ee
+4ee
+4cc
+4ee}
+!!LO:LB:g=esac
+=11
+{4dd
+4dd
+4b
+4dd
+=12
+4a
+4cc
+8b
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=403 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 370} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 370}
+!!!page: 370
+!!!ONB: Converted on 2024/12/26 with esac2hum

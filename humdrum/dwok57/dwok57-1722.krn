@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK57172200000-w_stanislawi_na_ratusze.krn
+!!!OTL: W Stanisławi na ratusze
+!!!source: DWOK57
+!!!id: 571722
+!!!signature: 57172200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8dd
+8cc
+8b
+8a
+=2
+8dd
+8dd
+8dd
+8dd
+=3
+8dd
+8cc
+8b
+8a
+=4
+16dd
+16cc
+16b
+16cc
+4a}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8b
+8a
+=6
+8dd
+8dd
+8dd
+8dd
+=7
+8dd
+8cc
+8b
+8a
+=8
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 813
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK7509500000-a_u_tego_gospodarza.krn
+!!!OTL: A u tego gospodarza
+!!!source: DWOK75
+!!!id: 75095
+!!!signature: 7509500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4cc
+4dd
+=2
+8.ee
+16ee
+4ff
+4ee
+=3
+8.dd
+16dd
+4ee
+4dd
+=4
+8.cc
+16cc
+4b
+4g}
+!!LO:LB:g=esac
+=
+{12g
+12a
+12b
+4cc
+4b
+=5
+8a
+8a
+4b
+4dd
+=
+12g
+12a
+12b
+4cc
+4b
+=6
+8a
+8a
+4b
+4g}
+==
+*-
+!!!ONB: Wariant t. 1: 123_4__5__; wariant t. 7: 5_5_4__3__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 65} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 65}
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

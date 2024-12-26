@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2514400001-daj_mi_boze_zaprzestac_kogo_ja_kochalam.krn
+!!!OTL: Daj mi Boże zaprzestać kogo ja kochałam
+!!!source: DWOK25
+!!!id: 25144
+!!!signature: 2514400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+4dd
+=2
+16dd
+16ee
+8cc
+8b
+=3
+16dd
+16dd
+8b
+8a
+=4
+8g
+4d}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8f#
+8d
+=6
+16g
+16g
+8e
+8d
+=7
+16d
+16cc
+8b
+8a
+=8
+8g
+4d}
+!!LO:LB:g=esac
+=9
+{16g
+16g
+8f#
+8a
+=10
+16g
+16g
+8e
+8d
+=11
+16d
+16cc
+8b
+8a
+=12
+8g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 60} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

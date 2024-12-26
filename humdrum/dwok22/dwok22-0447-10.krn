@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2244700010-a_bodaj_zmarniala.krn
+!!!OTL: A bodaj zmarniała
+!!!source: DWOK22
+!!!id: 22447
+!!!signature: 2244700010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4b
+8g
+=2
+16a
+16cc
+8ee
+8dd
+=3
+4b
+8g
+=4
+16a
+16f#
+8d
+8g}
+!!LO:LB:g=esac
+=5
+{4b
+8g
+=6
+16a
+32b
+32cc
+8ee
+16dd
+32cc
+32a
+=7
+4b
+8g
+=
+16a
+32g
+32f#
+16d
+32e
+32f#
+24g
+24b
+24dd}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 218} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 218}
+!!!page: 218
+!!!ONB: Converted on 2024/12/26 with esac2hum

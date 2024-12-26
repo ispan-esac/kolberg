@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK1617100000-dawaj_kuchareczko_dawaj_kochaneczko.krn
+!!!OTL: Dawaj kuchareczko, dawaj kochaneczko
+!!!source: DWOK16
+!!!id: 16171
+!!!signature: 1617100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+4cc
+=2
+16b
+16a
+8b
+8g
+=3
+8b
+4dd
+=4
+16dd
+16ee
+8dd
+16cc
+16b}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+=6
+16b
+16a
+8b
+8g
+=7
+8f#
+4a
+=8
+16g
+16f#
+8e
+8d}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8cc
+=10
+16b
+16a
+8b
+8g
+=11
+8b
+8dd
+8dd
+=12
+16dd
+16ee
+8dd
+16cc
+16b}
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+8cc
+=14
+16b
+16a
+8b
+8g
+=15
+8f#
+8a
+8a
+=16
+16g
+16f#
+8e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 189} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 189}
+!!!ONB: Converted on 2024/12/26 with esac2hum

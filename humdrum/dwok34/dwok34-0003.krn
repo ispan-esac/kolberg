@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3400300000-poszla_mama_wodu_braty.krn
+!!!OTL: Poszła mama wodu braty
+!!!source: DWOK34
+!!!id: 34003
+!!!signature: 3400300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4.c
+8e
+8f
+8c
+=2
+8d
+8d
+4c
+4c
+=3
+4.c
+8f
+8g
+8b-
+=4
+8a
+8g
+4f
+4a}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4.f
+8c
+=6
+8d
+8d
+4c
+4g
+=7
+8g
+8a
+4f
+4c
+=8
+8d
+8d
+4c
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=21 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 4} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 4}
+!!!page: 4
+!!!ONB: Converted on 2024/12/26 with esac2hum

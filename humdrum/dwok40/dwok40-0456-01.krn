@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4045600001-polanowski_z_party.krn
+!!!OTL: Polanowski z Party
+!!!source: DWOK40
+!!!id: 40456
+!!!signature: 4045600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8ee
+8ee
+4a
+4cc#
+=2
+4dd
+2g}
+!!LO:LB:g=esac
+=3
+{4b
+4a
+4ee
+=4
+4dd
+2g}
+!!LO:LB:g=esac
+=5
+{4b
+4a
+4cc#
+=6
+4dd
+4g
+4b}
+!!LO:LB:g=esac
+=7
+{4a
+4e
+4a
+=8
+4d
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=506 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 439} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 439}
+!!!page: 439
+!!!ONB: Converted on 2024/12/26 with esac2hum

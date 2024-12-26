@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK1209200001-chwala_tobie_boze_w_tym_latosim_roku.krn
+!!!OTL: Chwała tobie Boże w tym latosim roku
+!!!source: DWOK12
+!!!id: 12092
+!!!signature: 1209200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+8dd
+4gg
+=3
+16ee
+16ee
+8cc
+8a
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8cc
+=6
+8dd
+4gg
+=7
+16ee
+16ee
+8cc
+8a
+=8
+8cc
+4b}
+!!LO:LB:g=esac
+=9
+{16dd
+16dd
+8dd
+8a
+=10
+16b
+16cc
+8dd
+8b
+=11
+16a
+16a
+8a
+8g
+=12
+16f#
+16e
+8f#
+8d}
+!!LO:LB:g=esac
+=13
+{16g
+16a
+8b
+8a
+=14
+4dd
+8cc
+=15
+16b
+16b
+8cc
+8a
+=16
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 43} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 43}
+!!!page: 43
+!!!ONB: Converted on 2024/12/26 with esac2hum

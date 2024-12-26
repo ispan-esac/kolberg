@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK57136700001-oj_popid_horoju_popid_kaminoju.krn
+!!!OTL: Oj, popid horoju, popid kaminoju
+!!!source: DWOK57
+!!!id: 571367
+!!!signature: 57136700001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8e
+8e
+8e
+8f#
+=2
+8b
+4.ee
+=3
+8b
+8ee
+8b
+8a
+=4
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8g
+8e
+=6
+4.b
+8a
+=7
+8g
+8a
+8g
+8a
+=8
+4.e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 436
+!!!ONB: Converted on 2024/12/26 with esac2hum

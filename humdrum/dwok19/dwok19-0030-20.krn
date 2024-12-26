@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1903000020-hola_moja_hola.krn
+!!!OTL: Hola moja hola
+!!!source: DWOK19
+!!!id: 19030
+!!!signature: 1903000020
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8e
+4g
+16a
+16b
+=2
+32b
+16.cc
+32b
+16.cc
+4g
+=3
+32b
+16.cc
+32b
+16.cc
+8.ee
+16cc
+=4
+16g
+16e
+16g
+16cc
+4c}
+!!LO:LB:g=esac
+=5
+{8e
+4g
+16a
+16b
+=6
+32b
+16.cc
+32b
+16.cc
+8g
+8e
+=7
+32b
+16.cc
+32b
+16.cc
+8.ee
+16cc
+=8
+8b
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=27 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 13} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 13}
+!!!page: 13
+!!!ONB: Converted on 2024/12/26 with esac2hum

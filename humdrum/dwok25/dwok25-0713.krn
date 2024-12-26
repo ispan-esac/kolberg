@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK2571300000-rutkoz_moja_rutko.krn
+!!!OTL: Rutkoż moja rutko
+!!!source: DWOK25
+!!!id: 25713
+!!!signature: 2571300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+4b
+=3
+8dd
+8cc
+8a
+8f#
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+=6
+4dd
+4ee
+=7
+8ee
+8cc
+8a
+8f#
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 251} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

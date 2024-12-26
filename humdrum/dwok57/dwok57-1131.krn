@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK57113100000-oj_chodyla_po_sadoczku.krn
+!!!OTL: Oj, chódyła pó sadoczku
+!!!source: DWOK57
+!!!id: 571131
+!!!signature: 57113100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8ee
+8dd
+8ff
+=2
+8ee
+8ee
+8ff
+8dd
+=3
+8ee
+8gg
+8ff
+8dd
+=4
+8cc
+8cc
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+8ff
+=6
+8ee
+8ee
+8ff
+8dd
+=7
+8ee
+8gg
+8ff
+8dd
+=8
+8cc
+8cc
+8b
+8g}
+==
+*-
+!!!ONB: Wariant t. 3-4: +3+5+4+4  +3+175
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 266
+!!!ONB: Converted on 2024/12/26 with esac2hum

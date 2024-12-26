@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK02-K0149-a_u_mojej_pani_matki.krn
+!!!OTL: A u mojej pani matki
+!!!source: DWOK02
+!!!id: K0149
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+8dd
+8ee
+8dd
+=2
+8cc
+8ee
+8dd
+8cc
+=3
+8b
+4.dd
+=4
+4.a
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+4b
+8f
+=6
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 149} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 149}
+!!!page: 149
+!!!ONB: Converted on 2024/12/26 with esac2hum

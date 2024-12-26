@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5037100002-oj_mala_wdowa_syna_jidnoho.krn
+!!!OTL: Oj, mała wdowa syna jidnoho
+!!!source: DWOK50
+!!!id: 50371
+!!!signature: 5037100002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8cc
+8dd
+=
+24cc
+24b
+24a
+4cc}
+!!LO:LB:g=esac
+=2
+{8cc
+8cc
+8dd
+=
+8a
+24cc
+24b
+24a
+8a}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8a
+=4
+8cc
+4ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8a
+=
+24cc
+24b
+24a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=223 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 198} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 198}
+!!!page: 198
+!!!ONB: Converted on 2024/12/26 with esac2hum

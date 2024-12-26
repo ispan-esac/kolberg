@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2636800000-corus_moja_dziecie_moje.krn
+!!!OTL: Córuś moja dziecie moje
+!!!source: DWOK26
+!!!id: 26368
+!!!signature: 2636800000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8dd
+=2
+8ee
+8ee
+8b
+8a
+=3
+8b
+8dd
+8dd
+8dd
+=4
+4ee
+4b}
+!!LO:LB:g=esac
+=5
+{4b
+4a
+=6
+8g
+8g
+8e
+8d#
+=7
+8e
+8g
+8f#
+8a
+=8
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 265
+!!!ONB: Converted on 2024/12/26 with esac2hum

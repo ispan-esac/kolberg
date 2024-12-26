@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK5053100000-a_tys_znal_jakus_bral_ze_ne_wmila_zaty.krn
+!!!OTL: A tyś znał, jakus brał, że ne wmiła żaty
+!!!source: DWOK50
+!!!id: 50531
+!!!signature: 5053100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8cc
+8cc
+4cc
+=2
+8b
+8b
+4b
+=3
+8a
+8a
+8a
+8a
+=4
+4g
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+8cc
+=6
+8b
+8b
+8b
+8b
+=7
+8a
+8a
+8f
+8f
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=341 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 312} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 312}
+!!!page: 312
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK25084b0000-wsadzila_ja_jablonecke.krn
+!!!OTL: Wsadziła ja jabłonecke
+!!!source: DWOK25
+!!!id: 25084b
+!!!signature: 25084b0000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+4dd
+=2
+8cc#
+4dd
+=3
+8a
+4cc
+=4
+8a
+4g
+=5
+8f#
+4g
+=6
+8b
+4dd
+=7
+4.a
+=8
+8f#
+8d}
+8r
+!!LO:LB:g=esac
+=9
+{8d
+4e
+=10
+8f#
+4g
+=11
+8a
+4cc
+=12
+8a
+4g
+=13
+8f#
+4g
+=14
+8b
+4g
+=15
+4.a
+=16
+8f#
+8d}
+8r
+==
+*-
+!!!ONB: W drugim takcie zapisu powinna być ósemka i ćwierćnuta, a są dwie ćwierćnuty. Zapisano poprawnie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 33} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 33}
+!!!page: 33
+!!!ONB: Converted on 2024/12/26 with esac2hum

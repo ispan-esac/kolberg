@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK3915200001-z_tamte_strone_jeziora.krn
+!!!OTL: Z tamte strone jęziora
+!!!source: DWOK39
+!!!id: 39152
+!!!signature: 3915200001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8a
+8g
+=2
+4cc
+4dd
+=3
+2cc}
+!!LO:LB:g=esac
+=4
+{8dd
+8ee
+8ff
+8aa
+=
+4ee
+12a
+12b
+12cc
+=5
+2a}
+!!LO:LB:g=esac
+=6
+{4ee
+8cc
+8cc
+=7
+4dd
+4g
+=8
+8cc
+8dd
+8ee
+8cc
+=9
+4a
+4g}
+!!LO:LB:g=esac
+=10
+{8dd
+8dd
+8dd
+8dd
+=
+4ee
+12a
+12b
+12cc
+=11
+2a}
+!!LO:LB:g=esac
+=12
+{4ee
+8cc
+8cc
+=13
+4dd
+4g
+=14
+8cc
+8dd
+8ee
+8cc
+=15
+4a
+4g}
+!!LO:LB:g=esac
+=16
+{8dd
+8dd
+8dd
+8dd
+=
+4ee
+12a
+12b
+12cc
+=17
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 191} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 191}
+!!!page: 191
+!!!ONB: Converted on 2024/12/26 with esac2hum

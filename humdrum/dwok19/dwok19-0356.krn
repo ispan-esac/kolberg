@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1935600000-oj_kolib_ze_sie_kolib.krn
+!!!OTL: Oj kolib ze się kolib
+!!!source: DWOK19
+!!!id: 19356
+!!!signature: 1935600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8ee
+8ff
+=2
+16ff
+16dd
+8ee
+8g
+=3
+8b
+8cc
+8dd
+=4
+16dd
+16cc
+8ee
+8dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+16ff
+16gg
+=6
+16ff
+16dd
+8ee
+8g
+=7
+8b
+16cc
+16b
+16dd
+16ff
+=8
+16dd
+16cc
+8ee
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 109} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 109}
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

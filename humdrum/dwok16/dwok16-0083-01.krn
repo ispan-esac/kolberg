@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK1608300001-w_niedziele_rano_szolkiem_zaslano.krn
+!!!OTL: W niedzielę rano szołkiem zasłano
+!!!source: DWOK16
+!!!id: 16083
+!!!signature: 1608300001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8b
+8b
+8ee
+=2
+8dd#
+4ee
+=3
+8b
+8b
+8ee
+=4
+8ee
+16cc
+8.a}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8ee
+=6
+8cc
+4a
+=7
+4.b
+=8
+4b}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8b
+8b
+=10
+8dd#
+4ee
+=11
+8ee
+8b
+8ee
+=12
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=13
+{8ee
+8b
+8ee
+=14
+16cc
+16a
+4b
+=15
+4.a
+=16
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 154} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 154}
+!!!ONB: Converted on 2024/12/26 with esac2hum

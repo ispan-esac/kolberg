@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK02-K0304-oj_dana_moja_dana.krn
+!!!OTL: Oj dana moja dana
+!!!source: DWOK02
+!!!id: K0304
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8g
+8b
+=2
+8dd
+16cc#
+16a
+8b
+=3
+16a
+16cc#
+8ee
+8ee
+=4
+8dd
+16a
+16f#
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8g
+8dd
+=6
+8dd
+16cc#
+16a
+16b
+16g
+=7
+16f#
+16d
+8c
+8c
+=8
+8d
+16d
+16f#
+8g}
+!!LO:LB:g=esac
+=
+{24d
+24e
+24f#
+8g
+8b
+=9
+8dd
+16cc#
+16a
+8b
+=
+24a
+24b
+24cc#
+8ee
+8ee
+=10
+8dd
+16a
+16f#
+8g}
+!!LO:LB:g=esac
+=11
+{16d
+16f#
+8g
+8dd
+=12
+8dd
+16cc#
+16a
+16b
+16g
+=13
+16f#
+16d
+8c
+8c
+=14
+8d
+16d
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=237 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 226} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 226}
+!!!page: 226
+!!!ONB: Converted on 2024/12/26 with esac2hum

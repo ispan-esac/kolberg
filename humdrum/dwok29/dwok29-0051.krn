@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK2905100000-oj_buv_laszek_morkowianyj.krn
+!!!OTL: Oj buv laszek morkowianyj
+!!!source: DWOK29
+!!!id: 29051
+!!!signature: 2905100000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8ee
+8b
+8b
+8b
+=2
+8a
+8a
+8b
+8a
+=3
+8g
+8f#
+8g
+8a
+=4
+4b
+4b}
+!!LO:LB:g=esac
+=5
+{4ee
+8b
+8b
+=6
+8a
+8a
+8b
+8a
+=7
+8g
+8f#
+8g
+8a
+=8
+4e
+4e}
+!!LO:LB:g=esac
+=9
+{4f#
+4b
+=10
+8g
+16g
+16f#
+8e
+8e
+=11
+4f#
+8b
+16b
+16a
+=12
+8g
+16g
+16f#
+4e}
+!!LO:LB:g=esac
+=13
+{4f#
+4b
+=14
+8g
+16g
+16f#
+8e
+8e
+=15
+4f#
+8b
+16b
+16a
+=16
+8g
+16g
+16f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 145} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 145}
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

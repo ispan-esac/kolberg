@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3636400001-nahniwaw_sia_mij_mylenki.krn
+!!!OTL: Nahniwaw sia mij myłeńki
+!!!source: DWOK36
+!!!id: 36364
+!!!signature: 3636400001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4.ee
+8dd
+=2
+8ee
+8cc
+4b
+8cc
+16a
+16g#
+=3
+8a
+8cc
+4.ee
+8dd
+=4
+4.ee
+16cc
+16dd
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+8b
+8ee
+8dd
+=6
+8cc
+8a
+4g#
+8e
+8a
+=7
+8cc
+8ee
+8dd
+8b
+8cc
+8b
+=8
+8a
+8g#
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

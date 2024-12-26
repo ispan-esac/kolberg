@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1804100000-tocnij_ze_sie_tocnij.krn
+!!!OTL: Tocnij ze się tocnij
+!!!source: DWOK18
+!!!id: 18041
+!!!signature: 1804100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16dd
+8cc#
+8ee
+=2
+8dd
+4a
+=3
+8dd
+8cc#
+8a
+=
+8b-
+24a
+24g
+24f#
+8f#}
+!!LO:LB:g=esac
+=4
+{16dd
+16dd
+8cc#
+8ee
+=5
+8dd
+4a
+=6
+16dd
+16dd
+8cc#
+16a
+16a
+=
+8b-
+24a
+24g
+24f#
+8f#}
+==
+*-
+!!!ONB: Po obiedzie tocząc wianek po stole
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 76} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 76}
+!!!page: 76
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK3612600002-a_u_naszoho_sokola.krn
+!!!OTL: A u naszoho sokoła
+!!!source: DWOK36
+!!!id: 36126
+!!!signature: 3612600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8b
+8b
+=2
+8dd
+8ee
+8dd
+8cc
+=3
+4.b
+8g}
+!!LO:LB:g=esac
+=4
+{8a
+8b
+8dd
+8cc
+=5
+4a
+4f#
+=6
+4.g
+8b}
+!!LO:LB:g=esac
+=7
+{8a
+8b
+8a
+8g
+=8
+8a
+8a
+16a
+16b
+8cc
+=9
+4.b
+8g}
+!!LO:LB:g=esac
+=10
+{8b
+8dd
+8cc
+8b
+=11
+8a
+8g
+4f#
+=12
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1641200000-powiedz_mi_powiedz_lewandowy_kwiecie.krn
+!!!OTL: Powiedz mi powiedz lewandowy kwiecie
+!!!source: DWOK16
+!!!id: 16412
+!!!signature: 1641200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8b
+8a
+4g
+4d
+=2
+8g
+8b
+8dd
+8cc
+4b
+4dd}
+!!LO:LB:g=esac
+=3
+{4dd
+8b
+8a
+4g
+4d
+=4
+8f#
+8f#
+8a
+8a
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{4dd
+8b
+8a
+4g
+8d
+8d
+=6
+8f#
+8f#
+8a
+8a
+4g
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=277 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 257} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 257}
+!!!ONB: Converted on 2024/12/26 with esac2hum

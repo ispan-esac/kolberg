@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3002900000-chodyt_turczyn_po_rynoczku.krn
+!!!OTL: Chodyt Turczyn po rynoczku
+!!!source: DWOK30
+!!!id: 30029
+!!!signature: 3002900000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8ee
+8ee
+8ee
+=2
+8ee
+8ee
+8dd
+16dd
+16cc
+=3
+8gg
+8ee
+8gg
+8ff
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc
+16cc
+16b
+=6
+8dd
+8cc
+8b
+8a
+=7
+8dd
+8a
+8cc
+8a
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 27-28} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, pp. 27-28}
+!!!page: 27-28
+!!!ONB: Converted on 2024/12/26 with esac2hum

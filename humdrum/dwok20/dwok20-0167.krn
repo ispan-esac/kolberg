@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2016700000-instrumentalna-wesola_przygrywka.krn
+!!!OTL: Instrumentalna-Wesoła przygrywka
+!!!source: DWOK20
+!!!id: 20167
+!!!signature: 2016700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8gg
+8ee
+=2
+8b
+8dd
+8g
+=3
+16b
+16dd
+8ee
+16cc
+16b
+=4
+8a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8dd
+16cc
+16b
+=6
+16a
+16cc
+8ee
+8g
+=7
+16b
+16dd
+8ee
+16cc
+16b
+=8
+8a
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 174} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,111 @@
+!!!!SEGMENT: DWOK5267300000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK52
+!!!id: 52673
+!!!signature: 5267300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8cc
+8g
+8cc
+=2
+8a
+8cc
+8b-
+8dd
+=3
+8b-
+8dd
+8g
+8g
+=4
+8c
+8c
+4f}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8cc
+8g
+8cc
+=6
+16f
+16a
+8cc
+8b-
+8dd
+=7
+16f
+16a
+8cc
+16b-
+16a
+16g
+16f
+=8
+8g
+16c
+16e
+4f}
+!!LO:LB:g=esac
+=9
+{8.ee
+16ff
+16gg
+16aa
+16gg
+16ff
+=10
+8gg
+16ee
+16ff
+16ee
+16ff
+16dd
+16cc
+=11
+16b-
+16g
+16a
+16b-
+4cc}
+!!LO:LB:g=esac
+=12
+{8ee
+8ee
+4dd
+=13
+8cc
+8ee
+8dd
+8g
+=14
+8cc
+8ee
+8dd
+8ff
+=15
+8ee
+8gg
+16ff
+16ee
+16dd
+16cc
+=16
+8b-
+8dd
+4cc}
+==
+*-
+!!!ONB: Wariant t. 3 3_5_4321
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=491 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 426-427} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, pp. 426-427}
+!!!page: 426-427
+!!!ONB: Converted on 2024/12/26 with esac2hum

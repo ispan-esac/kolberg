@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK42176000000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK42
+!!!id: 421760
+!!!signature: 42176000000
+**kern
+!!ERROR: invalid/exotic key signature required.
+*clefG2
+*d-:
+*M3/4
+=1
+{8a--
+8cc
+4ee--
+8gg--
+8ee--
+=2
+8aa--
+8gg-
+8ff-
+8ee--
+4dd--
+=3
+8ff-
+8ee--
+4dd--
+4ff-
+=4
+8ee--
+8dd--
+8cc
+8b--
+4a--}
+!!LO:LB:g=esac
+=5
+{8a--
+8cc
+4ee--
+8gg--
+8ee--
+=6
+8aa--
+8gg-
+8ff-
+8ee--
+4dd--
+=7
+8ff-
+8ee--
+4dd--
+4ff-
+=8
+8ee--
+8dd--
+8cc
+8b--
+4a--}
+!!LO:LB:g=esac
+=9
+{8cc-
+8b--
+4a--
+4ee--
+=10
+8cc-
+8b--
+4a--
+4aa--
+=11
+4gg-
+8gg-
+8ee--
+8ff
+8gg-
+=12
+8aa--
+8ee--
+4cc-
+4a--}
+!!LO:LB:g=esac
+=13
+{8cc-
+8b--
+4a--
+4ee--
+=14
+8cc-
+8b--
+4a--
+4aa--
+=15
+4gg-
+8gg-
+8ee--
+8ff
+8gg-
+=16
+8aa--
+8ee--
+4cc-
+4a--}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 173} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

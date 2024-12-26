@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4407800000-wesele_a_wesele.krn
+!!!OTL: Wesele, a wesele
+!!!source: DWOK44
+!!!id: 44078
+!!!signature: 4407800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+4r
+{8gg
+8gg
+4ff
+=2
+8ee
+8dd
+4cc
+4b
+=3
+4cc
+2a
+=4
+8b
+8b
+4f
+4g}
+!!LO:LB:g=esac
+=5
+{4g
+2a
+=6
+8dd
+8ee
+4dd
+4cc#
+=7
+4a
+2g
+=8
+8b
+8b
+4f
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 119} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 119}
+!!!page: 119
+!!!ONB: Converted on 2024/12/26 with esac2hum

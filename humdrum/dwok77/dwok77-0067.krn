@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7706700000-oj_na_boru_sa_syski.krn
+!!!OTL: Oj na boru są syski
+!!!source: DWOK77
+!!!id: 77067
+!!!signature: 7706700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8cc#
+8dd
+8dd
+=2
+16cc#
+16cc#
+8ee
+8dd
+=3
+8cc#
+8dd
+8dd
+=4
+16cc#
+16b
+8g#
+8a}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8a
+=6
+16b
+16b
+8g#
+8a
+=7
+8b
+8b
+8a
+=8
+16cc#
+16b
+8g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 59
+!!!ONB: Converted on 2024/12/26 with esac2hum

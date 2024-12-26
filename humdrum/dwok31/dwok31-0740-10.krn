@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3174000010-instrumentalna_-_czabaraszka.krn
+!!!OTL: Instrumentalna - Czabaraszka
+!!!source: DWOK31
+!!!id: 31740
+!!!signature: 3174000010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+8r
+{16gg
+16aa
+16bb-
+16aa
+16gg
+[16ff
+=2
+4ff]
+4ff
+=3
+4ee
+4ee
+=4
+4ff
+4ff}
+!!LO:LB:g=esac
+=5
+8r
+{16gg
+16aa
+16bb-
+16aa
+16gg
+[16ff
+=6
+4ff]
+4ff
+=7
+8ee
+4.ee
+=8
+2cc}
+==
+*-
+!!!ONB: Czabaraszka-fragment w F-dur
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 76} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 76}
+!!!page: 76
+!!!ONB: Converted on 2024/12/26 with esac2hum

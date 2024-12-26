@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK7513100000-chlopek_ci_ja.krn
+!!!OTL: Chłopek ci ja
+!!!source: DWOK75
+!!!id: 75131
+!!!signature: 7513100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8g
+4g
+4g
+=2
+4f#
+2a
+=3
+8g
+8b
+4b
+4dd
+=4
+4dd
+2cc}
+!!LO:LB:g=esac
+=5
+{4.b
+8f#
+8g
+8e
+=6
+8d
+8c
+4e
+4d
+=7
+8cc
+8cc
+4cc
+4f#
+=8
+4a
+2g}
+==
+*-
+!!!ONB: Wariant t. 3: 333_3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 93} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 93}
+!!!page: 93
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK7619300000-stoi_gruszka_w_polu.krn
+!!!OTL: Stoi gruszka w polu
+!!!source: DWOK76
+!!!id: 76193
+!!!signature: 7619300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8.ff
+16ff
+4ff
+=2
+8ff
+4ee
+8ee
+=3
+8.dd
+16ee
+8ff
+8dd
+=4
+8dd
+4.cc}
+!!LO:LB:g=esac
+=5
+{8.dd
+16dd
+4dd
+=6
+8.cc
+16cc
+4cc
+=7
+8g
+8a
+8b-
+8b-
+=8
+8dd
+4.cc}
+!!LO:LB:g=esac
+=9
+{8.dd
+16dd
+4dd
+=10
+8.cc
+16cc
+4cc
+=11
+8g
+8a
+8.b-
+16e
+=12
+8g
+4.f}
+!!LO:LB:g=esac
+=13
+{8g
+8a
+8.b-
+16e
+=14
+8g
+4.f
+=15
+16g
+16a
+16b-
+16cc
+8dd
+8e
+=16
+8g
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 101} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 101}
+!!!page: 101
+!!!ONB: Converted on 2024/12/26 with esac2hum

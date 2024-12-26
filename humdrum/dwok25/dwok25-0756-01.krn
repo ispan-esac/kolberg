@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2575600001-hoc_kujawianie_hoc_mazury.krn
+!!!OTL: Hoc Kujawianie, hoc Mazury
+!!!source: DWOK25
+!!!id: 25756
+!!!signature: 2575600001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+16cc
+16cc
+8cc
+=2
+16dd
+16cc
+8a
+8g
+=3
+8cc
+16cc
+16cc
+8cc
+=4
+16g
+16f
+8d
+8c}
+!!LO:LB:g=esac
+=5
+{8c
+8c
+8e
+=6
+4g
+8f
+=7
+16a
+16a
+4g
+=8
+8cc
+8cc
+8a
+=9
+4g
+8f
+=10
+16d
+16d
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=293 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 268} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 268}
+!!!page: 268
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1935500000-oj_chodzilsa_po_boru.krn
+!!!OTL: Oj chodziłśa po boru
+!!!source: DWOK19
+!!!id: 19355
+!!!signature: 1935500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+8ee
+8gg
+=2
+16ee
+16ee
+8dd
+8ff
+=3
+4dd
+8g
+=4
+16b
+16cc
+8ee
+8gg}
+!!LO:LB:g=esac
+=5
+{16gg
+16ff
+8ee
+8gg
+=6
+16ee
+16ee
+8dd
+8ff
+=7
+4dd
+8g
+=8
+16b
+16b
+8dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 108} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 108}
+!!!page: 108
+!!!ONB: Converted on 2024/12/26 with esac2hum

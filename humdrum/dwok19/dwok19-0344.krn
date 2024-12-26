@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK1934400000-jaka_tez_to_jaka_bida.krn
+!!!OTL: Jaka tez to jaka bida
+!!!source: DWOK19
+!!!id: 19344
+!!!signature: 1934400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ee
+16ee
+8cc
+8a
+=2
+16g
+16g
+16b
+16g
+8cc
+=3
+16ee
+16ee
+8cc
+16b
+16a
+=4
+16g
+16g
+16g
+16b
+16dd
+16cc}
+!!LO:LB:g=esac
+=5
+{16ee
+16ee
+8ee
+8cc
+=6
+16dd
+16ee
+16ff
+16aa
+8gg
+=7
+16ee
+16ee
+8gg
+16ee
+16cc
+=8
+16dd
+16ee
+16ff
+16aa
+16gg
+16ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 105} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

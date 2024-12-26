@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK8422400000-na_dolynie_hluboko.krn
+!!!OTL: Na dołynie hłuboko
+!!!source: DWOK84
+!!!id: 84224
+!!!signature: 8422400000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8a
+8dd
+8cc#
+8dd
+=2
+8cc#
+8b
+4a}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+8a
+8b
+=4
+8g
+8e
+4d}
+!!LO:LB:g=esac
+=5
+{4.dd
+8ff#
+=6
+8ee
+8dd
+8cc#
+8a
+=7
+8dd
+8b
+4a}
+==
+*-
+!!!ONB: Wariant t. 3: 4655
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=274 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 212} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 212}
+!!!page: 212
+!!!ONB: Converted on 2024/12/26 with esac2hum

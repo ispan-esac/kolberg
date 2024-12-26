@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK7789800020-instrumentalna_przegrywka.krn
+!!!OTL: Instrumentalna, przegrywka
+!!!source: DWOK77
+!!!id: 778982
+!!!signature: 7789800020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8b
+8g
+8b
+8dd
+4ff
+=2
+8ff
+8aa
+4gg
+8ee
+8cc
+=3
+8b
+8g
+8b
+8dd
+4ff
+=4
+8dd
+8b
+4cc
+8ee
+8cc}
+!!LO:LB:g=esac
+=5
+{8b
+8g
+8b
+8dd
+4ff
+=6
+8dd
+8ff#
+4gg
+8ee
+8cc
+=7
+8b
+8g
+8b
+8dd
+4ff
+=8
+8dd
+8b
+4cc
+8ee
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

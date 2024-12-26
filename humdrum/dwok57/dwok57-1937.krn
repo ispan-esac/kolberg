@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK57193700000-nas_rano_nas_rano_maty_pobudyla.krn
+!!!OTL: Nas rano, nas rano maty pobudyła
+!!!source: DWOK57
+!!!id: 571937
+!!!signature: 57193700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4e
+4f
+=2
+4g
+4e
+4f
+=3
+8g
+8g
+8a
+8g
+8f
+8e
+=4
+4e
+4d}
+4r
+!!LO:LB:g=esac
+=5
+{4d
+8d
+8d
+8d
+8d
+=6
+4e
+8e
+8e
+8e
+8e
+=7
+8f
+8e
+4f
+4f
+=8
+8g
+8f
+4e}
+4r
+==
+*-
+!!!ONB: Wariant t. 7: 444_4_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 995
+!!!ONB: Converted on 2024/12/26 with esac2hum

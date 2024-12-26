@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2251000000-tobie_do_koni_chlopal.krn
+!!!OTL: Tobie do koni chłopal
+!!!source: DWOK22
+!!!id: 22510
+!!!signature: 2251000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8c
+8c
+8e
+=2
+16g
+16b-
+8a
+8f
+=3
+8c
+8c
+8e
+=4
+16g
+16b-
+8dd
+8g}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+8gg
+=6
+16ff
+16dd
+8cc
+16b-
+16g
+=7
+16a
+16f
+8g
+16b-
+16dd
+=8
+16g
+16b-
+8dd
+8gg}
+!!LO:LB:g=esac
+=9
+{8ff
+8ee
+8cc
+=
+16ff
+16dd
+8cc
+24b-
+24a
+24g
+=10
+16a
+16f
+8g
+16b-
+16dd
+=11
+16g
+16b-
+8dd
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 237} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 237}
+!!!page: 237
+!!!ONB: Converted on 2024/12/26 with esac2hum

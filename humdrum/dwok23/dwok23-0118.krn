@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK2311800000-w_polu_ogrodecek.krn
+!!!OTL: W polu ogrodecek
+!!!source: DWOK23
+!!!id: 23118
+!!!signature: 2311800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+4cc
+=2
+16b
+16cc
+8dd
+8ff#
+=3
+8ee
+4cc
+=4
+16b
+16cc
+8dd
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+=6
+16b
+16cc
+8dd
+8ff#
+=7
+8ee
+4cc
+=8
+16b
+16cc
+8dd
+16cc
+16b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=162 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 148} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 148}
+!!!page: 148
+!!!ONB: Converted on 2024/12/26 with esac2hum

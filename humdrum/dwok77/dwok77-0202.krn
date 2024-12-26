@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7720200000-oj_co_by_dac_to_by_dac.krn
+!!!OTL: Oj co by dać to by dać
+!!!source: DWOK77
+!!!id: 77202
+!!!signature: 7720200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc#
+8dd
+8b
+=2
+8dd
+8dd
+8cc#
+=3
+16a
+16cc#
+8dd
+8b
+=4
+8dd
+8dd
+8cc#}
+!!LO:LB:g=esac
+=5
+{16a
+16f#
+8g
+8b
+=6
+8g
+8a
+8cc
+=7
+16a
+16f#
+16g
+16a#
+8b
+=8
+8g
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

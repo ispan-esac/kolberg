@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK1216200002-al_bez_uwagi_maz_zone_bije.krn
+!!!OTL: Żal bez uwagi mąż żonę bije
+!!!source: DWOK12
+!!!id: 12162
+!!!signature: 1216200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+16dd
+16ee
+16dd
+16cc
+=2
+4.b
+=3
+8dd
+16dd
+16cc
+16a
+16f#
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{8dd
+16dd
+16ee
+16dd
+16cc
+=6
+4.b
+=7
+8dd
+16dd
+16cc
+16a
+16f#
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16a
+16a
+8a
+8cc
+=10
+16b
+16dd
+8b
+8g
+=11
+16a
+16a
+8a
+8cc
+=12
+16b
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=13
+{8dd
+16dd
+16cc
+16a
+16f#
+=14
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=98 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 82} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

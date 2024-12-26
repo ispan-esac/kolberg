@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK8357800002-w_kalinowym_lasku.krn
+!!!OTL: W kalinowym lasku
+!!!source: DWOK83
+!!!id: 83578
+!!!signature: 8357800002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{8f
+8g
+8a
+8b-
+4cc
+4cc
+=2
+16dd
+16ee
+4.ff
+4dd
+4cc
+=3
+2cc
+4ff}
+4r
+!!LO:LB:g=esac
+=4
+{8f
+8g
+8a
+8b-
+4cc
+4dd
+=
+16b-
+16a
+4.g
+4cc
+12a
+12g
+12f
+=5
+2f
+4f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=474 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 363} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 363}
+!!!page: 363
+!!!ONB: Converted on 2024/12/26 with esac2hum

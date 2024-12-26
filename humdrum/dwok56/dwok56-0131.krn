@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK5613100000-j-a_u_gospodari_nowa_switlonka.krn
+!!!OTL: J-a u gospodari nówa switłońka
+!!!source: DWOK56
+!!!id: 56131
+!!!signature: 5613100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4b
+8a
+8g
+=2
+4b
+2cc
+=3
+4b
+4b
+8cc
+8b
+=4
+4a
+4f#
+4g
+=5
+2a
+4b
+=6
+4f#
+4g}
+4r
+!!LO:LB:g=esac
+=7
+{2a
+4a
+=8
+4b
+2cc
+=9
+4b
+4b
+8cc
+8b
+=10
+8a
+8f#
+2g
+=11
+2a
+8b
+8a
+=12
+4f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=251 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 149} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 149}
+!!!page: 149
+!!!ONB: Converted on 2024/12/26 with esac2hum

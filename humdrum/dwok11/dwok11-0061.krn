@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1106100000-kasze_gotowali_bedziem_jedli.krn
+!!!OTL: Kaszę gotowali będziem jedli
+!!!source: DWOK11
+!!!id: 11061
+!!!signature: 1106100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16cc
+16b
+16a
+16g#
+16a
+16b
+=2
+16cc
+16b
+16a
+16g#
+16a
+16b
+=3
+16cc
+16dd
+8ee
+8dd
+=4
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=5
+{8g#
+4e
+=6
+16g#
+16b
+8a
+8g#
+=7
+16e
+16d
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 177} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

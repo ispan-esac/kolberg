@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK7711300000-zielona_rutka_jalowiec.krn
+!!!OTL: Zielona rutka jałowiec
+!!!source: DWOK77
+!!!id: 77113
+!!!signature: 7711300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8ee
+=2
+4dd
+8b
+=3
+16cc
+16dd
+4ee}
+!!LO:LB:g=esac
+=4
+{8ee
+8ee
+8ee
+=5
+4dd
+8b
+=6
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=7
+{4b
+8b
+=8
+4dd
+8b
+=9
+8cc
+4dd
+=10
+4.ee}
+!!LO:LB:g=esac
+=11
+{4a
+8b
+=12
+4dd
+8a
+=13
+8cc
+4b
+=14
+4.a}
+==
+*-
+!!!ONB: Takty od 4 do 7 - melodia bez tekstu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 77-78
+!!!ONB: Converted on 2024/12/26 with esac2hum

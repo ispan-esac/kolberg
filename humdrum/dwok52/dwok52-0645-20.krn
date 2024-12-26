@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5264500020-oj_oles_zosie_lubi.krn
+!!!OTL: Oj, Oleś Zosię lubi
+!!!source: DWOK52
+!!!id: 52645
+!!!signature: 5264500020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4g
+8b
+8dd
+=2
+8ee
+8ee
+4cc
+4ee
+=3
+4dd
+4b
+8g
+8b
+=4
+8cc
+8cc
+4ee
+4gg}
+!!LO:LB:g=esac
+=
+{4g
+4g
+12b
+12cc
+12dd
+=5
+8ee
+8ee
+4cc
+4ee
+=6
+4dd
+4b
+8g
+8b
+=7
+8dd
+8cc
+4b
+4cc}
+==
+*-
+!!!ONB: Druga część melodii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=477 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 412} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 412}
+!!!page: 412
+!!!ONB: Converted on 2024/12/26 with esac2hum

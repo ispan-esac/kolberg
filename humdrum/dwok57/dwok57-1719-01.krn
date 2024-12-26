@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK57171900001-oj_ne_szumy_dobrowonko.krn
+!!!OTL: Oj, ne szumy dobrowonko
+!!!source: DWOK57
+!!!id: 571719
+!!!signature: 57171900001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8dd
+8ee
+8ff
+8ff
+=2
+4ff
+4ee
+=3
+4dd
+4cc
+=4
+8dd
+8dd
+8dd
+8ee
+=5
+4dd
+4cc
+=6
+4dd
+4a}
+!!LO:LB:g=esac
+=7
+{8dd
+8ee
+8ff
+8ff
+=8
+4ff
+4ee
+=9
+4dd
+4cc
+=10
+8dd
+8dd
+8dd
+8ee
+=11
+4dd
+4cc
+=12
+4dd
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 810
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK1229900000-a_jak_ja_byla_nadobna_dzieweczka.krn
+!!!OTL: A jak ja była nadobną dzieweczką
+!!!source: DWOK12
+!!!id: 12299
+!!!signature: 1229900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8g
+8a
+8cc
+8ee
+8b
+=2
+4dd
+8dd
+8cc
+8a
+8b
+=3
+8a
+8g
+2dd}
+!!LO:LB:g=esac
+=4
+{8a
+8g
+8a
+8cc
+8ee
+8b
+=5
+4dd
+8dd
+8cc
+8a
+8b
+=6
+8f#
+8a
+2g}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+8a
+8f#
+8g
+8b
+=8
+8d
+8f#
+8a
+8f#
+8g
+8b
+=9
+4cc
+4cc
+8a
+8b
+=10
+8g
+8b
+2dd}
+!!LO:LB:g=esac
+=11
+{8d
+8f#
+8a
+8f#
+8g
+8b
+=12
+8d
+8f#
+8a
+8f#
+8g
+8b
+=13
+4cc
+4cc
+8a
+8b
+=14
+4dd
+8dd
+8cc
+8a
+8b
+=15
+8f#
+8a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 161} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 161}
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

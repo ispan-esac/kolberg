@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4434800002-chodzze_ino_chodzze.krn
+!!!OTL: Chodźże ino, chodźże
+!!!source: DWOK44
+!!!id: 44348
+!!!signature: 4434800002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8dd
+4ee
+4cc
+=2
+4dd
+4ee
+4cc
+=3
+4ff
+4ee
+4dd
+=4
+8cc
+8b
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+2b
+=6
+8cc
+8dd
+2ee
+=7
+4ff
+4ff
+4ee
+=8
+8dd
+8ee
+4dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 233} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

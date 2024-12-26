@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1234500000-stoji_kasia_w_ogrodenku.krn
+!!!OTL: Stoji Kasia w ogródeńku
+!!!source: DWOK12
+!!!id: 12345
+!!!signature: 1234500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8ff
+=2
+8ee
+8dd
+8cc
+8b-
+=3
+8a
+8b-
+8a
+8b-
+=4
+8cc
+8b-
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8.f
+16a
+8b-
+8cc
+=6
+8dd
+8b-
+4r
+=7
+8.cc
+16a
+8b-
+8dd
+=8
+8cc
+8a}
+4r
+!!LO:LB:g=esac
+=9
+{8.cc
+16a
+8b-
+8cc
+=10
+8dd
+8b-
+4r
+=11
+8.cc
+16a
+8b-
+8dd
+=12
+8cc
+8a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 183} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 183}
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

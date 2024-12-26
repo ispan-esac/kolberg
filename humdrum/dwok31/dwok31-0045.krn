@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK3104500000-zarizu_ja_husie_ta_ne_obejdu_sie.krn
+!!!OTL: Zariżu ja husie ta ne obejdu sie
+!!!source: DWOK31
+!!!id: 31045
+!!!signature: 3104500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4ee
+16ee
+16ff
+8ee
+=2
+8ee
+8ee
+8ee
+8cc
+=3
+8ee
+8ee
+16ee
+16ff
+8ee
+=4
+16cc
+16dd
+8cc
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+16ee
+16ff
+8ee
+=6
+8ee
+8ee
+4ee
+=7
+8ee
+8ee
+8ee
+8ee
+=8
+16cc
+16dd
+8cc
+8cc
+8g}
+!!LO:LB:g=esac
+=9
+{4cc
+16dd
+16ee
+16ff
+16ee
+=10
+4cc
+8cc
+8g
+=11
+4cc
+16dd
+16ee
+16ff
+16ee
+=12
+16cc
+16dd
+8cc
+4cc}
+==
+*-
+!!!ONB: Kołomyjka dawna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 14} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 14}
+!!!page: 14
+!!!ONB: Converted on 2024/12/26 with esac2hum

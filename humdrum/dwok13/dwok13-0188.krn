@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK1318800000-nie_bede_ja_sie_klopotal.krn
+!!!OTL: Nie będę ja się kłopotał
+!!!source: DWOK13
+!!!id: 13188
+!!!signature: 1318800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8ff
+16ee
+16cc
+=2
+16b
+16dd
+8ee
+8cc
+=3
+8a
+8ff
+16ee
+16cc
+=4
+16b
+16g#
+8a
+8e}
+!!LO:LB:g=esac
+=5
+{16e
+16g#
+8b
+8cc
+=6
+16b
+16g#
+8b
+8cc
+=7
+8b
+8g#
+16a
+16cc
+=8
+16b
+16g#
+8a
+8e}
+!!LO:LB:g=esac
+=9
+{16e
+16g#
+8b
+8cc
+=10
+16b
+16g#
+8b
+8cc
+=11
+8b
+8g#
+16a
+16cc
+=12
+16e
+16g#
+8a
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 98} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

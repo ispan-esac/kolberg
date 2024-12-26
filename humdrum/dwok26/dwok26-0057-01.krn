@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2605700001-oj_kolem_kolem.krn
+!!!OTL: Oj kołem kołem
+!!!source: DWOK26
+!!!id: 26057
+!!!signature: 2605700001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8cc
+8b
+=2
+8cc
+4dd
+=3
+4.cc
+=4
+4b}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+8f#
+8g
+=6
+4.b
+=7
+4.g
+=8
+4f#}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+4b
+=10
+4g
+8d
+=11
+8a
+8a
+8a
+=12
+8cc
+4b}
+!!LO:LB:g=esac
+=13
+{4a
+8f#
+=14
+8g
+4b
+=15
+4d
+8f#
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

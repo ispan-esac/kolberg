@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK5322900000-o_kajp_pradesim_karaluj_sluzyti.krn
+!!!OTL: O! Kajp pradesim karaluj słuzyti
+!!!source: DWOK53
+!!!id: 53229
+!!!signature: 5322900000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M6/4
+=1
+{2a
+4f#
+4d
+4b
+4a
+=2
+4b
+4a
+4g
+4f#
+4e
+4e}
+!!LO:LB:g=esac
+=3
+{4e
+4f#
+4g
+4a
+4g
+4e
+=4
+4d
+4d
+4e
+4e
+2d}
+!!LO:LB:g=esac
+=5
+{4e
+4f#
+4g
+4a
+4g
+4e
+=6
+4d
+4d
+4e
+4e
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=370 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 330} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 330}
+!!!page: 330
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK06-K0449-gdziezes_jezu_moj_kochany.krn
+!!!OTL: Gdziezes Jezu moj kochany
+!!!source: DWOK06
+!!!id: K0449
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8b
+4cc
+4ee
+=2
+8dd
+8cc
+8dd
+8b
+4g}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+4ee
+4gg
+=4
+8gg
+16ff
+16ee
+2dd}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4cc
+4ee
+=6
+8gg
+16ff
+16ee
+4dd
+4gg}
+!!LO:LB:g=esac
+=7
+{8ee
+8dd
+4cc
+4ee
+=8
+8ee
+8dd
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 241} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK2302500000-ach_moj_jezu_jak_ty_kleczysz.krn
+!!!OTL: Ach mój Jezu jak ty klęczysz
+!!!source: DWOK23
+!!!id: 23025
+!!!signature: 2302500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8b
+8a
+4b
+8cc
+8b
+=2
+8a
+8g#
+4a
+4a
+=3
+8cc
+8cc
+4cc
+8dd
+8cc
+=4
+4b
+4a
+4b}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+4b
+8cc
+8b
+=6
+8a
+8g#
+4a
+4a
+=7
+8cc
+8cc
+4cc
+8dd
+8cc
+=8
+4b
+4a
+4b}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8dd
+8cc
+4b
+=10
+8cc
+8cc
+8cc
+8b
+4a
+=11
+8cc#
+8b
+4cc#
+8dd
+8cc#
+=12
+4a
+4g#
+4a}
+!!LO:LB:g=esac
+=13
+{8cc
+8cc
+4cc
+8dd
+8cc
+=14
+4b
+4a
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 75} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 75}
+!!!page: 75
+!!!ONB: Converted on 2024/12/26 with esac2hum

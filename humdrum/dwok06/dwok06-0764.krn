@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK06-K0764-swieci_sie_warszawa.krn
+!!!OTL: Swieci sie Warszawa
+!!!source: DWOK06
+!!!id: K0764
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+4ee
+=2
+8ee
+4ff
+8ff
+=3
+8ff
+16dd
+16cc
+4b
+=4
+8b
+4cc
+8a}
+!!LO:LB:g=esac
+=5
+{8a
+16cc
+16b
+4a
+=6
+8g
+4cc
+8ee
+=7
+8ff
+8ff
+4b
+=8
+8dd
+4cc
+8a}
+!!LO:LB:g=esac
+=9
+{8a
+16cc
+16b
+4a
+=10
+8g
+4cc
+8ee
+=11
+8ff
+8ff
+4b
+=12
+8dd
+4cc
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=491 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 465} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 465}
+!!!page: 465
+!!!ONB: Converted on 2024/12/26 with esac2hum

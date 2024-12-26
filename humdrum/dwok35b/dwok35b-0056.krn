@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK35B-35B05600000-ej_kopana_kernyczenka.krn
+!!!OTL: Ej kopana kernyczeńka
+!!!source: DWOK35B
+!!!id: 35B056
+!!!signature: 35B05600000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/8
+=1
+{8ee
+8ee
+8dd#
+8ff#
+=
+8ee
+8ee
+12dd
+24cc
+24b
+8cc
+=2
+8ee
+8ee
+8dd#
+8ff#
+=3
+4ee
+16cc
+16b
+8a}
+!!LO:LB:g=esac
+=4
+{8cc
+8cc
+8b
+8b
+=5
+8e
+16e
+16g#
+8a
+8a
+=6
+8cc
+8cc
+8b
+8b
+=7
+4a
+4a}
+==
+*-
+!!!ONB: Wariant 7. 6: 2_1-71_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 160} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

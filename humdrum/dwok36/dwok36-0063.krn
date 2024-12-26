@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3606300000-oj_wesela_wesela.krn
+!!!OTL: Oj weseła weseła
+!!!source: DWOK36
+!!!id: 36063
+!!!signature: 3606300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8b
+=2
+8g
+16b
+16cc
+4dd
+=3
+8dd
+8dd
+8dd
+8cc
+=4
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+16dd
+16cc
+16b
+16a
+=6
+16g
+16a
+16b
+16cc
+4dd
+=7
+16dd
+16ee
+16dd
+16ee
+8dd
+8cc
+=8
+4dd
+16b
+16a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 36
+!!!ONB: Converted on 2024/12/26 with esac2hum

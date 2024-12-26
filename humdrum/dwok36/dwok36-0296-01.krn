@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3629600001-czerwona_kalyna_wsejki_luh_zakrasyla.krn
+!!!OTL: Czerwona kałyna wsejki łuh zakrasyła
+!!!source: DWOK36
+!!!id: 36296
+!!!signature: 3629600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8d
+4b
+8f#
+8a
+=2
+4e
+2d
+=3
+8a
+8a
+8b
+8a
+8g
+8f#
+=4
+8g
+8b
+2a}
+!!LO:LB:g=esac
+=5
+{4a
+8b
+8a
+8f#
+8b
+=6
+8a
+8f#
+4e
+4d
+=7
+8f#
+8f#
+8g
+8b
+8a
+8f#
+=8
+8g
+8e
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

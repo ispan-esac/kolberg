@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK04-K0238-a_moj_towarzyszu.krn
+!!!OTL: A moj towarzyszu
+!!!source: DWOK04
+!!!id: K0238
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{8f
+8g
+8a
+8b-
+4cc
+4ff
+=2
+8dd
+8cc
+8b-
+8f
+4a
+8g
+8f
+=3
+8f
+8g
+8a
+8b-
+4cc
+4ff
+=4
+8dd
+8cc
+8b-
+8f
+4a
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{4cc
+8b-
+8f
+4a
+4f
+=6
+4cc
+8b-
+8f
+4a
+8g
+8f
+=7
+8f
+8g
+8a
+8b-
+4cc
+4ff
+=8
+4dd
+8b-
+8f
+4a
+8g
+8f}
+!!LO:LB:g=esac
+=9
+{4cc
+8b-
+8f
+4a
+8g
+8f
+=10
+4cc
+8b-
+8f
+4a
+8g
+8f
+=11
+8f
+8g
+8a
+8b-
+4cc
+4ff
+=12
+8dd
+8cc
+8b-
+8f
+4a
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 120} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

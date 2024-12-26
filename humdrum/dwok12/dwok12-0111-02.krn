@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1211100002-zasialam_ja_rozmarynek.krn
+!!!OTL: Zasiałam ja rozmarynek
+!!!source: DWOK12
+!!!id: 12111
+!!!signature: 1211100002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+32g
+32a
+8cc
+8cc
+=2
+16ee
+16gg
+8ff
+8ff
+=3
+8dd
+8cc
+16b-
+16a
+=4
+16cc
+32b-
+32a
+8g
+8f}
+!!LO:LB:g=esac
+=5
+{16f
+32g
+32a
+8cc
+8cc
+=6
+16cc
+32b-
+32a
+8g
+8ff
+=7
+8ee
+8dd
+16b-
+16g
+=8
+16cc
+32b-
+32a
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 55} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 55}
+!!!page: 55
+!!!ONB: Converted on 2024/12/26 with esac2hum

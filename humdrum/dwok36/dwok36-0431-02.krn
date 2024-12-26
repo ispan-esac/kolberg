@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK3643100002-oj_za_hajem_zelenenkim.krn
+!!!OTL: Oj za hajem zełeneńkim
+!!!source: DWOK36
+!!!id: 36431
+!!!signature: 3643100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4cc
+4b
+=2
+8cc
+8dd
+4ee
+8gg
+16ff
+16ee
+=3
+8dd
+16cc
+16b
+4a
+4dd
+=4
+8cc
+8a
+4g
+8ff
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+16cc
+16b
+4a
+4dd
+=6
+8cc
+8a
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 275
+!!!ONB: Converted on 2024/12/26 with esac2hum

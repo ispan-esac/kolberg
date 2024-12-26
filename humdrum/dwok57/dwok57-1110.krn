@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK57111000000-ja_uczera_orau_i_nynka_orau.krn
+!!!OTL: Ja uczera orau i nyńka orau
+!!!source: DWOK57
+!!!id: 571110
+!!!signature: 57111000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8ee
+8dd
+=2
+2dd
+=3
+8a
+8b-
+8dd
+8b-
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+8d
+8d
+=6
+8f#
+8g
+8b
+8dd
+=7
+8cc
+8dd
+8cc
+8b
+=8
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

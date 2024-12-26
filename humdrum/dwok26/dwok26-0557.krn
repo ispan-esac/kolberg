@@ -1,0 +1,122 @@
+!!!!SEGMENT: DWOK2655700000-byla_swieta_dorota.krn
+!!!OTL: Była święta Dorota
+!!!source: DWOK26
+!!!id: 26557
+!!!signature: 2655700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+8r
+{8a
+8a
+8b
+=1
+4.cc
+8a
+4b
+=2
+2g}
+4r
+!!LO:LB:g=esac
+=3
+{2dd
+4ee
+=4
+4dd
+8dd
+8cc
+4b
+=5
+4dd
+2dd}
+!!LO:LB:g=esac
+=6
+{8cc
+8b
+4a
+4g
+=7
+4.g
+8b
+4cc
+=8
+2a}
+4r
+!!LO:LB:g=esac
+=9
+{2cc
+4dd
+=10
+8b
+8a
+4g
+4b
+=11
+4.dd
+8b
+4cc
+=12
+4a}
+!!LO:LB:g=esac
+=-
+8r
+{8a
+8a
+8b
+=13
+4.cc
+8a
+4b
+=14
+2g}
+4r
+!!LO:LB:g=esac
+=15
+{2dd
+4ee
+=16
+4dd
+8dd
+8cc
+4b
+=17
+4dd
+2dd}
+!!LO:LB:g=esac
+=18
+{8cc
+8b
+4a
+4g
+=19
+4.dd
+8b
+4cc
+=20
+2a}
+4r
+!!LO:LB:g=esac
+=21
+{2cc
+4dd
+=22
+4.b
+8a
+8g
+8b
+=23
+4.dd
+8b
+4cc
+=24
+4a}
+==
+*-
+!!!ONB: 4__2_  3_1_0_  5__3_  4_2_0_ //
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 341
+!!!ONB: Converted on 2024/12/26 with esac2hum

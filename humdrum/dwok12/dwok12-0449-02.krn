@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK1244900002-lem_zrobila_matko_moja.krn
+!!!OTL: Żlem zrobiła matko moja
+!!!source: DWOK12
+!!!id: 12449
+!!!signature: 1244900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8dd
+16dd
+16ee
+=2
+8dd
+8dd
+16a
+16f#
+=3
+8g
+8b
+16a
+16cc
+=4
+8b
+4d}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8a
+16g
+16d
+=6
+16a
+16cc
+8a
+16g
+16b
+=7
+16f#
+16a
+8a
+16g
+16d
+=8
+16f#
+16a
+8a
+16g
+16b}
+!!LO:LB:g=esac
+=9
+{8dd
+8b
+16a
+16cc
+=10
+8b
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 233} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

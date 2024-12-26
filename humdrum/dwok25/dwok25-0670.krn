@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2567000000-moje_konie_moja_brycka.krn
+!!!OTL: Moje konie, moja brycka
+!!!source: DWOK25
+!!!id: 25670
+!!!signature: 2567000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8b
+16b
+16dd
+=2
+16dd
+16cc
+8a
+8dd
+=3
+16g
+16g
+8b
+16b
+16dd
+=4
+16b
+16cc
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8b
+8e
+=6
+16e
+16e
+8f#
+8d
+=7
+16a
+16a
+8b
+16g
+16e
+=8
+16e
+16g
+8f#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 241} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

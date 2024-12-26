@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4157200002-instrumentalna-kozak.krn
+!!!OTL: Instrumentalna-Kozak
+!!!source: DWOK41
+!!!id: 41572
+!!!signature: 4157200002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16dd
+16ff
+16ff
+16aa
+16bb
+16aa
+8ff
+=2
+8gg
+8dd
+8bb
+8gg
+=3
+16dd
+16ff
+16ff
+16aa
+8gg
+8dd
+=4
+4cc
+4dd}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+16b
+16dd
+8ee
+8a
+=6
+8dd
+8b
+8ee
+8a
+=7
+16g
+16b
+16b
+16dd
+8ee
+8a
+=8
+4B
+4d}
+==
+*-
+!!!ONB: W rkp. t. 3 i 7 nie wypełnione przez O.K. Przypuszczalna lokalizacja: od Warszawy. Kozak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=383 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 300} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 300}
+!!!page: 300
+!!!ONB: Converted on 2024/12/26 with esac2hum

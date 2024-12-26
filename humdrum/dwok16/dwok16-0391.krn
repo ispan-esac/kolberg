@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1639100000-o_da_prosiemy.krn
+!!!OTL: O da prosiemy
+!!!source: DWOK16
+!!!id: 16391
+!!!signature: 1639100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8g
+8a
+=2
+8b
+8a
+4g
+=3
+8a
+8cc
+8b
+8a
+=4
+8.g
+32f#
+32e
+8d}
+8r
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8g
+16a
+16cc
+=6
+8b
+8a
+4g
+=7
+8a
+8cc
+8b
+8a
+=8
+8g
+8f#
+4g}
+==
+*-
+!!!ONB: Wariant t. 7: 2_3_4__3__2__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 248} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 248}
+!!!ONB: Converted on 2024/12/26 with esac2hum

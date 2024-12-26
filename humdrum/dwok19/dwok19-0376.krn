@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1937600000-oj_dziwuja_sie_ludzie.krn
+!!!OTL: Oj dziwują się ludzie
+!!!source: DWOK19
+!!!id: 19376
+!!!signature: 1937600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16a
+16g
+8cc
+8ee
+=2
+8gg
+8ff
+8dd
+=3
+16b
+16g
+8a
+16a
+16g
+=4
+8b
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16a
+16g
+8cc
+8ee
+=6
+8gg
+8ff
+8dd
+=7
+16b
+16g
+8a
+16a
+16g
+=8
+8b
+8dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 115} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

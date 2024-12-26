@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK7704300000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK77
+!!!id: 77043
+!!!signature: 7704300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+{4gg
+8ff#
+8gg
+12aa
+12gg
+12ff#
+=1
+2gg
+4dd
+=2
+2cc
+4b
+=3
+2.g}
+!!LO:LB:g=esac
+=
+{2gg
+12ff#
+12gg
+12cc
+=4
+2ee
+8dd
+8cc
+=5
+4b
+2cc}
+!!LO:LB:g=esac
+=
+{4gg
+8ff#
+8gg
+12aa
+12gg
+12ff#
+=6
+2gg
+4dd
+=7
+2cc
+4b
+=8
+2.g}
+!!LO:LB:g=esac
+=
+{2gg
+12ff#
+12gg
+12cc
+=
+6ee
+6ff
+6ee
+12dd
+12cc
+12b
+=9
+2.cc}
+==
+*-
+!!!ONB: Jak do ślubu wychodzą
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 48
+!!!ONB: Converted on 2024/12/26 with esac2hum

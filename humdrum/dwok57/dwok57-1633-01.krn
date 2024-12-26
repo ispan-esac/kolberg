@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK57163300001-wtikaj_myla_ty_uze_wid_mene.krn
+!!!OTL: Wtikaj myła ty uże wid mene
+!!!source: DWOK57
+!!!id: 571633
+!!!signature: 57163300001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8a
+8cc
+8ee
+8dd
+4cc
+=2
+8dd
+8ee
+8ff
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8dd
+4dd
+4a
+=4
+8ee
+8ee
+8ff
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4dd
+4a
+=6
+*M2/4
+8cc
+8ee
+8dd
+8dd
+=7
+*M3/4
+4cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 703
+!!!ONB: Converted on 2024/12/26 with esac2hum

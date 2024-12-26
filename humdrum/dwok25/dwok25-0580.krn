@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2558000000-oj_kiej_wyjde_na_pole.krn
+!!!OTL: Oj kiej wyjdę na pole
+!!!source: DWOK25
+!!!id: 25580
+!!!signature: 2558000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8cc
+8dd
+=2
+16ee
+16dd
+8cc
+8dd
+=3
+8b
+8cc
+8dd
+=4
+16ee
+16dd
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+16cc
+16a
+8g
+=6
+16b
+16dd
+8ee
+16cc
+16a
+=7
+8b
+16cc
+16a
+8g
+=8
+16ee
+16dd
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=244 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 219} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 219}
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

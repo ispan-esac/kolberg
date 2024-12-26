@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK2902300010-pustyt_do_chaty_budem_hulaty.krn
+!!!OTL: Pustyt do chaty budem hulaty
+!!!source: DWOK29
+!!!id: 29023
+!!!signature: 2902300010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+16cc
+16a
+8a
+8dd
+=2
+8cc
+16cc
+16a
+8a
+8g
+=3
+8cc
+16b
+16a
+8a
+8dd
+=4
+8cc
+16cc
+16a
+8a
+8g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 117} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 117}
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

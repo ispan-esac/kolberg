@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK1639200002-a_kiej_bedziemy_tego_karpia_zazywac.krn
+!!!OTL: A kiej będziemy tego karpia zazywać
+!!!source: DWOK16
+!!!id: 16392
+!!!signature: 1639200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+8dd
+8cc
+4b
+=2
+4a
+8b
+8cc
+4b
+=3
+4.a
+4g
+16f#
+16e
+=4
+8dd}
+8r
+4r
+4r
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+8a
+8f#
+4g
+=
+8a
+8a
+8b
+24cc
+24b
+24cc
+4b
+=
+8a
+8a
+8b
+24cc
+24b
+24cc
+4b
+=
+8g
+24f#
+24e
+24f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 248} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 248}
+!!!ONB: Converted on 2024/12/26 with esac2hum

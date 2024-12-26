@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK3338200000-a_dajte_mi_horylonki_z_medkom.krn
+!!!OTL: A dajte mi horyłońki z medkom
+!!!source: DWOK33
+!!!id: 33382
+!!!signature: 3338200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+8dd
+8dd
+=2
+16dd
+16dd
+8b
+8cc
+=3
+8dd
+4b}
+!!LO:LB:g=esac
+=4
+{16b
+16cc
+8dd
+8dd
+=5
+8cc
+4b
+=6
+8a
+4g}
+!!LO:LB:g=esac
+=7
+{16b
+16cc
+8dd
+8dd
+=8
+16dd
+16dd
+8b
+8cc
+=9
+8dd
+4b}
+!!LO:LB:g=esac
+=10
+{16b
+16cc
+8dd
+8dd
+=11
+8cc
+4b
+=12
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=382 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 340} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 340}
+!!!page: 340
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK5309400000-o_kur_tu_buvaj_bernyti_manu.krn
+!!!OTL: O kur tu buvaj, bernyti manu
+!!!source: DWOK53
+!!!id: 53094
+!!!signature: 5309400000
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M2/4
+=1
+{4b
+4cc#
+=2
+4dd
+4b
+=3
+2cc#}
+!!LO:LB:g=esac
+=4
+{4ee
+4ff#
+=5
+4ee
+4dd
+=6
+2cc#}
+!!LO:LB:g=esac
+=7
+{4b
+4cc#
+=8
+4dd
+4b
+=9
+4.cc#
+8ee}
+!!LO:LB:g=esac
+=10
+{4ee
+4ff#
+=11
+4ee
+4dd
+=12
+2cc#}
+!!LO:LB:g=esac
+=13
+{8a
+4.b
+=14
+4dd
+4cc#
+=15
+4a
+4f#
+=16
+2cc#}
+!!LO:LB:g=esac
+=17
+{8a
+4.b
+=18
+4dd
+4cc#
+=19
+4a
+4f#
+=20
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 237} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 237}
+!!!page: 237
+!!!ONB: Converted on 2024/12/26 with esac2hum

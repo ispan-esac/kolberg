@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK06-K0742-bym_mial_tyle_zlota.krn
+!!!OTL: Bym mial tyle zlota
+!!!source: DWOK06
+!!!id: K0742
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+4cc
+8cc
+=2
+8b
+8cc
+4dd
+=3
+8cc
+4ee
+8cc
+=4
+8dd
+8ee
+4ff}
+!!LO:LB:g=esac
+=5
+{4gg
+8ee
+8cc
+=6
+8b
+8cc
+4dd
+=7
+8a
+4cc
+8cc
+=8
+8b
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=482 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 456} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 456}
+!!!page: 456
+!!!ONB: Converted on 2024/12/26 with esac2hum

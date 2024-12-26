@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK1236400000-hej_hej_kochalam_sie.krn
+!!!OTL: Hej hej, kochałam się
+!!!source: DWOK12
+!!!id: 12364
+!!!signature: 1236400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8dd
+=2
+16dd
+16cc#
+8ee
+8dd
+=3
+16dd
+16cc#
+8ee
+8dd
+=4
+16cc
+16a
+8f#
+16a
+16b
+=5
+16g
+16f#
+4d}
+!!LO:LB:g=esac
+=6
+{16f#
+16g
+8a
+8dd
+=7
+16b
+16a#
+8b
+8g
+=8
+16f#
+16g
+8a
+8dd
+=9
+16b
+16a#
+8b
+8g}
+!!LO:LB:g=esac
+=10
+{16f#
+16g
+8a
+8b
+=11
+16g
+16f#
+4d
+=12
+16f#
+16g
+8a
+16b
+16e
+=13
+16g
+16f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 190-191} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 190-191}
+!!!page: 190-191
+!!!ONB: Converted on 2024/12/26 with esac2hum

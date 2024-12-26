@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK42189700000-jak_mnie_pan_bog_dopomoze.krn
+!!!OTL: Jak mnie Pan Bóg dopomoże
+!!!source: DWOK42
+!!!id: 421897
+!!!signature: 42189700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8cc
+4.ee
+8dd
+=2
+8dd
+8b
+4g
+4g}
+!!LO:LB:g=esac
+=3
+{8d
+8d
+4f#
+4f#
+=4
+8d
+8d
+4g
+4g
+=5
+8a
+8cc
+4.ee
+8dd}
+!!LO:LB:g=esac
+=6
+{8b
+8dd
+4.gg
+8dd
+=7
+8dd
+8ee
+8dd
+8cc
+4a
+=8
+8a
+8a
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+4.ee
+8dd
+=10
+8dd
+8dd
+4.gg
+8gg
+=11
+8dd
+8ee
+8dd
+8cc
+8a
+8f#
+=12
+8a
+8a
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=294 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 285-286} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 285-286}
+!!!page: 285-286
+!!!ONB: Converted on 2024/12/26 with esac2hum

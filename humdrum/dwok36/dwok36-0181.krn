@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK3618100000-oj_boze_mij_boze_boze.krn
+!!!OTL: Oj Boże mij Boże Boże
+!!!source: DWOK36
+!!!id: 36181
+!!!signature: 3618100000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+{4.aa
+16gg
+16ff
+=1
+16ee
+16ff
+16gg
+16aa
+4a
+8dd
+8ee}
+!!LO:LB:g=esac
+=2
+{8ff
+8gg
+4aa
+8aa
+16gg
+16ff
+=3
+16ee
+16ff
+16gg
+16aa
+4a
+8dd
+8dd}
+!!LO:LB:g=esac
+=4
+{8cc#
+8cc#
+8dd
+8dd
+8ee
+8ee
+=5
+8ff
+8ff
+4aa
+8aa
+16gg
+16ff}
+!!LO:LB:g=esac
+=6
+{16ee
+16ff
+16gg
+16aa
+4a
+8dd
+8dd}
+!!LO:LB:g=esac
+=7
+{8cc#
+8cc#
+8dd
+8dd
+8ee
+8ee
+=8
+8ff
+8ff
+4aa
+8aa
+16gg
+16ff}
+!!LO:LB:g=esac
+=9
+{8ee
+8aa
+4a
+8dd
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

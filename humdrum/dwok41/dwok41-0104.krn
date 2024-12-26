@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4110400000-miesiac_swieci_slonce_grzeje.krn
+!!!OTL: Miesiąc świeci, słońce grzeje
+!!!source: DWOK41
+!!!id: 41104
+!!!signature: 4110400000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16cc
+16cc
+8ee-
+8cc
+=2
+16dd
+16b-
+8.f
+16d}
+!!LO:LB:g=esac
+=3
+{16e-
+16g
+8f
+8f
+=4
+16a
+16cc
+8b-
+8dd}
+!!LO:LB:g=esac
+=5
+{16cc
+16cc
+8ee-
+8cc
+=6
+16dd
+16b-
+8.f
+16d}
+!!LO:LB:g=esac
+=7
+{16e-
+16g
+8f
+8f
+=8
+16a
+16cc
+8b-
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 77-78} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 77-78}
+!!!page: 77-78
+!!!ONB: Converted on 2024/12/26 with esac2hum

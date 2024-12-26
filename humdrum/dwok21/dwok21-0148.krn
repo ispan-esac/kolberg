@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK2114800000-a_kiedy_ja_w_swoja_podroz_ide.krn
+!!!OTL: A kiedy ja w swoją podróż idę
+!!!source: DWOK21
+!!!id: 21148
+!!!signature: 2114800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8.dd
+16b
+=2
+16dd
+16dd
+16dd
+16dd
+16dd
+16b
+=3
+16.dd
+32cc
+8.cc
+16a
+=4
+16g
+16b
+16b
+16dd
+16dd
+16b}
+!!LO:LB:g=esac
+=5
+{16.d
+32a
+16a
+16a
+8a
+=6
+16.g
+32b
+16b
+16b
+8b
+=7
+16.dd
+32cc
+8cc
+16a
+16f#
+=8
+16.g
+32g
+4g}
+!!LO:LB:g=esac
+=9
+{16.dd
+32cc
+16cc
+16cc
+8a
+=10
+16.g
+32b
+16b
+16b
+8dd
+=11
+16.dd
+32cc
+8cc
+16a
+16f#
+=12
+16.g
+32g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 73} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

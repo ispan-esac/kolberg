@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK55138100000-i_sudyly_howoryly.krn
+!!!OTL: I sudyły howoryły
+!!!source: DWOK55
+!!!id: 551381
+!!!signature: 55138100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8b
+8ee
+8dd
+=2
+4.dd
+=3
+8b
+8ee
+8dd
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{8b
+8ee
+8dd
+=6
+8dd
+4b
+=7
+8dd
+4b
+=8
+4.b}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8dd
+=10
+4.dd
+=11
+8cc
+8cc
+8cc
+=12
+4.dd}
+!!LO:LB:g=esac
+=13
+{8dd
+8cc
+8cc
+=14
+4.cc
+=15
+4.cc
+=16
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 84} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 84}
+!!!page: 84
+!!!ONB: Converted on 2024/12/26 with esac2hum

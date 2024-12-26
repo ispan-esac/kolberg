@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2127900010-pyta_sie_matka_cory.krn
+!!!OTL: Pyta się matka córy
+!!!source: DWOK21
+!!!id: 21279
+!!!signature: 2127900010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4gg
+16gg
+16aa
+=2
+16gg
+32gg
+32ff#
+8dd
+8ff
+=3
+16ff
+32dd
+32b
+8cc
+8ee
+=4
+16ee
+16ee
+8dd
+8ff}
+!!LO:LB:g=esac
+=5
+{16dd
+16b
+8cc
+8ee
+=6
+16gg
+16gg
+8ff#
+8dd
+=7
+16dd
+16b
+8cc
+8ee
+=8
+16ee
+16ee
+8dd
+8g}
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8, partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 120} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

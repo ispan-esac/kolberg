@@ -1,0 +1,110 @@
+!!!!SEGMENT: DWOK3909800001-czyli_pod_leszczyna_czyli_pod_krzewina.krn
+!!!OTL: Czyli pod leszczyną, czyli pod krzewiną
+!!!source: DWOK39
+!!!id: 39098
+!!!signature: 3909800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8d
+4g
+4g
+=2
+4b
+2dd
+=3
+8ee
+8dd
+4cc
+4a
+=4
+4ee
+2dd}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+4g
+4g
+=6
+4b
+2dd
+=7
+8ee
+8dd
+4cc
+4f#
+=8
+4a
+2g}
+!!LO:LB:g=esac
+=9
+{8d
+8d
+4g
+4g
+=10
+4b
+2dd
+=11
+8ee
+8dd
+4cc
+4a
+=12
+4ee
+2dd}
+!!LO:LB:g=esac
+=13
+{8d
+8d
+4g
+4g
+=14
+4b
+2dd
+=15
+8ee
+8dd
+4cc
+4f#
+=16
+4a
+2g}
+!!LO:LB:g=esac
+=17
+{4dd
+2a
+=18
+4b
+2a
+=19
+4g
+2e
+=20
+4g
+2f#}
+!!LO:LB:g=esac
+=21
+{4dd
+2a
+=22
+4b
+2a
+=23
+4g
+2e
+=24
+4g
+2f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 150} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 150}
+!!!page: 150
+!!!ONB: Converted on 2024/12/26 with esac2hum

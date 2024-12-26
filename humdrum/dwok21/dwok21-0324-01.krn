@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2132400001-le_orzes_parobecku.krn
+!!!OTL: Żle orzes parobecku
+!!!source: DWOK21
+!!!id: 21324
+!!!signature: 2132400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8cc#
+8dd
+=2
+16dd
+16cc#
+8ee
+8ee
+=3
+8dd
+16cc
+16a
+8g
+=4
+16b
+16g
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+16a
+16g
+8b
+=6
+16b
+16dd
+8cc#
+8cc
+=7
+8a
+8g
+16b
+16dd
+=8
+16b
+16g
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 130} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 130}
+!!!page: 130
+!!!ONB: Converted on 2024/12/26 with esac2hum

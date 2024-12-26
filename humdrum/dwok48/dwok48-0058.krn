@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK4805800000-biedne_serce_w_zakochaniu.krn
+!!!OTL: Biedne serce w zakochaniu
+!!!source: DWOK48
+!!!id: 48058
+!!!signature: 4805800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4.ee
+8ee
+8dd
+8cc
+=2
+8cc
+16r
+16b
+4dd
+4g
+=3
+4.cc
+8ee
+8dd
+8cc
+=4
+8b
+8cc
+4dd
+4g}
+!!LO:LB:g=esac
+=5
+{4.ee
+8ee
+8dd
+8cc
+=6
+8.b
+16a
+4a
+4dd
+=7
+4.b
+8g
+8a
+8b
+=8
+8cc
+8dd
+4ee
+4gg}
+!!LO:LB:g=esac
+=9
+{4.ee
+16ff
+16ee
+8dd
+8cc
+=10
+8.b
+16a
+4a
+4ff
+=11
+4.ff
+8g
+8a
+8b
+=12
+8cc
+8dd
+4ee
+4cc}
+==
+*-
+!!!ONB: Wariant t. 1-2: 5__.5_6_7_  +1_07+2__+1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 126} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 126}
+!!!page: 126
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK77118300000-da_graj_-_instrumentalna.krn
+!!!OTL: Da, graj - Instrumentalna
+!!!source: DWOK77
+!!!id: 771183
+!!!signature: 77118300000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+{12b
+12cc
+12ee
+4.gg
+8dd
+4cc
+=
+12b
+12g
+12a
+4g
+8b
+4dd
+8cc
+=
+12g
+12b
+12cc
+4.ee
+4.dd
+8cc
+=
+12b
+12dd
+12a
+4a
+8b
+4dd
+8cc}
+!!LO:LB:g=esac
+=
+{12b
+12cc
+12ee
+4.gg
+4cc
+8b
+=
+12b
+12g
+12a
+4g
+8b
+4dd
+8cc
+=
+12g
+12b
+12cc
+4.ee
+4dd
+8cc
+=
+12cc
+12dd
+12b
+8a
+8g
+8b
+4dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 212
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5767500000-oj_pryjszol_du_dieuczyny.krn
+!!!OTL: Oj, pryjszoł du dieuczyny
+!!!source: DWOK57
+!!!id: 57675
+!!!signature: 5767500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8ee
+8dd
+8ff
+=2
+8ee
+8ee
+8dd
+8b
+=3
+8cc
+8ee
+8dd
+8ff
+=4
+4ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+8ff
+=6
+8ee
+8ee
+8dd
+8b
+=7
+8cc
+8cc
+8g
+8b
+=8
+4cc
+4cc}
+==
+*-
+!!!ONB: Wariant t. 1: +3_+3_+4_+4_; wariant t. 4: +3__+2_7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

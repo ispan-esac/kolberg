@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5309300000-o_kur_tu_buvaj_manu_broluzeli.krn
+!!!OTL: O kur tu buvaj, manu brołuzeli
+!!!source: DWOK53
+!!!id: 53093
+!!!signature: 5309300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4a
+4b
+4cc
+=2
+4a
+2b
+=3
+4ee
+4ee
+4dd
+=4
+4cc
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{4g#
+2e
+=6
+4a
+2b
+=7
+4cc
+4a
+4b}
+!!LO:LB:g=esac
+=8
+{4g#
+2e
+=9
+4g#
+2a
+=10
+4b
+2g#
+=11
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 237} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 237}
+!!!page: 237
+!!!ONB: Converted on 2024/12/26 with esac2hum

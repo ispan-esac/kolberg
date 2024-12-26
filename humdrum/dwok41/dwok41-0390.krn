@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4139000000-oj_zeby_ja_byla.krn
+!!!OTL: Oj, żeby ja była
+!!!source: DWOK41
+!!!id: 41390
+!!!signature: 4139000000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{4cc#
+4ee
+4ee
+=2
+8ff#
+8dd
+4b
+4e
+=3
+4g#
+4b
+4dd
+=
+12ff#
+12gg#
+12ff#
+4ee
+4cc#}
+!!LO:LB:g=esac
+=4
+{4a
+4cc#
+4cc#
+=5
+8a
+8cc#
+4ee
+4dd
+=6
+4b
+4dd
+4dd
+=7
+8dd
+8dd
+4ee
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 216} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 216}
+!!!page: 216
+!!!ONB: Converted on 2024/12/26 with esac2hum

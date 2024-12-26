@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK05-K0076-jechal_kozak.krn
+!!!OTL: Jechal kozak
+!!!source: DWOK05
+!!!id: K0076
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4ff
+8ee
+8ee
+=2
+4ff
+8ee
+8dd
+=3
+8dd
+8ee
+8ff
+8dd
+=4
+4cc
+4ff}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8cc
+8dd
+=6
+8cc
+8dd
+8cc
+8b-
+=7
+8a
+8a
+8b-
+8g
+=8
+4f
+4ff}
+!!LO:LB:g=esac
+=9
+{8cc
+8dd
+8cc
+8dd
+=10
+8cc
+8dd
+8cc
+8b-
+=11
+8a
+8a
+8b-
+8g
+=12
+4f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=388 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 360} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 360}
+!!!page: 360
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK2536200000-wszystkac_to_moja_nadzieja.krn
+!!!OTL: Wszystkać to moja nadzieja
+!!!source: DWOK25
+!!!id: 25362
+!!!signature: 2536200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8cc
+8cc
+=2
+8b
+8b
+8a
+8g
+=3
+8a
+8g
+8a
+8b
+=4
+8cc
+4.cc}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8cc
+16dd
+16ee
+=6
+8.cc
+16b
+16a
+16b
+8g
+=7
+8a
+8g
+8a
+8b
+=8
+8cc
+4.cc}
+!!LO:LB:g=esac
+=9
+8r
+{4dd
+8ee
+=10
+8ff
+8ee
+8dd
+8ee
+=11
+4cc
+8a
+[8g}
+=12
+2g]
+!!LO:LB:g=esac
+=13
+8r
+{4dd
+8ee
+=14
+8ff
+8ee
+16dd
+16cc
+8ee
+=15
+8.cc
+16b
+16a
+16b
+[8g}
+=16
+2g]
+!!LO:LB:g=esac
+=17
+8r
+{4b
+8cc
+=18
+8ee
+16dd
+16b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 164} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 164}
+!!!page: 164
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1320800012-instrumentalna-sztajer.krn
+!!!OTL: Instrumentalna-Sztajer
+!!!source: DWOK13
+!!!id: 13208
+!!!signature: 1320800012
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4ee
+16ee
+16ee
+=2
+8ee
+8dd
+8cc
+=3
+4dd
+16dd
+16dd
+=4
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+16ee
+16ee
+16ee
+16ee
+=6
+8ee
+8dd
+8cc
+=7
+16ee
+16ff
+16gg
+16ff
+16dd
+16b
+=8
+4.cc}
+==
+*-
+!!!ONB: Fragment w C
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 105} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

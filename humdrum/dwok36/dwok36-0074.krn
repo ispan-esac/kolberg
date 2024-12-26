@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK3607400000-oj_dywno_nam_dywno.krn
+!!!OTL: Oj dywno nam dywno
+!!!source: DWOK36
+!!!id: 36074
+!!!signature: 3607400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16b
+4dd
+=2
+16b
+16a
+4g
+=3
+4a
+8cc
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{8a
+4dd
+=6
+16cc#
+16ee
+4dd
+=7
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=8
+{8a
+4dd
+=9
+16cc#
+16ee
+4dd
+=10
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=11
+{16g
+16a
+8b
+8dd
+=12
+8b
+8a
+8g
+=13
+8ee
+4dd}
+!!LO:LB:g=esac
+=14
+{16ee
+16dd
+8dd
+8dd
+=
+24b
+24a
+24g
+8a
+8f#
+=15
+4.g
+=16
+8g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 41
+!!!ONB: Converted on 2024/12/26 with esac2hum

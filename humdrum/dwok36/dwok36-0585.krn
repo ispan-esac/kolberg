@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3658500000-nowa_rada_stala.krn
+!!!OTL: Nowa rada stała
+!!!source: DWOK36
+!!!id: 36585
+!!!signature: 3658500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8cc
+8ee
+8ff
+4dd
+=2
+8b
+8dd
+2cc
+=3
+8cc
+8ee
+8gg
+8aa
+4ff
+=4
+8dd
+8ff
+2ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4ee
+4ee
+=6
+8ee
+8ee
+8ff
+8ee
+8dd
+8cc
+=7
+4ee
+8ff
+8ee
+8dd
+8cc
+=8
+8b
+8dd
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 390
+!!!ONB: Converted on 2024/12/26 with esac2hum

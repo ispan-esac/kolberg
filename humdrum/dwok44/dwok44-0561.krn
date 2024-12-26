@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK4456100000-moja_marys_premilenka.krn
+!!!OTL: Moja Maryś premileńka
+!!!source: DWOK44
+!!!id: 44561
+!!!signature: 4456100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8cc
+=2
+8b
+8a
+4b
+=3
+4cc}
+4r
+!!LO:LB:g=esac
+=4
+{8cc
+8dd
+8ee
+8b
+=5
+8b
+8a
+4cc
+=6
+4cc}
+4r
+!!LO:LB:g=esac
+=7
+{4ee
+8ee
+8ff
+=8
+4.gg
+8ff#
+=9
+8gg
+8ff#
+4ee
+=10
+2dd}
+!!LO:LB:g=esac
+=11
+{8cc
+8dd
+8ee
+8gg
+=12
+8ff
+8ee
+4dd
+=13
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=359 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 303-304} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, pp. 303-304}
+!!!page: 303-304
+!!!ONB: Converted on 2024/12/26 with esac2hum

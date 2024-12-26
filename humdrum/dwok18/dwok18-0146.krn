@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1814600000-wele_ogrodecka_bija_zrodelecka.krn
+!!!OTL: Wele ogrodecka biją źródełecka
+!!!source: DWOK18
+!!!id: 18146
+!!!signature: 1814600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8ee
+8gg
+8gg
+8aa
+8gg
+=2
+8ff#
+8gg
+8ff
+8ff
+8dd
+8cc
+=3
+8ee
+8gg
+8ff
+8ff
+8dd
+8cc}
+!!LO:LB:g=esac
+=4
+{8.dd
+16b
+2g
+=5
+4f
+8a
+8b
+4cc
+=6
+8.dd
+16b
+2g
+=7
+4f
+8a
+8b
+4g}
+==
+*-
+!!!ONB: Zakodować od G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 107} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

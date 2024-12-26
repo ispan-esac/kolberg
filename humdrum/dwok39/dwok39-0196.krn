@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK3919600000-za_browarem_na_rzyce_pasla_kasia_kaczyce.krn
+!!!OTL: Za browarem, na rzyce pasła Kasia kaczyce
+!!!source: DWOK39
+!!!id: 39196
+!!!signature: 3919600000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4ee
+4gg
+4ee
+=2
+4ff
+4aa
+2dd}
+!!LO:LB:g=esac
+=3
+{4ff
+4ee
+4dd
+4cc
+=4
+8cc
+8dd
+4ee
+8dd
+8ee
+4ff}
+!!LO:LB:g=esac
+=5
+{4ff
+4ee
+4dd
+4aa
+=6
+4gg
+4b
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=273 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 221} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 221}
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

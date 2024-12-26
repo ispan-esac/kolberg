@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2731000000-w_krzewinie_w_leszczynie.krn
+!!!OTL: W krzewinie w leszczynie
+!!!source: DWOK27
+!!!id: 27310
+!!!signature: 2731000000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=1
+{4dd
+4b-
+2b-
+=2
+8b-
+8dd
+8ff
+8dd
+2cc
+=3
+8f
+8b-
+8a
+8g
+4f
+4ee-
+=4
+8dd
+8dd
+8cc
+8cc
+4b-}
+4r
+!!LO:LB:g=esac
+=5
+{8f
+8dd
+8cc
+8b-
+8b-
+8a
+4a
+=6
+8a
+8cc
+8ee-
+8cc
+8gg
+8ff
+4ff
+=7
+8f
+8dd
+8cc
+8b-
+8b-
+8a
+4ee-
+=8
+8cc
+8a
+8f
+8a
+4b-
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=325 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 306} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 306}
+!!!page: 306
+!!!ONB: Converted on 2024/12/26 with esac2hum

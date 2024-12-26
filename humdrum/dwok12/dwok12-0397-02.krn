@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK1239700002-z_tamtej_strony_jeziora.krn
+!!!OTL: Z tamtej strony jeziora
+!!!source: DWOK12
+!!!id: 12397
+!!!signature: 1239700002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8a
+8cc
+8b
+8cc
+=2
+8a
+8b
+8cc
+8dd
+=3
+2ee
+=4
+8gg
+8ee
+8dd
+8ee
+=5
+8dd
+8cc
+8b
+8a
+=6
+2g}
+!!LO:LB:g=esac
+=7
+{4ee
+8cc
+8ee
+=8
+4dd
+4g
+=9
+8a
+8a
+8cc
+8ee
+=10
+4a
+4g
+=11
+8a
+8a
+8cc
+8ee
+=12
+4dd
+4ee
+=13
+2a}
+==
+*-
+!!!ONB: Alternatywnie można zakodować w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=221 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 205} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 205}
+!!!page: 205
+!!!ONB: Converted on 2024/12/26 with esac2hum

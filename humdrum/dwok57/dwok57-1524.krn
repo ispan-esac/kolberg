@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK57152400000-spalo_dziecko_jeszcze_bedzie.krn
+!!!OTL: Spało dziecko, jeszcze będzie
+!!!source: DWOK57
+!!!id: 571524
+!!!signature: 57152400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8dd
+8cc
+8b
+8a
+=
+8a
+24a
+24b
+24cc
+16dd
+16cc
+16b
+16cc
+=2
+2b}
+!!LO:LB:g=esac
+=3
+{8a
+8b
+8cc#
+8dd
+=4
+8cc#
+8cc#
+8ee
+8dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8b
+8a
+=
+8a
+24a
+24b
+24cc
+16dd
+16cc
+16b
+16a
+=6
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 560
+!!!ONB: Converted on 2024/12/26 with esac2hum

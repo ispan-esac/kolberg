@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2803700000-witaj_krynico_dobra_wszelakiego.krn
+!!!OTL: Witaj krynico dobra wszelakiego
+!!!source: DWOK28
+!!!id: 28037
+!!!signature: 2803700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4d
+4g
+4g
+=2
+2g
+4b
+=3
+8a
+8g
+4f#
+4g
+=4
+2a
+4d}
+!!LO:LB:g=esac
+=5
+{4a
+4cc
+4cc
+=6
+2cc
+4a
+=7
+8b
+8a
+4g
+4f#
+=8
+2g
+4g}
+!!LO:LB:g=esac
+=9
+{4a
+4cc
+4cc
+=10
+2cc
+4a
+=11
+8g
+8a
+4b
+4b
+=12
+2b
+4g}
+!!LO:LB:g=esac
+=13
+{4a
+4a
+4a
+=14
+2a
+4cc
+=15
+8b
+8a
+4g
+4f#
+=16
+2g
+4g}
+==
+*-
+!!!ONB: O Sercu Pana Jezusa
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 91} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 91}
+!!!page: 91
+!!!ONB: Converted on 2024/12/26 with esac2hum

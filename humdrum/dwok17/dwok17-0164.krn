@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1716400000-oj_sieje_sie_sieje.krn
+!!!OTL: Oj sieje się sieje
+!!!source: DWOK17
+!!!id: 17164
+!!!signature: 1716400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16g
+8a
+8b
+=2
+8cc
+8cc
+8cc
+=3
+16cc
+16cc
+8b
+8g
+=4
+8a
+8e
+8f}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8b
+8g
+=6
+8cc
+8b
+8dd
+=7
+16a
+16cc
+8b
+8g
+=8
+8a
+8e
+8f}
+!!LO:LB:g=esac
+=9
+{16cc
+16cc
+8dd
+8dd
+=10
+8e
+8f
+8a
+=11
+16cc
+16cc
+8b
+8g
+=12
+8a
+8e
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 55} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 55}
+!!!page: 55
+!!!ONB: Converted on 2024/12/26 with esac2hum

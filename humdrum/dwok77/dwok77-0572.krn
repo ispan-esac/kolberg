@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK7757200000-oj_powiedzieli_byli_da_ze_jasia_zabili.krn
+!!!OTL: Oj powiedzieli byli da ze Jasia zabili
+!!!source: DWOK77
+!!!id: 77572
+!!!signature: 7757200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8cc
+8ee
+=2
+16dd
+16b
+8g
+8f#}
+!!LO:LB:g=esac
+=3
+{16g
+32a
+32b
+8cc
+8g
+=4
+16a
+16b
+8g
+8f#}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8cc
+8cc
+=6
+16dd
+16b
+8g
+8f#}
+!!LO:LB:g=esac
+=7
+{16g
+32a
+32b
+8cc
+8cc
+=8
+16a
+16b
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 292
+!!!ONB: Converted on 2024/12/26 with esac2hum

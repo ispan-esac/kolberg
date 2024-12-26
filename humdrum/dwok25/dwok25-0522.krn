@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2552200000-na_kobyle_wozil_dyle.krn
+!!!OTL: Na kobyle woził dyle
+!!!source: DWOK25
+!!!id: 25522
+!!!signature: 2552200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16dd
+16dd
+8cc
+16cc
+16a
+=2
+16.b-
+32b-
+8a
+8cc
+=3
+16b-
+16dd
+8cc
+8a
+=4
+16.b-
+32b-
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8a
+8cc
+=6
+16b-
+16b-
+8a
+8cc
+=7
+16c
+16c
+8f
+16a
+16cc
+=8
+16b-
+16b-
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 206} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 206}
+!!!page: 206
+!!!ONB: Converted on 2024/12/26 with esac2hum

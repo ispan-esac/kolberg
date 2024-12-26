@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK3604700001-czerwonaja_rozo.krn
+!!!OTL: Czerwonaja różo
+!!!source: DWOK36
+!!!id: 36047
+!!!signature: 3604700001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4b
+16a
+16b
+16cc
+16b
+=2
+4cc
+4b
+=3
+4a
+4g#}
+!!LO:LB:g=esac
+=4
+{4cc
+8b
+8b
+=5
+8a
+8a
+4g#
+=6
+4.e
+8e}
+!!LO:LB:g=esac
+=7
+{8e
+8e
+4g#
+=8
+4g#
+4a
+=9
+4b
+4g#}
+!!LO:LB:g=esac
+=10
+{4cc
+8b
+8b
+=11
+8a
+8a
+4g#
+=12
+4.e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 25
+!!!ONB: Converted on 2024/12/26 with esac2hum

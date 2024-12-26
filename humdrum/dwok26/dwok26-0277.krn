@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK2627700000-tam_za_dworem.krn
+!!!OTL: Tam za dworem
+!!!source: DWOK26
+!!!id: 26277
+!!!signature: 2627700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+8dd
+8dd
+=2
+16dd
+16ee
+8dd
+8a
+=3
+16cc
+16b
+4b}
+!!LO:LB:g=esac
+=4
+{4a
+8cc
+=5
+16cc
+16b
+4b
+=6
+4a
+8g
+=7
+16f#
+16d
+4d}
+!!LO:LB:g=esac
+=8
+{16a
+16a
+8.dd
+16f#
+=9
+16a
+16g
+8g}
+8r
+!!LO:LB:g=esac
+=10
+{4a
+8cc
+=11
+16cc
+16b
+4b
+=12
+4dd
+8gg
+=
+4ee
+24dd
+24cc
+24b}
+!!LO:LB:g=esac
+=
+{24a
+24cc
+24ee
+8.dd
+16f#
+=13
+16a
+16g
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

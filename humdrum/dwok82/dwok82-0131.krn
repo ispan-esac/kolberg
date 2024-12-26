@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK8213100000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK82
+!!!id: 82131
+!!!signature: 8213100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24dd
+24ee
+24ff#
+8gg
+16b
+16dd
+=1
+16ee
+16dd
+16cc
+16b
+16a
+16g
+=2
+8a
+8a
+8a
+=3
+16a
+16cc
+8b
+8b}
+!!LO:LB:g=esac
+=
+{24dd
+24ee
+24ff#
+8gg
+16b
+16dd
+=4
+16ee
+16dd
+16cc
+16b
+16a
+16g
+=5
+8a
+16a
+16b
+16a
+16f#
+=6
+8g
+4g}
+!!LO:LB:g=esac
+=7
+{8a
+4a
+=8
+16b
+16a
+8b
+16g
+16b
+=9
+16dd
+16cc
+16a
+16f#
+16a
+16cc}
+!!LO:LB:g=esac
+=10
+{16ee
+16dd
+8b
+8b
+=11
+16dd
+16ff#
+8aa
+8dd
+=12
+16ee
+16dd
+16cc
+16b
+16a
+16g
+=13
+8a
+16a
+16cc
+16a
+16f#
+=14
+8g
+4g}
+==
+*-
+!!!ONB: Melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=211 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 113} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 113}
+!!!page: 113
+!!!ONB: Converted on 2024/12/26 with esac2hum

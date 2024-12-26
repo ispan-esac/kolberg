@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK8412400000-na_szczoz_myni_zenyty_sia.krn
+!!!OTL: Na szczoż myni żenyty sia
+!!!source: DWOK84
+!!!id: 84124
+!!!signature: 8412400000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=1
+{8f
+8f
+8f
+16e
+16d
+=2
+8c
+8g
+8e
+16f
+16e
+=3
+8d
+8d
+16d
+16f
+16e
+16d
+=4
+4c#
+4A
+=5
+8f
+8f
+8f
+16e
+16d
+=6
+8c
+8g
+8e
+16f
+16e
+=7
+8d
+8d
+16d
+16f
+16e
+16d
+=8
+4c#
+4A}
+==
+*-
+!!!ONB: U Kolberga zapis z akompaniamentem
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 130-131} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, pp. 130-131}
+!!!page: 130-131
+!!!ONB: Converted on 2024/12/26 with esac2hum

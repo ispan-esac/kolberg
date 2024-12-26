@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK2575200010-hej_mazury_hejze_ha.krn
+!!!OTL: Hej Mazury hejże ha
+!!!source: DWOK25
+!!!id: 25752
+!!!signature: 2575200010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.dd
+16b
+16cc
+16a
+=2
+16g
+16b
+8g
+8b
+=3
+8.dd
+16b
+16cc
+16a
+=4
+16g
+16b
+8g
+8e}
+!!LO:LB:g=esac
+=5
+{16d
+16cc
+8b
+8cc
+=6
+16b
+16dd
+8cc#
+8dd
+=7
+16d
+16cc
+8b
+8cc
+=8
+16b
+16dd
+8cc#
+8dd}
+!!LO:LB:g=esac
+=9
+{16d
+16d
+8.b
+16a
+=10
+16f#
+16g
+8.ee
+16dd
+=11
+16cc#
+16dd
+8cc
+16a
+16f#
+=12
+4.g}
+==
+*-
+!!!ONB: wariant w takcie piątym -543_.2
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 266} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 266}
+!!!page: 266
+!!!ONB: Converted on 2024/12/26 with esac2hum

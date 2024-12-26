@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK42158100000-juz_sie_wiosna_rozpoczyna.krn
+!!!OTL: Już się wiosna rozpoczyna
+!!!source: DWOK42
+!!!id: 421581
+!!!signature: 42158100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.dd
+16b
+8g
+8g
+8.ee
+16dd
+=2
+8dd
+8cc
+4a}
+4r
+!!LO:LB:g=esac
+=3
+{8a
+8f#
+8d
+8ee
+8dd
+8cc
+=4
+8cc
+8b
+4b
+4r
+=5
+8b
+8cc
+8dd
+8dd
+8ee
+8ff#}
+!!LO:LB:g=esac
+=6
+{8gg
+8ee
+4cc
+4r
+=7
+8dd
+8dd
+8ee
+8dd
+8cc
+8f#
+=8
+8a
+8g
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 107} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

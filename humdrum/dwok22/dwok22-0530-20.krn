@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2253000020-a_czego_u_mnie_chcesz.krn
+!!!OTL: A czego u mnie chcesz
+!!!source: DWOK22
+!!!id: 22530
+!!!signature: 2253000020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{24g
+24a
+24b
+8.cc
+16ee
+=1
+16ee
+16gg
+8aa
+16dd
+16b
+=
+24g
+24a
+24b
+8.cc
+16ee
+=2
+16ee
+16dd
+8ff
+16cc
+16b}
+!!LO:LB:g=esac
+=
+{24g
+24a
+24b
+8.cc
+16g
+=3
+16cc
+16ee
+8ff
+8dd
+=
+24g
+24a
+24b
+8.cc
+16g
+=4
+16ee
+16dd
+8ff
+16cc
+16b}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 243} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 243}
+!!!page: 243
+!!!ONB: Converted on 2024/12/26 with esac2hum

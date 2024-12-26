@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK41101300001-bratowa_bratowa.krn
+!!!OTL: Bratowa, bratowa
+!!!source: DWOK41
+!!!id: 411013
+!!!signature: 41101300001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{4dd
+4dd
+4ee
+=2
+8b
+8a
+2b
+=3
+4dd
+4dd
+4ee
+=4
+8b
+8a
+2b}
+!!LO:LB:g=esac
+=5
+{2g
+4g
+=6
+8b
+8dd
+2cc
+=7
+8b
+8b
+4g
+4f#
+=8
+4g
+4e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=510 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 423} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 423}
+!!!page: 423
+!!!ONB: Converted on 2024/12/26 with esac2hum

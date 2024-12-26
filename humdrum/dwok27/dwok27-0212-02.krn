@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2721200002-z_tamtej_strony_dwora.krn
+!!!OTL: Z tamtej strony dwora
+!!!source: DWOK27
+!!!id: 27212
+!!!signature: 2721200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16cc
+8dd
+8dd
+=2
+16dd
+16gg
+8ff#
+8ee
+=3
+16a
+16b
+8cc
+8ee
+=4
+8dd
+4b}
+!!LO:LB:g=esac
+=5
+{8.g
+16d
+16g
+16b
+=6
+8dd
+8cc
+8d
+=7
+16.f#
+32d
+8f#
+8a
+=8
+16cc
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 259} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 259}
+!!!page: 259
+!!!ONB: Converted on 2024/12/26 with esac2hum

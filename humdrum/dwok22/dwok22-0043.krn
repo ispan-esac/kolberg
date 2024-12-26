@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK2204300000-o_dla_boga_co_takiego.krn
+!!!OTL: O dla Boga co takiego
+!!!source: DWOK22
+!!!id: 22043
+!!!signature: 2204300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8cc
+8dd
+=2
+16ee
+16ff
+8ee
+8b
+=3
+16cc
+16ee
+8cc
+8a
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8cc
+8dd
+=6
+16ee
+16ff
+8ee
+8dd
+=7
+16cc
+32dd
+32ee
+8cc
+8b
+=8
+4.cc}
+!!LO:LB:g=esac
+=9
+{16g
+16g
+8cc
+8e
+=10
+16f
+16a
+8cc
+8a
+=11
+16g
+16g
+8cc
+8dd
+=12
+16ee
+16ff
+8ee
+8g}
+!!LO:LB:g=esac
+=13
+{16cc
+32dd
+32ee
+8cc
+8b
+=14
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=65 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 47-48} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, pp. 47-48}
+!!!page: 47-48
+!!!ONB: Converted on 2024/12/26 with esac2hum

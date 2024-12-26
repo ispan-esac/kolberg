@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1645400002-a_ja_nieszczesliwa_co_ja_ucynila.krn
+!!!OTL: A ja nieszczęśliwa co ja ucyniła
+!!!source: DWOK16
+!!!id: 16454b
+!!!signature: 1645400002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16ee
+16ee
+8dd
+8cc
+=2
+8ff
+4cc
+=3
+16cc
+16dd
+8cc
+8g
+=4
+8a
+4cc}
+!!LO:LB:g=esac
+=5
+{16ee
+16ee
+8dd
+8cc
+=6
+8ff
+4cc
+=7
+16cc
+16dd
+8cc
+8g
+=8
+8b-
+4a}
+!!LO:LB:g=esac
+=9
+{8f
+4a
+=10
+16a
+16cc
+8cc
+8b-
+=11
+8g
+8b-
+8g
+=12
+16b-
+16dd
+8ee
+8cc
+=13
+16dd
+16cc
+8g
+8b-
+=14
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=300 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 280} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 280}
+!!!ONB: Converted on 2024/12/26 with esac2hum

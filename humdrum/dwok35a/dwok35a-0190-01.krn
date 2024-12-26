@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK35A-35A19000001-z_chaty_diwojki.krn
+!!!OTL: Z chaty diwojki
+!!!source: DWOK35A
+!!!id: 35A190
+!!!signature: 35A19000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4b
+8b
+8b
+=2
+4cc
+4b
+=3
+4a
+4g
+=4
+4a}
+4r
+!!LO:LB:g=esac
+=5
+{4b
+8b
+8b
+=6
+4cc
+4b
+=7
+4a
+4g}
+!!LO:LB:g=esac
+=8
+{4cc
+8cc
+8a
+=9
+4b
+4a
+=10
+2g
+=11
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 104} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 104}
+!!!page: 104
+!!!ONB: Converted on 2024/12/26 with esac2hum

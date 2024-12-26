@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK1814200000-plynie_cyraneczka_od_ladu_do_ladu.krn
+!!!OTL: Płynie cyraneczka od lądu do lądu
+!!!source: DWOK18
+!!!id: 18142
+!!!signature: 1814200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8.ee
+16dd
+=2
+4.cc
+8cc
+=3
+8b
+8dd
+8ff
+8ee
+=4
+4.dd
+8dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16cc
+16b
+16a
+8.g
+16g
+=6
+8cc
+4cc
+16dd
+16ee
+=7
+8ff
+8dd
+8b
+8dd
+=8
+8dd
+4cc}
+8r
+!!LO:LB:g=esac
+=9
+{8g
+8cc
+8.ee
+16dd
+=10
+4.cc
+8cc
+=11
+8b
+8dd
+8ff
+8ee
+=12
+4.dd
+8dd}
+!!LO:LB:g=esac
+=13
+{8dd
+8cc
+8.ee
+16dd
+=14
+8cc
+4cc
+16dd
+16ee
+=15
+16ff
+16ee
+16dd
+16cc
+8b
+8dd
+=16
+8dd
+4cc}
+8r
+==
+*-
+!!!ONB: Melodia dwóch zwrotek
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 105} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 105}
+!!!page: 105
+!!!ONB: Converted on 2024/12/26 with esac2hum

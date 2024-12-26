@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK4101300002-i_wziela_koszyczek_w_ryneczek_poszla.krn
+!!!OTL: I wzięła koszyczek, w ryneczek poszła
+!!!source: DWOK41
+!!!id: 41013
+!!!signature: 4101300002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+8cc
+8dd
+8ee
+8g#
+=2
+8a
+8cc
+8b
+8cc
+4a}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+8cc
+8dd
+8ee
+8g#
+=4
+8a
+8cc
+8b
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+8ee
+8dd
+8b
+=6
+8cc
+8dd
+8ee
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+8dd
+8cc
+8b
+8dd
+=8
+8b
+8g#
+2a}
+==
+*-
+!!!ONB: Po oczepinach
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 30} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 30}
+!!!page: 30
+!!!ONB: Converted on 2024/12/26 with esac2hum

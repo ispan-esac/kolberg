@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1640800002-a_w_niedziele_raniusienko.krn
+!!!OTL: A w niedzielę raniusieńko
+!!!source: DWOK16
+!!!id: 16408b
+!!!signature: 1640800002
+**kern
+*clefG2
+*k[f#c#g#d#a#]
+*B:
+*M3/8
+=1
+{16cc#
+16ee#
+8ff#
+8gg#
+=2
+16ff#
+16dd#
+8cc#
+8ee
+=3
+16dd#
+32b
+32a#
+8g#
+16b
+16a#
+=4
+4f#}
+8r
+!!LO:LB:g=esac
+=5
+{16g#
+16b
+8g#
+8f#
+=6
+16g#
+16b
+8cc#
+8ee
+=7
+16dd#
+16b
+8g#
+16b
+16a#
+=8
+4f#}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 255} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 255}
+!!!ONB: Converted on 2024/12/26 with esac2hum

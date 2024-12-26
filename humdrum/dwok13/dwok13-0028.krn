@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1302800000-dwie_marysie_spotkaly_sie.krn
+!!!OTL: Dwie Marysie spotkały się
+!!!source: DWOK13
+!!!id: 13028
+!!!signature: 1302800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8dd
+8b
+=2
+16a
+16cc
+8cc
+8a
+=3
+16g
+16b
+8b
+8g
+=4
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8a
+8a
+=6
+16g
+16b
+8b
+8b
+=7
+16a
+16cc
+8cc
+8cc
+=8
+8b
+4dd}
+!!LO:LB:g=esac
+=9
+{16f#
+16a
+8a
+8a
+=10
+16g
+16b
+8b
+8b
+=11
+16a
+16cc
+8cc
+8cc
+=12
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 17-18} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 17-18}
+!!!page: 17-18
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK1311700000-niemasz_w_swiecie_nic_milszego.krn
+!!!OTL: Niemasz w świecie nic milszego
+!!!source: DWOK13
+!!!id: 13117
+!!!signature: 1311700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8cc#
+8ee
+16ee
+16dd
+16dd
+16cc#
+=2
+8cc#
+8ee
+16ee
+16dd
+16dd
+16cc#}
+!!LO:LB:g=esac
+=3
+{4.ff#
+8dd
+=4
+4.b
+8g#
+=5
+8a
+8a
+8cc#
+8a}
+!!LO:LB:g=esac
+=6
+{4.ff#
+8dd
+=7
+4.b
+8g#
+=8
+8a
+8a
+8cc#
+8ee}
+!!LO:LB:g=esac
+=9
+{8.e
+16g#
+16g#
+16b
+16b
+16dd
+=10
+8a
+8a
+8cc#
+8ee}
+!!LO:LB:g=esac
+=11
+{4.dd
+8b
+=12
+4.g#
+8e
+=13
+8a
+16g#
+16a
+8cc#
+8a}
+!!LO:LB:g=esac
+=14
+{4.dd
+8b
+=15
+4.b
+8g#
+=16
+8a
+16g#
+16a
+8cc#
+8ee}
+==
+*-
+!!!ONB: Wiwat przyjacielski
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=91 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 67} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 67}
+!!!page: 67
+!!!ONB: Converted on 2024/12/26 with esac2hum

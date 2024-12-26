@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2519700002-na_warsawskiej_ulicy.krn
+!!!OTL: Na Warsawskiej ulicy
+!!!source: DWOK25
+!!!id: 25197
+!!!signature: 2519700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8b
+8dd
+8b
+=2
+8dd
+8ee
+4dd
+=3
+16dd
+16cc
+16b
+16cc
+16dd
+16cc
+16b
+16cc
+=4
+8dd
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8.cc
+16a
+8f#
+8d
+=6
+8g
+16g
+16b
+4dd
+=7
+8cc
+16cc
+16dd
+8ee
+8ee
+=8
+16dd
+16cc#
+16dd
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 87} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 87}
+!!!page: 87
+!!!ONB: Converted on 2024/12/26 with esac2hum

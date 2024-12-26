@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3613500000-oj_hraj_koniu_woronyj.krn
+!!!OTL: Oj hraj koniu woronyj
+!!!source: DWOK36
+!!!id: 36135
+!!!signature: 3613500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8b
+4b
+=2
+8cc
+4a
+=3
+8dd
+4ee
+=4
+8dd
+4a
+=5
+8cc
+16b
+16cc
+16dd
+16cc
+=6
+4.b}
+!!LO:LB:g=esac
+=7
+{8b
+8b
+8b
+=8
+8cc
+4a
+=9
+8dd
+4ee
+=10
+8dd
+4a
+=11
+8cc
+16b
+16cc
+16dd
+16cc
+=12
+4.b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

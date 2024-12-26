@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK57146500001-kolysala_baba_dida.krn
+!!!OTL: Kołysała baba dida
+!!!source: DWOK57
+!!!id: 571465
+!!!signature: 57146500001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8b
+8a
+8g
+=2
+8g
+8b
+4cc
+=3
+2a}
+!!LO:LB:g=esac
+=4
+{8g
+8a
+8b
+8cc
+=5
+8b
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=6
+{8cc
+8b
+8a
+8g
+=7
+8g
+8b
+4cc
+=8
+2a}
+!!LO:LB:g=esac
+=9
+{8.a
+16g
+8a
+8g
+=10
+8g
+8b
+4dd
+=11
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 516
+!!!ONB: Converted on 2024/12/26 with esac2hum

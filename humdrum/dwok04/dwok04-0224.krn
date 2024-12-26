@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK0422400000-oj_biada_my_biada.krn
+!!!OTL: Oj biada my biada
+!!!source: DWOK04
+!!!id: K0224
+!!!signature: 0422400000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8.d
+16d
+8d
+8e
+8f#
+8g
+=2
+8.a
+16a
+8a
+8b
+8cc#
+8a
+=3
+8a
+8cc#
+4dd
+4cc#
+=4
+8b
+8b
+2a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc#
+8dd
+8a
+8f#
+8d
+=6
+8g
+8g
+8b
+8a
+8g
+8f#
+=7
+8e
+8f#
+4g
+4a
+=8
+8e
+8e
+2d}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+4.g
+8f#
+=10
+4e
+4e
+4d
+=11
+8d
+8f#
+4.g
+8f#
+=12
+8e
+8e
+4d}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 114-115} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 114-115}
+!!!page: 114-115
+!!!ONB: Converted on 2024/12/26 with esac2hum

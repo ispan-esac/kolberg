@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2637200000-a_w_lesie_w_lesie_wychowalem_sie.krn
+!!!OTL: A w lesie w lesie wychowałem się
+!!!source: DWOK26
+!!!id: 26372
+!!!signature: 2637200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8b
+=2
+4dd
+8ee
+=3
+8dd
+8dd
+8b
+=4
+4g
+8d}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8dd
+=6
+8b
+8b
+8dd
+=7
+8cc
+8cc
+8dd
+=8
+8b
+4g}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8cc
+=10
+8b
+8b
+8g
+=11
+16e
+16c
+8e
+8g
+=12
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 267
+!!!ONB: Converted on 2024/12/26 with esac2hum

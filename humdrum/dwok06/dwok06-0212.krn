@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK06-K0212-przyjechal_do_mnie.krn
+!!!OTL: Przyjechal do mnie
+!!!source: DWOK06
+!!!id: K0212
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+8dd
+4ee
+=3
+8dd
+8dd
+8cc
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8cc#
+8dd
+=6
+8ee
+8.dd
+32cc
+32b
+=7
+4a}
+8r
+!!LO:LB:g=esac
+=8
+{8b
+8b
+8b
+=9
+8dd
+4b
+=10
+16dd
+16ee
+8dd
+8cc
+=11
+8a
+4g#}
+!!LO:LB:g=esac
+=12
+{16b
+16dd
+8cc#
+8dd
+=13
+8ee
+8.dd
+32cc
+32b
+=14
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 113} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 113}
+!!!page: 113
+!!!ONB: Converted on 2024/12/26 with esac2hum

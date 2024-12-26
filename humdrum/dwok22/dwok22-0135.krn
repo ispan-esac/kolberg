@@ -1,0 +1,37 @@
+!!!!SEGMENT: DWOK2213500000-zielona_ruta_jalowiec.krn
+!!!OTL: Zielona ruta jałowiec
+!!!source: DWOK22
+!!!id: 22135
+!!!signature: 2213500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8b
+4dd
+4ee
+4a
+=2
+4cc
+4a
+2f#
+=3
+8g
+8b
+4g
+4cc
+4a
+=4
+4f#
+4d
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 91} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 91}
+!!!page: 91
+!!!ONB: Converted on 2024/12/26 with esac2hum

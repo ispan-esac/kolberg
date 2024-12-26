@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2111400001-carna_rola_nie_orana.krn
+!!!OTL: Carna rola nie orana
+!!!source: DWOK21
+!!!id: 21114
+!!!signature: 2111400001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+4cc
+=2
+8ee
+4ff
+=3
+4ee
+8g
+=4
+8b
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8dd
+=6
+8ee
+8ff
+8dd
+=7
+4gg
+8g
+=8
+8b
+4cc}
+!!LO:LB:g=esac
+=9
+{16ee
+16gg
+8gg
+8ff
+=10
+8ee
+8ee
+8dd
+=11
+16ee
+16gg
+8gg
+8ff
+=12
+8ee
+8dd
+8ff}
+!!LO:LB:g=esac
+=13
+{4gg
+8g
+=14
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 56} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

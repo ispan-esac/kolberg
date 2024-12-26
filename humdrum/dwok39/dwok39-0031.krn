@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK3903100000-cztery_progi_i_piaty_piec.krn
+!!!OTL: Cztery progi i piąty piec
+!!!source: DWOK39
+!!!id: 39031
+!!!signature: 3903100000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=1
+{8dd
+8ee
+4ff
+4dd
+=2
+4cc
+4cc
+4g
+=3
+4b-
+4a}
+4r
+!!LO:LB:g=esac
+=4
+{8dd
+8ee
+4ff
+4dd
+=5
+8cc
+8b-
+4a
+4g
+=6
+4cc
+4cc
+4b-
+=7
+4a}
+4r
+4r
+!!LO:LB:g=esac
+=8
+{8g
+8a
+4b-
+4a
+=9
+4cc
+4cc
+4b-
+=10
+4dd
+4cc
+4a}
+!!LO:LB:g=esac
+=11
+{8g
+8a
+4b-
+4cc
+=12
+4dd
+4dd
+4cc
+=13
+4b-
+4b-
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 101} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 101}
+!!!page: 101
+!!!ONB: Converted on 2024/12/26 with esac2hum

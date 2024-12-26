@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK2643600000-kiele_boru_gnal_owcarek.krn
+!!!OTL: Kiele boru gnał owcarek
+!!!source: DWOK26
+!!!id: 26436
+!!!signature: 2643600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16cc
+8cc
+8cc
+=2
+16cc
+16ee
+8ff
+8dd
+=3
+16dd
+16dd
+8ff
+8ee
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{16.g
+32g
+8g
+16b-
+16a
+=6
+16f
+16a
+16f
+16a
+16cc
+16dd
+=7
+16b-
+16g
+8g
+16g
+16a
+=8
+4f}
+8r
+!!LO:LB:g=esac
+=9
+{16cc
+16cc
+8cc
+8ee
+=10
+16cc
+16ee
+16cc
+16ee
+16ff
+16dd
+=11
+16b-
+16g
+8g
+16b-
+16a
+=12
+4f}
+8r
+!!LO:LB:g=esac
+=13
+{16.g
+32g
+8b-
+16b-
+16a
+=14
+16f
+16a
+16f
+16a
+16cc
+16dd
+=15
+16b-
+16g
+8g
+16b-
+16a
+=16
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 300
+!!!ONB: Converted on 2024/12/26 with esac2hum

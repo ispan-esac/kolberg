@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK8357700001-pryjichaly_zoumire_z_obozu.krn
+!!!OTL: Pryjichały żoumire z obozu
+!!!source: DWOK83
+!!!id: 83577
+!!!signature: 8357700001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16g
+16a
+8b
+8b
+8f#
+=2
+4g
+4d
+=3
+8e
+8g
+8f#
+8f#
+=4
+4e
+4d}
+!!LO:LB:g=esac
+=5
+{4g
+8a
+8a
+=6
+4b
+4g
+=7
+8a
+8cc
+8cc
+8b
+=8
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=473 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 362-363} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, pp. 362-363}
+!!!page: 362-363
+!!!ONB: Converted on 2024/12/26 with esac2hum

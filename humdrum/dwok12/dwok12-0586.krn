@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK1258600000-byla_babulenka_z_bogatego_rodu.krn
+!!!OTL: Była babuleńka z bogatego rodu
+!!!source: DWOK12
+!!!id: 12586
+!!!signature: 1258600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+8cc
+=2
+8ff
+4dd
+=3
+16ee
+16dd
+8cc
+8b
+=4
+8cc
+4dd}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8ee
+8cc
+=6
+8ff
+4dd
+=7
+16ee
+16dd
+8cc
+8b
+=8
+8dd
+4cc}
+!!LO:LB:g=esac
+=9
+{16cc
+16dd
+8ee
+8gg
+=10
+8ff
+4dd
+=11
+16ee
+16dd
+8cc
+8b
+=12
+8cc
+4dd}
+!!LO:LB:g=esac
+=13
+{16cc
+16dd
+8ee
+8gg
+=14
+8ff
+4dd
+=15
+16ee
+16dd
+8cc
+8b
+=16
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 295} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 295}
+!!!page: 295
+!!!ONB: Converted on 2024/12/26 with esac2hum

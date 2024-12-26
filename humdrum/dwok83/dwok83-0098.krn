@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK8309800000-oj_niesa_niesa_korowaj_z_pieca.krn
+!!!OTL: Oj, niesą, niesą korowaj z pieca
+!!!source: DWOK83
+!!!id: 83098
+!!!signature: 8309800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+8ff
+16dd
+16cc#
+=
+8.ff
+16ee
+24ee
+24dd
+24cc
+=2
+16dd
+16ee
+16ff
+16ee
+8dd
+=3
+4.cc
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8dd
+=
+8.ff
+16ee
+24ee
+24dd
+24cc
+=6
+8ee
+16ff
+16ee
+8dd
+=7
+4.cc
+=8
+4g}
+8r
+==
+*-
+!!!ONB: Wariant t. 1: +4_+4+3+2+1#; wariant t. 8: +3_+4+3+27
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 97} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 97}
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

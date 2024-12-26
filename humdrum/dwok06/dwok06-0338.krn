@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK06-K0338-jakem_sluzyl_przy_dworze.krn
+!!!OTL: Jakem sluzyl przy dworze
+!!!source: DWOK06
+!!!id: K0338
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8a
+8f
+8f
+=2
+8g
+8g
+4f
+=3
+4cc
+4cc
+=4
+8dd
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8cc
+8b-
+=6
+8a
+8g
+4f
+=7
+4a
+4cc
+=8
+8g
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 169} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 169}
+!!!page: 169
+!!!ONB: Converted on 2024/12/26 with esac2hum

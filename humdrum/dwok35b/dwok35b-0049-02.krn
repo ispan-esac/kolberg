@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK35B-35B04900002-czem_ty_solowiju_hej.krn
+!!!OTL: Czem ty sołowiju hej
+!!!source: DWOK35B
+!!!id: 35B049
+!!!signature: 35B04900002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+8cc
+8dd
+8ee
+8cc
+=2
+8ee
+8ee
+16ee
+16cc
+16ee
+16cc
+8ee
+8cc}
+!!LO:LB:g=esac
+=3
+{[2ee
+8ee]
+8dd#
+=4
+8ff#
+8ee
+8ee
+16dd#
+16ee
+16dd
+16a
+8cc
+=5
+2.a}
+!!LO:LB:g=esac
+=6
+{8cc
+8dd
+8dd
+8a
+8cc
+8cc
+=7
+8cc
+16dd
+16a
+8dd
+8a
+8cc
+8cc}
+!!LO:LB:g=esac
+=8
+{[2ee
+8ee]
+8dd#
+=9
+8ff#
+16ee
+16dd#
+16cc
+16b
+16cc
+16dd
+8cc
+8g#
+=10
+2.a}
+==
+*-
+!!!ONB: Wariant w taktach jedenastym i dwunastym 6_54#3b_2_5__  1___.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 157} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 157}
+!!!page: 157
+!!!ONB: Converted on 2024/12/26 with esac2hum

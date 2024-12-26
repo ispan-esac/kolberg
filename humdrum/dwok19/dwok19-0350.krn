@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK1935000000-nie_wierz_nie_wierz.krn
+!!!OTL: Nie wierz nie wierz
+!!!source: DWOK19
+!!!id: 19350
+!!!signature: 1935000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4ee
+8cc
+=2
+4ee
+8cc
+=3
+16b
+16dd
+8ff
+8ff
+=4
+16ee
+16cc
+4a}
+!!LO:LB:g=esac
+=5
+{8g#
+8g#
+8e
+=6
+8a
+8a
+8cc
+=7
+16b
+16dd
+8dd
+8ee
+=8
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 107} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

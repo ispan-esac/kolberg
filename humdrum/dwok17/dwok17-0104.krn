@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1710400000-ej_a_wy_sierotenki.krn
+!!!OTL: Ej a wy sieroteńki
+!!!source: DWOK17
+!!!id: 17104
+!!!signature: 1710400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{4dd
+24cc#
+24dd
+24ee
+=
+16dd
+16cc#
+8dd
+24b
+24a
+24g}
+!!LO:LB:g=esac
+=1
+{16b
+16dd
+8cc#
+8a
+=2
+16a
+16g
+4b}
+!!LO:LB:g=esac
+=3
+{16b
+16dd
+8cc#
+8a
+=
+24a
+24b
+24cc#
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=4
+{16b
+16dd
+8cc#
+8a
+=5
+16f#
+16g
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 36} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 36}
+!!!page: 36
+!!!ONB: Converted on 2024/12/26 with esac2hum

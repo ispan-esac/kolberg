@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2915600000-kalynowyji_kwity.krn
+!!!OTL: Kalynowyji kwity
+!!!source: DWOK29
+!!!id: 29156
+!!!signature: 2915600000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+8r
+{8a
+8a
+=
+8a
+8g
+24e
+24f#
+24d#
+=2
+4e
+8e}
+!!LO:LB:g=esac
+=3
+8r
+{8b
+8b
+=4
+8b
+16b
+16a
+8f#
+=5
+8g
+8a
+8f#}
+!!LO:LB:g=esac
+=6
+8r
+{8b
+8b
+=7
+8b
+16b
+16a
+32g
+32e
+32f#
+32d#
+=8
+4e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 256} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 256}
+!!!page: 256
+!!!ONB: Converted on 2024/12/26 with esac2hum

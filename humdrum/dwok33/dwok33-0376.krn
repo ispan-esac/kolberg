@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3337600000-czym_nie_chodzila_czym_nie_robila.krn
+!!!OTL: Czym nie chodziła czym nie robiła
+!!!source: DWOK33
+!!!id: 33376
+!!!signature: 3337600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+8cc
+8dd
+4ee
+=2
+8dd
+8dd
+8cc#
+8dd
+4g
+=3
+8a
+8ee
+8dd
+8cc
+8b
+8g
+=4
+4.a
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8a
+8dd
+8b
+8g
+=6
+8a
+8a
+8f#
+8g
+4b
+=7
+8cc
+8cc
+8a
+8dd
+8b
+8g
+=8
+4.a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=380 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 338-339} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, pp. 338-339}
+!!!page: 338-339
+!!!ONB: Converted on 2024/12/26 with esac2hum

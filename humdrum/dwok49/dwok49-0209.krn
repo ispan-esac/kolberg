@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK4920900000-na_iwana_na_kupana.krn
+!!!OTL: Na Iwana, na Kupana
+!!!source: DWOK49
+!!!id: 49209
+!!!signature: 4920900000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M2/4
+{8g
+8g
+16b
+16cc
+8ee
+=2
+4ff
+16ee
+16dd
+8cc
+=3
+8dd
+8b
+4cc}
+!!LO:LB:g=esac
+=4
+*M3/8
+{8dd
+8ff
+8ee
+=5
+16dd
+16cc
+4ee
+=6
+8cc
+8dd
+8b
+=7
+4.cc}
+==
+*-
+!!!ONB: Wadliwy zapis metrorytmiczny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=348 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 266} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 266}
+!!!page: 266
+!!!ONB: Converted on 2024/12/26 with esac2hum

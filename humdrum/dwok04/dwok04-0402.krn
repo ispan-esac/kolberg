@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK04-K0402-od_naszego_jasniepana.krn
+!!!OTL: Od naszego jasniepana
+!!!source: DWOK04
+!!!id: K0402
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+16dd
+16cc#
+=2
+16a
+16cc#
+8dd
+8b
+=3
+8dd
+8dd
+16dd
+16cc
+=4
+16a
+16a
+8f#
+8d}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8g
+8b
+=6
+16b
+16a
+8cc
+8b
+=7
+8g
+8g
+16b
+16dd
+=8
+16ee
+16cc
+8b
+8dd
+=9
+8a
+16a
+16g
+16b
+16dd
+=10
+16ee
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=11
+{16d
+16f#
+8g
+8b
+=12
+16b
+16a
+8cc
+8b
+=13
+8b
+8g
+16b
+16dd
+=14
+16ee
+16cc
+8b
+8dd
+=15
+8a
+16a
+16g
+16b
+16dd
+=16
+16ee
+16cc
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 233} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

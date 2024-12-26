@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5206200000-rusaleczka_ziemlanaczki.krn
+!!!OTL: Rusałeczka, Ziemlanaczki
+!!!source: DWOK52
+!!!id: 52062
+!!!signature: 5206200000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=1
+{8d
+8f
+8e
+8d
+=2
+8d
+8f
+8e
+8d}
+!!LO:LB:g=esac
+=3
+{8d
+8f
+8e
+8d
+=4
+8d
+8f
+8e
+8d}
+!!LO:LB:g=esac
+=5
+{8d
+8f
+8e
+8d
+=6
+8d
+8f
+8e
+8d}
+!!LO:LB:g=esac
+=7
+{2f
+=8
+2d}
+==
+*-
+!!!ONB: Rusałki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 117} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 117}
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

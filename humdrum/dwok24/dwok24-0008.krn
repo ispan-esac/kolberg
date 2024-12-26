@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2400800000-majtek_ubogi_puscil_sie.krn
+!!!OTL: Majtek ubogi puścił się
+!!!source: DWOK24
+!!!id: 24008
+!!!signature: 2400800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4a
+8a
+8a
+4a
+4cc
+=2
+8cc
+8b-
+8b-
+8b-
+4a
+4cc}
+!!LO:LB:g=esac
+=3
+{4ff
+8ee
+8dd
+4dd
+4cc
+=4
+8cc
+8b-
+8b-
+8b-
+4a
+4f}
+!!LO:LB:g=esac
+=5
+{4a
+8a
+8a
+8a
+8cc
+4cc
+=6
+8cc
+8b-
+8b-
+8b-
+8a
+8cc
+4ff}
+!!LO:LB:g=esac
+=7
+{4ff
+8ee
+8ff
+8dd
+8cc
+4cc
+=8
+8cc
+8b-
+8b-
+8b-
+8a
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 82} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

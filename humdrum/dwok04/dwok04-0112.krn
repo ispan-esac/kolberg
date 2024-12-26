@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK04-K0112-otworzcie_mu_pacholicy.krn
+!!!OTL: Otworzcie mu pacholicy
+!!!source: DWOK04
+!!!id: K0112
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8.cc
+16b
+=2
+16cc
+16dd
+8b
+8a
+=3
+16g
+16b
+8g
+16a
+16b
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8.cc
+16g
+=6
+16a
+16g
+8f
+8e
+=7
+16d
+16d
+8.g
+16f
+=8
+4e}
+8r
+!!LO:LB:g=esac
+=9
+{16g
+16g
+8.cc
+16b
+=10
+16cc
+16dd
+8b
+8a
+=11
+16g
+16b
+8g
+16a
+16b
+=12
+4cc}
+8r
+!!LO:LB:g=esac
+=13
+{16g
+16g
+8.cc
+16g
+=14
+16a
+16g
+8f
+8e
+=15
+16d
+16d
+8.g
+16f
+=16
+4e}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 70} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

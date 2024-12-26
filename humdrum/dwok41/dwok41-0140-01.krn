@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK4114000001-a_kto_chce_rozkoszy_uzyc.krn
+!!!OTL: A kto chce rozkoszy użyć
+!!!source: DWOK41
+!!!id: 41140
+!!!signature: 4114000001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8cc
+=2
+4dd
+8b-
+=3
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=4
+{16f
+16a
+8cc
+8cc
+=5
+4dd
+8b-
+=6
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=7
+{16cc
+16b-
+8.g
+16a
+=8
+16b-
+16g
+8a
+8b-}
+!!LO:LB:g=esac
+=9
+{16cc
+16b-
+8.g
+16a
+=10
+16b-
+16dd
+8a
+8b-}
+!!LO:LB:g=esac
+=11
+{16cc
+16e
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=177 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 98} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

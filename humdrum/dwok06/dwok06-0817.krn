@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK06-K0817-lisiecki_lisiecki.krn
+!!!OTL: Lisiecki Lisiecki
+!!!source: DWOK06
+!!!id: K0817
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8f#
+4a
+=2
+8g
+4b
+8dd
+=3
+8dd
+8cc
+4cc
+=4
+8cc
+4b
+8b
+=5
+8dd
+8cc
+4cc
+=6
+8cc
+4b
+8b}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8dd
+8cc
+=8
+8a
+4g
+8r
+=9
+4.b
+8a
+=10
+8f#
+8a
+8cc
+8g}
+!!LO:LB:g=esac
+=11
+{8dd
+8dd
+8dd
+8cc
+=12
+8a
+4g
+8r
+=13
+4.b
+8a
+=14
+8f#
+8a
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=514 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 488} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 488}
+!!!page: 488
+!!!ONB: Converted on 2024/12/26 with esac2hum

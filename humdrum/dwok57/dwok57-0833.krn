@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5783300000-oj_diwczyno_wiwczynonko.krn
+!!!OTL: Oj, diwczyno, wiwczynońko
+!!!source: DWOK57
+!!!id: 57833
+!!!signature: 5783300000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8ff
+8ee
+=2
+8dd
+8dd
+8ee
+8cc
+=3
+8cc
+8dd
+8ff
+8ee
+=4
+4dd
+4gg}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ff
+8ee
+=6
+8dd
+8dd
+8ee
+8cc
+=7
+8b
+8cc
+8b
+8dd
+=8
+4b
+4cc}
+==
+*-
+!!!ONB: Wariant t. 4: +1_+5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

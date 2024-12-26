@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK06-K0284-idzie_woda_od_ogroda.krn
+!!!OTL: Idzie woda od ogroda
+!!!source: DWOK06
+!!!id: K0284
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8ee
+8ee
+8ee
+=2
+8ee
+8ee
+8dd
+8cc
+=3
+8a
+8cc
+8dd
+8ff
+=4
+4ee
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+8ee
+=6
+8cc
+8ee
+8cc
+8a
+=7
+8a
+8cc
+8dd
+8cc
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 142} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 142}
+!!!page: 142
+!!!ONB: Converted on 2024/12/26 with esac2hum

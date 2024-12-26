@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK3922000030-ach_pani_do_nog_twych_upadam.krn
+!!!OTL: Ach pani, do nóg twych upadam
+!!!source: DWOK39
+!!!id: 39220
+!!!signature: 3922000030
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4f
+4a
+4f
+=2
+8f
+8cc
+8cc
+8cc
+8b-
+8g
+=3
+4f
+4a
+4f}
+!!LO:LB:g=esac
+=4
+{8f
+8cc
+8cc
+8cc
+8b-
+8g
+=5
+4f
+4a
+4f}
+==
+*-
+!!!ONB: Czwarta zwrotka pieśni Niech będzie Jezus Chrystus pochwalony
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 238-239} @EN{Oskar Kolberg Complete Works 39: Pomerania, pp. 238-239}
+!!!page: 238-239
+!!!ONB: Converted on 2024/12/26 with esac2hum

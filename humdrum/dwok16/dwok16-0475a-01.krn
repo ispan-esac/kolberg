@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1647500001-na_podolu_bialy_kamien.krn
+!!!OTL: Na Podolu biały kamień
+!!!source: DWOK16
+!!!id: 16475a
+!!!signature: 1647500001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{8a
+8cc
+4cc
+8cc
+8a
+=2
+*M2/4
+8dd
+8ee
+8gg
+8ff
+=3
+8ee
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=4
+*M3/4
+{8dd
+8dd
+4.ee
+8a
+=5
+*M2/4
+8a
+8cc
+8dd
+8cc
+=6
+*M3/4
+8dd
+8ff
+4.ee
+8a
+=7
+8dd
+8cc
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=311 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 291} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 291}
+!!!ONB: Converted on 2024/12/26 with esac2hum

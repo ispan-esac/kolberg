@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK3624900000-oj_plyly_husonki.krn
+!!!OTL: Oj płyły husońki
+!!!source: DWOK36
+!!!id: 36249
+!!!signature: 3624900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+4dd
+=3
+4.gg
+8dd
+=4
+8gg
+8ff#
+4ee
+=5
+4.dd
+8cc
+=6
+8b
+8g}
+4r
+!!LO:LB:g=esac
+=7
+{8g
+8a
+8b
+8cc
+=8
+8dd
+8dd
+8ee
+8dd
+=9
+8cc
+8b
+8a
+8ee
+=10
+8dd
+8b
+8cc
+8a
+=11
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

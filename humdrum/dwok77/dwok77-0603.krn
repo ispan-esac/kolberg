@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7760300000-kare_konie_kare.krn
+!!!OTL: Kare konie kare
+!!!source: DWOK77
+!!!id: 77603
+!!!signature: 7760300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4ee
+4ee
+=2
+8dd
+8b
+2dd}
+!!LO:LB:g=esac
+=3
+{4cc
+4ee
+4ee
+=4
+8dd
+8b
+2g}
+!!LO:LB:g=esac
+=5
+{4a
+4cc
+4cc
+=6
+8cc
+8b
+2cc}
+!!LO:LB:g=esac
+=7
+{4a
+4cc
+4cc
+=8
+8dd
+8b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 309
+!!!ONB: Converted on 2024/12/26 with esac2hum

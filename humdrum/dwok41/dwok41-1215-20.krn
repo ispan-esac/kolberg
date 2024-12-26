@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK41121500020-za_krakusa_ludzie_zyli.krn
+!!!OTL: Za Krakusa ludzie żyli
+!!!source: DWOK41
+!!!id: 411215
+!!!signature: 41121500020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.g
+16f#
+8g
+8a
+=2
+8b
+8cc
+8b
+8a
+=3
+8b
+8cc
+8b
+8a
+=4
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8a
+=6
+8a
+4.dd
+=7
+8g
+8f#
+8.e
+16d
+=8
+8e
+8d
+8e
+8f#}
+!!LO:LB:g=esac
+=9
+{8g
+4b
+8b
+=10
+8a
+4.dd
+=11
+8g
+8f#
+8e
+8a
+=12
+4d
+4d}
+!!LO:LB:g=esac
+=13
+{4.dd
+16cc#
+16b
+=14
+8a
+8a
+8a
+16g
+16f#
+=15
+8g
+8a
+8b
+8cc#
+=16
+8dd
+8ee
+8ff#
+8ee}
+!!LO:LB:g=esac
+=17
+{4.dd
+16cc#
+16b
+=18
+8a
+4a
+16g
+16f#
+=19
+8e
+8f#
+8g
+8a
+=20
+8f#
+4.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=626 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 539-540} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 539-540}
+!!!page: 539-540
+!!!ONB: Converted on 2024/12/26 with esac2hum

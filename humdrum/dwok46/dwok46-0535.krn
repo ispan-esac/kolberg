@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4653500000-kiedys_sobie_kowal_to_ja_sobie_obal.krn
+!!!OTL: Kiedyś sobie kowal, to ją sobie obal
+!!!source: DWOK46
+!!!id: 46535
+!!!signature: 4653500000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8a
+8cc
+8a
+8cc
+8dd
+8cc
+=2
+8a
+8cc
+8a
+8cc
+8dd
+8cc
+=3
+8b-
+8a
+4g
+4b-
+=4
+8a
+8f#
+2d}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8g
+8e-
+8d
+8d
+=6
+8d
+8f#
+8g
+8e-
+8d
+8d
+=7
+8d
+8f#
+4g
+4b-
+=8
+8a
+8f#
+2d}
+==
+*-
+!!!ONB: Polski
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=358 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 324} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 324}
+!!!page: 324
+!!!ONB: Converted on 2024/12/26 with esac2hum

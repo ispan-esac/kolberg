@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK1947100000-ssluzylsem_u_pana_na_pierse_lato.krn
+!!!OTL: Sśłuzyłśem u pana na pierse lato
+!!!source: DWOK19
+!!!id: 19471
+!!!signature: 1947100000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4e
+8f#
+8g#
+=2
+4.a
+8b
+=3
+8cc
+8ee
+8dd
+8cc
+=4
+2b
+=5
+8e
+8e
+8f#
+8g#
+=6
+4.a
+8b
+=7
+8cc
+8ee
+8dd
+8cc
+=8
+2b}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8dd
+8cc
+=10
+8b
+8cc
+4a
+=11
+8cc
+8ee
+8dd
+8cc
+=12
+8b
+8cc
+4a}
+!!LO:LB:g=esac
+=13
+{8cc
+8ee
+8dd
+8b
+=14
+4cc
+4dd
+=15
+8cc
+8ee
+8dd
+8b
+=16
+8cc
+8ee
+8dd
+8cc
+=17
+4b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 156} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 156}
+!!!page: 156
+!!!ONB: Converted on 2024/12/26 with esac2hum

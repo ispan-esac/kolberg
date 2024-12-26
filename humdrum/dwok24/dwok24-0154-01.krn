@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2415400001-nasa_marysia_nasa.krn
+!!!OTL: Nasa Marysia, nasa
+!!!source: DWOK24
+!!!id: 24154
+!!!signature: 2415400001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8ee
+=2
+8dd#
+8b
+8a
+=3
+8cc
+4ee
+=4
+8ff#
+8ee
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd#
+8b
+8cc
+=6
+8b
+4a
+=7
+8e
+8g#
+8b
+=8
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=9
+{8cc
+4ee
+=10
+8a
+8cc
+8ee
+=11
+8dd#
+8b
+8cc
+=12
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=283 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 259} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 259}
+!!!page: 259
+!!!ONB: Converted on 2024/12/26 with esac2hum

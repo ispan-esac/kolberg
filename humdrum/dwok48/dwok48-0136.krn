@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4813600000-dlugie_lata_cieepielismy.krn
+!!!OTL: Długie lata cieepieliśmy
+!!!source: DWOK48
+!!!id: 48136
+!!!signature: 4813600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8g
+8g
+=2
+16g
+16g
+8g
+8g}
+!!LO:LB:g=esac
+=3
+{16g
+16g
+8ff
+8ff
+=4
+16ee
+16gg
+8ee
+8ee
+=5
+4dd
+8b
+=6
+16cc
+16cc
+8ee
+8cc}
+!!LO:LB:g=esac
+=7
+{16g
+16g
+8ff
+8ff
+=8
+16ee
+16gg
+8ee
+8ee
+=9
+4dd
+8b
+=10
+16cc
+16cc
+8ee
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 182} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 182}
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

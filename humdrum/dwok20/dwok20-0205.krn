@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK2020500000-zebys_ty_chmielu_na_tycki_nie_laz.krn
+!!!OTL: Zebyś ty chmielu na tycki nie laz
+!!!source: DWOK20
+!!!id: 20205
+!!!signature: 2020500000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{8ee
+8ee
+8gg
+=2
+8ff#
+4ee
+=3
+8dd
+8dd
+16b
+16cc
+=4
+4.b}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+8cc
+8dd
+=6
+8ee
+4dd
+=7
+16a
+16b
+8cc
+8cc
+=8
+4.b}
+!!LO:LB:g=esac
+=9
+{8dd
+8a
+16cc
+16b
+=10
+16cc
+16dd
+8a
+16cc
+16b
+=11
+8dd
+8a
+16cc
+16b
+=12
+16dd
+16dd
+8ee
+8cc
+=13
+8dd
+8a
+16b
+16cc
+=14
+4.b}
+==
+*-
+!!!ONB: Chmiel
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 188} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

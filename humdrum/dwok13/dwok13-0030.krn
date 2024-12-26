@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1303000000-pojrzyj_przecie_mile.krn
+!!!OTL: Pojrzyj przecie mile
+!!!source: DWOK13
+!!!id: 13030
+!!!signature: 1303000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16a
+8f
+8a
+=2
+4dd
+8cc
+=3
+16a
+16a
+8f
+8a
+=4
+4dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8.ee
+16dd
+16b-
+16g
+=6
+4dd
+8cc
+=7
+16cc
+16b-
+8g
+8e
+=8
+8f
+4ff}
+!!LO:LB:g=esac
+=9
+{8.ee
+16dd
+16b-
+16g
+=10
+4dd
+8cc
+=11
+16cc
+16b-
+8g
+8e
+=12
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 18} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 18}
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

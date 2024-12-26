@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK57112000000-jichau_kozak_dolynoju.krn
+!!!OTL: Jichau kozak dołynoju
+!!!source: DWOK57
+!!!id: 571120
+!!!signature: 57112000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+4b
+=2
+8d
+4b
+=3
+8d
+4cc
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8d
+8a
+8a
+=6
+8d
+4a
+=7
+8a
+4b
+=8
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+8b
+8b
+=10
+16g
+16a
+8b
+8b
+=11
+8b
+4cc
+=12
+8b
+4a}
+!!LO:LB:g=esac
+=13
+{16f#
+16g
+8a
+8a
+=14
+8f#
+4a
+=15
+8a
+4b
+=16
+8a
+4g}
+==
+*-
+!!!ONB: Wariant t. 6: -5_2_-5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 258
+!!!ONB: Converted on 2024/12/26 with esac2hum

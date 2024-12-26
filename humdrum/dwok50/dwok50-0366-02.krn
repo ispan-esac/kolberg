@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5036600002-zahuczaly_hory_zaszumily_riky.krn
+!!!OTL: Zahuczaly hory, zaszumily riky
+!!!source: DWOK50
+!!!id: 50366
+!!!signature: 5036600002
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8b
+8dd
+8cc
+8b
+8cc
+16b
+16a
+=2
+8b
+8dd
+8dd
+8b
+8cc
+8g
+=3
+2.a}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8cc
+8b
+8cc
+16a
+16g
+=5
+*M2/4
+8a
+16f#
+16g
+8b
+16a
+16f#
+=6
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=219 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 194} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 194}
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

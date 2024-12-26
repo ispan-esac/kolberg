@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK2730000002-u_syrokosa_syrokie_kosa.krn
+!!!OTL: U syrokosa syrokie kosa
+!!!source: DWOK27
+!!!id: 27300
+!!!signature: 2730000002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8cc
+8ee
+=2
+8ee
+8ee
+8dd
+=3
+8b
+8dd
+8ee
+=4
+8cc
+8a
+8g#}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8ee
+=6
+8ff#
+4ee
+=7
+4.b
+=8
+16g#
+16e}
+4r
+!!LO:LB:g=esac
+=9
+{8e
+8g#
+8b
+=10
+8dd
+8cc
+8b
+=11
+8a
+8g#
+8a
+=12
+8e
+4d}
+!!LO:LB:g=esac
+=13
+{8e
+8e
+8g#
+=14
+8b
+4b
+=15
+4.e
+=16
+16g#
+16e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=319 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 300} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 300}
+!!!page: 300
+!!!ONB: Converted on 2024/12/26 with esac2hum

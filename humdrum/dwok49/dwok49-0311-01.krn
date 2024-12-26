@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK4931100001-ppiew_dla_starszych-bez_tekstu.krn
+!!!OTL: Śppiew dla starszych-bez tekstu
+!!!source: DWOK49
+!!!id: 49311
+!!!signature: 4931100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8g
+4b
+8dd
+8cc
+=2
+8b
+8cc
+4dd
+8ee
+8dd
+=3
+8d
+8g
+4b
+8dd
+8cc
+=4
+8a
+8b
+4f#
+4g}
+!!LO:LB:g=esac
+=5
+{8d
+8g
+4b
+8dd
+8cc
+=6
+8b
+8cc
+4dd
+8ee
+8dd
+=7
+8d
+8g
+4b
+8dd
+8cc
+=8
+8a
+8b
+4f#
+4g}
+!!LO:LB:g=esac
+=9
+{2a
+4a
+=10
+8a
+8cc
+8b
+8a
+8b
+8g
+=11
+4.a
+8f#
+8g
+8a
+=12
+8cc
+8b
+4f#
+4g}
+!!LO:LB:g=esac
+=13
+{2a
+4a
+=14
+8a
+8cc
+8b
+8a
+8b
+8g
+=15
+4.a
+8f#
+8g
+8a
+=16
+8cc
+8b
+4f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=444 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 358} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 358}
+!!!page: 358
+!!!ONB: Converted on 2024/12/26 with esac2hum

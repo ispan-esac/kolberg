@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK45122100001-jesce_ja_se_jesce.krn
+!!!OTL: Jesce ja se jesce
+!!!source: DWOK45
+!!!id: 451221
+!!!signature: 45122100001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+4dd
+8cc
+=2
+8b
+4dd
+8cc
+=3
+8b
+8g
+8ff
+8dd
+=4
+8cc
+4.ee}
+!!LO:LB:g=esac
+=5
+{8b
+4dd
+8cc
+=6
+8b
+4dd
+8cc
+=7
+8b
+8g
+8ff
+8b
+=8
+8cc
+4.ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 106-107} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, pp. 106-107}
+!!!page: 106-107
+!!!ONB: Converted on 2024/12/26 with esac2hum

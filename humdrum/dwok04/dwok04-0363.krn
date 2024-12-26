@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK04-K0363-szerokie_jest_radziejewo.krn
+!!!OTL: Szerokie jest Radziejewo
+!!!source: DWOK04
+!!!id: K0363
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8e
+8f
+8g
+=2
+8a
+8a
+8g
+16a
+16b-
+=3
+8cc
+8cc
+8dd
+16cc
+16b-
+=4
+8b-
+4a
+8r
+=5
+8cc
+8cc
+8.cc
+16b-
+=6
+8b-
+4a}
+8r
+!!LO:LB:g=esac
+=7
+{8a
+16a
+16g
+4a
+=8
+8b-
+4b-
+8a
+=9
+16g
+16f
+16e
+16f
+8g
+8a
+=10
+8f
+4cc}
+8r
+!!LO:LB:g=esac
+=11
+{8a
+16a
+16g
+4a
+=12
+8b-
+4b-
+8a
+=13
+8g
+8f
+8e
+8f
+=14
+8g
+4f
+8a
+=15
+8g
+8f
+8e
+8f
+=16
+8g
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 196} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

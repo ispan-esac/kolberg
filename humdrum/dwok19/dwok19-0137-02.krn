@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK1913700002-ja_ci_powiadam_nie_kochaj_wojaka.krn
+!!!OTL: Ja ci powiadam, nie kochaj wojaka
+!!!source: DWOK19
+!!!id: 19137
+!!!signature: 1913700002
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8dd
+16cc#
+16dd
+8ee
+8dd
+=2
+8dd
+16cc#
+16dd
+8ee
+8dd
+=3
+8dd
+8cc#
+4a
+=4
+8g
+4b
+8b}
+!!LO:LB:g=esac
+=5
+*M3/8
+{8dd
+8cc#
+8a
+=6
+8cc
+16b
+16g
+8b
+=7
+8dd
+8cc#
+8a
+=8
+8cc
+16b
+16g
+8b}
+!!LO:LB:g=esac
+=9
+*M2/4
+{8dd
+16cc#
+16dd
+8ee
+8dd
+=10
+8dd
+8cc#
+4a
+=11
+2g
+=12
+8dd
+16cc#
+16dd
+8ee
+8dd
+=13
+8dd
+8cc#
+4a
+=14
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 46} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

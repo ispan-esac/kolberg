@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK7625600000-da_ni_ja_sie_napil.krn
+!!!OTL: Da, ni ja się napił
+!!!source: DWOK76
+!!!id: 76256
+!!!signature: 7625600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+4ee
+4.dd
+8b
+=3
+8cc
+8b
+2g
+=4
+4.b
+8g
+4f#}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+4ff#
+=6
+4ee
+4.dd
+8b
+=7
+8cc
+8b
+2g
+=8
+4.b
+8g
+4a}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8dd
+8dd
+4ee
+=10
+4cc
+2a
+=11
+8cc
+8b
+2a
+=12
+4b
+4g
+4f#}
+!!LO:LB:g=esac
+=13
+{8g
+8b
+8dd
+8dd
+4ff#
+=14
+4ee
+4.dd
+8b
+=15
+8cc
+8b
+2a
+=16
+4b
+4g
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 132} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 132}
+!!!page: 132
+!!!ONB: Converted on 2024/12/26 with esac2hum

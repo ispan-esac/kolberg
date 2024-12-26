@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK3605600000-czy_tur_czy_turycia.krn
+!!!OTL: Czy tur czy turycia
+!!!source: DWOK36
+!!!id: 36056
+!!!signature: 3605600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4ff
+4ee
+=2
+8dd
+8dd
+8ee
+8ee
+=3
+8ff
+8ff
+8ee
+8ee
+=4
+8dd
+8dd
+8cc
+8cc}
+!!LO:LB:g=esac
+=5
+{4b
+4cc
+=6
+8dd
+8dd
+8ee
+8ee
+=7
+8b
+8b
+8cc
+8cc
+=8
+8dd
+8dd
+8cc
+8cc}
+!!LO:LB:g=esac
+=9
+{4b
+4cc
+=10
+8dd
+8dd
+8ee
+8ee
+=11
+8ff
+8ff
+8ee
+8ee
+=12
+8dd
+8dd
+8cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 30
+!!!ONB: Converted on 2024/12/26 with esac2hum

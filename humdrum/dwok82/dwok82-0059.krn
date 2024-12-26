@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK8205900000-z_drogich_perel_wience.krn
+!!!OTL: Z drogich pereł wieńce
+!!!source: DWOK82
+!!!id: 82059
+!!!signature: 8205900000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4g
+4a
+4b
+=2
+4cc
+8b
+8a
+8g
+8a
+8g
+8f
+=3
+4e
+4g
+4cc
+4a}
+!!LO:LB:g=esac
+=4
+{2g
+4cc
+4r
+=5
+4cc
+4g
+4a
+4b
+=6
+4cc
+8b
+8a
+8g
+8a
+8g
+8f}
+!!LO:LB:g=esac
+=7
+{4e
+4g
+4cc
+4a
+=8
+2g
+4cc
+4r
+=9
+8b
+8cc
+4dd
+4dd
+4gg
+=10
+4.ee
+8gg
+8ff
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=11
+{8b
+8cc
+4dd
+4dd
+4gg
+=12
+4.ee
+8gg
+8gg
+8ee
+8dd
+8cc
+=13
+8b
+8cc
+8dd
+8ee
+4dd
+4dd
+=14
+2ee
+4ee}
+4r
+==
+*-
+!!!ONB: O św. Bazylim Wielkim
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 46} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK2314100000-a_na_lubinskiej_dziedzinie.krn
+!!!OTL: A na Lubińskiej dziedzinie
+!!!source: DWOK23
+!!!id: 23141
+!!!signature: 2314100000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8b
+8dd#
+8dd#
+8b
+=2
+2ee
+=3
+4b
+4dd
+=4
+2a}
+!!LO:LB:g=esac
+=5
+{8b
+8dd#
+8dd#
+8b
+=6
+2ee
+=7
+4b
+4dd
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=171 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 157} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 157}
+!!!page: 157
+!!!ONB: Converted on 2024/12/26 with esac2hum

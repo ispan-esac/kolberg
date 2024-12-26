@@ -1,0 +1,113 @@
+!!!!SEGMENT: DWOK3905200000-nilo_mi_sie_dzisiaj_w_nocy.krn
+!!!OTL: Śniło mi się dzisiaj w nocy
+!!!source: DWOK39
+!!!id: 39052
+!!!signature: 3905200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8dd
+4dd
+8ee
+8dd
+=2
+8cc
+8b
+4.a
+8g
+=3
+8g
+8g
+4f#
+4g
+=4
+4a
+2d}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4dd
+8ee
+8dd
+=6
+8cc
+8b
+4.a
+8g
+=7
+8g
+8g
+4f#
+4g
+=8
+4a
+2d}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+4f#
+4g
+=10
+4b
+2b
+=11
+8cc
+8b
+4a
+8b
+8cc
+=12
+4dd
+2b}
+!!LO:LB:g=esac
+=13
+{8d
+8f#
+4a
+4a
+=14
+8g
+8b
+4dd
+4dd
+=15
+8ee
+8dd
+4cc
+4f#
+=16
+4a
+2g}
+!!LO:LB:g=esac
+=17
+{8d
+8f#
+4a
+4a
+=18
+8g
+8a
+4b
+4b
+=19
+8cc
+8b
+4a
+8b
+8cc
+=20
+4dd
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 52} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

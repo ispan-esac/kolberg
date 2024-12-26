@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3915700000-odjechal_brat_na_wojenke_hej_hej_hej.krn
+!!!OTL: Odjechał brat na wojenkę hej, hej, hej
+!!!source: DWOK39
+!!!id: 39157
+!!!signature: 3915700000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8ee
+8ee
+=2
+8dd
+8cc
+8b
+8a
+=3
+4ee
+8ff#
+8dd#
+=4
+4ee}
+4r
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8ee
+8ee
+=6
+8dd
+8cc
+8b
+8a
+=7
+4dd
+8cc
+8b
+=8
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=247 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 195} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 195}
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

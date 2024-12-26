@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK0901500002-przyszlismy_tu_po_dyngusie.krn
+!!!OTL: Przyszliśmy tu po dyngusie
+!!!source: DWOK09
+!!!id: 09015
+!!!signature: 0901500002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4a
+4a
+4b-
+4a
+=2
+4g
+4a
+4f
+4f
+=3
+4a
+4cc
+4b-
+4a
+=4
+4g
+4a
+8f
+8e
+4c}
+!!LO:LB:g=esac
+=5
+{4f
+4f
+4g
+4f
+=6
+4g
+4a
+8b-
+8a
+4a
+=7
+4a
+4cc
+4.b-
+8a
+=8
+4g
+4a
+4f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 136} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 136}
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

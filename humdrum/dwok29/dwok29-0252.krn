@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK2925200000-hoja_matinko_hoja.krn
+!!!OTL: Hoja matinko hoja
+!!!source: DWOK29
+!!!id: 29252
+!!!signature: 2925200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+8r
+{8a
+8b
+=2
+8cc
+8b
+16a
+16f#
+=3
+4g
+8g}
+!!LO:LB:g=esac
+=4
+8r
+{8a
+8b
+=5
+8cc
+8a
+8g
+=6
+8a
+8b
+8a}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8a
+=8
+8a
+8g
+8b
+=9
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=10
+{8b
+8dd
+8cc
+=11
+16a
+16f#
+8g
+8b
+=12
+8dd
+8dd
+16cc
+16a}
+!!LO:LB:g=esac
+=13
+{8b
+8dd
+8cc
+=14
+8b
+8a
+8f#
+=15
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=351 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 319} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 319}
+!!!page: 319
+!!!ONB: Converted on 2024/12/26 with esac2hum

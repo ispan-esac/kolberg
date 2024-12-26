@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1201700002-a_w_poznaniu_a_w_poznaniu.krn
+!!!OTL: A w Poznaniu, a w Poznaniu
+!!!source: DWOK12
+!!!id: 12017
+!!!signature: 1201700002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8cc
+8b
+=2
+16cc
+16ee
+8.gg
+16dd
+=3
+16ff
+16ff
+8ee
+8dd
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8cc
+8b
+=6
+16a
+16ff
+8.ee
+16a
+=7
+16cc
+16cc
+8b
+8a
+=8
+4g}
+8r
+==
+*-
+!!!ONB: Alternatywnie można zakodować w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 10} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 10}
+!!!page: 10
+!!!ONB: Converted on 2024/12/26 with esac2hum

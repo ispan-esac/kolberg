@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK2228600000-a_w_niedziele_po_obiedzie.krn
+!!!OTL: A w niedzielę po obiedzie
+!!!source: DWOK22
+!!!id: 22286
+!!!signature: 2228600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+4dd
+8r
+=3
+8ee
+16cc
+16b
+8b
+=4
+4a}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8dd
+=6
+16cc
+16b
+8a
+8r
+=7
+8g
+8.b
+16a
+=8
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 161} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 161}
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

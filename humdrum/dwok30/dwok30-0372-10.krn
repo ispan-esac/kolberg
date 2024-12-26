@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3037200010-bula_chliba_bukatyna.krn
+!!!OTL: Buła chliba bukatyna
+!!!source: DWOK30
+!!!id: 30372
+!!!signature: 3037200010
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4.dd
+16cc
+16b
+=2
+4.dd
+16cc
+16b
+=3
+8dd
+8dd
+16ee
+16dd
+16cc
+16b}
+!!LO:LB:g=esac
+=4
+{8a
+8a
+8a
+8dd
+=5
+4a
+4b
+=6
+4.dd
+8dd}
+!!LO:LB:g=esac
+=7
+{8dd
+16cc
+16b
+8a
+8dd
+=8
+4a
+4b
+=9
+4.a
+8a}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 202} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 202}
+!!!page: 202
+!!!ONB: Converted on 2024/12/26 with esac2hum

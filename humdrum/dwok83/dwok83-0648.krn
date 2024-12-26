@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK8364800000-zaczynam_lament_glos_wolajacy.krn
+!!!OTL: Zaczynam lament, głos wołający
+!!!source: DWOK83
+!!!id: 83648
+!!!signature: 8364800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4dd
+4ee
+=2
+2dd
+4b
+=3
+4dd
+4dd
+4a
+=4
+4b
+2g}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4ee
+=6
+[4dd
+16dd]
+16cc
+16b
+16cc
+4b
+=7
+4dd
+4dd
+4a
+=8
+8b
+8a
+2g}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+4b
+4dd
+=10
+8cc
+8a
+4b
+4g
+=11
+8dd
+8dd
+4b
+4dd
+=12
+8cc
+8a
+4b
+4g}
+!!LO:LB:g=esac
+=13
+{4dd
+4dd
+4a
+=14
+4.b
+8a
+4g}
+==
+*-
+!!!ONB: Wariant t. 12: 54323_2_1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=539 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 428} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 428}
+!!!page: 428
+!!!ONB: Converted on 2024/12/26 with esac2hum

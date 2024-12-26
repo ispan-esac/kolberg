@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5615500000-a_czemu_ty_ne_tancujesz_halu_halu.krn
+!!!OTL: A czemu ty ne tańcujesz Halu, Halu
+!!!source: DWOK56
+!!!id: 56155
+!!!signature: 5615500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8ff
+=2
+8ee
+8dd
+8dd
+8cc
+=3
+8ee
+8dd
+8ee
+8ff
+=4
+16ee
+16dd
+8cc}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8ee
+8ff
+=6
+8ee
+8dd
+8dd
+8cc
+=7
+4ee
+8dd
+8dd
+=8
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 178} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 178}
+!!!page: 178
+!!!ONB: Converted on 2024/12/26 with esac2hum

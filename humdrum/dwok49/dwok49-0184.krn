@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4918400000.krn
+!!!OTL:
+!!!source: DWOK49
+!!!id: 49184
+!!!signature: 4918400000
+**kern
+*clefG2
+*k[]
+*a:
+*MX
+=1
+{8dd
+8dd
+8dd
+8dd
+16dd
+16cc
+16dd
+4.ee
+16b
+16cc
+4.dd
+16b
+16cc
+16dd
+16cc
+8b}
+8r
+!!LO:LB:g=esac
+=2
+{8b
+8dd
+16dd
+16cc
+16dd
+8ee
+8dd
+8dd
+8dd
+8dd
+8b
+4.cc
+8b
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=323 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 241} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

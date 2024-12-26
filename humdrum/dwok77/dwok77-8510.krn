@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK7785100000-wesoly_dzon_wesoly_dzon.krn
+!!!OTL: Wesoły Dżon, wesoły Dżon
+!!!source: DWOK77
+!!!id: 778510
+!!!signature: 7785100000
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+{8g
+=1
+4cc
+8b
+4cc
+8g
+=2
+4cc
+8b
+4cc
+8g
+=3
+4cc
+8b
+4a
+8g
+=4
+4.a
+8g
+8r
+8g}
+!!LO:LB:g=esac
+=5
+{4dd
+8cc#
+4dd
+8g
+=6
+4dd
+8cc#
+4dd
+8g
+=7
+4ff
+8ee
+4dd
+8ee
+=8
+4.dd
+8cc
+8r
+8g}
+!!LO:LB:g=esac
+=9
+{4ee
+8ee
+4ee
+8ee
+=10
+4cc
+8cc
+4cc
+8cc
+=11
+4ff
+8ee
+4dd
+8cc
+=12
+4b
+8a
+8g
+8r
+8g}
+!!LO:LB:g=esac
+=13
+{4dd
+8dd
+4dd
+8g
+=14
+4ff
+8ff
+4ff
+8ff
+=15
+8ee
+8dd
+8cc
+4dd
+8b
+=16
+4.cc
+8cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 53
+!!!ONB: Converted on 2024/12/26 with esac2hum

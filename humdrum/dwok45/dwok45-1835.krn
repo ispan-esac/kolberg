@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK45183500000-szlachcianeczce_suce.krn
+!!!OTL: Szlachcianeczce suce
+!!!source: DWOK45
+!!!id: 451835
+!!!signature: 45183500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+4dd
+=2
+8dd
+8b
+4b
+=3
+8g
+8g
+8g
+8g
+=4
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4cc
+=6
+8a
+8a
+4a
+=7
+8ee
+8ee
+8dd
+8cc
+=8
+4cc
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=307 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 293} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 293}
+!!!page: 293
+!!!ONB: Converted on 2024/12/26 with esac2hum

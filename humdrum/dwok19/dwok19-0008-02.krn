@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK1900800002-azeby_ja_jadlsa_pilsa.krn
+!!!OTL: Azeby ja jadłśa piłśa
+!!!source: DWOK19
+!!!id: 19008
+!!!signature: 1900800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8b
+8a
+8dd
+8a
+=3
+8b
+8a
+8cc
+8a
+=4
+8b
+8a
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8cc
+8a
+=6
+8b
+8a
+8dd
+8a}
+!!LO:LB:g=esac
+=7
+{8b
+8a
+4cc
+=8
+16a
+16g
+4b
+16b
+16dd
+=9
+16dd
+16cc
+8cc
+4cc
+=10
+16f#
+16g
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=21 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 7} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 7}
+!!!page: 7
+!!!ONB: Converted on 2024/12/26 with esac2hum

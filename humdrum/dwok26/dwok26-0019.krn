@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2601900000-ej_nam_ej_czyja_to_roliczka.krn
+!!!OTL: Ej nam ej czyja to roliczka
+!!!source: DWOK26
+!!!id: 26019
+!!!signature: 2601900000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4b
+4dd#
+2ee
+=2
+8ff#
+8ee
+8dd#
+8b
+4ee
+4cc
+=3
+8a
+8cc
+8b
+8a
+4b
+4g#
+=4
+4e
+4g#
+2a}
+!!LO:LB:g=esac
+=5
+{4b
+4dd#
+2ee
+=6
+8ff#
+8ee
+8dd#
+8dd#
+4ee
+4cc
+=7
+8a
+8cc
+8b
+8a
+4b
+4g#
+=8
+4e
+4g#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 68
+!!!ONB: Converted on 2024/12/26 with esac2hum

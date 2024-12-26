@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK8352800000-a_ne_spijte_ne_drymajte.krn
+!!!OTL: A ne spijte, ne drymajte
+!!!source: DWOK83
+!!!id: 83528
+!!!signature: 8352800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8b
+8dd
+8cc
+8b
+=2
+8a
+8e
+4g
+=3
+2e}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+4ee
+=5
+4dd#
+4dd#
+=6
+2ee}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+8cc
+8b
+=8
+8a
+8e
+4g
+=9
+2e}
+!!LO:LB:g=esac
+=10
+{8b
+8b
+8b
+8ee
+=11
+4dd
+4b
+=12
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=420 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 309} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 309}
+!!!page: 309
+!!!ONB: Converted on 2024/12/26 with esac2hum

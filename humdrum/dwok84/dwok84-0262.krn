@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK8426200000-polno_nam_zenoczka.krn
+!!!OTL: Połno nam, żenoczka
+!!!source: DWOK84
+!!!id: 84262
+!!!signature: 8426200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8dd
+8dd
+=2
+4ee
+8cc
+8cc
+=3
+8dd
+8cc
+8b
+8a
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+8dd
+=6
+4ee
+8cc
+8cc
+=7
+8dd
+8cc
+8b
+8a
+=8
+2g}
+!!LO:LB:g=esac
+=9
+{4dd
+4dd
+=10
+4ee
+8cc
+8cc
+=11
+8dd
+8cc
+8b
+8a
+=12
+2g}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+8a
+8a
+=14
+8g
+8g
+8g
+8g
+=15
+8dd
+8dd
+8dd
+8dd
+=16
+4ee
+8cc
+8cc
+=17
+4dd
+8b
+8a
+=18
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=302 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 240} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 240}
+!!!page: 240
+!!!ONB: Converted on 2024/12/26 with esac2hum

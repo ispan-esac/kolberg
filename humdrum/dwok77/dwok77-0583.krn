@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK7758300000-alboz_my_to_jacy.krn
+!!!OTL: Alboż my to jacy
+!!!source: DWOK77
+!!!id: 77583
+!!!signature: 7758300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8ee
+8cc
+=2
+8dd
+8dd
+8ee
+8cc
+=3
+8dd
+8dd
+8ee
+8cc}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+8cc
+8a
+=5
+8b
+4.g
+=6
+8dd
+8dd
+8cc
+8a
+=7
+8b
+4.g}
+!!LO:LB:g=esac
+=8
+{8g
+4b
+8b
+=9
+8b
+4dd
+8dd
+=10
+8dd
+16dd
+16cc
+8a
+8g
+=11
+8b
+4.g}
+==
+*-
+!!!ONB: Takty 9-10: 3_4__4_  4_.32_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 300
+!!!ONB: Converted on 2024/12/26 with esac2hum

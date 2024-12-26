@@ -1,0 +1,112 @@
+!!!!SEGMENT: DWOK1311500000-kiedy_chce_to_moge.krn
+!!!OTL: Kiedy chcę to mogę
+!!!source: DWOK13
+!!!id: 13115
+!!!signature: 1311500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+{16d
+16d
+=1
+4g
+8g
+8b
+8f#
+8g
+=2
+4.a
+4r
+16d
+16d
+=3
+4a
+8a
+8a
+8dd
+8cc}
+!!LO:LB:g=esac
+=4
+{4b
+8r
+4r
+16g
+16g
+=5
+4b
+8b
+8b
+8g
+8b
+=6
+4.cc
+4r
+8f#
+=7
+4dd
+8dd
+8dd
+8ee
+8dd
+=8
+4g
+8r
+4r
+16d
+16d}
+!!LO:LB:g=esac
+=9
+{4g
+8g
+8.g
+16f#
+8g
+=10
+4.a
+4r
+16d
+16d
+=11
+4a
+8a
+8a
+8dd
+8cc
+=12
+4b
+8r
+4r
+16g
+16g}
+!!LO:LB:g=esac
+=13
+{8b
+8g
+8b
+8b
+8g
+8b
+=14
+4.cc
+4r
+8f#
+=15
+4dd
+8dd
+8dd
+8ee
+8dd
+=16
+4g}
+8r
+4r
+==
+*-
+!!!ONB: Kawalerski stan
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 66} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

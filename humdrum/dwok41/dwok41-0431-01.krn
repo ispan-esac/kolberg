@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4143100001-oj_za_nic_mi_to_za_nic.krn
+!!!OTL: Oj, za nic mi to, za nic
+!!!source: DWOK41
+!!!id: 41431
+!!!signature: 4143100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+8dd
+8cc
+=2
+4ee
+4b
+4g}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+4dd
+8dd
+8cc
+=4
+4a
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+4dd
+=6
+4ee
+4b
+4g}
+!!LO:LB:g=esac
+=7
+{4b
+4dd
+8dd
+8cc
+=8
+4a
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 232} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 232}
+!!!page: 232
+!!!ONB: Converted on 2024/12/26 with esac2hum

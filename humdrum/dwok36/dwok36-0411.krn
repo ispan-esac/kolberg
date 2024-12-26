@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK3641100000-bodaj_tobi_mij_mylenkij.krn
+!!!OTL: Bodaj tobi mij myłeńkij
+!!!source: DWOK36
+!!!id: 36411
+!!!signature: 3641100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8cc
+8cc
+=2
+8b
+8b
+8a
+8f#
+=3
+2g}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+8gg
+8ff#
+=5
+8ee
+8cc
+8ee
+8gg
+=6
+2dd}
+!!LO:LB:g=esac
+=7
+{[2gg
+=8
+8.gg]
+16dd
+8ee
+8dd
+=9
+8dd
+16dd
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=10
+{8a
+16b
+16cc
+8dd
+16cc
+16b
+=11
+8a
+8a
+8a
+8f#
+=12
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 260-261
+!!!ONB: Converted on 2024/12/26 with esac2hum

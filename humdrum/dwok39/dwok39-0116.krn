@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK3911600000-wieci_slonce_w_okno_twoje.krn
+!!!OTL: Świeci słońce w okno twoje
+!!!source: DWOK39
+!!!id: 39116
+!!!signature: 3911600000
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{4g
+8cc
+4cc
+8cc
+=2
+4dd
+8cc
+8cc
+8b
+8r
+=3
+4g
+8b
+4dd
+8ee
+=4
+8ff
+8ee
+8dd
+8dd
+8cc}
+8r
+!!LO:LB:g=esac
+=5
+{4cc
+8ee
+4ee
+8gg
+=6
+8gg
+8ff
+8ee
+8ee
+8dd
+8r
+=7
+8ff
+8ee
+8dd
+8cc
+8b
+8a
+=8
+8ff
+8b
+8dd
+8dd
+8cc}
+8r
+!!LO:LB:g=esac
+=9
+{4cc
+8ee
+4ee
+8gg
+=10
+8gg
+8ff
+8ee
+8ee
+8dd
+8r
+=11
+8ff
+8ee
+8dd
+8cc
+8b
+8a
+=12
+8ff
+8b
+8dd
+8dd
+8cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 166} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 166}
+!!!page: 166
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1324500020-instrumentalna-radowaczka_mazur.krn
+!!!OTL: Instrumentalna-Radowaczka (Mazur)
+!!!source: DWOK13
+!!!id: 13245
+!!!signature: 1324500020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16a
+8f
+8f
+=2
+16g
+16e
+8c
+8c
+=3
+16cc
+16a
+8f
+8f
+=4
+16g
+16e
+4c}
+!!LO:LB:g=esac
+=5
+{8c
+16e
+16c
+16e
+16g
+=6
+8f
+16a
+16f
+16a
+16cc
+=7
+8c
+16e
+16c
+16e
+16g
+=8
+16b-
+16a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 118} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 118}
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

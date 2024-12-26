@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK5304500001-baruta_sesuta.krn
+!!!OTL: Baruta sesuta
+!!!source: DWOK53
+!!!id: 53045
+!!!signature: 5304500001
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4ff
+4ee
+2cc
+=2
+4dd
+16dd
+8.cc
+2g}
+!!LO:LB:g=esac
+=3
+{8g
+8cc
+4cc
+4cc
+8ee
+8aa
+=4
+4.gg
+8ff
+4dd}
+4r
+!!LO:LB:g=esac
+=5
+{4ff
+16ff
+8.ee
+2cc
+=6
+4dd
+16dd
+8.cc
+2g}
+!!LO:LB:g=esac
+=7
+{4dd
+4dd
+4.cc
+8b
+=8
+4.dd
+8cc
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 205} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 205}
+!!!page: 205
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK1646800002-z_tamtej_strony_jeziora.krn
+!!!OTL: Z tamtej strony jeziora
+!!!source: DWOK16
+!!!id: 16468
+!!!signature: 1646800002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8g
+8a
+8cc
+=2
+4ee
+8cc
+8b
+=3
+2a
+=4
+8dd
+8ee
+8ff
+16dd
+16cc
+=5
+4ee
+8cc
+8b
+=6
+2a}
+!!LO:LB:g=esac
+=7
+{4ee
+8ee
+8ee
+=8
+4cc
+4gg
+=9
+4ee
+8cc
+8b
+=10
+4a
+4g
+=11
+8a
+8g
+8cc
+8dd
+=12
+4ee
+4cc
+=13
+2a}
+!!LO:LB:g=esac
+=14
+{4ee
+8ee
+8ee
+=15
+4cc
+8gg
+8ff
+=16
+8ee
+8dd
+8cc
+8b
+=17
+4a
+8a
+8g
+=18
+8a
+8a
+8cc
+8dd
+=19
+4ee
+8cc
+8b
+=20
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=307 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 287} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 287}
+!!!ONB: Converted on 2024/12/26 with esac2hum

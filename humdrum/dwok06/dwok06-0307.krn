@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK06-K0307-oj_przyszedem_ja_do_pani.krn
+!!!OTL: Oj przyszedem ja do pani
+!!!source: DWOK06
+!!!id: K0307
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16.a
+32a
+8cc#
+8ee
+=2
+16ee
+16ee
+8.b
+16g#
+=3
+16a
+16a
+8cc#
+8a
+=4
+8e
+8e}
+8r
+!!LO:LB:g=esac
+=5
+{16ee
+16ee
+8cc#
+8b
+=6
+16g#
+16a
+8.cc#
+16a
+=7
+16ee
+16ee
+8dd
+8g#
+=8
+8a
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 155} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

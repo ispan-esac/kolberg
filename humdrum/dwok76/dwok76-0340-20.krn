@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK7634000020-posedem_ja_w_pole_orac.krn
+!!!OTL: Posedem ja w pole orać
+!!!source: DWOK76
+!!!id: 76340
+!!!signature: 7634000020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8f#
+8a
+8cc
+8a
+8cc
+8ee
+=2
+4dd
+4.b
+8g
+=3
+8f#
+8a
+8b
+8cc
+8a
+8f#
+=4
+4g
+8b
+8g
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+8cc
+8a
+8cc
+8ee
+=6
+4dd
+4.b
+8g
+=7
+8f#
+8a
+8b
+8cc
+8a
+8f#
+=8
+4g
+8b
+8g
+8b
+8g}
+==
+*-
+!!!ONB: Druga część melodii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 177} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

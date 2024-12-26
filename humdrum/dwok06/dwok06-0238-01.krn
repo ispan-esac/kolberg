@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK06023800001-w_niedziele_na_swieto.krn
+!!!OTL: W niedziele na swieto
+!!!source: DWOK06
+!!!id: K0238
+!!!signature: 06023800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+4dd
+=2
+8dd
+4cc
+=3
+16b
+16g
+4a}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+8ee
+=5
+8dd
+4cc
+=6
+16b
+16g
+4a}
+!!LO:LB:g=esac
+=7
+{8f#
+8a
+8cc
+=8
+8a
+8g
+8b
+=9
+8dd
+4a}
+!!LO:LB:g=esac
+=10
+{8f#
+8a
+8cc
+=11
+8a
+4g
+=12
+32e
+16.f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 121} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 121}
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4638300000-klaniam_klaniam_mospanowie.krn
+!!!OTL: Kłaniam, kłaniam, mospanowie
+!!!source: DWOK46
+!!!id: 46383
+!!!signature: 4638300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4.ee
+8cc
+=2
+8ee
+8gg
+4gg
+8ff
+8ee
+=3
+8ee
+8gg
+4gg
+8ff
+8ee}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+4.ee
+8cc
+=5
+8a
+8a
+4dd
+8cc
+8b}
+!!LO:LB:g=esac
+=6
+{8dd
+8dd
+4.ee
+8a
+=7
+8cc
+8cc
+4.a
+8a}
+==
+*-
+!!!ONB: Wariant t. 4: 4_4_5__.3b2
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 248} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 248}
+!!!page: 248
+!!!ONB: Converted on 2024/12/26 with esac2hum

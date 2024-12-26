@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK7502800000-cztery_lata_wierniem_sluzyl.krn
+!!!OTL: Cztery lata wierniem słuzył
+!!!source: DWOK75
+!!!id: 75028
+!!!signature: 7502800000
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/4
+=1
+{8ee-
+8gg
+4ff#
+4gg
+=2
+8ee-
+8gg
+4ff#
+4gg}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+4.gg
+8b
+=4
+8cc
+8cc
+8cc
+8dd
+4ee-}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4.gg
+8b
+=6
+2cc}
+4r
+!!LO:LB:g=esac
+=7
+{8b
+8b
+4.b
+8dd
+=8
+8cc
+8cc
+4.cc
+8ee-}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+4.gg
+8b
+=10
+8cc
+8cc
+8cc
+8dd
+4ee-}
+!!LO:LB:g=esac
+=11
+{8dd
+8dd
+4.gg
+8b
+=12
+2cc}
+4r
+==
+*-
+!!!ONB: Wariant t. 6-7: 777+1+2  +1+1+1+2+3b
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 19} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 19}
+!!!page: 19
+!!!ONB: Converted on 2024/12/26 with esac2hum

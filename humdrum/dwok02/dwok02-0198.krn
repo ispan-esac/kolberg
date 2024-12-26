@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK02-K0198-oj_umarl_maciek.krn
+!!!OTL: Oj umarl Maciek
+!!!source: DWOK02
+!!!id: K0198
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8b
+8b
+=2
+8cc
+8ee
+8ee
+=3
+16dd
+16ff#
+8ff#
+8ff#
+=4
+4gg
+8ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8gg
+8ee
+=6
+16gg
+16gg
+8ff#
+8dd
+=7
+8dd
+8gg
+8ee
+=8
+16dd
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{16a
+16b
+8cc
+8a
+=10
+4g
+8gg
+=11
+16cc
+16cc
+8cc
+8a
+=12
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 158} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 158}
+!!!page: 158
+!!!ONB: Converted on 2024/12/26 with esac2hum

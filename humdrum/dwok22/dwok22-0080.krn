@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2208000000-dobry_groch_dobry_groch.krn
+!!!OTL: Dobry groch dobry groch
+!!!source: DWOK22
+!!!id: 22080
+!!!signature: 2208000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8ee
+=2
+8dd
+8dd
+8b
+=3
+4cc
+8a
+=4
+16b
+16cc
+4dd}
+!!LO:LB:g=esac
+=5
+{4b
+8g
+=6
+16a
+16f#
+8g}
+8r
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8cc
+=8
+4dd
+8ee
+=9
+4cc
+8a
+=10
+16b
+16cc
+4dd}
+!!LO:LB:g=esac
+=11
+{4b
+8g
+=12
+16a
+16f#
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 70} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

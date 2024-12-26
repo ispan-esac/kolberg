@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK5061000000-o_ojczyznie_i_o_slawie.krn
+!!!OTL: O ojczyźnie i o sławie
+!!!source: DWOK50
+!!!id: 50610
+!!!signature: 5061000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8cc
+8cc
+=2
+8cc
+8g
+8g
+8g
+=3
+8dd
+8dd
+8dd
+8dd
+=4
+8dd
+8g
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8ff
+8dd
+=6
+2gg
+=7
+8ee
+8cc
+8.gg
+16b
+=8
+2cc}
+!!LO:LB:g=esac
+=9
+{8ee
+8dd#
+8ee
+8dd#
+=10
+8ee
+8g#
+8a
+8g#
+=11
+8a
+8g#
+8a
+8b
+=12
+8cc
+8b
+8cc
+16dd
+16ee}
+!!LO:LB:g=esac
+=13
+{8ee
+8ee
+8ee
+8g#
+=14
+2a}
+==
+*-
+!!!ONB: Modulacja c-a
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=393 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 360} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 360}
+!!!page: 360
+!!!ONB: Converted on 2024/12/26 with esac2hum

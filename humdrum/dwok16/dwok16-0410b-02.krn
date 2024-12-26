@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1641000002-moja_kasiu_kasiulenko.krn
+!!!OTL: Moja Kasiu Kasiuleńko
+!!!source: DWOK16
+!!!id: 16410b
+!!!signature: 1641000002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ff
+8ee
+4cc
+8dd
+8ee
+=2
+8ff
+8ee
+4cc
+8dd
+8ee
+=3
+8ff
+8ee
+4cc
+4b
+=4
+2.g}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+4f
+4g
+=6
+8b
+8cc
+4.dd
+8ee
+=7
+8ff
+8ee
+4cc
+4b
+=8
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 256} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 256}
+!!!ONB: Converted on 2024/12/26 with esac2hum

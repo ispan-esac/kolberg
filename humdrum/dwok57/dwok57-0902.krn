@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5790200000-czho_placzesz_diwcze_harne.krn
+!!!OTL: Czho płaczesz, diwcze harne
+!!!source: DWOK57
+!!!id: 57902
+!!!signature: 5790200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8g
+4cc
+4cc
+=2
+8b
+8cc
+4dd
+4dd
+=3
+8g
+8g
+4a
+4b
+=4
+8cc
+8dd
+2ee}
+!!LO:LB:g=esac
+=5
+{8gg
+8gg
+4.gg
+8g
+=6
+8cc
+8dd
+4.ee
+8cc
+=7
+8dd
+8b
+4g
+4g
+=8
+8ee
+8dd
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

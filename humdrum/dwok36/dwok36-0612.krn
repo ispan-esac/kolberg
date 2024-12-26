@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3661200000-oj_na_hory_witer_wije.krn
+!!!OTL: Oj na hory witer wije
+!!!source: DWOK36
+!!!id: 36612
+!!!signature: 3661200000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=1
+{8ff
+8ff
+8aa
+8ff
+=2
+8gg
+8ee
+8ff
+8dd
+=3
+8ff
+8ff
+8aa
+8ff
+=4
+8gg
+8ee
+4aa}
+!!LO:LB:g=esac
+=5
+{4dd
+16ee
+16gg
+16ff
+16ee
+=6
+16ee
+16ff
+8dd
+8ee
+8a
+=7
+8dd
+8dd
+16ee
+16gg
+16ff
+16ee
+=8
+8a
+8a
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 403
+!!!ONB: Converted on 2024/12/26 with esac2hum

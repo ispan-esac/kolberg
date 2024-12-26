@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK57156500000-zakowala_zazulenka.krn
+!!!OTL: Zakowała zazułeńka
+!!!source: DWOK57
+!!!id: 571565
+!!!signature: 57156500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16e
+8.a
+16g#
+8.b
+=2
+16e
+8.f#
+8g
+8e}
+!!LO:LB:g=esac
+=3
+{16e
+8.a
+16g#
+8.b
+=4
+16g
+16f
+8e
+4e}
+!!LO:LB:g=esac
+=5
+{16a
+8cc
+16a
+16cc
+8.ee
+=6
+8dd
+16cc
+16b
+16a
+8.dd}
+!!LO:LB:g=esac
+=7
+{8b
+16a
+16g#
+8e
+16ee
+16dd
+=8
+16cc
+8.b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 608
+!!!ONB: Converted on 2024/12/26 with esac2hum

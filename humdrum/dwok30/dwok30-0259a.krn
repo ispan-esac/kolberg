@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK30259a0000-hoj_ty_dzurylo_hoj_ty.krn
+!!!OTL: Hoj ty Dżuryło hoj ty
+!!!source: DWOK30
+!!!id: 30259a
+!!!signature: 30259a0000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8ee
+=2
+8ee
+4dd#
+=3
+8ee
+4cc}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+8ee
+=5
+8ee
+4dd#
+=6
+8ee
+4cc}
+!!LO:LB:g=esac
+=7
+{8cc
+16dd
+16cc
+16b
+16a
+=8
+8a
+4g#
+=9
+8ee
+4ee}
+!!LO:LB:g=esac
+=10
+{8cc
+16dd
+16cc
+16b
+16a
+=11
+8a
+4g#
+=12
+8a
+4a}
+==
+*-
+!!!ONB: Dżuryło. Taniec
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 155} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

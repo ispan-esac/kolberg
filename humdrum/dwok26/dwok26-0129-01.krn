@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2612900001-zakukala_kukuwecka.krn
+!!!OTL: Zakukała kukuwecka
+!!!source: DWOK26
+!!!id: 26129
+!!!signature: 2612900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16dd
+16b
+16a
+8g
+=2
+16b
+16cc
+16dd
+16b
+8dd
+=3
+8b
+4g
+=4
+16f#
+16d}
+4r
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+16g
+16b
+8g
+=6
+16b
+16dd
+16dd
+16g
+8b
+=7
+16a
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 144
+!!!ONB: Converted on 2024/12/26 with esac2hum

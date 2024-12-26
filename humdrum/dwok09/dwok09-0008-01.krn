@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK0900800001-a_trzeba_dac_podkoziolek.krn
+!!!OTL: A trzeba dać podkoziołek
+!!!source: DWOK09
+!!!id: 09008
+!!!signature: 0900800001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16.dd
+32ff
+8dd
+8b
+=3
+16cc
+16ee
+4cc
+=4
+16g
+16b
+4dd}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+8dd
+=6
+16dd
+16ff#
+4gg
+=7
+16dd
+16ee
+4cc
+=8
+16a
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 124} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK41107300002-cztery_lata_temu_bedzie.krn
+!!!OTL: Cztery lata temu będzie
+!!!source: DWOK41
+!!!id: 411073
+!!!signature: 41107300002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16dd
+16ee
+8ff
+8ff
+8aa
+=2
+8cc
+8ee
+16ee
+16dd
+8cc}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+8b
+8b
+=4
+8cc
+8ee
+8ee
+16ee
+16dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff
+8ff
+8aa
+=6
+8cc
+8ee
+16ee
+16dd
+8cc}
+!!LO:LB:g=esac
+=7
+{16b
+16cc
+8dd
+16g
+16a
+8b
+=8
+8cc
+8cc
+8cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=538 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 451} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 451}
+!!!page: 451
+!!!ONB: Converted on 2024/12/26 with esac2hum

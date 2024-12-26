@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7763800000-zielona_dabrowo_zebys_pogorzala.krn
+!!!OTL: Zielona dąbrowo żebyś pogorzała
+!!!source: DWOK77
+!!!id: 77638
+!!!signature: 7763800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16g#
+16a
+4b
+=2
+16dd
+16cc
+4ee
+=3
+16ee
+16dd
+8.b
+16dd
+=4
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=5
+{16g#
+16a
+4b
+=6
+8dd
+8cc
+8cc
+=7
+16b
+16g#
+8.b
+16dd
+=8
+16cc
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 324
+!!!ONB: Converted on 2024/12/26 with esac2hum

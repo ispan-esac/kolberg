@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK06068100002-z_tamtej_strony_wody.krn
+!!!OTL: Z tamtej strony wody
+!!!source: DWOK06
+!!!id: K0681a
+!!!signature: 06068100002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+16a
+16b
+4cc
+=2
+4dd
+16cc
+16b
+16a
+16g
+=3
+8g
+16a
+16b
+4cc
+=4
+4dd
+16cc
+16b
+16a
+16g}
+!!LO:LB:g=esac
+=5
+{8g
+16a
+16b
+4cc
+=6
+8dd
+8ff
+4ff
+=7
+8ee
+16ff#
+16gg
+4ee
+=8
+4dd
+16cc
+16b
+16a
+16g}
+==
+*-
+!!!ONB: Czesc wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=450 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 424} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 424}
+!!!page: 424
+!!!ONB: Converted on 2024/12/26 with esac2hum

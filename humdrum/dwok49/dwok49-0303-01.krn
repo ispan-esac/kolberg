@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4930300001-zazyrala_bizaja_maty.krn
+!!!OTL: Zazyrała Biżaja Maty
+!!!source: DWOK49
+!!!id: 49303
+!!!signature: 4930300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8g
+4a
+4b
+=2
+4b
+4a
+4f#
+=3
+2g
+4g}
+!!LO:LB:g=esac
+=4
+{8d
+8g
+4a
+8b
+8cc
+=5
+4b
+4.a
+8b
+=
+4.cc
+8b
+12b
+12a
+12g}
+!!LO:LB:g=esac
+=6
+{8b
+8cc
+8cc
+8b
+4b
+=7
+4b
+8a
+8b
+8a
+8f#
+=8
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=425 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 339} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 339}
+!!!page: 339
+!!!ONB: Converted on 2024/12/26 with esac2hum

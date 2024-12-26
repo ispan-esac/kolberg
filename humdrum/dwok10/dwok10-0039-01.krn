@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1003900001-juzes_moja_juzes.krn
+!!!OTL: Jużeś moja jużeś
+!!!source: DWOK10
+!!!id: 10039
+!!!signature: 1003900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4cc
+8ee
+=
+24cc
+24b
+24g
+8b
+8dd
+=2
+4cc
+8ee
+=
+24cc
+24b
+24g
+8a
+8g}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+16cc
+16a
+=
+24b
+24cc
+24dd
+8b
+16b
+16dd
+=4
+8a
+8cc
+16cc
+16a
+=
+24b
+24cc
+24dd
+8b
+16b
+16g}
+==
+*-
+!!!ONB: w dwoch taktach brak zapisu trioli u OK,takty zakodowano z zapisem triolowym
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 110} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 110}
+!!!page: 110
+!!!ONB: Converted on 2024/12/26 with esac2hum

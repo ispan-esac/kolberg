@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1714800001-mazureczka_krowydoji.krn
+!!!OTL: Mazureczka krowydoji
+!!!source: DWOK17
+!!!id: 17148
+!!!signature: 1714800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16ee
+8dd#
+8ee
+=2
+16cc
+16cc
+8b
+8dd
+=3
+16b
+16cc
+8a
+8b
+=4
+16b
+16a
+8f#
+8g}
+!!LO:LB:g=esac
+=
+{24d
+24e
+24f#
+8g
+16a
+16b
+=5
+16cc
+16cc
+8ee
+8dd
+=6
+16cc
+16ee
+8dd
+16b
+16g
+=7
+16b
+16a
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 50} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

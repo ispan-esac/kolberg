@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK2409900000-siadajze_siadajze_kasiu.krn
+!!!OTL: Siadajze siadajze Kasiu
+!!!source: DWOK24
+!!!id: 24099
+!!!signature: 2409900000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M2/4
+{8g
+8g
+8a
+8b
+=2
+4.cc
+8ee
+=3
+8g
+8g
+8a
+8b
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8a
+8b
+=6
+4.cc
+8ee
+=7
+8g
+8g
+8a
+8b
+=8
+2cc}
+!!LO:LB:g=esac
+=9
+*M3/4
+{8ee
+8gg
+4gg
+4ff
+=10
+8dd
+8ff
+4ff
+4ee
+=11
+8cc
+8dd
+4ee
+4gg
+=12
+8dd
+8cc
+4b
+4g}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+4a
+4cc
+=14
+8cc
+8a
+4a
+4dd
+=15
+8dd
+8cc
+4.ee
+8b
+=16
+2.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 228} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 228}
+!!!page: 228
+!!!ONB: Converted on 2024/12/26 with esac2hum

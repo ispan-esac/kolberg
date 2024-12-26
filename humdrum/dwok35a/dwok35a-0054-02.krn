@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK35A-35A05400002-juz_sie_na_polu_mroczy.krn
+!!!OTL: Już sie na polu mroczy
+!!!source: DWOK35A
+!!!id: 35A054
+!!!signature: 35A05400002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16ee
+4ff
+=2
+16ee
+16dd
+8ff
+16ee
+16b
+=
+[8cc
+24cc]
+24a
+24b
+16g}
+16r
+!!LO:LB:g=esac
+=3
+{8dd
+8ff
+16ee
+16dd
+=4
+32dd
+32ee
+32ff
+32dd
+8.ee
+16b
+=5
+[8cc
+32cc]
+32b
+32a
+32b
+16g}
+16r
+!!LO:LB:g=esac
+=6
+{16g
+16cc
+8dd
+8ee
+=7
+16ee
+16ff
+4ff
+=
+8ff
+24ff
+24ee
+24dd}
+8r
+!!LO:LB:g=esac
+=8
+{8ee
+16ee
+16dd
+8ff
+=9
+16ff
+32ee
+32dd
+8ee
+8b
+=10
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=82 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 46} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

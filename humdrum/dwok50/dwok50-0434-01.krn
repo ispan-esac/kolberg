@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5043400001-oj_ne_placz_mamciu_ne_placz.krn
+!!!OTL: Oj, ne płacz, mamciu, ne płacz
+!!!source: DWOK50
+!!!id: 50434
+!!!signature: 5043400001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4ee
+4ee
+4ee
+=2
+8dd
+16dd
+16cc
+8cc
+8b
+4a
+=3
+8g#
+8a
+4cc
+4a
+=4
+4cc
+4dd#
+4ee}
+!!LO:LB:g=esac
+=5
+{4ee
+4ee
+4ee
+=6
+8ee
+8ee
+8cc
+8b
+4a
+=7
+8g#
+8a
+4cc
+4g#
+=8
+4a
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 258} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 258}
+!!!page: 258
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2635400000-jedna_dziewcyna_jedna.krn
+!!!OTL: Jedna dziewcyna jedna
+!!!source: DWOK26
+!!!id: 26354
+!!!signature: 2635400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8g
+8g
+=2
+4b
+8dd
+=3
+8cc
+4b}
+!!LO:LB:g=esac
+=4
+{8g
+8g
+8g
+=5
+4b
+8dd
+=6
+8cc
+4b}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8cc
+=8
+4b
+8dd
+=9
+8a
+4d}
+!!LO:LB:g=esac
+=10
+{8g
+8g
+8g
+=11
+4b
+8dd
+=12
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 260
+!!!ONB: Converted on 2024/12/26 with esac2hum

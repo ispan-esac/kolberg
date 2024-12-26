@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK3921200001-siedzi_dudek_w_oknie.krn
+!!!OTL: Siedzi dudek w oknie
+!!!source: DWOK39
+!!!id: 39212
+!!!signature: 3921200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8ee
+8dd
+8cc
+8b
+8g
+=2
+8b
+8a
+8b
+8cc
+8dd
+8a}
+!!LO:LB:g=esac
+=3
+{8b
+8a
+8b
+8cc
+8dd
+8a
+=4
+8g
+8a
+8b
+8cc
+8dd
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 230} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 230}
+!!!page: 230
+!!!ONB: Converted on 2024/12/26 with esac2hum

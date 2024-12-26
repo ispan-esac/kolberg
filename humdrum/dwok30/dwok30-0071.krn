@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3007100000-plyne_czoven_wody_poven.krn
+!!!OTL: Płyne czoven wody poven
+!!!source: DWOK30
+!!!id: 30071
+!!!signature: 3007100000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8b
+16b
+16dd
+8cc
+8cc
+=2
+16b
+16g#
+16b
+16dd
+8cc
+8cc
+=3
+8b
+16b
+16dd
+4cc
+=4
+16b
+16a
+8g#
+4a}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+8a
+8a
+=6
+8g#
+8g#
+8a
+8a
+=7
+8b
+16b
+16dd
+4cc
+=8
+16b
+16a
+8g#
+4a}
+==
+*-
+!!!ONB: Kozaczek
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 57} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

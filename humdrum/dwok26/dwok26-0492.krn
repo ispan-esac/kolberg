@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2649200000-posla_doda_do_ogroda.krn
+!!!OTL: Posła Doda do ogroda
+!!!source: DWOK26
+!!!id: 26492
+!!!signature: 2649200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16g
+16b
+8cc
+16cc
+16ee
+=2
+16dd
+16ff
+8ee
+16cc
+16a
+=3
+16g
+16b-
+8dd
+8cc
+=4
+16b-
+16g
+4f}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+16ee
+16gg
+=6
+16ff
+16dd
+8cc
+8a
+=7
+16g
+16b-
+8dd
+8cc
+=8
+16b-
+16g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 319
+!!!ONB: Converted on 2024/12/26 with esac2hum

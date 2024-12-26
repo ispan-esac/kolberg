@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1651100002-a_gdziez_to_ten_kusy_jan.krn
+!!!OTL: A gdzież to ten kusy Jan
+!!!source: DWOK16
+!!!id: 16511b
+!!!signature: 1651100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8dd
+8dd
+=2
+8dd
+8ee
+8dd
+8b
+=3
+8dd
+8ee
+8dd
+8b
+=4
+8cc
+8b
+4dd
+=5
+8a
+8f#
+4g}
+!!LO:LB:g=esac
+=6
+{8cc
+8b
+8dd
+8b
+=7
+8a
+8f#
+8g
+8b
+=8
+8cc
+8b
+8dd
+8b
+=9
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=328 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 308} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 308}
+!!!ONB: Converted on 2024/12/26 with esac2hum

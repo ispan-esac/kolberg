@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK02-K0124.krn
+!!!OTL:
+!!!source: DWOK02
+!!!id: K0124
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8dd
+8ee
+=2
+8ff
+8ee
+8dd
+=3
+8dd
+4cc}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+8ff
+=5
+8gg
+8gg
+16gg
+16ff
+=6
+4.ee
+=7
+4gg
+8ee}
+!!LO:LB:g=esac
+=8
+{8gg
+8gg
+8gg
+=9
+8ff
+8ee
+8dd
+=10
+8dd
+4cc}
+!!LO:LB:g=esac
+=11
+{8dd
+8dd
+8ee
+=12
+16ff
+16ee
+8gg
+8cc
+=13
+8dd
+8ee
+8b
+=14
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 91} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 91}
+!!!page: 91
+!!!ONB: Converted on 2024/12/26 with esac2hum

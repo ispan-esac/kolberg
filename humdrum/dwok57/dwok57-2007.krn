@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK57200700000-stuklo_huklo.krn
+!!!OTL: Stukło, hukło
+!!!source: DWOK57
+!!!id: 572007
+!!!signature: 57200700000
+**kern
+*clefG2
+*k[b-]
+*d:
+=1
+*M3/4
+{8d
+8d
+4a
+4f
+=2
+*M2/4
+8a
+8a
+8cc
+8a
+=3
+8g
+8g
+8a
+8f}
+!!LO:LB:g=esac
+=4
+*M3/4
+{8g
+8g
+4a
+4d
+=5
+*M2/4
+8f
+8f
+8g
+8g
+=6
+*M3/4
+8g
+8g
+4a
+4d
+=7
+8f
+8f
+4.d
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1059
+!!!ONB: Converted on 2024/12/26 with esac2hum

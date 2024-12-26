@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK4806600000-widzisz_ty_dziewczyno.krn
+!!!OTL: Widzisz, ty dziewczyno
+!!!source: DWOK48
+!!!id: 48066
+!!!signature: 4806600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8f
+4ff
+=2
+8ee
+4dd
+8dd
+=3
+8dd
+8ee
+4ff
+=4
+8dd
+4cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8ff
+4a
+=6
+8g
+4b-
+8b-
+=7
+8dd
+8cc
+4b-
+=8
+8e
+4f
+8f}
+==
+*-
+!!!ONB: Wariant t. 8: 43_3
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 132} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 132}
+!!!page: 132
+!!!ONB: Converted on 2024/12/26 with esac2hum

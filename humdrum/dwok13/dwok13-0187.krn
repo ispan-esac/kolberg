@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK1318700000-zagrajze_mi_ty_graczyku.krn
+!!!OTL: Zagrajze mi ty graczyku
+!!!source: DWOK13
+!!!id: 13187
+!!!signature: 1318700000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{8f#
+8a
+16a
+16g
+=2
+16f#
+16a
+8dd
+8dd
+=3
+8b
+8b
+16b
+16dd
+=4
+16dd
+16dd
+8.cc#
+16a}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+16a
+16g
+=6
+16f#
+16a
+8a
+8a
+=7
+16b
+16g
+8e
+16e
+16g
+=8
+16b
+16a
+8f#
+8d}
+!!LO:LB:g=esac
+=9
+{8f#
+8a
+16a
+16g
+=10
+16f#
+16d
+8c#
+8e
+=11
+16g
+16g
+8e
+16e
+16g
+=12
+16b
+16a
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=122 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 98} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK8423200000-w_temnym_lisi_woron_kracze.krn
+!!!OTL: W temnym lisi woron kracze
+!!!source: DWOK84
+!!!id: 84232
+!!!signature: 8423200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.cc
+16dd
+8ee
+8ee
+=2
+16ff
+16ee
+16dd
+16cc
+8dd
+8g
+=3
+16ff
+16ee
+8dd
+16ff
+16ee
+16dd
+16cc
+=4
+16b
+16cc
+16dd
+16b
+8g
+8g
+=5
+8cc
+16ee
+16ff
+4gg
+=6
+8ff
+16ff
+16gg
+4aa
+=7
+16ff
+16ee
+8dd
+8dd
+8gg
+=8
+16ff
+16ee
+8dd
+8dd
+8gg
+=9
+8cc
+16cc
+16cc
+4cc}
+==
+*-
+!!!ONB: Wariant t. 5-6: +1+2+3+4+5__  +4+3+4+5+6__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=281 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 219} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 219}
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

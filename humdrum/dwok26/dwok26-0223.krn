@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2622300000-janioliku_pacholiku.krn
+!!!OTL: Janioliku pacholiku
+!!!source: DWOK26
+!!!id: 26223
+!!!signature: 2622300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+4ee
+=2
+8ee
+4cc
+=3
+8dd
+4ee
+=4
+16dd
+16b
+4a}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8dd
+=6
+8dd
+8b
+8a
+=7
+4.dd
+=8
+4ee}
+8r
+!!LO:LB:g=esac
+=9
+{8cc
+4ee
+=10
+8ee
+4ee
+=11
+8dd
+4ee
+=12
+16dd
+16b
+4a}
+!!LO:LB:g=esac
+=13
+{8cc
+8ee
+8dd
+=14
+4dd
+8a
+=15
+8cc
+4a
+=16
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

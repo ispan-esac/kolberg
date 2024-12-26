@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4418400000-siedzial_ptak_na_lipce.krn
+!!!OTL: Siedział ptak na lipce
+!!!source: DWOK44
+!!!id: 44184
+!!!signature: 4418400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*MX
+=1
+{8ee
+8ee
+16ff#
+16ee
+8cc
+16b
+16g
+8b
+=2
+16cc
+16ee
+16cc
+16a
+8b
+8b
+8a
+8g
+2dd}
+!!LO:LB:g=esac
+=3
+{8b
+8cc#
+8cc#
+16dd
+16ee
+8cc
+16b
+16g
+8b
+=4
+16cc
+16ee
+8cc
+16b
+16a
+8b
+8a
+8g
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 191} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 191}
+!!!page: 191
+!!!ONB: Converted on 2024/12/26 with esac2hum

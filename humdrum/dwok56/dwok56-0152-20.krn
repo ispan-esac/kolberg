@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK5615200020-pomagajbog_zelman.krn
+!!!OTL: Pomagajbóg Zelman
+!!!source: DWOK56
+!!!id: 56152
+!!!signature: 5615200020
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8ff#
+8aa
+8aa
+16gg
+16ff#
+=2
+4aa
+8ff#
+8dd
+=3
+8ff#
+8aa
+8aa
+16gg
+16ff#
+=4
+4aa
+8ff#
+8dd}
+!!LO:LB:g=esac
+=5
+{4ff#
+4gg
+=6
+8.ff#
+16ee
+4dd
+=7
+4ff#
+4gg
+=8
+8ff#
+8ee
+4dd}
+!!LO:LB:g=esac
+=9
+{4ee
+8.ff#
+16dd
+=10
+8ee
+8ee
+8ff#
+8dd
+=11
+4ff#
+4gg
+=12
+8ff#
+8ee
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 174} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

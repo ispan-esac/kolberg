@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK3329200000-panie_gospodaru_budzze_nam_rad.krn
+!!!OTL: Panie gospodaru budźże nam rad
+!!!source: DWOK33
+!!!id: 33292
+!!!signature: 3329200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+8a
+16b
+16cc
+=2
+8dd
+16dd
+16ee
+[4a
+=3
+8a]
+16ee
+16dd
+8cc
+8b
+=4
+8a
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+16cc
+16a
+8dd
+16b
+16g
+=6
+8a
+16ee
+16dd
+8cc
+8b
+=7
+8g
+8cc
+8b
+16b
+16g
+=8
+8a
+8g
+4g}
+!!LO:LB:g=esac
+=9
+{8cc
+16cc
+16a
+8dd
+16b
+16g
+=10
+8a
+16f#
+16e
+8d
+8d
+=11
+8g
+8cc
+8b
+16b
+16g
+=12
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=353 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 311} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 311}
+!!!page: 311
+!!!ONB: Converted on 2024/12/26 with esac2hum

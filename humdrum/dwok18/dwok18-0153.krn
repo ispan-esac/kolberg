@@ -1,0 +1,45 @@
+!!!!SEGMENT: DWOK1815300000-grajcie_mi_mars.krn
+!!!OTL: Grajcie mi mars
+!!!source: DWOK18
+!!!id: 18153
+!!!signature: 1815300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8b
+8b
+2g
+=2
+4ee
+8cc
+16b
+16cc
+2a}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8a
+8a
+8cc
+8cc
+8dd
+8cc
+=4
+8b
+8b
+8cc
+8a
+2g}
+==
+*-
+!!!ONB: Marsz weselny w drodze do kościoła
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 109} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 109}
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

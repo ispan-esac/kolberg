@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK3905600000-lecialy_gesi_z_ty_bialej_rusi.krn
+!!!OTL: Leciały gęsi z ty Białej Rusi
+!!!source: DWOK39
+!!!id: 39056
+!!!signature: 3905600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8f#
+4.a
+8f#
+=2
+2.g
+=3
+8g
+16a
+16b
+4.cc
+8b
+=4
+2.a
+=5
+8g
+16a
+16b
+4.cc
+8b
+=6
+2.a}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+4a
+4g
+=8
+8dd
+8cc
+4b
+4d
+=9
+8d
+8f#
+4.a
+8f#
+=10
+2.g}
+!!LO:LB:g=esac
+=11
+{8g
+8b
+4a
+4g
+=12
+8dd
+8cc
+4b
+4d
+=13
+8d
+8f#
+4.a
+8f#
+=14
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 124} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

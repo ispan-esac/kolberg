@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK5024000002-po_hori_po_hori_pawusejky_chodiat.krn
+!!!OTL: Po hori, po hori pawusejky chodiat
+!!!source: DWOK50
+!!!id: 50240
+!!!signature: 5024000002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+8cc
+4dd
+=3
+16dd
+16ee
+8dd
+8cc
+=4
+8g
+16a
+16b}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+=6
+8cc
+16b
+16g
+8g}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8cc
+=8
+8cc
+4dd
+=9
+16dd
+16ee
+8dd
+8cc
+=10
+8g
+16a
+16b}
+8r
+!!LO:LB:g=esac
+=11
+{8b
+8dd
+8dd
+=12
+8cc
+16b
+16g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 114} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 114}
+!!!page: 114
+!!!ONB: Converted on 2024/12/26 with esac2hum

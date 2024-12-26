@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK5325400000-vaj_marti_poni.krn
+!!!OTL: Vaj! Marti poni!
+!!!source: DWOK53
+!!!id: 53254
+!!!signature: 5325400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4a
+4cc
+=2
+4b-
+4a
+=3
+2g}
+!!LO:LB:g=esac
+=4
+{4g
+4b-
+=5
+4a
+4g
+=6
+2f}
+!!LO:LB:g=esac
+=7
+{4g
+4f
+=8
+4e
+4f
+=9
+2g}
+!!LO:LB:g=esac
+=10
+{4g
+4b-
+=11
+4a
+4g
+=12
+2f}
+!!LO:LB:g=esac
+=13
+{4g
+4f
+=14
+4e
+4f
+=15
+2g}
+!!LO:LB:g=esac
+=16
+{4g
+4b-
+=17
+4a
+4g
+=18
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=378 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 338} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 338}
+!!!page: 338
+!!!ONB: Converted on 2024/12/26 with esac2hum

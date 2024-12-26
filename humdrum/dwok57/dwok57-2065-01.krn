@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK57206500001-w_slawnom_misci_milatyni.krn
+!!!OTL: W sławnom misci Milatyni
+!!!source: DWOK57
+!!!id: 572065
+!!!signature: 57206500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4b
+4a
+4dd
+=2
+4cc
+4b
+4a
+4g}
+!!LO:LB:g=esac
+=3
+{4b
+4cc
+8dd
+8cc
+8b
+8cc
+=4
+8cc
+8a
+4a}
+2r
+!!LO:LB:g=esac
+=5
+{4cc
+4b
+4a
+4dd
+=6
+4cc
+4b
+4a
+4g}
+!!LO:LB:g=esac
+=7
+{4a
+4dd
+4cc
+4b
+=8
+4a
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1127
+!!!ONB: Converted on 2024/12/26 with esac2hum

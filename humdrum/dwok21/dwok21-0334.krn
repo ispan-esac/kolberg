@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2133400000-oj_tancowalibyswa_da.krn
+!!!OTL: Oj tańcowalibyśwa da
+!!!source: DWOK21
+!!!id: 21334
+!!!signature: 2133400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4.cc
+=2
+4.cc
+=3
+16g
+16a
+8b-
+8a
+=4
+16g
+16g
+8dd
+8cc
+=5
+16b-
+16a
+8g
+8cc
+=6
+16f
+16f
+8g
+8f}
+!!LO:LB:g=esac
+=7
+{16dd
+16ee
+16ff
+16ee
+8dd
+=8
+16cc
+16cc
+8dd
+8cc
+=9
+16dd
+16ee
+8ff
+16ee
+16dd
+=10
+16cc
+16f
+8g
+8f}
+==
+*-
+!!!ONB: Utwór zaczyna się od dwóch taktów instrumentalnych
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 133} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 133}
+!!!page: 133
+!!!ONB: Converted on 2024/12/26 with esac2hum

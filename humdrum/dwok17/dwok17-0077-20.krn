@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1707700020-jechal_kozak_z_ukrainy_-_instrumentalna.krn
+!!!OTL: Jechał kozak z Ukrainy - instrumentalna
+!!!source: DWOK17
+!!!id: 17077
+!!!signature: 1707700020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc
+8ee
+8ee
+=2
+16dd
+16b
+8g
+16b
+16g
+=3
+16f#
+16a
+8f#
+16a
+16d
+=4
+16g
+16b
+8.g
+16f#}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8f#
+16f#
+16d
+=6
+16g
+16b
+8g
+8a
+=7
+16f#
+16a
+8f#
+16a
+16d
+=8
+16g
+16b
+8.g
+16f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 29} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 29}
+!!!page: 29
+!!!ONB: Converted on 2024/12/26 with esac2hum

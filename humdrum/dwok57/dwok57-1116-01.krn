@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK57111600001-oj_czomu_ty_kolomyjko_wczoraj_ne_horila.krn
+!!!OTL: Oj, czomu ty, Kołomyjko, wczoraj ne horiła
+!!!source: DWOK57
+!!!id: 571116
+!!!signature: 57111600001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8ee
+8ee
+=2
+8ee
+16dd
+16cc
+16b
+16cc
+8a
+=3
+8a
+8cc
+8ee
+8ee
+=
+12ee
+12dd
+12cc
+16dd
+16cc
+16b
+16cc}
+!!LO:LB:g=esac
+=4
+{8a
+8cc
+8ee
+8ee
+=5
+8ee
+16dd
+16cc
+16b
+16cc
+8a
+=6
+8cc
+8cc
+8b
+8g#
+=7
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 255
+!!!ONB: Converted on 2024/12/26 with esac2hum

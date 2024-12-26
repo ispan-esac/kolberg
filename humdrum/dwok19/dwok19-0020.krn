@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1902000000-jezelis_slessnicy.krn
+!!!OTL: Jezeliś śleśśnicy
+!!!source: DWOK19
+!!!id: 19020
+!!!signature: 1902000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc#
+4dd
+=2
+8b
+4b
+16a
+16g
+=3
+8f#
+8a
+4cc
+=4
+8b
+4dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+16cc#
+16ee
+4dd
+=6
+8b
+4b
+16a
+16g
+=7
+8f#
+8a
+4cc
+=8
+8f#
+4a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=24 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 10} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 10}
+!!!page: 10
+!!!ONB: Converted on 2024/12/26 with esac2hum

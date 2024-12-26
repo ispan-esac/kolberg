@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK8102100020-instrumentalna-powij_witre_powij_witre.krn
+!!!OTL: Instrumentalna-Powij witre powij witre
+!!!source: DWOK81
+!!!id: 81021
+!!!signature: 8102100020
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8cc
+16dd
+16ee
+4ff
+=
+!!UNCATEGORIZED MEASURE
+16gg
+16ff
+24ff
+24ee
+24dd
+16ee
+16dd
+8dd
+=
+!!UNCATEGORIZED MEASURE
+8cc
+16a
+16g
+24b
+24a
+24g
+16cc
+16a
+=2
+*M3/8
+4.g
+=3
+8ff}
+8r
+8r
+!!LO:LB:g=esac
+=4
+*M2/4
+{8dd
+8ee
+4ff
+=5
+8gg
+16ff
+16ee
+4dd
+=6
+8dd
+8ee
+4ff
+=7
+*M3/8
+4.g
+=8
+8dd}
+4r
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 23} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 23}
+!!!page: 23
+!!!ONB: Converted on 2024/12/26 with esac2hum

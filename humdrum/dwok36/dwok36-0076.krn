@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK3607600000-z_zamora_huska_letila.krn
+!!!OTL: Z zamora huska łetiła
+!!!source: DWOK36
+!!!id: 36076
+!!!signature: 3607600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8g
+8f#
+=2
+4g
+8a
+=3
+8b
+8cc
+8a
+=4
+4.b}
+!!LO:LB:g=esac
+=5
+{8d
+8g
+8f#
+=6
+4g
+8a
+=7
+8b
+8cc
+8a
+=8
+4.b}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8dd
+=10
+16a
+16a
+8a
+8b
+=11
+16g
+16f#
+8e
+8d}
+!!LO:LB:g=esac
+=12
+{16d
+16d
+8e
+8d
+=13
+8g
+8a
+8f#
+=14
+8g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 42-43
+!!!ONB: Converted on 2024/12/26 with esac2hum

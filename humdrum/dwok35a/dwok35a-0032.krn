@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK35A-35A03200000-hory_mytene_stoly_stylene.krn
+!!!OTL: Hory mytene stoły styłene
+!!!source: DWOK35A
+!!!id: 35A032
+!!!signature: 35A03200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+8b
+8cc
+4dd
+4ee
+=2
+4ff
+8dd
+8ee
+4cc
+4b
+=3
+4a
+4cc
+2g}
+!!LO:LB:g=esac
+=4
+{8g
+8g
+8b
+8cc
+4dd
+4ee
+=5
+16ff
+8.ee
+8dd
+8ee
+4cc
+16b
+8.g
+=
+8a
+8g
+12cc
+12a
+12g
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=66 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 30} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 30}
+!!!page: 30
+!!!ONB: Converted on 2024/12/26 with esac2hum

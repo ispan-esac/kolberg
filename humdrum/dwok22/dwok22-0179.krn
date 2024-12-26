@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2217900000-wyjechal_pan_wyjechal_pan_z_chartem.krn
+!!!OTL: Wyjechał pan wyjechał pan z chartem
+!!!source: DWOK22
+!!!id: 22179
+!!!signature: 2217900000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8ee
+8dd#
+8ff#
+=2
+8dd#
+8ee
+16cc
+16b
+8a
+=3
+8ee
+8ee
+8dd#
+8b
+=4
+4ee
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8g#
+8b
+8b
+8b
+=6
+8dd#
+8ee
+16cc
+16b
+8a
+=7
+8g#
+8b
+8e
+8g#
+=8
+4a
+8g#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 111} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

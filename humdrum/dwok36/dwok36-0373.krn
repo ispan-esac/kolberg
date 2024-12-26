@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK3637300000-pryszow_stary_brodaty.krn
+!!!OTL: Pryszow stary brodaty
+!!!source: DWOK36
+!!!id: 36373
+!!!signature: 3637300000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8b
+8cc
+8a
+=2
+8g
+8f#
+8g
+8ee
+=3
+8ee
+8b
+8cc
+8a
+=4
+4g
+4cc}
+!!LO:LB:g=esac
+=5
+{8f
+8f
+8.a
+16f
+=6
+8e
+8e
+8.g
+16e
+=7
+8d
+8e
+8f
+8B
+=8
+8c
+8e
+4g}
+!!LO:LB:g=esac
+=9
+{8f
+8f
+8.a
+16f
+=10
+8e
+8e
+8.g
+16e
+=11
+8d
+8e
+8f
+8d
+=12
+4c
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 234-235
+!!!ONB: Converted on 2024/12/26 with esac2hum

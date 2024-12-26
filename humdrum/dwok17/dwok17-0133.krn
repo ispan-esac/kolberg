@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1713300000-wiele_sie_chlop_zalozyl.krn
+!!!OTL: Wiele się chłop założył
+!!!source: DWOK17
+!!!id: 17133
+!!!signature: 1713300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.g
+16dd
+16ee
+16cc
+=2
+8b
+8a
+8a
+=3
+16b
+16dd
+8cc
+8cc
+=4
+8b
+8a
+8a}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8cc
+8cc
+=6
+8dd
+16ee
+16cc
+8a
+=7
+16b
+16dd
+8cc
+8ee
+=8
+8b
+8a
+8a}
+==
+*-
+!!!ONB: Nuta Ser. I n. 188, 235. Wariant t. 1: 5_.564
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=68 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 46} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK4416900000-idzcie_druzki.krn
+!!!OTL: Idźcie drużki
+!!!source: DWOK44
+!!!id: 44169
+!!!signature: 4416900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{[2dd
+8dd]
+8ee
+8dd
+8cc
+=2
+4b
+4g
+4a
+4g}
+!!LO:LB:g=esac
+=3
+{[2dd
+8dd]
+8ee
+8dd
+8cc
+=4
+4b
+4g
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 182} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 182}
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

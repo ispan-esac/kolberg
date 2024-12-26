@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK4922700002-na_roztoci_na_potoci.krn
+!!!OTL: Na roztoci, na potoci
+!!!source: DWOK49
+!!!id: 49227
+!!!signature: 4922700002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/8
+=1
+{16cc
+16dd
+16ee
+16cc
+=2
+8ff
+8ee
+=3
+8.dd
+16dd}
+!!LO:LB:g=esac
+=4
+{16b
+16dd
+16dd
+32dd
+32cc
+=5
+8ee
+16dd
+16b
+=6
+8.cc
+16cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=360 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 278} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 278}
+!!!page: 278
+!!!ONB: Converted on 2024/12/26 with esac2hum

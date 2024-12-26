@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK41112100020-szla_kasienka_po_wode.krn
+!!!OTL: Szła Kasieńka po wodę
+!!!source: DWOK41
+!!!id: 411121
+!!!signature: 41112100020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8a
+8cc
+8cc
+8a
+8cc
+8a
+=2
+8b-
+8dd
+8b-
+8dd
+8cc
+8b-}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+4bb-
+4aa
+=4
+8gg
+8ee
+2ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=569 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 482} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 482}
+!!!page: 482
+!!!ONB: Converted on 2024/12/26 with esac2hum

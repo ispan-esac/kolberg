@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK1302500000-juz_mi_minelo_pietnascie_latek.krn
+!!!OTL: Już mi minęło piętnaście latek
+!!!source: DWOK13
+!!!id: 13025
+!!!signature: 1302500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8ff
+8.ee
+16dd
+=2
+4cc
+8a
+=3
+8g
+8.g
+16b-
+=4
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8ff
+8.ee
+16dd
+=6
+4cc
+8a
+=7
+8g
+8.g
+16b-
+=8
+8a
+4f}
+!!LO:LB:g=esac
+=9
+{16a
+16b-
+8cc
+8b-
+=10
+16b-
+16a
+8dd
+8cc
+=11
+4ff
+8ee
+=12
+4ff}
+8r
+!!LO:LB:g=esac
+=13
+{16a
+16b-
+8cc
+8b-
+=14
+16a
+16b-
+8dd
+8b-
+=15
+4a
+8g
+=16
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 16} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

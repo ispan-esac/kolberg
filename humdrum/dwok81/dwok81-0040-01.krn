@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK8103000001-o_ty_jana_bohoslowa.krn
+!!!OTL: O ty Jana bohosłowa
+!!!source: DWOK81
+!!!id: 81040
+!!!signature: 8103000001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8ee
+8ff
+16ee
+16dd
+4cc
+=2
+8ee
+8ee
+4ff
+16ee
+16dd
+8cc}
+!!LO:LB:g=esac
+=3
+{8dd
+8ee
+4dd
+4g
+=
+8cc
+8ee
+8ff
+24ee
+24dd
+24b
+4cc}
+!!LO:LB:g=esac
+=4
+{8ee
+8ee
+8ee
+8dd
+8dd
+8cc
+=5
+8dd
+8ee
+4dd
+4g}
+!!LO:LB:g=esac
+=6
+{8cc
+8cc
+4ff
+8ee
+8dd
+=7
+8ee
+8ee
+4dd
+4g}
+!!LO:LB:g=esac
+=
+{8ff
+8ff
+4ff
+12ee
+12dd
+12cc
+=8
+8dd
+8ee
+4dd
+4g}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+4ff
+8ee
+8dd
+=10
+8dd
+8dd
+4.cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 37} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

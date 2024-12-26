@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4128300000-a_bodaj_zes_nawymyslal.krn
+!!!OTL: A bodaj żeś nawymyślał
+!!!source: DWOK41
+!!!id: 41283
+!!!signature: 4128300000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16a
+16ff#
+8ee
+16dd
+16cc#
+=2
+16a
+16ff#
+8ee
+16dd
+16cc#
+=3
+16a
+16ff#
+8ee
+16dd
+16cc#
+=4
+16a
+16g
+8f#
+8d}
+!!LO:LB:g=esac
+=5
+{8.g
+16f#
+16a
+16f#
+=6
+16g
+16g
+8f#
+8a
+=
+24g
+24a
+24b
+8cc
+8dd
+=7
+16a
+16g
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 173} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

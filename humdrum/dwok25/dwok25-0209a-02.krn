@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK25209a0002-u_mlynarza_nasego.krn
+!!!OTL: U młynarza nasego
+!!!source: DWOK25
+!!!id: 25209a
+!!!signature: 25209a0002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+4ee
+=3
+2cc
+=4
+8cc
+8dd
+8ee
+8ff
+=5
+4gg
+4gg
+=6
+2ee}
+!!LO:LB:g=esac
+=7
+{4gg
+4aa
+=8
+4ff
+4dd
+=9
+8ee
+8gg
+4cc
+=10
+8b
+8dd
+4g}
+!!LO:LB:g=esac
+=11
+{8b
+8dd
+8dd
+8ee
+=12
+4cc
+8b
+8dd
+=13
+8b
+8dd
+8dd
+8ee
+=14
+4cc
+8a
+8b
+=15
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 92} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 92}
+!!!page: 92
+!!!ONB: Converted on 2024/12/26 with esac2hum

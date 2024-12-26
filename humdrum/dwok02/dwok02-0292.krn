@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK02-K0292-cy_ja_nie_ladny_dziewcyno.krn
+!!!OTL: Cy ja nie ladny dziewcyno
+!!!source: DWOK02
+!!!id: K0292
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8b-
+8g
+=2
+16b-
+16dd
+8cc#
+8dd
+=3
+16f
+16a
+8b-
+8g
+=4
+16b-
+16a
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8b-
+8g
+=6
+16b-
+16a
+8f
+8g
+=7
+16f
+16a
+8b-
+8g
+=8
+16cc
+16a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 220} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 220}
+!!!page: 220
+!!!ONB: Converted on 2024/12/26 with esac2hum

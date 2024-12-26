@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK8304700002-na_kniaze_dwory_krehowa_woda_rozlala.krn
+!!!OTL: Na kniaże dwory krehowa woda rozlała
+!!!source: DWOK83
+!!!id: 83047
+!!!signature: 8304700002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ee
+16dd
+8ee
+8ff
+=2
+16ff
+16dd
+4ee
+=3
+8gg
+8ff
+8ee
+=4
+16dd
+16cc
+8ff
+8ee
+=
+24dd
+24cc
+24b
+4cc
+=5
+16b
+16g}
+4r
+!!LO:LB:g=esac
+=6
+{16g
+16cc
+16dd
+16cc
+8ee
+=7
+16dd
+16b
+4cc
+=8
+8ff
+8ff
+16ff
+16ee
+=9
+16dd
+16cc
+8ff
+8ee
+=10
+16ee
+16dd
+8cc
+8b
+=11
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=162 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 59} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 59}
+!!!page: 59
+!!!ONB: Converted on 2024/12/26 with esac2hum

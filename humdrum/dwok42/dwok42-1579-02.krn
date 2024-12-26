@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK42157900002-astrologowie_co_gwiazdy_licycie.krn
+!!!OTL: Astrologowie co gwiazdy licycie
+!!!source: DWOK42
+!!!id: 421579
+!!!signature: 42157900002
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+{8a
+8b
+8cc
+8a
+4ee
+12dd
+12cc
+12b
+=1
+8a
+8b
+8cc
+8g#
+4a
+4a}
+!!LO:LB:g=esac
+=2
+{4cc
+8ee
+8cc
+4.gg
+8ff
+=
+8ee
+8dd
+8dd
+8cc
+4ee
+12dd
+12cc
+12b}
+!!LO:LB:g=esac
+=
+{8a
+8b
+8cc
+8a
+4ee
+12dd
+12cc
+12b
+=3
+8a
+8b
+8cc
+8g#
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 106} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 106}
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

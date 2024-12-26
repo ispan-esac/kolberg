@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK0502200010-albosmy_to_jacy_tacy.krn
+!!!OTL: Albośmy to jacy tacy
+!!!source: DWOK05
+!!!id: K0022
+!!!signature: 0502200010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8b
+8cc
+=2
+8dd
+8dd
+8ee
+8ee
+=3
+8dd
+8dd
+8ee
+8ee}
+!!LO:LB:g=esac
+=4
+{8dd
+8cc
+4a
+=5
+8cc
+4dd
+8b
+=6
+8dd
+8cc
+4a
+=7
+8a
+4b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 217} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 217}
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

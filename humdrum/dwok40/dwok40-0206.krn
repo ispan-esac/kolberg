@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4020600000-deszczek_pada_roska_siada.krn
+!!!OTL: Deszczek pada, roska siada
+!!!source: DWOK40
+!!!id: 40206
+!!!signature: 4020600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16e
+16cc
+8.b
+16ee
+=2
+16dd
+16b
+16cc
+16b
+8a
+=3
+16ee
+16dd#
+8.ee
+32gg
+32ff#
+=4
+8ee
+8dd#
+8b}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8ee
+8b
+=6
+16ee
+16dd
+16cc
+16b
+8a
+=7
+16cc
+16b
+8dd
+16ee
+16dd
+=8
+16cc
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=307 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 248} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 248}
+!!!page: 248
+!!!ONB: Converted on 2024/12/26 with esac2hum

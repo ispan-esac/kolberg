@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK2702300000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK27
+!!!id: 27023
+!!!signature: 2702300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4ee
+4ff#
+8gg#
+8ff#
+=
+8ee
+8dd#
+4ee
+12dd
+12cc
+12b
+=
+4a
+12dd
+12cc
+12dd
+4ee
+=2
+2dd
+4b}
+!!LO:LB:g=esac
+=3
+{4ee
+4ff#
+8gg#
+8ff#
+=
+8ee
+8dd#
+4ee
+12dd
+12cc
+12b
+=4
+4a
+4dd
+8a
+8cc
+=5
+2.b}
+!!LO:LB:g=esac
+=6
+{8a
+8cc
+4cc
+4b
+=7
+4a
+4dd
+4ee
+=8
+2dd
+4b}
+!!LO:LB:g=esac
+=9
+{8a
+8b
+4cc
+4dd
+=10
+2ee
+8a
+8cc
+=11
+2.b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 155} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

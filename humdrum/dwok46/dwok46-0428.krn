@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4642800000-oj_dobry_nasz_pan_dobry.krn
+!!!OTL: Oj, dobry nasz pan, dobry
+!!!source: DWOK46
+!!!id: 46428
+!!!signature: 4642800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8cc
+4b
+4a
+=2
+8g
+8ff
+4ee
+4dd
+=3
+4cc
+4b
+4g
+=4
+8e
+8f#
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4b
+4g
+=6
+8g
+8ff
+4ee
+4dd
+=7
+4cc
+4b
+4g
+=8
+8e
+8f#
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=302 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 268} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 268}
+!!!page: 268
+!!!ONB: Converted on 2024/12/26 with esac2hum

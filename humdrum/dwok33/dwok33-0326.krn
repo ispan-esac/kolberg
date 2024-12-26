@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK3332600000-marysia_batenku_diekowala.krn
+!!!OTL: Marysia batenku diekowała
+!!!source: DWOK33
+!!!id: 33326
+!!!signature: 3332600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8b
+8cc
+=2
+8dd
+4b
+=3
+8dd
+4cc
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{16a
+16g
+8a
+8b
+=6
+4.cc
+=7
+8cc
+8b
+8f#
+=8
+8g
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8cc
+=10
+8dd
+4b
+=11
+8dd
+4cc
+=12
+8b
+4g}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+8b
+=14
+4.cc
+=15
+8cc
+4b
+=16
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=364 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 322} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 322}
+!!!page: 322
+!!!ONB: Converted on 2024/12/26 with esac2hum

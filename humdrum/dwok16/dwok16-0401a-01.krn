@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK1640100001-oj_siadaj_siadaj.krn
+!!!OTL: Oj siadaj siadaj
+!!!source: DWOK16
+!!!id: 16401a
+!!!signature: 1640100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8dd
+8ee
+=2
+4.dd
+8b
+=3
+8dd
+8cc
+8a
+8a
+=4
+2g
+=5
+4dd
+8dd
+8ee
+=6
+4.dd
+8b
+=7
+8dd
+8dd
+8a
+8cc
+=8
+2dd}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8g
+8b
+=10
+8cc
+8a
+8b
+8g
+=11
+8a
+8a
+8g
+8b
+=12
+8cc
+8a
+8b
+8b
+=13
+8cc
+8a
+8a
+8a
+=14
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 251} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 251}
+!!!ONB: Converted on 2024/12/26 with esac2hum

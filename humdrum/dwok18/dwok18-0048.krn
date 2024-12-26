@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1804800000-a_gdziez_to_ten_druzba_marsalek.krn
+!!!OTL: A gdzież to ten druzba marsałek
+!!!source: DWOK18
+!!!id: 18048
+!!!signature: 1804800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8ee
+8ee
+=2
+4dd
+4b
+=3
+4cc
+4cc
+=4
+2a}
+!!LO:LB:g=esac
+=5
+{4b
+4b
+=6
+2g}
+!!LO:LB:g=esac
+=7
+{8dd
+8dd
+8ee
+8ee
+=8
+4dd
+4b
+=9
+4cc
+8cc
+8b
+=10
+2a}
+!!LO:LB:g=esac
+=11
+{4b
+4b
+=12
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 77} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 77}
+!!!page: 77
+!!!ONB: Converted on 2024/12/26 with esac2hum

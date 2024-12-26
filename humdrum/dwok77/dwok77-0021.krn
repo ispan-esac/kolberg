@@ -1,0 +1,112 @@
+!!!!SEGMENT: DWOK7702100000-po_co_zes_mnie_moja_matko.krn
+!!!OTL: Po co żeś mnie moja matko
+!!!source: DWOK77
+!!!id: 77021
+!!!signature: 7702100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8ff
+4dd
+4b
+=2
+8g
+8ff
+4.dd
+8b
+=3
+8g
+8g
+4a
+4b
+=4
+2.cc}
+!!LO:LB:g=esac
+=5
+{8g
+8ff
+4dd
+4b
+=6
+8g
+8ff
+4.dd
+8b
+=7
+8g
+8g
+4a
+4b
+=8
+2.cc}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+4g
+4cc
+=10
+8b
+8cc#
+4.dd
+8b}
+!!LO:LB:g=esac
+=11
+{8g
+8g
+4b
+4cc
+=12
+8ee
+8ff#
+4.gg
+8ff}
+!!LO:LB:g=esac
+=13
+{8ee
+8g
+4a
+4b
+=14
+2.cc}
+!!LO:LB:g=esac
+=15
+{8g
+8g
+4g
+4cc
+=16
+8b
+8cc#
+4.dd
+8b}
+!!LO:LB:g=esac
+=17
+{8g
+8g
+4b
+4cc
+=18
+8ee
+8ff#
+4.gg
+8ff}
+!!LO:LB:g=esac
+=19
+{8ee
+8g
+4a
+4b
+=20
+2.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 36
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK5315300000-po_to_kalniala.krn
+!!!OTL: Po to kalniala
+!!!source: DWOK53
+!!!id: 53153
+!!!signature: 5315300000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4ff
+8ee
+8dd
+4cc
+4g
+=2
+4ff
+4gg
+2ff}
+!!LO:LB:g=esac
+=3
+{4ff
+8ee
+8dd
+4cc
+4g
+=4
+4cc
+4dd
+2cc}
+!!LO:LB:g=esac
+=5
+{4ff
+8ee
+8dd
+4cc
+4g
+=6
+4cc
+4dd
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=321 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 285} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 285}
+!!!page: 285
+!!!ONB: Converted on 2024/12/26 with esac2hum

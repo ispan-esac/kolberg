@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK4649600000-w_krakowie_nie_we_wsi.krn
+!!!OTL: W Krakowie, nie we wsi
+!!!source: DWOK46
+!!!id: 46496
+!!!signature: 4649600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4g
+=2
+4b
+2dd
+=3
+8dd
+8ff#
+4dd
+4ff#
+=4
+4aa
+2gg}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b
+4g
+=6
+4b
+2dd
+=7
+8dd
+8ff#
+4dd
+4ff#
+=8
+4aa
+2gg}
+!!LO:LB:g=esac
+=9
+{4ee
+4cc
+4cc
+=10
+8cc
+8ee
+4cc
+4cc
+=11
+2dd
+4g
+=12
+8b
+8cc
+4a
+4b
+=13
+4g}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=338 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 304} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 304}
+!!!page: 304
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK57140700000-na_ulyci_gromada_gromada.krn
+!!!OTL: Na ułyci gromada, gromada
+!!!source: DWOK57
+!!!id: 571407
+!!!signature: 57140700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4a
+4b
+4dd
+=2
+8b
+8a
+4g
+8g
+8g
+4g}
+!!LO:LB:g=esac
+=3
+{1ee
+=4
+4dd
+4ee
+4dd
+4cc
+=5
+8b
+8a
+4g
+8g
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 464
+!!!ONB: Converted on 2024/12/26 with esac2hum

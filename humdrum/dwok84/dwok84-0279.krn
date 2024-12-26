@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK8427900000-czy_pamietasz_moja_luba.krn
+!!!OTL: Czy pamiętasz, moja luba
+!!!source: DWOK84
+!!!id: 84279
+!!!signature: 8427900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8f
+4f
+4a
+=2
+8cc
+8cc
+4a
+4cc
+=3
+8ff
+8ee
+8ff
+8ee
+8ff
+8gg
+=4
+2.aa}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+4g
+4b-
+=6
+8cc
+8b-
+4f
+4a
+=7
+8g
+8g
+4b-
+4g
+=8
+8f
+8a
+4cc
+4ee}
+!!LO:LB:g=esac
+=9
+{8ff
+8ee
+4g
+4b-
+=10
+8cc
+8b-
+4f
+4a
+=11
+8g
+8g
+4b-
+4g
+=12
+8f
+8a
+4f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=326 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 256} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 256}
+!!!page: 256
+!!!ONB: Converted on 2024/12/26 with esac2hum

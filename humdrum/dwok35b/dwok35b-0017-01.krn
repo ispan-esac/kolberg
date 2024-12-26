@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK35B-35B01700001-tam_na_hori_na_wosokij.krn
+!!!OTL: Tam na hori na wosokij
+!!!source: DWOK35B
+!!!id: 35B017
+!!!signature: 35B01700001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+4ee
+=2
+8dd
+4ee
+=3
+8cc
+4ee
+=4
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+4b
+=6
+8g#
+4b
+=7
+8f#
+4a
+=8
+8g#
+4e}
+!!LO:LB:g=esac
+=9
+{8a
+4ee
+=10
+8dd
+4ee
+=11
+8cc
+4ee
+=12
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 139} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 139}
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

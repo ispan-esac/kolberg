@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2217200000-biezace_wody_miedzy_ogrody.krn
+!!!OTL: Bieżące wody między ogrody
+!!!source: DWOK22
+!!!id: 22172
+!!!signature: 2217200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8ff
+8aa
+8ff
+=2
+4cc
+8b-
+=3
+8a
+8f
+8a
+=4
+8g
+4f}
+!!LO:LB:g=esac
+=5
+{8g
+8.b-
+16g
+=6
+16b-
+16a
+4f
+=7
+8a
+8.cc
+16a
+=8
+16cc
+16b-
+4g}
+!!LO:LB:g=esac
+=9
+{8cc
+8.c
+16e
+=10
+8g
+8f
+8a
+=11
+16dd
+16cc
+8.cc
+16e
+=12
+4f
+8f}
+==
+*-
+!!!ONB: Wariant t. 1 +3_+3_+1_; t. 2 5_6_4_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 108} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 108}
+!!!page: 108
+!!!ONB: Converted on 2024/12/26 with esac2hum

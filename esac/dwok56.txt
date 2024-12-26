@@ -1,0 +1,2860 @@
+DWOK56
+CUT[Biega Maryja bieżący]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 61 od Jaworowa]
+FKT[]
+SIG[5600300000]
+KEY[56003   08  G 4/4]
+MEL[1_3_3_5_  4_423_0_
+    1_3_3_5_  4_423_0_
+    3_3_2_.1  -7_1_2_5_
+    3_5_2_.1  -7-6-712_5_
+    3_221_0_ //]
+BEM[Wariant t. 9: 3_421_0_]
+
+DWOK56
+CUT[Biegła Maryja bieżący]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 62 Ubinie]
+FKT[]
+SIG[5600400000]
+KEY[56004   08  G 4/4]
+MEL[1_3_3_5_  4_323_0_
+    1_3_3_5_  4_323_0_
+    3_3_2_.1  -7_1_2_2_
+    3_3_2_.1  -7-6-712_2_
+    3_221_0_ //]
+BEM[]
+
+DWOK56
+CUT[Chodźmy bracia kolędować]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 63 Ubinie]
+FKT[]
+SIG[5600500001]
+KEY[56005   08  G 4/4]
+MEL[1_3_1_3_  5_542_6_  4_343__
+    5_5_1_3_  2_.12_4_  3_2_1__
+    345_1_3_  2_.14_3_  2-71__. //]
+BEM[]
+
+DWOK56
+CUT[Chodźmy bracia kolędować]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 63 Ubinie]
+FKT[]
+SIG[5600500002]
+KEY[56005   08  G 4/4]
+MEL[1_3_1_3_  5_542_6_  5_543__
+    3_5_1_3_  4_.34_6_  5_4_3__
+    345_1_3_  2_.14_3_  2-71__. //]
+BEM[]
+
+DWOK56
+CUT[W czystym polu stoi gruszeczka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 63 Lwów]
+FKT[]
+SIG[5600600001]
+KEY[56006   16  G 4/4]
+MEL[1__1_3_1__3__  5__5_3_2__4#__  5__5_4_3___
+    5__5_4_3__2_1_  2__2_1_3__4__  3_3_2__1___ //]
+BEM[]
+
+DWOK56
+CUT[W czystym polu stoi gruszeczka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 63 Lwów]
+FKT[]
+SIG[5600600002]
+KEY[56006   16  G 4/4]
+MEL[1_1_1_3_1__3__  5_5_5_3_2__34#_.  5__5_4_3__.6_
+    5__5_4_3__2_1_  2__2_1_3__4__  3_3_2_-7_1___ //]
+BEM[]
+
+DWOK56
+CUT[W tej kolędzie]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 65  Ubinie]
+FKT[]
+SIG[5600800000]
+KEY[56008   16  G 2/4]
+MEL[3_2_3_4_  5_5_5_5_  6_.66_5_  4__3__
+    3_2_3_4_  5_5_5_5_  5_6_5_4_  3__2__
+    3__2_1_  3__2_1_  -7_-6_-7_1_  2__2__
+    3__2_1_  3__2_1_  -7_-6_-7_1_  2__2__ //]
+BEM[Wariant t. 4: 4_3_3__]
+
+DWOK56
+CUT[Chodzili se wilki]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 66 Ubinie]
+FKT[]
+SIG[5600900001]
+KEY[56009   16  G 2/4]
+MEL[1_1_1_3_  5__5__  +1_+1_7_6_  5__6__
+    4_4_6_4_  3_3_5_3_  21234_2_  1__1__ //]
+BEM[]
+
+DWOK56
+CUT[Chodzili se wilki]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 66 Ubinie]
+FKT[]
+SIG[5600900002]
+KEY[56009   16  G 2/4]
+MEL[1_1_1_3_  5__5__  +1_+1_7_6_  5__6__
+    4_456_4_  3_3_5__  21234_2-7  1__1__ //]
+BEM[]
+
+DWOK56
+CUT[Kolęda Oj wyszed arendarz]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 66-67 Lwów]
+FKT[]
+SIG[5601000000]
+KEY[56010   32  G 3/8]
+MEL[5_6_5__4__  3_5_2___  5_6_5__4__  34532___
+    1__1__1__  3__4__6__  5___4__  3___0__
+    5_6_5__4__  3_5_2___  5_6_5__4__  34532___
+    1_3_3__5__  5__2___  1_3_3__5__  3__3__3__  4__2__-7__  1___1__ //]
+BEM[]
+
+DWOK56
+CUT[Oj, hore, hore snieh'y mor'ozy]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 67 Zadwórze]
+FKT[]
+SIG[5601100000]
+KEY[56011   08  C 3/8]
+MEL[+1+3+3  +4+3_  +2+2+1  76_  +1_5
+    +4+3_  +2+2+2  +3+2+1  +2+2+2  +1_. //]
+BEM[]
+
+DWOK56
+CUT[Oj, jszło, jszło]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 68 Zadwórze]
+FKT[]
+SIG[5601200000]
+KEY[56012   32  A 3/4 2/4]
+MEL[-5__1__3b__1__-7___  -5__1__3b__1__-7___  -5_1_-7__1__2__  3b___43b21-7b__
+    3b__3b__4_3b_3b__2___  1__1__1__2_1_-7___  -5__3b_2_1__2_1_  -7___1___ //]
+BEM[Wariant t. 1 i 2: -5__1__3b_2_1_-7___; wariant t. 7: -5__3b__1__2_1_]
+
+DWOK56
+CUT[Z tamtej strony gajka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 69 Zadwórze]
+FKT[]
+SIG[5601300000]
+KEY[56013   08  G 2/4]
+MEL[1122  3_3_  4445  3_3_
+    4445  3333  222-7  135_
+    4445  3333  222-7  2-723  1_1_ //]
+BEM[]
+
+DWOK56
+CUT[ruska, do kolędy]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 70 Zadwórze]
+FKT[]
+SIG[5601400000]
+KEY[56014   16  G 6/8]
+MEL[1_4_3_2__-7_  1_4_3_2__-7_  1_-7_1_2_321_
+    1_4_3_2__-7_  1_4_3_2__-7_  2_1_-7_2_1__ //]
+BEM[]
+
+DWOK56
+CUT[Narodzenie Pana, dziś dzień wesoły]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 70 Zadwórze]
+FKT[]
+SIG[5601500000]
+KEY[56015   16  G 4/4]
+MEL[1_2_3_4_5__3_5_  5_4_2_4_3___
+    1_2_3_4_5__3_5_  5_4_2_4_3___
+    5_5_6_6_4_435_5_  3_3_5_5_2_2_-7_-5_
+    1_2_3_4_5__3__  5_4_2_4_3___
+    5_5_6_6_4_435_5_  3_3_5_5_2_2_-7_-5_
+    1_2_3_4_5__3__  5_4_2_4_3___ //]
+BEM[Wariant t. 5 i 9: 5_5_6_654_435_54; wariant t. 7 i 11: 1_2_3_4_5__3_5_]
+
+DWOK56
+CUT[Pomagabóg, panie gospodarzu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 71 Lwów]
+FKT[]
+SIG[5601600001]
+KEY[56016   16  G 4/4]
+MEL[1__3__1__3__  5_5_5_432__3__  5__4__3___
+    5_6_5_4_3__1__  2__2_1_3__4__  3__2__1___ //]
+BEM[]
+
+DWOK56
+CUT[Pomagabóg, panie gospodarzu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 71 Lwów]
+FKT[]
+SIG[5601600002]
+KEY[56016   16  G 4/4]
+MEL[1__3__1__3__  5_5_5_432__3_4_  5__5_4#_5___
+    5_6_5_4_3_2_1__  2__2_1_3__4__  3__2__1___ //]
+BEM[]
+
+DWOK56
+CUT[Oj, w czystym połe połużoczok]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 71 Barysz]
+FKT[]
+SIG[5601700000]
+KEY[56017   08  G 3/4]
+MEL[5_+1_7b_  5_3__  4_6543  2_1__
+    1_212_  5__67b
+    65543_  1_4_.3  5_4543  2_1__
+    1_212_  5__. //]
+BEM[]
+
+DWOK56
+CUT[Nowaja radist]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 72 Barysz]
+FKT[]
+SIG[5601800000]
+KEY[56018   08  G 3/4]
+MEL[565_4_  3_2__
+    565_43  5_2__
+    1_3_.2  4_6__  5_.43_
+    565_4_  352__
+    565_4_  3_2__
+    3_3_5_  4_2_-7_  1_.23_ //]
+BEM[]
+
+DWOK56
+CUT[Tam na horońci dwi zazułeńci w jeczmeny]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 73 Barysz]
+FKT[]
+SIG[5601900000]
+KEY[56019   16  G 3/8]
+MEL[1_3_3_  345__  6_6_56  543__  3_2__  1__0_  3_5_5_  4__2_  1_3_3_  2__5_  5_1__  1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Oj, po hori, hori, pawonkie chodit]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 125 Barysz. Szczodriwka (na Jordana w Trzy Króle)]
+FKT[]
+SIG[5610300001]
+KEY[56103   16  C 4/4 3/4]
+MEL[+1_+1_+1_+3_+2__+1__  +3__+4_+5_+4__+3__  +3_+3+2+1__+2__  +2_+3+2+1__+1__ //]
+BEM[]
+
+DWOK56
+CUT[Oj, po hori, hori, pawonkie chodit]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 125 Barysz. Szczodriwka (na Jordana w Trzy Króle)]
+FKT[]
+SIG[5610300002]
+KEY[56103   16  C 4/4 3/4]
+MEL[+1_+1_+1_+3_+2__+2_+1_  +3_+3_+4_+5_+4__+3_+2_  +3_+3+2+1__+2__  +2_+3+2+1__+1__ //]
+BEM[]
+
+DWOK56
+CUT[Szczodryj weczer, dobryj weczer]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 126 Barysz. W wigilię Trzech Króli (Jordan)]
+FKT[]
+SIG[5610400001]
+KEY[56104   08  G 3/4]
+MEL[1_1_3_  2__21  3_3_5_  4_.33_
+    323_2_  1_2_34  323_2_  1__1_ //]
+BEM[]
+
+DWOK56
+CUT[Szczodryj weczer, dobryj weczer]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 126 Barysz. W wigilię Trzech Króli (Jordan)]
+FKT[]
+SIG[5610400002]
+KEY[56104   08  G 3/4]
+MEL[-511_3_  2__21  323_5_  4_.3(321)
+    323_2_  1_2_34  323_2_  1__1_ //]
+BEM[]
+
+DWOK56
+CUT[Ej, czyje to konie żeną na gumienkach]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 129 Zadwórze]
+FKT[]
+SIG[5611000000]
+KEY[56110   16  A 2/4]
+MEL[3b_3b_3b_3b_  5__5__  4_4_4_3b2  1__1__
+    2__.1_  2__1__  5__.2_  5__2__ //]
+BEM[Wariant t. 3: 4_4_453b2]
+
+DWOK56
+CUT[Tam na horońci nowi korszmońci]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 129 Zadwórze]
+FKT[]
+SIG[5611100000]
+KEY[56111   16  A 3/8]
+MEL[1_3b_3b_  3b_5__  4#_5_6_  5_4#_1_  3b_2_-7_  1__0_
+    1_3b_5_  5_4#_1_  3b_2_1_  2__.  50-7_11 //]
+BEM[]
+
+DWOK56
+CUT[Cy je, cy ny ma gospodar doma]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 130 Zadwórze. Szczodrówka]
+FKT[]
+SIG[5611200000]
+KEY[56112   08  C 3/8]
+MEL[5+3+3  +4+3_  +2+2+1  76_
+    +1_5  +4+3_  +2+2+2  +3+2+1  +2+2+2  +1_. //]
+BEM[]
+
+DWOK56
+CUT[Dobry wieczór, panie gospodarzu, do ciebie]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 131 Zadwórze]
+FKT[]
+SIG[5611300001]
+KEY[56113   16  G 4/4]
+MEL[1__3__1__3__  5_5_5_432__3_4_  5__5_3_5___
+    5__5_4_3__1__  2__2_1_2_3_4__  3__2__1___ //]
+BEM[]
+
+DWOK56
+CUT[Dobry wieczór, panie gospodarzu, do ciebie]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 131 Zadwórze]
+FKT[]
+SIG[5611300002]
+KEY[56113   16  G 4/4]
+MEL[1__3_2_1__3__  5__5_432__3_4_  5__5__5___
+    5__5_4_3_2_1__  2__2_1_2_3_4__  3__2_-7_1___ //]
+BEM[]
+
+DWOK56
+CUT[Pasła Handzuni czotiri woły w jałyni]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 132 Zadwórze]
+FKT[]
+SIG[5611400000]
+KEY[56114   16  G 3/8]
+MEL[1_3_1_  3_5__  5_4_2_  4_3__  3_2_-7_  1__.
+    3_5_5_  5_4__  3_321_  2__5_  -7_1_.1 //]
+BEM[]
+
+DWOK56
+CUT[Jest z widte hora]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 134 Zadwórze]
+FKT[]
+SIG[5611600000]
+KEY[56116   16  C FREI]
+MEL[+3_+5__+2_+3+4+5__.  +6__+4_+2_+3_+5__+1__
+    +5_+4_+2_+3_+5__+1__+1_7_6_5__  +5_+4_+2_+3_+5__+1__ //]
+BEM[]
+
+DWOK56
+CUT[Czyj to je płużok najranczyj]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 135 Zadwórze. Szczodriwka]
+FKT[]
+SIG[5611700000]
+KEY[56117   08  G 3/8]
+MEL[131  35_  542  43_  32-7  10_
+    355  54_  331  2_5  -71_  1_0 //]
+BEM[Wariant t. 4: 432; wariant t. 5: 32_; wariant t. 8: 542]
+
+DWOK56
+CUT[Oj, a zacwyły wyszni, zereszni wid sońci]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 136 Zadwórze]
+FKT[]
+SIG[5611800000]
+KEY[56118   16  A 3/8]
+MEL[1_3b_1_  3b_5__  4#_5_6_  5_4#_1_  3b_2_-7_  1__0_
+    1_3b_5_  5_4__  3b_3b_1_  2__5_  -7_1__  1_0__ //]
+BEM[Wariant t.1: 1_3b21_; wariant t. 5: 3b_2__; wariant t. 8: 5_4__]
+
+DWOK56
+CUT[Z cicha braci przystępujcie]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 137 Zadwórze]
+FKT[]
+SIG[5611900001]
+KEY[56119   16  C 3/4]
+MEL[5_+1_+2__+1__  +3+2+4_+3__+2__  +4_+2+3+1__+2__  +2_+3+2+1__.+1_
+    5_+1_+2_7_+1__  +3+2+4_+3__+2_+3_  +4_+3+2+1__+2__  +2+1+2+3+1__.+1_ //]
+BEM[]
+
+DWOK56
+CUT[Z cicha braci przystępujcie]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 137 Zadwórze]
+FKT[]
+SIG[5611900002]
+KEY[56119   16  C 3/4]
+MEL[5_+1_+2_7_+1__  +3+2+4_+3_+1_+2_+3_  +4_+2+3+1_+3_+2__  +2+1+3+2+1__.+1_
+    5_+1_+2__+1__  +3+2+4_+3_+1_+2__  +4_+3+2+1__+2__  +2+1+2+3+1__.+1_ //]
+BEM[]
+
+DWOK56
+CUT[Z cicha, braci, przystępujcie]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 138 Zadwórze]
+FKT[]
+SIG[5612000001]
+KEY[56120   16  C 3/4]
+MEL[5_+1_+2_7_+1__  +3_+2+4+3__+3__  +3_+2+3+1__+2__  +2+1+2+3+1__.+1_
+    5_+1_+2_7_+1__  +3_+2+4+3__+3__  +3_+2+3+1__+2__  +2+1+2+3+1__.+1_ //]
+BEM[]
+
+DWOK56
+CUT[Z cicha, braci, przystępujcie]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 138 Zadwórze]
+FKT[]
+SIG[5612000002]
+KEY[56120   16  C 3/4]
+MEL[5_+1_+2_7_+1__  +3_+2+4(+3_+2_+1_)+3__  +4+3+2+3+1__+2__  +2_(+2+37)+1__.+1_
+    5_+1_+2_7_+1__  +3_+2+4(+3_+2_+1_)+3__  +4+3+2+3+1__+2__  +2_(+2+37)+1__.+1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, kury, kury, nie pijte rano]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 140 Zadwórze]
+FKT[]
+SIG[5612100000]
+KEY[56121   16  C 3/8]
+MEL[+1_+3_+3_  +4_+3__  +2_+2_+1_  7_6__
+    +1__5_  +4_+3__  +2_.+2+2_  +3__+1_  +2_.+27_  +1__. //]
+BEM[]
+
+DWOK56
+CUT[Oj, kury, kury, ne pijte rano]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 141 Zadwórze]
+FKT[]
+SIG[5612200000]
+KEY[56122   08  C 3/8]
+MEL[5+3+3  +4+3_  +2+2+1  76_
+    +1_5  +4+3_  +2+2+2  +3+2+1  +2+2+2  +1_. //]
+BEM[]
+
+DWOK56
+CUT[Oj, kury, kure, nie pijte rano]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 141 Zadwórze. Szczodrówka]
+FKT[]
+SIG[5612300000]
+KEY[56123   08  G 3/8]
+MEL[143  53_  221  -7-6_
+    1_-5  43_  222  431  222  1_. //]
+BEM[]
+
+DWOK56
+CUT[Oj, kury, kury, nie pijte ranó]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 142 Lwów. Szczodrówki (w wiliję 3 Króli bojawłeńskie świata)]
+FKT[]
+SIG[5612400000]
+KEY[56124   08  G 3/8]
+MEL[133  43_  221  -7-6_
+    1_-5  43_  222  3_1  222  1_. //]
+BEM[]
+
+DWOK56
+CUT[Tam we Lwowi]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 143 Szczodriwka dziewcząt]
+FKT[]
+SIG[5612500001]
+KEY[56125   16  G 4/4]
+MEL[1__3__1__3__  5__6__2__5__  3__2_4_3___
+    3__5__3__1__  2_1_2_3_4__5__  3__2__1___ //]
+BEM[]
+
+DWOK56
+CUT[Tam we Lwowi]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 143 Szczodriwka dziewcząt]
+FKT[]
+SIG[5612500002]
+KEY[56125   16  G 4/4]
+MEL[1__1_3_1__3__  5__5_6_2__5_4_  3__2_4_3___
+    3_5_5_543_2_1__  2_1_2_3_4_2_5_4_  3_2_2_1_1___ //]
+BEM[]
+
+DWOK56
+CUT[Tam we Lwowi]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 144 Zadwórze. Szczodrówka]
+FKT[]
+SIG[5612600000]
+KEY[56126   08  G 4/4]
+MEL[1_3_1_3_  5_3_5__
+    5_543_1_  22234_54  3_2-71__
+    5_543_1_  22234_54  3_2-71__
+    1_3_1_3_  5_543_2_  5_3_5__
+    5_54321_  22234_54  3_2-71__ //]
+BEM[]
+
+DWOK56
+CUT[Piszła Marysia w Dunaj po wodu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 145-146 Zadwórze. Szczodriwki]
+FKT[]
+SIG[5612700001]
+KEY[56127   16  A 3/8]
+MEL[1_3b_3b_  3b_5__  4#_5_6_  5_4#_1_  3b_2_-7_  1__0_
+    1_3b_5_  5_4#_1_  3b_2_1_  2__5_  -7_1_.1
+    1_2_3b_  4_5__  4_5_6_  5_4#__  3b_2_-7_  1__0_
+    1_4_5_  5_3b__  3b_2_1_  2__5_  -7_1__  1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Piszła Marysia w Dunaj po wodu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 145-146 Zadwórze. Szczodriwki]
+FKT[]
+SIG[5612700002]
+KEY[56127   16  A 3/8]
+MEL[1_3b_3b_  3b_5__  4#_5_6_  5_4#_1_  3b_2_-7_  1__0_
+    1_3b_5_  5_4#_1_  3b_2_1_  2__5_  -7_1_.1
+    1_2_3b_  4_5__  4_5_6_  5_4#_2_  3b_2_-7_  1__0_
+    1_2_5_  5_3b_1_  3b_2_1_  2__5_  -7_1__  1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Piszła Kasuni rano po wodu k dunaju]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 147 Ubinie]
+FKT[]
+SIG[5612800000]
+KEY[56128   08  A 3/4]
+MEL[1_3b21_  3b_5__  4#_5_3b_  5_3b_1_  3b_2_-7_  1_0__
+    1_3b21_  3b_5__  4_3b21_  2__2_  -7_1_1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj chodźmyż]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 147-148 Ubinie]
+FKT[]
+SIG[5612900000]
+KEY[56129   08  G 4/4]
+MEL[5_543_1_  554_3_1_  4_6_5__
+    5_543_1_  21234_54  3_2_1__ //]
+BEM[]
+
+DWOK56
+CUT[Pan Jandrusenko woły na trawi]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 148 Ubinie]
+FKT[]
+SIG[5613000000]
+KEY[56130   08  C 2/4]
+MEL[5_+1+1  +2_.7  +1_0_
+    +3+2+4+3  +1_+2+3  +4+2+3+2  +1_.5  +2_0_
+    +2+1+37  +1__  +1_0_ //]
+BEM[]
+
+DWOK56
+CUT[J-a u gospodari nówa switłońka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 149 Ubinie. Szczdrówki]
+FKT[]
+SIG[5613100000]
+KEY[56131   08  G 3/4]
+MEL[1_3_21  3_4__  3_3_43  2_-7_1_  2__3_  -7_1_0_
+    2__2_  3_4__  3_3_43  2-71__  2__32  -7_1_0_ //]
+BEM[]
+
+DWOK56
+CUT[Tam na riczońci jaworiw czówen]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 150 Ubinie]
+FKT[]
+SIG[5613200000]
+KEY[56132   08  G 3/4]
+MEL[1_3_21  3_4__  3_3_43  2-71__  2__32  -7_1_0_
+    1_3_2_  3_4__  3_321_  2__2_  -7_1_.1 //]
+BEM[]
+
+DWOK56
+CUT[J-a u Hańdzireńki za worotamy murawa]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 151 Ubinie]
+FKT[]
+SIG[5613300000]
+KEY[56133   08  G 3/4]
+MEL[1_3_21  3_4__  3_3_43  2-71__  3__2-7  1_0__
+    1_3_3_  5_4_4_  3_321_  2__2_  -7_1_.1 //]
+BEM[]
+
+DWOK56
+CUT[Tam w Maryseńki pid wókońciemy zełena]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 153 Połonice]
+FKT[]
+SIG[5613500000]
+KEY[56135   16  A 3/4]
+MEL[1_2_2_2_5__  4#_5_6_5_4#_1_  3b_3b__.1__  1_3b_5_5_5_1_  3b_3b21_2_5__  5_-7_1__.1_ //]
+BEM[]
+
+DWOK56
+CUT[Piszou Maksymcio rano kosyty]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 154 Szczodrowa]
+FKT[]
+SIG[5613600000]
+KEY[56136   16  A 3/8]
+MEL[1_3b_3b_  3b_5__  4#_5_6_  5_4#_1_  3b__2_  1__.
+    1_3b_5_  5_4__  3b_2_1_  2__5_  -7_1_.1 //]
+BEM[]
+
+DWOK56
+CUT[Oj, zacwyły nam wyszni]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 155 Nowosiółki. Wilija Bożego Narodzenia, szczodriwiki - kolęda]
+FKT[]
+SIG[5613700000]
+KEY[56137   16  E 3/4]
+MEL[5_5_7b_6_5__  7b_6_5_5_4__  3b_2_2__1__
+    1_3b_5_5_5__  43b213__5__  1_1__.1__ //]
+BEM[Wariant t.1 i 2: 4#55_7b_6_4#_4#_  7b_6_5_5_43b21]
+
+DWOK56
+CUT[Gdzieżeś był, gdzieżeś był, czarny baranie?]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 157 Barysz. Baran]
+FKT[]
+SIG[5613900001]
+KEY[56139   08  G 3/4]
+MEL[5_5_4_  3_3_1_  3_3_4_  6_5__
+    5_5_4_  3_2_5_  32342_  2_1__
+    5_5_4_  3_2_5_  32342_  2_1__ //]
+BEM[]
+
+DWOK56
+CUT[Gdzieżeś był, gdzieżeś był, czarny baranie?]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 157 Barysz. Baran]
+FKT[]
+SIG[5613900002]
+KEY[56139   08  G 3/4]
+MEL[565_4_  343_1_  323_4_  6_5__
+    565_4_  34245_  32342_  211__
+    565_4_  34245_  32342_  211__ //]
+BEM[]
+
+DWOK56
+CUT[Ponagabóg, Zalman]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 161 od Jarczowa (Zadwórze). Andante. Haiwka]
+FKT[]
+SIG[5614600001]
+KEY[56146   16  G 2/4]
+MEL[3_3_234_  3_1_2_1_  3_3_234_  3_2_1__  2_2_2_5_  3_3_1_2_  3__2__  1___ //]
+BEM[]
+
+DWOK56
+CUT[Ponagabóg, Zalman]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 161 od Jarczowa (Zadwórze). Andante. Haiwka]
+FKT[]
+SIG[5614600002]
+KEY[56146   16  G 2/4]
+MEL[3_3_4_4_  3_1_2_1_  3_3_4_4_  3_2_1__  2_2_2_5_  3_321_4_  3__2_-7_  1___ //]
+BEM[]
+
+DWOK56
+CUT[Czego chce Zelman]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 168 Zelman]
+FKT[]
+SIG[5614900010]
+KEY[56149   08  G 2/4]
+MEL[3_34  3_21  3_34  321_
+    2225  3324  3_2_  1_0_
+    3_34  3_21  3_34  321_
+    2225  3324  3_2_  1_0_ //]
+BEM[]
+
+DWOK56
+CUT[Czego chce Zelman]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 168 Zelman]
+FKT[]
+SIG[5614900020]
+KEY[56149   08  G 2/4]
+MEL[3334  3_21  3334  321_  2224  3324  3_2_  1_0_  3334  3_21  3334  321_  2225  3324  3_2_  1_0_ //]
+BEM[]
+
+DWOK56
+CUT[Czego chce Zelman]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 168 Zelman]
+FKT[]
+SIG[5614900030]
+KEY[56149   08  G 2/4]
+MEL[3334  3321  3334  321_  5_4_  3_2_  5_4_  321_  2225  3324  3_2_  1_0_ //]
+BEM[]
+
+DWOK56
+CUT[Pomagabóg, Żelman]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 171 Ubinie. Hajiłki, hahułki]
+FKT[]
+SIG[5615000010]
+KEY[56150   04  G 4/4]
+MEL[3344  3_2_  3344  321_  2225  3344  3_2_  1__ //]
+BEM[]
+
+DWOK56
+CUT[Pomagabóg, Żelman]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 171 Ubinie. Hajiłki, hahułki]
+FKT[]
+SIG[5615000020]
+KEY[56150   04  G 4/4]
+MEL[3344  332_  3344  332_  5_4_  3_2_  5_4_  321_  2225  3344  3_2_  1__ //]
+BEM[]
+
+DWOK56
+CUT[Pomagajbóg Zelman]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 174 Moderato]
+FKT[]
+SIG[5615200010]
+KEY[56152   16  D 2/4]
+MEL[+4_+3_+2_+4_  +3_+2_+1__  +4_+3_+2_+4_  +3_+2_+1__
+    +2_+2_+3_+1_  +2_+2_+3_+1_  +3__+4__  +3_+2_+1__ //]
+BEM[]
+
+DWOK56
+CUT[Pomagajbóg Zelman]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 174 Moderato]
+FKT[]
+SIG[5615200020]
+KEY[56152   16  D 2/4]
+MEL[+3_+5_+5_+4+3  +5__+3_+1_  +3_+5_+5_+4+3  +5__+3_+1_
+    +3__+4__  +3_.+2+1__  +3__+4__  +3_+2_+1__
+    +2__+3_.+1  +2_+2_+3_+1_  +3__+4__  +3_+2_+1__ //]
+BEM[]
+
+DWOK56
+CUT[A czemu ty ne tańcujesz]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 176 Andante]
+FKT[]
+SIG[5615300000]
+KEY[56153   08 Bb 3/4]
+MEL[123_4_  322_1_  444231  2_.131
+    123_3_  322_1_  444231  2_.131 //]
+BEM[]
+
+DWOK56
+CUT[Czem ty, Halu, na tańciujesz Halu, Halu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 177 Ubinie]
+FKT[]
+SIG[5615400000]
+KEY[56154   08  C 3/4]
+MEL[5+1+1_+4_  +3+2+1_5_  +4_.+3+2_  +4_+3+1+2_
+    +2+1+2_+4_  +3+2+1_+3_  +2_.+1+37  +1__0_ //]
+BEM[]
+
+DWOK56
+CUT[A czemu ty ne tańcujesz Halu, Halu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 178 Nowosiółki. Hajłki]
+FKT[]
+SIG[5615500000]
+KEY[56155   16  C 2/4]
+MEL[+1_+2_+3_+4_  +3_+2_+2_+1_  +3_+2_+3_+4_  +3+2+1_0__
+    +1_+2_+3_+4_  +3_+2_+2_+1_  +3__+2_+2_  +1___ //]
+BEM[]
+
+DWOK56
+CUT[Oj, wyjty sie, ohiroczki]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 180 Barysz. Na smentarzu]
+FKT[]
+SIG[5615900000]
+KEY[56159   08  G 2/4]
+MEL[3555  5443  3555  5443
+    4_35  421_ //]
+BEM[]
+
+DWOK56
+CUT[Pustit nas, pustit nas]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 180 Barysz. Hahułki - na smętarzu]
+FKT[]
+SIG[5616000001]
+KEY[56160   16  G 2/4]
+MEL[5__5_4_  5__5_4_  3_3_2_2_  1__1__
+    5__5_4_  5__5_4_  3_3_2_2_  1__1__ //]
+BEM[]
+
+DWOK56
+CUT[Pustit nas, pustit nas]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 180 Barysz. Hahułki - na smętarzu]
+FKT[]
+SIG[5616000002]
+KEY[56160   16  G 2/4]
+MEL[5_5_5_43  5_5_5_43  3_3_2_2_  1__1__
+    5__5_43  5__5_43  3_3_2_2_  1__1__ //]
+BEM[]
+
+DWOK56
+CUT[Czom, czom myłeńskij]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 182 Zadwórze]
+FKT[]
+SIG[5616300001]
+KEY[56163   08  G 2/4]
+MEL[3_34  3_21  3_34  3_1_
+    2225  3_2_  1_3_
+    3334  3_2_  1_1_
+    3334  332_  3334  321_
+    2225  3_2_  1_3_
+    3334  3_2_  1_1_ //]
+BEM[]
+
+DWOK56
+CUT[Czom, czom myłeńskij]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 182 Zadwórze]
+FKT[]
+SIG[5616300002]
+KEY[56163   08  G 2/4]
+MEL[3_34  3_21  3_34  321_
+    2225  3_2-7  1_31
+    3334  3_2-7  1_1_
+    3334  3321  3334  321_
+    2225  3_2_  1_31
+    3334  3_2_  1_1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, wstań didu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 186 Podział na Chór i Dziad]
+FKT[]
+SIG[5616500000]
+KEY[56165   08  G 4/4]
+MEL[3_5_5_5_  6_4_4_4_
+    3_3_2_1_  4_321__  4_432_.1  4_321__
+    3_5_5_5_  6_4_4_4_
+    3_3_2_1_  4_321_3_  4_3_2_1_  4_321__ //]
+BEM[]
+
+DWOK56
+CUT[Oj, jd'e didu, kaczok pasty]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 187 Ubinie. Haiłka (hajówki, hahułki)]
+FKT[]
+SIG[5616700000]
+KEY[56167   08  G 4/4]
+MEL[3_5_5_5_  4_321_3_
+    5_5_4_2_  5_5_1_3_
+    5_5_4_2_  5_5_1_1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, jd'e didu kaczok pasty]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 188 Ubinie]
+FKT[]
+SIG[5616800000]
+KEY[56168   08  G 4/4]
+MEL[3_5_5_5_  6_5_4_2_
+    3_3_2_.1  3_2-71_0_
+    3_3_2_.1  3_2_1_0_
+    3_3_2_2_  3_4_5__
+    3_3_2_21  3_2-71_0_ //]
+BEM[]
+
+DWOK56
+CUT[Na szyrokim dunaju]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 190 Barysz. Na hahułki]
+FKT[]
+SIG[5617200001]
+KEY[56172   08  C 2/4]
+MEL[+3+3+3+2  3+4+3_  +3+4+3+2  +17+1_  +1_+1_  +1+2+3_  +3+4+3+2  +17+1_ //]
+BEM[]
+
+DWOK56
+CUT[Na szyrokim dunaju]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 190 Barysz. Na hahułki]
+FKT[]
+SIG[5617200002]
+KEY[56172   08  C 2/4]
+MEL[+3+3+3+2  3+4+3+2  +3+4+3+2  +17+15  +15+15  +1+2+3_  +3+4+3+2  +17+15 //]
+BEM[]
+
+DWOK56
+CUT[Krywoho tańciu idemo]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 191 Zadwórze. Haiłki]
+FKT[]
+SIG[5617400000]
+KEY[56174   16  G 3/4]
+MEL[34565_321_3_
+    5_534_3_1_3_
+    5_534_3_1_3_
+    5_534_3_1_3_
+    5_534_431_3_ //]
+BEM[]
+
+DWOK56
+CUT[Krywoho tańcia jdemo]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 192 Zadwórze]
+FKT[]
+SIG[5617500000]
+KEY[56175   08  G 2/4]
+MEL[355_  5_4_  3_1_
+    3_5_  5_4_  3_1_
+    3_5_  5_4_  3_1_
+    3_5_  5_4_  3_1_
+    3_5_  5_4_  3_1_
+    3_5_  5_4_  3_1_
+    3_5_  5_4_  3_1_
+    3_5_  5_4_  3_1_
+    3_5_  5_4_  3_1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, szczoż bo ja uczynyła]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 194 Lwów]
+FKT[]
+SIG[5617700000]
+KEY[56177   16  A 4/4]
+MEL[5__5__5__1__  4__3b_2_1__1__
+    5__5__5__1__  4__43b211__1__
+    4__(4_3b_2_)2__.1_  4__(4_3b_2_)1__(1_2_3b_)
+    4__(4_3b_2_)2__.1_  4__(4_3b_2_)1__(1_2_3b_)
+    5__5__5__1__  4__3b_2_2__2__
+    5__5__5__1__  4__(4_3b_2_)1__1__ //]
+BEM[Wariant t. 2: 4__(4_3b_2_)1__1__; wariant t. 4: 4__(4_3b_2_)1__1__; wariant t. 8: 4__(4_3b_2_(1__(1_2_34)]
+
+DWOK56
+CUT[Oj, hraj żuku, hraj neboże]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 197 Lwów]
+FKT[]
+SIG[5618000000]
+KEY[56180   16  G 2/4]
+MEL[3_5_5_5_  6_4_4_4_  3_5_5_5_  6_4_4_4_
+    3__2_2_  1__0__
+    3_5_5_5_  6_4_4_4_  3_5_5_5_  6_4_4_4_
+    3__2_2_  1__0__ //]
+BEM[Wariant t. 5 i 11: 3__242_]
+
+DWOK56
+CUT[A nasz żuczok newełyczki]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 198 Zadwórze]
+FKT[]
+SIG[5618100000]
+KEY[56181   08  G 2/4]
+MEL[3555  6444  3555  6444
+    3_22  1_0_
+    3555  6444  3555  6444
+    3_22  1_0_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, ne ch'ódy kaczorońku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 199]
+FKT[]
+SIG[5618200001]
+KEY[56182   16  G 2/4]
+MEL[3_4_3_2_  3_4_3_2_  3_4_3_2_  1__3__  3_4_3_2_  1__-5__
+    3_4_3_2_  3_4_3_2_  3_4_3_2_  1__3__  3_4_3_2_  1__1__
+    5__3_4_  3_2_1__  3_3_4_4_  3_2_1__ //]
+BEM[]
+
+DWOK56
+CUT[Oj, ne ch'ódy kaczorońku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 199]
+FKT[]
+SIG[5618200002]
+KEY[56182   16  G 2/4]
+MEL[3_4_3_2_  3_4_3_2_  3_4_3_2-7  1__3_1_  3_4_3_2-7  1__-5__
+    3_4_3_-7_  3_4_3_2-7  3_4_3_2-7  1__3_1_  3_4_3_2-7  1__1__
+    5__3_4_  3_2_1__  3_3_4_4_  3_2_1__ //]
+BEM[]
+
+DWOK56
+CUT[Wywyła kwoczka cz'etweru kurit]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 200 Zadwórze]
+FKT[]
+SIG[5618300000]
+KEY[56183   16  A 2/4]
+MEL[1__3b_2_  1__3b__  4__4_3b2  1__3b__
+    4__3b__  2__.1_  4__4_3b2  1__3b__
+    4__3b__  2__.1_  4__4_3b2  1__1__ //]
+BEM[]
+
+DWOK56
+CUT[Z czego budujecie jaworowe mosty]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 201]
+FKT[]
+SIG[5618400000]
+KEY[56184   16  G 4/4]
+MEL[1_2_3_4_5__5__  5_6_5_4_3__5__
+    4__.2_3_5_321_  4__.2_3_5_321_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, mij biłyj biłod'ańczyku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 201 Barysz]
+FKT[]
+SIG[5618500000]
+KEY[56185   08  C 3/4]
+MEL[6+1+1+1+3+3  +4_+3_+2_  +4+3+2+17+1  +2_+1_+1_ //]
+BEM[U Kolberga alternatywne metrum 2/4]
+
+DWOK56
+CUT[Ty Jw'anczyku, biłotanczyku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 202]
+FKT[]
+SIG[5618600000]
+KEY[56186   08  G 2/4]
+MEL[345_  5_5_  565_  4_31
+    345_  5_5_  565_  4_3_
+    5_5_  4_32  5_5_  1_3_
+    5_5_  4_32  5_5_  1_1_
+    5_5_  4_32  5_5_  1_3_
+    5_5_  4_32  5_5_  1_1_ //]
+BEM[]
+
+DWOK56
+CUT[Ty Jwaneczyku, biłotańczyku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 203 Ubinie]
+FKT[]
+SIG[5618700000]
+KEY[56187   08  G 4/4 3/4]
+MEL[345_5_5_  564_4_3_  345_5_5_  564_4331
+    5_4_3_  3_2_.-5  1_3_4_
+    5_5_3_  4_2_-5_  1__1_
+    5_5_3_  1_3_4_  5_3_1_ //]
+BEM[]
+
+DWOK56
+CUT[A ty zazuleńku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 205 Zadwórze]
+FKT[]
+SIG[5619200000]
+KEY[56192   08  G 2/4]
+MEL[3456  5_5_  4_2_  5_31  3_2_  1__
+    3456  5_5_  4_2_  5_31  3_2_  1__
+    113_  4_2_  1_-5_
+    113_  4_2_  1_-5_
+    3_32  2_1_  3_22  1_0_ //]
+BEM[]
+
+DWOK56
+CUT[Pas(ł) Wasyłeńko konyczeńka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 211 Ubinie]
+FKT[]
+SIG[5620000001]
+KEY[56200   16  G 3/4]
+MEL[(-5_1_3_)2_.-71__  (3_2_4_)(3_2_1_)2__
+    3_231__2_.1  2_3_-7__1__ //]
+BEM[]
+
+DWOK56
+CUT[Pas(ł) Wasyłeńko konyczeńka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 211 Ubinie]
+FKT[]
+SIG[5620000002]
+KEY[56200   16  G 3/4]
+MEL[(-5_1_3_)2__1__  (3_2_4_)3__2__
+    3_2_1__2__  2_3_-7__1__ //]
+BEM[]
+
+DWOK56
+CUT[Oj, szczoś meni, neńci moja]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 212]
+FKT[]
+SIG[5620100001]
+KEY[56201   16  A 2/4 3/4]
+MEL[1_5_5_5_  5_5_4_4_  5_5_+1_.5  5_6_7b_3b_
+    7b_7b_5_5_  4_4_3b_1_  3b_3b_5__4_4_  3b__1___ //]
+BEM[]
+
+DWOK56
+CUT[Oj, szczoś meni, neńci moja]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 212]
+FKT[]
+SIG[5620100002]
+KEY[56201   16  A 2/4 3/4]
+MEL[1_5_5_5_  5_5_4_4_  5_5_+1_.5  5_6_7b_3b_
+    7b_7b_5_(56b5)  4_(454)3b21_  3b_3b_5__5454  4_3b21___ //]
+BEM[]
+
+DWOK56
+CUT[Czornuszkó, duszkó]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 214-215 Ubinie]
+FKT[]
+SIG[5620500000]
+KEY[56205   08  C 3/4]
+MEL[+1_+1_+4_  +2_+3_7_  +1_+1_+4_  +2_+3__
+    +1_+1_+4_  +2_+3_7_  +1_+1_+4_  +2_+3__
+    +5_+5_+3_  +4_+2__  +1_+3__
+    +5_+5_+3_  +4_+2_7_  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[A to twoja doczka, tej ne robytnyczka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 217]
+FKT[]
+SIG[5620800000]
+KEY[56208   08  G 2/4 3/4]
+MEL[1234  5_5_  5643  3_5_
+    4_.25_  3_2_1_ //]
+BEM[]
+
+DWOK56
+CUT[Twoja doczka łen'ywaja]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 217]
+FKT[]
+SIG[5620900000]
+KEY[56209   08  G 2/4]
+MEL[3432  3432  3432  1_32  3432  1_1_
+    3432  3432  3432  1_32  3432  1_1_
+    345_  345_  3334  321_
+    3334  3322  3334  321_ //]
+BEM[Wariant t. 13 i 14: 3454]
+
+DWOK56
+CUT[Przyjdź, swaniu, przyjdź]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 218 Zadwórze]
+FKT[]
+SIG[5621000000]
+KEY[56210   08  G 3/4 2/4]
+MEL[54345_  54345_
+    5654  3231  5654  3234
+    3_22  1_0_ //]
+BEM[]
+
+DWOK56
+CUT[Maryseńka winci weła]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 219 Ubinie]
+FKT[]
+SIG[5621100001]
+KEY[56211   16  C 3/4]
+MEL[5_+1_+2__+1__  +3_+4_(+3_+2_+1_)+2__  +4_+3+2+1__+2__  +2_+4_+1__+1__
+    5_+1_+2__+1__  +3_+4_(+3_+2_+1_)+2__  +4_+3+2+1__+2__  +2_+4_+1__+1__ //]
+BEM[]
+
+DWOK56
+CUT[Maryseńka winci weła]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 219 Ubinie]
+FKT[]
+SIG[5621100002]
+KEY[56211   16  C 3/4]
+MEL[5_+1_+2+1+27+1__  +3+2+4_(+3_+2_+1_)+2__  +4+3+3+2+1__+2__  +2_+4_+1__+1__
+    5_+1_+2+1+27+1__  +3+2+4_(+3_+2_+1_)+2__  +4+3+3+2+1__+2__  +2_+4_+1__+1__ //]
+BEM[]
+
+DWOK56
+CUT[Nasz pan Ostrożecki]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 223]
+FKT[]
+SIG[5621600000]
+KEY[56216   16  C 3/8]
+MEL[5_+1__  +1_+4__  +3_+2__
+    +4_+3_+2_  +1_+2__  (765)5__
+    5_+1__  +1_+4__  +3_+2__
+    +4_+3_+2_  +1_+2__  (765)5__ //]
+BEM[Wariant t. 4 i 10: +4_+3_+2+1]
+
+DWOK56
+CUT[Wozymynynu skinczyły]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 226]
+FKT[]
+SIG[5621800000]
+KEY[56218   08  C 2/4]
+MEL[+1+2+1+2  +37+1_  +1_0_
+    +2+3+4+3  +2_.+1  +4+3_.
+    +2+3+4+3  +27+1_  +1_0_ //]
+BEM[]
+
+DWOK56
+CUT[Perepełońku mała]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 228 Ubinie]
+FKT[]
+SIG[5622000000]
+KEY[56220   08  G 3/2 4/4]
+MEL[2_2_1_2_3_-7_  1__.1_0__
+    2_3_4_3_  2__4_3_
+    2_3_4_3_2_-7_  1__.1_0__ //]
+BEM[Wariant t.1: 122_1_2_3_-7_]
+
+DWOK56
+CUT[Perepełońku mała]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 228 Milatyn. Z wieńcem od żniwa]
+FKT[]
+SIG[5622100000]
+KEY[56221   16  C 2/4]
+MEL[+1_+2+3+4_+3_  +2__.7_  +1__+1__
+    +3_+2_+2_7_  +1__.+2_  +3__0__
+    +4_+3_+2_7_  +1__.+2_  +3___
+    +2_+3_+4_+3_  +2_7_+1__  +1___ //]
+BEM[]
+
+DWOK56
+CUT[Misiaciu jarożejku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 231 Przemiwółki. Pieśń dożynkowa]
+FKT[]
+SIG[5622900000]
+KEY[56229   08 Bb 4/4]
+MEL[1  1_3_4_31  2__-5_.
+    1  1_3_4_31  2__1_.
+    4  4_314_31  2__1_. //]
+BEM[Wątpliwy zapis z przedtaktem]
+
+DWOK56
+CUT[Larum, larum, kumciu lubciu i ja za toboju]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 246 Barysz. Na chrzcinach]
+FKT[]
+SIG[5624800000]
+KEY[56248   08  C 2/4]
+MEL[+1+176  5535  5344  655_
+    +1+276  5+133  4444  655_
+    +2_75  +1+2+3_  +2+2+37  +2+1+1_ //]
+BEM[Wariant t. 9: +2_55; wariant t. 11: +2+257; wariant t. 12: +1+1+1_]
+
+DWOK56
+CUT[Larom, larom, kumciu lubciu i ja za toboju]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 247 Barysz. Na chrzcinach]
+FKT[]
+SIG[5624900000]
+KEY[56249   16  C 2/4]
+MEL[+1_7_+1_6_  5_5_3_3_  4_3_4_4_  6__5__
+    +1_7+2+1_6_  5_+1_3_3_  4_2_2_34  6__5__
+    +2__7_7_  +1_+1_+3__  +2_+2_7_7_  +2_+1_+1__ //]
+BEM[Wariant t. 9: +2__7567]
+
+DWOK56
+CUT[Oj, kume, kume, nyni sobota]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 249-250 Od Żółkwi, zza Lwowa]
+FKT[]
+SIG[5625400000]
+KEY[56254   08  G 6/8]
+MEL[54#53_5  54#56_5
+    4342_6  6553_3
+    135+1_7  7667_6
+    6244_2  4-7-71_1 //]
+BEM[]
+
+DWOK56
+CUT[Oj, ja mołoda, wzieła mich pszona]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 252 Barysz]
+FKT[]
+SIG[5625500001]
+KEY[56255   16  C 2/4]
+MEL[+1_+1_7_6_  5___  +1_+3_+2_+4_  +3___
+    5_+4_+4__  +3_+3_+3__  +3+4+5_7_+2_  +1___ //]
+BEM[]
+
+DWOK56
+CUT[Oj, ja mołoda, wzieła mich pszona]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 252 Barysz]
+FKT[]
+SIG[5625500002]
+KEY[56255   16  C 2/4]
+MEL[+1_+1_7_6_  5___  +1+2+3_+2_+4_  +3___
+    5_+4_+4_+4_  +3_+3_+3_+3_  +2_+2_7_+2_  +1___ //]
+BEM[]
+
+DWOK56
+CUT[Ja z karszmońki j'du]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 252 Barysz]
+FKT[]
+SIG[5625600001]
+KEY[56256   08  C 4/4]
+MEL[+1_+2_+3_+4_  +5___  5_+4_+3_+2_  +1___
+    5_+4_+3_+2_  +1_+2_+3_+3_  5_+4_+3_+2_  +1_+2_+3_+3_
+    +5+5+6_+5_+4_  +1_+2_+3__  +5+5+6_+5_7_  +1___ //]
+BEM[]
+
+DWOK56
+CUT[Ja z karszmońki j'du]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 252 Barysz]
+FKT[]
+SIG[5625600002]
+KEY[56256   08  C 4/4]
+MEL[+1_+2_+3_+4_  +5___  5_+4_+3_+2_  +1___
+    55+4_+3_+27  +1_+2_+3+4+3_  55+4_+3_+2_  +1_+2_+3+4+3_
+    +5+5+6_+5_+4+2  +1_+2_+3__  +5+5+6_+5_7_  +1___ //]
+BEM[]
+
+DWOK56
+CUT[Oj, ne żałuj, moja myła]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 253 Barysz. Na chrzcinach]
+FKT[]
+SIG[5625700000]
+KEY[56257   16  A 2/4]
+MEL[4#_6_5_5_  4#_4#_3b21_  3b__4__  5___
+    4#_6_5_5_  4#_4#_13b5_  4#__3b__  1___ //]
+BEM[]
+
+DWOK56
+CUT[Ja wnesy nam maty]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 269 Lubsza]
+FKT[]
+SIG[5628800000]
+KEY[56288   16  G 3/8]
+MEL[1_2__  2_3_-7_  1__.  1_0__
+    324__  43321_  2_4_3_
+    323_2-7  1_1__  2_4_3_
+    234_3_  3_2_-7_  1__.  1__0_ //]
+BEM[Wariant t. 5: 324_3_; wariant t. 10: 234_3_]
+
+DWOK56
+CUT[Ia w lisi kern'yczeńka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 270]
+FKT[]
+SIG[5629000000]
+KEY[56290   16  G 3/8]
+MEL[4_3231  4_3_1_  2__1_  2_1_0_
+    4_3231  4__3_  2-71__
+    443_3_  3_2_-7_  1__.  1_0__ //]
+BEM[Wariant t. 8: 443234]
+
+DWOK56
+CUT[Znaty Mar'ysyńku po pos'ażeńku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 271]
+FKT[]
+SIG[5629200000]
+KEY[56291   16  A 2/4 4/8]
+MEL[-5111  3b_4__  3b_2_3b_  2_1__
+    3b_2_3b_  4_3b_1_  2__1_  2_1_0_
+    -5_1_1_  3b_4__  3b21_3b_  2-71__
+    3b_3b24_  3b_2_-7_  1__.  1__0_ //]
+BEM[Wariant t. 2 i 10: 3b24__; wariant t. 3: (3b43b)2_3b_; wariant t. 4: 2-71__]
+
+DWOK56
+CUT[Jeszcze nasze w'ułońka ne met'ena]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 273]
+FKT[]
+SIG[5629500001]
+KEY[56295   16  G 3/8]
+MEL[3b55_4#_  5_3b__  1__.  13b5_5_
+    4#65_4#_  5_3b_1_  13b5_5_
+    4#65_4#_  5_3b__  3b__.  2-71__  1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Jeszcze nasze w'ułońka ne met'ena]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 273]
+FKT[]
+SIG[5629500002]
+KEY[56295   16  G 3/8]
+MEL[3b55_4#_  5_3b__  1__.  13b54#5_
+    4#65_3b_  5_3b21_  13b54#5_
+    4#65_3b_  5_3b_2_  3b__.  2-71__  1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Przy weselu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 273 Lubsza]
+FKT[]
+SIG[5629600000]
+KEY[56296   16  G FREI]
+MEL[-5-6-71234__3_2_3_1_2___2_-7_-5__
+    -5-6-71234__.5___.  4_3_2_3_2_-7_1____ //]
+BEM[]
+
+DWOK56
+CUT[Bilawa muku siejała]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 275]
+FKT[]
+SIG[5629700001]
+KEY[56297   16  C 3/8]
+MEL[+1_+2_+4_  +3+3+2__  +1__+2_  +1__0_
+    +2+3+4_+5_  +3+3+2_+1_  +2_+4_+3_
+    +2_+3_+27  +1_+1__  +2_+4__
+    +2+1+3_+27  +1_+1__  +3_+4__
+    +2+1+3_+27  +1_+1__  +3_+4__
+    +3_+3_+2_  +2_+1__  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Bilawa muku siejała]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 275]
+FKT[]
+SIG[5629700002]
+KEY[56297   16  C 3/8]
+MEL[+1_+2_+4_  +3+3+2+3+27  +1__+2_  +1__0_
+    +2+3+4_+4+5  +3+3+2_+1_  +2_+4_+3+2
+    +2_+3_+27  +1_+1__  +2_+4_+3+2
+    +2+1+3_+27  +1_+1__  +2+3+4_+3+2
+    +2+1+3_+27  +1_+1__  +3_+4_+3+2
+    +3_+3_+2_  +2_+1_7_  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Pid borom czereszeńka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 276]
+FKT[]
+SIG[5629900001]
+KEY[56299   16  C 3/8]
+MEL[+1_+4_+3_  +3_+2_+1_  +2_.+1+2_
+    +3_+4_+3_  +4_+3__  +27+1__
+    +4_+3__  +4_+3_+2_  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Pid borom czereszeńka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 276]
+FKT[]
+SIG[5629900002]
+KEY[56299   16  C 3/8]
+MEL[+1_+4_+3+2  +3_+27+1_  +2_.+1+2_
+    +3_+4_+3+1  +4_+3__  +27+1__
+    +4_+3_+2_  +4_+3_+27  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[To tobi daju]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 277]
+FKT[]
+SIG[5630000001]
+KEY[56300   16  G 3/8]
+MEL[1_2_31  234__  324_3_  2_1__
+    4_3_2-7  1_4__  3_4_3_  2-71__
+    3_2_4_  3_2__  1__.  1_0__ //]
+BEM[]
+
+DWOK56
+CUT[To tobi daju]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 277]
+FKT[]
+SIG[5630000002]
+KEY[56300   16  G 3/8]
+MEL[-5_1_2_  2_4__  324_3_  2-71__
+    4_3_2_  1_4__  324_3_  2-71__
+    3_2_4_  3_2_-7_  1__.  1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Nedałeka doroha]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 277]
+FKT[]
+SIG[5630100001]
+KEY[56301   16  C 3/8]
+MEL[+1_+4_+3_  +4_+3_+2_  +2_.+1+2_
+    +1_+4_+3_  +4_+3__  +27+1__
+    +4_+3__  +4_+3_+2_  +1__.  +1__0_ //]
+BEM[]
+
+DWOK56
+CUT[Nedałeka doroha]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 277]
+FKT[]
+SIG[5630100002]
+KEY[56301   16  C 3/8]
+MEL[+1_+4_+3+2  +4_+3+1+2_  +2_(+17+1)+2_
+    +1_+4_+3+1  +4_+3__  +27+1__
+    +4_+3_+1_  +4_+3_+27  +1__.  +1__0_ //]
+BEM[]
+
+DWOK56
+CUT[Zełena rutońka żouty cwit]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 277-278]
+FKT[]
+SIG[5630200001]
+KEY[56302   16  C 3/8]
+MEL[+4_+3_+1_  +4_+3_+1_  +1_+4__  +4__.
+    +4_+3_+4_  +3_+1__  +1_+3__  +4__.
+    +4_+3_+1_  +4_+3_+1_  +1+3+3__  +4__.
+    +4_+3_+1_  +4_+3_+1_  +1_+3__  +4__0_
+    +4_+3+1+4_  +3_+1__  +1_+3__  +4__0_
+    +4_+3+1+4_  +3_+1__  +2__+37  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Zełena rutońka żouty cwit]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 277-278]
+FKT[]
+SIG[5630200002]
+KEY[56302   16  C 3/8]
+MEL[+4_+3+1+1_  +4+3(+3+2+1)+1_  +2+3+4__  +4__.
+    +4_(+3+2+1)+4_  +3+1+1__  (+1+2+3)+4+3+2+3  +4__.
+    +4_+3+1+1_  +4+3+3_+1_  +1+3+3__  +4__.
+    +4_(+3+2+1)+1_  +4_+3_+1_  +1_+3__  +4__0_
+    +4_+3+1+4_  +3_+1__  +1_+3__  +4__0_
+    +4_+3+1+4_  +3_+1__  +2__+37  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Zielona rutka, żółty kwiat]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 278]
+FKT[]
+SIG[5630300000]
+KEY[56303   08  G 4/4]
+MEL[1_123_1_  4_432__
+    -5-5-5-72_-5_  3_3_1__ //]
+BEM[Wariant t. 4: 323-71__]
+
+DWOK56
+CUT[Deż ty, Marysiu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 278-279]
+FKT[]
+SIG[5630400001]
+KEY[56304   16  C 3/8]
+MEL[+1_+2_+4_  +3_+2_7_  +1__+2_  +1__0_
+    +2_+4_+4_  +4_+3_+1_  +2_+4__
+    +1_+3_+2_  +1_+1__  +3_+4__
+    +3_+3_+2_  +1_+1__  +3_+4__
+    +3_+3_+2_  +2_+1__  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Deż ty, Marysiu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 278-279]
+FKT[]
+SIG[5630400002]
+KEY[56304   16  C 3/8]
+MEL[+1_+2_+4_  +3_+2_7_  +1__+2_  +1__0_
+    +2_+4_+4_  +4_+3_+2_  +2_+4_+2_
+    +1_+3_+2+1  +1_+1__  +1+3+4__
+    +3_+3_+2+1  +1_+1__  +1+3+4__
+    +3_+3_+2_  +2_+1__  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Na stolec Marysiu, na stolec]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 279]
+FKT[]
+SIG[5630600000]
+KEY[56306   16  C 3/8]
+MEL[+4_+3_+1_  +4_+3_+1_  +3_+3__  +4__0_
+    +4_+3+2+1_  +4_(+3+2+1)+1_  +3_+3_+4_  +4__0_
+    +3+3+3+2+1_  +3_(+3+2+1)+2_  (+4+37)+1__  +1__0_ //]
+BEM[Wariant t. 3: +3_+3_+2+3; wariant t. 4: +4+3+4+30_]
+
+DWOK56
+CUT[Oj, wże kniahyni po zaruczynach]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 281]
+FKT[]
+SIG[5630900001]
+KEY[56309   16  C 3/8]
+MEL[+1_+2_+1_  +3_+4__  +3_+4_+3_  +2_+1__
+    +1_+4_+3_  +4_+3__  +2__+1_  +2__.
+    +1_+2_+1_  +3_+4__  +3_+4_+3_  +2_+1__
+    +3_+3+2+4_  +3_+2__  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, wże kniahyni po zaruczynach]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 281]
+FKT[]
+SIG[5630900002]
+KEY[56309   16  C 3/8]
+MEL[5+1+2_+1_  +2+3+4__  +3_+4_+3_  +27+1__
+    +1+3+4_+3_  +4_+3_+1_  +2__+1_  +2__.
+    5+1+2_+1_  +2+3+4__  +3_+4_+3_  +27+1__
+    +3_+3+2+4_  +3_+2_7_  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[A w sóbotońku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 284]
+FKT[]
+SIG[5631300000]
+KEY[56313   08  G 3/4 4/4]
+MEL[3_5_5_  6_5__  5_4_2_  321__
+    3_5_56  5_3_2_  1__1_
+    4__32  345__  424_3_  2-71__
+    4_3_4_  3_2_.-7  1__.  1_0__
+    3_5_5_  6_5__  5_4_34  543__
+    2-71__10  5_4_34  543__
+    5_5_6_  543__  2-71_.0 //]
+BEM[]
+
+DWOK56
+CUT[Jak serbana ne lubyty]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 285]
+FKT[]
+SIG[5631400000]
+KEY[56314   08  E 4/4]
+MEL[+1_7_+1_5_  7b6b545_5_  3b_4_5_5_  43b211_1_  3b_4_5_3b5  43b211_1_ //]
+BEM[]
+
+DWOK56
+CUT[Na horodi ohyroczok]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 332]
+FKT[]
+SIG[5645900000]
+KEY[56349   08  E 2/4]
+MEL[1333  2-7-5-5  -5123  4_3_
+    1333  2-7-5-5  132-7  1_1_ //]
+BEM[]
+
+DWOK56
+CUT[U naszoho pana]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 330]
+FKT[]
+SIG[5645600000]
+KEY[56356   08  E 2/4]
+MEL[1314  3_2_  1314  3_2_
+    222_  555_  -5-56-7  1_1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, pidu ja na ułyciu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 331]
+FKT[]
+SIG[5645700000]
+KEY[56457   08  E 2/4]
+MEL[3556  5443  3556  5443
+    1334  2222  5555  1111 //]
+BEM[]
+
+DWOK56
+CUT[Oj, tam w poli, pry dorozi]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 332]
+FKT[]
+SIG[5645800000]
+KEY[56458   08  E 2/4]
+MEL[3546  5443  3546  5_5_
+    3546  5553  132-7  1_1_ //]
+BEM[]
+
+DWOK56
+CUT[Zaszumiła leszczynońka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 333-334]
+FKT[]
+SIG[5646000000]
+KEY[56460   08  E 2/4]
+MEL[3546  5443  3546  5_5_
+    3546  5553  132-7  1_1_
+    3546  5554  332_  135_
+    3546  4431  242_  111_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, zacwyły fijałońki]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 334]
+FKT[]
+SIG[5646100000]
+KEY[56461   08  E 4/4]
+MEL[-513b553b21  5_4#_5_0_
+    +153b253b25  2_-7_1_0_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, misiaciu narożeńku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 336]
+FKT[]
+SIG[5646400000]
+KEY[56464   08  E 3/4]
+MEL[-513413  2__22
+    3b43b3b(23b2)  1__0_
+    3b43b12_  1__1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, de sia diła, de sia podiła]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 336]
+FKT[]
+SIG[5646500000]
+KEY[56465   16 Eb 3/8]
+MEL[-5_1_2_  3_4__  5_4_3_  2_1__
+    3_3_4_  3_1__  2__.  -5__.
+    5_4_32  3_4__  5_4_3_  2_1__
+    3_3_4_  3_2_.-7  1__.  1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Wybihała Kasuneńka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 340]
+FKT[]
+SIG[5647100000]
+KEY[56471   16  A 3/8]
+MEL[1_123b1  4_4_1_  2__.  -5__0_
+    1_123b1  4_4_1_  1_5_1_
+    4_4_3b1  3b_2_-7_  1__.  1_0__ //]
+BEM[Wariant t. 2: 4_43b21; wariant t. 9: 3b_23b2-7]
+
+DWOK56
+CUT[Panie bratińku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 341]
+FKT[]
+SIG[5647200000]
+KEY[56472   16  A 3/8]
+MEL[3b_3b21_  3b_3b_1_  2__.  -5__0_
+    3b_3b21_  3b_3b_1_  2_1__
+    3b_3b21_  3b_2__  1__.  1__0_ //]
+BEM[Wariant t. 7: 2_1_-5_; wariant t. 9: 3b_2_-7_]
+
+DWOK56
+CUT[Treba drużbi swyni pasty]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 342]
+FKT[]
+SIG[5647300000]
+KEY[56473   16  A 3/8]
+MEL[13b1_1_  1_1__  2_-7_-5_
+    13b1_1_  1_1_-7_  2_1__
+    13b1_1_  1_2_-7_  1__1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, ne buła ja doma]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 343]
+FKT[]
+SIG[5647400001]
+KEY[56474   16  C 3/8]
+MEL[5_+1_+3_  +4__+3_  (+3+2+1)+2__  750__
+    57+1+2+3_  +4_+3_(+3+2+1)  +27+1__
+    +3_+2_+4_  +3_+2_7_  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, ne buła ja doma]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 343]
+FKT[]
+SIG[5647400002]
+KEY[56474   16  C 3/8]
+MEL[5_+1_+3_  +4__+3_  (+3+2+1)+2__  750__
+    5_+1+2+3+2  +4_+3_(+3+2+1)  +27+1__
+    +3_+2+1+4+3  +3+2+2_7_  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, perszyś kazau]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 344]
+FKT[]
+SIG[5647500001]
+KEY[56475   16  G 3/8]
+MEL[-5_1_2_  3_4__  324_3_  2_1__
+    333_4_  312__  -7_-5__
+    4_3_21  3_4__  4_3_21  3_4__
+    4_3_4_  312__  1__1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, perszyś kazau]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 344]
+FKT[]
+SIG[5647500002]
+KEY[56475   16  G 3/8]
+MEL[-5_1_2_  434__  324_3_  2-71__
+    333_4_  3_2__  -7_-5__
+    4_3_21  3_4__  4_3_21  3_4__
+    4_314_  312_-7_  1__1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, mowyełś my, klynowy łystońko]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 345]
+FKT[]
+SIG[5647600001]
+KEY[56476   16  C 3/8]
+MEL[5_+1_+2_  +3_+4__  +3+2+4_+3_  +27+1__
+    +3_+3+1+4_  +4_+3__  +2__.  750__
+    +1_+3_+1_  +3_+4__  +3+2+4_+3_  +27+1__
+    +4_+3+2+4+3  +3_+2_7_  +1__.  +1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Oj, mowyełś my, klynowy łystońko]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 345]
+FKT[]
+SIG[5647600002]
+KEY[56476   16  C 3/8]
+MEL[5_+1_+2_  +3_+4__  +3+2+4+3+3+2  +27+1__
+    +3_+3+1+4_  +4_+3_(+3+2+1)  +2__.  750__
+    +4+3+3+2+1_  +3_+4__  +3+2+4+3+3+2  +27+1__
+    +4_+3+2+4+3  +3+2+2_7_  +1__.  +1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Oj w boru, w boru, pry dołu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 346]
+FKT[]
+SIG[5647700001]
+KEY[56477   16  C 3/4]
+MEL[+3__+3__+4_+3_  +3_+1_+2___  +3__+3_+2_+4_+1_
+    +3__+3__+4_+3_  +3_+1_+2___  +2_7_+1__.+1_
+    +2_+4_+3_+3_+1_+3_  +4_+1_+2___  (+2_+1_7_)+1__.+1_
+    +2_+4_+3_+3_+1_+3_  +4_+1_+2___  +3__+3_+2_+4_+1_
+    +2_+4_+3_+3_+1_+3_  (+4_+2_+1_)+2___  +2_7_+1__.+1_
+    +2_+4_+3_+3_+1_+3_  (+4_+2_+1_)+2__+3_+1_  +2__(+3_+2_7_)+1__ //]
+BEM[]
+
+DWOK56
+CUT[Oj w boru, w boru, pry dołu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 346]
+FKT[]
+SIG[5647700002]
+KEY[56477   16  C 3/4]
+MEL[+3__+3_+2_+4_+3_  +3_+1_+2___  +3__+3_+2_+4_+1_
+    +3__+3_+2_+4_+3_  (+3_+2_+1_)+2___  +2_7_+1__.+1_
+    +2_+4_+3_+2+3+1_+3_  +4_+1_+2___  (+2_+1_7_)+1__.+1_
+    +2_+4_+3_+2+3+1_+3_  +4_+1_+2___  +3__+3_+2_+4+2+1_
+    +2_+4_+3_+2+3+1_+3_  (+4_+2_+1_)+2___  +2_7_+1__.+1_
+    +2_+4_+3_+2+3+1_+3_  (+4_+2_+1_)+2__+3_+1_  +2__(+3_+2_7_)+1__ //]
+BEM[]
+
+DWOK56
+CUT[Błahosłowy nas, Boże]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 347]
+FKT[]
+SIG[5647900001]
+KEY[56479   16  C 3/8]
+MEL[5_+1_+3_  +4+3+3_+1_  +2__.  755_0_
+    5_+1_+3_  +4+3+3_+1_  +27+1__
+    +1+3+3_+4+3  +3_+2__  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Błahosłowy nas, Boże]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 347]
+FKT[]
+SIG[5647900002]
+KEY[56479   16  C 3/8]
+MEL[577+1+3_  +4+3+3_+1_  +2__.  755_0_
+    577+1+3_  +4+3+3_+1_  +27+1__
+    +4+3+3+1+4+3  +3+1+2_7_  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, winkuż ty mij, winku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 348]
+FKT[]
+SIG[5648100001]
+KEY[56481   16  C 3/8]
+MEL[5_+1_+3_  +4_+3+2+1_  +2__.  750__
+    5_+1_+3_  +4_+3_+1_  +27+1__
+    +1+3+2_+4_  +3+1+2_7_  +1__. //]
+BEM[]
+
+DWOK56
+CUT[Oj, winkuż ty mij, winku]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 348]
+FKT[]
+SIG[5648100002]
+KEY[56481   16  C 3/8]
+MEL[57+1_+3_  +4+3+3+2+1_  +2__.  750__
+    57+1_+3_  +4+3+3_+1_  +27+1__
+    +1+3+2_+4+3  +3+1+2_7_  +1__. //]
+BEM[]
+
+DWOK56
+CUT[Czerwonaja kałyna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 349]
+FKT[]
+SIG[5648200001]
+KEY[56482   16  C FREI]
+MEL[5_7_+1__+3__+4__+3__+2__.7_5__0__
+    5_7_+1__+3__+4__+3__+2_7_+1__
+    +4_+3_+2_+1_+3_+3_+2__.7_+1__.+1_ //]
+BEM[]
+
+DWOK56
+CUT[Czerwonaja kałyna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 349]
+FKT[]
+SIG[5648200002]
+KEY[56482   16  C FREI]
+MEL[5_7_+1__+3__+4_+3_+3_+2_+1_+2__.7_5__0__
+    5_7_+1__+3__+4_+3_+3_+2_+1_+2_7_+1__
+    +4_+3_+2_+1_+3_+3+2+2__.7_+1__.+1_ //]
+BEM[]
+
+DWOK56
+CUT[Czerwonaja kałyna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 350]
+FKT[]
+SIG[5648300001]
+KEY[56483   16  G 3/8]
+MEL[3_4_32  3_4__  2__21
+    3_4_32  3_4__  2_1__
+    1_3_4_  1_2_-7b_  1__.  1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Czerwonaja kałyna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 350]
+FKT[]
+SIG[5648300002]
+KEY[56483   16  G 3/8]
+MEL[3_4_32  3_4_3_  2__21
+    3_4_32  3_4_1_  2_1__
+    1_3_43  1_2__  1__.  1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Szumy trawa po dołyni]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 352]
+FKT[]
+SIG[5648500001]
+KEY[56485   16  A 3/4 4/4]
+MEL[5__.3b_5_5_  4_1_3b__1__
+    5_5_5_3b_5_5_  4_1_3b__1__
+    3b_1_3b_1_3b_4_4_5_
+    4_1_3b_1_3b_4_5_5_
+    4_1_3b__1___ //]
+BEM[]
+
+DWOK56
+CUT[Szumy trawa po dołyni]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 352]
+FKT[]
+SIG[5648500002]
+KEY[56485   16  A 3/4 4/4]
+MEL[5__.3b_5_5_  4_1_3b_1_1__
+    5__.3b_5_5_  4_1_3b_1_1__
+    3b21_3b21_3b_4_4_5_
+    4_1_3b21_3b_4_5_5_
+    4_1_3b_1_1___ //]
+BEM[]
+
+DWOK56
+CUT[Oj, tam, za lisom]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 352]
+FKT[]
+SIG[5648600000]
+KEY[56486   16  C 3/4]
+MEL[+4_+3_+2__7_5_  +1_+1_+3__+1_+3_  +2___7_5_
+    +4_+3_+2_+3_+1_65  5_+1_+4_+3_(+2_+1_7_)  +1___+1__ //]
+BEM[Wariant t. 1: +4_+3_+2_+3_7_5_; wariant t. 4: +4_+3_+2_+3_+1765; wariant t. 5: 7_+1_+4_+3_(+2_+1_7_)]
+
+DWOK56
+CUT[Oj, chodziła, wyglądała poza nowy dwór]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 353]
+FKT[]
+SIG[5648700001]
+KEY[56487   08  G 3/4]
+MEL[(212)3_-5_  (212)3_-5_  111_6_  5__.
+    556_5_  543_1_  (323)4_2_  1__0_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, chodziła, wyglądała poza nowy dwór]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 353]
+FKT[]
+SIG[5648700002]
+KEY[56487   08  G 3/4]
+MEL[(212)3_-5_  (212)3_-5_  334_65  5__.
+    55655_  54321_  (323)432-7  1__0_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, chodyła Maryseńka po dwori]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 354]
+FKT[]
+SIG[5648800001]
+KEY[56488   16  G 3/4]
+MEL[-5_4_3_2_1_3_  4_1_2__1__  4_3__3_3__
+    3_4_3_2_1_3_  4__2__.3_  2_1__.1__ //]
+BEM[]
+
+DWOK56
+CUT[Oj, chodyła Maryseńka po dwori]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 354]
+FKT[]
+SIG[5648800002]
+KEY[56488   16  G 3/4]
+MEL[1_4_3_2_1_3_  4_312__1__  4_3__323_1_
+    3_4_3_2_1_3_  3_1_2__.3_  2_1__.1__ //]
+BEM[]
+
+DWOK56
+CUT[Tam w Maryseńki za wóróciemy]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 354 Weselna - w sobotę na wieczór przy wiankach]
+FKT[]
+SIG[5648900000]
+KEY[56489   08  G 3/4]
+MEL[-5_1_2_  3_4__  5_4_3_  2_1__
+    333_4_  3_2__  2_.-7-5_
+    432_1_  3_4__  5_4_3_  2_1__
+    124_3_  2__-7_  1__1_ //]
+BEM[W oryginale metrum 3/8; Wariant t. 5: 3__3243; wariant t. 6: (321)2__; wariant t. 9: 354__]
+
+DWOK56
+CUT[Tam w Maryseńki za wóróciemy]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 355]
+FKT[]
+SIG[5649000001]
+KEY[56490   16  C 3/8]
+MEL[5_+1_+2_  +3_+4__  +3+5+4_+3_  +2_+1__
+    +1+2+3_+4_  +3+1+2_7_  5__.
+    5_+1_+2_  +3_+4__  +3+5+4_+3_  +2_+1__
+    +4+3+2+3+4+3  +3_+2_7_  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Tam w Maryseńki za wóróciemy]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 355]
+FKT[]
+SIG[5649000002]
+KEY[56490   16  C 3/8]
+MEL[5_+1_+2_  +3_+4__  +3+5+4_+3+1  +27+1__
+    +1+2+3_+4+3  +3+1+2_7_  5__.
+    5_+1_+2_  +3+5+4__  +3+5+4_+3_  +2+3+1__
+    +4+3+2+3+4_  +3+1+2_7_  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Czorna chmara nastupaje]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 356]
+FKT[]
+SIG[5649300001]
+KEY[56493   16  A 3/4 4/4]
+MEL[1_1_5__3b__  6b_5_4__7b__
+    5_5_3b__4__  1_1_1__7b__
+    3b_4_5_5_4_3b_5_5_  1___1__0__ //]
+BEM[]
+
+DWOK56
+CUT[Czorna chmara nastupaje]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 356]
+FKT[]
+SIG[5649300002]
+KEY[56493   16  A 3/4 4/4]
+MEL[1_1_5_4_3b__  6b_5_4__7b_6b5
+    5_543b__4_2_  1_1_1__7b__
+    3b_4_5_5_4_3b_5_5_  1___1__0__ //]
+BEM[]
+
+DWOK56
+CUT[Błahosłowy nas, Boże]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 358]
+FKT[]
+SIG[5649400001]
+KEY[56494   16  C 3/8]
+MEL[5_+1_+3_  +4_+3__  +2__.  750__
+    5_+1_+3_  +4_+3__  +2_+1__
+    +3+2+4_+3_  +2_7__  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Błahosłowy nas, Boże]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 358]
+FKT[]
+SIG[5649400002]
+KEY[56494   16  C 3/8]
+MEL[5+1+1_+3_  +4+3+3_+2+1  +2__.  750__
+    5+1+1_+3+2  +4+3+3_+1_  +27+1__
+    +3+2+4_+3+2  +2_7__  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, w kruzi, w kruzi]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 360]
+FKT[]
+SIG[5649700000]
+KEY[56497   16  C 3/4]
+MEL[(+1_+2_+3_)+4__.+3_  +5__+4_.+2(+3_+2_+1_)  (+2_+3_+4_)+3__+2__  +1___+1__
+    +2_+1_(+2_+3_+4_)+3__  +2__.+1_(+3_+2_+1_)  (+2_+3_+4_)+3__+2__  +1___+1__ //]
+BEM[Wariant t. 2: +5_+3_+4_.+2(+3_+2_+1_); wariant t. 3 i 7: (+2_+3_+4_)+3__(+2_+1_7_)]
+
+DWOK56
+CUT[Młodemu, gdy do niego się schodzą, lub młodej, drużbom, starostom]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 361]
+FKT[]
+SIG[5649900001]
+KEY[56499   16  C 3/8]
+MEL[5_6_7_  +1_7+1+2+4  +3+2+1_+1_  +2_7_5_
+    5_6_7_  +1_+1_+2+4  +3+2+1_7+2  +1__.
+    +5_+3b_+3b_  +3b+6b+6b_+5_  +4_7b_7b_  +2+5+5_+3b_
+    +1_+1+2+3b_  +5+4+6+5+4_  +3b+2+1_7+2  +1__. //]
+BEM[]
+
+DWOK56
+CUT[Młodemu, gdy do niego się schodzą, lub młodej, drużbom, starostom]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 361]
+FKT[]
+SIG[5649900002]
+KEY[56499   16  C 3/8]
+MEL[5_6_7_  +1_7+1+2+4  +3+2+1_7+1  +2_7_5_
+    5_6_7_  +1_+1_+2+4  +3+2+1_7+2  +1__.
+    +5_+3b_+3b_  +3b+6b+6b_+5_  +4_7b_7b_  +2+6b+5+4+3b+2
+    +17+1+2+3b+4  +5+4+6+5+4+5  +3b+2+1_7+2  +1__. //]
+BEM[]
+
+DWOK56
+CUT[A w sóbotońku, ino z południ hodyna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s.362]
+FKT[]
+SIG[5650000001]
+KEY[56500   16  C 3/8]
+MEL[5_+1_+2_  +3_+4__  +5_+3_+3_  +2_+1__  +4_+3__  +2__.
+    +4_+3+2+1_  +2+3+4__  +5_+3_+3+2  +1_+2__  +27+1__  +1__0_ //]
+BEM[]
+
+DWOK56
+CUT[A w sóbotońku, ino z południ hodyna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s.362]
+FKT[]
+SIG[5650000002]
+KEY[56500   16  C 3/8]
+MEL[5_+1_+2+1  +3+4+4__  +5_+3_+3_  +2_+1__  +4+3+3__  +2__.
+    +4_+3+2+1_  +2+3+4__  +5+4+3_+3+2  +1_+2_+3_  +27+1__  +1__0_ //]
+BEM[]
+
+DWOK56
+CUT[Kosońkoż ty moja, kochana]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 363]
+FKT[]
+SIG[5650100001]
+KEY[56501   32  C 3/4]
+MEL[+3___+3___+4__+3__  +3__+1__+2____  +3___+3___+4__+1__
+    +3___+3___+4__+3__  (+3__+2__+1__)+2____  +2__7__+1___.+1__
+    +2__+4__+3__+3__+1__+3__  +4__+1__+2___.+1__
+    +3___+3__+2__+4__+1__  +2__+4__+3__+2_+3_+1__+3__
+    (+4__+2__+1__)+2___+3__+1__  +2___(+3__+2__7__)+1___ //]
+BEM[]
+
+DWOK56
+CUT[Kosońkoż ty moja, kochana]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 363]
+FKT[]
+SIG[5650100002]
+KEY[56501   32  C 3/4]
+MEL[+4__+3__+3__+2__+4__+3__  +4_+3_+2_+1_+2____  +4__+3__+3_+2_+3_+2_+4_+2_+1__
+    +3___+3__+2__+4__+3__  (+3__+2__+1__)+2____  +2__7__+1___.+1__
+    +2__+4__+3__+2_+3_+1__+3__  +4_+3_+2_+1_+2___.+1__
+    +3___+3_.+4+3+4+3+2+4_+2_+1__  +2__+4__+3__+2_+3_+1__+3__
+    (+4__+2__+1__)+2___+3__+1__  +2___(+3__+2__7__)+1__+1__ //]
+BEM[]
+
+DWOK56
+CUT[A w sóbotońku, ino z południ]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 363]
+FKT[]
+SIG[5650200001]
+KEY[56502   16  C 3/8]
+MEL[+4_+4__  +5_+4_+2_  +3__.  +3_+3__  +27+1__  +1_0__
+    +1_+3_+2_  +2_+4+2+3+1  +4_+3_+27  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[A w sóbotońku, ino z południ]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 363]
+FKT[]
+SIG[5650200002]
+KEY[56502   16  C 3/8]
+MEL[+4_+4_+4_  +5_+4_+2_  +3__.  +3_+3_+2_  +27+1__  +1_0__
+    +1_+3+3+4+3  +5_+4+2+3+1  +4_+3+3+27  +1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Wijut witrońki]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 364]
+FKT[]
+SIG[5650300001]
+KEY[56503   16  C 3/8]
+MEL[5_+1_+2+1  +3_+4__  +5_+3_+2_  +2_+1__
+    +3_+3_+3_  +4+3+3_+1_  +2__7_  750__
+    +2_+1_+3_  +3_+4__  +5_+3_+2_  +2_+1__
+    +3_+2_+4+3  +3_+2_7_  +1__.  +1_0__
+    +2_+1_+3_  +3_+4__  +5_+3_+2_  +2_+1_+3_
+    +3_+2_+4+3  +3_+2_7_  +1__.  +1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Wijut witrońki]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 364]
+FKT[]
+SIG[5650300002]
+KEY[56503   16  C 3/8]
+MEL[5_+1_+2_  +3_+4__  +5_+3_+2_  +2_+1__
+    +3_+3_+3+2  +4+3+3_+1_  +2__7_  750__
+    +4+3+2+1+3_  +3_+4_+3_  +5+3+3+2+2_  +2_+1__
+    +3_+2+1+4+3  +3_+2_7_  +1__.  +1_0__
+    +4+3+2+1+3_  +3_+4_+3_  +5+3+3+2+2_  +2_+1_+3_
+    +3_+2+1+4+3  +3_+2_7_  +1__.  +1_0__ //]
+BEM[]
+
+DWOK56
+CUT[Oj, Łado, Łado, na wieki bida]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 366 Błazen]
+FKT[]
+SIG[5650500000]
+KEY[56505   16  C 3/8]
+MEL[5_+1_+2_  +3_+5__  +3+2+4_+3_  +27+1__ //]
+BEM[]
+
+DWOK56
+CUT[Oj, buwauże ja juz czystym połe]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 366]
+FKT[]
+SIG[5650600001]
+KEY[56506   16  C 2/4]
+MEL[+3_+4__+5_  +4_+3+2+3__  +2+3+4_+3_+2_  +1__.+1_
+    +2_+2__+1_  +2__+3_+1_  +4_+3__+27  +1__.+1_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, buwauże ja juz czystym połe]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 366]
+FKT[]
+SIG[5650600002]
+KEY[56506   16  C 2/4]
+MEL[+3+4+4__+3+5  +4_+3+2+3_+1_  +5_+4_+3_+27  +1__.+1_
+    +2+3+2__+2+1  +2__+3_+1_  +4_+3__+27  +1__.+1_ //]
+BEM[]
+
+DWOK56
+CUT[Jiły żonoczkie, jiły]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 368]
+FKT[]
+SIG[5651000001]
+KEY[56510   16  A 3/8]
+MEL[3b_3b_2_  1_3b__  2__2_
+    3b_3b_3b_  3b_2_-7_  1_1__
+    1_1_2_  3b_2_-7_  1__1_ //]
+BEM[U Kolberga t. 5: 3b__2_1#_]
+
+DWOK56
+CUT[Jiły żonoczkie, jiły]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 368]
+FKT[]
+SIG[5651000002]
+KEY[56510   16  A 3/8]
+MEL[3b_3b221  1_3b__  2__21
+    3b_3b13b1  3b_2__  1_1__
+    -5_1_2_  3b_2__  1__1_ //]
+BEM[U Kolberga t. 5: 3b__2_1#_]
+
+DWOK56
+CUT[Piszlu sokoła]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 369-370]
+FKT[]
+SIG[5651200001]
+KEY[56512   16  D FREI]
+MEL[+1_+3b_+3b__+1__+3b+4+3b+1+2__+2_
+    +1_+3b_+4__+3b+4+3b+2+3b_+1_+2+3b+2+3b+1+1_+1_
+    +2_+1_+3b_+3b_+2+3b+27b+1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Piszlu sokoła]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 369-370]
+FKT[]
+SIG[5651200002]
+KEY[56512   16  D FREI]
+MEL[+1_+3b_+3b+2+1+2+1__+3b+4+3b+1+2__+2+1
+    +1_+3b_+4__+3b+4+3b+2+3b_+1_+2+3b+2+3b+1+1_+1_
+    +2_+1_+3b+4+3b_+2_7_+1__+1_ //]
+BEM[]
+
+DWOK56
+CUT[Na łaskawy teszczeńko]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 372]
+FKT[]
+SIG[5651600000]
+KEY[56516   16  A 2/4]
+MEL[3b_3b_3b21_  3b_2__21
+    3b_3b_213b_  2_1-71_1_
+    -7_1_3b_3b_  2_1__1_ //]
+BEM[Wariant t. 6: 2_.-71___1__]
+
+DWOK56
+CUT[Do korowaja]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 374]
+FKT[]
+SIG[5651800000]
+KEY[56518   16  G FREI]
+MEL[-5-6-71_3234_3_2431__2__.-7_-5__  -5-6-71_3234_3_4_323_1_2_-7_1__.  2_3_2_43243132_.-71__.1_ //]
+BEM[Wariant t. 1: -5-6-71_43234_3_243132__.17-6—5__]
+
+DWOK56
+CUT[Gdy korowaj krają i tańczą]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 375]
+FKT[]
+SIG[5652000001]
+KEY[56520   16  A 2/4]
+MEL[(3b_3b_2_)3b45_  2_2_243b2  1_1_123b1  -7__-5__
+    -5_-5_-5-6-7_  1_1_243b2  1_1_1121  -7__-5__ //]
+BEM[]
+
+DWOK56
+CUT[Gdy korowaj krają i tańczą]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 375]
+FKT[]
+SIG[5652000002]
+KEY[56520   16  A 2/4]
+MEL[3b_3b23b45_  2_2_243b2  1_1-7b123b1  -7__-5__
+    -5_-5_-5-6-7_  1_1_243b2  1_1_1_21  -7__-5__ //]
+BEM[]
+
+DWOK56
+CUT[U naszoho mołodoho]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 375]
+FKT[]
+SIG[5652100001]
+KEY[56521   16  C 2/4]
+MEL[+4_+3_+4_+5_  +4_+2_+3_+1_  +2_+4_+3_+2_  +1__+1__
+    +2_+1_+2_+3_  +2_+1_+3__  +2_+4_+3_+2_  +1__+1__ //]
+BEM[]
+
+DWOK56
+CUT[U naszoho mołodoho]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 375]
+FKT[]
+SIG[5652100002]
+KEY[56521   16  C 2/4]
+MEL[+4_+5+3+4_+5_  +4_+2_+3__  7+2+4_+3_+27  +1__+1__
+    +2_+1_+2_+3_  +2_+1_+3_+2_  +2_+4_+3_+2_  +1__+1__ //]
+BEM[]
+
+DWOK56
+CUT[Oj, lisom, lisom]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 377]
+FKT[]
+SIG[5652400001]
+KEY[56524   16  G 2/4]
+MEL[4_4__5_  4__321_  4_3__2_  1__1_0_
+    2__4_3_  2__3_1_  4_3__2_  1__1_0_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, lisom, lisom]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 377]
+FKT[]
+SIG[5652400002]
+KEY[56524   16  G 2/4]
+MEL[4_4_4_5_  4_2_321_  (234)3__2-7  1__1_0_
+    2_1_4_3_  2_1_321_  (234)3__2-7  1__1_0_ //]
+BEM[]
+
+DWOK56
+CUT[Oj, lisom, lisom]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 377]
+FKT[]
+SIG[5652500000]
+KEY[56525   16  C 3/8]
+MEL[+4_+4__  +5_+4_+2_  +3+2+100_  +2+3+4_+3_  +27+1_.+1
+    7+2+2_+4_  +2_+1_(+3+2+1)  (+2+3+4)+3_+27  +1__+1_ //]
+BEM[Wariant t. 2: +4+5+4_+2_; wariant t. 4: +4_+3_+1_]
+
+DWOK56
+CUT[Oj pjut, ojut, napywajut si]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 378]
+FKT[]
+SIG[5652600000]
+KEY[56526   16  C 2/4]
+MEL[+1__+2__  +3___  +1_+2_+3_+2_  +3___
+    +1_+2_+3_+2_  +3___  +1_+2_+3_+2_  +3___
+    +1_+2_+3_+2_  +3__+2_+1_  +1_+2_+3_+2_  +3__+2_+1_
+    7_+1_+2_+2_  +1___
+    +1_+2_+3_+3_  +4_+2_+3__  +1_+2_+3_+3_  +4_+2_+3__
+    +1_+2_+3_+2_  +3__+2_+1_  +1+2+3_+4_+2_  +3__+2_+1_
+    7_+1_+2_+2_  +1___ //]
+BEM[]
+
+DWOK56
+CUT[Marsz weselny]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 381]
+FKT[]
+SIG[5653000010]
+KEY[56530   16  C 4/4]
+MEL[5_3_1_3_5__.67  +1__+1_6_6_5_5__  5_.34_2_6_5_5__  5_.3542-71_1_1__ //]
+BEM[]
+
+DWOK56
+CUT[Marsz weselny]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 381]
+FKT[]
+SIG[5653000020]
+KEY[56530   16  G 4/4]
+MEL[1_-5_1_-5_1-7123_1_  2_2_2_6_5_4_3_2_  1_-5_1_-5_1-7123_1_  -722_2_6_5_4_3_2_
+    3__3_5_4__4_6_  4_-5_-6_-7_1_1-51__  3__323_4__434_  4_-5_-6_-7_1_1-71__
+    5__12345__.67  +1_+1_+1_6_6_5_5__  5_3_4_2_6_5_5__  4_.354321_1_1__ //]
+BEM[]
+
+DWOK56
+CUT[Polonez weselny]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 381]
+FKT[]
+SIG[5653100000]
+KEY[56531   16  C 3/4]
+MEL[+5_.+3+3+2+3+4+5_+3_  +4_+2_+2+3+4+3+5+4+3+2
+    +1_+1_+1_+3_+5_+1_  +2_+4+3+2+1765_5_
+    +3__+4+3+4+5+6_+3_  +4+3+4+27__+1__ //]
+BEM[Wariant t. 3: +1_+1__+3_+5_+5_; wariant t. 4: +2_+4+3+2_765_5_]
+
+DWOK56
+CUT[Tam na hor'e fijałońki zacwyły]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 382 Ubinie]
+FKT[]
+SIG[5653200000]
+KEY[56532   16  G 3/4]
+MEL[2_4_3_3_2_4_  3_1_2__.1_  4__3__4_20
+    2_4_3_3_2_4_  3_1_2___  2_-7_1__1_10 //]
+BEM[]
+
+DWOK56
+CUT[Czerwonaja kałyna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 382 Ubinie]
+FKT[]
+SIG[5653300001]
+KEY[56533   16  G FREI]
+MEL[(-5_-7_1_)2__(2_4_3_)23_12__.-7_-5__
+    (-5_-7_1_)3__4_3_23_12_-7_1__
+    1_234__3_2__-7_1__.1_ //]
+BEM[]
+
+DWOK56
+CUT[Czerwonaja kałyna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 382 Ubinie]
+FKT[]
+SIG[5653300002]
+KEY[56533   16  G FREI]
+MEL[(-5_-7_1_)2__2__23_12__.-7_-5__
+    (-5_-7_1_)3_(2_4_3_)23_12_-7_1__
+    1_234_2_3_2__-7_1__.1_ //]
+BEM[]
+
+DWOK56
+CUT[Weselna, w sobotę]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 383 Ubinie]
+FKT[]
+SIG[5653400001]
+KEY[56534   32  C FREI]
+MEL[5_+4_+3__+4+3+2+3+4_+3_+1___+2___.  +1_+4_+3__+2__+3_+2_+1___+1_+2_+3__+3__+3_+2_+3__+4_+3_+2_+4+3+2+1+2___+2__7__+1____ //]
+BEM[]
+
+DWOK56
+CUT[Weselna, w sobotę]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 383 Ubinie]
+FKT[]
+SIG[5653400002]
+KEY[56534   32  C FREI]
+MEL[5_+4_+3__+4+3+2+3+4_+3_+4_+3_+2_+3_+2___.  +1_+4_+3__(+3_+2_+3_)+3_+2_+1__7__+1_+2_+3__+3__+3_+2_+3__+4_+3_+2_+4+3+2+1+2___+2__7__+1____ //]
+BEM[]
+
+DWOK56
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 384 Ubinie]
+FKT[]
+SIG[5653500001]
+KEY[56535   16  C 3/8]
+MEL[+1+3+3+3+3_  +3__+2+1  (+1+2+3)+4+4+4+4  +3+2+1__
+    +1+3+3+3+3_  +3+2+1__  +2_.+5+5+5  +5_+5_5_
+    5_6_75  7+17+1+2+4  +3+2+1+376
+    5_6_75  7+17+1+2+4  +3+2+1+3+27
+    5_6_7_  7+17+1+2+4  +3+2+1+3+27  +27+1__
+    +1+1+3b+4+5_  +5_+5_+5_  +5_+4#_+4#_  +4#+4#+4#+6+5_  +4+3b+3b+2+1_  5_6_75  7_+1__ //]
+BEM[]
+
+DWOK56
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 384 Ubinie]
+FKT[]
+SIG[5653500002]
+KEY[56535   16  C 3/8]
+MEL[+1+3+3+3+3+3  +3__+2+1  +2+3+4_+4_  +3+2+1__
+    +1+3+3+3+3_  +3+2+1__  +2_.+5+5+5  +5_+5_5_
+    5_6_75  7+17+1+2+4  +3+2+1_7_
+    5_6_75  7+17+1+2+4  +3+2+1+3+27
+    5_6_75  7+17+1+2+4  +3+2+1+3+27  +27+1_7_
+    +1+1+3b+4+5_  +5_+5_+5_  +5_+4#_+4#_  +4#+4#+5+7b+6_  +5+3b+3b+2+1_  5_6_75  7_+1__ //]
+BEM[]
+
+DWOK56
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 384 Ubinie]
+FKT[]
+SIG[5653600000]
+KEY[56536   32  C 3/8]
+MEL[5_67+1__+3_+2_  +3__+2__(+3+4+3+2+1)  +2___(7_6_5_)  5___.
+    5_67+1__+3_+2_  +3_+4_+3+4+3_(+3+4+3+27)  +2_7_+1___
+    +1_+4_+3__(+3+4+3+2+1)  +2___5_7_  +1___. //]
+BEM[]
+
+DWOK56
+CUT[Marsz do ślubu gdy idą do cerkwi]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 385 Ubinie]
+FKT[]
+SIG[5653700001]
+KEY[56537   16  C 4/4]
+MEL[+3_+4_  +5__.+6_+5__.+4_  +3_+3_+2_7_+1__.+1_
+    +5__.+6_+5__.+4_  +3_+3_+2_7_+1__.+1_  +3__+3__+3__+275_  +4__+4__+4_+6_+5_+3_  +3+1+3+4+5_+5_+6_+6_+6_+5_  +4_+3_+2_7_+1_+1_+1__  +1_57+1_57+1_+3+3+3_5_  7_5_7_5_+1_+3_+5_5_  +1_5_+1_5_+1_+3_+5_+4+6  +6_+6+6+6_+5_+4_+3_+2_7_  +1__+1_+1_+1__.+3_  +4+4+4+4+4_+1+3+4+4+4+4+4_+1+3  +4_+6+6+6_+5_+4_+3_+2_7_  +1__+1_+1_+1__ //]
+BEM[]
+
+DWOK56
+CUT[Marsz do ślubu gdy idą do cerkwi]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 385 Ubinie]
+FKT[]
+SIG[5653700002]
+KEY[56537   16  C 4/4]
+MEL[+3_+4_  +5__.+6_+5__.+4_  +3_+3_+2_7+2+1__.+1_
+    +5__.+6_+5__.+4_  +3_+3_+2_7+2+1__.+1_  +3__+3__+3_+2_+2_75  +4__+4__+6_+5_+3_+2_  +3+1+3+4+5_+5_+6_+6_+6_+5_  +4_+3_+2_7_+1_+1_+1_57  +1_57+1_57+1_+1+3+3_5_  7_5_7_5_+1_+3+3+5_57  +1_5_+1_5_+1_+3+3+5_+4+6  +6_+6+6+6_+5_+4_+3_+2_7_  +1__+1_+1_+1__.+1+3  6b+4+4+4+6b_+1+3+4+4+4+4+4_+1+3  +4_+6+6+6_+5+5+4_+3_+2_7_  +1__+1_+1_+1__ //]
+BEM[]
+
+DWOK56
+CUT[Przy obiedzie]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 385 Ubinie]
+FKT[]
+SIG[5653800001]
+KEY[56538   32  C 3/8]
+MEL[5__6__7_5_  +1___+2_+4_  +3+2+3+1+2__7__  +1___.
+    5__6__7_5_  +1___+2_+4_  +3+2+3+1+2__7__  +1___.
+    +5__+5__+5__  +4__+4__+4__  +3_+2_+3__+3__  +2_7_+2__+5__
+    5__6__7_5_  +1__7_+1_+2_+4_  +3__+2__7__  +1___. //]
+BEM[]
+
+DWOK56
+CUT[Przy obiedzie]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 385 Ubinie]
+FKT[]
+SIG[5653800002]
+KEY[56538   32  C 3/8]
+MEL[5__6__7_5_  +1___+2__  +3+2+3+1+2__7__  +1___.
+    5__6__7_5_  +1___+2__  +3+2+3+1+2__7__  +1___.
+    +5__+5__+5__  +4__+4__+5_+4_  +3_+2_+3__+3__  +2__7_+2_+5__
+    5__6__7_5_  +1__7_+1_+2_+4_  +3_+1_+2__7__  +1___. //]
+BEM[]
+
+DWOK56
+CUT[wolno]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 386 Ubinie]
+FKT[]
+SIG[5653900010]
+KEY[56539   16  C 3/4]
+MEL[+1_+3_+4+3+2_+4+3+2+1  +2_7_+1__5__
+    +1_+3_+4+3+2_+4+3+2+1  +5_57+1__+3__ //]
+BEM[]
+
+DWOK56
+CUT[chudko]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 386 Ubinie]
+FKT[]
+SIG[5653900021]
+KEY[56539   16  C 2/4]
+MEL[+5__+5__  +4#_+4#_+5_+4#_  +3b_+2_+1__  +2__+2__  5_7_+17+1_  +3b_+2+3b+1__
+    +5__+5__  +4#_+4#_+5_+4#_  +3b_+2_+1__  +2__+2__  5_7_+17+1_  +3b_+2+3b+1__ //]
+BEM[]
+
+DWOK56
+CUT[chudko]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 386 Ubinie]
+FKT[]
+SIG[5653900022]
+KEY[56539   16  C 2/4]
+MEL[+5__+5__  +4#_+2_+5_+4#_  +3b_+2_+1__  +2__+2__  5_5_+17+1_  +4+3b+2+3b+1_+3b_
+    +5__+5__  +4#_+2_+5_+4#_  +3b_+2_+1__  +2__+2__  5_5_+17+1_  +4+3b+2+3b+1_+3b_ //]
+BEM[]
+
+DWOK56
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 386 Ubinie]
+FKT[]
+SIG[5654000001]
+KEY[56540   16  G 4/4]
+MEL[5__5_6_5__4__  3_3_2_-7_1___
+    5__5_6_5__4__  3_3_2_-7_1___
+    321_2-72_5_5_5_4_  321_2-72_5_5_4_4_  321_2_-7_1___
+    321_2-72_5_5_5_4_  321_2-72_5_5_4_4_  321_2_-7_1___ //]
+BEM[]
+
+DWOK56
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 386 Ubinie]
+FKT[]
+SIG[5654000002]
+KEY[56540   16  G 4/4]
+MEL[5__5_6_5_3_4_2_  313_2_-7_1___
+    5__5_6_5_3_4_2_  313_2_-7_1___
+    321_2-7-7_5_5_5_4_  321_2_2_5_5_4_4_  321_2_-7_1___
+    321_2-7-7_5_5_5_4_  321_2_2_5_5_4_4_  321_2_-7_1___ //]
+BEM[]
+
+DWOK56
+CUT[Czerwonaja kałynońka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 386 Milatyn]
+FKT[]
+SIG[5654100000]
+KEY[56541   08  G FREI]
+MEL[432-7134_3_
+    5_24_3_2_1_  432134_3
+    4_32-71_2_.-7-5__  432-7134_32-7_1__ //]
+BEM[]
+
+DWOK56
+CUT[Polonez weselny]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 387 Milatyn]
+FKT[]
+SIG[5654200001]
+KEY[56542   16  C 3/4 4/4]
+MEL[5_+1_+1_+3_+5_+3_  +2_+4+3+2+1765432  1_3_5+1+3+5+6+5+4+3  +2+3+4+27__+1__
+    5_5_+1_+3+5+4__  +3_+3_+2_+2+4+3__  5_5_+1_+3+5+4__  +3_+3_+2+4+27+1__
+    +3_+3+2+1_+17+1_+17  +1_7_7_6_7__  +2+3+4+3+2+1765432  +2_+6_+6_+5_+5__
+    +3+4+5_+3_+1_+1_+17  +1_+3_+3_+2_+2__  567+1+2+1+2+3+4+3+4+5  +6_+5+3+4+3+47+2_+1_+1__  ++1_.++1++1_+7_+6_+5_  +6_+6_+6_+5_+4_+3_  +2+1+2+3+4+3+4+5+6_+3_  +4+3+4+27__+1__ //]
+BEM[]
+
+DWOK56
+CUT[Polonez weselny]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 387 Milatyn]
+FKT[]
+SIG[5654200002]
+KEY[56542   16  C 3/4 4/4]
+MEL[5_+1_+3_+5_+6_+4_  +2+3+4+3+2+1765432  1_3_5+1+3+5+6+5+4+3  +2+3+4+27_+17+1__
+    5_5_+1_+3+5+4+5+4_  +3_+3_+2_+2+4+3__  5_5_+1_+3+5+4_+4_  +3_+3_+2+4+27+1__
+    +3+4+3+2+1_+17+1_+1_  +1_+3_+3_+2_+2__  +2+3+4+3+2_+4_+2_+4_  +2__+6_+5_+5__
+    +3+4+5_+3_+1_+1_+17  +1_+3_+3_+2_+2__  567+1+2+1+2+3+4+3+4+5  +6_+5+3+4+3+47+2_+1_+1__  ++1_.++1++1_+7_+6_+5_  +6_+6+7+6_+5_+4_+3_  +2+1+2+3+4+3+4+5+6_+3_  +4+3+4+27__+1__ //]
+BEM[]
+
+DWOK56
+CUT[Pomahaj Bih wam]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 387-388 Złoczowskie]
+FKT[]
+SIG[5654300010]
+KEY[56543   16  G 2/4]
+MEL[3_5_54#64#  5_.4#5__
+    3_5_54#64#  5_.4#5__
+    3_3_2_2_  5_5_4_4_  3_3_2_2_  1__1__ //]
+BEM[]
+
+DWOK56
+CUT[Pomahaj Bih wam]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 387-388 Złoczowskie]
+FKT[]
+SIG[5654300020]
+KEY[56543   16  F 2/4]
+MEL[3_5_54#64#  5_.4#5__  3_5_54#64#  5_.4#5__
+    3_3_2_2_  5_5_4_4_  3_3_2_2_  1__1__
+    3_3_2_2_  5_5_4_4_  3_3_2_2_  1__1__ //]
+BEM[]
+
+DWOK56
+CUT[Zełenaja rutońka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 388 Połonice. Weselna w sobotę]
+FKT[]
+SIG[5654400001]
+KEY[56544   16  C 2/4]
+MEL[5_+4_+3+2+3_  +4_+3_+3_+1_  +2__.+1_  +4__+3__  +4__.+1_
+    5_+4_+3+2+3_  +1__+4__  +2__.+3_  +2__+1__  +1__+1__ //]
+BEM[]
+
+DWOK56
+CUT[Zełenaja rutońka]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 388 Połonice. Weselna w sobotę]
+FKT[]
+SIG[5654400002]
+KEY[56544   16  C 2/4]
+MEL[5_+4_+3+2+3_  +4_+3_+3_+1_  +2__.+1_  +4_+3_+3_+2_  +4__.+1_
+    5_+4_+3+2+3_  +1_+3_+4_+1_  +2__.+1_  +2_7_+1__  +1__+1__ //]
+BEM[]
+
+DWOK56
+CUT[Buło ne rubaty zelenoho duba]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 393 Złoczowskie. Ruski weselny taniec]
+FKT[]
+SIG[5656100000]
+KEY[56561   16  G 3/4]
+MEL[1_-7_1_2_3b_4_  5_5_5_4_3b_2_
+    1_-7_1_2_3b_4_  5_5_5_4_3b_2_
+    5__5_5_-7_.-5  1_-7_1_2_3b__
+    5_5_5_4_3b_2_  -7_-7_-5_-7_1__ //]
+BEM[]
+
+DWOK56
+CUT[Żydowska melodia przy ubieraniu panny młodej]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 433 Rozdół]
+FKT[]
+SIG[5666200000]
+KEY[56662   32  D FREI]
+MEL[+5___.+6_+7b_+7b__+6__+6__+5__+5__+4#__+5___
+    +5__+6_+7b_+6__+5__+4#__+3b__+2__+1__+1____
+    +1_+2+3b+2_+1_+2__+3__+4#__+5__+6__+7b__+7b___.+6__+6_+5_+5_+4#_+5___.+2_+2____
+    +2_+3_+4#_+5_+4#_+5_+6_+5_+6_+7b__.+6_+5__+4#_+5_+6_+7b_+6_+5_+4#__.+3b_+2__.+1_+1____+1__.+7b_+7b___+7++1+7+6+7++1+7+6+5+4#+3b+2__.+1_+1____
+    7_+1_++1__.+1_7__.+1_++1__.+1_7__.+1_+2__+3b__+3b_+2_+1#_+2_+3b_+2_____
+    +2+3b+2+1#+2+3+4#+5+6+7__+7___.+6__+6__.+5_+5__.+4#_+5___
+    +5__+6_+7b_+6__+5__+4#__+3b__+2__.+1_+1____
+    +1_+2+3b+2__+1__+2__+3__+4#__+5__+6__+7b__+7___.+6__+6_+5_+5_+4#_+5___.+2_+2_____
+    +4___.+7b__+7b___.+6__+6_+5_+5_+4_+4____  +4___.+7b__+7b___.+6__+6_+5_+5_+4_+4____
+    +4__.+5_+5__.+4_+4__.+3b_+3b__.+2_+2__.+1_+1__.7_7__.4_4____0__
+    7b__7b__.+1_+1__.+2_+2__.+3b_+3b__.+4_+4__.+5_+5___.+4+5+4___.+5_+5___+6__+5__+4__+6__+5__+4__+4_____
+    ++3b__++3b__++2_++3b_++2__++1_++2_++1__+7b_++1_+7b__+6_+7b_+6__+5_+6_+5__+4_+5_+4____+6__+5__+4__+6__+5__+4__+4____  +2+3b+2+1#+2+3+4#+5+6+7b+7b___.+6__+6__.+5_+5__.+4#_+5___  +5__+6_+7b_+6__.+5_+4#__.+3b_+2__.+1_+1___.  7_+1_++1__.+1_7__.+1_++1__.+1_7__.+1_+2__+3b__+3b_+2_+1#_+2_+3b_+2_____ //]
+BEM[]
+
+DWOK56
+CUT[Na weselu]
+REG[]
+TRD[DWOK56 Ruś Czerwona s. 361]
+FKT[]
+SIG[5649800000]
+KEY[563498  16  C FREI]
+MEL[567+1_+2+3+3_+3_+3__+2__  +2__.+2_+2_+2_+2__.+3_+1_7_+2__.
+    5_6_7_+1__+3_+3_+3_+3_+3__+2___  +4_+4_+4_+4_+4_+4_+4___+4_+6_+5_+4_+3_+2_
+    +1_7_+1_+2_+3_+4_+4_+2_+2_+2_+2_+2_+2_+5_+5_+5_+5__  +5__.7_7_7_7__567+1_+1___+1_ //]
+BEM[]

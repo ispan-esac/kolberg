@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2571800000-skoczek-instrumentalna.krn
+!!!OTL: Skoczek-Instrumentalna
+!!!source: DWOK25
+!!!id: 25718
+!!!signature: 2571800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8ee
+8gg
+=2
+8ff
+16dd
+16ff
+4ee
+=3
+8g
+8cc
+8ee
+8gg
+=4
+8ff
+16dd
+16b
+4cc}
+!!LO:LB:g=esac
+=5
+{8ff
+8aa
+8gg
+16ee
+16gg
+=6
+8ff
+16dd
+16ff
+4ee
+=7
+8ff
+8aa
+8gg
+16ee
+16gg
+=8
+8ff
+16dd
+16b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 253} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 253}
+!!!page: 253
+!!!ONB: Converted on 2024/12/26 with esac2hum

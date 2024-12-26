@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK02-K0202-od_zielonego_gaju.krn
+!!!OTL: Od zielonego gaju
+!!!source: DWOK02
+!!!id: K0202
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+4r
+{4g
+4g
+=2
+4a
+8b-
+8a
+8cc
+8g
+=3
+2a
+16a
+8.g}
+!!LO:LB:g=esac
+=4
+{4a
+2cc
+=5
+4a
+8b-
+8a
+8cc
+8f#
+=6
+2g
+4g}
+!!LO:LB:g=esac
+=7
+4r
+{4g
+4g
+=8
+4a
+8b-
+8a
+8cc
+8g
+=9
+2.a
+=10
+8a
+2g}
+8r
+!!LO:LB:g=esac
+=11
+{4a
+[2cc
+=12
+8cc]
+8a
+8b-
+8a
+8cc
+8f#
+=13
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 167} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 167}
+!!!page: 167
+!!!ONB: Converted on 2024/12/26 with esac2hum

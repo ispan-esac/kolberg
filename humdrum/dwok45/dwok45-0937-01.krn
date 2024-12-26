@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4593700001-a_psysla_nom_nowina.krn
+!!!OTL: A psysła nom nowina
+!!!source: DWOK45
+!!!id: 45937
+!!!signature: 4593700001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8b
+8a
+=2
+8g#
+4a
+=3
+4.e}
+!!LO:LB:g=esac
+=4
+{16cc
+16ee
+8ee
+8ee
+=5
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=6
+{16a
+16cc
+8b
+8a
+=7
+8g#
+8f#
+8e}
+!!LO:LB:g=esac
+=8
+{16a
+16cc
+8b
+8a
+=9
+8g#
+4a
+=10
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=14 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 4} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 4}
+!!!page: 4
+!!!ONB: Converted on 2024/12/26 with esac2hum

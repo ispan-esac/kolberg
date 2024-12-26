@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4111700002-nieszczesliwe_te_pokoje.krn
+!!!OTL: Nieszczęśliwe te pokoje
+!!!source: DWOK41
+!!!id: 41117
+!!!signature: 4111700002
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+16f
+8b-
+8b-
+=2
+16a
+16g
+8a
+8f
+=3
+16f
+16f
+8b-
+8b-
+=4
+16a
+16cc
+4ee-}
+!!LO:LB:g=esac
+=5
+{16f
+16f
+8b-
+8b-
+=6
+16a
+16cc
+8a
+8f
+=7
+8.ee-
+16cc
+16a
+16cc
+=8
+16ee-
+16dd
+4b-}
+==
+*-
+!!!ONB: Fragment w Bb
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 85} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 85}
+!!!page: 85
+!!!ONB: Converted on 2024/12/26 with esac2hum

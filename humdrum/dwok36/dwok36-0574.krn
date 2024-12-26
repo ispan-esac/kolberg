@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK3657400000-kolyb_myni_z_ranku.krn
+!!!OTL: Kołyb myni z ranku
+!!!source: DWOK36
+!!!id: 36574
+!!!signature: 3657400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16ee
+16dd
+16cc
+16b
+8a
+8cc
+=2
+4b
+4g#
+=3
+8e
+8g#
+8e
+8g#
+=4
+4cc
+4a}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+=6
+4dd
+4cc#
+=7
+8b
+8b
+4cc
+=8
+8dd
+8dd
+8cc#
+8cc#
+=9
+8b
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 383
+!!!ONB: Converted on 2024/12/26 with esac2hum

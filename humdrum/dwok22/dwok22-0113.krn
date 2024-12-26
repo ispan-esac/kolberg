@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2211300000-przed_michalem_na_debie.krn
+!!!OTL: Przed Michałem na dębie
+!!!source: DWOK22
+!!!id: 22113
+!!!signature: 2211300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8cc
+8cc
+=2
+16dd
+16b
+4cc
+=3
+16cc
+16dd
+8ee
+8ee
+=4
+16ff
+16dd
+4ee}
+!!LO:LB:g=esac
+=5
+{4cc
+8a
+=6
+4dd
+8g
+=7
+16cc
+16dd
+4ee
+=8
+4cc
+8a
+=9
+4dd
+8g
+=10
+16b
+16dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 82} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 82}
+!!!page: 82
+!!!ONB: Converted on 2024/12/26 with esac2hum

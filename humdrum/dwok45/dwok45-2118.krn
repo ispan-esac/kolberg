@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK45211800000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK45
+!!!id: 452118
+!!!signature: 45211800000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4ee
+4ee
+4ee
+4a
+=2
+4dd
+4dd
+4dd
+4b
+=3
+8a
+8b
+8cc
+8b
+8dd
+8cc
+8b
+8a
+=4
+4b
+4b
+4b
+4b}
+!!LO:LB:g=esac
+=5
+{4ee
+4ee
+4ee
+4a
+=6
+4dd
+4dd
+4dd
+4b
+=7
+8a
+8b
+8cc
+8b
+8dd
+8cc
+8b
+8a
+=8
+4b
+4b
+2b}
+!!LO:LB:g=esac
+=9
+{8cc
+8b
+8a
+8cc
+8b
+8a
+8g#
+8b
+=10
+4a
+4a
+4a
+4aa
+=11
+8cc
+8b
+8a
+8cc
+8b
+8a
+8g#
+8b
+=12
+4a
+4a
+2a}
+==
+*-
+!!!ONB: śpiew Górali
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=434 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 416} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 416}
+!!!page: 416
+!!!ONB: Converted on 2024/12/26 with esac2hum

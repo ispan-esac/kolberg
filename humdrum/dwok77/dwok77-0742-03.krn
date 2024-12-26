@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7774200003-ziemia_nie_rodzi_jak_przedtem_rodzila.krn
+!!!OTL: Ziemia nie rodzi jak przedtem rodziła
+!!!source: DWOK77
+!!!id: 77742
+!!!signature: 7774200003
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+4.ee
+8dd
+=2
+4ee
+4cc
+4r
+=
+8ee
+8ff
+[4dd
+12dd]
+12b
+12dd
+=
+4.ee
+8dd
+12b
+12cc
+12a}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+4.cc
+8dd
+=4
+4ee
+8cc
+8a
+4r
+=5
+8b
+8cc
+4.a
+8g#
+=6
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 371
+!!!ONB: Converted on 2024/12/26 with esac2hum

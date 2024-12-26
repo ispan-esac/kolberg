@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1644900001-wyjechal_ci_pan_starosta_zrana_na_zajace.krn
+!!!OTL: Wyjechał ci pan starosta zrana na zające
+!!!source: DWOK16
+!!!id: 16449a
+!!!signature: 1644900001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8b-
+8cc
+8cc
+=2
+8cc
+8dd
+8cc
+8a
+=3
+8cc
+8dd
+8cc
+8b-
+=4
+4a
+4f}
+!!LO:LB:g=esac
+=5
+{8a
+8b-
+8cc
+8cc
+=6
+8cc
+8dd
+8cc
+8a
+=7
+8b-
+8dd
+8g
+8b-
+=8
+4a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=296 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 276} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 276}
+!!!ONB: Converted on 2024/12/26 with esac2hum

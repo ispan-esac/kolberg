@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4404500002-ej_pytacze_pytacze.krn
+!!!OTL: Ej, pytacze, pytacze
+!!!source: DWOK44
+!!!id: 44045
+!!!signature: 4404500002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8cc
+4dd
+4ee
+=2
+8dd
+8cc
+2b}
+!!LO:LB:g=esac
+=3
+{4cc
+2b
+=4
+8a
+8b
+4g
+4e}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+4b
+=6
+8cc
+8dd
+4cc
+4b}
+!!LO:LB:g=esac
+=7
+{4cc
+2b
+=8
+8a
+8b
+4g
+4e}
+==
+*-
+!!!ONB: Kiedy proszą na wesele
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 106} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 106}
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

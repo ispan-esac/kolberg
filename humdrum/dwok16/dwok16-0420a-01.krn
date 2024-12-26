@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK1642000001-w_mego_czostenka_sywa_glowenka.krn
+!!!OTL: W mego czosteńka sywa głoweńka
+!!!source: DWOK16
+!!!id: 16420a
+!!!signature: 1642000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+8dd
+4cc
+=3
+8g
+8b
+8a
+=4
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+=6
+8dd
+4cc
+=7
+4.a
+=8
+8f#
+8d}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8a
+=10
+8cc
+4a
+=11
+8g
+8b
+8a
+=12
+8f#
+4d}
+!!LO:LB:g=esac
+=13
+{8a
+8f#
+8a
+=14
+8b
+4g
+=15
+4.d
+=16
+4d}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 262} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 262}
+!!!ONB: Converted on 2024/12/26 with esac2hum

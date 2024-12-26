@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK1311000000-kaj_sie_dzialy_one_lata.krn
+!!!OTL: Kaj się działy one lata
+!!!source: DWOK13
+!!!id: 13110
+!!!signature: 1311000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4b
+4b
+8cc
+8ee
+=2
+8dd
+8cc
+4a
+4dd
+=3
+4b
+4b
+8cc
+8ee
+=4
+8dd
+8cc
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{4b
+4b
+8cc
+8a
+=6
+4b
+4b
+8cc
+8a
+=7
+4b
+4b
+8cc
+8ee
+=8
+8dd
+8cc
+4a
+4g}
+!!LO:LB:g=esac
+=9
+{4b
+8b
+8a
+8cc
+8a
+=10
+4b
+8b
+8a
+8cc
+8a
+=11
+4b
+8b
+8a
+4gg}
+!!LO:LB:g=esac
+=12
+{4b
+8b
+8a
+8cc
+8ee
+=13
+8dd
+8cc
+4a
+4g}
+==
+*-
+!!!ONB: Kujawiak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 63} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 63}
+!!!page: 63
+!!!ONB: Converted on 2024/12/26 with esac2hum

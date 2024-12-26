@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK1711600000-oj_da_moja_matulu.krn
+!!!OTL: Oj da moja matulu
+!!!source: DWOK17
+!!!id: 17116
+!!!signature: 1711600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8b
+8cc
+16dd
+16ff
+=
+24ee
+24gg
+24ee
+8.dd
+16cc}
+!!LO:LB:g=esac
+=2
+{8b
+8cc
+16dd
+16ff
+=
+16ee
+16ee
+8dd
+24b
+24a
+24g}
+!!LO:LB:g=esac
+=
+{16b
+16cc
+8dd
+24b
+24a
+24g
+=3
+16f
+16a
+8f
+16g
+16a}
+!!LO:LB:g=esac
+=
+{24a
+24b
+24cc
+8dd
+24b
+24a
+24g
+=4
+16f
+16a
+8f
+8g}
+==
+*-
+!!!ONB: Obacz nr 42
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 39} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 39}
+!!!page: 39
+!!!ONB: Converted on 2024/12/26 with esac2hum

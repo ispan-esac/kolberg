@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK1837100000-ja_ciebie_nie_zapomne.krn
+!!!OTL: Ja ciebie nie zapomnę
+!!!source: DWOK18
+!!!id: 18371
+!!!signature: 1837100000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4g
+8b
+8b
+8b
+8g
+8ee
+8dd
+=2
+8dd
+8cc
+4a
+4r
+4r
+=3
+4g
+8b
+8b
+8a
+8dd
+8cc
+8f#
+=4
+4a
+4g}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{4dd
+8cc#
+8b
+4a
+8b
+8cc#
+=6
+2dd
+4a
+4r
+=7
+4ee
+16dd
+16cc#
+16b
+16a
+4a
+8b
+8cc#
+=8
+4.dd
+8cc#
+8ee
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=9
+{4g
+8b
+8b
+8b
+8g
+8ee
+8dd
+=10
+4.dd
+8cc
+4a
+4r
+=11
+4g
+4b
+8a
+8dd
+8cc
+8f#
+=12
+4a
+4g}
+2r
+==
+*-
+!!!ONB: zakodować od G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 202} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 202}
+!!!page: 202
+!!!ONB: Converted on 2024/12/26 with esac2hum

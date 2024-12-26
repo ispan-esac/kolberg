@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2243300010-oj_co_my_po_tej_roli.krn
+!!!OTL: Oj co my po tej roli
+!!!source: DWOK22
+!!!id: 22433
+!!!signature: 2243300010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8g
+16b
+16g
+=2
+16e
+16f#
+8a
+16f#
+16d
+=3
+8cc
+8dd
+16b
+16a
+=4
+16g
+16e
+8f#
+8a}
+!!LO:LB:g=esac
+=5
+{16cc
+16a
+8g
+16b
+16g
+=6
+16e
+16f#
+8a
+16f#
+16d
+=7
+8ee
+8dd
+16b
+16a
+=8
+16g
+16e
+8d
+8f#}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 214} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 214}
+!!!page: 214
+!!!ONB: Converted on 2024/12/26 with esac2hum

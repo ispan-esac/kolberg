@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1904200000-matusku_matusku.krn
+!!!OTL: Matusku, Matusku
+!!!source: DWOK19
+!!!id: 19042
+!!!signature: 1904200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+4dd
+=2
+8dd
+8b
+4g
+=3
+8b
+8cc
+4dd
+=4
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+=6
+8b
+8a
+8b
+8cc
+=7
+8b
+8dd
+4cc
+=8
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 17} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 17}
+!!!page: 17
+!!!ONB: Converted on 2024/12/26 with esac2hum

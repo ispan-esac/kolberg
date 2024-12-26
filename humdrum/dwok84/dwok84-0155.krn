@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK8415500000-w_czystym_pole_tam_romanko_hore.krn
+!!!OTL: W czystym pole tam Romanko (h)ore
+!!!source: DWOK84
+!!!id: 84155
+!!!signature: 8415500000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8b
+8e
+8g
+16cc
+16a
+=2
+16b
+16g
+8a
+8e
+8g
+=3
+8a
+16g
+16f#
+4e}
+!!LO:LB:g=esac
+=4
+{8g
+8g
+8a
+8g
+=5
+16cc
+16a
+8b
+8e
+16g
+16f#
+=6
+8a
+16g
+16f#
+4e}
+!!LO:LB:g=esac
+=7
+{8e
+8g
+8a
+16cc
+16a
+=8
+16cc
+16a
+8b
+8e
+16g
+16f#
+=9
+8a
+16g
+16f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=216 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 154} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 154}
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

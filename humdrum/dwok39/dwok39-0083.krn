@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK3908300000-matko_matko_matulu_moja.krn
+!!!OTL: Matko, matko, matulu moja
+!!!source: DWOK39
+!!!id: 39083
+!!!signature: 3908300000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4g
+4cc
+4g
+=2
+8cc
+8cc
+8b
+8b
+2cc}
+!!LO:LB:g=esac
+=3
+{8ee
+8ee
+8ee
+8ee
+8ee
+8dd
+8ff
+8ff}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+8dd
+8dd
+8gg
+8gg
+8gg
+8gg}
+!!LO:LB:g=esac
+=5
+{8ff
+8ff
+8ee
+8dd
+4.gg
+8aa
+=6
+8ff
+8ff
+8ee
+8dd
+4cc}
+4r
+!!LO:LB:g=esac
+=7
+{8ee
+8ee
+8ee
+8ee
+8ee
+8dd
+8ff
+8ff}
+!!LO:LB:g=esac
+=8
+{8dd
+8dd
+8dd
+8dd
+8gg
+8gg
+8gg
+8gg}
+!!LO:LB:g=esac
+=9
+{8ff
+8ff
+8ee
+8dd
+4.gg
+8aa
+=10
+8ff
+8ff
+8ee
+8dd
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 140} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 140}
+!!!page: 140
+!!!ONB: Converted on 2024/12/26 with esac2hum

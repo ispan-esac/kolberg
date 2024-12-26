@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK7628000000-alboz_my_tacy_jacy_tacy.krn
+!!!OTL: Alboż my tacy jacy, tacy
+!!!source: DWOK76
+!!!id: 76280
+!!!signature: 7628000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8dd
+8cc#
+8ee
+8dd
+=3
+8dd
+8cc#
+8ee
+8dd}
+!!LO:LB:g=esac
+=4
+{8dd
+8cc#
+4cc
+=5
+8b
+4b
+8g
+=6
+8a
+8b
+8.cc
+16f#
+=7
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 143} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 143}
+!!!page: 143
+!!!ONB: Converted on 2024/12/26 with esac2hum

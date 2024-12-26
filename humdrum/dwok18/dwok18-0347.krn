@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1834700000-szla_sierotka_po_wsi.krn
+!!!OTL: Szła sierotka po wsi
+!!!source: DWOK18
+!!!id: 18347
+!!!signature: 1834700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+8r
+{8g
+8a
+=2
+8b
+8a
+8g
+=3
+8b
+4a
+=4
+8r
+8a
+8cc
+=5
+8b
+8a
+8g
+=6
+8f#
+4g}
+!!LO:LB:g=esac
+=7
+8r
+{8g
+8a
+=8
+8b
+8a
+8g
+=9
+8b
+4a
+=10
+8r
+8a
+8cc
+=11
+8b
+8a
+8g
+=12
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 188} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1321300001-a_gdziez_mi_sie_to_podzialy.krn
+!!!OTL: A gdzież mi się to podziały
+!!!source: DWOK13
+!!!id: 13213
+!!!signature: 1321300001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+8ee
+=2
+16dd
+16b
+8g
+8g
+=3
+16g
+16b
+8dd
+8ff
+=4
+16dd
+16cc
+8gg
+8dd}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8ee
+8ee
+=6
+16dd
+16b
+16g
+16a
+8g
+=7
+16g
+16b
+8dd
+8ff
+=8
+16dd
+16ee
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 106} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 106}
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

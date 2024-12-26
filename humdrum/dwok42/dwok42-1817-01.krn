@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK42181700001-wysoki_ganecek.krn
+!!!OTL: Wysoki ganecek
+!!!source: DWOK42
+!!!id: 421817
+!!!signature: 42181700001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+4ee
+=2
+8b
+4dd
+8cc
+=3
+8ee
+8dd
+4ee
+=4
+8cc
+4a
+8e}
+!!LO:LB:g=esac
+=5
+{8b
+8e
+4g
+=6
+8b
+4dd
+8cc
+=7
+8ee
+8dd
+4ee
+=8
+8cc
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=231 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 222} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 222}
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

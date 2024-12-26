@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4452100000-janiczku_luteran.krn
+!!!OTL: Janiczku, luteran
+!!!source: DWOK44
+!!!id: 44521
+!!!signature: 4452100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4dd
+4cc
+=2
+8b
+8b
+2a}
+!!LO:LB:g=esac
+=3
+{4ee
+4ee
+4dd
+=4
+8cc
+8cc
+2b}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4cc
+=6
+8b
+8b
+2a}
+!!LO:LB:g=esac
+=7
+{4cc
+4b
+4a
+=8
+8g
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=348 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 292} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 292}
+!!!page: 292
+!!!ONB: Converted on 2024/12/26 with esac2hum

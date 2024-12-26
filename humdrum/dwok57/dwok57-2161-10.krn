@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK57216100010-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK57
+!!!id: 572161
+!!!signature: 57216100010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8ee
+4ee
+=2
+16b
+16g
+16b
+16dd
+16cc
+16b
+16cc
+16ee
+=3
+8g
+8ee
+8ee
+8ee
+=4
+16b
+16g
+16b
+16dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8g
+8ee
+8g
+8ee
+=6
+16ff
+16ee
+16ff
+16dd
+8ee
+8ee
+=7
+8g
+8ee
+8g
+8ee
+=8
+16ff
+16ee
+16ff
+16dd
+4ee}
+==
+*-
+!!!ONB: Liczne dwudźwięki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1206
+!!!ONB: Converted on 2024/12/26 with esac2hum

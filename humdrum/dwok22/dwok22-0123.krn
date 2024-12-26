@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK2212300000-przyjechal_przyjechal_przed_moje_wrota.krn
+!!!OTL: Przyjechał przyjechał przed moje wrota
+!!!source: DWOK22
+!!!id: 22123
+!!!signature: 2212300000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{4dd
+8ee
+8cc#
+=2
+4dd
+8ee
+8cc#
+=3
+4cc
+8a
+8b
+=4
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8a
+8a
+=6
+8d
+8f#
+8a
+8a
+=7
+8cc
+8cc
+8a
+8b
+=8
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=9
+{4dd
+8ee
+8cc#
+=10
+4dd
+8ee
+8cc#
+=11
+4cc
+8a
+8b
+=12
+8g
+8f#
+4d}
+!!LO:LB:g=esac
+=13
+{8d
+8f#
+4a
+=14
+8d
+8f#
+4a
+=15
+4cc
+8a
+8b
+=16
+8g
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 86} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 86}
+!!!page: 86
+!!!ONB: Converted on 2024/12/26 with esac2hum

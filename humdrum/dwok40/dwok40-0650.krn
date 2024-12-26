@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK4065000000-moje_kochanie_me_zle_spotkanie.krn
+!!!OTL: Moje kochanie, me złe spotkanie
+!!!source: DWOK40
+!!!id: 40650
+!!!signature: 4065000000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=1
+{8b-
+8dd
+8cc
+8dd
+4a
+4r
+=2
+8b-
+8dd
+8cc
+8dd
+4a}
+4r
+!!LO:LB:g=esac
+=3
+{4cc
+8b-
+8a
+8g
+8g
+4f
+=4
+8g
+8b-
+8a
+8b-
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=645 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 578} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 578}
+!!!page: 578
+!!!ONB: Converted on 2024/12/26 with esac2hum

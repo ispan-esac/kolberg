@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK2312700000-wyje_golabek_na_onej_gorze.krn
+!!!OTL: Wyje gołąbek na onej górze
+!!!source: DWOK23
+!!!id: 23127
+!!!signature: 2312700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8dd
+8ee
+=2
+8dd
+8cc
+8a
+8g
+=3
+8b
+8b
+8cc
+16a
+16f#
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{4b
+8a
+8cc
+=6
+8dd
+8cc
+4a
+=7
+8g
+8b
+8cc
+8a
+=8
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 152} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 152}
+!!!page: 152
+!!!ONB: Converted on 2024/12/26 with esac2hum

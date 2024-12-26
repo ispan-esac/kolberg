@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK7509400000-oj_zeby_nie_kowale.krn
+!!!OTL: Oj, zeby nie kowale
+!!!source: DWOK75
+!!!id: 75094
+!!!signature: 7509400000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{4dd
+4dd
+4ff
+=2
+8ff
+8ee-
+4dd
+4b-
+=3
+4dd
+4dd
+4cc
+=4
+8a
+8f
+4g
+4b-}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+8cc
+8dd
+=6
+4ee-
+4cc
+4b-
+=7
+4b-
+4dd
+4cc
+=8
+8a
+8f
+4g
+4b-}
+!!LO:LB:g=esac
+=9
+{4ff
+4dd
+4ff
+=10
+8ff
+8ee-
+4dd
+4b-
+=11
+4ff
+8ee-
+8dd
+8cc
+8b-
+=12
+8a
+8f
+4g
+4b-}
+!!LO:LB:g=esac
+=13
+{2b-
+4cc
+=14
+8cc
+8ee-
+8dd
+8a
+8b-
+8f
+=15
+4dd
+8ee-
+8dd
+8cc
+8a
+=16
+8a
+8f
+4g
+4b-}
+==
+*-
+!!!ONB: Wariant t. 3: 1_1_2_; wariant t. 10: 543_13
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 64} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 64}
+!!!page: 64
+!!!ONB: Converted on 2024/12/26 with esac2hum

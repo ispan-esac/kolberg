@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2117400000-a_pojde_ja_rano_do_lasa.krn
+!!!OTL: A pojdę ja rano do lasa
+!!!source: DWOK21
+!!!id: 21174
+!!!signature: 2117400000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M3/4
+{8cc
+8cc
+4ee
+8dd
+8b
+=2
+8cc
+8cc
+8dd
+8b
+4g
+=3
+8cc
+8ee
+4gg
+8dd
+8b
+=4
+8cc
+8ee
+8dd
+8b
+4g}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8cc
+8cc
+8b
+8g
+=6
+4cc
+8ee
+8dd
+=7
+8cc
+8cc
+8b
+8g
+=8
+4cc
+8ee
+8dd}
+!!LO:LB:g=esac
+=9
+*M3/4
+{8cc
+8cc
+8dd
+8b
+4g
+=10
+8cc
+8ee
+8dd
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 83} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

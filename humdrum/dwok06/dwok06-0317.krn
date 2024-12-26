@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0317-kajs_byla_dorotko.krn
+!!!OTL: Kajs byla Dorotko
+!!!source: DWOK06
+!!!id: K0317
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16b
+8b
+8b
+=2
+8cc
+4a
+=3
+16dd
+16b
+8b
+8b
+=4
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8a
+8a
+=6
+16a
+16a
+8.b
+16a
+=7
+16g
+16e
+8e
+8e
+=8
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 160} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

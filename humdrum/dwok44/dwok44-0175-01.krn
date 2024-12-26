@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4417500001-ojze_ino_bockiem_bockiem.krn
+!!!OTL: Ojze ino bockiem bockiem
+!!!source: DWOK44
+!!!id: 44175
+!!!signature: 4417500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.g
+16ee
+8ee
+8ee
+=2
+8ee
+8dd
+8ee
+8dd}
+!!LO:LB:g=esac
+=3
+{8ee
+8dd
+8g
+8a
+=4
+8.a
+16g
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{8.g
+16g
+8g
+8a
+=6
+8a
+8g
+8cc
+8b}
+!!LO:LB:g=esac
+=7
+{8cc
+8b-
+8b-
+8a
+=8
+8a
+8g
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 187} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

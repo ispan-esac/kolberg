@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK8100100020-pustyt_do_chaty.krn
+!!!OTL: Pustyt do chaty
+!!!source: DWOK81
+!!!id: 81001
+!!!signature: 8100100020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8cc
+16b
+16a
+8a
+8dd
+=2
+8cc
+16b
+16a
+8a
+8g
+=3
+8cc
+16b
+16a
+8a
+8dd
+=4
+8cc
+16b
+16a
+8a
+8g}
+==
+*-
+!!!ONB: Melodia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 4} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 4}
+!!!page: 4
+!!!ONB: Converted on 2024/12/26 with esac2hum

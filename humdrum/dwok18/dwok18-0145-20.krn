@@ -1,0 +1,37 @@
+!!!!SEGMENT: DWOK1814500020-instrumentalna_-_polinoz.krn
+!!!OTL: Instrumentalna - Polinoz
+!!!source: DWOK18
+!!!id: 18145
+!!!signature: 1814500020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.cc
+16a
+8b
+8g
+=2
+8a
+8f#
+8g
+16a
+16b
+=3
+8.cc
+16a
+8b
+8g
+=4
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 107} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

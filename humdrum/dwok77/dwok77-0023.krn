@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK7702300000-oj_zielona_wierzbino.krn
+!!!OTL: Oj zielona wierzbino
+!!!source: DWOK77
+!!!id: 77023
+!!!signature: 7702300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8a
+8b
+8a
+=2
+4g
+4cc
+=3
+4.b
+8g}
+!!LO:LB:g=esac
+=4
+{8a
+8a
+8b
+8a
+=5
+4g
+4f#
+=6
+2g}
+==
+*-
+!!!ONB: Przed oczepinami
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 38
+!!!ONB: Converted on 2024/12/26 with esac2hum

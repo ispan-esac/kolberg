@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK57119800000-aby_si_my_daj_wydyty.krn
+!!!OTL: Aby si my daj wydyty
+!!!source: DWOK57
+!!!id: 571198
+!!!signature: 57119800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.ff
+16ee
+8dd
+8cc
+=2
+8gg
+8gg
+8gg
+8gg
+=3
+8ff
+8ee
+16ee
+16ff
+8ee
+=4
+4gg
+4gg}
+!!LO:LB:g=esac
+=5
+{8.ff
+16ee
+8.ff
+16ee
+=6
+8gg
+8gg
+8gg
+8gg
+=7
+32ff
+16.ee
+8ee
+32dd
+16.ee
+8b
+=8
+4cc
+4cc}
+==
+*-
+!!!ONB: Wariant t. 5: +4_+3_+3__+4_+3_+3__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 320
+!!!ONB: Converted on 2024/12/26 with esac2hum

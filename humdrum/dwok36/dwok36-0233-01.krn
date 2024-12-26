@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3623300001-poszow_poszow_mij_mylejki.krn
+!!!OTL: Poszow poszow mij myłejki
+!!!source: DWOK36
+!!!id: 36233
+!!!signature: 3623300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+4a
+8dd
+8dd
+=2
+8b
+8a
+4g
+4e
+=3
+8g
+8g
+4a
+8dd
+8dd
+=4
+8cc
+8dd
+2ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8b
+8a
+8dd
+8dd
+=6
+8b
+8a
+4g
+4e
+=7
+8e
+8e
+8e
+8cc
+8b
+8dd
+=8
+8b
+8dd
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 132-133
+!!!ONB: Converted on 2024/12/26 with esac2hum

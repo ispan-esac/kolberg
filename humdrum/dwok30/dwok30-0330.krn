@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK3033000000-a_u_nowej_switlonci.krn
+!!!OTL: A u nowej świtłońci
+!!!source: DWOK30
+!!!id: 30330
+!!!signature: 3033000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16cc
+8.a
+16g#
+8g#
+16e
+=2
+16a
+8.b
+16cc
+16b
+16cc
+16a
+=3
+16a
+8.a
+16g#
+8g#
+16e
+=4
+16a
+8.b
+4cc}
+!!LO:LB:g=esac
+=5
+{16cc
+8.cc
+16dd
+8.dd
+=6
+2ee
+=7
+8.ee
+32cc
+32a
+8ee
+8g#
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 178} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 178}
+!!!page: 178
+!!!ONB: Converted on 2024/12/26 with esac2hum

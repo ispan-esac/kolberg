@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1922300001-oj_zajeto_zajeto.krn
+!!!OTL: Oj zajęto, zajęto
+!!!source: DWOK19
+!!!id: 19223
+!!!signature: 1922300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+8dd
+8ee
+8dd
+=3
+16cc
+16ee
+8dd
+8b
+=4
+8dd
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8dd
+=6
+8g
+8b
+8a
+=7
+16.b
+32a
+16b
+16cc
+8dd
+=8
+8g
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 70} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

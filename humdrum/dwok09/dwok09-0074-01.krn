@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK0907400001-dolina_dolina_za_nia_woda_wodzi.krn
+!!!OTL: Dolina dolina, za nią woda wodzi
+!!!source: DWOK09
+!!!id: 09074
+!!!signature: 0907400001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4.f
+8b-
+=2
+4a
+2f
+=3
+8a
+8b-
+4.cc
+8ff
+=4
+4ee
+2cc}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8cc
+8ff
+16ff
+16ee
+8cc
+=6
+8b-
+8a
+8f
+8b-
+16a
+16f
+8e
+=7
+8f
+8a
+4.f
+8b-
+=8
+4a
+2f}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8cc
+8ff
+16ff
+16ee
+8cc
+=10
+8b-
+8a
+8f
+8b-
+16a
+16f
+8e
+=11
+8f
+8a
+4.f
+8b-
+=12
+4a
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 219} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 219}
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

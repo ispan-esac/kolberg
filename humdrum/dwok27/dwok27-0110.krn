@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2711000000-w_polu_ogrodecek.krn
+!!!OTL: W polu ogrodecek
+!!!source: DWOK27
+!!!id: 27110
+!!!signature: 2711000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8g
+8b
+=2
+4dd
+4g
+=3
+8cc
+8dd
+8ee
+8gg
+=4
+4dd
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+8a
+4cc
+=6
+8b
+8cc
+4dd
+=7
+8a
+8b
+8cc
+8a
+=8
+8a
+8g
+4b}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+8g
+8b
+=10
+4dd
+4g
+=11
+8cc
+8dd
+8ee
+8gg
+=12
+4dd
+4b}
+!!LO:LB:g=esac
+=13
+{8cc
+8cc
+4cc
+=14
+8b
+8cc
+4dd
+=15
+8a
+8b
+8cc
+8a
+=16
+4g
+4g}
+==
+*-
+!!!ONB: Podane metrum 3/4 zapisano poprawnie na 2/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=218 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 199} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

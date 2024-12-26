@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK7756000000-ojze_leci_mi_leci_mi.krn
+!!!OTL: Ojze leci mi leci mi
+!!!source: DWOK77
+!!!id: 77560
+!!!signature: 7756000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8.cc
+16ee
+=2
+16ee
+16dd
+8b
+8dd
+=3
+16ff#
+16aa
+8.gg
+16ee
+=4
+8cc
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8.cc
+16ee
+=6
+8dd
+8b
+8g
+=7
+16a
+16b
+8.cc
+16d
+=8
+8f#
+8a
+8g}
+!!LO:LB:g=esac
+=9
+{16g
+16b
+8.cc
+16ee
+=10
+16ee
+16dd
+8b
+8dd
+=11
+16ff#
+16aa
+8.gg
+16ee
+=12
+8cc
+8cc
+8a}
+==
+*-
+!!!ONB: takt 1-4: 1234_6_  653_.1  776_6_  (565)3_.1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 288
+!!!ONB: Converted on 2024/12/26 with esac2hum

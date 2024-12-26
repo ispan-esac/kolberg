@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2527600000-a_na_polu_byliczenka.krn
+!!!OTL: A na polu byliczeńka
+!!!source: DWOK25
+!!!id: 25276
+!!!signature: 2527600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8cc
+4.ee
+8cc
+=2
+8ee
+8dd
+4b
+4g
+=3
+4gg
+4ee
+8gg
+8gg
+=4
+4ff#
+2dd}
+!!LO:LB:g=esac
+=5
+{8ff#
+8ff#
+4.ee
+8cc
+=6
+8ee
+8dd
+4b
+4g
+=7
+4cc
+4ee
+8b
+8dd
+=8
+4cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 121} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 121}
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

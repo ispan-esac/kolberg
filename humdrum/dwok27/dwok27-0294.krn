@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK2729400000-wsiad_na_wronego_konika.krn
+!!!OTL: Wsiad na wronego konika
+!!!source: DWOK27
+!!!id: 27294
+!!!signature: 2729400000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4cc
+4cc
+4ee
+=2
+8dd
+8cc
+8b
+8a
+4g
+4g
+=3
+8e
+8d
+8e
+8f
+4a
+4a
+=4
+2g
+2g}
+!!LO:LB:g=esac
+=5
+{4cc
+4g
+4cc
+4ee
+=6
+8dd
+8cc
+8b
+8a
+4g
+4f
+=7
+8e
+8d
+8e
+8f
+4a
+4a
+=8
+2g
+2e}
+!!LO:LB:g=esac
+=9
+{4c
+4e
+4e
+4g
+=10
+8e
+8f
+8g
+8a
+4g
+4g
+=11
+4b
+4cc
+4dd
+8cc
+8b
+=12
+2cc
+2ee}
+!!LO:LB:g=esac
+=13
+{4e
+4e
+4e
+4g
+=14
+8e
+8f
+8g
+8a
+4g
+4g
+=15
+4b
+4cc
+4dd
+8cc
+8b
+=16
+2cc
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=317 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 298} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 298}
+!!!page: 298
+!!!ONB: Converted on 2024/12/26 with esac2hum

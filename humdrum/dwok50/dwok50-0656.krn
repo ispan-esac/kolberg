@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK5065600000-o_gwiazdeczko_cos_jasniala.krn
+!!!OTL: O gwiazdeczko, coś jaśniała
+!!!source: DWOK50
+!!!id: 50656
+!!!signature: 5065600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8cc
+4b
+4a
+=2
+8ee
+8ee
+4ff
+4ee
+=3
+8b
+8b
+4cc
+4b
+=4
+2.a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4b
+4a
+=6
+8ee
+8ee
+4ff
+4ee
+=7
+8b
+8b
+4cc
+4b
+=8
+2.a}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+4a
+4g
+=10
+8cc
+8cc
+4b
+4cc
+=11
+8dd
+8dd
+4gg
+4ff
+=12
+2.ee}
+!!LO:LB:g=esac
+=13
+{8cc
+8cc
+4b
+4a
+=14
+8ee
+8ee
+4ff
+4ee
+=15
+8b
+8b
+4cc
+4b
+=16
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=430 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 397} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 397}
+!!!page: 397
+!!!ONB: Converted on 2024/12/26 with esac2hum

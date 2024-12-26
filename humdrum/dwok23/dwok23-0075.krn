@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2307500000-za_coz_mnie_moj_jezu.krn
+!!!OTL: Za cóż mnie mój Jezu
+!!!source: DWOK23
+!!!id: 23075
+!!!signature: 2307500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+8dd
+8cc#
+=2
+16dd
+16ee
+4dd
+=3
+16ee
+16dd
+8cc#
+8b
+=4
+8dd
+4a}
+!!LO:LB:g=esac
+=5
+{16a
+16ee
+4dd
+=6
+16cc#
+16a
+8b
+8g
+=7
+16g
+16a
+8b
+8dd
+=8
+8cc#
+4a}
+!!LO:LB:g=esac
+=9
+{16a
+16ee
+4dd
+=10
+16cc#
+16a
+8b
+8g
+=11
+16g
+16a
+8b
+8dd
+=12
+8cc#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=139 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 125} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 125}
+!!!page: 125
+!!!ONB: Converted on 2024/12/26 with esac2hum

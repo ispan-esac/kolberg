@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK8304100002-woj_dalek-zeste_-_wariant_1._frazy.krn
+!!!OTL: Wój, dałek'-żeste - wariant 1. frazy
+!!!source: DWOK83
+!!!id: 83041
+!!!signature: 8304100002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+16ee
+16dd
+8ff
+=2
+8ff
+4ee
+=3
+8gg
+8ff
+8ee
+=4
+16dd
+16cc
+8ee
+8dd
+=5
+16dd
+16b
+4cc
+=6
+16cc
+16g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 56} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK4908100000-na_nebesnoj_hori_pry_swiatom_sobori.krn
+!!!OTL: Na nebesnoj hori pry swiatom sobori
+!!!source: DWOK49
+!!!id: 49081
+!!!signature: 4908100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8a
+8b
+8cc
+4.dd
+8ee
+=2
+8cc
+8cc
+8cc
+8cc
+8dd
+8cc
+4b}
+!!LO:LB:g=esac
+=3
+{8g
+8a
+8b
+8cc
+4.dd
+8ee
+=4
+8cc
+8cc
+8cc
+8cc
+8dd
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+8cc#
+8dd
+8g
+8a
+8g
+=6
+8b
+8dd
+8dd
+8cc#
+8dd
+8g
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+8dd
+8cc
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=251 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 171} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 171}
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

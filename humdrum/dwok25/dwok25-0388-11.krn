@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2538800011-da_i_nimaz_ci_to_nima.krn
+!!!OTL: Da i nimaz ci to nima
+!!!source: DWOK25
+!!!id: 25388
+!!!signature: 2538800011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16dd
+8b
+8gg
+=2
+16ee
+16ee
+8cc
+8a
+=3
+16f#
+16f#
+8a
+8ee
+=4
+16ee
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8.dd
+16b
+16cc
+16a
+=6
+16g
+16b
+8dd
+8gg
+=7
+16ff#
+16ee
+8ff#
+8dd
+=8
+16ee
+16dd
+8b
+8g}
+==
+*-
+!!!ONB: W takcie trzecim wg zapisu Kolberga jest -7-72_6  a powinno być -7-72_6_, poprawiony zapis uwzględniono
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. } @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. }
+!!!ONB: Converted on 2024/12/26 with esac2hum

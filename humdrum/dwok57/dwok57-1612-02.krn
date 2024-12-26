@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK57161200002-oj_zacwyla_kalynonka_w_luzi.krn
+!!!OTL: Oj, zacwyła kałynońka w łuzi
+!!!source: DWOK57
+!!!id: 571612
+!!!signature: 57161200002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4.ee
+8cc
+=2
+8ee
+8ee
+8dd
+8cc
+8ee
+8ee}
+!!LO:LB:g=esac
+=3
+{8dd#
+16dd#
+16a
+8cc
+8g#
+4a
+=4
+8a
+8cc
+8dd
+8a
+8ee
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd#
+16dd#
+16a
+8cc
+8g#
+4a
+=6
+8ee
+8ee
+8dd#
+8a
+8cc
+8g#
+=7
+2a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 673
+!!!ONB: Converted on 2024/12/26 with esac2hum

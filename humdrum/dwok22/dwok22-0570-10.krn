@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2257000010-da_dalas_geby_za_trzy_grosze.krn
+!!!OTL: Da dałaś gęby za trzy grosze
+!!!source: DWOK22
+!!!id: 22570
+!!!signature: 2257000010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8ee
+16dd
+16cc
+16g
+16b
+=2
+16a
+16cc
+8dd
+8ff#
+=3
+8ee
+16dd
+16cc
+16g
+16b
+=4
+16a
+16g
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+16dd
+16cc
+16g
+16b
+=6
+16a
+16cc
+8dd
+16a
+16g
+=7
+8a
+16dd
+16cc
+16g
+16b
+=8
+16a
+16g
+8f#
+8g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=272 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 254} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 254}
+!!!page: 254
+!!!ONB: Converted on 2024/12/26 with esac2hum

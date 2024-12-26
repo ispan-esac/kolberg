@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2907200000-naszu_perepelku_ta_holowka_bolyt.krn
+!!!OTL: Naszu perepełku ta hołowka bolyt
+!!!source: DWOK29
+!!!id: 29072
+!!!signature: 2907200000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8e
+8b
+8b
+8b
+=2
+4a
+8a
+8b
+=3
+8e
+8g
+16g
+16f#
+8g
+=4
+4e
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{8e
+8g
+16g
+16f#
+8g
+=6
+4e
+8e
+8e}
+!!LO:LB:g=esac
+=7
+{4b
+16b
+16cc
+8b
+=8
+4a
+8a
+8b
+=9
+8e
+8g
+4g
+=10
+4e
+4g}
+!!LO:LB:g=esac
+=11
+{8e
+8g
+4g
+=12
+4e
+4e}
+==
+*-
+!!!ONB: Perepełki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 172} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 172}
+!!!page: 172
+!!!ONB: Converted on 2024/12/26 with esac2hum

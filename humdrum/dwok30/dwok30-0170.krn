@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK3017000000-tecze_woda_berehamy.krn
+!!!OTL: Tecze woda berehamy
+!!!source: DWOK30
+!!!id: 30170
+!!!signature: 3017000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8dd
+8dd
+8dd
+16cc
+16a
+=2
+8b
+8cc
+8b
+16a
+16cc
+=3
+8b
+8cc
+8b
+8cc
+=4
+8b
+32a
+32b
+32cc
+32b
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+16cc
+16a
+=6
+8b
+8cc
+8b
+16a
+16cc
+=7
+8b
+8dd
+8a
+16g#
+16e
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 111} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 111}
+!!!page: 111
+!!!ONB: Converted on 2024/12/26 with esac2hum

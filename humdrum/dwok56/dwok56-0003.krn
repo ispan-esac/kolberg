@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK5600300000-biega_maryja_biezacy.krn
+!!!OTL: Biega Maryja bieżący
+!!!source: DWOK56
+!!!id: 56003
+!!!signature: 5600300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4b
+4b
+4dd
+=2
+4cc
+8cc
+8a
+4b}
+4r
+!!LO:LB:g=esac
+=3
+{4g
+4b
+4b
+4dd
+=4
+4cc
+8cc
+8a
+4b}
+4r
+!!LO:LB:g=esac
+=5
+{4b
+4b
+4.a
+8g
+=6
+4f#
+4g
+4a
+4dd}
+!!LO:LB:g=esac
+=7
+{4b
+4dd
+4.a
+8g
+=8
+8f#
+8e
+8f#
+8g
+4a
+4dd}
+!!LO:LB:g=esac
+=9
+{4b
+8a
+8a
+4g}
+4r
+==
+*-
+!!!ONB: Wariant t. 9: 3_421_0_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 61} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 61}
+!!!page: 61
+!!!ONB: Converted on 2024/12/26 with esac2hum

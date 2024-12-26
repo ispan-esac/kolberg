@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK1900700020-a_toc_ja_krakowiacek.krn
+!!!OTL: A toć ja Krakowiacek
+!!!source: DWOK19
+!!!id: 19007
+!!!signature: 1900700020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+16g
+16b
+4dd
+=2
+8b
+16g
+16b
+4dd
+=3
+8dd
+4b
+8ee
+=4
+8dd
+8b
+8ee
+8cc#
+=5
+8dd
+8b
+8ee
+8cc#}
+!!LO:LB:g=esac
+=6
+{8dd
+4b
+8ee
+=7
+8cc#
+4dd
+8b
+=8
+16dd
+16cc#
+8cc#
+8.a
+16cc
+=9
+16cc
+16b
+4b
+8g}
+!!LO:LB:g=esac
+=10
+{16g
+16f#
+8f#
+8.d
+16f#
+=11
+16g
+16b
+4b
+8g
+=12
+16g
+16f#
+8f#
+8.d
+16f#
+=13
+16a
+16g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=20 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 6} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 6}
+!!!page: 6
+!!!ONB: Converted on 2024/12/26 with esac2hum

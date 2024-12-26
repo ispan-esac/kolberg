@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK2326700000-maria_maria_ave_amabilis.krn
+!!!OTL: Maria Maria ave amabilis
+!!!source: DWOK23
+!!!id: 23267
+!!!signature: 2326700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{4cc
+4cc
+4b-
+=2
+4.a
+8b-
+4cc
+=3
+4b-
+4b-
+4b-
+=4
+8a
+8g
+2g}
+!!LO:LB:g=esac
+=5
+{4cc
+4cc
+4b-
+=6
+4.a
+8b-
+4cc
+=7
+4b-
+4b-
+4b-
+=8
+8a
+8g
+2g}
+!!LO:LB:g=esac
+=9
+{4a
+4g
+4a
+=10
+4.b-
+8a
+4a
+=11
+8cc
+8b-
+4a
+4g
+=12
+2.f}
+!!LO:LB:g=esac
+=13
+{4g
+4g
+4a
+=14
+4.b-
+8a
+4b-
+=15
+4g
+4g
+4a
+=16
+4.b-
+8a
+4b-}
+!!LO:LB:g=esac
+=17
+{4cc
+4cc
+4b-
+=18
+4.a
+8b-
+4cc
+=19
+4a
+4a
+4g
+=20
+2.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 253} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 253}
+!!!page: 253
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK18265a0010-pamietas_ty_chlopku.krn
+!!!OTL: Pamiętas ty chłopku
+!!!source: DWOK18
+!!!id: 18265a
+!!!signature: 18265a0010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16a
+8a
+8b
+=2
+8cc
+4cc
+=3
+16a
+16a
+8a
+8b
+=4
+8cc
+4cc}
+!!LO:LB:g=esac
+=5
+{4ee
+8ee
+=6
+16dd
+16cc
+8b
+8a
+=7
+16g#
+16a
+8b
+8cc
+=8
+8b
+4a}
+=9
+4.r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 153} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 153}
+!!!page: 153
+!!!ONB: Converted on 2024/12/26 with esac2hum

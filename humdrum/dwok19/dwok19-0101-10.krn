@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK1910100010-a_kto_slysy_a_kto_golsy.krn
+!!!OTL: A kto śłysy, a kto gołśy
+!!!source: DWOK19
+!!!id: 19101
+!!!signature: 1910100010
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8ee-
+8dd
+8b-
+8b-
+=2
+8cc
+8cc
+8dd
+8ff
+=3
+16dd
+16ee-
+8gg
+8dd
+8b-
+=4
+8cc
+8a
+8b-
+8b-}
+!!LO:LB:g=esac
+=5
+{8ee-
+8dd
+8b-
+8b-
+=6
+8cc
+8cc
+8a
+8b-
+=7
+16cc
+16dd
+16ee-
+16cc
+16b-
+16cc
+16dd
+16b-
+=8
+8a
+8a
+8b-
+8b-}
+==
+*-
+!!!ONB: Goniony
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 35} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 35}
+!!!page: 35
+!!!ONB: Converted on 2024/12/26 with esac2hum

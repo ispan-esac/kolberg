@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2545300010-a_pomalutku_z_moja.krn
+!!!OTL: A pomalutku z moją
+!!!source: DWOK25
+!!!id: 25453
+!!!signature: 2545300010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+32dd
+32cc#
+8a
+8cc
+=2
+16dd
+16cc#
+8a
+8g
+=3
+16g
+32dd
+32cc#
+8b
+16g
+16f#
+=4
+8d
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{16b
+32a
+32b
+8cc
+16a
+16f#
+=6
+16cc#
+16cc#
+8dd
+16b
+16g
+=7
+16g
+32a
+32b
+8cc
+16a
+16f#
+=8
+8d
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 189} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

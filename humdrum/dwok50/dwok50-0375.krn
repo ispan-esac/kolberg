@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK5037500000-sluzylzem_ja_przy_dworze.krn
+!!!OTL: Służyłzem ja przy dworze
+!!!source: DWOK50
+!!!id: 50375
+!!!signature: 5037500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{4g
+8b
+4dd
+8cc
+=2
+8b
+4dd
+4.g}
+!!LO:LB:g=esac
+=3
+{4cc
+8b
+4a
+8d
+=4
+8g
+8a
+8b
+8g
+8a
+8b}
+!!LO:LB:g=esac
+=5
+{4cc
+8b
+4a
+8ee
+=6
+4dd
+8f#
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 202} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 202}
+!!!page: 202
+!!!ONB: Converted on 2024/12/26 with esac2hum

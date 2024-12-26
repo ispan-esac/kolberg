@@ -1,0 +1,122 @@
+!!!!SEGMENT: DWOK0601100002-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK06
+!!!id: K0011a
+!!!signature: 0601100002
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16b-
+16dd
+8ee-
+16ee-
+16dd
+=2
+8ff
+4ff
+=3
+16ff
+16gg
+16ff
+16ee-
+16cc
+16ee-
+=4
+8cc
+8ee-
+16dd
+16cc}
+!!LO:LB:g=esac
+=5
+{16b-
+16dd
+8ee-
+16ee-
+16dd
+=6
+8ff
+16ee-
+16dd
+16cc
+16a
+=7
+4.b-}
+!!LO:LB:g=esac
+=8
+{8cc
+8cc
+16cc
+16dd
+=9
+8ee-
+4ee-
+=10
+16ee-
+16ff
+8ee-
+8dd
+=11
+4.cc}
+!!LO:LB:g=esac
+=12
+{16cc
+16cc
+8ee-
+16ee-
+16dd
+=13
+8ff
+16ee-
+16dd
+16cc
+16a
+=14
+4b-
+8b-}
+!!LO:LB:g=esac
+=15
+{8cc
+16f
+16a
+16cc
+16dd
+=16
+8ee-
+4cc
+=17
+8cc
+8ee-
+8dd
+=
+8cc
+24a
+24g
+24f
+8e-}
+!!LO:LB:g=esac
+=18
+{16cc
+16cc
+8ee-
+16ee-
+16dd
+=19
+8ff
+16ee-
+16dd
+16cc
+16a
+=20
+4b-
+8b-}
+==
+*-
+!!!ONB: Oberek?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 16} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

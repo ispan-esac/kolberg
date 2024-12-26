@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2239500000-sroka_skrzeczy_pod_olszyna.krn
+!!!OTL: Sroka skrzeczy pod olszyną
+!!!source: DWOK22
+!!!id: 22395
+!!!signature: 2239500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16e
+16g
+8b
+8b
+=
+16b
+16dd
+8ee
+24dd
+24cc
+24b
+=2
+16a
+16a
+8a
+8cc
+=
+24a
+24cc
+24ee
+8ff#
+24dd
+24b
+24g}
+!!LO:LB:g=esac
+=3
+{16e
+16e
+8g
+8g
+=4
+16g
+16b
+8ee
+16dd
+16b
+=5
+16a
+16a
+8a
+8a
+=
+24b
+24cc
+24a
+8b
+16g
+16e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 202} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 202}
+!!!page: 202
+!!!ONB: Converted on 2024/12/26 with esac2hum

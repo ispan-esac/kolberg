@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK5651200001-piszlu_sokola.krn
+!!!OTL: Piszlu sokoła
+!!!source: DWOK56
+!!!id: 56512
+!!!signature: 5651200001
+**kern
+*clefG2
+*k[b-]
+*d:
+*MX
+=1
+{8dd
+8ff
+4ff
+4dd
+16ff
+16gg
+16ff
+16dd
+4ee
+8ee}
+!!LO:LB:g=esac
+=2
+{8dd
+8ff
+4gg
+16ff
+16gg
+16ff
+16ee
+8ff
+8dd
+16ee
+16ff
+16ee
+16ff
+16dd
+8dd
+8dd}
+!!LO:LB:g=esac
+=3
+{8ee
+8dd
+8ff
+8ff
+16ee
+16ff
+16ee
+16cc
+4dd
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=473 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 369-370} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, pp. 369-370}
+!!!page: 369-370
+!!!ONB: Converted on 2024/12/26 with esac2hum

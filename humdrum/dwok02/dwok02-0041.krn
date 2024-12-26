@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK02-K0041-na_pirse_zaloty.krn
+!!!OTL: Na pirse zaloty
+!!!source: DWOK02
+!!!id: K0041
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16e
+16f#
+8g#
+8e
+=2
+8a
+8.cc
+16a
+=3
+16b
+16dd
+8dd
+8dd
+=4
+8ee
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{16b
+16g#
+8e
+16f#
+16g#
+=6
+8a
+8cc
+8g#
+=7
+8a
+4r
+=8
+8a
+8ee
+8b
+=9
+8a}
+4r
+!!LO:LB:g=esac
+=10
+{16b
+16g#
+8e
+16f#
+16g#
+=11
+8a
+8cc
+8g#
+=12
+8a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 46} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 46}
+!!!page: 46
+!!!ONB: Converted on 2024/12/26 with esac2hum

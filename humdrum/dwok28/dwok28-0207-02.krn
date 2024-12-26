@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2820700002-dolina_dolina.krn
+!!!OTL: Dolina dolina
+!!!source: DWOK28
+!!!id: 28207
+!!!signature: 2820700002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4cc
+16a
+16b-
+=2
+16.cc
+32cc
+8ff
+16ee
+16dd
+=3
+16.dd
+32cc
+8b-
+16b-
+16a
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+8e
+=6
+8f
+8f
+8f
+=7
+8b-
+8g
+8g
+=8
+8g
+4f}
+==
+*-
+!!!ONB: drugi wers-partia grana na harmonice
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=256 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 237} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 237}
+!!!page: 237
+!!!ONB: Converted on 2024/12/26 with esac2hum

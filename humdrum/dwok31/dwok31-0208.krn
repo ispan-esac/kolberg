@@ -1,0 +1,118 @@
+!!!!SEGMENT: DWOK3120800000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK31
+!!!id: 31208
+!!!signature: 3120800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16cc
+16dd
+16ee
+16dd
+16dd
+16cc
+16cc
+16b
+=2
+16cc
+16b
+16cc
+16ee
+8cc
+16cc
+16a
+=3
+16cc
+16dd
+16ee
+16dd
+16dd
+16cc
+16cc
+16b
+=4
+8b
+8g
+16cc
+16b
+16g
+16d}
+!!LO:LB:g=esac
+=5
+{8g
+4g
+8d
+=
+8g
+4g
+24g
+24a
+24cc
+=6
+16b-
+16a
+4g
+16a
+16f#
+=7
+4g
+4g}
+!!LO:LB:g=esac
+=8
+{16cc
+16dd
+16ee
+16dd
+4dd
+=9
+16cc
+16b
+16cc
+16ee
+8cc
+8cc
+=10
+16cc
+16dd
+16ee
+16dd
+4dd
+=11
+8b
+8g
+16cc
+16b
+16g
+16d}
+!!LO:LB:g=esac
+=12
+{8g
+4g
+8d
+=
+8g
+4g
+24g
+24a
+24cc
+=13
+16b-
+16a
+4g
+16a
+16f#
+=14
+4g
+4g}
+==
+*-
+!!!ONB: Peredok sami chłopcy
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=49 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 28} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 28}
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum

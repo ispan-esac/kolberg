@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1004700002-wesele_jedzie_z_wasowa.krn
+!!!OTL: Wesele jedzie z Wąsowa
+!!!source: DWOK10
+!!!id: 10047
+!!!signature: 1004700002
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{8ee
+8ee
+8dd
+4cc
+8g
+=2
+4ff
+8ee
+4.dd
+=3
+8ee
+8ee
+8dd
+4cc
+8g
+=4
+8a
+8a
+8b
+4.cc}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+8g
+4cc
+8ee
+=6
+4dd
+8b
+8cc
+8cc
+8gg
+=7
+8e
+8e
+8g
+4cc
+8ee
+=8
+4dd
+8b
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 119-120} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, pp. 119-120}
+!!!page: 119-120
+!!!ONB: Converted on 2024/12/26 with esac2hum

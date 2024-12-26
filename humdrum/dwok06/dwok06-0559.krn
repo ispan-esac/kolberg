@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK06-K0559-ach_biedny_ja_ptaszyna.krn
+!!!OTL: Ach biedny ja ptaszyna
+!!!source: DWOK06
+!!!id: K0559
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8cc
+=2
+4cc
+8dd
+=3
+8ee
+4cc}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8dd
+=5
+4dd
+8ee
+=6
+8ff
+4dd}
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+8ee
+=8
+4ee
+8ff
+=9
+8gg
+4ee}
+!!LO:LB:g=esac
+=10
+{8ff
+8dd
+8cc
+=11
+4b
+8dd
+=12
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=343 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 317} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 317}
+!!!page: 317
+!!!ONB: Converted on 2024/12/26 with esac2hum

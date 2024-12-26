@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK46580000000-toporczysko_tonie_tonie.krn
+!!!OTL: Toporczysko tonie, tonie
+!!!source: DWOK46
+!!!id: 46580
+!!!signature: 46580000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8ee
+4cc
+4ee
+=2
+8gg
+8gg
+4aa
+4gg
+=3
+8ee
+8gg
+4.cc
+8ee
+=4
+8ee
+8dd
+4b
+4a}
+!!LO:LB:g=esac
+=
+{12a
+12b
+12cc
+4a
+4a
+=5
+8g
+8b
+4dd
+4ff
+=6
+8ff
+8ee
+4.cc
+8ee
+=7
+8ee
+8dd
+4b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=393 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 359} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 359}
+!!!page: 359
+!!!ONB: Converted on 2024/12/26 with esac2hum

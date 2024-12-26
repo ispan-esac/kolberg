@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK4412600003-wysoko_sosna_gorzala.krn
+!!!OTL: Wysoko sosna gorzała
+!!!source: DWOK44
+!!!id: 44126
+!!!signature: 4412600003
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8g
+8b
+2dd
+=2
+*M2/4
+4dd
+4cc#
+=3
+*M3/4
+8dd
+8cc
+4b
+4g}
+!!LO:LB:g=esac
+=4
+{2dd
+8cc#
+8ee
+=5
+*M2/4
+4dd
+4cc#
+=6
+8dd
+8cc
+4cc}
+!!LO:LB:g=esac
+=7
+*M3/4
+{4dd
+4dd
+4cc
+=8
+4a
+2a
+=9
+8g
+8a
+2d}
+!!LO:LB:g=esac
+=10
+{2dd
+4cc
+=11
+*M2/4
+4b
+4cc
+=12
+*M3/4
+4a
+8b
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 158} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 158}
+!!!page: 158
+!!!ONB: Converted on 2024/12/26 with esac2hum

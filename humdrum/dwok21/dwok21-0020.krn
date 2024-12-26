@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK2102000000-w_boru_kalinka_pochylila_sie.krn
+!!!OTL: W boru kalinka pochyliła się
+!!!source: DWOK21
+!!!id: 21020
+!!!signature: 2102000000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+8a
+8cc
+8cc
+=3
+8ee-
+8dd
+8dd
+=4
+4a
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+8b-
+8dd
+=6
+8a
+8cc
+8a
+=7
+8g
+8b-
+8g
+=8
+8a
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 10} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 10}
+!!!page: 10
+!!!ONB: Converted on 2024/12/26 with esac2hum

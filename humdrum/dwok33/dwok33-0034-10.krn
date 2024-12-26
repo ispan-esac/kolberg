@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK3303400010-dozynaj_zytka_dozynaj.krn
+!!!OTL: Dożynaj żytka dożynaj
+!!!source: DWOK33
+!!!id: 33034
+!!!signature: 3303400010
+**kern
+*clefG2
+*k[b-e-]
+*g:
+=1
+{8cc
+16b-
+16g
+8b-
+=2
+*M3/8
+8a
+4g
+=3
+8b-
+4dd
+=4
+4cc#
+8dd
+=5
+8cc
+16b-
+16g
+[8a}
+=6
+4a]
+8r
+!!LO:LB:g=esac
+=7
+{8cc
+16b-
+16g
+8b-
+=8
+8a
+4g
+=9
+8b-
+4dd
+=10
+4cc#
+8dd
+=11
+8cc
+16b-
+16g
+[8a}
+=
+!!UNCATEGORIZED MEASURE
+4a]
+8r
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8a
+=12
+*M4/4
+4cc
+8b-
+8a
+4.g
+8b-
+=13
+4dd
+4b
+2cc
+=14
+4dd
+8b-
+8g
+4a}
+8r
+!!LO:LB:g=esac
+=-
+{8a
+=15
+4cc
+8b-
+8a
+4.g
+8b-
+=16
+4dd
+4b
+2cc
+=17
+4dd
+8b-
+8g
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=211 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 169} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 169}
+!!!page: 169
+!!!ONB: Converted on 2024/12/26 with esac2hum

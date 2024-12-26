@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2553600000-oj_siwy_kon_siwy_kon.krn
+!!!OTL: Oj siwy koń, siwy koń
+!!!source: DWOK25
+!!!id: 25536
+!!!signature: 2553600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+8ee
+8ee
+8dd
+=3
+16g
+16b
+8dd
+8cc
+=4
+8b
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+16cc
+16a
+=6
+8b
+8dd
+8a
+=7
+16g
+16b
+8dd
+16cc
+16a
+=8
+8b
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 209} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 209}
+!!!page: 209
+!!!ONB: Converted on 2024/12/26 with esac2hum

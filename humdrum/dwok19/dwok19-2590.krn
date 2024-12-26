@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK1925900000-po_co_zesscie_przyjechali.krn
+!!!OTL: Po co ześście przyjechali
+!!!source: DWOK19
+!!!id: 192590
+!!!signature: 1925900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24d
+24e
+24f#
+16g
+16a
+16b
+16cc
+=1
+16dd
+16cc#
+8dd
+8dd
+=2
+16dd
+16cc#
+16dd
+16ee
+16dd
+16cc#
+=3
+16dd
+16b
+8cc
+8ee
+=4
+16dd
+16g
+8b
+8dd}
+!!LO:LB:g=esac
+=5
+{4cc
+8d
+=6
+16.g
+32g
+8b
+8dd
+=7
+4cc
+8d
+=8
+16.d
+32g
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{4cc
+8d
+=10
+16.g
+32g
+8b
+16dd
+16ee
+=11
+4cc
+8d
+=12
+16.d
+32g
+8b
+8g}
+==
+*-
+!!!ONB: Wariant w takcie trzecim zapisu nutowego (5_6_7_)+1__6__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 80} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2718200000-a_wyjrzyjcie_pacholeta.krn
+!!!OTL: A wyjrzyjcie pacholęta
+!!!source: DWOK27
+!!!id: 27182
+!!!signature: 2718200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+4gg
+=2
+8ee
+4cc
+=3
+8ee
+4gg
+=4
+8ff
+4aa}
+!!LO:LB:g=esac
+=5
+{8ff
+4ff
+=6
+8dd
+4ee
+=7
+4cc}
+8r
+!!LO:LB:g=esac
+=8
+{8b
+4dd
+=9
+8b
+4g
+=10
+8b
+4dd
+=11
+8cc
+4ee}
+!!LO:LB:g=esac
+=12
+{8cc
+4cc
+=13
+8a
+4b
+=14
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 247} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 247}
+!!!page: 247
+!!!ONB: Converted on 2024/12/26 with esac2hum

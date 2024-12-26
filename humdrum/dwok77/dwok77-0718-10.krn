@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7771800010-oj_brudna_kosulina.krn
+!!!OTL: Oj brudna kosulina
+!!!source: DWOK77
+!!!id: 77718
+!!!signature: 7771800010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4dd
+4ff
+4gg
+=2
+8ee
+8cc
+4ee
+4gg
+=3
+4dd
+4ff
+4gg
+=4
+8ee
+8b
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{4g
+4b
+4cc
+=6
+8ee
+8ee
+4dd
+4ff
+=7
+4dd
+4ff
+4ff
+=8
+8ee
+8ee
+4b
+4cc}
+==
+*-
+!!!ONB: Od taktu 9 utwór instrumentalny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 360-361
+!!!ONB: Converted on 2024/12/26 with esac2hum

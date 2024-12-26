@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK7716900000-pojmij_mnie_jasiu_pojmij_mnie.krn
+!!!OTL: Pojmij mnie Jasiu pojmij mnie
+!!!source: DWOK77
+!!!id: 77169
+!!!signature: 7716900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+4ee
+4ee
+=2
+2dd
+4b
+=3
+8a
+8cc
+2ee}
+!!LO:LB:g=esac
+=4
+{4aa
+4ee
+4ee
+=5
+2dd
+4cc
+=6
+8b
+8g#
+2a}
+!!LO:LB:g=esac
+=7
+{4a
+4cc
+4a
+=8
+2b
+4g#
+=9
+8a
+8cc
+2dd}
+!!LO:LB:g=esac
+=10
+{4ee
+4cc
+4b
+=11
+2a
+4cc
+=12
+8b
+8g#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

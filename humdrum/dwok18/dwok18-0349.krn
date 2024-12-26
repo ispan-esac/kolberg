@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1834900000-o_moj_smutku_mej_zalosci.krn
+!!!OTL: O mój smutku mej zalości
+!!!source: DWOK18
+!!!id: 18349
+!!!signature: 1834900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8b
+4b
+4b
+=2
+8.b
+16a
+4g#
+4e
+=3
+8e
+8a
+4g#
+4cc
+=4
+4.b
+8g#
+8a
+8e}
+!!LO:LB:g=esac
+=5
+{8e
+8b
+4b
+4dd
+=6
+8.b
+16a
+4g#
+4e
+=7
+8e
+8a
+4a
+4cc
+=8
+4.b
+8g#
+8a
+8a}
+==
+*-
+!!!ONB: Pieśń dziadowska
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 189} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 189}
+!!!page: 189
+!!!ONB: Converted on 2024/12/26 with esac2hum

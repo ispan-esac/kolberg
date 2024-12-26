@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK2627000000-jedzie_jasio_od_torunia.krn
+!!!OTL: Jedzie Jasio od Torunia
+!!!source: DWOK26
+!!!id: 26270
+!!!signature: 2627000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8b-
+8dd
+=2
+16cc
+16ee
+8ff
+8cc
+=3
+16g
+16g
+8g
+16b-
+16a
+=4
+16f
+16f
+8a
+8cc}
+!!LO:LB:g=esac
+=5
+{16dd
+16b-
+8g
+16b-
+16a
+=6
+16f
+16f
+8a
+16cc
+16dd
+=7
+16b-
+16b-
+8g
+16b-
+16a
+=8
+4f}
+8r
+!!LO:LB:g=esac
+=9
+{16g
+16g
+8e
+8c
+=10
+16f
+16f
+8a
+8cc
+=11
+16g
+16g
+8g
+16b-
+16a
+=12
+16f
+16f
+8a
+8cc}
+!!LO:LB:g=esac
+=13
+{16dd
+16b-
+8g
+16b-
+16a
+=14
+16f
+16f
+8a
+16cc
+16dd
+=15
+16g
+16g
+8g
+16b-
+16a
+=16
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

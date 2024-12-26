@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK2830500000-na_tutejszej_grobli.krn
+!!!OTL: Na tutejszej grobli
+!!!source: DWOK28
+!!!id: 28305
+!!!signature: 2830500000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8g
+8a
+8b-
+8cc
+=2
+4dd
+4dd
+=3
+8ff
+8gg
+8ff
+8ee-
+=4
+4dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8g
+8dd
+8dd
+8cc
+=6
+8b
+8dd
+4ee-
+=7
+8ff
+8gg
+8ff
+8ee-
+=8
+4dd
+4cc}
+!!LO:LB:g=esac
+=9
+{8dd
+8a
+8b-
+8cc
+=10
+8dd
+8a
+8b-
+8cc
+=11
+8dd
+8cc
+8b-
+8a
+=12
+4cc
+4dd}
+!!LO:LB:g=esac
+=13
+{8dd
+8a
+8b-
+8cc
+=14
+8dd
+8a
+4b-
+=15
+8dd
+8g
+8g
+8a
+=16
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 280} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 280}
+!!!page: 280
+!!!ONB: Converted on 2024/12/26 with esac2hum

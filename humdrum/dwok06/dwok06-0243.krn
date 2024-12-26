@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0243-wyjechalem_w_pole_orac.krn
+!!!OTL: Wyjechalem w pole orac
+!!!source: DWOK06
+!!!id: K0243
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16dd
+16ee
+8.dd
+16cc
+=3
+16.b
+32b
+8a
+8a
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+4d
+=6
+16g
+16b
+8.dd
+16cc
+=7
+16b
+16g
+8f#
+8d
+=8
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 123-124} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 123-124}
+!!!page: 123-124
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK25126a0000-z_poniedzialku_na_wtorek_oj_i_wzieto_furmanowi_konie.krn
+!!!OTL: Z poniedziałku na wtorek oj i wzięto furmanowi konie
+!!!source: DWOK25
+!!!id: 25126a
+!!!signature: 25126a0000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{8ee
+4ff#
+=2
+4ee
+8b
+=3
+16cc
+16a
+4b}
+!!LO:LB:g=esac
+=4
+{8ee
+4ff#
+=5
+4ee
+8b
+=6
+16cc
+16a
+4b}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8b
+=8
+16a
+16g
+8f#
+8e
+=9
+8b
+4b}
+!!LO:LB:g=esac
+=10
+{16g
+16a
+8b
+8b
+=11
+16a
+16g
+8f#
+8e
+=12
+8g
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 52} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

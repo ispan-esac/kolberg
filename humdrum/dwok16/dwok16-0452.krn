@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1645200000-idzie_woda_do_ogroda.krn
+!!!OTL: Idzie woda do ogroda
+!!!source: DWOK16
+!!!id: 16452
+!!!signature: 1645200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8ff
+8cc
+8dd
+8cc
+=2
+8cc
+8cc
+8b-
+16g
+16f
+=3
+4a
+8b-
+8dd
+=4
+8cc
+8a
+8b-
+16g
+16f}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b-
+8b-
+=6
+8cc
+8cc
+8b-
+16g
+16f
+=7
+4a
+8b-
+8dd
+=8
+8cc
+8a
+8b-
+16g
+16f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 278} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 278}
+!!!ONB: Converted on 2024/12/26 with esac2hum

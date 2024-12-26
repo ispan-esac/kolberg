@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2537400000-oj_konie_rzaly_nic_nie_mialy.krn
+!!!OTL: Oj konie rzały, nic nie miały
+!!!source: DWOK25
+!!!id: 25374
+!!!signature: 2537400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+16b
+16a
+16cc
+16ee
+=2
+16dd
+16cc
+8a
+8b
+=3
+8g
+16b
+16a
+16cc
+16a
+=4
+16b
+16a
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{8d
+16g
+16a
+16b
+16g
+=6
+16cc
+16a
+8g
+8b
+=7
+8dd
+16g
+16a
+16b
+16g
+=8
+16cc
+16a
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 170} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 170}
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

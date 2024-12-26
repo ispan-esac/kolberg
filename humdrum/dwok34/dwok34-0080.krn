@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK3408000000-oj_sestrycy_zozulycy_maju_ja_was_dwi.krn
+!!!OTL: Oj sestrycy zozulycy maju ja was dwi
+!!!source: DWOK34
+!!!id: 34080
+!!!signature: 3408000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8ee
+8ee
+8ee
+=2
+8ee
+8b
+8cc
+8dd
+=3
+8ee
+8ee
+8cc
+8dd
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+16dd
+16cc
+=6
+8a
+8a
+8g#
+8g#
+=7
+8cc
+8ee
+8ee
+16dd
+16cc
+=8
+2a}
+==
+*-
+!!!ONB: Śpiewana przez żony rekrutów
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=69 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 52} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

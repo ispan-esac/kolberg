@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2534200000-a_jak_ci_ja_pojde_z_chrustem_do_lasa.krn
+!!!OTL: A jak ci ja pójdę z chrustem do lasa
+!!!source: DWOK25
+!!!id: 25342
+!!!signature: 2534200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8g
+8a
+8b-
+=2
+4.cc
+8ff
+=3
+8ee
+8g
+8b-
+8dd
+=4
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{8f
+8g
+8a
+8b-
+=6
+4.cc
+8ff
+=7
+8ee
+8g
+8b-
+8g
+=8
+4f}
+4r
+!!LO:LB:g=esac
+=9
+{4a
+8cc
+8b-
+=10
+4g
+8b-
+8a
+=11
+8a
+8cc
+8cc
+8b-
+=12
+4g
+8c
+8f}
+!!LO:LB:g=esac
+=13
+{8f
+8g
+8a
+8b-
+=14
+4.cc
+8ff
+=15
+8ee
+8g
+8b-
+8g
+=16
+4f}
+4r
+==
+*-
+!!!ONB: Wariant w takcie ósmym zapisu 2443
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 154} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 154}
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

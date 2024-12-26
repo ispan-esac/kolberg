@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK41110500000-oj_lecialy_gaseczki.krn
+!!!OTL: Oj, leciały gąseczki
+!!!source: DWOK41
+!!!id: 411105
+!!!signature: 41110500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16g#
+16a
+16cc
+16b
+8a
+=2
+16g
+16e
+8a
+16e
+16d
+=3
+8d
+8dd
+8dd
+=4
+16b
+16g#
+8ee
+16cc
+16b}
+!!LO:LB:g=esac
+=5
+{16g#
+16a
+16cc
+16b
+8a
+=6
+16g#
+16e
+8a
+8e
+=7
+8d
+8f
+8f
+=8
+16f
+16a
+8g
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=558 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 471-472} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 471-472}
+!!!page: 471-472
+!!!ONB: Converted on 2024/12/26 with esac2hum

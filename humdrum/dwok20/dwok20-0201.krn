@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2020100000-slonecko_w_rogu_pieca_siadaj_marysiu_do_cepca.krn
+!!!OTL: Słonecko w rogu pieca, siadaj Marysiu do cepca
+!!!source: DWOK20
+!!!id: 20201
+!!!signature: 2020100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8cc
+8g
+=2
+8cc
+8ee
+8dd
+=3
+4cc
+8g}
+!!LO:LB:g=esac
+=4
+{8a
+8a
+8g
+=5
+8cc
+8b
+8dd
+=6
+4cc
+8cc}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8g
+=8
+8a
+8cc
+8b
+=9
+8dd
+8.cc
+16cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 187} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

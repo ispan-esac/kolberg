@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2824100002-jak_ja_bylem_u_swojej_dziewcyny.krn
+!!!OTL: Jak ja byłem u swojej dziewcyny
+!!!source: DWOK28
+!!!id: 28241
+!!!signature: 2824100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4.dd
+8b
+=2
+8ee
+8dd
+8dd
+8b
+8cc
+8b
+=3
+8a
+8b
+8cc
+8b
+8cc
+8ee
+=4
+8dd
+16dd
+16cc
+2a}
+!!LO:LB:g=esac
+=5
+{8a
+16g
+16a
+4.cc
+8a
+=6
+8cc
+8dd
+8b
+8a
+8b
+8g
+=7
+8cc
+8dd
+4cc
+4a}
+!!LO:LB:g=esac
+=8
+{8cc
+8ee
+8dd
+8b
+8cc
+8dd
+=9
+8ee
+8ee
+4dd
+4g
+=10
+8a
+16a
+16b
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 250} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 250}
+!!!page: 250
+!!!ONB: Converted on 2024/12/26 with esac2hum

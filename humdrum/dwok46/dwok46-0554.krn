@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4655400000-jezu_chryste_panie_mily.krn
+!!!OTL: Jezu Chryste, Panie miły
+!!!source: DWOK46
+!!!id: 46554
+!!!signature: 4655400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4.a
+8b
+8a
+8g
+=2
+8a
+8b
+8cc
+4.b}
+!!LO:LB:g=esac
+=3
+{4.b
+8cc
+8dd
+8b
+=4
+8dd
+8ee
+8dd
+8cc
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{4b
+2a
+=6
+8.cc
+16ee
+8dd
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=7
+{8a
+8b
+8cc
+8dd
+8cc
+8b
+=8
+4b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=371 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 337-338} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, pp. 337-338}
+!!!page: 337-338
+!!!ONB: Converted on 2024/12/26 with esac2hum

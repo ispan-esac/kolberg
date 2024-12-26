@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4814000000-szla_dziewczyna_przez_las.krn
+!!!OTL: Szła dziewczyna przez las
+!!!source: DWOK48
+!!!id: 48140
+!!!signature: 4814000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8a
+8g
+=2
+8g
+4.f#
+=3
+8a
+8a
+8.cc
+16a
+=4
+8a
+4.g}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+4cc
+=6
+8b
+4b
+8b
+=7
+16a
+16cc
+8a
+8.a
+16f#
+=8
+8g
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 185} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 185}
+!!!page: 185
+!!!ONB: Converted on 2024/12/26 with esac2hum

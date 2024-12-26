@@ -1,0 +1,110 @@
+!!!!SEGMENT: DWOK1333800000-byl_tu_duda_z_golejewa.krn
+!!!OTL: Był tu duda z Golejewa
+!!!source: DWOK13
+!!!id: 13338
+!!!signature: 1333800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16dd
+8b-
+8a
+=2
+16g
+16g
+8e
+8c
+=3
+8f
+4cc
+=4
+8a
+4dd
+=5
+16b-
+16g
+4f}
+!!LO:LB:g=esac
+=6
+{16f
+16g
+8a
+16b-
+16a
+=7
+16g
+16g
+8e
+8c
+=8
+8c
+8.g
+16a
+=9
+16cc
+16b-
+8a
+8g
+=10
+8f
+16a
+16g
+8f}
+!!LO:LB:g=esac
+=11
+{16cc
+16dd
+8b-
+8a
+=12
+16g
+16g
+8e
+8c
+=13
+8f
+4cc
+=14
+8a
+4dd
+=15
+16b-
+16g
+4f}
+!!LO:LB:g=esac
+=16
+{16f
+16g
+8a
+16b-
+16a
+=17
+16g
+16g
+8e
+8c
+=18
+8c
+8.b-
+16a
+=19
+16cc
+16b-
+8a
+8g
+=20
+8f
+16a
+16g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 148} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 148}
+!!!page: 148
+!!!ONB: Converted on 2024/12/26 with esac2hum

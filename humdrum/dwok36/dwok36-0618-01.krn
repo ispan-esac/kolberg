@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3661800001-poszla_handzia_zyto_zaty.krn
+!!!OTL: Poszła Handzia żyto żaty
+!!!source: DWOK36
+!!!id: 36618
+!!!signature: 3661800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8a
+8dd
+8f#
+=2
+8a
+8g
+8g
+8g
+=3
+8b
+8a
+8a
+8cc
+=4
+8ee
+8ee
+8ee
+8dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ee
+8a
+=6
+8cc
+8b
+8b
+8g
+=7
+8b
+8a
+8dd
+8f#
+=8
+8a
+8g
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 405
+!!!ONB: Converted on 2024/12/26 with esac2hum

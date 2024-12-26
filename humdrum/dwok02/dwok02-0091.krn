@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK02-K0091-cegoz_na_nas_patrzycie.krn
+!!!OTL: Cegoz na nas patrzycie
+!!!source: DWOK02
+!!!id: K0091
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16a
+8cc#
+8a
+=2
+8dd
+8dd
+8cc#
+=3
+4dd
+8a}
+!!LO:LB:g=esac
+=4
+{16cc#
+16cc#
+8dd
+8ee
+=5
+16dd
+16dd
+8cc#
+8g
+=6
+4.a}
+==
+*-
+!!!ONB: u Kolberga w t. 6 ćwierćnuta bez kropki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 78} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 78}
+!!!page: 78
+!!!ONB: Converted on 2024/12/26 with esac2hum

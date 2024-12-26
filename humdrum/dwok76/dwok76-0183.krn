@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK7618300000-po_cos_dawala_konikowi_siana.krn
+!!!OTL: Po coś dawała konikowi siana
+!!!source: DWOK76
+!!!id: 76183
+!!!signature: 7618300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8b
+4dd
+4ff
+=2
+8dd
+8cc
+4b
+4cc
+=3
+4dd
+4ff
+4gg}
+!!LO:LB:g=esac
+=4
+{8dd
+8cc
+4ee
+4gg
+=5
+8ff
+8ee
+4dd
+4cc
+=6
+4gg
+4dd
+4cc}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+4dd
+4ff
+=8
+8dd
+8cc
+4b
+4cc
+=9
+4dd
+4ff
+4gg}
+!!LO:LB:g=esac
+=10
+{8dd
+8cc
+4ee
+4gg
+=11
+8ff
+8ee
+4dd
+4cc
+=12
+4gg
+4dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 96} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

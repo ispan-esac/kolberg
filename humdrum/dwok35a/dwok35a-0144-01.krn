@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK35A-35A144000001-bywaj_mi_zdrowy_panie_ojcze.krn
+!!!OTL: Bywaj mi zdrowy panie ojcze
+!!!source: DWOK35A
+!!!id: 35A144
+!!!signature: 35A144000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+16dd
+16cc
+4cc
+=3
+8cc
+4cc
+=4
+16cc
+16b
+4b}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+=6
+16dd
+16cc
+4b
+=7
+8cc
+4cc
+=8
+16cc
+16b
+4b}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8cc
+=10
+8b
+4dd
+=11
+8dd
+8cc
+8g
+=12
+8b-
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 80} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

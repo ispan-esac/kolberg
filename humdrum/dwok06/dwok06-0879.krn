@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0879-dana_ino_dana.krn
+!!!OTL: Dana ino dana
+!!!source: DWOK06
+!!!id: K0879
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+8r
+{8b
+8dd
+=2
+16a
+16cc
+8b
+8g
+=3
+8b
+8dd
+8dd
+=4
+16ee
+16ee
+4dd}
+!!LO:LB:g=esac
+=5
+8r
+{8dd
+8dd
+=6
+16a
+16cc
+8b
+8g
+=7
+8r
+8b
+8b
+=8
+16cc
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=537 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 511-512} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 511-512}
+!!!page: 511-512
+!!!ONB: Converted on 2024/12/26 with esac2hum

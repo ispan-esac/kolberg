@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK42162800000-oryl-instrumentalna.krn
+!!!OTL: Oryl-Instrumentalna
+!!!source: DWOK42
+!!!id: 421628
+!!!signature: 42162800000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8dd
+[8ff
+16ff]
+16gg
+16ff
+16ee-
+=2
+8dd
+8b-
+8dd
+8b-
+=3
+8cc
+8a
+8cc
+8a
+=4
+8b-
+8b-
+4b-}
+!!LO:LB:g=esac
+=5
+{8f
+8b-
+8f
+[8b-
+=6
+8b-]
+8g
+8e-
+8g
+=7
+8f
+8a
+8cc
+8a
+=8
+8b-
+8b-
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 137} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 137}
+!!!page: 137
+!!!ONB: Converted on 2024/12/26 with esac2hum

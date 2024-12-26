@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK41121700002-juz_ci_opak_swiat_idzie.krn
+!!!OTL: Już ci opak świat idzie
+!!!source: DWOK41
+!!!id: 411217
+!!!signature: 41121700002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16ff
+8ff
+8ff
+=2
+8gg
+8ee
+8cc
+=3
+4cc}
+8r
+!!LO:LB:g=esac
+=4
+{16b-
+16dd
+8b-
+8b-
+=5
+8cc
+8a
+8f
+=6
+4f}
+8r
+!!LO:LB:g=esac
+=7
+{4b-
+8b-
+=8
+16cc
+16a
+8a
+8a}
+!!LO:LB:g=esac
+=9
+{4b-
+8b-
+=10
+16cc
+16a
+8a
+8a}
+!!LO:LB:g=esac
+=11
+{8cc
+8b-
+8b-
+=12
+8cc
+4a
+=13
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=627 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 540} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 540}
+!!!page: 540
+!!!ONB: Converted on 2024/12/26 with esac2hum

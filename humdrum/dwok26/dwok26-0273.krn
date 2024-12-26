@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2627300000-zielona_ruta_jalowiec.krn
+!!!OTL: Zielona ruta jałowiec
+!!!source: DWOK26
+!!!id: 26273
+!!!signature: 2627300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+4b
+8g
+=3
+16g
+16b
+4cc}
+!!LO:LB:g=esac
+=4
+{8cc
+8cc
+8cc
+=5
+4a
+8d
+=6
+16d
+16f#
+4g}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+8g
+=8
+4a
+8f#
+=9
+16g
+16b
+4cc}
+!!LO:LB:g=esac
+=10
+{8a
+8cc
+8dd
+=11
+4b
+8g
+=12
+16a
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

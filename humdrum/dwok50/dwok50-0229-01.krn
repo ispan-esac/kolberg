@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK5022900001-ali_moji_zali_toste_mi_na_lawi.krn
+!!!OTL: Żali moji, żali, toste mi na ławi
+!!!source: DWOK50
+!!!id: 50229
+!!!signature: 5022900001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8cc
+8dd
+4ee
+=2
+8ee
+4dd
+8b
+=3
+8dd
+8cc
+8b
+8a
+=4
+8b
+4.e}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4g
+=6
+8a
+4b
+8b
+=7
+8dd
+8cc
+8b
+8cc
+=8
+8b
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 109} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 109}
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

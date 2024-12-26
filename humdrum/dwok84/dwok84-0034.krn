@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK8403400000-dziekuje_ci_pani_matko.krn
+!!!OTL: Dziękuję ci, pani matko
+!!!source: DWOK84
+!!!id: 84034
+!!!signature: 8403400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4ee
+4ee
+=2
+8dd#
+8ee
+4ff#
+4ee
+=3
+4dd#
+4.ee
+8dd
+=4
+8dd
+8b
+2a}
+!!LO:LB:g=esac
+=5
+{8e
+8g#
+4b
+4g#
+=6
+8a
+8b
+4cc
+4cc
+=7
+8b
+8dd#
+4ff#
+4ee
+=8
+8cc
+8b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=127 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 65} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 65}
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

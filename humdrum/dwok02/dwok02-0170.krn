@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK02-K0170-a_dajze_mi_boze.krn
+!!!OTL: A dajze mi Boze
+!!!source: DWOK02
+!!!id: K0170
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8dd
+8dd
+8b
+8b
+=2
+8cc
+4.cc
+=3
+8dd
+8dd
+8ff
+8ff
+=4
+8ee
+4.ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8b
+8b
+=6
+8cc
+4.cc
+=7
+8dd
+8dd
+8ff
+8b
+=8
+8cc
+4.cc}
+!!LO:LB:g=esac
+=9
+{8ee
+8ee
+8ee
+8ee
+=10
+8ee
+8ee
+8.ff
+16ee
+=11
+8dd
+8dd
+8dd
+8dd
+=12
+8dd
+8dd
+8ee
+8dd}
+!!LO:LB:g=esac
+=13
+{8b
+8b
+8g
+8g
+=14
+8g
+4.cc
+=15
+8ff
+8ff
+8b
+8b
+=16
+8cc
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=151 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 140} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 140}
+!!!page: 140
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK0441100000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK04
+!!!id: K0411
+!!!signature: 0441100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc
+8ee
+16ee
+16ff#
+=2
+16ff#
+16ee
+8dd#
+8ee
+=3
+16a
+16cc
+8ee
+8ee
+=4
+16ff#
+16ee
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8dd
+16a
+16f#
+=6
+[8g
+16g]
+16b
+16dd
+16ee
+=7
+16a
+16cc
+8dd
+16a
+16f#
+=8
+8g
+8g
+8g}
+==
+*-
+!!!ONB: Obertas nie wskazany w tytule
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=253 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 239} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 239}
+!!!page: 239
+!!!ONB: Converted on 2024/12/26 with esac2hum

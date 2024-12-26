@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK1301700002-o_losie_jakzes_falszywy.krn
+!!!OTL: O losie jakżeś fałszywy
+!!!source: DWOK13
+!!!id: 13017
+!!!signature: 1301700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8d
+8b
+8a
+8g
+8g
+8f#
+=2
+4.g
+4d
+8r
+=3
+8d
+8cc
+8b
+8a
+8g#
+8a
+=4
+4a#
+8b
+4b}
+8r
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc
+8b
+8a
+8g
+=6
+4e
+8cc
+4cc
+8r
+=7
+8a
+8f#
+8f#
+8f#
+8e
+8f#
+=8
+4.cc
+4b}
+8r
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8cc
+8b
+8a
+8g
+=10
+8g
+8cc
+8ee
+4gg
+8ee
+=11
+8dd
+8ee
+8dd
+8cc
+8e
+8f#
+=12
+4.a
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 12} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 12}
+!!!page: 12
+!!!ONB: Converted on 2024/12/26 with esac2hum

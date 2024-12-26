@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK3904900002-zielona_laczka_jalowa.krn
+!!!OTL: Zielona łączka jałowa
+!!!source: DWOK39
+!!!id: 39049
+!!!signature: 3904900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4d
+8b
+8a
+4g
+4d
+=2
+4a
+4a
+2a}
+!!LO:LB:g=esac
+=3
+{4d
+8cc
+8b
+4a
+4g
+=4
+4dd
+4dd
+2dd}
+!!LO:LB:g=esac
+=5
+{4d
+8b
+8a
+4g
+4d
+=6
+4a
+4a
+2a}
+!!LO:LB:g=esac
+=7
+{4d
+8cc
+8b
+4a
+4g
+=8
+4dd
+4dd
+2dd}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc
+8b
+8dd
+4.gg
+8b
+=10
+4b
+4a
+2a}
+!!LO:LB:g=esac
+=11
+{8cc
+8b
+8a
+8cc
+4.ee
+8dd
+=12
+4cc
+4f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 120-121} @EN{Oskar Kolberg Complete Works 39: Pomerania, pp. 120-121}
+!!!page: 120-121
+!!!ONB: Converted on 2024/12/26 with esac2hum

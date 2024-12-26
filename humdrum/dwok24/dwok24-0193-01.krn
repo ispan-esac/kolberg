@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2419300001-zebys_ty_chmielu_na_tycki_nie_laz.krn
+!!!OTL: Zebyś ty chmielu na tycki nie laz
+!!!source: DWOK24
+!!!id: 24193
+!!!signature: 2419300001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16b
+8cc
+8dd
+=2
+8cc
+4b
+=3
+16a
+16b
+8a
+8d
+=4
+8f
+4e}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+8cc
+8dd
+=6
+8cc
+4b
+=7
+16a
+16b
+8cc
+16a
+16d
+=8
+8f
+4e}
+!!LO:LB:g=esac
+=9
+{8a
+8e
+16f#
+16g#
+=10
+16a
+16a
+8e
+8g#
+=11
+8a
+8e
+16f#
+16g#
+=12
+16a
+16a
+8e
+8g#}
+!!LO:LB:g=esac
+=13
+{16a
+16a
+8b
+16a
+16f
+=14
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=315 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 291} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 291}
+!!!page: 291
+!!!ONB: Converted on 2024/12/26 with esac2hum

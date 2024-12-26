@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4416500000-a_moje_wesele.krn
+!!!OTL: A moje wesele
+!!!source: DWOK44
+!!!id: 44165
+!!!signature: 4416500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+4cc
+8cc
+=2
+8b
+8a
+4b
+=3
+8g
+4a
+8a
+=4
+8g
+8b
+4dd}
+!!LO:LB:g=esac
+=5
+{8dd
+4cc
+8cc
+=6
+8b
+8a
+4b
+=7
+8g
+4a
+8a
+=8
+8b
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 178} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 178}
+!!!page: 178
+!!!ONB: Converted on 2024/12/26 with esac2hum

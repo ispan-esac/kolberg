@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK7783400000-gdziezes_to_byla_doroto.krn
+!!!OTL: Gdzieżeś to była, Doroto
+!!!source: DWOK77
+!!!id: 778340
+!!!signature: 7783400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4f
+8a
+8b
+4cc
+4ee
+=2
+4dd
+4ff
+2cc
+=3
+4f
+8a
+8b
+4cc
+4ee
+=4
+4dd
+4ff
+2cc}
+!!LO:LB:g=esac
+=5
+{8b-
+8b-
+8b-
+8b-
+8a
+8a
+8a
+8a
+=6
+8g
+8g
+8g
+8g
+4f
+4cc}
+!!LO:LB:g=esac
+=7
+{8b-
+8b-
+8b-
+8b-
+8a
+8a
+8a
+8a
+=8
+8g
+8g
+8g
+8g
+4f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

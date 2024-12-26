@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK41122100001-chlopek_ci_ja_chlopek.krn
+!!!OTL: Chłopek ci, ja, chłopek
+!!!source: DWOK41
+!!!id: 411221
+!!!signature: 41122100001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8g
+8g
+=2
+8b
+4dd
+=3
+16cc
+16dd
+8ee
+8ff
+=4
+8dd
+4gg}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+16cc
+16a
+=6
+16g
+16g
+8a
+8g
+=7
+16g
+16ff
+8dd
+8b
+=8
+8cc
+4cc}
+!!LO:LB:g=esac
+=9
+{8ee
+8b
+16cc
+16a
+=10
+16g
+16g
+8a
+8g
+=11
+16g
+16ff
+8dd
+8b
+=12
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=630 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 543} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 543}
+!!!page: 543
+!!!ONB: Converted on 2024/12/26 with esac2hum

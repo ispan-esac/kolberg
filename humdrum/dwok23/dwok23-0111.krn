@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2311100000-prose_cie_dzieucho_po_pierwsy_raz.krn
+!!!OTL: Prose cię dzieucho po pierwsy raz
+!!!source: DWOK23
+!!!id: 23111
+!!!signature: 2311100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8a
+8dd
+8dd
+=2
+8dd
+4ee
+=3
+8ff
+8ee
+8dd
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8a
+=6
+4g
+8e
+=7
+8d
+8f
+8g
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{8ff
+8ee
+8dd
+=10
+8cc
+8cc
+8a
+=11
+8cc
+8a
+8g
+=12
+4.dd}
+!!LO:LB:g=esac
+=13
+{8a
+8dd
+8ee
+=14
+8ff
+8ee
+8dd
+=15
+8ee
+8cc
+8a
+=16
+4.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 144} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 144}
+!!!page: 144
+!!!ONB: Converted on 2024/12/26 with esac2hum

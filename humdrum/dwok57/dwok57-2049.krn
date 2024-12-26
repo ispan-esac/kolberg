@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK57204900000-mir_wam_bratia_wsim_prynosym.krn
+!!!OTL: Mir wam, bratia, wsim prynosym
+!!!source: DWOK57
+!!!id: 572049
+!!!signature: 57204900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8dd
+8dd
+=2
+8dd
+8dd
+8.ee
+16dd
+=3
+8cc
+8b
+8a
+8dd
+=4
+8g
+8b
+4dd}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8dd
+8dd
+=6
+8dd
+8dd
+8.ee
+16dd
+=7
+8cc
+8b
+8a
+8dd
+=8
+8g
+8g
+4g}
+!!LO:LB:g=esac
+=9
+{8.ee
+16dd
+8cc
+8cc
+=10
+8cc
+16b
+16cc
+8dd
+8b
+=11
+8a
+8b
+8cc
+8a
+=12
+8.b
+16cc
+4dd}
+!!LO:LB:g=esac
+=13
+{8.ee
+16dd
+8cc
+8cc
+=14
+8cc
+16b
+16cc
+8dd
+8b
+=15
+8a
+16a
+16b
+8cc
+8a
+=16
+8g
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1108
+!!!ONB: Converted on 2024/12/26 with esac2hum

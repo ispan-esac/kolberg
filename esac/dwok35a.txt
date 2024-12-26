@@ -1,0 +1,2120 @@
+DWOK35A
+CUT[Kazała maty kurok wołaty]
+REG[]
+TRD[DWOK35a Przemyskie s. 11 Wyszatyce]
+FKT[]
+SIG[35A00100000]
+KEY[35A001  16  G 3/8]
+MEL[1_1_34  5__5_  6_6_6_  5__3_  6_6_7+1  5__3_
+    5_5_5_  4_4_4_  3_3_3_  2_2_2_
+    6_5_4_  3__1_  2_4_2_  1__1_ //]
+BEM[]
+
+DWOK35A
+CUT[Boh predwiczny nam narodyv sia]
+REG[]
+TRD[DWOK35a Przemyskie s. 16 Bircza]
+FKT[]
+SIG[35A00200001]
+KEY[35A002  16  C 2/4]
+MEL[+1__7_65  5___  +1_+1_+2_+2_  +3___
+    +1__7_65  5___  +1+2+3_+2_+2_  +3___
+    5_5_+4__  +5_+5_+1__  +3_+5_+2__  7_6_5__
+    +1_+1_+2_+2_  +1___ //]
+BEM[Pieśń, kolęda kościelna]
+
+DWOK35A
+CUT[Boh predwiczny nam narodyv sia]
+REG[]
+TRD[DWOK35a Przemyskie s. 16 Bircza]
+FKT[]
+SIG[35A00200002]
+KEY[35A002  16  C 2/4]
+MEL[+1__7_65  5___  +1_+1_+2_+2_  +3___
+    +1__7_65  5___  +1+2+3_+2_+2_  +3___
+    5_5_+4__  +5_+5_+1__  +3_+3+5+2_+1_  7_655__
+    +1_+17+2_+27  +1___ //]
+BEM[Pieśń, kolęda kościelna]
+
+DWOK35A
+CUT[Boh predwicznyj narodyv sia]
+REG[]
+TRD[DWOK35a Przemyskie s. 16 Iskań]
+FKT[]
+SIG[35A00300001]
+KEY[35A003  08  C 2/4]
+MEL[+1_76  5__  +1+1+2+4  +3__
+    +1+2+4_  +3+1+3_  +3+3+2_  765_
+    7+1+27  +1__ //]
+BEM[]
+
+DWOK35A
+CUT[Boh predwicznyj narodyv sia]
+REG[]
+TRD[DWOK35a Przemyskie s. 16 Iskań]
+FKT[]
+SIG[35A00300002]
+KEY[35A003  16  C 2/4]
+MEL[+1__7_67  5___  7+1+1_+2_+3+4  +3___
+    +1_+2+3+4__  +3_+2+1+3_.+2  +3_+4+5+2_.+1  7_675_.6
+    67+1_+2+37_  +1___ //]
+BEM[]
+
+DWOK35A
+CUT[Boże Narodzenie syna jedynego]
+REG[]
+TRD[DWOK35a Przemyskie s. 17 Nienadowa, Iskań]
+FKT[]
+SIG[35A00400001]
+KEY[35A004  16  G 3/8]
+MEL[123_4_  5__6_  2_4_46  5_3__
+    4__5_  323_1_  2_3__  -61-7_-5_
+    123_4_  5__3_  1__0_ //]
+BEM[U Kolberga błąd w zapisie rytmicznym t. 3]
+
+DWOK35A
+CUT[Boże Narodzenie syna jedynego]
+REG[]
+TRD[DWOK35a Przemyskie s. 17 Nienadowa, Iskań]
+FKT[]
+SIG[35A00400002]
+KEY[35A004  16  G 3/8]
+MEL[123_4_  5__64  2_4246  543__
+    4__54  323_1-6  2__31  -61-7_-5_
+    123_4_  5__32  1__0_ //]
+BEM[]
+
+DWOK35A
+CUT[W czystejkim poly bołoniczejka]
+REG[]
+TRD[DWOK35a Przemyskie s. 17-18 Iskań]
+FKT[]
+SIG[35A00500001]
+KEY[35A005  08  A 3/8]
+MEL[3b23b  45_  4#56  54#_  3b2_  1_0
+    556  4#5_  553b  12_  -71_  1_0 //]
+BEM[Kolęda]
+
+DWOK35A
+CUT[W czystejkim poly bołoniczejka]
+REG[]
+TRD[DWOK35a Przemyskie s. 17-18 Iskań]
+FKT[]
+SIG[35A00500002]
+KEY[35A005  16  A 3/8]
+MEL[3b_2_3b_  43b5__  4#_5_6_  5_4#_1_  3b_2_-7_  1__0_
+    5_5_6_  4#_5__  5_5_43b  1_2__  -7_1__  1__0_ //]
+BEM[Kolęda]
+
+DWOK35A
+CUT[Oj już to w lesie i drewo]
+REG[]
+TRD[DWOK35a Przemyskie s. 18-19 Iskań]
+FKT[]
+SIG[35A00600001]
+KEY[35A006  08  A 3/4]
+MEL[-7b_3b3b43b  5_6b_7b_  6b6b4__
+    6b_543b5  -7b_3b21-7b  2_3b_4_  3b3b1__ //]
+BEM[Kolęda]
+
+DWOK35A
+CUT[Oj już to w lesie i drewo]
+REG[]
+TRD[DWOK35a Przemyskie s. 18-19 Iskań]
+FKT[]
+SIG[35A00600002]
+KEY[35A006  08  A 3/4]
+MEL[-7b-7b3b3b43b  3b56b57b_  6b6b4__
+    6b6b543b5  -7b-7b3b21-7b  -7b23b24_  3b3b1__ //]
+BEM[Kolęda]
+
+DWOK35A
+CUT[Narodyv sia Jesos Chrystos]
+REG[]
+TRD[DWOK35a Przemyskie s. 19 Wyszatyce]
+FKT[]
+SIG[35A00700000]
+KEY[35A007  16  G 2/4]
+MEL[55_.66_.  55_.34_.  33_.22_1  1___
+    55_.66_.  55_.34_.  33_.22_1  1___
+    33_.44_.  5__64_.  33_.22_1  34__.0
+    33_.44_.  5__64_.  33_.22_1  11__.0 //]
+BEM[]
+
+DWOK35A
+CUT[Szczo za radost' na świti powstała]
+REG[]
+TRD[DWOK35a Przemyskie s. 19-20 Wyszatyce]
+FKT[]
+SIG[35A00800001]
+KEY[35A008  08  G 3/4]
+MEL[345_5_  565_3_  5_3__
+    345_5_  565434  543__
+    1_2__  2__.  323454  312__
+    323453  5_543_ //]
+BEM[]
+
+DWOK35A
+CUT[Szczo za radost' na świti powstała]
+REG[]
+TRD[DWOK35a Przemyskie s. 19-20 Wyszatyce]
+FKT[]
+SIG[35A00800002]
+KEY[35A008  16  G 3/4]
+MEL[3_4_5__5__  5_6_5__3__  5__3___
+    3_4_5__5__  5_6_5_4_3_4_  5_4_3___
+    1_3_2___  2___.  3_2_3_4_5_54  3_3_2___
+    3_2_3_4_5_34  5_6_5_4_3__ //]
+BEM[]
+
+DWOK35A
+CUT[Maryja Diwa nam porodyła]
+REG[]
+TRD[DWOK35a Przemyskie s. 20 Wyszatyce]
+FKT[]
+SIG[35A00900001]
+KEY[35A009  08  G 4/4]
+MEL[3_5_5_6_  5___  3_5_5_6_  5___
+    5_6_4_5_  3_.21_1_  5_6_4_5_  3_.12_2_
+    1_3_2_3_  4_.56__  3_5_5_54  3___ //]
+BEM[]
+
+DWOK35A
+CUT[Maryja Diwa nam porodyła]
+REG[]
+TRD[DWOK35a Przemyskie s. 20 Wyszatyce]
+FKT[]
+SIG[35A00900002]
+KEY[35A009  08  G 4/4]
+MEL[345_5_65  5___  345_5_65  5___
+    5_654_54  32421_1_  5_654354  32312_2_
+    1_3_2_3_  4_.56__  456_5_54  3___ //]
+BEM[]
+
+DWOK35A
+CUT[Oj tam w horodcy pered wikieńcem]
+REG[]
+TRD[DWOK35a Przemyskie s. 20 Wyszatyce]
+FKT[]
+SIG[35A01000001]
+KEY[35A010  08  G 4/4]
+MEL[1_123_2_  1_123_2_  1_3_5__
+    5_654_54  3_2_1-7-6-5  1_2_1__ //]
+BEM[Kolęda]
+
+DWOK35A
+CUT[Oj tam w horodcy pered wikieńcem]
+REG[]
+TRD[DWOK35a Przemyskie s. 20 Wyszatyce]
+FKT[]
+SIG[35A01000002]
+KEY[35A010  08  G 4/4]
+MEL[1_123_2_  12123_2_  12345__
+    5_654_54  32351-7-6-5  12121__ //]
+BEM[Kolęda]
+
+DWOK35A
+CUT[Wes syjawyj nad sonce po wertepi neni]
+REG[]
+TRD[DWOK35a Przemyskie s. 20 Wyszatyce]
+FKT[]
+SIG[35A01100001]
+KEY[35A011  16  A 2/4]
+MEL[1_1_5_5_  4_6b_5__  4_5_4_4_  3b_3b__.
+    1_1_5_5_  456b_5__  4_5_43b4_  3b23b__.
+    1_3b_2_4_  3b___  4_5_6b_4_  5___
+    5_7b6b5_4_  3b_3b__.  3b_4_3b_1-7  1___ //]
+BEM[Kolęda]
+
+DWOK35A
+CUT[Wes syjawyj nad sonce po wertepi neni]
+REG[]
+TRD[DWOK35a Przemyskie s. 20 Wyszatyce]
+FKT[]
+SIG[35A01100002]
+KEY[35A011  16  A 2/4]
+MEL[1_1_5_5_  4_6b_5__  4_5_4_4_  3b_3b__.
+    1_1_5_5_  456b_5__  4_5_43b4_  3b23b__.
+    123b_2_4_  3b___  456b_6b_4_  5___
+    7b_7b6b5_4_  3b25__.  3b24_3b21-7  1___ //]
+BEM[Kolęda]
+
+DWOK35A
+CUT[Boh predwiczny narodyv sie]
+REG[]
+TRD[DWOK35a Przemyskie s. 21 Rakowa]
+FKT[]
+SIG[35A01200001]
+KEY[35A012  08  C 2/4]
+MEL[+1_76  5__  +1_+2+2  +3__
+    +1+3+4_  +2+4+3_  +1+3+2_  +165_
+    +4+3+2+2  +1__ //]
+BEM[]
+
+DWOK35A
+CUT[Boh predwiczny narodyv sie]
+REG[]
+TRD[DWOK35a Przemyskie s. 21 Rakowa]
+FKT[]
+SIG[35A01200002]
+KEY[35A012  16  C 2/4]
+MEL[+1__7_6_  5___  +1_+2+3+2+1+2+4  +3___
+    +1_+3_+4__  +2+1+2+4+3__  +3_+5_+2__  +17655__
+    +4_+3_+2+1+27  +1___ //]
+BEM[]
+
+DWOK35A
+CUT[Dywnaja nowyna]
+REG[]
+TRD[DWOK35a Przemyskie s. 21 Rakowa]
+FKT[]
+SIG[35A1300001]
+KEY[35A013  16  C 2/4]
+MEL[7_.+1+2_+2_  +3__+1__  7_.+1+2_+4_  +3__+1__
+    +4_.+3+4_+2+1  +3_+3_+3_+2+1  7_.+1+2_+2_  +1__+1__ //]
+BEM[]
+
+DWOK35A
+CUT[Dywnaja nowyna]
+REG[]
+TRD[DWOK35a Przemyskie s. 21 Rakowa]
+FKT[]
+SIG[35A01300002]
+KEY[35A013  16  C 2/4]
+MEL[7_.+1+2+1+2+4  +3_+27+1__  7_.+1+2_+4_  +3__+1__
+    +4_.+3+4+3+2+1  +3_+3+2+3_+2+1  7_.+1+2_+2_  +1__+1__ //]
+BEM[]
+
+DWOK35A
+CUT[A Święta Maryja z tego się zaśmiała]
+REG[]
+TRD[DWOK35a Przemyskie s. 22 Rakowa]
+FKT[]
+SIG[35A01400001]
+KEY[35A014  08  G 2/4]
+MEL[1234  5_3_  5_.4  3_5_  433_
+    5654  3_1_  3_.2  3_4_  311_ //]
+BEM[]
+
+DWOK35A
+CUT[A Święta Maryja z tego się zaśmiała]
+REG[]
+TRD[DWOK35a Przemyskie s. 22 Rakowa]
+FKT[]
+SIG[35A01400002]
+KEY[35A014  08  G 2/4]
+MEL[1234  5_3_  5_.4  3_5_  (543)3_
+    5654  3_1_  3_.2  3_4_  (321)1_ //]
+BEM[]
+
+DWOK35A
+CUT[Oj tam na hori]
+REG[]
+TRD[DWOK35a Przemyskie s. 22 Rakowa]
+FKT[]
+SIG[35A01500001]
+KEY[35A015  08  A 3/4]
+MEL[12245_  66654#2  3b2_-71_
+    55543b2  3b412^1  -7_1_.1 //]
+BEM[Kolęda ob. nr. 5; skorygowano będy w zapisie metrorytmicznym]
+
+DWOK35A
+CUT[Oj tam na hori]
+REG[]
+TRD[DWOK35a Przemyskie s. 22 Rakowa]
+FKT[]
+SIG[35A01500002]
+KEY[35A015  16  A 3/4]
+MEL[1_2_224_5__  6_6_6_5_4#3b2_  3b12_^_-7_1__
+    5_5_5_4_3b_2_  3b_4_1_2_^13b_  3b-71_1__.1_ //]
+BEM[Kolęda]
+
+DWOK35A
+CUT[Tam za stinoju]
+REG[]
+TRD[DWOK35a Przemyskie s. 23 Rakowa]
+FKT[]
+SIG[35A01600001]
+KEY[35A016  16  C 3/8]
+MEL[5_+1_+3_  +2__+1_  +3_+3_+5_  +4__+2_
+    +1_+2_+3_  +1__+3_  +4_+2_+3_  +1_+176_
+    5_+1_+3_  +2__+1_  +3_+3_+5_  +4__+2_
+    +1_+2_+3_  +1__+3_  +4_+2_+3_  +1__+1_ //]
+BEM[Kolęda ob. nr 10]
+
+DWOK35A
+CUT[Tam za stinoju]
+REG[]
+TRD[DWOK35a Przemyskie s. 23 Rakowa]
+FKT[]
+SIG[35A01600002]
+KEY[35A016  16  C 3/8]
+MEL[5_+1_+3_  +2_+3+2+1_  +3_+3_+5_  +4_.+2(+3+2+1)
+    +3_+2_+3_  +1__+2+3  +4_+2_+3_  +1_.6(765)
+    5_+1_+3_  +2_+3+2+1_  +3_+3_+5_  +4_.+2(+3+2+1)
+    +1_+2_+3_  +1__+2+3  +4_+2_+3_  +1__+1_ //]
+BEM[Kolęda]
+
+DWOK35A
+CUT[Jezus dziecię w Betlehemie]
+REG[]
+TRD[DWOK35a Przemyskie s. 24 Sambor]
+FKT[]
+SIG[35A01700000]
+KEY[35A017  08  G 3/4]
+MEL[113_4_  5_.654  4_3_45  3__0_
+    113_4_  5_.654  4_3_45  3__0_
+    4_.544  3_.433  2_.322  212_-5_
+    5_5_44  3__0_ //]
+BEM[]
+
+DWOK35A
+CUT[Witaj niebo stworzyciela]
+REG[]
+TRD[DWOK35a Przemyskie s. 24 Sembor]
+FKT[]
+SIG[35A01800000]
+KEY[35A018  16  A 4/4 5/4 3/4]
+MEL[-5_-6-71__-7__-6__-5__  -5__-4_-4_-3__
+    1__3__4__2__  3__2_2_1___
+    1_3_3_354__.2_  1_3_3_354__.2_
+    3_.21_-7_-6_.-5-4_-3_  3_3_2_2_1___ //]
+BEM[U Kolberga zapis na 4/4, błędny w stosunku do faktycznego rytmu]
+
+DWOK35A
+CUT[Pasła Kasuni czetwero woływ]
+REG[]
+TRD[DWOK35a Przemyskie s. 25]
+FKT[]
+SIG[35A01900000]
+KEY[35A019  16  A 3/8]
+MEL[1_2_1_  2_5__  4#_5_6_  5_4#2_.  3b_2__  1__.
+    2_3b_4_  5_42_.  2_3b_3b_  2__3b_  1_-7__  1__. //]
+BEM[Wariant w takcie piątym 3b_2_-7_ w takcie dziewiątym 2_1_1_]
+
+DWOK35A
+CUT[Hej lilija]
+REG[]
+TRD[DWOK35a Przemyskie s. 26]
+FKT[]
+SIG[35A02200000]
+KEY[35A022  08  G 2/4]
+MEL[5__  4#52_
+    2343  5_4_  4543  2_1_
+    2__  231_ //]
+BEM[Kolęda]
+
+DWOK35A
+CUT[Spieszmy się bracia wszyscy pospołu]
+REG[]
+TRD[DWOK35a Przemyskie s. 26]
+FKT[]
+SIG[35A02300000]
+KEY[35A023  08  G 2/4]
+MEL[2_24  6_6_  6_62  4_3_
+    5_54  6_6_  6_62  4_3_
+    6666  6554  3555  5432
+    2345  6_4_  3__ //]
+BEM[U Kolberga takty 5-6 i 7-8 połączone w metrum 4/4]
+
+DWOK35A
+CUT[A w horodeńku bil zabiliła]
+REG[]
+TRD[DWOK35a Przemyskie s. 27 Rakowa]
+FKT[]
+SIG[35A02400001]
+KEY[35A024  08  G 4/4]
+MEL[5_345_6_  5_345_6_  5_6_5__
+    4_213_5_  4_213_5_  3_2_1__ //]
+BEM[]
+
+DWOK35A
+CUT[A w horodeńku bil zabiliła]
+REG[]
+TRD[DWOK35a Przemyskie s. 27 Rakowa]
+FKT[]
+SIG[35A02400002]
+KEY[35A024  08  G 4/4]
+MEL[5_345_65  5_345_65  56655__
+    43213_5_  43213_54  3_211__ //]
+BEM[]
+
+DWOK35A
+CUT[Gospodare spodarojku]
+REG[]
+TRD[DWOK35a Przemyskie s. 27]
+FKT[]
+SIG[35A02500000]
+KEY[35A025  16  G 3/4]
+MEL[1_5_2__3__  3_5_4__3_1_  4_3_1__2__  423_1__1__
+    135_2__3_1_  355_4__323_  423_1__2_3_  4_3_1__1__ //]
+BEM[]
+
+DWOK35A
+CUT[Szczodry weczyr dobry weczyr]
+REG[]
+TRD[DWOK35a Przemyskie s. 28 Iskań]
+FKT[]
+SIG[35A02600001]
+KEY[35A026  08  A 3/4]
+MEL[13b2_3b_  3b54_3b_  43b1_2_  43b1_1_ //]
+BEM[Na Jordan]
+
+DWOK35A
+CUT[Szczodry weczyr dobry weczyr]
+REG[]
+TRD[DWOK35a Przemyskie s. 28 Iskań]
+FKT[]
+SIG[35A02600002]
+KEY[35A026  16  A 3/4]
+MEL[-513b_2__3b_1_  13b5_4__3b_1_  4_3b11__2__  4_3b11__1__ //]
+BEM[Na Jordan]
+
+DWOK35A
+CUT[Oj cy je cy nyma]
+REG[]
+TRD[DWOK35a Przemyskie s. 28]
+FKT[]
+SIG[35A02700000]
+KEY[35A027  08  G 2/4]
+MEL[134_  553_  352_  -7-6-5_
+    132-7  132-7  132_  -7-6-5_ //]
+BEM[Wariant w takcie pierwszym 1_234__ i trzecim 3_5_2_1_; szczodriwka w Wiliją Jordana]
+
+DWOK35A
+CUT[Czy je czy nyma pan spedar doma]
+REG[]
+TRD[DWOK35a Przemyskie s. 29 Wyszatyce]
+FKT[]
+SIG[35A02800001]
+KEY[35A028  08  A 3/4]
+MEL[2_4-71_  223b-71_  2_54#5_  2_3b-71_ //]
+BEM[W wiliję Nowego Roku lub Jordanu]
+
+DWOK35A
+CUT[Czy je czy nyma pan spedar doma]
+REG[]
+TRD[DWOK35a Przemyskie s. 29 Wyszatyce]
+FKT[]
+SIG[35A02800002]
+KEY[35A028  16  A 3/4]
+MEL[2_2_3b_-7_1__  2_2_3b21-71__  2__5_4#_5__  2__43b2-71__ //]
+BEM[W wiliję Nowego Roku lub Jordanu]
+
+DWOK35A
+CUT[Z tycha bratia prestupujmo]
+REG[]
+TRD[DWOK35a Przemyskie s. 29 Iskań]
+FKT[]
+SIG[35A02900001]
+KEY[35A029  08  C 3/4]
+MEL[+1+3+2_+3_  +3+5+4_+3_  +3+3+1_+2_  +3+3+1_+1_ //]
+BEM[]
+
+DWOK35A
+CUT[Z tycha bratia prestupujmo]
+REG[]
+TRD[DWOK35a Przemyskie s. 29 Iskań]
+FKT[]
+SIG[35A02900002]
+KEY[35A029  16  C 3/4]
+MEL[+1+3+2__+3+2+1_  +3+2+3+5+4_.+3+3+2+1_  +2+4(+3+2+1)+1__+1+2+3_  (+4+3+1)(+3+2+1)+1__+1__ //]
+BEM[]
+
+DWOK35A
+CUT[Oj rano rano kurojkie piłe]
+REG[]
+TRD[DWOK35a Przemyskie s. 30]
+FKT[]
+SIG[35A03100000]
+KEY[35A031  16  C 3/8]
+MEL[+2_+4__  +3_+2_+1_  +2_+2_+1_  6_6__  5_+1__  7__+1_
+    +2+3+4+3+2+4  +3_.+4+2_  +2+3+2_+17  676__  5_+1__  7__+1_ //]
+BEM[Podane metrum 3/4 zapisano poprawnie w metrum 3/8]
+
+DWOK35A
+CUT[Hory mytene stoły styłene]
+REG[]
+TRD[DWOK35a Przemyskie s. 30 Iskań]
+FKT[]
+SIG[35A03200000]
+KEY[35A032  16  G 4/4]
+MEL[1__3_4_5__6__  7b__5_6_4__3__  2__4__1___
+    1_1_3_4_5__6__  7b6_.5_6_4__31_.  2_1_(4_2_1_)1___ //]
+BEM[]
+
+DWOK35A
+CUT[Swiata Kataryna jisty waryła]
+REG[]
+TRD[DWOK35a Przemyskie s. 31]
+FKT[]
+SIG[35A03300000]
+KEY[35A033  32  C 3/4]
+MEL[+1__+1__+1__+2__+2__+1__  +1_+2_+3__+4___+2___  +3__+2__+1___+2___  +2__+3__+1___+1___
+    +1__+2+1+4+2+1__+2_+3_+2__+2_+1_  +1_+2_+3__+4___+2__+1__  +3__+2_+3_+1___+2___  +4__+3__+1___+1___ //]
+BEM[Szczodrak]
+
+DWOK35A
+CUT[Przeczystaja Diwa]
+REG[]
+TRD[DWOK35a Przemyskie s. 31]
+FKT[]
+SIG[35A03400001]
+KEY[35A034  16  G 3/4]
+MEL[-5-51_2__5_1_  3_5_4__3_1_  4_3_1__2__  4_3_1__1__ //]
+BEM[Szczodriwka]
+
+DWOK35A
+CUT[Przeczystaja Diwa]
+REG[]
+TRD[DWOK35a Przemyskie s. 31]
+FKT[]
+SIG[35A03400002]
+KEY[35A034  16  G 3/4]
+MEL[-5-5132__421_  32354_.33221  43341_3_2_3_  43(32-7)1__1__ //]
+BEM[Szczodriwka]
+
+DWOK35A
+CUT[Predwicznyj ja z neba spustyv sie]
+REG[]
+TRD[DWOK35a Przemyskie s. 32 Rakowa]
+FKT[]
+SIG[35A03500001]
+KEY[35A035  16  A 2/4]
+MEL[3b__43b21  3b__.1_  3b_3b_1_-7_  1___
+    3b__4_3b2  3b__.21  3b_3b_521-7  1___
+    3b_3b_2_1_  -7_1_2__  3b_3b_2_1_  -7_1_2_1_
+    3b__1_-7_  1___ //]
+BEM[W czasie kolęd]
+
+DWOK35A
+CUT[Predwicznyj ja z neba spustyv sie]
+REG[]
+TRD[DWOK35a Przemyskie s. 32 Rakowa]
+FKT[]
+SIG[35A03500002]
+KEY[35A035  16  A 2/4]
+MEL[3b__43b21  3b__.1_  3b_3b_1_-7_  1___
+    3b__4_3b2  3b__.21  3b_3b_521-7  1___
+    3b_3b_2_1_  -7_1_2__  3b_3b_2_1_  -7_1_2_1_
+    3b_3b_3b21-7  1___ //]
+BEM[W czasie kolęd]
+
+DWOK35A
+CUT[Woskres Chrystos iz hroba]
+REG[]
+TRD[DWOK35a Przemyskie s. 34 Rakowa]
+FKT[]
+SIG[35A03600001]
+KEY[35A036  08  C 2/4]
+MEL[7+1+2+2  +3+2+2_  +1+3+3+3  +4_+2_
+    +4+4+3+3  +2+2+3+2  +1__  +2+2+3+2  +1#_+2_ //]
+BEM[Andante]
+
+DWOK35A
+CUT[Woskres Chrystos iz hroba]
+REG[]
+TRD[DWOK35a Przemyskie s. 34 Rakowa]
+FKT[]
+SIG[35A03600002]
+KEY[35A036  16  C 2/4]
+MEL[7_+1_+2_+2_  +2+3+3+2+2__  +1_+3_+3_+3_  +4+3+2_+2__
+    +4_+4_+3_+3_  +2_(+2+3+4)+3_+2_  +1___  +2_(+2+3+4)+3_+2_  +1#__+2__ //]
+BEM[Andante]
+
+DWOK35A
+CUT[Jedzie jedzie Żelman]
+REG[]
+TRD[DWOK35a Przemyskie s. 36]
+FKT[]
+SIG[35A03700001]
+KEY[35A037  08  G 2/4]
+MEL[4433  2_1_  4433  321_
+    2225  4423  4433  2_1_ //]
+BEM[]
+
+DWOK35A
+CUT[Jedzie jedzie Żelman]
+REG[]
+TRD[DWOK35a Przemyskie s. 36]
+FKT[]
+SIG[35A03700002]
+KEY[35A037  16  G 2/4]
+MEL[4_543_3_  2__1__  4_543234  21231__
+    2_2_2_5_  43212_3_  434_3_23  2__1__ //]
+BEM[]
+
+DWOK35A
+CUT[Pustyż mene moja maty]
+REG[]
+TRD[DWOK35a Przemyskie s. 37]
+FKT[]
+SIG[35A03800001]
+KEY[35A038  16  G 3/8]
+MEL[234_3_  3_4__  3_2__  234_3_  1_2__  -7_1__ //]
+BEM[]
+
+DWOK35A
+CUT[Pustyż mene moja maty]
+REG[]
+TRD[DWOK35a Przemyskie s. 37]
+FKT[]
+SIG[35A03800002]
+KEY[35A038  16  G 3/8]
+MEL[234_31  334_.3  3_2_.1  234_3_  112_.1  -7_1__ //]
+BEM[]
+
+DWOK35A
+CUT[Sedyt kaczor]
+REG[]
+TRD[DWOK35a Przemyskie s. 37]
+FKT[]
+SIG[35A03900000]
+KEY[35A039  16  G 2/4]
+MEL[2_4_3_1_  2_4_3_2_  2_4_3_1_  2__3__
+    2_4_3_3_  1__1__
+    2_4_321_  2_4_3_2_  2_4_321_  2__321_
+    2_4_323-7  1__1__ //]
+BEM[]
+
+DWOK35A
+CUT[Wój tak i tak]
+REG[]
+TRD[DWOK35a Przemyskie s. 38]
+FKT[]
+SIG[35A04000001]
+KEY[35A040  08  G 3/8]
+MEL[12_  12_  132  -71_ //]
+BEM[]
+
+DWOK35A
+CUT[Wój tak i tak]
+REG[]
+TRD[DWOK35a Przemyskie s. 38]
+FKT[]
+SIG[35A04000002]
+KEY[35A040  16  G 3/8]
+MEL[1_2_-7_  1_2_-7_  1_3_21  -7_1__ //]
+BEM[]
+
+DWOK35A
+CUT[Krasnaja diwojko]
+REG[]
+TRD[DWOK35a Przemyskie s. 38]
+FKT[]
+SIG[35A04100001]
+KEY[35A041  08  C 3/8]
+MEL[5+1_  +2+4_  +3+2_  +3+4_  +3+2_  +1_+1 //]
+BEM[]
+
+DWOK35A
+CUT[Krasnaja diwojko]
+REG[]
+TRD[DWOK35a Przemyskie s. 38]
+FKT[]
+SIG[35A04100002]
+KEY[35A041  16  C 3/8]
+MEL[5_+1__  +2_+4__  (+3+2+1)+2_+1_  +3_+4_+2_  +3_+2_7_  +1__+1_ //]
+BEM[]
+
+DWOK35A
+CUT[Pryjd' swaszku pryjd']
+REG[]
+TRD[DWOK35a Przemyskie s. 39]
+FKT[]
+SIG[35A04200001]
+KEY[35A042  08  G 2/4]
+MEL[2_12  1__
+    312_  312_  312_  3121
+    2_12  1__ //]
+BEM[]
+
+DWOK35A
+CUT[Pryjd' swaszku pryjd']
+REG[]
+TRD[DWOK35a Przemyskie s. 39]
+FKT[]
+SIG[35A04200002]
+KEY[35A042  16  G 2/4]
+MEL[2__1_2_  1___
+    321_2_4_  3_1_2_4_  321_2_4_  321_2_1_
+    2__1_2_  1___ //]
+BEM[]
+
+DWOK35A
+CUT[Jedzie jedzie Szelma]
+REG[]
+TRD[DWOK35a Przemyskie s. 39 Sanoczany]
+FKT[]
+SIG[35A04300000]
+KEY[35A043  08  C 2/4]
+MEL[+4+3+2+4  +3+2+1_  +4+3+2+4  +3+2+1_
+    +2+2+3+1  +2+2+3+1  +4_+3_  +2+2+1_ //]
+BEM[]
+
+DWOK35A
+CUT[Pomagabóg Ksenia]
+REG[]
+TRD[DWOK35a Przemyskie s. 40 Czerniawa pod Mościskami]
+FKT[]
+SIG[35A04400001]
+KEY[35A044  08  G 2/4]
+MEL[4322  3_1_  1324  3_1_
+    -7122  334_  3322  1_1_ //]
+BEM[]
+
+DWOK35A
+CUT[Pomagabóg Ksenia]
+REG[]
+TRD[DWOK35a Przemyskie s. 40 Czerniawa pod Mościskami]
+FKT[]
+SIG[35A04400002]
+KEY[35A044  16  G 2/4]
+MEL[4_3_212_  3_2_1__  4_3_2124  3_2_1__
+    -7_1_232_  323_4__  343_2123  1_-7_1__ //]
+BEM[]
+
+DWOK35A
+CUT[Worobczyku ptaszku]
+REG[]
+TRD[DWOK35a Przemyskie s. 40 Czerniawa pod Mościskami]
+FKT[]
+SIG[35A04500001]
+KEY[35A045  08  A 3/4]
+MEL[3b45_5_  3b21__  5_3b_1_  5_3b_1_
+    -712_1_  -712_1_  3b45_5_  3b__1_ //]
+BEM[]
+
+DWOK35A
+CUT[Worobczyku ptaszku]
+REG[]
+TRD[DWOK35a Przemyskie s. 40 Czerniawa pod Mościskami]
+FKT[]
+SIG[35A04500002]
+KEY[35A045  16  A 3/4]
+MEL[3b_4_5_4_5__  3b43b21___  5_4_3b_2_1__  5_4_3b_2_1__
+    -7_1_2_-7_1__  -7_1_2_-7_1__  3b_4_5_4#_5_4_  3b43b23b43b21__ //]
+BEM[]
+
+DWOK35A
+CUT[Pryjd' swachu pryjd']
+REG[]
+TRD[DWOK35a Przemyskie s. 41]
+FKT[]
+SIG[35A04600001]
+KEY[35A046  16  G 2/4]
+MEL[5__4_6_  4__.3_  5__3_2_  1___
+    3_5_4_3_  2_4_3_1_  3_5_4_3_  2_4_3_1_
+    2_.12_3_  1___ //]
+BEM[]
+
+DWOK35A
+CUT[Pryjd' swachu pryjd']
+REG[]
+TRD[DWOK35a Przemyskie s. 41]
+FKT[]
+SIG[35A04600002]
+KEY[35A046  16  G 2/4]
+MEL[5_3_4_6_  5__.3_  5_.43_2_  1___
+    3_5_4_3_  2_4_321_  3_5_4_3_  2_4_321_
+    2_.12_3_  1___ //]
+BEM[]
+
+DWOK35A
+CUT[Czomu Halu nie tańcujesz]
+REG[]
+TRD[DWOK35a Przemyskie s. 41]
+FKT[]
+SIG[35A04700000]
+KEY[35A047  16  C 3/8]
+MEL[+1+2+3_+4_  +3+3+2_+1_  +4_.+2+2_  +3+10_0_
+    +1+2+3_+4_  +3+3+2_+1_  +1+2+3_+4_  +3+3+3_+4_
+    +3+1+2_+27  +1__+1_ //]
+BEM[]
+
+DWOK35A
+CUT[Czemu ne tańcujesz Halu]
+REG[]
+TRD[DWOK35a Przemyskie s. 42 Iskań]
+FKT[]
+SIG[35A04800011]
+KEY[35A048  08  C 2/4]
+MEL[+5+5+5+3  +4+2+3+1  +27+1_
+    +1+3+4+2  +37+1_  +1+3+4+2  75_. //]
+BEM[]
+
+DWOK35A
+CUT[Czemu ne tańcujesz Halu]
+REG[]
+TRD[DWOK35a Przemyskie s. 42 Iskań]
+FKT[]
+SIG[35A04800012]
+KEY[35A048  16  C 2/4]
+MEL[+5_+5_+5_+3_  +4_+2_+3_+1_  +2_7_+1__
+    5+1+2+3+4_+2_  +3_7_+1_5_  5+1+2+3+4_+2_  755_5__ //]
+BEM[]
+
+DWOK35A
+CUT[Instrumentalna-Czemu ne tańcujesz Halu]
+REG[]
+TRD[DWOK35a Przemyskie s. 42 Iskań]
+FKT[]
+SIG[35A04800021]
+KEY[35A048  16  C 2/4]
+MEL[+5__.+5_  +5_+5__+5_
+    +5+6+5+4+3_+3_  +2_7_5__  +1_+3_+5_+3_  +2_7_5__
+    +1_+3_+4_+1_  7__5__  +1_+4_+2__  +3_+4_+2_+2_  7_5_5__ //]
+BEM[Partia instrumentalna]
+
+DWOK35A
+CUT[Instrumentalna-Czemu ne tańcujesz Halu]
+REG[]
+TRD[DWOK35a Przemyskie s.42 Iskań]
+FKT[]
+SIG[35A04800022]
+KEY[35A048  16  C 2/4]
+MEL[+5__.+5_  +5_+5__+5_
+    +5+6+5+4+3_+2+3  +2_7_5__  5+1+3+4+5_+4+3  +2_7_5__
+    5+1+3+2+4_+2+1  7_5_5__  +1+3+4_+2_75  +3+5+4+3+2+3+2+1  7+1765__ //]
+BEM[Partia instrumentalna]
+
+DWOK35A
+CUT[Sidyt jaszczur]
+REG[]
+TRD[DWOK35a Przemyskie s. 42 Sanoczany]
+FKT[]
+SIG[35A04900000]
+KEY[35A049  08  C 2/4]
+MEL[+2+4+3+1  +2+4+3+1  +2+4+3+1  +2_+3+1  +2+4+3+2  +1_+1_ //]
+BEM[]
+
+DWOK35A
+CUT[Czernuszko-Duszko]
+REG[]
+TRD[DWOK35a Przemyskie s. 43 Sanoczany]
+FKT[]
+SIG[35A05000000]
+KEY[35A050  16  C 3/8]
+MEL[+17+1_+3_  +2_+3_7_  +1_+1_+3_  +2_+3_77
+    +1_+1_+3_  +2_+3__  +1_+1_+3_  +2_+3_+1_
+    +3+4+5_+5_  +4_+2_+1_  +3_+5__
+    +3+4+5_+5_  +4_+2_+1_  +3_+1__
+    +3+4+5_+5_  +4_+2_+1_  +3_+5__
+    +3+4+5_+5_  +4_+2_+1_  +3_+1__ //]
+BEM[]
+
+DWOK35A
+CUT[Konec zahona konec]
+REG[]
+TRD[DWOK35a Przemyskie s. 44 Wyszatyce]
+FKT[]
+SIG[35A05100001]
+KEY[35A051  08  A 3/8]
+MEL[254  3b3b1  2_.  20_  21_  3b5_  65_
+    541  3b5_  65_  543b  3b2_  1_.  1_0 //]
+BEM[]
+
+DWOK35A
+CUT[Konec zahona konec]
+REG[]
+TRD[DWOK35a Przemyskie s. 44 Wyszatyce]
+FKT[]
+SIG[35A05100002]
+KEY[35A051  16  A 3/8]
+MEL[2_5_42  3b23b_1_  2__.  2_0__  2_2_1_  3b_5__  6_5__
+    5_541_  3b_5__  6_5__  5_5443b  3b_2_-7_  1__.  1__0_ //]
+BEM[]
+
+DWOK35A
+CUT[Wyj sie winojku wkoło]
+REG[]
+TRD[DWOK35a Przemyskie s. 45 Rakowa]
+FKT[]
+SIG[35A05200001]
+KEY[35A052  08  G 2/4]
+MEL[2_24  3_1_  1__  1_0_  4_54  3_2_  4_3_
+    4_21  3_1_  1__  1_0_ //]
+BEM[]
+
+DWOK35A
+CUT[Wyj sie winojku wkoło]
+REG[]
+TRD[DWOK35a Przemyskie s. 45 Rakowa]
+FKT[]
+SIG[35A05200002]
+KEY[35A052  08  G 2/4]
+MEL[2124  3_21  1__  1_0_  4354  3121  4_32
+    4321  321-7b  1__  1_0_ //]
+BEM[]
+
+DWOK35A
+CUT[Już sie na polu mroczy]
+REG[]
+TRD[DWOK35a Przemyskie s. 46 Iskań]
+FKT[]
+SIG[35A05400001]
+KEY[35A054  16  C 3/8]
+MEL[+2_+4__  +3_+4_+3_  +1__50  +2_+4_+3_  +4_+3__  +1__50
+    +1_+2_+3_  +3_+4__  +4_+3_0_  +3_+3_+4_  +4_+3__  +1__+1_ //]
+BEM[]
+
+DWOK35A
+CUT[Już sie na polu mroczy]
+REG[]
+TRD[DWOK35a Przemyskie s. 46 Iskań]
+FKT[]
+SIG[35A05400002]
+KEY[35A054  32  C 3/8]
+MEL[+2_+3_+4___  +3_+2_+4__+3_7_  +1__(^_6_7_)5_0_
+    +2__+4__+3_+2_  +2+3+4+2+3__.7_  +1__^7675_0_
+    5_+1_+2__+3__  +3_+4_+4___  +4__(+4_+3_+2_)0__
+    +3__+3_+2_+4__  +4_+3+2+3__7__  +1___+1__ //]
+BEM[]
+
+DWOK35A
+CUT[U naszego pana]
+REG[]
+TRD[DWOK35a Przemyskie s. 47]
+FKT[]
+SIG[35A05600000]
+KEY[35A056  16  G 2/4]
+MEL[2_4__6_  5_3__3_  4_342__  435__31
+    2_4__6_  5_3__3_  4_342__  -7_1__1_ //]
+BEM[]
+
+DWOK35A
+CUT[Dobre my żeńce byli]
+REG[]
+TRD[DWOK35a Przemyskie s. 47]
+FKT[]
+SIG[35A05700000]
+KEY[35A057  08  C 3/4]
+MEL[55+2__  +4_+3_7_  +1__.  5_0_0_
+    +1+2+3_+1_  +4__.  +4_+3+10_
+    +3+2+4__  ^_+3_7_  +1__.  +1_0_0_ //]
+BEM[]
+
+DWOK35A
+CUT[W naszoho kuma]
+REG[]
+TRD[DWOK35a Przemyskie s. 51 Nienadowa]
+FKT[]
+SIG[35A05900000]
+KEY[35A059  16  A 5/8]
+MEL[-7_1_3b_2_1_  -7_1_3b_3b_3b_  4__3b21_0_
+    -7_1_3b_2_2_  3b3b_.4__3b0  1___1_ //]
+BEM[]
+
+DWOK35A
+CUT[Moja luba mamunesejku]
+REG[]
+TRD[DWOK35a Przemyskie s. 52 Rakowa]
+FKT[]
+SIG[35A06000001]
+KEY[35A060  16  A FREI]
+MEL[3b_4_4_4_4__.23b_1__  1_2_3b__1_3b_4__1___
+    3b44443b2__1___  1_2_3b_4_4_3b_3b2__1___  4__4_1_3b_1___ //]
+BEM[]
+
+DWOK35A
+CUT[Moja luba mamunesejku]
+REG[]
+TRD[DWOK35a Przemyskie s. 52 Rakowa]
+FKT[]
+SIG[35A06000002]
+KEY[35A060  32  A FREI]
+MEL[3b__4__4__4__4__.(3b_2_2_)(3b_2_1_)1___  1__2__3b__1__1__3b__4__1__1____
+    3b_4_4_4_(43b2)3b_2__1__1____  1__2__3b__4__(4_3b_2_)3b_1_3b_2__1__1____  4___4__1__3b_1_1____ //]
+BEM[]
+
+DWOK35A
+CUT[A moja luba ditynojko]
+REG[]
+TRD[DWOK35a Przemyskie s. 53 Rakowa]
+FKT[]
+SIG[35A06100000]
+KEY[35A061  16  A FREI]
+MEL[1_4#_5_4#_5_5_5_3b21__  1_2_3b_2_3b_2_1_  1_2_3b_5_5_4_3b_3b21__-7__
+    4_4_4_4_5_3b21__-7__  1_2_3b_5_5_4_3b21_3b__1__ //]
+BEM[matka za dzieckiem]
+
+DWOK35A
+CUT[Z za hory świtojko]
+REG[]
+TRD[DWOK35a Przemyskie s. 55 Iskań]
+FKT[]
+SIG[35A06300001]
+KEY[35A063  08  A 3/8]
+MEL[-513b  44_  2_.  43b_  410
+    443b  11_  2_1  3b2_  1_0 //]
+BEM[Wesele]
+
+DWOK35A
+CUT[Z za hory świtojko]
+REG[]
+TRD[DWOK35a Przemyskie s. 55 Iskań]
+FKT[]
+SIG[35A06300002]
+KEY[35A063  16  A 3/8]
+MEL[-5_1_3b2  4_4_1_  2__.  423b_2_  4_1_0_
+    4_4_3b2  3b11__  2__1_  3b_2_-7_  1__0_ //]
+BEM[Wesele]
+
+DWOK35A
+CUT[Nieszczęśliwa głowiczejko]
+REG[]
+TRD[DWOK35a Przemyskie s. 55 Iskań]
+FKT[]
+SIG[35A06500001]
+KEY[35A065  16  A 3/8]
+MEL[1_3b_2_  3b25_4_  3b12__  3b__.  4__.  5__.
+    6b_3b__  5_3b__  (3b23b)5__  3b12__  3b_2__  1__. //]
+BEM[]
+
+DWOK35A
+CUT[Nieszczęśliwa głowiczejko]
+REG[]
+TRD[DWOK35a Przemyskie s. 55 Iskań]
+FKT[]
+SIG[35A06500002]
+KEY[35A065  32  A 3/8]
+MEL[-5_1_3b__3b_2_  3b_2_5__5_4_  3b_1_2___  (3b_2_3b_)4___  4___.  5___.
+    6b_4_3b__2__  5_4_3b__2__  3b__5__4__  3b_1_2__1__  123b_2__-7__  1___. //]
+BEM[]
+
+DWOK35A
+CUT[Pryszła Marysia z seła]
+REG[]
+TRD[DWOK35a Przemyskie s. 56-57 Iskań]
+FKT[]
+SIG[35A06700001]
+KEY[35A067  16  C 3/8]
+MEL[+2_+3_+2_  +4_+3__  +1__.  5_0__  +1_+2_+1_  +3_+4__  +4_+3_+10
+    +1_+3_+4_  +3_7__  +1__.  +1_0__
+    +4_+3_+2_  +4__+3_  +3_+4_+3_  +1__50  5_+1__  +3_+4__  +3_0__
+    +2_+2+1+4_  +3_+1__
+    +4_+3_+2_  +4__+3_  +3_+4_+3_  +1__50  5_+1__  +3_+4__  +3_0__
+    +2_+2_+3+1  7+1^__ //]
+BEM[]
+
+DWOK35A
+CUT[Pryszła Marysia z seła]
+REG[]
+TRD[DWOK35a Przemyskie s. 56-57 Iskań]
+FKT[]
+SIG[35A06700002]
+KEY[35A067  16  C 3/8]
+MEL[+2+4+4+3+2_  +4+2+3_7_  +1__.  5_0__  5+1+2+1+3_  +3_+4__  +4+3+3_+10
+    +3_+3_+4_  +3_+27+1_  +1__.  +1_0__
+    +4_+3_+2_  +4_.+2+3+1  +1+3+4_+37  +1__+15  5_+1__  +3_+4_.+2  +3+10__
+    +2_+2+1+4_  +3_+1__
+    +4_+3_+2_  +4_.+2+3+1  +1+3+4_+37  +1__+15  5_+1__  +3_+4_.+2  +3+10__
+    +2_+2_+3+1  7+1^__ //]
+BEM[]
+
+DWOK35A
+CUT[Oj nasijała tre hradki rutki]
+REG[]
+TRD[DWOK35a Przemyskie s. 57 Iskań]
+FKT[]
+SIG[35A06800001]
+KEY[35A068  08  A 3/8]
+MEL[-512  24#_  543b  21_  3b23b  441  2_1  2_0
+    413b  3b2_  1_.  1_0 //]
+BEM[]
+
+DWOK35A
+CUT[Oj nasijała tre hradki rutki]
+REG[]
+TRD[DWOK35a Przemyskie s. 57 Iskań]
+FKT[]
+SIG[35A06800002]
+KEY[35A068  32  A 3/8]
+MEL[4__1__2__  (3b_2_3b_)4#___  5__4_1_3b__  (2_1_2_)1___  3b__2_1_3b_2_  4__1___  2___3b21_  2___0__
+    4__4_1_3b_2_  (4_3b_1_)2__.-7_  1___.  1___0__ //]
+BEM[]
+
+DWOK35A
+CUT[Wyła Marysia winoczok]
+REG[]
+TRD[DWOK35a Przemyskie s. 57 Iskań]
+FKT[]
+SIG[35A069000001]
+KEY[35A069  16  G 3/8]
+MEL[3_5_6_  5_3__  6_5_.4  3_1_0_
+    3_5_6_  5_3__  2_1__  -7_-5_0_
+    2_4_3_  1__.  2_4_3_  2_1__
+    235_4_  3_2__  1__.  1__0_ //]
+BEM[]
+
+DWOK35A
+CUT[Wyła Marysia winoczok]
+REG[]
+TRD[DWOK35a Przemyskie s. 57 Iskań]
+FKT[]
+SIG[35A069000002]
+KEY[35A069  16  G 3/8]
+MEL[3_5_6_  543__  6_5_.4  3_1_0_
+    3_5_6_  543__  2_1__  -7_-5_0_
+    3_4_3_  1__.  234_3_  2_1__
+    435_42  3_2_-7_  1__.  1__0_ //]
+BEM[]
+
+DWOK35A
+CUT[Wczoraj buła sóbotojka]
+REG[]
+TRD[DWOK35a Przemyskie s. 59 Iskań]
+FKT[]
+SIG[35A07500010]
+KEY[35A075  16  A 3/8]
+MEL[-714_3b2  3b12_2_  -714_3b_  212__
+    -71243b1  212_-7-6  -713b21-7  1__1_ //]
+BEM[]
+
+DWOK35A
+CUT[Instrumentalna-Wczoraj buła sóbotojka]
+REG[]
+TRD[DWOK35a Przemyskie s. 59 Iskań]
+FKT[]
+SIG[35A07500020]
+KEY[35A075  16  A 3/8]
+MEL[5_4#_5_  654#_5_  5_4#_6_  5__3_
+    1_4_3_  32-7_1_  124_3_  -5_1__
+    5_4#_65  4_3_21  2_4_3_  2-71__
+    -5_4_3_  225__  -5_4_3_  2-71__ //]
+BEM[]
+
+DWOK35A
+CUT[W polu mi sie groch urodzil]
+REG[]
+TRD[DWOK35a Przemyskie s. 60 Iskań]
+FKT[]
+SIG[35A07600000]
+KEY[35A076  16  G 3/8]
+MEL[5_3_33  22265_  5(432)13  21-721_
+    -5-7243_  2-7243_  5_3_13  21-721_ //]
+BEM[]
+
+DWOK35A
+CUT[A w sóbotejku pered weczerem]
+REG[]
+TRD[DWOK35a Przemyskie s. 60 Iskań]
+FKT[]
+SIG[35A07800001]
+KEY[35A078  16  C 3/8]
+MEL[+3_+2_+4_  +4_+3__  +5_+4_+3_  +2_+3__  +2_+1__  5_0_0_
+    +1_+2_+3_  +2_+1__  +2+3+4_+3_  +2_+1__
+    +3_+3_+4_  +3_+3_7_  +2_+1__  7_0_0_ //]
+BEM[]
+
+DWOK35A
+CUT[A w sóbotejku pered weczerem]
+REG[]
+TRD[DWOK35a Przemyskie s. 60 Iskań]
+FKT[]
+SIG[35A07800002]
+KEY[35A078  16  C 3/8]
+MEL[+3_+3+2+4_  +4+3+3__  +5_+4_+3_  +2+1+3__  +27+1__  +150_0_
+    5+1+2+1+3_  +2_+1__  +5_+4_+3_  +2+1+3__
+    +3_+3+2+4_  +4+3+37+17  +2+1+1__  +170_0_ //]
+BEM[]
+
+DWOK35A
+CUT[Oj prosyt starosta swoji swanejki]
+REG[]
+TRD[DWOK35a Przemyskie s. 62 Iskań]
+FKT[]
+SIG[35A08200001]
+KEY[35A082  16  C 3/8]
+MEL[+3_+4_+3_  +4_+3__  +3+10__  +3_+4_+3_  +2_+1__  750__
+    5_+1__  +3_+4__  +3+10__  +2_+2_+3_  +4_+3_+1_  7+10__ //]
+BEM[]
+
+DWOK35A
+CUT[Oj prosyt starosta swoji swanejki]
+REG[]
+TRD[DWOK35a Przemyskie s. 62 Iskań]
+FKT[]
+SIG[35A08200002]
+KEY[35A082  16  C 3/8]
+MEL[+3_+4_+3+2  +4_+3__  (+3+2+1)0__  +3_+4_+3+2  +27+1__  (765)0__
+    (567)+1__  (+3+2+3)+4_+3_  (+3+2+1)0__  +2_+2_+3_  +4_+3_(^+2+1)  7+10__ //]
+BEM[]
+
+DWOK35A
+CUT[A w horodejku zila]
+REG[]
+TRD[DWOK35a Przemyskie s. 62 Iskań]
+FKT[]
+SIG[35A08300001]
+KEY[35A083  08  C 3/8]
+MEL[5+1+1  +4+3_  +2_+3  +2_0
+    +1+3+3  +4+3_  +2+1_
+    +3+4+2  +3+17  +1_+1 //]
+BEM[Do korowaja]
+
+DWOK35A
+CUT[A w horodejku zila]
+REG[]
+TRD[DWOK35a Przemyskie s. 62 Iskań]
+FKT[]
+SIG[35A08300002]
+KEY[35A083  16  C 3/8]
+MEL[(567)+1_(+1+2+3)  +4_+3_+1_  +2__(+3+4+3)  +2__0_
+    (+1+2+3)+3_+2+3  +4_+3_+2+1  +27+1__
+    (+1+2+3)+4+3+2+1  +3+2+1_76  +1__+1_ //]
+BEM[Do korowaja]
+
+DWOK35A
+CUT[Wój z terema do terema]
+REG[]
+TRD[DWOK35a Przemyskie s. 63 Iskań]
+FKT[]
+SIG[35A08500001]
+KEY[35A085  16  C 3/8]
+MEL[+3_+4__  +4_+3__  +4_+3__  +2_+1__
+    0_+3_+3_  +4_+4__  +2_+1__  750__
+    0_(5+1+2)+3_  +2_+1__  +4_+3__
+    +1_+3_+2+1  +3_+2_7_  +1__.  +1__0_ //]
+BEM[Gdy swacha korowaj niesie przed bojarów czyli swatów]
+
+DWOK35A
+CUT[Wój z terema do terema]
+REG[]
+TRD[DWOK35a Przemyskie s. 63 Iskań]
+FKT[]
+SIG[35A08500002]
+KEY[35A085  16  C 3/8]
+MEL[+3_+4__  +4+3+3__  +4_+3__  +27+1__
+    0_(+1+2+3)+3+4  +4_+4_+3_  +27+1__  750__
+    0_(5+1+2)+3_  +27+1__  +4_+3__
+    +1_+5+3+2+1  +3_+2_+17  +1__.  +1__0_ //]
+BEM[Gdy swacha korowaj niesie przed bojarów czyli swatów]
+
+DWOK35A
+CUT[Powidała nam soroka]
+REG[]
+TRD[DWOK35a Przemyskie s. 64-65 Iskań]
+FKT[]
+SIG[35A08800001]
+KEY[35A088  16  E 3/8]
+MEL[3b_7b_+1_  7b_6b__  +1_7b__  5__.
+    3b_7b_+1_  7b_5__  4_3b__  1__0_
+    4_6b_54  3b__.  5_6b_6b_  4_3b10_
+    4__6b_  5_3b__  5_6b_5_  4_3b10_
+    4__6b_  543b__  5_7b_+1_  7b6b5__  4_3b__  1__0_ //]
+BEM[]
+
+DWOK35A
+CUT[Powidała nam soroka]
+REG[]
+TRD[DWOK35a Przemyskie s. 64-65 Iskań]
+FKT[]
+SIG[35A08800002]
+KEY[35A088  16  E 3/8]
+MEL[(3b45)7b_+1_  (7b6b5)6b__  +1_7b__  (6b54)^__
+    3b57b_+1_  7b6b5__  4_3b__  1__0_
+    146b_54  3b__.  5_6b_6b_  4_3b10_
+    4__6b_  543b__  5_6b_5_  4_3b10_
+    4__6b_  543b__  5_7b_+1_  7b6b5__  4_3b__  1__0_ //]
+BEM[]
+
+DWOK35A
+CUT[Instrumentalna-Oj wud horojki da do horojki]
+REG[]
+TRD[DWOK35a Przemyskie s. 66 Iskań]
+FKT[]
+SIG[35A09200010]
+KEY[24092   16  C 3/8]
+MEL[+4_+3_+2+1  +2+4+3_+2+1  +2+4+3_+2+1  7_5__
+    (67+1)+2_+25  (67+1)+2_5_  +2_+3_+2+1  (765)5__ //]
+BEM[podane metrum 3/4 zapisano poprawnie na 3/8 Andante]
+
+DWOK35A
+CUT[Instrumentalna-Oj wud horojki da do horojki]
+REG[]
+TRD[DWOK35a Przemyskie s. 66 Iskań]
+FKT[]
+SIG[35A09200021]
+KEY[24092   16  C 2/4]
+MEL[5_67+1_+17  +1_+17+1__  +1_+2+3+4_+4_  +4___
+    +3_+3+2+3_+3+2  +1_+2+3+4_+4_  +4___
+    +3_+2_+1_7_  +1_+3_+2_+1_  7_6_5_5_  5___
+    +3+4+3+2+1_7_  +1_+3_+2+3+2+1  7_6_5_56  5___ //]
+BEM[Vivace]
+
+DWOK35A
+CUT[Instrumentalna-Oj wud horojki da do horojki]
+REG[]
+TRD[DWOK35a Przemyskie s. 66 Iskań]
+FKT[]
+SIG[35A09200022]
+KEY[24092   16  C 2/4]
+MEL[5_67+1+2+17  +1+2+17+1_5_  +1_+3_+4+5+4+5  +4___
+    +3+4+3+2+3+4+3+2  +1_+2+3+4+5+4+5  +4___
+    +3_+2_+1_7_  +1_+3_+2_+1_  7_6_5_5_  5___
+    +3+4+3+2+1_7_  +1_+3_+2+3+2+1  7_6_5_56  5___ //]
+BEM[Vivace]
+
+DWOK35A
+CUT[Oj wud horojki da do horojki]
+REG[]
+TRD[DWOK35a Przemyskie s. 66 Iskań]
+FKT[]
+SIG[35A09200031]
+KEY[24092   16  C 3/8]
+MEL[+4_+4_+3_  +4+2+3_+3+2  +3_+1_+2_  7_5__
+    (567)+1_+2+1  +3+2+4__  (+3+2+1)+1__
+    57+1_+3_  +27+1__  ^__0_ //]
+BEM[Partia wokalna]
+
+DWOK35A
+CUT[Oj wud horojki da do horojki]
+REG[]
+TRD[DWOK35a Przemyskie s. 66 Iskań]
+FKT[]
+SIG[35A09200032]
+KEY[24092   16  C 3/8]
+MEL[+4_+4_+3_  (+3+2+1)+1__  +3+1+1_+27  (765)5__
+    (567)+1_+2+1  +3+2+4__  (+3+2+1)+1__
+    57+1_+3_  +27+1__  ^__0_ //]
+BEM[Partia wokalna]
+
+DWOK35A
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK35a Przemyskie s. 66 Iskań]
+FKT[]
+SIG[35A09300000]
+KEY[35A093  16  A 3/4]
+MEL[-5__1__3b__  5__3b__1__  2_4_5___
+    5__5__5__  5_3b_2_3b_1__  4__3b_2_1__
+    -7_1_3b__-7__  1___-5__
+    -5-6-7_1__23b23b  565_3b_2_1__  (2_3b_4_)5___
+    5__5_6_5__  (5_4#_3b_)2_3b_1__  4#__3b_2_1__
+    -7_1_3b23b_-7__  1___1__ //]
+BEM[Starosta w taniec]
+
+DWOK35A
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK35a Przemyskie s. 66 Iskań]
+FKT[]
+SIG[35A09400001]
+KEY[35A094  08  C 3/4]
+MEL[+4_+4+3+4_  +3_+3_+1_  +2_+2+3+5_  +2_7_5_
+    5_7_5_  +1_.+3+5_  +4_+6__  +3_+1__
+    5_7_+1_  +3_6__  +1__+1_ //]
+BEM[]
+
+DWOK35A
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK35a Przemyskie s. 66 Iskań]
+FKT[]
+SIG[35A09400002]
+KEY[35A094  16  C 3/4]
+MEL[(+4_+3_+2_)+4_+3_+4_+5_  +4_+3_+3_+2_+1__  +2+3+4+3+2_+3_+5__  +2__(7_6_5_)5__
+    5_6_7__5__  +1__.+3_(+5_+6_+5_)  +4__+6___  (+3_+2_+1_)+1___
+    5_6_7__+1__  (+3_+4_+3_)6___  +1___+1__ //]
+BEM[]
+
+DWOK35A
+CUT[Dołom, dołom, dunajcem]
+REG[]
+TRD[DWOK35a Przemyskie s. 67 Iskań]
+FKT[]
+SIG[35A09700001]
+KEY[35A097  16  C 3/8]
+MEL[0_+1_+3_  +4__+3_  +2_+1__  750__
+    0_+4_+3_  +2_+4_+3_  +2_+1__ //]
+BEM[]
+
+DWOK35A
+CUT[Dołom, dołom, dunajcem]
+REG[]
+TRD[DWOK35a Przemyskie s. 67 Iskań]
+FKT[]
+SIG[35A09700002]
+KEY[35A097  16  C 3/8]
+MEL[0_5+1+3+2  +4_+2_(+3+2+1)  +27+1__  750__
+    0_+4_+4+3  +2+1+4+2+3_  (+2+17)+1__ //]
+BEM[]
+
+DWOK35A
+CUT[Marysejczyn batejko]
+REG[]
+TRD[DWOK35a Przemyskie s. 68 Iskań]
+FKT[]
+SIG[35A10100001]
+KEY[35A101  16  C 3/4]
+MEL[5_+1_+1__+2__  +3__+2_+3_+2__  +1_+3_+3__+4__  +3__+2__+1_0_
+    +2+3+4+2+3_+2_+3__  +1___+1__ //]
+BEM[Gdy panna młoda jest sierotą]
+
+DWOK35A
+CUT[Marysejczyn batejko]
+REG[]
+TRD[DWOK35a Przemyskie s. 68 Iskań]
+FKT[]
+SIG[35A10100002]
+KEY[35A101  32  C 3/4]
+MEL[5__+1__+1___+2_+3_+4_+2_  +3__(^+4+3)+2+1+2__+3__+2___
+    (+1_+2_+3_)(+3_+3_+2_)+4__+2__  +3_+2_+2__+2__+1__+1__0__
+    +4___+3__+2__+3_+2_+1_7_  +1____+1___ //]
+BEM[Gdy panna młoda jest sierotą]
+
+DWOK35A
+CUT[Marsz do cerkwi]
+REG[]
+TRD[DWOK35a Przemyskie s. 69 Iskań]
+FKT[]
+SIG[35A10300000]
+KEY[35A103  16  A 2/4]
+MEL[5__5__  5_5_6_54#  5_54#6_54#  5_54#6_54#
+    5_5_4_3b2  1_1_4_2_  3b_1_2_-7_  1_1-51_1-5  1__0__
+    -5_-5_-5_-5_  -5_-5_4_2_  3b_1_2_-7_  1_1_5__
+    5_5_4_3b2  1_1_4_2_  3b_1_2_-7_  1_1-51_1-5  1__0__ //]
+BEM[]
+
+DWOK35A
+CUT[Oj prełetiv sokił]
+REG[]
+TRD[DWOK35a Przemyskie s. 69 Iskań]
+FKT[]
+SIG[35A10500001]
+KEY[35A105  16  C 3/8]
+MEL[+3_+4_+3+2  +4__+3_  +2+1+4_+3_  +2_+1__  7__0_
+    57+1_+3+2  7_+1__  +2+1+3__  +2_7__  +1__^_ //]
+BEM[]
+
+DWOK35A
+CUT[Oj prełetiv sokił]
+REG[]
+TRD[DWOK35a Przemyskie s. 69 Iskań]
+FKT[]
+SIG[35A10500002]
+KEY[35A105  16  C 3/8]
+MEL[+3+2+4_+3+2  +4_+2_(+3+2+1)  +5_+4+2+3_  +27+1__  765_0_
+    57+1_+3+2  (+4_.+2)+3+2+1_  +2+3+4_(+3+2+1)  +3+2+1_7_  +1__^_ //]
+BEM[]
+
+DWOK35A
+CUT[Horu, sełom Iskaneju]
+REG[]
+TRD[DWOK35a Przemyskie s. 70 Iskań]
+FKT[]
+SIG[35A10900001]
+KEY[35A109  16  C 2/4]
+MEL[+1_+3_+4_+3_  +2_+3_+4_+3+1  +2_+3_7_+1_
+    +4_+3_+2_+3_  +1_+3_+4_+3_  +2_+3+17_+1_ //]
+BEM[]
+
+DWOK35A
+CUT[Horu, sełom Iskaneju]
+REG[]
+TRD[DWOK35a Przemyskie s. 70 Iskań]
+FKT[]
+SIG[35A10900002]
+KEY[35A109  16  C 2/4]
+MEL[+1_+2+3+4_+3+1  +2_+3_+4_+3+1  +2_+3+17_+1_
+    +4_+4+3(+2+37)  +1_+3_+4_+4+3  +2_+3+17_+1_ //]
+BEM[]
+
+DWOK35A
+CUT[Kudyj nam łeżyt]
+REG[]
+TRD[DWOK35a Przemyskie s. 78 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A13800001]
+KEY[35A138  08  C 3/8]
+MEL[5+1+1  +2+4_  +3+4+3  +2+1_  +3+4+3  +4+3_  +2_.  +2_0
+    +3+4+3  +2+1_  +3+4_  +3+3+4  +3+2+1  ^_.  +10_ //]
+BEM[]
+
+DWOK35A
+CUT[Kudyj nam łeżyt]
+REG[]
+TRD[DWOK35a Przemyskie s. 78 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A13800002]
+KEY[35A138  16  C 3/8]
+MEL[5_+17+1_  +2+3+4__  +3_+4_+3_  +27+1__  +3+2+4_+3_  +4_+3+2+1_  +2__.  +2__0_
+    +3+2+4_+3_  +2_+1__  +3_+4__  +3_+3_+4_  +3+1+27+1_  ^__.  +1_0__ //]
+BEM[]
+
+DWOK35A
+CUT[Za dunajom konyky chodiat]
+REG[]
+TRD[DWOK35a Przemyskie s. 78 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A13900001]
+KEY[35A139  16  C 3/8]
+MEL[+3_+4_+3_  +3_+4_+3_  ^+2+1_+2_  ^__+2_  +3_+4_+3_  ^+2+1_+2_  ^__+2_
+    +2_+4_+3_  +3_+4_+3_  +2_+1__  +4_+3_+4_  +3_+2_+1_  ^__+1_ //]
+BEM[]
+
+DWOK35A
+CUT[Za dunajom konyky chodiat]
+REG[]
+TRD[DWOK35a Przemyskie s. 78 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A13900002]
+KEY[35A139  16  C 3/8]
+MEL[+3_+4_+3+2  +3_+4_+3_  ^+2+1_+2_  ^__+2_  +3_+4_+3_  ^+2+1_+2_  ^__+2_
+    +2_+4_+3+2  +3_+4_+3_  +2_+1__  +4_+3_+4_  +37+27+1_  ^__+1_ //]
+BEM[]
+
+DWOK35A
+CUT[Oj horosze horosze]
+REG[]
+TRD[DWOK35a Przemyskie s. 79 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A14000000]
+KEY[35A140  32  G 3/8]
+MEL[3_4_5___  5__6__4__  3___1__  2__3__2__  3__1___  ^___-5__
+    2__3__2__  3__1___  4__^_3_2_1_
+    3_4_5___  5__6_5_(4_3_2_)  3__^_2_1__  2__3__(4_3_2_)  3__1___  (^__-7__-6__)-5__
+    2__3__4__  3__2___  3__1___  ^__.-7-6-5__ //]
+BEM[Podane metrum 3/4 zapisano poprawnie na 3/8]
+
+DWOK35A
+CUT[Wstańte bojare wstańte]
+REG[]
+TRD[DWOK35a Przemyskie s. 79 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A14100000]
+KEY[35A141  16  G 3/8]
+MEL[2_3_2_  1__2_  2__.  1-71_0_
+    2_3_2_  1__.  2_3_2_  1__.  2_321-7  1__.  -7-6-5_0_
+    345_5_  654_2_  3__.  321_0_
+    2_3_4_  3_2_3_  1__.  -7-6-5_0_ //]
+BEM[Podane metrum 3/4 zapisano poprawnie na 3/8]
+
+DWOK35A
+CUT[Tańcowav ja czuhaja]
+REG[]
+TRD[DWOK35a Przemyskie s. 79 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A14200000]
+KEY[35A142  08  G 2/4]
+MEL[5654  345_  5654  321_
+    -5-5-5_  111_  5654  321_ //]
+BEM[]
+
+DWOK35A
+CUT[Bywaj mi zdrowy panie ojcze]
+REG[]
+TRD[DWOK35a Przemyskie s. 80 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A144000001]
+KEY[35A144  16  G 3/8]
+MEL[5_5_5_  544__  4_4__  433__
+    5_5_5_  543__  4_4__  433__
+    4_4_4_  3_5__  5_4_1_  3b_2__ //]
+BEM[]
+
+DWOK35A
+CUT[Bywaj mi zdrowy panie ojcze]
+REG[]
+TRD[DWOK35a Przemyskie s. 80 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A144000002]
+KEY[35A144  16  G 3/8]
+MEL[5_5_5_  544__  4_4__  433__
+    5_5_5_  543__  4_4__  433__
+    4_544_  3_5__  5_5421  3b_2__ //]
+BEM[]
+
+DWOK35A
+CUT[Kudyj nam łeże z davna steżejka]
+REG[]
+TRD[DWOK35a Przemyskie s. 81 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A14700001]
+KEY[35A147  16  G 3/8]
+MEL[1_2_3_  4__.  3_4_3_  2_1__
+    3_4_3_  3_4__  2__.  2__0_
+    3_4_3_  3_4__  2__.  2__0_
+    3_4_3_  2_1__  3_4__  3_3_4_
+    3_2__  1__.  1_0__ //]
+BEM[]
+
+DWOK35A
+CUT[Kudyj nam łeże z davna steżejka]
+REG[]
+TRD[DWOK35a Przemyskie s. 81 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A14700002]
+KEY[35A147  16  G 3/8]
+MEL[3_2_3_  4__.  3_4_3_  2_1__
+    3_4_32  3_4_3_  2__.  2__0_
+    3_4_32  3_4_3_  2__.  2__0_
+    3_4_3_  2_1__  234__  323_4_
+    3_2_-7_  1__.  1_0__ //]
+BEM[]
+
+DWOK35A
+CUT[Zełena werbynejko]
+REG[]
+TRD[DWOK35a Przemyskie s. 85]
+FKT[]
+SIG[35A15900001]
+KEY[35A159  16  C 3/8]
+MEL[5_7_+1_  +2_+3__  +2__+3_  +2__0_
+    +3_+1_+3_  +4_+3__  +2_+1__
+    +2_+4_+2_  +3_7__  +1__.  +1__0_ //]
+BEM[]
+
+DWOK35A
+CUT[Zełena werbynejko]
+REG[]
+TRD[DWOK35a Przemyskie s. 85]
+FKT[]
+SIG[35A15900002]
+KEY[35A159  16  C 3/8]
+MEL[5_7_+1_  +2_+3__  +2__+3_  +2__0_
+    +3_+1_+3_  +4_+3__  +2_+1__
+    +2_+4+3+2_  +3+27__  +1__.  +1__0_ //]
+BEM[]
+
+DWOK35A
+CUT[Horiła sosna horiła]
+REG[]
+TRD[DWOK35a Przemyskie s. 85 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A16100001]
+KEY[35A161  08  G 3/8]
+MEL[355  4_3  555  355  4_1  331 //]
+BEM[]
+
+DWOK35A
+CUT[Horiła sosna horiła]
+REG[]
+TRD[DWOK35a Przemyskie s. 85 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A16100002]
+KEY[35A161  08  G 3/8]
+MEL[355  4_3  555  355  4_3  341 //]
+BEM[]
+
+DWOK35A
+CUT[Hoc koniu do pszenycy]
+REG[]
+TRD[DWOK35a Przemyskie s. 85 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A16200000]
+KEY[35A162  08  A 2/4]
+MEL[5_65  523b4  5_65  54#5_
+    3b3b43b  2-712  3b243b  2-71_ //]
+BEM[]
+
+DWOK35A
+CUT[Hyla hyla biły husy]
+REG[]
+TRD[DWOK35a Przemyskie s. 87 od Mościsk (Czerniawa)]
+FKT[]
+SIG[35A16900000]
+KEY[35A169  16  C 2/4]
+MEL[+4_+3_+5_+4_  +3_+1_+2_+3_  +4_+3_+5_+4_  +3_+2+3+4__
+    7_+2_+1_6_  7_7_6_+1_  7_+2_+1_6_  7_7_7__ //]
+BEM[]
+
+DWOK35A
+CUT[Dana dana]
+REG[]
+TRD[DWOK35a Przemyskie s. 92 Rakowa]
+FKT[]
+SIG[35A17200001]
+KEY[35A172  16  G 3/8]
+MEL[133_3_  422_1_  35533_  42211_ //]
+BEM[]
+
+DWOK35A
+CUT[Dana dana]
+REG[]
+TRD[DWOK35a Przemyskie s. 92 Rakowa]
+FKT[]
+SIG[35A17200002]
+KEY[35A172  16  G 3/8]
+MEL[135_3_  42211_  35533_  42211_ //]
+BEM[]
+
+DWOK35A
+CUT[Je(st) korowaj je]
+REG[]
+TRD[DWOK35a Przemyskie s. 92 Rakowa]
+FKT[]
+SIG[35A17300000]
+KEY[35A173  16  C 2/4]
+MEL[5_5_+1__  7_67+1__  +2_+2_+3_+1_  767_+1_6_
+    +2_+2_+3_+1_  7_7_+1_6_  5_5_6__  7_7_+1__ //]
+BEM[]
+
+DWOK35A
+CUT[A w sobotojku pered weczerom]
+REG[]
+TRD[DWOK35a Przemyskie s. 95 Rakowa]
+FKT[]
+SIG[35A17800001]
+KEY[35A178  08  G 3/8]
+MEL[123  43_  344  34_  211
+    231  -71_  443  21_  242  32_  1_. //]
+BEM[]
+
+DWOK35A
+CUT[A w sobotojku pered weczerom]
+REG[]
+TRD[DWOK35a Przemyskie s. 95 Rakowa]
+FKT[]
+SIG[35A17800002]
+KEY[35A178  16  G 3/8]
+MEL[-51213_  4_3_(^21)  (2_34)4_4_  (321)4_3_  2-71_1_
+    21321_  -7_1__  4_4_3_  2_1_21  234321  3_2_-7_  1__. //]
+BEM[]
+
+DWOK35A
+CUT[A dobry dzeń]
+REG[]
+TRD[DWOK35a Przemyskie s. 96 Rakowa]
+FKT[]
+SIG[35A18000001]
+KEY[35A180  16  A 3/8]
+MEL[124_4_  125_5_  3b21_1_  3b_2__
+    3b25_5_  546_5_  3b21_2_  -7_1__ //]
+BEM[]
+
+DWOK35A
+CUT[A dobry dzeń]
+REG[]
+TRD[DWOK35a Przemyskie s. 96 Rakowa]
+FKT[]
+SIG[35A18000002]
+KEY[35A180  32  A 3/8]
+MEL[1_2_4__4__  3b_2_5__5__  4_3b21__1__  3b__2___
+    3b_4_5__5__  5_4_6__5__  4_3b21__3b_2_  -7__1___ //]
+BEM[]
+
+DWOK35A
+CUT[Wyjdy wyjdy matinko]
+REG[]
+TRD[DWOK35a Przemyskie s. 98 Rakowa]
+FKT[]
+SIG[35A18200000]
+KEY[35A182  16  G 3/4 2/4]
+MEL[1_1_4__3__  2_2_1___  2_2_4_3_1__  4_4_3_2_  1_-7_1__
+    1_1_4_2_3_1_  2_2_1___  2_2_4_311__  4_42312_  1_-7_1__ //]
+BEM[]
+
+DWOK35A
+CUT[Chtoż tu nam hobid daje]
+REG[]
+TRD[DWOK35a Przemyskie s. 99 Rakowa]
+FKT[]
+SIG[35A18300000]
+KEY[35A183  16  C 3/8]
+MEL[5_67+1_  +2+1+3__  ^+2+1_50  +2+1+3__  ^+2(+176)50
+    +1__+2+1  +3_+4__  +3__+2_  +1__0_
+    +2+3+4__  +3+1+2_+1_  7_+1__ //]
+BEM[Podane metrum 3/4 zapisano poprawnie na 3/8, do barszczu]
+
+DWOK35A
+CUT[Hładka kapusta hładka]
+REG[]
+TRD[DWOK35a Przemyskie s. 99 Rakowa]
+FKT[]
+SIG[35A18400000]
+KEY[35A184  16  A 3/8]
+MEL[-5_1_2_  4_3b__  2__1_  2__0_
+    2_1_2_  4__3b_  2_1__
+    4_1_2_  3b_2__  1__1_
+    (-5-6-7)1_2_  (43b2)4_1_  2__1_  2__0_
+    2_1_2_  4_(^3b2)3b1  2-71__
+    441_2_  3b12_(3b2-7)  1__1_ //]
+BEM[Do swachy]
+
+DWOK35A
+CUT[A szczoż nam buło]
+REG[]
+TRD[DWOK35a Przemyskie s. 100 Rakowa]
+FKT[]
+SIG[35A18600001]
+KEY[35A186  16  G 3/8]
+MEL[3_5_5_  5_5__  534__  3__0_
+    5_6_5_  4_3__  2_1__  -7_-5_0_
+    -5_1_2_  3__2_  5_4_2_  2_1__
+    3_4_3_  2_1__  3_5_3_  2_1__
+    3_4_3_  2_1__  3_5_3_  2_1__
+    4__2_  3__0_  214_3_  -7_1__ //]
+BEM[Po obiedzie swachy]
+
+DWOK35A
+CUT[A szczoż nam buło]
+REG[]
+TRD[DWOK35a Przemyskie s. 100 Rakowa]
+FKT[]
+SIG[35A18600002]
+KEY[35A186  16  G 3/8]
+MEL[3_5_5_  5_5__  (543)4_2_  3_1_0_
+    5_6_5_  (432)3_  2_1__  (1-7-6)0_
+    -5_1_2_  3__21  5_542_  2_1__
+    3_4_3_  2_1__  3_5_3_  2_1__
+    3_4_3_  2_1__  3_5_3_  2_1__
+    4__2_  3_1_0_  214_31  -7_1__ //]
+BEM[Po obiedzie swachy]
+
+DWOK35A
+CUT[Hadajte bojary hadajte]
+REG[]
+TRD[DWOK35a Przemyskie s. 101 Rakowa]
+FKT[]
+SIG[35A18700000]
+KEY[35A187  16  A 3/8]
+MEL[-5_1_2_  3b_1__  2__1_  4_4__
+    4_3b_3b_  3b_1__  2__1_  3b_2__  1__0_
+    -5_1_2_  3b_1_1_  2__1_  4_4__
+    (43b2)3b_3b2  3b_1__  2__1_  3b_2_.-7  1__0_ //]
+BEM[]
+
+DWOK35A
+CUT[De sie czułojki rojat]
+REG[]
+TRD[DWOK35a Przemyskie s. 102 Rakowa]
+FKT[]
+SIG[35A18800001]
+KEY[35A188  08  A 3/8]
+MEL[-513b  43b1  2_.  2_0
+    -513b  43b1  21_
+    43b3b  3b2_  1_.  10_ //]
+BEM[]
+
+DWOK35A
+CUT[De sie czułojki rojat]
+REG[]
+TRD[DWOK35a Przemyskie s. 102 Rakowa]
+FKT[]
+SIG[35A18800002]
+KEY[35A188  32  A 3/8]
+MEL[-5__1__3b_1_  4__3b_2_3b_1_  2___.  2__1__0__
+    1__3b__3b__  4__4_3b_(1_2_3b_)  2_-7_1___
+    3b_4_4_3b_3b__  3b__2__23b2-7  1___.  1__0___ //]
+BEM[]
+
+DWOK35A
+CUT[Zaśwtyło sonce z ranejka]
+REG[]
+TRD[DWOK35a Przemyskie s. 102 Rakowa]
+FKT[]
+SIG[35A18900001]
+KEY[35A189  16  A 3/8]
+MEL[-5_1_3b_  2_1__  2__.  1_0_23b  4_4__
+    43b1_2_  3b__1_  2__.  1_0_1_  -7_1__ //]
+BEM[Podane metrum 3/4 zapisano poprawnie na 3/8; u Kolberga niewłaściwy podział na takty]
+
+DWOK35A
+CUT[Zaśwtyło sonce z ranejka]
+REG[]
+TRD[DWOK35a Przemyskie s. 102 Rakowa]
+FKT[]
+SIG[35A18900002]
+KEY[35A189  32  A 3/8]
+MEL[-5__1__3b__  2__1___  2___.  1__0__2_3b_  4__4___
+    4_3b_2__3b_4_  3b__4_3b_2_1_  2___.  1__0__123b2  2_-7_1___ //]
+BEM[U Kolberga błędnie podane metrum 3/4]
+
+DWOK35A
+CUT[Z chaty diwojki]
+REG[]
+TRD[DWOK35a Przemyskie s. 104 Rakowa]
+FKT[]
+SIG[35A19000001]
+KEY[35A190  08  G 2/4]
+MEL[3_33  4_3_  2_1_  2_0_
+    3_33  4_3_  2_1_
+    4_42  3_2_  1__  1_0_ //]
+BEM[]
+
+DWOK35A
+CUT[Z chaty diwojki]
+REG[]
+TRD[DWOK35a Przemyskie s. 104 Rakowa]
+FKT[]
+SIG[35A19000002]
+KEY[35A190  16  G 2/4]
+MEL[3__3_3_  4__3__  2__1__  2__0__
+    3__3_3_  4__3__  2__1__
+    4__4_2_  32312_-7_  1___  1__0__ //]
+BEM[]
+
+DWOK35A
+CUT[Na żiłuj matinko za mnoju]
+REG[]
+TRD[DWOK35a Przemyskie s. 108 Rakowa]
+FKT[]
+SIG[35A19500001]
+KEY[35A195  32  A 3/8]
+MEL[1__2__3b__  3b__1___  2___1__  3b___1__  4__4___
+    3b__4__1__  -7b_121___  2___1__  3b__2___  1___. //]
+BEM[]
+
+DWOK35A
+CUT[Na żiłuj matinko za mnoju]
+REG[]
+TRD[DWOK35a Przemyskie s. 108 Rakowa]
+FKT[]
+SIG[35A19500002]
+KEY[35A195  32  A 3/8]
+MEL[1__2_1_3b__  3b_2_1___  2___1__  3b__3b_4_3b_1_  4__4___
+    4_3b_4_2_1__  3b_3b21___  2___1__  (1_2_3b_)2__-7__  1___. //]
+BEM[]
+
+DWOK35A
+CUT[Prowadźże nas Boże]
+REG[]
+TRD[DWOK35a Przemyskie s. 109 Rakowa]
+FKT[]
+SIG[35A19700001]
+KEY[35A197  08  G 3/8]
+MEL[121  431  2_.  20_
+    121  431  21_
+    413  32_  1_.  10_ //]
+BEM[]
+
+DWOK35A
+CUT[Prowadźże nas Boże]
+REG[]
+TRD[DWOK35a Przemyskie s. 109 Rakowa]
+FKT[]
+SIG[35A19700002]
+KEY[35A197  32  G 3/8]
+MEL[-5_1_2__1__  4__34323_1_  2___.  2__0___
+    -5_1_2_2_1__  4__34323_1_  2_-7_1___
+    4__1_2_3__  3__2__232-7  1___.  1__0___ //]
+BEM[]
+
+DWOK35A
+CUT[Polóm, polóm, bołonióm]
+REG[]
+TRD[DWOK35a Przemyskie s. 109 Rakowa]
+FKT[]
+SIG[35A19800001]
+KEY[35A198  16  G 3/4 2/4]
+MEL[-5_1_4_2_3__  2_2_1__  2_243__1__  4_4_3_2_1-71_ //]
+BEM[U Kolberga zapis na 3/4, niewłaściwy w stosunku do faktycznego rytmu]
+
+DWOK35A
+CUT[Polóm, polóm, bołonióm]
+REG[]
+TRD[DWOK35a Przemyskie s. 109 Rakowa]
+FKT[]
+SIG[35A19800002]
+KEY[35A198  16  G 3/4 2/4]
+MEL[-5_(123)4_2_3_1_  2_2-71__  2_243_1_1__  (123)423_211-71_ //]
+BEM[U Kolberga zapis na 3/4, niewłaściwy w stosunku do faktycznego rytmu]
+
+DWOK35A
+CUT[Nie przebieraj mościa panno]
+REG[]
+TRD[DWOK35a Przemyskie s. 112 Rakowa]
+FKT[]
+SIG[35A20500001]
+KEY[35A205  16  A 3/4]
+MEL[1_-7_1__3b_4_  5_5_6b__5_4#_  5_5_6b__5_4#_
+    5_4#_3b__3b__  5_3b11___
+    3b_5_5__3b__  2_1_-7__-5__
+    3b_5_5__3b__  2_-7_1___ //]
+BEM[„Taniec wolny zwany koło”; w takcie 5 poprawiono rytm przez analogię z t. 9]
+
+DWOK35A
+CUT[Nie przebieraj mościa panno]
+REG[]
+TRD[DWOK35a Przemyskie s. 112 Rakowa]
+FKT[]
+SIG[35A20500002]
+KEY[35A205  16  A 3/4]
+MEL[1_-7_1__3b_4_  5_5_6b__5_4#_  5_5_6b__5_4#_
+    5_4#_3b_2_3b_4#_  5_3b11___
+    3b_5_5_4#_3b__  2_1_-7_-5_-5__
+    3b_5_5_4#_3b_21  2_1-71___ //]
+BEM[„Taniec wolny zwany koło”; w takcie 5 poprawiono rytm przez analogię z t. 9]
+
+DWOK35A
+CUT[Tam tudy łeżyt]
+REG[]
+TRD[DWOK35a Przemyskie s. 113 Rakowa]
+FKT[]
+SIG[35A20600001]
+KEY[35A206  08  G 3/8]
+MEL[123  43_  443  21_
+    34_  34_  1_0
+    34_  32_  43_
+    432  3-7_  1_. //]
+BEM[]
+
+DWOK35A
+CUT[Tam tudy łeżyt]
+REG[]
+TRD[DWOK35a Przemyskie s. 113 Rakowa]
+FKT[]
+SIG[35A20600002]
+KEY[35A206  16  G 3/8]
+MEL[-51213_  4_3_1_  4_4_3_  2_1__
+    (123)4_2_  314_-7_  1__0_
+    3_4_2_  312_1_  4_3_1_
+    4_3_21  321_-7_  1__. //]
+BEM[]
+
+DWOK35A
+CUT[Jaraja przenyszeńko]
+REG[]
+TRD[DWOK35a Przemyskie s. 116-117 Sanoczany]
+FKT[]
+SIG[35A20900001]
+KEY[35A209  08  A 3/8]
+MEL[-513b  4_3b  2_1  2_0  -514  4_3b //]
+BEM[]
+
+DWOK35A
+CUT[Jaraja przenyszeńko]
+REG[]
+TRD[DWOK35a Przemyskie s. 116-117 Sanoczany]
+FKT[]
+SIG[35A20900002]
+KEY[35A209  16  A 3/8]
+MEL[-5_1_42  4_3b_3b1  2__1_  2__0_  -5_1_42  4_.3b3b1 //]
+BEM[wariant 3b4b3b__4b1  3b22__.-7_  1__1_]
+
+DWOK35A
+CUT[Tamtudy łeżyt davna steżejka]
+REG[]
+TRD[DWOK35a Przemyskie s. 120 Sanoczany]
+FKT[]
+SIG[35A21600000]
+KEY[35A216  16  G 3/8]
+MEL[1_2_3_  4_3__  4_4_3_  2-71__
+    1_2_3_  4_310_  4_4_3_  2-71__
+    2_4_4_  2-71_1_  4_4_3_  (323)4_3_
+    234321  3-71_.1 //]
+BEM[]
+
+DWOK35A
+CUT[Oj połem połem bołoniom]
+REG[]
+TRD[DWOK35a Przemyskie s. 122 Sanoczany]
+FKT[]
+SIG[35A22000001]
+KEY[35A220  16  A 2/4]
+MEL[13b_.25_.  13b_.2__  1__3b__  4__0__
+    4__3b_2_  1__2__  1_3b_2__  1__0__ //]
+BEM[U Kolberga w t. 4 i 8 zbyt krótkie wartości]
+
+DWOK35A
+CUT[Oj połem połem bołoniom]
+REG[]
+TRD[DWOK35a Przemyskie s. 122 Sanoczany]
+FKT[]
+SIG[35A22000002]
+KEY[35A220  16  A 2/4]
+MEL[13b_.25_.  13b_.2_-7b_  1__3b_2_  4_1_0__
+    4_2_(4_3b_2_)  (1_2_3b_)2__  (1_2_3b_)2_-7_  1__0__ //]
+BEM[U Kolberga w t. 4 i 8 zbyt krótkie wartości]

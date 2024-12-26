@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2515500000-wylez_wylez_dziewecko.krn
+!!!OTL: Wyleź wyleź dziewecko
+!!!source: DWOK25
+!!!id: 25155
+!!!signature: 2515500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8b
+8cc
+=2
+8b
+8dd
+4g
+=3
+8cc
+8ee
+8ee
+8cc
+=4
+8ee
+8gg
+8ff
+8dd}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+=6
+4dd
+4g
+=7
+8b
+8dd
+8ff
+8dd
+=8
+4ee
+4cc
+=9
+4dd
+4g
+=10
+8b
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 65} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 65}
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

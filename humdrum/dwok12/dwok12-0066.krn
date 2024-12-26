@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1206600000-a_na_tej_lace_na_tej_zielonej.krn
+!!!OTL: A na tej łące, na tej zielonej
+!!!source: DWOK12
+!!!id: 12066
+!!!signature: 1206600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+4ff
+8ee
+=3
+8gg
+8aa
+8gg
+=4
+4ff
+8ee
+=5
+8gg
+8aa
+8gg
+=6
+4ff
+8ee}
+!!LO:LB:g=esac
+=7
+{8dd
+16ee
+16dd
+16cc
+16b
+=8
+4g
+8f
+=9
+8g
+8b
+8cc
+=10
+4ff
+8ee}
+!!LO:LB:g=esac
+=11
+{8dd
+16ee
+16dd
+16cc
+16b
+=12
+8g
+8a
+8f
+=13
+8g
+8b
+8dd
+=14
+8cc
+8b
+8g}
+==
+*-
+!!!ONB: Moze zapisac od G?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 29-30} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 29-30}
+!!!page: 29-30
+!!!ONB: Converted on 2024/12/26 with esac2hum

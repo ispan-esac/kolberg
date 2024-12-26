@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK4412900002-jak_cie_beda_cepic.krn
+!!!OTL: Jak cie będą cepić
+!!!source: DWOK44
+!!!id: 44129
+!!!signature: 4412900002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8ee
+4gg
+=2
+4dd
+8b
+8g
+=3
+8cc
+8ee
+8gg
+8gg
+=4
+8gg
+4ff
+8dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+4gg
+=6
+4dd
+8dd
+8b
+=7
+8dd
+8ee
+8ff
+8dd
+=8
+8cc
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=211 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 159} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 159}
+!!!page: 159
+!!!ONB: Converted on 2024/12/26 with esac2hum

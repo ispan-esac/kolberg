@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK25110a0000-stojala_wisnia_przy_dole.krn
+!!!OTL: Stojała wiśnia przy dole
+!!!source: DWOK25
+!!!id: 25110a
+!!!signature: 25110a0000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8ee
+8ee
+=2
+4dd
+8g
+=3
+16cc
+16dd
+4ee}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+8ee
+=5
+4dd
+8g
+=6
+16b
+16dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 45} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 45}
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

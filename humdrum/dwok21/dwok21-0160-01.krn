@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2116000001-nie_rozganiaj_pasterecko_bydla_po_lesie.krn
+!!!OTL: Nie rozganiaj pasterecko bydła po lesie
+!!!source: DWOK21
+!!!id: 21160
+!!!signature: 2116000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8a
+8cc
+=2
+16cc
+16ee
+8dd
+8a
+=3
+16cc
+16ee
+16dd
+16ee
+8a
+=4
+16cc
+16ee
+8.dd
+16cc
+=5
+16a
+16b
+16f#
+16e
+8d}
+!!LO:LB:g=esac
+=6
+{16f#
+16g
+8b
+32g
+16.b
+=7
+8a
+8d
+8dd
+=8
+16f#
+16g
+8b
+32g
+16.b
+=9
+16a
+16g
+8e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 78} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 78}
+!!!page: 78
+!!!ONB: Converted on 2024/12/26 with esac2hum

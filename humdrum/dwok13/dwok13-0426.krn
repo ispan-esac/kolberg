@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK1342600000-instrumentalna-marsz_krola_kurkowego.krn
+!!!OTL: Instrumentalna-Marsz Króla kurkowego
+!!!source: DWOK13
+!!!id: 13426
+!!!signature: 1342600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8gg
+16b
+16dd
+8gg
+16b
+16dd
+=2
+8gg
+8ff#
+8ee
+8dd
+=3
+8ff#
+16a
+16a
+8ff#
+16a
+16a
+=4
+8ff#
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8b
+16b
+16dd
+4gg
+=6
+8b
+16b
+16dd
+4gg
+=7
+8.ff#
+16ee
+16dd
+16cc
+16b
+16a
+=8
+8g
+8g
+4g}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+8a
+8cc
+=10
+8ee
+8dd
+4b
+=11
+8dd
+8cc
+4a
+=12
+8a
+8g
+16g
+16b
+8dd}
+!!LO:LB:g=esac
+=13
+{8d
+8f#
+8a
+8cc
+=14
+8ee
+8dd
+8gg
+8b
+=15
+8dd
+8cc
+8ee
+8f#
+=16
+8g
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=201 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 177} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK2656000000-niech_bedzie_bog_nasz_pochwalony.krn
+!!!OTL: Niech będzie Bóg nasz pochwalony
+!!!source: DWOK26
+!!!id: 26560
+!!!signature: 2656000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4b
+4dd
+4cc
+=2
+8b
+8b
+8b
+8a
+8a
+8g
+=3
+4b
+4dd
+4cc
+=4
+8b
+8b
+2a}
+!!LO:LB:g=esac
+=5
+{4b
+4dd
+4cc
+=6
+8b
+8b
+8b
+8a
+8a
+8g
+=7
+4b
+4dd
+4cc
+=8
+8b
+8dd
+2a}
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+8b
+8dd
+4cc
+=10
+8a
+8cc
+8a
+8cc
+4b
+=11
+8b
+8dd
+8b
+8dd
+4cc
+=12
+8a
+8cc
+8a
+8cc
+4b}
+!!LO:LB:g=esac
+=13
+{4b
+4dd
+4cc
+=14
+8b
+8dd
+2a
+=15
+4b
+4dd
+4cc
+=16
+8b
+16dd
+16b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 343
+!!!ONB: Converted on 2024/12/26 with esac2hum

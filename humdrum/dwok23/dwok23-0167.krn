@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2316700000-oj_starales_sie_jasiu.krn
+!!!OTL: Oj starałeś się Jasiu
+!!!source: DWOK23
+!!!id: 23167
+!!!signature: 2316700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8cc
+8b
+=2
+16g
+16dd
+8cc
+8a
+=3
+8a
+8cc
+8b
+=4
+16a
+16f#
+8g
+8d}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8cc
+8b
+=6
+16a
+16a
+8g
+8a
+=7
+8a
+8cc
+8b
+=8
+16a
+16f#
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 168} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

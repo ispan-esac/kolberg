@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2320200000-mowil_ci_mi_ojciec.krn
+!!!OTL: Mowił ci mi ojciec
+!!!source: DWOK23
+!!!id: 23202
+!!!signature: 2320200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8f#
+8g
+8a
+8b
+=2
+8a
+8f#
+4d
+=3
+8f#
+8g
+8b
+8dd
+=4
+4cc
+4a}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8a
+8b
+=6
+4g
+8d
+8f#
+=7
+8g
+4a
+8f#
+=8
+8a
+4cc
+8b}
+!!LO:LB:g=esac
+=9
+{8f#
+8g
+8a
+8b
+=10
+8g
+4f#
+8d
+=11
+8f#
+4g
+8d}
+!!LO:LB:g=esac
+=12
+{8g
+8f#
+8d
+8f#
+=13
+8g
+4f#
+8d
+=14
+8f#
+4g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=198 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 184} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

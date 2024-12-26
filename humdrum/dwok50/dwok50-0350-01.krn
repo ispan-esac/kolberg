@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK5035000001-oj_czkaje_mi_sie_czkaje.krn
+!!!OTL: Oj, czkaje mi sie, czkaje
+!!!source: DWOK50
+!!!id: 50350
+!!!signature: 5035000001
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M2/4
+{4gg
+8ee
+8ff
+=2
+8ee
+8dd
+8ee
+8ff}
+!!LO:LB:g=esac
+=3
+{4gg
+8ee
+8ff
+=4
+8ee
+8dd
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8ff
+8ee
+8dd
+=6
+4cc
+4b-}
+!!LO:LB:g=esac
+=7
+{8ee
+8dd
+8ee
+8ff
+=8
+*M3/4
+8ee
+8dd
+4cc
+4g}
+!!LO:LB:g=esac
+=9
+*M2/4
+{8cc
+8ff
+8ee
+8dd
+=10
+4cc
+4g}
+!!LO:LB:g=esac
+=11
+{4cc
+8ee
+8ff
+=12
+*M3/4
+8ee
+8dd
+4cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 182} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 182}
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2803300000-niebo_ziemia_swiat_i_morze.krn
+!!!OTL: Niebo ziemia świat i morze
+!!!source: DWOK28
+!!!id: 28033
+!!!signature: 2803300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4cc
+4b-
+4a
+4dd
+=2
+4cc
+4b-
+4a
+4g
+=3
+4cc
+4b-
+4a
+4dd
+=4
+4cc
+4b-
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{4g
+4g
+8g
+8a
+4b-
+=6
+4a
+4a
+4b-
+4cc
+=7
+4cc
+4cc
+4dd
+8cc
+8b
+=8
+4cc
+4e
+4g
+4f}
+!!LO:LB:g=esac
+=9
+{4g
+4g
+8g
+8a
+4b-
+=10
+4a
+4a
+8b-
+8dd
+4cc
+=11
+4cc
+4cc
+4dd
+8cc
+8b
+=12
+4cc
+4e
+4g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 90} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK2250100000-instrumentalna-mazur.krn
+!!!OTL: Instrumentalna-Mazur
+!!!source: DWOK22
+!!!id: 22501
+!!!signature: 2250100000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4f
+16dd
+16ee
+=2
+8ff
+8.cc
+16a
+=3
+8g
+8g
+16g
+16e
+=4
+16g
+16f
+16g
+16a
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+16ee
+16cc
+16ee
+16gg
+=6
+16aa
+16gg
+16ff
+16ee
+16ff
+16cc
+=7
+16dd
+16g
+16dd
+16cc
+16b-
+16a
+=8
+16g
+16g
+8a
+8f}
+!!LO:LB:g=esac
+=9
+{8a
+16a
+16f
+8a
+=10
+8a
+8b-
+8g
+=11
+8c
+8c
+16g
+16b-
+=12
+8g
+8a
+8f}
+!!LO:LB:g=esac
+=13
+{16a
+16cc
+16a
+16f
+8a
+=14
+16.a
+32cc
+8b-
+8g
+=15
+16c
+16b-
+8c
+16g
+16b-
+=16
+16.g
+32cc
+8a
+8f}
+==
+*-
+!!!ONB: melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 234} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 234}
+!!!page: 234
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK1910200000-plsynie_cyranecka.krn
+!!!OTL: Płśynie cyranecka
+!!!source: DWOK19
+!!!id: 19102
+!!!signature: 1910200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc#
+=2
+8dd
+4.dd
+=3
+8ee
+8dd
+8cc#
+8dd
+=4
+8b
+4.g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8.cc
+16b
+=6
+8g
+4.a
+=7
+8b
+8b
+8.cc
+16dd
+=8
+8a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 36} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 36}
+!!!page: 36
+!!!ONB: Converted on 2024/12/26 with esac2hum

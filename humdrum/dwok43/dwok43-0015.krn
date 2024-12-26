@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4301500000-po_cozes_tu_przysed.krn
+!!!OTL: Po cóżeś tu przysed
+!!!source: DWOK43
+!!!id: 43015
+!!!signature: 4301500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8b
+8cc
+8dd
+=2
+8ee
+4.cc
+=3
+8ee
+8ee
+8.dd
+16ee
+=4
+8cc
+4.b}
+!!LO:LB:g=esac
+=5
+{8a
+8g#
+8a
+8cc
+=6
+8b
+4.ff#
+=7
+8a
+8a
+8.g
+16f#
+=8
+8e
+4.f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 38} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 38}
+!!!page: 38
+!!!ONB: Converted on 2024/12/26 with esac2hum

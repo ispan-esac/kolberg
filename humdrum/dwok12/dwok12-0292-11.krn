@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1229200011-gdzie_panna_waspanna.krn
+!!!OTL: Gdzie panna waspanna
+!!!source: DWOK12
+!!!id: 12292
+!!!signature: 1229200011
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4ff
+8ff
+=2
+16ee
+16ee
+8cc
+8ee
+=3
+8.ff
+16dd
+8ee
+=4
+16cc
+16cc
+8dd
+8b}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8.dd
+16b
+=6
+16cc
+16cc
+8ee
+8gg
+=7
+8.ff
+16dd
+8ee
+=8
+16ee
+16cc
+8dd
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 156} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 156}
+!!!page: 156
+!!!ONB: Converted on 2024/12/26 with esac2hum

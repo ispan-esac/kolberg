@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2200200000-glos_wdzieczny_z_nieba_wychodzi.krn
+!!!OTL: Głos wdzięczny z nieba wychodzi
+!!!source: DWOK22
+!!!id: 22002
+!!!signature: 2200200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8a
+8f
+8a
+=2
+4cc
+8cc
+=3
+4dd
+8b-
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{8a
+8f
+8a
+=6
+4cc
+8cc
+=7
+4dd
+8b-
+=8
+4.cc}
+!!LO:LB:g=esac
+=9
+{8cc
+4dd
+=10
+8b-
+4cc
+=11
+8a
+4b-
+=12
+8g
+4a}
+!!LO:LB:g=esac
+=13
+{8cc
+4cc
+=14
+8a
+4b-
+=15
+8g
+4a
+=16
+8g
+4f}
+!!LO:LB:g=esac
+=17
+{8f
+8a
+8b-
+=18
+4cc
+8a
+=19
+4b-
+8g
+=20
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 18-19} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, pp. 18-19}
+!!!page: 18-19
+!!!ONB: Converted on 2024/12/26 with esac2hum

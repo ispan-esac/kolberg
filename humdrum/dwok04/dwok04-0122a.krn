@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK04-K0122a-wedrowala_mala.krn
+!!!OTL: Wedrowala mala
+!!!source: DWOK04
+!!!id: K0122a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16f#
+8g
+8a
+=2
+8dd
+4dd
+=3
+16a
+16cc#
+8dd
+8a
+=4
+8g
+4f#}
+!!LO:LB:g=esac
+=5
+{16g
+16f#
+8g
+8a
+=6
+8dd
+4dd
+=7
+16a
+16a
+8g
+16cc
+16b
+=8
+8g
+4a}
+!!LO:LB:g=esac
+=9
+{8d
+16g
+16f#
+8a
+=10
+8d
+16g
+16f#
+8a
+=11
+16g#
+16a
+8f#
+16e
+16f#
+=12
+16e
+16f#
+4d}
+==
+*-
+!!!ONB: Wariant 1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 74} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 74}
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

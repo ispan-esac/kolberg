@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK02-K0242b-instrumentalna_-_mazur.krn
+!!!OTL: Instrumentalna - Mazur
+!!!source: DWOK02
+!!!id: K0242b
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+16e
+16g
+16a
+16b
+=2
+8cc
+16e
+16g
+16a
+16b
+=3
+8cc
+16c
+16e
+16g
+16cc
+=4
+16.b
+32b
+16b
+16g
+16a
+16b}
+!!LO:LB:g=esac
+=5
+{8cc
+16e
+16g
+16a
+16b
+=6
+8cc
+16e
+16g
+16a
+16b
+=7
+8cc
+16c
+16e
+16g
+16cc
+=8
+16b
+16g
+8cc
+8ee}
+!!LO:LB:g=esac
+=9
+{8ff
+16aa
+16dd
+8ff
+=10
+8ee
+16ee
+16dd
+8cc
+=11
+8b
+16b
+16a
+8g
+=12
+8cc
+16cc
+16dd
+8ee}
+!!LO:LB:g=esac
+=13
+{8ff
+16aa
+16dd
+8ff
+=14
+8ee
+16ee
+16dd
+8cc
+=15
+8b
+16b
+16a
+8g
+=16
+8cc
+4cc}
+==
+*-
+!!!ONB: Czesc w tonacji C
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 199} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

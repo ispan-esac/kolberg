@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2701500000-pielim_piepiorke.krn
+!!!OTL: Pielim piepiórkę
+!!!source: DWOK27
+!!!id: 27015
+!!!signature: 2701500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+8cc
+8dd
+=2
+4cc
+8b-
+=3
+8a
+4cc
+=4
+8g
+4f}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8dd
+=6
+4cc
+8b-
+=7
+8a
+4cc
+=8
+8g
+4f}
+!!LO:LB:g=esac
+=9
+{8a
+4cc
+=10
+16g
+16f
+4f
+=11
+8a
+4cc
+=12
+16g
+16f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 140} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 140}
+!!!page: 140
+!!!ONB: Converted on 2024/12/26 with esac2hum

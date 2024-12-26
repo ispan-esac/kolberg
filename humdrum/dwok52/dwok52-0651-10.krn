@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK5265100010-ktorez_cie_strony_podzialy.krn
+!!!OTL: Któreż cię strony podziały
+!!!source: DWOK52
+!!!id: 52651
+!!!signature: 5265100010
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M6/8
+=1
+{4d
+8d
+4g
+8g
+=2
+8b-
+8a
+8g
+8dd
+8b-
+8g
+=3
+8ee-
+8dd
+8cc
+8b-
+8a
+8g
+=4
+4.g
+4f#}
+8r
+!!LO:LB:g=esac
+=5
+{4d
+8d
+4g
+8g
+=6
+8b-
+8a
+8g
+8dd
+8b-
+8g
+=7
+8ee-
+8dd
+8cc
+8b-
+8a
+8g
+=8
+4.g
+4f#}
+8r
+==
+*-
+!!!ONB: Pierwsza część melodii, METRUM 6/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=481 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 416} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 416}
+!!!page: 416
+!!!ONB: Converted on 2024/12/26 with esac2hum

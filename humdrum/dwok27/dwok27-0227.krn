@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2722700000-jedzie_jasio_bez_wies.krn
+!!!OTL: Jedzie Jasio bez wieś
+!!!source: DWOK27
+!!!id: 27227
+!!!signature: 2722700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.b
+16dd
+8dd
+8dd
+8ee
+8dd
+=2
+8cc
+8b
+8a
+8g
+8b
+8g}
+!!LO:LB:g=esac
+=3
+{8.g
+16b
+8b
+8a
+8cc
+8b
+=4
+8a
+8g
+8b
+8g
+8e
+16g
+16f#}
+!!LO:LB:g=esac
+=5
+{8.g
+16b
+8b
+8a
+8cc
+8b
+=6
+8a
+8g
+8f#
+8g
+8e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 269} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 269}
+!!!page: 269
+!!!ONB: Converted on 2024/12/26 with esac2hum

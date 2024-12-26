@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK5072600000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK50
+!!!id: 50726
+!!!signature: 5072600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8ee
+8gg
+=2
+8ff#
+8ee
+8ff#
+8gg
+=3
+8ff#
+16ee
+16dd
+8cc
+8b
+=4
+8cc
+8ff#
+4ee}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8ee
+8gg
+=6
+8ff#
+8ee
+8ff#
+8gg
+=7
+8ff#
+8ee
+16ee
+16dd
+8ee
+=8
+4cc
+4cc}
+!!LO:LB:g=esac
+=9
+{8aa-
+8gg
+4gg
+=10
+16ff
+16aa-
+8ff
+4cc
+=11
+8ff
+8ff
+16ee
+16dd
+16cc
+16dd
+=12
+4ee-
+4ee-}
+!!LO:LB:g=esac
+=13
+{8aa-
+8gg
+4gg
+=14
+16ff
+16aa-
+8ff
+4cc
+=15
+8ff
+8ff
+16ee-
+16dd
+8ee-
+=16
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=459 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 426} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 426}
+!!!page: 426
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK2905200000-sam_chodzu_sam_chodzu.krn
+!!!OTL: Sam chodżu sam chodżu
+!!!source: DWOK29
+!!!id: 29052
+!!!signature: 2905200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4b
+8b
+8a
+=2
+4b
+8b
+8a
+=3
+4b
+8b
+8g#
+=4
+2a}
+!!LO:LB:g=esac
+=5
+{4b
+8b
+8a
+=6
+4b
+8b
+8a
+=7
+4b
+8b
+8g#
+=8
+2a}
+!!LO:LB:g=esac
+=9
+{4b
+8b
+8a
+=10
+4b
+8b
+8a
+=11
+4b
+8b
+8g#
+=12
+2a}
+!!LO:LB:g=esac
+=13
+{8b
+8ee
+8ee
+16cc
+16b
+=14
+8ee
+8ee
+16cc
+16b
+8a
+=15
+4b
+8b
+8a
+=16
+4b
+8b
+8a}
+!!LO:LB:g=esac
+=17
+{8b
+8b
+8b
+8g#
+=18
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 154} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 154}
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

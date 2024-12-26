@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK5628800000-ja_wnesy_nam_maty.krn
+!!!OTL: Ja wnesy nam maty
+!!!source: DWOK56
+!!!id: 56288
+!!!signature: 5628800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+4a
+=2
+8a
+8b
+8f#
+=3
+4.g
+=4
+8g}
+4r
+!!LO:LB:g=esac
+=5
+{16b
+16a
+4cc
+=6
+16cc
+16b
+16b
+16a
+8g
+=7
+8a
+8cc
+8b}
+!!LO:LB:g=esac
+=8
+{16b
+16a
+8b
+16a
+16f#
+=9
+8g
+4g
+=10
+8a
+8cc
+8b}
+!!LO:LB:g=esac
+=11
+{16a
+16b
+8cc
+8b
+=12
+8b
+8a
+8f#
+=13
+4.g
+=14
+4g}
+8r
+==
+*-
+!!!ONB: Wariant t. 5: 324_3_; wariant t. 10: 234_3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=373 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 269} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 269}
+!!!page: 269
+!!!ONB: Converted on 2024/12/26 with esac2hum

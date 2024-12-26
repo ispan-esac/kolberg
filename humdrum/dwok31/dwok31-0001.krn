@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3100100000-kolomyja_ne_pomyja.krn
+!!!OTL: Kołomyja ne pomyja
+!!!source: DWOK31
+!!!id: 31001
+!!!signature: 3100100000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+=1
+{8e
+16a
+16g#
+8a
+16a
+16g#
+=2
+8a
+8a
+16a
+16g#
+8a
+=3
+8a
+16dd
+16cc#
+16cc#
+16b
+16b
+16a#
+=4
+8.a#
+32g
+32f#
+4e}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+8e
+8e
+=6
+8e
+8e
+8e
+8e
+=7
+8e
+8g
+16f#
+16e
+16f#
+16d#
+=8
+4e
+4e}
+==
+*-
+!!!ONB: Kołomyjka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 10} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 10}
+!!!page: 10
+!!!ONB: Converted on 2024/12/26 with esac2hum

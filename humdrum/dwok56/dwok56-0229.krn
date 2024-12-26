@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK5622900000-misiaciu_jarozejku.krn
+!!!OTL: Misiaciu jarożejku
+!!!source: DWOK56
+!!!id: 56229
+!!!signature: 5622900000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+{8b-
+=1
+4b-
+4dd
+4ee-
+8dd
+8b-
+=2
+2cc
+4.f}
+!!LO:LB:g=esac
+=-
+{8b-
+=3
+4b-
+4dd
+4ee-
+8dd
+8b-
+=4
+2cc
+4.b-}
+!!LO:LB:g=esac
+=-
+{8ee-
+=5
+4ee-
+8dd
+8b-
+4ee-
+8dd
+8b-
+=6
+2cc
+4.b-}
+==
+*-
+!!!ONB: Wątpliwy zapis z przedtaktem
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=335 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 231} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 231}
+!!!page: 231
+!!!ONB: Converted on 2024/12/26 with esac2hum

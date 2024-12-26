@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK04-K0256-w_mazowieckiem_miescie.krn
+!!!OTL: W Mazowieckiem miescie
+!!!source: DWOK04
+!!!id: K0256
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+4dd
+8ee
+=3
+16cc
+16a
+8f#
+8d
+=4
+8dd
+4b}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8cc
+=6
+4dd
+8ee
+=7
+16cc
+16a
+8f#
+8d
+=8
+8dd
+4b}
+!!LO:LB:g=esac
+=9
+{4g
+8a
+=10
+4g
+8a
+=11
+8g
+8g
+8g}
+!!LO:LB:g=esac
+=12
+{16g
+16b
+4a
+=13
+16cc
+16a
+8f#
+8d
+=14
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 127} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 127}
+!!!page: 127
+!!!ONB: Converted on 2024/12/26 with esac2hum

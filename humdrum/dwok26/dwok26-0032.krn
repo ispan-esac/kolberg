@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2603200000-my_w_te_progi_wstepujemy.krn
+!!!OTL: My w te progi wstępujemy
+!!!source: DWOK26
+!!!id: 26032
+!!!signature: 2603200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+4dd
+4b
+4dd
+=2
+4a
+4b
+4g
+4d
+=3
+4f#
+4a
+4g
+4b
+=4
+4a
+4b
+4g
+4d}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8b
+4dd
+8dd
+8ee
+=6
+8dd
+8a
+8cc
+8b
+4g
+4d
+=7
+8d
+8f#
+8a
+8f#
+4g
+4b
+=8
+8b
+8a
+8cc
+8b
+4g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 81
+!!!ONB: Converted on 2024/12/26 with esac2hum

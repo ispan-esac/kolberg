@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK57192500001-oj_wore_bohacz_wore.krn
+!!!OTL: Oj, wór'e bohacz, wór'e
+!!!source: DWOK57
+!!!id: 571925
+!!!signature: 57192500001
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{4dd
+8dd
+8ee
+=2
+4dd
+4cc
+=3
+4b
+4g
+=4
+8a
+8cc
+4b
+=
+!!UNCATEGORIZED MEASURE
+4a
+12f#
+12e
+12d}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{2d
+=5
+*M2/4
+8f#
+8g
+4a
+=6
+4dd
+8b
+8g
+=7
+*M3/4
+8f#
+8g
+4a
+4dd
+=8
+4b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 988
+!!!ONB: Converted on 2024/12/26 with esac2hum

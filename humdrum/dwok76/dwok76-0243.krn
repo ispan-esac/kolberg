@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK7624300000-rekruci_rekruci_pan_jezus_was_smuci.krn
+!!!OTL: Rekruci, rekruci pan Jezus was smuci
+!!!source: DWOK76
+!!!id: 76243
+!!!signature: 7624300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+4dd
+16dd
+16cc#
+=2
+8dd
+8dd
+8b
+8g
+=3
+8gg
+4gg
+8ee
+=4
+8dd
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8cc
+8ee
+=6
+8b
+8g
+8b
+8dd
+=7
+8cc
+8a
+8cc
+8ee
+=8
+8dd
+4dd
+16b
+16g}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8cc
+8ee
+=10
+8b
+8g
+8b
+8dd
+=11
+8cc
+8a
+8cc
+8ee
+=12
+8dd
+4dd
+16b
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=161 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 125} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 125}
+!!!page: 125
+!!!ONB: Converted on 2024/12/26 with esac2hum

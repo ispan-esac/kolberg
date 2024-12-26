@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK04-K0111a-a_wyjrzyjcie_pacholicy.krn
+!!!OTL: A wyjrzyjcie pacholicy
+!!!source: DWOK04
+!!!id: K0111a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/8
+{16g
+16b
+8dd
+8dd
+=2
+16dd
+16ee
+8a
+8f#
+=
+!!UNCATEGORIZED MEASURE
+24d
+24f#
+24a
+16cc
+16b
+8f#
+=3
+*M3/8
+4g}
+8r
+!!LO:LB:g=esac
+=4
+{16f#
+16a
+8a
+8cc
+=5
+16cc
+16b
+8g
+8d
+=6
+16f#
+16a
+16cc
+16b
+8f#
+=7
+4g}
+8r
+!!LO:LB:g=esac
+=8
+{8dd
+8dd
+8dd
+=9
+16dd
+16ee
+8a
+8d
+=
+!!UNCATEGORIZED MEASURE
+24d
+24f#
+24a
+16cc
+16b
+8f#
+=10
+*M3/8
+4.g}
+!!LO:LB:g=esac
+=11
+{16dd
+16cc
+8a
+8cc
+=12
+16dd
+16ee
+8.dd
+16b
+=13
+16dd
+16cc
+8a
+16cc
+16b
+=14
+4.g}
+==
+*-
+!!!ONB: Wariant 1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 70} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

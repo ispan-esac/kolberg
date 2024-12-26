@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK04-K0177-na_krakowskiej_ulicy.krn
+!!!OTL: Na Krakowskiej ulicy
+!!!source: DWOK04
+!!!id: K0177
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8cc
+8cc
+=2
+16b
+16g
+4cc
+=3
+16cc
+16dd
+8ee
+8ee
+=4
+16ff
+16dd
+4ee}
+!!LO:LB:g=esac
+=5
+{4dd
+8ee
+=6
+4dd
+8cc
+=7
+16b
+16dd
+8cc}
+8r
+!!LO:LB:g=esac
+=8
+{16g
+16g
+8cc
+8cc
+=9
+16b
+16g
+4cc
+=10
+16cc
+16dd
+8ee
+8ee
+=11
+16ff
+16dd
+4ee}
+!!LO:LB:g=esac
+=12
+{4dd
+8gg
+=13
+4ee
+8cc
+=14
+16b
+16dd
+8cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 97} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 97}
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

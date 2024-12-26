@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK1833800000-sluzylach_u_pana.krn
+!!!OTL: Słuzyłach u pana
+!!!source: DWOK18
+!!!id: 18338
+!!!signature: 1833800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc#
+=2
+4dd
+8b
+8cc#
+=3
+8dd
+8cc#
+8b
+8cc#
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc#
+=6
+8dd
+8cc#
+8b
+8cc#
+=7
+8dd
+8cc#
+8b
+8cc#
+=8
+4dd
+4b}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8b
+8g
+=10
+8a
+8a
+8b
+8f#
+=11
+8a
+8a
+8b
+8g
+=12
+8a
+8a
+8b
+8f#}
+!!LO:LB:g=esac
+=13
+{8g
+8a
+8b
+8cc#
+=14
+2dd
+=15
+8b
+8b
+8a
+8a
+=16
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 184} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

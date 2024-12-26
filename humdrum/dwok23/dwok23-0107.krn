@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2310700000-a_siadajze_masz_wola.krn
+!!!OTL: A siadajże masz wolą
+!!!source: DWOK23
+!!!id: 23107
+!!!signature: 2310700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8dd
+4ee
+4ee
+=2
+8cc
+8b
+8dd
+[8cc
+4cc]
+=3
+8g
+8g
+4a
+4b
+=4
+8cc
+8g
+8b
+[8a}
+4a]
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4ee
+4ee
+=6
+8cc
+8b
+8dd
+[8cc
+4cc]
+=7
+8g
+8g
+4a
+4b
+=8
+8cc
+8g
+8b
+[8a}
+4a]
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 143} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 143}
+!!!page: 143
+!!!ONB: Converted on 2024/12/26 with esac2hum

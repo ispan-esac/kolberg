@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK8429900000-gdyby_orlem_byc.krn
+!!!OTL: Gdyby orłem być
+!!!source: DWOK84
+!!!id: 84299
+!!!signature: 8429900000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=1
+{4.a
+8a
+8.b-
+16a
+=2
+2.a
+=3
+4.e
+8e
+8f
+8g
+=4
+2.a}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+4.dd
+8cc
+=6
+8cc
+8b-
+4b-
+4a
+=7
+8a
+8a
+4b
+4cc#
+=8
+8dd
+8ee
+4.ff
+8dd}
+!!LO:LB:g=esac
+=9
+{8e
+8e
+4f
+4g
+=10
+2.a
+=11
+8a
+8a
+4b-
+4a
+=12
+2.d}
+==
+*-
+!!!ONB: Wariant t. 9: 2_2_3b__2_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=345 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 275} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 275}
+!!!page: 275
+!!!ONB: Converted on 2024/12/26 with esac2hum

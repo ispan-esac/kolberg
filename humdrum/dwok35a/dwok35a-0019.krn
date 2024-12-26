@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK35A-35A01900000-pasla_kasuni_czetwero_wolyw.krn
+!!!OTL: Pasła Kasuni czetwero woływ
+!!!source: DWOK35A
+!!!id: 35A019
+!!!signature: 35A01900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8b
+8a
+=2
+8b
+4ee
+=3
+8dd#
+8ee
+8ff#
+=4
+8ee
+16dd#
+8.b
+=5
+8cc
+4b
+=6
+4.a}
+!!LO:LB:g=esac
+=7
+{8b
+8cc
+8dd
+=8
+8ee
+16dd
+8.b
+=9
+8b
+8cc
+8cc
+=10
+4b
+8cc
+=11
+8a
+4g#
+=12
+4.a}
+==
+*-
+!!!ONB: Wariant w takcie piątym 3b_2_-7_ w takcie dziewiątym 2_1_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 25} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 25}
+!!!page: 25
+!!!ONB: Converted on 2024/12/26 with esac2hum

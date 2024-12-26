@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK3916300001-a_wiem_ci_ja_o_lasku.krn
+!!!OTL: A wiem ci ja o lasku
+!!!source: DWOK39
+!!!id: 39163
+!!!signature: 3916300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8dd
+8g
+=2
+4dd
+4dd
+=3
+2gg}
+!!LO:LB:g=esac
+=4
+{8ff#
+8gg
+8aa
+8dd
+=5
+4gg
+4ee
+=6
+2dd}
+!!LO:LB:g=esac
+=7
+{4dd
+4aa
+=8
+4.gg
+8b
+=9
+8dd
+8dd
+8ee
+8dd
+=10
+4b
+4g}
+!!LO:LB:g=esac
+=11
+{8f#
+8a
+8cc
+8ee
+=12
+4dd
+4b
+=13
+2g}
+!!LO:LB:g=esac
+=14
+{4dd
+4aa
+=15
+4.gg
+8b
+=16
+8dd
+8dd
+8ee
+8dd
+=17
+4b
+4g}
+!!LO:LB:g=esac
+=18
+{8f#
+8a
+8cc
+8ee
+=19
+4dd
+4b
+=20
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=253 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 201} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 201}
+!!!page: 201
+!!!ONB: Converted on 2024/12/26 with esac2hum

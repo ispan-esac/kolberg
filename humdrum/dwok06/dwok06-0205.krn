@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0205-a_miala_ja_miala_oj_pana.krn
+!!!OTL: A miala ja miala oj pana
+!!!source: DWOK06
+!!!id: K0205
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8g
+=2
+8a
+4d
+=3
+8dd
+8dd
+8dd
+=4
+4cc
+8dd
+=5
+8ee
+4cc}
+!!LO:LB:g=esac
+=6
+{8g
+4b
+=7
+8a
+4d
+=8
+4cc
+8a
+=9
+4g
+8a
+=10
+8f#
+4d}
+==
+*-
+!!!ONB: Wariant 1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 110} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 110}
+!!!page: 110
+!!!ONB: Converted on 2024/12/26 with esac2hum

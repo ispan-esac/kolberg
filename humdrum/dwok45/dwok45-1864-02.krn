@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK45186400002-majtek_ubogi.krn
+!!!OTL: Majtek ubogi
+!!!source: DWOK45
+!!!id: 451864
+!!!signature: 45186400002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8cc
+4.ee
+8cc
+=2
+8cc
+8b
+2b
+=3
+8dd
+8ff
+4.ff
+8b
+=4
+8dd
+8cc
+2cc}
+!!LO:LB:g=esac
+=
+{12g
+12cc
+12ee
+4gg
+4ee
+=5
+8aa
+8gg
+2gg
+=
+12gg
+12aa
+12gg
+4.ff
+8dd
+=6
+8b
+8cc
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=338 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 322} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 322}
+!!!page: 322
+!!!ONB: Converted on 2024/12/26 with esac2hum

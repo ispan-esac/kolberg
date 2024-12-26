@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2536500001-drobny_grosek_da_drobny.krn
+!!!OTL: Drobny grosek da drobny
+!!!source: DWOK25
+!!!id: 25365
+!!!signature: 2536500001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8cc
+8ee
+=2
+8ff
+16ee
+16ff
+8gg
+=3
+8ff
+16ee
+16ff
+16gg
+16ee}
+!!LO:LB:g=esac
+=4
+{16gg
+16aa
+8ff
+8dd
+=5
+16dd
+16ee
+4cc}
+!!LO:LB:g=esac
+=6
+{4dd
+8dd
+=7
+16g
+16b
+8cc
+8ee
+=8
+16ee
+16dd
+8b
+8dd
+=9
+16ff
+16ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 168} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

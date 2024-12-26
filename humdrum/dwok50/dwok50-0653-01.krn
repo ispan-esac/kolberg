@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK5065300001-hej_tam_na_kim_kolej_dajcie_mi_kielicha.krn
+!!!OTL: Hej tam, na kim kolej, dajcie mi kielicha
+!!!source: DWOK50
+!!!id: 50653
+!!!signature: 5065300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8dd
+=2
+16dd
+16dd
+8b
+8dd
+=3
+4ee
+8ee
+=4
+16gg
+16gg
+8ff#
+8ee}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+=6
+16dd
+16dd
+8b
+8g
+=7
+4cc
+8cc
+=8
+16b
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{4cc
+8cc
+=10
+16b
+16dd
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=428 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 395} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 395}
+!!!page: 395
+!!!ONB: Converted on 2024/12/26 with esac2hum

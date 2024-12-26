@@ -1,0 +1,107 @@
+!!!!SEGMENT: DWOK3609700002-maryniu_dytiatko.krn
+!!!OTL: Maryniu dytiatko
+!!!source: DWOK36
+!!!id: 36097
+!!!signature: 3609700002
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/8
+{8b
+8g
+16a
+16b
+=2
+16cc
+16b
+8a
+8g
+=3
+4.a
+=4
+*M2/4
+8a
+8g}
+4r
+!!LO:LB:g=esac
+=5
+*M3/8
+{8b
+8a
+8b
+=6
+16a
+16f#
+8g
+16a
+16g
+=7
+16b
+24cc
+24b
+24a
+16b
+16g
+=
+!!UNCATEGORIZED MEASURE
+16a
+16f#
+=8
+*M2/4
+4g}
+4r
+!!LO:LB:g=esac
+=9
+*M3/8
+{8g
+8b
+8g
+=10
+16a
+16b
+8a
+8g
+=11
+4.a
+=12
+*M2/4
+4a}
+4r
+!!LO:LB:g=esac
+=13
+*M3/8
+{16g
+16a
+8b
+8g
+=14
+8a
+8a
+8f#
+=15
+8g
+8a
+8g}
+!!LO:LB:g=esac
+=16
+{16b
+16b
+8b
+8g
+=17
+8a
+4f#
+=18
+4.g
+=19
+8g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

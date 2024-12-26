@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2250200020-instrumentalna-nieszczesliwa_poniewierka.krn
+!!!OTL: Instrumentalna-Nieszczęśliwa poniewierka
+!!!source: DWOK22
+!!!id: 22502
+!!!signature: 2250200020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16a
+8g
+8dd
+=2
+16cc
+16a
+8dd
+16e
+16d
+=3
+16f#
+16a
+8g
+8dd
+=4
+16cc
+16a
+8g
+16e
+16ff#}
+!!LO:LB:g=esac
+=5
+{16f#
+16a
+8b
+8d
+=6
+32cc
+32b
+32a
+32g
+8b
+16e
+16d
+=7
+16f#
+16a
+8b
+8d
+=8
+16f#
+16a
+8g
+16e
+16d}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=253 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 235} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 235}
+!!!page: 235
+!!!ONB: Converted on 2024/12/26 with esac2hum

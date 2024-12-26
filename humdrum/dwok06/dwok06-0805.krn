@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK06-K0805-zasieje_se_rutki.krn
+!!!OTL: Zasieje se rutki
+!!!source: DWOK06
+!!!id: K0805
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8cc
+4cc
+=2
+8b
+4b
+8b
+=3
+8a
+8cc
+8f#
+8f#
+=4
+16f#
+16g
+4g
+8d}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+4a
+=6
+8cc
+4b
+8b
+=7
+8a
+16cc
+16a
+8f#
+8f#
+=8
+8f#
+4g
+8d}
+!!LO:LB:g=esac
+=9
+{8f#
+8a
+4cc
+=10
+8cc
+4b
+8b
+=11
+8a
+8cc
+8f#
+8a
+=12
+16a
+16g
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=510 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 484} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 484}
+!!!page: 484
+!!!ONB: Converted on 2024/12/26 with esac2hum

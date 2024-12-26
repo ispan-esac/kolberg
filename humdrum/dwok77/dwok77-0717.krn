@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK7771700000-trzewicek_mi_sie_zdar.krn
+!!!OTL: Trzewicek mi się zdar
+!!!source: DWOK77
+!!!id: 77717
+!!!signature: 7771700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+2ee
+=2
+4ff#
+4ee
+4dd
+=3
+8b
+8a
+4cc
+4ee
+=4
+4b
+2g#}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+2a
+=6
+4b
+4dd
+4cc
+=7
+8a
+8cc
+4a
+4a
+=8
+4b
+2g#}
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+2ee
+=10
+4ff#
+4ee
+4dd
+=11
+8b
+8a
+4cc
+4ee
+=12
+4b
+2g#}
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+2ee
+=14
+8cc
+8b
+4dd
+4cc
+=15
+8a
+8cc
+4a
+4cc
+=16
+8cc
+8b
+2g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 360
+!!!ONB: Converted on 2024/12/26 with esac2hum

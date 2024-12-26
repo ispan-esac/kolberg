@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK5612900000-oj_chodzmyz.krn
+!!!OTL: Oj chodźmyż
+!!!source: DWOK56
+!!!id: 56129
+!!!signature: 5612900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8dd
+8cc
+4b
+4g
+=2
+8dd
+8dd
+4cc
+4b
+4g
+=3
+4cc
+4ee
+2dd}
+!!LO:LB:g=esac
+=4
+{4dd
+8dd
+8cc
+4b
+4g
+=5
+8a
+8g
+8a
+8b
+4cc
+8dd
+8cc
+=6
+4b
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 147-148} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, pp. 147-148}
+!!!page: 147-148
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK1337300022-instrumentalna-chodzony_weselny_wawiej.krn
+!!!OTL: Instrumentalna-Chodzony Weselny Żwawiej
+!!!source: DWOK13
+!!!id: 13373
+!!!signature: 1337300022
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4.g
+=
+24b
+24cc
+24ee
+8.ee
+16dd
+=
+24cc#
+24b
+24cc#
+24dd
+24ee
+24ff#
+24ee
+24dd
+24cc
+=
+24b
+24cc
+24ee
+8.ee
+16dd
+=
+24b
+24a
+24g
+24b
+24cc
+24b
+24a
+24g
+24f#}
+!!LO:LB:g=esac
+=2
+{16d
+16f#
+8g
+16b
+16a
+=
+24dd
+24ee
+24dd
+16b
+16cc
+8a
+=
+24d
+24e
+24f#
+24g
+24f#
+24g
+16b
+16a
+=
+24g
+24f#
+24d
+16b
+16cc
+24b
+24a
+24f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 159} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 159}
+!!!page: 159
+!!!ONB: Converted on 2024/12/26 with esac2hum

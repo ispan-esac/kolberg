@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK1809300002-a_rownajcie_sie_gory.krn
+!!!OTL: A równajcie się góry
+!!!source: DWOK18
+!!!id: 18093
+!!!signature: 1809300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+8b
+4cc
+=3
+8dd
+8dd
+8dd
+=4
+8ee
+8dd
+8b}
+!!LO:LB:g=esac
+=5
+{8cc
+4a
+=6
+4g
+8r
+=7
+8g
+8g
+8d
+=8
+8g
+4g}
+!!LO:LB:g=esac
+=9
+{16b
+16a
+8b
+8cc
+=10
+8dd
+8dd
+8b
+=11
+8cc
+8a
+8d
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 89} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 89}
+!!!page: 89
+!!!ONB: Converted on 2024/12/26 with esac2hum

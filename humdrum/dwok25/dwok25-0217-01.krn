@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2521700001-z_tamtej_strony_klasztora.krn
+!!!OTL: Z tamtej strony klasztora
+!!!source: DWOK25
+!!!id: 25217
+!!!signature: 2521700001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8e
+8d
+8e
+8d
+=2
+4g
+4a
+=3
+2b
+=4
+8b
+8cc
+8b
+8cc
+=5
+4b
+4a
+=6
+2e}
+!!LO:LB:g=esac
+=7
+{4b
+8g
+8g
+=8
+4a
+4dd
+=9
+4b
+8g
+8f#
+=10
+4e
+4d
+=11
+8e
+8g
+8a
+8cc
+=12
+4b
+4a
+=13
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 95} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 95}
+!!!page: 95
+!!!ONB: Converted on 2024/12/26 with esac2hum

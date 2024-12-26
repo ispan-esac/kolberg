@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK5017400000-jak_ja_umre_gdzie_mnie_pochowacie.krn
+!!!OTL: Jak ja umrę, gdzie mnie pochowacie
+!!!source: DWOK50
+!!!id: 50174
+!!!signature: 5017400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16cc
+8b
+8a
+=2
+16b
+16cc
+4dd
+=3
+8g
+8g
+8g}
+!!LO:LB:g=esac
+=4
+{16gg
+16gg
+8ff#
+8ee
+=5
+16ff#
+16gg
+4aa
+=6
+8dd
+8ee
+8ff#}
+!!LO:LB:g=esac
+=7
+{16gg
+16dd
+8b
+8g
+=8
+16a
+16cc
+4ee
+=9
+8dd
+8ff#
+8ee}
+!!LO:LB:g=esac
+=10
+{16dd
+16cc
+8b
+8a
+=11
+16b
+16cc
+4dd
+=12
+8g
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 80} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

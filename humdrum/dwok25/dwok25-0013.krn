@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2501300000-za_dunajem_za_dunajem.krn
+!!!OTL: Za dunajem, za dunajem
+!!!source: DWOK25
+!!!id: 25013
+!!!signature: 2501300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8g
+8b
+=2
+16cc
+16cc
+8b
+8g
+=3
+16d
+16f#
+8g
+8b
+=4
+16cc
+16a
+8b
+8g
+=5
+16cc
+16a
+8dd
+8cc#
+=6
+4.dd}
+!!LO:LB:g=esac
+=7
+{16d
+16f#
+8g
+8b
+=8
+16cc
+16cc
+8b
+8g
+=9
+16cc
+16a
+8b
+8g
+=10
+16.f#
+32a
+8e
+8f#
+=11
+4.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 6} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 6}
+!!!page: 6
+!!!ONB: Converted on 2024/12/26 with esac2hum

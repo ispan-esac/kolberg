@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK0627700001-nie_chce_cie_kasiu.krn
+!!!OTL: Nie chcę cię Kasiu
+!!!source: DWOK06
+!!!id: K0277
+!!!signature: 0627700001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8b
+8b
+=2
+4cc
+8ee
+=3
+4dd
+8b
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8g
+=6
+4cc
+8ee
+=7
+4dd
+8b
+=8
+4cc}
+8r
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8ee
+=10
+8ee
+8ff
+8dd
+=11
+8dd
+8cc
+8ee
+=12
+8ee
+8ff
+8dd}
+!!LO:LB:g=esac
+=13
+{8dd
+8cc
+8ee
+=14
+8ee
+8ff
+8dd
+=15
+8dd
+8cc
+8ee
+=16
+8ee
+8ff
+8dd}
+!!LO:LB:g=esac
+=17
+{8a
+8g
+8b
+=18
+4cc
+8ee
+=19
+4dd
+8b
+=20
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 139} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 139}
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

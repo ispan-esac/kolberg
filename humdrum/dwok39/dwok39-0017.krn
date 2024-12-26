@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK3901700000-a_siadajze_a_siadajze_kochanie_moje.krn
+!!!OTL: A siadajże, a siadajże kochanie moje
+!!!source: DWOK39
+!!!id: 39017
+!!!signature: 3901700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+4cc
+4dd
+=2
+8ee
+8ee
+4dd
+4ee
+=3
+8cc
+8cc
+4.b
+8g#
+=4
+2.a}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+4cc
+4dd
+=6
+8ee
+8ee
+4dd
+4ee
+=7
+8cc
+8cc
+4.b
+8g#
+=8
+2.a}
+!!LO:LB:g=esac
+=9
+{8b
+8a
+4.g#
+8e
+=10
+8g#
+8b
+4dd
+4ee}
+!!LO:LB:g=esac
+=11
+{8b
+8a
+4.g#
+8e
+=12
+8g#
+8b
+4dd
+4ee}
+!!LO:LB:g=esac
+=13
+{8cc
+8cc
+4b
+4g#
+=14
+2.a}
+==
+*-
+!!!ONB: Jak do ślubu odjeżdżają (na wozie)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 91} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 91}
+!!!page: 91
+!!!ONB: Converted on 2024/12/26 with esac2hum

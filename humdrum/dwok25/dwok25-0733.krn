@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2573300000-juz_gluchej_nocy.krn
+!!!OTL: Już głuchej nocy
+!!!source: DWOK25
+!!!id: 25733
+!!!signature: 2573300000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=1
+{4f
+8b-
+8cc
+4dd
+4dd
+=2
+4ff
+8ee-
+8dd
+4ee-
+4cc
+=3
+4cc
+8dd
+8ee-
+4dd
+8cc
+8b-
+=4
+2a
+4b-}
+4r
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+8cc
+4b-
+4f
+=6
+4cc
+8cc
+8b-
+4a
+4f
+=7
+4cc
+8dd
+8ee-
+4dd
+8cc
+8b-
+=8
+2a
+4b-}
+4r
+==
+*-
+!!!ONB: wariant w takcie szóstym 2_.32_1_-7__-5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=282 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 257} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 257}
+!!!ONB: Converted on 2024/12/26 with esac2hum

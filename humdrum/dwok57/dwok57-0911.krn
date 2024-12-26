@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5791100000-kalyno_malyno.krn
+!!!OTL: Kałyno, małyno
+!!!source: DWOK57
+!!!id: 57911
+!!!signature: 5791100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8b
+8cc
+=2
+8dd
+8b
+4g
+=3
+8cc
+8dd
+8ee
+8cc
+=4
+32ff
+16.ee
+32dd
+16.ee
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+8ee
+=6
+4gg
+4g
+=7
+8b
+8b
+8b
+8b
+=8
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

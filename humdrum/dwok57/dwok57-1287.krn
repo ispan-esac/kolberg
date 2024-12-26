@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK57128700000-sonce_hryje_witer_wije.krn
+!!!OTL: Sońce hryje, witer wije
+!!!source: DWOK57
+!!!id: 571287
+!!!signature: 57128700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4.a
+8ee
+8ee
+8ee
+=2
+4.ff
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=3
+{4.a
+8ee
+8ee
+8ee
+=4
+4.ff
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8dd
+8cc
+8b
+8a
+=6
+4.b
+8g#
+8e
+8g#
+=7
+8a
+8cc
+2ee}
+!!LO:LB:g=esac
+=8
+{8cc
+8cc
+8dd
+8cc
+8b
+8a
+=9
+4.b
+8g#
+8e
+8g#
+=10
+4a}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 385
+!!!ONB: Converted on 2024/12/26 with esac2hum

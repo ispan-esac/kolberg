@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2304700000-nasz_gajik_gajiczek.krn
+!!!OTL: Nasz gajik gajiczek
+!!!source: DWOK23
+!!!id: 23047
+!!!signature: 2304700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+4g
+=2
+8g
+8b
+4g
+=3
+8g
+8b
+8b
+8dd
+=4
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8e
+4d
+=6
+8d
+8f#
+4g
+=7
+8dd
+16dd
+16cc
+8b
+16b
+16a
+=8
+4g
+4g}
+!!LO:LB:g=esac
+=9
+{8g
+8e
+4d
+=10
+8d
+8f#
+4g
+=11
+8dd
+16dd
+16cc
+8b
+8f#
+=12
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=105 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 91} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 91}
+!!!page: 91
+!!!ONB: Converted on 2024/12/26 with esac2hum

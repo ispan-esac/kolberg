@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2910200000-oj_gazdo_mij_gazdo.krn
+!!!OTL: Oj gazdo mij gazdo
+!!!source: DWOK29
+!!!id: 29102
+!!!signature: 2910200000
+**kern
+*clefG2
+*k[]
+*a:
+*MX
+=1
+{8cc
+8dd
+8dd
+8dd
+8a
+8cc
+8b
+4a
+=2
+8b
+8cc
+8cc
+8cc
+8cc
+8cc
+8a
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=3
+{8b
+8cc
+8a
+8cc
+8dd
+8a
+8cc
+8b
+4a
+=4
+8b
+8cc
+8cc
+8cc
+8cc
+8a
+8cc
+8cc
+8b
+16cc
+16a
+8cc
+8b
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 216} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 216}
+!!!page: 216
+!!!ONB: Converted on 2024/12/26 with esac2hum

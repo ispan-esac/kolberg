@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK5244800000-zwiniela_komora_zwiniela.krn
+!!!OTL: Zwinieła komora, zwinieła
+!!!source: DWOK52
+!!!id: 52448
+!!!signature: 5244800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+8cc
+8cc
+=2
+16b-
+16a
+16g
+16f
+8f
+=3
+8b-
+4dd
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{8dd
+16dd
+16cc
+8dd
+=
+16dd
+16cc
+8cc
+24b-
+24a
+24g
+=6
+8f
+4f
+=7
+4.f}
+!!LO:LB:g=esac
+=8
+{16g
+16a
+16b-
+16a
+8cc
+=9
+8g
+8f
+8f
+=10
+8b-
+4dd
+=11
+4cc}
+8r
+!!LO:LB:g=esac
+=12
+{8dd
+16dd
+16cc
+8dd
+=
+4cc
+24b-
+24a
+24g
+=13
+8f
+4f
+=14
+4.f}
+==
+*-
+!!!ONB: W opracowaniu głos na fortepian
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=340 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 279} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 279}
+!!!page: 279
+!!!ONB: Converted on 2024/12/26 with esac2hum

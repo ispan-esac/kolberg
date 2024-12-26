@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK8406500000-oj_za_mistom_za_kremjancem.krn
+!!!OTL: Oj, za mistom, za Kremjańcem
+!!!source: DWOK84
+!!!id: 84065
+!!!signature: 8406500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ff
+8ff
+8ee
+8ee
+=2
+8dd
+8cc
+8ee
+8dd
+=3
+4.cc
+16b
+16a
+=4
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8cc
+8cc
+=6
+8dd
+8cc
+4ff
+=7
+8ee
+8dd
+4cc}
+!!LO:LB:g=esac
+=8
+{8ff
+8ff
+8ee
+8ee
+=9
+8dd
+8cc
+8ee
+8dd
+=10
+4.cc
+16b
+16a
+=11
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 88} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

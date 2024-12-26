@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK1643200002-z_poniedzialku_na_swieto_furmanowi_konie_zajeto.krn
+!!!OTL: Z poniedziałku na święto, furmanowi konie zajęto
+!!!source: DWOK16
+!!!id: 16432b
+!!!signature: 1643200002
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8a
+8dd
+8dd
+=2
+4cc
+8b-
+=3
+16a
+16cc#
+4dd
+=4
+16a
+16cc#
+8dd
+8dd
+=5
+4cc
+8b-
+=6
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=7
+{16g
+16cc
+8b-
+8b-
+=8
+16a
+16f#
+8d
+8f#
+=9
+8g
+4b-
+=10
+16g
+16cc
+8b-
+8b-
+=11
+16a
+16f#
+8d
+8f#
+=12
+8g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 268} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 268}
+!!!ONB: Converted on 2024/12/26 with esac2hum

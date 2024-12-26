@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7738700000-oj_serce_mi_sie_kraje.krn
+!!!OTL: Oj serce mi się kraje
+!!!source: DWOK77
+!!!id: 77387
+!!!signature: 7738700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4dd
+4dd
+=2
+8a
+8cc
+4ee
+4f#}
+!!LO:LB:g=esac
+=3
+{4g
+4b
+4dd
+=4
+8a
+8cc
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{4g
+4b
+4dd
+=6
+8a
+8cc
+4ee
+4f#}
+!!LO:LB:g=esac
+=7
+{4g
+4b
+4dd
+=8
+8a
+8cc
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 200
+!!!ONB: Converted on 2024/12/26 with esac2hum

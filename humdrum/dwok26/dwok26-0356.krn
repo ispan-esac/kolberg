@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK2635600000-nasci_tobie_pani_matko.krn
+!!!OTL: Naści tobie pani matko
+!!!source: DWOK26
+!!!id: 26356
+!!!signature: 2635600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16ee
+16ee
+8dd
+8cc
+=3
+16b
+16b
+8dd
+8b
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+8dd
+=6
+16ee
+16ee
+8dd
+16b
+16cc
+=7
+16b
+16b
+8dd
+16cc
+16b
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{8a
+4cc
+=10
+16b
+16dd
+8b
+8b
+=11
+8a
+4cc
+=12
+16b
+16dd
+8b
+8b
+=13
+16b
+16b
+8dd
+8b
+=14
+4.a}
+!!LO:LB:g=esac
+=15
+{8a
+4cc
+=16
+16b
+16dd
+8b
+8b
+=17
+8a
+4cc
+=18
+16b
+16dd
+8b
+8b
+=19
+16b
+16b
+8dd
+8b
+=20
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 260
+!!!ONB: Converted on 2024/12/26 with esac2hum

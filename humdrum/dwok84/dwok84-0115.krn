@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK8411500000-temna_nyczka_ne_wydnaja.krn
+!!!OTL: Temna nyczka, ne wydnaja
+!!!source: DWOK84
+!!!id: 84115
+!!!signature: 8411500000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8.b
+32a
+32cc#
+8b
+16a
+16f
+=2
+16e
+16g
+8a
+8g
+16a
+16cc#}
+!!LO:LB:g=esac
+=3
+{8.b
+32a
+32cc#
+8b
+16a
+16f
+=4
+16e
+16g
+8a
+8g
+8e}
+!!LO:LB:g=esac
+=5
+{8.g
+16a
+8b
+16a
+16g
+=6
+16e
+16g
+8a
+16g
+16f
+8e}
+==
+*-
+!!!ONB: Wariant t. 4: 1_3b_4__3b_2b_1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 123} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

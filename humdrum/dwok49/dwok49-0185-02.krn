@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK4918500002-w_zywnyj_czetwer_po_obidi.krn
+!!!OTL: W żywnyj czetwer po obidi
+!!!source: DWOK49
+!!!id: 49185
+!!!signature: 4918500002
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{16d
+16g
+8a
+8g
+8f#
+=2
+16d
+16g
+8a
+8b
+8g
+=3
+2a}
+!!LO:LB:g=esac
+=4
+{4a
+4dd
+=5
+16cc
+16b-
+16a
+16g
+4g
+=6
+8cc
+8b-
+4a
+=7
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=326 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 244} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 244}
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

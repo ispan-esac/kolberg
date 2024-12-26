@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK8371100000-w_gajiku_zielonym.krn
+!!!OTL: W gajiku zielonym
+!!!source: DWOK83
+!!!id: 83711
+!!!signature: 8371100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8ee
+=2
+8dd
+4.b
+=3
+8a
+8cc
+8ff#
+8ee
+=4
+8ee
+4.dd}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+8ee
+=6
+4.ee
+8b
+=7
+8dd
+8cc
+8b
+8a
+=8
+8a
+4.g}
+!!LO:LB:g=esac
+=9
+{8a
+8b
+8cc
+8a
+=10
+4.dd
+8b
+=11
+8a
+8b
+8cc
+8cc#
+=12
+4.dd
+8dd
+=13
+8a
+8b
+8cc
+8cc#
+=14
+4.dd
+8dd}
+!!LO:LB:g=esac
+=15
+{8ee
+8ee
+8ff#
+8gg
+=16
+4.bb
+8gg
+=17
+8ff#
+8ee
+8cc
+8a
+=18
+8a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 73} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

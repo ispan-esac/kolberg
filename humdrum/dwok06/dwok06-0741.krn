@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK06-K0741-olty_kanarczek.krn
+!!!OTL: Żółty kanarczek
+!!!source: DWOK06
+!!!id: K0741
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+4dd
+16dd
+16cc#
+=2
+8dd
+8dd
+8ee
+8dd
+=3
+8ee
+4cc
+8ee
+=4
+8cc
+16cc
+16b
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8f#
+4g
+8a
+=6
+8b
+8b
+8dd
+16cc
+16b
+=7
+8a
+4cc
+8ee
+=8
+8cc
+16cc
+16b
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=482 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 456} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 456}
+!!!page: 456
+!!!ONB: Converted on 2024/12/26 with esac2hum

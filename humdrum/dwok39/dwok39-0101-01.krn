@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK3910100001-matulenku_kot_wlaz_mi_do_pokoju.krn
+!!!OTL: Matuleńku, kot wlaz mi do pokoju
+!!!source: DWOK39
+!!!id: 39101
+!!!signature: 3910100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8f#
+=2
+2g}
+!!LO:LB:g=esac
+=3
+{8a
+8b
+8cc
+8ee
+=4
+4dd
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8a
+=6
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=205 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 153} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 153}
+!!!page: 153
+!!!ONB: Converted on 2024/12/26 with esac2hum

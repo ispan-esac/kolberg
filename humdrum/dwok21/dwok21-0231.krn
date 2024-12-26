@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK2123100000-skrzypecku_dobrze_gras.krn
+!!!OTL: Skrzypecku dobrze gras
+!!!source: DWOK21
+!!!id: 21231
+!!!signature: 2123100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+16dd
+16cc#
+4a
+=3
+8dd
+8b
+8g
+=4
+16e
+16f#
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8b
+=6
+16b
+16cc
+8a
+8d
+=7
+8g
+8b
+8g
+=8
+16d
+16f#
+4a}
+!!LO:LB:g=esac
+=9
+{16f#
+16g
+8b
+8dd
+=10
+16dd
+16cc#
+4a
+=11
+16cc#
+16dd
+8b
+8g
+=12
+16e
+16f#
+4d}
+!!LO:LB:g=esac
+=13
+{16f#
+16g
+8b
+8b
+=14
+16b
+32dd
+32cc
+8a
+16f#
+16d
+=15
+16f#
+16g
+8b
+16g
+16f#
+=16
+16d
+16f#
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 108} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 108}
+!!!page: 108
+!!!ONB: Converted on 2024/12/26 with esac2hum

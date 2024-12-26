@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK45113900001-a_chocem_se_malusinka_drobna.krn
+!!!OTL: A chocem se malusinka, drobna
+!!!source: DWOK45
+!!!id: 451139
+!!!signature: 45113900001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+4.cc
+8b
+=2
+4cc
+4dd
+4cc
+=3
+8cc
+8b
+2a}
+!!LO:LB:g=esac
+=4
+{8cc
+8dd
+4ee
+4ee
+=5
+8ff
+8ee
+4dd
+4dd
+=6
+4cc
+2cc}
+!!LO:LB:g=esac
+=7
+{8cc
+8dd
+4ee
+4gg
+=8
+4gg
+4ff
+4ee
+=9
+8ee
+8dd
+2cc}
+!!LO:LB:g=esac
+=10
+{8a
+8b
+2cc
+=11
+4dd
+4cc
+4b
+=12
+8b
+8a
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 78} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 78}
+!!!page: 78
+!!!ONB: Converted on 2024/12/26 with esac2hum

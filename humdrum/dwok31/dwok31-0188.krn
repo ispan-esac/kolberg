@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK3118800000-ah_ah_ah_jak_zajde.krn
+!!!OTL: Ah ah ah jak zajde
+!!!source: DWOK31
+!!!id: 31188
+!!!signature: 3118800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4a
+4a
+=2
+8a
+8b
+8cc
+8b
+=3
+8cc
+8b
+8a
+8g
+=4
+8a
+8b
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{4e
+4a
+=6
+8a
+8b
+8cc
+8b
+=7
+8cc
+8b
+8a
+8g
+=8
+8a
+8b
+8a
+8a}
+!!LO:LB:g=esac
+=9
+{4a
+4a
+=10
+8a
+8b
+8cc
+8b
+=11
+8cc
+8b
+8a
+8g
+=12
+8a
+8b
+4cc}
+!!LO:LB:g=esac
+=13
+{4e
+4a
+=14
+8a
+8b
+8cc
+8b
+=15
+8cc
+8b
+8a
+8g
+=16
+8a
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=47 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 26} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 26}
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

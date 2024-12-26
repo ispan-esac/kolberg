@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK02-K0015-instrumentalna_-_marsz.krn
+!!!OTL: Instrumentalna - Marsz
+!!!source: DWOK02
+!!!id: K0015
+!!!signature:
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M2/4
+=1
+{4ff#
+8dd
+8ff#
+=2
+4gg
+8ee-
+8dd
+=3
+8ff#
+8aa
+8gg
+8ff#
+=4
+4gg
+4dd}
+!!LO:LB:g=esac
+=
+{4ff#
+12dd
+12ff#
+12aa
+=
+4gg
+8ff#
+24ee-
+24dd
+24cc
+=5
+2dd}
+!!LO:LB:g=esac
+=6
+{4ff#
+8dd
+8ff#
+=7
+4gg
+8ff#
+16ee-
+16dd
+=8
+8dd
+8ff#
+8gg
+8ff#
+=9
+4gg
+4dd}
+!!LO:LB:g=esac
+=
+{4ff#
+12dd
+12ff#
+12aa
+=
+4gg
+24ff#
+24gg
+24ff#
+24ee-
+24dd
+24cc
+=10
+2dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 32} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 32}
+!!!page: 32
+!!!ONB: Converted on 2024/12/26 with esac2hum

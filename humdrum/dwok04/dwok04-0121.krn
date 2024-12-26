@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK0412100000-zielona_laczka_piekny_kwiat.krn
+!!!OTL: Zielona łączka, piękny kwiat
+!!!source: DWOK04
+!!!id: K0121
+!!!signature: 0412100000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{4dd
+8a
+8a
+8f#
+8d
+=2
+8b
+16b
+16dd
+2a}
+!!LO:LB:g=esac
+=3
+{8g
+16g
+16a
+2f#
+=4
+8e
+16e
+16f#
+4d}
+4r
+!!LO:LB:g=esac
+=5
+{8.dd
+16ee
+8ff#
+8dd
+8ee
+8a
+=6
+8.ee
+16ff#
+8gg
+8ee
+8ff#
+8a}
+!!LO:LB:g=esac
+=7
+{8a
+16a
+16cc#
+2dd
+=8
+8g
+16g
+16a
+2f#
+=9
+16a
+16g
+16e
+16f#
+4d}
+4r
+==
+*-
+!!!ONB: W t. 2 u Kolberga błędny zapis: 6_6+15__; skorygowano analogiczne do t. 3 
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=87 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 73-74} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 73-74}
+!!!page: 73-74
+!!!ONB: Converted on 2024/12/26 with esac2hum

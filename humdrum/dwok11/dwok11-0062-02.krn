@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK1106200002-kapusta_graczyku_kapusta.krn
+!!!OTL: Kapusta graczyku, kapusta
+!!!source: DWOK11
+!!!id: 11062
+!!!signature: 1106200002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+8ff
+8ee
+=2
+16gg
+16gg
+8ff
+8ee
+=3
+8cc
+16ff
+16ee
+8b
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8ff
+8ee
+=6
+16cc
+16ee
+16ff
+16ee
+8g
+=
+24g
+24b
+24cc
+8ff
+8ee
+=7
+16cc
+16ee
+16ff
+16ee
+8g}
+!!LO:LB:g=esac
+=
+{24g
+24b
+24cc
+8ff
+8ee
+=8
+16cc
+16ee
+16ff
+16ee
+8g
+=
+24b
+24cc
+24ee
+16ff
+16ee
+8b
+=9
+4.cc}
+==
+*-
+!!!ONB: U Kolberga w takcie 7 i 9 brakuje znaku trioli - zapisano poprawnie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 177} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

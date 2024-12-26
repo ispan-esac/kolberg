@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK4902100000-a_w_slawnym_misci_a_i_w_flejemie.krn
+!!!OTL: A w sławnym miści, a i w Fłejemie
+!!!source: DWOK49
+!!!id: 49021
+!!!signature: 4902100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4a
+4a
+4b
+=2
+4cc
+2dd
+=3
+4dd
+8dd
+8cc
+4b
+=4
+8dd
+8cc
+4a
+4g
+=5
+4b
+4.a
+8f#
+=6
+2g}
+4r
+!!LO:LB:g=esac
+=7
+{4dd
+4dd
+4ee
+=8
+4dd
+4.b
+8g
+=9
+4a
+4b
+4g
+=10
+2a
+4dd
+=11
+4g
+2g
+=12
+4g}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 114} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 114}
+!!!page: 114
+!!!ONB: Converted on 2024/12/26 with esac2hum

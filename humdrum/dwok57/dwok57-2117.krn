@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK57211700000-stoj_carze_stoj_bo_za_toba_boj.krn
+!!!OTL: Stój carze, stój, bo za tobą bój
+!!!source: DWOK57
+!!!id: 572117
+!!!signature: 57211700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+8b
+8g
+=2
+2dd
+=3
+8g
+8g
+8b
+8g
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8.dd
+16dd
+8dd
+8dd
+=6
+8gg
+8dd
+8b
+8g
+=7
+8dd
+8dd
+8dd
+8dd
+=8
+2dd}
+!!LO:LB:g=esac
+=9
+{8.b
+16a
+8b
+8cc
+=10
+8.ee
+16dd
+16dd
+16cc
+8cc
+=11
+8.dd
+16cc
+8cc
+8a
+=12
+8.cc
+16b
+16b
+16a
+8g}
+!!LO:LB:g=esac
+=13
+{8b
+8a
+8b
+8cc
+=14
+8ee
+8dd
+8dd
+8dd
+=15
+8dd
+8dd
+8ee
+8ff#
+=16
+4gg}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1177
+!!!ONB: Converted on 2024/12/26 with esac2hum

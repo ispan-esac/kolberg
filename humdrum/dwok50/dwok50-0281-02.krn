@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5028100002-tam_na_hory_dwa_duby.krn
+!!!OTL: Tam na hory dwa duby
+!!!source: DWOK50
+!!!id: 50281
+!!!signature: 5028100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8dd
+8ee
+4dd
+=3
+4a
+8dd
+8cc}
+!!LO:LB:g=esac
+=4
+{8g
+8g
+8g
+8cc
+=5
+8b-
+8a
+4g}
+!!LO:LB:g=esac
+=6
+{8b-
+8a
+4g
+=7
+8a
+8g
+8f#
+8g}
+!!LO:LB:g=esac
+=8
+{8d
+8d
+4g
+=9
+8d
+8d
+8d
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 139} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 139}
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,119 @@
+!!!!SEGMENT: DWOK35B-35B07700000-oj_u_luzi_pry_dorozi_zacwyla_kalyna.krn
+!!!OTL: Oj u łuzi pry dorozi zacwyła kałyna
+!!!source: DWOK35B
+!!!id: 35B077
+!!!signature: 35B07700000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16a
+8.a
+16dd
+8.dd
+=2
+16cc
+8.cc
+16cc
+8.b
+=3
+16a
+8.a
+16dd
+8.dd
+=4
+4cc
+4g}
+!!LO:LB:g=esac
+=5
+{16dd
+8.ee
+16ff
+8.gg
+=6
+16ff
+8.ee
+16cc
+8.a
+=7
+16dd
+8.ee
+16ff
+8.gg
+=8
+16ff
+8.ee
+16cc
+8.a}
+!!LO:LB:g=esac
+=9
+{16dd
+8.dd
+16cc
+8.b
+=10
+4a
+4a}
+!!LO:LB:g=esac
+=11
+{16a
+8.a
+16dd
+8.dd
+=12
+16cc
+8.cc
+16cc
+8b
+16g
+=13
+16cc
+8cc
+16ee
+16dd
+8dd
+16b
+=14
+4cc
+4g}
+!!LO:LB:g=esac
+=15
+{16dd
+8.ee
+16ff
+8.gg
+=16
+16ff
+8.ee
+16cc
+8.a
+=17
+16dd
+8.ee
+16ff
+8.gg
+=18
+16ff
+8.ee
+16cc
+8.a}
+!!LO:LB:g=esac
+=19
+{16dd
+8.dd
+16cc
+8b
+16g
+=20
+4a
+4a}
+==
+*-
+!!!ONB: U Kolberga liczne błędy w zapisie rytmu rozdrobnionego
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 170} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 170}
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

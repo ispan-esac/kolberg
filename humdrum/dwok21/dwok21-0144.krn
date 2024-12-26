@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2114400000-pojedziemy_na_lug.krn
+!!!OTL: Pojedziemy na ług
+!!!source: DWOK21
+!!!id: 21144
+!!!signature: 2114400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8d
+8g
+8b
+=2
+4.dd
+8cc
+=3
+8b
+8dd
+8a
+8d
+=4
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8a
+8cc
+=6
+8b
+8dd
+4cc
+=7
+8b
+8b
+8a
+8d
+=8
+8b
+8dd
+4cc
+=9
+8b
+8dd
+8a
+8d
+=10
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 70} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

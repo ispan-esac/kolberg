@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2603700000-przynosiemy_plon.krn
+!!!OTL: Przynosiemy plon
+!!!source: DWOK26
+!!!id: 26037
+!!!signature: 2603700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+4b
+=3
+4dd
+4ee
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8cc
+=6
+8dd
+8cc
+8b
+8cc
+=7
+4dd
+4ee
+=8
+4dd
+4b}
+!!LO:LB:g=esac
+=9
+{4cc
+4a
+=10
+4dd
+4b
+=11
+4cc
+4b
+=12
+4a
+4g}
+!!LO:LB:g=esac
+=13
+{4cc
+8a
+8a
+=14
+4dd
+16b
+16a
+8b
+=15
+4cc
+16b
+16cc
+8b
+=16
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 87
+!!!ONB: Converted on 2024/12/26 with esac2hum

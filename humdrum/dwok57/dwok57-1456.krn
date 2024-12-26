@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK57145600000-tam_pid_wiszneju.krn
+!!!OTL: Tam pid wiszneju
+!!!source: DWOK57
+!!!id: 571456
+!!!signature: 57145600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+8b
+8dd
+=2
+8dd
+8cc
+4a
+=3
+8g
+8g
+8b
+8dd
+=4
+8dd
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8b
+8b
+=6
+8cc
+8ee
+8ee
+8ee
+=7
+8dd
+8dd
+8dd
+8f#}
+!!LO:LB:g=esac
+=8
+{8g
+8b
+8b
+8b
+=9
+8cc
+8ee
+8ee
+8ee
+=10
+8dd
+8ff#
+8ff#
+8ff#
+=11
+4gg
+4gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 509
+!!!ONB: Converted on 2024/12/26 with esac2hum

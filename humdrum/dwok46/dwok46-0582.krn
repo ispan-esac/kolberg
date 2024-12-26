@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK4658200000-czy_pamietasz_moja_mila_zeszlej_nocy_piekny_czas.krn
+!!!OTL: Czy pamiętasz, moja miła, zeszłej nocy piękny czas
+!!!source: DWOK46
+!!!id: 46582
+!!!signature: 4658200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16cc
+8b
+8cc
+=2
+16dd
+16a
+8cc
+8b-
+=3
+16b-
+16b-
+8a
+8b-
+=4
+16dd
+16cc
+4a}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8g
+8a
+=6
+16b-
+16a
+8a
+8g
+=7
+16a
+16a
+8g
+8a
+=8
+16b-
+16a
+4f}
+!!LO:LB:g=esac
+=9
+{16cc
+16cc
+8b
+8cc
+=10
+16ff
+16ee
+8ee
+8dd
+=11
+16g
+16g
+8f#
+8g
+=12
+16dd
+16cc
+4f}
+==
+*-
+!!!ONB: Wariant t. 10: +3_.+153
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=395 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 361} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 361}
+!!!page: 361
+!!!ONB: Converted on 2024/12/26 with esac2hum

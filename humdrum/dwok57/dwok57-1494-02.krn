@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK57149400002-tam_de_hora_czarna_sumna.krn
+!!!OTL: Tam de hora czarna, sumna
+!!!source: DWOK57
+!!!id: 571494
+!!!signature: 57149400002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8e
+4a
+4b
+=2
+8cc
+8b
+4a
+4cc
+=3
+4.b
+8e
+8cc
+8b
+=4
+2a
+4e}
+!!LO:LB:g=esac
+=5
+{8a
+8e
+4a
+4b
+=6
+8cc
+8b
+4a
+4cc
+=7
+4.b
+8e
+8cc
+8b
+=8
+2a
+4e}
+!!LO:LB:g=esac
+=9
+{8ee
+8ee
+4.gg
+8ff
+=10
+8ee
+8dd
+4cc
+4cc
+=11
+8dd
+8ee
+4.gg
+8ff
+=12
+4.ee
+8dd
+8cc
+8ee}
+!!LO:LB:g=esac
+=13
+{8ee
+8ee
+4ff
+4ee
+=14
+8cc
+8b
+4a
+4cc
+=15
+4.b
+8e
+8cc
+8b
+=16
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 539
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK04-K0113-wyjechalem_na_polecko.krn
+!!!OTL: Wyjechalem na polecko
+!!!source: DWOK04
+!!!id: K0113
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16c
+16c
+8cc
+8b
+=2
+16cc
+16dd
+16cc
+16b
+8a
+=3
+16g
+16b
+8g
+16a
+16b
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8cc
+8g
+=6
+16a
+16g
+16f
+16e
+8d
+=7
+16d
+16d
+8.g
+16f
+=8
+4e}
+8r
+!!LO:LB:g=esac
+=9
+{8d
+8.e
+16d
+=10
+16e
+16f
+8g
+8a
+=11
+8d
+8.g
+16f
+=12
+4e}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=85 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 71} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 71}
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK5209400000-oj_ty_diwczyno.krn
+!!!OTL: Oj, ty diwczyno
+!!!source: DWOK52
+!!!id: 52094
+!!!signature: 5209400000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8ee
+8ee
+8ff#
+8dd
+8b
+8g#
+=2
+8a
+8cc#
+8b
+8dd
+8cc#
+8ee}
+!!LO:LB:g=esac
+=3
+{8ee
+8ee
+8ff#
+8dd
+8b
+8g#
+=4
+8a
+8cc#
+8g#
+8g#
+4a}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+8g#
+8b
+4dd
+=6
+8cc#
+8cc#
+8b
+8b
+4cc#}
+!!LO:LB:g=esac
+=7
+{8e
+8e
+8g#
+8b
+4dd
+=8
+8cc#
+8ee
+8b
+8b
+4ee}
+!!LO:LB:g=esac
+=9
+{8ee
+8dd
+8dd
+16dd
+16b
+4cc#
+=10
+8b
+8b
+16a
+16g#
+16f#
+16g#
+4a}
+==
+*-
+!!!ONB: Pieśń dożynkowa, Taneć. Polonez przy dożynkach
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=190 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 135} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

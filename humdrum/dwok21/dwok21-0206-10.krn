@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2120600010-hola_wraz_hola_wraz.krn
+!!!OTL: Hola wraz hola wraz
+!!!source: DWOK21
+!!!id: 21206
+!!!signature: 2120600010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ff
+8ff
+4ee
+=2
+8g
+8b
+8cc
+8ee
+=3
+8ff
+8ff
+8ee
+8ee
+=4
+8b
+8b
+4cc}
+!!LO:LB:g=esac
+=5
+{8ff
+8ff
+8ee
+8ee
+=6
+8g
+8b
+8cc
+16dd
+16ee
+=7
+8ff
+8ff
+8ee
+8ee
+=8
+8dd
+16dd
+16dd
+8ee
+8cc}
+==
+*-
+!!!ONB: U Kolberga błąd w metrum - jest 3/4 a powinno być 2/4, partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 102} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 102}
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7758800000-u_mazura_w_piecu_dziura.krn
+!!!OTL: U Mazura w piecu dziura
+!!!source: DWOK77
+!!!id: 77588
+!!!signature: 7758800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8dd
+8dd
+4gg
+4gg
+=3
+8ee
+8ee
+4cc
+4cc
+=4
+8ee
+8gg
+2dd}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4dd
+4dd
+=6
+8dd
+8b
+4dd
+4ff#
+=7
+8ee
+8cc
+4a
+8a
+8f#
+=8
+8a
+8cc
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 302
+!!!ONB: Converted on 2024/12/26 with esac2hum

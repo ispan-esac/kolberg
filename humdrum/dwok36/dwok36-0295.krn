@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK3629500000-posiju_szlwiju_ranoj_u_nedilu.krn
+!!!OTL: Posiju szłwiju ranoj u nedilu
+!!!source: DWOK36
+!!!id: 36295
+!!!signature: 3629500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4.dd
+8ee
+=2
+4dd
+4g
+=3
+8cc
+16b
+16a
+8g
+8ee
+=4
+4.dd
+8ee
+=5
+4dd
+16b
+8.g
+=6
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=7
+{4.cc
+8dd
+=8
+4a
+4g
+=9
+4.dd
+8ee
+=10
+4dd
+16cc
+8.a
+=11
+8g
+8b
+8a
+8a
+=12
+8g
+8b
+4cc
+=13
+4.g
+8g}
+!!LO:LB:g=esac
+=14
+{4.cc
+16b
+16dd
+=15
+4a
+4g
+=16
+4.dd
+8ee
+=17
+8dd
+8b
+16cc
+8.a
+=18
+8G
+8g
+4G
+=19
+8c
+8B
+8A
+8c
+=20
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 181-182
+!!!ONB: Converted on 2024/12/26 with esac2hum

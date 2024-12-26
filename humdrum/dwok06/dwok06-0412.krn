@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK06-K0412-pstra_sroczka_pstra.krn
+!!!OTL: Pstra sroczka pstra
+!!!source: DWOK06
+!!!id: K0412
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4b
+4g
+=2
+8g
+8f#
+4d
+=3
+8d
+8cc
+8b
+8a
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8a
+8g
+=6
+8g
+8f#
+8f#
+8a
+=7
+8cc
+8cc
+8f#
+8f#
+=8
+2g}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8a
+8g
+=10
+8g
+8f#
+8f#
+8a
+=11
+8cc
+8cc
+8f#
+8f#
+=12
+2g}
+!!LO:LB:g=esac
+=13
+{8g
+8b
+8.dd
+16b
+=14
+8b
+8a
+4a
+=15
+8a
+8cc
+8ee
+8cc
+=16
+8cc
+8b
+4b}
+!!LO:LB:g=esac
+=17
+{8g
+8b
+8dd
+8b
+=18
+8b
+8a
+4a
+=19
+8cc
+8cc
+8f#
+8f#
+=20
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 215} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 215}
+!!!page: 215
+!!!ONB: Converted on 2024/12/26 with esac2hum

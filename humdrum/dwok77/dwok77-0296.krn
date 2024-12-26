@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7729600000-oj_dana_moja_dana_oj_pod_fartuskiem_rana.krn
+!!!OTL: Oj dana moja dana oj pod fartuskiem rana
+!!!source: DWOK77
+!!!id: 77296
+!!!signature: 7729600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4dd
+4dd
+=2
+8ff
+8gg
+4aa
+4ff}
+!!LO:LB:g=esac
+=3
+{4ee
+4dd
+4dd
+=4
+8cc
+8a
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4dd
+4dd
+=6
+8cc
+16dd
+16ee
+4ff
+4ff}
+!!LO:LB:g=esac
+=7
+{4ee
+4dd
+4dd
+=8
+8cc
+8a
+4g
+4g}
+==
+*-
+!!!ONB: Wariant w t. 6: +1_+3_+4__+4__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 159
+!!!ONB: Converted on 2024/12/26 with esac2hum

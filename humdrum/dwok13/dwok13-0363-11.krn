@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1336300011-przepil_mlynarz_krowe.krn
+!!!OTL: Przepił młynarz krowę
+!!!source: DWOK13
+!!!id: 13363
+!!!signature: 1336300011
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4g
+8dd
+=2
+16b
+16b
+8a
+8g
+=3
+16cc
+16ee
+8ee
+8ff#
+=4
+16ee
+16dd#
+8ee
+8a}
+!!LO:LB:g=esac
+=5
+{4g
+8dd
+=6
+16b
+16b
+8a
+8g
+=7
+16e
+16e
+8e
+8d
+=8
+16f#
+16a
+8b
+8g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 155} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 155}
+!!!page: 155
+!!!ONB: Converted on 2024/12/26 with esac2hum

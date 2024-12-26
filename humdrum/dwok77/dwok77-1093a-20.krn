@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK771093a0020-instrumentalna_skrzypce.krn
+!!!OTL: Instrumentalna, skrzypce
+!!!source: DWOK77
+!!!id: 771093a
+!!!signature: 771093a0020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+{12dd
+12b
+12dd
+8ff#
+8gg
+4gg
+=1
+4dd
+4ff#
+8gg
+8ff#
+=
+12dd
+12b
+12dd
+4ff#
+8gg
+8ff#
+=2
+8b
+8dd
+8dd
+8b
+8cc
+8b}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+4cc
+4ee
+=
+12ee
+12dd
+12dd
+8dd
+8b
+8cc
+8b
+=4
+8g
+8b
+4cc
+4ee
+=
+12gg
+12ff#
+12ff#
+8dd
+8b
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4cc
+4ee
+=
+12ee
+12dd
+12dd
+8dd
+8b
+8cc
+8b
+=6
+8g
+8b
+4cc
+4ee
+=
+12gg
+12ff#
+12ff#
+8dd
+8b
+8cc
+8b}
+==
+*-
+!!!ONB: wariant t. 2-3: 7557+17  (535)7+1+17
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

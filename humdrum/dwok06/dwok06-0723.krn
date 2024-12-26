@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK06-K0723-adwokatem_jestem.krn
+!!!OTL: Adwokatem jestem
+!!!source: DWOK06
+!!!id: K0723
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8cc
+8b-
+4a
+=2
+8a
+4b-
+8cc
+=3
+8b-
+8cc
+8.dd
+16cc
+=4
+8cc
+4a}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+16cc
+16b-
+4a
+=6
+8a
+4g
+8f
+=7
+8g
+8a
+8b-
+16b-
+16a
+=8
+8a
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=474 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 448} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 448}
+!!!page: 448
+!!!ONB: Converted on 2024/12/26 with esac2hum

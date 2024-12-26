@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2508900000-jasio_konie_pojil.krn
+!!!OTL: Jasio konie pojił
+!!!source: DWOK25
+!!!id: 25089
+!!!signature: 2508900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16dd
+8ff
+8ff
+=2
+8ee
+4gg
+=3
+16dd
+16dd
+8ff
+8gg
+=4
+8ee
+4cc}
+!!LO:LB:g=esac
+=5
+{8ff
+8dd
+8dd
+=6
+16ee
+16cc
+8a
+8g
+=7
+16g
+16b
+8dd
+8b
+=8
+8a
+4cc}
+!!LO:LB:g=esac
+=9
+{8ff
+8dd
+8dd
+=10
+16ee
+16cc
+8a
+8g
+=11
+16g
+16b
+8dd
+8ee
+=12
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 35} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 35}
+!!!page: 35
+!!!ONB: Converted on 2024/12/26 with esac2hum

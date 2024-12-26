@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1101600020-w_slemieniu_byly_pieniazki.krn
+!!!OTL: W ślemieniu były pieniążki
+!!!source: DWOK11
+!!!id: 11016
+!!!signature: 1101600020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8f
+16a
+16e
+16f
+16a
+=2
+16cc
+16dd
+16cc
+16b
+16dd
+16g
+=3
+8cc
+16ee
+16dd
+16cc
+16a
+=4
+16f
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+16ee
+16dd
+16cc
+16a
+=6
+16cc
+16dd
+16cc
+16b
+16dd
+16g
+=7
+8cc
+16ee
+16dd
+16cc
+16a
+=8
+16f
+16a
+8b
+8g}
+==
+*-
+!!!ONB: Partia instrumentalna Inna: (mel. Obacz Lud, Ser. III, str. 260. Nr 24).
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 60} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 60}
+!!!page: 60
+!!!ONB: Converted on 2024/12/26 with esac2hum

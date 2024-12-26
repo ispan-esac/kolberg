@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5059600000-oj_na_hori_tam_zenci_znut.krn
+!!!OTL: Oj, na hori tam żenci żnut
+!!!source: DWOK50
+!!!id: 50596
+!!!signature: 5059600000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4ee
+4dd
+=2
+4cc
+4b
+=3
+4a
+8a
+8b
+=4
+2e}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8g#
+8e
+=6
+4a
+4cc
+=7
+8b
+8a
+8g#
+8e
+=8
+4a
+4cc}
+!!LO:LB:g=esac
+=9
+{8b
+8a
+8b
+8ee
+=10
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=377 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 346} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 346}
+!!!page: 346
+!!!ONB: Converted on 2024/12/26 with esac2hum

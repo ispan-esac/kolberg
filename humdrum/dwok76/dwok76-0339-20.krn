@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK7633900020-ojze_dana_dana_dana.krn
+!!!OTL: Ojze dana, dana dana
+!!!source: DWOK76
+!!!id: 76339
+!!!signature: 7633900020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+{12g
+12a
+12b
+4cc
+4e
+=1
+8f
+8g
+8a
+8f
+4g
+=
+12g
+12a
+12b
+4cc
+4e
+=2
+8f
+8a
+2g}
+!!LO:LB:g=esac
+=
+{12g
+12a
+12b
+4cc
+4e
+=3
+8f
+8g
+8a
+8f
+4g
+=
+12g
+12a
+12b
+4cc
+4e
+=4
+8f
+8a
+2g}
+==
+*-
+!!!ONB: Druga część melodii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 176} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 176}
+!!!page: 176
+!!!ONB: Converted on 2024/12/26 with esac2hum

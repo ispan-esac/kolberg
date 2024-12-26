@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3407300000-oj_wyszla_dusza_z_ciala.krn
+!!!OTL: Oj wyszła dusza z ciała
+!!!source: DWOK34
+!!!id: 34073
+!!!signature: 3407300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+8b
+8cc
+=2
+8dd
+8b
+16a
+16f#
+8g
+=3
+8dd
+8dd
+8ee
+8cc
+=4
+8b
+8b
+8a
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+16b
+16cc
+=6
+8b
+8b
+8a
+8g
+=7
+8b
+8b
+8cc
+16b
+16cc
+=8
+8dd
+8b
+16a
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 44} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 44}
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

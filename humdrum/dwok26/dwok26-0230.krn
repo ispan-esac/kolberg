@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK2623000000-takie_dobre_slodkie.krn
+!!!OTL: Takie dobre słodkie
+!!!source: DWOK26
+!!!id: 26230
+!!!signature: 2623000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8ee
+8cc
+=2
+8dd
+8ff
+8dd
+8b
+=3
+8cc
+8ee
+8gg
+8ee
+=4
+4ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8ee
+8cc
+=6
+8dd
+8ff
+8dd
+8b
+=7
+8cc
+8ee
+8dd
+8dd
+=8
+4cc
+4cc}
+!!LO:LB:g=esac
+=9
+{8dd
+8cc#
+8dd
+8cc#
+=10
+8dd
+8cc#
+8dd
+8cc#
+=11
+8dd
+8cc
+8b
+8a
+=12
+4g
+4g}
+!!LO:LB:g=esac
+=13
+{8dd
+8cc#
+8dd
+8ee
+=14
+8dd
+8cc#
+8dd
+8ee
+=15
+8dd
+8cc
+8b
+8a
+=16
+4g
+4g}
+==
+*-
+!!!ONB: Nuta z opery Krakowiacy i Górale
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

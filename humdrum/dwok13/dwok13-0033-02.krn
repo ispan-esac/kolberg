@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK1303300002-wiosna_wrocila.krn
+!!!OTL: Wiosna wróciła
+!!!source: DWOK13
+!!!id: 13033
+!!!signature: 1303300002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+8a
+8a
+=2
+4a
+8a
+=3
+8a
+8dd
+8cc
+=4
+4cc
+8b-}
+!!LO:LB:g=esac
+=5
+{8b-
+8g
+8g
+=6
+4g
+8g
+=7
+16g
+16cc
+8cc
+8b-
+=8
+4a
+8f}
+!!LO:LB:g=esac
+=9
+{8cc
+8a
+8a
+=10
+4a
+8cc
+=11
+16cc
+16ff
+8gg
+8ff
+=12
+4ee
+8dd}
+!!LO:LB:g=esac
+=13
+{8dd
+8cc
+8cc
+=14
+8cc
+8b-
+8e
+=15
+4.g
+=16
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=44 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 20} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 20}
+!!!page: 20
+!!!ONB: Converted on 2024/12/26 with esac2hum

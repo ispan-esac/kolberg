@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK5013200000-kob_ja_bula_taka_krasna_jak_ta_zoria_jasna.krn
+!!!OTL: Kob ja buła taka krasna jak ta zoria jasna
+!!!source: DWOK50
+!!!id: 50132
+!!!signature: 5013200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.g
+8g
+8f#
+8e
+=2
+8d
+8f#
+4a
+4d
+=3
+4.b
+8a
+16g
+16f#
+8e
+=4
+4d
+2g}
+!!LO:LB:g=esac
+=5
+{8c
+8c
+4e
+4e
+=6
+8B
+8B
+4d
+4d
+=7
+8A
+8B
+4c
+4c
+=
+12B
+12d
+12g
+2b}
+!!LO:LB:g=esac
+=8
+{8c
+8c
+4e
+4e
+=9
+8B
+8B
+4d
+4d
+=
+12d
+12f#
+12a
+4.cc
+8f#
+=10
+4a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 57} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

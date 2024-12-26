@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4168700000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK41
+!!!id: 41687
+!!!signature: 4168700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8ee
+4gg
+4gg
+=
+12aa
+12gg
+12ff#
+4gg
+4ee
+=2
+8ff
+8ee
+4dd
+4gg
+=
+12ff
+12ee
+12dd
+4ee
+4cc}
+!!LO:LB:g=esac
+=3
+{8g
+8g
+4.b
+8g
+=4
+8b
+8cc
+4ee
+4gg
+=5
+8.ff
+16ee
+4dd
+8aa
+8gg
+=6
+8ee
+8dd
+4ee
+4cc}
+==
+*-
+!!!ONB: Incipit Czegoś oczka zapłakał[...
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=418 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 331} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 331}
+!!!page: 331
+!!!ONB: Converted on 2024/12/26 with esac2hum

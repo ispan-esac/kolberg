@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4146000000-aboc_mi_to_trudna_zona.krn
+!!!OTL: Aboć mi to trudna żona
+!!!source: DWOK41
+!!!id: 41460
+!!!signature: 4146000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+16a
+16b
+16cc
+16b
+=2
+8dd
+16ee
+16dd
+16cc
+16b}
+!!LO:LB:g=esac
+=3
+{8g
+16a
+16b
+16cc
+16b
+=4
+8g
+4f#}
+!!LO:LB:g=esac
+=5
+{8g
+16a
+16b
+16cc
+16b
+=6
+8g
+8a
+8f#}
+!!LO:LB:g=esac
+=7
+{8g
+16b
+16dd
+16cc
+16b
+=8
+8g
+4f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=330 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 247} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 247}
+!!!page: 247
+!!!ONB: Converted on 2024/12/26 with esac2hum

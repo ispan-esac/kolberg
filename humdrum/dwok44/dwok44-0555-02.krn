@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4455500002-a_mial_sem_cie_dziewce_rad.krn
+!!!OTL: A miał sem  cie dziewce rad
+!!!source: DWOK44
+!!!id: 44555
+!!!signature: 4455500002
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{16g
+16b-
+8dd
+4dd
+4dd
+=2
+8dd
+8cc
+2b-}
+!!LO:LB:g=esac
+=3
+{8cc
+8b-
+4cc
+4a
+=4
+8b-
+8cc
+2dd}
+!!LO:LB:g=esac
+=5
+{16g
+16b-
+8dd
+4dd
+4dd
+=6
+2cc
+4dd}
+!!LO:LB:g=esac
+=7
+{8cc
+8g
+4f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=357 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 301} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 301}
+!!!page: 301
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK1921900000-poco_zess_ty_wolski_przygnals.krn
+!!!OTL: Poco ześś ty wołśki przygnałś
+!!!source: DWOK19
+!!!id: 19219
+!!!signature: 1921900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8ee
+=2
+16dd
+16cc#
+8a
+8dd
+=3
+16g
+16b
+8dd
+8ee
+=4
+16dd
+16cc#
+16a
+16cc#
+16dd
+16b}
+!!LO:LB:g=esac
+=5
+{16.g
+32b
+16g
+16b
+16g
+16b
+=6
+16dd
+16cc#
+16a
+16cc
+16b
+16d
+=7
+16.g
+32b
+8g
+8b
+=8
+16dd
+16cc#
+16a
+16cc
+16b
+16d}
+!!LO:LB:g=esac
+=9
+{16g
+16b
+4d
+=10
+8dd
+8a
+16cc
+16b
+=11
+8g
+4d
+=12
+16e
+16d
+16e
+16f#
+8g}
+!!LO:LB:g=esac
+=13
+{16g
+16b
+8d
+8d
+=14
+16g
+16b
+16a
+16cc
+8b
+=15
+16g
+16f#
+8d
+8g
+=16
+16e
+16d
+16e
+16f#
+8g}
+==
+*-
+!!!ONB: metrum powinno być na 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 69} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 69}
+!!!page: 69
+!!!ONB: Converted on 2024/12/26 with esac2hum

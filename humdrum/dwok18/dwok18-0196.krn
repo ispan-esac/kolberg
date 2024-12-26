@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1819600000-oj_nicego_mi_nie_zal.krn
+!!!OTL: Oj nicego mi nie zal
+!!!source: DWOK18
+!!!id: 18196
+!!!signature: 1819600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8gg
+8ee
+8ff
+=2
+16gg
+16aa
+8gg
+8ee
+=3
+16ee
+16dd
+8dd
+8b
+=4
+8cc
+4ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+=6
+16ff
+16dd
+8ee
+8cc
+=7
+16cc
+16dd
+8b
+8g
+=8
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 121} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 121}
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

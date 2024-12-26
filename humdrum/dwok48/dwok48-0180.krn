@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK4818000000-nigdym_nie_narzekal_na_przeciwne_losy.krn
+!!!OTL: Nigdym nie narzekał na przeciwne losy
+!!!source: DWOK48
+!!!id: 48180
+!!!signature: 4818000000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8b-
+8f
+8.dd
+16b-
+=2
+16a
+16cc
+4ee-
+8cc
+=3
+8a
+8cc
+8.ff
+16ee-
+=4
+16ee-
+16dd
+4dd
+16b-
+16a}
+!!LO:LB:g=esac
+=5
+{8g
+16b-
+16a
+16cc
+16b-
+16a
+16g
+=6
+16g
+16f#
+4.f#
+=7
+8d
+8d
+8.dd
+16f#
+=8
+16a
+16g
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 214} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 214}
+!!!page: 214
+!!!ONB: Converted on 2024/12/26 with esac2hum

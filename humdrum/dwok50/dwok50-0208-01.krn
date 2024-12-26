@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK5020800001-czy_ciebie_dziewczyno_umalowal_malarz.krn
+!!!OTL: Czy ciebie, dziewczyno, umalował malarz
+!!!source: DWOK50
+!!!id: 50208
+!!!signature: 5020800001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+4ee
+8ee
+=2
+8dd
+8dd
+4cc
+=3
+8dd
+4ff
+8ff
+=4
+8ff
+8ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+8ee
+=6
+8dd
+16dd
+16b
+4cc
+=7
+8ee
+4dd
+8b
+=8
+8dd
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 94} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 94}
+!!!page: 94
+!!!ONB: Converted on 2024/12/26 with esac2hum

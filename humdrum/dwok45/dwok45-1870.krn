@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK45187000000-do_mojego_szczescia.krn
+!!!OTL: Do mojego szczęścia
+!!!source: DWOK45
+!!!id: 451870
+!!!signature: 45187000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{16a
+16b-
+4cc
+8cc
+8cc
+8cc
+=2
+16ff
+16gg
+4aa
+8gg
+8ff
+8ff}
+!!LO:LB:g=esac
+=3
+{16ee
+16ff
+4gg
+8b-
+8b-
+8b-
+=4
+16b-
+16dd
+4cc
+8g
+8b-
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=342 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 326} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 326}
+!!!page: 326
+!!!ONB: Converted on 2024/12/26 with esac2hum

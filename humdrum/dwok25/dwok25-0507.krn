@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2550700000-oj_coz_mi_to_za_uciecha.krn
+!!!OTL: Oj cóz mi to za uciecha
+!!!source: DWOK25
+!!!id: 25507
+!!!signature: 2550700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+8ee
+16ff
+16aa
+=2
+16ff
+16ff
+8aa
+8b
+=3
+16cc
+16ee
+8cc
+16cc
+16a
+=4
+16b-
+16b-
+8dd
+8g}
+!!LO:LB:g=esac
+=5
+{16g
+16cc
+8ee
+16ee
+16cc
+=6
+16ff
+16ff
+8dd
+8b
+=7
+16cc
+16ee
+8cc
+16cc
+16a
+=8
+16b-
+16b-
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 202} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 202}
+!!!page: 202
+!!!ONB: Converted on 2024/12/26 with esac2hum

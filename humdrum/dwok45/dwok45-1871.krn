@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK45187100000-bywaj_dziewcze_zdrowe.krn
+!!!OTL: Bywaj dziewcze zdrowe
+!!!source: DWOK45
+!!!id: 451871
+!!!signature: 45187100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ff
+8ee
+4dd
+=2
+8cc
+4cc
+8cc
+=3
+8dd
+8dd
+8ff
+8ff
+=4
+8ee
+4.ee}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+4dd
+=6
+8dd
+4cc
+8cc
+=7
+8b
+8b
+8a
+8b
+=8
+8dd
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=342 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 326} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 326}
+!!!page: 326
+!!!ONB: Converted on 2024/12/26 with esac2hum

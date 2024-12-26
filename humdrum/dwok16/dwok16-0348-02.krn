@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1634800002-za_morzem_marysia.krn
+!!!OTL: Za morzem Marysia
+!!!source: DWOK16
+!!!id: 16348
+!!!signature: 1634800002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8dd#
+8ee
+8ee
+=2
+8ee
+4dd#
+=3
+8dd#
+8cc
+8ee
+=4
+16ee
+16ff#
+4ee}
+!!LO:LB:g=esac
+=5
+{8b
+8.ee
+16dd
+=6
+16cc
+16b
+4a
+=7
+4.b
+=8
+16cc
+16a}
+4r
+!!LO:LB:g=esac
+=9
+{8b
+8.ee
+16dd
+=10
+16cc
+16b
+4a
+=11
+4b
+8dd#
+=12
+4.ee}
+!!LO:LB:g=esac
+=13
+{8ff#
+8ee
+8ee
+=14
+8cc
+4b
+=15
+4.a
+=16
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 238} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 238}
+!!!ONB: Converted on 2024/12/26 with esac2hum

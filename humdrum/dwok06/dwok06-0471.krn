@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK06-K0471-kop-ze_kop_luba_lopato.krn
+!!!OTL: Kop-ze kop luba lopato
+!!!source: DWOK06
+!!!id: K0471
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+{8cc
+8b-
+=1
+4a
+4a
+4a
+8g
+8a
+=2
+8cc
+8b-
+4b-
+4r
+8g
+8a}
+!!LO:LB:g=esac
+=3
+{4b-
+4b-
+8b-
+8dd
+8cc
+8b-
+=4
+8b-
+8a
+4a
+4r
+8f
+8ff}
+!!LO:LB:g=esac
+=5
+{4.ff
+8dd
+8dd
+8ee
+8ff
+8dd
+=6
+4.cc
+8b-
+4a
+8g
+8a}
+!!LO:LB:g=esac
+=7
+{4b-
+4b-
+8b-
+8dd
+8cc
+8b-
+=8
+8b-
+8a
+4a
+4r
+8f
+8ff}
+!!LO:LB:g=esac
+=9
+{4.ff
+8dd
+8dd
+8ee
+8ff
+8dd
+=10
+4.cc
+8b-
+4a
+8g
+8a}
+!!LO:LB:g=esac
+=11
+{4b-
+4b-
+8b-
+8dd
+8cc
+8b-
+=12
+8b-
+8a
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=283 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 257} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 257}
+!!!page: 257
+!!!ONB: Converted on 2024/12/26 with esac2hum

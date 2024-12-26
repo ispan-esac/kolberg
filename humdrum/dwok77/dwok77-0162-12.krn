@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7716200012-kamien_na_kamieniu.krn
+!!!OTL: Kamień na kamieniu
+!!!source: DWOK77
+!!!id: 77162
+!!!signature: 7716200012
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+8dd
+4ff
+=2
+16aa
+16gg
+4ee
+8gg
+=3
+8gg
+8gg
+4ff
+=4
+16dd
+16cc
+4ee
+8gg}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8ff
+8ff
+=6
+16aa
+16gg
+4ee
+8gg
+=7
+8gg
+8gg
+8ff
+16dd
+16b
+=8
+8cc
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

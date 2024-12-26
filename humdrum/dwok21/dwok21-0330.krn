@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2133000000-a_za_coz_ja_scescia_nimam.krn
+!!!OTL: A za cóz ja scęścia nimam
+!!!source: DWOK21
+!!!id: 21330
+!!!signature: 2133000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8.a
+16g#
+=2
+16b
+16dd
+32dd
+16.b
+8g#
+=3
+16a
+16cc
+8.ee
+16gg#
+=4
+16aa
+16ff
+32ff
+16.dd
+8b}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8a
+8g#
+=6
+16b
+16dd
+8b
+8g#
+=7
+16a
+16cc
+8.a
+16g#
+=8
+16b
+16dd
+8ff
+8ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 132} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 132}
+!!!page: 132
+!!!ONB: Converted on 2024/12/26 with esac2hum

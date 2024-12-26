@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK5325200002-vaj_beda_beda.krn
+!!!OTL: Vaj! Beda, beda
+!!!source: DWOK53
+!!!id: 53252
+!!!signature: 5325200002
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{4ff#
+4ee
+4cc#
+=2
+2a
+4cc#
+=3
+4dd
+4ee
+4ff#
+=4
+2ee
+4dd}
+!!LO:LB:g=esac
+=5
+{4ff#
+4ee
+4cc#
+=6
+2a
+4ff#
+=7
+2.dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=378 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 338} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 338}
+!!!page: 338
+!!!ONB: Converted on 2024/12/26 with esac2hum

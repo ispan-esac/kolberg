@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2732400000-a_gdziezes_to_corus_byla.krn
+!!!OTL: A gdzieześ to córuś była
+!!!source: DWOK27
+!!!id: 27324
+!!!signature: 2732400000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16d
+16f#
+8g
+8b-
+=2
+16a
+16g
+8a
+8f#
+=3
+16d
+16f#
+8g
+8b-
+=4
+16a
+16g
+8a
+8d}
+!!LO:LB:g=esac
+=5
+{4dd
+8b-
+=6
+4a
+8f#
+=7
+16g
+16b-
+4dd
+=8
+4dd
+8b-
+=9
+8a
+4d}
+!!LO:LB:g=esac
+=10
+{4dd
+8b-
+=11
+4a
+8f#
+=12
+16g
+16b-
+4dd
+=13
+4dd
+8b-
+=14
+8a
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=329 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 310} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 310}
+!!!page: 310
+!!!ONB: Converted on 2024/12/26 with esac2hum

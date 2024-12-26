@@ -1,0 +1,2078 @@
+DWOK10
+CUT[Powstań Dawidzie czym prędzej z lutnią przy żłobie]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.60]
+FKT[]
+SIG[1000100000]
+KEY[10001   08  C 3/4]
+MEL[5+1+1_+3_  +2+17_5_  77+2_+2_  +1__0_
+    5+1+1_+3_  +2+17_5_  77+2_+2_  +1__0_
+    +3__+5_  +4+3+2_+1_  +2__+3_  +2+17_5_
+    567_5_  +1+2+3_+1_  7+2+2_+2_  +1__0_ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.62]
+FKT[]
+SIG[1000200000]
+KEY[10002   16  C 3/4]
+MEL[+3_+5_+5__.+4_  (+3_+5_+5_)+3__+2__  +3_+5_+5__.+4_  (+2_+1_+3_)+1_7_5__
+    +3_+1_+1__.+4_  (+2_+1_+3_)+1_7_+2__  +4+3+17+1__.+4_  (+2_+1_+3_)+1_7_5__
+    +3_+5_+5__.+4_  (+3_+5_+5_)+3__+2__  +2+3+5+6+5__.+4_  (+2_+1_+3_)+1_7_5__
+    +3_+1_+1__.+4_  (+2_+1_+3_)+4__+5__  +4+3+17+1__.+4_  (+2_+1_+3_)+1_7_5__ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.62]
+FKT[]
+SIG[1000300000]
+KEY[10003   08  C 3/4]
+MEL[+3_+5_.+4  +3+27_5_  7+2+4_+3+2  (+175)+3_+1_
+    (+3+5+5)+5_.+4  +3+27_5_  7+2+4_+3+2  (+175)6_4_
+    5_7_.+2  +3+27_5_  7+2+4_+3+2  (+175)+3_+1_
+    (577)7_.+2  +3+27_5_  7+2+4_+3+2  (+175)6_4_ //]
+BEM[]
+
+DWOK10
+CUT[Pani gospodyni nowe latko w sieni]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.64]
+FKT[]
+SIG[1000400000]
+KEY[10004   16  G 3/8]
+MEL[123_4_  5__6_  542_4_  5_3__
+    123_4_  5__6_  542_4_  3_1__
+    345_6_  54#5_3_  234_54  323_1_
+    345_6_  54#5_3_  234_54  323_1_ //]
+BEM[]
+
+DWOK10
+CUT[Gospodarzu tego domu wychowałeś córulinke nie wiesz komu]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.64]
+FKT[]
+SIG[1000500000]
+KEY[10005   16  G 3/8]
+MEL[5__4#_  5_3__  1__23  1-7-5_0_
+    -712_5_  21-7_-5_  -712_5_  21-7_-5_
+    4__2_  3_1__ //]
+BEM[]
+
+DWOK10
+CUT[My biegamy po dyngusie i śpiewamy o Jezusie]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.68]
+FKT[]
+SIG[1000600000]
+KEY[10006   16  G 3/8]
+MEL[345_.6  423_1_  -712_.3  1-6-7_-5_
+    -712_.3  423_1_
+    345_.6  423_1_  -712_.3  1-6-7_-5_
+    -712_.3  423_1_ //]
+BEM[]
+
+DWOK10
+CUT[Przynieśliśmy plon jegomości w dom]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.70-71]
+FKT[]
+SIG[1000700000]
+KEY[10007   08  G 3/4]
+MEL[123_4_  5__.  2-72_3_  1__.
+    2-72_3_  114_.3  2-72_3_  114_.3
+    2-72_3_  1__.  2-72_3_  1__. //]
+BEM[]
+
+DWOK10
+CUT[U naszego jegomości dobry rozsądek]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.71]
+FKT[]
+SIG[1000800000]
+KEY[10008   16  G 3/8]
+MEL[535_.3  535_.3  42-7_23  1__.
+    535_.3  535_.3  42-7_23  1__. //]
+BEM[]
+
+DWOK10
+CUT[Przynosiemy plon jegomości w sień]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.71]
+FKT[]
+SIG[1000900000]
+KEY[10009   08  G 3/4]
+MEL[123_4_  5__.  456_6_  5__.
+    354_3_  22-7_-5_  354_3_  22-7_-5_
+    -712_3_  1__. //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.71]
+FKT[]
+SIG[1001000000]
+KEY[10010   16  C 3/8]
+MEL[57+1_+3+5  +3_+3_+17  557_5_  +4_+4_+27
+    55+3_+1_  +2_+2+3+16  557_5_  +4_+4_+27
+    55+3_+1_  +2_+2+3+16  557_5_  +1_+1_+1_ //]
+BEM[]
+
+DWOK10
+CUT[A gdy na wóz siadała]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.83]
+FKT[]
+SIG[1001300001]
+KEY[10013   08  A 3/4]
+MEL[-5-71_3b_  5_5_2_  2-71_3b_  56b5_2_
+    -5-71_3b_  -5-6b-5_2_  -5-72_.-7  1__. //]
+BEM[]
+
+DWOK10
+CUT[A gdy na wóz siadała]
+REG[]
+TRD[DWOK10 W. Ks. Poznanskie 2 s.83]
+FKT[]
+SIG[1001300002]
+KEY[10013   08  A 3/4]
+MEL[-5-71_3b_  5_5_24  2-71_3b_  56b5_2-7
+    -5-71_3b_  -5-6b-5_2_  -5-72_.-7  1__. //]
+BEM[]
+
+DWOK10
+CUT[Już ją wiozą gdzie ją złożą]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.86]
+FKT[]
+SIG[1001400000]
+KEY[10014   16  A 3/8]
+MEL[3_1_2-7  -5-72_42  3_1_2-7  -5-71__
+    3_1_31  465_.2  3_1_31  465_.2
+    3_1_2-7  -5-72_42  3_1_2-7  -5-71__ //]
+BEM[]
+
+DWOK10
+CUT[Nie chciala maku ni pasternaku]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.86-87]
+FKT[]
+SIG[1001500010]
+KEY[10015   16  G 3/4]
+MEL[2_4_6_655_3_  3_1_243_3_1_  2__1_3_5__
+    2_4_6_655_3_  3_1_243_3_1_  2__-7_1_1__
+    -5_-7_1_3_5_5_  3_1_243_3_1_  2__1_3_5__
+    -5_-7_1_3_5654  3_1_243_3_1_  2__-7_1_1__ //]
+BEM[Fragment melodii na 3/4]
+
+DWOK10
+CUT[Nie chciała maku ni pasternaku]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.86-87]
+FKT[]
+SIG[1001500020]
+KEY[10015   16  G 3/8]
+MEL[2_246_  6_765_  3_1_24  3_3_1_  2_2_1_  3_5__
+    2_246_  6_765_  3_1_24  3_3_1_  2_2_-7_  1__.
+    -5_-7_1_  3_5_54  3_1_24  3_3_1_  2_2_1_  3_5__
+    -5_-7_1_  3_5_54  3_1_24  3_3_1_  2_2_-7_  1__. //]
+BEM[Fragment melodii na 3/8-na ksebkę ostro]
+
+DWOK10
+CUT[Tys od pola, ja od pola]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.89]
+FKT[]
+SIG[1001700011]
+KEY[10017   16  G 3/4]
+MEL[5_.53__3__  2_.34__4__  5_5_3__1__  2_.2-7__-5__
+    1__3__3__  4_.44__.3_  2_4_2_-7_-5__  5_.55__.5_
+    1__3__3__  4_.44__.3_  2_4_2_-7_-5__  -7__2__1__ //]
+BEM[Mazur chodzony]
+
+DWOK10
+CUT[Tys od pola, ja od pola]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.89]
+FKT[]
+SIG[1001700012]
+KEY[10017   16  G 3/4]
+MEL[5_.53__3__  2_.34_2_4_6_  5_5_3__1__  2_.2-7__-5__
+    1_3_3__3__  4_.44__.3_  2_4_2_-7_-5__  5_.55__.5_
+    1__3__3__  4_.44__.3_  2_4_2_-7_-5__  -7_-7_2__1__ //]
+BEM[Mazur chodzony]
+
+DWOK10
+CUT[Tyś od pola, ja od pola]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.89]
+FKT[]
+SIG[1001700020]
+KEY[10017   16  G 3/8]
+MEL[-724_43  122_43  -724_43  122-7-5_
+    -724_43  122_43  -724_43  122-7-5_
+    464_4_  455_62  464_43  122-71_
+    464_4_  455_62  464_43  122-71_ //]
+BEM[Mazur chodzony-k sobie żwawiej]
+
+DWOK10
+CUT[Boli mnie noga w biodrze]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.89]
+FKT[]
+SIG[1001800001]
+KEY[10018   16 Bb 3/8]
+MEL[1_3_4_  654#_5_  -5_4_.3  21-7_1_
+    -513_4_  313_4_  -5^4_.3  21-7_1_
+    -513_4_  313_4_  -5^4_.3  21-7_1_ //]
+BEM[]
+
+DWOK10
+CUT[Boli mnie noga w biodrze]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.89]
+FKT[]
+SIG[1001800002]
+KEY[10018   16 Bb 3/8]
+MEL[113_4_  654#_5_  -5-54_.3  21-7_1_
+    -513_4_  313_4_  -5-54_.3  21-7_1_
+    -513_4_  313_4_  -5-54_.3  21-7_1_ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.94]
+FKT[]
+SIG[1001900000]
+KEY[10019   08  G 4/4]
+MEL[0_3_5654  32345_54  32345_5_  6_6_6_5_
+    0_3_5654  32354_4_  313_2__  1__0__
+    0_3_5654  32354342  3131-5-72-7  1__0__ //]
+BEM[W taktach 8 i 12 brakuje pauzy półnutowej, dodano]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.94]
+FKT[]
+SIG[1002000000]
+KEY[10020   08  G 3/4]
+MEL[1_5151  51543_  1_5151  51543_
+    1-51543  2-5345_  1-52-52-5  1-5-7-6-5_
+    56543_  3_531_  56531_  -5_-5_-5_
+    565431  31531_  56531_  -5-5-5_-5_ //]
+BEM[]
+
+DWOK10
+CUT[Oj ma on talary]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.95]
+FKT[]
+SIG[1002200001]
+KEY[10022   16  G 3/8]
+MEL[1_3__  443_5_  1_3__  443_1_
+    -5_-7__  231__  3_5__  443_1_
+    -5_-7_1_  231_2_  3_5__  443_1_ //]
+BEM[]
+
+DWOK10
+CUT[Oj ma on talary]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.95]
+FKT[]
+SIG[1002200002]
+KEY[10022   16  G 3/8]
+MEL[1_3_.5  443_5_  113_5_  443_1_
+    -5_-7__  231__  3_5__  443_1_
+    -5_-7_1_  231_2_  3_5__  443_1_ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.98]
+FKT[]
+SIG[1002500000]
+KEY[10025   16  C 2/4]
+MEL[+3_+3_+4_+4_  +6_+5_+5__  +3+2+3+4+5+6+5+4  +3_+2_+2__
+    +3_+3_+4_+4_  +6_+5_+5_+5+4  +3+2+3+4+5+6+5+4  +3_+2_+2_5_
+    5_5_+1_+1_  +3+2+3+4+5__  +3_+1_+2_7_  +1__+1__
+    5_5_+1_+1_  +3+2+3+4+5__  +3_+1_+2_7_  +1__+1__ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.101]
+FKT[]
+SIG[1002600000]
+KEY[10026   08  C 4/4]
+MEL[+5_+5_+4_+6_  +6_+5+6+5+4+2+3  +4_+3_+2_+1_  +1_7_7_5_
+    +2_+2_+3_+5_  +5_+4_+4_+2+3  +4_+3_+2_+1_  +1_7_7_5_  +3__+2_+1_
+    +3+1+3+5+4_+2+3  +4_+3_+2_+1_  +3+1+3+5+4_+2+3  +4_+3_+4_+4+6
+    +5_+5_+4_+4+6  +5__+5+4+2+3  +1__7+1+2+3  +1__0__ //]
+BEM[W ostatnim takcie brakuje pauzy półnutowej, została dodana]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.102]
+FKT[]
+SIG[1002700000]
+KEY[10027   16  G 3/4]
+MEL[5__5__4__  3_5_5_5_6_6_  5_6_5_4_2_1_  3__2__2__
+    5__5__4__  3_5_5_5_6_6_  5_6_5_4_2_1_  3__2_4_2_-7_
+    1_.35_4_2_1_  3__2_4_5__  1_3_5_4_2_1_  3__2_-7_1__
+    1_.35_4_2_1_  3__2_4_5__  1_3_5_4_2_1_  3__2_2_1__ //]
+BEM[]
+
+DWOK10
+CUT[Raz raz dziewcze raz]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.103]
+FKT[]
+SIG[10028000010]
+KEY[10028   08  G 2/4]
+MEL[5_5_  321_  2246  465_  3354  321_  2343  221_ //]
+BEM[Wersja wokalna]
+
+DWOK10
+CUT[Raz raz dziewcze raz-Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.103]
+FKT[]
+SIG[10028000020]
+KEY[10028   08  G 2/4]
+MEL[3_3_  2-7-5_  -7246  5_54  3_3_  2-7-5_  -5-723  1__ //]
+BEM[Wersja instrumentalna]
+
+DWOK10
+CUT[Instrumentalna-Wiwat]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.103-104]
+FKT[]
+SIG[1002900000]
+KEY[10029   16  G 2/4]
+MEL[1_.23_34  5_+1_7_6_  5_6_5_2_  4__3__
+    1_.23234  5_+1_7_6_  5_6_5_2_  2_1_1__
+    3_1_3_1_  3_1_5__  4_2_4_2_  4_2_6__
+    3_1_5__  3_1_5__  5_6_5__  2_1_1__
+    3_1_3_1_  3_135__  4_2_4_2_  4_246__
+    3_1_5__  3_1_5__  5_6_5__  2_1_1__ //]
+BEM[]
+
+DWOK10
+CUT[A mój miły rozmarynie]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.107]
+FKT[]
+SIG[1003100000]
+KEY[10031   16  G 3/8]
+MEL[-713_5_  4__3_  1-7-5__  -713_5_  4__3_  1-7-5__
+    -72-6_-7_  1__-7_  -5_4_3_  2-7-6_-7_  1__3_  1-7-5__
+    -72-6_-7_  1__-7_  -5_4_3_  2-71_3_  1__3_  1-7-5__ //]
+BEM[]
+
+DWOK10
+CUT[Na coś ty mnie brał kiedyś ty mnie znał]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.107]
+FKT[]
+SIG[1003200001]
+KEY[10032   16  G 3/8]
+MEL[-5-72_3_  1__.  356_4_  2__.
+    425_3_  11-6_-4_  -612_-7_  -5__. //]
+BEM[]
+
+DWOK10
+CUT[Na coś ty mnie brał kiedyś ty mnie znał]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.107]
+FKT[]
+SIG[1003200002]
+KEY[10032   16  G 3/8]
+MEL[-5-72_3_  1__.  356_4_  2__.
+    465_3_  11-6_-4_  -612_-7_  -5__. //]
+BEM[]
+
+DWOK10
+CUT[Dwaj kapłonia, dwaj kapłonia w stodole młócili]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.107-108]
+FKT[]
+SIG[1003300001]
+KEY[10033   08  D 4/4]
+MEL[4_2_231_  1_3_5_+1_
+    7+2+165_+1_  7+2+165_+1_
+    2_2_231_ //]
+BEM[]
+
+DWOK10
+CUT[Dwaj kapłonia, dwaj kapłonia w stodole młócili]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.107-108]
+FKT[]
+SIG[1003300002]
+KEY[10033   08  D 4/4]
+MEL[4_2_231_  1_3_5_+1_
+    7+2+165_+1_  7+2+165_+1_
+    2424231_ //]
+BEM[]
+
+DWOK10
+CUT[Spadła z góry do komory]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.108]
+FKT[]
+SIG[1003400000]
+KEY[10034   32  C 3/8]
+MEL[+1_7_+1__+2__  +3_+1_+2__.+1_  +3_+1_+2__.+1_  +1_.+3+4__+3__  +2___.
+    +2_+3_+4__+3_+4_  +5_+4_+3__.+1_  +2_+1_7__+2__  +1___.
+    +2_+3_+4__+3_+4_  +5_+4_+3__.+1_  +2_+1_7__+2__  +1___. //]
+BEM[U Kolberga metrum błędnie oznaczone jako 3/4]
+
+DWOK10
+CUT[Czyliś mnie ty kole dróżki znalaz]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.108]
+FKT[]
+SIG[1003500000]
+KEY[10035   16  G 3/8]
+MEL[123_4_  531_23  1-7-5_0_
+    123_4_  531_23  1-7-5_0_
+    -6-5-6_-4_  -6-5-6_-4_  -6-71_23  1-7-5_0_ //]
+BEM[]
+
+DWOK10
+CUT[Nie chciała nie chciała we wianyszku chodzić]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.109]
+FKT[]
+SIG[1003600011]
+KEY[10036   16  C 3/4]
+MEL[+1__+3__.+2_  +1__+3__.+4_  +3_+1_+3__+5__  +2__750_0__
+    5__+4__.+2_  +1__+3__.+2_  +1_7_+1__+2__  +3__+1_0_0__ //]
+BEM[Wersja wokalna]
+
+DWOK10
+CUT[Nie chciała nie chciała we wianyszku chodzić]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.109]
+FKT[]
+SIG[1003600012]
+KEY[10036   16  C 3/4]
+MEL[+1__+3__.+2_  +1__+3__.+4_  +5_+6_+5__+5__  +2__750_0__
+    5__+4__.+2_  +1__+3__.+2_  +1_7_+1__+2__  +3__+150_0__ //]
+BEM[Wersja wokalna-wariant melodii]
+
+DWOK10
+CUT[Nie chciała nie chciała we wianyszku chodzić]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.109]
+FKT[]
+SIG[1003600021]
+KEY[10036   16  C 3/8]
+MEL[5_+4_+3+2  +1_+2+3+4_  +5+5+4_+5+4  +2_+175_
+    5_+4_+3+2  +1_+2+3+1_  +17+1_+2+3  +4+5+2_7_
+    5_+4_+3+2  +1_+2+3+17  +17+1_+2+3  +2_+175_ //]
+BEM[Wersja instrumentalna na skrzypce]
+
+DWOK10
+CUT[Nie chciała nie chciała we wianyszku chodzić]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.109]
+FKT[]
+SIG[1003600022]
+KEY[10036   16  C 3/8]
+MEL[5_+4_+3+2  +1_+2+3+4_  +5+5+4_+5+4  +2_+175_
+    5_+4_+3+2  +1_+2+3+1_  +17+1_+2+3  +4+5+2_+17
+    5_+4_+3+2  +1_+2+3+17  +17+1_+2+3  +2+3+175_ //]
+BEM[Wersja instrumentalna na skrzypce-wariant]
+
+DWOK10
+CUT[Instrumentalna-Chodzony]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.110]
+FKT[]
+SIG[1003700000]
+KEY[10037   16  G 3/4]
+MEL[5__6_542_1-7  -5_-7_2_4_3__  5__6_542_1-7  -5_4_2__1__
+    5__6_542_1-7  -5_-7_2_4_3__  5__6_542_1-7  -5_4_2__1__
+    1_3_3_3_3_2_  1_4_4_4_4_3_  2_2_2_2_3_4_  5_.65_4_3_2_
+    1_231_231__  1_4_4__.3_  2_3_4_5_6_54  3_4_2__1__ //]
+BEM[]
+
+DWOK10
+CUT[O dajże mi panie Jezu szczęście]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.110]
+FKT[]
+SIG[1003800000]
+KEY[10038   16  A 3/8]
+MEL[3b45_6b_  54#5_3b_  4_5__  43b2_-7_  2_3b__  1__0_
+    23b2_1_  245_1_  3b_5__  43b2_-7_  2_3b__  1__0_ //]
+BEM[]
+
+DWOK10
+CUT[Jużeś moja jużeś]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.110]
+FKT[]
+SIG[1003900001]
+KEY[10039   16  G 3/8]
+MEL[4__6_  (431)3_5_  4__6_  (431)2_1_
+    2_4_42  (345)3_35  2_4_42  (345)3_31 //]
+BEM[w dwoch taktach brak zapisu trioli u OK,takty zakodowano z zapisem triolowym]
+
+DWOK10
+CUT[Jużeś moja jużeś]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.110]
+FKT[]
+SIG[1003900002]
+KEY[10039   16  G 3/8]
+MEL[4__6_  (431)3_5_  4_4_6_  (431)2_1_
+    2_4_42  (345)3_35  2_4_42  (345)3_31 //]
+BEM[w dwoch taktach brak zapisu trioli u OK,takty zakodowano z zapisem triolowym]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.111]
+FKT[]
+SIG[1004000000]
+KEY[10040   16  C 3/8]
+MEL[7+2+4_+3_  +164_5_  7+2+4_+3_  +5_+5_+6_
+    +6+2+4_+3_  +164_5_  7+25_5_  +2_+3_+1_
+    7+2+4_+3_  +164_5_  7+2+4_+3_  +5_+5_+6_
+    +6+2+4_+3_  +164_5_  7+25_5_  +4_+3_+1_
+    +1+3+1__  +2_+2_5_  7+2+4__  +2_+3_+1_
+    +1+3+5__  +5_+5+4+2_  7+2+4__  +4_+3_+1_
+    +1+3+1__  +2_+2_5_  7+2+4__  +2_+3_+1_
+    +1+3+5__  +5_+5+4+2_  7+2+4__  +4_+3_+1_ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna-Wiwat smykany prędki]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.113]
+FKT[]
+SIG[1004100001]
+KEY[10041   08  G 2/4]
+MEL[1_-5_  3_1_  -7-7-6-7  1-53_
+    1_-5_  3_1_  -7-7-6-7  1__
+    3555  624_  2434  513_
+    3555  624_  -7-7-6-7  -7__ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna-Wiwat smykany prędki]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.113]
+FKT[]
+SIG[1004100002]
+KEY[10041   16  G 2/4]
+MEL[1__-5__  3__1__  -7_-7_-6_-7_  1_-5_3_2-7
+    1__-5__  3__1__  -7_-7_-6_-7_  1___
+    3_5_5_5_  6_2_4__  2_4_3_4_  5_1_3__
+    3_5_5_5_  6_2_4__  -7_-7_-6_-7_  -7___ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna-Walc]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.113]
+FKT[]
+SIG[1004200000]
+KEY[10042   16  F 3/8]
+MEL[3_5_+1_  7__6_  2_4_6_  5__4_
+    3_5_+1_  7__5_  6_5432  1__.
+    3_5_+1_  7__6_  2_4_6_  5__4_
+    3_5_+1_  7__5_  6_5432  1__.
+    3_5_1_  3_5_1_  3_5_+1_  7__6_
+    4_2_2_  4_2_2_  6_5432  1__. //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna-Walc]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.115]
+FKT[]
+SIG[1004300011]
+KEY[10043   16  G 3/4]
+MEL[1_3_5_5_5_5_  1_3_5_5_5_5_  5_5_4__3__  2_2_1___
+    1_3_5_5_5_5_  1_3_5_5_5_5_  5_5_34543_1_  2_2_1___
+    1_3_2_2_-7_-5_  1_3_5_6_4_2_  1_3_2_2_-7_-5_  1_3_5_6_4_2_
+    1_3_4_4_3_1_  4_2_1___ //]
+BEM[Fragment na 3/4]
+
+DWOK10
+CUT[Instrumentalna-Walc ]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.115]
+FKT[]
+SIG[1004300012]
+KEY[10043   16  G 3/4]
+MEL[1_3_5_5_5_5_  1_3_5_5_5_5_  5_5_4__3__  2_2_1___
+    1_3_5_5_5_5_  1_3_5_5_5_5_  5_5_34543_1_  2_2_1___
+    1_3_2_2_-7_-5_  1_3_5_6_4_2_  1_3_2_2_-7_-5_  1_3_5_6_4_2_
+    1_3_34543_1_  4_2_1___ //]
+BEM[Fragment na 3/4-wariant melodii]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.115]
+FKT[]
+SIG[1004300020]
+KEY[10043   32  G 3/8]
+MEL[1_3_5__^_43  2_-7_-5__3_4_  5__5__3__  5_432__5__
+    1_3_5__^_43  2_-7_-5__4__  -5__1_-7_1_2_  3_-7_2__1__
+    1_3_5__^_43  2_-7_-5__3_4_  5__5__3__  5_432__5__
+    1_3_5__^_43  2_-7_-5__4__  -5__1_-7_1_2_  3_-7_2__1__ //]
+BEM[Fragment na 3/8]
+
+DWOK10
+CUT[Instrumentalna-Wielki wiatrak]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.115]
+FKT[]
+SIG[1004400010]
+KEY[10044   16  C 3/4]
+MEL[+1_+3_+5_+4_+2_7_  +1__+2_+3+4+5__  +3_+5_+4+3+175__  +1_+2_+3_+4_+3_+2_
+    +1_+3_+5_+4_+2_7_  +1__+2_7_5__  +1_+3_+4+3+175__  +1_+2_+3_+4_+3_+2_
+    +1_+3_+5_+4_+2_7_  +1__+2_+3+4+5__  +3_+5_+4+3+175__  +1_+2_+3_+4_+3_+2_
+    +1_+3_+5_+4_+2_7_  +1__+2_+3+4+5+4+27  +1_+3_+4+3+175__  +1_+2_+3_+4_+3_+2_ //]
+BEM[Fragment melodii w metrum 3/4]
+
+DWOK10
+CUT[Instrumentalna-Wielki wiatrak]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.115]
+FKT[]
+SIG[1004400020]
+KEY[10044   32  C 3/8]
+MEL[+2_+3+4+5__+4_+3_  +2_+4+5+5_+4+3+5_+6_  +2_+3+4+5__+4_+3_  +3_+2+17__+1__
+    +2_+3+4+5__+4_+3_  +2_+4+5+5_+4+3+5_+6_  +6_+3+4+5__+4_+3_  +3_+2+17__+1__
+    5__5__7_+2_  +3_.+2+1_7_+1_+3_  5__5__7_+2_  +3__+1_7_+1__
+    5__5__7_+2_  +3_.+2+1_7_+1_+3_  5__5__7_+2_  +3__+1_7_+1__ //]
+BEM[Żwawiej-fragment melodii na 3/8]
+
+DWOK10
+CUT[Instrumentalna-Wiwat]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.119]
+FKT[]
+SIG[1004600000]
+KEY[10046   08  C 2/4]
+MEL[+1_54  35+1_  7+25_  +1+35_
+    +1_54  35+1_  7+25_  +1__
+    +3+3+2+1  7+2+5_  +4#+6+2_  +5+7+2_
+    +3+3+2+1  7+2+5_  +4#+6+2_  +5__ //]
+BEM[]
+
+DWOK10
+CUT[Wesele jedzie z Wąsowa]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.119-120]
+FKT[]
+SIG[1004700001]
+KEY[10047   08  C 6/8]
+MEL[+3_+2+1_5  +4_+3+2_.  +3_+2+1_5  6_7+1_.
+    335+1_+3  +2_7+1_+5  335+1_+3  +2_7+1_. //]
+BEM[]
+
+DWOK10
+CUT[Wesele jedzie z Wąsowa]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.119-120]
+FKT[]
+SIG[1004700002]
+KEY[10047   08  C 6/8]
+MEL[+3+3+2+1_5  +4_+3+2_.  +3+3+2+1_5  667+1_.
+    335+1_+3  +2_7+1+1+5  335+1_+3  +2_7+1_. //]
+BEM[]
+
+DWOK10
+CUT[Do tego domu wstępujemy]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.197]
+FKT[]
+SIG[1005500000]
+KEY[10055   08  G 4/4]
+MEL[32345_3_  5_243_1_  32345_3_  5_24321_
+    3_3_2_.1  43465_4_  3_3_2_.1  4_231_1_ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.204]
+FKT[]
+SIG[1005800010]
+KEY[10058   16  F 2/4]
+MEL[+1_+1_.+1  +1___  5_345_34  5_5_6_.5  4_+2_5_67  +1_3_6_5_
+    5_345_34  5_5_6_.5  4_+2_5_67  +1_7_+1__ //]
+BEM[Marsz kurkowy grywany niegdyś w Poznaniu i innych miastach]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.204]
+FKT[]
+SIG[1005800020]
+KEY[10058   16  F 2/4]
+MEL[+3__+2+176  5__.4_  -5_777_7_  +1_3_6_5_
+    +3__+2+176  5__.4_  -5_777_7_  +1__+1__ //]
+BEM[Marsz kurkowy grywany niegdyś w Poznaniu i innych miastach]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.204]
+FKT[]
+SIG[1005800031]
+KEY[10058   16  C 2/4]
+MEL[+3_+3+3+3_+4_  +6_+5_+5_+3_  +5_+4_+4_+2_  +4_+3_+3__
+    +3_+3+3+3_+4_  +6_+5_+5_+3_  +5_+4_+4_+2_  +1__+1__ //]
+BEM[Marsz kurkowy grywany niegdyś w Poznaniu i innych miastach]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.204]
+FKT[]
+SIG[1005800032]
+KEY[10058   16  C 2/4]
+MEL[+3_+3+3+3_+4_  +6_+5_+5_+3_  +5_+4_+4_+2_  +4_+3_+3_5_
+    +3_+3+3+3_+4_  +6_+5_+5_+3_  +5_+4_+4_+2_  +1__+1__ //]
+BEM[Marsz kurkowy grywany niegdyś w Poznaniu i innych miastach]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.206-207]
+FKT[]
+SIG[1005900001]
+KEY[10059   16  G 3/4]
+MEL[1_2_3__4__  5___.  2_4_6__6__  5___.
+    3_5_4__.3_  1_2_-7__-5__  3_5_4__.3_  1_2_-7__-5__
+    -7_1_3__2_3_  1___. //]
+BEM[W ostatnim takcie brakuje kropki, dopisano]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.206-207]
+FKT[]
+SIG[1005900002]
+KEY[10059   16  G 3/4]
+MEL[1_2_3__4__  5___.  2_4_6__6__  5___.
+    3_5_4__.3_  1_2_-7__-5__  3_5_4__.3_  1_2_-7__-5__
+    -5-71_3__23_.  1___. //]
+BEM[W ostatnim takcie brakuje kropki, dopisano]
+
+DWOK10
+CUT[Wy parobcy żnijcie]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.207-208]
+FKT[]
+SIG[1006000000]
+KEY[10060   16  E 3/8]
+MEL[3b3b4_7b_  4_6b__  7b54_6b_  453b__
+    3b3b4_6b_  43b1__  3b3b4_7b_  4_5_3b_  1__0_
+    4_5_.3b  1_43b1_  3b3b4_7b_  4_53b1_  4_3b__  1__. //]
+BEM[U Kolberga metrum błędnie oznaczone jako 3/4]
+
+DWOK10
+CUT[A niesiemy plon jaśnie panu w dom]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.208, Pakosław]
+FKT[]
+SIG[1006100000]
+KEY[10061   16  G 3/4]
+MEL[-7_1_3__2_4_  5___.  6_.64__6__  5___.
+    3_5_4__.3_  1_.1-7__-5__  3_5_4__.3_  1_.1-7__-5__
+    -7_1_3_2_4__  1___. //]
+BEM[W ostatnim takcie brakuje kropki, dopisano]
+
+DWOK10
+CUT[Odnosimy plon jegomości w dom]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.210, Kotlin]
+FKT[]
+SIG[1006300001]
+KEY[10063   16  G 3/8]
+MEL[123_4_  5__.  543_2_  1__.
+    345_.6  536_5_  345_.6  536_5_
+    345_3_  5_5_3_  543_2_  1__. //]
+BEM[W t. 6 jest o jedną 16. za dużo); zakodowano poprawnie]
+
+DWOK10
+CUT[Odnosimy plon jegomości w dom]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.210, Kotlin]
+FKT[]
+SIG[10063b0000]
+KEY[10063b  16  G 3/8]
+MEL[123_4_  5__.  543_2_  1__.
+    345_.6  536_5_  345_.6  536_5_
+    345_3_  5_5_3_  543_32  1__. //]
+BEM[W t. 6 jest o jedną 16. za dużo; zakodowano poprawnie]
+
+DWOK10
+CUT[A na naszym na dziedzieńcu kwitną goździki]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.210, Kotlin]
+FKT[]
+SIG[1006400000]
+KEY[10064   32  G 3/8]
+MEL[5_6_4__.2_  -7_-5_-7__2__  -7_2_4__4#__  5___.
+    5_6_4__.2_  -7_-5_-7__2__  -7_2_4__3__  1___.
+    1_3_4__.3_  2_-7_-6__-5__  2_3_4__4#__  5___.
+    5_6_4__.2_  -7_-5_-7__2__  2-72_4__3__  1___. //]
+BEM[]
+
+DWOK10
+CUT[Jak się kuma z kumą zejdzie]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.215]
+FKT[]
+SIG[1006600000]
+KEY[10066   08 Bb 3/4]
+MEL[-724654  335_-5_  -724_.2  11-7_-5_
+    -724_.2  335_-5_  -724_.2  1_-7_-5_ //]
+BEM[]
+
+DWOK10
+CUT[Dałcie mi ją nie dałcie matulu]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.223]
+FKT[]
+SIG[1006800001]
+KEY[10068   08  G 3/4]
+MEL[242134  5_365_  24213-7  1__.
+    242132  1-71354  24213-7  1__. //]
+BEM[]
+
+DWOK10
+CUT[Dałcie mi ją nie dałcie matulu]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.223]
+FKT[]
+SIG[1006800002]
+KEY[10068   08  G 3/4]
+MEL[242134  5_3654  24213-7  1__.
+    242132  1-71354  24213-7  1__. //]
+BEM[]
+
+DWOK10
+CUT[Oj siadaj siadaj moje kochanie]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.227]
+FKT[]
+SIG[1006900000]
+KEY[10069   08  G 3/4]
+MEL[-5_-7_1_  3_5_.4#  24#5_23  1__.
+    -5_-7_1_  3_5_.4#  24#5_23  1__.
+    333_5_  432_.1  222_3_  21-7_.-5
+    -713_23  1__. //]
+BEM[W taktach czwartym, ósmym i czternastym powinna być kropka, dodano]
+
+DWOK10
+CUT[Ty moja Marynko otwórz okienko]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.228]
+FKT[]
+SIG[1007000010]
+KEY[10070   16  G 3/8]
+MEL[-722_1_  3_1__  355_4_  6_4__
+    3_.12-7  -5-7-6_-4_  -5-5-7_1_  3_4__
+    3_.12-7  -5-7-6_-4_  -5-5-7_1_  3_1__ //]
+BEM[Partia wokalna]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.228]
+FKT[]
+SIG[1007100000]
+KEY[10071   08  C 3/4]
+MEL[+3+4+5_+5_  +4+5+6_+6_  +3+4+5+6+5+6  +5_+5+3+4_
+    +3+1+2_+27  +1__.
+    0_+2_+5_  +1_+2+3+4_  +3+5+4+3+2+1  +2+3+4__
+    +3+4+5+6+5+6  +5_+5+4+3_  +3+1+2_+27  +1__. //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna-Marsz]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.228]
+FKT[]
+SIG[1007200000]
+KEY[10072   08  G 4/4]
+MEL[4_456_6_  5_565_43  2_2_5_5_  43231_0_
+    43456_6_  5_565_43  2_2_5_5_  43231_0_
+    2_243_1_  2_243_1_  2_2_5_5_  43231_0_
+    2-7243_1_  2_243_1_  2_2_5_5_  43231_0_ //]
+BEM[]
+
+DWOK10
+CUT[Wesele jedzie, kapusta w kłodzie]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.228]
+FKT[]
+SIG[1007300011]
+KEY[10073   16  G 3/8]
+MEL[1_1_2_  3_1__  4_4_5_  6_5__
+    5_5_6_  6_4__  2_2_5_  5_1__ //]
+BEM[Partia wokalna]
+
+DWOK10
+CUT[Wesele jedzie, kapusta w kłodzie]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.228]
+FKT[]
+SIG[1007300012]
+KEY[10073   16  G 3/8]
+MEL[1_1_2_  3_1__  4_4_5_  6_5__
+    5_5_6_  6_4_.3  2_2_5_  5_1__ //]
+BEM[Partia wokalna-wariant]
+
+DWOK10
+CUT[Wesele jedzie, kapusta w kłodzie]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.228]
+FKT[]
+SIG[1007300020]
+KEY[10073   16  G 3/8]
+MEL[2_3_4_  3_5__  5_3_.-7  2_1__
+    2_3_4_  3_-7__  1__.  1__. //]
+BEM[Partia nstrumentalna]
+
+DWOK10
+CUT[Przyjechał pode drwota]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.231]
+FKT[]
+SIG[1007400000]
+KEY[10074   16  G 2/4]
+MEL[1_1_3_3_  2_2-71__  4_4_6_6_  4_435__
+    3_3_5__  2_2_4__  21-721_0_
+    3_3_5_5_  2_2_4_3_  21-721_0_ //]
+BEM[Wiwat]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.231]
+FKT[]
+SIG[1007500000]
+KEY[10075   08  G 2/4]
+MEL[5_5_  6543  2346  5432  5_4_  3_2_
+    132-7  1_-5_  1333  4321  132-7  1__
+    1333  4321  132-7  1__ //]
+BEM[Do przodku, szybki]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.232]
+FKT[]
+SIG[1007700000]
+KEY[10077   08  C 3/4]
+MEL[+1+2+3_+3_  +4+3+2_+3_  +17+1_+3_  +2+17_0_
+    +1+2+3_+3_  +4+3+2_+3+2  +17+1_+3_  +2+17_0_
+    +2+2+2_7_  +3_.+5+4+3  +2+1+2_5_  +3_.+5+4+3  +27+1_0_
+    +2+2+2_7_  +3_.+5+4+3  +2+1+2_+2_  +3_.+5+4+3  +27+1_0_ //]
+BEM[]
+
+DWOK10
+CUT[A wianyszek ładny był]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.233]
+FKT[]
+SIG[1007800000]
+KEY[10078   16  G 3/8]
+MEL[1_5__  3_1__  4_6__  4__^_
+    353_1_  22-7_-5_  1_5__  4__^_
+    353_1_  22-7_-5_  1_3__  1__^_ //]
+BEM[Śpiew druchny]
+
+DWOK10
+CUT[Już ją mamy, już ją mamy]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.234]
+FKT[]
+SIG[1007900000]
+KEY[10079   16  G 2/4]
+MEL[5_3_4_3_  5_3_4_3_  5_5_6_6_  5_3_4_3_
+    1_-721__  1_-721__  2_2_5_5_  3_231__
+    4_456_6_  4_465_3_  2_2_5_5_  3_231_1_
+    1_-72-7__  1_-721__  2_2_5_5_  3_231__ //]
+BEM[]
+
+DWOK10
+CUT[Kośniki stoją łączki się boją]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.234]
+FKT[]
+SIG[1008000000]
+KEY[10080   08  A 3/4]
+MEL[-543b45_  543b21_
+    -543b21-7  -543b21-7  243b21_ //]
+BEM[]
+
+DWOK10
+CUT[Witaj, witaj panno z komory]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.235]
+FKT[]
+SIG[1008200000]
+KEY[10082   16  G 3/8]
+MEL[1_5__  6_5__  4_3b_1_  2__.
+    1_5__  6_5__  443b_1_  2__.
+    4_.123b  43b1_2_  4_.123b  43b1_2_
+    2543b1_  2__. //]
+BEM[]
+
+DWOK10
+CUT[Co to za dziewczyna co to za jedyna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.236]
+FKT[]
+SIG[1008300010]
+KEY[10083   16  G 3/4]
+MEL[1_.35_5_5_5_  1_.35_5_5_5_  2_.46__4__  2_-7_1_3_5_5_  2_4_6__4__  2_-7_1__0__
+    1_.35_5_5_5_  1_.35_5_5_5_  2_.46__4__  2_-7_1_3_5_5_  2_4_6__4__  2_-7_1__0__ //]
+BEM[]
+
+DWOK10
+CUT[Co to za dziewczyna co to za jedyna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.236]
+FKT[]
+SIG[1008300020]
+KEY[10083   08  G 3/4]
+MEL[2-7-5_-5_  131_1_  2-7-5_-7_  2-71_0_ //]
+BEM[]
+
+DWOK10
+CUT[Od Gostynia idzie chmura]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.238]
+FKT[]
+SIG[1008400001]
+KEY[10084   08  G 3/4]
+MEL[456_6_  565421  4_4_31  2_215_
+    456_6_  565421  4_4_31  2_2-7-7_
+    -5-51_.-7  223_1_  4_4_31  2_215_
+    -5-51_.-7  223_1_  4_4_31  2_2-71_ //]
+BEM[]
+
+DWOK10
+CUT[Od Gostynia idzie chmura]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.238]
+FKT[]
+SIG[1008400002]
+KEY[10084   08  G 3/4]
+MEL[456_6_  565421  4_4_31  2_215_
+    456_6_  565421  4_4_31  2_2-7-7_
+    -5-51_.-7  223_1_  4_4_31  23215_
+    -5-51_.-7  223_1_  4_4_31  2_2-71_ //]
+BEM[]
+
+DWOK10
+CUT[Jakem jechał bez zameczek]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.240]
+FKT[]
+SIG[1008500001]
+KEY[10085   16  A 2/4]
+MEL[-5-71_2_4_  2_3b_1_3b_
+    -5-71_2_4_  2_3b_123b_
+    3b_1_-7_1_  -5_-7_1_2_
+    3b21_-7_1_  -5-6-7_1_2_
+    3b_1_-7_1_  -5___ //]
+BEM[]
+
+DWOK10
+CUT[Jakem jechał bez zameczek]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.240]
+FKT[]
+SIG[1008500002]
+KEY[10085   16  A 2/4]
+MEL[-5-71_2_4_  2_3b_1_3b_
+    -5-71_2_4_  2_3b_123b_
+    3b_1_-7_1_  -5_-7_1_2_
+    3b21_-7_1_  -5-6-7_1_2_
+    3b21_-7_1_  -5___ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.240]
+FKT[]
+SIG[1008600000]
+KEY[10086   08  C 3/4]
+MEL[+2+3+5_+5_  +3+4+6_+6_  +3_+3+2+2_  +3+4+5_+3+2  +1__.
+    +2+3+5_+5_  +3+4+6_+6_  +3_+3+2+2_  +3+4+5_+3+2  +1__.
+    +1_+2+3+4+3  +1_+3+4+2+3  +2+4+4+3+2_  +2_+1_67  +1__.
+    +1_+2+3+4+3  +1_+3+4+2+3  +2+4+4+3+2_  +2_+1_67  +1__. //]
+BEM[Skrzypek gra w drodze do kościoła]
+
+DWOK10
+CUT[Deszczyk nie pada a ino rosi]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.242]
+FKT[]
+SIG[1008700000]
+KEY[10087   16  F 3/4]
+MEL[2_2_4_6_5__  6_6_4_3_5__
+    2_4_4_321__  3_3_1_3_5__
+    2_4_4_321__  3_3_1_-7_2__
+    2_2_4_6_5__  6_6_4_3_5__
+    2_4_4_321__  3_3_1_3_5__
+    2_4_4_321__  3_3_1_-7_2__ //]
+BEM[]
+
+DWOK10
+CUT[W stodole świta w progu dzień]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.243]
+FKT[]
+SIG[1008800000]
+KEY[10088   16 Bb 3/8]
+MEL[-5_1_2_  3_2_1_  5__4#_  5__0_
+    -5_1_2_  3_2_1_  5__4#_  5__0_
+    5_5_6_  4_4_54  323_4_  2_2_54
+    3__2_  1__0_ //]
+BEM[]
+
+DWOK10
+CUT[A dawajcie, a dawajcie mali dawać]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.245]
+FKT[]
+SIG[1008900001]
+KEY[10089   16  G 3/8]
+MEL[135_5_  553_1_  4_6__  4__4_
+    313_3_  22-7_-5_  1_5__  4__4_
+    323_3_  22-7_-5_  1_3__  1__1_ //]
+BEM[]
+
+DWOK10
+CUT[A dawajcie, a dawajcie mali dawać]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.245]
+FKT[]
+SIG[1008900002]
+KEY[10089   16  G 3/8]
+MEL[135_5_  553_1_  4_6__  4__4_
+    313_3_  22-7_-5_  1_5__  4__4_
+    323_4_  22-7_-5_  1_3__  1__1_ //]
+BEM[]
+
+DWOK10
+CUT[Poszła dziewczyna ku ogródkowi]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.248]
+FKT[]
+SIG[1009300001]
+KEY[10093   16  G 3/4]
+MEL[5__5__6__  7b__5___  5_5_3b__1__  2___.
+    5__5__6__  7b__5___  5_5_3b__1__  2___.
+    4__1__2__  2_5_3b__1__  4__1__2__  2_5_3b__1__
+    245_3b__1__  2___. //]
+BEM[]
+
+DWOK10
+CUT[Poszła dziewczyna ku ogródkowi]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.248]
+FKT[]
+SIG[1009300002]
+KEY[10093   16  G 3/4]
+MEL[5__5__6__  7b__5___  5_5_3b_2_1__  2___.
+    5__5__6__  7b__5___  5_5_3b_2_1__  2___.
+    4__1__2__  2_5_3b_2_1__  4__1__2__  2_5_3b_2_1__
+    245_3b_2_1__  2___. //]
+BEM[]
+
+DWOK10
+CUT[Wiwat wiwat panu memu]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.249]
+FKT[]
+SIG[1009400000]
+KEY[10094   16  G 2/4]
+MEL[5_.43_4_  5_5_6_6_  5_.43_4_  5_-7_2_1_
+    5_.43_4_  5_5_6_6_  5_.43_4_  5_-7_2_1_ //]
+BEM[]
+
+DWOK10
+CUT[Dziewólu pójdź ino dam ci grosz na piwo]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.249-250]
+FKT[]
+SIG[1009500000]
+KEY[10095   16  G 2/4]
+MEL[5__5__  4_6_6_3_  5__5__  4_6_6_3_
+    5__54_.  3_3_4_2_  3__2_-7_  1_2_4_6_
+    5__54_.  3_3_4_2_  3__2_-7_  1_2_-7_1_ //]
+BEM[]
+
+DWOK10
+CUT[A weżźe mnie weź do matki mojij]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.258]
+FKT[]
+SIG[1009900000]
+KEY[10099   32  G 3/8]
+MEL[5_5_4__4__  3__3___  -7_1_2__3__  1___.
+    5_5_4__4__  3_2_3___  -7_1_2__3__  1___.
+    5_5_6__6__  5_4#_5__.4_  6_.54__4__  3_2_4__.3_
+    -7_1_2__3__  1___.
+    5_5_6__6__  5_4#_5__.4_  6_.54__4__  3_2_4__.3_
+    -7_1_2__3__  1___. //]
+BEM[]
+
+DWOK10
+CUT[Ciężał ci wionek Marynko]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.259]
+FKT[]
+SIG[1010200000]
+KEY[10102   16  G 3/8]
+MEL[135_5_  565_.3  465_4_  3__0_
+    135_5_  565_.3  465_4_  3__0_
+    432_.3  432_.5  432_.3  432_.5
+    465_4_  3__. //]
+BEM[Inna; w przedostatnim takcie jest o jedną szestnastkę za dużo, zapisano poprawnie]
+
+DWOK10
+CUT[Co to za dziewucha co to za jedyna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.260-261]
+FKT[]
+SIG[1010500000]
+KEY[10105   16  G 3/4]
+MEL[1_.3b5_6b_5_4#_  5_.6b5_4#_5_3b_
+    3b_23b1__5__  2_.-7-5_-7_2_5_
+    3b_23b1__5__  2_-7_-5___
+    -5_.-7-7_-5_1_-7_  -5_.-7-7_-5_1_-7_
+    3b_23b1__3b__  -7_2-7-5_-7_2_5_
+    3b_23b1__5__  -7_2-7-5___ //]
+BEM[W t. 2 błędnie zapisana szesnastka z kropką. Zakodowano poprawnie]
+
+DWOK10
+CUT[Jaka przed soby taka za soby]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.261]
+FKT[]
+SIG[1010600000]
+KEY[10106   16  G 3/4]
+MEL[1_3_4_2_1__  2_4_6_6_2__  1_3_4_2_1__  4__1_3_2__
+    1_3_4_6_7b__  5_6_5_4_2__  1_3_4_6_7b__  5_6_5_4_2__
+    1_3_4_2_1__  2_4_6_6_2__  1_3_4_521__  4__1_3_2__
+    1_3_456_7b__  5_6_5_4_2__  1_3_4_6_7b__  5_6_5_4_2__ //]
+BEM[Chodzony]
+
+DWOK10
+CUT[Ciemna nocka od północka]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.261]
+FKT[]
+SIG[1010700001]
+KEY[10107   32  G 3/8]
+MEL[-5_-6-71__3b_4_  5_.54#__3b__  4_3b21__-7_1_  2_.1-7__-5__
+    -6b_-6-71__2__  1_23b4__5__  -5_3b21__-7_1_  2_1_-7__-5__ //]
+BEM[]
+
+DWOK10
+CUT[Ciemna nocka od północka]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s.261]
+FKT[]
+SIG[10107000002]
+KEY[10107   32  G 3/8]
+MEL[-5_-6-71__3b_4_  5_.54#__3b__  4_3b21__-7_1_  2_.1-7__-5__
+    -6b_-6-71__2_-7_  1_23b4__5__  -5_3b21__-7_1_  2_1_-7__-5__ //]
+BEM[]
+
+DWOK10
+CUT[Wczoraj rosół, dzisiaj rosół]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 263]
+FKT[]
+SIG[1011100001]
+KEY[10111   16  C 3/8]
+MEL[+3+2+1_+3_  +2+4+6_+5_  +3+2+1_+3_  57+2_+1_
+    +3+2+1_+3_  57+1_+3_  +3+2+1_+3_  57+2_+1_ //]
+BEM[]
+
+DWOK10
+CUT[Wczoraj rosół, dzisiaj rosół]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 263]
+FKT[]
+SIG[1011100002]
+KEY[10111   16  C 3/8]
+MEL[+3+2+1_+3_  +2+4+6_+5+4  +3+2+1_+3+5  57+2_+1_
+    +3+2+1_+3_  57+1_+3_  +3+2+1_+3_  57+2_+1_ //]
+BEM[]
+
+DWOK10
+CUT[Młoda panna na cepecek prosi]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 264]
+FKT[]
+SIG[1011600001]
+KEY[10116   16  G 3/4]
+MEL[5_7b_6__4__  567b_6_5_4__  7b_7b_+1__7b__  6__4__0__
+    5_7b_6__4__  567b_6_5_4__  7b_7b_+1__7b__  6__4__0__
+    5_7b_6__6__  567b_6_5_6__  5__3b__2_-7b_  3b__5___
+    567b_6_5_6__  567b_6_5_6__  5__3b__2_-7b_  3b__1___ //]
+BEM[]
+
+DWOK10
+CUT[Młoda panna na cepecek prosi]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 264]
+FKT[]
+SIG[1011600002]
+KEY[10116   16  G 3/4]
+MEL[5_7b_6__4__  567b_6_5_4__  7b67b_+1__7b_+1_  6__4_1_0__
+    5_7b_6__4__  567b_6_5_4__  7b67b_+1__7b_+1_  6__4_1_0__
+    5_7b_6__6__  567b_6_5_6__  5__3b__21-7b_  3b_4_5___
+    5_7b_6__6__  567b_6_5_6__  5__3b__21-7b_  3b__1___ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna-Wiwat]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 266]
+FKT[]
+SIG[1012100000]
+KEY[10121   08  D 2/4]
+MEL[+1567  +1_53  46+17  5_5_
+    +1567  +1_53  2465  1__
+    1234  5_53  2346  655_
+    1234  5_53  2342  1__ //]
+BEM[]
+
+DWOK10
+CUT[Moja Marynko jużeś niewiasta]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 267]
+FKT[]
+SIG[1012200000]
+KEY[10122   16  C 3/4]
+MEL[5_67+1_+3_+4_+3_  +5_+5_+6_+5_+4__  +5_+5_+6_+5_+4__
+    5_67+1_+3_+4_+3_  +1_+2_7b_5_4__
+    5_67+1_+3_+4_+3_  +1_+2_7b_5_4__ //]
+BEM[]
+
+DWOK10
+CUT[Ty kozaku ty młody]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 268]
+FKT[]
+SIG[1012300010]
+KEY[10123   08  G 2/4]
+MEL[1133  2432  55-5_
+    1133  2432  1-6-5_ //]
+BEM[]
+
+DWOK10
+CUT[Ty kozaku ty młody]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 268]
+FKT[]
+SIG[1012300020]
+KEY[10123   16  G 2/4]
+MEL[-6__2__  1_3_-5__  1-71_343_  1_-6_-5__
+    -6__2__  1_3_-5__  1-71_343_  1_-6_-5__ //]
+BEM[]
+
+DWOK10
+CUT[Idzie drużba z młodym panem]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 270]
+FKT[]
+SIG[1012400000]
+KEY[10124   08  C 3/4]
+MEL[57+1_+5_  +4_.+2+3+1  +276_6_  5_.7+16
+    57+1_+5_  +4_.+2+3+1  +276_6_  5_.7+16 //]
+BEM[]
+
+DWOK10
+CUT[Wstań otworzyć mała niech se nie stoję]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 271]
+FKT[]
+SIG[1012500000]
+KEY[10125   16  G 3/8]
+MEL[154_2_  3b12__  3b1-7_1_  -5__.
+    -521_-7_  -5-71_2_  3b1-7_1_  -5__. //]
+BEM[]
+
+DWOK10
+CUT[Oj siadaj, siadaj]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 275]
+FKT[]
+SIG[1012600001]
+KEY[10126   08  G 4/4]
+MEL[1_221_34  56432__  5_543_5_  1-71_1__
+    3_221_34  3_432__  1343-5_-72  1-71_1__ //]
+BEM[]
+
+DWOK10
+CUT[Oj siadaj, siadaj]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 275]
+FKT[]
+SIG[1012600002]
+KEY[10126   08  G 4/4]
+MEL[1_221_34  56432__  5_543252  1-7111__
+    3_221_34  56432__  1343-5_-72  1-71_1__ //]
+BEM[]
+
+DWOK10
+CUT[O mój ptaszku  kregulaszku]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 275]
+FKT[]
+SIG[1012700000]
+KEY[10127   16  G 3/4]
+MEL[1_3_5__5__  4_6_4__2__  1_3_5__3__  4___2__
+    1_3_5__5__  -7_2_4__4__  1_3_4__3__  2__1-7-6-7-5__
+    1_3_5__5__  4_6_4__2__  1_3_5__3__  4___2__
+    1_3_5__5__  -7_2_4__4_2_  1_3_4__3__  2__1-7-6-7-5__ //]
+BEM[w zapisie Kolberga takt drugi niepełny, zapisano poprawnie]
+
+DWOK10
+CUT[Gdzieś działa wieńce dziewczyno]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 276]
+FKT[]
+SIG[1012800001]
+KEY[10128   08  G 3/4]
+MEL[556_6_  554_.2  356_6_  5__.
+    531_2_  134_.2  31-7_2_  1__. //]
+BEM[]
+
+DWOK10
+CUT[Gdzieś działa wieńce dziewczyno]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 276]
+FKT[]
+SIG[1012800002]
+KEY[10128   16  G 3/4]
+MEL[5_5_6__6__  5_5_4__.2_  3_456__6__  5___.
+    5_3_1__2_-7_  1_234__.2_  3_1_-7__2_-7_  1___. //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna-wiwat]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 279]
+FKT[]
+SIG[1013000000]
+KEY[10130   08  G 2/4]
+MEL[135_  4_2_  2245  3_1_
+    1356  4_2_  4245  3_1_
+    1-7-6_  -712_  2-7-5-5  3_1_
+    1-7-6_  -712_  2-7-5-5  3_1_ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna-wiwat]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 279]
+FKT[]
+SIG[1013100000]
+KEY[10131   16 Bb 2/4]
+MEL[-5_3_1_1_  -5-72_-5_-5_  -5-72_4_2_  1-7123_1_
+    -5_3_1_1_  -5-72-7-5_-5_  -5-7234_2_  1-7123_1_
+    12345_3_  4_6_2_2_  -5-72_4_2_  3_5_1_1_
+    12345_3_  4_6_2_2_  -5-72342-72  1_1_1__ //]
+BEM[]
+
+DWOK10
+CUT[Rozmarynku ty zielony, w kolusinko obgolony]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 279-280]
+FKT[]
+SIG[1013300000]
+KEY[10133   32  D 3/8]
+MEL[+1___+2__  +3b__+1___  7b___5__  +1__5___
+    +1___+2__  +3b__+1___  7b___5__  4__5___
+    4_5_6__+1__  7b___5__  +1__5___  4_5_6__+1__  7b___5__  4__5___
+    4_5_6__+1__  7b_6_+1_+2_7b_5_  4_5_6__+1__  7b_654__5__
+    +1___+2__  +3b__+1___  7b___5__  +1__5___
+    +1___+2__  +3b__+1___  7b___5__  4__5___
+    4_5_6__+1__  7b___7b__  +2__+1__7b_5_  4_5_6__+1__  7b___5__  4__5___
+    4_5_6__+1__  7b_6_+1_+2_7b_5_  4_5_6__+1__  7b_654__5__ //]
+BEM[]
+
+DWOK10
+CUT[Przeleciał ci ptaszek przez zielony lasek]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 280]
+FKT[]
+SIG[1013400001]
+KEY[10134   16  E 3/8]
+MEL[3b45_3b_  5_+1__  +1+2+1_7b_  4_7b__
+    454_2_  -7b_3b_.2  1__0_  3b57b__
+    6b54_2_  -7b_3b_.2  1__0_ //]
+BEM[]
+
+DWOK10
+CUT[Przeleciał ci ptaszek przez zielony lasek]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 280]
+FKT[]
+SIG[1013400002]
+KEY[10134   32  E 3/8]
+MEL[1_3b_5__3b__  5_7b_+1___  +1_+2_+1__7b_5_  4__7b__6b__
+    4_5_4__2__  -7b__3b__.2_  1___0__  3b_457b__5__
+    (7b_6b_5_)4__(3b_2_1_)  -7b__3b__.2_  1___0__ //]
+BEM[]
+
+DWOK10
+CUT[Młodej-pannie śpiewają]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 280]
+FKT[]
+SIG[1013500000]
+KEY[10135   08  F 3/4]
+MEL[6+1+2_+16  565_42  1_3_32  356_+1_
+    6+1+2_(+176)  565_(432)  1_3_32  (345)6_4_ //]
+BEM[]
+
+DWOK10
+CUT[Nie chciała, nie chciała, we wianyszku chodzić]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 281]
+FKT[]
+SIG[1013700000]
+KEY[10137   16  A 3/8]
+MEL[1_3b_2_  1_3b_.4  554_5_  2_-7-50_
+    -5_4_.2  1_3b_.2  1-7-5_-6b-7  1_-7-50_
+    1_3b_2_  1_3b_.4  554_5_  2_-7-50_
+    -5_4_.2  1_3b_.2  1-7-5_-6b-7  1_-7-50_ //]
+BEM[]
+
+DWOK10
+CUT[To z nią do pszeniczki, to z nią do żyta]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 281-282]
+FKT[]
+SIG[1013900000]
+KEY[10139   16  G 3/8]
+MEL[4__3_  456_6_  4__3_  221__
+    4__3_  223_1_  4__3_  223_5_  4__3_  221__ //]
+BEM[]
+
+DWOK10
+CUT[Maćkowa grusza stoji w otoku]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 282]
+FKT[]
+SIG[1014000001]
+KEY[10140   16  G 3/4]
+MEL[5_5_5_5_5__  5_7_6_4_2__  4_4_5_4_3_1_  2_2_2_-7_-5__
+    1_1_1_1_1__  1_.33_4_2__  2_4_5_4_3_1_  2_2_2_-7_-5__ //]
+BEM[]
+
+DWOK10
+CUT[Maćkowa grusza stoji w otoku]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 282]
+FKT[]
+SIG[1014000002]
+KEY[10140   16  G 3/4]
+MEL[5_5_5_5_5__  5_7_6_4_2__  4_6_5_4_3_1_  2_2_2_-7_-5__
+    1_1_1_1_1__  1_.33_4_2__  2_4_5_4_3_1_  -7_1_2_-7_-5__ //]
+BEM[]
+
+DWOK10
+CUT[Pojadę na jarmark, kupię sobie bat]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 286]
+FKT[]
+SIG[1014100001]
+KEY[10141   16  G 3/8]
+MEL[135_5_  6_4_2_  313_5_  2_-7_-5_
+    -5-71_2_  3_3_1_  331_5_  2_-7_-5_
+    -5-71_2_  3_3_1_  331_5_  2_-7_-5_ //]
+BEM[]
+
+DWOK10
+CUT[Pojadę na jarmark, kupię sobie bat]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 286]
+FKT[]
+SIG[1014100002]
+KEY[10141   16  G 3/8]
+MEL[135_5_  6_6_4_  313_5_  2_-7_-5_
+    -5-71_2_  3_3_1_  331_5_  2_-7_-5_
+    -5-71_2_  3_3_1_  331_5_  2_-7_-5_ //]
+BEM[]
+
+DWOK10
+CUT[Kieliszek braciszek, gorzałeczka siostra]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 286]
+FKT[]
+SIG[1014200001]
+KEY[10142   08  G 2/4]
+MEL[135_  642_  4312  -7_-5_
+    133_  -724_  4312  -7_-5_ //]
+BEM[]
+
+DWOK10
+CUT[Kieliszek braciszek, gorzałeczka siostra]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 286]
+FKT[]
+SIG[1014200002]
+KEY[10142   08  G 2/4]
+MEL[135_  642_  4312  -7_-5_
+    1333  -724_  4312  -7_-5_ //]
+BEM[Wiwat]
+
+DWOK10
+CUT[Jak pojedziem do kościoła]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 287]
+FKT[]
+SIG[1014300000]
+KEY[10143   16  F 3/8]
+MEL[135_5_  5+16_6_  246_5_  1__.
+    135_5_  5+16_6_  246_5_  1__.
+    3__5_  432_1_  3__5_  432_1_  -712_3_  1__. //]
+BEM[]
+
+DWOK10
+CUT[Żebyś ty chmielu na tyczki nie laz]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 289]
+FKT[]
+SIG[1014500001]
+KEY[10145   16  G 3/8]
+MEL[2_5_6_  7b_5__  452_1_  2__.
+    2_5_6_  7b_5__  452_1_  2__.
+    4_.123  432_1_  4_.123  432_1_
+    454_21  2__. //]
+BEM[]
+
+DWOK10
+CUT[Żebyś ty chmielu na tyczki nie laz]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 289]
+FKT[]
+SIG[1014500002]
+KEY[10145   16  G 3/8]
+MEL[2_5_6_  7b_5__  452_1_  2__.
+    2_5_6_  7b_5__  452_1_  2__.
+    4_.123  432_5_  4_.123  432_5_
+    454_21  2__. //]
+BEM[]
+
+DWOK10
+CUT[Oj głupia teraz mina]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 289]
+FKT[]
+SIG[1014600000]
+KEY[10146   16  G 3/8]
+MEL[-5-71_.2  3_3_3_  34#5__  2_-7_-5_
+    34#5__  6_6_3_  34#5__  2_-7_-5_
+    435__  4_3_5_  435__  2_-7_-5_
+    435_.2  4_3_5_  435__  2_-7_-5_ //]
+BEM[]
+
+DWOK10
+CUT[Bodajeś ty chmielu]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 295]
+FKT[]
+SIG[1014700001]
+KEY[10147   32  G 3/8]
+MEL[5_5_5__6__  5___4_3_  2_4_3__1__  2___.
+    5_5_5__6__  5___4_3_  254_3__1__  2___.
+    3_4_1__.2_  4_3_2__1__  3_4_1__.2_  4_3_2__1__
+    2_4_3__1__  2___.
+    5__.1_2_3_  4_4_3__2__  5__.1_2_3_  4_4_3__2__
+    4_6_5__1__  2___. //]
+BEM[U Kolberga przy kluczu 3/4 zapisano według wartości w takcie na 3/8]
+
+DWOK10
+CUT[Bodajeś ty chmielu]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 295]
+FKT[]
+SIG[1014700002]
+KEY[10147   32  G 3/8]
+MEL[5_5_5__6__  5___4_3_  2_4_3__1__  2___.
+    5_5_5__6__  5___4_3_  254_3__1__  2___.
+    3_4_1__.2_  4_3_2__1__  3_4_1__.2_  4_3_2__1__
+    254_3__1__  2___.
+    5__.1_2_3_  4_4_3__2__  5__.1_2_3_  4_4_3__2__
+    4_6_5__1__  2___. //]
+BEM[U Kolberga przy kluczu 3/4 zapisano według wartości w takcie na 3/8]
+
+DWOK10
+CUT[O wianku, wianku, wianku ruciany]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 307]
+FKT[]
+SIG[1014800000]
+KEY[10148   16  G 3/8]
+MEL[5_3_.4  5_6__  4_2_.3  432_-7_
+    5_3_.4  5_6__  4_2_.5  432_-7_
+    -5_-7__  123_5_  -5_-7__  123_1_
+    -5_-7__  123_5_  -5_-7__  123_1_ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna-Wiwat]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 308]
+FKT[]
+SIG[1014900010]
+KEY[10149   16  G 2/4]
+MEL[67b654_6_  4_6_4_2_  55553_5_  3_5_1__ //]
+BEM[]
+
+DWOK10
+CUT[Instrumentalna-Wiwat]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 308]
+FKT[]
+SIG[1014900020]
+KEY[10149   16  C 2/4]
+MEL[+1_+1_6__  5_5_3__  5__4323  1_3_5__
+    +1_+1_6__  5_5_3__  5__4323  1_3_1__ //]
+BEM[]
+
+DWOK10
+CUT[Moja Maryś już niewiasta]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 310]
+FKT[]
+SIG[1015000002]
+KEY[10150   16  G 3/8]
+MEL[3_5_42  465_2_  3_5_42  431_2_
+    1_5_42  435_2_  1_5_42  431_2_ //]
+BEM[Prędki]
+
+DWOK10
+CUT[Moja Maryś już niewiasta]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 310]
+FKT[]
+SIG[1015000010]
+KEY[10150   08  G 3/4]
+MEL[22_46_  53_143  22_46_  53_121
+    22_134  23_143  22_134  23_121 //]
+BEM[Polonez weselny]
+
+DWOK10
+CUT[Instrumentalna-Marsz do kościoła]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 311]
+FKT[]
+SIG[1015100000]
+KEY[10151   08  C 4/4]
+MEL[+1+3+5_+5_+5_  +5_+5_+5__  +1+3+5_+5_+5_  +5+3+1__0_
+    +3_+2+3+4_+3+2  +3+4+5_+5__  +3_+2+3+4_+27  +1_+3+2+1__
+    +2+2+2+3+4_5_  +17+1+2+3_+4_  +2+2+2+3+4_+27  +1_+3+2+1__
+    +2+2+2+3+4_5_  +17+1+2+3_+4_  +2+2+2+3+4_+27  +1_+3+2+1__ //]
+BEM[]
+
+DWOK10
+CUT[Prosili mnie na wesele]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 311]
+FKT[]
+SIG[1015200000]
+KEY[10152   08  F 2/4]
+MEL[+1567  +1531  4666  5_+1_
+    3555  4666  5432  3_1_ //]
+BEM[]
+
+DWOK10
+CUT[A nie siadaj że ty moja młoda panno]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 311]
+FKT[]
+SIG[1015300000]
+KEY[10153   32  G 3/8]
+MEL[2_2_2__1__  3__1___  3_4_5__6__  5___5_4_
+    2_2_2__1__  3__-5___  1_035__5_4_
+    2_2_2__1__  3__-5___  1___0__
+    2_2_2__1__  3__1___  3_4_5__6__  5___5_4_
+    2_2_2__1__  3__-5___  1_035__5_4_
+    2_2_2__1__  3__-5___  1___0__ //]
+BEM[Przed czepcami przy kolacyi]
+
+DWOK10
+CUT[Ty wianeczku lewandowy]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 312]
+FKT[]
+SIG[1015400000]
+KEY[10154   16  A 3/8]
+MEL[5_5__  7b65__  4#_1__  3b_2__
+    5_5__  7b65__  4#_1__  3b_2__
+    -712_5_  413b_2_  -712_5_  413b_2_ //]
+BEM[Do oczepin, znana i pod Szremem.]
+
+DWOK10
+CUT[O nieszczęsne białe głowy]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 312]
+FKT[]
+SIG[1015500001]
+KEY[10155   16  C 3/8]
+MEL[7+1+3_+5_  +4__+3_  +1_5__
+    7+1+3_+5_  +4__+3_  +1_5__
+    7+26_7_  +1__7_  5_+3__
+    7+26_7_  +1__+3_  7_5__ //]
+BEM[]
+
+DWOK10
+CUT[O nieszczęsne białe głowy]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 312]
+FKT[]
+SIG[1015500002]
+KEY[10155   16  C 3/8]
+MEL[7+1+3_+5_  +4__+3_  +1_5__
+    7+1+3_+5_  +4__+3_  +1_5__
+    7+26_7_  +1__7_  5_+3__
+    7+26_7_  +1__+3_  +175__ //]
+BEM[]
+
+DWOK10
+CUT[Oj gody, gody]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 313]
+FKT[]
+SIG[1015600000]
+KEY[10156   16  G 3/8]
+MEL[5_5_5_  4__5_  666_5_  4__4_
+    123_4_  212_2_  555_5_  1__1_
+    5_5_5_  4__5_  666_5_  4__42
+    123_43  212_2_  555_5_  1__1_ //]
+BEM[]
+
+DWOK10
+CUT[A bez uwagi mąż żonę bije-weselna]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 313]
+FKT[]
+SIG[1015800000]
+KEY[10158   16  G 3/8]
+MEL[1_5_5_  6_5__  443b21_  2__.
+    1_5_5_  6_5__  443b21_  2__.
+    4_1_2_  453b21_  4_1_2_  453b21_
+    553b21_  2__. //]
+BEM[Od Sremu, Czempina]
+
+DWOK10
+CUT[Uciekała przepióreczka w proso]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 313-314]
+FKT[]
+SIG[1015900010]
+KEY[10159   16  G 3/8]
+MEL[345_5_  553_5_  4_2__
+    -724_4_  442_4_  3_1__
+    123_3_  331_3_  2_-5__
+    -724_4_  442_5_  3_1__ //]
+BEM[]
+
+DWOK10
+CUT[Uciekała przepióreczka w proso]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 313-314]
+FKT[]
+SIG[1015900020]
+KEY[10159   16  G 3/8]
+MEL[135_5_  531_1_  5_4_.2
+    -724_4_  42-7_2_  431__ //]
+BEM[]
+
+DWOK10
+CUT[Zdało mi się, zadało, że pole gorzało]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 315]
+FKT[]
+SIG[1016000001]
+KEY[10160   16  A 3/8]
+MEL[3b53b__  5_5_4_  242__  4_4_3b_
+    13b1__  3b_3b_5_  2-7-5__  4_5_5_
+    13b1__  3b_3b_5_  2-7-5__  1_1_1_ //]
+BEM[]
+
+DWOK10
+CUT[Zdało mi się, zadało, że pole gorzało]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 315]
+FKT[]
+SIG[1016000002]
+KEY[10160   16  A 3/8]
+MEL[3b53b__  5_5_4_  242__  4_4_3b2
+    13b1__  3b_3b_5_  2-7-5__  4_5_5_
+    13b1__  3b_3b_5_  2-7-5__  1_1_1_ //]
+BEM[]
+
+DWOK10
+CUT[Uciekała przepióreczka w proso]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 315]
+FKT[]
+SIG[1016100011]
+KEY[10161   16  G 3/8]
+MEL[345_5_  553_1_  4_6__
+    234_4_  442_-7_  5_3__
+    123_3_  332_1_  2_2__
+    -5-72_2_  22-7_-5_  3_1__ //]
+BEM[]
+
+DWOK10
+CUT[Uciekała przepióreczka w proso]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 315]
+FKT[]
+SIG[1016100012]
+KEY[10161   16  G 3/8]
+MEL[345_5_  553_1_  4_6__
+    234_4_  442_-7_  5_3__
+    123_3_  332_1_  2_4__
+    -5-72_2_  22-7_-5_  3_1__ //]
+BEM[]
+
+DWOK10
+CUT[Uciekała przepióreczka w proso]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 315-316]
+FKT[]
+SIG[1016100020]
+KEY[10161   16  G 3/8]
+MEL[131_-6_  -5-52_4_  131_-7-6  -5-72-71_
+    131_-6_  -5-52_4_  131_-7-6  -5-72-71_ //]
+BEM[]
+
+DWOK10
+CUT[Siedzi ptaszek na ulicy, szuka ziareczka pszenicy]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 326]
+FKT[]
+SIG[1016200000]
+KEY[10162   16  C 3/8]
+MEL[555_+1_  346_5_  555_+1_  346_5_
+    +2_+2_+3_  7+1+3_+1_  +2+2+2_+3_  7+1+3_+1_
+    557_+2_  +3+4+6_+5_  55+4_.+2  +3+17_+1_
+    557_+2_  +3+4+6_+5+3  55+4_.+2  +3+17_+1_ //]
+BEM[Miłosław]
+
+DWOK10
+CUT[Gdzieś to był, gdzieś to był mój Sewerysiu]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 327]
+FKT[]
+SIG[1016300001]
+KEY[10163   16  G 3/8]
+MEL[1_3_3_  1_3_3_  1_4_3_  2_1__
+    -7_2_2_  -712_2_  2_4_3_  2_1__ //]
+BEM[]
+
+DWOK10
+CUT[Gdzieś to był, gdzieś to był mój Sewerysiu]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 327]
+FKT[]
+SIG[1016300002]
+KEY[10163   16  G 3/8]
+MEL[1_3_3_  123_3_  1_4_3_  2_1__
+    -7_2_2_  -712_2_  2_4_3_  2_1__ //]
+BEM[]
+
+DWOK10
+CUT[Piwo nie woda, bo to piwka nie szkoda]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 360]
+FKT[]
+SIG[1016400001]
+KEY[10164   16  F 2/4]
+MEL[5__4__  3_342__  5_5_4_4_  3_342__
+    1_2_3_4_  5_565_4_  3_342_-7_  1__1__ //]
+BEM[Wiwatowa piosnka]
+
+DWOK10
+CUT[Piwo nie woda, bo to piwka nie szkoda]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 360]
+FKT[]
+SIG[1016400002]
+KEY[10164   16  F 2/4]
+MEL[5__4__  3_342__  5_5_4_4_  3_342__
+    1_2_3_4_  5_565_4_  3_342_-5_  1_1_1__ //]
+BEM[Wiwatowa piosnka]
+
+DWOK10
+CUT[Ty wianeczku lewandowy, lewandowy]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 360]
+FKT[]
+SIG[1016500000]
+KEY[10165   16  C 2/4]
+MEL[5_.7+1_+3_  +5_.+3+4_+2_  +3_+1_+2_5_
+    5_7_+1_+3_  +5_.+3+4_+2_  +3_+1_7_5_
+    5_.+17_6_  +2__+2__  5_67+1__  +1__+1__
+    5_.7+1_+3_  +5_.+3+4_+2_  +3_+1_+2_5_
+    5_7_+1_+3_  +5_.+3+4_+2_  +3_+1_7_5_
+    5_.+17_6_  +2__+2__  5_67+1__  +1__+1__ //]
+BEM[Przy czepieniu]
+
+DWOK10
+CUT[Przezacna księżna dziewica]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 376]
+FKT[]
+SIG[1016600000]
+KEY[10166   04  F 3/4]
+MEL[34_  32_  23_  21_
+    34_  32_  23_  21_
+    334  5_4  34_  2_.
+    334  5_4  32_  1_0
+    334  5_4  34_  2_.
+    334  5_4  32_  1_0 //]
+BEM[]
+
+DWOK10
+CUT[Najświętsza Panna Maryja]
+REG[]
+TRD[DWOK10 W. Ks. Poznańskie 2 s. 383]
+FKT[]
+SIG[1016700000]
+KEY[10167   08  C 4/4]
+MEL[+1_+1_(+2+3+4)+5_  7_+2+3+4+3+2_
+    +1_+1_(+2+3+4)+5_  7_+2+3+4+3+2_
+    +3_+5_+4+3+2_  +3+2+1_+2_+1_
+    +3_+5_+4+3+2_  +3+2+1_+2_+1_ //]
+BEM[]

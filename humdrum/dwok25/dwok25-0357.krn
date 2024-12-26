@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK2535700000-polska_korono_co_slychac_o_tobie.krn
+!!!OTL: Polska korono co słychać o tobie
+!!!source: DWOK25
+!!!id: 25357
+!!!signature: 2535700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+4.ee
+8dd
+=2
+8ee
+8cc
+2cc
+=3
+8ff
+8ee
+4.dd
+8b
+=
+8ee
+24cc
+24b
+24cc
+2a}
+!!LO:LB:g=esac
+=4
+{8g#
+8a
+4.cc
+8b
+=
+12dd
+12cc
+12b
+2a
+=5
+8cc
+8b
+4a
+4g#
+=
+12a
+12b
+12cc
+2b}
+!!LO:LB:g=esac
+=6
+{8g#
+8a
+4.cc
+8b
+=7
+4cc
+2a
+=8
+8cc
+8b
+4a
+4g#
+=9
+8b
+8a
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=187 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 162} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 162}
+!!!page: 162
+!!!ONB: Converted on 2024/12/26 with esac2hum

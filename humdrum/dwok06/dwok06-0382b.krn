@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK06-K0382b-ach_moj_boze_cos_mam_czynic_-_przegrywka_instrumentalna.krn
+!!!OTL: Ach moj Boze cos mam czynic - przegrywka instrumentalna
+!!!source: DWOK06
+!!!id: K0382b
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+4dd
+=2
+16a
+16cc
+8.cc
+16a
+=3
+16g
+16g
+16b
+16g
+16b
+16dd
+=4
+16d
+16a
+8.cc
+16a}
+!!LO:LB:g=esac
+=5
+{8g
+8.b
+16dd
+=6
+16gg
+16ee
+16cc
+16ee
+16cc
+16a
+=7
+8dd
+16b
+16g
+16b
+16dd
+=8
+16d
+16a
+8.cc
+16a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 201} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 201}
+!!!page: 201
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2736900002-oj_przyplyneli_siwe_labedzie.krn
+!!!OTL: Oj przypłynęli siwe łabędzie
+!!!source: DWOK27
+!!!id: 27369
+!!!signature: 2736900002
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=1
+{4b
+8b
+8b
+4g
+4a
+=2
+4cc
+8ee
+8ee
+4b
+4cc
+=3
+8b
+8g
+2dd
+4cc
+=4
+8a
+8b
+2g}
+4r
+!!LO:LB:g=esac
+=5
+{4g
+8g
+8b
+4dd
+8cc
+8b
+=6
+8a
+8a
+8a
+8cc
+4b
+4d
+=7
+8g
+8d
+2b
+4a
+=8
+8f#
+8g
+2e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=352 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 333} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 333}
+!!!page: 333
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK5325100001-vaj_anzuolelis_ar_ne_medelis.krn
+!!!OTL: Vaj! Anzuolelis ar ne medelis?
+!!!source: DWOK53
+!!!id: 53251
+!!!signature: 5325100001
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{2dd
+=2
+4dd
+4ff#
+=3
+4ff#
+4dd
+=4
+2cc#}
+!!LO:LB:g=esac
+=5
+{4dd
+4b
+=6
+2a
+=7
+2ff#}
+!!LO:LB:g=esac
+=8
+{4ee
+4ee
+=9
+4ff#
+4dd}
+!!LO:LB:g=esac
+=10
+{2cc#
+=11
+4dd
+4ee
+=12
+4ee
+4ee}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=377 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 337} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 337}
+!!!page: 337
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK1711900000-oj_dziwuja_sie_ludzie.krn
+!!!OTL: Oj dziwują się ludzie
+!!!source: DWOK17
+!!!id: 17119
+!!!signature: 1711900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16ff#
+8gg
+8gg
+=2
+8dd
+16ff
+16ee
+8cc
+=3
+16dd
+16b
+8a
+16a
+16f
+=4
+8g
+16g
+16b
+8cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16a
+8f
+16a
+16cc
+=6
+8dd
+8ee
+8cc
+=7
+16dd
+16b
+8a
+8f
+=8
+8g
+8b
+8cc}
+!!LO:LB:g=esac
+=9
+{16dd
+16b
+8cc
+8dd
+=
+24ee
+24dd
+24ee
+8.ff
+16cc
+=
+24dd
+24ee
+24ff
+8aa
+8aa
+=10
+8gg
+8ff
+16ee
+16cc}
+!!LO:LB:g=esac
+=
+{24g
+24a
+24b
+8cc
+8dd
+=11
+16ee
+16gg
+8.dd
+16b
+=12
+16.dd
+32cc
+16.a
+32cc
+8a
+=13
+8g
+16g
+16b
+8cc}
+==
+*-
+!!!ONB: W t. 15 dwudźwięki; w t. 9 skorygowano oryginalny zapis rytmiczny: +2__7__+1__+2__ 
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=63 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 41} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 41}
+!!!page: 41
+!!!ONB: Converted on 2024/12/26 with esac2hum

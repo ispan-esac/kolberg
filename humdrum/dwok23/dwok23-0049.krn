@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2304900000-veni_creator_spiritus.krn
+!!!OTL: Veni Creator Spiritus
+!!!source: DWOK23
+!!!id: 23049
+!!!signature: 2304900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4a
+8f#
+8g
+4a
+=2
+4g
+4cc
+8.dd
+16cc
+4cc
+=3
+4cc
+4g
+4cc
+4dd
+=4
+4cc
+8dd
+8ee
+8dd
+8cc
+4dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4ee
+8cc
+8b
+4a
+=6
+4g
+4cc
+8.dd
+16cc
+4cc
+=7
+4cc
+8a
+8a
+4b-
+8a
+8g
+=8
+4.a
+8f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 94} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 94}
+!!!page: 94
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4107000000-szczeroka_woda_na_wisle.krn
+!!!OTL: Szczeroka woda na Wiśle
+!!!source: DWOK41
+!!!id: 41070
+!!!signature: 4107000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+8b
+8dd
+8gg
+8ff#
+4ee
+=2
+4dd
+4gg
+2dd}
+!!LO:LB:g=esac
+=3
+{4ee
+8dd
+8cc
+4b
+4a
+=4
+4cc
+4ee
+2dd}
+!!LO:LB:g=esac
+=5
+{4ee
+8dd
+8cc
+4b
+4dd
+=6
+4cc
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 61} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 61}
+!!!page: 61
+!!!ONB: Converted on 2024/12/26 with esac2hum

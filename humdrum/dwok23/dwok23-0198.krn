@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK2319800000-przy_dole_wisnia_przy_dole.krn
+!!!OTL: Przy dole wiśnia przy dole
+!!!source: DWOK23
+!!!id: 23198
+!!!signature: 2319800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8ee
+8cc
+=2
+4ee
+8cc
+=3
+16cc
+16ee
+4dd}
+!!LO:LB:g=esac
+=4
+{8b
+8dd
+8a
+=5
+4b
+8g
+=6
+16f#
+16a
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 183} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 183}
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

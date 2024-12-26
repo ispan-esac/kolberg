@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK4136100000-bedziesz_plakala_dziewczyno.krn
+!!!OTL: Będziesz płakała dziewczyno
+!!!source: DWOK41
+!!!id: 41361
+!!!signature: 4136100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=
+{24a
+24b
+24cc
+8ee
+16ee
+16dd#
+=
+16ee
+16b
+8dd
+24ee
+24dd
+24cc}
+!!LO:LB:g=esac
+=1
+{16a
+16cc
+8ee
+16ee
+16dd#
+=2
+16ee
+16b
+8dd
+16cc
+16b
+=3
+16dd
+16b
+8a
+16b
+16a}
+!!LO:LB:g=esac
+=4
+{16g#
+16g#
+8a
+16dd#
+16ee
+=
+24dd
+24cc
+24b
+8a
+16b
+16a
+=5
+16g#
+16g#
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=284 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 205} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 205}
+!!!page: 205
+!!!ONB: Converted on 2024/12/26 with esac2hum

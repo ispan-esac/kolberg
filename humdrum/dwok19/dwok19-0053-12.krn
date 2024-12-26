@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK1905300012-swacikowie_jada_biczami_trzaskaja.krn
+!!!OTL: Swacikowie jadą, biczami trzaskają
+!!!source: DWOK19
+!!!id: 19053
+!!!signature: 1905300012
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{32cc
+16.ee
+8ff
+4ff
+=2
+8dd
+8b
+4cc
+=3
+8a
+8b
+4cc
+=4
+16cc
+16a
+16a
+16g
+4f}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+16a
+16b
+4cc
+=6
+8cc
+16a
+16b-
+16a
+16g
+16a
+16b-
+=7
+16cc
+16dd
+16ee
+16ff
+4cc
+=8
+16cc
+16a
+16a
+16g
+4f}
+==
+*-
+!!!ONB: Weselna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 20} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 20}
+!!!page: 20
+!!!ONB: Converted on 2024/12/26 with esac2hum

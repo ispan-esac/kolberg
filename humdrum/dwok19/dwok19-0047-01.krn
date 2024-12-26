@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1904700001-ja_ulsan_ty_ulsan-piesn_przy_szopce.krn
+!!!OTL: Ja ułśan, ty ułśan-Pieśń przy szopce
+!!!source: DWOK19
+!!!id: 19047
+!!!signature: 1904700001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8ff
+8ff
+4ff
+=2
+16cc
+16ff
+16ee
+16dd
+4cc
+=3
+8.cc
+16b-
+8g
+8b-
+=4
+4a
+4f}
+!!LO:LB:g=esac
+=5
+{8.b-
+16a
+16g
+16dd
+16cc
+16b-
+=6
+8a
+8a
+4f
+=7
+8g
+8g
+8e
+8g
+=8
+8b-
+8a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=32 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 18} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 18}
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

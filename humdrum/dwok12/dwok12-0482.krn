@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK1248200000-wzialem_po_ojcu_posagu_wiele.krn
+!!!OTL: Wziąłem po ojcu posagu wiele
+!!!source: DWOK12
+!!!id: 12482
+!!!signature: 1248200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8dd
+8ee
+=2
+4.cc
+=3
+16f#
+16f#
+8a
+8b
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8dd
+8ee
+=6
+4.cc
+=7
+16d
+16d
+8a
+8b
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8a
+16a
+16f#
+=10
+16g
+16g
+8b
+8dd
+=11
+8a
+8cc
+16a
+16f#
+=12
+16d
+16f#
+8g
+8d}
+!!LO:LB:g=esac
+=13
+{8a
+8.a
+16f#
+=14
+8g
+4d
+=15
+16d
+16d
+8a
+8b
+=16
+4g}
+8r
+==
+*-
+!!!ONB: Wariant w takcie piątym 2_222-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 249-250} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 249-250}
+!!!page: 249-250
+!!!ONB: Converted on 2024/12/26 with esac2hum

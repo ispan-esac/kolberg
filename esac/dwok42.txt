@@ -1,0 +1,7075 @@
+DWOK42
+CUT[Stoi byliczka przy odłogu]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 6-7, od Przasnysza]
+FKT[]
+SIG[42134800000]
+KEY[421348  16  G 2/4]
+MEL[1_3_5_6_  5__.4_  3_2_4_2-7  1___
+    1_3_5_6_  5__.4_  3_2_4_2-7  1___
+    3__5_4_  2_3_1__  3_3_4_6_  5_4__23  1__0__ //]
+BEM[]
+
+DWOK42
+CUT[W polu ogródeczek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 8, Rozogi, Myszyniec]
+FKT[]
+SIG[42135000000]
+KEY[421350  08  A 3/4]
+MEL[53b4_5_  4_3b__  6b54_3b_  1_-7b__
+    -7b13b_5_  4_3b__  3b5423b_  1__1_ //]
+BEM[Melodia nr 1350]
+
+DWOK42
+CUT[Kalina, malina]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 9, Rozogi, Myszyniec]
+FKT[]
+SIG[42135100000]
+KEY[421351  16  A 3/4]
+MEL[5_3b_4_5_4_3b_  1_3b_2_3b_1_-7b_
+    -7_1_3b_5_4_3b_  1_3b_243b_1__ //]
+BEM[]
+
+DWOK42
+CUT[Kalina, malina]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 9, od Rożana]
+FKT[]
+SIG[42135200000]
+KEY[421352  16  G 3/8]
+MEL[123_4_  5__4#_  565_4#_  5__3_  565_4#_  5__3_
+    554_2_  1__3_  -5-5-6_-7_  1__3_
+    554_2_  1__3_  -5-5-6_-7_  1__1_ //]
+BEM[]
+
+DWOK42
+CUT[Wczoraj była pogodeczka]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 9-10, Czepielew]
+FKT[]
+SIG[42135300000]
+KEY[421353  16  A 3/4]
+MEL[4_3b_2__4__  3b_2_1_2_3b__  2_1_-7__1__  -5___.
+    -5_-7b_-7b__-6b_-5_  -4_-6b_1__.2_  3b_1_-7__.1_  -5___.
+    -5_-7b_-7b__.-6b-5  -4_-6b_1__.1_  -5_-7b_-7b__.-6b-5
+    -4_-6b_1__.2_  3b_1_-7b__.1_  -5___. //]
+BEM[Wariant w takcie dziesiątym -4_-6b1__.-7b_]
+
+DWOK42
+CUT[Już wyjeżdżam, matulinku]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 10, Czepielew]
+FKT[]
+SIG[42135400000]
+KEY[421354  16  G 3/4]
+MEL[4_6_4__6__  5_5_3__5__  6_432__3_2_  1___.
+    4_6_4__6__  5_5_3__5__  6_432__3_2_  1___.
+    3_2_1__2__  4_3_5__4__  3_2_1__2__
+    4_3_5__4__  3_4_2__2__  1___. //]
+BEM[]
+
+DWOK42
+CUT[Oj, cóż to za wesele]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 12, Łyse]
+FKT[]
+SIG[42135700000]
+KEY[421357  08  C 3/4]
+MEL[+4_+2_+2_  +4+4+3_+1_  +1+3+5_+6_  +2_+4__
+    +1_+3_+3_  +2+4+2_7_  57+1_5_  7_+1__ //]
+BEM[]
+
+DWOK42
+CUT[Hej Kasiu moja Kasiu]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 14]
+FKT[]
+SIG[42136100001]
+KEY[421361  08  G 3/4]
+MEL[4_2_4_  356_4_  3_2_4_  31-6_-5_
+    -5_-5_-7_  134_2_  2_1_1_  -61-7_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Hej Kasiu moja Kasiu]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 14]
+FKT[]
+SIG[42136100002]
+KEY[421361  08  G 3/4]
+MEL[4_2_4_  356_4_  3_2_4_  31-6_-5_
+    -5_-5_-7_  134_2_  -5_-5_-7_  1-6-5_-5_ //]
+BEM[]
+
+DWOK42
+CUT[I chodziła wedle rzeczki]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 14, Perzanowo p. Rożanem]
+FKT[]
+SIG[42136200000]
+KEY[421362  08  G 3/4]
+MEL[124_.6  531_2_  124_.2  131_-7_
+    124_.2  131_5_  124_.2  531_-7_ //]
+BEM[]
+
+DWOK42
+CUT[Chodziłam se koło rzeczki]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 15, Mąkolin]
+FKT[]
+SIG[42136300000]
+KEY[421363  08  E 3/4]
+MEL[57b+1_.6b  5-71_3_  554_.6b  5-71_3_
+    554_6b_  57b+1_.6b  554_6b_  5-71_1_ //]
+BEM[]
+
+DWOK42
+CUT[Przy onej górze stoi pan stary]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 15, Mąkolin]
+FKT[]
+SIG[42136500001]
+KEY[421365  16  F 4/4]
+MEL[1_1_3_4_5___  5_+1_7_6_5___  5_+1_7_6_5___  4__4_.23_3_3_1_
+    2__2_-7_1_1_3_5_  2_2_4_.31___ //]
+BEM[]
+
+DWOK42
+CUT[Przy onej górze stoi pan stary]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 15, Mąkolin]
+FKT[]
+SIG[42136500002]
+KEY[421365  16  F 4/4]
+MEL[1_1_3_4_5___  5_+1_7_6_5___  5_+1_7_6_5___  4_4_4_.23_3_3_1_
+    2_2_2_-7_1_1_3_5_  2_2_4_.31___ //]
+BEM[]
+
+DWOK42
+CUT[Oj, Kasiuleńku moja]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 16,od Wyszkowa, Przetycz]
+FKT[]
+SIG[42136600000]
+KEY[421366  08  G 3/4]
+MEL[+1_7_5_  +177_5_  +1_6_4_  433_1_
+    4_2_-7_  113_5_  +1_6_4_  433_1_ //]
+BEM[Wariant w takcie piątym 442_-7_]
+
+DWOK42
+CUT[Oj, pragną oczki pragną]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 17, od Makowa (Czepielew)]
+FKT[]
+SIG[42136900000]
+KEY[421369  08  G 3/4]
+MEL[5_+1_+1_  756_4_  321_3_  2_1_1_
+    2_5_6_  756_4_  321_3_  2_1_1_ //]
+BEM[Wariant w takcie piątym 245_6_]
+
+DWOK42
+CUT[Oj, siwa gąska siwa]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 17, od Makowa (Czepielew)]
+FKT[]
+SIG[42137000000]
+KEY[421370  08 Bb 3/4]
+MEL[246_63  5_2_31  246_63  5_231_
+    -5-71_32  4_1_35  623_31  4_231_ //]
+BEM[]
+
+DWOK42
+CUT[A za gać, za gać]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 18, Płock]
+FKT[]
+SIG[42137100000]
+KEY[421371  08  A 3/4]
+MEL[3b_3b_4#_  5__5_  43b2_-7_  1_3b_1_
+    3b13b_4#_  5__5_  43b2_-7_  1_3b_1_ //]
+BEM[]
+
+DWOK42
+CUT[W sadzie wiśnie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 18, Łyse]
+FKT[]
+SIG[42137200000]
+KEY[421372  16  G 3/4]
+MEL[5_6_5__2__  5_6_5__2__  3__5_4_3_2_  1__-5___
+    -6_-6_-6__1__  -7_-7_-7__2__  3__5_4_3_2_  1__-7__-5__ //]
+BEM[wariant w takcie drugim 546_5__2__]
+
+DWOK42
+CUT[Zieleni się murawecka]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 19, od Raciąża]
+FKT[]
+SIG[42137300010]
+KEY[421373  16  G 3/8]
+MEL[135_5_  562_4_  354_3_  (232)-7_-5_
+    1_2_-5_  132_-5_  1_2_43  2-7-6_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Zieleni się murawecka]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 19, od Raciąża]
+FKT[]
+SIG[42137300020]
+KEY[421373  16  G 3/8]
+MEL[-7-7-7_3_  (234#)5_-5_  -7-7-7_3_  (21-7)-6_-5_
+    -5-5-5_3_  (234#)5_-5_  -5-5-5_3_  (-4#1-7)-6_-5_
+    1_2_-7-5  135_(54#5)  564_2-7  132-7-5_ //]
+BEM[]
+
+DWOK42
+CUT[Oj, i do dom, panno, do dom]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 19, od Ciechanowa]
+FKT[]
+SIG[42137400000]
+KEY[421374  08  G 3/4]
+MEL[-713_-5_  -71-6_2_  -713_-5_  -71-6_-5_
+    -713_2_  465_.4  213_-5_  -71-6_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Powiedzże mi, powiedz, coś miała powiedzieć]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 20-21, od Makowa]
+FKT[]
+SIG[42137900000]
+KEY[421379  08  F 3/4]
+MEL[5__3_  135_6_  4_3_1_  33-7_1_
+    2__2_  213_5_  4_3_12  33-7_1_ //]
+BEM[]
+
+DWOK42
+CUT[Oj, i spodobały mi się]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 21, od Makolina]
+FKT[]
+SIG[42138000001]
+KEY[421380  08  G 3/4]
+MEL[-612_6_  653_-5_  -614_2_  1_.-62-5
+    -614_2_  -715_3_  1-64_2_  1_.-62-5 //]
+BEM[]
+
+DWOK42
+CUT[Oj, i spodobały mi się]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 21, od Makolina]
+FKT[]
+SIG[42138000002]
+KEY[421380  08  G 3/4]
+MEL[-612_6_  653_-5_  -614_2-7  1_.-62-5
+    -614_2_  -71543_  1-64_2-7  1_.-62-5 //]
+BEM[]
+
+DWOK42
+CUT[Tam na młynie dwie docze]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 21]
+FKT[]
+SIG[42138100000]
+KEY[421381  08  F 2/4]
+MEL[1233  3243  3243
+    2223  2223  2223  2223
+    +1_75  +1_0_ //]
+BEM[]
+
+DWOK42
+CUT[I pod borem, pod jaworem]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 22, Drożdżyn pod Płońskiem]
+FKT[]
+SIG[42138200000]
+KEY[421382  16  A 3/4]
+MEL[2_2_2__.4_  5_3b21__.2_  3b_1_-7__-5_1_  -5___.
+    -5_-5_-5__.-4_  -5_-7_1__.2_  3b_1_-7__-5_1_  -5___. //]
+BEM[oznaczenie ,Polacca]
+
+DWOK42
+CUT[Z tamtej strony zielonego dwora]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 22, Czepielew]
+FKT[]
+SIG[42138300000]
+KEY[421383  08  G 3/4]
+MEL[135_.3  565_4_  321__  565_4_  321__
+    332_4_  332_1_  354_3_  2_1__
+    332_4_  332_1_  354_5_  321__ //]
+BEM[]
+
+DWOK42
+CUT[Z tamtej strony dwora]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 23]
+FKT[]
+SIG[42138400000]
+KEY[421384  16  G 4/4]
+MEL[1_2_3_4_5__.3_  5_5_5_654__.2_
+    4_3_1_1_-6__-5__  -7_1_3_324__.2_
+    4_3_1_1-7-6__.-5_  -7_1_3_2_1__.1_ //]
+BEM[]
+
+DWOK42
+CUT[Z tamtej strony zielonego dwora]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 23-24, od Przasnysza i Chorzel]
+FKT[]
+SIG[42138500000]
+KEY[421385  08  G 3/4]
+MEL[135_5_  565_2_  4_3__  135_5_
+    565_2_  4_3__  2__1_  -7_-5__  5__+1_
+    6__43  225_-7_  2_1__  2__1_  -7_-5__
+    5__+1_  6__43  265_-7_  2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Ty kalino, modry kwiecie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 24, od Rożna]
+FKT[]
+SIG[42138700000]
+KEY[421387  08 Bb 3/4]
+MEL[133_2_  133_2_
+    135_6_  433_2_  -722_3_
+    1-7-6_1_  -722_3_  1-7-6_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Oj, do nij, Jasiu, do nij]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 25, od Bodzanowa]
+FKT[]
+SIG[42138800000]
+KEY[421388  32  A 3/8]
+MEL[-7__1__5__  4_2_3b__5__  -7_-7_1__5__  4_3b21__-5__
+    -7_-7_1__3b__  2_4_5_4_3b_2_  -7_-7_1__3b__  2_-7_1__-5__ //]
+BEM[]
+
+DWOK42
+CUT[Ty, dziewcyno, z białą twarzą]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 25]
+FKT[]
+SIG[42138900000]
+KEY[421389  08 Bb 3/4]
+MEL[-5-72_4_  323_1_
+    133_5_  434_2_  -5-72_4_
+    323_1_  1-6-4_-6_  -61-7_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Moje dziewcze, mój sokole]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 26, Czepielew]
+FKT[]
+SIG[42139100000]
+KEY[421391  08 Bb 3/4]
+MEL[135_6_  52-7_-5_
+    1354#64#  5_-7_2-5  133_21
+    -712342  133_21  -7-5-6-71_ //]
+BEM[]
+
+DWOK42
+CUT[, Ej, a pod moją klaczą]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 26, od Makowa,Szelków]
+FKT[]
+SIG[42139200000]
+KEY[421392  08  A 3/4]
+MEL[5_5_5_  4#56_5_  5_5_5_  4#53b21_
+    4_3b21_  -7123b5_  4_3b21_  -7123b1_ //]
+BEM[]
+
+DWOK42
+CUT[Moje dziewcze rada byś mi]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 28, od Andrzejewa]
+FKT[]
+SIG[42139600000]
+KEY[421396  08  A 3/4]
+MEL[-713b_5_  6b54_2_  453b_.1  1-5-7_-5_
+    -713b_1_  243b_1_  -713b_1_  1-5-7_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Czego żeś się zadumała]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 28, Mąkolin]
+FKT[]
+SIG[42139700000]
+KEY[421397  08  G 3/4]
+MEL[354#_23  -724_6_
+    565_23  12-7_1_  354#_3_
+    5_.2-71  354#_23  12-7_1_ //]
+BEM[wariant w takcie trzecim: 565423]
+
+DWOK42
+CUT[Oj, ty smrodzki bębnie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 28-29, od Makowa]
+FKT[]
+SIG[42139800000]
+KEY[421398  08  F 3/4]
+MEL[7_+1_+1_  +1_+1_+1_  6_6_6_  7_+1_6_
+    5_+1_+1_  +1_+1_3_  4_3_4_  2_-7_-5_
+    1__1_  3_5_3_  2_3_4_  2_-7_-5_  1__1-7
+    1_3_5_  2_3_4_  2_-7_-5_  1_3_2_  1_0_0_ //]
+BEM[]
+
+DWOK42
+CUT[Słońce świeci, wiatrek wieje]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 29, Maków]
+FKT[]
+SIG[42140000000]
+KEY[421400  08  A 3/4]
+MEL[-513b_21  3b54_3b1  3b45_3b_  4_-7b__
+    3b45_.4  6b54_2_  423b_-7_  1__1_ //]
+BEM[]
+
+DWOK42
+CUT[Ej, z góry woda bije]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 30, od Ostrołęki]
+FKT[]
+SIG[42140200000]
+KEY[421402  08  C 3/4]
+MEL[5_+5_+5_  +4#+2+3_+1_  765_+1_  6_5__  765_+1_  6_5__
+    5_+1_+2_  +4+2+3_+1_  765_+1_  6_5__  765_+1_  6_5__ //]
+BEM[]
+
+DWOK42
+CUT[Wlazam na krzacek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 30, Mąkolin]
+FKT[]
+SIG[42140300000]
+KEY[421403  08  G 3/4]
+MEL[64345_  64345_
+    64345_  642-71_  3_42-7-5
+    12345_  3_42-7-5  134-71_ //]
+BEM[]
+
+DWOK42
+CUT[Czego żeś mi kochaneczko]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 31, od Makowa, Czepielew]
+FKT[]
+SIG[42140400000]
+KEY[421404  08  A 3/4]
+MEL[-724_3b2  1-7-5_-4_  4_3_5_  242__
+    -724_32  1-7-5_-4_  1_-7_2_  1-7-5__ //]
+BEM[]
+
+DWOK42
+CUT[Choćbym ja jeździł]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 31]
+FKT[]
+SIG[42140500000]
+KEY[421405  08  C 6/8]
+MEL[5+1+3+176  6+4+4+4+3+2
+    5+1+3+176  6+4+4+4+3+2  +1+15+3_+2
+    567+1_.  +1+15+3_+2  567+1_. //]
+BEM[]
+
+DWOK42
+CUT[Jak mi będzie tak mi będzie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 32, Mąkolin]
+FKT[]
+SIG[42140600000]
+KEY[421406  08  C 3/4]
+MEL[+5+5+6_+4+2  +3+1+2_+1_  +5+5+6_+4+2  +2+17_+1_
+    +4_+2_+7+6  +5+3+1_+27  +4+4+2_+2_  +3+17_+1_ //]
+BEM[wariant w takcie drugim +3+2+2_+1_]
+
+DWOK42
+CUT[O nic się ja nie frasuję]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 32, od Pułtuska]
+FKT[]
+SIG[42140700000]
+KEY[421407  08  C 3/4]
+MEL[+2+2+4_+4_  +5+3+1_+1_  +275_5_  +1_+3__
+    +2+2+4_+6_  +7+5+3_+1_  +277_5_  +1_+1__
+    +2_+4__  +3_+5__  +6+4+2_7_  +1_+1_0_
+    +2_+4__  +3_+5__  +6+4+2_7_  +1_+1_0_ //]
+BEM[]
+
+DWOK42
+CUT[Nic mnie też bardziej nie cieszy]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 32-33, od Czerwińska]
+FKT[]
+SIG[42140800000]
+KEY[421408  08  G 3/4]
+MEL[-7-6-7_-5_  123_1_  42-7_-5_  1_3__
+    -7-6-7_-5_  123_5_  42-7_-5_  1_1__
+    +1_5__  5_+1_.6  42-7_-5_  1_1__ //]
+BEM[]
+
+DWOK42
+CUT[O, moja matulu. toć was Pan Bóg skarze]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 33-34, od Bodzanowa]
+FKT[]
+SIG[42141000000]
+KEY[421410  16  F 3/8]
+MEL[46+1_7_  5__2_  135_2_  1__3_
+    46+1_7_  5__2_  334_2_  1__1_
+    4__4_  323_1_  5__5_  456_4_
+    46+1_76  5__4_  334_2-7  1__1_ //]
+BEM[wariant w takcie 14 i 15 565_52  335_2-7]
+
+DWOK42
+CUT[Lądem dziewcze lądem]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 34, od Ostrołęki]
+FKT[]
+SIG[42141100000]
+KEY[421411  08  E 3/4]
+MEL[57b6b_4_  1_-7b__  113b_4_  +1_7b__
+    57b6b_4_  1_-7b__  13b5_4_  3b_1__ //]
+BEM[]
+
+DWOK42
+CUT[Nie wiesz panie co ja wiem]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 35, Drożdżyn]
+FKT[]
+SIG[42141200001]
+KEY[421412  08  A 2/4]
+MEL[1-713b  5_3b_  2_-7_  1-712  3b_2_  -7_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Nie wiesz panie co ja wiem]
+REG[]
+TRD[DWO42, Mazowsze 7, s. 35, Drożdżyn]
+FKT[]
+SIG[42141200002]
+KEY[421412  08  A 2/4]
+MEL[1-7b12  3b_5_  3b_.2  1-7b13b  2_1_  -7_.-5 //]
+BEM[]
+
+DWOK42
+CUT[U młynarza Marcina]
+REG[]
+TRD[DWOK42, Mazowsze 7, s.35, Kosino]
+FKT[]
+SIG[42141300000]
+KEY[421413  08  C 2/4 3/4]
+MEL[567+1  +2_+3_  +1__  +1+2+3+4  +5_+4_  +2__
+    +5_+3_  +1_6_  +17+2__  +5_+3_  +1_6_  +175__ //]
+BEM[]
+
+DWOK42
+CUT[Szła dziewczyna po rowie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 35]
+FKT[]
+SIG[42141400000]
+KEY[421414  08  G 2/4]
+MEL[3234  65_3  54_2  135_
+    +17+16  65_3  54_2  -711_ //]
+BEM[]
+
+DWOK42
+CUT[A jakże ja do waspany pójdę]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 36, Mąkolin]
+FKT[]
+SIG[42141500000]
+KEY[421415  08  G 2/4]
+MEL[1121  3546  5_1_
+    3542  1_-5_  3321  3542
+    3321  3542  5432  1_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Ksiądz idzie drogą]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 36-37]
+FKT[]
+SIG[42141600010]
+KEY[421416  08  G 2/4]
+MEL[5_55  5_1_  3342  1_-5_
+    1_-72  1_3_  42-72  1_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalne]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 37]
+FKT[]
+SIG[42141600020]
+KEY[421416  08  G 2/4]
+MEL[1113  111-5  4_2_  -7211 //]
+BEM[]
+
+DWOK42
+CUT[Do mnie, Jasiu, do mnie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 37]
+FKT[]
+SIG[42141900000]
+KEY[421419  08  G 3/4]
+MEL[135_3_  554_2_  -724_.3  1__.
+    132_-5_  -724_.3  314_.2  1__. //]
+BEM[wariant w takcie trzecim 224_.3]
+
+DWOK42
+CUT[Sama ja nie wiem]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 38, Myszyniec]
+FKT[]
+SIG[42142100000]
+KEY[421421  04  G 3/4]
+MEL[551  34_  331  -72_
+    551  34_  331  -7-5_
+    221  34_  312  -7-5_
+    321  34_  312  -7-5_ //]
+BEM[]
+
+DWOK42
+CUT[A w niedziele rano]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 38-39]
+FKT[]
+SIG[42142200000]
+KEY[421422  08  G 3/4]
+MEL[315__  655__  654_.2  4_3__
+    315__  655__  654_.2  4_3__
+    333_.4  65543_  222_.3  434_2_
+    556_5_  5+13__  654_-7_  211__
+    333_.4  65543_  222_.3  434_2_
+    556_5_  5+13__  654_-7_  211__ //]
+BEM[]
+
+DWOK42
+CUT[Marysienku, córusienku]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 40, Łyse]
+FKT[]
+SIG[42142500000]
+KEY[421425  08  G 4/4]
+MEL[434654#51  33353_2_
+    3_1_353_  2321-7_-5_
+    3_1_353_  23212_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Moja córuś coześ jadła]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 40, od Raciąża]
+FKT[]
+SIG[42142600000]
+KEY[421426  08  C 3/4]
+MEL[+1+3+5_+5_  +5+6+2_+4_  +3+5+4_+3_  (+2+3+2)7_5_
+    +1_+2_5_  +1+3+2_5_  +1_+2_+4+3  +276_5_ //]
+BEM[]
+
+DWOK42
+CUT[Córuś moja, gdzieześ była]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 40, od Przasnysza]
+FKT[]
+SIG[42142700001]
+KEY[421427  16  G 3/8]
+MEL[353_5_  434_.3  242_4_  323_.1
+    11-7_-5_  -724_.2  11-7_-5_  -721__ //]
+BEM[]
+
+DWOK42
+CUT[Córuś moja, gdzieześ była]
+REG[]
+TRD[DWOK42. Mazowsze 7, s. 40, od Przasnysza]
+FKT[]
+SIG[42142700002]
+KEY[421427  16  G 3/8]
+MEL[355_5_  444_.4  242_4_  323_.1
+    11-7_-5_  -724_.2  11-7_-5_  -721__ //]
+BEM[]
+
+DWOK42
+CUT[Moja corus, gdzieżeś była]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 41, Czepielew]
+FKT[]
+SIG[42142800000]
+KEY[421428  08  G 3/4]
+MEL[335_5_  4#53_54  224_4_  442_3_
+    1_-6_1-7  -5-72_3_  1_-6_1-7  -5__. //]
+BEM[]
+
+DWOK42
+CUT[U mej matki rodzonej]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 42, Czepielew]
+FKT[]
+SIG[42143000000]
+KEY[421430  08  G 3/4]
+MEL[-5-72_4_  231__  135_+1_  7+25__
+    +1+1+1+1+11  13542-7  -5-72_4_  231__ //]
+BEM[]
+
+DWOK42
+CUT[Między ogrody, tam bystre wody]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 42, Drożdżyn]
+FKT[]
+SIG[42143100000]
+KEY[421431  04  G 3/4]
+MEL[55+1  5_3  433  2_.  100
+    111  5_3  433  2_.  100 //]
+BEM[]
+
+DWOK42
+CUT[Ach, ty dziewcyno, ach, ty jedyna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 44]
+FKT[]
+SIG[42143400000]
+KEY[421434  16  A 3/4 4/4]
+MEL[5__5_5_+1_5_  2__4_4_5_3b_
+    1_3b_3b__5_4_  3b_2_1___  1__-7__1_2_4_3b2
+    1__-7__1_2_4_3b2  1_2_3b__5_4_  3b_2_1___ //]
+BEM[wariant w takcie 1 i 2 4_4_4_4_+1_5_  2_4_4_4_5_3b2]
+
+DWOK42
+CUT[Wyjechało trzech paniców]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 46]
+FKT[]
+SIG[42143700000]
+KEY[421437  08 Bb 2/4]
+MEL[1131  242-7  1353  3_2_
+    2223  2223  21-7-6  -6-5-5_ //]
+BEM[]
+
+DWOK42
+CUT[Pojechał pan starosta]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 46, Zakroczym]
+FKT[]
+SIG[42143800000]
+KEY[421438  08  G 2/4]
+MEL[5313  542_  3313  2-7-5_
+    1322  4655  5313  2-7-5_ //]
+BEM[wariant w takcie 5 i 6 132_  465_]
+
+DWOK42
+CUT[I wyjechał pan z rana]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 47, Dzierżanów]
+FKT[]
+SIG[42143900000]
+KEY[421439  08  A 2/4]
+MEL[154#5  23b1_  4445  2_5_
+    43b2-7  1134  3212  -5_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Oj bujała da bujała]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 47, od Płocka]
+FKT[]
+SIG[42144000000]
+KEY[421440  32  G 3/8]
+MEL[-7_1_3_5__2_  4_3_5_.2-7_-5_  -7_1_3_5__2_  4_3_1__-5__
+    -7_1_3_3__2_  4_3_1__2__  -7_1_3_3__2_  4_3_1__-5__
+    -7_1_3_3__2_  4_3_1__2__  -7_1_3_3__2_  4_3_1__-5__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalne]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 48, Mąkolin]
+FKT[]
+SIG[42144200000]
+KEY[421442  08  A 2/4]
+MEL[5+155  5455  5+155  5455
+    5_42  3b3b42  3b3b22  1_+1_
+    5_42  3b3b42  3b3b22  1_1_ //]
+BEM[]
+
+DWOK42
+CUT[W ciemnym lasku ptaszek spiewa]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 48-49, Czepielew, Maków]
+FKT[]
+SIG[42144300000]
+KEY[421443  16  G 3/4]
+MEL[1_3_5__.3_  5_3_4__.2_
+    3_3_5__.3_  5_3_4__.2_  4_6_6__.4_
+    6_5_3__.5_  5_5_4__.-7_  2_1_1__.1_ //]
+BEM[wariant w takcie czwartym 5_3_4_.32]
+
+DWOK42
+CUT[Oj, Boże moj, Boże]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 49, Czepielew]
+FKT[]
+SIG[42144500000]
+KEY[421445  08  G 3/4]
+MEL[111_1_  3_5__  7b7b7b_7b_  +2_+1__
+    6__6_  653_3_  542_4_  6_5__
+    6__6_  653_13  542_-7b_  2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Oj ze, oj ze, po budnicku]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 50]
+FKT[]
+SIG[42144600000]
+KEY[421446  08  A 3/4]
+MEL[3b3b3b_5_  424_2-7  -5-72_4_  323b_1_
+    33b3b_5_  53b4_2-7b  -5-72_4_  423_1_ //]
+BEM[]
+
+DWOK42
+CUT[Bodaj umar, nie chorował]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 50]
+FKT[]
+SIG[42144700000]
+KEY[421447  08  C 3/4]
+MEL[+1+1+3_+27  +1+3+5+4+35  +1+1+3_+27  +1_.565
+    7_5_65  +1+3+5+4+35  +2+4+2_75  +1_.+1+1+1
+    7_5_65  +1+3+5+4+35  +2+4+2_75  +1_.+1+1+1 //]
+BEM[]
+
+DWOK42
+CUT[Zielono ja siała]
+REG[]
+TRD[DWOK42, Mazowsze 7, s.51,  Myszyniec]
+FKT[]
+SIG[42144800000]
+KEY[421448  08  A 3/4]
+MEL[5_1_3b5  5_3b_3b_  244_3b2  1_-7__
+    -7_1_3b5  5_3b_6b5  245_3b2  1_-7__ //]
+BEM[]
+
+DWOK42
+CUT[Ostaj mi z Bogiem]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 51, Kosino]
+FKT[]
+SIG[42144900000]
+KEY[421449  32  C 3/8]
+MEL[+1_+3_+5__.+4_  +3_+1_+4__+2__
+    +1_+1_+2__+4_+3_  +2_+2_7__5__  +1_+3_+5__.+3_
+    +5_+4_+2__+4_+3_  +1_.+2+2__+1__  5_5_6__5__ //]
+BEM[]
+
+DWOK42
+CUT[Zaszło słońce, zaszło]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 51-52, Przasnysz]
+FKT[]
+SIG[42145000010]
+KEY[421450  16  D 3/8]
+MEL[111_3_  5__7_  +2+2+1_2_  6__5_
+    +2+17_2_  6__5_  554_-7_  1__3_  654_-7_  1__1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 52, Przesnysz]
+FKT[]
+SIG[42145000020]
+KEY[421450  16  D 3/8]
+MEL[(121)-7_-6_  -6__-5_  65342-7  1__3_
+    (121)-7_-6_  -6__-5_  65342-7  1__1_ //]
+BEM[]
+
+DWOK42
+CUT[Siedzi ptaszek na topoli]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 52, Kosino]
+FKT[]
+SIG[42145100000]
+KEY[421451  08  G 3/4]
+MEL[354#563  542__  -5-7234-7  211__
+    132_1_  45655_  5_.246  5-7211_ //]
+BEM[]
+
+DWOK42
+CUT[A bodaj to była]
+REG[]
+TRD[DWOK42,Mazowsze 7, s. 53, od Makowa]
+FKT[]
+SIG[42145200000]
+KEY[421452  08 Bb 3/4]
+MEL[3_5_54#  5_3_5_  64#2_4#_  -6_1_1_
+    3_2_2_  531_3_  -71232_  -6_1_1_ //]
+BEM[]
+
+DWOK42
+CUT[Wyszła Kasineczka]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 53]
+FKT[]
+SIG[42145300000]
+KEY[421453  08  G 3/4]
+MEL[543_4_  543_45  35+1765  6__42
+    42-7_2_  135_+1_  642_2-7  1__1_
+    22-7_2_  135_7+1  642_2-7  1__1_ //]
+BEM[]
+
+DWOK42
+CUT[I wychodzi piękna dama]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 53-54, Mąkolin]
+FKT[]
+SIG[42145400000]
+KEY[421454  08  G 3/4]
+MEL[(135)+1_.7  76655_  57+2_.4  433__
+    67+164_  564_32  225432  211__ //]
+BEM[]
+
+DWOK42
+CUT[O dlaboga, o dlaboga]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 54, od Pułtuska]
+FKT[]
+SIG[42145500001]
+KEY[421455  32  C 3/8]
+MEL[+1_+2_+3__+3__  +4_.+3+2__+1__  +2_+3_+4__+3__  +3__+2___
+    7_+1_+2__+2__  +2_+2_7__5__  +2_+4_+3__+2__  +2__+1___ //]
+BEM[]
+
+DWOK42
+CUT[O dlaboga, o dlaboga]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 54, od Pułtuska]
+FKT[]
+SIG[42145500002]
+KEY[421455  16  C 3/8]
+MEL[+1+2+1_5_  +1+2+1_5_  +1+1+2+176  5_3__
+    222_4_  333_5_  +1_+2+176  5_3__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 55, Mąkolin]
+FKT[]
+SIG[42145600000]
+KEY[421456  08  G 3/4]
+MEL[554_6_  5_.135  554_6_  5__.
+    564_4_  3_.234  565_-7_  116_5_  1__. //]
+BEM[]
+
+DWOK42
+CUT[Moja bziałecki, byśta wziedziały]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 55, Przasnyskie]
+FKT[]
+SIG[42145800000]
+KEY[421458  16  C 3/8]
+MEL[5_+1_+1_  +3__+1_  +5_+5_+5_  +5__+5_  +4_+3_+4_
+    +2_+1__  7_+2_+5_  +1__+1_  +3_+1_+1_  7__+2_
+    +4_+2_+2_  +1__+3_  +3_+2_+1_  7__+2_  +4_+3_+5_  +1__+1_ //]
+BEM[wariant w takcie czwartym +3__+3_, wariant w takcie dwunastym: +1__+3+5]
+
+DWOK42
+CUT[A, jakeś mi mawiał, kiedyś mnie namawiał]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 56, od Wyszogrodu]
+FKT[]
+SIG[42145900000]
+KEY[421459  08  E 3/4]
+MEL[3b57b+16b4  6b+1+2+17b5
+    3b57b+16b4  3b3b2_1_  3b3b2_41
+    3b23b57b5  3b3b4_7b_  53b2_1_ //]
+BEM[]
+
+DWOK42
+CUT[A stała nam się taka ogłoska]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 56, Mąkolin]
+FKT[]
+SIG[42146000000]
+KEY[421460  08  A 3/4]
+MEL[5_.424  5_.43b2  13b2_3b_  1__.
+    5_.424  5_.43b2  13b2_3b_  1__.  2_2_2_
+    -724_3b2  1_3b_3b_  3b54_3b2  13b1__ //]
+BEM[]
+
+DWOK42
+CUT[Jasio konie poił]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 58, Mąkolin]
+FKT[]
+SIG[42146500000]
+KEY[421465  08  A 3/4]
+MEL[1-7b1_.2  3b_2__  1-7b1_.2  3b_-7b__
+    3b_3b_3b_  3b54_.3b  2_-7b__  243b21_ //]
+BEM[]
+
+DWOK42
+CUT[Stała się nam nowina]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 59, Mąkolin]
+FKT[]
+SIG[42146600000]
+KEY[421466  08 Bb 2/4]
+MEL[1231  2_-7_  -5__  3453  5_65
+    4342  4_54  3213  4_2-7  1__ //]
+BEM[wariant w takcie siódmym 4354]
+
+DWOK42
+CUT[Nasieję ja drobnej ruty]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 60, od Serocka]
+FKT[]
+SIG[42146700000]
+KEY[421467  16  E 3/8]
+MEL[113b_1_  557b_5_  55+1_+2_  5__.
+    557b_+2_  7b67b_5_  424_5_
+    3b23b_1_  3b45_5_  1__. //]
+BEM[Wariant w takcie piątym 55+1_+2_]
+
+DWOK42
+CUT[Pojechał Jasio na łowy]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 60, Kosino]
+FKT[]
+SIG[42146800000]
+KEY[421468  16  G 3/4]
+MEL[1_3_3_3_3_1_  5__.4_4__  2_3_4_5_6_6_
+    6__.5_5__  +1_7_6_5_436_  6_5_5___
+    5_5_+1__.5_  3_5__4__2_  2_1_1___ //]
+BEM[]
+
+DWOK42
+CUT[Oj prosiłam ja Boga]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 61]
+FKT[]
+SIG[42146900000]
+KEY[421469  08  G 7/8]
+MEL[4243565  42431-6-5
+    -5-5-71342  2134221 //]
+BEM[]
+
+DWOK42
+CUT[Od samej Warsawy]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 61]
+FKT[]
+SIG[42147000000]
+KEY[421470  08  G 2/4]
+MEL[1123  1_1_  2235  4_1_
+    223-7  1_3_  223-7  1_1_ //]
+BEM[]
+
+DWOK42
+CUT[Całą nockę nie spała]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 62, od Ostrołęki (Czerwin, Mokrylas)]
+FKT[]
+SIG[42147100000]
+KEY[421471  08  F 2/4]
+MEL[1234  5_6_  5__  7+2+17
+    5_6_  2__  4654  3_2_
+    1234  5_+1_  7564  3_2_  1__ //]
+BEM[]
+
+DWOK42
+CUT[Wyjrzyj dziewce w ciemny las]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 63, od Płocka]
+FKT[]
+SIG[42147200000]
+KEY[421472  08  F 2/4]
+MEL[1234  5_6_  5__  5+135
+    4_6_  2__  5643  2_.-7
+    1234  5_+1_  5643  2_2_  1__ //]
+BEM[]
+
+DWOK42
+CUT[Z tamtej strony miasteczka]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 63-64, od Wyszogrodu]
+FKT[]
+SIG[42147300000]
+KEY[421473  08  F 2/4]
+MEL[1234  5_+1_  5__  +1531  4_6_
+    2__  5654  3_2-7  1234
+    5_67  +1564  3_2-7  1__ //]
+BEM[]
+
+DWOK42
+CUT[Pięknie w ogrodzie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 64, od Pułtuska, Ostrołęki]
+FKT[]
+SIG[42147400000]
+KEY[421474  08  C 6/8]
+MEL[+1+17+2_5  6+175_3  234#5_6
+    7+175_5  5+4+2+1_+2  567+1_+1 //]
+BEM[]
+
+DWOK42
+CUT[Za gorami za lasami]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 64, Mąkolin]
+FKT[]
+SIG[42147500000]
+KEY[421475  08  A 3/4]
+MEL[5__4#_  5_2__  4__5_  3b_1__
+    123b_2_  43b2_1_  2__-5_  -7_1__ //]
+BEM[]
+
+DWOK42
+CUT[Gdzież to jedziesz Jasiu?]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 65]
+FKT[]
+SIG[42147600000]
+KEY[421476  16  E 2/4 3/4]
+MEL[5_4_5_67b  +1__5__  5_4_5_7b_  +1__5__
+    5_7_+1__+3b__  +2_7_5___  5__+1__  5_7b_6b_5_
+    4__4__  3b_2_1_-7_  1_3b_4__6b__  5_3b_1___ //]
+BEM[wariant w takcie szóstym +2_+17b5___]
+
+DWOK42
+CUT[Gdzież to jedziesz, Jasiu?]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 65, Czepielew]
+FKT[]
+SIG[42147700000]
+KEY[421477  08  E 2/4]
+MEL[5457b  +1_5_  5457b  +1_5_
+    5457b  +1_+2_  +1__  5_+1_  456b5
+    4_5_  43b21  456b+1  7b_+1_  4__ //]
+BEM[]
+
+DWOK42
+CUT[Zebyśta wy wiedzieli]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 66]
+FKT[]
+SIG[42147800001]
+KEY[421478  32  A 3/8]
+MEL[1_2_3b__3b__  4_456b___  6b_3b_5__3b__  4_3b21___
+    4_5_6b__6b_4_  5_424__3b_2_  4_3b_5__3b__  4_3b21___
+    4_5_6b__6b_4_  5_424__3b_2_  4_3b_5__3b__  4_3b21___ //]
+BEM[]
+
+DWOK42
+CUT[Zebyśta wy wiedzieli]
+REG[]
+TRD[DWOK42, Mazowsze7, s. 66]
+FKT[]
+SIG[42147800002]
+KEY[421478  32  A 3/8]
+MEL[1_2_3b__3b__  4_6b56b___  6b_3b_5__3b__  4_3b21___
+    4_5_6b__6b_4_  5_424__3b_2_  6b_3b_5__4_2_  4_3b21___
+    4_5_6b__6b_4_  5_424__3b_2_  6b_3b_5__4_2_  4_3b21___ //]
+BEM[]
+
+DWOK42
+CUT[Ej, szynkareczka nasza]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 66, Andrzejów]
+FKT[]
+SIG[42147900000]
+KEY[421479  08  G 3/4]
+MEL[1_3_1_  345_6_  4_6_4_  6+17_5_
+    5_5_1_  345_6_  4_2_2_  243_1_ //]
+BEM[Wariant w taktach 2-3:345_56, Wariant w takcie 7:4_2_2-7]
+
+DWOK42
+CUT[Oj dobry moj Jasio dobry]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 67, Mierzęcin]
+FKT[]
+SIG[42148000000]
+KEY[421480  08  G 3/4]
+MEL[466_5_  3_1__  4_4_3_  2-5-7_1_
+    234_3_  5_1__  5_4_3_  2-5-7_1_ //]
+BEM[]
+
+DWOK42
+CUT[Z karczmy idę]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 67, Mąkolin]
+FKT[]
+SIG[42148200000]
+KEY[421482  16  A 3/4]
+MEL[1_1_2__4__  (2_4_6_)+1__6__  5_432__3b_4_  -6_-6_-5__-7_-6_
+    1_1_2__4__  (3_4_5_)6__2__  1_1_2__(3_4#_3_)  4#_3_-5__-7_-6b_ //]
+BEM[Wariant w takcie ostatnim -6_-6_-5__-7_-6_]
+
+DWOK42
+CUT[Mazur, ja Mazur]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 67-68]
+FKT[]
+SIG[42148300000]
+KEY[421483  08  G 3/4]
+MEL[133_4_  5__.  542_4_  5__.
+    133_4_  5__.  542_4_  5__.
+    556_4_  312_-5_  -722_3_
+    113_2_  -722_3_  1__. //]
+BEM[]
+
+DWOK42
+CUT[U nasego Kujawiana]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 68, od Płocka, Wyszogrodu]
+FKT[]
+SIG[42148400000]
+KEY[421484  32  C 3/8]
+MEL[5_+1_+3_+5_^__  +2+4+6+5+3_+1_^__  5_+1_+3_+5_^__
+    +2_+4_+3_+2__7_  5_+1_+3_+4_^__  +2_+1_+3_+2__7_  5_+1_+3_+4_^__
+    +2_+1_+3_+2__7_  5_+1_+3_+5_^__  +2_+4_+3_+2__7_ //]
+BEM[]
+
+DWOK42
+CUT[Kujawiaczek ja]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 68-69, Mąkolin]
+FKT[]
+SIG[42148500000]
+KEY[421485  08  C 3/4]
+MEL[557_+1_  +15+3_+17  557_+1_  +15+3_+17
+    553_4_  556_4_  553_4_  113_4_ //]
+BEM[wariant w takcie ostanim 113_41]
+
+DWOK42
+CUT[Kujawiak ci ja]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 69, od Płocka]
+FKT[]
+SIG[42148600000]
+KEY[421486  16  G 3/8]
+MEL[246_.5  432_+1_  246_.5  432_1_
+    2_2_.1  354_6_  243_.1  354_3_ //]
+BEM[]
+
+DWOK42
+CUT[Na Podlasiu powiadają]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 69, od Makowa]
+FKT[]
+SIG[42148700000]
+KEY[421487  08  A 3/4]
+MEL[(-5-6-7)1_3_  25-5_5_  (-5-6-7)1_3_  2-7-5_1_
+    555_5_  764_2_  321_5_  -5-72_1_ //]
+BEM[]
+
+DWOK42
+CUT[Oj, mąkolacy pyszni]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 70, Mąkolin]
+FKT[]
+SIG[42148800000]
+KEY[421488  08  A 3/4]
+MEL[5_5_5_  553_65  4_2_46  531_-7-5
+    -7_1_3_  246_53  2_1_3_  431_-7-5 //]
+BEM[]
+
+DWOK42
+CUT[Przyjechał panicz zza siedmiu granic]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 70, od Rożana]
+FKT[]
+SIG[42149000000]
+KEY[421490  08  A 2/4]
+MEL[5_35  542_  2_34#  5_1_
+    3_42  1_3_  -5_-6-7  1_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Cztery lata wierniem służył]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 71, Mąkolin]
+FKT[]
+SIG[42149100000]
+KEY[421491  08  G 3/4]
+MEL[113_3_  553_1_  553_1_  456_6_  5__.
+    425_.4  314_.3  234_6_  5__.
+    425_.4  314_.3  265_.-7  1__. //]
+BEM[]
+
+DWOK42
+CUT[Cztery lata wienie służył gospodarzowi]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 72, Czepielew]
+FKT[]
+SIG[42149200000]
+KEY[421492  08  G 3/4]
+MEL[554#_6_  5_.134  554#_6_  5__.
+    564_32  345_5_  456_-7_  1__. //]
+BEM[]
+
+DWOK42
+CUT[Ojciec umar, da, ja został]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 73, od Płocka]
+FKT[]
+SIG[42149600000]
+KEY[421496  08  G 3/4]
+MEL[-565_.4  352_-7_  -565_.4
+    352_2-7  -5-7-5_4_  332_2-7
+    -5-7-5_4_  332_-7_  -5_-5_-5_  -5_-5_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Nie do ciebie jadę]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 73]
+FKT[]
+SIG[42149800000]
+KEY[421498  08  A 3/4]
+MEL[4__4_  243_1_  5__5_
+    564_2_  4__4_  243_1_
+    2__-7_  -5-71_34  2__-7_  -5-7-6_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Parobeczku jaki taki]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 74, Mąkolin]
+FKT[]
+SIG[42150000000]
+KEY[421500  08  G 3/4]
+MEL[466_+1_  535_5_  466_+1_  531_1_
+    243_1_  -721_3_  243_-5_  -72-7_1_ //]
+BEM[wariant w takcie siódmym i ósmym: 643_-5_  353_4_]
+
+DWOK42
+CUT[Parobeczku jaki taki]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 74, od Bodzanowa]
+FKT[]
+SIG[42150100000]
+KEY[421501  08  G 3/4]
+MEL[5_5_54#  562_1_  3_3_43  -713_1_
+    3_32-7-5  -713_5_  3_32-7-5  -713_1_ //]
+BEM[wariant w takcie siódmym 3432-7-5]
+
+DWOK42
+CUT[Leciały gąseczki]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 75, od Płońska]
+FKT[]
+SIG[42150200000]
+KEY[421502  08  F 3/4]
+MEL[555_3_  564__  466_4_  575__
+    555_3_  564__  222_1_  231__ //]
+BEM[]
+
+DWOK42
+CUT[Ej, zasie, chłopie, zasie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 75, od Pułtuska]
+FKT[]
+SIG[42150300000]
+KEY[421503  08  A 3/4]
+MEL[265_42  (123)5_2_
+    265_42  (123)1_-7_  243452
+    (23b4)5_2_  243452  (123)1_-7_ //]
+BEM[]
+
+DWOK42
+CUT[Oj dana moja dana]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 76]
+FKT[]
+SIG[42150400000]
+KEY[421504  08  C 3/4]
+MEL[+4_+2_+4_  +3+1+2_5_  57+1_7_  6_5__
+    6_6_5_  57+1_+3_  +2+4+3_+1_  7_5__ //]
+BEM[]
+
+DWOK42
+CUT[By się wróciły]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 76, Przasnysz]
+FKT[]
+SIG[42150600000]
+KEY[421506  32  A 3/8]
+MEL[-5_1_1_-7_1__  2_1_-7__-6__  4___3__  3_2_2___
+    -5_1_1__1__  2_1_-7__-6__  -6___-7__  -7__1___
+    1_3_5__.3_  4_4_5__6__  -5_-7_2__.-7_  1__1_2_3__
+    1_3_5__.3_  4_.45__6__  -5_-7_2__.-7_  1__1___ //]
+BEM[wariant w takcie 10:4__6__5__6__, wariant w takcie12: 1__3__3__]
+
+DWOK42
+CUT[Moja Józiu, moje serce]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 77-78, Mąkolin]
+FKT[]
+SIG[42150700000]
+KEY[421507  08  G 2/4]
+MEL[3555  3555  6543  4_2_
+    2444  2444  6552  3_1_
+    +1_+1_  111_  6+16+1  111_ //]
+BEM[]
+
+DWOK42
+CUT[A mój księżulu]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 78, Walc. Mąkolin]
+FKT[]
+SIG[42150800000]
+KEY[421508  04  C 3/4]
+MEL[57+2  +4_7  +1+3+6  +5_+5
+    57+2  +4_7  +1+2+3  +1_+1 //]
+BEM[]
+
+DWOK42
+CUT[Jedna dziewcyna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 79, od Przasnysza]
+FKT[]
+SIG[42151100000]
+KEY[421511  08  G 3/8]
+MEL[543  2_1  343  543
+    2_1  -7-5_  -5-71  2_1
+    343  543  2_1  -7-5_ //]
+BEM[]
+
+DWOK42
+CUT[Parobecku, wstańze do dnia]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 79-80, od Serocka]
+FKT[]
+SIG[42151300000]
+KEY[421513  08  C 3/4]
+MEL[57+1_+3_  +5+3+5_+5_  +5+3+5_+5_  +5+3+5_+5_
+    +3+55_.7  +1+1+3_+1_  +3+55_.7  +16+1_5_ //]
+BEM[wariant w takcie 5 i 6: +5+55_.7  +1+1+3_+3_]
+
+DWOK42
+CUT[O, bracia opryszki]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 80, Przasnysz]
+FKT[]
+SIG[42151400000]
+KEY[421514  16  C 4/4]
+MEL[5__+1_+2_+3__+4_+3_  +2__+3_+2_+1__5_3_
+    5__+1_+2_+3__+5_+5_  +5_+4_+2__0___  5__+1_+2_+3__+1_6_
+    6__7+1+3_+6_+3_+4_+2_  +1__+1_+3_+5_+5_7_+2_  +1__0__0___ //]
+BEM[wariant w takcie 5: 5__+1_+2_+3__+176_]
+
+DWOK42
+CUT[A za lasem moje bydło]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 81-82]
+FKT[]
+SIG[42151700000]
+KEY[421517  08  G 3/4]
+MEL[135_5_  531_3_  4_6_2_
+    -724_4_  42-7_2_  2_4_5_
+    -724_4_  42-7_2_  2_3_1_ //]
+BEM[]
+
+DWOK42
+CUT[W olsynie ja wołki pasła]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 82]
+FKT[]
+SIG[42151800000]
+KEY[421518  16  A 2/4]
+MEL[1_3b_5_5_  4_4_5_3b2  1_3b_5_5_  4_6b_5_3b2
+    4_3b21_1_  -7_-7_1_23b  4_3b21_1_  -7_-7_1_-5_ //]
+BEM[]
+
+DWOK42
+CUT[W olsynie ja wołki pasła]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 82, Mąkolin]
+FKT[]
+SIG[42151900000]
+KEY[421519  08  C 3/4]
+MEL[5+1+1_+1_  +1+3+1_+17  5_7_7_  57+27+1_
+    55+1_+1_  +1+3+1_+17  5_5_67  +1__0_ //]
+BEM[wariant w takcie 3:5_5_5_]
+
+DWOK42
+CUT[Wołki moje]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 83, Czepielew]
+FKT[]
+SIG[42152000000]
+KEY[421520  16  C 3/4]
+MEL[+1_+3_+5__+5__  +4#_+5_+4#_+2_+3_+2_  +1_+3_+5___  +1_+3_+5__+5__
+    +4#_+5_+4#_+2_+3_+2_  5_7_+1___  +1__+2+3_.+2+3_.  +2___5__
+    7_+2_+4__+3_+2_  +1_.+2+3_.+2+3__  +2___5__  7_+2_+1___ //]
+BEM[wariant w takcie 5: +4#_+5_+4#_+2_+3_+5_]
+
+DWOK42
+CUT[A już ci to tydziń minąn]
+REG[]
+TRD[DWOK42 Mazowsze 7, s. 83]
+FKT[]
+SIG[42152100000]
+KEY[421521  08  F 3/4]
+MEL[135_+2+1  77+1_64
+    531_+1_  6+13_4_  5_3_46
+    5_3_42  135_+17  6+13_4_ //]
+BEM[wariant w takcie 3: 531_+17]
+
+DWOK42
+CUT[Jałoszeczka rozkosna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 83-84, Mąkolin]
+FKT[]
+SIG[42152200000]
+KEY[421522  08  C 3/4]
+MEL[57+1_+3+4  +5+5+6_+5_  +5+5+6_+5_  +1+2+3_+5+4
+    +4_+275_  57+1_+3+2  +1_+1_+3+2  57+1_+3+2  +1_+175_ //]
+BEM[wariant w takcie 1-3: +1+2+3_+3+4  +5+5+6_+5+4  +5+5+6_+5+4]
+
+DWOK42
+CUT[Chudego Jasiu konia masz]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 84, od Makowa]
+FKT[]
+SIG[42152300000]
+KEY[421523  08  A 3/4]
+MEL[3b54#_5_  214#_1_
+    3b54#_5_  3b2-7_1_  3b3b2_4_
+    214_1_  3b3b2_4_  3b2-7_1_ //]
+BEM[]
+
+DWOK42
+CUT[A tam pod Kosinem]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 84, Kosino]
+FKT[]
+SIG[42152400000]
+KEY[421524  16  C 2/4]
+MEL[5_7_7_6_  6_+2__+1_  7_6_5_7_  +1_+3__+5_
+    5_7_7_6_  +2_+2__+1_  7_6_5_7_  +1_+1__. //]
+BEM[warint w takcie 7: 7_6_5_67]
+
+DWOK42
+CUT[A źle orzesz]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 86, od Makowa]
+FKT[]
+SIG[42152700000]
+KEY[421527  08  B 3/4]
+MEL[24#1_-7_  13b5_52  4#_1_-7_  -6b-4-5__
+    -5-71_3b_  254#_2_  3b12_-7_  -6b-4-5__ //]
+BEM[]
+
+DWOK42
+CUT[Wielka szkoda com się upił]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 88-89, od Ostrowa]
+FKT[]
+SIG[42153300000]
+KEY[421533  08  G 3/4]
+MEL[356_2_  465_1_  356_4_  -5-5-7_1_
+    332_4_  552_1_  332_4_  -5-5-7_1_ //]
+BEM[]
+
+DWOK42
+CUT[Przeskoczyła przez piec]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 91]
+FKT[]
+SIG[42154100001]
+KEY[421541  16  G 3/8]
+MEL[123_4_  5__67  +1_7_6_  5__67
+    +1_7_6_  5__3_  4_2_4_  3_1_3_  2_4_2-7
+    135__  4_2_4_  3_1_3_  2_4_2-7  1__1_ //]
+BEM[]
+
+DWOK42
+CUT[Przeskoczyła przez piec]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 91]
+FKT[]
+SIG[42154100002]
+KEY[421541  16  G 3/8]
+MEL[123_4_  5__67  +1+17_6_  5__67
+    +1+17_6_  5__3_  4_2_4_  3_1_3_  234_2-7
+    135__  4_2_4_  3_1_3_  234_2-7  1__1_ //]
+BEM[]
+
+DWOK42
+CUT[Nabrałam ja perkaliku]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 91-92, Mąkolin]
+FKT[]
+SIG[42154200000]
+KEY[421542  08  A 3/4]
+MEL[135_5_  521_3_  332_2_
+    4_2_-7_  121__  135_5_
+    521_3_  4_2_-7_  131__
+    123_3_  331_3_  4_2_-7_  131__ //]
+BEM[]
+
+DWOK42
+CUT[Tego roku, tej jesieni]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 93-94, od Bodzanowa]
+FKT[]
+SIG[42155100001]
+KEY[421551  16  G 3/4]
+MEL[4_6_6__+1__  5_3_5__4_2_  4_6_6__+1__
+    5_3_5_6_4_2_  1__3__2_4_  6_5_3__2_-7_
+    1_2_3__2_4_  3_-5_1__1__  1__3__2_4_
+    6_5_3__2_-7_  1_2_3__2_4_  5_3_5__4_2_ //]
+BEM[]
+
+DWOK42
+CUT[Tego roku, tej jesieni]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 93-94, od Bodzanowa]
+FKT[]
+SIG[42155100002]
+KEY[421551  16  G 3/4]
+MEL[4_6_6__+1__  5_3_5__4_2_  4_6_6__+1__
+    +1_7_5_6_4_2_  1_2_3__2_4_  6_(565)3__2_-7_
+    1_2_3__2_4_  3_2_1__1__  1_2_3__2_4_
+    6_(565)3__2_-7_  1_2_3__2_4_  5_3_5__4_2_ //]
+BEM[]
+
+DWOK42
+CUT[Kura ciele ma, matulu]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 96, Dialog gęsi i kaczki]
+FKT[]
+SIG[42156000010]
+KEY[421560  16  C 3/8]
+MEL[557_7_  +1+1+3_+3_  +4+4+2_+2_  +1+1+3_+3_
+    557_7_  +1_+1_+1_  557_7_  +1__. //]
+BEM[]
+
+DWOK42
+CUT[A ja jesce nie słysała]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 96, Dialog gęsi z kaczką]
+FKT[]
+SIG[42156000020]
+KEY[421560  16  G 3/8]
+MEL[-5-5-7_-7_  113_3_  442_2_  113_3_
+    -5-5-7_-7_  1_1_1_  -5-5-7_-7_  1__. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 96]
+FKT[]
+SIG[42156000030]
+KEY[421560  32  G 3/8]
+MEL[234_5_6_7_6_  5_426__2__
+    234_5_6_7_6_  5_4321-7_-5__
+    ^_345_3_4_6_  5_4321-7_-5__
+    ^_345_3_4_2_  1_3_2_-7_-5__ //]
+BEM[]
+
+DWOK42
+CUT[Oj hulał ci ja]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 97, od Sierpca]
+FKT[]
+SIG[42156200000]
+KEY[421562  08  C 3/4]
+MEL[+3_+5_+5_  +6+5+4_+3_  +5+5+4_+3_  +1_6_5_
+    5_+2_.7  +1+3+2_+4_  +3+5+4_+3_  +1_6_5_ //]
+BEM[]
+
+DWOK42
+CUT[Jakem była młodą panną]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 97, Płock]
+FKT[]
+SIG[42156300000]
+KEY[421563  32  A 3/8]
+MEL[1_3b_5__+1__  6b_5_4__.1_  3b_2_4__3b__  1_-7_1___
+    -5_-7_2__5__  5_43b2__.1_  3b_2_4__3b__  1_-7_1___ //]
+BEM[wariant w takcie 3: 3b_2_4__3b_2_, wariant w takcie 7: 3b24__3b_2_]
+
+DWOK42
+CUT[Miała baba Michała]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 98, Mąkolin]
+FKT[]
+SIG[42156400000]
+KEY[421564  08  G 3/4]
+MEL[-72-7_-5_  1_1_1_  -72-7_-5_  1_1_1_
+    123_.1  -6_-6_-6_  -712_.-7  -5_-5_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Kot koteckę okalicył]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 98, Mąkolin]
+FKT[]
+SIG[42156500000]
+KEY[421565  08 Bb 3/4]
+MEL[135_5_  524_4_  531_2_  -5-5-7_1_
+    131_2_  134_4_  531_2_  -5-71_-5_ //]
+BEM[wariant w takcie 4: -5-71_1_]
+
+DWOK42
+CUT[Oj juzem był oj juzem był]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 98-99, od Bodzanowa]
+FKT[]
+SIG[42156600011]
+KEY[421566  16  G 3/4]
+MEL[2_4_6__+1__  5__3__5_4_  2_4_6__+1__
+    5__3__1_-7_  2_4_4__2_4_  6_5_3__5_4_
+    2_4_4__2_4_  6_5_3__1_-7_ //]
+BEM[]
+
+DWOK42
+CUT[Oj juzem był oj juzem był]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 98-99, od Bodzanowa]
+FKT[]
+SIG[42156600012]
+KEY[421566  16  G 3/4]
+MEL[2_4_6__+1_6_  (5_6_5_)3__5_4_  2_4_6__+1_6_
+    (5_6_5_)3__1_-7_  2_4_4__2_4_  6_(565)3__5_4_
+    2_4_4__2_4_  6_(565)3__1_-7_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 99, od Bodzanowa]
+FKT[]
+SIG[42156600020]
+KEY[421566  08  G 3/4]
+MEL[-5-7-7_-5-7  1-6-4_-4_  -5-7-7_-5-7  1-6-4_-2_
+    -5-7-7_-5-7  1-6-4_-4_  -5-7-7_-5-7  1-6-4_-2_ //]
+BEM[]
+
+DWOK42
+CUT[Płacz, płacz kto żyw]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 100, Płockie]
+FKT[]
+SIG[42157000000]
+KEY[421570  08  A 4/4]
+MEL[1_3b_4_2_  1_3b_4_2_
+    5_5_4_4_  3b_3b_2__  1_2_3b_2_
+    3b_4_5__  4_4_3b_2_  2__1__ //]
+BEM[wariant w takcie 1: 1_3b_43b2_]
+
+DWOK42
+CUT[Wesoły ja parobeczek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 101, Mąkolin]
+FKT[]
+SIG[42157100000]
+KEY[421571  08  C 3/4]
+MEL[+1_.5+1+3  +5+5+4_+2_  +2+2+2_+4+6  +5+4+5_+4_
+    +3_.+2+3+4  +3+2+1_6_  666_+2_  57+1_5_ //]
+BEM[]
+
+DWOK42
+CUT[A wiecorem w miłym chłodzie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 101, od Bodzanowa]
+FKT[]
+SIG[42157200000]
+KEY[421572  08  C 3/4]
+MEL[55+4_+4_  +3+3+1_+1_  +1+2+3_+4_  +2+27_5_
+    +1+16_+1_  5_+4_.+3  +2+17_+2_  5_+1__ //]
+BEM[wariant w takcie 5: +1+16_+17]
+
+DWOK42
+CUT[Kiedy ja był chłopcem]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 102, Od Mławy i Janowa]
+FKT[]
+SIG[42157300000]
+KEY[421573  08  G 3/4]
+MEL[564_2_  3__1_  -724_6_  5__3_
+    654_2_  3__1_  -72-5_-7_  1__1_
+    2-7-5_-5_  123_35  234_6_  5__3_
+    654_2_  3__1_  -72-5_-7_  1__1_ //]
+BEM[]
+
+DWOK42
+CUT[Słońce nie weszło]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 103, Mąkolin]
+FKT[]
+SIG[42157400000]
+KEY[421574  08  F 4/4]
+MEL[3_553_1_  44644_2_
+    -7222-7_-5_  33553_1_
+    2_42-7_-5_  12345_.4
+    34565_.4  33221_1_ //]
+BEM[wariant w takcie 2: 4464422_, wariant w takcie 4: 3_553_1_]
+
+DWOK42
+CUT[Chciało się Zosi Jagódek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 104, od Mławy]
+FKT[]
+SIG[42157500000]
+KEY[421575  08 Eb 6/8]
+MEL[1-513_1  2_31_0
+    1-513_1  4_32_0  2223_3
+    4_65_0  5643_2  1_-51_0 //]
+BEM[]
+
+DWOK42
+CUT[Chciało się Zosi jagódek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s 104, od Płocka]
+FKT[]
+SIG[42157600000]
+KEY[421576  16  C 6/8]
+MEL[+1_5_+1_+3__+1_  +2__+27+1__0_  +1_5_+1_+3__+1_
+    +2__+27+1__0_  +1_5_+1_+3__+1_  +4__+3_+2__0_
+    +3_+3_+3_+2__+3+4  +5__+5_+3__0_  +3_+3_+3_+2__+2_  +3__+2_+1__0_ //]
+BEM[]
+
+DWOK42
+CUT[Trzeba się kochać]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 104, Kosino]
+FKT[]
+SIG[42157700000]
+KEY[421577  08  G 4/4]
+MEL[05135_.5  5_653_.1
+    03542_.2  2_431_1_ //]
+BEM[]
+
+DWOK42
+CUT[Czerwone gwoździki]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 105, od Przasnysza]
+FKT[]
+SIG[42157800000]
+KEY[421578  08  F 4/4]
+MEL[1111+1_.5  6567+1_5_
+    5_+176_.5  654-72_10
+    3_345_.5  654-72_10
+    3_345_.5  64345_.5
+    55+176_.5  654-72_10 //]
+BEM[warint w takcie 2: 6567+155_, wariant w takcie 3: 55+176_.5, wariant w takcie 5:32345_.5]
+
+DWOK42
+CUT[Astrologowie, co gwiazdy licycie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 106, od Płocka]
+FKT[]
+SIG[42157900001]
+KEY[421579  08  A 4/4]
+MEL[123b15_(43b2)  123b-71_-5_
+    3b_53b7b_.6b  5443b5_(43b2)
+    1_3b15_(43b2)  123b-71_1_ //]
+BEM[]
+
+DWOK42
+CUT[Astrologowie co gwiazdy licycie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 106, od Płocka]
+FKT[]
+SIG[42157900002]
+KEY[421579  08  A 4/4]
+MEL[123b15_(43b2)  123b-71_1_
+    3b_53b7b_.6b  5443b5_(43b2)
+    123b15_(43b2)  123b-71_1_ //]
+BEM[]
+
+DWOK42
+CUT[Dnia pewnego dla rozrywki]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 107, od Bodzanowa]
+FKT[]
+SIG[42158000000]
+KEY[421580  08  G 4/4]
+MEL[-5_-5_-7_1_  3b_.543b2-7  -5_-5_-7_1_
+    2_.3b1_0_  -5_-5_-7_1_  3b_.543b21
+    53b21-7_1_  2_.3b1_0_  3b_3b_4_4_
+    -7b_-7b_6b_.5  3b_3b_2_3b_  5_.6b4_0_
+    53b21-7_1_  3b_.243b21  53b21-7_1_  2_.3b1_0_ //]
+BEM[]
+
+DWOK42
+CUT[Już się wiosna rozpoczyna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 107, od Bodzanowa]
+FKT[]
+SIG[42158100000]
+KEY[421581  16  G 3/4]
+MEL[5_.31_1_6_.5  5_4_2__0__
+    2_-7_-5_6_5_4_  4_3_3__0__  3_4_5_5_6_7_
+    +1_6_4__0__  5_5_6_5_4_-7_  2_1_1__0__ //]
+BEM[]
+
+DWOK42
+CUT[Pastereczka swit spostrzega]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 108, Kosino]
+FKT[]
+SIG[42158200000]
+KEY[421582  08  G 3/4]
+MEL[1-71_3_  1-51_3_  1-71234
+    5__3_  432_4_  321_1_
+    21-7-565  5__3_  315__
+    2-75__  21-725-7  131__ //]
+BEM[]
+
+DWOK42
+CUT[Siałem proso na zagonie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 109, od Przasnysza]
+FKT[]
+SIG[42158300000]
+KEY[421583  08  B 3/4]
+MEL[556b_.5  4#53b_21  -725_.-7
+    1_0_0_  55+1_.5  6b54#5(3b21)
+    -725_.-7  1_0_0_  3b3b4_.3b  247b__
+    3b3b4_.3b  247b__  +1+1+1_.5
+    7b_.6b54  5_.-7-7-7  1_0_0_ //]
+BEM[wariant w takcie 4, 8, 15: 1_1_0_]
+
+DWOK42
+CUT[Potok płynie doliną]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 110, od Płocka]
+FKT[]
+SIG[42158400001]
+KEY[421584  16  A 3/4]
+MEL[3b_5_+1__.5_  4_3b_2__1__  3b_5_+1__.5_  4_4_5___
+    1_3b_5__.2_  43b21-7__-5__  2_-7_-5__.3b_  2_1_-7___ //]
+BEM[]
+
+DWOK42
+CUT[Potok płynie doliną]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 110, od Płocka]
+FKT[]
+SIG[42158400002]
+KEY[421584  16  A 3/4]
+MEL[3b_5_+1__.5_  4_3b_2__1__  3b_5_+1__.5_  4_4_5___
+    3b_3b_5__.2_  43b21-7__-5__  2_-7_-5__.3b_  43b21-7___ //]
+BEM[]
+
+DWOK42
+CUT[Stasio mnie przywióz]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 110, od Płocka]
+FKT[]
+SIG[42158500000]
+KEY[421585  08  G 6/8]
+MEL[-533355  5434_2
+    -72224-7  2100_0  466+176
+    655+133  56554-7  2100_0 //]
+BEM[]
+
+DWOK42
+CUT[Idąc ja w pole]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 588, od Bodzanowa]
+FKT[]
+SIG[42158800000]
+KEY[421588  16  G 4/4]
+MEL[5__4_.21__-6__  1_.13_.1-6__-5__
+    1_2_3_.32__6__  5_.54_.21__1__ //]
+BEM[wariant w takcie 4: 5_.56_.43__1__]
+
+DWOK42
+CUT[O, kocham cię nad me życie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 113, od Przasnysza]
+FKT[]
+SIG[42158900000]
+KEY[421589  08  F 3/4]
+MEL[111_3_  567_+1_  +2_.7+16  5__2_
+    35+1_+1_  624_6_  65-7_-7_  1__1_
+    123_-5_  123_-5_  1-71_3_  6_5__
+    -5-54_4_  323_1_  -7-7-6_-7_  2_1__ //]
+BEM[wariant w takcie 11: 1-71_34]
+
+DWOK42
+CUT[Ten panienki szuka ładnej]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 114]
+FKT[]
+SIG[42159000000]
+KEY[421590  08  C 4/4]
+MEL[5+1+1+1+1+2+3+1  +2+2+2+2+2+3+4+2
+    +1+1+1+1+1+2+3+1  +4+3+2+17+1+27
+    +4_.+27_7_  +1_+3_+5_.+3  +4_+2_+3_+1_  +2_5_+1_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Już mi minęło szesnaście latek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 115, od Płocka]
+FKT[]
+SIG[42159100000]
+KEY[421591  16  C 3/8]
+MEL[+1_+1_.+3  +5_+4__  +2_7_.+2  +4_+3__
+    +1_+1_.+3  +5_+4__  +2_7_.+2  +2_+1__
+    5+3+1_+1_  5+3+1_+1_  +4__+3_  +2__+1_
+    7+27_+1_  7+27_+1_  +3__+2_  +1__0_ //]
+BEM[]
+
+DWOK42
+CUT[Czy pamiętasz Kasiu droga]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 116, od Płocka]
+FKT[]
+SIG[42159200001]
+KEY[421592  16  G 3/8]
+MEL[354#_5_  653_3_  2-7-5_43  123_3_
+    432_5_  1__0_  354#_5_  653_3_
+    2-7-5_43  123_3_  432_5_  1__0_ //]
+BEM[]
+
+DWOK42
+CUT[Czy pamiętasz Kasiu droga]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 116, od Płocka]
+FKT[]
+SIG[42159200002]
+KEY[421592  16  G 3/8]
+MEL[554#_5_  654#_5_  2-7-5_43  123_3_
+    432_5_  1__0_  554#_5_  654#_5_
+    2-7-5_43  123_3_  432_5_  1__0_ //]
+BEM[]
+
+DWOK42
+CUT[A ty ptasku w lasku]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 116, od Płocka]
+FKT[]
+SIG[42159300000]
+KEY[421593  08  C 4/4]
+MEL[35+1+1+1_.5  35+1+1+177_
+    57+2+2+2_.5  55655+1+1_
+    35+1+2+3_.+2  +17+16466_
+    55555_.5  5567+2+1+1_
+    35+1+2+3_.+2  +17+16466_
+    55555_.5  55+47+2+1+1_ //]
+BEM[]
+
+DWOK42
+CUT[Ja nieszczęśliwa com się zawiodła]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 117, od Płocka]
+FKT[]
+SIG[42159400000]
+KEY[421594  16  C 6/8]
+MEL[+1_7_+1_+2__+17  6_7_+1_5__43
+    2_3_4_6__4_  6_5_4_4__3_  1_3_3_5__43
+    2_4_4_6__5_  5_+4_+2_+1__+1_  5_6_7_+1__+1_ //]
+BEM[]
+
+DWOK42
+CUT[Moja dziewczyno bywaj mi zdrowa]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 118, od Bodzanowa]
+FKT[]
+SIG[42159500001]
+KEY[421595  08  F 4/4]
+MEL[1_31+1_76  5_543_21
+    2_-724_.2  3_5_1_0_
+    2_-724_.6  5_421_.3
+    2_-724_.2  3_5_1_0_ //]
+BEM[Melodia dworska, znana też między ludem]
+
+DWOK42
+CUT[Moja dziewczyno bywaj mi zdrowa]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 118, od Bodzanowa]
+FKT[]
+SIG[42159500002]
+KEY[421595  08  F 4/4]
+MEL[1_31+1_76  56543_21
+    21-724_.2  34531_0_
+    21-724_.6  53421_.3
+    21-724_.2  3_5_1_0_ //]
+BEM[Melodia dworska, znana też między ludem]
+
+DWOK42
+CUT[Już noc swym płaszczem ziemię pokrywa]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 119, od Pułtuska]
+FKT[]
+SIG[42159600000]
+KEY[421596  08  A 6/8]
+MEL[5556b_5  4445_3b
+    3b215_3b  5_55_0  -5-725_4
+    3b215_-5  -5-725_4  3b_21_0 //]
+BEM[]
+
+DWOK42
+CUT[Ciągłe niepokoje dręczą serce moje]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 120, od Raciąża i Ciechanowa]
+FKT[]
+SIG[42159700000]
+KEY[421597  08  B 3/4]
+MEL[-1-2-3b_.-4  -6b_-5__  -2-2-4_.-3b
+    -2_-1__  -1-2-3b_-4_  -6b_-5__  -5-51_.-5
+    -7b_-6b__  -6b-6b2_.-6b  -4-3b(-2-4-6b)-5_
+    -1-1-3b_.-2  -1__.
+    -6b-6b2_.-6b  -4-3b(-2-4-6b)-5_
+    -1-1-3b-2-5--7  -1__. //]
+BEM[]
+
+DWOK42
+CUT[Tam przy dolinie, tam przy strumieńku]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 121, Chełchy]
+FKT[]
+SIG[42159900000]
+KEY[421599  16  A 4/4]
+MEL[1__3b_57b4__3b__  1__2_3b_1__-7__  1__3b_57b4__3b__
+    2__2__1___  1__3b_5_7b__5__  +1_6b_4_6b_5_3b_1__
+    7b__4_5_1__3b__  2__2__1___  1__3b_5_7b__5__
+    +1_6b_4_6b_5__3b__  6b__4_4_1__3b__  2__2__1___ //]
+BEM[]
+
+DWOK42
+CUT[Już miesiąc]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 122, od Mławy i Sierpca]
+FKT[]
+SIG[42160000000]
+KEY[421600  08  G 4/4]
+MEL[3_425_3_  56543_2_
+    3_425_3_  1_2_1__  2_543+176
+    5654322_  3_425_.3  1_2_1__ //]
+BEM[wariant w takcie 2: 5654322_]
+
+DWOK42
+CUT[Kukaweczka w lesie kuka]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 122, Andrzejewo]
+FKT[]
+SIG[42160100000]
+KEY[421601  16  G 3/8]
+MEL[-5-5-5_-5_  111_1_  244_6_  5__5_
+    -5-5-5_-5_  111_1_  244_6_  5__5_
+    5_5_.4  32(432)31  -7254#5-7  2_1_0_ //]
+BEM[wariant w takcie 3 i 7: 444_6_. wariant w ostatnim takcie: 211_0_]
+
+DWOK42
+CUT[Co to za wiosna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 123, Płock]
+FKT[]
+SIG[42160200000]
+KEY[421602  16  D 3/8]
+MEL[3_5_.4#  5_6__  +17+1_+3_  +2_5__
+    3_5_.4#  5_6__  +17+1_+3_  +2_5__
+    3_3_.4  3_3__  5_7_.+2  +4__+3_
+    +2_+1_.6  5_3__  354_.2  2_1__ //]
+BEM[wariant w takcie 2 i 6: 5_+1__]
+
+DWOK42
+CUT[Pijmy zdrowie gospodarza]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 123-124, od Płocka]
+FKT[]
+SIG[42160300000]
+KEY[421603  16  F 3/8]
+MEL[123_4_  553_1_  553_1_
+    46+176_  553_+1_  46+176_
+    553_+1_  446_.4  335_3_
+    222_2_  1354#65  446_.4
+    335_3_  22432_  113_1_ //]
+BEM[]
+
+DWOK42
+CUT[Wiwat dziś gospodarzowi]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 124]
+FKT[]
+SIG[42160400000]
+KEY[421604  08 Bb 6/8]
+MEL[3_53_5  543321
+    3_5-5_4  42-71_1  2_42_4
+    254321  3_5-5_4  42-71_1 //]
+BEM[]
+
+DWOK42
+CUT[Mówią że tam na Podolu]
+REG[]
+TRD[DWOK42, Mazowsze 7, s, 124-125, Płock]
+FKT[]
+SIG[42160500000]
+KEY[421605  16  G 3/8]
+MEL[345_+1_  7_.242  345_+1_
+    7_.242  5_.342  123_3_
+    234_4_  345_5_  5_.342
+    123_3_  345_1_  3_.211 //]
+BEM[]
+
+DWOK42
+CUT[A ja Mazur rodowity]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 125, Płock]
+FKT[]
+SIG[42160600000]
+KEY[421606  32  F 3/8]
+MEL[1_3_5__3__  5_.16__5__  5_5_4__2__  6__5___
+    1_3_5__5__  5_.16__5__  5_5_-7__-7__  2__1___
+    5__.+1_+1_+1_  +1_3_6__5__  5_5_4__2__  6__5___
+    5_7_+2__+2__  +3__.+1_5_3_  5_5_-7__-7__  2__1___ //]
+BEM[]
+
+DWOK42
+CUT[Grunta się stykają]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 607, Mąkolin]
+FKT[]
+SIG[42160700001]
+KEY[421607  08  G 2/4]
+MEL[1356  4_5_  5+1+17  5_+1_
+    1356  4_5_  3b3b22  1_1_ //]
+BEM[]
+
+DWOK42
+CUT[Grunta się stykają]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 126, Mąkolin]
+FKT[]
+SIG[42160700002]
+KEY[421607  08  G 2/4]
+MEL[1356  4_5_  5+1+17  75+1_
+    1356  4_54  3b3b22  1_1_ //]
+BEM[]
+
+DWOK42
+CUT[Miłości o niebiosa]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 128, Kosino]
+FKT[]
+SIG[42161100000]
+KEY[421611  08  G 6/8]
+MEL[3_11_1  443432
+    21-7-7_-7  5_5542  135+1_7
+    +1766_6  2346_5  5421_1 //]
+BEM[]
+
+DWOK42
+CUT[Dla mojego losu]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 129, od Wyszogrodu]
+FKT[]
+SIG[42161200000]
+KEY[421612  16  D 3/4]
+MEL[135__5_5_5_  5+1+3__+2_+1_+1_
+    +224__4_4_4_  246__2_4_3_
+    135__2_4_4_  135__2_4_4_
+    35+1__+1_5_3_  246__-7_2_1_ //]
+BEM[]
+
+DWOK42
+CUT[O wiosno wiosno nie mogę cię pojąć]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 129-130, od Sierpca]
+FKT[]
+SIG[42161300000]
+KEY[421613  08  G 4/4]
+MEL[3_445_.3  56543_2_  3_445_.1
+    2_2_1__  2_543+176  56543_2_
+    1_345+164  2_2_3__  2_543+176
+    56543_2_  -5_135_.-7  2_2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Kozak, Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 133, od Płocka]
+FKT[]
+SIG[42161400000]
+KEY[421614  16 Bb 2/4]
+MEL[5__5__  5__5__  5_.34_24  3_5_6531
+    3_5_3_5_  3_5_6531  2_.43_1_  -7_-7_-6_-5_
+    -7_2-71_31  -7_-7_-6_-5_  -7-72-71131  -7_-7_-6_-5_
+    -7_2-71_31  -7_-7_-6_-5_  -7-72-71131  -7_-7_-6_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 133, od Zakroczymia]
+FKT[]
+SIG[42161500000]
+KEY[421615  16  C 2/4]
+MEL[5__+1__  5_5_6__  5_5_+1_+1_  5_5_6__
+    5_5_+1_+1_  5_5_6_6_  5_7+2+1_+1_  5_5_6__ //]
+BEM[]
+
+DWOK42
+CUT[Kozak-Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 616, od Płocka]
+FKT[]
+SIG[42161600001]
+KEY[421616  16  G 2/4]
+MEL[1__3__  1_345_5_  1__4__  1_456_6_
+    1__3__  1_345_5_  5_+4_+2_.7  5_67+1__
+    5_+4_+2_.7  +17+1+2+3_+1_  5_+4_+2_.7  5_67+1__
+    5_+4_+2_.7  +17+1+2+3_+1_  5_+4_+2_.7  5_67+1_7+1 //]
+BEM[]
+
+DWOK42
+CUT[Kozak-Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 616, od Płocka]
+FKT[]
+SIG[42161600002]
+KEY[421616  16  G 2/4]
+MEL[1__3_23  1_345_5_  1__4_34  1_456_6_
+    1__3_23  1_345_5_  5_+4_+2_.7  5_67+1_+1_
+    5_+4_+2_.7  +17+1+2+3_+1_  5_+4_+2_.7  5_67+1__
+    5_+4_+2_.7  +17+1+2+3_+1_  5_+4_+2_.7  5_67+1_7+1 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 134, od Bodzanowa]
+FKT[]
+SIG[42161700000]
+KEY[421617  16  A 2/4]
+MEL[1_3__4_  5_5_5_5_  6_5_424_  3_3__.
+    3_3_2__  2_1__1_  -7_2_4_-7_  2_1__1_
+    -5_-7__2_  -5_1__3_  4_432__  4_3__3_
+    3_3_2__  2_1__1_  1-72_4_.-7  2_1__1_ //]
+BEM[wariant w takciw 4: 3_1__., wariant w takcie 12: 5_3__3_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 134, od Przasnysza]
+FKT[]
+SIG[42161800000]
+KEY[421618  08  G 2/4]
+MEL[1113  5_.7  +1+172  6_.5  +1+172
+    6_.5  554-7  1_.3  654-7  1_.1 //]
+BEM[wariant w takcie 5: (+1+3+1)72]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. Płock, Piotrków]
+FKT[]
+SIG[42161900000]
+KEY[421619  08  G 2/4]
+MEL[311-6  -51_.  2255  3__
+    311-6  -51_.  225-7  1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 135, od Sierpca]
+FKT[]
+SIG[42162000000]
+KEY[421620  16  C 2/4]
+MEL[5_+1_+1_+1_  7_+2__.  5_+1_+1_.+1  7_+2__.
+    +3_+1_+1_.6  5_3__3_  2_4_6_.4  3_5__+1_
+    +3_+1_7_.6  5_3__3_  2_4_3_2_  1_1__. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 135, Mierzęcin]
+FKT[]
+SIG[42162100000]
+KEY[421621  16  G 2/4]
+MEL[2_1_2_3_  4_3_1__  6_5_6_7_  +1_7_5__
+    7_6_421_  3_4_5__  7_6_421_  3_4_2__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 135, Mąkolin]
+FKT[]
+SIG[42162200000]
+KEY[421622  16  G 2/4]
+MEL[-5_-7_2_-7_  -5_1__3_  4_432__  4_3__3_
+    3_3_2__  2_1__1_  -7_2_4_-7_  2_1__1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 136, od Płocka]
+FKT[]
+SIG[42162300000]
+KEY[421623  16  C 2/4]
+MEL[5_+1_+2_+1_  7_+2__5_  5_+1_+2_+1_  7_+2__.
+    +3_+1_7_.6  5_3__3_  2_4_6_.4  3_5__.
+    +3_+1_7_.6  5_3__3_  2_4_6_.4  3_1__. //]
+BEM[wariant w takcie 6: 5_3__2_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 136, od Płocka]
+FKT[]
+SIG[42162400000]
+KEY[421624  16  A 2/4]
+MEL[3b_3b_5_5_  4_4_2__  3b_3b_5_5_  4_3b45__
+    1_1_13b53b  2_1_-7__  -5-7-7_-5-72_  1_3b_1__ //]
+BEM[]
+
+DWOK42
+CUT[Ożenił się stary z młodą]
+REG[]
+TRD[DWOK42, Mazowsze 7,s. 136, Mierzęcin]
+FKT[]
+SIG[42162500000]
+KEY[421625  16  C 2/4]
+MEL[+1_.+2+3_+3_  +2_.55_5_  +1___  +1_+1_+1_.+3
+    +5_+5_+4_+2_  +2_+2_+5__  +3_+1_+1_+2_  +3_+3_+2_5_  3_5_+1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 136]
+FKT[]
+SIG[42162600000]
+KEY[421626  16  C 2/4]
+MEL[+1_+3+5+27+2+4  +3+1+3+5+27+2+4  +3+1+3+5+27+2+4
+    +3+1+3+5+2__  +1_+1+35_7+2  +2+1765_67
+    +1_+1+35_7+2  +1_765_67 //]
+BEM[]
+
+DWOK42
+CUT[Żydowski-Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 137, od Płocka, Kosino]
+FKT[]
+SIG[42162700010]
+KEY[421627  16  G 2/4]
+MEL[2_5_4#_6_  23b2123b21  2_5_4#_6_  3b__2__
+    2_5_4#_6_  23b2123b21  2_5_4#_6_  3b__2__
+    23b2123b21  2_3b_3b21_  -7_-7_-7_-6-7  1_1_3b21_
+    23b2123b21  2_3b_3b21_  -7_-7_-7_-6-7  1_1_3b21_
+    7+1_.23b_.  7+1_.3b__  3b_21-7_-5_  -1_-2_-3b_-4_  -5__-5__
+    7+1_.23b_.  7+1_.3b__  3b_21-7_-5_  -1_-2_-3b_-4_  -5__-5__ //]
+BEM[]
+
+DWOK42
+CUT[Prędki w koło-Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 137, od Płocka, Kosino]
+FKT[]
+SIG[42162700020]
+KEY[421627  16  G 3/8]
+MEL[-7123b21  2_-7_1_  -5123b21  2_-7_1_
+    -7123b21  2_4#_5_  43b3b_21  2_-7_1_ //]
+BEM[]
+
+DWOK42
+CUT[Oryl-Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 137, od Płocka]
+FKT[]
+SIG[42162800000]
+KEY[421628  16 Bb 2/4]
+MEL[3_5_^654  3_1_3_1_  2_-7_2_-7_  1_1_1__
+    -5_1_-5_1_  ^_-6_-4_-6_  -5_-7_2_-7_  1_1_1__ //]
+BEM[]
+
+DWOK42
+CUT[Polka-Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 137, Sierpc]
+FKT[]
+SIG[42162900000]
+KEY[421629  16  G 2/4]
+MEL[1_1_3_3_  5654#5_+1_  1_1_3234  5654#5__
+    -7_2_-5_-7_  1-7123_1_  -7_2_-5_-7_  1_1_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 138, od Bodzanowa]
+FKT[]
+SIG[42163000000]
+KEY[421630  16  G 2/4]
+MEL[5_.43_32  123_123_  4_.32_-5_  1-7-6-71__
+    5_5_+1__  6_6_2__  32345_.4  3_321__ //]
+BEM[]
+
+DWOK42
+CUT[Oryl-Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 138, od Makowa]
+FKT[]
+SIG[42163100000]
+KEY[421631  16  C 2/4]
+MEL[+1+3+5_+6+5+3_  +27+2_+4+3+2_  +1+3+5_+6+5+3_  757+2+1__
+    +1+3+5_+6+5+3_  +27+2_+4+3+2_  +1+3+5_+6+5+3_  757+2+1__
+    +1+3+5_+1+3+5_  +2+4+6_+2+4+6_  57+2_57+2_  +1+3+5_++1+5+3_
+    +1+3+5_+1+3+5_  +2+4+6_+2+4+6_  57+2_57+2_  +1_+1_+1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 138, Mąkolin]
+FKT[]
+SIG[42163200000]
+KEY[421632  16  C 2/4]
+MEL[+1_+3+57_+2+4  +3+1+3+5+27+2+4  +3+1+3+5+27+2+4  +3+1+3+5+2__
+    +1_+1+35_7+2  +1_765_67  +1_+1+35_7+2  +2+1765__ //]
+BEM[wariant w takcie 4: +3+1+3+57__]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 138, od Sierpca]
+FKT[]
+SIG[42163300000]
+KEY[421633  08  G 2/4]
+MEL[+1776  6531  442-7  1357
+    +1776  6531  442-7  131_
+    4466  5531  442-7  4531
+    4466  5531  442-7  231_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 139, od Serocka]
+FKT[]
+SIG[42163400000]
+KEY[421634  16  G 2/4]
+MEL[3_555_67  +1_3_4665  3_555_67  +1_3_4_2_
+    3_555_67  +1_3_4665  3_555_67  +1_3_4_2_
+    3_5_2_2_  3_1_4665  3_3_2_2_  1_111_1_ //]
+BEM[wariant w takcie 7: 3_5_2_2_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 139, od Pułtuska]
+FKT[]
+SIG[42163500010]
+KEY[421635  16  C 2/4]
+MEL[+5_+5+3+4_+6+6  +3+1+3+5+27+2+4  +3+1+3+5+4+4+4+6
+    +3+1+3+5+27+2+4  +3_+1+3+4_+5+4  +3+1+3+5+4+4+4+6
+    +3_+1+3+4_+5+4  +3+1+3+5+27+2+4 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 139, od Pułtuska]
+FKT[]
+SIG[42163500020]
+KEY[421635  16  G 2/4]
+MEL[12345654  3_3_2222
+    1_345654  3_3_2_2_  5_5_6_6_  3_3_2_2_
+    5_3_6_4_  3_-5_2_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 139, od Pułtuska]
+FKT[]
+SIG[42163600000]
+KEY[421636  16  G 2/4]
+MEL[+1_+1_5653  3_5_2_2_  13345_+17  +1_+1_5653
+    3_3_2_2_  1_111_1_  13345653  3_3_2_2_
+    13345_+1_  13345653  3_3_2_2_  1_111_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 140, od Płocka]
+FKT[]
+SIG[42163700000]
+KEY[421637  16  G 2/4]
+MEL[1_3_3_33  5_4_4_2_  2_7_7_67
+    +1_765432  1_3_3_33  5_444_2_  2_7_7_67
+    +1_+17+1__  1_+1_1_+1_  1_+1_+1_64
+    2_7_7_67  +1_765432  1_+1_1_+1_  1_+1_+1_64
+    2_7_7_67  +1_111__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 140, Mierzęcin]
+FKT[]
+SIG[42163800000]
+KEY[421638  08  G 3/4]
+MEL[1__1_  123_3_  -5__-5_  -5-72_2_
+    1__1_  123_3_  -5__-7_  21-7_1_
+    21-7_1_  21-7_1_  234_2_  5_.432 //]
+BEM[wariant w takcie 7: -5__-5_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 140, od Makowa]
+FKT[]
+SIG[42163900000]
+KEY[421639  08 Bb 3/4]
+MEL[135__  1_1231  234__  -5_-5-6-5_
+    135__  1_1231  234__  -5_-5-6-5_
+    123123  4_434_  2-7-5_-5_  5_54#5_
+    123123  4_354_  2-7-5_-6-7  1_1-71_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 141, od Chorzel]
+FKT[]
+SIG[42164000010]
+KEY[421640  08  G 3/4]
+MEL[1_3_1_  42-7_1_  -6_-6_-5_  -722_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 141, od Chorzel]
+FKT[]
+SIG[42164000020]
+KEY[421640  08  C 3/4]
+MEL[113_5_  466_5_  113_5_  422_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 141, od Chorzel]
+FKT[]
+SIG[42164000030]
+KEY[421640  08  F 3/4]
+MEL[113135  46646+1  133135  422_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 141, od Pułtuska]
+FKT[]
+SIG[42164100000]
+KEY[421641  08 Bb 3/4]
+MEL[5_3_3_  424_6_  5_3_3_  42-7_1_
+    (-712)3_1_  243_-5_  123_32  42-7_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 141, Wyszogród]
+FKT[]
+SIG[42164200000]
+KEY[421642  08 Bb 3/4]
+MEL[+1_+1_+1_  +17+1_6_  +1_5_6_  4_2131
+    1_+17+1+3  +17+1_6_  5_4346  4_2131
+    -5_2_4_  37+1_+16  5_4346  4_2131 //]
+BEM[]
+
+DWOK42
+CUT[Oj poczekaj hultaju]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 643, z nad Narwi i Bugu]
+FKT[]
+SIG[42164300000]
+KEY[421643  08  A 3/4]
+MEL[5_5_5_  445_3b_  225_3b_  2-7-5__
+    -5-7-7_-7_  123b_1_  225_.3b  2-7-5__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 142, od Raciąża]
+FKT[]
+SIG[42164400000]
+KEY[421644  08  G 3/4]
+MEL[5_5_5_  5-72_1_  -513_4_  5-72_1_
+    -513_5_  234_6_  4#56_.5  4-72_1_
+    5_5_5_  5-72_1_  -513_4_  5-72_1_
+    -513_5_  234_6_  4#56_.5  4-72_1_
+    34#5_.3  (234#)5_.4#  34#5_.4  3-5-6-71_
+    34#5_.3  (234#)5_.4#  34#5_.4  3-5-6-71_
+    2_2_3_  2_2_3_  2_2_3_  -7-5-6-71_
+    2_2_3_  2_2_3_  2_2_3_  -7-5-6-71_
+    (-5-72)3_3_  (-5-72)-3__  (-5-72)1_1_  (-5-72)1__
+    (-5-72)3_3_  (-5-72)-3__  (-5-72)-5_-5_  (-5-72)1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 142, Czepielew]
+FKT[]
+SIG[42164500000]
+KEY[421645  16  G 3/4]
+MEL[5__5__5__  6b_5_4#__5__  3b_2_1__3b_2_  -7__1___
+    -5__-7__1__  3b_2_4__3b_2_  -5__-7__1__  3b_2_4__3b_2_
+    1_3b_5__4__  5_3b21__3b_2_  -7__1___ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 646-647, od Rodzanowa]
+FKT[]
+SIG[42164600000]
+KEY[421646  08  A 3/4]
+MEL[1_3_3_  (-5-6-7)2_-7-5  123_3_  32-7_-5_
+    (-5-6-7)2_-7-5  342-71_  1_5_5_  564_2-7
+    (-5-6-7)2_.4  653_3_  135_.3  32-7_-5_
+    (-5-6-7)2_-7-5  342-71_ //]
+BEM[vel 1: 32-7_-5_, vel 2: 123_5_, vel 3: 324_2-7_, vel 4: (342)-7_1_ wariant w takcie 12: 654#542]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 143, Mąkolin]
+FKT[]
+SIG[42164700000]
+KEY[421647  08  G 3/4]
+MEL[5_3_+1_  543_+1_  234246  653_1_
+    1__3_  5_4_-5_  -7__2_  4_3_1_ //]
+BEM[wariant w takcie 4: 653_-5_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 143, Płock]
+FKT[]
+SIG[42164800000]
+KEY[421648  16  G 3/8]
+MEL[5_.65_  5_.654#  5_.42_  1-7123_
+    -5-72_4_  654321  -72-7-5-6-7  1_1__
+    -5-72_2_  2321#2_  -5-72_2_  234#_5_
+    564_.2  1_1231  -72-7-5-6-7  1_1__ //]
+BEM[wariant w takcie 1: 1__., wariant w takcie 12: 234#65_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 143]
+FKT[]
+SIG[42164900000]
+KEY[421649  08  G 3/4]
+MEL[2_.46_  5_3531  2_.46_  5_3_1_
+    2_.43-7  133531  5_.42-7  133_3_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 144, od Pułtuska]
+FKT[]
+SIG[42165000000]
+KEY[421650  08  B 3/4]
+MEL[1_3_5_  245_62  4_3_-5_  -721_-7-5
+    4_3_21  -713_52  4_3_-5_  -721_-7-5 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 144, od Pułtuska]
+FKT[]
+SIG[42165100001]
+KEY[421651  08  C 3/4]
+MEL[+3_+5_+5_  +3+5+5_+5+3  +2_+4_+4_  +2+4+5_+3+2
+    +1_+2_+1_  (+2+3+2)+1_+16  5_7_5_  57+2_+5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 144, od Pułtuska]
+FKT[]
+SIG[42165100002]
+KEY[421651  08  C 3/4]
+MEL[+3_+5_+5_  +3+5+5_+5+4  +2_+4_+4+3  +2+4+5_+3+2
+    +1_+2_+1_  (+2+3+2)+1_+16  5_7_5_  57+2_+5+2 //]
+BEM[]
+
+DWOK42
+CUT[Instrumntalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 144, od Wyszogrodu]
+FKT[]
+SIG[42165200000]
+KEY[421652  08  G 3/4]
+MEL[5_5_5_  553_2-7  132_43  2-71_-5_
+    -5-71_2-7  134_2_  5_54#2-7  11-7_-5_
+    -5-6-712-7  134_2_  65432-7  11-7_-5_ //]
+BEM[wariant w takcie 7 5654#2-7]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 144, Mąkolin]
+FKT[]
+SIG[42165300000]
+KEY[421653  08  A 3/4]
+MEL[6_6_5_  313542  6_6_5_  213_-5_
+    1_.354  213542  3_1354  213_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 145, od Płocka i Gostynina]
+FKT[]
+SIG[42165400000]
+KEY[421654  08  C 3/4]
+MEL[+1_+3_+3_  +3+2+3+4+5+6  +4_+6_+6_
+    +6++1+7_+5_  ++1_+5_+5+4  +3+2+3+4+5+6
+    +4_+2_5_  5+2+4+3+1_  5+2+4+3+1_  (57+2)+4+3+1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 145, Mąkolin]
+FKT[]
+SIG[42165500000]
+KEY[421655  16  A 3/4]
+MEL[5__5__6__  +1_.54_3_2_1_  5__5__6__  +1_.54_3_2_1_
+    -5__3_4_2_1_  3_4_5_4#_5__  -5__3_4_2_1_  3_4_5_3_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 145, od Serocka]
+FKT[]
+SIG[42165600000]
+KEY[421656  08 Bb 3/4]
+MEL[1_1_-7_  -5-72432  1_1_-7-6  -5-72_1_
+    135_43  246_52  135_43  2342-7-5
+    135_43  246_52  135_43  2342-72 //]
+BEM[wariant w takcie 1: 1_1_-7-6]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 145, od Wyszogrodu]
+FKT[]
+SIG[42165700000]
+KEY[421657  32  F 3/8]
+MEL[4__5__3__  3_.11_-7_1_3_  2__-5__-7_2_  1_.11_-7_1_3_
+    5__6__4__  1_.11_-7_1_3_  2__-5__-7_2_  1_.11_-7_1__
+    -7__.-5_-7_2_  1__-7_1_3_1_  -7__-5__-7_2_  1__-7_1_3_1_
+    1_-7_-5__-7_2_  -7_1_-7_1_3_5_  5_4_2__2_4_  6_5_4_3_2__
+    -7__.-5_-7_2_  1__-7_1_3_1_  -7__-5__-7_2_  1__-7_1_3_1_
+    1_-7_-5__-7_2_  -7_1_-7_1_3_5_  5_4_2__2_4_  6_5_4_3_2__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 146, od Chorzel, Janowa]
+FKT[]
+SIG[42165800000]
+KEY[421658  08  G 3/4]
+MEL[234_4_  3__2_  466_6_  5_6__
+    234_4_  3__5_  432_2_  1__.
+    3_1_1_  -724654  331_1_  4_2__
+    3_1_1_  -724654  331_1_  4_2__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 146]
+FKT[]
+SIG[42165900000]
+KEY[421659  08  A 3/4]
+MEL[555_5_  3b_5__  46b5_43b  221__
+    111_1_  3b_5__  44543b_  2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 146, Płock]
+FKT[]
+SIG[42166000000]
+KEY[421660  16  G 3/4]
+MEL[4_56+1__5__  7b__+2__+1__  7b_6_4__3b21_  2__2__1__
+    3b_5_4__2_1_  3b__5__7b__  +1_6_4__321_  2__-7b__1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 146, od Pułtuska]
+FKT[]
+SIG[42166100000]
+KEY[421661  08  G 3/4]
+MEL[346_+1_  +17b5_5_  7b+2+1__  346_+1_
+    +17b5_3_  421__  134_4_  642_-7b_
+    245__  134_4_  642_-7b_  241__ //]
+BEM[wariant w takcie 3: 7b+2+1_64]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 147, od Płocka]
+FKT[]
+SIG[42166200001]
+KEY[421662  16  G 3/8]
+MEL[345_6_  653_2_  135_6_  5_2__
+    -5-72_2_  135_5_  -5-72_2_  1_-5__
+    2-7-5_-5_  -5-71_3_  2-7-5_3_  3_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 147, od Płocka]
+FKT[]
+SIG[42166200002]
+KEY[421662  32  G 3/8]
+MEL[1_345__6__  6_543__2__  1_345__6__  5__2___
+    -5_-712_4_2_-7_  1_345_3_5_+1_  -5_-712_4_2_-7_  1__-5___
+    2_-7_-5__-5__  -5_-6-71__3__  2_-7-6-5__3__  3__1___ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 147, Kosino]
+FKT[]
+SIG[42166300000]
+KEY[421663  08  G 3/4]
+MEL[246_7b_  666_3_  443_5_  223_1_
+    246_.3  653_2_  443_6_  223_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 147, od Chorzel]
+FKT[]
+SIG[42166400000]
+KEY[421664  08  C 3/4]
+MEL[55+1_+2_  +3+3+4_+3_  +5+5+6_+5_  +5+2+4_+3_
+    57+1_+2_  +3+5+4_+3_  +2+17_+2_  765__
+    55+1_+2_  +3+5+4_+3_  +2+17_+2_  765__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 147, od Płocka]
+FKT[]
+SIG[42166500000]
+KEY[421665  08  A 3/4]
+MEL[13b5_5_  546b_5_  43b1_3b_  546b_5_
+    43b2_1_  -5-72_5_  3b3b2_1_  -5-72_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 148, Kosino]
+FKT[]
+SIG[42166600000]
+KEY[421666  16  C 3/8]
+MEL[+2+27_5_  +1+1+3_+5_  +5+4+2_.5  7+16_4_
+    57+2_.5  7+1+3_+3_  +5+4+2_.5  7+16_4_ //]
+BEM[wariant w takcie 6-7 7+1+3_(+3+2+3)  (+4+5+4)+2_.5]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 148, Pułtusk]
+FKT[]
+SIG[42166700000]
+KEY[421667  08  C 3/4]
+MEL[57+1_+3_  +5+3+5_+5_  +5+3+5_+5_  +5+3+5_+5_
+    +3+55_.7  +1+1+3_+1_  +3+55_.7  +16+1_5_ //]
+BEM[wariant w takcie 8: +1+1+3_+1_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 148, Mąkolin]
+FKT[]
+SIG[42166800000]
+KEY[421668  16  C 3/4]
+MEL[+1_+3_+3__+5__  +2_.7+2__.+1_  +1_+3_+3__+3__  +2_7_5__5__
+    6_4_5__5__  6_+1_+2__.+1_  6_.45_4_5_7_  6_+1_7__.5_ //]
+BEM[wariant w takcie 4: +2_7_+2__7__]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 148, od Płocka]
+FKT[]
+SIG[42166900000]
+KEY[421669  16  A 3/4]
+MEL[5_7_+1__.6b_  5_(43b2)1__.3b_  5_5_4__6b__  5_(43b2)1__.3b_
+    5_5_4__6b__  5_7_+1__.6b_  5_5_4__6b__  5_(43b2)1___ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 148-149, od Wyszogrodu]
+FKT[]
+SIG[42167000000]
+KEY[421670  16  G 3/4]
+MEL[1_3_5__5__  5_7_+2__+1__  +1_6_4__6__  (6_4_6_)+1__7__
+    1_3_5__5_3_  (1_2_3_)4__6__  4_2_-5__-7b__  2_2_3__1__
+    1_3_5__5__  5_7_+2__+1__  6_4_2__2__  2_+1_7__5__
+    (3_1_3_)5__5__  5_7_+2__+1__  6_4_2__-7b__  -7b_243__1__ //]
+BEM[wariant w takcie 2: 5_7_+4#_+2_, wariant w takcie 8: 2_4_3__1__, wariant w takcie 12: 2_+1_7__+2__]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 149, od Raciąża]
+FKT[]
+SIG[42167100000]
+KEY[421671  08  F 3/4]
+MEL[333_6_  (567)+1_1_  333_6_  (543)2_1_
+    4_5_31  46+1_(+17+1)  +1+27b_53  46531_
+    4_5_31  46+1_(+17+1)  +1+27b_53  46531_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 149, od Bodzanowa]
+FKT[]
+SIG[42167200000]
+KEY[421672  08  A 3/4]
+MEL[135_5_  563_3_  124_4_  46323_
+    135_5_  563_3_  124_4_  46321_
+    133_.1  342-7-5_  -724_.2  45321_
+    133_.1  342_2_  224_.4  453_3_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 149, Mąkolin]
+FKT[]
+SIG[42167300000]
+KEY[421673  08  C 3/4]
+MEL[+5+5+3_+1_  7+2+4#_+6_  +5+5+3_+1_  7+2+2_+17
+    6_.+1+3+1  7+2+4#_+2_  6_.+1+3+1  7+2+2_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s.150, od Makowa]
+FKT[]
+SIG[42167400000]
+KEY[421674  08  G 3/4]
+MEL[3b21_5_  3b21_+1_  7_7567  +153b_1_
+    135_7b5  +17b6b54_  6b54_6b_  54321_
+    3b21_5_  3b21_+1_  7_7567  +153b_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 150, od Ostrowa]
+FKT[]
+SIG[42167500000]
+KEY[421675  08  G 3/4]
+MEL[113_5_  513_5_  542_32  113_-5_
+    112_4_  413_5_  542_32  113_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 150, Mąkolin]
+FKT[]
+SIG[42167600000]
+KEY[421676  08  G 3/4]
+MEL[345_5_  665_.2  345_43  (21-7)1_-5_
+    -6_-6_(21-7)  (-5-6-7)1_3_  -6_-6_(21-7)  (-5-6-7)1_.-5 //]
+BEM[wariant w takcie 6: (-5-6-7)1_3-5]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 150, od Makowa]
+FKT[]
+SIG[42167700000]
+KEY[421677  08  F 3/4]
+MEL[357_+1_  357_+1_  (765)4_43  465_(321)
+    3_3_31  357_+1_  (765)4_43  465_(321) //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 151, od Bodzanowa]
+FKT[]
+SIG[42167800000]
+KEY[421678  16  C 3/4]
+MEL[1_3_5__+1__  7_6_+2__+1__  +3_0+2+1_7_6_5_  4_2_4__43_.
+    1_3_5__43_.  2_4_6__5__  3_5_+1__7_6_  5_2_4__43_.
+    1_3_5__43_.  (4_3_4_)6__53_.  3_5_+1__7_6_  5_2_4__43_. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 151, od Pułtuska]
+FKT[]
+SIG[42167900010]
+KEY[421679  08  G 3/4]
+MEL[356_5_  4_5_21  356_5_  4_2_1_
+    35-7_.2  4_5_21  35-7_.2  422_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 151, od Pułtuska]
+FKT[]
+SIG[42167900020]
+KEY[421679  08  C 3/4]
+MEL[+3+5+6_+5_  +4_+3+5+2+1  +3+5+6_+5_  +4_+2_+1_
+    +3+57_.+2  +4_+5_+2+1  +3+57_.+2  +4+2+3+2+1_ //]
+BEM[wariant w takcie 6: (+4+2+4)+5_+2+1]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 151, od Serocka, Nowego Dworu]
+FKT[]
+SIG[4216800000]
+KEY[421680  08  G 3/4]
+MEL[135_6_  5_4_32  135_6_  5_4_32
+    123_4_  3_2__  2-7-5_-7_  1_3__
+    123_4_  3_2__  2-7-5_-7_  1_-5__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 152, Kosino]
+FKT[]
+SIG[42168100000]
+KEY[421681  16  G 3/8]
+MEL[2-7-5_6_  56431_  2-7-5_6_  543_.1
+    2-7-5_-6-7  133_5_  2-7-5_-6-7  13231_
+    2-7-5_6_  654#563  2-7-5_6_  654_31
+    2-7-5_-6-7  133_5_  2-7-5_-6-7  133_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 152, od Bodzanowa]
+FKT[]
+SIG[42168200000]
+KEY[421682  08  G 3/4]
+MEL[-712_+1_  56531_  -712_+1_  543_31
+    -7132-7-5  -714_3-5  -7132-7-5  1_-5_3-5 //]
+BEM[wariant w takcie 6: -71433-5]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 152, Mąkolin]
+FKT[]
+SIG[42168300000]
+KEY[421683  08  C 3/4]
+MEL[+1+3+3_+5_  +5+4+3_+2+1  7+2+2_+4_  7+2+2_+1_
+    +1+3+3_(+2+3+2)  +1+3+3_+2_  7+2+2_+4_  7+2+2_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 153, od Płocka]
+FKT[]
+SIG[42168400000]
+KEY[421684  08  C 3/4]
+MEL[5+6+5_+4_  +3+5+4_+27  5+6+5_+4_  +2+3+1_+2_
+    +2+25_+4_  +2+3+1+3+27  5+25_+4_  +2+3+1_+2_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 153, Mąkolin]
+FKT[]
+SIG[42168500000]
+KEY[421685  08  C 3/4]
+MEL[57+1_+4_  +3+2+1_46  57+1_+4_  +3+2+1_46
+    5+14_6_  +176_54  5+14_6_  +176_5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 153, Bodznów]
+FKT[]
+SIG[42168600001]
+KEY[421686  08  A 3/4]
+MEL[542_-7_  13b5_7_  542_-7_  13b1_-5_
+    (-7-6-7)2_-7_  13b5_4#_  (-7-6-7)2_-7_  13b1_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 153, Bodzanów]
+FKT[]
+SIG[42168600002]
+KEY[421686  08  A 3/4]
+MEL[542_-7_  13b5_(67+1)  542_-7_  13b1_(-7-6-5)
+    (-7-6-7)2_-7_  13b5_(54#2)  (-7-6-7)2_-7_  13b1_(-7-6-5) //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 153, Mąkolin]
+FKT[]
+SIG[42168700000]
+KEY[421687  08  G 3/4]
+MEL[224_5_  335_54  (2-72)4_5_  335_54
+    22-7_-5_  123_1_  -6-6-4_-6_  -5-5-7_24
+    521-7-6-5  123_31  -6-6-4_-6_  -7-61_1-7 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 154, od Bodzanowa]
+FKT[]
+SIG[42168800001]
+KEY[421688  08 Bb 3/4]
+MEL[-566_6_  (234)5_(1-7-5)  166_5_  432_(1-7-5)
+    133_23  5_4_(1-7-5)  133_(235)  (-5-6-7)1_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 154, od Bodzanowa]
+FKT[]
+SIG[42168800002]
+KEY[421688  08 Bb 3/4]
+MEL[-566_(654)  (234)5_(1-7-5)  166_5_  (243)2_(1-7-5)
+    133_23  5_4_(1-7-5)  133_(235)  (-5-6-7)1_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 154-155, Płock]
+FKT[]
+SIG[42168900000]
+KEY[421689  32  A 3/8]
+MEL[(3_4_5_)6__4__  5_3_4__2_5_  (3_4_5_)6__5__  5_3_4__2_3_
+    3_2_-7__-5__  1_3_5_4_2_5_  3_2_-7__-5__  1_3_5_4_2_3_
+    3_4_5_6_5_4#_  5_6_5_4#_6_2_  3_4_5_6_5_4#_  5_6_5_4_2_1_
+    3_2_-7__-5__  1_3_5_4_2_5_  3_2_-7__-5__  1_3_5_4_2_1_
+    3_4_5_6_7_6_  5_6_5_4#_6_2_  3_4_5_6_7_6_  5_6_5_4_2_1_
+    2_4#_6_5_2_1_  -7_-5_-7_1_3b_5_  2_4#_6_5_2_1_  -7_-5_4_1_2_1_
+    -7_-5_-7_1_2_1_  -7_-5_4_1_2_1_  -7_-5_-7_1_3_4#_  5__^_4#_2_1_
+    -7_-5_-7_1_2_1_  -7_-5_-7_1_2_1_  -7_-5_-7_1_2_1_  -7_-5_-7_1_3_4_
+    5__5_4#_2_1_  -7_-5_-7_1_3b__  2_1_-7_1_3b__  2_1_-7_1_3b__
+    2_1_-7_1_2_1_  3_4_5_6_7_6_  5_6_5_4#_6_2_  3_4_5_6_7_6_
+    5_6_5_4_2_1_  3_2_-7__-5__  6_5_4#_5_6__  3_2_-7__-5__  6_5_4__.2_
+    3_2_-7__-5__  6_5_4#_5_6__  3_2_-7__-5__  6_5_4__.2_ //]
+BEM[wariant w takcie 20: 5_6_5_4_2_1-7; wariant w takcie 26: -7_-5_4_1_2_1-7; wariant w takcie 33: 5__5_4#_2_11-7; wariant w takcie 37: 2_1_-7_1_2_1-7; wariant w takcie 41: 5_6_5_4_2_1-7]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 155, Kosino]
+FKT[]
+SIG[42169000000]
+KEY[421690  32  G 3/8]
+MEL[2_4_6__.4_  3_5_+1__5_4#_  2_4_6__.4_  3_3_(2_3_4_)1_-7_
+    -5_.43_2_1_-7_  -5_1_3_4#_5__  4_6_4_3_(2_1_-7_)  -5__-7_2_3__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 155, od Pułtuska]
+FKT[]
+SIG[42169100000]
+KEY[421691  16  C 3/4]
+MEL[7_+1_+3__+5__  +6b_+5_+4#__+2_+4#_  +5_+3b+2+1__+2_+1_  7__5___
+    7_+1_+3__+1__  +3_+5_+2__7_5_  7_+1_+3__+1__  +1_+2_7__5__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 155, od Pułtuska]
+FKT[]
+SIG[42169200000]
+KEY[421692  08  G 3/4]
+MEL[131_3_  135_43  242_43
+    246_5_  131_3_  135_43
+    265_-7_  1__.  -513_21  -724_3_
+    246_54#  524_3_  -513_21  -724_3_
+    265_-7_  1__. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 156, Czepielew]
+FKT[]
+SIG[42169300000]
+KEY[421693  16  B 3/4]
+MEL[(2_3_4#_)5__5__  5_4#_5__3b_2_  1_.23b_.23b_.2  3b_2_-7__1__
+    -5__-7__1__  3b_2_4__1__  1_2_3b_2_4_2_  3b_2_-7__1__ //]
+BEM[wariant w takcie 6. 3b_2_4__1_-7_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 156, od Pułtuska]
+FKT[]
+SIG[42169400000]
+KEY[421694  08 Bb 3/4]
+MEL[135_6_  624246  544_3_  323_4_
+    323_31  2_-7_-5_  -5-71_3_  321_31
+    2_4_5_  523_4_  323_31  2_-7_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 156, od Makowa]
+FKT[]
+SIG[42169500000]
+KEY[421695  16  A 3/4]
+MEL[1_3_5__2__  4_3_4_6_5_3_  1_3_5__2__  3_4_3_2_1__
+    1_3_5_7_6_5_  4_3_4_6_5_3_  1_3_5_7_6_5_  3_.43_2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 156, od Pułtuska]
+FKT[]
+SIG[42169600000]
+KEY[421696  08  C 3/4]
+MEL[+3+5+5_+4_  +27+2+4+3+1  +3+5+5_+4_  57+2+4+3_
+    +1+3+35+4_  +27+2+4+3+1  +1+3+35+4_  57+2+4+3_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna-Owczarek,kujawiak]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 157, Mąkolin]
+FKT[]
+SIG[42169700000]
+KEY[421697  16  A 3/4]
+MEL[(2_4_6_)7__5__  2_5_4#_2_6_2_  4#_6_7__5__  2_.54#_2_5__
+    4#__5__5__  2_4#_4#_2_5__  2_4#_4#_2_5__  2_4_3b_2_1__
+    -5_-7_1_2_1__  -5_-7_1_2_1__  -5_-7_1_2_4__  2_4_3b_2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 157, Mąkolin]
+FKT[]
+SIG[42169800000]
+KEY[421698  08  G 3/4]
+MEL[(234)6_+1#_  535325  (234)6_+1#_  535421
+    (-5-6-7)2_13  23435_  (-5-6-7)2_13  23431_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 157, od Pułtuska]
+FKT[]
+SIG[42169900000]
+KEY[421699  08  C 3/4]
+MEL[(555)5_+1_  535653  (555)5_+1_  535653
+    (555)5_+4_  +3+2+3_+1_  7+25_67  +17+1+2+3+4
+    +5_+6_+4_  +3+2+3_+1_  7+25_57  +1_+1__ //]
+BEM[w takcie 9 jest błąd, ostatnia nuta powinna być ćwierćnutą, zapis poprawiono]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 157, Czepielew]
+FKT[]
+SIG[42170000000]
+KEY[421700  08 Bb 3/4]
+MEL[-713_2_  4654#52  -713_32  4654#52
+    -713_2-7  21-6-6-6-5  -713_2-7  21-6-6-6-5 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 158, Płońsk]
+FKT[]
+SIG[42170100000]
+KEY[421701  16  A 3/4 2/4]
+MEL[1_1_5__.3b_  5_5_7b_5_  4_4_4_3b_  4_7b_5__1__
+    3b_3b_4_3b_  4_7b_5__1__  5_43b2__1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 158, od Płocka]
+FKT[]
+SIG[42170200000]
+KEY[421702  08  D 3/4]
+MEL[+1_5_31  456_4_  22-7_2_  113_5_
+    +1_5_31  456_4_  22-7_2_  113_5_
+    4_6_1_  67b+1+2+1_  6_6_1_  67b+1+2+1_
+    4_6_1_  67b+1+2+1_  6_+1_1_  67b+1+2+1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 158, od Pułtuska]
+FKT[]
+SIG[42170300000]
+KEY[421703  08  C 3/4]
+MEL[5_+1_+15  +1+2+3_+1_  +2_+4_+4+3  +2+4+6_+5_
+    5_+1_+15  +1+2+3_+1_  5_+4_+4+2  +3+17_+1_
+    +3_+5_+5+3  +5+3+5_+6_  +2_+4_+4+3  +4+2+6_+5_
+    +1_+3_+3+2  +3+1+3_+5+6  +2_+4_+4+2  +3+17_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 158, Unierzyn]
+FKT[]
+SIG[42170400000]
+KEY[421704  08  A 3/4]
+MEL[-5_5_(43b2)  13b1_5_  -5_5_(43b2)  13b2_-7_
+    -5-6-7_.-5  -712_3b_  44#5_2_  3b3b2_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s 159, Kosino]
+FKT[]
+SIG[42170500001]
+KEY[421705  32  G 3/8]
+MEL[2__2__2_4_  2_-7_-5__.-6-7  1__3__3_3_  3_5_7_6_5_4#_
+    2__2__2_4_  2_-7_-5__-6_-7_  1__1_-7_1_2_  3_1_2__.-7_
+    2__2__2_4_  2_-7_-5__.-6-7  1__1_-7_1_2_  3_1_3__5_4#_
+    2__2__2_4_  2_-7_-5__-6_-7_  1__1_-7_1_2_  3_1_2__.-7_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 159, Kosino]
+FKT[]
+SIG[42170500002]
+KEY[421705  32  G 3/8]
+MEL[2__2__2_34  2_1-7-5__.-6-7  1__3__3_3_  3_5_7_6_5_4#_
+    2__2__2_34  2_1-7-5__-6_-7_  1__1_-7_1_2_  3_1_2__.-7_
+    2__2__2_34  2_1-7-5__.-6-7  1__1_-7_1_2_  3_1_2_3_5_4#_
+    2__2__2_34  2_1-7-5__-6_-7_  1__1_-7_1_2_  3_1_2__.-7_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 159, Czepielew]
+FKT[]
+SIG[42170600000]
+KEY[421706  08  C 3/4]
+MEL[+2_+5_+6+5  +4#+5+3b+2+1_  7_5_+3b+2  +1__.  775_+3b+2
+    +1+1+3b_+2+1  775_+3b+2  +17+1+3b+2+1  775_+3b+2  +1__. //]
+BEM[wariant w takcie 3:(7+17)5_+3b+2]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 159-160, od Myszyńca. Mazur]
+FKT[]
+SIG[42170700000]
+KEY[421707  08  C 3/4]
+MEL[++1_+1_+1+3  (+1+2+3)+1_+2+3  +4_5_57  565_67
+    +1+3+5_++1_  +6+6+4_+6_  +5+5+3_+5_  +4+3+4+27+2
+    +1_+1__  +17+1+2+3_  +17+1+2+3_  +17+1+2+3_
+    +17+1+2+3+4  +5+4#+5_+2_  +5+4#+5_+2_  +5+4#+5_+1+3
+    +5+4+2_.+1  7_757+2  +4_+2_+2+1  +2+3+1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 160, Czepielew. Walec]
+FKT[]
+SIG[42170800010]
+KEY[421708  08  A 3/4]
+MEL[-5_1_-5-4  -3-51_-5-4  -2_-7-5-72  1-5135_
+    -5_1_-5-4  -3-51_-5-4  -2_-7-5-72  1-5135_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 160, Czepielew. Walec]
+FKT[]
+SIG[42170800020]
+KEY[421708  08  E 3/4]
+MEL[+1_5435  +1_542_  7_57+27  +1_543_
+    466_54  35+1_54  2_7567  +154321
+    466_54  35+1_54  2_7567  +1__. //]
+BEM[wariant w takcie 4: +1_5435]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 160, od Pułtuska]
+FKT[]
+SIG[42170900000]
+KEY[421709  08  B 3/4]
+MEL[1_5_52  4#64#_23b  23b5_56  5_2_23b
+    21-7_-7-5  -725423b  21-7_-7-5  -7123b1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 160, od Pułtuska]
+FKT[]
+SIG[42171000000]
+KEY[421710  08  B 3/4]
+MEL[1_3_56  42-7243  1_3_56  42-7243  1_3_1_
+    42-7243  5_3_1_  42-7243 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 160, od Myszyńca]
+FKT[]
+SIG[42171100000]
+KEY[421711  08 Db 3/4]
+MEL[+1_+1_76  57+2+4+3+2  +1_+1_76  57+2_+1_
+    +1+3+5_+4+3  +2+4+6_+5+2  +1+3+5_+4+3  +2+3+4+27+2 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 161, od Makowa]
+FKT[]
+SIG[42171200000]
+KEY[421712  08  G 3/4]
+MEL[1_.234  (565)3_1_  +1_342-7  123_-5_
+    2_.321#  (232)-7_2_  (232)1_-6_  (232)-7_-5_
+    2_.321#  (232)-7_2_  (232)1_-6_  (232)-7_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 161, Płock]
+FKT[]
+SIG[42171300000]
+KEY[421713  16  A 3/8]
+MEL[5_.313  542_-7-5  -5-6-7123  422_26
+    5_.313  542_-7-5  -5-6-712-7  1_1__
+    -5-71_3_  -5-7-7_-7_  -5-71_2_  -511_1_
+    -5-71_3_  -5-7-7_-7_  -5-6-712-7  1_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 161, Bodzanów]
+FKT[]
+SIG[42171400000]
+KEY[421714  08  G 3/4]
+MEL[-5_.135  356535  46243-5  1321-7-6
+    -5_.135  356535  46243-5  1__0_
+    -5-4-3-51_  -5-4-3-51_  -5-72-7-5_  -513135  5_4242  1_1__
+    -5-4-3-51_  -5-4-3-51_  -5-72-7-5_  -513-515  242-72-7  1_1__
+    355565  354#565  46243-5  1321-7-5
+    355565  354#565  46243-5  1321-7-5 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 162, od Pułtuska]
+FKT[]
+SIG[42171500000]
+KEY[421715  08  C 3/4]
+MEL[+5_+5+4#+6_  +5+4#+2__  +4#_+6_+5+4#  +3b+2+1__
+    +1+2+3b_+5_  +4+3b+2_+1_  +5__7_  +1_+3b+2+3b+5
+    +1+2+3b_+5_  +4+3b+2_+1_  +5__7_  +1_5__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 162, od Makowa]
+FKT[]
+SIG[42171600000]
+KEY[421716  08  C 3/4]
+MEL[+5_+5+4#+6_  +5_+3+1+3_  +5_+57+2_  +4_+3_+1_
+    57+2_+3_  +2+17+2+5_  57+2_+4+3  +2+16_5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 162, od Makowa]
+FKT[]
+SIG[42171700000]
+KEY[421717  08  A 3/4]
+MEL[1_246_  54342-7  1_246_  54342-7
+    1_-5-721  352431  35-5-721  35243-7
+    1_-5-721  352431  35-5-721  35243-7 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 162, od Makowa]
+FKT[]
+SIG[42171800000]
+KEY[421718  16 Ab 3/4]
+MEL[2_.34_.34__  3_1_3__5__  2__4__4__  6_5_3__1__
+    2_6_5__3_4_  2_4_3__1__  -7_2_-7_-5_-7_2_  1_-5_1_3_5__
+    4_5_4_3_4_3_  2_4_3__1__  -7_2_-7_-5_-7_2_  1___. //]
+BEM[wariant w takcie 9: 2_6_5_3_4_3_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 163, Mąkolin]
+FKT[]
+SIG[42171900000]
+KEY[421719  16  A 3/4]
+MEL[2_343_4_5__  (6_+1_5_)6__5__  2_343_4_5__  6_5_3__1__
+    2_343_4_5_3_  3_2_1__3_1_  2_343_4_5_3_  3_2_-7__1__ //]
+BEM[wariant w takcie 4: 3_2_-7__-5__]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 163, Czepielew. Polonez]
+FKT[]
+SIG[42172000000]
+KEY[421720  16 Db 3/4]
+MEL[7_+2_+3b_+1_+2__  7_7_+1_765__  7_+2_+3b_+1_+2_+2_  7_7_+1_765__
+    7_+2_+3b_+1_+2__  +4_+4_+5_+5_+3b+2+1_
+    7_+2_+3b_+1_+2__  +4_+4_+5_+5_+3b+2+1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 163]
+FKT[]
+SIG[42172100000]
+KEY[421721  08  G 3/4]
+MEL[34565_  53542_  34565_  53542_
+    231-7-5_  135425  431-7-5_  135421 //]
+BEM[wariant w takcie 1: 345654#, wariant w takcie 2 i 4: 535421]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 163, od Różana]
+FKT[]
+SIG[42172200000]
+KEY[421722  08  C 3/4]
+MEL[+5+4#+2+4#+5_  +3b+2+1+2+3b_  +5+4#+2+4#+5_  +3b+2+175_
+    +1757+1_  +3b+2+4_.+3b  +1757+1_  6b5431_
+    (57+2)+4_+4+2  +3b+2+1+3b+2+1  (57+2)+4_+4+2  +3b__+2_
+    (57+2)+4_+4+2  +3b+2+1+3b+2+1  (57+2)+4_+4+2  +3b__+2_
+    57+2+4#+6+2  +4#+5+2+4#+5+2  +2+4#+5+2+4#+5  +3b+2+175_
+    +1757+1_  +3b+2+4_.+3b  +1757+1_  6b5431_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 164, od Makowa]
+FKT[]
+SIG[42172300000]
+KEY[421723  08  G 3/4]
+MEL[12345_  354_42  12345_  354_42
+    5_5_54#  5_4_2_  5_+1_+1_  354342
+    3_1_-5_  -724_42  3_1_-5_  -72432-7
+    1_1_-5_  -724_42  1_1_-5_  -72432-7 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 164, od Makowa]
+FKT[]
+SIG[42172400000]
+KEY[421724  08 Bb 3/4]
+MEL[1-5124_  (357)+1_2-7  1-5124_  35+1_2-7
+    1-51234  321-72-7  1-51234  31-7_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 164, Bodzanów]
+FKT[]
+SIG[42172500000]
+KEY[421725  08  C 3/4]
+MEL[5435+1_  5435+1+3  +5+4+2+17_  5_5+3+1_
+    757+2+4+2  +1_+1__  5_++1_++1+6  +5__+1_  +4+3+4+5+6+4
+    +2_.+176  567+1+2+3  +4_.+3+4+2  +6+5+4+3+4+2  +1_+1__ //]
+BEM[wariant w takcie 1: 5435+16, wariant w takcie 3: +5+4+2+176]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 165, Bodzanów]
+FKT[]
+SIG[42172600000]
+KEY[421726  08  F 3/4]
+MEL[5_5531  462__  4_642-7  -5-71__
+    1_-7-6-7-5  135__  4_642-7  -5-71__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 165, Mąkolin]
+FKT[]
+SIG[42172700000]
+KEY[421727  08  G 3/4]
+MEL[5_5654#  562_1_  3_(323)43  (-5-71)3_1_
+    3_32-7-5  (-6-71)3_5_  3_32-7-5  (-6-71)3_1_ //]
+BEM[Wariant w takcie 8: (342)3_1_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 165, od Pułtuska]
+FKT[]
+SIG[42172800000]
+KEY[421728  08  F 3/4]
+MEL[1_1231  345_6_  4_654_  6+17_+1_
+    1_1231  345_6_  4_(431)-7b_  143_1_
+    13421-7b  (124)3_5_  13421-7b  (124)3_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 165, Mąkolin]
+FKT[]
+SIG[42172900001]
+KEY[421729  08  A 3/4]
+MEL[5_654#5  56+1_5_  5_654#5  654321
+    1_-712-7  -543_5_  1_-712-7  -543_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 165, Mąkolin]
+FKT[]
+SIG[42172900002]
+KEY[421729  08  A 3/4]
+MEL[5_654#5  56+1_5_  5_654#5  +154321
+    1_-712-7  -54365_  1_-712-7  -543_2_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 166, Mąkolin]
+FKT[]
+SIG[42173000000]
+KEY[421730  08  G 3/4]
+MEL[1_3566  434_1_  465_67b  +1+17b_5_
+    1_3566  434_1_  -7b21_23  443_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 166, Mąkolin]
+FKT[]
+SIG[42173100000]
+KEY[421731  08  G 3/4]
+MEL[2_2465  436_+1_  57b+17b64  353_1_
+    2_2464  357b+153  2_2464  353_1_
+    (123)5_32  3_5_6_  245431  -7b2-7b_-6b_  1__. //]
+BEM[wariant w takcie 2: 46+1_+2_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 166, od Pułtuska]
+FKT[]
+SIG[42173200000]
+KEY[421732  08  C 3/4]
+MEL[+1_+15+1+3  +5_+5_+3+1  7_757+2  +3+4+3+4+27
+    5_5_+17  6_6_+2+1  7_757+2  +1+2+3+4+5_
+    5_5_+17  6_6_+2+1  7_4#54#5  7+1+2+3+1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 166, Kosino]
+FKT[]
+SIG[42173300000]
+KEY[421733  32  C 3/8]
+MEL[+3b__+2_+175_67  +1_+3_+5_+6_+4__  +3b_.+2+1_7_5_67  +1_+3_+5_+6_+4__
+    +3_+2_+1_7_5_3_  4_5_6_7_+1__  +3_+2_+1_7_5_3_  4_5_6_7b_6__
+    5_67+2__+1_6_  4_5_6_7_+1__  +3b__+2_+175_43  4_5_6_7b_6__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 167, od Wyszogrodu]
+FKT[]
+SIG[42173400000]
+KEY[421734  08  G 3/4]
+MEL[5_4#24#6  5_4#24#6  5_4#24#6  5_5_5_
+    135652  31-721_  2__2_  2-7-5-71_
+    2_2_2_  ^-7-5-71_  -5_.-713  2-7-5-71_
+    2_2_2_  ^-7-5-71_  -5_.-713  2-7-5-71_
+    -5_.-713  2-7131-7  -5_.-713  2-7-5-71_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 167, od Pułtuska]
+FKT[]
+SIG[42173500000]
+KEY[421735  08  G 3/4]
+MEL[1_32#35  4_4342  1_32#35  4_4342
+    5_2_-7-6  -5_-7-5-72  5_2_-7-6  -5_-5_-72 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 167, Kosino]
+FKT[]
+SIG[42173600000]
+KEY[421736  32  C 3/8]
+MEL[6__6_+1_+2_+4_  +6__+5_+3_+1_7_  6__6_+1_+3_+4_  +2_+17+1__+1_7_
+    6__6_+1_+2_+4_  +6__+5_+3_+1_7_  ^_6_6_+1_+3_+4_  +2_+17+1__+1_7_
+    6__6_+1_+3_+4_  +2_+17+1__+3+4+5_  ^_+3_+3__+3_+4_  +2_+17+1__+1_7_
+    6__6_+1_+3_+4_  +2_+17+1__+3+4+5_  ^_+3_+3__+3_+4_  +2_+17+1__+1_7_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 167-168, Czepielew]
+FKT[]
+SIG[42173700000]
+KEY[421737  16 Db 3/4]
+MEL[+5b__+5b_+6b_+5b_+4_  +5b_+3b+2b+1b__+3b_+4b_  +5b__+5b_+6b_+5b_+4_
+    +5b_+3b+2b+1b__7__  +1b_+2b+3b+1b__+3b_+5b_  +4b_+3b+2b+1b__+2b_7_
+    +1b_+2b+3b+1b__+3b_+5b_  +4b_+3b+2b+1b__7__  +1b_+2b+3b+1b__7__  +1b_+2b+3b+1b__7__
+    +1b_+2b+3b+1b__7__  +1b_+2b+3b+1b__7__ //]
+BEM[wariant w takcie6:+4b_+3b+2b+1b_5b_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 168, od Pułtuska]
+FKT[]
+SIG[42173800001]
+KEY[421738  08  C 3/4]
+MEL[+5_+5+2+3+2  7+2+4+2+4+6  +5_.+2+3+2  756_5_
+    +5_+5+2+3+2  7+2+4+2+4+6  +5_.+2+3+2  756_5_
+    7+2+4_+4_  756_6_  7+2+4+3+1_  756_5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 168, od Pułtuska]
+FKT[]
+SIG[42173800002]
+KEY[421738  08  C 3/4]
+MEL[+5_+5+2+3+2  7+2+4+2+4+6  +5_.+2+3+2  756_5_
+    +5_+5+2+3+2  7+2+4+2+4+6  +5_.+2+3+2  756_5_
+    7+2+4+3+4+2  756765  7+2+4+3+1_  756_5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 168, od Pułtuska]
+FKT[]
+SIG[42173900000]
+KEY[421739  08  A 3/4]
+MEL[352_46  5_2_1_  352_43  3_-7_1_
+    (-5-72)4_31  2_4_5_  524_31  2_-7_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 168, Czepielew]
+FKT[]
+SIG[42174000010]
+KEY[421740  08  C 3/4]
+MEL[+2+4+6_+6+2  +1_+3_+5_  +2+4+6_+6+2  +1_+3_+1_
+    +4+4+3_7+2  +1_+3_+5+2  +4+4+3_7+2  +1__. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 168, Czepielew]
+FKT[]
+SIG[42174000020]
+KEY[421740  08  C 3/4]
+MEL[7+1+3b_+2_  4_(656)+15  7+1+3b_+2_  4_6_5_  7b_6_5_
+    4_6_+1_  7b_6_5_  4_6_+15  7b_6_5_  4_6_5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 169, Unierzyrz]
+FKT[]
+SIG[42174100000]
+KEY[421741  08  C 3/4]
+MEL[(57+2)+1_+3+5  +4_+3_+5_  (57+2)+1_+3+5  (+4+5+4)+3_5_
+    (57+2)+1_6_  6+17_5_  (57+2)+1_6_  6+17_5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 169, Mąkolin]
+FKT[]
+SIG[42174200000]
+KEY[421742  16  G 3/4]
+MEL[-5_-6-72__2_4_  6__4__+1#__  +1#_7_2__2_4_  4__3__1_-7_
+    -5_-6-72__2_-5_  1_1_3__1_-7_  -5_-6-72__2_-5_  1_1_3__1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 169, od Janowa]
+FKT[]
+SIG[42174300000]
+KEY[421743  08  F 3/4]
+MEL[135_5+1  644_.6  651_.3  322__
+    1_.32-7  1_.32-7  -5-72_24  655__
+    1_.32-7  1_.32-7  -5-72_24  655__
+    +153_31  -724_4_  642_2-7  135_.5 //]
+BEM[wariant w takcie 1: 13535+1, wariant w takcie 11:642_22]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowssze 7, s. 169, Mąkolin]
+FKT[]
+SIG[42174400000]
+KEY[421744  08  G 3/4]
+MEL[135_56  434_1_  465_67  +1+17b_5_
+    135_56  434_1_  -7b21_23  443_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 170, od Makowa]
+FKT[]
+SIG[42174500010]
+KEY[421745  08  C 3/4]
+MEL[(+1+2+3)+4_+3+1  +3+5+6_+4_  (+1+2+3)+4_+3+1  +275_+1_
+    (+1+2+3)+4_+3+1  +3+5+6_+4_  (+1+2+3)+4_+3+1  +275_4_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 170, od Makowa]
+FKT[]
+SIG[42174500020]
+KEY[421745  16  F 3/4]
+MEL[(3_4_3_)1__3_5_  6_432__4__  3__1__3_5_  6_432__1__ //]
+BEM[modulacja]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 170, Mąkolin]
+FKT[]
+SIG[42174600000]
+KEY[421746  08  C 3/4]
+MEL[556_7+1  (7+1+2)+5_+3_  +1+16_7+1
+    (7+1+2)+5_+3_  (+2+17)6_7+1  554_6_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 170, Kosino]
+FKT[]
+SIG[42174700001]
+KEY[421747  16  G 3/8]
+MEL[135_4#6  54#2_3_  135_4#6  54#2_-7_
+    -533_3-5  -712_4_  -533_3-5  -712_-7_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 170, Kosino]
+FKT[]
+SIG[42174700002]
+KEY[421747  32  G 3/8]
+MEL[(1_2_3_)5__4#_6_  5_4#_2__3__  (1_2_3_)5__4#_6_  5_4#_2__-7__
+    -5_3_3__3_-5_  -6-71_2__4__  -5_3_3__3_-5_  -6-71_2__-7__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 170, Mąkolin]
+FKT[]
+SIG[42174800000]
+KEY[421748  08  A 3/4]
+MEL[133_(542)  (456)+1_5_  133_(542)  (1-7-5)-6-71_
+    13-5_-72  (1-7-5)342-7  13-5_-72  (1-7-5)-6-71_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 170-171, od Makowa]
+FKT[]
+SIG[42174900000]
+KEY[421749  16  A 3/4]
+MEL[(4#_2_4#_)6__4#_3b_  2_1_3b__2__  (4#_2_4#_)6__4#_3b_  (3b_2_1_)-7__-5__
+    (-5_-6_-7_)1__2_-7_  1___2_-7_  (-5_-6_-7_)1__2_-7_  1__-5___
+    (-5_-6_-7_)1__2_-7_  1_23b1__4#__  (-5_-6_-7_)1__2_-7_  1_23b1__4#__
+    (-5_-6_-7_)1__2_-7_  1__-5___ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 171, Płock]
+FKT[]
+SIG[42175000010]
+KEY[421750  16  C 3/8]
+MEL[(567)+1_+17  (567)+2_+1_  (567)+1_+17  (543)2_1_
+    (567)+1_+17  (567)+2_+1_  (567)+1_+17  (543)2_1_
+    1_3_32  46+1_+17  5_4346  (543)2_1_
+    1_3_32  46+1_+17  5_4346  (543)2_1_ //]
+BEM[zmiana tonacji]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 171, Płock]
+FKT[]
+SIG[42175000020]
+KEY[421750  16  G 3/8]
+MEL[-1-3-5_1_  -6-4-6_1_  2-72_5_  (343)2_3_
+    -1-3-5_1_  -6-4-6_1_  2-7-5_5_  (343)2_1_ //]
+BEM[zmiana tonacji]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 171, Płock]
+FKT[]
+SIG[42175000030]
+KEY[421750  16  D 3/8]
+MEL[555_6_  555_+1_  555_6_  542431 //]
+BEM[zmiana tonacji]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 171, Płock]
+FKT[]
+SIG[42175000040]
+KEY[421750  16  G 3/8]
+MEL[555_6_  555_+1_  555_6_  542431 //]
+BEM[zmiana tonacji]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 171, Mąkolin]
+FKT[]
+SIG[42175100001]
+KEY[421751  08  G 3/4]
+MEL[124_32  135_+1_  +162_24  653_3_
+    124_32  1_3135  (-5-72)4_42  653_3_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 171, Mąkolin]
+FKT[]
+SIG[42175100002]
+KEY[421751  08  G 3/4]
+MEL[-524_32  135_+1_  +162_24  653_1_
+    -524_32  1_3135  (-5-72)4_42  653_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 171, Mąkolin]
+FKT[]
+SIG[42175200000]
+KEY[421752  08  G 3/4]
+MEL[(21-7)-5_46  +153_5_  (21-7)-5_46  +153_1_
+    (21-7)-5_42  (-5-71)3_5_  (21-7)-5_42  -713_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 172, Mąkolin]
+FKT[]
+SIG[42175300001]
+KEY[421753  08  G 3/4]
+MEL[(1-7-5)1_24  642_4_  (1-7-5)1_24  642_4_
+    (1-7-5)1_2_  (1-7-5)1_5_  (1-7-5)-6_-7_  (1-71)3_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 172, Mąkolin]
+FKT[]
+SIG[42175300002]
+KEY[421753  08  G 3/4]
+MEL[(1-7-5)1_46  +164_6_  (1-7-5)1_24  642_4_
+    (1-7-5)1_2_  (1-7-5)1_5_  (1-7-5)-6_-7_  (1-71)3_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 172, od Bodzanowa,Mąkolin]
+FKT[]
+SIG[42175400010]
+KEY[421754  16  C 3/4]
+MEL[5_+6_+5__(+4_+3_+2_)  +1_+2+3+5__+4__  5_0+6+5__(+4_+3_+2_)  +1_+2+3+1__5__
+    5_+6_+5__(+4_+3_+2_)  +1_+2+3+5__7__  5_0+6+5__(+4_+3_+2_)  +1_+2+3+1__1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 172, od Bodzanowa, Mąkolin]
+FKT[]
+SIG[42175400020]
+KEY[421754  08  F 3/4]
+MEL[1_3_5_  4_6_42  1_3_5_  (642)-7_-5_
+    1_3_5_  (434)6_42  1_3_5_  (642)-7_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 172, od Serocka]
+FKT[]
+SIG[42175500010]
+KEY[421755  08  F 3/4]
+MEL[(567)+1_53  443_5_  (567)+1_53  443_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 172, od Serocka]
+FKT[]
+SIG[42175500020]
+KEY[421755  08 Bb 3/4]
+MEL[432_6_  5_3_1_  -72-5_-5-7  113_5_
+    432_6_  5_3_1_  -72-5_-5-7  1__. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 172, od Bodzanowa, Żętowo]
+FKT[]
+SIG[42175600000]
+KEY[421756  08  A 3/4]
+MEL[556_54  (234)5_.3  556_54  231-7-5_
+    112_1-7  -553_32  112_1-7  (-5-6-7)1_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 173, Bodzanów]
+FKT[]
+SIG[42175700000]
+KEY[421757  08  G 3/4]
+MEL[112_53  246_5_  112_53  243_2-7
+    1_.253  245_2-7  1-71253  243_2-7 //]
+BEM[wariant w takcie 2 : 24(676)53 vel 246_75]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 173, Czepielew]
+FKT[]
+SIG[42175800000]
+KEY[421758  08 Db 3/4]
+MEL[+2+4+6_+6+3  +5_+2_+3+1  +2+4+6_+6+3  +5_+2+3+1_
+    57+1_+3+2  +4_+1_+3+5  +6+2+3_+3+1  +4_+2+3+1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 173, Czepielew]
+FKT[]
+SIG[42175900000]
+KEY[421759  08 Db 3/4]
+MEL[+2b+5b+4_+2b+4  +5b_+3b+2b+1b_  +2b+5b+3b_+2b+3b
+    5b_7_+1b_  +2b+5b+3b_+5b_  5b_7_+1b_  +1b+2b+4b_+2b+3
+    +1b_+2b+3+4b_  +1b+2b+4b_+2b+3  5b_7_+1b_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 173, Czepielew]
+FKT[]
+SIG[42176000000]
+KEY[421760  08 Db 3/4]
+MEL[5b7+2b_+4b+2b  +5b+4+3b+2b+1b_  +3b+2b+1b_+3b_  +2b+1b76b5b_
+    5b7+2b_+4b+2b  +5b+4+3b+2b+1b_  +3b+2b+1b_+3b_  +2b+1b76b5b_
+    7b6b5b_+2b_  7b6b5b_+5b_  +4_+4+2b+3+4  +5b+2b7b_5b_
+    7b6b5b_+2b_  7b6b5b_+5b_  +4_+4+2b+3+4  +5b+2b7b_5b_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 174, od Pułtuska]
+FKT[]
+SIG[42176100000]
+KEY[421761  08  F 3/4]
+MEL[(135)4_6+1  +1757+1_  (135)4_6+1  +175_1_
+    354_2-7b  1_135_  (135)4_2-7b  1_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 174, od Płońska]
+FKT[]
+SIG[42176200000]
+KEY[421762  08  G 3/4]
+MEL[135_67  642_34  556_-7_
+    135_67  642_34  556_-7_  133_24
+    2-7-5_-6-7  112_65  133_24  2-7-5_-71  356_43 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 174, od Makowa]
+FKT[]
+SIG[42176300000]
+KEY[421763  16  A 3/4]
+MEL[(1_2_3_)4__4_3_  2_4_6b__5_4#_  5_3b21__5__  4_2_-7___
+    1__3b_2_3b_5_  4_2_-7__2_4_  1__3b_2_3b_5_  4_2_-7___
+    1__3b_2_3b_5_  4_2_-7__2_4_  3b_1_3b_2_3b_5_  4_2_-7___ //]
+BEM[wariant taktu 10 : 4_2_-7_2_4_6b_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 174, Mąkolin]
+FKT[]
+SIG[42176400000]
+KEY[421764  08  G 3/4]
+MEL[355_33  553_65  424_6_  531_-6-5
+    -721_32  125_4_  221_3_  431_-6-5 //]
+BEM[wariant w takcie 1: 355_5_, wariant w takcie 6: 125_42]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 175, Mąkolin]
+FKT[]
+SIG[42176500000]
+KEY[421765  08  C 3/4]
+MEL[5+6+6_(+6+5+4)  (+2+3+4)+5_(+175)  5+6+6_+5_  (+3+4+3)+2_(+175)
+    +1+3+3_+2+3  +5_+4_(+175)  +1+3+3_(+2+3+5)  (567)+1_5_ //]
+BEM[wariant w takcie 3: 5+6+6_+5+4]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 175, Mąkolin]
+FKT[]
+SIG[42176600000]
+KEY[421766  16  G 3/4]
+MEL[5_5_6__5_4#_  5_5_6__5_4#_  6_5_4__2_3_  1_2_-7__-5__
+    1_234__2__  3_3_4__2__  5_5_4__2_3_  1_2_-7__-5__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 175, od Pułtuska]
+FKT[]
+SIG[42176700000]
+KEY[421767  08  E 3/4]
+MEL[(567)+1_+17  +2+3+1_+16  (567)+1_+17  564#_2_
+    (567)+1_+17  576_6_  (567)+1_+17  564#_2_ //]
+BEM[wariant w takcie 6:576_+1_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 175, Kosino]
+FKT[]
+SIG[42176800000]
+KEY[421768  32  C 3/8]
+MEL[5_67+1__+2_+3+4#  +5_+4#+5+6__+5_+4#_  +5_+4#+5+6__+5_+4#_  +6_+5_+4#__+2_+3b_  +1_+2_7__5__
+    7_+1_+5__+4_+3b+2  +1_+1_+4__+2__  7_+1_+5__(+4_+3b_+2_)  +1_+2_7__5__
+    +3_+3_+4__+2_+3_  +1_+1_+4__+2__  +3_+3_+4__+2_+3_  +1_+2_7__5__
+    +1_+3_+4__+2_+3_  +1_+2+3+4__+2__  +1_+3_+4__+2_+3_  +1_+2_7__5__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 176, Mąkolin]
+FKT[]
+SIG[42176900000]
+KEY[421769  16  A 3/4]
+MEL[2_345__3_4_  5_6_3__2_-7_  2_345__3_4_
+    5_6_2__1_-5_  -5_-6-71_-7_1_2_  3_1_3_4_2_-7_  (-5_-6_-7_)1_-7_1_2_
+    (3_4_5_)3__(2_-7_-5_)  (-5_-6_-7_)1__1_-5_  3_4_2__-7_-5_  -5_-7_1__.-5_
+    (-5_-6_-7_)1__1_-5_  3_4_2__-7_-5_  -5_-7_1__.-5_ //]
+BEM[wariant w takcie 4: 5_6_3_4_(2_-7_-5_)]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 176, Czepielew]
+FKT[]
+SIG[42177000000]
+KEY[421770  16  G 3/4]
+MEL[3_5_5__4#_2_  4#_6_5_4#_2_4#_  3_.5+1__2_1_  4__-7__1__
+    -5__-7_2_1__  -5__-7_2_1__  3_5_4#__2_4#_  5__4#_5_2_1_
+    (3_4_3_)-7__1__  -5__-7_2_1__  3_5_4#__2_4#_  5__+1__2_1_  4__-7_2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 176, Kosino]
+FKT[]
+SIG[42177100000]
+KEY[421771  16  D 3/8]
+MEL[+1+1+6_+5+4  +27+1+2+4+3  +1+1+6b_+5+4  +27+1_6b_
+    +1+1+2_(+1+2+4)  (+3+27)+1+2+3_  +1+1+2_+2+4  (+3+27)+1_6b_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 176-177, Kosino]
+FKT[]
+SIG[42177200000]
+KEY[421772  16  C 3/8]
+MEL[+2+3+1_+27  +1+3+5+6+5+4#  +2+3+1_+27  +1+3+5_+5+4#
+    +2+3+1_75  665_+4_  +2+3+1_75  665_+2_
+    +2+3+1_75  +165_+4_  +2+3+1_75  665_+2_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 177, Mąkolin]
+FKT[]
+SIG[42177300010]
+KEY[421773  08  C 3/4]
+MEL[(567)+1_+2+1  +3+5+6+5+4+2  +2+4+5_(+3+2+1)
+    +3+5+6+5+4_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 177, Mąkolin]
+FKT[]
+SIG[42177300020]
+KEY[421773  08  F 3/4]
+MEL[6+1+2_(765)  43213_
+    2_2135  4346+1_  2_2135  43213_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 177]
+FKT[]
+SIG[42177400000]
+KEY[421774  08  C 3/4]
+MEL[7+1+2_+7+6  +5+6+5+4+3+2  7+1+2_+7+6
+    +5+6+5+4+3+2  7+1+3_+27  +1+2+5+4+35
+    7+1+3_+27  +17+1+2+35  7+1+3_+27  +1_.565 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowszed 7, s. 177, od Pułtuska]
+FKT[]
+SIG[42177500000]
+KEY[421775  08  G 3/4]
+MEL[-513135  4_2_7_  7_6_7_  +1+15_31
+    -513135  4_2_7_  7_6_7_  +1_+1__
+    6_6__  653_3_  242_2_  12345_
+    6_6__  653_3_  242_2_  1_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalne]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 178, od Pułtuska]
+FKT[]
+SIG[42177600000]
+KEY[421776  08  G 3/4]
+MEL[1357+16  5_3_1_  6567+16  5_3_42
+    1357+16  5_3_1_  6567+16  5_3_42
+    133_-5_  (135)5342  133_-5_  (135)5342 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 178, od Płocka]
+FKT[]
+SIG[42177700000]
+KEY[421777  16  A 3/4]
+MEL[1_023_4_5_6_  4_.23__1__  2_-7_-5__-5__  4_2_3__1__
+    2_-7_-5__-5__  1_3_5_4#_6_5_  2_-7_-5__-5__  4_2_3__1__
+    5___5_4_  3_.5+1__+1__  6___4__  2_.1-7_2_1__
+    2_-7_-5__-5__  1_3_5_4#_6_5_  2_-7_-5__-5__  4_2_3__1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 178, od Makowa]
+FKT[]
+SIG[42177800000]
+KEY[421778  08  C 3/4]
+MEL[+1+3+5+4#+2+4#  +5_+4#+6+5_  +1+3+5+4+2+3  +1_+275_
+    (57+2)+3_+16  5_7+2+4#+5  (57+2)+3_+16  6_+175_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 178-179, Kosino. Owcarz]
+FKT[]
+SIG[42177900000]
+KEY[421779  16  A 3/8]
+MEL[12345_  57b642_  57b642_  57b+1_.6  57b642_
+    57b+2+3+27b  57b642_  567b5+17b  5_555_  123b45_
+    542-7b-5_  13b2-7b-5_  1_135_  542-7b-5-7b  1_111_ //]
+BEM[wariant w takcie 1: 123453]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 179, Czepielew. Owczarek]
+FKT[]
+SIG[42178000000]
+KEY[421780  08 Ab 3/4]
+MEL[123454  57b642_  57b642_  567b5+27b
+    57b642_  567b5+27b  5__.  12345_  13b2-7b-5_
+    123143  13b2-7b-5_  123143  1__. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 179, od Pułtuska]
+FKT[]
+SIG[42178100000]
+KEY[421781  08  A 3/4]
+MEL[542-7-5-4  -3-1-3-51_  -7-5-7-542  3135+1_
+    542-7-5-4  -3-1-3-51_  -7-5-7-542  3135+1_
+    -4_-4-6-61  144_-6-7b  -5_3123  466+1+4_
+    -4_-4-6-61  144_-6-7b  -5_3123  46434_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 179, od Makowa. Polski]
+FKT[]
+SIG[42178200000]
+KEY[421782  16  A 3/4]
+MEL[-7_2_3b_1_2_2_  -7_-7_1_-7b-6-5__  -7_2_3b_1_2_2_  -7_-7_1_-7b-6-5__
+    -7_2_3b_1_2__  4_4_5_5_3b21_  -7_2_3b_1_2__  4__5_5_3b21_ //]
+BEM[wariant w ostatnim takcie 4_4_5_5_3b21_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 180, od Makowa]
+FKT[]
+SIG[42178300000]
+KEY[421783  08  C 3/4]
+MEL[+17+1+2+3+4  +2+7++1_+27  +17+1+2+3+4  +2+7++1_+27
+    +17+1+2+3+4  +3+2+17+27  +17+1+2+3+4  +3+2+17+27
+    +1_+1+2+3+4  +3+17_+27  +1_+1+2+3+4  +3+2+17+27 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 180, Czepielew. Walec]
+FKT[]
+SIG[42178400000]
+KEY[421784  08 Bb 3/4]
+MEL[-7242-72  135313  -7242-72  1_3_1_
+    -1-3-1-3-5-3  -1-4-1-4-6-4  -5_2342  1-5135_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 180, od Chorzel. Polski]
+FKT[]
+SIG[42178500000]
+KEY[421785  32  C 3/4]
+MEL[+1__+1_+1_+1__+3__+1__+3__  +2__+2_+2_+2__+2__7__5__  +1__+1_+1_+1__+3__+1__+3__  +2__+2__+5____
+    +1__+1_+1_+1__+3__+1__+3__  +2__+2_+2_+2__+2__7__5__  +1__+1_+1_+1__+3__+1__+3__  +2__+2__+5____
+    +1__+1__6___+1__7__  5__5___5_6_7_+1_+2_+3_  +1__+1__6___+1__7__  5__5__3____
+    +1__+1__6__.+3+2+1__7__  5__5___5_7_+2_+3_+1_6_  +1__+1__6___+1__7__  5__5__3____ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 181, Czepielew]
+FKT[]
+SIG[42178600000]
+KEY[421786  08  B 3/4]
+MEL[135654#  24#54#52  135653  132-7-5_
+    (23b4)1_51  (-5-6-7)1_21  (23b4)1_4#5  (-5-6-7)1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 181, Kosino]
+FKT[]
+SIG[42178700000]
+KEY[421787  32  A 3/8]
+MEL[-5_-7_1_3b_5_76  5_4#_5__3b21-7  -5_-7_1_3b_5_.4#
+    2_4#_5__3b21-7  -5_-7_1_2_3b_1_  2_4_3b_2_1_-7_
+    -5_-7_1_3b_5_7_  2_4_3b_2_1_-7_  -5_-7_1_3b_5_.4#
+    2__.4_3b21-7  -5_-7_1_3b_5_4#_  2__.4_3b21-7 //]
+BEM[modulacja d-a]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 181, od Makowa]
+FKT[]
+SIG[42178800000]
+KEY[421788  16  A 3/4]
+MEL[1_3_5_7_5_7_  +2_+1_7_+1_5_3_  1_3_5_7_5_7_
+    +2_+1_7_+1_5_3_  1_3_5_7b_6_5_  4_3_4_6_5_3_
+    1_3_5_7b_6_5_  (4_3b_2_)-7__1__  3b_21-7__2_4_
+    3b_2_3b_4_5__  3b_21-7__2_4_  3b__-7__1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 182, Kosino]
+FKT[]
+SIG[42178900000]
+KEY[421789  32  G 3/8]
+MEL[2_4_6_7_6_5_  4_2_6_.53_1_  2_4_6_7_6_5_  3_2_3_4_3_1_
+    2_-7_-5_-7_1__  2_4_6_5_3_1_  2_-7_-5_-7_1__  2_4_5_4_3_1_
+    2_-7_-5_-7_1__  2_4_6_5_3_1_  2_-7_-5_-7_1__  2_4_5_4_3_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 182, Czepielew]
+FKT[]
+SIG[42179000000]
+KEY[421790  08  A 3/4]
+MEL[132131  -724321  -72-5-72-7
+    135432  351353  356543
+    24-7242  245432  13-5131  134321
+    -72-5-72-7  135432  13-5131  134321
+    -7_-7-5-6-7  1__. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 182, od Pułtuska]
+FKT[]
+SIG[42179100000]
+KEY[421791  16  C 3/4]
+MEL[+4_.+3+2_+1_+2_+4_  +3_.55_+1_+3_+1_  7_.+2+2_5_6_7_  +1_+3_+3_+1_+2_+3_
+    +4__+2_+1_+2_+4_  +3_.55_+1_+3_+1_  7_.+2+2__5_7_  +1__+1___
+    (5_5_5_)5__+1__  6_4_6__+2__  +2_7_5__+5__  (+4_+3_+2_)+3__+1__
+    (5_5_5_)5__+1__  6_4_6__+2__  +2_7_5__+5__  +1__+1__+1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 183, Kosino. Wolny]
+FKT[]
+SIG[42179200000]
+KEY[421792  16  D 3/4]
+MEL[567+1+3_+3+2+3_+1_  +2_+4_+6_+7_+6+5+4#_  567+1+3_+3+2+3_+1_
+    +2_+4_+6_+3_+5__  567+1+3_+3+2+3_+1_  +2+17_567_+2+17_
+    567+1+3_+3+2+3_+1_  +2_+4_+6_+7_+6+5+4#_  +6+5+4#_+6+5+4#_+6+5+4#_
+    567+1+3_+3+2+3_+1_  +2_+4_+6_+3_+5__  567+1+3_+3+2+3_+1_
+    +2+17_567_+2+17_  +2+17_+2+17_+2+17_  567_+2+17_567_  +2_7_5_+4_+2+17_ //]
+BEM[wariant w takcie 4 i 11: +2_+4_+6_+3_+5_+4#_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 183, od Pułtuska, Makowa. Polski]
+FKT[]
+SIG[42179300000]
+KEY[421793  16  A 3/4]
+MEL[3_5__54#5_5_  +1_2_5_4_3_2_  135__54#5_5_
+    +1_246_235432  3_1__1-71_1_  4_2__2_2_12
+    3_1__1_21-7-6  -5_5_4#_5_6_5_  3_243_243_23
+    4_2__2_1-7-6-5  135__433465  4321-5__1__ //]
+BEM[wariant w takcie 5: 3_1__333_3_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 184, Maków]
+FKT[]
+SIG[42179400000]
+KEY[421794  16  G 6/8]
+MEL[+1__+1_+1_.76_  5_.67_+1__.  2_.34_6__5_  5_.42_1__.
+    2_.34_6__4_  3__+1_7__+1_  2_.34_6__5_  5_.42_1__. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 184, Płock]
+FKT[]
+SIG[42179500000]
+KEY[421795  32  G 3/8]
+MEL[-5__  1_.23__3__  4_.32__.1_  -7_.24_.26_.5  3_5_+1__-5__
+    1_.23__3__  4_.32__.1_  -7_.24_.26_.5  1___5_4_
+    3_.45__5__  3_.45__5__  6_.7+1_.65_.4  3_.45___
+    4_.32_.34__  3_.21_.23__  2_.1-7_.12_.-7  1___ //]
+BEM[]
+
+DWOK42
+CUT[Dożelim żytko]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 210, od Sejn]
+FKT[]
+SIG[42179600000]
+KEY[421796  08  F 4/4]
+MEL[3  5_.35_.4#  22431_.3
+    5_.35_.4#  22431_.3  5_.4#2_2_
+    1__0_03  5_.4#2_2_  1__.0 //]
+BEM[prawdopodobnie błędny zapis metrorytmiczny]
+
+DWOK42
+CUT[Ej z góry z góry]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 213, Glinnik]
+FKT[]
+SIG[42179800000]
+KEY[421798  16  G 3/8]
+MEL[1_2_34  5_3_0_  5_5423  1_0_0_
+    5_5423  1_2_34  5_5423
+    1_2_34  5_5423  1__0_ //]
+BEM[]
+
+DWOK42
+CUT[Jak ja pójdę do panienki]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 213-214]
+FKT[]
+SIG[42179900000]
+KEY[421799  08  G 2/4]
+MEL[-5131  -7122  2242  2-711
+    4466  553_  2242  135_
+    4466  553_  2242  111_ //]
+BEM[]
+
+DWOK42
+CUT[I wygnała, przezegnała]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 214, od Suwałk]
+FKT[]
+SIG[42180000000]
+KEY[421800  08  A 3/4]
+MEL[23b4_.3b  543b_1_  3b42_-7b_  -5__.
+    23b4_.3b  542_-7b_  3b42_-7b_  -5__. //]
+BEM[wariant w taktach 3 i 7: 3b42_-7b-6]
+
+DWOK42
+CUT[Na Podolu woda topi]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 214-215, od Suwałk]
+FKT[]
+SIG[42180100000]
+KEY[421801  16  A 3/4]
+MEL[1_3_5__6__  4_2_1__3__  1_3_5__6__  4_2_1__-5__
+    -7_2_2__4__  1_3_5__4__  2_2_2__4__  5_321__-5__ //]
+BEM[wariant w takcie 3: 1_3_5__5_6_]
+
+DWOK42
+CUT[Cemu nie orzes]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 215, od Wizny]
+FKT[]
+SIG[42180300000]
+KEY[421803  08  A 3/4]
+MEL[224#_6_  54#5_21  -724#_6_
+    5__.  524_3b2  3b1-7_-5_
+    -724_.2  3b1-7_-5_  -724_3b2  1__0_ //]
+BEM[wariant w takcie 4: 54#5_5_]
+
+DWOK42
+CUT[Posed w taniec oberwaniec]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 216, od Augustowa]
+FKT[]
+SIG[42180400000]
+KEY[421804  08  G 2/4]
+MEL[5333  5333  4226  5_5_
+    5333  5333  42-72  2_1_
+    1355  535_  46+16  5_5_
+    5355  5355  42-72  2_1_ //]
+BEM[wariant w takcie 10-11: 534_  46+17]
+
+DWOK42
+CUT[A cemu ześ nie przysed]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 216-217, od Łomży]
+FKT[]
+SIG[42180500000]
+KEY[421805  08  A 3/4]
+MEL[13b5_5_  5_3b21_  24#6_5_
+    2_2-7-5_  -5-71_2_  4_23b1_
+    4_23b1_  4_23b1_  124_2_  2_2-7-5_ //]
+BEM[wariant w takcie 8: 124_5_]
+
+DWOK42
+CUT[Obiecał mnie Feluś]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 806, od Augustowa]
+FKT[]
+SIG[42180600000]
+KEY[421806  08  C 3/4]
+MEL[5+15_+1_  +3_.+2+1_  +1+35_67  +1__+2_
+    +3+3+2_+1_  +2__+1_  7+25_67  +1__+2_ //]
+BEM[wariant w takcie 2: +3_.+2+17]
+
+DWOK42
+CUT[Z poniedziałku na święto]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 218, Augustów]
+FKT[]
+SIG[42180800000]
+KEY[421808  08  G 3/4]
+MEL[135_5_  6_+1_6_  553_13
+    5_4_2_  113__  -5-72_4_  654__
+    135__  -5-72_4_  654_2-7  1_1__ //]
+BEM[wariant w takcie 7: 654_2-7]
+
+DWOK42
+CUT[Matulinku co mi dacie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 218, od Suwałk]
+FKT[]
+SIG[42180900000]
+KEY[421809  08  G 3/4]
+MEL[1-71234  565_4#_
+    24#5_3_  132-7-5_  1-71234
+    565_4#_  24#5_2_  1_.11-5 //]
+BEM[wariant w takcie 7: 24#5_(232)]
+
+DWOK42
+CUT[Moja dziewczyna robotna była]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 219, od Rajgrodu, Ełku]
+FKT[]
+SIG[42181000000]
+KEY[421810  08  G 6/8]
+MEL[135542  -7253_1
+    135542  -725310  4_22-7-5
+    1_35_.  234653  42-71_0 //]
+BEM[]
+
+DWOK42
+CUT[Jak u pani bywać]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 219]
+FKT[]
+SIG[42181100000]
+KEY[421811  08  G 2/4]
+MEL[3546  5_4_  3322  1_-5_
+    1322  354_  3322
+    354_  3322  1_-5_ //]
+BEM[wariant w takcie 6 i 8: 465_]
+
+DWOK42
+CUT[Komu bida, komu bida]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 220, od Augustowa]
+FKT[]
+SIG[42181200000]
+KEY[421812  08  A 2/4]
+MEL[554#5  3b3b21  3b23b4  5_+1_
+    554#5  3b3b1-7b  3b3b24  1_1_ //]
+BEM[]
+
+DWOK42
+CUT[Co mi das, to mi das]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 220, od Suwałk]
+FKT[]
+SIG[42181300000]
+KEY[421813  08  C 2/4]
+MEL[+3+3+4_  +3+3+4_  +3+3+4+2  +1_+1_
+    +2_+27  +3+1+2_  +27+3+1  +2_+2_ //]
+BEM[wariant w takcie 4: +16+1_, wariant w takcie 8: +27+2_]
+
+DWOK42
+CUT[Za góreckę zasła]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 221-222, od Suwałk]
+FKT[]
+SIG[42181500000]
+KEY[421815  16  G 2/4]
+MEL[1_3_5_4#_  2__-7__  1_3_5_4#_  2__-7__
+    1_3_4_43  1_1_-7_-7_  1_3_4_3_  1__-7__ //]
+BEM[]
+
+DWOK42
+CUT[Z tamtej strony jeziora]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 222]
+FKT[]
+SIG[42181600000]
+KEY[421816  08  A 2/4]
+MEL[111-7b  3b_4_  3b__  3b57b5
+    4_5_  1__  5_3b5  4_-7b_  13b43b
+    1_-7b_  3b456b  5_3b_  1__ //]
+BEM[wariant w takcie 8 : 45-7b_, wariant w takcie 12: 543b_]
+
+DWOK42
+CUT[Wysoki ganecek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 222, od Suwałk]
+FKT[]
+SIG[42181700001]
+KEY[421817  08  A 2/4]
+MEL[13b5_  24_3b  545_  3b1_-5
+    2-5-7b_  24_3b  545_  3b1_1 //]
+BEM[]
+
+DWOK42
+CUT[Wysoki ganecek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 222, od Suwałk]
+FKT[]
+SIG[42181700002]
+KEY[421817  16  A 2/4]
+MEL[1_3b_5__  2_4__3b_  5_4_5__  3b_1__-5_
+    -5_-7_-7__  2_4__6b_  5_4_5__  3b21__1_ //]
+BEM[]
+
+DWOK42
+CUT[Ej cięzko cięzko]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 223, od Łomży]
+FKT[]
+SIG[42181800010]
+KEY[421818  08  G 4/4]
+MEL[5_565_.3  13542_0_  5_565_.3  13542_0_ //]
+BEM[]
+
+DWOK42
+CUT[Ej cięzko cięzko]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 223, od Łomży]
+FKT[]
+SIG[42181800020]
+KEY[421818  08  D 4/4]
+MEL[5435+1_.3  64234_4_  5_67+1_.5  642-71_1_ //]
+BEM[]
+
+DWOK42
+CUT[Jak ja byłam grzecną]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 224, od Suwałk]
+FKT[]
+SIG[42181900000]
+KEY[421819  08  A 3/4]
+MEL[23b4_4_  6b_5__  5_2__  23b4_4_
+    6b_5__  5_2__  43b2_-7_  1_-6__
+    -7_2__  543b_-7_  2_-7__  2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Mała rybeczka]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 820, Wysokie Mazowieckie]
+FKT[]
+SIG[42182000001]
+KEY[421820  08  A 2/4]
+MEL[1_3b4  5_.4  3b23b1  1_-7b0
+    6b544  5_.1  -7255  1_.1 //]
+BEM[]
+
+DWOK42
+CUT[Mała rybeczka]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 225, Wysokie Mazowieckie]
+FKT[]
+SIG[42182000002]
+KEY[421820  08  A 2/4]
+MEL[113b4  5_.4  3b23b1  1-7b-7b0
+    6b56b4  53b21  -76b55  1_.1 //]
+BEM[]
+
+DWOK42
+CUT[Była żona co dobrego]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 227, od Augustowa]
+FKT[]
+SIG[42182500001]
+KEY[421821  08  A 3/4]
+MEL[(23b4)5_5_  13b4_1_  (23b4)5_5_  13b4_1_
+    2_-7_2_  445_1_  2_-7_2_  4_2_1_ //]
+BEM[]
+
+DWOK42
+CUT[Tup nóżką po kamieniu]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 226, od Suwałk]
+FKT[]
+SIG[42182100000]
+KEY[421821  08  G 3/4]
+MEL[3_1_2_  (323)6_5_  3_1_2_  -7_-5__
+    -6_-4_-5_  -6_2_-7_  12312_  -7_-5__ //]
+BEM[]
+
+DWOK42
+CUT[Dawno dali, zakazali]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 226, Rajgród]
+FKT[]
+SIG[42182300001]
+KEY[421823  16  F 3/8]
+MEL[542_.4  653_.1  542_.4  5__.
+    35+1_7+2  (+176)5_3_  432_-7_  1__0_ //]
+BEM[]
+
+DWOK42
+CUT[Dawno dali, zakazali]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 226, Rajgród]
+FKT[]
+SIG[42182300002]
+KEY[421823  16  F 3/8]
+MEL[542_.4  653_.5  542_.4  5__.
+    35+1_7+2  (+176)5_3_  432_7_  +1__0_ //]
+BEM[]
+
+DWOK42
+CUT[Była żona co dobrego]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 227, od Augustowa]
+FKT[]
+SIG[42182500002]
+KEY[421825  08  A 3/4]
+MEL[(23b4)5_5_  13b4_1_  (23b4)5_5_  13b4_1_
+    22-7_2_  445_1_  22-7_2_  43b2_1_ //]
+BEM[]
+
+DWOK42
+CUT[Była żona co dobrego]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 228]
+FKT[]
+SIG[42182600010]
+KEY[421826  16  G 2/4]
+MEL[+1_7_6_5_  3_323_5_  2_2_2_4_  3_323_5_
+    +1_7_6_5_  3_323_5_  2_234_2_  1_-7_1_1_ //]
+BEM[]
+
+DWOK42
+CUT[Była żona co dobrego]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 228]
+FKT[]
+SIG[42182600020]
+KEY[421826  08  D 2/4]
+MEL[5_35  5+1+3_  +3+2+47  +2+1+3+1 //]
+BEM[]
+
+DWOK42
+CUT[Na Podolu biały kamiń]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 228]
+FKT[]
+SIG[42182700000]
+KEY[421827  08  A 2/4]
+MEL[111-7b  3b_4_  5_3b_  7b__  6b543b
+    4_5_  1_-7b_  3b456b  4_3b_  1_.1 //]
+BEM[wariant w takcie 9: 4_5_]
+
+DWOK42
+CUT[Na Podolu biały kamień]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 229]
+FKT[]
+SIG[42182800000]
+KEY[421828  08  D 3/4]
+MEL[55+3_.+1  +2+17_5_
+    (+2+3+4)+5_+2_  +4+3+275_  7_+1_54
+    575_+3+1  7_+1_54  575_.5 //]
+BEM[]
+
+DWOK42
+CUT[Cego kalino w dole stoisz]
+REG[]
+TRD[DWOK42, Mazowsze 7, s 229, od Suwałk]
+FKT[]
+SIG[42182900000]
+KEY[421829  08  A 3/4]
+MEL[1_3b_5_  5_4__  2_-7_-5_  2_1__
+    3b_5_5_  6b_5__  5_1__  3b_5__
+    1_3b_5_  5_4__  2_-5__  2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Czego kalino...]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 229-230, od Łomży]
+FKT[]
+SIG[42183000000]
+KEY[421830  08  C 3/4]
+MEL[5_+1_+3_  +5+4+2__  +3_5_7_  +2_+1__
+    +3_+5_+5_  +6+5+5__  +5+4+2__  +3+4#+5__
+    +3_+3_+5_  +5+4+2__  +3_5__  +1_+3__
+    +3_+3_+5_  +5+4+2__  +3_5_7_  +2_+1_0_ //]
+BEM[]
+
+DWOK42
+CUT[We dworze w Dyspudzie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 230, od Suwałk]
+FKT[]
+SIG[42183100000]
+KEY[421831  16  C 2/4]
+MEL[+1_+3__+3_  +2_+3+4+5__  +3_+3__+3_  +2_+3+4+5__
+    +4_+6__+3_  +5_+4+3+2__  +5_+5__+4_  +2_7_+1__ //]
+BEM[wariant w takcie 1: +1+2+3__+3_]
+
+DWOK42
+CUT[A tam w sławnym mieście]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 230]
+FKT[]
+SIG[42183200000]
+KEY[421832  16  C 2/4]
+MEL[5_5_+1__  7_6_5__  +1_+3_+2_+4_  +3_5_+1__
+    +1_+3_+2_+2_  +176_5_5_  6_7+1+2__  7_6_5__ //]
+BEM[wariant w takcie 1-2: 5_5_+1_+1_  7_6_5_5_]
+
+DWOK42
+CUT[Szumiała leszczyna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 231, od Stawisk, Szczuczyna]
+FKT[]
+SIG[42183300000]
+KEY[421833  08  A 3/4 4/4]
+MEL[123b_1_  4_567b_  67b+1_+2+1
+    (7b65)4__  7b67b45_1_
+    3b5(453b)1_-7b_  3b13b_5_  (453b)1__ //]
+BEM[]
+
+DWOK42
+CUT[Już mój cisak osiodłany]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 232, Augustów]
+FKT[]
+SIG[42183500000]
+KEY[421835  08  C 3/4]
+MEL[+1+1+1+17+1  +3+2+2_.7
+    +2+2+2+2+4+3  +3_+2_0_  +3+3+3+3+2+3
+    +5+4+4_.+3  +4+2775+4  +2+1+1_0_ //]
+BEM[]
+
+DWOK42
+CUT[Pojechał Jasio na łowy]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 233, od Łomży]
+FKT[]
+SIG[42183600000]
+KEY[421836  08  C 4/4 3/4]
+MEL[5+1+1+3+3_+2+1  +1_7_0__
+    57+2+3+47  +2_+1_0_  +3_.+2+2_+1_
+    +4_+3+3+3_+2_  57+2+3+47  +2_+1_0_ //]
+BEM[wariant w takcie 2:+177_0__]
+
+DWOK42
+CUT[Pojechał Jasio na łowy]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 234]
+FKT[]
+SIG[42183700000]
+KEY[421837  08  G 3/4]
+MEL[354#565  5+1+1_0_
+    354#565  542_0_  243454
+    35+1__  +2_.+176  544_3_ //]
+BEM[]
+
+DWOK42
+CUT[Widełecki strugał]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 234, od Łomży]
+FKT[]
+SIG[42183800000]
+KEY[421838  08 Bb 3/4]
+MEL[542_34#  5__3_  542_34#  5__3_
+    562_4_  231__  -7-6-5_-7_  1_2__
+    562_43  231__  -7-6-5_-7_  -612__ //]
+BEM[]
+
+DWOK42
+CUT[A na suchym dębie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 235]
+FKT[]
+SIG[42184000000]
+KEY[421840  08  G 3/4]
+MEL[54#5135  434235
+    431_4_  2-7-5__  1-71-5-61
+    212-5-72  431_4_  2-7-5__ //]
+BEM[]
+
+DWOK42
+CUT[Nie pójdę ja za takiego]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 235, od Goniądza]
+FKT[]
+SIG[42184100000]
+KEY[421841  16  G 2/4]
+MEL[3_3_3_3_  4_.32_1_  -7_1_2_2_  -5__-5__
+    5_5_5_5_  6_.54_3_  2_3_4_5_  1__1__ //]
+BEM[wariant w ostatnim takcie: 3__1__]
+
+DWOK42
+CUT[Mozna poznać chłopa ze wsi]
+REG[]
+TRD[DWOK42, Mazowsze 7, s 236, od Augustowa]
+FKT[]
+SIG[42184200001]
+KEY[421842  08  G 3/4]
+MEL[556_2_  445_5_  314_4_  2-7-5_-5_
+    -5-71_1_  2-71_1_  314_4_  2-7-5_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Mozna poznać chłopa ze wsi]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 236, od Augustowa]
+FKT[]
+SIG[42184200002]
+KEY[421842  08  G 3/4]
+MEL[556_6_  445_5_  314_6_  2-7-5_-5_
+    -5-71_1_  2-71_3_  314_4_  2-7-5_-5_ //]
+BEM[]
+
+DWOK42
+CUT[Maryś moja Maryś]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 236, od Augustowa]
+FKT[]
+SIG[42184300000]
+KEY[421843  32  G 2/4]
+MEL[4__4__4__4__  3__2__1___  -7__2__-5__-7__  1__3__5___
+    4__4__4__4__  5__4__3__1__  -7__2__-5__-6-7_.  1___1___ //]
+BEM[wariant w takcie 2: 3__2__1__-5__]
+
+DWOK42
+CUT[Oj księdzu księdzu]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 237]
+FKT[]
+SIG[42184400000]
+KEY[421844  16  F 3/8]
+MEL[5_565_  3__1_  1_3_5_  +1__5_
+    4_4_43  2__2_  2_7_+1_  +2+3+264_
+    5_565_  3__1_  1_3_5_  +1__5_  4_4_43
+    2_+2_+2_  7_6_7_  +1__.  1_+1_7_  6__6_
+    6_+1_6_  5__3_  3_5_5_  6_4_2_  4_3_2_  1__.
+    5_5_2_  4__2_  5_5_2_  4__3_  1_3_5_
+    +1_7_6_  5_545_  6_4_2_  4_3_2_  1__. //]
+BEM[]
+
+DWOK42
+CUT[Ksiądz Maryni kupił buty]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 237]
+FKT[]
+SIG[42184500000]
+KEY[421845  08  G 3/4]
+MEL[113_2_  1-72_2_  224_4_  653_1_
+    235_.4  335_.3  432_7_  +1+1+1_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Hej, stojała w ogrodzie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s 238, od Wizny. Złodziejski obertas]
+FKT[]
+SIG[42184600001]
+KEY[421846  16  F 3/8]
+MEL[+1_7_5_  66+1_6_  352_4_  3_2__
+    1_3_2_  46+1_6_  352_4_  3_2__
+    113_2_  46+1_6_  552_4_  3_2__ //]
+BEM[]
+
+DWOK42
+CUT[Hej, stojała w ogrodzie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s 238, od Wizny. Złodziejski obertas]
+FKT[]
+SIG[42184600002]
+KEY[421846  16  F 3/8]
+MEL[+1_7_+2_  76+1_6_  552_4_  3_2__
+    1_3_2_  46+1_6_  352_4_  3_2__
+    113_2_  46+1_6_  552_4_  3_2__ //]
+BEM[]
+
+DWOK42
+CUT[Jestem synem kominiarza]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 239, od Łomży]
+FKT[]
+SIG[42184700000]
+KEY[421847  16  G 2/4]
+MEL[5_5_5_.4  3_3_3_.2  1_1_4_.3  3_2__.
+    4_4_4_2_  6_6_6_5_  5_.44_.-7  2_1__. //]
+BEM[]
+
+DWOK42
+CUT[A z podola moje wolki]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 240, Suwałki]
+FKT[]
+SIG[42184800001]
+KEY[421848  08  A 3/4]
+MEL[13b5_5_  424_6b_  5_3b_1_
+    -724_4_  43b1_3b_  2_-5_-5_ //]
+BEM[]
+
+DWOK42
+CUT[A z podola moje wołki]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 240, Suwałki]
+FKT[]
+SIG[42184800002]
+KEY[421848  08  A 3/4]
+MEL[13b5_5_  424_6b_  5_3b_1_
+    -7b24_.2  43b1_3b_  2_-7b_-5_ //]
+BEM[]
+
+DWOK42
+CUT[A za lasem...]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 240, od Łomży]
+FKT[]
+SIG[42184900000]
+KEY[421849  08  G 3/4]
+MEL[135_+1_  634_6_  5_2_4_  123_4_
+    323_4_  2_-7_1_  123_4_  323_4_
+    2_4_5_  624_4_  323_4_  2_-7_1_ //]
+BEM[]
+
+DWOK42
+CUT[Idzie pastereczka]
+REG[]
+TRD[DWOK42, Mazowsze 7, s 240-241, od Łomży]
+FKT[]
+SIG[42185000010]
+KEY[421850  08  C 3/4]
+MEL[567_5_  +1_+3__  +5+4+2_+4_  +6_+5__
+    567_5_  +1_+3__  +5+5+4_7_  +1_+1__ //]
+BEM[]
+
+DWOK42
+CUT[Idzie pastereczka]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 241, od Łomży]
+FKT[]
+SIG[42185000020]
+KEY[421850  08  A 3/4]
+MEL[5__3b_  3b21__  2_.3b1_  -7-6-5__ //]
+BEM[]
+
+DWOK42
+CUT[Bez płot skocyła]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 241, od Augustowa]
+FKT[]
+SIG[42185100000]
+KEY[421851  16  G 2/4]
+MEL[5__6_2_  4__3__  5__6_2_  4__3__
+    1_.11_2_  1__5__  2__-7_-6_  -5__-5__
+    5__6_2_  4__3__  5_5_6_2_  4__3__
+    1_.-71_2_  3_4_5__  2_.1-7_-6_  -5__-5__ //]
+BEM[]
+
+DWOK42
+CUT[U mularza jeden młotek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 242, od Augustowa]
+FKT[]
+SIG[42185200000]
+KEY[421852  08  G 3/4]
+MEL[135356  442_43  13535_
+    442_-7-5  2_1_-6_  -5-72_5_  2_1_-6_
+    -5-72_7_  2_1_-6_  -5-72_5_  2_1_-6_  -5_-5__
+    (232)1_-6_  -5-72_5_  (232)1_-6_
+    -5-72_7_  (232)1_-6_  -5-72_5_  (232)1_-6_  -5_-5__ //]
+BEM[wariant w takcie 3:1353(565), w taktach 5,7,9,10 ostatnia ćwierćnuta jest dwudźwiękiem c1-e1]
+
+DWOK42
+CUT[Rośnie na stawie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s 243, od Stawisk]
+FKT[]
+SIG[42185300000]
+KEY[421853  32  G 3/8]
+MEL[1__3__4#__  5___-5__  1_2_3__-7__  1___.
+    1__3__4#__  5___-5__  1_2_3__-7__  1___0__
+    -7_.12__1__  3_4#_5__1__  3_5_+1__6__  5_5_3__1__
+    -7_1_2__1__  -7_1_6__5__  4#_.54__-7__  1___0__ //]
+BEM[wariant w takcie 12: 6_5_3__1__]
+
+DWOK42
+CUT[Gdy w czystem polu]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 243, Sokółka]
+FKT[]
+SIG[42185400000]
+KEY[421854  16  G 3/8]
+MEL[-5_1_3_  5_3__  3_4_2_  1__-5_
+    -5_1_3_  5_6__  563_42  1__-5_
+    24-7_4_  316_.5  342_4_  653_.1
+    24-7_4_  316_.5  4#5324_  1__. //]
+BEM[wariant w takcie 13: (234)-7_4_
+wariant w takcie 15: 4#5324-7]
+
+DWOK42
+CUT[I wyjeżdżam w pilną podróż]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 244, od Tykocina]
+FKT[]
+SIG[42185500001]
+KEY[421855  16  G 3/8]
+MEL[-511_3_  533_2_  3__5_  534_2_
+    3__5_  534_2_  444_54  32345_
+    556_53  422_1-7  444_54
+    32345_  5_6_53  422_1_ //]
+BEM[]
+
+DWOK42
+CUT[I wyjeżdżam w pilną podróż]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 244, od Tykocina]
+FKT[]
+SIG[42185500002]
+KEY[421855  16  G 3/8]
+MEL[1__3_  533_21  3__56  534_21
+    3__56  534_21  444_54  32345_
+    556_53  422_1-7  444_54
+    32345_  556_53  422_1_ //]
+BEM[]
+
+DWOK42
+CUT[W sadzie gruski]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 245, Łomża]
+FKT[]
+SIG[42185600000]
+KEY[421856  16  F 3/8]
+MEL[135_5_  +1__3_  4_2__  +2+17_6_
+    5__2_  4_3__  135_5_  +1__3_
+    4_6__  543_2_  5__-7_  2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Przychodzę do Józi]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 247, Augustów]
+FKT[]
+SIG[42185700000]
+KEY[421857  08  C 3/4]
+MEL[+1+17_5_  +1_+1__  +1+17_5_
+    +1_+1__  +2+2+4_+4_  +3+1+1_+1_
+    77+2_+2_  +1+3+3_+3_  +2+2+4_+4_
+    +3+1+1_+1_  77+2_+2_  +1+1+1_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Przychodzę do Józi]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 248, Augustów]
+FKT[]
+SIG[42185800000]
+KEY[421858  08  C 3/4]
+MEL[766_5_  +1_+1__  766_5_  +1_+1__
+    57+2_+4_  +3+2+1_+1_  766_5_  +1+1+1_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Moja Andziu czy to ładnie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 248, Augustów]
+FKT[]
+SIG[42185900010]
+KEY[421859  08  G 3/4]
+MEL[135_5_  +166_5_  642_34  551__
+    135_5_  +166_5_  642_34  551__ //]
+BEM[]
+
+DWOK42
+CUT[Moja Andziu czy to ładnie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 248-249, Augustów]
+FKT[]
+SIG[42185900020]
+KEY[421859  08  C 3/4]
+MEL[57+2_+1_  +3_+1__  57+2_+1_  +3_+1__
+    5_.4#35  55+1_+2_  +356_7_  +1_+1__
+    5+1+3_+1_  +2_+1__  5+1+3_+1_  +2_+1__
+    5_.4#35  5_+1_+2_  +356_7_  +1_+1__ //]
+BEM[wariant w takcie 9 i 11: +1+1+3_+1_, wariant w takci 14{ 55+1_+2_]
+
+DWOK42
+CUT[Niech będzie Jezus]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 249, od Augustowa]
+FKT[]
+SIG[42186000000]
+KEY[421860  08  C 3/4 4/4]
+MEL[7_+1665  67+1665
+    +17+166_5_  64+16655_
+    +2_+4+275  +1_+3_+5_  +2_+4+275  6_7_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Ach stój orle stój]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 250, Łomża]
+FKT[]
+SIG[42186100000]
+KEY[421861  08  E 3/4]
+MEL[7b7b+1_+1_  3b__.  247b_6b_  5__.
+    556b_5_  +1+2+3b+2+1_  +2_.555
+    55+3b+2+1_  +1+1+1_7_  5__.  45+1_.7  5__. //]
+BEM[]
+
+DWOK42
+CUT[Cóż to za ludzie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 250-251, Augustów. Polski (taniec)]
+FKT[]
+SIG[42186200000]
+KEY[421862  16  F 3/4]
+MEL[1__1_3_5_3_  5_.65_4_3_2_
+    1__1_3_5_3_  2_3_2_1_-7_-5_  2__4_2_2_1_
+    5_5_5_+1_6_5_  5__+1_6_6_5_  6_.42_-7_1_1_ //]
+BEM[wariant w takcie 4: 6_.42_2_2_1_]
+
+DWOK42
+CUT[Sinogarlice wysoko latacie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 252, od Kalwarii, Sejn]
+FKT[]
+SIG[42186300000]
+KEY[421863  08  D 4/4]
+MEL[+1_+165_2_  35+134_.3
+    55556_+4+2  7567+1_.+1 //]
+BEM[wariant w takcie 1: +1_+165_4_]
+
+DWOK42
+CUT[Już mnie minęło szesnaście latek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 252-253, Grajewo]
+FKT[]
+SIG[42186400001]
+KEY[421864  16  C 3/8]
+MEL[5_+1_+3_  +2_+2_.+4  +4_7_7_  +2_+1__
+    5_+1_+3_  +3_+2_.+4  +4_7_7_  +2_+1__
+    +2+27_5_  +2+27_5_  +4__+3+4  +2__0_
+    +3+3+1_6_  +2+27_5_  +1__+3_  +1__0_ //]
+BEM[]
+
+DWOK42
+CUT[Już mnie minęło szesnaście latek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 252-253, Grajewo]
+FKT[]
+SIG[42186400002]
+KEY[421864  32  C 3/8]
+MEL[5__+1__+3__  +2__+2__.+4_  +4__7__7__  +2__+1___
+    5__+1__+3__  +3_+2_+2__.+4_  +4__7__+1767  +2__+1___
+    +2_+2_7__5__  +2_+2_7__5__  +4___+3+4+5+4  +2___0__
+    +3_+3_+1__6__  +2_+2_7__5__  +1___+3__  +1___0__ //]
+BEM[]
+
+DWOK42
+CUT[Dopomóż mnie Boże]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 257, Augustów]
+FKT[]
+SIG[42186700001]
+KEY[421867  16  A 3/8]
+MEL[-5-6-7_1_  2__4#_  54#2_-7_  23b1_0_
+    -5-6-7_1_  2__4#_  54#2_-7_  23b1_0_
+    13b5_5_  243b_2_  123b_3b_  2-7-5_-5_
+    -5-6-7_1_  2__4#_  54#2_-7_  23b1__ //]
+BEM[]
+
+DWOK42
+CUT[Dopomóż mnie Boże]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 257, Augustów]
+FKT[]
+SIG[42186700002]
+KEY[421867  16  A 3/8]
+MEL[-5-6-7_(1-71)  2__(4#24#)  54#2_-7_  23b1_0_
+    -5-6-7_(1-71)  2__(4#24#)  54#2_-7_  23b1_0_
+    13b5_5_  243b_2_  12(3b23b)4_  2-7-5_-5_
+    -5-6-7_(1-71)  2__(4#24#)  54#2_-7_  23b1__ //]
+BEM[]
+
+DWOK42
+CUT[Nie chcąc wotum swego mienić]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 258, od Białegostoku]
+FKT[]
+SIG[42186800001]
+KEY[421868  08  C 3/4]
+MEL[55+1_+1_  7+1+3_+2_  +2+27_7_
+    7+2+4_+3_  +3+1+1_+1_  +1+3+5_+4_
+    +4+27_7_  7+2+4_+3_  +3+17_+2_  +1__. //]
+BEM[]
+
+DWOK42
+CUT[Nie chcąc wotum swego mienić]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 258, od Białegostoku]
+FKT[]
+SIG[42186800002]
+KEY[421868  16  C 3/4]
+MEL[5_5_+1__+1__  +17+1_+3__+2__  +2_+2_7__7__
+    7_+2_+4__+3__  +3_+3_+1__+1_5_  +1_+3_+5__+4__
+    +4_+2_7__7_5_  7_+2_+4__+3__  +3_+1_7__+2__  +1___. //]
+BEM[]
+
+DWOK42
+CUT[Nie ma jak kawalerski stan]
+REG[]
+TRD[DWOK42, Mazowsze 7, s.263, od Augustowa]
+FKT[]
+SIG[42187100000]
+KEY[421871  16  C 6/8]
+MEL[+1_+1_+1_+1+17_+1_  +2__0_0__0_  +2_+2_+2_+2_+1_+2_
+    +3__0_0__0_  +1_+3_+3_+3_+2_+3_  +4__0_0__0_
+    7_7_7_7_6_7_  +1__0_0__0_  +1_+3_+3_+3_+2_+3_
+    +4__6_+2__+1_  7_7_7_7_6_7_  +1_+1_0_0__0_ //]
+BEM[]
+
+DWOK42
+CUT[A z wieczora w miłym chłodzie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 264, od Łomży]
+FKT[]
+SIG[42187200000]
+KEY[421872  16  G 2/4]
+MEL[1_1_3_3_  5_5_3_1_  -7_2_4_-7_  1_1_1_1_
+    4_.64_2_  5_3_1__  -7_2_-5_-7_  1_3_5__
+    4_.64_2_  5_3_1__  -7_2_-5_-5_  2__1__ //]
+BEM[]
+
+DWOK42
+CUT[Przyszedł Jasio do Marysi]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 265, Augustów]
+FKT[]
+SIG[42187300001]
+KEY[421873  16  G 3/8]
+MEL[-5-51_.3  354_2_  315_.3  3_2__
+    46+1_.4  655_.3  534_.-7  2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Przyszedł Jasio do Marysi]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 265, Augustów]
+FKT[]
+SIG[42187300002]
+KEY[421873  32  G 3/8]
+MEL[-5_1_3__1__  5_5_4__2__  3_1_5__.3_  3__2___
+    4_6_+1__.4_  6_6_5__.3_  5_314__.-7_  2__1___ //]
+BEM[]
+
+DWOK42
+CUT[A od samego poranku]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 265, Suwałki]
+FKT[]
+SIG[42187400000]
+KEY[421874  08  F 4/4]
+MEL[5_.43_5_  +1_+2_+3_+1_
+    5_.43_5_  +1_5_+3_+1_  6_6_+2_7_
+    5_.44_3_  23456_6_  5_.11__ //]
+BEM[wariant w takcie 8: 5_.11_1_]
+
+DWOK42
+CUT[Siałem grykę na zagonie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 266, od Augustowa]
+FKT[]
+SIG[42187500000]
+KEY[421875  08  A 3/4]
+MEL[556b_5_  46b5_43b  215_.-7  1__.
+    556b_5_  46b5_43b  215_.-7  1__.
+    1_2_.-7  2_4_3b2  123b_3b_
+    23b4_3b2  46b5_43b  2_1_0_ //]
+BEM[wariant w takcie 4 i 8: 1_1__, wariant w takcie 12: 23b4345]
+
+DWOK42
+CUT[Siałem proso na zagonie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 266, od Rajgroda]
+FKT[]
+SIG[42187600000]
+KEY[421876  16  C 3/4]
+MEL[+1__.5_5_4_  4_.44__3__  +1__.5_5_4_  3__0__0__
+    +1__.5_5_4_  4_.44__3__  +1__.5_5_4_  3__0__0__
+    +1_+1_+1___  +3__.+2_+2__  +2_+2_+2__3__  4__3__0__
+    +1__+1__+1__  +3__.+2_+2_+2_  +2_+2_+2__3__  4__3__0__
+    +1__.5_5_4_  4_4_3__0__  +1__.5_5_4_  4_4_3__0__
+    +1__+1__+1__  +3__.+2_+2_+2_  +2_+2_+2__3__  4__3__0__ //]
+BEM[]
+
+DWOK42
+CUT[Gdzieżeś odjechał, kochanku mój miły]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 267-268, od Tykocina]
+FKT[]
+SIG[42187700000]
+KEY[421877  08  G 3/4]
+MEL[353535  462443
+    353535  462443
+    577_.5  +153__  465_.4  4_3_0_
+    577_.5  +153_.2  465_-7_  2_1_0_ //]
+BEM[]
+
+DWOK42
+CUT[Przestań dla mnie być wzajemnym]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 268-269, od Białegostoku]
+FKT[]
+SIG[42187800000]
+KEY[421878  08  C 3/4]
+MEL[5+1+1+3+5+1  +177_0_
+    +2+2+2+3+47  +2_+1_0_  5+1+1+3+5+1
+    +177_0_  +6_.+4+2+3  +47+2_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Boże mój Boże]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 269, Augustów. Miejska]
+FKT[]
+SIG[42187900000]
+KEY[421879  08  F 6/8]
+MEL[+1+1+17_6  5653_1
+    5556_2  4_31_0  1-712_-7
+    1113_5  +1+1+17_2  4_31_0 //]
+BEM[]
+
+DWOK42
+CUT[Ach serce serce]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 270, od Tykocina]
+FKT[]
+SIG[42188000000]
+KEY[421880  08  G 4/4]
+MEL[4_3425_3  13331_65
+    4_3425_4  33221_.1
+    46666+176  655536_5
+    543425_4  31221_.1 //]
+BEM[]
+
+DWOK42
+CUT[Ach serce serce]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 271-272, od Łomży]
+FKT[]
+SIG[42188100001]
+KEY[421881  08  C 4/4]
+MEL[+1_+1+17_5_  +1+1+1+1+1_7_
+    57+2+3+4_.+2  +4+3+27+2_+1_
+    +1_55+1_5_  +1+17+1+2_5_
+    +2+255+2_.+1  77+5+4+4_+3_
+    +3__+3+2+17  666667+1_
+    +2+2+2+2+2_.5  5567+2_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Ach serce serce]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 271-272, od Łomży]
+FKT[]
+SIG[42188100002]
+KEY[421881  08  C 4/4]
+MEL[+1_+1+17_5_  +1+1+1+1+177_
+    57+2+3+4_.+2  +4+3+27+2+1+1_
+    +1_55+1_5_  +1+17+1+2_5_
+    +2+255+2_.+1  77+5+4+4+3+3_
+    +3__+3+2+17  666667+1_
+    +2+2+2+2+2_.5  5567+2_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Losie okropny]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 272, od Wysokiego Mazowieckiego]
+FKT[]
+SIG[42188200000]
+KEY[421882  16  A 4/4]
+MEL[1__3b_4_5__.4_  3b__2_3b_1__-7b__
+    3b__3b_5_7b__.5_  4__7b__5___
+    1__3b_4_5__.4_  3b__3b23b11__-7b__
+    6b_5_4_4_5_3b_2_1_  5__.-7_1__0__ //]
+BEM[]
+
+DWOK42
+CUT[Ach mój losie niescęśliwy]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 883, od Surasza]
+FKT[]
+SIG[42188300000]
+KEY[421883  16  A 2/4]
+MEL[-5_1_1_2_  3b_3b_3b_2_  4_4_4_6b_  5_43b2_1_
+    -7_2_5_-7_  1_1_3b21_  -7_2_5_-5_  -5-6-7_1_1_
+    -7_2_5_-7_  1_1_3b21_  -7_2_5_-5_  -5-6-7_1_1_ //]
+BEM[vel w takcie 6: 123b_3b21]
+
+DWOK42
+CUT[Cóż za kara Pana Boga]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 275, od Rajgroda]
+FKT[]
+SIG[42188500000]
+KEY[421885  16  G 3/8]
+MEL[-5-53_5_  -5-53_5_  -5-54_.3
+    21-7_1_  -725_.4  323_1_
+    -712_3_  2-71_1_ //]
+BEM[]
+
+DWOK42
+CUT[Majtek ubogi]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 276, Augustów]
+FKT[]
+SIG[42188600000]
+KEY[421886  16  G 3/4]
+MEL[5__3__.5_  5_4_2___  3_3_2__.1_  -7_2_5___
+    3_5_+1__7_6_  6_5_5___  4_.32_6_5_4_  4__3___
+    5__3_+1_7_6_  5__3___  4_3_4_6_5_4_  4__3___ //]
+BEM[wariant w takcie 10: 5_5_3___, wariant w ostatnim takcie 4_3_3___]
+
+DWOK42
+CUT[Nad rzeczką co bystro płynie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 278, Suwałki]
+FKT[]
+SIG[42188800000]
+KEY[421888  08  C 6/8]
+MEL[5  +1_+1767  +1_+10_5
+    +1_+1767  +1_+10_5  +2_+2+2+1+2
+    +3_+1+1_7  7_5567  +1_+10_ //]
+BEM[wariant w ostatnim takcie +2_+10_]
+
+DWOK42
+CUT[Nad rzeczką gdy bystro płynie]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 279, Łomża]
+FKT[]
+SIG[42188900000]
+KEY[421889  08 Bb 6/8]
+MEL[-5  1_-51-71  2_.-60-6
+    2_2212  3_.10-5
+    3_3323  4_.605
+    4_-7-7-6-7  2_.10-5
+    3_3323  4_.605
+    4_-7-7-6-7  2_.10 //]
+BEM[]
+
+DWOK42
+CUT[Nad rzeczką co bystro]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 890, Augustów]
+FKT[]
+SIG[42189000000]
+KEY[421890  08  C 6/8]
+MEL[+2  +2_+1767  +1_5505
+    +1_+1+1+2+3  +5_+4+40+3  +3_+2+1+2+3
+    +4_550+3  +2_+1767  +2_.+10 //]
+BEM[]
+
+DWOK42
+CUT[W gniazdku siedzą]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 281, od Suwałk]
+FKT[]
+SIG[42189100000]
+KEY[421891  16  F 6/8]
+MEL[5__5_5__4_  4__4_4__3_  3__3_3__2_
+    -6__-7_1__1_  1_3_5_+1__7_  6_5#_6_7__6_
+    2_2_3_5__4_  4__-7_2__1_  1_3_5_+3__+2+1
+    765#_6_7__6_  2_2_3_5__4_  6__7_+1__+1_ //]
+BEM[]
+
+DWOK42
+CUT[Już na wieczorne pacierze]
+REG[]
+TRD[DWOK42, Mazowsze, s. 281, od Brańska]
+FKT[]
+SIG[42189200001]
+KEY[421892  16  C 3/4]
+MEL[5_+1_+3_.+3+2_+1_  +1_7_7__0__
+    5_7_+2_+3_+4_7_  +2__+1__0__  +3_.+2+2_+1_+4_.+3
+    +3_+2_+2__0__  5_7_+2_+3_+4_7_  +2__+1__0__ //]
+BEM[]
+
+DWOK42
+CUT[Już na wieczorne pacierze]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 281, od Brańska]
+FKT[]
+SIG[42189200002]
+KEY[421892  16  C 3/4]
+MEL[5+1+1+3+3_.+3+2_+1_  +1_7_7__0__
+    5_7_+2_+3_+4_7_  +2__+1__0__  +3_.+2+2+1+1_+4_.+3
+    +3_+2_+2__0__  757_+2_+3_+4_7_  +2__+1__0__ //]
+BEM[wariant t. 1 i 2  4/4: 5_+1_+1_+3_+3__+2_+1_  +1_7_7__0___ t. 5 i 6 4/4: +3__.+2_+2__+1__  +4__+3_+3_+3__+2__]
+
+DWOK42
+CUT[A ja Mazur rodowity]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 282-283, od Suwałk]
+FKT[]
+SIG[42189300001]
+KEY[421893  08  C 3/4]
+MEL[553_5_  55+1_+3_  +3+4+4_7_  +2_+3__
+    553_5_  35+1_+3_  +4+3+4_7_  +2_+1__
+    557_5_  55+1_5_  356_7_  +1_+3__
+    +4+4+4_+5_  +3+3+3_+1_  556_7_  +2_+1_0_ //]
+BEM[]
+
+DWOK42
+CUT[A ja Mazur rodowity]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 282-283, od Suwałk]
+FKT[]
+SIG[42189300002]
+KEY[421893  08  C 3/4]
+MEL[553_5_  55+1_+3_  +3+4+4_+2_  +4_+3__
+    453_5_  35+1_+3_  +4+3+4_7_  +2_+1__
+    557_5_  55+1_5_  356_7_  +1_+3__
+    +4+4+4_+5_  +3+5+3_+1_  556_7_  +2_+1_0_ //]
+BEM[]
+
+DWOK42
+CUT[Hej ja sobie Mazureczek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 283, od Augustowa]
+FKT[]
+SIG[42189400000]
+KEY[421894  16  F 3/8]
+MEL[+1_3_43  224_4_  (466)5_5-7
+    135_5_  (5+1+1)3_3_  466_6_
+    565_-7_  133_1_  234354
+    35+1__  +2_5_67  +1_.365
+    234354  35+1__  +2_.742  211_0_ //]
+BEM[wariant w takcie ostatnim: -722_1_]
+
+DWOK42
+CUT[Przysedł sąsiad do sąsiada]
+REG[]
+TRD[DWOK42,Mazowsze 7, s. 284-285, od Białegostoku]
+FKT[]
+SIG[42189500000]
+KEY[421895  08  C 2/4]
+MEL[+1+1+1+2  +3+3+3+1  +2+2+27  +1_5_
+    +17+1+2  +3+2+3+1  +2+1+27  +1_5_
+    +5_+5+4  +3_.+3  +5+5+5+4  +3_+3_
+    +4+4+4+2  +3+3+3+1  +4+4+4+2  +5_+5_
+    +4+3+4+2  +3+2+3+1  +2+2+27  +1_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Nie tylko te się kochają]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 285, od Raczek]
+FKT[]
+SIG[42189600000]
+KEY[421896  32  G 3/8]
+MEL[5__.3_1_3_  5_.33__2__  6__.2_4_6_  +1_6_6_5_5__
+    3_5_+1_7_6_7_  +1_5_3__1__  6__.2_4_6_  5_-7_2__1__ //]
+BEM[wariant w takcie 6: +1_5_3__5__ wariant w takcie 8: 5_-7_2_1_1__]
+
+DWOK42
+CUT[Jak mnie Pan Bóg dopomoże]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 285-286, z Łomży]
+FKT[]
+SIG[42189700000]
+KEY[421897  08  G 3/4]
+MEL[246_.5  531_1_
+    -5-5-7_-7_  -5-51_1_  246_.5
+    35+1_.5  56542_  221_1_
+    246_.5  55+1_.+1  56542-7  221_1_ //]
+BEM[]
+
+DWOK42
+CUT[Wszystkich nas ciekawość budzi]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 286, Łomża i Pułtusk. Furmańska]
+FKT[]
+SIG[42189800000]
+KEY[421898  08  G 4/4]
+MEL[155555+17  666667+16
+    543555+17  666667+16
+    5_+1_7677  +1_0_0__ //]
+BEM[]
+
+DWOK42
+CUT[Towarzyszko życia wiosny]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 286, z Augustowskiego. Do gitary]
+FKT[]
+SIG[42189900000]
+KEY[421899  16 Eb 3/4]
+MEL[-7_2_6__.5_  4_.-71_1_0__  -7_1_2__.3_
+    4_.-71_1_0__  4_6_6_6_6_7_
+    +1_5_+1_+1_0__  7_6_5__4_-7_  1_1_1_1_0__ //]
+BEM[]
+
+DWOK42
+CUT[Niech każdy to przyzna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 287, od Wizny]
+FKT[]
+SIG[42190000000]
+KEY[421900  08  C 3/4]
+MEL[5_+1_+2_  +3_+2_+1_  +1+17_+1_  +2__0_
+    5_7_+2_  +4_+3_+2_  +2+2+1_+2_  +3__0_
+    5_+1_+2_  +3_+2_+1_  +1+17_6_  6__.
+    +1_7_6_  5_+1_+3_  +5+46_7_  +1_0_0_ //]
+BEM[]
+
+DWOK42
+CUT[Niech każdy to przyzna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 288, od Augustowa]
+FKT[]
+SIG[42190100000]
+KEY[421901  08  C 3/4]
+MEL[5_+1_+2_  +3_+2_7_  +17+1_+2_  +3_0_0_
+    5_7_+2_  +4_+3_+2_  +1+17_+2_  +1__.
+    +1_7_6_  5_7_+2_  +456_7_  +1_0_0_ //]
+BEM[]
+
+DWOK42
+CUT[Od wacpana do wacpana]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 289, od Knyszyna]
+FKT[]
+SIG[42190200000]
+KEY[421902  16  F 2/4]
+MEL[1_1_+1_.7  7_6_6_5_  5_5_6_.5  5_4_4_3_
+    5__5__  1__0__  6__+1__  5__0__
+    5__6_5_  3__0__  321#23_.2  1__0__ //]
+BEM[wariant w takcie 7: 6_4_+1_6_ wariant w takcie 9: 5__654#5]
+
+DWOK42
+CUT[Oj biedny ja chłopczyna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 289, od Wizny]
+FKT[]
+SIG[42190300000]
+KEY[421903  16  G 3/4]
+MEL[5_5_5__6__  5_4#_5__0__  4_2_4__2__  4_3_1___
+    5_5_5__6__  4#_5_+1___  7_7_2__2__  4_3_1__0__
+    4__.2_-7_-5_  1_3_5__+1__  7_7_2__2__  4__3___
+    4__.2_-7_-5_  1_3_5__+1__  7_7_2__2__  4_3_1__0__ //]
+BEM[wariant w takcie 7: 7_762__2__]
+
+DWOK42
+CUT[Idę sobie przez Nowy Świat]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 290, Łomża, Warszawa]
+FKT[]
+SIG[42190400000]
+KEY[421904  16  G 2/4]
+MEL[1_3_5_1_  2_2_432_  1_1_3_1_  -5__-5__
+    6_6_5_4_  3_5_432_  1_1_2_4_  3_5_+1__
+    6_6_5_4_  3_5_432_  1_1_2_2_  1__1__ //]
+BEM[]
+
+DWOK42
+CUT[Już w gruzach leżą]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 291, z Augustowskiego, Kowieńskiego, Grodzieńskiego]
+FKT[]
+SIG[42190500000]
+KEY[421905  08 Eb 4/4]
+MEL[54342_5-7  1_333_65
+    54342_5-7  1_321__
+    4666+1_76  5_+153_1_
+    -5_555432  1_321__
+    4666+1_76  5_+153_1_
+    -5_555432  1_321__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 292, od Augustowa]
+FKT[]
+SIG[42190600000]
+KEY[421906  16 Bb 2/4]
+MEL[3__.1_  3__.1_  2_2_4_6_  6_5_5__
+    3__.1_  3__.1_  -7_2_2_43  1__0__  -5-72__-7_
+    1_3__1_  -6_-6_-6_1_  -7_2__-7_  -5-72__-7_  1_3__1_
+    -6_-6_-6_1-7  -5_-5_-5__  2__1_3_  2__1_3_  2_-6_-6_1-7
+    -5_-5_-5__  1_3_3_3_  3_3_1_3_  5_3_3_2_  -7_2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 292, od Suwałk]
+FKT[]
+SIG[42190700000]
+KEY[421907  16  G 2/4]
+MEL[5__3_3_  4_6_5__  32345_-5_  1_1_1__
+    32345_5_  11-513__  -722_-722_  1_-6_-5__ //]
+BEM[wariant w ostatnim takcie: 1_-6_-5_-5_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 293]
+FKT[]
+SIG[42190800000]
+KEY[421908  16  G 2/4]
+MEL[-5_-7_2_4_  3__1_3_  5_4_2_-7_  1__3__
+    -5_-7_2__  3__1_3_  5_4_2_-7_  1___
+    5_4_2_4_  6_5_313_  5_4_2_-7_  1__3__
+    5_4_2_4_  6_5_313_  5_4_2_-7_  1___ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 293, Łomża]
+FKT[]
+SIG[42190900000]
+KEY[421909  08  C 2/4]
+MEL[5+1+17  +165_  4433  421_
+    +2_+27  +1+25_  5+4+2+3  55+1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 293]
+FKT[]
+SIG[42191000000]
+KEY[421910  16  G 2/4]
+MEL[+1_6_5_3_  4_4_5__  +1_6_5_3_  4_2_1__
+    4__3_1_  4_6_567_  +1_6_5_3_  4_4_1__ //]
+BEM[wariant w takcie 3 i 6: +1_6_5_31]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 293-294]
+FKT[]
+SIG[42191100000]
+KEY[421911  16  G 2/4]
+MEL[1_321_32  1_5_3__  2342-7_2_  1_3_1_-5_
+    -5_321_32  1_6_5__  2342-7_2_  1_3_1__
+    4_6__6_  56543__  234-5-7_-5_  1_3_5__
+    4_6_6_6_  5+1531__  234-5-7_2_  1_3_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 294]
+FKT[]
+SIG[42191200000]
+KEY[421912  16  A 2/4]
+MEL[1_.35313  53135__  2-7-5-72_4_  3_135__
+    1_.35_13  53135__  42-624__  3_2-71__
+    3_3_3_2_  1_-7_-6__  2_2_2_1_  -7_-6_-5__
+    -5_1_3__  2-7246__  5654351_  2_-7_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 294, od Rajgrodu, Łomży. Kozak]
+FKT[]
+SIG[42191300000]
+KEY[421913  16  G 2/4]
+MEL[5_344_2_  1_1_-5_-5_  1_3_242-7  1_312_4_
+    5_344_2_  1_1_-5_-5_  1_3_242-7  1_1_1__
+    135_246_  1357+1_+1_  244_355_  57b534__
+    135_246_  5357+1_+1_  244_355_  57b534__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 294, od Suwałk]
+FKT[]
+SIG[42191400000]
+KEY[421914  16  G 2/4]
+MEL[355_355_  +1_+1_3_3_  4_4_2_2_  5_5_1_1_
+    355_355_  +1_+1_3_3_  4_4_2_2_  1-71_1__
+    -5_1_3_.1  5_3_3_3_  4_2_2__  3_1_1_1_
+    -5_1_3_.1  5_3_3_3_  4_2_2__  1_1-61__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 295, od Augustowa]
+FKT[]
+SIG[42191500000]
+KEY[421915  16  G 2/4]
+MEL[1_345_5_  +17+165432  12345_5_  +17+165__
+    12345_5_  +17+165432  12345_5_  +17+165__
+    4_243_13  2_-5-71_3_  4_243_1_  2-5-6-71__
+    4_243_3_  2_-5-71_3_  4_243_13  2-5-6-71__ //]
+BEM[]
+
+DWOK42
+CUT[Idzie kobieta...]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 295]
+FKT[]
+SIG[42191600000]
+KEY[421916  08  C 4/4]
+MEL[5+1+1+1+1_+3_  +2+17+1+275_
+    +2_+4+3+4_+2_  +1+2+3+4+5__  +3+4+5+3+2_+4+2
+    +1+2+3+15_.5  +4_+6+4+3_+4+2  +1_7_+1__ //]
+BEM[wariant w takcie 3:+2+3+4+3+4_+2_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 295, od Suwałk]
+FKT[]
+SIG[42191700000]
+KEY[421917  08  G 3/4]
+MEL[-5__-5_  -5_1_2_  3__3_  3_5_3_
+    2__2_  2_3_2_  1__1-7  1_-5_-3_
+    -5__-5_  -5_1_2_  3__3_  3_5_3_
+    2__2_  2_3_2_  1__1-7  1__1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 295]
+FKT[]
+SIG[42191800000]
+KEY[421918  08  G 3/4]
+MEL[3__1_  3_2_1_  5__3_  5_4_2_  3__1_
+    3_2_1_  -725_-72  1_1__  -5_1_1_  1_3_5_
+    2_-7_2_  -7_2_4_  -5_1_1_  1_3_5_  6_6342  1__. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 296]
+FKT[]
+SIG[42191900000]
+KEY[421919  08  G 3/4]
+MEL[-5_1_1_  3__1_  -7__-5_  2_-7_2_  5__4_  351__
+    3_2_3_  5__1_  -7__-5_  2_2_3_  4__-7_  1__. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, .s 296, od Łomży]
+FKT[]
+SIG[42192000000]
+KEY[421920  08  G 3/4]
+MEL[-5_1_1_  1-72_0_  -522_2_  213_0_
+    -543_2_  123_-5_  -6-6-7_2_  2_1__
+    -5_4_4_  323_1_  -7_-5-72_  13565_
+    2_4_4_  323_1_  -7-7-5-72_  1_1__
+    -5_.-72_  113_1_  -5_-5-72_  (1-71)3_1_
+    -5_.-72_  113_1_  -5_-5-72_  (1-71)3_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 296]
+FKT[]
+SIG[42192100000]
+KEY[421921  08  C 3/4]
+MEL[5_+6_+5_  +4_+3_+1_  5_+6_+5_  +3_+4+3+2_
+    +2_+4_+2_  +6+2+4_+2_  5_6_5_  54321_
+    57+2_+3_  +4+3+2+17_  57+2_+1_  +1_+1_+1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 297, od Augustowa]
+FKT[]
+SIG[42192200000]
+KEY[421922  08  G 3/4]
+MEL[-5_-6_1_  2_-7_1_  (232)-7_1_  2_4_42  3_1_1_
+    -725_5_  2_-7_-5_  -7-6-4_.-6  -5_-5__
+    -725__  2_-7_-5_  (-6-7-6)-4_.-6  -5_-5__
+    5__4#_  24#6_5_  5_5_4#_  231__
+    -5_.-72_  1_3_3_  5_5654#  231__
+    -5_-5-72_  (1-51)3_3_  5_5654#  231__ //]
+BEM[wariant w takcie 4: (343)1_(1-7-6)wariant w takcie 6 i 10: (232)-7_-5_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 297, od Suwałk]
+FKT[]
+SIG[42192300000]
+KEY[421923  08  G 3/4]
+MEL[3_1_-5_  -6_-4_2_  -7_-5-72_
+    1-5135_  3_1_-5_  -6_-4_2_  -7_-5-72_
+    1__.  -5_-5-724  351_3_
+    24-7_2_  13-5_-5_  -5_-5-724  351_3_
+    -72465-7  1_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, .s 297, od Suwałk]
+FKT[]
+SIG[42192400000]
+KEY[421924  08  C 3/4]
+MEL[5_5_5_  5_+3_+1_  5_.432  1_+3_+1_  5__5_
+    5_+1_+2_  +3_+3_+2_  +1__.
+    5_5_5_  5_+3_+1_  5_.432  1_+3_+1_  5__5_
+    5_+1_+2_  +3_+3_+2_  +1__.
+    +3__+3_  +3_+2_+3_  +1_7_6_
+    +2__+2_  +2_+1_+2_  5_6_7_  +1_+17+1_
+    +3__+3_  +3_+2_+3_  +1_7_6_
+    +2__+2_  +2_+1_+2_  5_6_7_  +1__. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 298. Mazur]
+FKT[]
+SIG[42192500010]
+KEY[421925  32  G 3/4]
+MEL[3___3___3___  4__.4_2___1___  -7__.-7_-5___4___  (4__3__2__)1___+1___
+    3___3___3___  4__4__6___5___  5__5__6___(4__3__2__)  1___1____
+    5___+3____  5__7__+2____  (7__+1__7__)5___7___  +1___+3___+5___  5___+3___+1___
+    5___+3___+1___  (7__+1__7__)6___7___  +1___+1____
+    5___+3____  5__7__+2____  (7__+1__7__)5___7___  +1___+3___+5___  5___+3___+1___
+    5___+3___+1___  (7__+1__7__)6___7___  +1___+1____ //]
+BEM[wariant w takcie 6: 24_.24_.6___5___]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 298. Mazur]
+FKT[]
+SIG[42192500020]
+KEY[421925  08  C 3/4]
+MEL[+3_+3_+3_  +4+4+2_+1_  76567+2  +1_+3_+5_
+    +3_+3_+3_  +4+4+2_+1_  76567+2  +1_+1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 298, Augustów]
+FKT[]
+SIG[42192600010]
+KEY[421926  08  G 3/4]
+MEL[3_1_.1  -5-72_3_  4_2-72_  156_5_
+    3_1_.-6  -5-72_.3  4_2-72_  1_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 298, Augustów]
+FKT[]
+SIG[42192600020]
+KEY[421926  08  C 3/4]
+MEL[+3_+2_+1_  7_+2_.+3  +4_+2_+2_  +1_+3_.+1
+    +3_+2_+1_  7+1+2_+3_  +4_+2_+2_  +1_+1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 298, od Suwałk]
+FKT[]
+SIG[42192700000]
+KEY[421927  08  G 3/4]
+MEL[-5_4_4_  323_1_  -7_-5-72_  13565_
+    -5_4_4_  323_1_  -7-7-5-72_  1_1__
+    -5_.-72_  113_1_  -5_-5-72_  (1-71)3_2-7 //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 299]
+FKT[]
+SIG[42192800000]
+KEY[421928  16  A 3/4]
+MEL[1__1__3__  5_.53__6__  (3_4_3_)2__(3_4_3_)
+    (1_-7_-6_)-5__-5__  1__1__3__  5_.53__6__  (3_4_3_)2__(1_-7_-6_)
+    -5__1___  (3_4_3_)2___  -5___1__  (3_4_3_)2__-7_-6_  -5__1___
+    (3_4_3_)2___  -5___1__  (3_4_3_)2__(-7_1_-7_)  -5__1___ //]
+BEM[wariant w takcie 2: 5_.65__3_6_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 299, od Broku]
+FKT[]
+SIG[42192900000]
+KEY[421929  08  G 3/4]
+MEL[1_3_1_  345_56  4_6_4_  6+17_5_
+    5_5_1_  345_6_  4_2_2_  243_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 299, od Rajgroda]
+FKT[]
+SIG[42193000000]
+KEY[421930  08  D 3/4]
+MEL[1_1_+1_  66+1_(+176)  5_+1_3_  (565)4_2_
+    1_1_+1_  66+1_(+176)  5_+1_3_  (565)4_2_
+    -5_.-72_  113_13  556_(432)  1_1__
+    -5_.-72_  113_13  556_(432)  1_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 299, od Suwałk]
+FKT[]
+SIG[42193100000]
+KEY[421931  08  G 3/4]
+MEL[1_3_5_  624_32  1_3_5_  624_21
+    3_1_-7-6  -5-72_5_  3_1_-7-6  -5-72_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 300, Augustów]
+FKT[]
+SIG[42193200000]
+KEY[421932  08  A 3/4]
+MEL[5_5_2_  ^4543b2  1-7123b2
+    1_-7__  5_5_24  24543b2  1-7123b2
+    1_-7__  -5_-6-7-5_  1_.23b2
+    -7b24_4_  3b23b45_  -5_-6-7-5_  1_.23b2
+    -7b2425_  3b21__ //]
+BEM[]
+
+DWOK42
+CUT[Ty kochanku ty mój...]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 300, Łomża]
+FKT[]
+SIG[42193300000]
+KEY[421933  08  G 3/4]
+MEL[123_3_  4__-7_  2_1_0_  135_5_
+    6__4_  6_5_0_  +153_3_  4__2_
+    6_5_0_  643_3_  4__-7_  2_1_0_ //]
+BEM[wariant w takcie 8: 4__23]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 300, od Suwałk]
+FKT[]
+SIG[42193400000]
+KEY[421934  16  C 3/4]
+MEL[+4_+2_+4__+5__  +2__+1___  +1_+3_+5__+4__  +2__5___
+    5_7_+2__+1__  6__4___  4_6_+1__+2__  7__+2___
+    5_7_+2__+1__  6__4___  4_6_+1__+2__  7__5___
+    7_.+2+4__+3__  +1__+1__+2__  7_.+2+4__+3__  +1__+1_7_5__
+    7_.+2+4__+3__  +1__+1__+2__  7_.+2+4__+3__  +1__+1_7_5__
+    5_7_+1__4__  5__5_7_+2__  5_7_+1__4__  5__5_7_5__
+    5_7_+1__4__  5__5_7_+2__  5_7_+1__4__  5__5_7_5__ //]
+BEM[]
+
+DWOK42
+CUT[Ach cóż za nowiny...]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 301]
+FKT[]
+SIG[42193500000]
+KEY[421935  16  G 3/4]
+MEL[1_1_3__.2_  2__1__0__  1_3_5__6_4_  4__3__0__
+    4_6_6_4_2_2_  3_5_5_5_1_1_  2_2_4__.35  1__1__0__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 301]
+FKT[]
+SIG[42193600000]
+KEY[421936  08  G 3/4]
+MEL[553_.5  542__  354_32  -725__
+    35+1_76  655__  432654  4_3__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 301, Augustów]
+FKT[]
+SIG[42193700000]
+KEY[421937  08  A 3/4]
+MEL[54#5_.2  3b21__  54#5_.2  3b21__  -7b3b3b_3b2
+    3b54#_5_  -7b3b3b_3b4  554#_5_
+    445_.2  3b24_3b1  -725_.-7  1_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 301]
+FKT[]
+SIG[42193800000]
+KEY[421938  08  G 3/4]
+MEL[313_5_  234_2_  313_5_  446_4_
+    333_5_  234_2_  313_5_  234_2_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, .s 302, od Suwałk]
+FKT[]
+SIG[42193900000]
+KEY[421939  08  G 3/4]
+MEL[111_4_  321_3_  111_4_  32-7_1_
+    1_234_  57b6_5_  111_4_  32-7_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 302, od Suwałk]
+FKT[]
+SIG[42194000000]
+KEY[421940  08  C 3/4]
+MEL[55+1_+2_  +3+3+4_+3_  +5+5+6_+5_  +5+2+4_+3_
+    55+1_+2_  +3+5+4_+3_  +2+17_+2_  765__ //]
+BEM[]
+
+DWOK42
+CUT[Hejno kochane chłopczyska]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 302, Augustów]
+FKT[]
+SIG[42194100000]
+KEY[421941  08  G 3/4]
+MEL[54#5_6_  513_5_  67+1_6_  653_5_
+    246_.-7  135_5_  -5-72_.-7  243_5_
+    246_.-7  135_5_  -5-72_.-7  243_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 302, od Augustowa]
+FKT[]
+SIG[42194200000]
+KEY[421942  16  G 3/4]
+MEL[-6_1_3__.2_  3_1-7-6__1__  2_4_3__.2_  3_1-7-6__1__
+    2_4_3__.2_  3_4#_5__.4#_  3_2_3__.2_  3_1-7-6__1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 303, Łomża]
+FKT[]
+SIG[42194300000]
+KEY[421943  08  G 3/4]
+MEL[135_.1  45655_  456_67
+    +1_7_.6  6_5_0_  354_.2  354332
+    5+17_.6  5_6_.4  3__2_  2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 303, od Rajgrodu]
+FKT[]
+SIG[42194500000]
+KEY[421945  08  G 3/4]
+MEL[3_3_42  5_5_6_  4_4_43  54323_
+    3_3_42  5_5_6_  4_4_32  1_0_0_
+    1_.232  1-51232  1-72_-5_  1_-5_-5_
+    1_1232  1-71234  5_5_-7_  1_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 304, Tykocin, Ciechanowiec, Drohiczyn. Polonez]
+FKT[]
+SIG[42194600000]
+KEY[421946  16  G 3/4]
+MEL[+1__5__4_.4  3__^_5_4_2_  +1__5_5_4_4_  3__^_5_4_2_
+    3_5__5_6_5_  5_4__345_4_  3_5_5_5_6_5_  5_4__345_4_
+    +1_7_6_5_4_3_  2_6_^_6_7_6_  5_+1_^7654323  542-72__1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 304]
+FKT[]
+SIG[42194700000]
+KEY[421947  08  G 3/4]
+MEL[5_.653  5_.313  542-72_  1_.-513
+    5_.653  5_.313  542-723  1__.
+    4_2-72_  323_1_  3_2-72_  1-7135_  652-72_
+    4_3_1_  3_2-72_  1__.
+    4_2-72_  323_1_  3_2-72_  1-7135_  652_4_
+    4_3_1_  3_2-72_  1__.  -5_.-724  323_1_
+    3_2-72_  1_.35_  -5_.-724  323_1_
+    3_2-72_  1__.  56531_  3_2-72_
+    4342-7_  1_-513_  565313  3_2-723
+    4342-72  1_1__  -5_.-723  4342-7_
+    1_-513_  56531_  -5_.-723  4342-7_  1_1__
+    -5_.-723  4342-72  1_-513_  56531_  -5_.-723  4342-72  1_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 305, od Augustowa]
+FKT[]
+SIG[42194900000]
+KEY[421949  08  G 3/4]
+MEL[-5_.131  2_.131  -5_-5135  421_31
+    -5_.131  2_1_31  -5_.135  421__
+    246_54  321_31  246_53  421__
+    246_54  321_31  246_53  421__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 305, od Suwałk]
+FKT[]
+SIG[42195000000]
+KEY[421950  08  G 3/4]
+MEL[5_565_  3__1_  1_3_5_  +1__5_  4_4_43
+    2__2_  2_7_+1_  +1+3+275_
+    5_565_  3__1_  1_3_5_  +1__5_  4_4_43  2_+2_+2_
+    7_6_7_  +1__.  1_+1_7_  6__6_  6_+1_6_
+    5__3_  3_5_5_  6_4_2_  4_3_2_  1__.
+    5_5_2_  4__3_  5_5_2_  4__3_  1_3_5_
+    +1_7_6_  5_545_  6_4_2_  4_3_2_  1__. //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 306, od Stawisk]
+FKT[]
+SIG[42195100000]
+KEY[421951  08  A 3/4]
+MEL[-5_54#5_  2_4_.3b  2_54#5_  2_-7_.1
+    -5-6-712_  2_54#2_  -5_-6-71_  2_-7_1_
+    2_54#2_  5_54#2_  5_3b243b  2-7-5_1_
+    2_54#2_  5_54#2_  5_3b243b  2-7-5_1_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 306. Owczarek]
+FKT[]
+SIG[42195200000]
+KEY[421952  08  G 3/4]
+MEL[1_135_  424_5_  1_135_  42-7_-7_
+    1_135_  424_5_  1_135_  1_1__
+    7__7_  57+1_+1_  5_4_(567)  +1_5__
+    357_7_  57+2_+1_  5_4_5_  3_1__
+    1__3_  44565_  434_5_  3_1__ //]
+BEM[wariant w takcie 8: (565)4_(567) wariant w takcie 16: 434_(565)]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 953, od Suwałk]
+FKT[]
+SIG[42195300000]
+KEY[421953  08  G 3/4]
+MEL[1_131_  1_1-51_  2-5242_  3__.
+    1_131_  1_1-51_  2-52342  1_1__  6_67+16
+    5_5313  2-72342  1_135_ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 954, Augustów]
+FKT[]
+SIG[42195400000]
+KEY[421954  16  C 3/4]
+MEL[5_+1_+1_+1_5__  5_+1_+3__.+2_  7_+2_+2_+2_+2__  7_+2+2+4_+3_+3__
+    5_+1_+1_+1_+1__  (+1_+2_+3_)+4_+3_+3__  ^_+2_+1__.+2_  +2_+1_+1___
+    5_+1_+1_+1_(+1_+2_+3_)  +6_+5_+5___  +4_+2_7_7_+2__  +2_+1_+1___ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 307]
+FKT[]
+SIG[42195500000]
+KEY[421955  08  G 3/4]
+MEL[13535_  442_43  13535_  442_-7-5
+    2_1_-6_  -5-72_5_  2_1_-6_  -5-72_7_
+    (232)1_-6_  -5-72_5_  (232)1_-6_  -5_-5__ //]
+BEM[wariant w takcie 3: 1353(565)]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 307, od Augustowa]
+FKT[]
+SIG[42195600000]
+KEY[421956  16  G 3/4]
+MEL[5__5_6_(5_4_3_)  3__1___  5__5_6_5_4_  3_1_2___
+    1_3_2_-7_2_4_  3_1_3_5_3_1_  -5__.-7_2_4_  3_1_2___ //]
+BEM[wariant w takcie 2-3: 3_1_1___  5__5_6_5_42]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 307, od Augustowa]
+FKT[]
+SIG[42195700000]
+KEY[421957  16  G 3/4]
+MEL[5__2_4_3_2_  1__-5_1_3_2_  -7__-5_-7_2_3_  1_-7_1_3_6_5_
+    5__2_4_3_2_  1__-5_1_3_2_  -7__-5_-7_2_3_  1__1___
+    -5__.-7_2_-7_  1__3_1_3_5_  6_5_4#__24#_.  6_5_3_5_3_1_
+    -5__.-7_-5_-7_  1__3_1_3_5_  6_5_4_2_4_2_  1__1___
+    -5__.-7_2_-7_  1__3_1_3_5_  6_5_4#__24#_.  6_5_3_5_3_1_
+    -5__.-7_-5_-7_  1__3_1_3_5_  6_5_4_2_4_2_  1__1___ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 308, od Śniadowa]
+FKT[]
+SIG[42195800000]
+KEY[421958  16  G 3/4]
+MEL[-7_2_4#__4#_2_  5__3__3__  -7_2_4#__4#_2_  5__3__1__
+    -5_-7_2__2_-7_  1__3__3__  -5_.-72_.32_1_  -7_.-6-5_-6_-5__
+    -5_-7_2__2_-7_  1__3__3__  -5_.-72_.32_1_  -7_.-6-5_-6_-5__ //]
+BEM[wariant w takcie 2: 5__3__5__]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 308, od Suwałk]
+FKT[]
+SIG[42195900000]
+KEY[421959  16  A 3/4]
+MEL[2_4#_6__5_4#_  5_3b21__2__  2_4#_6__5_4#_  5_3b21___
+    -5__-7__.2_  4_5_3b_2_1_2_  -5__-7__.2_  4_5_3b_2_1__ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 308, od Śniadowa]
+FKT[]
+SIG[42196000000]
+KEY[421960  08  G 3/4]
+MEL[(-5-6-7)1_24#  54#321_  (234#)5_31  2_-7_-5_
+    -6_-4_-6_  -5_-5-72-7  135_31  2_-7_-5_
+    (-5-6-7)1_(234#)  (54#3)2_1_  (234#)5_(321)  2_-7_-5_
+    -6_-4_-4_  -5-5-5-72-7  135_31  2_-7_-5_ //]
+BEM[wariant w takcie 12 i 16; (232)-7_-5_]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 308]
+FKT[]
+SIG[42196100000]
+KEY[421961  16  C 3/4]
+MEL[5_+1_+1_+3_+5_+1_  +1__7__0__  +2_+2_+2_+3_+4_7_  +2__+1__0__
+    5_+1_+1_+3_+5_.+1  +1__7__0__  +6__.+2_+2_+3_  +4_7_+2__+1__ //]
+BEM[wariant w takcie 2 i 6: +1_+1_7__0__]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 309, Augustów]
+FKT[]
+SIG[42196200000]
+KEY[421962  08  C 3/4]
+MEL[5+1+1+17+1  +1+2+2__  5+2+2+2+5+4  +4+3+3__
+    5+1+1+1(+1+2+3)  +4+3+3__  (+3+4+2)+1_.+2  +2+1+1__
+    5+1+1+1(+1+2+3)  +6+5+5+4+4_  (+3+4+2)+1_.7  +2+1+1__ //]
+BEM[wriant w takcie 11: (+3+4+2)+157+2]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 309]
+FKT[]
+SIG[42196300000]
+KEY[421963  08  G 3/4]
+MEL[1-71234  565_4#_  24#5_3b_  13b2-7-5_
+    1-71234  565_4#_  24#5_3b2  1__.
+    -724#52_  13b2-7-5_  -724#52_  1__. //]
+BEM[wariant w takcie 8: -724#5(232)]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 309, od Augustowa]
+FKT[]
+SIG[42196400000]
+KEY[421964  16  G 3/4]
+MEL[3_.45_6_5_6_  5_4_3__1__  -7_.-7-5_-7_2__  1_3_6__5__
+    3_.45_6_5_6_  5_.43__1__  1_.-7-5_-7_2__  1__1___
+    2_.22_.22_2_  2_5_7__+2__  (+3_+2_+1_)6_4#_6_+1_  7_.65__3__
+    2_.22_.22_2_  2_.57__7_+2_  +5_.+5+5__6_7_  +1__+1___ //]
+BEM[]
+
+DWOK42
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 309-310, Augustów]
+FKT[]
+SIG[42196500000]
+KEY[421965  08  G 3/4]
+MEL[565313  3_2-72_  4342-72  1_-513_
+    565313  3_2-72_  4342-72  1_1__
+    -5_.-723  4342-7_  1_-513_  56531_
+    -5_.-723  4342-72  1_1__  1_1__ //]
+BEM[]
+
+DWOK42
+CUT[A kiedy odjeżdżasz]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 310]
+FKT[]
+SIG[42196600000]
+KEY[421966  16  G 6/8]
+MEL[135__5_5_5_  +153__5_4_2_
+    341__5_5_5_  +153__5_4_2_  321__3_2_1_
+    -725__6_5_4_  331__3_2_1_  -725__-7_2_1_ //]
+BEM[]
+
+DWOK42
+CUT[Miesiąc świeci...]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 310, 96700000]
+FKT[]
+SIG[42196700000]
+KEY[421967  08  G 6/8]
+MEL[-5135_5  +1765_5  464351
+    2_2135  464351  2_21_1 //]
+BEM[]
+
+DWOK42
+CUT[W zielonym gaju...]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 310]
+FKT[]
+SIG[42196800000]
+KEY[421968  08  C 6/8]
+MEL[5+1+1+176  +2+2+2+176  555567  567+1_+1
+    +1_3432  565567  +1_3432  567+1_+1 //]
+BEM[]
+
+DWOK42
+CUT[Graj pastuszku graj]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 542, od Parysowa]
+FKT[]
+SIG[42196900000]
+KEY[421969  16  G 4/4]
+MEL[1_3_3_5_4___  3_5#_6_4#_5___  3_5#_6_4#_5___  3_5_4_2_-7_2_3_.1
+    3_5_4_.2-7_-5_-5_-5_  -7_2_2_2_1___ //]
+BEM[zamiast taktu drugiego:6_4#_4#_4#_5___  3_5_6_4#_5___]
+
+DWOK42
+CUT[Graj pastusku graj]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 543, od Żelechowa]
+FKT[]
+SIG[42197000000]
+KEY[421970  08  G 4/4]
+MEL[12345__  4#564#5__  3542-7131
+    3542-7-5-5-5  -71231__ //]
+BEM[wariant w takcie 2: 6664#5__
+wariant w takcie 4: 3542-713-5]
+
+DWOK42
+CUT[Brduć, chłopcy, brduć]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 601, Kraszew]
+FKT[]
+SIG[42197100000]
+KEY[421971  16 Bb 3/8]
+MEL[1_3_2_  1__-5_  113_2_  1__0_
+    3_5_5_  2_4_2_  3_5_5_  2_4_2_
+    1_3_2_  1__-5_  113_2_  1__0_ //]
+BEM[]
+
+DWOK42
+CUT[Kupiłem capeckę]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 604, od Serocka]
+FKT[]
+SIG[42197200001]
+KEY[421972  16  A 2/4]
+MEL[4_6b_5__  4_6b_5__  4_3b21_3b_  5__5__
+    1_2_3b_2_  3b_5_4__  3b_43b2_2_  1__1__
+    5__5__  4_6b_5__  4_2_3b_4_  5__5__
+    1__3b__  3b_5_4__  5_3b_2_2_  1__1__ //]
+BEM[]
+
+DWOK42
+CUT[Kupiłem capeckę]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 604, od Serocka]
+FKT[]
+SIG[42197200002]
+KEY[421972  16  A 2/4]
+MEL[5__5__  4_6b_5__  4_3b21_3b_  5__5__
+    3b_3b_3b_2_  3b_5_4__  3b_43b2_3b2  1__1__
+    5_6b_5__  4_6b_5__  4_3b21_3b_  5__5__
+    1_2_3b_2_  3b_5_4__  3b_43b2_3b2  1__1__ //]
+BEM[]
+
+DWOK42
+CUT[Komuż mam się ukłanić]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 605]
+FKT[]
+SIG[42197300000]
+KEY[421973  16  G 3/8]
+MEL[134_4_  531__  46+1_+1_  5_+1__
+    554_4_  531_1_  554_4_  1__1_ //]
+BEM[]
+
+DWOK42
+CUT[Komuz ja się ukłonię]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 605, Kraszew]
+FKT[]
+SIG[42197400000]
+KEY[421974  16  A 3/8]
+MEL[-5-71_3b_  2-7-5_0_  3b23b_1_
+    2__5_  3b21_-7_  -5-71_2_
+    3b21_-7_  -5-71_2_  3b21_-7_  -5__-5_ //]
+BEM[]
+
+DWOK42
+CUT[A moja matulu]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 607, Radzymin]
+FKT[]
+SIG[42197500000]
+KEY[421975  32  G 3/8]
+MEL[1_2_3_4_5_4_  5_3_4__6__  5__.6_4__
+    3_1_4__2_-7_  1___1__  2_-7-51___
+    (2_3_4_)4__3_1_  2_-7-51___  (2_3_4_)4__3_1_ //]
+BEM[wariant w takcie 2: 5_314_6_5_]
+
+DWOK42
+CUT[Wilk na ugorze]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 616]
+FKT[]
+SIG[42197700000]
+KEY[421977  08  A 3/4]
+MEL[1_1111  2_22-7-5
+    -724_-7_  2_1_0_  5_3111
+    4_22-7-5  -724_-7_  2_1_0_ //]
+BEM[]
+
+DWOK42
+CUT[A siedzi zającek pod miedzą]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 618]
+FKT[]
+SIG[42197900000]
+KEY[421979  16  F 2/4]
+MEL[12345_+1_  665__3_
+    453__0_  12345_+1_  665__3_
+    453__0_  53116543
+    23465432  135_+1_6_  453__0_ //]
+BEM[wariant w takcie 7: 53536543]
+
+DWOK42
+CUT[Stary ja Wojtek]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 620-621, Ruda Guzowska]
+FKT[]
+SIG[42198000000]
+KEY[421980  08  G 3/4]
+MEL[1_3_3_  2__-6_  -725__  3_3_3_
+    2__-5_  -721__  135_6_  4__2_
+    -725__  3_5_6_  4__-5_  -721__ //]
+BEM[]
+
+DWOK42
+CUT[Stoi kozeńka]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 621, od Wizny, Łomży]
+FKT[]
+SIG[42198100000]
+KEY[421981  08  F 3/4]
+MEL[1_1234  5_5675
+    55+1_+3_  +275__  +1_6446
+    5_5432  114_6_  531__ //]
+BEM[]
+
+DWOK42
+CUT[Siedzi ptaszek na ulicy]
+REG[]
+TRD[DWOK42, Mazowsze 7, s. 621, od Wyszkowa. Zabawa czyli gra]
+FKT[]
+SIG[42198200000]
+KEY[421982  08 Bb 2/4]
+MEL[3555  5443  3555  5443
+    2_4_  133_  224-7  1310 //]
+BEM[]

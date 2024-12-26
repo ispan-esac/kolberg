@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK06067100001-terazniejsze_chlopcy.krn
+!!!OTL: Terazniejsze chlopcy
+!!!source: DWOK06
+!!!id: K0671
+!!!signature: 06067100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+4dd
+=2
+8ee
+4cc
+8cc
+=3
+8a
+8cc
+8cc
+8ee
+=4
+16ee
+16dd
+16dd
+16cc
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4b
+=6
+16dd
+16cc
+4a
+8a
+=7
+8d
+4f#
+8a
+=8
+16cc
+16b
+16g
+16f#
+4g}
+!!LO:LB:g=esac
+=9
+{16b
+16cc
+8dd
+8g
+8b
+=10
+16a
+16b
+16cc
+16a
+4f#
+=11
+8a
+8cc
+16cc
+16b
+16cc
+16dd
+=12
+16b
+16cc
+16dd
+16b
+4g}
+!!LO:LB:g=esac
+=13
+{16b
+16cc
+16dd
+16b
+8g
+8b
+=14
+16a
+16b
+16cc
+16a
+4f#
+=15
+8d
+4f#
+8a
+=16
+16cc
+16b
+16g
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=443 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 417} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 417}
+!!!page: 417
+!!!ONB: Converted on 2024/12/26 with esac2hum

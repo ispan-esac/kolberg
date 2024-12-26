@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3659500002-snizok_ide_moroz_bude.krn
+!!!OTL: Sniżok ide moroz bude
+!!!source: DWOK36
+!!!id: 36595
+!!!signature: 3659500002
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=1
+{4.dd
+8a
+4dd
+4ee
+=2
+8dd
+8cc#
+8b
+8a
+4b
+4f#
+=3
+4g
+4b
+4a
+4dd
+=4
+4g
+16g
+16f#
+16g
+16f#
+4e
+4d}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+4b
+4a
+4ee
+=6
+16dd
+16cc#
+16dd
+16cc#
+8dd
+8b
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 395-396
+!!!ONB: Converted on 2024/12/26 with esac2hum

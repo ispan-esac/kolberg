@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2018900000-a_bida_mi_na_swiecie.krn
+!!!OTL: A bida mi na świecie
+!!!source: DWOK20
+!!!id: 20189
+!!!signature: 2018900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8dd
+=2
+8dd
+8b
+8dd
+=3
+8ee
+4ff#
+=4
+4ee
+8b}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+=6
+8dd
+8b
+8dd
+=7
+4ee
+8cc
+=8
+4b}
+8r
+!!LO:LB:g=esac
+=9
+{4dd
+8dd
+=10
+8dd
+8b
+8dd
+=11
+8ee
+8ff#
+8dd#
+=12
+4ee
+8b}
+!!LO:LB:g=esac
+=13
+{4dd
+8dd
+=14
+8dd
+8b
+8dd
+=15
+8ee
+8ee
+8cc
+=16
+4b}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 184} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

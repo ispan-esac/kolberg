@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK57112800000-susida_meni_kazala.krn
+!!!OTL: Susida meni kazała
+!!!source: DWOK57
+!!!id: 571128
+!!!signature: 57112800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8a
+8cc
+=2
+8b
+8a
+8b
+8g}
+!!LO:LB:g=esac
+=3
+{8g
+8cc
+8a
+8cc
+=4
+8b
+8a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8ff
+8b
+=6
+8cc
+8cc
+4ee}
+!!LO:LB:g=esac
+=7
+{8g
+8cc
+8b
+8dd
+=8
+8cc
+8cc
+4cc}
+==
+*-
+!!!ONB: Wariant t. 5: 5_5_+4+27_; wariant t. 8: +1_+1_+3__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 264
+!!!ONB: Converted on 2024/12/26 with esac2hum

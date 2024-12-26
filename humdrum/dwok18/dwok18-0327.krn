@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1832700000-pasla_pastereczka_wedle_ogrodeczka.krn
+!!!OTL: Pasła pastereczka wedle ogródeczka
+!!!source: DWOK18
+!!!id: 18327
+!!!signature: 1832700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8ee
+8ee
+8ee
+8ee
+8cc
+=2
+8b
+8dd
+8dd
+8dd
+8dd
+8b
+=3
+8b
+8dd
+4ee
+4b
+=4
+8dd
+8cc
+8b
+8a
+8cc
+8dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8ff
+4ee
+4b
+=6
+8dd
+8cc
+8b
+8a
+8g#
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 178} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 178}
+!!!page: 178
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK4156100000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK41
+!!!id: 41561
+!!!signature: 4156100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8b
+8dd
+=2
+4cc
+8a
+8cc
+=3
+8b
+8g
+8g
+8b
+=4
+8b
+8a
+4a}
+!!LO:LB:g=esac
+=5
+{4dd
+8b
+8dd
+=6
+4cc
+8a
+8cc
+=7
+8b
+8g
+8f#
+8a
+=8
+2g}
+==
+*-
+!!!ONB: W rkp. pod mel. dopisek O.K.: weselna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=379 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 296} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 296}
+!!!page: 296
+!!!ONB: Converted on 2024/12/26 with esac2hum

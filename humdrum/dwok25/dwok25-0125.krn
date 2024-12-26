@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2512500000-z_poniedzialku_na_wtorek_i_zajeto_fornalowi_konie.krn
+!!!OTL: Z poniedziałku na wtorek, i zajęto fornalowi konie
+!!!source: DWOK25
+!!!id: 25125
+!!!signature: 2512500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4dd
+8ee
+=2
+4dd
+8g
+=3
+16a
+16cc
+4a}
+!!LO:LB:g=esac
+=4
+{4dd
+8ee
+=5
+4dd
+8cc
+=6
+16a
+16cc
+4a}
+!!LO:LB:g=esac
+=7
+{16.f#
+32a
+8dd
+8cc
+=8
+16a
+16g
+16f#
+16e
+8d
+=9
+8g
+4b}
+!!LO:LB:g=esac
+=10
+{16.a
+32a
+8dd
+8cc
+=11
+16a
+16f#
+8d
+8d
+=12
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=77 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 52} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 52}
+!!!page: 52
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK3906000000-moje_dziewcze_ino_raz.krn
+!!!OTL: Moje dziewcze, ino raz
+!!!source: DWOK39
+!!!id: 39060
+!!!signature: 3906000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8cc
+8a
+=2
+16b
+16b
+8cc
+8a
+=3
+16b
+16b
+8cc
+8a}
+!!LO:LB:g=esac
+=4
+{16a
+16cc
+8ee
+8ee
+=5
+16dd
+16cc
+8b
+8a
+=6
+16cc
+16a
+4g}
+!!LO:LB:g=esac
+=7
+{16a
+16cc
+8ee
+8ee
+=8
+16dd
+16cc
+8b
+8a
+=9
+16b
+16b
+8cc
+8a}
+!!LO:LB:g=esac
+=10
+{16a
+16cc
+8ee
+8ee
+=11
+16dd
+16cc
+8b
+8a
+=12
+16cc
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 126} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 126}
+!!!page: 126
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1716800000-oj_sumiala_dabrowa.krn
+!!!OTL: Oj sumiała dąbrowa
+!!!source: DWOK17
+!!!id: 17168
+!!!signature: 1716800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8ee
+8ee
+=2
+8dd
+8ee
+8ee
+=3
+16dd
+32cc
+32b
+8a
+16b
+16g
+=4
+8e
+8g#
+8g#}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8a
+8a
+=6
+8dd
+8b
+8g#
+=7
+16a
+32cc
+32b
+8a
+8b
+=8
+8e
+8g#
+8g#}
+==
+*-
+!!!ONB: Nuta Ser. XIII n. 173.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=78 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 56} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 56}
+!!!page: 56
+!!!ONB: Converted on 2024/12/26 with esac2hum

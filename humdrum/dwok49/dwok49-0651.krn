@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK4965100000-egnam_cie_moj_swiecie_wesoly.krn
+!!!OTL: Żegnam cię, mój świecie wesoły
+!!!source: DWOK49
+!!!id: 49651
+!!!signature: 4965100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8dd
+4ee
+8dd
+8ee
+=2
+8ff
+8dd
+4b
+4cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8dd
+4ee
+8dd
+8ee
+=4
+8ff
+8dd
+4b
+4cc}
+!!LO:LB:g=esac
+=5
+4r
+{4cc
+4g
+=6
+4.gg
+8ee
+8ff
+8dd
+=7
+4r
+4cc
+4g
+=8
+4.gg
+8ee
+8ff
+8dd}
+!!LO:LB:g=esac
+=9
+{8cc
+8dd
+4ee
+4ee
+=10
+8dd
+8b
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=625 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 535-536} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, pp. 535-536}
+!!!page: 535-536
+!!!ONB: Converted on 2024/12/26 with esac2hum

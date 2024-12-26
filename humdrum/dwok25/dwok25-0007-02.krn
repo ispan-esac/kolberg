@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2500700002-oj_wyrzyta_pacholicy.krn
+!!!OTL: Oj wyrżyta pacholicy
+!!!source: DWOK25
+!!!id: 25007
+!!!signature: 2500700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8dd
+8dd
+=2
+16ee
+16ee
+8.dd
+16cc
+=3
+16b
+16a
+8b
+8cc
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8cc
+16e
+16f#
+=6
+4g}
+8r
+!!LO:LB:g=esac
+=7
+{16d
+16f#
+8a
+8g
+=8
+16b
+16dd
+8cc
+16a
+16f#
+=9
+16g
+16a
+8b
+8cc
+=10
+16dd
+16dd
+8ee
+8ee}
+!!LO:LB:g=esac
+=11
+{16dd
+16dd
+8cc
+8a
+=12
+4dd
+8cc
+=13
+16b
+32a
+32b
+8cc
+16e
+16f#
+=14
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. } @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. }
+!!!ONB: Converted on 2024/12/26 with esac2hum

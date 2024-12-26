@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK42181100000-jak_u_pani_bywac.krn
+!!!OTL: Jak u pani bywać
+!!!source: DWOK42
+!!!id: 421811
+!!!signature: 42181100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8cc
+8ee
+=2
+4dd
+4cc
+=3
+8b
+8b
+8a
+8a
+=4
+4g
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8a
+8a
+=6
+8b
+8dd
+4cc
+=7
+8b
+8b
+8a
+8a}
+!!LO:LB:g=esac
+=8
+{8b
+8dd
+4cc
+=9
+8b
+8b
+8a
+8a
+=10
+4g
+4d}
+==
+*-
+!!!ONB: wariant w takcie 6 i 8: 465_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 219} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 219}
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

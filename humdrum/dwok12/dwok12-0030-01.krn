@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1203000001-a_w_niedziele_raniusienko.krn
+!!!OTL: A w niedzielę raniusieńko
+!!!source: DWOK12
+!!!id: 12030
+!!!signature: 1203000001
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8d
+8f#
+4a
+4cc#
+=2
+8dd
+8b
+4g
+4e
+=3
+8g
+8b
+4dd
+4ee
+=4
+4a
+4d}
+4r
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+4a
+4cc#
+=6
+8dd
+8b
+4g
+4e
+=7
+8c
+8e
+4g
+4a
+=8
+4f#
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=31 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 15} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 15}
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1332300000-bez_przelazik.krn
+!!!OTL: Bez przełazik
+!!!source: DWOK13
+!!!id: 13323
+!!!signature: 1332300000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16g
+16b-
+8.dd
+16b-
+=2
+16g
+16f
+8c
+8b-}
+!!LO:LB:g=esac
+=3
+{16g
+16b-
+8.dd
+16b-
+=4
+16g
+16f
+8c
+8f}
+!!LO:LB:g=esac
+=5
+{16g
+16f
+8.d
+16f
+=6
+16g
+16e
+8c
+8b-}
+!!LO:LB:g=esac
+=7
+{16g
+16f
+8.d
+16f
+=8
+16g
+16e
+8c
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 144} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 144}
+!!!page: 144
+!!!ONB: Converted on 2024/12/26 with esac2hum

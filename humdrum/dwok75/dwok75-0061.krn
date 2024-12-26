@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK7506100000-com_zarobila_tom_zarobila.krn
+!!!OTL: Com zarobiła, tom zarobiła
+!!!source: DWOK75
+!!!id: 75061
+!!!signature: 7506100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4a
+8a
+8b
+8cc
+8dd
+=2
+4ee
+8ee
+8ee
+8ee
+8ee
+=3
+8ee
+8ee
+8ee
+8dd#
+4ee
+=
+12cc
+12b
+12a
+2cc}
+!!LO:LB:g=esac
+=4
+{8a
+8g#
+8a
+8b
+8dd
+16cc
+16b
+=5
+4a
+8a
+8b
+8dd
+16cc
+16b
+=6
+8a
+8cc
+8ee
+8dd#
+4ee
+=
+12dd
+12cc
+12b
+4a}
+4r
+==
+*-
+!!!ONB: Wariant t. 3-5: 5_5_5__5__  (4_3b_2_)3b___  1__1_2_4_3b2
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 40} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 40}
+!!!page: 40
+!!!ONB: Converted on 2024/12/26 with esac2hum

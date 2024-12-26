@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK02-K0043-ozlecialy_sie_siwe_golebie.krn
+!!!OTL: Ozlecialy sie siwe golebie
+!!!source: DWOK02
+!!!id: K0043
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16e
+16f#
+8g#
+8e
+=2
+8a
+4cc
+=3
+8b
+8dd
+8dd
+=4
+8ee
+4cc}
+!!LO:LB:g=esac
+=5
+{16b
+16g#
+8e
+8g#
+=6
+8a
+4cc
+=7
+8a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 47} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

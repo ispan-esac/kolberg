@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK06-K0051a-a_jak_ja_ci_bede_na_wesele.krn
+!!!OTL: A jak ja ci bede na wesele
+!!!source: DWOK06
+!!!id: K0051a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8cc
+=2
+8cc
+4b
+8r
+=3
+8a
+8b
+8cc
+8cc
+=4
+8cc
+4b}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4a
+=6
+8a
+4b
+8g#
+=7
+8e
+8g#
+8g#
+8g#
+=8
+8a
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=57 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 31-32} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 31-32}
+!!!page: 31-32
+!!!ONB: Converted on 2024/12/26 with esac2hum

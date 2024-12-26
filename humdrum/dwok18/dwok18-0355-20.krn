@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK1835500020-instrumentalna-a_dajze_mi_boze.krn
+!!!OTL: Instrumentalna-A dajże mi Boże
+!!!source: DWOK18
+!!!id: 18355
+!!!signature: 1835500020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+8a
+8g
+=2
+4f#
+4g
+=3
+8b
+8b
+8cc
+8a
+=4
+4dd
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+4a
+16a
+16g
+=6
+8b
+4a
+16a
+16g
+=7
+8b
+8b
+8a
+8a
+=8
+4dd
+4g}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8a
+8g
+=10
+4dd
+4g
+=11
+8b
+8b
+16cc
+16b
+16a
+16g
+=12
+4dd
+4g}
+!!LO:LB:g=esac
+=13
+{8b
+4a
+16a
+16g
+=14
+8b
+4a
+16a
+16g
+=15
+8b
+8b
+16cc
+16b
+16a
+16g
+=16
+4dd
+4g}
+==
+*-
+!!!ONB: Taniec
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 192} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 192}
+!!!page: 192
+!!!ONB: Converted on 2024/12/26 with esac2hum

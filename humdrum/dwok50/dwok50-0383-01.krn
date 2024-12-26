@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK5038300001-na_podolu_bialy_kamin.krn
+!!!OTL: Na Podolu biały kamiń
+!!!source: DWOK50
+!!!id: 50383
+!!!signature: 5038300001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8a
+8a
+8a
+=2
+8a
+8b
+4a
+=3
+2g}
+!!LO:LB:g=esac
+=4
+{8cc
+8cc
+8cc
+8cc
+=5
+8cc
+8cc
+8b
+8a
+=6
+4cc
+8b
+8a
+=7
+4b
+4g#
+=8
+8a
+8b
+8cc
+8dd}
+!!LO:LB:g=esac
+=9
+{4cc
+8b
+8a
+=10
+4b
+4e
+=11
+8g#
+8a
+4b
+=12
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 211} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 211}
+!!!page: 211
+!!!ONB: Converted on 2024/12/26 with esac2hum

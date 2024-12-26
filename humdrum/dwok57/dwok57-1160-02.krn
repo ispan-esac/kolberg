@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK57116000002-oj_pihnala_diwczynonka.krn
+!!!OTL: Oj, pihnała diwczynońka
+!!!source: DWOK57
+!!!id: 571160
+!!!signature: 57116000002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+16b
+16a
+8g
+8g
+=2
+8cc
+16b
+16a
+8g
+8g
+=3
+8a
+8a
+8a
+8a
+=4
+4.g
+8ff
+=5
+8ee
+8ee
+8dd
+16dd
+16b
+=6
+4.cc
+8cc}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+8dd
+8g
+=8
+8cc
+16ee
+16cc
+8ee
+8gg
+=9
+8dd
+8dd
+8g
+8g
+=10
+8cc
+8ee
+8ee
+8gg
+=11
+8ee
+8ee
+8dd
+16dd
+16g
+=12
+4.cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 283
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK2906200000-czolom_baba_czolom_gid.krn
+!!!OTL: Czołom baba czołom gid
+!!!source: DWOK29
+!!!id: 29062
+!!!signature: 2906200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16cc
+16a
+8cc
+8ee
+8ee
+=2
+16ff
+8.ff
+4ee
+=3
+16ff
+8.ff
+4ee}
+!!LO:LB:g=esac
+=4
+{16dd
+8.dd
+16cc
+8.cc
+=5
+16ff
+8.ff
+4ee
+=6
+16dd
+16b
+8dd
+16cc
+8.cc
+=7
+16b
+8.b
+4a}
+!!LO:LB:g=esac
+=8
+{16a
+16b
+16cc
+16dd
+8ee
+8ee
+=9
+16dd
+16ee
+16ff
+16dd
+4ee
+=10
+16dd
+16ee
+16ff
+16dd
+4ee}
+!!LO:LB:g=esac
+=11
+{16dd
+16ee
+16dd
+16b
+8cc
+8cc
+=12
+16dd
+16ee
+16ff
+16dd
+4ee
+=13
+16dd
+16ee
+16dd
+16b
+8cc
+8cc
+=14
+16b
+16dd
+16b
+16cc
+4a}
+==
+*-
+!!!ONB: Did i baba
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=192 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 160} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

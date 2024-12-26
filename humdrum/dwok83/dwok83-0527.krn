@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK8352700000-w_polu_w_polu_zakwitla_roza.krn
+!!!OTL: W polu, w polu zakwitła róża
+!!!source: DWOK83
+!!!id: 83527
+!!!signature: 8352700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8a
+8b
+=2
+4cc
+8dd
+=3
+8ee
+8dd
+8ee
+=4
+4a
+8a}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+8dd
+=6
+4dd
+8dd
+=7
+8g
+8a
+8b
+=8
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=419 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 308} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 308}
+!!!page: 308
+!!!ONB: Converted on 2024/12/26 with esac2hum

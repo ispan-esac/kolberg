@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK4655800000-witaj_matko_uwielbiona.krn
+!!!OTL: Witaj, Matko uwielbiona
+!!!source: DWOK46
+!!!id: 46558
+!!!signature: 4655800000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4e
+4a
+4a
+4b
+=2
+8cc
+8b
+4a
+4a
+4e}
+!!LO:LB:g=esac
+=3
+{4a
+4a
+8a
+8g#
+8f
+8e
+=4
+4f
+4g
+4a
+4e}
+!!LO:LB:g=esac
+=5
+{4g
+4g
+8f
+8e
+4d
+=
+4f
+4f
+12g
+12a
+12b-
+4a}
+!!LO:LB:g=esac
+=6
+{4g
+4g
+8f
+8e
+4d
+=7
+4a
+4g
+4f
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=374 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 340} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 340}
+!!!page: 340
+!!!ONB: Converted on 2024/12/26 with esac2hum

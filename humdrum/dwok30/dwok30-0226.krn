@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK3022600000-dibrowo_zelena.krn
+!!!OTL: Dibrowo zelena
+!!!source: DWOK30
+!!!id: 30226
+!!!signature: 3022600000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8g
+4.b
+=2
+8cc#
+8b
+16a
+16f#
+8e
+=3
+8f#
+4a
+8g
+=4
+8b
+8g
+16f#
+16d#
+8e
+=5
+8b
+4a
+16g
+16f#
+=6
+8b
+8g
+16f#
+16d#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 137} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 137}
+!!!page: 137
+!!!ONB: Converted on 2024/12/26 with esac2hum

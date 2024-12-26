@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK8308700002-oj_jakze_ja_pojade.krn
+!!!OTL: Oj, jakże ja pojadę
+!!!source: DWOK83
+!!!id: 83087
+!!!signature: 8308700002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+16dd
+16dd
+8dd
+8dd
+=3
+16dd
+16cc
+8b
+8cc
+=4
+8a
+4f#}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8cc
+=6
+16a
+16g
+8b
+8dd
+=7
+16dd
+16cc
+8b
+8cc
+=8
+16a
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 88} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

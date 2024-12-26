@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4812100000-idzie_zolnierz_gora_lasem.krn
+!!!OTL: Idzie żołnierz górą, lasem
+!!!source: DWOK48
+!!!id: 48121
+!!!signature: 4812100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4.ee
+8dd
+=2
+8ee
+8ff#
+8gg
+8dd
+4dd}
+!!LO:LB:g=esac
+=3
+{8dd
+8ff#
+4ee
+4a
+=4
+8g
+8g
+8a
+8g
+4cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff
+4ee
+8dd
+8cc
+=6
+8b
+16b
+16ee
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=211 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 171} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 171}
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

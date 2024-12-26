@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK8304400001-w_stodole_swita_w_brogu_dzien.krn
+!!!OTL: W stodole świta, w brogu dzień
+!!!source: DWOK83
+!!!id: 83044
+!!!signature: 8304400001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8cc
+=2
+4b
+8g
+=
+8cc
+8dd
+24dd
+24ee
+24ff
+=3
+4ee}
+8r
+!!LO:LB:g=esac
+=4
+{8gg
+8gg
+8gg
+=5
+8ff
+8ff
+8ff
+=6
+8cc
+8ee
+8ee
+=7
+8dd
+8dd
+8gg
+=8
+8ee
+4dd
+=9
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 57} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

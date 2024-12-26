@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK5066700000-dobry_nasz_pan_dobry_ja_mu_dobrze_zycze.krn
+!!!OTL: Dobry nasz pan, dobry, ja mu dobrze życzę
+!!!source: DWOK50
+!!!id: 50667
+!!!signature: 5066700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8f
+4f
+=2
+8aa
+4aa
+8aa
+=3
+8gg
+8ff
+8ee
+8dd
+=4
+4dd
+8dd
+8a}
+!!LO:LB:g=esac
+=5
+{8b-
+8a
+4g
+=6
+8dd
+4dd
+8dd
+=7
+8cc
+8b-
+8a
+8g
+=8
+4a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=438 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 405} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 405}
+!!!page: 405
+!!!ONB: Converted on 2024/12/26 with esac2hum

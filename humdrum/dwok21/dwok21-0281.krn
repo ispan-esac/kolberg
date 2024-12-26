@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2128100000-oj_dziewcyno_z_kamienca.krn
+!!!OTL: Oj dziewcyno z Kamieńca
+!!!source: DWOK21
+!!!id: 21281
+!!!signature: 2128100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16ee
+8cc
+8ee
+=2
+16ee
+16gg
+8.dd
+16ff
+=3
+16dd
+16ee
+8cc
+8ee
+=4
+16a
+16a
+8.g
+16g}
+!!LO:LB:g=esac
+=5
+{16dd
+16ee
+8cc
+8cc
+=6
+16ee
+16ee
+8.dd
+16b
+=7
+16dd
+16ee
+8cc
+8cc
+=8
+16a
+16a
+8.f
+16g}
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 120} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

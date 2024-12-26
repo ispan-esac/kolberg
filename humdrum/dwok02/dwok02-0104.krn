@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK02-K0104-oj_da_na_zdrowie_pani_mlodyj_nasyj.krn
+!!!OTL: Oj da na zdrowie pani mlodyj nasyj
+!!!source: DWOK02
+!!!id: K0104
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8a
+8a
+8cc#
+=2
+4dd
+8cc#
+=3
+16a
+16a
+8g
+8f#
+=4
+8g
+8b-
+8g}
+!!LO:LB:g=esac
+=5
+{8f#
+8d
+8f#
+=6
+4g
+8a
+=7
+16b-
+16a
+8g
+8f#
+=8
+8g
+8b-
+8g}
+!!LO:LB:g=esac
+=9
+{8f#
+8d
+8f#
+=10
+4g
+8a
+=11
+16b-
+16a
+8g
+8f#
+=12
+8g
+8b-
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=94 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 83} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 83}
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

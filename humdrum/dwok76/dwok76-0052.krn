@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7605200000-ojze_ino_ojze_ino.krn
+!!!OTL: Ojże ino, ojże ino
+!!!source: DWOK76
+!!!id: 76052
+!!!signature: 7605200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4cc
+4ee
+=2
+8dd
+8cc#
+4dd
+4a
+=3
+8g
+8a
+4cc
+4g
+=4
+8b
+8b
+4a
+4f#}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b
+4g
+=6
+8b
+8b
+4cc
+4a
+=7
+8g
+8a
+4cc
+4g
+=8
+8b
+8b
+4a
+4f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 34} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 34}
+!!!page: 34
+!!!ONB: Converted on 2024/12/26 with esac2hum

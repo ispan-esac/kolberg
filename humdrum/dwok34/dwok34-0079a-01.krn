@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK34079a0001-oj_u_luzi_pry_dorozi.krn
+!!!OTL: Oj u łuzi pry dorozi
+!!!source: DWOK34
+!!!id: 34079a
+!!!signature: 34079a0001
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{8e
+8g#
+8a
+8b
+=2
+8cc
+16b
+16dd
+8ee
+8b
+=3
+*M3/4
+4dd
+8dd
+8cc
+8ff
+8ee
+=4
+8dd
+8b
+2cc}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8b
+8dd
+8dd
+8cc
+=6
+8b
+8a
+8g#
+8e
+=7
+*M3/4
+4g#
+4b
+8cc
+8a
+=8
+4g#
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=67 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 50} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

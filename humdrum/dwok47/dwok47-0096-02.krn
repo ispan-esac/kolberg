@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK4709600002-sedyt_holub_na_dubonku.krn
+!!!OTL: Sedyt hołub na dubońku
+!!!source: DWOK47
+!!!id: 47096
+!!!signature: 4709600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8cc
+8b
+8cc
+=2
+8dd
+8cc
+8gg
+16aa
+16gg
+=3
+16ff
+16ee
+[4dd
+16dd]
+16cc
+=4
+16dd
+16ee
+8ff
+8gg
+8cc
+=5
+16dd
+16ee
+16dd
+16cc
+4b
+=6
+8g
+16a
+16b
+4cc}
+!!LO:LB:g=esac
+=7
+{8g
+8f
+8b-
+16a
+16cc
+=8
+4g
+16ee
+16dd
+16ff
+16ee
+=9
+16dd
+16cc
+4b
+16g
+16b
+=10
+4cc
+8g
+8f
+=11
+8b-
+16a
+16cc
+4g}
+==
+*-
+!!!ONB: t. 4-6 wariant A: 5_7b_4__  5_3_1_3_4__; wariant B: 567b+14__  56531_234__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 102} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 102}
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK57129800000-za_wasylem_za_wasylem.krn
+!!!OTL: Za Wasylem, za Wasylem
+!!!source: DWOK57
+!!!id: 571298
+!!!signature: 57129800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8b
+8cc
+8dd
+8cc
+=2
+8b
+8cc
+8dd
+8cc
+=3
+8b
+8cc
+8dd
+8cc
+=4
+4ee
+4ee}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8dd
+8cc
+=6
+8b
+8cc
+8dd
+8cc
+=7
+8b
+8a
+8a
+8a
+=8
+4a
+4a}
+==
+*-
+!!!ONB: Wariant t. 5: 4443b; wariant t. 7: 23b43b
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 394
+!!!ONB: Converted on 2024/12/26 with esac2hum

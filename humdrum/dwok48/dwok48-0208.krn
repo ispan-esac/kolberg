@@ -1,0 +1,93 @@
+!!!!SEGMENT: DWOK4820800000-gospodarzu_gospodarzu_kto_u_ciebie_bywa.krn
+!!!OTL: Gospodarzu, gospodarzu, kto u ciebie bywa
+!!!source: DWOK48
+!!!id: 48208
+!!!signature: 4820800000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8dd
+8a
+4dd
+4ff#
+=2
+8dd
+8a
+4dd
+4ff#
+=3
+8ff#
+8gg
+4.ee
+8cc#
+=4
+8ee
+8dd
+2dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8a
+4dd
+4ff#
+=6
+8dd
+8a
+4dd
+4ff#
+=7
+8ff#
+8gg
+4.ee
+8cc#
+=8
+8ee
+8dd
+2dd}
+!!LO:LB:g=esac
+=9
+{4aa
+4.gg
+8ee
+=10
+8gg
+8ff#
+2ff#
+=11
+8aa
+8aa
+4gg
+4ee
+=12
+8gg
+8ff#
+2ff#}
+!!LO:LB:g=esac
+=13
+{8dd
+8dd
+4.dd
+8cc#
+=14
+4b
+4.aa
+8gg
+=15
+8ff#
+8ee
+4.aa
+8cc#
+=16
+8ee
+8dd
+2dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 235} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 235}
+!!!page: 235
+!!!ONB: Converted on 2024/12/26 with esac2hum

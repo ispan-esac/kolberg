@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK3613200001-oj_u_horodi_krokos.krn
+!!!OTL: Oj u horodi krokos
+!!!source: DWOK36
+!!!id: 36132
+!!!signature: 3613200001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8e
+8a
+8cc
+=2
+4b
+8dd
+=3
+16cc
+16b
+4a
+=4
+8cc
+8b
+8dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+8cc
+=6
+4b
+8dd
+=7
+16cc
+16b
+4a
+=8
+8a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 72-73
+!!!ONB: Converted on 2024/12/26 with esac2hum

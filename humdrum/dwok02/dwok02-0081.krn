@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK02-K0081-oj_juz_wianecka_dowijamy.krn
+!!!OTL: Oj juz wianecka dowijamy
+!!!source: DWOK02
+!!!id: K0081
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{8dd
+8dd
+8ff
+=2
+8ee
+4dd
+=3
+8cc#
+8a
+8g
+=4
+8g
+4a}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8ff
+=6
+8ee
+4dd
+=7
+8cc#
+8a
+8g
+=8
+8g
+4a}
+!!LO:LB:g=esac
+=9
+{16cc#
+16g
+8a
+8b-
+=10
+4cc
+8dd
+=11
+8dd
+8.g
+16f}
+!!LO:LB:g=esac
+=12
+{16f
+16g
+8a
+8b-
+=13
+4cc
+8g
+=14
+8g
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 73} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

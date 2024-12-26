@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK5019700001-za_goramy_z_mazuramy.krn
+!!!OTL: Za goramy z Mazuramy
+!!!source: DWOK50
+!!!id: 50197
+!!!signature: 5019700001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+4gg
+=2
+8cc
+4b
+=3
+8dd
+4ff
+=4
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8ee
+8ee
+=6
+16ee
+16cc
+8ee
+8cc
+=7
+8dd
+4ff
+=8
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 89} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 89}
+!!!page: 89
+!!!ONB: Converted on 2024/12/26 with esac2hum

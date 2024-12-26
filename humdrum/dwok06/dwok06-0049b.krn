@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK06-K0049b-kurzyla_sie_drozka.krn
+!!!OTL: Kurzyla sie drozka
+!!!source: DWOK06
+!!!id: K0049b
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+4gg
+16aa
+16gg
+=2
+8ee
+8gg
+16ff#
+16gg
+16aa
+16gg
+=3
+8cc
+4ee
+16dd
+16cc
+=4
+8b
+8dd
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+16dd
+16cc
+=6
+8ee
+8gg
+16ff#
+16gg
+16aa
+16gg
+=7
+8cc
+4ee
+16dd
+16cc
+=8
+8b
+8g
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 29} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 29}
+!!!page: 29
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2646100010-descyk_pada_zmocy_mie.krn
+!!!OTL: Descyk pada zmocy mię
+!!!source: DWOK26
+!!!id: 26461
+!!!signature: 2646100010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16f
+8ff
+8ff
+=2
+8ee
+8ee
+8ee
+=3
+8dd
+8dd
+8dd
+=4
+8cc
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8a
+8a
+=6
+8cc
+8cc
+8cc
+=7
+8g
+8g
+8g
+=8
+8b-
+8b-
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 311
+!!!ONB: Converted on 2024/12/26 with esac2hum

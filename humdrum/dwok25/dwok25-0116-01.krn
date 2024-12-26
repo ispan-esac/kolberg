@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK2511600001-po_co_zes_mnie_matulenku_za_maz_wydala.krn
+!!!OTL: Po co ześ mnie matuleńku za mąz wydała
+!!!source: DWOK25
+!!!id: 25116
+!!!signature: 2511600001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8cc
+8dd
+=2
+16ee
+16ff
+8ee
+8g
+=3
+16cc
+16ee
+8cc
+8a
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8cc
+8dd
+=6
+16ee
+16ff
+8ee
+8g
+=7
+16cc
+16ee
+16cc
+16b
+16a
+16b
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16g
+16g
+8.cc
+16a
+=10
+16b
+16cc
+8dd
+8b
+=11
+16g
+16g
+8.cc
+16a
+=12
+16b
+16cc
+8dd
+8b}
+!!LO:LB:g=esac
+=13
+{16cc
+16ee
+8cc
+8a
+=14
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=72 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 47-48} @EN{Oskar Kolberg Complete Works 25: Mazovia II, pp. 47-48}
+!!!page: 47-48
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK8400900002-oj_letaje_sokolonko_po_polu.krn
+!!!OTL: Oj, letaje sokołońko po polu
+!!!source: DWOK84
+!!!id: 84009
+!!!signature: 8400900002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8ee
+8ee
+=
+8ee
+8dd
+8dd
+24cc
+24b
+24a
+=2
+8a
+8cc
+16cc
+16dd
+8ff
+=3
+2ee}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+8ee
+8ee
+=5
+8ee
+8dd
+16cc
+16b
+8cc
+=6
+4ee
+8dd
+16cc
+16b
+=7
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=106 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 44} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 44}
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

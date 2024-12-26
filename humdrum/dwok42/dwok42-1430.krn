@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK42143000000-u_mej_matki_rodzonej.krn
+!!!OTL: U mej matki rodzonej
+!!!source: DWOK42
+!!!id: 421430
+!!!signature: 42143000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8f#
+4a
+4cc
+=2
+8a
+8b
+2g
+=3
+8g
+8b
+4dd
+4gg
+=4
+8ff#
+8aa
+2dd}
+!!LO:LB:g=esac
+=5
+{8gg
+8gg
+8gg
+8gg
+8gg
+8g
+=6
+8g
+8b
+8dd
+8cc
+8a
+8f#
+=7
+8d
+8f#
+4a
+4cc
+=8
+8a
+8b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 42} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 42}
+!!!page: 42
+!!!ONB: Converted on 2024/12/26 with esac2hum

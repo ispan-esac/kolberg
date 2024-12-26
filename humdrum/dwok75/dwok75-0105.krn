@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7510500000-oj_zalozyl_sie_sokol.krn
+!!!OTL: Oj, załozył się sokół
+!!!source: DWOK75
+!!!id: 75105
+!!!signature: 7510500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4ee
+4ee
+4ee
+=2
+8ee
+8ee
+4dd
+4a
+=3
+4cc
+4cc
+4cc
+=4
+8b
+8g#
+4a
+4a}
+!!LO:LB:g=esac
+=5
+{4g#
+4a
+4cc
+=6
+8ee
+8ee
+4dd
+4a
+=7
+4cc
+4cc
+4cc
+=8
+8b
+8g#
+4a
+4a}
+==
+*-
+!!!ONB: Wariant t. 2: 46b5_41
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 70} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

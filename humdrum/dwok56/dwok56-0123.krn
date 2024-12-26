@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK5612300000-oj_kury_kure_nie_pijte_rano.krn
+!!!OTL: Oj, kury, kure, nie pijte rano
+!!!source: DWOK56
+!!!id: 56123
+!!!signature: 5612300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8cc
+8b
+=2
+8dd
+4b
+=3
+8a
+8a
+8g
+=4
+8f#
+4e}
+!!LO:LB:g=esac
+=5
+{4g
+8d
+=6
+8cc
+4b
+=7
+8a
+8a
+8a
+=8
+8cc
+8b
+8g
+=9
+8a
+8a
+8a
+=10
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 141} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 141}
+!!!page: 141
+!!!ONB: Converted on 2024/12/26 with esac2hum

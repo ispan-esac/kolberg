@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK7700100001-a_coz_z_ta_dziecina.krn
+!!!OTL: A cóż z tą dzieciną
+!!!source: DWOK77
+!!!id: 77001
+!!!signature: 7700100001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+4cc
+4dd
+=2
+4ee
+2ee
+=3
+4dd
+4ee
+8dd
+8cc
+=4
+4b
+4a}
+4r
+!!LO:LB:g=esac
+=5
+{4dd
+4cc
+4dd
+=6
+4ee
+2ee
+=7
+8dd
+8dd
+4ee
+8dd
+8cc
+=8
+4b
+4a}
+4r
+!!LO:LB:g=esac
+=9
+{8b
+8cc
+4b
+4a
+=10
+8g#
+8e
+4.a
+8a
+=11
+8b
+8cc
+4b
+4a
+=12
+8g
+8e
+4.a
+8g}
+!!LO:LB:g=esac
+=13
+{4b
+4a
+4g#
+=14
+4a}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 3
+!!!ONB: Converted on 2024/12/26 with esac2hum

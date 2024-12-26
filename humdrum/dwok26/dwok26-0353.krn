@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2635300000-siedzi_jastrzab_na_wisni.krn
+!!!OTL: Siedzi jastrząb na wiśni
+!!!source: DWOK26
+!!!id: 26353
+!!!signature: 2635300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+8dd
+4a
+=3
+8cc#
+4dd}
+!!LO:LB:g=esac
+=4
+{8dd
+8b
+8dd
+=5
+8dd
+4a
+=6
+8b
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8dd
+=8
+16dd
+16cc#
+4a
+=9
+8cc#
+4dd}
+!!LO:LB:g=esac
+=10
+{8dd
+8b
+8dd
+=11
+16dd
+16cc#
+4a
+=12
+16a
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 260
+!!!ONB: Converted on 2024/12/26 with esac2hum

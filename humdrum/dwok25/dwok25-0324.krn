@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2532400000-moja_marynia_robotna_byla.krn
+!!!OTL: Moja Marynia robotna była
+!!!source: DWOK25
+!!!id: 25324
+!!!signature: 2532400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8b
+8b
+=2
+8dd
+8dd
+8cc
+=3
+8b
+8b
+8b
+=4
+8dd
+4b}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8b
+=6
+8dd
+8dd
+8cc
+=7
+8b
+8b
+8b
+=8
+16dd
+16cc
+4b}
+!!LO:LB:g=esac
+=9
+{8a
+4cc
+=10
+8a
+4g
+=11
+8b
+4dd
+=12
+4.g}
+!!LO:LB:g=esac
+=13
+{8b
+4dd
+=14
+8dd
+8ee
+8cc
+=15
+8b
+4a
+=16
+4g}
+8r
+==
+*-
+!!!ONB: Wariant w takcie jedenastym zapisu 3_2_-7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 145} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 145}
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

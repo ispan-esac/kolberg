@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK06-K0376b-oj_karowianie_jada.krn
+!!!OTL: Oj Karowianie jada
+!!!source: DWOK06
+!!!id: K0376b
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8b
+=2
+16b
+16dd
+8ee
+8cc
+=3
+8a
+8cc
+8cc
+=4
+16b
+16a
+8g
+8d}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8b
+8a
+=6
+8cc
+4a
+=7
+8g
+8e
+8e
+=8
+16e
+16g
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 196} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

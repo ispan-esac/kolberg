@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK25243a0002-wyjechal_pan_z_chartami.krn
+!!!OTL: Wyjechał pan z chartami
+!!!source: DWOK25
+!!!id: 25243a
+!!!signature: 25243a0002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8cc
+8b-
+8a
+8a
+8a
+8f
+=2
+8a
+8cc
+8dd
+8cc
+8b-
+8a
+=3
+8b-
+8g
+8g
+8g
+8g
+8a
+=4
+8b-
+8dd
+8cc
+8b-
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+4a
+4a
+=6
+8cc
+8a
+2cc
+=7
+8ff
+8dd
+4dd
+4cc
+=8
+8b-
+8g
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 106} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 106}
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

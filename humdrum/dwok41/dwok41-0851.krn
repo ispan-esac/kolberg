@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK4185100000-instrumentalna-kujawiak.krn
+!!!OTL: Instrumentalna-Kujawiak
+!!!source: DWOK41
+!!!id: 41851
+!!!signature: 4185100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+{12g
+12f#
+12g
+4d
+12cc
+12dd#
+12cc
+=1
+4f#
+4a
+4d
+=
+12g
+12f#
+12g
+4d
+16dd
+16ee
+16dd
+16cc#
+=2
+8b
+8dd
+4a
+4d}
+!!LO:LB:g=esac
+=
+{12g
+12f#
+12g
+4a
+4cc
+=3
+8b
+8dd
+8cc
+8b
+8a
+8f#
+=
+12g
+12f#
+12g
+4d
+4cc
+=4
+8b
+8g
+4a
+8a
+8f#}
+!!LO:LB:g=esac
+=
+{12g
+12f#
+12g
+4a
+4cc
+=5
+8b
+8dd
+8cc
+8b
+8a
+8f#
+=
+12g
+12f#
+12g
+4d
+4cc
+=6
+8b
+8g
+4a
+8a
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=461 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 374} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 374}
+!!!page: 374
+!!!ONB: Converted on 2024/12/26 with esac2hum

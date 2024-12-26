@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK45161400002-kazala_mi_maty.krn
+!!!OTL: Kazała mi maty
+!!!source: DWOK45
+!!!id: 451614
+!!!signature: 45161400002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8ee
+8ee
+8ee
+=2
+4ee
+4b
+=3
+8cc
+8b
+8a
+8g#
+=4
+8a
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+8ee
+=6
+4dd
+4b
+=7
+8cc
+8b
+8a
+8g#
+=8
+8g#
+8b
+4a}
+!!LO:LB:g=esac
+=9
+{8e
+8a
+8a
+8a
+=10
+4a
+4g#
+=11
+8a
+8cc
+4b}
+!!LO:LB:g=esac
+=12
+{8a
+8a
+8a
+8b
+=13
+4a
+4e
+=14
+8g
+8f
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=235 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 221} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 221}
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

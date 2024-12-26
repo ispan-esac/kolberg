@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK1205700010-jedzie_jasio_od_warsawy.krn
+!!!OTL: Jedzie Jasio od Warsawy
+!!!source: DWOK12
+!!!id: 12057
+!!!signature: 1205700010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+16b
+16a
+8g
+8g
+=3
+16b
+16dd
+8dd
+16ee
+16cc
+=4
+8a
+8a
+8a}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8cc
+16dd
+16b
+=6
+8g
+8g
+8g}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8cc
+=8
+16b
+16a
+16g
+16f#
+16g
+16b
+=9
+16b
+16dd
+16dd
+16cc
+16ee
+16cc
+=10
+8a
+8a
+8a}
+!!LO:LB:g=esac
+=11
+{16a
+16cc
+8cc
+16dd
+16b
+=12
+8g
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=41 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 25} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 25}
+!!!page: 25
+!!!ONB: Converted on 2024/12/26 with esac2hum

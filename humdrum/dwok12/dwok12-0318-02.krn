@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK1231800002-a_w_krakowie_w_ulicy.krn
+!!!OTL: A w Krakowie w ulicy
+!!!source: DWOK12
+!!!id: 12318
+!!!signature: 1231800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8cc
+8b
+8cc
+=2
+4dd
+4ee
+=3
+2dd}
+!!LO:LB:g=esac
+=4
+{8dd
+8cc
+8b
+8cc
+=5
+4a
+8a
+8f#
+=6
+2g}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8g
+8b
+=8
+4cc
+8b
+8dd
+=9
+8a
+8a
+8g
+8b
+=10
+4dd
+8ee
+8cc}
+!!LO:LB:g=esac
+=11
+{8dd
+8cc
+8b
+8b
+=12
+4a
+8a
+8f#
+=13
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 169} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 169}
+!!!page: 169
+!!!ONB: Converted on 2024/12/26 with esac2hum

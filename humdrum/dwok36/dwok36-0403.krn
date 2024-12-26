@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK3640300000-ne_kuj_zazulejko.krn
+!!!OTL: Ne kuj zazułejko
+!!!source: DWOK36
+!!!id: 36403
+!!!signature: 3640300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8g
+8ee
+16dd
+16cc
+=2
+4dd
+8ee
+8b
+=3
+8cc
+8dd
+8ee
+16dd
+16cc
+=4
+16b
+16g
+8r
+8ee
+16dd
+16cc}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+8dd
+8cc
+16b
+16a
+=6
+4g
+8a
+8f#
+=7
+8g
+16b
+16g
+8cc
+16b
+16a
+=8
+4g
+4g}
+==
+*-
+!!!ONB: t. 3-4 przesunięcie wartości
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 255
+!!!ONB: Converted on 2024/12/26 with esac2hum

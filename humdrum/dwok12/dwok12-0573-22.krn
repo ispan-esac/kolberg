@@ -1,0 +1,121 @@
+!!!!SEGMENT: DWOK1257300022-nie_wyganiaj_owczaryszku_owiec_na_rose.krn
+!!!OTL: Nie wyganiaj owczaryszku owiec na rosę
+!!!source: DWOK12
+!!!id: 12573
+!!!signature: 1257300022
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{8b
+24a
+24b
+24cc
+8ee
+=
+24b
+24dd
+24cc
+8b
+8dd
+=
+8b
+24a
+24b
+24cc
+8ee
+=1
+16d
+16d
+8f#
+8g}
+!!LO:LB:g=esac
+=2
+8r
+{16a
+16cc
+8ee
+=3
+16dd
+16ee
+16dd
+16b
+16g
+16a
+=4
+8r
+16a
+16cc
+16dd
+16cc
+=5
+16b
+16dd
+16b
+16g
+16b
+16dd}
+!!LO:LB:g=esac
+=6
+{8a
+16b
+16cc
+16dd
+16cc
+=7
+16b
+16dd
+16b
+16g
+8a}
+!!LO:LB:g=esac
+=
+8r
+{24a
+24b
+24cc
+8ee
+=8
+16dd
+16ee
+16dd
+16b
+16g
+16a
+=
+8r
+24a
+24b
+24cc
+16dd
+16cc
+=9
+16b
+16dd
+16b
+16g
+16b
+16dd}
+!!LO:LB:g=esac
+=10
+{8a
+16b
+16cc
+16dd
+16cc
+=11
+16b
+16dd
+16b
+16g
+8a}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=306 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 290} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 290}
+!!!page: 290
+!!!ONB: Converted on 2024/12/26 with esac2hum

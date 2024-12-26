@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK57169300000-jichaw_kozak_za_dunaj.krn
+!!!OTL: Jichaw kozak za dunaj
+!!!source: DWOK57
+!!!id: 571693
+!!!signature: 57169300000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4.a
+8e
+4.a
+8e
+=2
+4a
+4cc
+4b
+4a
+=3
+4.g#
+8e
+4.g#
+8e
+=4
+4g#
+4b
+4a
+4g#
+=5
+4.a
+8e
+4.a
+8e
+=6
+4a
+4cc
+4b
+4a
+=7
+4g#
+4b
+4.ee
+8g#
+=8
+2a}
+2r
+!!LO:LB:g=esac
+=9
+{4.cc
+8g#
+4.cc
+8g#
+=10
+4cc
+4ee
+4dd
+4cc
+=11
+4.b
+8g
+4.b
+8g
+=12
+4b
+4dd
+4cc
+4b
+=13
+4.a
+8e
+4.a
+8e
+=14
+4a
+4cc
+4b
+4a
+=15
+4g#
+4ee
+4ee
+4g#
+=16
+2a}
+2r
+==
+*-
+!!!ONB: Wariant t. 2: 1_3b_1__; wariant t. 4: -7_2_-7_-7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 783
+!!!ONB: Converted on 2024/12/26 with esac2hum

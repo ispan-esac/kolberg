@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK5247800020-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK52
+!!!id: 52478
+!!!signature: 5247800020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8dd
+8cc
+8b
+8dd
+2gg
+=2
+8b
+8dd
+8ee
+8dd
+2cc}
+!!LO:LB:g=esac
+=3
+{4cc
+8a
+8cc
+4b
+8g
+8b
+=4
+8a
+16dd
+16dd
+8dd
+8dd
+2dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8b
+8dd
+2gg
+=6
+8b
+8g
+4ee
+4dd
+16cc
+8.a}
+!!LO:LB:g=esac
+=7
+{4a
+4cc
+4b
+4g
+=8
+8g
+16g
+16g
+8g
+8b
+4.a
+8f#
+=9
+8g
+16g
+16g
+8g
+8g
+2g}
+==
+*-
+!!!ONB: Gdy z cerkwi wracają, grają w drodze marsza zwanego Napolion
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=362 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 301} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 301}
+!!!page: 301
+!!!ONB: Converted on 2024/12/26 with esac2hum

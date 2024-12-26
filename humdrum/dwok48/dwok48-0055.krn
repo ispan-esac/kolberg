@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK4805500000-deszczyk_rosi_deszczyk_rosi_po_bialej_brzezinie.krn
+!!!OTL: Deszczyk rosi, deszczyk rosi po białej brzezinie
+!!!source: DWOK48
+!!!id: 48055
+!!!signature: 4805500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.dd
+32dd
+16dd
+16cc
+8b
+=2
+16.dd
+32dd
+16dd
+16cc
+8b
+=3
+4dd
+8gg
+=4
+16.dd
+32ee
+16dd
+16cc
+8b}
+!!LO:LB:g=esac
+=5
+{16.a
+32a
+8.a
+16b
+=6
+16cc
+16dd
+16ee
+16dd
+8b
+=7
+4dd
+8gg
+=8
+16dd
+16ee
+16dd
+16cc
+8b}
+!!LO:LB:g=esac
+=9
+{16a
+16f#
+8g
+8a
+=10
+16cc
+16dd
+16ee
+16dd
+8b
+=11
+4dd
+8gg
+=12
+16b
+16cc
+16b
+16a
+8g}
+==
+*-
+!!!ONB: Wariant t. 8: 5_6_5_4_3_1_; wariant t. 12: 5_4_3_2_1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 123} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

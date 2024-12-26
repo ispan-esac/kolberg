@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK3145700000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK31
+!!!id: 31457
+!!!signature: 3145700000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16cc
+16b
+16a
+16g
+16a
+16g
+16f#
+16d
+=2
+8c
+8c
+4g
+=3
+16cc
+16b
+16a
+16g
+16a
+16g
+16f#
+16d
+=4
+8c
+8c
+4c}
+!!LO:LB:g=esac
+=5
+{8c
+8c
+16g
+16f#
+16d
+16c
+=6
+8c
+8c
+16g
+16f#
+16d
+16c
+=7
+8c
+8c
+16g
+16f#
+16d
+16c
+=8
+8cc
+8cc
+4cc}
+!!LO:LB:g=esac
+=9
+{8c
+8c
+16g
+16f#
+16d
+16c
+=10
+8c
+8c
+16g
+16f#
+16d
+16c
+=11
+8c
+8c
+16g
+16f#
+16d
+16c
+=12
+8c
+8c
+4c}
+==
+*-
+!!!ONB: Serbyn
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 53} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 53}
+!!!page: 53
+!!!ONB: Converted on 2024/12/26 with esac2hum

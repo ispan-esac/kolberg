@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK2837200000-poszla_mucha_po_wode.krn
+!!!OTL: Poszła mucha po wodę
+!!!source: DWOK28
+!!!id: 28372
+!!!signature: 2837200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8g
+8g
+=2
+8cc
+8cc
+4cc
+=3
+8dd
+8dd
+8dd
+8ff
+=4
+4ee
+4ee}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+8dd
+8dd
+=6
+8dd
+16dd
+16b
+8a
+8g
+=7
+8a
+8cc
+8b
+8b
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=338 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 319} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 319}
+!!!page: 319
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2253600000-kazala_my_pani_matka.krn
+!!!OTL: Kazała my pani matka
+!!!source: DWOK22
+!!!id: 22536
+!!!signature: 2253600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8a
+8ee
+=2
+16dd
+16cc
+8a
+16dd
+16cc
+=3
+16dd
+16cc
+8a
+8ee
+=4
+16dd
+16cc
+8a
+16f#
+16g}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8a
+8g
+=6
+16dd
+16cc
+8a
+16f#
+16g
+=7
+16f#
+16g
+8a
+8g
+=8
+16b
+16cc
+8a
+16f#
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=262 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 244} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 244}
+!!!page: 244
+!!!ONB: Converted on 2024/12/26 with esac2hum

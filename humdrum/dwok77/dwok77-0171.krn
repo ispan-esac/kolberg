@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK7717100000-oj_bylby_ja_zolnierzem.krn
+!!!OTL: Oj byłby ja żołnierzem
+!!!source: DWOK77
+!!!id: 77171
+!!!signature: 7717100000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16dd
+16dd
+8cc
+8cc
+=2
+8b-
+8dd
+8ff
+=3
+16ee-
+16dd
+8cc
+16a
+16f
+=4
+8f
+8g
+8b-}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8a
+8cc
+=6
+8f
+8g
+8b-
+=7
+16dd
+16dd
+8cc
+8a
+=8
+8f
+8g
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

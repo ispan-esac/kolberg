@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK7767500000-wedruj_jasiu_wedruj.krn
+!!!OTL: Wędruj Jasiu wędruj
+!!!source: DWOK77
+!!!id: 77675
+!!!signature: 7767500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8cc
+8ee
+8ee
+8dd
+16dd
+16cc
+=2
+8ee
+8gg
+8gg
+8gg
+8ff
+16ff
+16ee}
+!!LO:LB:g=esac
+=3
+{8g
+8cc
+8ee
+8ee
+8dd
+16dd
+16cc
+=4
+8g
+8b
+8dd
+8dd
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 341
+!!!ONB: Converted on 2024/12/26 with esac2hum

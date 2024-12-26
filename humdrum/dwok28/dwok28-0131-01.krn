@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2813100001-idzcie_druhny_swinia_droga.krn
+!!!OTL: Idźcie druhny świnią drogą
+!!!source: DWOK28
+!!!id: 28131
+!!!signature: 2813100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8a
+8b
+=2
+8dd
+8cc
+8f#
+=3
+8g
+4cc
+=4
+8a
+8a
+8b
+=5
+8dd
+8cc
+8f#
+=6
+4g
+8g}
+!!LO:LB:g=esac
+=7
+{8cc
+8a
+8b
+=8
+8dd
+8cc
+8f#
+=9
+8g
+4cc
+=10
+8a
+8a
+8b
+=11
+8dd
+8cc
+8f#
+=12
+4g
+8g}
+==
+*-
+!!!ONB: Podane metrum 3/4 poprawiono na 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 184} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

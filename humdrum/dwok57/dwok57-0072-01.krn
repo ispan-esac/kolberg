@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK57137200001-dala_maty_doczku.krn
+!!!OTL: Dała maty doczku
+!!!source: DWOK57
+!!!id: 1372
+!!!signature: 57137200001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4a
+4dd
+=2
+16gg
+16ff
+16ee
+16ff
+2ee
+=
+8ee
+8gg
+12gg
+12ff
+12ee
+4dd
+=3
+16gg
+16ff
+16ee
+16ff
+2ee
+=4
+8dd
+8ee
+4ff
+4ee
+=5
+8a
+8a
+4a
+4g
+=6
+8a
+8b
+4cc
+4dd
+=7
+4cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 442
+!!!ONB: Converted on 2024/12/26 with esac2hum

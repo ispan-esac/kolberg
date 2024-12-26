@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5000600002-oj_hojze_hojze_sywyi_woly_na_pole.krn
+!!!OTL: Oj, hojże hojże, sywyi woły, na połe
+!!!source: DWOK50
+!!!id: 50006
+!!!signature: 5000600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+4b
+4cc
+=2
+8cc
+16b
+16a
+8b
+8a
+4g
+=3
+16b
+16a
+16b
+16g
+2a
+=4
+4a}
+2r
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8g
+8g
+8b
+8cc
+=6
+8cc
+16b
+16a
+8b
+8g
+8a
+8f#
+=7
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=16 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 3} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 3}
+!!!page: 3
+!!!ONB: Converted on 2024/12/26 with esac2hum

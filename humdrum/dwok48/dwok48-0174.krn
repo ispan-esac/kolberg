@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK4817400000-ozdobo_naszej_ziemi_stanislawie.krn
+!!!OTL: Ozdobo naszej ziemi, Stanisławie
+!!!source: DWOK48
+!!!id: 48174
+!!!signature: 4817400000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+{4a
+=1
+4b
+4a
+4f#
+4a
+=2
+8g
+8f#
+8g
+8a
+4g
+4f#}
+!!LO:LB:g=esac
+=3
+{4g
+8g
+8g
+4e
+4g
+=4
+4a
+4a
+8b
+8a
+8g
+8f#
+=5
+*M2/4
+8f#
+8e
+4e}
+!!LO:LB:g=esac
+=6
+*M4/4
+{4dd
+8cc#
+8b
+4a
+4a
+=7
+8g
+8f#
+8g
+8a
+4b
+4a}
+!!LO:LB:g=esac
+=8
+{4a
+4d
+4f#
+8e
+8c#
+=9
+4d}
+2r
+==
+*-
+!!!ONB: U Kolberga wątpliwy zapis metrorytmiczny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 211} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 211}
+!!!page: 211
+!!!ONB: Converted on 2024/12/26 with esac2hum

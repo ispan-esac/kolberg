@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK1222200020-instrumentalna-ugania_sie_wisla_z_woda.krn
+!!!OTL: Instrumentalna-Ugania się Wisła z wodą
+!!!source: DWOK12
+!!!id: 12222
+!!!signature: 1222200020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24d
+24f#
+24g
+8.dd
+16cc
+=
+24a
+24b
+24dd
+8a
+8f#
+=
+24d
+24f#
+24g
+8.dd
+16cc
+=1
+16.a
+32b
+8g
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 116} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 116}
+!!!page: 116
+!!!ONB: Converted on 2024/12/26 with esac2hum

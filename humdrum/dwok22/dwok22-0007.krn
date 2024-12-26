@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2200700000-a_wczora_z_wieczora.krn
+!!!OTL: A wczora z wieczora
+!!!source: DWOK22
+!!!id: 22007
+!!!signature: 2200700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+4cc
+4dd
+=2
+4cc
+2a}
+!!LO:LB:g=esac
+=3
+{8ee
+8ee
+4ff
+4ee
+=4
+4dd
+2cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8cc
+8ee
+8dd
+8cc
+=6
+8b
+8dd
+8b
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=7
+{8a
+8b
+4cc
+4dd
+=8
+4cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=39 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 21} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 21}
+!!!page: 21
+!!!ONB: Converted on 2024/12/26 with esac2hum

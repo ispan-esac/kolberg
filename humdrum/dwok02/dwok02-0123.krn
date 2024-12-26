@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK02-K0123-lepsa_ja_sobie_nizli_ty.krn
+!!!OTL: Lepsa ja sobie nizli ty
+!!!source: DWOK02
+!!!id: K0123
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8ee
+8ee
+=2
+4dd
+8ee
+=3
+16dd
+16b
+8cc
+8a}
+!!LO:LB:g=esac
+=4
+{8b
+8cc
+8dd
+=5
+4dd
+8cc
+=6
+16b
+16dd
+4a}
+!!LO:LB:g=esac
+=7
+{16a
+16b
+8a
+8b
+=8
+8cc
+4dd
+=9
+16b
+16dd
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 90} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

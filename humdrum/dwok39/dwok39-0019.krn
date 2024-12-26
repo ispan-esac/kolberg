@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK3901900000-uboga_ja_sieroteczka_na_swiecie.krn
+!!!OTL: Uboga ja sieroteczka na świecie
+!!!source: DWOK39
+!!!id: 39019
+!!!signature: 3901900000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{8dd
+8ee
+4ff
+4dd
+=2
+8cc
+8b-
+4a
+4g
+=3
+4a
+2cc
+=4
+2dd}
+4r
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+4ff
+4dd
+=6
+8cc
+8b-
+4a
+4g
+=7
+4dd
+2f#
+=8
+2g}
+4r
+!!LO:LB:g=esac
+=9
+{8g
+8a
+4b-
+4dd
+=10
+8cc
+8b-
+4a
+4g
+=11
+4a
+2cc
+=12
+2dd}
+4r
+!!LO:LB:g=esac
+=13
+{8dd
+8ee
+4ff
+4dd
+=14
+8cc
+8b-
+4a
+4g
+=15
+4dd
+2f#
+=16
+2g}
+4r
+==
+*-
+!!!ONB: Do oczepin
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=143 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 93} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 93}
+!!!page: 93
+!!!ONB: Converted on 2024/12/26 with esac2hum

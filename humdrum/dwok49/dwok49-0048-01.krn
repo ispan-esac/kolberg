@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK4904800001-szczandryj_weczor_dobryj_weczor.krn
+!!!OTL: Szczandryj weczór, dobryj weczór
+!!!source: DWOK49
+!!!id: 49048
+!!!signature: 4904800001
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M2/4
+{8d
+8g
+8a
+8g
+=2
+*M3/4
+4a
+8a
+8g
+8a
+8g
+=3
+*M2/4
+4b
+4dd}
+!!LO:LB:g=esac
+=4
+{4cc
+4a
+=5
+4cc
+4a
+=6
+4.g
+8b
+=7
+4cc
+4a
+=8
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=219 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 141} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 141}
+!!!page: 141
+!!!ONB: Converted on 2024/12/26 with esac2hum

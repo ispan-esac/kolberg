@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK3621200000-na_onej_lace_zielonej.krn
+!!!OTL: Na onej łące zielonej
+!!!source: DWOK36
+!!!id: 36212
+!!!signature: 3621200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8b
+8g
+8g
+8g
+8f#
+8e
+=2
+4.a
+8dd
+4r
+=3
+8b
+8a
+8dd
+8dd
+8cc
+8f#
+=4
+8g
+8g}
+8r
+4.r
+!!LO:LB:g=esac
+=5
+{8b
+8g
+8g
+8f#
+8e
+8f#
+=6
+4.a
+8dd
+4r
+=7
+8b
+8a
+8dd
+8dd
+8cc
+8f#
+=8
+8g
+8g}
+8r
+4.r
+!!LO:LB:g=esac
+=9
+{8b
+8a
+8g
+8ee
+8dd
+8b
+=10
+8cc
+8a
+8g
+8b
+8a
+8a
+=11
+8a
+8dd
+8dd
+8dd
+8cc
+8f#
+=12
+8g
+8g}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

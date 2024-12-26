@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK1808700000-wstan-ze_ojce_z_grobu.krn
+!!!OTL: Wstań-ze ojce z grobu
+!!!source: DWOK18
+!!!id: 18087
+!!!signature: 1808700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4.cc
+=2
+8b
+8a
+8b
+=3
+4.cc
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{4.cc
+=6
+8b
+8a
+8b
+=7
+8cc
+8g
+8a
+=8
+4.cc
+=9
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 88} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

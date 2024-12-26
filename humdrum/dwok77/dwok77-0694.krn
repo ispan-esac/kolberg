@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK7769400000-da_ino_to_ino.krn
+!!!OTL: Da ino to ino
+!!!source: DWOK77
+!!!id: 77694
+!!!signature: 7769400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8b-
+8dd
+=2
+8cc
+4g
+=3
+4cc#
+8cc
+=4
+16ee
+16dd
+8cc#
+8dd}
+!!LO:LB:g=esac
+=5
+{16a
+16g
+8b-
+8dd
+=6
+8cc
+4d
+=7
+4f#
+8f#
+=8
+16a
+16g
+8e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 350
+!!!ONB: Converted on 2024/12/26 with esac2hum

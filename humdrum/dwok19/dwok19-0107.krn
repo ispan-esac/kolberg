@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK1910700000-da_w_ktorej_to_stronie.krn
+!!!OTL: Da w której to stronie
+!!!source: DWOK19
+!!!id: 19107
+!!!signature: 1910700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8dd
+4.b
+=3
+8dd
+8cc
+8.a
+16cc
+=4
+8b
+4.dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+8dd
+=6
+16ee
+16dd
+4.b
+=7
+8dd
+8cc
+8.a
+16cc
+=8
+8b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 37} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

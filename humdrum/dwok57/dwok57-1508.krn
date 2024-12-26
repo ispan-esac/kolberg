@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK57150800000-oj_woly_moji_sywe_sokoly.krn
+!!!OTL: Oj, woły moji, sywe sokoły
+!!!source: DWOK57
+!!!id: 571508
+!!!signature: 57150800000
+**kern
+*clefG2
+*k[]
+*a:
+*MX
+=1
+{8.cc
+16ee
+4ee
+8dd
+8ff#
+[4ee
+8ee]
+8dd
+4.dd
+8a
+8cc
+8b
+8a}
+4r
+!!LO:LB:g=esac
+=2
+{8.cc
+16ee
+4ee
+8dd
+8ff
+4ee
+[4dd
+8dd]
+8ee
+8cc
+8b
+8a}
+4r
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+4ee
+[4ee
+8ee]
+8dd
+8cc
+8b
+8a
+8.a
+16a
+8a
+8a
+4g
+=4
+8a
+8cc
+[4ee
+8ee]
+8dd
+8cc
+8b
+8a
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 551
+!!!ONB: Converted on 2024/12/26 with esac2hum

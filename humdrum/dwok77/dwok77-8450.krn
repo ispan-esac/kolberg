@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7784500000-garstka_naszych_za_walami.krn
+!!!OTL: Garstka naszych za wałami
+!!!source: DWOK77
+!!!id: 778450
+!!!signature: 7784500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8cc
+4b
+4b
+=2
+8cc
+8f#
+4a
+4g
+=3
+8gg
+8ff#
+4ee
+4cc
+=
+12gg
+12ff#
+12ee
+4dd
+4dd}
+!!LO:LB:g=esac
+=4
+{8dd
+8dd
+4gg
+4dd
+=5
+8ee
+8dd
+4gg
+4b
+=6
+8dd
+8cc
+4b
+4b
+=7
+8cc
+8f#
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 48
+!!!ONB: Converted on 2024/12/26 with esac2hum

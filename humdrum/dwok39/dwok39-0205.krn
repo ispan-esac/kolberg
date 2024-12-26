@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK3920500000-kozel_kozel_gdzez_te_bel.krn
+!!!OTL: Kozel Kozel gdzeż te bel?
+!!!source: DWOK39
+!!!id: 39205
+!!!signature: 3920500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+16ee
+16ff#
+=2
+8gg
+8b
+4dd}
+!!LO:LB:g=esac
+=3
+{8ee
+8a
+8cc
+8a
+=4
+8ee
+8dd
+4dd}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+16ee
+16ff#
+=6
+8gg
+8dd
+4dd}
+!!LO:LB:g=esac
+=7
+{8ee
+8dd
+8cc
+8a
+=8
+8a
+8g
+4g}
+==
+*-
+!!!ONB: Belacka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=278 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 226} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 226}
+!!!page: 226
+!!!ONB: Converted on 2024/12/26 with esac2hum

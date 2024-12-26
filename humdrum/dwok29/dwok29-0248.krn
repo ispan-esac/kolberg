@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2924800000-naszi_moloda_jak_kalyneczka.krn
+!!!OTL: Naszi mołoda jak kalyneczka
+!!!source: DWOK29
+!!!id: 29248
+!!!signature: 2924800000
+**kern
+*clefG2
+*k[f#]
+*e:
+=1
+*M3/8
+{8e
+8e
+8a
+=2
+8a
+4b
+=3
+8b
+8dd
+8cc#
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8a
+8dd
+8b
+8a
+=6
+8a
+8a
+16a
+16g
+16f#
+16e
+=
+!!UNCATEGORIZED MEASURE
+2e}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8b
+8dd
+=7
+*M2/4
+2b
+=8
+8a
+8dd
+8b
+8a
+=9
+8a
+8a
+16a
+16g
+16f#
+16e
+=10
+2g}
+!!LO:LB:g=esac
+=11
+{4e
+[4e
+=12
+4e]
+8e}
+8r
+==
+*-
+!!!ONB: Przy wiciu wieńca
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=349 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 317} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 317}
+!!!page: 317
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK763800000-oj_zolnierz_ci_ja_zolnierz.krn
+!!!OTL: Oj, zołnierz ci ja, zołnierz
+!!!source: DWOK76
+!!!id: 76380
+!!!signature: 763800000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{4cc#
+4ee
+4ee
+=2
+8ee
+8ee
+4.ff#
+8cc#
+=3
+4dd
+4cc#
+4ee
+=4
+8b
+8cc#
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{4cc#
+4ff#
+4ee
+=6
+8dd#
+8ee
+4ff#
+8ff#
+8cc#
+=7
+4dd
+4cc#
+4ee
+=8
+8b
+8cc#
+4b
+4a}
+==
+*-
+!!!ONB: Wariant t.7: 4_435_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 196} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 196}
+!!!page: 196
+!!!ONB: Converted on 2024/12/26 with esac2hum

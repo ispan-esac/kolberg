@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK0905200000-a_nie_wiesz_ty_zydzie_na_co_ci_to_przyjdzie.krn
+!!!OTL: A nie wiesz ty żydzie na co ci to przyjdzie
+!!!source: DWOK09
+!!!id: 09052
+!!!signature: 0905200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8dd
+8dd
+=2
+8ee
+4cc
+=3
+16a
+16f#
+8d
+8d
+=4
+8g
+4b}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8dd
+8dd
+=6
+8ee
+4cc
+=7
+16a
+16f#
+8d
+8d
+=8
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=219 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 195} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 195}
+!!!page: 195
+!!!ONB: Converted on 2024/12/26 with esac2hum

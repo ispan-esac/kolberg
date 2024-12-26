@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK35A-35A02200000-hej_lilija.krn
+!!!OTL: Hej lilija
+!!!source: DWOK35A
+!!!id: 35A022
+!!!signature: 35A02200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{2dd
+=2
+8cc#
+8dd
+4a}
+!!LO:LB:g=esac
+=3
+{8a
+8b
+8cc
+8b
+=4
+4dd
+4cc
+=5
+8cc
+8dd
+8cc
+8b
+=6
+4a
+4g}
+!!LO:LB:g=esac
+=7
+{2a
+=8
+8a
+8b
+4g}
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 26} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 26}
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

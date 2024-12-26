@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK5247800010-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK52
+!!!id: 52478
+!!!signature: 5247800010
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4g
+8.ee
+16dd
+2cc
+=2
+4g
+8.ee
+16dd
+2cc
+=3
+4g
+4ff
+4dd
+4dd}
+!!LO:LB:g=esac
+=4
+{4g
+8a
+8b
+4cc
+8ee
+8dd
+=5
+1cc}
+==
+*-
+!!!ONB: Gdy z cerkwi wracają, grają w drodze marsza zwanego Napolion, O.K. "Przekrecony marsz weselny polski"
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=362 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 301} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 301}
+!!!page: 301
+!!!ONB: Converted on 2024/12/26 with esac2hum

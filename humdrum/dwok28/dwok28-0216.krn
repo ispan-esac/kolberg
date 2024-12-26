@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2821600000-ej_wyjde_ja_na_polenko.krn
+!!!OTL: Ej wyjdę ja na poleńko
+!!!source: DWOK28
+!!!id: 28216
+!!!signature: 2821600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+4cc
+=2
+8cc
+4ee
+=3
+8ff
+4dd
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+=6
+8gg
+4ff
+=7
+[4.dd}
+=8
+4dd]
+8r
+!!LO:LB:g=esac
+=9
+{8cc
+4ee
+=10
+8gg
+4ee
+=11
+8ff
+4dd
+=12
+8b
+4g}
+!!LO:LB:g=esac
+=13
+{8b
+4dd
+=14
+8ff
+4ee
+=15
+[4.cc}
+=16
+4cc]
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 240} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 240}
+!!!page: 240
+!!!ONB: Converted on 2024/12/26 with esac2hum

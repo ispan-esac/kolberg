@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK5037200001-oj_mala_wdowa_jednoho_syna.krn
+!!!OTL: Oj, mała wdowa jednoho syna
+!!!source: DWOK50
+!!!id: 50372
+!!!signature: 5037200001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16e
+16a
+8cc
+8dd
+=2
+8a
+4cc}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+8dd
+=4
+8a
+4cc}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8dd
+=6
+8cc
+4ee}
+!!LO:LB:g=esac
+=7
+{16ff#
+16ee
+8ee
+8dd
+=
+24dd
+24cc
+24b
+4a}
+!!LO:LB:g=esac
+=8
+{8a
+8cc
+8dd
+=9
+8cc
+4ee}
+!!LO:LB:g=esac
+=10
+{16ff#
+16ee
+8ee
+8dd
+=
+24dd
+24cc
+24b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=224 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 199} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1912300010-siedem_lat_wojowals_sabli_nie_wyjmowals.krn
+!!!OTL: Siedem lat wojowałś, sabli nie wyjmowałś
+!!!source: DWOK19
+!!!id: 19123
+!!!signature: 1912300010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+4cc
+8ff
+=2
+8gg
+8ee
+4ff
+=3
+8ee
+4cc
+16cc
+16dd
+=4
+8b-
+16b-
+16g
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+16ee
+16ff
+=6
+8gg
+8ee
+4ff
+=7
+8a
+4cc
+8dd
+=8
+8b-
+16b-
+16g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=56 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 42} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 42}
+!!!page: 42
+!!!ONB: Converted on 2024/12/26 with esac2hum

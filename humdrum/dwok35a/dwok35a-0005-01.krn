@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK35A-35A00500001-w_czystejkim_poly_boloniczejka.krn
+!!!OTL: W czystejkim poly bołoniczejka
+!!!source: DWOK35A
+!!!id: 35A005
+!!!signature: 35A00500001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8b
+8cc
+=2
+8dd
+4ee
+=3
+8dd#
+8ee
+8ff#
+=4
+8ee
+4dd#
+=5
+8cc
+4b
+=6
+4a}
+8r
+!!LO:LB:g=esac
+=7
+{8ee
+8ee
+8ff#
+=8
+8dd#
+4ee
+=9
+8ee
+8ee
+8cc
+=10
+8a
+4b
+=11
+8g#
+4a
+=12
+4a}
+8r
+==
+*-
+!!!ONB: Kolęda
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=53 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 17-18} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, pp. 17-18}
+!!!page: 17-18
+!!!ONB: Converted on 2024/12/26 with esac2hum

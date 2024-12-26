@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK8365800001-oj_bozez_boze_szczoz_maju_dijaty.krn
+!!!OTL: Oj, Bożeż, Boże, szczoż maju dijaty
+!!!source: DWOK83
+!!!id: 83658
+!!!signature: 8365800001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4ee
+8ff
+8ff
+=2
+4ee
+4dd
+=3
+8cc
+8cc
+8b
+8cc
+=4
+4a
+4a}
+!!LO:LB:g=esac
+=5
+{4ee
+8ff
+8ff
+=6
+4ee
+4dd
+=7
+8cc
+8cc
+8b
+8cc
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{4dd
+8dd
+8ee
+=10
+4dd
+4dd
+=11
+8cc
+8b
+8cc
+8dd
+=12
+[4ee
+8ee]
+8aa
+=13
+2ee}
+!!LO:LB:g=esac
+=14
+{4ee
+8ff
+8ff
+=15
+4ee
+4dd
+=16
+8cc
+8cc
+8b
+8cc
+=17
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 11} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 11}
+!!!page: 11
+!!!ONB: Converted on 2024/12/26 with esac2hum

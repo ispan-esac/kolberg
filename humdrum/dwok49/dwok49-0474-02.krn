@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4947400002-oj_dobranoc_oj_dobranoc.krn
+!!!OTL: Oj, dobranoc, oj, dobranoc
+!!!source: DWOK49
+!!!id: 49474
+!!!signature: 4947400002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+8ee
+=2
+16ee
+16gg
+8gg
+8ff
+=3
+16ff
+16ee
+8dd
+8cc
+=4
+8dd
+4dd}
+!!LO:LB:g=esac
+=5
+{16ee
+16ff
+8gg
+8gg
+=6
+16ff#
+16gg
+8aa
+8gg
+=7
+16ff
+16ee-
+8dd
+16cc
+16b
+=8
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=533 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 443-444} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, pp. 443-444}
+!!!page: 443-444
+!!!ONB: Converted on 2024/12/26 with esac2hum

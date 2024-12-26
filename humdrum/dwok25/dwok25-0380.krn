@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2538000000-instrumentalna-owczarek.krn
+!!!OTL: Instrumentalna-Owczarek
+!!!source: DWOK25
+!!!id: 25380
+!!!signature: 2538000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8ff
+16ee
+16gg
+8ff
+=2
+16aa
+16gg
+16ff
+16dd
+8cc
+=3
+8ff
+16ee
+16gg
+8ff
+=4
+16cc
+16dd
+16b-
+16g
+8f}
+!!LO:LB:g=esac
+=5
+{8b-
+16a
+16cc
+8b-
+=6
+16cc
+16ee
+8.ff
+16dd
+=7
+16dd
+16cc
+16a
+16cc
+8b-
+=8
+16cc
+16dd
+16b-
+16g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 171} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 171}
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

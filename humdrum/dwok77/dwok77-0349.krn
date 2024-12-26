@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK7734900000-bodaj_cie_bog_skaral_z_pomyslenia_mego.krn
+!!!OTL: Bodaj cię Bóg skarał z pomyślenia mego
+!!!source: DWOK77
+!!!id: 77349
+!!!signature: 7734900000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=1
+{8a
+8b
+4cc#
+=2
+8cc#
+4cc#
+8a
+=3
+8b
+8cc#
+4dd
+=4
+8dd
+4dd
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+4cc#
+=6
+8cc#
+4cc#
+8ee
+=7
+16ee
+16dd
+8b
+4g#
+=8
+8b
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

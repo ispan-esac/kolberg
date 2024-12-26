@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK3621000000-gdyby_to_mozna.krn
+!!!OTL: Gdyby to można
+!!!source: DWOK36
+!!!id: 36210
+!!!signature: 3621000000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{4dd
+8.a
+16g
+8f#
+8e
+=2
+8d
+16d
+16c#
+8d
+8e
+8f#
+8g
+=3
+4a
+8.e
+16d
+8c#
+8B
+=4
+8A
+16A
+16G#
+8A
+8B
+8c#
+8A}
+!!LO:LB:g=esac
+=5
+{8e
+4e
+16f#
+16e
+16d
+16c#
+16B
+16A
+=6
+8e
+4e
+16f#
+16e
+16d
+16c#
+16B
+16A}
+!!LO:LB:g=esac
+=7
+{8d
+4d
+8f#
+8b
+8f#
+=8
+8e
+4e
+16f#
+16e
+16d
+16c#
+16B
+16A
+=9
+8d
+16g
+16f#
+4e
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

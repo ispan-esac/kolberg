@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK1812800001-zielony_gajiku_siekierecka_ciety.krn
+!!!OTL: Zielony gajiku siekierecką cięty
+!!!source: DWOK18
+!!!id: 18128
+!!!signature: 1812800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+8r
+{4g
+8f#
+=2
+8g
+8a
+8b
+8cc
+=3
+8b
+4dd
+8dd
+=4
+8dd
+8ee
+8cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8a
+8cc
+=6
+8a
+4g
+8d
+=7
+8e
+8f#
+4g
+=8
+8f#
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+8a
+8cc
+=10
+8a
+4g
+8d
+=11
+8e
+8f#
+4g
+=12
+8f#
+4a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 100} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

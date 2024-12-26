@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK77980b0000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK77
+!!!id: 77980b
+!!!signature: 77980b0000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8cc
+8ee
+=2
+8ee
+8dd
+8b
+=3
+16cc
+16dd
+8b
+16g
+16f#
+=4
+8d
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8cc
+16a
+16f#
+=6
+8d
+8dd
+8dd
+=7
+16cc
+16a
+8cc
+16b
+16g
+=8
+8d
+8a
+8g}
+==
+*-
+!!!ONB: Adnotacja: wariant zapisany w systemie dla lewej ręki; Wariant t. 3: 454_31
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

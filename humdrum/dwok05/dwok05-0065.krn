@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK05-K0065-a_jakze_mi_sie_mas_moj_panie_zurowski.krn
+!!!OTL: A jakze mi sie mas moj panie zurowski
+!!!source: DWOK05
+!!!id: K0065
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+4ee
+=2
+8ff
+8dd
+4ee
+=3
+8cc
+8dd
+4ee
+=4
+8ff
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4ee
+=6
+8ff
+8dd
+4gg
+=7
+8cc
+8dd
+4ee
+=8
+8ff
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 271} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 271}
+!!!page: 271
+!!!ONB: Converted on 2024/12/26 with esac2hum

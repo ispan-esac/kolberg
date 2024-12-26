@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK4153100002-przyszedl_jasio_do_kasiuni.krn
+!!!OTL: Przyszedł Jasio do Kasiuni
+!!!source: DWOK41
+!!!id: 41531
+!!!signature: 4153100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.b
+32b
+8.b
+16dd
+=2
+16dd
+16cc
+8.cc
+16f#
+=3
+16a
+16a
+8cc
+16dd
+16ee
+=4
+16ee
+16dd
+8dd}
+8r
+!!LO:LB:g=esac
+=5
+{16dd
+16dd
+4cc
+=6
+16ee
+16dd
+8b
+8dd
+=
+24dd
+24ee
+24dd
+8cc
+16f#
+16a
+=7
+16a
+16g
+8g}
+8r
+!!LO:LB:g=esac
+=8
+{16a
+16a
+8a
+8dd
+=9
+16cc#
+16b
+8cc#
+8a
+=10
+16a
+16a
+8ff#
+16ee
+16ff#
+=11
+16gg
+16ee
+8cc
+8a}
+!!LO:LB:g=esac
+=12
+{16a
+16a
+8dd
+8cc
+=13
+8b
+8ee
+8dd
+=14
+16dd
+16cc#
+16b
+16a
+16b
+16cc#
+=15
+8dd
+16ee
+16dd
+16cc
+16a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=357 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 274} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 274}
+!!!page: 274
+!!!ONB: Converted on 2024/12/26 with esac2hum

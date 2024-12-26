@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK41110300000-ej_nieraz_ci_ja.krn
+!!!OTL: Ej, nieraz ci ja
+!!!source: DWOK41
+!!!id: 411103
+!!!signature: 41110300000
+**kern
+*clefG2
+*k[f#c#g#d#a#]
+*B:
+*M3/4
+=1
+{4dd#
+4ff#
+4ff#
+=2
+8gg#
+8cc#
+4ee
+4dd#
+=3
+4dd#
+4ff#
+4ff#
+=4
+8gg#
+8cc#
+4ee
+4dd#}
+!!LO:LB:g=esac
+=5
+{4a#
+4a#
+4cc#
+=6
+8a#
+8cc#
+4ee
+4dd#
+=7
+4dd#
+4ff#
+4gg#
+=8
+8ee
+8cc#
+4ee
+4dd#}
+!!LO:LB:g=esac
+=9
+{4a#
+4f#
+4cc#
+=10
+8a#
+8cc#
+4ee
+4dd#
+=11
+4dd#
+4ff#
+4gg#
+=12
+8ee
+8cc#
+4ee
+4dd#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=558 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 471} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 471}
+!!!page: 471
+!!!ONB: Converted on 2024/12/26 with esac2hum

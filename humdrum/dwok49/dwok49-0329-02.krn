@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK4932900002-oj_ja_u_swojej_szwaczki.krn
+!!!OTL: Oj, ja u swojej szwaczki
+!!!source: DWOK49
+!!!id: 49329
+!!!signature: 4932900002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4d
+4.g
+8g
+=2
+8g
+8f#
+4f#
+4a}
+!!LO:LB:g=esac
+=3
+{4d
+4f#
+4a
+=4
+8a
+8f#
+8a
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{8dd
+8b
+4g
+4g
+=6
+8g
+8g
+4ee
+8cc
+8b}
+!!LO:LB:g=esac
+=7
+{4cc
+4.a
+8f#
+=8
+8f#
+8f#
+8a
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=467 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 379} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 379}
+!!!page: 379
+!!!ONB: Converted on 2024/12/26 with esac2hum

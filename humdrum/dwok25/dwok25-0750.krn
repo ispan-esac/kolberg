@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2575000000-rznijcie_nam_od_ucha_tegiego_mazura.krn
+!!!OTL: Rznijcie nam od ucha tęgiego Mazura
+!!!source: DWOK25
+!!!id: 25750
+!!!signature: 2575000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ff
+16ee
+8dd
+8cc
+=2
+4ee
+8gg
+=3
+16ff
+16ee
+8dd
+8ee
+=4
+4cc
+8g}
+!!LO:LB:g=esac
+=5
+{16ff
+16ee
+8dd
+8dd
+=6
+4ee
+8gg
+=7
+16ff
+16ee
+8dd
+8ee
+=8
+4cc
+8cc}
+!!LO:LB:g=esac
+=9
+{16b
+16cc
+8dd
+8ee
+=10
+16cc
+16b
+8a
+8dd
+=11
+16b
+16cc
+8dd
+8ee
+=12
+16cc
+16b
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 265} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 265}
+!!!page: 265
+!!!ONB: Converted on 2024/12/26 with esac2hum

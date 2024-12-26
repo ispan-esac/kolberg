@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK06-K0255-wyjzyj_pani_matko.krn
+!!!OTL: Wyjzyj pani matko
+!!!source: DWOK06
+!!!id: K0255
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16.cc
+32cc
+8.ee
+16cc
+=3
+16g
+16b
+8dd
+8dd
+=4
+4cc}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+8dd
+=6
+16.cc
+32cc
+8.ee
+16gg
+=7
+16ff
+16dd
+8b
+8b
+=8
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 128} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 128}
+!!!page: 128
+!!!ONB: Converted on 2024/12/26 with esac2hum

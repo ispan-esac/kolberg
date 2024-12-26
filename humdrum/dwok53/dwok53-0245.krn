@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK5324500000-o_tu_jauna_mergele.krn
+!!!OTL: O! Tu, jauna mergele!
+!!!source: DWOK53
+!!!id: 53245
+!!!signature: 5324500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4dd
+4dd
+=2
+2dd
+4cc
+=3
+2ee
+4cc}
+!!LO:LB:g=esac
+=4
+{4a
+4cc
+4cc
+=5
+2cc
+4ee
+=6
+2dd
+4b}
+!!LO:LB:g=esac
+=7
+{4d
+4g
+4b
+=8
+2b
+4a
+=9
+2cc
+4a}
+!!LO:LB:g=esac
+=10
+{4ee
+4dd
+4g
+=11
+2a
+4a
+=12
+2g
+4g}
+!!LO:LB:g=esac
+=13
+{4d
+4g
+4b
+=14
+2b
+4a
+=15
+2cc
+4a}
+!!LO:LB:g=esac
+=16
+{4ee
+4dd
+4g
+=17
+2a
+4a
+=18
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=375 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 335} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 335}
+!!!page: 335
+!!!ONB: Converted on 2024/12/26 with esac2hum

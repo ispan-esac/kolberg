@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK02-K0154-jedzie_jasio_od_torunia.krn
+!!!OTL: Jedzie Jasio od Torunia
+!!!source: DWOK02
+!!!id: K0154
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8ff#
+=2
+16dd
+16ff#
+8.gg
+16ee
+=3
+32cc
+32a
+16f#
+8a
+8b
+=4
+8g}
+4r
+!!LO:LB:g=esac
+=5
+{32b
+32a
+16f#
+8a
+8b
+=6
+16g
+16g
+8b
+32b
+32dd
+16ee}
+!!LO:LB:g=esac
+=7
+{32b
+32a
+16f#
+8a
+8b
+=8
+16g
+16g
+8b
+32b
+32dd
+16ee
+=9
+32b
+32a
+16f#
+8a
+8b
+=10
+8g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 130-131} @EN{Oskar Kolberg Complete Works 2: Sandomierz, pp. 130-131}
+!!!page: 130-131
+!!!ONB: Converted on 2024/12/26 with esac2hum

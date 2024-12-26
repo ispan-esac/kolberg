@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK2201000000-witajmy_jezusa_nam_narodzonego.krn
+!!!OTL: Witajmy Jezusa nam narodzonego
+!!!source: DWOK22
+!!!id: 22010
+!!!signature: 2201000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4d
+4g
+4b
+=2
+8a
+8f#
+2g
+=3
+4b
+4b
+4dd
+=4
+8cc
+8a
+2b}
+!!LO:LB:g=esac
+=5
+{4d
+4g
+4b
+=6
+8a
+8f#
+2g
+=7
+4b
+4b
+4dd
+=8
+8cc
+8a
+2b}
+!!LO:LB:g=esac
+=9
+{2dd
+4b
+=10
+4b
+2g
+=11
+2cc
+4a
+=12
+4f#
+2d}
+!!LO:LB:g=esac
+=13
+{2dd
+4b
+=14
+4b
+2g
+=15
+2cc
+4a
+=16
+4f#
+2d}
+!!LO:LB:g=esac
+=17
+{4g
+4a
+4a
+=18
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 22} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 22}
+!!!page: 22
+!!!ONB: Converted on 2024/12/26 with esac2hum

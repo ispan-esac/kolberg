@@ -1,0 +1,120 @@
+!!!!SEGMENT: DWOK2225700000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK22
+!!!id: 22257
+!!!signature: 2225700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+16b
+16cc
+16dd
+16cc
+=2
+16dd
+16ff
+16ee
+16cc
+8a
+=3
+16dd
+16ff
+16ee
+16cc
+16ee
+16ff
+=4
+16dd
+16ff
+16ee
+16cc
+8a}
+!!LO:LB:g=esac
+=5
+{16cc
+32dd
+32ee
+8ff
+8dd
+=6
+8gg
+16ee
+16cc
+8a
+=7
+16dd
+16ff
+16aa
+16bb
+16aa
+16ff
+=8
+16dd
+16gg
+16ee
+16cc
+8a}
+!!LO:LB:g=esac
+=9
+{16cc
+32dd
+32ee
+8ff
+8dd
+=10
+8gg
+16ee
+16cc
+8a
+=11
+16g
+16a
+16b
+16cc
+16dd
+16cc
+=12
+16g
+16b
+16a
+16f
+8d}
+!!LO:LB:g=esac
+=13
+{16g
+16b
+16a
+16f
+16a
+16b
+=14
+8g
+16g
+16b
+8dd
+=15
+16g
+16b
+16a
+16f
+16a
+16b
+=16
+16g
+16b
+16a
+16f
+8d}
+==
+*-
+!!!ONB: melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 146} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 146}
+!!!page: 146
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK57126200002-pid_dubynoju_pid_zelenoju.krn
+!!!OTL: Pid dubynoju, pid zełenoju
+!!!source: DWOK57
+!!!id: 1262
+!!!signature: 57126200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8dd
+8b
+8dd
+4b
+8dd
+=2
+8cc
+8b
+8cc
+4a
+8b}
+!!LO:LB:g=esac
+=3
+{8cc
+8b
+8cc
+8a
+8a
+8ff#
+=4
+8ff#
+8ee
+8ff#
+4.aa}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 373
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK57147500000-chody_pawa_chody_pawa.krn
+!!!OTL: Chody pawa, chody pawa
+!!!source: DWOK57
+!!!id: 571475
+!!!signature: 57147500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+32b
+16.a
+8a
+32a
+16.g
+=2
+8b
+32b
+16.g
+8a
+32a
+16.g
+=3
+8g
+8g
+8cc
+8ee
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8.dd
+16ee
+8ff#
+8dd
+=6
+8.ee
+16cc
+8cc
+8cc
+=7
+8b
+32b
+16.a
+16a
+16g
+16a
+16f#
+=8
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 525
+!!!ONB: Converted on 2024/12/26 with esac2hum

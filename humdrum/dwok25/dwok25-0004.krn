@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2500400000-przyjechali_z_tak_wielkiej_wojny.krn
+!!!OTL: Przyjechali z tak wielkiej wojny
+!!!source: DWOK25
+!!!id: 25004
+!!!signature: 2500400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4b
+4.dd
+8b
+=2
+4dd
+8dd
+8cc
+8a
+8f#
+4d
+=3
+4g
+8b
+8b
+4.dd
+8b
+=4
+8dd
+8dd
+8dd
+8cc
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+{4a
+8a
+8a
+4.b
+8dd
+=6
+8cc
+8a
+8f#
+8a
+8g
+8b
+4dd
+=7
+4dd
+8dd
+8ee
+4.cc
+8a
+=8
+8f#
+8d
+8e
+8f#
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=27 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 2} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 2}
+!!!page: 2
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2902800000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK29
+!!!id: 29028
+!!!signature: 2902800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+{8cc
+=1
+4gg
+4ff
+=2
+8e
+8dd
+4ff
+=3
+8ee
+8dd
+8cc
+8g
+=4
+8cc
+8g
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{4ee
+4ff
+=6
+8ee
+8dd
+4ff
+=7
+8ee
+8dd
+4cc
+=8
+8cc
+8g
+4cc}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 122} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 122}
+!!!page: 122
+!!!ONB: Converted on 2024/12/26 with esac2hum

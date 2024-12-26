@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK1210000000-matulo_matulo_hina_jedzie_pierwszy.krn
+!!!OTL: Matulo, matulo, hina jedzie pierwszy
+!!!source: DWOK12
+!!!id: 12100
+!!!signature: 1210000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+4g
+8b
+=2
+8dd
+4dd
+8dd
+=3
+8dd
+8ee
+8cc
+8dd
+=4
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{8d
+8b
+8b
+8a
+=6
+8g
+8b
+8b
+8a
+=7
+8g
+8f#
+8g
+8dd
+=8
+4b
+4g}
+!!LO:LB:g=esac
+=9
+{8d
+8b
+8b
+8a
+=10
+8g
+8b
+8b
+8a
+=11
+8g
+8dd
+8dd
+8dd
+=12
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 48} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 48}
+!!!page: 48
+!!!ONB: Converted on 2024/12/26 with esac2hum

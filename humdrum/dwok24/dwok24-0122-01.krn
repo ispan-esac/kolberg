@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK2412200001-cemuzes_mnie_matulinku.krn
+!!!OTL: Cemuzes mnie matulińku
+!!!source: DWOK24
+!!!id: 24122
+!!!signature: 2412200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16d
+8f#
+8g
+=2
+16g
+16b
+8a
+8g
+=3
+16d
+16d
+8e
+8f#
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{16d
+16d
+8g
+8g
+=6
+16g
+16b
+8a
+16g
+16e
+=7
+16d
+16d
+8e
+8f#
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+8b
+8b
+=10
+16cc
+16b
+8.a
+16g
+=11
+16f#
+16g
+8a
+8a
+=12
+16b
+16a
+8.g
+16d}
+!!LO:LB:g=esac
+=13
+{16.d
+32d
+8e
+8f#
+=14
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=262 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 238} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 238}
+!!!page: 238
+!!!ONB: Converted on 2024/12/26 with esac2hum

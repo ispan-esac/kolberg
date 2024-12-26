@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK2312900000-nie_frasuj_sie_o_wianek_ruciany.krn
+!!!OTL: Nie frasuj się o wianek ruciany
+!!!source: DWOK23
+!!!id: 23129
+!!!signature: 2312900000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4.a
+8a
+=2
+4.g#
+8e
+=3
+8a
+8g#
+8a
+8b
+=4
+4dd
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{4.a
+8e
+=6
+4.g#
+8e
+=7
+8d
+8e
+8f
+8a
+=8
+4g#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 153} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 153}
+!!!page: 153
+!!!ONB: Converted on 2024/12/26 with esac2hum

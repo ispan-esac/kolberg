@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK35A-35A18900001-zaswtylo_sonce_z_ranejka.krn
+!!!OTL: Zaśwtyło sonce z ranejka
+!!!source: DWOK35A
+!!!id: 35A189
+!!!signature: 35A18900001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8e
+8a
+8cc
+=2
+8b
+4a
+=3
+4.b
+=4
+8a
+8r
+16b
+16cc
+=5
+8dd
+4dd}
+!!LO:LB:g=esac
+=6
+{16dd
+16cc
+8a
+8b
+=7
+4cc
+8a
+=8
+4.b
+=9
+8a
+8r
+8a
+=10
+8g#
+4a}
+==
+*-
+!!!ONB: Podane metrum 3/4 zapisano poprawnie na 3/8; u Kolberga niewłaściwy podział na takty
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=142 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 102} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 102}
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

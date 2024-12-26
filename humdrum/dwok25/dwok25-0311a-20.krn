@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK25311a0020-biegoj_biegoj_jalosiu.krn
+!!!OTL: Biegoj biegoj jałosiu
+!!!source: DWOK25
+!!!id: 25311a
+!!!signature: 25311a0020
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{2.g
+=2
+[2.b
+=3
+8b]
+8cc
+8a
+8b
+4g
+=4
+2.d
+=5
+2.b
+=6
+2.g}
+!!LO:LB:g=esac
+=7
+*M2/4
+{8b
+8cc
+8ee
+8gg
+=8
+4dd
+4b
+=9
+8a
+8a
+8a
+8b
+=10
+4g
+4g}
+!!LO:LB:g=esac
+=11
+{8b
+8cc
+8ee
+8gg
+=12
+4dd
+4b
+=13
+8a
+8a
+8a
+8b
+=14
+4g
+4g}
+==
+*-
+!!!ONB: Na pastwisku śpiewa pasterka, w szesnastym takcie zapisu są przed nutą H cztery czterdziestodwójki g2 f2 e2 ces
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 141} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 141}
+!!!page: 141
+!!!ONB: Converted on 2024/12/26 with esac2hum

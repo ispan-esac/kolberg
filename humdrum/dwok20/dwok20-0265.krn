@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2026500000-rutka_zielona_nie_wypielona.krn
+!!!OTL: Rutka zielona, nie wypielona
+!!!source: DWOK20
+!!!id: 20265
+!!!signature: 2026500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8dd
+8dd
+4ee
+2a
+=2
+8a
+8f#
+8g
+8a
+4cc
+4b
+=3
+8dd
+8dd
+4ee
+2a
+=4
+8a
+8f#
+8g
+8a
+4cc
+4b}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+4f#
+2d
+=6
+8f#
+8g
+8a
+8f#
+8g
+8b
+4dd
+=7
+8b
+8a
+8f#
+8d
+2d
+=8
+8f#
+8g
+8a
+8f#
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 209} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 209}
+!!!page: 209
+!!!ONB: Converted on 2024/12/26 with esac2hum

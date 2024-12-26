@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK4445200002-mial_som_sekereczku.krn
+!!!OTL: Miał som sekereczku
+!!!source: DWOK44
+!!!id: 44452
+!!!signature: 4445200002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+4cc
+=2
+16b
+16cc
+8dd
+8cc
+=3
+16dd
+16ee
+8ff
+8ee
+=4
+8dd
+4g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+4cc
+=6
+16b
+16cc
+8dd
+8cc
+=7
+16dd
+16ee
+8ff
+8ee
+=8
+8dd
+4g}
+!!LO:LB:g=esac
+=9
+{16gg
+16gg
+4gg
+=10
+16dd
+16ee
+8ff
+8ee
+=11
+16gg
+16ff
+8ee
+8dd
+=12
+8cc
+4cc}
+!!LO:LB:g=esac
+=13
+{16gg
+16gg
+4gg
+=14
+16dd
+16ee
+4ff
+=15
+16gg
+16ff
+8ee
+8dd
+=16
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=320 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 266} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 266}
+!!!page: 266
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK3635500002-oj_piduj_ja_pomandruju.krn
+!!!OTL: Oj piduj ja pomandruju
+!!!source: DWOK36
+!!!id: 36355
+!!!signature: 3635500002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8dd
+16a
+16b
+4cc
+16a
+8.ee
+=2
+8dd
+16a
+16b
+4cc
+8a
+8r
+=3
+8dd
+8ee
+8ff
+16ee
+16dd
+16cc
+16a
+8ee
+=4
+8dd
+16cc
+16b
+4.a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 221
+!!!ONB: Converted on 2024/12/26 with esac2hum

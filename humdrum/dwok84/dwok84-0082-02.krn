@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK8408200002-oj_za_hajem_za_dunajem.krn
+!!!OTL: Oj, za hajem, za dunajem
+!!!source: DWOK84
+!!!id: 84082
+!!!signature: 8408200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+8cc
+8a
+4g
+=2
+8cc
+8dd
+4ee
+8gg
+8ee}
+!!LO:LB:g=esac
+=3
+{8dd
+16cc
+16b
+4a
+8dd
+8cc
+=4
+8cc
+8b
+4g
+16ff#
+16ee
+8dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8a
+8g
+4dd
+=6
+8cc
+8a
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=160 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 98} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

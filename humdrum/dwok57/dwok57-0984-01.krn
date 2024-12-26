@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK5798400001-cy_ja_tobi_ne_kazala.krn
+!!!OTL: Cy ja tobi ne kazała
+!!!source: DWOK57
+!!!id: 57984
+!!!signature: 5798400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+8dd
+8dd
+=2
+8dd
+8dd
+8dd
+8dd
+=3
+8ee
+8dd
+8cc
+8b
+=4
+4cc
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8cc
+=6
+8dd
+8cc
+8b
+8a
+=7
+8f#
+8g
+8a
+8b
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 176
+!!!ONB: Converted on 2024/12/26 with esac2hum

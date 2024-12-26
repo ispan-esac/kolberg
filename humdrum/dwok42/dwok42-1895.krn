@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK42189500000-przysedl_sasiad_do_sasiada.krn
+!!!OTL: Przysedł sąsiad do sąsiada
+!!!source: DWOK42
+!!!id: 421895
+!!!signature: 42189500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8cc
+8dd
+=2
+8ee
+8ee
+8ee
+8cc
+=3
+8dd
+8dd
+8dd
+8b
+=4
+4cc
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8cc
+8dd
+=6
+8ee
+8dd
+8ee
+8cc
+=7
+8dd
+8cc
+8dd
+8b
+=8
+4cc
+4g}
+!!LO:LB:g=esac
+=9
+{4gg
+8gg
+8ff
+=10
+4.ee
+8ee
+=11
+8gg
+8gg
+8gg
+8ff
+=12
+4ee
+4ee}
+!!LO:LB:g=esac
+=13
+{8ff
+8ff
+8ff
+8dd
+=14
+8ee
+8ee
+8ee
+8cc
+=15
+8ff
+8ff
+8ff
+8dd
+=16
+4gg
+4gg}
+!!LO:LB:g=esac
+=17
+{8ff
+8ee
+8ff
+8dd
+=18
+8ee
+8dd
+8ee
+8cc
+=19
+8dd
+8dd
+8dd
+8b
+=20
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=293 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 284-285} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 284-285}
+!!!page: 284-285
+!!!ONB: Converted on 2024/12/26 with esac2hum

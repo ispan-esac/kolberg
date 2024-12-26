@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK42147900000-ej_szynkareczka_nasza.krn
+!!!OTL: Ej, szynkareczka nasza
+!!!source: DWOK42
+!!!id: 421479
+!!!signature: 42147900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4b
+4g
+=2
+8b
+8cc
+4dd
+4ee
+=3
+4cc
+4ee
+4cc
+=4
+8ee
+8gg
+4ff#
+4dd}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4g
+=6
+8b
+8cc
+4dd
+4ee
+=7
+4cc
+4a
+4a
+=8
+8a
+8cc
+4b
+4g}
+==
+*-
+!!!ONB: Wariant w taktach 2-3:345_56, Wariant w takcie 7:4_2_2-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=75 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 66} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

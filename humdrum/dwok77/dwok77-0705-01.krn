@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK7770500001-w_poniedzialek_pic_pic.krn
+!!!OTL: W poniedziałek pić pić
+!!!source: DWOK77
+!!!id: 77705
+!!!signature: 7770500001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ff
+8ee
+8dd
+8ff
+=2
+8ee
+4.dd
+=3
+8dd
+8cc
+8dd
+16cc
+16b
+=4
+8a
+4.g}
+!!LO:LB:g=esac
+=5
+{8cc
+16b
+16cc
+8dd
+8ff
+=6
+8ee
+4.g
+=7
+8cc
+8cc
+8b
+8g
+=8
+8a
+4.g}
+!!LO:LB:g=esac
+=9
+{8ff
+8ee
+8dd
+8ff
+=10
+8ee
+4.g
+=11
+8ee
+8ff
+8ee
+16dd
+16cc
+=12
+16b
+16a
+4.g}
+!!LO:LB:g=esac
+=13
+{8g
+8cc
+8b
+8cc
+=
+8dd
+24ee
+24dd
+24ee
+4g
+=14
+8cc
+8cc
+8b
+8g
+=15
+8a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 354-355
+!!!ONB: Converted on 2024/12/26 with esac2hum

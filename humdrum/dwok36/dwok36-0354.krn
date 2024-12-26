@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK3635400000-pidu_ja_do_dunaju.krn
+!!!OTL: Pidu ja do dunaju
+!!!source: DWOK36
+!!!id: 36354
+!!!signature: 3635400000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M5/4
+{8a
+8a
+8a
+8cc
+8dd
+8a
+4cc
+8dd
+16cc
+16b
+=2
+8a
+8a
+8a
+8cc
+8dd
+8a
+4cc
+8dd
+16cc
+16a}
+!!LO:LB:g=esac
+=3
+*M3/4
+{8a
+8cc
+8dd
+16dd
+16ff
+4ee
+=4
+8ff
+8ee
+8dd
+8cc
+4a
+=5
+8ff
+8ee
+8dd
+8a
+8cc
+16cc
+16b
+=6
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 220-221
+!!!ONB: Converted on 2024/12/26 with esac2hum

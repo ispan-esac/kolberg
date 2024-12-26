@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK1938200010-oj_ide_ja_do_domu_kieby_do_zakonu-instrumentalna.krn
+!!!OTL: Oj idę ja do domu kieby do zakonu-Instrumentalna
+!!!source: DWOK19
+!!!id: 19382
+!!!signature: 1938200010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8d
+8g
+16a
+16b
+=2
+16cc
+16a
+8g
+8b
+=3
+8cc
+8b
+8g
+=4
+16a
+16cc
+16b
+16cc
+8dd}
+!!LO:LB:g=esac
+=5
+{8d
+8g
+16a
+16b
+=
+24cc
+24b
+24a
+16g
+16cc
+8b
+=6
+8cc
+8b
+8g
+=7
+16a
+16cc
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 117} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 117}
+!!!page: 117
+!!!ONB: Converted on 2024/12/26 with esac2hum

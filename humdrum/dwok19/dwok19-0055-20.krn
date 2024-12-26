@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1905500020-pod_krakowem_olkusem.krn
+!!!OTL: Pod Krakowem Olkusem
+!!!source: DWOK19
+!!!id: 19055
+!!!signature: 1905500020
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8b
+8cc
+8ee
+=2
+8dd
+8ff
+4cc
+=3
+8dd
+8dd
+8cc
+8ee
+=4
+8dd
+8ff
+4cc}
+!!LO:LB:g=esac
+=5
+{8ff
+8aa
+8ff
+8ee
+=6
+16dd
+16ee
+8ff
+8cc
+8cc
+=7
+8dd
+8ff
+4cc
+=8
+16dd
+16ee
+8ff
+8cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 21} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 21}
+!!!page: 21
+!!!ONB: Converted on 2024/12/26 with esac2hum

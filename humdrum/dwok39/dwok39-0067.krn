@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3906700000-bidac_mnie_je_dworaczkowiu.krn
+!!!OTL: Bidać mnie je, dworaczkowiu
+!!!source: DWOK39
+!!!id: 39067
+!!!signature: 3906700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8b
+4cc
+4ee
+=2
+8dd
+8cc
+4a
+4dd}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+4cc
+4ee
+=4
+8dd
+8cc
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4cc
+4dd
+=6
+8ee
+8ee
+4dd
+4ff}
+!!LO:LB:g=esac
+=7
+{8ee
+8gg
+4aa
+4gg
+=8
+8ff
+8ff
+4ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 129} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 129}
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

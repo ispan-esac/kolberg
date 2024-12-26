@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK1106900000-oj_chcialy_szwachniczki_zebym_z_niemy_spala.krn
+!!!OTL: Oj chciały szwachniczki żebym z niemy spała
+!!!source: DWOK11
+!!!id: 11069
+!!!signature: 1106900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4b
+8ee
+=2
+16ee
+16dd#
+8ee
+16dd
+16b
+=3
+4b
+8dd
+=4
+16dd
+16cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{4b
+8ee
+=6
+16ee
+16dd#
+8ee
+16dd
+16b
+=7
+4g
+16b
+16dd
+=8
+16dd
+16cc
+8b
+8a}
+!!LO:LB:g=esac
+=9
+{16a
+16g#
+16a
+16b
+16cc
+16b
+=10
+16a
+16g#
+16a
+16b
+16cc
+16b
+=11
+8g
+8g
+16b
+16dd
+=12
+16dd
+16cc
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 182} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 182}
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

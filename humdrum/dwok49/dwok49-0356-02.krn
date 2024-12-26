@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK4935600002-krasnaja_kasunia_krasnaja_diwojka.krn
+!!!OTL: Krasnaja Kasunia, krasnaja diwojka
+!!!source: DWOK49
+!!!id: 49356
+!!!signature: 4935600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8a
+8b
+=2
+8cc
+8.b
+16g
+=3
+16a
+16b
+8cc
+8b
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{16cc
+16cc
+8dd
+16dd
+16b
+=
+8b
+8a
+24b
+24a
+24g
+=6
+4g
+8g}
+!!LO:LB:g=esac
+=7
+{8b
+8a
+8g
+=8
+8g
+4g
+=9
+16a
+16b
+8cc
+8b
+=10
+8a
+4g}
+!!LO:LB:g=esac
+=11
+{16cc
+16cc
+8dd
+8b
+=12
+8g
+4a
+=13
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=486 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 396-397} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, pp. 396-397}
+!!!page: 396-397
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK03-K0044b-leci_kania_od_marysi.krn
+!!!OTL: Leci kania od Marysi
+!!!source: DWOK03
+!!!id: K0044b
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M5/4
+=
+{12a
+12b
+12dd
+12ee
+12ff#
+12ee
+12dd
+12cc#
+12a
+8a
+8g
+12dd
+12cc#
+12g}
+!!LO:LB:g=esac
+=
+{12a
+12b
+12dd
+12ee
+12ff#
+12ee
+12dd
+12cc#
+12a
+8a
+8g
+12g
+12f#
+12g}
+!!LO:LB:g=esac
+=
+{12a
+12b
+[12dd
+12dd]
+12a
+12cc#
+12b
+12a
+12g
+8a
+8dd
+8cc#
+8a}
+!!LO:LB:g=esac
+=
+{12a
+12b
+[12dd
+12dd]
+12a
+[12b
+12b]
+12a
+12g
+8g
+8f#
+4g}
+==
+*-
+!!!ONB: Czesc instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 276} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 276}
+!!!page: 276
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK7725500000-da_ty_stary_osiwialy.krn
+!!!OTL: Da ty stary osiwiały
+!!!source: DWOK77
+!!!id: 77255
+!!!signature: 7725500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8ee
+8ff#
+4gg
+4ee
+=2
+8dd
+8dd
+4b
+4dd}
+!!LO:LB:g=esac
+=3
+{8ee
+8a
+4cc
+8b
+8a
+=4
+8g
+8g
+4b
+4dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+4gg
+8gg
+8ee
+=6
+8dd
+8gg
+4b
+4dd}
+!!LO:LB:g=esac
+=7
+{8ee
+8dd
+4cc
+4b
+=8
+8f#
+8g
+4b
+4g}
+==
+*-
+!!!ONB: Wariant w t. 6-7: 5+13_45 654_32
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 141
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK1246700000-jak_ja_jachal.krn
+!!!OTL: Jak ja jachał
+!!!source: DWOK12
+!!!id: 12467
+!!!signature: 1246700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+8ee
+8dd
+=2
+4.cc
+8b
+8a
+8dd
+=3
+8g
+8b
+4dd
+8ee
+8dd
+=4
+4.cc
+8g
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8f#
+8g
+4b
+4d
+=6
+4.cc
+8b
+8b
+8a
+=7
+8f#
+8g
+4b
+4dd
+=8
+4.cc
+8g
+8b
+8a}
+!!LO:LB:g=esac
+=9
+{8g
+8b
+4dd
+8ee
+8dd
+=10
+4.cc
+8b
+8a
+8dd
+=11
+8g
+8b
+4dd
+8ee
+8dd
+=12
+4.cc
+8g
+8b
+8a}
+!!LO:LB:g=esac
+=13
+{8f#
+8g
+4b
+4d
+=14
+4.cc
+8b
+8b
+8a
+=15
+8f#
+8g
+8b
+8dd
+8ee
+8dd
+=16
+4.cc
+8g
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 241} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,40 @@
+!!!!SEGMENT: DWOK7748400010-instrumentalny.krn
+!!!OTL: Instrumentalny
+!!!source: DWOK77
+!!!id: 77484
+!!!signature: 7748400010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16ee
+8dd
+16dd
+16b
+=2
+16cc
+16ee
+8dd
+16dd
+16b
+=3
+16cc
+16ee
+8dd
+8dd
+=4
+16cc
+16a
+8b
+8g}
+==
+*-
+!!!ONB: Utwór poprzedza czterotaktowy wstęp
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 249
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK4409500012-otwiraj_matko_otwiraj.krn
+!!!OTL: Otwiraj, matko, otwiraj
+!!!source: DWOK44
+!!!id: 44095
+!!!signature: 4409500012
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24d
+24f#
+24g
+8f#
+8g
+=1
+4a
+8g
+=2
+16f#
+16d
+8d}
+8r
+!!LO:LB:g=esac
+=3
+{16a
+16a
+8a
+8a
+=4
+4g
+8a
+=5
+8b
+4cc}
+!!LO:LB:g=esac
+=6
+{16cc
+16cc
+8b
+8a
+=7
+4b
+8f#
+=8
+8g
+8a
+8b}
+!!LO:LB:g=esac
+=9
+{16cc
+16cc
+8b
+8a
+=10
+4b
+8f#
+=11
+8g
+8f#
+8g}
+==
+*-
+!!!ONB: Zapis pierwszej zwrotki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 136} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 136}
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK57184500002-oj_pojichau_dzumaczenko.krn
+!!!OTL: Oj, pojichau dżumaczeńkó
+!!!source: DWOK57
+!!!id: 571845
+!!!signature: 57184500002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+4ee
+=2
+8ff#
+4ee
+=3
+8dd#
+8ee
+8dd#
+=4
+16cc
+16b
+4a
+=5
+8cc
+4cc
+=6
+8dd
+8cc
+8ee
+=7
+4ee
+8cc}
+!!LO:LB:g=esac
+=8
+{8cc
+4ee
+=9
+8ff#
+4ee
+=10
+8dd#
+8dd#
+16ee
+16dd
+=11
+16cc
+16b
+4a
+=
+8cc
+24cc
+24dd
+24cc
+16b
+16cc
+=12
+4.ee
+=13
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 923
+!!!ONB: Converted on 2024/12/26 with esac2hum

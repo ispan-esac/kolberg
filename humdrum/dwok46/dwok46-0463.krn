@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK4646300000-a_zasnela_kochaneczka_zasnela.krn
+!!!OTL: A zasnęła kochaneczka, zasnęła
+!!!source: DWOK46
+!!!id: 46463
+!!!signature: 4646300000
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M3/4
+=1
+{8f
+8a-
+4cc
+4cc
+=2
+8b-
+8a-
+4g
+4b-
+=3
+4cc
+4g
+4e}
+!!LO:LB:g=esac
+=4
+{8f
+8a-
+4cc
+4cc
+=5
+8b-
+8a-
+4g
+4f
+=6
+4g
+4f
+4e}
+!!LO:LB:g=esac
+=
+{12f
+12a-
+12b-
+4cc
+4cc
+=7
+8b-
+8a-
+4g
+4b
+=8
+4cc
+4g
+4e}
+!!LO:LB:g=esac
+=
+{12f
+12a-
+12b-
+4cc
+4cc
+=9
+8b-
+8a-
+4g
+4f
+=10
+8a-
+8g
+4f
+4e
+=11
+2.f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=319 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 285} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 285}
+!!!page: 285
+!!!ONB: Converted on 2024/12/26 with esac2hum

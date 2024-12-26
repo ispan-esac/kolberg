@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2705400000-a_u_sokola_zlociste_kola.krn
+!!!OTL: A u sokoła złociste koła
+!!!source: DWOK27
+!!!id: 27054
+!!!signature: 2705400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8ee
+=2
+8cc
+4ee
+=3
+8ee
+8ff
+8dd
+=4
+8ee
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8dd
+=6
+8ff
+4ee
+=7
+8cc
+4a
+=8
+4a}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8a
+8a
+=10
+8g
+4cc
+=11
+8dd
+8ff
+8dd
+=12
+8ee
+4a}
+!!LO:LB:g=esac
+=13
+{8a
+8b
+8dd
+=14
+8ff
+4ee
+=
+24cc
+24b
+24cc
+4a
+=15
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=190 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 171} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 171}
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

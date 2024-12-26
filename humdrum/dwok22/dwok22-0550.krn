@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2255000000-cobys_wolala_jagusiu.krn
+!!!OTL: Cobyś wolała Jagusiu
+!!!source: DWOK22
+!!!id: 22550
+!!!signature: 2255000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16ee
+8cc
+8a
+=2
+16b
+16b
+8dd
+8ee
+=3
+8f#
+8ee
+16cc
+16a
+=4
+16b
+16b
+8a
+8d}
+!!LO:LB:g=esac
+=5
+{16d
+16d
+8cc
+8a
+=6
+16cc
+16dd
+8b
+8cc
+=7
+16d
+16d
+8cc
+8a
+=8
+16b
+16g
+8a
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 248} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 248}
+!!!page: 248
+!!!ONB: Converted on 2024/12/26 with esac2hum

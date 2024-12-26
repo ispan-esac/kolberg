@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK8106300001-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK81
+!!!id: 81063
+!!!signature: 8106300001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16ee
+16dd#
+8ee
+16ff
+16ee
+8ff
+=2
+16ff
+16ee
+8ff
+8ff
+8dd
+=3
+16ee
+16dd#
+8ee
+16ff
+16ee
+8ff
+=4
+4ee
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4cc
+=6
+8cc
+4cc
+16dd
+16ee
+=7
+16ff
+16ee
+16dd
+16ee
+16ff
+16ee
+16dd
+16ee
+=8
+4cc
+4g
+=9
+16cc
+16dd
+16ee
+16dd
+8ff
+8ff}
+!!LO:LB:g=esac
+=10
+{8ff
+4ff
+8aa
+=11
+8ff
+4ff
+8dd
+=12
+8cc
+4cc
+8g
+=13
+8cc
+4cc
+16dd
+16ee
+=14
+16ff
+16ee
+8cc
+4cc}
+==
+*-
+!!!ONB: Melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=126 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 54} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 54}
+!!!page: 54
+!!!ONB: Converted on 2024/12/26 with esac2hum

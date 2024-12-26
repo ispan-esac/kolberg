@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2734000000-a_za_ogrodziskiem.krn
+!!!OTL: A za ogrodziskiem
+!!!source: DWOK27
+!!!id: 27340
+!!!signature: 2734000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16g
+8a
+8b-
+=2
+4cc
+8dd
+=3
+16ee
+16ff
+8ee
+8gg
+=4
+4cc
+8a}
+!!LO:LB:g=esac
+=5
+{8b-
+8g
+8b-
+=6
+8f
+8a
+8f
+=7
+16g
+16b-
+8g
+8e
+=8
+8f
+8a
+8cc}
+!!LO:LB:g=esac
+=9
+{16cc
+16b-
+8g
+8b-
+=10
+16e
+16f
+8a
+8f
+=11
+16g
+16b-
+8g
+8e
+=12
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=336 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 317} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 317}
+!!!page: 317
+!!!ONB: Converted on 2024/12/26 with esac2hum

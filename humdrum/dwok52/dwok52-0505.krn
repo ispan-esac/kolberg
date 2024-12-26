@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK5250500000-ach_ja_neszczasny_szczo_maju_dejaty.krn
+!!!OTL: Ach, ja neszczasny, szczo maju dejaty
+!!!source: DWOK52
+!!!id: 52505
+!!!signature: 5250500000
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M2/4
+=1
+{4cc
+8dd-
+8dd-
+=2
+4cc
+4b-
+=3
+8a-
+8a-
+8.g
+16e
+=4
+8f
+8g
+8a-
+8b-}
+!!LO:LB:g=esac
+=5
+{4cc
+8dd-
+8dd-
+=6
+4cc
+4b-
+=7
+8a-
+8a-
+8.g
+16e
+=8
+4f
+4f}
+!!LO:LB:g=esac
+=9
+{8b-
+8b-
+8b-
+8b-
+=10
+8b-
+8g
+8a-
+8b-
+=11
+8cc
+8cc
+8cc
+8cc
+=12
+8cc
+8dd
+8ee
+8cc}
+!!LO:LB:g=esac
+=13
+{8.ff
+16ee-
+16ee-
+16dd-
+16dd-
+16cc
+=14
+4cc
+4b-
+=15
+8a-
+8a-
+8.g
+16b-
+=16
+4f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=380 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 319} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 319}
+!!!page: 319
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK57141400002-oj_bidaz_tam_nad_bidoju.krn
+!!!OTL: Oj, bidaż tam nad bidoju
+!!!source: DWOK57
+!!!id: 571414
+!!!signature: 57141400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8b
+8b
+8a
+4g
+=2
+16a
+16cc
+8cc
+8cc
+8b
+4a
+=3
+8a
+8a
+4a
+4d
+=4
+8g
+8b
+4.dd
+8dd}
+!!LO:LB:g=esac
+=5
+{8dd
+16ee
+16ff#
+4.gg
+8cc
+=6
+8ee
+8ee
+4.dd
+16cc
+16b
+=7
+8a
+8ee
+4.dd
+8f#
+=8
+16f#
+16e
+8f#
+4.g
+8g}
+!!LO:LB:g=esac
+=9
+{8dd
+16ee
+16ff#
+4.gg
+8cc
+=10
+8ee
+8ee
+4.dd
+16cc
+16b
+=11
+8a
+8ee
+4.dd
+8f#
+=12
+16f#
+16e
+8f#
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 470
+!!!ONB: Converted on 2024/12/26 with esac2hum

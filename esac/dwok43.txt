@@ -1,0 +1,545 @@
+DWOK43
+CUT[Przyszły my tu]
+REG[]
+TRD[DWOK43 Śląsk s. 21 Wisła]
+FKT[]
+SIG[4300500000]
+KEY[43005   08  A 2/4 3/4]
+MEL[1112  3__.2  5656  5__.3
+    1112  3__.1  5656  5__.3
+    3__1__  445_4_  3__1__  445__4__ //]
+BEM[]
+
+DWOK43
+CUT[Trzy Maryje poszły]
+REG[]
+TRD[DWOK43 Śląsk s. 24]
+FKT[]
+SIG[4300600000]
+KEY[43006   04  A 4/4]
+MEL[5557  +1_5_  7b7b7b4  3b21_
+    4442  3b45_  53b42  3b21_
+    3b21-7  1_0_ //]
+BEM[]
+
+DWOK43
+CUT[Na Folwaryi]
+REG[]
+TRD[DWOK43 Śląsk s. 32 Wisła]
+FKT[]
+SIG[4300700000]
+KEY[43007   08  A 4/4]
+MEL[113b_2_-5_  113b_2_-5_
+    3b21_-7b_-5_  -5-5-6b_-5_-4_ //]
+BEM[]
+
+DWOK43
+CUT[Ach nieszczęsny zasmucony jest dziś dla mnie dzień]
+REG[]
+TRD[DWOK43 Śląsk s. 33 Wisła]
+FKT[]
+SIG[4300800000]
+KEY[43008   08  C 3/4]
+MEL[+1+17_6_  555_+4_  +3+2+1_7_  +1_0_0_
+    +1+17_6_  555_+4_  +3+2+1_7_  +1_0_0_
+    +3+3+3_+1_  +2+2+2_0_  +2+17_6_  +165_0_
+    +3+3+3_+1_  +2+2+2_+2_  +17+1_76  5_0__ //]
+BEM[]
+
+DWOK43
+CUT[Moi mili goście coż na to powiecie]
+REG[]
+TRD[DWOK43 Śląsk s. 34 Wisła]
+FKT[]
+SIG[4300900000]
+KEY[43009   08  G 3/4]
+MEL[1_-7-6-5_  1_2_3_  443_4_  3_1_0_
+    554323  1-6-5_1_  2_3_0_
+    554321  -5-51_3_  2_1_0_ //]
+BEM[]
+
+DWOK43
+CUT[Oj wedle mego ogródeczka]
+REG[]
+TRD[DWOK43 Śląsk s. 36 od Opola(Kotórz)]
+FKT[]
+SIG[4301000000]
+KEY[43010   08  A 3/4]
+MEL[-5_1-712  3b53b_.1
+    -7_-71-7-5  -6-71_-5_
+    5_.453b  2-7-5_4_  2-71_-5_ //]
+BEM[]
+
+DWOK43
+CUT[Jakiem ja szed jedną dróżeczką]
+REG[]
+TRD[DWOK43 Śląsk s. 37 od Opola(Kotórz)]
+FKT[]
+SIG[4301300000]
+KEY[43013   08  F 3/4]
+MEL[113_1_  465431  35+1_6_  7+25_0_
+    +1+17_6_  55+1531  442_54  321_0_ //]
+BEM[WARIANT t. 5: 7+17_6_; wariant t. 7: 442454]
+
+DWOK43
+CUT[Poszła dziewucha do Bogumina]
+REG[]
+TRD[DWOK43 Śląsk s. 38 od Cieszyna]
+FKT[]
+SIG[4301400000]
+KEY[43014   04  A 3/4]
+MEL[113b  2_-5  113b  2_-5
+    3b21  -7b_-5  -4-4-6b  -5_-5 //]
+BEM[]
+
+DWOK43
+CUT[Po cóżeś tu przysed]
+REG[]
+TRD[DWOK43 Śląsk s. 38 od Olesna (Wojciechów)]
+FKT[]
+SIG[4301500000]
+KEY[43015   16  A 2/4]
+MEL[3b_2_3b_4_  5_3b__.  5_5_4_.5  3b_2__.
+    1_-7_1_3b_  2_6__.  1_1_-7b_.-6  -5_-6__. //]
+BEM[]
+
+DWOK43
+CUT[Szła dziewczyna na kauzanie]
+REG[]
+TRD[DWOK43 Śląsk s. 38 od Olesna (Laskowice)]
+FKT[]
+SIG[4301600000]
+KEY[43016   08  G 2/4]
+MEL[1355  +1+175  +1+175
+    6642  1245  6641  1242
+    1355  +1+175  +1+175
+    6642  1245  6642  1231 //]
+BEM[)]
+
+DWOK43
+CUT[Deszczyk pada, deszczyk kropi po białej brzezinie]
+REG[]
+TRD[DWOK43 Śląsk s. 40 Tarnowskie Góry]
+FKT[]
+SIG[4301800000]
+KEY[43018   16  G 2/4]
+MEL[1_3_1_3_  5_.55_+1_  1_3_1_3_  2_-7_-5__
+    1_3_1_3_  5_.55_+1_  6_.55_-7_  1_3_1__
+    -5_.44_4_  3_5_1__  -7_2_-5__  -4_-6_-5__
+    -5_4_4_4_  3_5_1__  6_.55_-7_  1_3_1__ //]
+BEM[]
+
+DWOK43
+CUT[Ady dołkiem ino dołkiem]
+REG[]
+TRD[DWOK43 Śląsk s. 40 od Opola(Kotórz)]
+FKT[]
+SIG[4301900000]
+KEY[43019   16  C 3/8]
+MEL[567_+1_  +2+3+2_7_  +2+3+2_7_  +2+3+4_+5_  +3+2+3_7_
+    +1+2+3_+1_  5__3_  456_6_  5__5_
+    +1+2+3_+1_  5__3_  456_6_  5__5_ //]
+BEM[]
+
+DWOK43
+CUT[Pytała się matka córki]
+REG[]
+TRD[DWOK43 Śląsk s. 41 od Olesna (Laskowice)]
+FKT[]
+SIG[4302000000]
+KEY[43020   16  C 3/8]
+MEL[+1+2+3_+3_  +3+2+3_+1_  +2+3+4_+3_  +4_+2__
+    +4_+3__  5_.67+1  +2+3+4_.+3  +2_+1_0_
+    +4_+3__  5_.67+1  +2+3+4_.+3  +2_+1_0_ //]
+BEM[]
+
+DWOK43
+CUT[Moja mamuliczko]
+REG[]
+TRD[DWOK43 Śląsk s. 41 od Kluczborka]
+FKT[]
+SIG[4302100000]
+KEY[43021   16  F 3/4]
+MEL[1_3_5__.4_  3__2___  4_4_6__.5_  4__3__0__
+    1_1_+1__7_6_  7_+1_+2__+1_7_  +1_6_5__.-72  2__1__0__ //]
+BEM[]
+
+DWOK43
+CUT[Albo ty mi ten wianek wróć]
+REG[]
+TRD[DWOK43 Śląsk s. 41 od Olesna(Laskowice)]
+FKT[]
+SIG[4302200000]
+KEY[43022   08  A 3/4]
+MEL[-5-51_.2  3b55_43b  3b3b2_.1  -7_5__
+    3b45_.6  754_.2  3b52_.-7  1__1_ //]
+BEM[Wariant t. 4: 2_-5__]
+
+DWOK43
+CUT[Oj za rzyką za rzyką]
+REG[]
+TRD[DWOK43 Śląsk s. 43 od Olesna(Laskowice)]
+FKT[]
+SIG[4302300000]
+KEY[43023   16  G 3/8]
+MEL[4_2__  565_.4  321__
+    133_3_  234_2-7  133_3_  234_6_  2__. //]
+BEM[WARIANT t. 6: 133_31]
+
+DWOK43
+CUT[Dolina dolina między dolinami]
+REG[]
+TRD[DWOK43 Śląsk s. 43 od Olesna(Laskowice)]
+FKT[]
+SIG[4302400000]
+KEY[43024   16  G 3/8]
+MEL[234__  3_5__  2_1__
+    5_+1__  7+1+2__  765__
+    +1_7_6_  5_3_1_  6_5_3_  4_2_1_
+    234__  345__  2_1__
+    +1_7_6_  5_3_4_  6_5_3_  4_2_1_
+    234_.2  345__  2_1__ //]
+BEM[WARIANT t. 11: 234_.2]
+
+DWOK43
+CUT[Zielonoch zasiała]
+REG[]
+TRD[DWOK43 Śląsk s. 44 od Olesna(Wojciechów)]
+FKT[]
+SIG[4302500000]
+KEY[43025   08  C 4/4 3/4]
+MEL[+1_+2_+3+2+35  +1_+2_+3+5  +5+4+2__
+    +5_+5_+3+2+35  +1_+2_+3+5  +2_+1__ //]
+BEM[]
+
+DWOK43
+CUT[O ty ptasku]
+REG[]
+TRD[DWOK43 Śląsk s. 45 od Kluczborka]
+FKT[]
+SIG[4302700000]
+KEY[43027   08  F 4/4 3/4]
+MEL[12345555
+    +1_+17+16  655_0_
+    +1_+17+16  655_0_
+    5_5_+1653  465432
+    3_5_42  2_1_0_ //]
+BEM[]
+
+DWOK43
+CUT[Cóż to za nowina była]
+REG[]
+TRD[DWOK43 Śląsk s. 47 od Kluczborka(Laskowice)]
+FKT[]
+SIG[4302900000]
+KEY[43029   08  A 2/4]
+MEL[1333  3221  3555  5443
+    556_  445_  1354  321_ //]
+BEM[]
+
+DWOK43
+CUT[Za Cieszynem bębny biją]
+REG[]
+TRD[DWOK43 Śląsk s. 49 Wisła]
+FKT[]
+SIG[4303300000]
+KEY[43033   08  C 3/4 4/4]
+MEL[55+1_4_  654_3_
+    55+1+2+3+3+2+1  6667+1765
+    55+1_5_  654_3_ //]
+BEM[]
+
+DWOK43
+CUT[Nie wiedziałem ja]
+REG[]
+TRD[DWOK43 Śląsk s. 50 od Tarnowskich Gór(Piekary, Sączów]
+FKT[]
+SIG[4303400001]
+KEY[43034   08  A 3/4]
+MEL[-51_3b1-7  3b3b_453b
+    55421_  1-7_124
+    55421_  2-7_111 //]
+BEM[]
+
+DWOK43
+CUT[Nie wiedziałem ja]
+REG[]
+TRD[DWOK43 Śląsk s. 50 od Tarnowskich Gór(Piekary, Sączów]
+FKT[]
+SIG[4303400002]
+KEY[43034   16  A 3/4]
+MEL[-5_1__3b_21-7_  13b3b__4_5_3b_
+    5_5_4_3b21__  21-7__1_2_4_
+    5_5_4_3b21__  2_-7__1_1_1_ //]
+BEM[]
+
+DWOK43
+CUT[Gąsiczka dziwoka]
+REG[]
+TRD[DWOK43 Śląsk s. 52 Wisła]
+FKT[]
+SIG[4303900000]
+KEY[43039   16  D 5/4]
+MEL[5__5__5_5_6__5__  +1__+3__+3_+3+2+1__7__  +2__+2__+1_766__5__
+    5_5_6__5__+1__+3__  +4__+6__+7_+4#+3+2__+1__
+    +5__+5__+5_+5_+6__+5__  +3__+5__+4_+3_+2__+1__  7__+2__+2_+1_5__4__
+    +4__+4__+4_+5_+6__+5__  +4__+3__+5_+4+3+2__+1__ //]
+BEM[[]
+
+DWOK43
+CUT[Leciał ptaszek z Iczyna]
+REG[]
+TRD[DWOK43 Śląsk s. 55 Wisła]
+FKT[]
+SIG[4304200000]
+KEY[43042   08  G 3/4]
+MEL[111_3_  5_6_5_
+    66+1_.6  5_4_3_
+    57+1_6_  5_4_3_
+    565_4_  3_2_1_ //]
+BEM[]
+
+DWOK43
+CUT[Helo helo, Haniczko nadobno]
+REG[]
+TRD[DWOK43 Śląsk s. 58 od Cieszyna]
+FKT[]
+SIG[4304400000]
+KEY[43044   08  G 4/4]
+MEL[0_1_3__  5__.2_  2_3_4__  3_2_1__
+    1_2_3_4_  3_2__.
+    5_.43_1_  3_5__.
+    4__.3_  2_1__.  2_3__.  1__0__ //]
+BEM[ZAPIS METRORYTMICZNY KOLBERGA WĄTPLIWY]
+
+DWOK43
+CUT[Za stodołą na rzyce]
+REG[]
+TRD[DWOK43 Śląsk s. 59 od Tarnowskich Gór, Bytomia]
+FKT[]
+SIG[4304500000]
+KEY[43045   08  G 6/8]
+MEL[1_35_4  3_51_0
+    4_32_2  123123
+    4_32_6  5_43_0
+    1_35_4  3231_0
+    5_42_-7  1231_3
+    5_42_5  3231_0 //]
+BEM[]
+
+DWOK43
+CUT[Do Matki Boskiej Częstochowskiej]
+REG[]
+TRD[DWOK43 Śląsk s.60]
+FKT[]
+SIG[4304600000]
+KEY[43046   08 Bb 3/4]
+MEL[345_+1_  7+2+176_  5_+1_5_  4_332_
+    345_+1_  7+2+176_  5_+1_5_  4_332_
+    3_5_.4  4_332_  6_4_6_  665__
+    345_+1_  6_4_22  1__. //]
+BEM[]
+
+DWOK43
+CUT[Szła mamelka na ziele]
+REG[]
+TRD[DWOK43 Śląsk s. 65 Cieszyn, Biała]
+FKT[]
+SIG[4305000001]
+KEY[43050   16  C 2/4]
+MEL[+3_+3_+3_+3_  +3_+4_+5__  +6_+6+5+4__  +5_+5+4+3__
+    +1_+15+1_+15  +1_+3_+5__  +6_+6+5+4__  +5_+5+4+3__
+    +5_+5_+6+5+4+3  +2_+2_+2__
+    +5_+5_+6_+3+2  +1_+1_+1__
+    ++1_++1_++1__  +6_+6_+6__  +5_+5_+6_+4+2  +1_+1_+1__ //]
+BEM[Straszak lub grażat. Taniec z klaskaniem rąk]
+
+DWOK43
+CUT[Szła mamelka na ziele]
+REG[]
+TRD[DWOK43 Śląsk s. 50 Cieszyn, Biała]
+FKT[]
+SIG[4305000002]
+KEY[43050   16  C 2/4]
+MEL[+3_+3+1+3_+3+1  +3_+4_+5__  +6_+6+5+4__  +5_+5+4+3__
+    +1_+15+1_+15  +1_+3_+5__  +6_+6+5+4__  +5_+5+4+3__
+    +5_+5_+6+5+4+3  +4+3+2_+2__
+    +4_+4_+5_+3+2  +1_+1_+1__
+    ++1_++1_++1__  +6_+4_+4__  +4_+2+4+5_+3_  +1_+1_+1__ //]
+BEM[Straszak lub grażat. Taniec z klaskaniem rąk]
+
+DWOK43
+CUT[Słuchaj, jakie wnet są ciężkie lata]
+REG[]
+TRD[DWOK43 ŚLĄSK s.53]
+FKT[]
+SIG[4304000000]
+KEY[43050   16  G 3/4]
+MEL[1_3_3_5_5_+1_  +176_6__5__
+    1_3_3_5_5_+1_  543_3__2__
+    2_234_3_4_2_  1_3_5__3__
+    2_234_3_4_2_  1_3_5__3__
+    +1_+17+1_5_6_4_  3_2_2__1__ //]
+BEM[]
+
+DWOK43
+CUT[Instrumentalna - Marsz]
+REG[]
+TRD[DWOK43 Śląsk s. 66 od Cieszyna]
+FKT[]
+SIG[4305100000]
+KEY[43051   16  C 2/4]
+MEL[5_+1+1+1_+2_  +3_+2_+1_7_  6_5_7+1+2_  5___
+    5_+1+1+1_+2_  +3_+2_+1_7_  6_5_7+1+2_  5___
+    5_555_5_  6_5_4_3_  5_555_5_  6_5_4_3_
+    +1_+3_+2__  +1_+3_+2__  +5_.+3+4_+27  +1_+1_+1__ //]
+BEM[Wariant t. 6: 4_3_2_1_]
+
+DWOK43
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK43 Śląsk s. 66 od Mysłowic, Będzina]
+FKT[]
+SIG[4305200000]
+KEY[43052   16  G 2/4]
+MEL[5_.+17  6_5_5_3_  4_4_4_2_  3_3_321_
+    3_5__+17  6_5_5_3_  4_2_7_5_  +1_1_1__
+    +176__6_  7_3_3_67  +176__6_  7_3_3_67
+    +176_763_  +176_763_  +1_.767+16  5__4_2_
+    -5_-6-71_2_  3_3_3_43  2_2_2__  3_.21-7-6_
+    -5_-6-71_2_  3_3_3_43  2_2_2__  3_.21-7-6_ //]
+BEM[]
+
+DWOK43
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK43 Śląsk s. 66 od Gliwic, Raciborza]
+FKT[]
+SIG[4305300000]
+KEY[43053   08  D 2/4]
+MEL[+1_.4  +17_6  5+2_7  +17+1_
+    +1_46  +17_6  5+2_7  +17+1_
+    +5_.+4  57_5  +1_.+2  +3+2+3_
+    +5_.+4  57_+2  +1_.7  +17+1_ //]
+BEM[]
+
+DWOK43
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK43 Śląsk s. 67 od Tarnowskich Gór]
+FKT[]
+SIG[4305400000]
+KEY[43054   16  D 2/4]
+MEL[5_.+3+2_.+1  7_.+3+2_.6  5_.24_.6  5___
+    6_.57_.5  +1_5_+1_+3_  +2_5_6_7_  +1_5_+3__
+    5_.+3+2_.+1  7_.+3+2_.6  5_.24_.6  5___
+    6_.57_.5  +1_5_+1_+3_  +2_5_6_7_  +1_5_+3__
+    +4_.+4+4_.+4  +4_+1_7+1+2+3  +4_5_7_+2_  +15+1+3+4__
+    +4_.+4+4_.+4  +4_+1_7+1+2+3  +4_5_4#567  +15+1+3+4__
+    5_0_+4_0_  +4_0_+3_0_  +3_0_+2_0_  +1_0_6_0_
+    2__.4_  4_3_1_3_  3_2_-7_2_  4_2_5__
+    5_0_+4_0_  +4_0_+3_0_  +3_0_+2_0_  +1_0_6_0_
+    2__.4_  4_3_1_3_  3_2_-7_2_  4_2_1__ //]
+BEM[Oryginalny zapis zawiera dwudźwięki, t. 25-28, t. 33-36]
+
+DWOK43
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK43 Śląsk s.67]
+FKT[]
+SIG[4305500010]
+KEY[43055   16  F 2/4]
+MEL[3_5_5_5_  +1_5_5_5_  6_5_4__  5_4_3__
+    3_5_5_67  +1_5_5_5_  6_5_4__  -7_1_1__ //]
+BEM[]
+
+DWOK43
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK43 Śląsk s.67]
+FKT[]
+SIG[4305500020]
+KEY[43055   16  C 2/4]
+MEL[5__+4__  +3_+3+2+1__  +2_+2+17__  +1_+5_+4__
+    5__+4__  +3_+3+2+1__  7_+5_+4__  7_+1_+1__ //]
+BEM[Wariant t. 4: +1_+2_+3__]
+
+DWOK43
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK43 Śląsk s.68 od Cieszyna]
+FKT[]
+SIG[4305600000]
+KEY[43056   08  C 2/4]
+MEL[55+1+1  +3+3+1_  +4+4+2+2  775_
+    +4+4+4+4  +3+5+1_  +2+4+47  +1+1+1_ //]
+BEM[WARIANT T. 2: +3+3+5_]
+
+DWOK43
+CUT[Instrumentalna - Zajączek]
+REG[]
+TRD[DWOK43 Śląsk s.68]
+FKT[]
+SIG[4305700000]
+KEY[43057   16  G 3/4]
+MEL[-5_1_3__3__  3___1__  4_.26_4_2__  4_2_6_4_2__
+    -5_-7_2__2__  2___2__  3_-5_5_3_1__  3_-5_5_3_1__
+    +1_+1_+1__+1__  5___3__  4__-5_-7_2_4_  3__1_3_5__
+    +1_+1_+1__+1__  5___3__  4__-5_-7_2_-7_  1__0___ //]
+BEM[]
+
+DWOK43
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK43 Śląsk s. 68 od Tarnowskich Gór]
+FKT[]
+SIG[4305800000]
+KEY[43058   08  C 3/4]
+MEL[+17+1+2+3_  +17+1+2+3_  +2+17+1+2_  +2+17+1+2_
+    +17+1+2+3_  +1_+1+2+3_  +277+1+2_  +1_+1__
+    5_+1_+3_  +5__+3_  +4__+2_  +6_+5_+5_
+    5_+1_+3_  +5__+3_  +4__+2_  +3_+1_+1_ //]
+BEM[]
+
+DWOK43
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK43 Śląsk s. 69 od Tarnowskich Gór]
+FKT[]
+SIG[4305900001]
+KEY[43059   08  F 3/4]
+MEL[5+3+3+2+27  7+1+1334  277447  3+1+1335 //]
+BEM[Wariant t. 3: 27744+2]
+
+DWOK43
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK43 Śląsk s. 69 od Tarnowskich Gór]
+FKT[]
+SIG[4305900002]
+KEY[43059   08  C 3/4]
+MEL[5_4#567  +17+1+2+3+4  +5+4+2_+2+3  +4+2+3+2+1_
+    5_4#567  +17+1+2+3+4  +5+4+2+4+37  +1__. //]
+BEM[]
+
+DWOK43
+CUT[Instrumentalna - Trojak]
+REG[]
+TRD[DWOK43 Śląsk s.69]
+FKT[]
+SIG[4306000010]
+KEY[43060   16  G 2/4]
+MEL[-5_  1_.23_4_  5__.+1_  +1__.-5_
+    -5_-7_1_2_  3__.2_  1__. //]
+BEM[]
+
+DWOK43
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK43 Śląsk s.69]
+FKT[]
+SIG[4306000020]
+KEY[43060   16  G 3/4]
+MEL[5__4__4__  4__3__3__  3__2__2__  1__3_1_3_1_
+    5__4__4__  4__3__3__  3__2_1_-7_2_  1___0__ //]
+BEM[]

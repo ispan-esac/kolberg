@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2527900000-od_warszawy_do_krakowa.krn
+!!!OTL: Od Warszawy do Krakowa
+!!!source: DWOK25
+!!!id: 25279
+!!!signature: 2527900000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8cc
+8cc
+=2
+8b
+8a
+8b
+8g
+=3
+8g
+8cc
+8cc
+8cc
+=4
+8b
+8b
+8b
+8dd}
+!!LO:LB:g=esac
+=5
+{4gg
+8ff
+8dd
+=6
+8ee
+8ee
+4cc
+=7
+8dd
+8dd
+8g
+8g
+=8
+8cc
+8cc
+4cc}
+!!LO:LB:g=esac
+=9
+{4gg
+8ff
+8dd
+=10
+8ee
+8ee
+4cc
+=11
+8dd
+8dd
+8g
+8g
+=12
+8cc
+8cc
+4gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 123} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

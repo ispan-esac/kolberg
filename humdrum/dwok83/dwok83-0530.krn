@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK8353000000-jak_ja_jechal_cztery_mile_lasu.krn
+!!!OTL: Jak ja jechał cztery mile lasu
+!!!source: DWOK83
+!!!id: 83530
+!!!signature: 8353000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8dd
+4ee
+4ee
+=2
+8ff
+8ee
+8dd
+8cc
+8b
+8g
+=3
+8b
+8cc
+4dd
+4dd
+=4
+8gg
+8gg
+2ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+4ee
+4ee
+=6
+8ff
+8ee
+8dd
+8cc
+8b
+8g
+=7
+8b
+8cc
+4ee
+4ee
+=8
+8ff
+8dd
+2cc}
+==
+*-
+!!!ONB: Wariant t. 5: +1+2+3_+5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=423 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 312} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 312}
+!!!page: 312
+!!!ONB: Converted on 2024/12/26 with esac2hum

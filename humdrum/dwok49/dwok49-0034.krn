@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK4903400000-cy_nie_slyszeliscie_o_takij_nowinie.krn
+!!!OTL: Cy nie słyszeliście o takij nowinie
+!!!source: DWOK49
+!!!id: 49034
+!!!signature: 4903400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4a
+4b
+=2
+4.cc
+8b
+4a
+=3
+8b
+8b
+4a
+4g#
+=4
+4a
+2e}
+!!LO:LB:g=esac
+=5
+{4e
+4e
+4a
+=6
+4.cc
+8b
+4a
+=7
+4b
+4a
+4g#
+=8
+4a
+2e}
+!!LO:LB:g=esac
+=9
+{8a
+8a
+4a
+4a
+=10
+4b
+4cc
+4a
+=11
+4b
+4cc
+4a
+=12
+4b
+4cc
+4a}
+!!LO:LB:g=esac
+=13
+{4e
+4e
+4e
+=14
+4cc
+4b
+4a
+=15
+4b
+4a
+4g#
+=16
+4a
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 128-129} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, pp. 128-129}
+!!!page: 128-129
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2743300000-wieczor_ciemniej_sie_uniza.krn
+!!!OTL: Wieczór ciemniej się uniza
+!!!source: DWOK27
+!!!id: 27433
+!!!signature: 2743300000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8b-
+8b-
+8b-
+8dd
+=2
+8ff
+8ff
+8ff
+8dd}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+8.ee-
+16cc
+=4
+8b-
+8b-
+8.dd
+16b-
+=5
+8cc
+8cc
+8.ee-
+16cc
+=6
+8b-
+8b-
+8.dd
+16b-}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+8.ee-
+16cc
+=8
+2b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=383 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 364} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 364}
+!!!page: 364
+!!!ONB: Converted on 2024/12/26 with esac2hum

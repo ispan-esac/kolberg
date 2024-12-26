@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK06-K0448-zmarl_nam_kmita_mili_pane.krn
+!!!OTL: Zmarl nam Kmita mili Pane
+!!!source: DWOK06
+!!!id: K0448
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4.cc
+8cc
+4cc
+4b
+=2
+4a
+4b
+4a
+4g}
+!!LO:LB:g=esac
+=3
+{4.dd
+8ff
+4ee
+4dd
+=4
+4cc
+8b
+16a
+16g
+8a
+8b
+4cc}
+!!LO:LB:g=esac
+=5
+{4.g
+8cc
+4cc
+4cc
+=6
+4dd
+8.ee
+16ff#
+2gg}
+!!LO:LB:g=esac
+=7
+{4.cc
+8b
+4a
+4g
+=8
+4a
+8.b
+16b
+2cc}
+!!LO:LB:g=esac
+=9
+{4cc
+4cc
+4a
+4cc
+=10
+4a
+4b
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 240-241} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 240-241}
+!!!page: 240-241
+!!!ONB: Converted on 2024/12/26 with esac2hum

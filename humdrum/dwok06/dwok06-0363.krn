@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK06-K0363-cterech_parobeckow_tak_sobie_mowili.krn
+!!!OTL: Cterech parobeckow tak sobie mowili
+!!!source: DWOK06
+!!!id: K0363
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+4.cc
+=2
+8cc
+8cc
+8b-
+8dd
+=3
+4cc
+4cc
+=4
+8cc
+8cc
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{8e
+4.g
+=6
+8g
+8g
+8e
+8c
+=7
+4f
+4a
+=8
+8a
+8a
+8g
+8f}
+!!LO:LB:g=esac
+=9
+{8e
+8g
+8g
+8g
+=10
+8g
+8g
+8e
+8c
+=11
+4f
+4a
+=12
+8a
+16b-
+16a
+16g
+16f
+16e
+16f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 183} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 183}
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

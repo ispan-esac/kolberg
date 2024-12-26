@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK45103600000-pani_pani_preszborska_pani.krn
+!!!OTL: Pani, pani preszborska pani
+!!!source: DWOK45
+!!!id: 451036
+!!!signature: 45103600000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4ee
+4a
+4dd
+4cc
+=2
+8b
+8dd
+8cc
+8b
+4a}
+4r
+!!LO:LB:g=esac
+=3
+{4ee
+4a
+4dd
+8cc
+8b
+=4
+8a
+8b
+8cc
+8b
+4a}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8a
+8g
+8cc
+8dd
+4ee
+=6
+8cc
+8b
+8a
+8g
+8cc
+8dd
+4ee}
+!!LO:LB:g=esac
+=7
+{4ff
+8ee
+8dd
+4cc
+8b
+8a
+=8
+8a
+8b
+8cc
+8b
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=54 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 44} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 44}
+!!!page: 44
+!!!ONB: Converted on 2024/12/26 with esac2hum

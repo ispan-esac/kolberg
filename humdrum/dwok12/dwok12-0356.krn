@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1235600000-kapala_sie_kasia_w_morzu.krn
+!!!OTL: Kąpała się Kasia w morzu
+!!!source: DWOK12
+!!!id: 12356
+!!!signature: 1235600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+4dd
+4ee
+=3
+4dd
+4d}
+!!LO:LB:g=esac
+=4
+{8g
+8a
+8b
+16cc
+16b
+=5
+4g
+4b
+=6
+4a
+4g}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+8cc
+8d
+=8
+4g
+4b
+=9
+4a
+4g}
+==
+*-
+!!!ONB: wariant w takcie szóstym 2__5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 187} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

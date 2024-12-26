@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7731800001-ty_mnie_macasz_ty_mnie_macasz.krn
+!!!OTL: Ty mnie macasz ty mnie macasz
+!!!source: DWOK77
+!!!id: 77318
+!!!signature: 7731800001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ee
+8ee
+4ff
+4ff
+=2
+8ee
+8ee
+4dd
+4dd
+=3
+8ee
+8cc
+4b
+4dd
+=4
+8b
+8cc
+2g}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4.g
+8b
+=6
+8cc
+8cc
+4.g
+8b
+=7
+8cc
+8ee
+4ff
+4ee
+=8
+8cc
+8b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 169
+!!!ONB: Converted on 2024/12/26 with esac2hum

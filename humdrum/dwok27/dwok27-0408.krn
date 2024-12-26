@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2740800000-ona_pasla_byczki.krn
+!!!OTL: Ona pasła byczki
+!!!source: DWOK27
+!!!id: 27408
+!!!signature: 2740800000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16dd
+16ee
+8.ff
+16ee
+=2
+16ff
+16ee
+4ff
+=3
+16dd
+16ee
+8.ff
+16ee
+=4
+16ff
+16ee
+4ff}
+!!LO:LB:g=esac
+=5
+{16.ee-
+32dd
+4cc
+=6
+16.dd
+32cc
+4b-
+=7
+16f
+16a
+8b-
+8a
+=8
+16b-
+32dd
+32ee
+4ff}
+!!LO:LB:g=esac
+=9
+{16.ee-
+32dd
+8cc
+8ff
+=10
+16.dd
+32cc
+8b-
+8ff
+=11
+16a
+16a
+8f
+8a
+=12
+16cc
+16b-
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=371 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 352} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 352}
+!!!page: 352
+!!!ONB: Converted on 2024/12/26 with esac2hum

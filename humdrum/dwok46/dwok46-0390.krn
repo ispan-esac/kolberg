@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4639000000-tys_sie_jasiu_upil.krn
+!!!OTL: Tyś się, Jasiu, upił
+!!!source: DWOK46
+!!!id: 46390
+!!!signature: 4639000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8a
+4cc
+4ff
+=2
+4cc
+2b-}
+!!LO:LB:g=esac
+=3
+{8c
+8e
+4g
+4b-
+=4
+4a
+2cc}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+4cc
+4ff
+=6
+4dd
+2b-}
+!!LO:LB:g=esac
+=7
+{8dd
+8cc
+4b-
+4g
+=8
+4f
+2ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=285 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 251} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

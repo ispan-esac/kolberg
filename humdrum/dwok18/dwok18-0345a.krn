@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK18345a0000-mlynarzu_mlynarzu.krn
+!!!OTL: Młynarzu młynarzu
+!!!source: DWOK18
+!!!id: 18345a
+!!!signature: 18345a0000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{8f
+8g
+8a
+8b-
+4cc
+4ff
+=2
+8dd
+8b-
+8b-
+8g
+4b-
+4a}
+!!LO:LB:g=esac
+=3
+{8f
+8f
+8f
+8f
+8g
+8a
+8b-
+8g
+=4
+8f
+8f
+8f
+8f
+8g
+8a
+8b-
+8g
+=5
+8cc
+8b-
+8a
+8g
+8f
+8f
+8f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 187} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

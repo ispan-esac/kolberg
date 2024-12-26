@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK0904200000-pike_kokot_pije_kuras.krn
+!!!OTL: Pike kokot, pije kuraś
+!!!source: DWOK09
+!!!id: 09042
+!!!signature: 0904200000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16a
+8f
+16a
+16cc
+=2
+16dd
+16ff
+8.dd
+16b-}
+!!LO:LB:g=esac
+=3
+{16a
+16a
+8f
+16a
+16cc
+=4
+16g
+16b-
+8.dd
+16b-}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8f
+16a
+16cc
+=6
+16g
+16b-
+8.dd
+16b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 186} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 186}
+!!!page: 186
+!!!ONB: Converted on 2024/12/26 with esac2hum

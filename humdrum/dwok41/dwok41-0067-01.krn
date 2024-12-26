@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK4106700001-a_kochalem_dziewuche.krn
+!!!OTL: A kochałem dziewuche
+!!!source: DWOK41
+!!!id: 41067
+!!!signature: 4106700001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+8ee
+16cc
+16ee
+=2
+8gg
+16gg
+16ff#
+8gg
+=3
+16g
+16cc
+8ee
+16cc
+16ee
+=4
+8ff
+16dd
+16b
+8cc}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+16b
+16dd
+=6
+16dd
+16ee
+8a
+16cc
+16b
+=7
+8g
+8b
+16b
+16dd
+=8
+16dd
+16cc
+16a
+16f#
+8g}
+==
+*-
+!!!ONB: zakodowac w G?
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 59-60} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 59-60}
+!!!page: 59-60
+!!!ONB: Converted on 2024/12/26 with esac2hum

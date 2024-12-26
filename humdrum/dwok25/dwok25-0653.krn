@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2565300000-a_zkades_ty.krn
+!!!OTL: A zkądeś ty?
+!!!source: DWOK25
+!!!id: 25653
+!!!signature: 2565300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16ee
+8ee
+16ee
+16gg
+=2
+16ff
+16ee
+8dd
+8gg
+=3
+16g
+16b
+16cc
+16dd
+16ee
+16gg
+=4
+16ff
+16ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+4g
+=6
+32a
+32cc
+32b
+32cc
+8dd
+8gg
+=7
+16ff
+16ee
+8.g
+16a
+=8
+16cc
+16b
+8dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 236} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 236}
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

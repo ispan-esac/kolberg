@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK57198600002-a_w_nedilu_bardzo_rano.krn
+!!!OTL: A w nedilu bardzo rano
+!!!source: DWOK57
+!!!id: 571986
+!!!signature: 57198600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16dd
+8.dd
+16ee
+8.dd
+=
+16dd
+8dd
+16a
+16b
+8cc#
+48cc
+48b
+48cc}
+!!LO:LB:g=esac
+=2
+{16dd
+8.dd
+16ee
+8.dd
+=3
+4cc#
+4dd}
+!!LO:LB:g=esac
+=4
+{16g
+8b
+16dd
+8dd
+8cc
+=5
+8.b
+16g
+16f#
+8.d}
+!!LO:LB:g=esac
+=6
+{16g
+8.b
+16dd
+16dd
+8cc
+=7
+16b
+8.f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1026
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK57126600000-tam_pid_horoju_pid_zelenoju.krn
+!!!OTL: Tam pid horoju, pid zełenoju
+!!!source: DWOK57
+!!!id: 571266
+!!!signature: 57126600000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4cc
+8b
+8a
+4.dd
+8b
+=2
+4cc
+8b
+8a
+4.dd
+8b}
+!!LO:LB:g=esac
+=3
+{4cc
+8b
+8a
+4.dd
+8dd
+=4
+4cc
+8dd
+8ee
+4.ee
+8a}
+!!LO:LB:g=esac
+=5
+{4a
+8a
+8g
+4dd
+4dd
+=6
+4cc
+8dd
+8ee
+4ee
+4a}
+==
+*-
+!!!ONB: Wariant t. 3: 3b_214_44; wariant t. 5: 1_-7b-6b4_4_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 376
+!!!ONB: Converted on 2024/12/26 with esac2hum

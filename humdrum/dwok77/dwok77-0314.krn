@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK7731400000-matulenku_swiec_w_komorze_niedzwiedz.krn
+!!!OTL: Matuleńku swieć w komorze niedźwiedź
+!!!source: DWOK77
+!!!id: 77314
+!!!signature: 7731400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4b
+=2
+2.dd
+=3
+8dd
+8ee
+4dd
+4cc#
+=4
+2.dd}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4b
+4a
+=6
+8g
+8b
+4b
+4a
+=7
+8g
+8b
+4b
+4a
+=8
+8g
+8b
+4b
+4a}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+4b
+4cc
+=10
+4dd
+2dd
+=11
+8dd
+8cc
+4b
+4a
+=12
+4g
+2g}
+==
+*-
+!!!ONB: Wariant taktu 3: +2+17_4#_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 167
+!!!ONB: Converted on 2024/12/26 with esac2hum

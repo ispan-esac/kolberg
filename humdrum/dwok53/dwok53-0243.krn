@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK5324300000-o_tu_berneli_kur_sen_nakt_buvaj.krn
+!!!OTL: O! Tu, berneli, kur sęn nakt buvaj
+!!!source: DWOK53
+!!!id: 53243
+!!!signature: 5324300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{2cc
+=2
+4dd
+4b
+=3
+4a
+4g}
+!!LO:LB:g=esac
+=4
+{4cc
+4dd
+=5
+2ee
+=6
+4ee
+4ee
+=7
+2dd}
+!!LO:LB:g=esac
+=8
+{2cc
+=9
+4dd
+4b
+=10
+4a
+4g}
+!!LO:LB:g=esac
+=11
+{4cc
+4dd
+=12
+2ee
+=13
+4ee
+4ee
+=14
+2dd}
+!!LO:LB:g=esac
+=15
+{2cc
+=16
+4dd
+4b
+=17
+4a
+4g}
+!!LO:LB:g=esac
+=18
+{8a
+8b
+8dd
+8cc
+=19
+4a
+4dd
+=20
+2b}
+!!LO:LB:g=esac
+=21
+{2cc
+=22
+4dd
+4b
+=23
+4a
+4g}
+!!LO:LB:g=esac
+=24
+{8a
+8b
+8dd
+8cc
+=25
+4a
+4dd
+=26
+2b}
+==
+*-
+!!!ONB: 4__5_3_2_1_  456_6_6_5__     4__5_3_2_1_  456_6_6_5__     4__5_3_2_1_  13542_5_3__     4__5_3_2_1_  13542_5_3__ //
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=375 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 335} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 335}
+!!!page: 335
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK57131000001-po_sadoczku_pochodzaju.krn
+!!!OTL: Po sadoczku pochodżaju
+!!!source: DWOK57
+!!!id: 571310
+!!!signature: 57131000001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8ee
+8ee
+4cc
+4ee
+=2
+8dd
+8dd
+4b
+4dd}
+!!LO:LB:g=esac
+=3
+{16cc
+16b
+16a
+16g#
+4a
+4cc
+=4
+8b
+8g#
+4e
+4e}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8ee
+8dd
+8b
+=6
+4ee
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 401
+!!!ONB: Converted on 2024/12/26 with esac2hum

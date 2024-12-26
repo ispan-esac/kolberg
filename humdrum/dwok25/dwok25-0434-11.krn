@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2543400011-bracia_moje_bracia.krn
+!!!OTL: Bracią moje bracią
+!!!source: DWOK25
+!!!id: 25434
+!!!signature: 2543400011
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4gg
+16b
+16dd
+=2
+8ff
+8ee
+8g
+=3
+4gg
+16b
+16dd
+=4
+16ff
+16gg
+8ee
+8cc}
+!!LO:LB:g=esac
+=5
+{4dd
+8a
+=6
+16cc
+16cc
+8b
+8dd
+=7
+4a
+8a
+=8
+16cc
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=9
+{4dd
+8a
+=
+24cc
+24dd
+24cc
+8b
+8dd
+=10
+4a
+8a
+=
+24cc
+24dd
+24cc
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=209 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 184} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

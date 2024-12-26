@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2232900000-dziekuje_ci_parobeczku.krn
+!!!OTL: Dziękuję ci parobeczku
+!!!source: DWOK22
+!!!id: 22329
+!!!signature: 2232900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8cc
+8ee
+=2
+8dd
+8b
+8cc
+8ee
+=3
+8dd
+8b
+8cc
+8ee
+=4
+8dd
+8b
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+16cc
+16a
+=6
+8g
+8e
+8f#
+8a
+=7
+8g
+8b
+8dd
+16cc
+16a
+=8
+8g
+8e
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 186} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 186}
+!!!page: 186
+!!!ONB: Converted on 2024/12/26 with esac2hum

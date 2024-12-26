@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2256900020-z_gory_mazury_mazury.krn
+!!!OTL: Z gory Mazury Mazury
+!!!source: DWOK22
+!!!id: 22569
+!!!signature: 2256900020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8ee
+8ee
+16cc
+16a
+=2
+16b
+16b
+16a
+16cc
+8ee
+=3
+16ee
+16ff#
+16ee
+16dd
+16cc
+16a
+=4
+16f#
+16g
+16a
+16cc
+8g}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+8dd
+16cc
+32a
+32g
+=6
+16b
+16b
+16a
+16cc
+8dd
+=7
+16f#
+16g
+8dd
+16cc
+32e
+32d
+=8
+16f#
+16g
+16a
+16cc
+8g}
+==
+*-
+!!!ONB: Partia wokalna-Kujawiak
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=271 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 253} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 253}
+!!!page: 253
+!!!ONB: Converted on 2024/12/26 with esac2hum

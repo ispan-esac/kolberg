@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK42140400000-czego_zes_mi_kochaneczko.krn
+!!!OTL: Czego żeś mi kochaneczko
+!!!source: DWOK42
+!!!id: 421404
+!!!signature: 42140400000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8g#
+8b
+4dd
+8cc
+8b
+=2
+8a
+8g#
+4e
+4d
+=3
+4dd
+4cc#
+4ee
+=4
+8b
+8dd
+2b}
+!!LO:LB:g=esac
+=5
+{8g#
+8b
+4dd
+8cc#
+8b
+=6
+8a
+8g#
+4e
+4d
+=7
+4a
+4g#
+4b
+=8
+8a
+8g#
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=40 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 31} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 31}
+!!!page: 31
+!!!ONB: Converted on 2024/12/26 with esac2hum

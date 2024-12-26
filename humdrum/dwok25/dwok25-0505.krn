@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2550500000-oj_wio_koniu_do_domu.krn
+!!!OTL: Oj wio koniu do domu
+!!!source: DWOK25
+!!!id: 25505
+!!!signature: 2550500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16cc
+8ff
+8dd
+=2
+8cc
+8b-
+16dd
+16cc
+=3
+16a
+16cc
+8ff
+8dd
+=4
+8cc
+8b-
+8f}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8g
+8f
+=6
+8a
+8b-
+8dd
+=7
+16a
+16cc
+16b-
+16a
+16g
+16f
+=8
+8a
+8b-
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 201} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 201}
+!!!page: 201
+!!!ONB: Converted on 2024/12/26 with esac2hum

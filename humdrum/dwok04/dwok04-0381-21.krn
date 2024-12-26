@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK04038100021-da_moj_bracie._chodzony.krn
+!!!OTL: Da moj bracie. Chodzony
+!!!source: DWOK04
+!!!id: K0381
+!!!signature: 04038100021
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+4r
+{8g
+8b
+8cc
+8dd
+=2
+8ee
+8ff
+8gg
+8ee
+[4cc
+=3
+4cc]
+8ff
+8dd
+8b
+8dd
+=4
+8ee
+8cc
+8a
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{4g
+8g
+8b
+4cc
+=6
+8ee
+8ff
+8gg
+8ee
+4cc
+=7
+4ff
+4dd
+8b
+8dd
+=8
+8ee
+8cc
+8a
+8f#
+4g}
+==
+*-
+!!!ONB: Część instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 222} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 222}
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

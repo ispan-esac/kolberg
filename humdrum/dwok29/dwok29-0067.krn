@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK2906700000-ta_chodyt_zuk_po_zuczyni.krn
+!!!OTL: Ta chodyt żuk po żuczyni
+!!!source: DWOK29
+!!!id: 29067
+!!!signature: 2906700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8dd
+8dd
+8dd
+=2
+8ee
+8dd
+16dd
+16cc
+16a
+16g
+=3
+8g
+8dd
+8dd
+8dd
+=4
+8ee
+8dd
+8dd
+16a
+16g}
+!!LO:LB:g=esac
+=5
+{4dd
+16dd
+16cc
+16a
+16g
+=6
+2g}
+==
+*-
+!!!ONB: Zuk
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 165} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 165}
+!!!page: 165
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK06-K0442-a_dla_boga_dla_boga.krn
+!!!OTL: A dla Boga dla Boga
+!!!source: DWOK06
+!!!id: K0442
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8g
+8g
+8dd
+8dd
+=2
+8dd
+8ee
+4dd
+=3
+8dd
+8dd
+8cc
+8b-
+=4
+8dd
+8cc}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8dd
+8dd
+=6
+8b-
+8a
+4g
+=7
+8b-
+8cc
+4dd
+=8
+8cc
+8b-
+4a}
+!!LO:LB:g=esac
+=9
+{8b-
+8cc
+4dd
+=10
+8dd
+8dd
+8dd
+8dd
+=11
+8dd
+8dd
+8cc
+8b-
+=12
+8dd
+8cc}
+4r
+!!LO:LB:g=esac
+=13
+{8b-
+8cc
+8dd
+8dd
+=14
+8b-
+8a
+4g
+=15
+8g
+8b-
+4dd
+=16
+8cc
+8b-
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 232-233} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 232-233}
+!!!page: 232-233
+!!!ONB: Converted on 2024/12/26 with esac2hum

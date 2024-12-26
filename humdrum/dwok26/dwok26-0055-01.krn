@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK2605500001-nima_tego_na_swiecie.krn
+!!!OTL: Nima tego na świecie
+!!!source: DWOK26
+!!!id: 26055
+!!!signature: 2605500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8cc
+8b
+8cc
+4dd
+=2
+4dd
+4cc
+4b
+=3
+4.a
+8f#
+8g
+8b
+=4
+16g
+16f#
+8d
+8e
+8f#
+4g}
+!!LO:LB:g=esac
+=5
+{4.a
+8f#
+8g
+8b
+=6
+8g
+8f#
+8g
+8b
+8cc
+8b
+=7
+4.a
+8f#
+8g
+16a
+16b
+=8
+16g
+16f#
+8d
+8e
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 104
+!!!ONB: Converted on 2024/12/26 with esac2hum

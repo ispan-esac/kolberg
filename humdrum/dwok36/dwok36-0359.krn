@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK3635900000-sijaw_muzyk_zyto.krn
+!!!OTL: Sijaw mużyk żyto
+!!!source: DWOK36
+!!!id: 36359
+!!!signature: 3635900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.b
+16dd
+8dd
+8ff#
+=2
+4gg
+8b
+8dd
+=3
+8.dd
+16cc
+8a
+8a
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8.f#
+16a
+4a
+=6
+8g
+8b
+8dd
+8dd
+=7
+8dd
+8dd
+8dd
+8f#
+=8
+4a
+4g}
+!!LO:LB:g=esac
+=9
+{8d
+8f#
+8a
+8a
+=10
+8g
+8b
+8dd
+8dd
+=11
+8dd
+8dd
+8dd
+8f#
+=12
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 224
+!!!ONB: Converted on 2024/12/26 with esac2hum

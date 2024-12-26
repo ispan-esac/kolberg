@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK1616300001-ej_przyjechali_swatkowie_nasi.krn
+!!!OTL: Ej przyjechali swatkowie nasi
+!!!source: DWOK16
+!!!id: 16163a
+!!!signature: 1616300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8cc
+=2
+8dd
+4b
+=3
+8dd
+8dd
+8dd
+=4
+8dd
+8dd
+8cc
+=5
+8b
+4g
+=6
+8f#
+8d}
+8r
+!!LO:LB:g=esac
+=7
+{8f#
+4g
+=8
+16a
+16g
+4b
+=9
+16b
+16cc
+8dd
+8b
+=10
+8cc
+4b
+=11
+8g
+4f#
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 187} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 187}
+!!!ONB: Converted on 2024/12/26 with esac2hum

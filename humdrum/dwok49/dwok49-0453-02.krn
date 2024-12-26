@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4945300002-oj_wesile_sie_konczy_drugie_sie_zaczyna.krn
+!!!OTL: Oj, wesile sie kończy, drugie sie zaczyna
+!!!source: DWOK49
+!!!id: 49453
+!!!signature: 4945300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8b
+8cc
+=2
+16dd
+16dd
+8b
+8cc
+=3
+16dd
+16dd
+8cc#
+8ee
+=4
+4dd
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8b
+=6
+16b
+16d
+8f#
+8g
+=7
+16a
+16a
+8cc
+8b
+=8
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=525 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 435} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 435}
+!!!page: 435
+!!!ONB: Converted on 2024/12/26 with esac2hum

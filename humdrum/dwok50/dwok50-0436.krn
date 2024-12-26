@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5043600000-hej_cysariu_cysariu.krn
+!!!OTL: Hej, cysariu, cysariu
+!!!source: DWOK50
+!!!id: 50436
+!!!signature: 5043600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8dd
+=2
+4cc
+8b
+=3
+8a
+4e}
+!!LO:LB:g=esac
+=4
+{8e
+8g#
+8a
+=5
+4cc
+8b
+=6
+8a
+4e}
+!!LO:LB:g=esac
+=7
+{8e
+8g#
+8a
+=8
+4cc
+8ee
+=9
+8dd
+4cc#}
+!!LO:LB:g=esac
+=10
+{8b
+8a
+8b
+=11
+4cc
+8b
+=12
+8a
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 259} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 259}
+!!!page: 259
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2548900000-jedzies_jasiu_jedzies_jedzies.krn
+!!!OTL: Jedzies Jasiu, jedzies, jedzies
+!!!source: DWOK25
+!!!id: 25489
+!!!signature: 2548900000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16b
+16b
+8cc
+8ee
+=2
+16ff
+16ff
+8.gg
+16ee
+=3
+16g
+16b
+8cc
+8ee
+=4
+16ff
+16gg
+8.gg
+16ee}
+!!LO:LB:g=esac
+=5
+{16ee
+16cc
+8b
+8g
+=6
+16a
+16a
+8f
+16g
+16b
+=7
+16cc
+16cc
+8b
+8g
+=8
+16a
+16a
+8f
+8g}
+==
+*-
+!!!ONB: W takcie drugim powinna być zamiast szesnastki z kropką ósemka z kropką, zapisano poprawnie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 197} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 197}
+!!!page: 197
+!!!ONB: Converted on 2024/12/26 with esac2hum

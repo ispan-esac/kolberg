@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4653700000-kazala_mi_mila_przyjsc_jak_ci_bedzie_cztery_bic.krn
+!!!OTL: Kazała mi miła przyjść, jak ci będzie cztery bić
+!!!source: DWOK46
+!!!id: 46537
+!!!signature: 4653700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+4b
+4a
+=2
+8cc
+8a
+2g
+=3
+8b
+8cc
+4dd
+8ee
+8dd
+=4
+8cc
+8b
+2cc}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+8ee
+8dd
+16cc
+16b
+=6
+8a
+8b
+8cc
+8cc
+8a
+8f#
+=7
+8g
+8a
+4b
+4b
+=8
+8cc
+8a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=359 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 325} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 325}
+!!!page: 325
+!!!ONB: Converted on 2024/12/26 with esac2hum

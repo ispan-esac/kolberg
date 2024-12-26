@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK5325300000-vaj_duoki_lejski_mane_brolelej.krn
+!!!OTL: Vaj! Duoki, lejski manę brolelej
+!!!source: DWOK53
+!!!id: 53253
+!!!signature: 5325300000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{4b-
+4b-
+4dd
+=2
+2ff
+4ff
+=3
+4gg
+4ee-
+4ff
+=4
+4ee-
+4dd
+4cc}
+!!LO:LB:g=esac
+=5
+{4ee-
+4cc
+4ff
+=6
+4dd
+4cc
+4b-
+=7
+4dd
+4cc
+4cc
+=8
+2b-
+4cc}
+!!LO:LB:g=esac
+=9
+{4ee-
+4cc
+4ff
+=10
+4dd
+4cc
+4b-
+=11
+4dd
+4cc
+4cc
+=12
+2b-
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=378 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 338} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 338}
+!!!page: 338
+!!!ONB: Converted on 2024/12/26 with esac2hum

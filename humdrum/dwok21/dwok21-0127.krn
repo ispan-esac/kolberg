@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2112700000-o_juzem_sie_przypatrzyl.krn
+!!!OTL: O jużem się przypatrzył
+!!!source: DWOK21
+!!!id: 21127
+!!!signature: 2112700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8dd
+8dd
+8cc#
+=2
+16ee
+16dd
+8cc#
+8a
+=3
+16b
+16g#
+4a
+=4
+8b
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8e
+8e
+8a
+=6
+16b
+16dd
+8cc#
+8a
+=7
+16b
+16g#
+4a
+=8
+8b
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 63} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 63}
+!!!page: 63
+!!!ONB: Converted on 2024/12/26 with esac2hum

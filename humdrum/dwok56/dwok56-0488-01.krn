@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK5648800001-oj_chodyla_marysenka_po_dwori.krn
+!!!OTL: Oj, chodyła Maryseńka po dwori
+!!!source: DWOK56
+!!!id: 56488
+!!!signature: 5648800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8cc
+8b
+8a
+8g
+8b
+=2
+8cc
+8g
+4a
+4g
+=3
+8cc
+4b
+8b
+4b}
+!!LO:LB:g=esac
+=4
+{8b
+8cc
+8b
+8a
+8g
+8b
+=5
+4cc
+4.a
+8b
+=6
+8a
+4.g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=458 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 354} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 354}
+!!!page: 354
+!!!ONB: Converted on 2024/12/26 with esac2hum

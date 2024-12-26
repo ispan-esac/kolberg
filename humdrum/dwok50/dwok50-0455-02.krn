@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5045500002-jakyj_ja_neszczesnyj_na_tot_swit_wrodyw_sie.krn
+!!!OTL: Jakyj ja neszczesnyj na tot świt wrodyw sie
+!!!source: DWOK50
+!!!id: 50455
+!!!signature: 5045500002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=
+{24e
+24g#
+24a
+8cc
+8cc
+=1
+8b
+16a
+16g#
+8e
+=2
+16g#
+16a
+8cc
+8cc
+=3
+8b
+16a
+16g#
+8e}
+!!LO:LB:g=esac
+=4
+{16e
+16a
+8.cc
+16b
+=5
+16b
+16e
+16a
+16g#
+8e
+=6
+16g#
+16a
+8dd#
+8a
+=
+24g#
+24f
+24e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=299 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 272} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 272}
+!!!page: 272
+!!!ONB: Converted on 2024/12/26 with esac2hum

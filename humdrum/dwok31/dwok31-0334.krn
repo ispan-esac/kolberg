@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK3133400000-pruda_pruda_sidyriczka.krn
+!!!OTL: Pruda pruda sidyriczka
+!!!source: DWOK31
+!!!id: 31334
+!!!signature: 3133400000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8g
+8dd
+8dd
+8dd
+=2
+8dd
+8dd
+8dd
+8b-
+=3
+8g
+8dd
+8dd
+8dd
+=4
+4dd
+4b-
+=5
+8g
+8dd
+8dd
+8dd
+=6
+4b-
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8dd
+8dd
+16cc
+16b-
+=8
+8a
+8cc
+8cc
+16b-
+16a
+=9
+8g
+8dd
+8dd
+16cc
+16b-
+=10
+4a
+4a}
+==
+*-
+!!!ONB: Wertak (taniec)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=61 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 40} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 40}
+!!!page: 40
+!!!ONB: Converted on 2024/12/26 with esac2hum

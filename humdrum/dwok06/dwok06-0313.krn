@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK0631300000-kapala_siee_kasia_w_morzu.krn
+!!!OTL: Kąpała sięe Kasia w morzu
+!!!source: DWOK06
+!!!id: K0313
+!!!signature: 0631300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16g
+8cc
+8cc
+=2
+4cc
+8dd
+=3
+8ee
+4cc}
+!!LO:LB:g=esac
+=4
+{16g
+16b
+8dd
+8dd
+=5
+4dd
+8ee
+=6
+8ff
+4dd}
+!!LO:LB:g=esac
+=7
+{16cc
+16dd
+8ee
+8ee
+=8
+4ee
+8gg
+=9
+8gg
+4ff}
+!!LO:LB:g=esac
+=10
+{16gg
+16ee
+8cc
+8cc
+=11
+4b
+8dd
+=12
+8dd
+8cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 158} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 158}
+!!!page: 158
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2119400002-hej_sandomierska_ziemia.krn
+!!!OTL: Hej! Sandomierska ziemia
+!!!source: DWOK21
+!!!id: 21194
+!!!signature: 2119400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4.dd
+=2
+16dd
+16cc
+8a
+8g
+=3
+8b
+4d
+=4
+16e
+16e
+8f#
+8d
+=5
+8g
+4dd}
+!!LO:LB:g=esac
+=6
+{16dd
+16cc
+8a
+8g
+=7
+16g
+16b
+4d
+=8
+16f#
+16g
+8a
+8g
+=9
+16a
+16b
+4g}
+==
+*-
+!!!ONB: Niektórzy śśpiewają tę piosenkę w tempie Mazura
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 97} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 97}
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

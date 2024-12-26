@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7754600000-oj_gorzalecko_zlota.krn
+!!!OTL: Oj gorzałecko złota
+!!!source: DWOK77
+!!!id: 77546
+!!!signature: 7754600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8f#
+4g
+4b
+=2
+4dd
+4a
+4g}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+4ee
+4ee
+=4
+4dd
+4cc
+4b}
+!!LO:LB:g=esac
+=5
+{8a
+8f#
+4g
+4b
+=6
+4dd
+4a
+4g}
+!!LO:LB:g=esac
+=7
+{8f#
+8d
+4e
+4e
+=8
+4f#
+4a
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 282
+!!!ONB: Converted on 2024/12/26 with esac2hum

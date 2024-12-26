@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK04-K0237-wedle_stolu_sobie_skacze.krn
+!!!OTL: Wedle stolu sobie skacze
+!!!source: DWOK04
+!!!id: K0237
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M6/8
+=1
+{4a
+8b
+8cc
+8b
+8b
+=2
+8cc
+8b
+8b
+8cc
+8b
+8b
+=3
+4dd
+8dd
+4dd
+8b
+=4
+4cc
+8b
+4cc
+8a}
+!!LO:LB:g=esac
+=5
+{8b
+8g#
+8e
+4e
+8g#
+=6
+4a
+8b
+8cc
+8b
+8cc
+=7
+4g#
+8b
+4ee
+8g#
+=8
+4a}
+8r
+4r
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 120} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK57206700002-doczasnoj_swit_zywot_czelowika.krn
+!!!OTL: Doczasnoj świt żywot czełowika
+!!!source: DWOK57
+!!!id: 572067
+!!!signature: 57206700002
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4ee
+4dd
+8cc
+8a
+4a
+=2
+16cc
+8.ee
+16dd
+8.dd
+16cc
+16dd
+16cc
+16a
+4a}
+!!LO:LB:g=esac
+=3
+{4ee
+4dd
+8cc
+8a
+4a
+=4
+16cc
+8.ee
+16dd
+8.dd
+16cc
+16dd
+16cc
+16a
+4a}
+!!LO:LB:g=esac
+=5
+{16cc
+8.ee
+16dd
+8cc
+16b
+16a
+8.a
+16a
+8.cc
+=6
+16cc
+8.ee
+16dd
+16cc
+8b
+16a
+8.a
+16a
+8.cc}
+!!LO:LB:g=esac
+=7
+{4ee
+4dd
+8cc
+16cc
+16a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1129
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2316000000-chodzila_zosienka.krn
+!!!OTL: Chodziła Zosieńka
+!!!source: DWOK23
+!!!id: 23160
+!!!signature: 2316000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8g#
+8a
+8cc
+8b
+8g#
+=2
+8e
+8g#
+8a
+8cc
+8b
+8g#
+=3
+8cc
+8b
+4cc
+4dd
+=4
+2ee
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8gg
+8ee
+8dd
+8cc
+=6
+8b
+8dd
+8dd
+8cc
+8b
+8a
+=7
+8e
+8g#
+8a
+8cc
+8b
+8g#
+=8
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 166} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 166}
+!!!page: 166
+!!!ONB: Converted on 2024/12/26 with esac2hum

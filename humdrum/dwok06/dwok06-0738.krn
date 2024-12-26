@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK06-K0738-miala_baba_kozuch.krn
+!!!OTL: Miala baba kozuch
+!!!source: DWOK06
+!!!id: K0738
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+4dd
+=2
+8dd
+4dd
+8dd
+=3
+8dd
+16dd
+16cc#
+8dd
+16dd
+16cc#
+=4
+4dd
+8gg}
+8r
+!!LO:LB:g=esac
+=5
+{16cc
+16b
+16cc
+16ee
+8.a
+16g
+=6
+16g
+16f#
+4f#
+8d
+=7
+8d
+8d
+8e
+8f#
+=8
+8g
+4b}
+8r
+!!LO:LB:g=esac
+=9
+{16cc
+16b
+16cc
+16ee
+8.a
+16g
+=10
+16g
+16f#
+4f#
+8d
+=11
+8d
+8d
+8e
+8f#
+=12
+8g
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=480 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 454} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 454}
+!!!page: 454
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK41112500001-dziekuje_ci_pani_matko.krn
+!!!OTL: Dziękuję ci, pani matko
+!!!source: DWOK41
+!!!id: 411125
+!!!signature: 41112500001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+4dd
+4b
+=2
+8cc
+8dd
+4b
+4g
+=3
+4ff
+4cc
+8ee
+8gg
+=4
+8ff
+8ee
+2dd}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8dd
+8ee
+8ff
+8ee
+=6
+8cc
+8dd
+4b
+4g
+=7
+8dd
+8ee
+8ff
+8ee
+8cc
+8cc
+=8
+4b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=572 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 485} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 485}
+!!!page: 485
+!!!ONB: Converted on 2024/12/26 with esac2hum

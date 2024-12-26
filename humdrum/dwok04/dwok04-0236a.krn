@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK04-K0236a-nie_sama_ja.krn
+!!!OTL: Nie sama ja
+!!!source: DWOK04
+!!!id: K0236a
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16a
+16cc#
+8a
+8cc#
+=2
+8ee
+16dd
+16cc#
+16b
+16a
+=3
+16dd
+16ff#
+8dd
+8ff#
+=4
+16ff#
+16ff#
+8.ee
+16dd}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+=6
+16cc#
+32ee
+32cc#
+8a
+8a
+=7
+8e
+8g#
+8b
+=8
+16dd
+16ff#
+8ee
+8dd}
+!!LO:LB:g=esac
+=9
+{16a
+16cc#
+8a
+8cc#
+=10
+16ee
+32ff#
+32ee
+16dd
+16cc#
+16b
+16a
+=11
+16dd
+16ff#
+8dd
+8ff#
+=12
+16ff#
+16ff#
+8.ee
+16dd}
+!!LO:LB:g=esac
+=13
+{16a
+16cc#
+8a
+8cc#
+=
+16ee
+16ee
+8cc#
+24a
+24g#
+24f#
+=14
+8e
+8g#
+8b
+=15
+16dd
+16ff#
+8ee
+16dd
+16b}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=133 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 119-220} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 119-220}
+!!!page: 119-220
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK3902200002-ach_moj_wianku_lewandowy.krn
+!!!OTL: Ach, mój wianku lewandowy
+!!!source: DWOK39
+!!!id: 39022
+!!!signature: 3902200002
+**kern
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=1
+{4dd
+4ee
+4ff
+8dd
+8a
+=2
+4cc
+4cc
+4b-
+4a}
+!!LO:LB:g=esac
+=3
+{4dd
+4ee
+8ff
+8ee
+8dd
+8a
+=4
+4cc
+4cc
+4b-
+4a}
+!!LO:LB:g=esac
+=5
+{4g
+4a
+4b-
+4a
+=6
+4cc
+8cc
+8a
+4dd
+8cc
+16b
+16a}
+!!LO:LB:g=esac
+=7
+{4g
+4a
+4b-
+4cc
+=8
+4dd
+4cc
+4b-
+4a}
+!!LO:LB:g=esac
+=9
+{4g
+4a
+4b-
+4a
+=10
+4cc
+8cc
+8a
+4dd
+8cc
+16b
+16a}
+!!LO:LB:g=esac
+=11
+{4g
+4a
+4b-
+4cc
+=12
+4dd
+4cc
+4b-
+4a}
+==
+*-
+!!!ONB: Do oczepin
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 95} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 95}
+!!!page: 95
+!!!ONB: Converted on 2024/12/26 with esac2hum

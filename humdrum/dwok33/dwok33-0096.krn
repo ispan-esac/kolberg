@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK3309600000-zleciulo_dwa_janioly_z_neba.krn
+!!!OTL: Zleciuło dwa janioły z neba
+!!!source: DWOK33
+!!!id: 33096
+!!!signature: 3309600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8ee
+=2
+4dd
+16cc
+16b
+=3
+8dd
+8b
+8f#
+=4
+4g
+8d}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8g
+=6
+4cc
+8cc
+=7
+8dd
+4b
+=8
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=267 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 225} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 225}
+!!!page: 225
+!!!ONB: Converted on 2024/12/26 with esac2hum

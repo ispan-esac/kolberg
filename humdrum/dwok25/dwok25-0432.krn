@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2543200000-ozenilem_sie_tu_na_spol_z_placem.krn
+!!!OTL: Ozeniłem sie tu na spół z płacem
+!!!source: DWOK25
+!!!id: 25432
+!!!signature: 2543200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.d
+32b
+16b
+16dd
+16ee
+16dd
+=2
+16cc#
+16a
+16b
+16dd
+8cc
+=3
+16.cc
+32b
+16b
+16dd
+16ee
+16dd
+=4
+16cc#
+16a
+8g
+8f#}
+!!LO:LB:g=esac
+=5
+{8a
+16a
+16g
+16b
+16dd
+=6
+16ee
+16dd
+16cc#
+16a
+16b
+16g
+=7
+16f#
+16a
+16a
+16g
+16b
+16dd
+=8
+16ee
+16dd
+16cc
+16a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 183} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 183}
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

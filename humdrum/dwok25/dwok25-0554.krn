@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2555400000-oj_myslalas_dziewcyno.krn
+!!!OTL: Oj myślałaś dziewcyno
+!!!source: DWOK25
+!!!id: 25554
+!!!signature: 2555400000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8dd
+8ee-
+16dd
+16cc#
+=2
+16dd
+32b-
+32a
+8g
+16b-
+16cc
+=3
+8dd
+8gg
+16dd
+16cc#
+=4
+16dd
+16b-
+4g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+16a
+16dd
+16cc#
+16dd
+=
+16b-
+16a
+24g
+24a
+24b-
+8g
+=6
+16d
+16f#
+16a
+16dd
+16cc#
+16dd
+=7
+16b-
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=238 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 213} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 213}
+!!!page: 213
+!!!ONB: Converted on 2024/12/26 with esac2hum

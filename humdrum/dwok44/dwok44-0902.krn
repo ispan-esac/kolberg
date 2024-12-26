@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4490200000-spadla_muska_na_konopie.krn
+!!!OTL: Spadła muska na konopie
+!!!source: DWOK44
+!!!id: 44902
+!!!signature: 4490200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+4dd
+4dd
+=2
+8b
+8cc
+4dd
+4dd
+=3
+8dd
+8cc#
+4a
+4b
+=4
+2.g}
+!!LO:LB:g=esac
+=5
+{8a
+8f#
+4d
+4d
+=6
+8g
+8g
+4b
+4dd
+=7
+8dd
+8cc#
+4a
+4b
+=8
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=479 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 421} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 421}
+!!!page: 421
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK1241500002-na_krakowie_na_ydowie.krn
+!!!OTL: Na Krakowie na Żydowie
+!!!source: DWOK12
+!!!id: 12415
+!!!signature: 1241500002
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=1
+{4d
+4f#
+4a
+4a
+=2
+4.b
+8dd
+4cc#
+4a
+=3
+4.b
+8dd
+4cc#
+4a}
+!!LO:LB:g=esac
+=4
+{4dd
+4dd
+8dd
+8a
+4dd
+=5
+4.a
+8g
+4f#
+4d}
+!!LO:LB:g=esac
+=6
+{8d
+8f#
+8a
+8b
+8a
+8f#
+8a
+8b
+=7
+8a
+8f#
+8a
+8b
+8a
+8g
+8f#
+8d}
+!!LO:LB:g=esac
+=8
+{4dd
+4dd
+4ee
+8ff#
+8dd
+=9
+4.ee
+8cc#
+4ee
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=230 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 214} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 214}
+!!!page: 214
+!!!ONB: Converted on 2024/12/26 with esac2hum

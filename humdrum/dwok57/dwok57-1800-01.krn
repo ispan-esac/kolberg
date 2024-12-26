@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK57180000001-ore_jwas_ore_ze_starenkim_didom.krn
+!!!OTL: Ore Jwaś, ore ze stareńkim didom
+!!!source: DWOK57
+!!!id: 571800
+!!!signature: 57180000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4cc
+8dd
+8b
+=2
+8a
+8g
+2g
+=3
+4dd
+8gg
+8ff#
+16ee
+16dd
+8cc
+=4
+4ee
+2dd}
+!!LO:LB:g=esac
+=5
+{4dd
+8gg
+8ff#
+16ee
+16dd
+8cc
+=6
+4dd
+4ee
+8cc
+8ee
+=7
+4dd
+4cc
+8dd
+8b
+=8
+8a
+8g
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 887
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK8311300001-zakukala_zezulenka_na_lesie.krn
+!!!OTL: Zakukała zezuleńka na lesie
+!!!source: DWOK83
+!!!id: 83113
+!!!signature: 8311300001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16b
+8cc
+8b
+=2
+16ee
+16ee
+8cc
+8b
+=3
+16cc
+16dd
+4ee}
+!!LO:LB:g=esac
+=4
+{16ee
+16ee
+16ee
+32cc
+32a
+8b
+=5
+16cc
+16ee
+16cc
+16a
+8b
+=6
+16cc
+16b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 107} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

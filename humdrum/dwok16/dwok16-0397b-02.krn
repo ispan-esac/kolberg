@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1639700002-instrumentalna_-_do_oczepin_skrzypek.krn
+!!!OTL: Instrumentalna - Do oczepin skrzypek
+!!!source: DWOK16
+!!!id: 16397b
+!!!signature: 1639700002
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+8dd
+8ee
+2ff
+=2
+4ff
+8gg
+8ff
+2ee
+=3
+4dd
+8cc
+8dd
+4ee
+4ff
+=
+4ee
+12dd
+12cc
+12b
+2cc}
+!!LO:LB:g=esac
+=
+{12cc
+12b
+12a
+4g
+4dd
+8ee
+8dd
+=
+4cc
+12b
+12a
+12b
+2cc
+=
+4dd
+12ee
+12dd
+12ee
+2ff
+=
+4ee
+12dd
+12cc
+12b
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 249} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 249}
+!!!ONB: Converted on 2024/12/26 with esac2hum

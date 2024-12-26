@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2129700010-wyleciala_baba_z_nieba.krn
+!!!OTL: Wyleciała baba z nieba
+!!!source: DWOK21
+!!!id: 21297
+!!!signature: 2129700010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc
+8ee
+8dd
+=2
+16a
+16cc
+8dd
+8f#
+=3
+16a
+16cc
+8.g
+16b
+=4
+16dd
+16cc
+8a
+8f#}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8ee
+8dd
+=6
+16b
+16g
+8a
+8f#
+=7
+16a
+16cc
+8.g
+16a
+=8
+16b
+16g
+8f#
+8d}
+==
+*-
+!!!ONB: część wokalna, u Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 123} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

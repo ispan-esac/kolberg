@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1922400000-z_karcmy_ide_sfrasowany.krn
+!!!OTL: Z karcmy idę sfrasowany
+!!!source: DWOK19
+!!!id: 19224
+!!!signature: 1922400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16g
+8b
+8dd
+=2
+8ff#
+8gg
+16ee
+16cc
+=3
+16b
+16g
+8b
+8cc
+=4
+16ee
+32dd
+32ee
+8cc
+16ee
+16cc}
+!!LO:LB:g=esac
+=5
+{16dd
+16ff#
+8aa
+8gg
+=6
+16ee
+32dd
+32ee
+8cc
+16a
+16cc
+=7
+16dd
+16ff#
+8aa
+8gg
+=8
+8ff#
+8gg
+16ee
+16cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 70} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 70}
+!!!page: 70
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2915700000-oj_z_za_hory_jasne_sonce.krn
+!!!OTL: Oj z za hory jasne sonce
+!!!source: DWOK29
+!!!id: 29157
+!!!signature: 2915700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8cc
+=2
+8dd
+16dd
+16cc
+16b
+16a
+8g
+=3
+2g
+=4
+4b
+4cc
+=5
+2cc}
+!!LO:LB:g=esac
+=6
+{8b
+8dd
+8dd
+8cc
+=7
+8dd
+8cc
+16b
+16g
+8a
+=8
+2a
+=9
+4a
+4g
+=10
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 256} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 256}
+!!!page: 256
+!!!ONB: Converted on 2024/12/26 with esac2hum

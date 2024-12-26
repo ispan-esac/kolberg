@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2135000000-oj_boze_moj.krn
+!!!OTL: Oj Boże mój
+!!!source: DWOK21
+!!!id: 21350
+!!!signature: 2135000000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16b-
+16ee-
+8dd
+8b-
+=2
+16cc
+16ee-
+4dd
+=3
+8a
+8a
+16a
+16cc
+=4
+16b-
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8g
+8b-
+=6
+16cc
+16ee-
+4dd
+=7
+8dd
+8a
+16a
+16cc
+=8
+16b-
+16a
+4g}
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=154 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 136} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 136}
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

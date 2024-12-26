@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2648200000-synkarecko_dawaj_piwa.krn
+!!!OTL: Synkarecko dawaj piwa
+!!!source: DWOK26
+!!!id: 26482
+!!!signature: 2648200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16ee
+16ee
+8.ff
+16dd
+=2
+16ff
+16ff
+8ee
+8cc}
+!!LO:LB:g=esac
+=3
+{16a
+16cc
+8dd
+16b
+16cc
+=4
+16a
+16a
+8g#
+8e}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8dd
+16b
+16dd
+=6
+16ff
+16ff
+8ee
+8cc}
+!!LO:LB:g=esac
+=7
+{16a
+16cc
+8dd
+16b
+16cc
+=
+24b
+24cc
+24b
+8g#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 317
+!!!ONB: Converted on 2024/12/26 with esac2hum

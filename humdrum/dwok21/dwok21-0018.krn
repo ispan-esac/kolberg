@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2101800000-z_wiecorecka_ciemna_nocka.krn
+!!!OTL: Z wiecorecka ciemna nocka
+!!!source: DWOK21
+!!!id: 21018
+!!!signature: 2101800000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16g
+16b-
+8dd
+8dd
+=2
+16dd
+16ff#
+8gg
+8ee-
+=3
+8cc
+8cc
+8a
+=4
+8cc
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{16g
+16b-
+8dd
+8dd
+=6
+8cc
+8cc
+8a
+=7
+16a
+16cc
+8dd
+16b-
+16g
+=8
+8f#
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=27 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 9} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 9}
+!!!page: 9
+!!!ONB: Converted on 2024/12/26 with esac2hum

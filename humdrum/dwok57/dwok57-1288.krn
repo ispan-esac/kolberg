@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK57128800000-sonce_hrije_witer_wije.krn
+!!!OTL: Sonce hrije, witer wije
+!!!source: DWOK57
+!!!id: 571288
+!!!signature: 57128800000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8b-
+8dd
+8dd
+16dd
+16ff#
+=2
+8.gg
+16dd
+8dd
+16cc
+16a}
+!!LO:LB:g=esac
+=3
+{8b-
+8dd
+8dd
+16dd
+16ff#
+=4
+8.gg
+16dd
+8dd
+16cc
+16a}
+!!LO:LB:g=esac
+=5
+{8.dd
+16b
+8a
+8g
+=6
+8f#
+8d
+8g
+8b-}
+!!LO:LB:g=esac
+=7
+{8dd
+8b-
+8a
+8g
+=8
+8f#
+8d
+8g
+8g}
+==
+*-
+!!!ONB: Wariant t. 1 i 3: 3b_5_5_5+1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 386
+!!!ONB: Converted on 2024/12/26 with esac2hum

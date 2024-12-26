@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK5048500000-albo_zaswiec_albo_zagas.krn
+!!!OTL: Albo zaświeć, albo zagaś
+!!!source: DWOK50
+!!!id: 50485
+!!!signature: 5048500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+8cc
+8b
+=2
+8b
+8a
+8a
+8g}
+!!LO:LB:g=esac
+=3
+{8g
+8a
+8a
+8g
+=4
+8g
+8a
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8a
+8b
+=6
+8g
+8a
+16g
+16a
+8b}
+!!LO:LB:g=esac
+=7
+{8g
+8a
+8a
+8b
+=8
+8g
+8a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=318 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 289} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 289}
+!!!page: 289
+!!!ONB: Converted on 2024/12/26 with esac2hum

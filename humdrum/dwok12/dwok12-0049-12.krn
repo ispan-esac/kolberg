@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1204900012-wieci_miesiac_a_nie_grzeje.krn
+!!!OTL: Świeci miesiąc a nie grzeje
+!!!source: DWOK12
+!!!id: 12049
+!!!signature: 1204900012
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4dd
+4dd
+=2
+8dd
+8ff#
+4ee
+4cc
+=3
+8a
+8cc
+4cc
+8cc
+8a
+=4
+8cc
+8ee
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4b
+8g
+8f#
+=6
+8g
+8b
+8dd
+8cc
+8a
+8f#
+=7
+8f#
+8a
+4cc
+8cc
+8a
+=8
+8cc
+8ee
+8dd
+8cc
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=38 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 22} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 22}
+!!!page: 22
+!!!ONB: Converted on 2024/12/26 with esac2hum

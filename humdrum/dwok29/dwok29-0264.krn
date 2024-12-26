@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2926400000-a_w_nedilu_rano.krn
+!!!OTL: A w nedilu rano
+!!!source: DWOK29
+!!!id: 29264
+!!!signature: 2926400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8cc
+16ee
+16cc
+8ee
+16ee
+16dd
+=2
+4ee
+4gg
+=3
+8ee
+16ee
+16dd
+16dd
+16cc
+16b
+16a
+=4
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+16dd
+16dd
+8dd
+16dd
+16b
+=6
+4dd
+4ee
+=7
+8ee
+16ee
+16dd
+16dd
+16cc
+16b
+16a
+=8
+4b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=357 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 325} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 325}
+!!!page: 325
+!!!ONB: Converted on 2024/12/26 with esac2hum

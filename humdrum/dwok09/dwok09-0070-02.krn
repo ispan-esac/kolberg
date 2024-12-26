@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK0907000002-oj_chmielu_chmielu.krn
+!!!OTL: Oj chmielu chmielu
+!!!source: DWOK09
+!!!id: 09070
+!!!signature: 0907000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4dd
+8dd
+8ee
+=2
+4ff#
+2dd
+=3
+8cc#
+8dd
+4cc
+8b-
+8g
+=4
+2.a}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+8dd
+8ee
+=6
+4ff#
+2dd
+=7
+8cc#
+8dd
+4cc
+8b-
+8g
+=8
+2.a}
+!!LO:LB:g=esac
+=9
+{4cc
+8b
+8g
+4a
+=10
+8a
+8dd
+8cc
+8b
+8a
+8g
+=11
+4cc
+8b
+8g
+4a
+=12
+8a
+8dd
+8cc
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=13
+{8a
+8dd
+4cc
+8b-
+8g
+=14
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=240 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 216} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 216}
+!!!page: 216
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK7508300001-oj_da_grajcie_mi.krn
+!!!OTL: Oj, da, grajcie mi
+!!!source: DWOK75
+!!!id: 75083
+!!!signature: 7508300001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{4ee
+4b
+4dd
+=2
+8ee
+16cc
+16b
+4a
+4cc
+=3
+4ee
+4b
+4dd
+=4
+8ee
+16cc
+16b
+4a
+4e}
+!!LO:LB:g=esac
+=5
+{4e
+4g#
+4g#
+=6
+8a
+16cc
+16b
+4a
+4cc
+=7
+4ee
+4b
+4g#
+=8
+8a
+16cc
+16b
+4a
+4e}
+!!LO:LB:g=esac
+=9
+{4ee
+4b
+4dd
+=
+12ee
+12cc
+12b
+4cc
+4ee
+=10
+4dd
+4b
+4dd
+=11
+8ee
+16cc
+16b
+4a
+4e}
+!!LO:LB:g=esac
+=12
+{4g#
+4e
+4g#
+=13
+8a
+16cc
+16b
+4a
+4b
+=14
+4g#
+4b
+4g#
+=15
+8a
+8cc
+4a
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=113 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 57} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

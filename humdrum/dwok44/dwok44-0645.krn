@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4464500000-a_moja_coreczko.krn
+!!!OTL: A, moja córeczko
+!!!source: DWOK44
+!!!id: 44645
+!!!signature: 4464500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.b
+16b
+8b
+8b
+=2
+8g
+4.dd
+=3
+8.ee
+16cc
+8cc
+8cc
+=4
+8ee
+4.gg}
+!!LO:LB:g=esac
+=5
+{8.dd
+16b
+8b
+8b
+=6
+8g
+4.ee
+=7
+8cc
+8a
+8a
+8f#
+=8
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=395 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 337} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 337}
+!!!page: 337
+!!!ONB: Converted on 2024/12/26 with esac2hum

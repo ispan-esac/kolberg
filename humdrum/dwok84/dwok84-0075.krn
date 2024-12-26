@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK8407500000-sim_den_molotyla.krn
+!!!OTL: Sim deń mołotyła
+!!!source: DWOK84
+!!!id: 84075
+!!!signature: 8407500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+4dd
+=2
+8gg
+8gg
+8ff#
+8ee
+=3
+4ee
+4ee
+=4
+8gg
+8gg
+8ff#
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc#
+8dd
+=6
+32ee
+16.dd
+32cc#
+16.dd
+8ee
+8dd
+=7
+8dd
+8cc
+8a
+8f#
+=8
+8g
+8g
+8ee
+8dd}
+!!LO:LB:g=esac
+=9
+{4dd
+4dd
+=10
+8gg
+8gg
+8ff#
+8ee
+=11
+4ee
+4ee
+=12
+8gg
+8gg
+8ff#
+8ee}
+!!LO:LB:g=esac
+=13
+{8dd
+8dd
+8cc#
+8dd
+=14
+32ee
+16.dd
+32cc#
+16.dd
+8ee
+8dd
+=15
+8dd
+8cc
+8a
+8f#
+=16
+8g
+8g
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 96} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

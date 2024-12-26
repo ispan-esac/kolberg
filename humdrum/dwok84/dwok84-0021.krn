@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK8402100000-de_my_teper_podinem_sia.krn
+!!!OTL: De my teper podinem sia
+!!!source: DWOK84
+!!!id: 84021
+!!!signature: 8402100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16ee
+8ee
+8ee
+=2
+8ee
+8dd
+8cc
+=3
+4b
+8a
+=4
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=5
+{16cc
+16ee
+8ee
+8ee
+=6
+8ee
+8dd
+8cc
+=7
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=8
+{8cc
+8ee
+8ee
+=9
+8dd
+4cc
+=10
+8b
+4a}
+!!LO:LB:g=esac
+=11
+{8dd
+8dd
+8cc
+=12
+8b
+4a
+=13
+4.b
+=14
+4.a}
+==
+*-
+!!!ONB: Wariant t. 2 i 6: 5_1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 58} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

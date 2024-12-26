@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1226500010-a_latajze_ptaszku.krn
+!!!OTL: A latajże ptaszku
+!!!source: DWOK12
+!!!id: 12265
+!!!signature: 1226500010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16.ee
+32ee
+8dd#
+8ee
+=2
+8gg
+4ff
+=3
+16dd
+16dd
+8cc#
+8dd
+=4
+8ff
+4ee}
+!!LO:LB:g=esac
+=5
+{16cc
+16cc
+8b
+8cc
+=6
+16ee
+16dd
+8.a
+16cc
+=7
+16b
+16g
+16f#
+16g
+16a
+16b
+=8
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=156 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 140} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 140}
+!!!page: 140
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK4908700001-boh_predwicznoj_narodyl_sia.krn
+!!!OTL: Boh predwicznoj narodył sia
+!!!source: DWOK49
+!!!id: 49087
+!!!signature: 4908700001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4.cc
+8dd
+8b
+8g
+=2
+4.cc
+8dd
+16ff
+16ee
+8ee}
+!!LO:LB:g=esac
+=3
+{8cc
+16dd
+16ee
+4.ff
+8ee
+=4
+8dd
+8cc
+8dd
+8ee
+4b}
+!!LO:LB:g=esac
+=5
+{8dd
+8gg
+4dd
+16b
+16a
+8g
+=6
+8ff
+8ee
+8dd
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 175} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 175}
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

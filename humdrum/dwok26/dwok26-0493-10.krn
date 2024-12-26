@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2649300010-oj_sama_ja_se_sama.krn
+!!!OTL: Oj sama ja se sama
+!!!source: DWOK26
+!!!id: 26493
+!!!signature: 2649300010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+8dd
+8ff
+=2
+16ee
+16ee
+8ff
+8dd
+=3
+16ee
+16ee
+8dd
+8b
+=4
+8cc
+4g}
+!!LO:LB:g=esac
+=5
+{8f
+8g
+8b
+=6
+16.cc
+32ee
+8ff
+8ff
+=7
+16ee
+16ee
+8dd
+8b
+=8
+8cc
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 320
+!!!ONB: Converted on 2024/12/26 with esac2hum

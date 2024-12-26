@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK3333700000-dajze_boze_dobry_czas.krn
+!!!OTL: Dajże Boże dobry czas
+!!!source: DWOK33
+!!!id: 33337
+!!!signature: 3333700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4b
+4dd
+4dd
+4dd
+=2
+8g
+8b
+4a
+8g
+8b
+4a}
+!!LO:LB:g=esac
+=3
+{4g
+4dd
+4dd
+4b
+=4
+8g
+8b
+8a
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=367 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 325} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 325}
+!!!page: 325
+!!!ONB: Converted on 2024/12/26 with esac2hum

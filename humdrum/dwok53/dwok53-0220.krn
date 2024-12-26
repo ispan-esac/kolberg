@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK5322000000-o_as_palauziau_uosiu_ziogruzeli.krn
+!!!OTL: O! As pałauziau uosiu ziogrużeli
+!!!source: DWOK53
+!!!id: 53220
+!!!signature: 5322000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4dd
+4dd
+=2
+4b
+4cc
+=3
+2dd}
+!!LO:LB:g=esac
+=4
+{4ee
+4dd
+=5
+4b
+4dd
+=6
+4cc
+4b}
+!!LO:LB:g=esac
+=7
+{4dd
+4dd
+=8
+4b
+4cc
+=9
+2dd}
+!!LO:LB:g=esac
+=10
+{4ee
+4dd
+=11
+4b
+4dd
+=12
+4cc
+4b}
+!!LO:LB:g=esac
+=13
+{4a
+4a
+=14
+4cc
+4b
+=15
+4.g
+8dd
+=16
+4cc
+4b}
+!!LO:LB:g=esac
+=17
+{4a
+4a
+=18
+4cc
+4b
+=19
+4g
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=367 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 327} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 327}
+!!!page: 327
+!!!ONB: Converted on 2024/12/26 with esac2hum

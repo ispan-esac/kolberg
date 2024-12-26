@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK3113800000-hej_pidu_ja_na_jarmarok.krn
+!!!OTL: Hej pidu ja na jarmarok
+!!!source: DWOK31
+!!!id: 31138
+!!!signature: 3113800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8ee
+8ee
+=2
+8dd
+8dd
+8dd
+16a
+16cc
+=3
+8dd
+8dd
+8ee
+16ee
+16dd
+=4
+8dd
+8cc
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc
+8cc
+=6
+8a
+8a
+8a
+8g
+=7
+8a
+8cc
+8cc
+8cc
+=8
+8a
+8a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 22} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 22}
+!!!page: 22
+!!!ONB: Converted on 2024/12/26 with esac2hum

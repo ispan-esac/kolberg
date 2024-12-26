@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK7788100020-instrumentalne.pasterska.krn
+!!!OTL: Instrumentalne.Pasterska
+!!!source: DWOK77
+!!!id: 778812
+!!!signature: 7788100020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8cc
+8a
+4f
+8a
+8cc
+=
+12c
+12e
+12g
+4a
+4f
+=2
+8a
+8cc
+4b-
+8g
+8e
+=
+12c
+12e
+12g
+4a
+4g}
+!!LO:LB:g=esac
+=3
+{8cc
+8a
+4f
+8a
+8cc
+=
+12c
+12e
+12g
+4a
+4f
+=4
+8a
+8cc
+4b-
+8g
+8e
+=
+12c
+12e
+12g
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

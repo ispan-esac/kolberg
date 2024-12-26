@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK2202800000-boze_kocham_cie.krn
+!!!OTL: Boże kocham Cię
+!!!source: DWOK22
+!!!id: 22028
+!!!signature: 2202800000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4.a
+8b
+8cc
+8dd
+8b
+8r
+=2
+4.a
+8b
+8cc
+8dd
+8b}
+8r
+!!LO:LB:g=esac
+=3
+{4.ee
+8dd
+4ee
+4cc
+=4
+4cc
+8a
+8g#
+4a}
+4r
+!!LO:LB:g=esac
+=5
+{4.ee
+8ff#
+4gg
+8ee
+8r
+=6
+4.dd
+8b
+4dd
+8b}
+8r
+!!LO:LB:g=esac
+=7
+{4.ee
+8ff#
+8gg
+8ff#
+8ee
+8r
+=8
+4.dd
+8b
+8dd
+8cc
+8b}
+8r
+!!LO:LB:g=esac
+=9
+{4.ee
+8dd
+4cc
+8a
+8r
+=10
+4g#
+4b
+4g#
+8e}
+8r
+!!LO:LB:g=esac
+=11
+{4.ee
+8dd
+8cc
+8b
+8a
+8r
+=12
+8g#
+8a
+4b
+4g#
+8e}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 34} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 34}
+!!!page: 34
+!!!ONB: Converted on 2024/12/26 with esac2hum

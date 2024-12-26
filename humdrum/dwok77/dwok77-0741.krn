@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7774100000-poszly_panny_na_zoledzie.krn
+!!!OTL: Poszły panny na żołędzie
+!!!source: DWOK77
+!!!id: 77741
+!!!signature: 7774100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8ee
+8ee
+8ee
+8ee
+=2
+8ee
+8dd
+8gg
+8ff}
+!!LO:LB:g=esac
+=3
+{8ee
+8ee
+8ee
+8ee
+=4
+8ee
+8dd
+8gg
+8ff}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8dd
+8dd
+=6
+8cc
+8cc
+8b
+8dd}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8a
+8cc
+=8
+8a
+8a
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 370
+!!!ONB: Converted on 2024/12/26 with esac2hum

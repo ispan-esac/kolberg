@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0388-pasla_pasterecka.krn
+!!!OTL: Pasla pasterecka
+!!!source: DWOK06
+!!!id: K0388
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.g
+16g
+8g
+8b
+8a
+8g
+=2
+8f#
+8a
+8cc
+8ee
+8dd
+8a}
+!!LO:LB:g=esac
+=3
+{8g
+8b
+4dd
+4a
+=4
+8cc
+8cc
+2b
+=5
+8g
+8b
+4dd
+4a
+=6
+32b
+16.cc
+32dd
+16.cc
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 203-204} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 203-204}
+!!!page: 203-204
+!!!ONB: Converted on 2024/12/26 with esac2hum

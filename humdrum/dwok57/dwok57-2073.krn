@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK57207300000-juz_ptaszki_nuca_swe_lube_pienia.krn
+!!!OTL: Już ptaszki nucą swe lube pienia
+!!!source: DWOK57
+!!!id: 572073
+!!!signature: 57207300000
+**kern
+*clefG2
+*k[b-]
+*F:
+=1
+*M6/8
+{8cc
+8b
+8cc
+8dd
+4cc
+=2
+8cc
+8.b-
+16g
+8b-
+4a
+=3
+8ff
+8ee
+8dd
+8cc
+8b-
+8e
+=4
+*M3/8
+8g
+4f}
+!!LO:LB:g=esac
+=5
+*M6/8
+{8cc
+8b
+8cc
+8dd
+4cc
+=6
+8cc
+8.b-
+16g
+8b-
+4a
+=7
+8ff
+8ee
+8dd
+8cc
+8b-
+8e
+=8
+*M3/8
+8g
+4f}
+!!LO:LB:g=esac
+=9
+*M6/8
+{16cc
+16cc
+8b
+8cc
+16dd
+16cc
+4ff
+=10
+16cc
+16cc
+8b-
+8g
+8b-
+4a
+=11
+8ff
+8ee
+8dd
+8cc
+8b-
+8e
+=12
+8g
+4f}
+4.r
+==
+*-
+!!!ONB: Wariant t. 9: 554#_5_65+1765
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1135
+!!!ONB: Converted on 2024/12/26 with esac2hum

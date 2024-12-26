@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK35B-35B00300002-hej_zjichaly_sie_zolnire_z_obozu.krn
+!!!OTL: Hej zjichały się żółnire z obozu
+!!!source: DWOK35B
+!!!id: 35B003
+!!!signature: 35B00300002
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+8b
+8dd
+4cc
+4g
+=2
+16a
+16g
+16a
+16b
+8cc
+8a
+8a
+8g
+4g}
+!!LO:LB:g=esac
+=3
+{4cc
+8dd
+16dd
+16ff
+8ee
+8dd
+4cc
+=4
+16dd
+16cc
+16dd
+16ee
+8ff
+8dd
+8.dd
+16dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=171 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 129} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 129}
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

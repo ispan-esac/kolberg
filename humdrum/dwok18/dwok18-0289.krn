@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK1828900000-kapala_sie_kasia_w_morzu.krn
+!!!OTL: Kąpała się Kasia w morzu
+!!!source: DWOK18
+!!!id: 18289
+!!!signature: 1828900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16c
+16f
+8a
+8a
+=2
+4g
+8e
+=3
+8g
+4f
+=4
+16f
+16a
+8cc
+8cc
+=5
+4dd
+8b-
+=6
+8dd
+4cc}
+!!LO:LB:g=esac
+=7
+{16ff
+16cc
+8a
+8a
+=8
+4g
+8b-
+=9
+8dd
+4cc
+=10
+16ff
+16cc
+8a
+8a
+=11
+4b-
+8g
+=12
+8g
+4f}
+!!LO:LB:g=esac
+=13
+{16f
+16a
+8cc
+8cc
+=14
+4b-
+8g
+=15
+8g
+4f
+=16
+16f
+16a
+8cc
+8cc
+=17
+4dd
+8b-
+=18
+8dd
+4cc}
+!!LO:LB:g=esac
+=19
+{16ff
+16ff
+8a
+8a
+=20
+4g
+8b-
+=21
+8dd
+4cc
+=22
+16ff
+16ff
+8a
+8a
+=23
+4b-
+8e
+=24
+8g
+4f}
+==
+*-
+!!!ONB: Weselna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 165} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 165}
+!!!page: 165
+!!!ONB: Converted on 2024/12/26 with esac2hum

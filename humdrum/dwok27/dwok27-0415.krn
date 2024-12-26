@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK2741500000-nasa_marysia_robotna.krn
+!!!OTL: Nasa Marysia robotna
+!!!source: DWOK27
+!!!id: 27415
+!!!signature: 2741500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+8dd
+4dd
+=3
+8ee
+8dd
+8dd
+=4
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8cc
+=6
+8cc
+4cc
+=7
+8ee
+8dd
+8dd
+=8
+8b
+4g}
+!!LO:LB:g=esac
+=9
+{8b
+8g
+8g
+=10
+8g
+4g
+=11
+8f#
+8a
+8a
+=12
+8a
+4a}
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+8cc
+=14
+8cc
+4cc
+=15
+8dd
+8a
+8a
+=16
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=373 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 354} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 354}
+!!!page: 354
+!!!ONB: Converted on 2024/12/26 with esac2hum

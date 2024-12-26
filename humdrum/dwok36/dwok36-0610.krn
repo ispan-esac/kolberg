@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK3661000000-sama_ja_sama.krn
+!!!OTL: Sama ja sama
+!!!source: DWOK36
+!!!id: 36610
+!!!signature: 3661000000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8dd
+8ee
+8dd
+16cc#
+16b
+=2
+4a
+8cc#
+8ee
+=3
+8dd
+8dd
+8dd
+16cc#
+16b
+=4
+4a
+8dd
+8f#}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+16a
+16g
+=6
+8f#
+8d
+8g
+8a
+=7
+8b
+8a
+16g
+16f#
+8d
+=8
+4d
+4d}
+!!LO:LB:g=esac
+=9
+{8g
+8a
+8b
+16a
+16g
+=10
+8f#
+8d
+8f#
+8g
+=11
+8b
+16a
+16b
+16g
+16f#
+8d
+=12
+4d
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 402
+!!!ONB: Converted on 2024/12/26 with esac2hum

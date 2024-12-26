@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK7730300000-prosil_bandos_bandoski.krn
+!!!OTL: Prosił bandos bandoski
+!!!source: DWOK77
+!!!id: 77303
+!!!signature: 7730300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+4dd
+4b
+=2
+2dd
+4ee
+=3
+4dd}
+4r
+4r
+!!LO:LB:g=esac
+=4
+{8b
+8cc
+4dd
+4b
+=5
+2dd
+4a
+=6
+4g}
+4r
+4r
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+4g
+4a
+=8
+2g
+4b
+=9
+2.dd}
+!!LO:LB:g=esac
+=10
+{8d
+8f#
+4g
+4a
+=11
+2g
+4a
+=12
+4g}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

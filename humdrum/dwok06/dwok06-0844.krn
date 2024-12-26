@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK0684400000-a_lasecek_lasecek.krn
+!!!OTL: A lasecek lasecek
+!!!source: DWOK06
+!!!id: K0844
+!!!signature: 0684400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8cc
+=2
+8cc
+8dd
+8cc
+=3
+16cc
+16cc
+8a
+8cc
+=4
+8g
+8e
+8f}
+!!LO:LB:g=esac
+=5
+{16f
+16g
+8a
+8a
+=6
+8cc
+8cc
+8b-
+=7
+16g
+16f
+8a
+8cc
+=8
+8g
+8e
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=525 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 499} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 499}
+!!!page: 499
+!!!ONB: Converted on 2024/12/26 with esac2hum

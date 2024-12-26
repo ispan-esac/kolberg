@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK2821000000-o_pamietaj_dziewcyno.krn
+!!!OTL: O pamiętaj dziewcyno
+!!!source: DWOK28
+!!!id: 28210
+!!!signature: 2821000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.b
+32dd
+8dd
+8ff#
+=2
+32ee
+16.cc
+4a
+=3
+16.a
+32cc
+8dd
+8b
+=4
+4g}
+8r
+!!LO:LB:g=esac
+=5
+{16.b
+32dd
+8dd
+8ff#
+=6
+32ee
+16.cc
+4a
+=7
+16.a
+32cc
+8dd
+8b
+=8
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{16f#
+16g
+8a
+8f#
+=10
+8g
+8b
+8g
+=
+16f#
+16g
+24a
+24b
+24a
+8f#
+=11
+8g
+8b
+8cc}
+!!LO:LB:g=esac
+=12
+{16.a
+32cc
+8dd
+8b
+=13
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=257 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 238} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 238}
+!!!page: 238
+!!!ONB: Converted on 2024/12/26 with esac2hum

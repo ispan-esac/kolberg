@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK3302600000-dzis_ludu_maryjanski_stworcy_obietnice.krn
+!!!OTL: Dziś ludu Maryjański Stwórcy obietnice
+!!!source: DWOK33
+!!!id: 33026
+!!!signature: 3302600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4g
+4g
+=2
+8f#
+8g
+4a
+4g
+=3
+8g
+8b
+4.b
+8a
+=4
+4a
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{4g
+4g
+4g
+=6
+8f#
+8g
+4a
+4g
+=7
+8g
+8b
+4.b
+8a
+=8
+4a
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{8d
+8cc
+4cc
+8cc
+8b
+=10
+8b
+8a
+2a
+=11
+8d
+8cc
+4.cc
+8b
+=12
+8b
+8a
+4a}
+4r
+!!LO:LB:g=esac
+=13
+{8g
+8g
+8b
+8cc
+8b
+8a
+=14
+8g
+8f#
+2f#
+=15
+8f#
+8a
+4.cc
+8f#
+=16
+4a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=203 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 161-162} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, pp. 161-162}
+!!!page: 161-162
+!!!ONB: Converted on 2024/12/26 with esac2hum

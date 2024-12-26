@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK5616300002-czom_czom_mylenskij.krn
+!!!OTL: Czom, czom myłeńskij
+!!!source: DWOK56
+!!!id: 56163
+!!!signature: 5616300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4b
+8b
+8cc
+=2
+4b
+8a
+8g
+=3
+4b
+8b
+8cc
+=4
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8dd
+=6
+4b
+8a
+8f#
+=7
+4g
+8b
+8g}
+!!LO:LB:g=esac
+=8
+{8b
+8b
+8b
+8cc
+=9
+4b
+8a
+8f#
+=10
+4g
+4g}
+!!LO:LB:g=esac
+=11
+{8b
+8b
+8b
+8cc
+=12
+8b
+8b
+8a
+8g
+=13
+8b
+8b
+8b
+8cc
+=14
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=15
+{8a
+8a
+8a
+8dd
+=16
+4b
+4a
+=17
+4g
+8b
+8g}
+!!LO:LB:g=esac
+=18
+{8b
+8b
+8b
+8cc
+=19
+4b
+4a
+=20
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=286 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 182} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 182}
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

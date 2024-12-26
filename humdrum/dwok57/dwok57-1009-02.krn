@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK57100900002-w_zielonym_gaiku.krn
+!!!OTL: W zielonym gaiku
+!!!source: DWOK57
+!!!id: 571009
+!!!signature: 57100900002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+4ee
+=2
+8ff
+4ff
+8ff
+=3
+8ff
+8ee
+4dd
+=4
+8cc
+4ee
+8ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+4cc
+=6
+8b
+4dd
+8cc
+=7
+8b
+16b
+16a
+4a
+=8
+16a
+16b
+4cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 191
+!!!ONB: Converted on 2024/12/26 with esac2hum

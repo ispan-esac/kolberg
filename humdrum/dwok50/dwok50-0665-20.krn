@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK5066500020-instrumentalna_-_sztorcowka.krn
+!!!OTL: Instrumentalna - Sztorcówka
+!!!source: DWOK50
+!!!id: 50665
+!!!signature: 5066500020
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16ff#
+16gg
+8.aa
+16aa
+=2
+16bb
+16ff#
+8.gg
+16ff#
+=3
+16ee
+16ff#
+16gg
+16aa
+16bb
+16ccc#
+=4
+16ddd
+16ddd
+8ddd
+8ddd}
+!!LO:LB:g=esac
+=5
+{16ff#
+16gg
+8.aa
+16aa
+=6
+16bb
+16ff#
+8.gg
+16ff#
+=7
+16ee
+16ff#
+16gg
+16bb
+16aa
+16cc#
+=8
+8dd
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=437 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 404} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 404}
+!!!page: 404
+!!!ONB: Converted on 2024/12/26 with esac2hum

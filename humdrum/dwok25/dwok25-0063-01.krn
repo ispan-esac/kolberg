@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK2506300001-jaworowe_kolka.krn
+!!!OTL: Jaworowe kółka
+!!!source: DWOK25
+!!!id: 25063
+!!!signature: 2506300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+8cc
+8ee
+=2
+8dd
+4g
+=3
+16a
+16a
+8cc
+8a
+=4
+8g
+8g}
+8r
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8cc
+8ee
+=6
+8dd
+4g
+=7
+16a
+16a
+8cc
+8a
+=8
+8g
+8d}
+8r
+!!LO:LB:g=esac
+=9
+{16a
+16a
+8.cc
+16a
+=10
+16g
+16g
+4b
+=11
+16a
+16b
+16cc
+16a
+16f#
+16d
+=12
+8g
+8b
+8dd}
+!!LO:LB:g=esac
+=13
+{16.a
+32a
+16cc
+16a
+16f#
+16d
+=14
+4g}
+8r
+==
+*-
+!!!ONB: Wariant w takcie siódmym zapisu 2_3_4_2_-7_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=48 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 23-24} @EN{Oskar Kolberg Complete Works 25: Mazovia II, pp. 23-24}
+!!!page: 23-24
+!!!ONB: Converted on 2024/12/26 with esac2hum

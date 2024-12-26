@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1641600000-juz_mi_minelo_szesnascie_latek.krn
+!!!OTL: Już mi minęło szesnaście latek
+!!!source: DWOK16
+!!!id: 16416
+!!!signature: 1641600000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8e
+8a
+8a
+=2
+8cc#
+4b
+=3
+8g#
+8b
+8dd
+=4
+8dd
+4cc#
+=5
+16e
+16g#
+8a
+8a
+=6
+8cc#
+4b
+=7
+16e
+16g#
+8b
+8dd
+=8
+8dd
+4cc#}
+!!LO:LB:g=esac
+=9
+{16cc#
+16e
+8a
+8a
+=10
+16cc#
+16e
+8a
+8a
+=11
+16b
+16cc#
+4dd
+=12
+16b
+16cc#
+8dd
+8b
+=13
+16ee
+16cc#
+8a
+8cc#
+=14
+16b
+16g#
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 260} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 260}
+!!!ONB: Converted on 2024/12/26 with esac2hum

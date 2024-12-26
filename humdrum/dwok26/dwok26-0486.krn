@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2648600000-oj_lata_moje_lata.krn
+!!!OTL: Oj lata moje lata
+!!!source: DWOK26
+!!!id: 26486
+!!!signature: 2648600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8ff#
+8gg
+=2
+16ff#
+16dd
+8ff#
+8gg
+=3
+16ff#
+16dd
+8cc
+16cc
+16a
+=4
+16cc
+16ee
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+16b
+16g
+=6
+16b
+16dd
+8ff#
+8gg
+=7
+16ff#
+16dd
+8cc
+16cc
+16a
+=8
+16cc
+16ee
+8dd
+8g}
+==
+*-
+!!!ONB: P. sobótkowa
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 318
+!!!ONB: Converted on 2024/12/26 with esac2hum

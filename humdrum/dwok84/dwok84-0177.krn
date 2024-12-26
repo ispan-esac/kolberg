@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK8417700000-oj_ponad_morem_ponad_hlybokim.krn
+!!!OTL: Oj, ponad morem, ponad hłybokim
+!!!source: DWOK84
+!!!id: 84177
+!!!signature: 8417700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+8dd
+8a
+4cc
+=2
+8a
+8cc
+8dd
+8a
+4cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8ee
+8ff
+8dd
+4ee
+=4
+8a
+8cc
+8dd
+8cc
+4a}
+==
+*-
+!!!ONB: Wariant t. 4: 1143b1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 172} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 172}
+!!!page: 172
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK5323100000-o_koks_cudas.krn
+!!!OTL: O! koks cudas!
+!!!source: DWOK53
+!!!id: 53231
+!!!signature: 5323100000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4.ee
+8ff
+4ee
+4dd
+=2
+4ee
+4dd
+4cc
+4b}
+!!LO:LB:g=esac
+=3
+{4ee
+4dd
+4cc
+4b
+=4
+2b
+2a}
+!!LO:LB:g=esac
+=5
+{4dd
+4dd
+4ff
+4dd
+=6
+4cc
+4ee
+4ee
+4dd}
+!!LO:LB:g=esac
+=7
+{4cc
+4dd
+4ee
+4ee
+=8
+2ee
+2dd}
+!!LO:LB:g=esac
+=9
+{4dd
+4dd
+4ff
+4dd
+=10
+4cc
+4ee
+4ee
+4dd}
+!!LO:LB:g=esac
+=11
+{4cc
+4dd
+4ee
+4ee
+=12
+2ee
+2dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=371 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 331} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 331}
+!!!page: 331
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK06-K0408-sluzylem_u_pana_na_pierwsze_lato.krn
+!!!OTL: Sluzylem u pana na pierwsze lato
+!!!source: DWOK06
+!!!id: K0408
+!!!signature:
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M2/4
+=1
+{8cc
+8b
+8cc
+8dd
+=2
+4ee-
+4dd
+=3
+4cc
+8cc
+8dd
+=4
+4b
+8g}
+8r
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8cc
+8dd
+=6
+4ee-
+4dd
+=7
+4cc
+8cc
+8dd
+=8
+4b
+8g}
+8r
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8b
+8b
+=10
+8cc
+8cc
+8b
+8b
+=11
+8cc
+8cc
+4dd
+=12
+8ee-
+8ee-
+4dd
+=13
+8cc
+8cc
+4dd
+=14
+8cc
+8cc
+4b}
+!!LO:LB:g=esac
+=15
+{4ee-
+4gg
+=16
+8ff
+8ee-
+8dd
+8ee-
+=17
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=239 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 213} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 213}
+!!!page: 213
+!!!ONB: Converted on 2024/12/26 with esac2hum

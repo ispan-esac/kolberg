@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK8370400000-litosc_miej_blagam_cie.krn
+!!!OTL: Litość miej, błagam cię
+!!!source: DWOK83
+!!!id: 83704
+!!!signature: 8370400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8c
+4f
+=2
+8a
+8c
+4f
+=3
+8e
+8g
+8b-
+8dd
+=4
+8cc
+8e
+4f}
+!!LO:LB:g=esac
+=5
+{8a
+8c
+4f
+=6
+8a
+8c
+4f
+=7
+8e
+8g
+8b-
+8dd
+=8
+8cc
+8e
+4f}
+!!LO:LB:g=esac
+=9
+{8a
+8g
+8g
+8d
+=10
+2g
+=11
+8a
+8g
+8g
+8d
+=12
+2g}
+!!LO:LB:g=esac
+=13
+{8g
+8cc
+8g
+8g
+=14
+2g
+=15
+8e
+8cc
+8g
+8g
+=16
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 65} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 65}
+!!!page: 65
+!!!ONB: Converted on 2024/12/26 with esac2hum

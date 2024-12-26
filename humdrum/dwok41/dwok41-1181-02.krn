@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK41118100002-a_w_niedziele_po_ranu.krn
+!!!OTL: A w niedziele po ranu
+!!!source: DWOK41
+!!!id: 411181
+!!!signature: 41118100002
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{8a
+8a
+8ee
+8ee
+=2
+8ee
+8dd
+4cc}
+!!LO:LB:g=esac
+=3
+{8ee
+8dd
+8ee
+8cc
+=4
+8a
+8a
+4g
+=5
+*M3/4
+4cc
+8dd
+8cc
+4ee}
+!!LO:LB:g=esac
+=6
+*M2/4
+{8ee
+8dd
+8ee
+8cc
+=7
+8a
+8cc
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=598 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 511} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 511}
+!!!page: 511
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1939700000-oj_rola_moja_rola.krn
+!!!OTL: Oj rola moja rola
+!!!source: DWOK19
+!!!id: 19397
+!!!signature: 1939700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8ff#
+=2
+16dd
+16b
+8a
+8g#
+=3
+16a
+16cc
+8b
+8dd
+=4
+8cc
+4ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ff#
+=6
+16dd
+16b
+8a
+16g#
+16e
+=7
+16a
+16cc
+8b
+8dd
+=8
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=135 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 121} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 121}
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

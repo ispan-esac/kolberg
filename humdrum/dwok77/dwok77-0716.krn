@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7771600000-oj_trzewicek_bucicek.krn
+!!!OTL: Oj trzewicek bucicek
+!!!source: DWOK77
+!!!id: 77716
+!!!signature: 7771600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8b
+8cc
+8ee
+=2
+16dd
+16ff
+8gg
+8gg
+=3
+8ff
+8gg
+8gg
+=4
+16dd
+16dd
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8ee
+=6
+16dd
+16dd
+8cc
+8ee
+=7
+8ff
+8cc
+8ee
+=8
+16dd
+16dd
+8cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 359
+!!!ONB: Converted on 2024/12/26 with esac2hum

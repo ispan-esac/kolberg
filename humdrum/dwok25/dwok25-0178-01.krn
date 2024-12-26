@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2517800001-i_wyjechal_pan_starosta_z_chartem_na_zajace.krn
+!!!OTL: I wyjechał pan starosta z chartem na zające
+!!!source: DWOK25
+!!!id: 25178
+!!!signature: 2517800001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8cc
+8ee
+8dd#
+8ee
+=2
+8b
+8cc
+8a
+8a
+=3
+8b
+8dd
+8dd
+8ee
+=4
+4b
+4ee}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8a
+8f#
+=6
+8g
+8a
+8b
+8dd
+=7
+8b
+8cc
+8a
+8a
+=8
+4e
+4g}
+!!LO:LB:g=esac
+=9
+{8cc
+8b
+8a
+8f#
+=10
+8g
+8a
+8b
+8dd
+=11
+8b
+8cc
+8a
+8a
+=12
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 77} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 77}
+!!!page: 77
+!!!ONB: Converted on 2024/12/26 with esac2hum

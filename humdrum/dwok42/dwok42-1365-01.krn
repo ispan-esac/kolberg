@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK42136500001-przy_onej_gorze_stoi_pan_stary.krn
+!!!OTL: Przy onej górze stoi pan stary
+!!!source: DWOK42
+!!!id: 421365
+!!!signature: 42136500001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{8f
+8f
+8a
+8b-
+2cc
+=2
+8cc
+8ff
+8ee
+8dd
+2cc
+=3
+8cc
+8ff
+8ee
+8dd
+2cc
+=4
+4b-
+8.b-
+16g
+8a
+8a
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{4g
+8g
+8e
+8f
+8f
+8a
+8cc
+=6
+8g
+8g
+8.b-
+16a
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=24 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 15} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 15}
+!!!page: 15
+!!!ONB: Converted on 2024/12/26 with esac2hum

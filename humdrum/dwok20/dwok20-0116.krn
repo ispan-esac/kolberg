@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2011600000-da_plakala_ja_wcora.krn
+!!!OTL: Da płakała ja wcora
+!!!source: DWOK20
+!!!id: 20116
+!!!signature: 2011600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+8b-
+8dd
+=2
+16cc
+16a
+8g
+8e
+=3
+8f
+8g
+8e
+=4
+16d
+16f
+8g
+8e}
+!!LO:LB:g=esac
+=5
+{8f
+8g
+16a
+16b-
+=6
+16cc
+16a
+8g
+8e
+=7
+8f
+8g
+8a
+=8
+16d
+16f
+8g
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 152} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 152}
+!!!page: 152
+!!!ONB: Converted on 2024/12/26 with esac2hum

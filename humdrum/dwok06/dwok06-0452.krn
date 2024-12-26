@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK06-K0452-z_dalekiejsmy_krainy.krn
+!!!OTL: Z dalekiejsmy krainy
+!!!source: DWOK06
+!!!id: K0452
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4g
+4b
+4cc
+=2
+4dd
+4dd
+4cc
+4a}
+!!LO:LB:g=esac
+=3
+{4.dd
+8ee
+8dd
+8g
+4g
+=4
+4a
+4b
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{4g
+4g
+4b
+4cc
+=6
+4dd
+4dd
+4cc
+4a}
+!!LO:LB:g=esac
+=7
+{4.dd
+8ee
+8dd
+8g
+4g
+=8
+4a
+4b
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=268 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 242} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

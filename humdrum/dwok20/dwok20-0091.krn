@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK2009100000-nimaz_ci_to_ni_ma_jak_ja_parobecek.krn
+!!!OTL: Nimaż ci to ni ma jak ja parobecek
+!!!source: DWOK20
+!!!id: 20091
+!!!signature: 2009100000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/8
+{16b
+16dd
+8dd
+8a
+=2
+8cc#
+4dd
+=3
+*M2/4
+8b
+8dd
+8dd
+8a
+=4
+*M3/8
+8cc#
+4dd}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8dd
+8cc
+=6
+8cc
+4b
+=7
+16a
+16a
+8f#
+8g
+=8
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{16b
+16dd
+8dd
+8cc
+=10
+8cc
+8b
+8b
+=11
+16a
+16a
+8f#
+8g
+=12
+16a
+16b
+4g}
+==
+*-
+!!!ONB: Kolberg sugeruje zapis melodii na 3/8 lub na 2/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=163 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 143} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 143}
+!!!page: 143
+!!!ONB: Converted on 2024/12/26 with esac2hum

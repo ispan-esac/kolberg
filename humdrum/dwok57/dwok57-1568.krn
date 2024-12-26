@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK57156800000-pojade_ja_pojade_ja_z_rana_do_lasu.krn
+!!!OTL: Pójadę ja, pójadę ja z rana do lasu
+!!!source: DWOK57
+!!!id: 571568
+!!!signature: 57156800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+16g
+16a
+8b-
+8g
+=2
+8f
+16g
+16a
+8b-
+8g
+=3
+8b-
+8dd
+8dd
+8dd
+=4
+2cc}
+!!LO:LB:g=esac
+=5
+{8cc
+16dd
+16ee
+4ff
+=6
+8cc
+8dd
+8cc
+8b-
+=7
+16a
+16g
+8a
+8b-
+8g
+=8
+2f}
+==
+*-
+!!!ONB: Wariant t. 2: 1_3_4_2_; wariant t. 7: 323_4_2-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 612
+!!!ONB: Converted on 2024/12/26 with esac2hum

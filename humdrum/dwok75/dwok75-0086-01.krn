@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7508600001-oj_pamietaj_dziewcyno.krn
+!!!OTL: Oj, pamiętaj, dziewcyno
+!!!source: DWOK75
+!!!id: 75086
+!!!signature: 7508600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4a
+4a
+4a
+=2
+8a
+8cc#
+4dd
+4ee
+=3
+8ee
+8dd
+4cc
+4b
+=4
+4a
+2e}
+!!LO:LB:g=esac
+=5
+{8a
+8f#
+4g
+4a
+=6
+8b
+8cc
+4.dd
+8g
+=7
+8cc
+8b
+4g
+4b
+=8
+8a
+8f#
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 59} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 59}
+!!!page: 59
+!!!ONB: Converted on 2024/12/26 with esac2hum

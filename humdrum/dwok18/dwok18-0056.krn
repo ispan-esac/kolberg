@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1805600000-a_dowijaj_rozecki.krn
+!!!OTL: A dowijaj różecki
+!!!source: DWOK18
+!!!id: 18056
+!!!signature: 1805600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+8cc
+8b
+=2
+8a
+4dd
+8a
+=3
+8dd
+8dd
+8cc
+8a
+=4
+8b
+4cc
+8b}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8cc
+8b
+=6
+8a
+4dd
+8a
+=7
+8a
+8b
+8cc
+8b
+=8
+8a
+4b
+8g}
+==
+*-
+!!!ONB: Przy wiciu różczki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=96 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 80} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

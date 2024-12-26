@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4118800001-oj_tam_komar_z_debu_spad.krn
+!!!OTL: Oj, tam komar z dębu spad
+!!!source: DWOK41
+!!!id: 41188
+!!!signature: 4118800001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8cc
+8cc
+=2
+8cc
+8ee
+4cc}
+!!LO:LB:g=esac
+=3
+{8b
+8cc
+8dd
+8cc
+=4
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+=6
+8dd
+8b
+8cc
+8g
+=7
+4cc
+4ee
+=8
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 121} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 121}
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

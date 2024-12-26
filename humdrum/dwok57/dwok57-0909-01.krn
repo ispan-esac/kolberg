@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK5790900001-wyszla_pora_wyjezdzaty.krn
+!!!OTL: Wyszła pora wyjeżdżaty
+!!!source: DWOK57
+!!!id: 57909
+!!!signature: 5790900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4.dd
+8b
+8cc
+8ee
+=2
+8dd
+8cc
+4cc
+4b}
+!!LO:LB:g=esac
+=3
+{4.ee
+8ee
+8ee
+8ee
+=4
+8gg
+8ff#
+4ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff#
+4aa
+4cc
+=6
+8b
+8dd
+4gg
+4ff#}
+!!LO:LB:g=esac
+=7
+{4.a
+8a
+8ee
+8ee
+=8
+8dd
+8f#
+4a
+4g}
+!!LO:LB:g=esac
+=9
+{8dd
+8ff#
+4aa
+4cc
+=10
+8b
+8dd
+4gg
+4ff#}
+!!LO:LB:g=esac
+=11
+{4.a
+8a
+8ee
+8ee
+=12
+8dd
+8f#
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

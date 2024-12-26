@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2903600000-o_wasylu_wasylczyku.krn
+!!!OTL: O Wasylu Wasylczyku
+!!!source: DWOK29
+!!!id: 29036
+!!!signature: 2903600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4d
+4b
+4.a
+8g
+=2
+8b
+8dd
+4dd
+16dd
+16cc
+16b
+16a
+4a}
+!!LO:LB:g=esac
+=3
+{8d
+8d
+4b
+4.a
+8dd
+=4
+16cc
+16b
+16a
+16f#
+[4g
+4g]
+4g}
+!!LO:LB:g=esac
+=5
+{4d
+4b
+4.a
+8g
+=6
+4b
+4dd
+4dd
+4a}
+!!LO:LB:g=esac
+=7
+{8d
+8d
+4b
+4.a
+8dd
+=8
+8cc
+8a
+[4g
+4g]
+4g}
+==
+*-
+!!!ONB: Chłopcy śpiewają na Melankę
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=157 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 125} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 125}
+!!!page: 125
+!!!ONB: Converted on 2024/12/26 with esac2hum

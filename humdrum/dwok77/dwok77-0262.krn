@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK7726200000-oj_otworz_kasiu_okno.krn
+!!!OTL: Oj otwórz Kasiu okno
+!!!source: DWOK77
+!!!id: 77262
+!!!signature: 7726200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+8ff
+16ff
+16dd
+=2
+16ee
+16ee
+8ff
+16ff
+16dd}
+!!LO:LB:g=esac
+=3
+{8ee
+8ff
+16ff
+16ee
+=4
+16ee
+16dd
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8cc
+=6
+16dd
+16ee
+8b
+8cc}
+!!LO:LB:g=esac
+=7
+{8dd
+8ff
+16ff
+16ee
+=8
+16dd
+16ee
+8b
+8cc}
+==
+*-
+!!!ONB: W t. 1-2 warianty: +3_+4_+4+3  +3+3+4_+4+3 ; +3_+4_+4+3  +3+3+4_+4+5 
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 143
+!!!ONB: Converted on 2024/12/26 with esac2hum

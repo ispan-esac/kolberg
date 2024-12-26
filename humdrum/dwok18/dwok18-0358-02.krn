@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK1835800002-a_zkadzescie_w_tej_sukmanie.krn
+!!!OTL: A zkądżeście w tej sukmanie
+!!!source: DWOK18
+!!!id: 18358
+!!!signature: 1835800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8g
+16b
+16cc
+=2
+16.dd
+32cc#
+8ee
+8dd
+=3
+16.dd
+32cc#
+8ee
+8dd}
+!!LO:LB:g=esac
+=4
+{16dd
+16cc#
+8dd
+8ee
+=5
+16cc
+16a
+8cc
+8b}
+!!LO:LB:g=esac
+=6
+{16g
+16b
+8.g
+16e
+=7
+16d
+16f#
+8a
+16cc
+16b
+=8
+16g
+16b
+8.g
+16e
+=9
+16d
+16f#
+8d
+8f#}
+!!LO:LB:g=esac
+=10
+{16g
+32a
+32b
+8.g
+16e
+=11
+16d
+16f#
+8a
+16ee
+16dd
+=12
+16g
+16b
+8.g
+16e
+=13
+16d
+16f#
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 194} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 194}
+!!!page: 194
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK06-K0333-juz_to_mija_siodmy_rocek.krn
+!!!OTL: Juz to mija siodmy rocek
+!!!source: DWOK06
+!!!id: K0333
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{8d
+8f#
+8a
+4cc
+8a
+=2
+4g
+8b
+4dd
+8gg
+=3
+8dd
+8b
+8g
+4a
+8b
+=4
+8cc
+8a
+8f#
+4g
+8g}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8a
+4cc
+8a
+=6
+4g
+8b
+4dd
+8b
+=7
+8d
+8f#
+8a
+4cc
+8a
+=8
+8g
+8a
+8b
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 167} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 167}
+!!!page: 167
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK06-K0651-dalabym_ci_jasiu_pierscioneczek_zloty.krn
+!!!OTL: Dalabym ci Jasiu pierscioneczek zloty
+!!!source: DWOK06
+!!!id: K0651
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+4cc
+8b
+=2
+8cc
+8a
+4f
+=3
+8b-
+4dd
+8cc#
+=4
+8dd
+8ee
+4ff}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+8b
+=6
+8dd
+16cc
+16a
+4f
+=7
+8g
+4b-
+16g
+16e
+=8
+8f
+16g
+16a
+4f}
+!!LO:LB:g=esac
+=9
+{8g
+4b-
+8e
+=10
+8f
+8a
+4cc
+=11
+8dd
+4ff
+8ee
+=12
+16dd
+16cc
+16cc
+16a
+4f}
+!!LO:LB:g=esac
+=13
+{8g
+4b-
+8dd
+=14
+8f
+8a
+4cc
+=15
+8c
+4b-
+16g
+16e
+=16
+8f
+16g
+16a
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=430 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 404} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 404}
+!!!page: 404
+!!!ONB: Converted on 2024/12/26 with esac2hum

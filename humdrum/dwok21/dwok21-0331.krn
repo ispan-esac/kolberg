@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2133100000-ej_i_po_boru_chodzila.krn
+!!!OTL: Ej i po boru chodziła
+!!!source: DWOK21
+!!!id: 21331
+!!!signature: 2133100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc
+8cc
+8dd
+=2
+16ee
+16ee
+8.dd
+16dd
+=3
+16cc
+16ee
+8dd
+8b
+=
+24b
+24g
+24a
+8f#
+8g}
+!!LO:LB:g=esac
+=4
+{16.a
+32cc
+8cc
+8dd
+=5
+16b
+16g
+8cc
+16b
+16g
+=6
+16a
+16cc
+16b
+16cc
+8dd
+=7
+16b
+16a
+8f#
+8g}
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 132} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 132}
+!!!page: 132
+!!!ONB: Converted on 2024/12/26 with esac2hum

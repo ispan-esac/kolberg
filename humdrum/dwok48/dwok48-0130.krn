@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK4813000000-mazur_ci_ja_z_sedziwoja.krn
+!!!OTL: Mazur ci ja z Sędziwoja
+!!!source: DWOK48
+!!!id: 48130
+!!!signature: 4813000000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8dd
+4ee
+4ee
+=2
+8ee
+8dd
+4.ff
+8ee
+=3
+8ee
+8dd
+4dd
+4dd
+=4
+8ee
+8dd
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+4gg
+4gg
+=6
+8gg
+8ee
+4.aa
+8gg
+=7
+8ff
+8ee
+4ff
+4ff
+=8
+8ff
+8aa
+4gg
+4ff}
+!!LO:LB:g=esac
+=9
+{8ee
+8ee
+4ee
+4ee
+=10
+8ee
+8dd
+4.ff
+8ee
+=11
+8ee
+8dd
+4dd
+4dd
+=12
+8ee
+8dd
+2cc}
+==
+*-
+!!!ONB: Wariant t. 9: +3+5+3_+3_; wariant t. 12: +3+2+1_+1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 180} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 180}
+!!!page: 180
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7707700000-oj_koniki_kaliki.krn
+!!!OTL: Oj koniki kaliki
+!!!source: DWOK77
+!!!id: 77077
+!!!signature: 7707700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+8b
+8dd
+=2
+8cc
+8b
+8b
+=3
+16cc
+16cc
+8b
+16g
+16f#
+=4
+8d
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8b
+8b
+=6
+8cc
+8b
+8b
+=7
+16a
+16a
+8b
+16g
+16f#
+=8
+8d
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 64
+!!!ONB: Converted on 2024/12/26 with esac2hum

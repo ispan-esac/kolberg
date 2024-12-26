@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK18298b0010-siano_grabila_piasek_wiazala.krn
+!!!OTL: Siano grabiła piasek wiązała
+!!!source: DWOK18
+!!!id: 18298b
+!!!signature: 18298b0010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8g
+4b-
+8a
+8g
+8f
+=2
+8g
+4b-
+8a
+8g
+8f
+=3
+8b-
+4dd
+8cc
+8dd
+8b-
+=4
+8g
+8b-
+8a
+8f
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+4b-
+8a
+8g
+8f
+=6
+8g
+4b-
+8a
+8g
+8f
+=7
+8b-
+4dd
+8cc
+8dd
+8b-
+=8
+8g
+8b-
+8a
+8f
+4g}
+==
+*-
+!!!ONB: Przy weselu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=184 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 168} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 168}
+!!!page: 168
+!!!ONB: Converted on 2024/12/26 with esac2hum

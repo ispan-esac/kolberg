@@ -1,0 +1,13 @@
+DWOK12
+CUT[Kiedy będzie słońce i pogoda]
+REG[]
+TRD[DWOK12 W. Ks. Poznańskie s. 4, Miłosław. Chodzony (po wypiciu gorzałki z miłą w gościńcu)]
+FKT[]
+SIG[1200400012]
+KEY[12004   16  C 3/4]
+MEL[5__5__5__  5__5__5__
+    +5_+5_+5__+5__  +3_+2_+1_+2+3+4_+3_
+    +5_+5_+5__+5__  +3_+2_+1_+2+3+4_+3_
+    +2_+1_+5__+1__  +2_+1_+3_+2+3+4_+3_
+    +2_+3_+5__+1__  5_7_+2_+4_+3_+1_ //]
+BEM[]

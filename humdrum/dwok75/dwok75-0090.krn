@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7509000000-takie_kwasne_mliko_dobre.krn
+!!!OTL: Takie kwaśne mliko dobre
+!!!source: DWOK75
+!!!id: 75090
+!!!signature: 7509000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4cc
+4dd
+=2
+4ee
+8ee
+8dd
+4cc
+=3
+8cc
+8b
+4cc
+4dd
+=4
+4ee
+2cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+4gg
+4gg
+=6
+8gg
+8gg
+4ff#
+4dd
+=7
+8dd
+8dd
+4ff
+4ff
+=8
+16ff
+16ee
+16dd
+16ee
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 61} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 61}
+!!!page: 61
+!!!ONB: Converted on 2024/12/26 with esac2hum

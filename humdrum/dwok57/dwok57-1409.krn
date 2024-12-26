@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK57140900000-ty_pszenyciu_prodajisz.krn
+!!!OTL: Ty pszenyciu prodajisz
+!!!source: DWOK57
+!!!id: 571409
+!!!signature: 57140900000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8g
+8ee
+8g
+=2
+8cc
+8g
+4ee}
+!!LO:LB:g=esac
+=3
+{8cc
+8g
+8ee
+8dd
+=4
+16cc
+16b
+16a
+16g
+4g}
+!!LO:LB:g=esac
+=5
+{8e
+8g
+8g
+8g
+=6
+8g
+8g
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8ff
+8b
+=8
+8cc
+8cc
+4cc}
+==
+*-
+!!!ONB: Wariant t: 6-7: 5_5_5_5_  5_5_+4_7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 465
+!!!ONB: Converted on 2024/12/26 with esac2hum

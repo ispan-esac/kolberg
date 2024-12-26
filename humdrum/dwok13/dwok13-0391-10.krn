@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK1339100010-miala_baba_starowine.krn
+!!!OTL: Miała baba starowinę
+!!!source: DWOK13
+!!!id: 13391
+!!!signature: 1339100010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8ee
+16dd#
+16b
+=2
+16a
+16cc
+8ee
+8g#
+=3
+16a
+16cc
+8ee
+16dd
+16b
+=4
+16g#
+16g#
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{16a
+16cc#
+8cc#
+16dd
+16b
+=6
+16a
+16cc
+8ee
+16b
+16g#
+=7
+16a
+16cc#
+8cc#
+16dd
+16b
+=8
+16g#
+16g#
+8cc
+8a}
+==
+*-
+!!!ONB: Odsibka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=188 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 164} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 164}
+!!!page: 164
+!!!ONB: Converted on 2024/12/26 with esac2hum

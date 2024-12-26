@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3910200002-oj_chlopcy_chlopcy_za_mna.krn
+!!!OTL: Oj chłopcy, chłopcy za mną
+!!!source: DWOK39
+!!!id: 39102
+!!!signature: 3910200002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4gg
+4gg
+4gg
+=2
+8aa
+8gg
+4ff
+4dd}
+!!LO:LB:g=esac
+=3
+{4cc
+4ee
+4cc
+=4
+8dd
+8cc
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{4g
+4b
+4g
+=6
+8b
+8dd
+4ff
+4gg}
+!!LO:LB:g=esac
+=7
+{8ee
+8dd
+4cc
+8cc
+8gg
+=8
+8dd
+8cc
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 154} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 154}
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

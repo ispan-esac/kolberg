@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2743800000-chodzi_chodzi_se_sierota.krn
+!!!OTL: Chodzi chodzi se sierota
+!!!source: DWOK27
+!!!id: 27438
+!!!signature: 2743800000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{16g
+16b-
+4.dd
+=2
+8cc
+8b-
+8a
+8f#
+=3
+8cc
+8cc
+8g
+8a
+=4
+8b-
+4a}
+8r
+!!LO:LB:g=esac
+=5
+{8b-
+4.dd
+=6
+8dd
+8dd
+8dd
+8ee
+=7
+8ff
+8dd
+4cc#
+=8
+8cc#
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=386 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 367} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 367}
+!!!page: 367
+!!!ONB: Converted on 2024/12/26 with esac2hum

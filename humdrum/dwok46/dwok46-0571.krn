@@ -1,0 +1,115 @@
+!!!!SEGMENT: DWOK4657100000-raz_patrzajac_na_ma_zosie.krn
+!!!OTL: Raz patrzając na mą Zosię
+!!!source: DWOK46
+!!!id: 46571
+!!!signature: 4657100000
+**kern
+*clefG2
+*k[]
+*a:
+*M6/8
+=1
+{4ee
+8dd
+8cc
+8b
+8a
+=2
+4b
+8g#
+8e
+8f#
+8g#}
+!!LO:LB:g=esac
+=3
+{4a
+8a
+8cc
+8b
+8a
+=4
+8e
+8ee
+8ee
+8ee
+8dd
+8b}
+!!LO:LB:g=esac
+=5
+{4cc
+8cc
+8cc
+8b
+8a
+=6
+4g#
+8g#
+8g#
+8a
+8b}
+!!LO:LB:g=esac
+=7
+{4cc
+8cc
+4ee
+8cc
+=8
+4gg
+8b
+8dd
+8cc}
+8r
+!!LO:LB:g=esac
+=9
+{4ee
+8ee
+8ee
+8ff
+8gg
+=10
+4ff
+8ee
+4dd
+8a
+=11
+4ff
+8ee
+4dd
+8a
+=12
+4cc
+8b
+8b
+8a}
+8r
+!!LO:LB:g=esac
+=13
+{4cc
+8cc
+8cc
+8b
+8a
+=14
+4g#
+8g#
+8g#
+8a
+8b
+=15
+4cc
+8cc
+4ee
+8cc
+=16
+4gg
+8b
+8dd
+8cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=387 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 353} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 353}
+!!!page: 353
+!!!ONB: Converted on 2024/12/26 with esac2hum

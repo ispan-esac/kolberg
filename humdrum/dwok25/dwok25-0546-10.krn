@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK255460010-nie_pude_ja_na_jabka.krn
+!!!OTL: Nie pude ja na jabka
+!!!source: DWOK25
+!!!id: 25546
+!!!signature: 255460010
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8.b-
+16dd
+16ff
+16ee
+=2
+16cc
+16ee
+8ff
+8f
+=3
+8.b-
+16dd
+16ff
+16ee
+=4
+16cc
+16dd
+8b-
+8f}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8g
+16g
+16f
+=6
+16a
+16a
+8b-
+16b-
+16dd
+=7
+16a
+16cc
+8g
+16g
+16f
+=8
+16a
+16f
+8b-
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=236 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 211} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 211}
+!!!page: 211
+!!!ONB: Converted on 2024/12/26 with esac2hum

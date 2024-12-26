@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK7613800012-kochajze_mnie_panno.krn
+!!!OTL: Kochajże mnie, panno
+!!!source: DWOK76
+!!!id: 76138
+!!!signature: 7613800012
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{16a
+16b
+16a
+16g
+8f#
+8e
+=2
+8d
+4.g
+=3
+8a
+8b
+8cc
+8cc
+=4
+8ee
+4.dd}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+8f#
+8e
+=6
+8d
+4g
+8dd
+=7
+8ee
+8dd
+8.cc
+16f#
+=8
+8a
+4.g}
+==
+*-
+!!!ONB: Wariant partii wokalnej
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=110 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 74} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 74}
+!!!page: 74
+!!!ONB: Converted on 2024/12/26 with esac2hum

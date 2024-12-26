@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK1830500000-tonela_elzus_tonela.krn
+!!!OTL: Tonęła Elzuś tonęła
+!!!source: DWOK18
+!!!id: 18305
+!!!signature: 1830500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8g
+8g
+8a
+=2
+4b-
+8g
+=3
+4cc
+8g
+=4
+4f
+8r
+=5
+8cc
+8cc
+8ee
+=6
+4ff
+8dd
+=7
+8cc
+8cc
+8dd}
+!!LO:LB:g=esac
+=8
+{8g
+8g
+8a
+=9
+8b-
+8a
+8g
+=10
+8f
+8a
+8cc
+=11
+8g
+8g
+8a
+=12
+8b-
+8a
+8g
+=13
+4cc
+8g
+=14
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 170} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 170}
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

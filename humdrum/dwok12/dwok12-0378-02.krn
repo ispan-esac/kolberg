@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK1237800002-jak_pojedziesz_orac.krn
+!!!OTL: Jak pojedziesz orać
+!!!source: DWOK12
+!!!id: 12378
+!!!signature: 1237800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8a
+8a
+=2
+8dd
+4a
+=3
+16dd
+16dd
+8a
+8b
+=4
+8a
+4d}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+8a
+=6
+4cc
+16a
+16b
+=7
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 197} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 197}
+!!!page: 197
+!!!ONB: Converted on 2024/12/26 with esac2hum

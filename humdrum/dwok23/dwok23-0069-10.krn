@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK2306900010-wstepujemy_w_ten_dziedziniec.krn
+!!!OTL: Wstępujemy w ten dziedziniec
+!!!source: DWOK23
+!!!id: 23069
+!!!signature: 2306900010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16a
+8b
+8g
+=2
+16cc
+16dd
+8ee
+8ff
+=3
+16g
+16a
+8b
+8g
+=4
+16cc
+16b
+8a
+8dd}
+!!LO:LB:g=esac
+=5
+{16b
+16g
+8a
+8b
+=6
+4.cc
+=7
+16b
+16g
+8a
+8b
+=8
+4.cc}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+8b
+8g
+=10
+16cc
+16dd
+8ee
+8ff
+=11
+16g
+16a
+8b
+8g
+=12
+16cc
+16b
+8a
+8dd}
+!!LO:LB:g=esac
+=13
+{16b
+16g
+8a
+8b
+=14
+4.cc
+=15
+16dd
+16ff
+8ee
+8dd
+=16
+4.c}
+==
+*-
+!!!ONB: melodia zwrotek 1-22
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=128 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 114} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 114}
+!!!page: 114
+!!!ONB: Converted on 2024/12/26 with esac2hum

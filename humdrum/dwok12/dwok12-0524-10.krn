@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK1252400010-chlopek_ja_nie_lada_chlopek.krn
+!!!OTL: Chłopek ja nie lada chłopek
+!!!source: DWOK12
+!!!id: 12524
+!!!signature: 1252400010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4.dd
+8cc#
+=2
+8a
+8ee
+4.dd
+8b
+=3
+8g
+16g
+16b
+4.dd
+8cc
+=4
+8a
+16a
+16b
+4.g
+8g}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+4.cc
+8f#
+=6
+8g
+16a
+16b
+4.g
+8d
+=7
+8f#
+8a
+4.cc
+8f#
+=8
+8g
+16a
+16b
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 271-272} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, pp. 271-272}
+!!!page: 271-272
+!!!ONB: Converted on 2024/12/26 with esac2hum

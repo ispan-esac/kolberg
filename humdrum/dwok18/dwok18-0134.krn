@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK1813400000-w_kolo_nalepa_w_kolo_piec.krn
+!!!OTL: W koło nalepa w koło piec
+!!!source: DWOK18
+!!!id: 18134
+!!!signature: 1813400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16ee
+16ee
+8ff
+8ff
+8ee
+=2
+8ee
+8cc
+4b
+=3
+16ee
+16ee
+16ff
+16ff
+8ff
+8ee
+=4
+8ee
+8cc
+4b}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+16a
+16g#
+16a
+16b
+16cc
+16b
+=6
+8cc
+8dd
+4ee
+=7
+16dd#
+16ee
+16ff#
+16ee
+16dd
+16cc
+16b
+16a
+=8
+8b
+8cc
+4b}
+==
+*-
+!!!ONB: W komorze (lub w karczmie)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=118 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 102} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 102}
+!!!page: 102
+!!!ONB: Converted on 2024/12/26 with esac2hum

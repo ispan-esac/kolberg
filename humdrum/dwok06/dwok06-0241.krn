@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK06-K0241-zachodzi_slonecko.krn
+!!!OTL: Zachodzi slonecko
+!!!source: DWOK06
+!!!id: K0241
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8ff
+16ee
+16cc
+=2
+4dd
+8b
+=3
+16a
+16cc
+4g
+=4
+8b
+8dd
+8ff}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8ff
+16ee
+16cc
+=6
+4dd
+8b
+=7
+16a
+16cc
+4g
+=8
+8b
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 123} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 123}
+!!!page: 123
+!!!ONB: Converted on 2024/12/26 with esac2hum

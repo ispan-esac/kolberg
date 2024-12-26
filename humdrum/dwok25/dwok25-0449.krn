@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK2544900000-mazur-instrumentalna.krn
+!!!OTL: Mazur-Instrumentalna
+!!!source: DWOK25
+!!!id: 25449
+!!!signature: 2544900000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16.a
+32g
+8f#
+16dd
+16f#
+=2
+16f#
+16g
+8e
+16ee
+16dd
+=3
+16cc#
+16a
+16g#
+16a
+16b
+16cc#
+=4
+16dd
+16ee
+16ff#
+16cc#
+16dd
+16b}
+!!LO:LB:g=esac
+=5
+{16.a
+32g
+8f#
+16dd
+16f#
+=6
+16f#
+16g
+8e
+16ee
+16dd
+=7
+16cc#
+16a
+16g#
+16a
+16b
+16cc#
+=8
+8dd
+4dd}
+!!LO:LB:g=esac
+=9
+{8a
+8.ff#
+16ee
+=10
+16dd
+16cc#
+8b
+8gg
+=11
+16gg
+16a
+16g
+16a
+16b
+16cc#
+=12
+16f#
+16g
+16g#
+16a
+16g
+16e}
+!!LO:LB:g=esac
+=13
+{8a
+8.ff#
+16ee
+=14
+16dd
+16cc#
+8b
+8a
+=15
+16f#
+16g
+8e
+16a
+16g
+=16
+8dd
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 188} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

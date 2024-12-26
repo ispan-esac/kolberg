@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK8103300022-bula_chlibaj_bukatyna.krn
+!!!OTL: Buła chlibaj bukatyna
+!!!source: DWOK81
+!!!id: 81033
+!!!signature: 8103300022
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M2/4
+=1
+{4dd
+16dd
+16ee
+16dd
+16cc
+=2
+4dd
+16ee
+16dd
+16cc
+16b
+=3
+4dd
+8dd
+16ee
+16dd
+=
+8cc
+24dd
+24cc
+24b
+4b}
+!!LO:LB:g=esac
+=4
+{4dd
+16dd
+16ee
+16dd
+16cc
+=5
+4dd
+16ee
+16dd
+16cc
+16b
+=6
+4dd
+8dd
+16ee
+16dd
+=
+8cc
+24dd
+24cc
+24b
+4b}
+==
+*-
+!!!ONB: Partia wokalna-wariant melodii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 31} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 31}
+!!!page: 31
+!!!ONB: Converted on 2024/12/26 with esac2hum

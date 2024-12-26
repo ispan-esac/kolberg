@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1240800002-siedzi_panna_we_wioneczku.krn
+!!!OTL: Siedzi panna we wioneczku
+!!!source: DWOK12
+!!!id: 12408
+!!!signature: 1240800002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4f
+8a
+=2
+4g
+16cc
+16b-
+=3
+4a
+8f
+=4
+8g
+4f
+=5
+4a
+8b-
+=6
+4cc
+8dd
+=7
+4b-
+8g}
+!!LO:LB:g=esac
+=8
+{4b-
+8cc
+=9
+16a
+16g
+8a
+8f
+=10
+4g
+8cc
+=11
+4a
+8f
+=12
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=227 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 211} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 211}
+!!!page: 211
+!!!ONB: Converted on 2024/12/26 with esac2hum

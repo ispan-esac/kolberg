@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK06-K0386-hej_hej_traj_traj.krn
+!!!OTL: Hej hej traj traj
+!!!source: DWOK06
+!!!id: K0386
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8cc
+8dd
+4cc
+=2
+8cc
+8dd
+4b
+=3
+8cc
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=4
+{8g
+8b
+4dd
+=5
+4a
+8cc
+8cc
+=6
+4a}
+4r
+!!LO:LB:g=esac
+=7
+{8g
+8b
+4dd
+=8
+4a
+8cc
+8cc
+=9
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 203} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 203}
+!!!page: 203
+!!!ONB: Converted on 2024/12/26 with esac2hum

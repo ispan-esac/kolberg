@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK5647100000-wybihala_kasunenka.krn
+!!!OTL: Wybihała Kasuneńka
+!!!source: DWOK56
+!!!id: 56471
+!!!signature: 5647100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+16a
+16b
+16cc
+16a
+=2
+8dd
+8dd
+8a
+=3
+4.b
+=4
+4e}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+16a
+16b
+16cc
+16a
+=6
+8dd
+8dd
+8a
+=7
+8a
+8ee
+8a}
+!!LO:LB:g=esac
+=8
+{8dd
+8dd
+16cc
+16a
+=9
+8cc
+8b
+8g#
+=10
+4.a
+=11
+8a}
+4r
+==
+*-
+!!!ONB: Wariant t. 2: 4_43b21; wariant t. 9: 3b_23b2-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=444 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 340} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 340}
+!!!page: 340
+!!!ONB: Converted on 2024/12/26 with esac2hum

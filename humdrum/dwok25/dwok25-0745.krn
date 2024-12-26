@@ -1,0 +1,127 @@
+!!!!SEGMENT: DWOK2574500000-gdzie_mi_sie_podzialy_pozadane_gody.krn
+!!!OTL: Gdzie mi się podziały pożądane gody
+!!!source: DWOK25
+!!!id: 25745
+!!!signature: 2574500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4ee
+8dd
+=2
+16dd
+16dd
+8ff
+8ff
+=3
+4ee
+8dd
+=4
+16dd
+16dd
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{4ee
+8dd
+=6
+16dd
+16dd
+8ff
+8ff
+=7
+4ee
+8dd
+=8
+16cc
+16b
+8b
+8cc}
+!!LO:LB:g=esac
+=9
+{16cc
+16b
+8b
+8cc
+=10
+16dd
+16dd
+8b
+8cc
+=11
+16cc
+16b
+8b
+8cc
+=12
+16dd
+16dd
+8b
+8cc}
+!!LO:LB:g=esac
+=13
+{4ee
+8dd
+=14
+16dd
+16dd
+8ff
+8ff
+=15
+4ee
+8dd
+=16
+16dd
+16dd
+8b
+8cc}
+!!LO:LB:g=esac
+=17
+{16g
+16cc
+8b
+8cc
+=18
+16dd
+16cc
+8b
+8cc
+=19
+8ee
+8ee
+8ee
+=20
+16dd
+16cc
+8b
+8cc}
+!!LO:LB:g=esac
+=21
+{4ee
+8dd
+=22
+16dd
+16ee
+8ff
+16gg
+16ff
+=23
+4cc
+8dd
+=24
+16dd
+16cc
+8b
+8cc}
+==
+*-
+!!!ONB: Wariant w takcie jedenastym +3__+2+3  oraz +1__+2+1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 263} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 263}
+!!!page: 263
+!!!ONB: Converted on 2024/12/26 with esac2hum

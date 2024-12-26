@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK3903000000-a_przed_wroty_kamien_zloty.krn
+!!!OTL: A przed wroty kamień złoty
+!!!source: DWOK39
+!!!id: 39030
+!!!signature: 3903000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8dd
+8gg
+=2
+8dd
+8dd
+8cc
+8a
+=3
+8b
+8b
+8a
+8g
+=4
+2dd
+=5
+8b
+8b
+8a
+8a
+=6
+2g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8dd
+8gg
+=8
+8dd
+8dd
+8cc
+8a
+=9
+8b
+8b
+8a
+8g
+=10
+2dd
+=11
+8b
+8b
+8a
+8a
+=12
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=152 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 100} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK2740400000-pasturze_na_gorze.krn
+!!!OTL: Pasturze na górze
+!!!source: DWOK27
+!!!id: 27404
+!!!signature: 2740400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8ee
+4g
+=2
+8cc
+8dd
+4g
+=3
+8cc
+8ee
+8cc
+8dd
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+4gg
+=6
+8cc
+8dd
+4g
+=7
+8cc
+8ee
+8cc
+8ee
+=8
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=369 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 350} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 350}
+!!!page: 350
+!!!ONB: Converted on 2024/12/26 with esac2hum

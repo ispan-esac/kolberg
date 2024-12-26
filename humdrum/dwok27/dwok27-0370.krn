@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK2737000000-zolnierz_ci_ja_zolnierz.krn
+!!!OTL: Zołnierz ci ja żołnierz
+!!!source: DWOK27
+!!!id: 27370
+!!!signature: 2737000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4a
+4ff
+8ee
+8cc
+=2
+8dd
+8ff
+2ee
+=3
+4a
+4ff
+8ee
+8cc
+=4
+8dd
+8ff
+2ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8cc
+4dd
+4ee
+=6
+8a
+8b
+4cc
+4a
+=7
+4dd
+4dd
+8b
+8dd
+=8
+4cc
+2a}
+!!LO:LB:g=esac
+=9
+{8ee
+8cc
+4dd
+4ee
+=10
+8a
+8b
+4cc
+4a
+=11
+4dd
+4dd
+8b
+8dd
+=12
+4cc
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=353 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 334} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 334}
+!!!page: 334
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK5048800010-werchowyno_swetku_ty_nasz.krn
+!!!OTL: Werchowyno swetku ty nasz
+!!!source: DWOK50
+!!!id: 50488
+!!!signature: 5048800010
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8e
+8a
+8b
+8cc
+=2
+4dd
+4cc
+=3
+8b
+4b}
+8r
+!!LO:LB:g=esac
+=4
+{8e
+8a
+8b
+8cc
+=5
+4dd
+4cc
+=6
+8b
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=7
+{8e
+8a
+8b
+8cc
+=8
+4dd
+4cc
+=9
+8b
+4b}
+8r
+!!LO:LB:g=esac
+=10
+{8e
+8a
+8b
+8cc
+=11
+4dd
+4cc
+=12
+8b
+8cc
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=320 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 291} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 291}
+!!!page: 291
+!!!ONB: Converted on 2024/12/26 with esac2hum

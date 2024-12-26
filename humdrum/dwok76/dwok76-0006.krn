@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK7600600000-obiecala_mnie_moja_pani_matka.krn
+!!!OTL: Obiecała mnie moja pani matka
+!!!source: DWOK76
+!!!id: 76006
+!!!signature: 7600600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4a
+4cc#
+4dd
+=2
+2dd
+4dd
+=3
+8dd
+8ee
+4dd
+4cc
+=4
+4b
+4a
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+4dd
+8cc
+8a
+=6
+4g
+4.b
+8a
+=7
+2.g}
+!!LO:LB:g=esac
+=8
+{4a
+4cc#
+4dd
+=9
+2dd
+4dd
+=10
+8dd
+8ee
+4dd
+4cc
+=11
+4b
+4a
+4g}
+!!LO:LB:g=esac
+=12
+{8b
+8b
+4dd
+8cc
+8a
+=13
+4g
+4.b
+8a
+=14
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=44 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 8} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 8}
+!!!page: 8
+!!!ONB: Converted on 2024/12/26 with esac2hum

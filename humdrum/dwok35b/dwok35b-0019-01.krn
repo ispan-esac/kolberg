@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK35B-35B01900001-oj_pojichav_iwasejko_sametrej_na_wijnu.krn
+!!!OTL: Oj pojichav Iwasejko sametrej na wijnu
+!!!source: DWOK35B
+!!!id: 35B019
+!!!signature: 35B01900001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8dd
+8ee
+=2
+8ff
+8ee
+8dd
+8cc
+=3
+8ee
+8gg
+8ff
+8ee
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8ee
+4ff
+8dd
+=6
+8ee
+8cc
+8dd
+8dd
+=7
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 140} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 140}
+!!!page: 140
+!!!ONB: Converted on 2024/12/26 with esac2hum

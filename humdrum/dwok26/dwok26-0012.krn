@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK2601200000-narodzil_sie_w_betlejemskim_zlobie.krn
+!!!OTL: Narodził się w Betlejemskim żłobie
+!!!source: DWOK26
+!!!id: 26012
+!!!signature: 2601200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16dd
+16ee
+8a
+8cc
+=3
+8dd
+8b}
+8r
+!!LO:LB:g=esac
+=4
+{16g
+16b
+8dd
+8dd
+=5
+16dd
+16ee
+8a
+8cc
+=6
+8dd
+16b
+16a}
+8r
+!!LO:LB:g=esac
+=7
+{8g
+4a
+=8
+16g
+16b
+4a
+=9
+8g
+4a
+=10
+16g
+16b
+4a}
+!!LO:LB:g=esac
+=11
+{16b
+16cc
+8dd
+8cc
+=12
+16b
+16a
+8g}
+8r
+!!LO:LB:g=esac
+=13
+{8g
+8a
+8f#
+=14
+16g
+16b
+8a
+8f#
+=15
+8g
+8a
+8f#
+=16
+16g
+16b
+8a
+8cc}
+!!LO:LB:g=esac
+=17
+{16b
+16cc
+8dd
+8cc
+=18
+16b
+16a
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 62
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK3600800000-persza_kwiotonka_molodyj_ukasio.krn
+!!!OTL: Persza kwiotońka mołodyj Łukasio
+!!!source: DWOK36
+!!!id: 36008
+!!!signature: 3600800000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/8
+=1
+{16cc
+16ee
+16ee
+16ee
+=2
+4ee
+=3
+16ee
+16ee
+16ee
+16ff#
+=4
+8ee
+8a}
+!!LO:LB:g=esac
+=5
+{16ee
+16ee
+8ee
+=6
+8ee
+8a
+=7
+4b
+=8
+8ee
+8ee
+=9
+4ee}
+!!LO:LB:g=esac
+=10
+{16ff#
+16ee
+8ee
+=11
+8ee
+8a
+=12
+4b
+=13
+8ee
+8ee
+=14
+4ee}
+!!LO:LB:g=esac
+=15
+{16ff#
+16ee
+8ee
+=16
+8ee
+8a
+=17
+4b
+=18
+8ee
+8ee
+=19
+4ee}
+!!LO:LB:g=esac
+=20
+{16a
+16ee
+16ee
+16ee
+=21
+16ff#
+16ee
+8ee
+=22
+8ee
+8a
+=23
+8b
+8ee
+=24
+16ee
+16a
+8b
+=25
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 8-9
+!!!ONB: Converted on 2024/12/26 with esac2hum

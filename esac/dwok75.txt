@@ -1,0 +1,4660 @@
+DWOK75
+CUT[Mała niczka kupalnyczka]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 4 Milejów (Łęczna) nad Wieprzem]
+FKT[]
+SIG[7500300000]
+KEY[75003   08  G 6/8]
+MEL[5_64_3  42421_  5565_3  2_42_1 //]
+BEM[Wariant t. 3: 556543]
+
+DWOK75
+CUT[Pod borem sosnia]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 4 Podlasie]
+FKT[]
+SIG[7500400000]
+KEY[75004   16  G 2/4]
+MEL[1_234_2_  1___  4_567b_6_  5__.(321)
+    4_567b_5_  +1_6_5_(321)  1_234_2_  1___ //]
+BEM[Wariant t. 1: 1_3_4_2_; wariant t. 3: 4_6_7b_6_]
+
+DWOK75
+CUT[Uciekała po rowie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 5 od Puław (Wronów)]
+FKT[]
+SIG[7500500000]
+KEY[75005   08  G 3/4]
+MEL[13b5_5_  5_+1_5_
+    6b54_2_  1_3b_1_
+    -5-72_2_  2_5_5_
+    6b54_3b2  1_3b_1_ //]
+BEM[]
+
+DWOK75
+CUT[Uciekała po rowie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 5 od Markuszowa]
+FKT[]
+SIG[7500600001]
+KEY[75006   16  A 3/8]
+MEL[123b23b4  5_5_54#
+    654#_3b2  1_1_-7-5
+    -724_3b2  1_3b_5_
+    424_3b2  1_3b_1_ //]
+BEM[]
+
+DWOK75
+CUT[Uciekała po rowie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 5 od Markuszowa]
+FKT[]
+SIG[7500600002]
+KEY[75006   16  A 3/8]
+MEL[13b5_5_  5_+1_5_
+    654#_3b2  1_3b_1_
+    -724_3b2  1_3b_5_
+    424_3b2  1_3b_1_ //]
+BEM[]
+
+DWOK75
+CUT[Wyjechał w pole]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 6 Osiny]
+FKT[]
+SIG[7500700000]
+KEY[75007   16  A 3/4]
+MEL[5_5_5_3b_5__  4_4_4_1_3b_21  5_5_5_3b_5__  4___1__
+    -7_1_2_4_5__  4_4_(3b_2_1_)-7b__  1_3b_4_5_3b__  1___1__ //]
+BEM[Wariant t. 2: 4_4_4_1_3b__]
+
+DWOK75
+CUT[Weselny]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 6]
+FKT[]
+SIG[7500800000]
+KEY[75008   08  G 3/4]
+MEL[-513_32  313_32  (345)342-7  (-5-6-7)1__
+    2-71-713  (234)5__  2-71-713  2-71__ //]
+BEM[]
+
+DWOK75
+CUT[E, odejdę, odejdę]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 7 od Lublina]
+FKT[]
+SIG[7500900000]
+KEY[75009   08  G 3/4]
+MEL[135_7_  6_3_5_  642_2_  1_-7_-6_
+    -61-7_-6_  1_3_5_  642_2_  1_-7_-6_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, w polu ber, w polu ber]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 8 od Frampola (Dzwola)]
+FKT[]
+SIG[7501100000]
+KEY[75011   16  C 3/4]
+MEL[+3__+4__+3__  +3_+2_+4__+1__  +3__+4__+1__  +3_+2_7__+1__
+    7__+1__+2__  +3_+2+3+4__+1__  +3__+4__+3__  +3_+2_7__+1__ //]
+BEM[Wariant t. 5: 7__+1__+3__]
+
+DWOK75
+CUT[Stoi Anuleńka przeciw okieneńka]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 9]
+FKT[]
+SIG[7501200000]
+KEY[75012   16  A 3/4]
+MEL[1_1_1_3b_5_.3b  5_5_4_1_3b_5_
+    4_5_1_13b5_.3b  4_4_5_3b_1_1_
+    4_5_1_13b5_.3b  4_4_5_3b_1_1_ //]
+BEM[Wariant t. 4 i 6: 4_4_5_3b21_1_]
+
+DWOK75
+CUT[Stoi Anuleńka przeciw okieneńka]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 9]
+FKT[]
+SIG[7501300000]
+KEY[75013   16  A 2/4]
+MEL[1_1_1_3b_  5__.3b_  5_5_4_1_  3b_5__.
+    4_5_1_13b  5__.3b_  4_4_5_3b_  1__.1_
+    4__5_1_  3b_5__43b  4_4_5_3b_  1__.1_ //]
+BEM[Wariant t. 7 i 11: 4_4_5_3b2]
+
+DWOK75
+CUT[Siedmiu mi się zalecało]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 11 od Puław (Osiny)]
+FKT[]
+SIG[7501400000]
+KEY[75014   08  A 3/4]
+MEL[556_6_  534_3_
+    1_2_2_  324_3_
+    112_2_  354_3_
+    1_-6_2_  -5-5-7_1_ //]
+BEM[Wariant t. 4: 354_3_]
+
+DWOK75
+CUT[Nie będę ja borszczu jadła]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 12 od Krzeszowa]
+FKT[]
+SIG[7501500000]
+KEY[75015   08  D 3/4]
+MEL[+1+3+1_+1+3  +275_57
+    +1+3+1_+1+3  +275_0_
+    +164_46  +17b5_57b
+    +164_46  +175_0_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, w polu ogródecek]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 12 od Lublina]
+FKT[]
+SIG[7501600001]
+KEY[75016   08  A 3/4]
+MEL[5_4#_5_  3b3b2_4_  5_4#_5_  3b3b2_1_
+    1_2-7-5_  -5-71_2_  1_2-7-5_  -5-71_-7_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, w polu ogródecek]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 12 od Lublina]
+FKT[]
+SIG[7501600002]
+KEY[75016   08  A 3/4]
+MEL[5_4#_5_  3b3b2_5_  5_4#_5_  3b3b2_1_
+    1_2_-5_  -5-71_-7_  -7_2_-5_  -5-71_-7_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, nie daj Boze descu]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 13 od Markuszowa (Garbów)]
+FKT[]
+SIG[7501700000]
+KEY[75017   16  A 3/4]
+MEL[5__4#__5__  5_3b21__3b__  5__4#__5__  5_3b21__-5__
+    -7__-7__2__  1_3b_1__-5__  -7__-7__2__  1_-7_1__-5__ //]
+BEM[Wariant t. 2: 5_3b21__5__]
+
+DWOK75
+CUT[Hej, panie ekonomie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 14]
+FKT[]
+SIG[7501800000]
+KEY[75018   08  G 3/4]
+MEL[3_5_6_  466_5_  3_5_6_  42-7_1_
+    3_3_1_  42531_  3_3_1_  422_1_ //]
+BEM[]
+
+DWOK75
+CUT[Da, za stodołą ścieżka]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 15 Tatary]
+FKT[]
+SIG[7502100000]
+KEY[75021   08  G 3/4]
+MEL[134_6_  7b_6_6_
+    467b_6_  5_3_1_
+    134_6_  4_2_2_
+    134_6_  5_3_1_ //]
+BEM[Melodia dodana poniżej: (134)67b64  (467b)6531  (134)6422  (2-7b2)4531]
+
+DWOK75
+CUT[Da, ja sobie Kujawianka]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 15 Tatary]
+FKT[]
+SIG[7502200000]
+KEY[75022   08  A 2/4]
+MEL[7b7b64  6+17b5
+    7b7b64  53b1-7b
+    2213b  243b1
+    3b3b24  53b21 //]
+BEM[]
+
+DWOK75
+CUT[Siedmiu miała, siedmiu dała]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 16 od Puław (Osiny)]
+FKT[]
+SIG[7502300001]
+KEY[75023   08  C 3/4]
+MEL[5_.+4+3+2  +1+3+3_+1_
+    7+27_+1_  +1+3+3_+1_
+    5_.+4+2+4  +2+3+3_+1_
+    7+27_+2_  +1+3+3_+1_ //]
+BEM[]
+
+DWOK75
+CUT[Siedmiu miała, siedmiu dała]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 16 od Puław (Osiny)]
+FKT[]
+SIG[7502300002]
+KEY[75023   08  C 3/4]
+MEL[+2_.+4+3+2  +1+3+3_+26
+    7+27_+2+1  +1+3+3_+1_
+    5_.+4+2+4  +2+3+3_+16
+    7+27_+2_  +1+3+3_+1_ //]
+BEM[]
+
+DWOK75
+CUT[Siedmiu miała, siedmiu dała]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 16 od Końskowoli]
+FKT[]
+SIG[7502400000]
+KEY[75024   16  F 3/8]
+MEL[246_7_  564_3_
+    246_7_  564_31
+    -5-72_1_  365_43
+    -5-72_1_  (-5-72)4_31 //]
+BEM[]
+
+DWOK75
+CUT[Oj, najwięcyj jaskółki]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 17 od Zamościa (Złojec, Bortatycze)]
+FKT[]
+SIG[7502500000]
+KEY[75025   08  G 3/4]
+MEL[123_4_  5_6_5_  535_4_  1_3_2_
+    123_4_  2_5_.-7  123_4_  1_3_2_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, tam się ptasek ciśnie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 17 Tatary]
+FKT[]
+SIG[7502600000]
+KEY[75026   08  C 3/4]
+MEL[+1_+3_+5_  +5+5+3_+5_
+    +5_+4_+3_  +27+1_6_
+    5_7_+2_  +4+3+1_+3_
+    +3_+4_+2_  76+1_6_ //]
+BEM[]
+
+DWOK75
+CUT[Cztery lata wierniem słuzył]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 19]
+FKT[]
+SIG[7502800000]
+KEY[75028   08  C 3/4]
+MEL[+3b+5+4#_+5_  +3b+5+4#_+5_
+    +2+2+5_.7  +1+1+1+2+3b_
+    +2+2+5_.7  +1__0_
+    777_.+2  +1+1+1_.+3b
+    +2+2+5_.7  +1+1+1+2+3b_
+    +2+2+5_.7  +1__0_ //]
+BEM[Wariant t. 6-7: 777+1+2  +1+1+1+2+3b]
+
+DWOK75
+CUT[Cztery lata wierniem słuzył]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 19]
+FKT[]
+SIG[7502900000]
+KEY[75029   08  A 3/4]
+MEL[13b5_.4#  53b23b1_
+    25-5_.-7  123b3b21
+    24#5_.-7  1_0__
+    -5-6-7_-7_  123b_3b_
+    24#5_.-7  123b_3b_
+    24#5_.-7  1_0__ //]
+BEM[Wariant t. 1-2: 3b54#_5_  3b54#_5_]
+
+DWOK75
+CUT[Da, już byłem za wodą]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 20 od Baranowa (Pogonów)]
+FKT[]
+SIG[7503100000]
+KEY[75031   08  C 3/4]
+MEL[5_7_+1_  +3+5+5_+4_  +3_+5_+2_  +175_6_
+    5_7_+1_  +3+3+4_+1_  +3_+5_+2_  +175_6_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, jużem był za wodą]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 20 Tatary]
+FKT[]
+SIG[7503200000]
+KEY[75032   08  C 3/4]
+MEL[5_7_+1_  +3+5+5_+4_  +3_+5_+2_  +175_6_
+    5_7_+1_  +3+3+4_+1_  +3_+5_+2_  +175_6_ //]
+BEM[Wariant t. 2: +3+5+5_+2_]
+
+DWOK75
+CUT[Dał mnie pan pieniędzy]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 22 od Lublina]
+FKT[]
+SIG[7503400000]
+KEY[75034   08  C 3/4]
+MEL[0_+3_+5_  +5+5+3_+5_  +5_+4_+3_  +27+1_6_
+    5_7_+2_  +4+3+1_+3_  +3_+4_+2_  75+1_6_ //]
+BEM[Wariant t. 1: +1_+3_+5_]
+
+DWOK75
+CUT[Zeby nie ta baba jucha]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 23 od Lublina]
+FKT[]
+SIG[7503500000]
+KEY[75035   16  A 3/4]
+MEL[-5_-7_1__1__  1_2_3b__2__
+    4_3b21__1__  1_-7_-6__-5__
+    1_234__4__  4_5_6b__5__
+    7b_6b54__4__  4_3b_2__1__ //]
+BEM[]
+
+DWOK75
+CUT[Ej, obiecał mi kowal]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 23 od Lublina]
+FKT[]
+SIG[7503600000]
+KEY[75036   08  G 3/4]
+MEL[5_5_6_  543_2_  1_3_5_  543_2_
+    2-71_-5_  -5-71_2_  1_3_5_  543_2_ //]
+BEM[Wariant t. 1: 355_6_]
+
+DWOK75
+CUT[Ej, obiecał mi kowal]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 24 od Lublina]
+FKT[]
+SIG[7503700000]
+KEY[75037   16  F 3/8]
+MEL[5_7_+1_  7+2+1_6_  5_7_+1_  642_21
+    533_3_  246_4_  5_3_3_  242_21 //]
+BEM[]
+
+DWOK75
+CUT[Stoi lipa, pod nią korzeń]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 25 Tarnogóra]
+FKT[]
+SIG[7503800000]
+KEY[75038   08  F 3/4]
+MEL[557_+1_  6+17_+1_
+    557_+1_  642_1_
+    335_4_  246_.5
+    557_+1_  642_1_
+    1357+1_  6+17_+1_
+    1357+1_  642_1_
+    13543_  246_.5
+    5357+1_  642_1_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, nowy dwór]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 25 od Baranowa, Bobrownik]
+FKT[]
+SIG[7503900000]
+KEY[75039   08  G 3/4]
+MEL[6_5_4_  335_2_  6_5_4_  (323)1_-7_
+    -5_-5_4_  335_2_  -5_-5_4_  (343)1_2_ //]
+BEM[]
+
+DWOK75
+CUT[Czemużeś się nie ozenił, Bartosie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 26 Tatary]
+FKT[]
+SIG[750400000]
+KEY[75040   08  G 3/4]
+MEL[356_6_  442_4_  5_5_5_
+    356_6_  442_-7_  1_1_1_
+    133_5_  22-7_-5_  5_5_5_
+    333_5_  42-7_-5_  1_1_1_ //]
+BEM[]
+
+DWOK75
+CUT[Czemużeś się nie ożenił, Bartoszu]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 27 od Czemiernik]
+FKT[]
+SIG[7504100000]
+KEY[75041   16  G 3/8]
+MEL[356_6_  442_4_  5_5_5_
+    356_6_  442_-7_  1_1_1_
+    133_54#  22-7_-7_  -5_-5_-5_
+    133_5_  22-7_-5-7  1_1_1_ //]
+BEM[]
+
+DWOK75
+CUT[Pasł gałgan świnie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 28 od Lublina]
+FKT[]
+SIG[7504400000]
+KEY[75044   08  F 6/8]
+MEL[3335_4  277+1_+1
+    3335_4  4-7-71_1 //]
+BEM[Wariant t. 4: 2-7-71_1]
+
+DWOK75
+CUT[Oj, sumiła dąbrowa]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 30 od Lublina (Turka)]
+FKT[]
+SIG[7504700000]
+KEY[75047   16  A 3/4]
+MEL[1_3b_5__5__  4#__5__5__  4_3b21___  -5__-5__-7__
+    1_3b_5__5__  4__2__-7__  1_3b_2__-7__  -5__-7__-7__
+    1_3b4#5__5__  5_4#_5__5__  5_3b21__2__  -5__-5__-7__
+    1_3b_5__5__  4__2__-7__  1_3b_2__1_-7_  -5__-7__-7__ //]
+BEM[Wariant t. 3: 4_2_1___; wariant t. 13: 1_3b4#5__5__]
+
+DWOK75
+CUT[Hej, zieleńże się, zieleń]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 31]
+FKT[]
+SIG[7504800000]
+KEY[75048   16  F 3/4]
+MEL[+2__+2__+1__  7_+2_+2__+1__  7__7__6__  5_432__1__
+    2__4#__5__  7_5_+1__+1__  7__7__6__  5_432__1__ //]
+BEM[]
+
+DWOK75
+CUT[Ej, Jasieńku, Jasieńku]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 31 od Bychway (Gałęzów)]
+FKT[]
+SIG[7504900000]
+KEY[75049   16  A 3/8]
+MEL[2_6_54#  54#5_2_  4_3b_1_  3b2-7_1_
+    -5_-7_1_  3b4#5_1_  2_3b_1_  3b2-7_1_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, zdradziłeś mnie Jasiu]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 32 od Lublina (Turka)]
+FKT[]
+SIG[7505000000]
+KEY[75050   08  G 3/4]
+MEL[123_4_  5_5_4_  654__  3_2_1_
+    124_4_  1_3_2_  124__  3_2_1_ //]
+BEM[]
+
+DWOK75
+CUT[Powiedziałeś, ze mnie weźmies]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 33 od Lublina (Tatary)]
+FKT[]
+SIG[7505100000]
+KEY[75051   08  G 3/4]
+MEL[134_4_  357_7_
+    6+14_4_  353_4_
+    134_4_  534_4_
+    134_4_  353_1_ //]
+BEM[Wariant t. 4: 354_1_]
+
+DWOK75
+CUT[Wróć mi wianek, wróć mi]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 35 od Lublina (Turka)]
+FKT[]
+SIG[7505300001]
+KEY[75053   08  A 3/4]
+MEL[13b4_4_  2_4__
+    43b1_1_  1_-7b_2_
+    213b_3b_  23b21-7b_
+    23b1_1_  1_-7b_-5_
+    ^_13b4_  4_244_
+    43b1_1_  1_-7b_2_
+    211_3b_  3b_21-7b_
+    23b1_1_  1_-7b_-5_ //]
+BEM[]
+
+DWOK75
+CUT[Wróć mi wianek, wróć mi]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 35 od Lublina (Turka)]
+FKT[]
+SIG[7505300002]
+KEY[75053   08  A 3/4]
+MEL[13b4_4_  2_4__
+    43b1_1_  1_-7b_2_
+    213b_3b3b  23b21-7b_
+    23b111_  1_-7b_-5_
+    ^_-6b13b_  2_21-7b_
+    23b111_  1_-7b_2_
+    213b_3b_  3b221-7b_
+    23b111_  1_-7b_-5_ //]
+BEM[]
+
+DWOK75
+CUT[Cztyry konie Jasio mał]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 36]
+FKT[]
+SIG[7505400000]
+KEY[75054   16  G 3/8]
+MEL[(134)6_4_  2_4_1_
+    (134)5_4_  5_7b_6_
+    546_4_  5_7b_6_
+    546_4_  2_4_1_ //]
+BEM[Wariant t. 2 i 8: 2_431_]
+
+DWOK75
+CUT[A moja dziewcyno]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 36 od Lublina]
+FKT[]
+SIG[7505500000]
+KEY[75055   08  G 3/4]
+MEL[575_7_  +1_6__  654_2_  2_1__
+    134_2_  2_5__  534_2_  2_1__ //]
+BEM[Wariant t. 1: 577_+1_]
+
+DWOK75
+CUT[Oj, bida jak sie jeść chce]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 37 od Lublina (Długie)]
+FKT[]
+SIG[7505600001]
+KEY[75056   08 Bb 3/4]
+MEL[246_65  3_1__
+    -72-7_2_  -5_-7_1_
+    134_2_  4_3_1_
+    42431_  -5_-7_1_
+    134_2_  4_3_1_
+    -72-7_2-7  -5_-7_1_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, bida jak sie jeść chce]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 37 od Lublina (Długie)]
+FKT[]
+SIG[7505600002]
+KEY[75056   08 Bb 3/4]
+MEL[246_65  3_1__
+    -72-7_2-7  -5_-7_1_
+    134_2_  4_3_1_
+    424331  -5_-7_1_
+    134_23  4_3_1-7
+    -72-7_2-7  -5_-5-71_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, świci miesiąc w okno]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 37 Tarnogóra]
+FKT[]
+SIG[7505700001]
+KEY[75057   16 Bb 3/4]
+MEL[5__3__5__  4#_2_4#__6__  5__3__3_.2  -7_-5_-6__7_1_
+    3__3__3__  4#_2_3__-6__  3__3__2__  1_-7-5-6__-7_1_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, świci miesiąc w okno]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 37 Tarnogóra]
+FKT[]
+SIG[7505700002]
+KEY[75057   16 Bb 3/4]
+MEL[3__3__5__  4#__6__6__  5__3__3_.2  -7_-5_-6__7_1_
+    3__3__5__  4#_2_3__1__  3__3__2__  1_-7-5-6__-7_1_ //]
+BEM[]
+
+DWOK75
+CUT[Siwy konik zarżał]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 38]
+FKT[]
+SIG[7505800000]
+KEY[75058   16  G 3/4]
+MEL[1_3b_5___  2__4__5__  5_3b21___  -5__-7__-5__
+    -7_2_1___  2__3b__2__  1_2_1___  -5__-7__-5__ //]
+BEM[Wariant t. 2: 2__4__6b__]
+
+DWOK75
+CUT[Oj, wyjezdzaj, wyjezdzaj]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 38 od Lublina (Długie, Jakubowice)]
+FKT[]
+SIG[7505900000]
+KEY[75059   08  G 3/4]
+MEL[+1_5_7b_  +154_6_  +1_5_7b_  +154_1_
+    3_5_5_  464_5_  3_5_5_  464_1_ //]
+BEM[]
+
+DWOK75
+CUT[Z tamtej strony jeziora]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 39]
+FKT[]
+SIG[7506000001]
+KEY[75060   16  A 2/4]
+MEL[1_1_1_-7b_  3b__4__  3b_1__.
+    4_5_6b_5_  4_5_3b__  1___
+    5__7b_6b5  4__-7b__  1_2_4_4_  1__1__
+    3b_4_5_5_  4__3b__  1___ //]
+BEM[]
+
+DWOK75
+CUT[Z tamtej strony jeziora]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 39]
+FKT[]
+SIG[7506000002]
+KEY[75060   16  A 2/4]
+MEL[1_1_1_-7b_  3b_2_4_2_  3b_1__.
+    4_5_6b_53b  4_5_3b__  1___
+    5__7b_6b5  4__-7b__  3b_2_4_4_  1__1__
+    3b_4_5_5_  4_5_3b__  1___ //]
+BEM[]
+
+DWOK75
+CUT[Com zarobiła, tom zarobiła]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 40 od Lublina (Tatary)]
+FKT[]
+SIG[7506100000]
+KEY[75061   16  A 3/4]
+MEL[1__1_2_3b_4_  5__5_5_5_5_  5_5_5_4#_5__  (3b_2_1_)3b___
+    1_-7_1_2_4_3b2  1__1_2_4_3b2  1_3b_5_4#_5__  (4_3b_2_)1__0__ //]
+BEM[Wariant t. 3-5: 5_5_5__5__  (4_3b_2_)3b___  1__1_2_4_3b2]
+
+DWOK75
+CUT[Moja miła Marcynowa]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 41 od Łęczyny]
+FKT[]
+SIG[7506200000]
+KEY[75062   16  G 3/8]
+MEL[531_2_  -7b24_6_
+    531_2_  -7b-5-6b-7b1_
+    -7b24_6_  5_3b_1_
+    -7b24_4_  3b_-7b_1_ //]
+BEM[Wariant t. 8: 3_-5_1_]
+
+DWOK75
+CUT[Oj, puść konia do koni]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 41 od Lublina]
+FKT[]
+SIG[7506300000]
+KEY[75063   08 Bb 3/4]
+MEL[3_4_2_  465_.3
+    331_2-7  -5_-7_.1
+    134_2_  4_431_
+    133_2-7  -5_-7_.1 //]
+BEM[Wariant t. 7: 333_2-7]
+
+DWOK75
+CUT[Zdybałam se ptaska]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 42 od Lublina (Tatary)]
+FKT[]
+SIG[7506400000]
+KEY[75064   08  F 3/4]
+MEL[553_5_  6__3_  332_4_  5__5_
+    553_5_  6__3_  442_-7_  1__1_
+    553_1_  -5_-724_  442_-7_  -5_135_
+    553_1_  -5_-724_  442_-7_  1__1_ //]
+BEM[]
+
+DWOK75
+CUT[A sieje się, sieje się]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 43 od Lublina (Tatary)]
+FKT[]
+SIG[7506500000]
+KEY[75065   16  C 3/4]
+MEL[+1_+2_+3__+3__  +4__+4__+4__  +3_+5_+3__+3__  +4__+4__+4__
+    +3_+5_+3__+3__  +2__+2__+2__  5_6_7__67_.  +1__+1__+1__
+    +5_+4_+2__.+4_  +5__+3__+1__  7_7_6__.5_  7__+2__+1__ //]
+BEM[Wariant t. 5: +3_+5_+6__+4_+3_]
+
+DWOK75
+CUT[Oj, wdowuś, moja wdowuś]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 44 od Lublina]
+FKT[]
+SIG[7506600000]
+KEY[75066   08  A 3/4]
+MEL[7b_7b_5_  6b57b_7b_  7b_7b_5_  6b43b_1_
+    -7b24_6b_  5_7b_7b_  7b_7b_5_  6b43b_1_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, sierotam ja była]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 45 od Lublina]
+FKT[]
+SIG[7506700001]
+KEY[75067   08  A 3/4]
+MEL[3b54_4_  3_4_1_  3b54_4_  3b_2-7b1_
+    -6-7b2_2_  13b4_1_  1-7b2_2_  3b_-7b_1_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, sierotam ja była]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 45 od Lublina]
+FKT[]
+SIG[7506700002]
+KEY[75067   08  A 3/4]
+MEL[3b54_4_  334_1_  3b54_4_  3b_-7b_1_
+    -6-7b2_2_  3b54_1_  -6-7b2_2_  3b_2-7b1_ //]
+BEM[]
+
+DWOK75
+CUT[Ej, a wy, sieroteńki]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 45 od Tarnogóry]
+FKT[]
+SIG[7506800000]
+KEY[75068   08  F 3/4]
+MEL[+1__6+1  77+1_6_  556_4_  3_2__
+    456_.4  3_5_.2  456_.4  2_3__ //]
+BEM[]
+
+DWOK75
+CUT[Tam za Warszawą]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 46 Zamość, Bortatycze]
+FKT[]
+SIG[7506900000]
+KEY[75069   08  G 3/4]
+MEL[1_1354#  5_5775  7+2+1+3_.  +275__
+    +1_57b6+1  5_2432  1346_.  531__ //]
+BEM[]
+
+DWOK75
+CUT[Idzie wojsko borem, lasem]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 47 od Lublina, Łęczny]
+FKT[]
+SIG[7507000000]
+KEY[75070   08  A 3/4 2/4]
+MEL[115_3b1  457b6b  5443b
+    445_3b1  13b43b  46b5_1_  43b1_1_ //]
+BEM[Wariant t. 1: 11543b1; wariant t. 4: 44543b1]
+
+DWOK75
+CUT[Oj, wyjechał Jasieńko]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 48 od Bełżyc (Wronów)]
+FKT[]
+SIG[7507100000]
+KEY[75071   08  F 3/4 4/4]
+MEL[1+1+1_+1_  7+2+1_5_  7b7b6_5_  421__
+    55524_2_  12345_+1_  7b56_5_  421__ //]
+BEM[]
+
+DWOK75
+CUT[Zabierał się Jasio pod Radom na wojenkę]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 63 Tarnogóra, Izbica]
+FKT[]
+SIG[7507200000]
+KEY[75072   16  F 3/4]
+MEL[+1___+1__  +1_+1_+1_7_+2_+1_  5_5_5__3__  4_2_1__0__
+    5_535_3_4_2_  1_4_4_1_4_6_  6__5__3_1_  4_2_1__0__ //]
+BEM[Wariant t. 7: 6_6_5__3_1_]
+
+DWOK75
+CUT[Oj, polecieli siwe gołębie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 51]
+FKT[]
+SIG[7507300001]
+KEY[75073   08  F 4/4]
+MEL[5_565_3_  5_56543_  543_421_
+    10135_42  2_24331_  2433231_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, polecieli siwe gołębie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 51]
+FKT[]
+SIG[7507300002]
+KEY[75073   08  F 4/4]
+MEL[5_56543_  5_56543_  543_421_
+    10345_42  2_24331_  2433231_ //]
+BEM[]
+
+DWOK75
+CUT[Uciekaj, Jasieńku]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 51 od Modliborzyc]
+FKT[]
+SIG[7507400000]
+KEY[75074   16  F 3/8]
+MEL[7_+1_54  3_1__  +17+1_54  321__
+    133_21  244_32  133_21  21-7_1_ //]
+BEM[]
+
+DWOK75
+CUT[W kalinowym lasku]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 52 od Biskupic Lubelskich (Chojno)]
+FKT[]
+SIG[7507500000]
+KEY[75075   16  F 2/4]
+MEL[1234531_  6_.46+17_  5__+1_0_
+    12345_7_  +1_.6422_  1_.35_0_
+    12345_7_  +1_.6422-7  1__1_0_ //]
+BEM[]
+
+DWOK75
+CUT[Tam na górze stoi jawor]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 52 Lubartów]
+FKT[]
+SIG[7507600000]
+KEY[75076   08  A 3/4]
+MEL[3b45_5_  3b45_5_  43b2_3b_  4_5__
+    +1_.56b4  53b2_1_  -725_-7_  2_1__
+    123b_2_  43b2_1_  21-7_2_  1_-5__ //]
+BEM[Wariant t. 5: 3b_.56b4]
+
+DWOK75
+CUT[A jeżeli mnie, moja Maryś, moje złoto]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 53 Lublin]
+FKT[]
+SIG[7507700000]
+KEY[75077   08  G 2/4]
+MEL[1234  54#65  54#65  54#65
+    552_  4#5_3  552_  -72_1 //]
+BEM[]
+
+DWOK75
+CUT[Oj, dziś nasa, dziś nasa]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 55 od Lubartowa (Zawieprzyce)]
+FKT[]
+SIG[7507900000]
+KEY[75079   08  A 3/4]
+MEL[467b_7b5  4_5_3b_  221_1-6  -7b_1_3b_
+    221_13b  4_5_3b_  221_1-6  -7b_1_3b_
+    (456)7b_7b5  4_5_5_  (456)7b_7b5  4_5_3b_
+    221_1-6  -7b_1_3b_  221_13b  4_5_3b_ //]
+BEM[Wariant t. 2: 4_5_5_]
+
+DWOK75
+CUT[Dziwują się ludzie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 56 od Lublina (Tatary)]
+FKT[]
+SIG[7508000000]
+KEY[75080   08  G 3/4]
+MEL[4_4_6_  7b_6_6_  467b_6_  5_3_1_
+    135_5_  4_2_-7b_  -7b24_4_  5_3_1_ //]
+BEM[Wariant t. 3: 667b_6_]
+
+DWOK75
+CUT[Oj, wara, chłopcy, wara]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 56 Tatary]
+FKT[]
+SIG[7508100000]
+KEY[75081   08  F 3/4]
+MEL[+1_+1_+1_  +1+17_7_  7_6_4#_  224#_5_
+    5_6_4#_  57+1_+1_  7_6_4#_  224#_5_ //]
+BEM[Wariant t. 5: 7_5_4#_]
+
+DWOK75
+CUT[Oj, da, grajcie mi]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 57 od Lublina (Jakubowice Murowane)]
+FKT[]
+SIG[7508300001]
+KEY[75083   16  E 3/4]
+MEL[+1__5__7b__  +1_6b54__6b__  +1__5__7b__  +1_6b54__1__
+    1__3__3__  4_6b54__6b__  +1__5__3__  4_6b54__1__
+    +1__5__7b__  (+1_6b_5_)6b__+1__  7b__5__7b__  +1_6b54__1__
+    3__1__3__  4_6b54__5__  3__5__3__  4_6b_4__1__ //]
+BEM[]
+
+DWOK75
+CUT[Oj, da, grajcie mi]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 57 od Lublina (Jakubowice Murowane)]
+FKT[]
+SIG[7508300002]
+KEY[75083   16  E 3/4]
+MEL[+1__5__7b__  +1_6b56b__+1__  +1__5__7b__  +1_6b54__1__
+    1__3__3__  4_6b54__6b__  +1__5__3__  4_6b54__1__
+    +1__5__7b__  (+1_6b_5_)6b__+1__  7b__5__7b__  +1_6b54__(1_2b_1_)
+    3__1__3__  4_6b54__(5_6b_4_)  3__5__3__  4_6b_4__(1_2b_1_) //]
+BEM[]
+
+DWOK75
+CUT[Da, napiłam się troszkę]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 58 od Końskowoli]
+FKT[]
+SIG[7508400000]
+KEY[75084   32  F 3/8]
+MEL[2_34#5__4_3_  2_1-7-6__1__
+    2_4#_5__4_3_  2_-7_-6__1__
+    2_-712__3_4_  3_5_6__4#_3_
+    2_-7_2__3_4#_  2_1-7-6__1__ //]
+BEM[]
+
+DWOK75
+CUT[Da, napiłam się troszkę]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 58 od Puław (Osiny)]
+FKT[]
+SIG[7508500000]
+KEY[75085   16  C 3/4]
+MEL[+1__+3__+3__  +1_.+3+3__+2__
+    7__+2__+1__  +1_.+3+3__+1__
+    +1__+3__+3__  +1_+3_+3__+2__
+    7__+2__+1__  +1_.+3+3__+1__ //]
+BEM[]
+
+DWOK75
+CUT[Oj, pamiętaj, dziewcyno]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 59 od Tarnogóry]
+FKT[]
+SIG[7508600001]
+KEY[75086   08  G 3/4]
+MEL[2_2_2_  24#5_6_  654_3_  2_-6__
+    2-71_2_  345_.1  431_3_  2-71__ //]
+BEM[]
+
+DWOK75
+CUT[Oj, pamiętaj, dziewcyno]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 59 od Tarnogóry]
+FKT[]
+SIG[7508600002]
+KEY[75086   08  G 3/4]
+MEL[2_2_6_  64#5_6_  654_35  2_-6__
+    -5-71_2_  345_.2  43315_  2-71__ //]
+BEM[]
+
+DWOK75
+CUT[A widzis ty moją bidę]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 59 od Firleja]
+FKT[]
+SIG[7508700001]
+KEY[75087   08  G 3/4]
+MEL[346_6_  57+1_5_
+    346_+17  542_1_
+    346_6_  57+1_6_
+    346_+17  542_1_ //]
+BEM[]
+
+DWOK75
+CUT[A widzis ty moją bidę]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 59 od Firleja]
+FKT[]
+SIG[7508700002]
+KEY[75087   08  G 3/4]
+MEL[346_6_  (567)+1_5_
+    346_+17  542_1_
+    346_6_  (535)6_4_
+    346_6_  542_1_ //]
+BEM[]
+
+DWOK75
+CUT[Na Kujawach powiadają]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 60 od Lublina, Chełma]
+FKT[]
+SIG[7508800000]
+KEY[75088   16  G 3/8]
+MEL[135_7b_  656_4_  6+17b__  6+17b__
+    135_67b  +164_6_  351__  351__ //]
+BEM[Wariant t. 8: 354__]
+
+DWOK75
+CUT[Ej, parobeczek ci ja z Sandomierza]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 61 Tatary]
+FKT[]
+SIG[7508900000]
+KEY[75089   08  G 3/4]
+MEL[+1_+1_+1_  +2+17_65  67+1_4_  653_1_
+    2_4_4_  335_5_  67+1_4_  653_1_ //]
+BEM[Wariant t. 5: 2_4_32]
+
+DWOK75
+CUT[Takie kwaśne mliko dobre]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 61 od Firleja, Kamionki (i pod Urzędowem)]
+FKT[]
+SIG[7509000000]
+KEY[75090   16  G 3/4]
+MEL[1_3_4__5__  6__6_5_4__  4_3_4__5__  6__4___
+    6_6_+1__+1__  +1_+1_7__5__  5_5_7b__7b__  7b6564___ //]
+BEM[]
+
+DWOK75
+CUT[Hej, chodziła po miedzy]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 62]
+FKT[]
+SIG[7509100000]
+KEY[75091   08  F 3/4]
+MEL[332_4#_  5_6_.5
+    7+2+17+1_  7_6_.4#
+    332_4#_  5_6_.4#
+    332_4#_  5_2_.1
+    324#_5_  6_+1__
+    7+2+177_  5_6_.4#
+    324#_5_  5_6_.4#
+    324#_5_  5_2_1_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, u nasego pana]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 62 od Urzędowa (Boby)]
+FKT[]
+SIG[7509200000]
+KEY[75092   08  G 3/4]
+MEL[5_5_5_  565_2_  3_3_5_  432_3_
+    -5_-7_1_  -7-71_2_  3_3_5_  432_3_ //]
+BEM[Wariant t. 2: 565_1_; wariant t. 6: -5-71_2_]
+
+DWOK75
+CUT[Kościółek z descułek]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 63 od Lublina (Tatary)]
+FKT[]
+SIG[7509300000]
+KEY[75093   08  G 3/4]
+MEL[1_4_5_  6_6_7b_  6_6_7b_
+    6_6_5_  4_7b__  6_6_5_  4_1__
+    4_6_5_  5_123_  4_6_5_  4_1_3_
+    4_6_5_  4_7b__  6_5_4_  431__ //]
+BEM[Wariant t. 7: 431__]
+
+DWOK75
+CUT[Oj, zeby nie kowale]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 64 Tarnogóra]
+FKT[]
+SIG[7509400000]
+KEY[75094   08 Bb 3/4]
+MEL[3_3_5_  543_1_  3_3_2_  -7-5-6_1_
+    3_3_23  4_2_1_  1_3_2_  -7-5-6_1_
+    5_3_5_  543_1_  5_4321  -7-5-6_1_
+    1__2_  243-71-5  3_432-7  -7-5-6_1_ //]
+BEM[Wariant t. 3: 1_1_2_; wariant t. 10: 543_13]
+
+DWOK75
+CUT[A u tego gospodarza]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 65 od Lubartowa]
+FKT[]
+SIG[7509500000]
+KEY[75095   16  G 3/4]
+MEL[1_3_4__5__  6_.67b__6__  5_.56__5__  4_.43__1__
+    (1_2_3_)4__3__  2_2_3__5__  (1_2_3_)4__3__  2_2_3__1__ //]
+BEM[Wariant t. 1: 123_4__5__; wariant t. 7: 5_5_4__3__]
+
+DWOK75
+CUT[Oj, Boze, o mój Boze]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 65 od Lublina]
+FKT[]
+SIG[7509600000]
+KEY[75096   08  G 3/4]
+MEL[+1_+1_+1_  +16+1_+1_  57b6_3_  5_4__
+    5_6_4_  57b+1_+1_  57b6_3_  5_4__
+    3_5_5_  4-72_1_  5_5_5_  4-72_1_ //]
+BEM[]
+
+DWOK75
+CUT[O Boże, o mój Boże]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 66 od Opola]
+FKT[]
+SIG[7509700000]
+KEY[75097   16  G 3/8]
+MEL[+1_+1_+1_  +16+1_+1_  57b6_3_  5_4__
+    5_6_4_  57b+1_4_  57b6_3_  5_4__
+    355_5_  324_3_  134__  4-72_1_
+    535_5_  424_3_  135__  4-72_1_ //]
+BEM[]
+
+DWOK75
+CUT[Kobyła w olsynie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 67 od Janowa Ord.]
+FKT[]
+SIG[7509900000]
+KEY[75099   16  D 3/8]
+MEL[46+1__  6_+1_+1_
+    66+1_7b_  5_3_1_
+    134__  5_6_6_
+    57+1__  5_3_1_ //]
+BEM[]
+
+DWOK75
+CUT[Oj, dobra moja główka]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 68 od Lublina]
+FKT[]
+SIG[7510100000]
+KEY[75101   08  A 3/4]
+MEL[5_.4#24#  5_3b_2_  -7-7-6_-5_  -7_2_.1
+    -5-71_2_  1_2_.1  -7-7-6_-5_  -7_2_.1 //]
+BEM[]
+
+DWOK75
+CUT[Oj, dziwują sie ludzie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 69 od Lublina (Tatary)]
+FKT[]
+SIG[7510200000]
+KEY[75102   08  C 3/4]
+MEL[+4_+4_+4_  +3+4+3_+3_  +3_+2_.7  557_+1_
+    +1_+2_7_  +1+3+4_+4_  +1_+2_.7  557_+1_
+    +4_+4_+5+3  +4+5+3_+4+3  +5+3+2_.7  557_+1_
+    +1_+2_.7  +1+1+2_+4_  +3_+2_.7  557_+1_ //]
+BEM[Wariant t. 2: +4+4+3_+3_; wariant t. 5: +3_+2_7_]
+
+DWOK75
+CUT[Oj, leć głosie po rosie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 70]
+FKT[]
+SIG[7510300000]
+KEY[75103   08  G 3/4]
+MEL[5_5_7b_  6+1+1_7b_  5_5_.4  2-7b1_3_
+    5_5_.4  667b_5_  5_5_.4  2-7b1_3_ //]
+BEM[Wariant t. 1: 7b_5_7b_; wariant t. 6: 6+17b_5_]
+
+DWOK75
+CUT[Oj, załozył się sokół]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 70 od Wąwolnicy (Słotwiny)]
+FKT[]
+SIG[7510500000]
+KEY[75105   08  A 3/4]
+MEL[5_5_5_  554_1_  3b_3b_3b_  2-71_1_
+    -7_1_3b_  554_1_  3b_3b_3b_  2-71_1_ //]
+BEM[Wariant t. 2: 46b5_41]
+
+DWOK75
+CUT[Z tamtej strony Jaworowa]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 71 od Puław]
+FKT[]
+SIG[7510600000]
+KEY[75106   08  D 3/4]
+MEL[46+1_7b_  57b+2_+1_
+    46+1_7b_  531_4_
+    355_5_  424_3_
+    35+1_+3_  +27+2_+1_ //]
+BEM[Wariant t. 7-8: +1+3+3_+3_  +275_+1_]
+
+DWOK75
+CUT[Z tamtej strony Jaworowa]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 71 Krzeszów, Szczebrzeszyn]
+FKT[]
+SIG[7510700000]
+KEY[75107   16  G 3/8]
+MEL[132_34  556_1_
+    132_34  332_-5_
+    132_34  556_1_
+    132_34  322_1_ //]
+BEM[]
+
+DWOK75
+CUT[Ctery mile za Warsawą]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 72 od Firleja, Miechowa]
+FKT[]
+SIG[7510800000]
+KEY[75108   08 Bb 3/4]
+MEL[-724_6_  653531  354_31  222-71_
+    -724_4_  323_1_  246_6_  222-71_ //]
+BEM[Wariant t. 4: 2_2-71_]
+
+DWOK75
+CUT[Ozenił sie rano]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 73 od Szczebrzeszyna (Radecznica)]
+FKT[]
+SIG[7511000000]
+KEY[75110   08 Bb 3/4]
+MEL[032_4_  6_531_
+    332_4_  -5_-721_
+    332_4_  2-72-724
+    332_4_  2_-721_
+    132_4_  6_6_5_
+    246_5_  -5_-721_
+    332_4_  2-72-724
+    532_4_  2_-721_ //]
+BEM[Wariant t. 6-7: 2-72-756  532_4_]
+
+DWOK75
+CUT[Słomiane woły miał]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 73 Tatary]
+FKT[]
+SIG[7511100000]
+KEY[75111   08  F 3/4]
+MEL[553_5_  6__3_
+    442_4_  5__5_
+    553_5_  6__3_
+    442_-7_  1__1_ //]
+BEM[]
+
+DWOK75
+CUT[Powidz, luba, powiedz szczerze]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 75 Lublin]
+FKT[]
+SIG[7511300000]
+KEY[75113   08  A 3/4]
+MEL[123b_2_  1-71_-5_  -5-5-6_-7_  1__.
+    13b5_.4  3b23b_5_  7b_.6b45  3b_0__
+    5_.23b2  1_0__  -724_.-7  1_0__ //]
+BEM[]
+
+DWOK75
+CUT[Chodziłam po sadzie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 77 Lubartów]
+FKT[]
+SIG[7511400000]
+KEY[75114   16  G 2/4]
+MEL[-5_-7_-7_2_  3_5__0_
+    5_4_4_2_  3_5__0_
+    -7_-7_-7_-7_  1_1__0_
+    5_4_4_-7_  1_1__0_
+    4_6_+1_.6  6_+1_0__ //]
+BEM[]
+
+DWOK75
+CUT[Sam nie wiem, co się to znaczy]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 78 Lublin]
+FKT[]
+SIG[7511500000]
+KEY[75115   16  G 6/8]
+MEL[5_  3__3_2_-7_2_  1__3_-5__
+    3_  5__5_6_5_6_  2__5_5_0_
+    13  3__3_4_3_4_  5__6_6__
+    6_  5__3_5_4_-7_  2__.1_0_ //]
+BEM[]
+
+DWOK75
+CUT[Z wysokich Parnasów]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 79 od Lublina, Zamościa]
+FKT[]
+SIG[7511600000]
+KEY[75116   16  G 3/4]
+MEL[-5_.13_5_4_3_
+    2_5_2_2_1-7-6-5
+    -5_1_3_5_4_3_  2_251___
+    2_.-5-5_-5_-7_2_
+    3_.11_1_1_3_
+    1_2_3_5_4_3_  2_251___ //]
+BEM[Wariant t. 5: 2_.-5-5_-5_-5_2_]
+
+DWOK75
+CUT[A biedny ja parobecek]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 80 od Piasków, Biskupic]
+FKT[]
+SIG[7511700000]
+KEY[75117   32  G 3/8]
+MEL[3__.2_4_6_  5_432__5__
+    1_3_2__4_6_  5_432__1__
+    1__.3_2_4_  1_3_2__4_3_
+    1_3_2__4_6_  5_432__1__ //]
+BEM[Wariant t. 2: 5_432__6__; wariant t. 4 i 8: 5_432__-7__]
+
+DWOK75
+CUT[Jak ty spać będziesz]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 80 Zamość, Boratycze]
+FKT[]
+SIG[7511800000]
+KEY[75118   08  C 6/8]
+MEL[555+3_+1  +2+4+2+1_5
+    555+3_+1  +2+2+2+1_+1
+    555+3_+1  +1+2+2+5_5
+    555+3_+1  +2+27+1_+1 //]
+BEM[]
+
+DWOK75
+CUT[O, jak ciężko wzdychać sercu niewinnemu]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 81 Lublin]
+FKT[]
+SIG[7511900001]
+KEY[75119   16  C 3/4]
+MEL[5_+1_+3_+5_+5_+4+3  +2_+3_+2_+1_7_5_
+    5_+1_+3_+5_+6_+4+3  +2_+3_+2__+1__
+    +2_7_5_5_+4__  +3_+3_+2_+2_+1__
+    5_+1_+3_+5_+6_+4_  +3+2+177__+1__ //]
+BEM[]
+
+DWOK75
+CUT[O, jak ciężko wzdychać sercu niewinnemu]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 81 Lublin]
+FKT[]
+SIG[7511900002]
+KEY[75119   16  C 3/4]
+MEL[5_+1_+3_+5_+5_+4+3  +2+3+4+3+2+17+17_5_
+    5_+1_+3_+5_+6_+4+3  +2_+3+4+2+3+2+1+1__
+    +2_7_5_5_+4__  +3+5+3+1+2+4+27+1__
+    5_+1_+3_+5_+6_+4_  +3+2+177__+1__ //]
+BEM[]
+
+DWOK75
+CUT[O, jak ciężko w życiu kochać skrycie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 82 Lublin]
+FKT[]
+SIG[7512000000]
+KEY[75120   16  C 3/4]
+MEL[+1_+1_+1_+1_+1+3+2+1  +5_.+3+1_5_+1__
+    7_7_7_7_7+275  +1_+1_+1_+1_+1+5+3+1
+    7_7_7_7_7+275  +1_+1_+1_+1_+1+5+3+1
+    +4_+5_+6_+5_+4__  +4+3+3+5+2__+1__ //]
+BEM[Wariant t. 1: +1_+3+2+1_+3+2+1+3+2+1]
+
+DWOK75
+CUT[Niechaj ci będzie Chrystus pochwalony]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 83 Lublin]
+FKT[]
+SIG[7512100000]
+KEY[75121   16  G 3/4]
+MEL[5__3_3_3_3_  5_.36_5_4_3_
+    4__2_2_2_2_  4_.35_4_3_2_
+    2__4_2_-7_-5_  1_3_5___
+    4__6_4_3_2_  3_.21___ //]
+BEM[Wariant t. 5: 2__4_2_1_-7_; wariant t. 8: 34231___]
+
+DWOK75
+CUT[A skądżeście w tej sukmanie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 84 od Kaźmierza]
+FKT[]
+SIG[7512200001]
+KEY[75122   32  G 3/8]
+MEL[1_3_4__5__  4_.67b__5__
+    4_.66__6__  +1_.67b__5_3_
+    3_5_+1__.3_  4_2_2__5__
+    1_3_3__3__  4_2_2__1__ //]
+BEM[]
+
+DWOK75
+CUT[A skądżeście w tej sukmanie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 84 od Kaźmierza]
+FKT[]
+SIG[7512200002]
+KEY[75122   32  G 3/8]
+MEL[(1_2_3_)4__5_3_  4_.67b_6_5_3_
+    4_.66_5_6_7_  +1_.67b_6_5_4_
+    5_7_+1__.3_  4_2_2__5__
+    1_3_3_1_2_3_  4_2_2__1__ //]
+BEM[]
+
+DWOK75
+CUT[Och, ty, coś zajęła całą moją duszę]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 85 Lubartów]
+FKT[]
+SIG[7512300000]
+KEY[75123   16  A 4/4]
+MEL[3b_3b_3b_3b_2__4__  5_4_3b_2_3b453b1__
+    2_1_-7_2_-5__-5__  5_.43b_2_123b21__
+    2_1_2_-7_-5__-5__  5_4_3b_2_1__1__ //]
+BEM[]
+
+DWOK75
+CUT[Płynie potok doliną]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 86 Lubartów]
+FKT[]
+SIG[7512400000]
+KEY[75124   16  A 2/4]
+MEL[13b5_5_5_  4_.3b2__  3b_5_5_5_  4_3b_2__
+    1_123b_1_  2_.3b2__  -7_-5_-5_-6-7  1_2_1__ //]
+BEM[]
+
+DWOK75
+CUT[Potok płynie]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 87 od Lublina]
+FKT[]
+SIG[7512500000]
+KEY[75125   16  G 2/4]
+MEL[13b5_5_5_  4_.3b2__  3b_5_5_5_  4_.3b2__
+    1_123b_1_  1_.21__  -7_-5_-5_-6b-7  1_.21__ //]
+BEM[Wariant t. 1: 1_3b55_5_]
+
+DWOK75
+CUT[Porusz się, porusz]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 87 Zamość, Bortatycze]
+FKT[]
+SIG[7512600000]
+KEY[75126   08  F 3/4]
+MEL[5_5565  67+1+175
+    7_+2+223  44352-7
+    5_5565  67+1+175
+    7_+2__  24352-7
+    35552-7  234431
+    35553_  5_2_1_ //]
+BEM[]
+
+DWOK75
+CUT[Dobry wieczor, moja miła]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 88 Zamość, Bortatycze]
+FKT[]
+SIG[7512700000]
+KEY[75127   08  C 3/4]
+MEL[+1+2+3_5_  +1+2+3_5_  +17+1_+3_  +6_+5__
+    +5+55_+4_  +3+35_+1_  776_7_  +1+3+5__
+    +5+55_+4_  +3+35_+1_  776_7_  +2_+1__ //]
+BEM[]
+
+DWOK75
+CUT[W tej wioseczce, przy chateczce]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 89 Lublin]
+FKT[]
+SIG[7512800000]
+KEY[75128   16  A 3/4]
+MEL[1_2_3b__.2_  1_2_3b__.2_  1_2_3b_3b_4_4_  5___0__
+    5_5_+1__.6b_  5_4_4__.3b_
+    3b_3b_3b__4_3b_  2_.22__(2_4_6b_)  6b__.5_5_-7_  1___. //]
+BEM[]
+
+DWOK75
+CUT[W tej wioseczce, przy chateczce]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 90]
+FKT[]
+SIG[7512900000]
+KEY[75129   16  A 2/4 3/4]
+MEL[1_2_3b_2_  1_2_3b_1_  1_2_3b_2_3b_3_  4_4_4_0_
+    7b_.6b5_4_  4_3b_3b_21
+    3b_3b_3b_43b  2_2_2_46b  6b_.55_-7_  1_0_
+    7b_6b_5_4_  4_4_3b_21
+    3b_3b_3b_43b  2_2_2_46b  6b_5_5_-7_  1_0_ //]
+BEM[]
+
+DWOK75
+CUT[Niejeden myśliwy po polu poluje]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 91 Lubartów]
+FKT[]
+SIG[7513000000]
+KEY[75130   08  G 4/4]
+MEL[-5111322_  -7222431_
+    -51113_2_  21-7-6-6-5-5_
+    5_3_1__  65432__
+    -5-7246_.5  542-71__ //]
+BEM[Wariant t. 2: 2222431_]
+
+DWOK75
+CUT[Chłopek ci ja]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 93 Zamość, Bortatycze]
+FKT[]
+SIG[7513100000]
+KEY[75131   08  G 3/4]
+MEL[-511_1_  -7_2__  133_5_  5_4__
+    3_.-71-6  -5-4-6_-5_  444_-7_  2_1__ //]
+BEM[Wariant t. 3: 333_3_]
+
+DWOK75
+CUT[Niejednych ciekawość budzi]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 94 Lublin]
+FKT[]
+SIG[7513200000]
+KEY[75132   16  G 2/4]
+MEL[1_.33_3_  3_3_4_3_  5_.55_5_  5_5_6_5_
+    1_.33_3_  3_3_4_3_  5_.55_5_  5_4_6_5_
+    5__5__  +1___  7_.66_5_  7___  2_.22_3_  1__0__ //]
+BEM[]
+
+DWOK75
+CUT[O co to teraz na świat nastaje]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 95 od Łęczny]
+FKT[]
+SIG[7513300001]
+KEY[750133  08  G 4/4]
+MEL[1_345_.3  5_+16655_
+    33444_.2  11221_.1 //]
+BEM[]
+
+DWOK75
+CUT[O co to teraz na świat nastaje]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 95 od Łęczny]
+FKT[]
+SIG[7513300002]
+KEY[750133  08  G 4/4]
+MEL[11345_.3  55+16655_
+    44644342  11221_.1 //]
+BEM[]
+
+DWOK75
+CUT[Cóż to ze mnie za wielki kiep]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 95 Lubartów]
+FKT[]
+SIG[7513400000]
+KEY[75134   08  G 6/8]
+MEL[-5135_1  1_-7-7_0  -5-724_6  5_43_0
+    -5135_1  1_-7-7_0  -5-724-6-7  2_.10_ //]
+BEM[]
+
+DWOK75
+CUT[Bracia, gdy już pić przestaniem]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 98 Lublin]
+FKT[]
+SIG[7513600000]
+KEY[75136   08  G 3/4]
+MEL[311365  542_0_  -7-6-712-7  -5_0_0_
+    311123  466_0_  55654#5  3_0__
+    311123  466_0_  55654-7  1_0__ //]
+BEM[]
+
+DWOK75
+CUT[Wszy d(upę) zjadły, a resztę gnidy]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 99 Lublin]
+FKT[]
+SIG[7513700000]
+KEY[75137   08  G 3/4]
+MEL[5_5_6_  5__4_  3_3_4_  3_2__
+    -5_-5-5-6-7  1_11-7-6  -5_-6_-7_  2_1__ //]
+BEM[Wariant t. 4: 322__; wariant t. 7: -5-5-6_-7_]
+
+DWOK75
+CUT[Ma ta panna figla, figla]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 100 od Puław]
+FKT[]
+SIG[7513800000]
+KEY[75138   08  G 2/4]
+MEL[1234  5_+1_  5_+1_  6666  531_
+    4464  3353  2242  135_
+    4464  3353  2242  1_1_ //]
+BEM[]
+
+DWOK75
+CUT[Bartoszu, Bartoszu]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 101 Lublin]
+FKT[]
+SIG[7513900000]
+KEY[75139   08  F 2/4]
+MEL[135_  135_  46_6  5531
+    2432  3_-5_  -5-72_  13_5
+    2432  3_-5_ //]
+BEM[]
+
+DWOK75
+CUT[Nad Pilicą we wsi Rogu]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 101 Lublin]
+FKT[]
+SIG[7514000000]
+KEY[75140   08  D 3/4]
+MEL[555+3b+2+1  +1_7_0_
+    56b56b54  4_3b_0_
+    57+2+4#+57  +1+2+3b__
+    7+1+2+27+2  +2_+1_0_ //]
+BEM[Wariant t. 1: 57+1+3b+2+1]
+
+DWOK75
+CUT[Co to za gwar, w Warszawie car]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 103 Lublin]
+FKT[]
+SIG[7514100000]
+KEY[75141   16  G 4/4]
+MEL[1__3_1_5___  1__3_1_5___
+    1_1_3_5_+1_5_+1_5_  +1_5_+1_5_+1__0__
+    2_2_4_4_6_6_5_3_  5_5_4_2_6_6_5_3_
+    2_2_4_4_6_6_5_3_  5_5_6_5_1__0__ //]
+BEM[Przygrywka: 1_234567+1_5_3_1_  -5_-6-71234#5_2_-7_-5_; wariant t. 2-4: 1_3_3_1_5__  1_1_3_5_+1_55+1_5_  +1_55+1_5_+1__0__]
+
+DWOK75
+CUT[Instrumentalna - Polonez]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 104 Lublin]
+FKT[]
+SIG[7514200000]
+KEY[75142   16  A 3/4]
+MEL[-7b_3b__-7b_5_5_  5_4#_4__0_3b_  3b_2__-7b_1_2_  4_.3b3b___
+    7b_7b__6_7b_6b_  6b_.55___  7b_6_6b__.5_  5_.44___
+    -7b_3b__23b43b23b  21-716b_.543b21  -7b123b456b7b0__
+    5_.4#5_4_3b_2_  3b_2_1-5-6b-7b123b4  5_.4#5_4_3b_2_
+    43b23b1__.3b_  2_-7_-5_-5_5_4_  43b23b1__+1__
+    765__5_6_7_  +1_.+2+1_+5_+4+3b+2+1  76b5__5_6_7_  +1_7b_5_5_4_3b_ //]
+BEM[Wariant t. 16: 43b23b1__.23b]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 105 Lublin]
+FKT[]
+SIG[7514300000]
+KEY[75143   16  G 3/4]
+MEL[3__.2#3432#3  3_.1-6___
+    3_3_6__.5_  5_4_4__0__
+    7_6_5#_4_3_2_  1-7123__0__
+    -7_.-7-7_4_3_-5#_  -6_1_3_5#_6__
+    -71-7-6-7_4_3_-5#_  -6_1-7-7__-6__
+    -3_-3-3-3_-3_3_2_  2_1_1___
+    3_2#_3_4_3_2_  121-71__-6__
+    -7_3_-3__.-4#-5#  -6-5#-6-71-7124321
+    -7_3_-3__.-4#-5#  -6_1-7-7__-6__
+    1_111_1_2_2_  3b_3b3b3b_3b_4_4_
+    5_555_5_4_4_  3b_3b3b2_2_2_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 106 Lublin]
+FKT[]
+SIG[7514400000]
+KEY[75144   16  D 3/4]
+MEL[+1+1+1_+1+1+1_+1+1+1_  7+1+275_.44_3_
+    +1+1+1_+1+1+1_+1+1+1_  +1+2+355___
+    +2+2+2_+2+2+2_+2+2+2_  +2+3+4+25___
+    567+1+2+1765_+4_  +3+2+177__+1__ //]
+BEM[Wariant t. 2: 7+1+275__4_3_]
+
+DWOK75
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 106 od Czemiernik]
+FKT[]
+SIG[7514500000]
+KEY[75145   16  G 3/8]
+MEL[46+1_.6  7b+27b_3_  465_+1_  654_1_
+    46+1_.6  7b+27b_3_  465_31  4_4__
+    531_.3  2-6-7_-5_  -724_32  (135)+1_76
+    531_.3  2-6-7_-5_  -724_32  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 107 od Lublina]
+FKT[]
+SIG[7514600000]
+KEY[75146   16  C 3/4]
+MEL[+1_+3b_+5__+5__  +4#_+2_+4#__+5__
+    +1_+3b_+6b__.+5_  +4_5_7__+1__
+    +1_.+3b+2__+1__  +2_+5_+4#__+5__
+    +3b_.+3b+2__+1__  7_.57__+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 107 od Baranowa]
+FKT[]
+SIG[7514700000]
+KEY[75147   08  G 3/4]
+MEL[5_3_1_  -725__  -725-724#  653-713
+    5_3_1_  -725__  -725-724#  5__1_
+    -5-72_1-7  135_43  234#24#6  5_3_1_
+    -5-72_1-7  135_43  234#24#6  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 108 Żyrzyn]
+FKT[]
+SIG[7514800000]
+KEY[75148   08  G 3/4]
+MEL[+1_5_54  365_31  (-5-72)4_2-7  12345_
+    +1_5_54  365_31  (-5-72)4_2-7  1_1__
+    -5_-5_-6-7  123_21  -724246  653531
+    -5_-5_-6-7  123_21  -72465-7  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 108 Żyrzyn]
+FKT[]
+SIG[7514900000]
+KEY[75149   08  G 3/4]
+MEL[+1_5_54  313543  2-72342  12345_
+    13-5__  136__  546342  123-71-5
+    13-5__  136__  546342  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 108 Osiny]
+FKT[]
+SIG[7515000010]
+KEY[75150   08  G 3/4]
+MEL[3b2123b4  5_+1__  6b5456b_  5_4__
+    3b_5_.4  3b243b21  -7257+27  +1_+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 109 Osiny]
+FKT[]
+SIG[7515000020]
+KEY[75150   08  A 3/4]
+MEL[4_.567b  +1_+17+16  +2_+1_6_  +1_+17+16
+    4_4567b  +1_+17+16  1_-7123  4__. //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna - Mazur]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 109]
+FKT[]
+SIG[7515100000]
+KEY[75151   16  G 3/4]
+MEL[(+1_+2_+1_)7_+2_+1_7_  6_5_4__4_3_  2_5_4_6_5_4#_  5_5_3__1__
+    -5__.-7_2_-7_  1_.35__4_3_  2_3_4_3_4_6_  7_5_4__(1_-7_-6_)
+    -6_-5_-5_-7_2__  1_3_5__4_3_  2_3_4_6_5_-7_  1__1___ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 110]
+FKT[]
+SIG[7515200000]
+KEY[75152   08  G 3/4]
+MEL[353565  353565  353565  4#56567
+    +1_+1_7_  6_^434  6_.46_  653_1_
+    234242  135_5_  6_646_  653_1_  234242  1_1__
+    5_4#565  4#5654#5  654#565  4#56567
+    +1_+1_7_  6_346_  246_6_  653_1_ //]
+BEM[Wariant t. 18: 65657_]
+
+DWOK75
+CUT[Instrumentalna - Obertas z końca świata]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 111 od Lublina, Głuska]
+FKT[]
+SIG[7515300000]
+KEY[75153   08  G 3/4]
+MEL[123_32  331_23  (454)2_2_  -5-71_1-7  11-6_-6_  (232)2-7-5_
+    5__5_  54#5_5_  5_2_5_  (4#54#)2_1_  1_2_5_  (4#54#)2_1_  -712_5_  (4#64#)2_1_ //]
+BEM[Dwudźwięki; wariant t. 7: 5_5_5_; wariant t. 14: (4#64#)2_1-7]
+
+DWOK75
+CUT[Instrumentalna - Walc]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 111 od Lublina]
+FKT[]
+SIG[7515400000]
+KEY[75154   08  F 3/4]
+MEL[5_54#54  3_-5131  2_-5-72-7  1_1234
+    5_54#54  3_-5131  2_-5-72-7  1_1__
+    1_-5_3_  -7_-5_1_  -7_-5-72-7  1_-5112
+    1_-5_3_  -7_-5_1_  -7_-5-72-7  1__.
+    4#_5_2_  2_-7_2_  1_-6_1_  1_-7_2_
+    4#_5_2_  2_-7_2_  1_-6_1_  -7__. //]
+BEM[Wariant t. 4: 3_1234; wariant t. 20: 1_-7_4#_]
+
+DWOK75
+CUT[Instrumentalna - Owczarek]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 112 od Czemiernik, Kocka]
+FKT[]
+SIG[7515500001]
+KEY[75155   08  G 3/4]
+MEL[134_6_  5_7b64_  57b+1_6_  +175_5_
+    134_6_  5_6_4_  53b1_1_  -7b_2_1_
+    135_5_  (567b)+1_+1_  +164_4_  46+175_
+    1_5_5_  534_6_  642_2_  -7b2431_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna - Owczarek]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 112 od Czemiernik, Kocka]
+FKT[]
+SIG[7515500002]
+KEY[75155   08  G 3/4]
+MEL[134_6_  5_(7b65)5_  57b+1_6_  46+17b5_
+    134_6_  5_(7b65)4_  53b1_1_  -7b2431_
+    13546_  57b+1_+1_  +164_4_  46+175_
+    134_6_  534_6_  642_2_  -7b2431_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna - Owczar]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 113 Lublin]
+FKT[]
+SIG[7515600000]
+KEY[75156   08  G 3/4]
+MEL[123453  57b6564
+    57b6564  57b6564
+    +17b6567b  5_.7b+2+1
+    5_57b+2+1  5_57b+2+1
+    +17b6567b  5__.
+    123454  321-7b-6-5
+    -6_.-4-61  -5_-5-7b21
+    -6_.-4-61  -5__. //]
+BEM[Dwudźwięki]
+
+DWOK75
+CUT[Instrumentalna - Owczarska]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 113 od Józefowa Ord(ynackiego), Annopola]
+FKT[]
+SIG[7515700000]
+KEY[75157   16  G 3/8]
+MEL[123_32  3_1_23  4_2_2_
+    -5-71_1-7  1_-6_-6_  2_-5_-5_
+    5__5_  64#5_5_  5_2_5_
+    4#_2_1_  1_2_5_  4#_2_1_
+    -712_5_  4#_2_1_ //]
+BEM[Wariant t. 2: 331_23; wariant t. 4-5: 123_1-7  11-6_-6_]
+
+DWOK75
+CUT[Instrumentalna - Owczarski]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. od Miechowa]
+FKT[]
+SIG[7515800000]
+KEY[75158   08  G 3/4]
+MEL[146_65  7+2+1__  146_65  7b64__
+    146_65  664_6+1  7b_531_
+    134_45  42-7b242  3b_2-7b1_
+    +1__.  +1_7+2+1_  +17+2_+1_
+    +1+16_65  6_4_6+1  7b_641_
+    134_45  42-7b242  3b_2-7b1_ //]
+BEM[Wariant t. 2: 46+1__; wariant t. 4: +17b6__]
+
+DWOK75
+CUT[Instrumentalna - Owczarska]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 115 od Firleja, Michowa]
+FKT[]
+SIG[7515900000]
+KEY[75159   16  G 3/8]
+MEL[146_65  7b+2+1__  146_5_  7b54__
+    146_65  6_4_6+1  7b_641_
+    134_45  42-7b242  3b_2-7b1_
+    +1__.  ^_7+27_  +17+2_+1_  +1+16_65 //]
+BEM[Wariant t. 6: 664_6+1]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 116]
+FKT[]
+SIG[7516000000]
+KEY[75160   08  G 3/4]
+MEL[146_65  646_65  646_65  646_7b_
+    +1+2+1_64  31234_  146_65  646_65
+    646_65  6_6_6_  646_+1+2  7b+16_54
+    31234_  (123)4_6_  534564  134_6_
+    54321_  (123)4_6_  534564  134_6_
+    54321_  (123)4_6_  5_4_6_  134_.6  54354_
+    (123)4_.2  543234  543234  54321_
+    (123)4_.2  543234  543234  54354_ //]
+BEM[Wariant t. 5: (7b+1+2)+1_64; wariant t. 12: 7b+26_54]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 116 Tatary]
+FKT[]
+SIG[7516100000]
+KEY[75161   08  G 3/4]
+MEL[66+1_+1_  7b+2+2_+1_  66+1_+1_  7b55_4_
+    335_5_  466_5_  335_5_  422_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna - Pasterska]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 117]
+FKT[]
+SIG[7516200000]
+KEY[75162   08  G 3/4]
+MEL[135_6_  4#4#2_4#_  6_5_3_
+    135_6_  4#4#2_-7_  1_-7-6-5_
+    -51234_  31342-7  1_3_2-7
+    -51234_  31342-7  1_-7-6-5_
+    135_6_  4#4#2_3_  4#_653_
+    135_6_  4#4#3_-7_  1_1-7-5_ //]
+BEM[Wariant t. 2: 4#4#2_34#; wariant t. 7: -5123(454); wariant t. 9: 1_342-7]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 117 od Łęczny]
+FKT[]
+SIG[7516300001]
+KEY[75163   08  G 3/4]
+MEL[7b7b6_4_  7b7b6_4_  7b7b6_+1_
+    13534_  135654  32135_
+    135653  443_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 117 od Łęczny]
+FKT[]
+SIG[7516300002]
+KEY[75163   08  G 3/4]
+MEL[7b7b6_4_  7b7b6_46  7b7b6_+1_
+    13534_  135654  32345_
+    5_5653  443_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 118 od Biskupic (Chojno)]
+FKT[]
+SIG[7516400000]
+KEY[75164   08  G 3/4]
+MEL[135_5_  7b_6_4_  667b_6_  5_3_1_
+    135_5_  7b_6_3_  42-7b_2_  3_5_3_
+    42-7b__  1_3_5_  42-7b_2_  4_3_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 118 od Lubartowa]
+FKT[]
+SIG[7516500000]
+KEY[75165   08  G 3/4]
+MEL[57b+1_+1_  +1_5_4_  57b6_4_  (565)3_4_
+    57b6_4_  5_656_  57b6_4_  1_3_4_ //]
+BEM[Wariant t. 6: (54#5)7b66_; wariant t. 8: (1-71)3_4_]
+
+DWOK75
+CUT[Instrumentalna - Kołyskowa]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 118 Szczebrzeszyn]
+FKT[]
+SIG[7516600000]
+KEY[75166   16  G 3/8]
+MEL[1346+1_  +17b6+153  13467b_  56431_
+    1346+1_  57b643_  13467b_  531__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 119 Lublin]
+FKT[]
+SIG[7516700000]
+KEY[75167   08  G 3/4]
+MEL[46+1__  6_+1_+1_  66+1_.7  531__
+    134__  5_6_6_  57+1__  531__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 119]
+FKT[]
+SIG[7516800000]
+KEY[75168   08  G 3/4]
+MEL[35+1__  7_6_4_  35+1__  7b_6_4_
+    (353)1__  2_4_6_  531__  2_4_4_ //]
+BEM[]
+
+DWOK75
+CUT[Zielona rutka]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 119 Kock]
+FKT[]
+SIG[7516900000]
+KEY[75169   08  C 3/4]
+MEL[5_+4_+4_  +3_+1__  57+2__  4_6_6_  +1_5__  57+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 119 Tatary]
+FKT[]
+SIG[7517000000]
+KEY[75170   08  C 3/4]
+MEL[+5+4+2_+4_  +5_+3_+1_  776_5_  7_+2_+1_ //]
+BEM[Wariant t. 4: 7_+3_+1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 120 Tatary]
+FKT[]
+SIG[7517100000]
+KEY[75171   08  G 3/4]
+MEL[(134)6_4_  6+1+1_7b_  (534)6_4_  2-7b2_1_
+    (134)6_4_  665_3_  (134)6_4_  2-7b2_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 120 od Lublina (Tatary)]
+FKT[]
+SIG[7517200000]
+KEY[75172   08  G 3/4]
+MEL[134_6_  7b_6_6_  467b_6_  5_3_1_
+    134_6_  4_2_2_  134_4_  5_3_1_ //]
+BEM[Skrzypce: (124)67b64  (467b)6531  (134)6422  (2-7b2)4531; wariant t. 6-7: 4_2_-7b_  134_6_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 120 od Lublina (Tatary)]
+FKT[]
+SIG[7517300000]
+KEY[75173   08  C 3/4]
+MEL[5_+4_+3_  +1+3+4_+3_  +2_+4_+3_  +3+27_+1_
+    5_7_+1_  +3+3+4_+3_  7_+2_+1_  +3+27_+1_ //]
+BEM[Wariant t. 7: +1_+2_+1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 120 od Lublina]
+FKT[]
+SIG[7517400000]
+KEY[75174   08  C 3/4]
+MEL[5_57+2+4  +4_+3_+1_  +3_+2755  +1_+3_+1_
+    5_57+2+4  +4_+3_+1_  +3_+4+275  +1_+1__
+    +3+4+3+4+2+4  +5+4+3_+1_  5_57+2+2  +1_+3_+5_
+    +4_+3+4+2+4  +5+4+3_+1_  5_57+27  +1_+1__ //]
+BEM[Wariant t. 12-13: +1_+3_+1_  +4_+3+4+2+6]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 122 od Lublina]
+FKT[]
+SIG[7517500000]
+KEY[75175   16  A 3/4]
+MEL[-5_.-5-7__2_4_  6_5_3__-7__  4__2__-7_-5_  1_3_5___
+    -5_.-5-7__2_4_  6_5_3__-7__  4__2__-7_-5_  1_3_1___
+    6_5#_6_7_+1_6_  6_.53__1_3_  6_.54__2_4_  6_5_3___
+    6_7_+2_+1_7_6_  5_+3_+1__5_3_  6_5_4__2_-7_  1_.31___ //]
+BEM[Wariant t. 3-4: (4_3_4_)2__-7_-5_  1_6_5___; wariant t. 12: 6_5_3__1__]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 122 od Lublina]
+FKT[]
+SIG[7517600000]
+KEY[75176   08  G 3/4]
+MEL[1_4_4_  34534_  6_7b_7b_  13534_
+    4_4_4_  34534_  +1_7b654  34534_
+    135654#  553_5_  134_32  135+176
+    54#5654#  553_5_  234-5-6-7  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 123 od Lublina]
+FKT[]
+SIG[7517700000]
+KEY[75177   16  G 3/4]
+MEL[4_5_6__6__  6_5_4_3_2_1_  3_5_4_3_1__  4__.3_4__
+    4_5_6__6__  6_5_4_3_2_1_  3_5_4_3_1__  4__1___
+    3_5_4_3_1__  2_2_-7__-5__  -7_2_4__3_2_  3_5_4#__5__
+    3_1_4_3_1__  2_2_-7__-5__  2_.24__2_-7_  1__-5___ //]
+BEM[Wariant t. 3: 3_5_4_3_(2_1_3_)]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 123 od Lublina]
+FKT[]
+SIG[7517800001]
+KEY[75178   16  D 3/4]
+MEL[5_7b_+2__+1__  6_4_5__.3_  5_7b_4__6__  6_4_5__.3_
+    5_7b_4__6__  +1_7b_5__.3_  5_7b_4__6__  6_4_5__.3_
+    5_7b_+1__+1__  6_4_5__5__  5_7b_7b__4__  6b_6b_5__5__
+    5_7b_7b__4__  6_6_+1__7__  5_7b_7b__4__  6_4_5_321__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 123 od Lublina]
+FKT[]
+SIG[7517800002]
+KEY[75178   16  D 3/4]
+MEL[5_7b_+2__+1__  6_4_5__.3_  5_7b_4__6_5_  6_4_5__.3_
+    5_7b_+2__+1__  +1_7b_5_4_5_3_  5_7b_4__6_5_  6_4_5__.3_
+    5_7b_+1__+1__  6_4_5__3__  5_7b_7b__4__  6b_6b_5__3__
+    5_7b_7b__4__  6_+1_+1__7__  5_7b_7b__4__  6_4_5_321__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 124 od Lublina]
+FKT[]
+SIG[7517900000]
+KEY[75179   16  D 3/4]
+MEL[3_.52_4_3_1_  3_5_+1__3__  4__2__2_4_  6_5_3__1__
+    3_.52_4_3_1_  3_5_+1__3__  4_4_3__7__  +1___.
+    7+2_.5_7_+2_7_  +1+3_.5_+1_+3_+1_  +2+4_.5_7_+2_+4_  +6_+5_+3_+1_6_5_
+    7+2_.5__+2__  +1+3_.5__+3__  +5_+5_+4__+2_7_  +1__+1___ //]
+BEM[Wariant t. 3: (4_5_4_)2__2_4_; wariant t. 13-14: 7+2_.5_7_+2__  +1+3_.5_+1_+3__]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 124 od Lublina]
+FKT[]
+SIG[7518000000]
+KEY[75180   08  G 3/4]
+MEL[321_1_  (234)2__  234_43  465432
+    331_5_  242__  -72465-7  1_1_0_
+    -5_-5-724  313_5_  432_6_  531_-7-6
+    -5-72432  313_5_  43265-7  1_1_0_ //]
+BEM[Wariant t. 1: (343)1_3_; wariant t. 4-5: 465_.4  (343)1_5_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 125 od Lublina]
+FKT[]
+SIG[7518100000]
+KEY[75181   08  C 3/4]
+MEL[+1_++1_.+6  +6++1+7_+5_  +5+7++1_.+6  +6+6+4_+5_
+    +2+2+4_.+3  +1__.  +1_+3_.+3  +4_+6_.++1  ++1+7+5_+7_
+    ++1_.+6+4+6  ++1+7+5_+7_  ++1_.+6+6+4  +2+2+4_.+3  +1__. //]
+BEM[Wariant t. 14: +1__5_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 125 od Lublina]
+FKT[]
+SIG[7518200000]
+KEY[75182   08  G 3/4]
+MEL[6_646_  5_35+1_  66646_  5_+1_6_
+    6_6456  5_35+1_  6_6542  1_1_0_ //]
+BEM[Wariant t. 6: 5_35+15]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 125 od Lublina]
+FKT[]
+SIG[7518300000]
+KEY[75183   08  F 3/4]
+MEL[5_7_+1_  7+2+1_6_  5_7_+1_  642_2_
+    5_3_3_  246_4_  3_1_1_  -7-72_5_ //]
+BEM[Wariant t. 8: -7-72_1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 126 Lublin]
+FKT[]
+SIG[7518400000]
+KEY[75184   08  C 3/4]
+MEL[5_+1_+1_  +1+3+1_+1_  5_7777  57+2_+1_
+    +1_+5+5+5+5  +5+6+5_+4_  +2_+4+4+4+4  +4+5+4_+3_
+    5_+1+1+1+1  +1+3+1_+17  5_7777  57+2_+1_ //]
+BEM[Dwudźwięki]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 126 od Lublina]
+FKT[]
+SIG[7518500000]
+KEY[75185   08  C 3/4]
+MEL[+1+3b+5_+5_  +4#+2+4#_+5_  +1+3b+6b_.+5  +457_+1_
+    +1+3b+2_+1_  +2+5+4#_+5_  +3b+3b+2_+1_  757_+1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 126 od Lublina (Łuszczów)]
+FKT[]
+SIG[7518600001]
+KEY[75186   16  A 3/4]
+MEL[-7_13b5__5__  4#__5__5__  4#_2_1__2__  -5__-7__-7__  1_3b21__1__  2__5__-7__  1_3b_2__1_-7b_  -5__-5__-7__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 126 od Lublina (Łuszczów)]
+FKT[]
+SIG[7518600002]
+KEY[75186   16  A 3/4]
+MEL[-7_13b5__5__  4#__5__5__  4#_3b21__2__  -5__-7__-7__  1_3b21__3b_5_  4#__3b_2_-7__  1_3b_2__-7__  -5__-5__-7__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 127 od Lublina (Turka)]
+FKT[]
+SIG[7518700001]
+KEY[75187   16  C 3/4]
+MEL[7_+2_+4__+4__  +3__+3__+1__  +3_+4_+2__5__  7__+1__+3__
+    7_+2_+4__+4__  +3__+3__+1__  +3_+4_+2__5__  7__+1__5__
+    +2__+3+4_.+5+4_.  +4_+4_+3__+1__  +3+4_.+2__5__  7_+1_+3__+5__
+    +3+4_.+2__+2__  7_+1_+3__+3__  (+3_+5_+4#_)+2__5__  7_+1_+3__5__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 127 od Lublina (Turka)]
+FKT[]
+SIG[7518700002]
+KEY[75187   16  C 3/4]
+MEL[7_+2_+4__+6__  +5__+5__+3__  +3_+4_+2__5__  7__+1__+3__
+    7_+2_+4__+4__  +3__+3__+1__  +3_+4_+2__5__  7__+1__5__
+    +2__+3+4_.+5+4_.  +4_+4_+3__+1__  +3+4_.+2__5__  7_+1_+3__+5__
+    +3+4_.+2__+2__  7_+1_+3__+5__  (+3_+5_+4#_)+2__5__  7_+1_+3__+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 127 od Lublina (Turka)]
+FKT[]
+SIG[7518800000]
+KEY[75188   08  G 3/4]
+MEL[(123)4_5_  667b_6_  (535)6_3_  443_1_
+    (123)4_5_  667b_6_  (535)6_3_  4_4__
+    (567)+1_3_  446_3_  (567)+1_3_  443_1_
+    (567)+1_3_  446_3_  (567)+1_3_  443_1_ //]
+BEM[Wariant t. 10 i 14: 443_1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 128 od Lublina (Jakubowice)]
+FKT[]
+SIG[7518900000]
+KEY[75189   08  G 3/4]
+MEL[-5-72_5_  5-61_1_  -722-7-5_  (-6-71)-6_-5_  -722-7-5_  -6-61_1_  -722-7-5_  (-6-71)-6_-5_  123_4_
+    5_5_54#  5_5_54#  554#_32  123_1_  (234#)5_-7_  1_1_23  (234#)5_-7_  1_2_1_ //]
+BEM[Wariant t. 4: -6_-6_-5_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 129 od Lublina (Jakubowice Murowane, Ciecierzyn)]
+FKT[]
+SIG[7519000000]
+KEY[75190   16  A 3/4]
+MEL[2_4_5__3b_2_  1__2___  4__2__4__  5_3b21__-5__
+    -7__2__2__  1_3b_1__1__  -7__2__2__  1_3b_1__-5__
+    2__4__5__  3b_2_1__2__  4__2__4__  5_3b21__-5__
+    -7__2__2__  1_3b_5__2__  -7__2__2__  1_3b_1__-5_-7_ //]
+BEM[Wariant t. 11-12: 4__2__4_5_  5_3b21__-5_-7_; wariant t. 14: 1_3b_5__2_-7_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 129 od Opola]
+FKT[]
+SIG[7519100000]
+KEY[75191   08  G 3/4]
+MEL[5_.654  3_532_  1_757+2  +1_+1_3_
+    5_.654  3_532_  1_7567  +1_.00_
+    1_5654  3_1353  4_-5-5-5_  1_1234
+    5_.654  3_135_  4_-5-5-5_  1_0__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 130 od Opola]
+FKT[]
+SIG[7519200000]
+KEY[75192   16  G 3/4]
+MEL[-5_-7_1__2__  1_3_5___  4_3_2__.-7_  1_3_5__5__
+    -5_-7_1__2_-7_  1_3_5___  4_.32_6_5_4_  3_-7_2__1__
+    2__.3_2_1_  -7_.22_3_2_1_  -7_.-6-5__-5__  -5__5_4#_5__
+    2__.3_2_1_  -7_.22_3_2_1_  -7_.22_3_2_-7_  1__1___
+    5__5__5_3_  4_6_5__5__  2_-7_2_4_3_2_  1_3_5__+1__
+    5__5__5_3_  4_6_5__5__  2_-7_2_4_3_2_  1__1___
+    2_1#_2_4_3_2_  1_3_5__+1__  6_6_4__6__  +1_5_3__1__
+    2__2_4_3_2_  1_3_5__+1__  6_5_4__2_-7_  1__1___ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 131 Lublin, Kazimierz]
+FKT[]
+SIG[7519300000]
+KEY[75193   08  A 3/4]
+MEL[5_5_53b  5__0_  444_1_  3b_1__  555_3b_
+    5_4__  1__.  ^__0_  111_-7b_  3b_-7__
+    3b3b4__  -7b__.  554_5_  3b21__  ^__0_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 131 od Kazimierza (Lub.)]
+FKT[]
+SIG[7519400000]
+KEY[75194   08  F 3/4]
+MEL[-511_3_  265_.4  3-5-5_3_  212_-7_
+    -511_3_  265_.4  3-5-5_3_  21-7_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 132 od Kazimierz]
+FKT[]
+SIG[7519500001]
+KEY[75195   08  G 3/4]
+MEL[246_7_  564_3_  245_5_  4_4_3_
+    -5-72_13  25431-7  -5-72_13  (323)4_2-7
+    (-5-6-7)2_13  (234)531-7  (-5-6-7)2_13
+    (323)4_2-7  (-5-6-7)2_13  264_(31-7) //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 132 od Kazimierz]
+FKT[]
+SIG[7519500002]
+KEY[75195   08  G 3/4]
+MEL[246_7_  564_3_  245_5_  4_4_3_
+    (-5-6-7)2_1_  26431_  (-5-6-7)2_1_  (323)4_2-7
+    (-5-6-7)2_13  26531-7  (-5-6-7)2_13
+    (323)4_2-7  (-5-6-7)2_13  264_(31-7) //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 132 od Puław, Kaźmierza]
+FKT[]
+SIG[7519600000]
+KEY[75196   08  G 3/4]
+MEL[335_5_  466_5_  335_5_  422_1_
+    -7-72_2_  133_2_  -7-72_2_  1-6-6_-5_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 133 od Puław, Kazimierza]
+FKT[]
+SIG[7519700001]
+KEY[75197   08  G 3/4]
+MEL[135_7_  57+1_64  535_+16  57+1_64
+    442_43  113_53  442_43  1_1_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 133 od Puław, Kazimierza]
+FKT[]
+SIG[7519700002]
+KEY[75197   08  G 3/4]
+MEL[135_7_  57+1_64  535_(+176)  (567)+1_64
+    542_43  113_53  442_43  1_1_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 133 od Puław]
+FKT[]
+SIG[7519800000]
+KEY[75198   08  F 3/4]
+MEL[135_5_  556_.5  432_.4  323_.1
+    333_.1  23432_  222_.4  323_.1 //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 133 od Puław]
+FKT[]
+SIG[7519900001]
+KEY[75199   08  G 3/4]
+MEL[4_6_62  465_53  246_62  4_3_3_
+    5_-5_-72  465_.3  54#5-5-72  4_3_3_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 133 od Puław]
+FKT[]
+SIG[7519900002]
+KEY[75199   08  G 3/4]
+MEL[4_6_62  465_3_  4_6762  4_3_3_
+    5_-5_-72  465_.3  465_-72  4_3_3_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 134 od Puław]
+FKT[]
+SIG[7520000000]
+KEY[75200   08  G 3/4]
+MEL[+1_5_54  313543  2-72342  12345_
+    +1_5_54  313543  2-72342  12345_
+    13-5__  136__  546342  123-71-5
+    13-5__  136__  546342  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 134 od Puław]
+FKT[]
+SIG[7520100000]
+KEY[75201   08  G 3/4]
+MEL[+1_5_54  365_31  (-5-72)4_2-7  12345_
+    +1_5_54  365_31  (-5-72)4_2-7  1_1__
+    -5_-5_-6-7  123_21  -724246  653531
+    -5_-5_-6-7  123_21  -72465-7  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 134 Puławy]
+FKT[]
+SIG[7520200000]
+KEY[75202   16  G 3/8]
+MEL[13b5_5_  4#24#_5_  13b6b_.5  4-5-7_1_
+    13b2_1_  254#_5_  3b3b2_1_  -7-5-7_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 135 od Puław]
+FKT[]
+SIG[7520300001]
+KEY[75203   16  F 3/4]
+MEL[2_4#_5__4_3_  2_1-7-6__1__  1_-712__3_4_  3_1-7-6__1__
+    1_-712__3_4_  3_5_6__.3_  1_-712__3_4_  3_1-7-6__1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 135 od Puław]
+FKT[]
+SIG[7520300002]
+KEY[75203   16  F 3/4]
+MEL[2_345__4_3_  2_-7_-6__1__  1_1_2__3_4_  3_1_-6__1__
+    1_1_2__3_4_  3_456__.3_  1_1_2__3_4_  3_1_-6__1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 135 od Puław (Osiny)]
+FKT[]
+SIG[7520400000]
+KEY[75204   08  G 3/4]
+MEL[(+1+2+1)7_5_  6__4_  (343)2123  46+17+1+2
+    +1_7_5_  6__4_  (354)3123  4_4__
+    245_.1  3b243b2-7  123b453b  1_1__
+    4_5_.1  3b243b2-7  13b21-72  -5_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 136 od Końskowoli]
+FKT[]
+SIG[7520500000]
+KEY[75205   08  C 3/4]
+MEL[(+5+4#+5)+3_+1_  7+6+5__  7+2+57+2+4#  +5_+4+3+2+1
+    (+5+4#+5)+3_+1_  7+6+5__  7+2+57+2+4#  +5__+1_
+    +5_++1_++1_  +6_+4_+4_  +2+4+37+1+3  +5_+3+1+3+4#
+    +5_++1_++1_  +6_+4_+4_  +2+4+37+1+3  +1_+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 136 od Końskowoli]
+FKT[]
+SIG[7520600000]
+KEY[75206   08  C 3/4]
+MEL[(57+2)+5_+5+4#  +6+5+3_+5_  +4_+3_+2+1  7+1+2_+1_
+    +4+4+3_+3+2  7+1+3_+5_  +4_+3_+2+1  7+1+2_+1_
+    5+4+3_+3_  7+1+3_+3_  5+4+3_+3_  7+1+2_+1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 136 od Końskowoli]
+FKT[]
+SIG[7520700000]
+KEY[75207   08  A 3/4]
+MEL[246_7_  564_31  -5-72_1_  -72431_
+    -5-72_1_  -724_65  -5-72_1_  (-5-72)431_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 137 od Końskowoli]
+FKT[]
+SIG[7520800000]
+KEY[75208   16  G 3/4]
+MEL[2_4_6__7__  5_6_4__3_1_  2_4_6__7__  5_6_4_2_-7__
+    (-5_-6_-7_)1__.3_  -7_2_4_4_3_1_  -7_-5_1__.3_  2_4_2_-7_-5_-71 //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 137 od Końskowoli]
+FKT[]
+SIG[7520900000]
+KEY[75209   08  F 3/4]
+MEL[556_7_  564_31  356_7_  564_2-7
+    2_2_32  345643  (1-71)2_32  -7-5-6-71_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 137 od Końskowoli]
+FKT[]
+SIG[7521000000]
+KEY[75210   08  E 3/4]
+MEL[134_53  467b653  466567  +167b653  466567  +167b654  35+1_.3  422_5_  133123  422_1_ //]
+BEM[Wariant t. 1: (123)4_53]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 138 od Końskowoli (Młynki)]
+FKT[]
+SIG[7521100000]
+KEY[75211   08  C 3/4]
+MEL[55+1_+2_  +3+3+2_+1_  666_+2_  756_5_
+    35+1_.+2  +3+3+2_+1_  666_+2_  757_+1_ //]
+BEM[Wariant t. 7: 35+1_.+2]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 138 Żyrzyn]
+FKT[]
+SIG[7521200000]
+KEY[75212   08  G 3/4]
+MEL[-5_-7__  -713_5_  6_4_2_  443_1_  2_-5_.-7  -713_3_  2_4_.1  -713_3_  2_4_.1  -713_1_ //]
+BEM[Wariant t. 1: -5_-7_.-5]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 138 Żyrzyn]
+FKT[]
+SIG[7521300000]
+KEY[75213   08  G 3/4]
+MEL[136_5_  (454)3_1_  (-72-7)-5_24  653_1_
+    -5-5-5_-72  (121)3_5_  432_6_  5_3_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 139 Żyrzyn]
+FKT[]
+SIG[7521400000]
+KEY[75214   08  A 3/4]
+MEL[13b5_51  3b54_42  13b5_51  3b_2_2_
+    4_-4_-61  3b54_.1  434-4-61  3b_2_2_ //]
+BEM[Wariant t. 1: 5_5_51]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 139 Żyrzyn]
+FKT[]
+SIG[7521500000]
+KEY[75215   08  G 3/4]
+MEL[1_3134  5_654_  6_646+1  +175_+1_
+    5_3134  5_654_  4_2-7b24  431_(123)
+    4_2-7b24  3453(123)  4_2-7b24  431_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. Żyrzyn]
+FKT[]
+SIG[7521600000]
+KEY[75216   08  C 3/4]
+MEL[(+5+4+5)+3_+1_  7+6+4_+2+1  7+2+57+2+4#  +5_+4+3+2+1
+    (+5+4+5)+3_+1_  7+6+4_+2+1  7+2+57+2+4#  +1_+1__
+    +5_++1_++1_  +6_+4_+4_  +2+4+37+1+3  +5_+3+1+3+4#
+    +5_++1_++1_  +6_+4_+4_  +2+4+3+6+57  +1_+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 140 od Baranowa]
+FKT[]
+SIG[7521700000]
+KEY[75217   08  C 3/4]
+MEL[+1+3+5+6+2+4  +3+1+3+5+27  +1+3+5+6+2+4  +3+1+275_
+    +3_+5_+2+4  +3+1+3+5+27  +3+5+6_+2+4  +3+17+1+5_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 141 od Baranowa]
+FKT[]
+SIG[7521800000]
+KEY[75218   16  G 3/4]
+MEL[(+1_+2_+1_)7_+2_+1_7_  6_5_4__4_3_  2_5_4_6_5_4#_  5_5_3__1__
+    -5__.-7_2_-7_  1_.35__4_3_  2_3_4_3_4_6_  7_5_4__(1_-7_-6_)
+    -6__-5_-7_2__  1__1_3_5__  2_3_4_6_5_-7_  1__1___ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 141 od Baranowa]
+FKT[]
+SIG[7521900001]
+KEY[75219   08  F 3/4]
+MEL[135_5_  6_6346  5_1_35  4_2_1_
+    135_43  2_6_5_  135_43  (434)2_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 141 od Baranowa]
+FKT[]
+SIG[7521900002]
+KEY[75219   08  F 3/4]
+MEL[135_5_  (656)3_46  5_1_35  (434)2_1_
+    135_43  (212)6_5_  135_43  (434)2_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 141 od Miechowa]
+FKT[]
+SIG[7522000000]
+KEY[75220   08  C 3/4]
+MEL[5+1+3_+3+2  +1+3+5_+5_  5+1+3+1+3+5  +4+4+2_+2_
+    +2+4+6_+6_  +1+3+5_+5_  57+2+3+27  +1+3+5__
+    +2+4+6_+6_  +1+3+5_+5_  57+2+3+27  +1_+1__ //]
+BEM[Wariant t. 3: 57+3_+5_; wariant t. 7 i 11: 57+2_+2_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 142 Miechów, Firlej]
+FKT[]
+SIG[7522100000]
+KEY[75221   08  C 3/4]
+MEL[7+2+4_+6_  +6+5+5+5+3+1  +3+5+4_+3+1  +2_+27+1_
+    7+2+4_+4_  +3+2+3_+1_  +2+4+6_+6_  +2_+27+1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 142 od Firleja]
+FKT[]
+SIG[7522200000]
+KEY[75222   08  F 3/4]
+MEL[+1_7b_67b  +165_53  4_3_1_  2-7b1__
+    4_5_53  467b653  4_3_31  2-7b1__ //]
+BEM[Wariant t. 3 i 7: 4_3_13]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 142 od Firleja]
+FKT[]
+SIG[7522300000]
+KEY[75223   08  F 3/4]
+MEL[+1_7_67  +165_57  +1_7_67  +165_.3
+    467b653  4_3_13  466_53  4_1__ //]
+BEM[Wariant t. 2:  +165_7_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 143 od Lubartowa, Kamionki]
+FKT[]
+SIG[7522400000]
+KEY[75224   08  G 3/4]
+MEL[135_5_  4#25_5_  135_5_  42-7_1_
+    133_3_  2-71_2_  133_3_  2-7-5_1_
+    46+1_+1_  75+1_+1_  46+1_+1_  7b53_4_
+    135_5_  466_53  135_5_  42-7b_1_ //]
+BEM[Wariant t. 6: 2-72_3_; wariant t. 12: 7b55_4_; wariant t. 16: 42-7b_-4_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 143 od Lubartowa]
+FKT[]
+SIG[7522500000]
+KEY[75225   16  G 3/8]
+MEL[243_1_  2_-7_1_  243_1_  -5_-7_1_
+    243_1_  (21#2)5_3_  243_1_  -5_-7_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 144 od Lubartowa]
+FKT[]
+SIG[7522600000]
+KEY[75226   08  D 3/4]
+MEL[134_6_  +1_5_6_  643_1_  1_3_4_
+    443_1_  3_4_6_  443_1_  1_3_4_
+    134_6_  +1_+1_7_  534_6_  +1_+1_7_
+    534_6_  +1_+1_7_  534_6_  534_1_
+    134_6_  554_6_  534_6_  534_1_ //]
+BEM[Wariant t. 9 :334_6_; wariant t. 18: 7b54_6_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 144 od Łęcznej, Lubartowa]
+FKT[]
+SIG[7522700000]
+KEY[75227   08  D 3/4]
+MEL[(123)4_67  +16+1_+2_  +16+1_7_  (567)+2_+2_
+    +16+1_7_  531_23  424_6_  531_23
+    424_3_  531_23  46+1_.7  531_23  424_3_ //]
+BEM[Wariant t. 11: 4_+1_.7]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 145 od Łęcznej, Lubartowa]
+FKT[]
+SIG[7522800000]
+KEY[75228   08  C 3/4]
+MEL[+2+6+5_+4_  +3+5+3+1+27  +2+6+5_+4_  +3+1+27+1_
+    (567)+1_+4_  +3+1+3+5+27  (567)+1_+4_  +3+1+27+1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 145 od Łęcznej]
+FKT[]
+SIG[7522900000]
+KEY[75229   08  G 3/4]
+MEL[146_5_  7b+2+1_.5  7b7b6_53  443_1_
+    4_3_2_  135_6_  443_-5_  -5-72-71_ //]
+BEM[Wariant t. 6: 135_65]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 145 od Łęcznej]
+FKT[]
+SIG[7523000000]
+KEY[75230   16  G 3/8]
+MEL[135_.3  465_2_  334_.3  11-7_-5_
+    (123)4_.2  31232-7  (123)4_2_  11-7_-5_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 146 od Łęcznej]
+FKT[]
+SIG[7523100000]
+KEY[75231   16  F 3/8]
+MEL[7_5_7_  +16+1_+1_  7_5_7_  +164_1_
+    3_1_3_  464_5_  3_1_3_  464_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 146 od Łęcznej]
+FKT[]
+SIG[7523200000]
+KEY[75232   16 Bb 3/8]
+MEL[5_^4#56  554_32  1_.356  523_-7_
+    1_.353  332_-7_  1_.356  243_-7_ //]
+BEM[Wariant t. 2: (565)4_32; wariant t. 6: 342_-7_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 147 od Łęcznej]
+FKT[]
+SIG[7523300000]
+KEY[75233   08  C 3/4]
+MEL[+1+3+5+6+5+3  +5+6+4_+4_  +3+5+4#+5+3+1  +2+27_5_
+    5+1+3+1+3+1  7+2+4_+4_  +3+5+4#+5+3+1  +2+27_5_
+    57+2+3+2+1  7657+2_  57+2+3+27  +1+17_5_
+    +4+4+3_+1_  +4_+3_+1_  +4+4+3_+5_  57+27+1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 147 od Łęcznej]
+FKT[]
+SIG[7523400000]
+KEY[75234   08  G 3/4]
+MEL[3_.123  4_4321  -7_.-5-72  34342-7
+    1_.-512  324321  -7_-7-5-72  1_1_0_
+    3_.135  654321  -7_.-5-72  6_5#64-7
+    1_.-513  5_4321  -7_-7-5-72  1_1_0_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 148 od Łęcznej, Biskupic]
+FKT[]
+SIG[7523500000]
+KEY[75235   08  G 3/4]
+MEL[1_313_  1321-7_  -5-72-72_  3_531_  -51313_  1321-7_  -5-72-723  1_1__
+    654#53_  13-5_-72  542_-7-5  135_4#5  (654#)5_3_  13-5_-72  543_.-7  211__ //]
+BEM[Wariant t. 11 i 15: 654_2-7]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 148 od Łęcznej, Biskupic]
+FKT[]
+SIG[7523600000]
+KEY[75236   08  G 3/4]
+MEL[3_1353  2_-7_-5_  434246  5_3_1_
+    313453  2_-7_-5_  4342-72  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 149 od Łęcznej, Biskupic]
+FKT[]
+SIG[7523700000]
+KEY[75237   08 Bb 3/4]
+MEL[2_4_4_  443_1_  342-7-5_  -713_5_
+    2_4_4_  653_1_  342-7-5_  -5-72-71_
+    342-7-5_  -5-72135  342-7-5_  -5-72-71_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 149 od Biskupic]
+FKT[]
+SIG[7523800000]
+KEY[75238   08  G 3/4]
+MEL[434567  +1+17_5_  6_4346  553_1_
+    434567  +1+17567  +1+1757+2  +1+17567
+    +1+1757+2  +1+17_5_  6_(343)46  553_1_
+    -5_.-72_  (1-71)3_5_  6_4346  653_1_
+    -5_.-72_  (1-71)3_5_  76(434)76  653_1_ //]
+BEM[Wariant t. 12: (565)3_1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 150 od Bychawy (Gałęzów)]
+FKT[]
+SIG[7523900000]
+KEY[75239   16  G 3/4]
+MEL[(1_2_3_)4__6_7b_  +1_0+1+17+175__  6_5_4_3_2_3_  4_4_3__1__
+    (1_2_3_)4__6_7_  +1_.+1+1+2+1+25__  6_7_+1__2_3_  4_4_3__1__
+    2__-7b__2__  1_1_3__5__  6_5_4_3_2_3_  4_.43__1__
+    2__-7b__2__  1_1_3__5__  6__4_3_2_3_  4_5_3__1__ //]
+BEM[Wariant t. 5: 2__4__6_7_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 151 od Bychawy (Wola Gałęzowska)]
+FKT[]
+SIG[7524000000]
+KEY[75240   08  G 3/4]
+MEL[(123)4_67  +164_67  +164_67  +1757+2_  +1__46  +1757+2_  +1__4_  542432  1_+175_  542432  1_1__
+    (123)4_64  567_5+1  634_64  567_5+1  634_2-7  1_1357  634_2-7  1_.357  634_2-7  1_1__  5_4323  531_3_  5_4323  531_3_
+    (123)4_67  +1+17_5_  (567)+1_+15  643_(321)  (123)4_65  6+17_53  (123)4_65  643_1_  (123)4_65  (643)2_1_ //]
+BEM[Wariant t. 31: 6+17_+2_; wariant t. 33: 643_(321)]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 152 od Bychawy (Gałęzów)]
+FKT[]
+SIG[7524100000]
+KEY[75241   08  C 3/4]
+MEL[(567)+1_+1_  +3_+2_+1_  (+2+3+4)+6_+6_  +6_+5_(+5+4+3)  +27+1_+3_  +3_+2_+1_  776_65  67+1_.5  57+1_+3_  +5+4+2+3+1_  +2+4+6_+6_  +6_+6+4+6_
+    +3_+2_+4_  +6_+3+4+2+4  (+2+3+4)+6_+6_  +6_+3+4+2_  +27+1_+3_  +5+4+2+3+1_  7+26_6_  5567+1_  +2+3+4_+2+4  +3+5+4_+27  +1_+3+4+5_  +6_+3+4+27
+    +2_+1_+3_  +5+4+2+3+1_  7+26_6_  57+27+1_  +6_+5_+4+3  +2+4+6_+6_  +6_+3+4+27  +1_+3_+1_  +3+5+4_+27  +1_+3+4+5_  +6_+3+4+27  +1_+15+1_ //]
+BEM[Wariant t. 1: (567)+1_+3_; wariant t. 5 i 9: (567)+1_+3_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 153 od Bychawy (Wola Gałęzowska)]
+FKT[]
+SIG[7524200000]
+KEY[75242   08  D 3/4]
+MEL[4_6_+1_  6_+1_+1_  7_57+2_  6_+1_+1_
+    7b_534_  6_+1_+2_  67b534_  6_4_6_
+    67b534_  414_5_  67b534_  6_4_6_ //]
+BEM[Dwudźwięki; wariant t. 1: 4_67b+1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 153 od Bychawy (Gałęzów)]
+FKT[]
+SIG[7524300000]
+KEY[75243   08  D 3/4]
+MEL[+1_+3+1+4_  (+27b+2)+4_+4+3  +1_+3+5+4_  +27b5_31
+    4_6+1+3_  (+2+4+2)7b_+27b  4_6+1+3_  +27b5_31 //]
+BEM[Dwudźwięki; wariant t. 2: (+27b+2)+4_(+4+3+1)]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 153 od Bychawy (Gałęzów)]
+FKT[]
+SIG[7524400000]
+KEY[75244   08  A 3/4]
+MEL[2_6_5_  4#56_2_  4_3b_2_  3b2-7_1_
+    -5_-7_1_  3b4#5_(3b21)  2_4_1_  3b2-7_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 154 od Bychawy (Gałęzów)]
+FKT[]
+SIG[7524500000]
+KEY[75245   08  A 3/4]
+MEL[13b5_5_  3b_5_5_  -724_3b2  1_2_-7_
+    13b2_-7_  1_3b_5_  13b2_-7_  1_2_-7_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 154 od Zółkiewki (Sobieska Wola)]
+FKT[]
+SIG[7524600010]
+KEY[75246   08  G 3/4]
+MEL[(124)6_6_  453_2_  35312-7  -5-71_-5_
+    -5-72_2-7  132_4_  35312-7  -5-71_-5_ //]
+BEM[Wariant t. 4 i 8: (-5-6-7)1_-5_; wariant t. 7: 3531(21-7)]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 154 od Zółkiewki (Sobieska Wola)]
+FKT[]
+SIG[7524600020]
+KEY[75246   08  C 3/4]
+MEL[(+1+2+4)+6_+6_  +4+5+3_+4_  +3+5+3+1+2+1  57+1_5_
+    (567)+2_+2+1  +3+5+4_+4_  +3+5+3+1+2+1  57+1_5_ //]
+BEM[Wariant t. 2-4: +4+5+3_+4+2  +3+5+3+1(+2+17)  (567)+1_5_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 155 od Zółkiewki (Sobieska Wola)]
+FKT[]
+SIG[7524700000]
+KEY[75247   08  G 3/4]
+MEL[456_6_  6_4_56  7b_531_
+    (123)4_4_  42-7b_2_  12345_
+    456_6_  6_4_6_  +1+1531_
+    (123)4_4_  42-7b_-7b_  1_^353
+    (123)4_4_  22-7b_23  5_5313
+    4_4_44  42-7b_23  5_5313
+    4_.56_  +1_.745  +1__45  +1_.745 //]
+BEM[Wariant t. 5: 42-7b_-7b_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 155 Turobin]
+FKT[]
+SIG[7524800000]
+KEY[75248   08  A 3/4]
+MEL[3b45_5_  (54#5)654#4#  3b__22
+    3b45_5_  4_.254  3b21__
+    3b213b21  -7__-7-6  -5_5_.4
+    3b_3b21_  -725_.-7  1_1__ //]
+BEM[Wariant t. 8: -7__-5-6]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 156 od Krasnegostawu]
+FKT[]
+SIG[7524900000]
+KEY[75249   08  G 3/4]
+MEL[5_5654  35+15+1_  6+2+2567  +16543_
+    5_5654  35+15+1_  6+2+2567  +1_+1__
+    5_.654  321_3_  2_.432  135+176
+    535654  321_3_  542-72_  1_1__
+    131_3_  -724321  -72-5__  -725432
+    13-5__  234321  -72-5_-6-7  1_1__
+    353_5_  356543  242_4_  245432
+    131_3_  -724321  -72-5__  -725432
+    131_3_  -724321  -72-5_-6-7  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 157 Tarnogóra]
+FKT[]
+SIG[7525000000]
+KEY[75250   08  G 3/4]
+MEL[0-5-721-7  -5-72431  -724346  553_1_
+    -5-5-51-7-6  -5-72431  -72652-7  1_3_1_
+    111_1_  -5-3-4_-6_  111_1_  -5-3-4_-6_
+    11-7_1_  234_.3  21-71-5-3  -4_-4__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 157 Tarnogóra]
+FKT[]
+SIG[7525100000]
+KEY[75251   08  G 3/4]
+MEL[-5-7b246_  524_31  2-7b246_  5-7b2_1_
+    -5-7b2413  5_243_  -7b22-513  5_2-7b1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 158 od Tarnogóry]
+FKT[]
+SIG[7525200001]
+KEY[75252   08  G 3/4]
+MEL[246_4_  6_543_  ^56_4_  2_-7-51_  132_34  6_531_  312343  2_-721_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 158 od Tarnogóry]
+FKT[]
+SIG[7525200002]
+KEY[75252   08  G 3/4]
+MEL[246_4_  6_543_  ^56_4_  2_-7_1_  132_34  6_6_5_  313543  2_-721_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 158 od Tarnogóry]
+FKT[]
+SIG[7525300000]
+KEY[75253   08  G 3/4]
+MEL[135_5_  565_4_  312_2-7  -5_-6-71_
+    -5-71_32  354_4_  313_2-7  -5_(^-6-7)1_
+    -722_2_  3234#5_  2_34#5_  2_34#5_
+    135_54#  564_54  312_2-7  -5-5-5-71_
+    132_-7-5  135_42  312_-7-5  -5-5-5-71_ //]
+BEM[Wariant t. 4-5: -5_(-5-6-7)1_  (-5-6-7)1_32; wariant t. 17: 135_4_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 159 Tarnogóra]
+FKT[]
+SIG[7525400010]
+KEY[75254   08  C 3/4]
+MEL[+1+2+3b_+3b+2  +3b+2+1_+1+3b  +275_57  +1+2+3b_.+2
+    +1+2+3b_+3b+2  +3b+2+1_+1+3b  +275_57  +1_+1__
+    +3b+4#+5_+5+4#  +6+5+4#_+5_  +3b+2+1_+2_  +3b+4#+5_+3b+2
+    +3b+4#+5_+4#+5  +6b+5+4#_+5_  +3b+2+1+3b+27  +1__5_ //]
+BEM[Wariant t. 12: +3b+4#+5_+5_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 159 Tarnogóra]
+FKT[]
+SIG[7525400020]
+KEY[75254   16  G 3/4]
+MEL[1_4_6_6_4_6_  6__5_4_3_1_  1_3_5_3_5_7b_  7b__6_5_4__
+    +1_7_+1_+2_+1_7b_  7b__6_4_6__  6__5_6_7b_3_  4___1__
+    +2__+1__7b__  6_.14_6_+1__  7b_.13_5_+2__  +1_.14_6_+1__  4___6__
+    +1_7_+1_+2_+1_7b_  7b__6_4_6__  6__5_6_7b_3_  4_3_4_5_6_7b_
+    +1_7_+1_+2_+1_7b_  7b__6_4_6__  6__5_6_7b_3_  4___1__ //]
+BEM[Wariant t. 2: 6__5_4_5__; wariant t. 11: 7b_.13_5_+2_+1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 160 od Tarnogóry]
+FKT[]
+SIG[7525500000]
+KEY[75255   08  G 3/4]
+MEL[7b__57b  667b_5_  421_3b_  2_1__
+    -7b_3b_1_  3b46_5_  421_3b_  2_1__
+    7b_5_7b_  6+1+1_7b6  541_3b_  2-7b1__
+    1_3b_3b2  3b47b_6_  541_3_  2-7b1__ //]
+BEM[Wariant t. 12 i 16: 2-51__; wariant t. 13: 1-7b3b_3b2]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 160 od Zamościa (Złojec)]
+FKT[]
+SIG[7525600000]
+KEY[75256   08  C 3/4]
+MEL[+1+3+2+1+3+5  5+1+27+1_  +1+3+2+1+3+5  57+27+1_
+    7b_7b_7b6  7b7b5_+4_  +4_+3_.+2  +17b+3+2+1_
+    7b_7b_7b6  7b7b5_+4_  +4_+3_.+2  +1_+1__ //]
+BEM[Wariant t. 4: 57+27+15; wariant t. 6: 7b7b+2_+4_; wariant t. 8: +1+3+3+2+1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 161 od Zamościa (Złojec, Bortatycze)]
+FKT[]
+SIG[7525700000]
+KEY[75257   08  C 3/4]
+MEL[+1+3+5_+5+4#  +2+4#+6_+6+5  +1+3+5_+5+4  +2+4+3_.+1
+    57+2+3+4+6  +6+5+5_5_  +2_.+3+4+2  +1+3+3+1+3_
+    57+2+3+4+6  +6+5+5_5_  57+2+3+4+2  +1_+1__
+    57+2_+27  5+1+3_+3+1  57+2+3+27  +166_5_ //]
+BEM[Wariant t. 4: +2+4+3+5+3+1]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 162 od Zamościa (Złojec)]
+FKT[]
+SIG[7525800010]
+KEY[75258   08  C 3/4]
+MEL[+1+1+1_+1_  +3+5+3_+1_  (777)7_7_  5+4+2_75
+    +1+3+5_+7_  ++1__+2_  +3_.+176  5_5__
+    (+3+3+3)+3_+3_  (+3+5+3)+1_+1_  (57+2)+4_7_  +15+1+3+5_
+    (+3+3+3)+3_+3_  (+3+5+3)+1_+1_  (57+2)+4_7_  +1_+1__ //]
+BEM[Wariant t. 6: ++1__(+2+1+2); wariant t. 11 i 15: (57+2)+4_+27]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 162 od Zamościa (Złojec)]
+FKT[]
+SIG[7525800020]
+KEY[75258   08  G 3/4]
+MEL[135__  5435+1_  135_.6  5435+1_
+    135_+1_  +3__5_  6_.432  1_1__ //]
+BEM[Wariant t. 6: +3__(545)]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 163 od Zamościa, Szczebrzeszyna]
+FKT[]
+SIG[7525900000]
+KEY[75259   08  C 3/4]
+MEL[5_+1_+15  +1+3+1_76  5_57+2_  7+1+2+3+4+2
+    +5_+3_+1_  +1+3+1_76  5_57+2_  57+27+1_
+    +5_+5_+5_  +5+3+1+3+5+3  +4_+4_+4_  +4+2+4+6+5_
+    +5_+5+3+1_  +1+3+1_76  5_57+2_  57+27+1_ //]
+BEM[Wariant t. 3-4: 5_5775  +2+1+2+3+4+2]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 163 Szczebrzeszyn]
+FKT[]
+SIG[7526000001]
+KEY[75260   08  G 3/4]
+MEL[5457+2_  +154_6+1  5457+2_  +154_1_
+    12345_  354_53  12345_  354_1_
+    (123)4_5_  57b5453  (123)4_5_  354_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 163 Szczebrzeszyn]
+FKT[]
+SIG[7526000002]
+KEY[75260   08  G 3/4]
+MEL[5457+2_  (+165)4_6+1  5457+2_  (+165)4_1_
+    12345_  354_53  123453  354_1_
+    (123)4_5_  57b5453  (123)4_53  354_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 164 od Janowa]
+FKT[]
+SIG[7526100000]
+KEY[75261   08  C 3/4]
+MEL[+3+5+4_+6_  +5+3+1_+1+3  +4+25_7+2  +4_+3_+5_  +3+5+4_+6_  +5+3+1_+2+3  +4+27_+2_  +1__+1+3
+    +5+3+1_+1+3  +5+3+1_+1+3  +5+45_7+2  +4_+3_+1_  +5+3+1_+1+3  +5+3+1_+1+3  +5+47_+2_  +1__. //]
+BEM[Wariant t. 12: +4_+3_+1+3]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 164 od Janowa]
+FKT[]
+SIG[7526200000]
+KEY[75262   08  G 3/4]
+MEL[246_24  313_35  246_24  3-73__
+    2-72-724  3-73356  2-7-5-724  3-71__
+    -5-7246_  553_6_  -5-7246_  553_-7_
+    1_242-7  131_3_  2-72-724  3-71__ //]
+BEM[Dwudźwięki]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 165 od Janowa]
+FKT[]
+SIG[7526300000]
+KEY[75263   08  C 3/4]
+MEL[+1_+3_+3+2  +1_+3_+3+2  +3_+4_+3_  +3_+2+176  7+1+2_+2_  7+1+2_+2_  5_+4_+4+3  +3_+2+17+1
+    5_+3_+3+2  +1_+3_+3+2  +1_+4_+3_  +3_+2+176  7+1+2+2+2+2  7+1+2+2+2+2  5_+4_+4+3  +3_+2+17+1 //]
+BEM[Wariant t. 5-6: 7+1+2+3+2+1  7+1+2+3+27; wariant t. 12: +5_+4+3+2+1]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 166 od Janowa]
+FKT[]
+SIG[7526400000]
+KEY[75264   08  G 3/4]
+MEL[5_5555  551355  5_135_  5+1+176_
+    6_6666  6_546_  6_566_  6+1+1776
+    5_5554  535_5_  (543)5_5_  +1_+1_3_
+    6_654_  3_543_  2342-72  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 166 od Krzeszowa, Ulanowa]
+FKT[]
+SIG[7526500000]
+KEY[75265   08  C 3/4]
+MEL[5_+1_+1_  +1+3+1_+1_  5_7777  57+2_+1_
+    +1_+5+5+5+5  +5+6+5_+4_  +2_+4+4+4+4  +4+5+4_+3_
+    5_+1+1+1+1  +1+3+1_+17  5_7777  57+2_+1_ //]
+BEM[Dwudźwięki]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 167 od Krzeszowa]
+FKT[]
+SIG[7526600000]
+KEY[75266   08  G 3/4]
+MEL[(123)4_41  464_(432)  1_3_32  357b_7b5
+    4_6564  6+16_(432)  1_3_31  7b5314_
+    345_54#  531_-7-6  -5_-5-6-71  (232)-7_1_ //]
+BEM[Wariant t. 5: 4_6567b]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 167-168 od Krzeszowa]
+FKT[]
+SIG[7526700010]
+KEY[75267   08  C 3/4]
+MEL[+5_.+3+1+3  +2_+27+27  +2+4+3+4+4+2  +3_+1+3+1+3  +3+5+3+5+3+1  +2_+27+27  +2+4+3+4+27  +1__+1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 167-168 od Krzeszowa]
+FKT[]
+SIG[7526700020]
+KEY[75267   08  F 3/4]
+MEL[5__5_  53135_  42-724_  53135_  5__5_  53135_  4_242-7  1_1__
+    42-724_  32135_  4_-5-72_  3_135_  5__5_  53135_  4_242-7  1_1__ //]
+BEM[Wariant t. 13: 5__56]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 168 od Krzeszowa]
+FKT[]
+SIG[7526800000]
+KEY[75268   08  G 3/4]
+MEL[5_5_6_  5_5413  5_32-72  5_3531
+    5_5_6_  5_5313  5_42-72  1_1__
+    4_.2-72  1_3131  -5_-5-72-7  1_3135
+    424242  1_3131  -5_-5-72-7  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 169 od Krzeszowa]
+FKT[]
+SIG[7526900000]
+KEY[75269   08  C 3/4]
+MEL[+5+4+3+4+5_  +5+4#+5+3+4+3  +4_+2+3+4_  +4+3+4+6+5+4  +3_+3+2+3_  +3+2+4+3+2+1  7_7567  +1_+1__
+    555+1+3+1  7+2+4+3+2+1  7+2+257+2  +1+3+5+4+3+2  +1_5+1+3+1  7+2+4+3+2+1  7_57+27  +1_+1__ //]
+BEM[Wariant t. 2-3: +5_+5+6+5_  +4+3+2+3+4_; wariant t. 15: 7557+27]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 170-171]
+FKT[]
+SIG[7527000010]
+KEY[75270   08  G 3/4]
+MEL[3_-5131  -7_-5-723  4_2465  4__32
+    3_-5131  -7_-5-723  4_2465  1__.
+    5_5365  4_3454  3_3143  2_2-7-5_
+    5653+16  4_2_54  3_3242  1_1__ //]
+BEM[Wariant t. 14: 4_2654]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 170-171]
+FKT[]
+SIG[7527000020]
+KEY[75270   08  D 3/4]
+MEL[345654#  5+3+35+1+3  +2+4+4+3+2+4  +3+2+17+15
+    345654#  5+3+35+1+3  +5_+4+27+2  +1_+1__
+    +5+6+5+3+4+2  +1+3+335+1  7+2+2567  +1+2+3+4+5+6
+    +5+6+5+3+4+2  +1+3+335+1  7+2+2567  +1_+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 170-171]
+FKT[]
+SIG[7527000030]
+KEY[75270   08  G 3/4]
+MEL[3_-5131  -7_-5-723  4_2465  4__32
+    3_-5131  -7_-5-723  4_2465  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 170-171]
+FKT[]
+SIG[7527000040]
+KEY[75270   16  C 3/4]
+MEL[+1_.+3+3_+5_+3_+1_  5___7__  7_.+2+2_+4_+2_7_  +1___+1__
+    +1_.+3+3_+5_+3_+1_  5___5__  7_.+2+2_+4_+2_7_  +1__+1___
+    7_.+2+2_+4_+2_7_  +1_.+3+3_+5_+3_+1_  7_.+2+4_+3_+4_+6_  +6_+5_+4_+5_+3_+1_
+    (5_7_+2_)+4__+2_7_  (5_+1_+3_)+5__+3_+1_  7_+2_+4_+6_+5_7_  +1__+1___ //]
+BEM[Wariant t. 4: +1___+3__]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 171]
+FKT[]
+SIG[7527100000]
+KEY[75271   08  G 3/4]
+MEL[135654#  553_5_
+    67+1_76  (5+15)3_5_
+    67+1_.6  5+13_5_
+    666_54  311353  2_.-5-52  113_5_
+    466_54  311353  2_.-5-5-5  1_1__ //]
+BEM[Wariant t. 12: 311_53]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 172]
+FKT[]
+SIG[7527200010]
+KEY[75272   08  C 3/4]
+MEL[+1+3+5_+5+4#  +5+5+3_+1_  (+2+3+4)+6_+6_  +5+5+3_+2_  +1+3+5_+5+4#  +5+5+3_+1_  7+2+4567  +1_+1__  57+2+4+27  +1+3+5_+3+1  57+2+4+27  +1+3+5_+3+1  57+2+4+6_  +6+5+5_+3+1  (57+2)+4_+27  +1_+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 172]
+FKT[]
+SIG[7527200020]
+KEY[75272   16  G 3/4]
+MEL[3_4_5___  4_3_4_3_2__  6_5_5__4_3_  2_6_5___
+    3_4_5___  4_3_4_3_2__  6_5_5__4_3_  2_3_1___
+    3_.33__3_2_  1_-7_-6__-7_1_  2_.22__2_1_  -7_-6_-7__-5__
+    (-5_-6_-7_)1__2_3_  4_3_5__4_3_  2_6_5__4_-7_  1__1___ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 173]
+FKT[]
+SIG[7527300000]
+KEY[75273   16  C 3/4]
+MEL[+2_+3_+5__+5__  +5__+4#_+2_+1__  +2_+3_+5__+6+5_.  +5+4#_.+4#+2_.+1__  ^_5_7__6__  5__5_7_+2_7_  +2_+1_7__7_6_  6__6_7_+1__  0__(+1_+2_+3_)+5__  (+6_+5_+4#_)(+4#_+3_+2_)+1__  (+1_+2_+3_)+5__+6__  +5__(+4#_+3_+2_)+1__ //]
+BEM[Burdon]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 174]
+FKT[]
+SIG[7527400010]
+KEY[75274   08  D 3/4]
+MEL[135_.3  465_2-7
+    135_.3  465_-7_
+    135_54#  5_+3_.+2#
+    +47+1_.7  654_3_
+    23465-7  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 174]
+FKT[]
+SIG[7527400020]
+KEY[75274   08  G 3/4]
+MEL[-5-6-7121  3_4_.3  (234)6_.-7  123-71_  123454  6_+1__  7_+2+175  4_4__
+    6_666_  5_135_  4_-724_  3_135_  4_666_  53135_  42-7243  1_1__
+    32-7_.2  431_.3  54-7_.2  654_.2  4_666_  53135_  42-7243  1_0__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 175]
+FKT[]
+SIG[7527500010]
+KEY[75275   08  C 3/4]
+MEL[+1+3+5_+5_  +4#+6+5__  +4+3+2_+5_  +3+2+1_5_
+    +1+3+5_+5_  +4#+6+5_+5_  +4+3+2_75  +1_+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 175]
+FKT[]
+SIG[7527500020]
+KEY[75275   08  G 3/4]
+MEL[531_13  21-5__  -724_32  (135)+1_(+176)
+    531_13  21-5__  (-5-72)4_(432)  211__ //]
+BEM[Wariant t. 5: 531113]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 175-176]
+FKT[]
+SIG[7527600000]
+KEY[75276   16  D 3/4]
+MEL[+1___(7_+1_+2_)  +1_7_+1__(6_5_4_)  6_+1_7__.5_  5_4_6___
+    6_+1_7__5__  (5_6_7_)+1__6_4_  6_+1_7__5__  3_4_6___
+    6_.56__7__  +1_+1_7__5__  6_5_6__7__  +1_+1_7__5__
+    6_5_6__7__  +1_+2_+3__.+1_  +2_+3_+5__++1__  +5_+3_+5__.+4_
+    +4__+2__+4__  +3_+1_+3__+2_+1_  7_+2_+4_+6_+5_7_  +1__+1___ //]
+BEM[Wariant t. 15: +3__+5__++1__; wariant t. 20: +1__+3__+5__]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 176]
+FKT[]
+SIG[7527700001]
+KEY[75277   08  G 3/4]
+MEL[34#5_5_  5_3_5_  4#4#2_4#_  5_321_  -72-5_.-7  1_3_5_  64#2_4#_  5_321_
+    34#5_5_  5_3_5_  5_5545  54#2_4#_  5_321_  -72-5_.2  1_3_5_  542_4_  53321_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 176]
+FKT[]
+SIG[7527700002]
+KEY[75277   08  G 3/4]
+MEL[34#5_5_  5_(32#3)5_  4#4#2_4#_  5_321_  -72-5_.-7  1_(32#3)5_  64#2_4#_  5_321_
+    2_5_5_  5_(32#3)5_  5_5545  54#2_4#_  5_321_  -72-5_.2  1_(32#3)5_  542464  53321_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 177]
+FKT[]
+SIG[7527800000]
+KEY[75278   08  G 3/4]
+MEL[-5_6_5_  4#56_6_  554_31  2_1__
+    -71234_  5__42  245_4_  321__
+    -71234_  5__2_  (432)4_3_  2_1__
+    1-7-5_-6-7  1_2_3_  43-5_-6-7  1_2_3_
+    456_.4  345_54#  56-5_-6-7  1_1_-5_
+    135_54#  562_43  135_54#  562_43
+    1_-5-72-7  132_43  1-7-5-72-7  132_43 //]
+BEM[Wariant t. 6: 5__(432); wariant t. 15: (353)-5_-6-7; wariant t. 23: 135654#]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 178]
+FKT[]
+SIG[7527900000]
+KEY[75279   08  C 3/4]
+MEL[+4_+2_+4_  +3+1+2+3+4_  (+276)5_67  +1_4_5_
+    5__(567)  +1+3+2_76  5__(567)  +1_4_6_
+    5__(567)  (+3+5+4#)+2_76  5__(567)  +1_4_6_
+    5__+4_  +2_+4_+3+1  +2+3+4_(+276)  5__67
+    +1_4_6_  5__(567)  (+1+2+3)+4_(+276)  5__(567)
+    +1_4_6_  5__+2_  +1_+3_(+276)  5__67  +1_4_6_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 179]
+FKT[]
+SIG[7528000000]
+KEY[75280   08  F 3/4]
+MEL[+1_5_67  +1+17_65  +1_5_67  +1+17_65
+    +1_5_52  431_2_  (234)5_23  457_6_
+    645_23  457_6_  (654)5_52  431_2_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 179]
+FKT[]
+SIG[7528100000]
+KEY[75281   08  G 3/4]
+MEL[356_4_  6_5_31  356_4_  2_-7_1_
+    3_1_4_  2_-724_  3_1_4_  2_-7_1_
+    (-5-6-7)124_  (542)3_1_  356_4_  2_-7-6-5_
+    (-5-6-7)124_  323_1_  -71-6_-4_  -6_1-7-5_
+    1-6-4_-6_  1-7(-5-72)31  (-71-6)-4_-6_  1-7-5__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 180]
+FKT[]
+SIG[7528200000]
+KEY[75282   08  F 3/4]
+MEL[57b+2_+1_  645_.3  57b+2_+1_  645_.3
+    57b+1_6_  445_.3  57b4_4_  645_.3
+    67b+1564  357b_+2_  +1_+1564  352_.1
+    123464  312321  123464  312_.1 //]
+BEM[Wariant t. 10: 357b57b+1]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 180]
+FKT[]
+SIG[7528300001]
+KEY[75283   16 Bb 3/4]
+MEL[2_34#5__4_3_  2_1-7-6__1__  1_-712__3_4_  3_1-7-6__1__
+    1_-712__3_4_  3_5_6__.5_  1_-712__3_4_  3_1-7-6__1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 180]
+FKT[]
+SIG[7528300002]
+KEY[75283   16 Bb 3/4]
+MEL[2_4_5__4_3_  2_-7_-6__1__  1_1_2__3_4_  3_-7_-6__1__
+    1_1_2__3_4_  3_456__.5_  1_-712__3_4_  3_-7_-6__1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 180]
+FKT[]
+SIG[7528400001]
+KEY[75284   08  F 3/4]
+MEL[(567)+1_3_  54246_  (567)+1_3_  54211_
+    3_.135  (424)6_54  3_3135  42-7_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 180]
+FKT[]
+SIG[7528400002]
+KEY[75284   08  F 3/4]
+MEL[(567)+1_3_  542465  (567)+1_3_  54211_
+    3_.135  (424)6543  3_3135  42-711_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 181]
+FKT[]
+SIG[7528500000]
+KEY[75285   08 Bb 3/4]
+MEL[(234)54#56  (565)4_32  1_.356  523_-7_
+    1_.353  332_-7_  1_.356  243_-7_ //]
+BEM[Wariant t. 1: 2_54#56; wariant t. 6: 342_-7_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 181]
+FKT[]
+SIG[7528600000]
+KEY[75286   16  F 3/4]
+MEL[4_6_+1__+2__  5__7b__+2__  +1_6_4__3_2_  1_.23__1__
+    4_5_6__6_5_  7b__6__5__  5_4_2__3_2_  1_3_5__+1__
+    4_5_6__6_5_  7b__6__5__  5_4_2__3_2_  1_2_3__1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 181]
+FKT[]
+SIG[7528700000]
+KEY[75287   32  G 3/8]
+MEL[3_5_6__6__  3_5_6__4__  3_5_3_1_2_1-7  -5_-6-71__-5__
+    -5_-7_2__2_1_  3_5_4__2__  3_5_3_1_2_-7_  -5_-7_1__-5__ //]
+BEM[Dwudźwięki]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 182]
+FKT[]
+SIG[7528800000]
+KEY[75288   08  G 3/4]
+MEL[135_53  563_4_  (313)4_2-7  11-7_-5_
+    134_.2  31232-7  (123)4_.2  11-7_-5_ //]
+BEM[Wariant t. 2: 564_4_; wariant t. 5: (123)4_.2]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 182]
+FKT[]
+SIG[7528900000]
+KEY[75289   16  G 3/8]
+MEL[135_6_  432_43  135_6_  4_2-7-5_
+    131_35  432_43  131_35  4_2-7-5_
+    356_4_  6_5_31  356_4_  2_-7_-5_
+    (-5-6-7)124_  2_-7_1_  356_4_  2_-7_-5_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 183]
+FKT[]
+SIG[7529000000]
+KEY[75290   16  G 3/4]
+MEL[1_3_5__5__  6__6_3_4_6_  5__1__3_5_  4__2__1__
+    1_3_5__4_3_  (2_1_2_)6__5__  1_3_5__4_3_  24342__1__ //]
+BEM[Wariant t. 2: 65656_3_4_6_; wariant t. 6: (4_3_4_)6__5__]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 183]
+FKT[]
+SIG[7529100000]
+KEY[75291   08  G 3/4]
+MEL[135_2_  4_6_6_  532_4_  3_1_1_
+    135_43  2_2_2_  432_2_  3_1_1_ //]
+BEM[Wariant t. 7: 432_4_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 183]
+FKT[]
+SIG[7529200000]
+KEY[75292   16  G 3/8]
+MEL[3_4_6_  534_6_  5_4_6_  534_2-5
+    (323)4_2_  -725_31  3_4_-5_  -724_31 //]
+BEM[Wariant t. 1: (323)4_6_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 184]
+FKT[]
+SIG[7529300001]
+KEY[75293   08  G 3/4]
+MEL[3_4_6_  534_6_  3_4_6_  534_21
+    3_4_2_  -724_31  3_4_-5_  -72431_
+    3_4_2_  -725_31  234_-5_  -72431_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 184]
+FKT[]
+SIG[7529300002]
+KEY[75293   08  G 3/4]
+MEL[(323)4_6_  534_6_  (323)4_6_  534_21
+    (323)4_2_  -724_31  (323)4_-5_  -72431_
+    (323)4_2_  -725_31  234_-5_  -72431_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 184]
+FKT[]
+SIG[7529400000]
+KEY[75294   08  G 3/4]
+MEL[(323)4_3_  565_1_  (323)4_3_  21-7_-5_
+    -6_-5_-6-7  11-7_2_  (123)4_3_  11-7_-5_ //]
+BEM[Wariant t. 2: 565_3_; wariant t. 6-7: 11-7_2-7  (123)4_32]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 185]
+FKT[]
+SIG[7529500000]
+KEY[75295   16  C 3/4]
+MEL[+3_+3_+2__+4_+6_  +5_+4+3+2__+5__  +1_+3_+2__+4_+6_  +5_+4+3+2_7_+1__
+    +3_+3_+2__+4_+3_  +3_+3_+2__+4_+3_  +3_+3_+2__+4_+6_  +5_+4_+2_7_+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 185]
+FKT[]
+SIG[7529600000]
+KEY[75296   08  G 3/4]
+MEL[6_7b_7b_  6+17b_7b_  6+16453  134_1_
+    135_5_  6+17b_7b_  6_6453  134_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 185]
+FKT[]
+SIG[7529700000]
+KEY[75297   16  F 3/4]
+MEL[7__5__7__  +1_6_+1__+1__  7__5__7__  +1_6_4__1__
+    3__1__3__  4_6_4__5__  3__1__3__  4_6_4__1__ //]
+BEM[Wariant t. 4: +1_654__1__; wariant t. 8: 4_1_4__1__]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 186]
+FKT[]
+SIG[7529800000]
+KEY[75298   16  F 3/4]
+MEL[+1_7_5__6_7_  +1__.6_6_4_  +1_7_5__6_7_  +1__.6_4__
+    4__6__6_4_  6_6_5__(4_3_2_)  3_5_4__2__  1_3_5__.3_
+    4__6__6_4_  6_6_5__(4_3_2_)  3_5_4__2__  2__1___
+    1__1_3_5_3_  1_3_4__3_2_  1__1_3_5_3_  (1_2_3_)4__3_2_
+    1__+1__+1__  5_5_6__.4_  3_5_4__2__  2__1___ //]
+BEM[Wariant t. 2: +1__.6_(6_4_6_); wariant t. 6 i 10: 6_7b+15__(4_3_2_)]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 186]
+FKT[]
+SIG[7529900001]
+KEY[75299   08  G 3/4]
+MEL[4_2_4_  31234_  312_.-7  -6_-5_.-3
+    -4_-5-6-7b_  (123)4_4_  312_.-7  -6_-5_.-3 //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 186]
+FKT[]
+SIG[7529900002]
+KEY[75299   08  G 3/4]
+MEL[-4_2_4_  31234_  312_.-7  -6_-5_.-3
+    -4_-5_-7b_  (123)434_  312_.-7  -6-4-5_.-3 //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 187]
+FKT[]
+SIG[7530000000]
+KEY[75300   08  G 3/4]
+MEL[6_4_4_  31345_  -7-5-724_  3134#5_  6_4_4_  31345_  2-72342  1_1__
+    -5-7234_  31345_  -5-7234_  31345_  6_4_4_  31345_  2-72342  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 187]
+FKT[]
+SIG[7530100000]
+KEY[75301   08  G 3/4]
+MEL[3_3_3_  313_5_  4_4_4_  356_7_  +1_+1_4_  313_5_  6_6_-5_  -72431_
+    -72465_  -72431_  -7-5-6-71_  -7243-7_  -72465_  -72431_  -7-5-6-71_ //]
+BEM[Wariant t. 3: 6_6_4_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 188]
+FKT[]
+SIG[7530200000]
+KEY[75302   08  C 3/4]
+MEL[+1_+1+17_  6_655_  +4+3+4+2+2_  +17+1+2+3_
+    +1_+1+17_  6_655_  +4+3+4+2+2_  +1_+1__
+    5_.7+2+4  +6+5+4#+5+3_  +5+4+3+4+2+4  +6+5+4#+5+3+1
+    +2_.7+2+4  +6+5+4#+5+3+5  +5+4+3+4+27  +1_+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 188]
+FKT[]
+SIG[7530300000]
+KEY[75303   16  C 3/4]
+MEL[5__  +1__+1_+1_+1__  +1__7_+1_+2_+3_  +4__+4_+4_+4__  +5_+4_+3_+4_+5_+4_  +3__+3_+3_+3__  +3__+1__+3_+5_  +4#_+5_+6_+5_+4_+2_  +1__+1___  +5_.+5+5_5_7_+2_  +4__+3_+1_+3__  +5_.+5+5_5_7_+2_  +4__+3_+1_+3__  +5_.+5+5_5_7_+2_  +4__+3_+1_+3__  +4#_+5_+6_+5_+4_7_  +1__+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 189]
+FKT[]
+SIG[7530400000]
+KEY[75304   08  C 3/4]
+MEL[5+1+3+1+3+5  +5_+4+3+4_  57+27+2+4  +4+3+3+1+3_  5+1+3+1+3+5  +5_+4+3+4_  (57+2)+4+6+4+2  +1_+1__
+    +5+4#+2+4#+6_  +4_+3+1+3_  57+27+2+4  +4+3+3+1+3_  +5+4#+2+4#+6_  +4_+3+1+3_  7+2+4+6+57  +1_+1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 189]
+FKT[]
+SIG[7530500000]
+KEY[75305   08  C 3/4]
+MEL[(765)7+2+4+3  +4+6+5_+3+1  757+2+4+3  7+2+1__
+    (765)7+2+4+3  (57+2)+1_+3+1  (765)7+2+4+3  7+2+1__ //]
+BEM[Wariant t. 3: (765)7+2+4+3]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 190]
+FKT[]
+SIG[7530600000]
+KEY[75306   08  C 3/4]
+MEL[(57+2)+4_+6_  +5+3+1_+1_  (57+2)+4_+27  +1+3+1_+1_
+    (57+2)+4_+4+3  +1+37_+1_  (57+2)+4_+27  +1+37_+1_
+    (57+2)+4_+27  +1+1+3_+16  (57+2)+4_+4+3  +4+37_+1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 190]
+FKT[]
+SIG[7530700000]
+KEY[75307   08  C 3/4]
+MEL[(57+2)+4_+6_  +5+3+1_+1_  (57+2)+4_+6_  +5+3+1_+1_
+    (57+2)+4_+27  +1+3+1_+1_  (57+2)+4_+4+3  +4+37_+1_
+    (57+2)+4_+27  +1+1+3_+16  (57+2)+4_+27  +1+37_+1_ //]
+BEM[Wariant t. 8: +1+37_+1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 191]
+FKT[]
+SIG[7530800000]
+KEY[75308   16  G 3/4]
+MEL[(1_3_5_)7b__7b_6_  4__6_5_(3_2_1_)  1_345__1__  3__4__1__
+    (1_3_5_)7b__+2__  +1__6__+1__  +1_7b_5__3_1_  3__4__1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 191]
+FKT[]
+SIG[7530900000]
+KEY[75309   08  C 3/4]
+MEL[5+6+5_+6_  +5+5+3_+5_  +3+4+2+1+3+1  +3+27_+1_
+    (567)+1_+2+3  (+4+3+4)+6_+5_  +4+6+5_+3+1  +3+4+2+1+3+1
+    (567)+1_+2+3  (+4+3+4)+6_+5_  +4+6+5_+3+1  +3+27_+1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 191]
+FKT[]
+SIG[7531000000]
+KEY[75310   08  G 3/4]
+MEL[531_+2_  +2+17b_.6  531_+2_  +2+17b_.6
+    531_3_  467b_.6  531_3_  467b_.6 //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 192]
+FKT[]
+SIG[7531100000]
+KEY[75311   16  C 3/4]
+MEL[(5_6_7_)+1__+3__  +5_+4_+2_+4_+6__  +5__+5_+2_+4_+6_  +5_+4_+2_+4_+6__  +5__+5_+2_+3_+4_  +5__.+3_+1_+3_  +5_+4_+2__+3_+4#_  +5__+5___
+    (5_6_7_)+1__+2_+1_  (+3_+4_+3_)+4__.+2_  +3_+2_+1_7_+1_+3_  +2_+1_7_6_5__  (5_6_7_)+1__+2_+1_  +3_+5_+4__.+2_  +3_+2_+1_7_+1_+3_  +2_7_+1___ //]
+BEM[Wariant t. 1: (5_6_7_)+1__+3_+4_; wariant t. 3: +5+6+5+6+5_+2_+4_+6_; wariant t. 5: +5+6+5+6+5_+2_+3_+4_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 192]
+FKT[]
+SIG[7531200000]
+KEY[75312   08  F 3/4]
+MEL[134_6_  7b_534_  6+17+1+2_  7b_534_
+    134_6_  6_5_3_  542_-7b_  1_1353
+    134_6_  6_5_3_  542_-7b_  1_3_1_ //]
+BEM[Wariant t. 8: 11353]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 193]
+FKT[]
+SIG[7531300001]
+KEY[75313   08  F 3/4]
+MEL[135_57  +1+16_6_  642_2-7  13-5_-5-7
+    135_57  +1+16_6_  642432  1_1__
+    +2+16+176  57+2_+4#_  +4#6+1_76  5_4#53-5
+    135_5_  +1+16_45  64243-7  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 193]
+FKT[]
+SIG[7531300002]
+KEY[75313   08  F 3/4]
+MEL[135_57  +1+16_6_  642_2-7  13-5_-5_
+    135_57  +1+16_6_  642432  1_1__
+    +2+16+176  57+2_+4#_  +4#6+1_76  5_4#531
+    135_5_  +1+16_4_  642432  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 193]
+FKT[]
+SIG[7531400000]
+KEY[75314   08  G 3/4]
+MEL[135_+1_  6_+1_64  5_3_53  552_43
+    135_+1_  6+16464  575353  42431_
+    134_31  467b654  3_1353  42-721_
+    3_(123)42  -7-52_1_  3_(123)42  -7-51__ //]
+BEM[Wariant t. 9: 1_4_31]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 194]
+FKT[]
+SIG[7531500000]
+KEY[75315   08  G 3/4]
+MEL[135_+17  (567)+1_6_  531_+17  (567)+1_.6
+    442_43  135_53  442_-5_  1_^353
+    442_43  1__13  442_-5_  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 194]
+FKT[]
+SIG[7531600000]
+KEY[75316   08  D 3/4]
+MEL[135_+1_  754_6_  653_5_  54243-7
+    1_.35_  542464  3_135_  4_.2-7_
+    1_.35_  542464  3_135_  424_3-7 //]
+BEM[Wariant t. 2: (765)4_6_; wariant t. 4: 5422(32-7)]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 194]
+FKT[]
+SIG[7531700000]
+KEY[75317   08  G 3/4]
+MEL[135_+1_  +124_4_  3_1_-7-6  -5-72-71_
+    3_1_-7-6  -5-7246_  531_(1-7-6)  -5-72-71_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 195]
+FKT[]
+SIG[7531800000]
+KEY[75318   08  G 3/4]
+MEL[135_+1_  64246_  135_+1_  642-71_  3_531_  -724_64  3_531_  242-71_ //]
+BEM[Wariant t. 4: 642_1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 195]
+FKT[]
+SIG[7531900000]
+KEY[75319   08  G 3/4]
+MEL[1_+1_.7  654_43  2_5_.4  323_1_
+    1_+1_.7  654321  -72465-7  1_1_0_
+    5_3_5_  4#_6_.5  432_5_  1_.234
+    553_5_  6_6_.5  432_(432)  1_1_0_ //]
+BEM[Wariant t. 11: 332_5_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 196]
+FKT[]
+SIG[7532000000]
+KEY[75320   08  C 3/4]
+MEL[(57+2)+5_+5+4  +5+5+3_+5_  +4_+3_+2+1  7+1+2_+1_
+    +4+4+3_+3+2  7+1+3_+5_  +4_+3_+2+1  7+1+2_+1_
+    5+4+3_+3_  77+3_+3_  5+4+3_+3_  7+1+2_+1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 196]
+FKT[]
+SIG[7532100000]
+KEY[75321   08  C 3/4]
+MEL[(57+2)+1_+3+5  +4_+3_+2_  (57+2)+1_+3+5  +4_+3_+2_  (57+2)+1_6_
+    (656)+175_  (57+2)+1_(765)  7+2+4_+27  (57+2)+1_64  (656)+176_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 196]
+FKT[]
+SIG[7532200001]
+KEY[75322   16  F 3/4]
+MEL[(2_3_4#_)5_6_7__  +1__5__6_7_  +1__5__7_+2_  +1_+1_7_5_6_7_  +1_.+17__5__
+    (6_7_+1_)7_4_2__  1_3_5__7__  (6_+1_6_)4__3_2_  1_2_3__1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 196]
+FKT[]
+SIG[7532200002]
+KEY[75322   16  F 3/4]
+MEL[(2_3_4#_)5_6_7__  +1__5__6_7_  +1__7_5_7_+2_  +1_+1_7_5_7_+2_  +1_.+17__5_7_
+    (6_7_+1_)7_4_2_-7_  1_3_5__7__  (6_+1_6_)4__3_2_  1_2_3__1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 197]
+FKT[]
+SIG[7532300000]
+KEY[75323   08  G 3/4]
+MEL[(-5-6-7)1_3_  4_3_53  4_3_53  4_3_1_  2-7-5__
+    4_3_3_  2-71353  4_3_1_  2-7-5__ //]
+BEM[Wariant t. 1: (-5-6-7)1_23]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 197]
+FKT[]
+SIG[7532400000]
+KEY[75324   08  D 3/4]
+MEL[3457b53  553_1_  2_4_34  +175__
+    3457b53  553_1_  2_-7b_-7b2  431__
+    3457b53  553_1_  4_2-6-7b2  431__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 198]
+FKT[]
+SIG[7532500000]
+KEY[75325   08  G 3/4]
+MEL[1-71234#  5_4#56_  6_5_4#3  2-71__
+    3_3234  5_4#565  4#56543  231__
+    4#_6543  2_1_23  4#5654#3  231__
+    -723434  213531  -723434  2-71__ //]
+BEM[Wariant t. 15: -7_3434]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 198]
+FKT[]
+SIG[7532600000]
+KEY[75326   08  G 3/4]
+MEL[1_3_4#_  5_6_6_  5_6_42  -72433_
+    1_3_4#_  5_6_6_  5_6_42  -72433_
+    1_3543  24655_  1_3542  -72431_
+    1_3543  24655_  1_3542  -72431_
+    6_+164_  35+153_  24642-7  1_135_
+    6_+164_  35+153_  24642-7  211_0_
+    -5_211_  35+153_  24642_  13535_
+    -5_211_  35+153_  24642_  211_0_ //]
+BEM[Wariant t. 11 i 15: 3_3542; wariant t. 27 i 31: 24532-7]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 199]
+FKT[]
+SIG[7532700000]
+KEY[75327   16  D 3/4]
+MEL[5__+2__+2__  +1_+1_+2__+2__  +1_+2_+1__7_5_  +1_654__1__
+    1_4_6__7__  +1_654__6_5_  4__5_6_7__  +1_654__1__ //]
+BEM[Wariant t. 5-6: 1_4_(6_5_6_)7__  +1_7_4__6_3_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 199]
+FKT[]
+SIG[7532800000]
+KEY[75328   16  G 3/4]
+MEL[2_4_6__7__  5_6_4__3_1_  2_4_6__7__  5_6_4_2_-7__  (-5_-6_-7_)1__.3_  -7_2_4_4_3_1_  -7_-5_1__.3_  2_4_2_-7_-5_-71 //]
+BEM[Wariant t. 4: 564_3_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 199]
+FKT[]
+SIG[7532900000]
+KEY[75329   08  G 3/4]
+MEL[246_7_  564_3_  245_5_  4_4_3_
+    (-5-6-7)2_1_  25431-7  (-5-6-7)2_13  (323)4_2-7
+    (-5-6-7)2_13  (234)531-7  (-5-6-7)2_13  264_(31-7) //]
+BEM[Wariant t. 5: -5-72_13; wariant t. 7: -5-72_1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 200]
+FKT[]
+SIG[7533000000]
+KEY[75330   08  G 3/4]
+MEL[246_7_  564_31  -5-72_1_  (-5-72)431_
+    -5-72_1_  (-5-72)4_43  -5-72_1_  (-5-72)431_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 200]
+FKT[]
+SIG[7533100000]
+KEY[75331   08  G 3/4]
+MEL[1__1_  131_1_  131_1_  131_1_
+    135_.3  42-7-51_  135_54#  24#6_62
+    135_.3  42-7-51_  11-7_-6_  -5_-724_
+    321-7-6_  -5-72-71_ //]
+BEM[Dwudźwięki]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 200]
+FKT[]
+SIG[7533200000]
+KEY[75332   08  G 3/4]
+MEL[4_6_+1_  (7+27)57+16  4_6_+1_  (7+27)5_1_
+    4_6_(432)  135_7_  (7+27)6_(432)  135_1_ //]
+BEM[Wariant t. 1: 4_6_+1_7]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 201]
+FKT[]
+SIG[7533300001]
+KEY[75333   16  G 3/4]
+MEL[5__6_+1_6_4_  57b_.6_+1_6_4_  7b__6__5__  4__3_2_1__
+    (1_2_3_)5__1__  6__.5_6_+1_  7b__6__5__  4__3_2_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 201]
+FKT[]
+SIG[7533300002]
+KEY[75333   16  G 3/4]
+MEL[5__6__4__  57b_.6_+1_6_4_  5_7b_6__5_3_  4__3_2_1__
+    1_3_5__1__  6__.5_6_+1_  7b__6__5__  4__3_2_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 201]
+FKT[]
+SIG[7533400000]
+KEY[75334   08  G 3/4]
+MEL[6+17+164  357b_+2_  6+17+164  653_1_
+    146_.4  357b_7b_  6+17+164  553_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 201]
+FKT[]
+SIG[7533500000]
+KEY[75335   16  G 3/8]
+MEL[523_1_  -724_.6  523_1_  -7-5-6_-6-5
+    -721_1_  -723_3_  221_1_  -7-5-6_-6-5 //]
+BEM[Wariant t. 2: -724_46]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 202]
+FKT[]
+SIG[7533600000]
+KEY[75336   08  C 3/4]
+MEL[+4_+3_+1_  +2_+4_+6_  +4_+3_+1_  +2_765_
+    +4_+3_+1_  +2+3+4_+2+3  +4_+3_+1_  +1+2765_
+    (67+1)+3_+1_  +2+3+4_.+2  +4_+3_+1_  +2_765_
+    (67+1)+3_+1_  +2+3+4_.5  (67+1)+3_+1+3  +2_765_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 202]
+FKT[]
+SIG[7533700001]
+KEY[75337   08  F 3/4]
+MEL[+1_+1_+2+1  7b_6546  6_5654  3_1__
+    1_3_4_  657b_65  465_4_  3_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 202]
+FKT[]
+SIG[7533700002]
+KEY[75337   08  F 3/4]
+MEL[+1_+1_+2_  7b_654_  6_5654  3_1__
+    1_3_4_  6+17b_65  (67b6)5_4_  3_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 203]
+FKT[]
+SIG[7533800000]
+KEY[75338   08 Bb 3/4]
+MEL[4_4_(542)  313_2_  -5_-6-71_  (212)3_1_
+    -5_-6-71_  213_2-7  -5_-6-71_  (212)3_1_
+    -5_-6-71_  2_3531  -5_-6-71_  (212)3_1_ //]
+BEM[Wariant t. 2: 353_2-7; wariant t. 16: 253_1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 203]
+FKT[]
+SIG[7533900000]
+KEY[75339   08  G 3/4]
+MEL[(+1+2+1)7_5_  6__4_  (343)2123  46+17+1+2
+    (+1+2+1)7_5_  6__4_  (354)3123  4_4__
+    245_.1  3b243b2-7  123b453b  1_1__  1321-72  -5_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 204]
+FKT[]
+SIG[7534000000]
+KEY[75340   08  G 3/4]
+MEL[+1+17_57  +165__  135__  446_+1_  +1+17_+2_  +164__  1_3123  4_4__
+    4_6_.5  432_5_  1__35  46+2+16+1  4_6_.5  432_5_  1_3123  4_4__ //]
+BEM[Wariant t. 15: 1_3_1_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 204]
+FKT[]
+SIG[7534100000]
+KEY[75341   08  G 3/4]
+MEL[+3_.7+16  5_54#65  4342-7_  1_.234  +3_.7+16  5_54#65  4342-72  1_1__
+    1_3_3_  542-72_  4_4346  653__  1_3_3_  542-72_  466542  1_1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 205]
+FKT[]
+SIG[7534200000]
+KEY[75342   08  C 3/4]
+MEL[5_+4+3+27  +1_3_5_  4_6467  +1_3_5_  5_.7+2+4  +4+3+3+1+3+5  +5+4+3+4+2+4  +6+5+4#+5+3+1  7557+2+4  +4+3+3+1+3+5  +5+4+3+4+27  +1_0_0_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 205]
+FKT[]
+SIG[7534300000]
+KEY[75343   16  G 3/4 2/8]
+MEL[1__.3_4_6_  +1__+1__(7_5_7_)  +1__(6_5_4_)6_4_
+    1__.3_5_7b_  4_6__6_5_31  1_3_5_4_6_4_
+    1__.3_4__  6__+1__+1__  7__+1__(6_5_4_)  6_4_
+    1__.3_5__  7b_4_6__6_5_  3_1_1_3_5_4_  6_4_ //]
+BEM[Wariant t. 1: 1_2_1_3_4_6_; wariant t. 7 i 11: 1__.(123)5__]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 206]
+FKT[]
+SIG[7534400000]
+KEY[75344   08  C 3/4]
+MEL[+5+5+6_+7_  +5+6+4_+3+1  +3+5+6_++1_  +5+6+4_+27  (+17+1)+2_+3+2  +3+4+5+6+4+3  (+17+1)+2_+3+2  7567+1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 206]
+FKT[]
+SIG[7534500000]
+KEY[75345   16  G 3/4]
+MEL[5__5__5__  (5_6_5_)2__4__  3_4_5_3_1_3_  2_.3-7__-5__
+    5__3__6__  5__2__4__  3_4_5_1_2_-7b_  1___. //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 206]
+FKT[]
+SIG[7534600000]
+KEY[75346   08  G 3/4]
+MEL[354#565  43213_  2-7-5_-6-7  123_1_
+    6_5_-5_  -7-51_34  5_5_-5_  -721__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 207]
+FKT[]
+SIG[7534700000]
+KEY[75347   08  D 3/4]
+MEL[(123)4_54  466543  467b653  466567  +167b654  35+1_.3  422_5_  133123  422_1_ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 207]
+FKT[]
+SIG[7534800000]
+KEY[75348   08  E 3/4]
+MEL[1+17_+1_  +2+17_+1_  4_6b56b+1  7b6b5431  1_3_31  346b_54  6b_546b+1  7b6b5431 //]
+BEM[Dwudźwięki]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 207]
+FKT[]
+SIG[7534900000]
+KEY[75349   08  A 3/4]
+MEL[123b23b4#  5_5_54#  654#_3b2  1_3b_1_  -724_3b2  1_3b_5_  424_3b2 //]
+BEM[Pusty t. 8]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 208]
+FKT[]
+SIG[7535000000]
+KEY[75350   08 Eb 3/4]
+MEL[+1_+17+17  +1_+17+17  +175#_43  246_4_
+    3_5_43  246_7_  5_4_3_  (234)6_2_ //]
+BEM[Wariant t. 4: (234)6_43; wariant t. 6: (234)6_7_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 208]
+FKT[]
+SIG[7535100000]
+KEY[75351   08  G 3/4]
+MEL[135_+1_  646_5_  531_.6b  42b4_3_
+    531_6b_  46b+1_7b_  531_.3  42b4_3_ //]
+BEM[Wariant t. 7: 7b53_.6b]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 208 od Lublina]
+FKT[]
+SIG[7535200000]
+KEY[75352   08  G 6/8]
+MEL[+176531  42-7135  +176531  42-71_.
+    -5_-71_3  -5-7-71_3  -5_43_+1  7+2+4+3+15
+    +164+153  5_51_5  +16453-7  5_.1_0 //]
+BEM[Wariant t. 7: -5443_+1; wariant t. 11: +16452-7]
+
+DWOK75
+CUT[Instrumentalna - Marsz, Drabant]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 210 od Lublina]
+FKT[]
+SIG[7535400010]
+KEY[75354   16  G 4/4]
+MEL[5_.7b5___7b+2_.  +1__6___6_+1_  7b__5___5_3_  4__4___6_+1_
+    4__6__+1__+1_7b_  5__7b__+2__+2_+1_  4__6___5_4_  3__4__5___ //]
+BEM[Wariant t. 5-6: 4_6_+1__+1__+1_7b_  5_7b_+2__+2__+2_+1_]
+
+DWOK75
+CUT[Instrumentalna - Obertas]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 210 od Lublina]
+FKT[]
+SIG[7535400020]
+KEY[75354   16  D 3/4]
+MEL[+1___.  +1___.  +1___7b654  4_6_5__1__
+    4_6_5__7b_6_  6_+1_7__+1__  4_6_5__7b_6_  4_6_5__1__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 211 od Lublina]
+FKT[]
+SIG[7535500010]
+KEY[75355   08  C 4/4]
+MEL[+1_+5_+5_+4+3  +2_+4_+6_+6+5  +5_+3__+3+5  +4_+2__+27
+    +1_+5_+5_+4+3  +2_+4_+6_+6+5  +1_+3__+2+1  7_+1_+2__ //]
+BEM[Wariant t. 1: +1+3+5_+5_+4+3; wariant t. 8: 7+17+1+2__]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 211 od Lublina]
+FKT[]
+SIG[7535500020]
+KEY[75355   32  D 3/8]
+MEL[+1___^7b65  4_6_5__7_+2_  +1___^7b65  4_6_5__1__  4_6_5__(7b_6_5_)  6_+1_7__+1__  5_6_5__7b_5_  6_6_5__1__ //]
+BEM[Wariant t. 8: 6_6_5__4__]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 211 Lublin]
+FKT[]
+SIG[7535600000]
+KEY[75356   16  E 2/4]
+MEL[1_4_3_4_  6b_6b_5__  4_6b_5_+16b  5__5__
+    1_4_3_4_  6b_6b_5__  4_4_3_3_  1__1__
+    6b_+1_7_+1_  6b_6b_5_5_  5_+1_7b_+1_  5__+1__
+    7b6b56b4_4_  4_6b_+1_+1_  4_4_3_3_  1__1__ //]
+BEM[Wariant t. 2 i 6: 6b_6b_5_3_]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 212 Lublin, Biłgoraj]
+FKT[]
+SIG[7535700000]
+KEY[75357   16  A 2/4]
+MEL[3b_3b_2_1_  4__.1_  3b_3b_2_2-7b  1__0__
+    7b__6_6b_  5__3b__  5_4_3b_21  4__
+    0_1_  3b_214_56b  3b__2__  1_1_2_2-7  1__0__ //]
+BEM[Wariant t. 3: 3b_3b_2_-7_; wariant t. 5-6: 3b__5_3b_  7b__6b__]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 212 od Lublina i z Galicyi]
+FKT[]
+SIG[7535800000]
+KEY[75358   16  A 2/4]
+MEL[13b  5_5_5_3b_  5__.43b  4_4_4_3b2  3b_2_1_
+    13b  5_5_5_3b_  5__.43b  4_4_4_3b2  3b_2_1_0_
+    3b_23b4_1_  3b_211_-7_  3b_23b4_3b2  1__0__ //]
+BEM[]
+
+DWOK75
+CUT[Instrumentalna]
+REG[]
+TRD[DWOK75 Lubelskie, Suplement do tomów 16-17 s. 209 Lublin]
+FKT[]
+SIG[7535300000]
+KEY[75535   08  A 3/4 2/4]
+MEL[5_5_53b  5__.  444_1_  3b_1__
+    3b3b5_3b_  5_4__  2__0_
+    111_.-7b  3b_-7b__  3b3b4__  -7b__.
+    554_5_  3b21_1_  +1__.
+    1_2_  3b_21  2_5_  1_2_  3b_21  2_-5_
+    11-7_  1_2_  1_-6b_  43b21  2_-6b_ //]
+BEM[]

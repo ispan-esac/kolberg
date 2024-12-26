@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK45161300000-baca_nas_baca_nas.krn
+!!!OTL: Baca nas, baca nas
+!!!source: DWOK45
+!!!id: 451613
+!!!signature: 45161300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8ee
+2dd
+=2
+4b
+4g
+4g
+=3
+8dd
+8ee
+4dd
+4cc#
+=4
+4a
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b
+4g
+=6
+4cc#
+4b
+4g
+=7
+8dd
+8cc#
+4b
+4g
+=8
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 220-221} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, pp. 220-221}
+!!!page: 220-221
+!!!ONB: Converted on 2024/12/26 with esac2hum

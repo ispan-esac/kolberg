@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK1908700001-cegoz_ty_pogladas_sierotko.krn
+!!!OTL: Cegoz ty poglądas sierotko
+!!!source: DWOK19
+!!!id: 19087
+!!!signature: 1908700001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8b
+8cc
+8ee
+=2
+4ff
+4cc
+=3
+8ee
+4gg
+8dd
+=4
+8dd
+4ff
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+8ee
+8gg
+=6
+4ff
+4cc
+=7
+8ee
+4dd
+8b-
+=8
+8a
+8cc
+8a
+8a}
+!!LO:LB:g=esac
+=9
+{8g
+8g
+8b
+8dd
+=10
+4ff
+4cc
+=11
+8ee
+4dd
+8b-
+=12
+8f
+8cc
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=45 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 31} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 31}
+!!!page: 31
+!!!ONB: Converted on 2024/12/26 with esac2hum

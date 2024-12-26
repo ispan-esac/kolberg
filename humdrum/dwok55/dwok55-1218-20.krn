@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK55121800020-instrumentalna_-_czardasz.krn
+!!!OTL: Instrumentalna - Czardasz
+!!!source: DWOK55
+!!!id: 551218
+!!!signature: 55121800020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8b
+4g
+=2
+8f#
+4a
+8a
+=3
+8a
+8b
+4cc
+=4
+16b
+16ee
+4dd
+16cc
+16b}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4g
+=6
+8f#
+4a
+8a
+=7
+8a
+4cc
+8f#
+=8
+8f#
+4g
+8g}
+!!LO:LB:g=esac
+=9
+{8d
+8b
+4g
+=10
+8f#
+4a
+8a
+=11
+8a
+8b
+4cc
+=12
+16b
+16ee
+4dd
+16cc
+16b}
+!!LO:LB:g=esac
+=13
+{8b
+8dd
+4g
+=14
+8f#
+4a
+8a
+=15
+8a
+4cc
+8f#
+=16
+8f#
+4g
+8g}
+==
+*-
+!!!ONB: DWOK 55 nr 1218
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=439 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 412} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 412}
+!!!page: 412
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK4715800000-oj_je_w_poli_kernyczenka.krn
+!!!OTL: Oj, je w poli kernyczeńka
+!!!source: DWOK47
+!!!id: 47158
+!!!signature: 4715800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8dd
+=2
+8b
+8dd
+8dd
+8dd
+=3
+8ee
+8ee
+8ee
+8ee
+=4
+4dd
+4gg
+=5
+8ee
+8ee
+8ee
+8ee
+=6
+2dd}
+!!LO:LB:g=esac
+=7
+{8b
+8dd
+8dd
+8dd
+=8
+8b
+8dd
+8dd
+8dd
+=9
+8ee
+8ee
+8ee
+8ee
+=10
+4dd
+4gg
+=11
+8ee
+8ee
+8ee
+8ee
+=12
+2dd}
+!!LO:LB:g=esac
+=13
+{4b
+4g
+=14
+2ee
+=15
+8ee
+8ff#
+8gg
+8ee
+=16
+8dd
+8dd
+8dd
+8b
+=17
+8dd
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=18
+{8b
+8dd
+8a
+8a
+=19
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 158} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 158}
+!!!page: 158
+!!!ONB: Converted on 2024/12/26 with esac2hum

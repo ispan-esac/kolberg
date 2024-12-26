@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2539600000-oj_na_wysokiem_drzewie.krn
+!!!OTL: Oj na wysokiem drzewie
+!!!source: DWOK25
+!!!id: 25396
+!!!signature: 2539600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16ee
+8dd
+16cc
+16b
+=
+24a
+24b
+24cc
+8dd
+16b
+16cc
+=2
+8dd
+8dd
+8b
+=3
+16a
+16f#
+8g
+8d}
+!!LO:LB:g=esac
+=
+{24g
+24a
+24b
+8cc
+8b
+=4
+16a
+16cc
+8dd
+8b
+=5
+8g
+8cc
+8b
+=6
+16a
+16f#
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 175} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 175}
+!!!page: 175
+!!!ONB: Converted on 2024/12/26 with esac2hum

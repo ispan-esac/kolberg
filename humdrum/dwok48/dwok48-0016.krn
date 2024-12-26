@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK4801600000-jedna_placze_druga_spiewa.krn
+!!!OTL: Jedna płacze, druga śpiewa
+!!!source: DWOK48
+!!!id: 48016
+!!!signature: 4801600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8b
+8cc
+8cc
+=2
+8dd
+8cc
+8b
+8b
+=3
+8b
+8b
+8cc
+8cc
+=4
+8.dd
+16cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{4b
+4a
+=6
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 92} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 92}
+!!!page: 92
+!!!ONB: Converted on 2024/12/26 with esac2hum

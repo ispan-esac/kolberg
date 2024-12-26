@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK18343a0000-hej_koleda_dwa_kaploni.krn
+!!!OTL: Hej kolęda dwa kapłoni
+!!!source: DWOK18
+!!!id: 18343a
+!!!signature: 18343a0000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4cc
+8b
+8dd
+=2
+4cc}
+4r
+!!LO:LB:g=esac
+=3
+{4cc
+8ee
+8ff
+=4
+4gg
+4dd
+=5
+8gg
+8ff
+8dd
+8ff
+=6
+4ee
+4g}
+!!LO:LB:g=esac
+=7
+{4cc
+8b
+8dd
+=8
+4cc
+4r
+=9
+4g
+8b
+8dd
+=10
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 186} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 186}
+!!!page: 186
+!!!ONB: Converted on 2024/12/26 with esac2hum

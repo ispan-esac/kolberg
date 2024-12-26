@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3917200000-a_chto_chce_rozkoszy_uzyc.krn
+!!!OTL: A chto chce rozkoszy użyć
+!!!source: DWOK39
+!!!id: 39172
+!!!signature: 3917200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4g
+4b
+4b
+=2
+4.a
+8g
+4f#
+4d
+=3
+4cc
+4cc
+4ee
+4ee
+=4
+4.dd
+8cc
+4b
+4dd}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+4dd
+4dd
+=6
+4.b
+8g
+4b
+4dd
+=7
+4a
+4a
+4dd
+4dd
+=8
+4.b
+8a
+4g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=260 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 208} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 208}
+!!!page: 208
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK02-K0164-oj_slonce.krn
+!!!OTL: Oj slonce
+!!!source: DWOK02
+!!!id: K0164
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+16dd
+16dd
+8ee
+16cc
+16a
+=2
+16g
+16b
+16a
+16cc
+4b}
+!!LO:LB:g=esac
+=3
+{8dd
+16dd
+16dd
+8ee
+16cc
+16a
+=4
+16g
+16b
+16a
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 135} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

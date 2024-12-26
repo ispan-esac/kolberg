@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK3407600000-poszlo_dwa_braty_sina_kosyty.krn
+!!!OTL: Poszło dwa braty sina kosyty
+!!!source: DWOK34
+!!!id: 34076
+!!!signature: 3407600000
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=1
+{8.a
+16cc
+8cc
+4b
+8cc
+=2
+8g
+8g
+8b-
+4a
+8f}
+!!LO:LB:g=esac
+=3
+{8.e
+16e
+8g
+8.f
+16d
+8d
+=4
+4.c}
+8r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=64 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 47} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

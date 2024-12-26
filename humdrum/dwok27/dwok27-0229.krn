@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK2722900000-w_polu_ogrodecek.krn
+!!!OTL: W polu ogródecek
+!!!source: DWOK27
+!!!id: 27229
+!!!signature: 2722900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8cc
+8b
+8cc
+=2
+4dd
+8ee
+8dd
+=3
+8b
+8dd
+8cc
+8a
+=4
+4g
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4a
+=6
+8b
+8dd
+4cc
+=7
+8g
+8b
+8a
+8a
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=289 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 270} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 270}
+!!!page: 270
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK4945000002-ne_czubaj_swaszko_dietia.krn
+!!!OTL: Ne czubaj, swaszko, dietia
+!!!source: DWOK49
+!!!id: 49450
+!!!signature: 4945000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8b
+8a
+=2
+16b
+16cc
+16cc
+16b
+16a
+16f#
+=3
+4g
+8g}
+!!LO:LB:g=esac
+=4
+{8a
+8a
+8cc
+=5
+16b
+16g
+8a
+32a
+32b
+32a
+32g
+=
+8cc
+8b
+24b
+24a
+24g}
+!!LO:LB:g=esac
+=6
+{8b
+8cc
+8b
+=7
+8a
+4g
+=8
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=524 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 434} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 434}
+!!!page: 434
+!!!ONB: Converted on 2024/12/26 with esac2hum

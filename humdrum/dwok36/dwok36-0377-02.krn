@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK3637700002-ta_bida_mni_za_bidoju.krn
+!!!OTL: Ta bida mni za bidoju
+!!!source: DWOK36
+!!!id: 36377
+!!!signature: 3637700002
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+{16g
+16b
+8dd
+8cc
+16b
+16g
+=
+!!UNCATEGORIZED MEASURE
+8ee
+8dd
+24ee
+24ee-
+24b
+8cc
+16b
+16g
+=2
+*M2/4
+16g
+16b
+8dd
+8cc
+16dd
+16g
+=3
+*M5/8
+8g
+4f#
+8g
+8b}
+!!LO:LB:g=esac
+=4
+*M2/4
+{16g
+16b
+8dd
+8cc
+16b
+16g
+=
+!!UNCATEGORIZED MEASURE
+8ee-
+8dd
+24dd
+24ee-
+24dd
+8cc
+16b
+16g
+=5
+*M2/4
+16g
+16b
+8dd
+8cc
+16b
+16g
+=6
+8ee-
+8dd
+24dd
+24ee-
+24dd
+8cc
+16b
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 236-237
+!!!ONB: Converted on 2024/12/26 with esac2hum

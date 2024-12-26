@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK7754100002-tancowal_ci_kuba_w_sieni.krn
+!!!OTL: Tancował ci Kuba w sieni
+!!!source: DWOK77
+!!!id: 77541
+!!!signature: 7754100002
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16b-
+16dd
+8ff
+16ff
+16ee-
+=
+24cc
+24dd
+24ee-
+8gg
+16gg
+16ff}
+!!LO:LB:g=esac
+=2
+{16b-
+16dd
+8ff
+16ff
+16dd
+=3
+16cc
+16a
+8b-
+8f}
+!!LO:LB:g=esac
+=4
+{8b-
+8.dd
+16ee-
+=5
+16cc
+16a
+8b-
+16dd
+16cc}
+!!LO:LB:g=esac
+=6
+{8b-
+8.dd
+16ee-
+=7
+16cc
+16a
+8b-
+8f}
+!!LO:LB:g=esac
+=8
+{4dd
+8ee-
+=9
+16cc
+16a
+8b-
+16dd
+16cc}
+!!LO:LB:g=esac
+=10
+{8b-
+16dd
+16cc
+16dd
+16ee-
+=11
+16cc
+16a
+8b-
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 280
+!!!ONB: Converted on 2024/12/26 with esac2hum

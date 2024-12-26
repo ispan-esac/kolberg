@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4302300000-oj_za_rzyka_za_rzyka.krn
+!!!OTL: Oj za rzyką za rzyką
+!!!source: DWOK43
+!!!id: 43023
+!!!signature: 4302300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+4a
+=2
+16dd
+16ee
+8.dd
+16cc
+=3
+16b
+16a
+4g}
+!!LO:LB:g=esac
+=4
+{16g
+16b
+8b
+8b
+=5
+16a
+16b
+8cc
+16a
+16f#
+=6
+16g
+16b
+8b
+8b
+=7
+16a
+16b
+8cc
+8ee
+=8
+4.a}
+==
+*-
+!!!ONB: WARIANT t. 6: 133_31
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/043dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 43: Śląsk, s. 43} @EN{Oskar Kolberg Complete Works 43: Silesia, p. 43}
+!!!page: 43
+!!!ONB: Converted on 2024/12/26 with esac2hum

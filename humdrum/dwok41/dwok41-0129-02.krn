@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4112900002-a_wyjrzyj_tam_poleczko.krn
+!!!OTL: A wyjrzyj tam poleczko
+!!!source: DWOK41
+!!!id: 41129
+!!!signature: 4112900002
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{16b-
+16dd
+16ff
+16ee
+8dd
+=2
+16cc#
+16ee
+8dd
+8a}
+!!LO:LB:g=esac
+=3
+{16b-
+16dd
+16ff
+16ee
+8dd
+=4
+16cc#
+16a
+8g
+8b-}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8a
+8b-
+=6
+16cc
+16ee-
+8dd
+16ee-
+16cc}
+!!LO:LB:g=esac
+=7
+{16a
+16a
+8a
+8cc
+=8
+16b-
+16a
+8g
+16b-
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 91} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 91}
+!!!page: 91
+!!!ONB: Converted on 2024/12/26 with esac2hum

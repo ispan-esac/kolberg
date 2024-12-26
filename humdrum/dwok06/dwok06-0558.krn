@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK06-K0558-czasem_dzien_caly_chodzac_po_ustroni.krn
+!!!OTL: Czasem dzien caly chodzac po ustroni
+!!!source: DWOK06
+!!!id: K0558
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+=1
+*M3/4
+{8dd
+8a
+4.a
+8g
+=2
+16g
+16f#
+16b
+16a
+4a
+4r
+=3
+4b
+16b
+16dd
+16cc#
+16dd
+16ee
+16dd
+16cc#
+16b
+=4
+8b
+8a
+4a}
+4r
+!!LO:LB:g=esac
+=5
+{8ff#
+8ee
+4.ee
+8cc#
+=6
+8ee
+8dd
+4dd
+4r
+=7
+8ff#
+8ee
+4.ee
+8cc#
+=8
+8ee
+8dd
+4dd}
+4r
+!!LO:LB:g=esac
+=9
+*M2/4
+{8dd
+8cc#
+8cc#
+8cc#
+=10
+8dd
+8a
+8a
+8a
+=11
+8b
+8a
+8g
+8f#
+=12
+4f#
+4e}
+!!LO:LB:g=esac
+=13
+{4dd
+8a
+8a
+=14
+4.b
+8ee
+=15
+4dd
+4cc#
+=16
+4dd}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=343 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 317} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 317}
+!!!page: 317
+!!!ONB: Converted on 2024/12/26 with esac2hum

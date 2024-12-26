@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK35B-35B00700000-zaszumily_luhy_zahremily_riki.krn
+!!!OTL: Zaszumiły łuhy, zahremiły riki
+!!!source: DWOK35B
+!!!id: 35B007
+!!!signature: 35B00700000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8a
+8a
+8a
+8f#
+=2
+8e
+8a
+4e
+=3
+8a
+8a
+8a
+8e
+=4
+16a
+16g
+16f#
+16g
+4f#}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+16a
+16f#
+8e
+=6
+8g
+8a
+4e
+=7
+8a
+8b
+16b
+16a
+16g
+16a
+=8
+8f#
+4e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 132} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 132}
+!!!page: 132
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK3617000000-widkoly_ja_urodyw_sia.krn
+!!!OTL: Widkoły ja urodyw sia
+!!!source: DWOK36
+!!!id: 36170
+!!!signature: 3617000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8g
+8b
+8cc
+8ee
+=2
+8g
+8b
+8cc
+8ee
+=3
+8g
+8b
+8cc
+8ee
+=4
+16ff
+16ee
+8dd
+8ee
+8ee}
+!!LO:LB:g=esac
+=5
+{8.ee
+16dd
+8cc
+8ee
+=6
+8.dd
+16cc
+8b
+8ee
+=7
+8e
+8e
+8e
+8g#
+=8
+8a
+8b
+8cc
+8dd}
+!!LO:LB:g=esac
+=9
+{8.ee
+16dd
+8cc
+8ee
+=10
+8.dd
+16cc
+8b
+8ee
+=11
+8e
+8e
+8e
+8g#
+=12
+8a
+8a
+8a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 94
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2128000000-na_chlewisku_kurniku.krn
+!!!OTL: Na chlewisku kurniku
+!!!source: DWOK21
+!!!id: 21280
+!!!signature: 2128000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4ee
+16ff
+16ee
+=2
+16cc
+16b
+8dd
+16cc
+16b
+=3
+16g#
+16a
+16cc
+16b
+16dd
+16ee
+=4
+16cc
+16b
+8a
+16g#
+16e}
+!!LO:LB:g=esac
+=5
+{16g#
+16b
+8dd
+8a
+=6
+16a
+16g#
+8b
+8b
+=7
+16g#
+16b
+8dd
+8a
+=8
+16g#
+16a
+8b
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 120} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

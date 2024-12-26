@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK1003100000-a_moj_mily_rozmarynie.krn
+!!!OTL: A mój miły rozmarynie
+!!!source: DWOK10
+!!!id: 10031
+!!!signature: 1003100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+8b
+8dd
+=2
+4cc
+8b
+=3
+16g
+16f#
+4d
+=4
+16f#
+16g
+8b
+8dd
+=5
+4cc
+8b
+=6
+16g
+16f#
+4d}
+!!LO:LB:g=esac
+=7
+{16f#
+16a
+8e
+8f#
+=8
+4g
+8f#
+=9
+8d
+8cc
+8b
+=10
+16a
+16f#
+8e
+8f#
+=11
+4g
+8b
+=12
+16g
+16f#
+4d}
+!!LO:LB:g=esac
+=13
+{16f#
+16a
+8e
+8f#
+=14
+4g
+8f#
+=15
+8d
+8cc
+8b
+=16
+16a
+16f#
+8g
+8b
+=17
+4g
+8b
+=18
+16g
+16f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 107} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK4446500002-skowronecek_orze.krn
+!!!OTL: Skowronecek orze
+!!!source: DWOK44
+!!!id: 44465
+!!!signature: 4446500002
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8b-
+4dd
+16ee-
+16dd
+=2
+8cc
+16b-
+16a
+4cc
+=3
+8cc
+4ee-
+16ee-
+16gg
+=4
+8ff
+16ee-
+16dd
+8dd
+16cc
+16b-}
+!!LO:LB:g=esac
+=5
+{8b-
+4dd
+16ee-
+16dd
+=6
+8cc
+16b-
+16a
+4cc
+=7
+8ee-
+4ee-
+8a
+=8
+8b-
+8b-
+4b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=327 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 273} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 273}
+!!!page: 273
+!!!ONB: Converted on 2024/12/26 with esac2hum

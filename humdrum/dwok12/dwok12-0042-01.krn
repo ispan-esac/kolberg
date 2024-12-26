@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK1204200001-konik_zmok_i_ja_zmok_i_kulbaka_zmokla.krn
+!!!OTL: Konik zmók, i ja zmók, i kulbaka zmokła
+!!!source: DWOK12
+!!!id: 12042
+!!!signature: 1204200001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8b
+4dd
+=2
+8ff
+8b
+4dd
+=3
+8ee
+16ee
+16dd
+8g
+8b
+=4
+4f
+4e}
+!!LO:LB:g=esac
+=5
+{8d
+8f
+4f
+=6
+8g
+8b
+4dd
+=7
+8ff
+16ee
+16dd
+16a
+16g
+8b
+=8
+4dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=36 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 20} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 20}
+!!!page: 20
+!!!ONB: Converted on 2024/12/26 with esac2hum

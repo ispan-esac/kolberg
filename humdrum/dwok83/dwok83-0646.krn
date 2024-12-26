@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK8364600000-ogromny_to_glos_smutna_nuta_jego.krn
+!!!OTL: Ogromny to głos, smutna nuta jego
+!!!source: DWOK83
+!!!id: 83646
+!!!signature: 8364600000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4a
+4a
+4b
+4cc
+=2
+4.cc
+8b
+2a
+=3
+4dd
+4cc
+4b
+4a
+=4
+4cc
+2.b}
+!!LO:LB:g=esac
+=5
+{4b
+4a
+4b
+8cc
+8b
+=6
+[2cc
+8cc]
+8b
+4a
+=7
+4dd
+4cc
+4b
+4a
+=8
+4cc
+2.b}
+!!LO:LB:g=esac
+=9
+{4b
+4b
+4dd
+8cc
+8b
+=10
+4b
+2.a
+=11
+4a
+4cc
+4b
+4a
+=12
+4a
+2.g#}
+!!LO:LB:g=esac
+=13
+{8a
+8b
+4cc
+4b
+4a
+=14
+4b
+2.a}
+==
+*-
+!!!ONB: Wariant t. 1-2: -511_2_3b_; wariant t. 4 i 8: 3b21__.
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=535 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 424} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 424}
+!!!page: 424
+!!!ONB: Converted on 2024/12/26 with esac2hum

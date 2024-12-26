@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK42179500000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK42
+!!!id: 421795
+!!!signature: 42179500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+{8d
+=1
+16.g
+32a
+8b
+8b
+=2
+16.cc
+32b
+8.a
+16g
+=3
+16.f#
+32a
+16.cc
+32a
+16.ee
+32dd
+=4
+16b
+16dd
+8gg
+8d}
+!!LO:LB:g=esac
+=5
+{16.g
+32a
+8b
+8b
+=6
+16.cc
+32b
+8.a
+16g
+=7
+16.f#
+32a
+16.cc
+32a
+16.ee
+32dd
+=8
+4g
+16dd
+16cc}
+!!LO:LB:g=esac
+=9
+{16.b
+32cc
+8dd
+8dd
+=10
+16.b
+32cc
+8dd
+8dd
+=11
+16.ee
+32ff#
+16.gg
+32ee
+16.dd
+32cc
+=12
+16.b
+32cc
+4dd}
+!!LO:LB:g=esac
+=13
+{16.cc
+32b
+16.a
+32b
+8cc
+=14
+16.b
+32a
+16.g
+32a
+8b
+=15
+16.a
+32g
+16.f#
+32g
+16.a
+32f#
+=16
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=193 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 184} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 184}
+!!!page: 184
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK5307300001-gele_lauka_bitute.krn
+!!!OTL: Gele łauka bitute
+!!!source: DWOK53
+!!!id: 53073
+!!!signature: 5307300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8dd
+8ee
+4dd}
+!!LO:LB:g=esac
+=3
+{8dd
+8cc
+8a
+8ee
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8dd
+8ee
+8dd
+8dd
+=6
+8dd
+8ee
+8dd
+8b}
+!!LO:LB:g=esac
+=7
+{8dd
+8cc
+8a
+8a
+=8
+4cc
+4b}
+!!LO:LB:g=esac
+=9
+{8dd
+8ee
+8dd
+8dd
+=10
+8dd
+8ee
+8dd
+8b}
+!!LO:LB:g=esac
+=11
+{8dd
+8cc
+8a
+8a
+=12
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=258 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 222} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 222}
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

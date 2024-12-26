@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK3010100000-mezy_dwoma_horonkamy.krn
+!!!OTL: Meży dwoma horońkamy
+!!!source: DWOK30
+!!!id: 30101
+!!!signature: 3010100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+8ee
+8ee
+8dd#
+8b
+=2
+8dd#
+8ff#
+2ee}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+8ee
+8ee
+8dd#
+8b
+=4
+8dd#
+8ff#
+2ee}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4.ee
+8dd
+=6
+8cc
+8b
+4a
+4g#}
+!!LO:LB:g=esac
+=7
+{8ee
+8b
+8cc
+8dd
+8ee
+8e
+=8
+8e
+8g#
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 71} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 71}
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum

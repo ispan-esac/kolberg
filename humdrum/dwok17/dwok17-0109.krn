@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1710900000-oj_nie_bij_ze_mnie_nie_bij.krn
+!!!OTL: OJ nie bij że mnie nie bij
+!!!source: DWOK17
+!!!id: 17109
+!!!signature: 1710900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8cc#
+16a
+16cc#
+=2
+16dd
+16b
+8a
+8f#}
+!!LO:LB:g=esac
+=3
+{8g
+8d
+8f#
+=4
+16g
+16e
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8d
+16f#
+16a
+=6
+16g
+16b
+8cc#
+8a}
+!!LO:LB:g=esac
+=7
+{8g
+8d
+8f#
+=8
+16g
+16e
+4d}
+==
+*-
+!!!ONB: W t. 6 dwudźwięk
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 37} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

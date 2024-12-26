@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK5779600002-ne_chody_tudy_kudy_ja_chodzu.krn
+!!!OTL: Ne chody tudy, kudy ja chodżu
+!!!source: DWOK57
+!!!id: 57796
+!!!signature: 5779600002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+4ee
+4ee
+=2
+4dd#
+2ee}
+!!LO:LB:g=esac
+=3
+{4cc
+4ee
+8dd
+8cc
+=4
+4cc
+4b}
+4r
+!!LO:LB:g=esac
+=5
+{8b
+8g#
+4e
+8f
+8g#
+=6
+8a
+8b
+2cc}
+!!LO:LB:g=esac
+=7
+{16dd
+16cc
+16b
+16cc
+4ee
+8dd
+8cc
+=8
+8cc
+8b
+4b}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

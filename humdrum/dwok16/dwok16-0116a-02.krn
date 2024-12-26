@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK1611600002-nie_wyjezdzaj_jasiu_w_pole.krn
+!!!OTL: Nie wyjeżdżaj Jasiu w pole
+!!!source: DWOK16
+!!!id: 16116a
+!!!signature: 1611600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+16b
+32a
+32b
+8.g
+16f#
+=3
+16g
+16a
+8b
+8b
+=4
+16a
+16f#
+8.g
+16f#}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8g
+=6
+16f#
+16g
+8b
+8dd
+=7
+8dd
+32cc
+16.b
+32a
+16.b
+=8
+16a
+16f#
+8.g
+16f#}
+!!LO:LB:g=esac
+=9
+{16g
+16a
+8b
+8g
+=10
+16a
+16a
+8b
+8dd
+=11
+16dd
+16b
+32cc
+16.b
+32a
+16.b
+=12
+16a
+16f#
+8.g
+16f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 166} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 166}
+!!!ONB: Converted on 2024/12/26 with esac2hum

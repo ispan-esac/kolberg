@@ -1,0 +1,109 @@
+!!!!SEGMENT: DWOK5262700000-tam_na_ryneczku.krn
+!!!OTL: Tam na ryneczku
+!!!source: DWOK52
+!!!id: 52627
+!!!signature: 5262700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=1
+{4a
+8a
+8a
+4a
+4e
+=2
+4a
+8a
+8g#
+4a
+4e}
+!!LO:LB:g=esac
+=3
+{8a
+8g#
+8a
+8b
+4cc#
+4a
+=4
+4cc#
+4a
+4cc#
+4a
+=5
+4ee
+8cc#
+8a
+4b
+4e}
+!!LO:LB:g=esac
+=6
+{4ee
+4aa
+4ff#
+4dd
+=7
+4cc#
+4b
+4cc#
+4a}
+!!LO:LB:g=esac
+=8
+{8b
+8b
+4b
+8cc#
+8cc#
+4cc#
+=9
+8b
+8a
+8b
+8cc#
+4b
+4e}
+!!LO:LB:g=esac
+=10
+{8b
+8b
+4b
+8cc#
+8cc#
+4cc#
+=11
+8b
+8a
+8b
+8cc#
+4b
+4e}
+!!LO:LB:g=esac
+=12
+{4a
+4a
+4b
+4cc#
+=13
+4dd
+4a
+4aa
+4ee
+=14
+4ff#
+4dd
+4ee
+4cc#
+=15
+2dd}
+2r
+==
+*-
+!!!ONB: Obok tesktu uwaga O.K. "IGRASZKI"
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=463 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 398-399} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, pp. 398-399}
+!!!page: 398-399
+!!!ONB: Converted on 2024/12/26 with esac2hum

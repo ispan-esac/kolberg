@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2822200000-tamtej_strony_zielonego_stawu.krn
+!!!OTL: tamtej strony zielonego stawu
+!!!source: DWOK28
+!!!id: 28222
+!!!signature: 2822200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+16dd
+16cc#
+=2
+16dd
+16ee
+8.dd
+16b
+=3
+8cc
+4b}
+!!LO:LB:g=esac
+=4
+{4cc
+8a
+=5
+4f#
+8d
+=6
+4dd
+16gg
+16ff#
+=7
+8.ee
+16cc
+16a
+16b}
+!!LO:LB:g=esac
+=8
+{16cc
+16ee
+8.dd
+16f#
+=9
+16g
+16b
+4dd
+=10
+16cc
+16ee
+8.dd
+16f#
+=11
+16a
+16b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 242} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 242}
+!!!page: 242
+!!!ONB: Converted on 2024/12/26 with esac2hum

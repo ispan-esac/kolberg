@@ -1,0 +1,39 @@
+!!!!SEGMENT: DWOK8104100020-instrumentalna-oj_ziszla_zora.krn
+!!!OTL: Instrumentalna-Oj ziszła zora
+!!!source: DWOK81
+!!!id: 81041
+!!!signature: 8104100020
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8cc
+8b
+8dd
+=2
+8cc
+8b
+8a
+8g#
+=3
+8a
+8b
+8cc
+8cc
+=4
+8b
+8a
+4g#
+=5
+2a}
+==
+*-
+!!!ONB: S. Warwara-Melodia grana na lirze
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=108 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 38} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 38}
+!!!page: 38
+!!!ONB: Converted on 2024/12/26 with esac2hum

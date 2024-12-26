@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK2632800000-siedmio_jasio_koni_mial.krn
+!!!OTL: Siedmio Jasio koni miał
+!!!source: DWOK26
+!!!id: 26328
+!!!signature: 2632800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16f#
+8g
+8b
+=2
+8d
+16d
+16f#
+8g
+=3
+16a
+16f#
+8g
+16b
+16dd
+=4
+8cc
+16a
+16cc
+8b}
+!!LO:LB:g=esac
+=5
+{16a
+16f#
+8g
+8b
+=6
+8d
+16d
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 250
+!!!ONB: Converted on 2024/12/26 with esac2hum

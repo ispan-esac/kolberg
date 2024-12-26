@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4144400010-oj_wygnaj_woly_ospala.krn
+!!!OTL: Oj, wygnaj woły, ospała
+!!!source: DWOK41
+!!!id: 41444
+!!!signature: 4144400010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16ff
+16gg
+8ee
+8cc
+=2
+16ee
+16gg
+8aa
+16aa
+16dd}
+!!LO:LB:g=esac
+=3
+{16ff
+16ff
+8ee
+8cc
+=4
+16b
+16dd
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+8b
+8dd
+=6
+16cc
+16a
+8f#
+8dd}
+!!LO:LB:g=esac
+=7
+{16b
+16dd
+8b
+8dd
+=8
+16cc
+16a
+8f#
+8g}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=321 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 238-239} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 238-239}
+!!!page: 238-239
+!!!ONB: Converted on 2024/12/26 with esac2hum

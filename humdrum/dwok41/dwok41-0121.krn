@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4112100000-na_warszawskiej_wiezy.krn
+!!!OTL: Na warszawskiej wieży
+!!!source: DWOK41
+!!!id: 41121
+!!!signature: 4112100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+16b
+16cc
+16cc
+16ee
+=2
+8dd
+16cc
+16a
+16cc
+16ee}
+!!LO:LB:g=esac
+=3
+{8g
+16b
+16cc
+16cc
+16ee
+=4
+8dd
+16cc
+16a
+16b
+16a}
+!!LO:LB:g=esac
+=5
+{8g
+16g
+16b
+8dd
+=6
+16cc
+16a
+8cc
+8ee}
+!!LO:LB:g=esac
+=7
+{8g
+16g
+16b
+8dd
+=8
+16a
+16g
+8b
+16cc
+16a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=166 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 87} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 87}
+!!!page: 87
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,42 @@
+!!!!SEGMENT: DWOK3401900000-po_sadu_chodzu.krn
+!!!OTL: Po sadu chodżu
+!!!source: DWOK34
+!!!id: 34019
+!!!signature: 3401900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8d
+8d
+8f#
+4g
+=2
+8f#
+8a
+8g
+8e
+4d
+=3
+8g
+16f#
+16a
+8g
+8e
+4d
+=4
+8B
+8d
+8g
+8g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/034dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 34: Chełmskie II, s. 17} @EN{Oskar Kolberg Complete Works 34: Chełm Voivodeship II, p. 17}
+!!!page: 17
+!!!ONB: Converted on 2024/12/26 with esac2hum

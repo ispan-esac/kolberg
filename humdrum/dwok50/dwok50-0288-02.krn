@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK5028800002-oj_letily_dyki_husy_po_nad_lis_po_nad_dubrowu.krn
+!!!OTL: Oj, łetiły dyki husy po nad lis, po nad dubrowu
+!!!source: DWOK50
+!!!id: 50288
+!!!signature: 5028800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+16dd
+16cc
+8dd
+8cc}
+!!LO:LB:g=esac
+=3
+{16dd
+16ee
+8ff#
+8dd
+=4
+8gg
+16ff#
+16gg
+8ff#
+=5
+8ee
+32cc
+32a
+16b
+8g}
+!!LO:LB:g=esac
+=6
+{16b
+16cc
+8dd
+8dd
+=7
+16cc
+16cc
+16g
+16f#
+8g}
+!!LO:LB:g=esac
+=8
+{16b
+16dd
+16dd
+16dd
+8cc
+=9
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 143} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 143}
+!!!page: 143
+!!!ONB: Converted on 2024/12/26 with esac2hum

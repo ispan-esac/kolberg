@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK55121300000-instrumentalna_-_arkan.krn
+!!!OTL: Instrumentalna - Arkan
+!!!source: DWOK55
+!!!id: 551213
+!!!signature: 55121300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+4ee
+8dd
+=2
+8dd
+8cc
+8b
+8a
+=3
+8ee
+4ee
+8dd
+=4
+16dd
+16cc
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=5
+{8ee
+4ee
+8dd
+=6
+8dd
+8cc
+8b
+8e
+=7
+4.a
+16cc
+16b
+=8
+2a}
+!!LO:LB:g=esac
+=9
+{8e
+4a
+8b
+=10
+8dd
+8cc
+8b
+8a
+=11
+8e
+4a
+8cc
+=12
+2ee}
+!!LO:LB:g=esac
+=13
+{8e
+4a
+8b
+=14
+8dd
+8cc
+8b
+8a
+=15
+8e
+4a
+16cc
+16b
+=16
+2a}
+==
+*-
+!!!ONB: DWOK 55 nr 1213
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=437 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 410} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 410}
+!!!page: 410
+!!!ONB: Converted on 2024/12/26 with esac2hum

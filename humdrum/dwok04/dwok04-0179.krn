@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK04-K0179-na_rokacie_bialene_kwiecie.krn
+!!!OTL: Na rokacie bialene kwiecie
+!!!source: DWOK04
+!!!id: K0179
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{8g
+8b-
+8dd
+4dd
+8cc
+=2
+8cc
+8b
+8cc
+4dd
+8g
+=3
+8g
+8b-
+8dd
+4dd
+8cc
+=4
+8a
+8g
+8a
+4b-
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8f
+4f
+8d
+=6
+4d
+8d
+4g
+8c
+=7
+8g
+8a
+8f
+4f
+8d
+=8
+8d
+8c#
+8d
+4e
+8c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=111 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 97} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 97}
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK3661600002-za_horodem_kalyna.krn
+!!!OTL: Za horodem kałyna
+!!!source: DWOK36
+!!!id: 36616
+!!!signature: 3661600002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=
+{16a
+16b
+24cc
+24b
+24cc
+8dd
+=1
+16dd
+16cc
+4b
+=2
+8cc
+8g#}
+8r
+!!LO:LB:g=esac
+=3
+{16a
+16b
+8cc
+8dd
+=4
+16dd
+16cc
+8b
+8a
+=5
+8d
+8d
+8d
+=6
+16c
+16A
+16B
+16G
+8A
+=7
+8A}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 404-405
+!!!ONB: Converted on 2024/12/26 with esac2hum

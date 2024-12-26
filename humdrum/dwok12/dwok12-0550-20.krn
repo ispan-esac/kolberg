@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1255000020-instrumentalna-w_sieni_oberek_matusiu.krn
+!!!OTL: Instrumentalna-W sieni oberek matusiu
+!!!source: DWOK12
+!!!id: 12550
+!!!signature: 1255000020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4g
+8gg
+=2
+4ff
+8gg
+=3
+16.ff#
+32gg
+8aa
+8gg
+=4
+16ff#
+16gg
+8aa
+8gg
+=5
+8ff
+8dd
+8dd}
+!!LO:LB:g=esac
+=6
+{16g
+16dd
+16ff
+16ee
+16ff
+16ee
+=7
+16ff
+16ff
+8dd
+8dd
+=8
+8ff
+8ee
+8gg
+=9
+16g
+16dd
+16ff
+16ee
+16ff
+16ee
+=10
+8ff
+8ee
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=298 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 282} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 282}
+!!!page: 282
+!!!ONB: Converted on 2024/12/26 with esac2hum

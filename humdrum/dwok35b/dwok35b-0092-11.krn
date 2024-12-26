@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK35B-35B09200011-hej_zazuryv_sia_szczyhol.krn
+!!!OTL: Hej zażuryv sia szczyhoł
+!!!source: DWOK35B
+!!!id: 35B092
+!!!signature: 35B09200011
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8g
+8a
+8b
+=2
+8cc
+8a
+4g
+=3
+8f
+8f
+8e
+8d
+=4
+8d
+8c
+4c}
+!!LO:LB:g=esac
+=5
+{8cc
+8g
+8a
+8b
+=6
+8cc
+8a
+4g
+=7
+8f
+8f
+8e
+8d
+=8
+8d
+8c
+4c}
+!!LO:LB:g=esac
+=9
+{8f#
+8g
+4a
+=10
+8a
+8b
+4a
+=11
+8g
+8a
+8b
+8cc
+=12
+4b
+8a
+8g}
+!!LO:LB:g=esac
+=13
+{8f#
+8g
+4a
+=14
+8a
+8b
+4a
+=15
+8g
+8a
+8b
+8cc
+=16
+4b
+8a
+8g}
+==
+*-
+!!!ONB: zakodować w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=220 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 178} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 178}
+!!!page: 178
+!!!ONB: Converted on 2024/12/26 with esac2hum

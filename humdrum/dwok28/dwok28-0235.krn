@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2823500000-descyk_pada_rosa_siada.krn
+!!!OTL: Descyk pada rosa siada
+!!!source: DWOK28
+!!!id: 28235
+!!!signature: 2823500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8b
+8cc
+4ee
+4ff
+=2
+8cc
+8b
+4g
+4f
+=3
+4ff
+4gg
+8dd
+8ee
+=4
+8ff
+8ee
+2cc}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8dd
+8ee
+4ff
+=6
+8cc
+8b
+4g
+4f
+=7
+4b
+4cc
+8g
+8b
+=8
+8cc
+8b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 247} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 247}
+!!!page: 247
+!!!ONB: Converted on 2024/12/26 with esac2hum

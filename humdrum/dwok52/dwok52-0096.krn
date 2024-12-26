@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK5209600000-instrumentalne.krn
+!!!OTL: Instrumentalne
+!!!source: DWOK52
+!!!id: 52096
+!!!signature: 5209600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+{8e
+=1
+8a
+8e
+8a
+=2
+4cc
+8a
+=3
+8b
+8cc
+8b
+=4
+4a
+8e}
+!!LO:LB:g=esac
+=5
+{4cc
+8a
+=6
+4b
+8a
+=7
+8g#
+4b
+=8
+4e
+8a}
+==
+*-
+!!!ONB: Dożynkowa
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=191 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 136} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 136}
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

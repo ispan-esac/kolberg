@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1717900000-dana_moja_dana.krn
+!!!OTL: Dana moja dana
+!!!source: DWOK17
+!!!id: 17179
+!!!signature: 1717900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8dd
+8dd
+=2
+4cc
+4a}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+8ee
+8ee
+=4
+4dd
+4b}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+8dd
+=6
+4cc
+4a}
+!!LO:LB:g=esac
+=7
+{8a
+8f#
+8a
+8cc
+=8
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=80 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 58} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

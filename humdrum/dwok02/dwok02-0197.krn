@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK02-K0197-wszystkie_gospodynie.krn
+!!!OTL: Wszystkie gospodynie
+!!!source: DWOK02
+!!!id: K0197
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc#
+4.dd
+8cc#
+=2
+4a
+2dd
+=3
+8g
+8a
+4.b
+8a
+=4
+4cc
+2g}
+!!LO:LB:g=esac
+=5
+{8b
+8cc#
+4.dd
+8cc#
+=6
+4a
+2dd
+=7
+2g}
+4r
+!!LO:LB:g=esac
+=8
+{8d
+8e
+4.f#
+8d
+=9
+4g
+2b
+=10
+8g
+8a
+4.b
+8a
+=11
+4dd
+2g}
+!!LO:LB:g=esac
+=12
+{8b
+8cc#
+4.dd
+8cc#
+=13
+4a
+2dd
+=14
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 158} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 158}
+!!!page: 158
+!!!ONB: Converted on 2024/12/26 with esac2hum

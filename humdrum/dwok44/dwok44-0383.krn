@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4438300000-oj_pisarz_ja_se_pisarz.krn
+!!!OTL: Oj, pisarz ja se, pisarz
+!!!source: DWOK44
+!!!id: 44383
+!!!signature: 4438300000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+4ee
+8dd
+=2
+8g
+8b
+8dd
+8cc
+=3
+8cc
+4cc
+8g
+=4
+8g
+8g
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{8cc
+4cc
+8g
+=6
+8g
+8g
+8b
+8dd
+=7
+8dd
+4ee
+8cc
+=8
+8g
+8b
+8dd
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 247} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 247}
+!!!page: 247
+!!!ONB: Converted on 2024/12/26 with esac2hum

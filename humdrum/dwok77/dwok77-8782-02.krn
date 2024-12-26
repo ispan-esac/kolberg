@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK7787800002-instrumentalne.pasterska.krn
+!!!OTL: Instrumentalne.Pasterska
+!!!source: DWOK77
+!!!id: 778782
+!!!signature: 7787800002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+16ee
+16cc
+8a
+8dd
+=3
+8g
+8b
+8dd
+=4
+16ee
+16cc
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+16g
+16f#
+=6
+16d
+16f#
+8a
+16cc
+16b
+=7
+8g
+8b
+16g
+16f#
+=8
+16d
+16f#
+4a}
+!!LO:LB:g=esac
+=9
+{16a
+16a
+8cc
+8ee
+=10
+16dd
+16dd
+8b
+8dd
+=11
+16a
+16a
+8cc
+8ee
+=12
+16dd
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=13
+{16a
+16a
+8cc
+8f#
+=14
+16g
+16g
+8b
+8dd
+=15
+16a
+16a
+8cc
+8f#
+=16
+16g
+16g
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 72
+!!!ONB: Converted on 2024/12/26 with esac2hum

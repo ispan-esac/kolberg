@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK7712700000-oj_jadlabym_jablusko.krn
+!!!OTL: Oj jadłabym jabłusko
+!!!source: DWOK77
+!!!id: 77127
+!!!signature: 7712700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16g#
+16b
+8dd
+8a
+=2
+8cc#
+8ee
+16ee
+16cc#
+=3
+16ee
+16ff#
+8dd
+16dd
+16cc#
+=4
+8a
+8b
+16g#
+16e}
+!!LO:LB:g=esac
+=5
+{16g#
+16b
+8dd
+8a
+=6
+8a
+8b
+8b
+=7
+16g#
+16b
+8dd
+8a
+=8
+8a
+8b
+8g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 83
+!!!ONB: Converted on 2024/12/26 with esac2hum

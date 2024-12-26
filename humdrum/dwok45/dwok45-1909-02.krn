@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK45190900002-jestem_sobie_panem.krn
+!!!OTL: Jestem sobie Panem
+!!!source: DWOK45
+!!!id: 451909
+!!!signature: 45190900002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+16cc
+16b
+8a
+=2
+4g
+4g}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8a
+8cc
+=4
+4g
+4e}
+!!LO:LB:g=esac
+=5
+{8g
+8f
+16f
+16e
+8d
+=6
+8e
+8g
+8cc
+8cc}
+!!LO:LB:g=esac
+=7
+{8b
+8a
+16g
+16a
+8b
+=8
+16cc
+16b
+8a
+16g
+16f
+8e}
+!!LO:LB:g=esac
+=9
+{8.e
+16f
+8e
+8d
+=10
+8d
+8g
+4cc}
+!!LO:LB:g=esac
+=11
+{16b
+16a
+8g
+16g
+16a
+8b
+=12
+8cc}
+8r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=362 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 344} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 344}
+!!!page: 344
+!!!ONB: Converted on 2024/12/26 with esac2hum

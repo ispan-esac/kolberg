@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK0502900020-trzeba_by_mi_trzeba.krn
+!!!OTL: Trzeba by mi trzeba
+!!!source: DWOK05
+!!!id: K0029
+!!!signature: 0502900020
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8.dd
+16ee-
+8dd
+8dd
+=2
+8dd
+8cc
+8cc
+8cc
+=3
+8cc
+8ee-
+16ff
+16ee-
+8dd
+=4
+16cc
+16ee-
+8dd
+8cc
+8b-}
+!!LO:LB:g=esac
+=5
+{8.dd
+16ee-
+8dd
+8dd
+=6
+8dd
+8cc
+8cc
+8cc
+=7
+8cc
+8ee-
+16ff
+16ee-
+16dd
+16cc
+=8
+16cc
+16ee-
+8dd
+8cc
+8b-}
+==
+*-
+!!!ONB: Część instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=249 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 221-222} @EN{Oskar Kolberg Complete Works 5: Crakow I, pp. 221-222}
+!!!page: 221-222
+!!!ONB: Converted on 2024/12/26 with esac2hum

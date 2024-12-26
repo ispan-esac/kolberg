@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK2911500000-prystupy_nenko_prystupy_lubko.krn
+!!!OTL: Prystupy neńko prystupy lubko
+!!!source: DWOK29
+!!!id: 29115
+!!!signature: 2911500000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{4dd
+4dd
+4ff
+=2
+4ee
+4dd
+4r
+=3
+4dd
+4dd
+4ff
+=4
+4ee
+4dd}
+4r
+!!LO:LB:g=esac
+=5
+{4dd
+8cc
+8a
+4dd
+=6
+4cc
+16cc
+16b-
+16a
+16g
+[4a
+=7
+8a]
+8g
+16cc
+16b-
+16a
+16g}
+4r
+!!LO:LB:g=esac
+=8
+{4a
+4a
+4dd
+=9
+8cc
+8g
+16cc
+16b-
+16a
+16g
+4r
+=10
+4a
+4a
+4dd
+=11
+8cc
+16a
+16g
+16cc
+16b-
+16a
+16g}
+4r
+!!LO:LB:g=esac
+=12
+{4dd
+4cc
+8a
+8g
+=13
+4dd
+16cc
+16b-
+16a
+16g
+4g
+=14
+2g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=261 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 229} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 229}
+!!!page: 229
+!!!ONB: Converted on 2024/12/26 with esac2hum

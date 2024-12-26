@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2220000000-kapala_sie_kasia_w_morzu.krn
+!!!OTL: Kąpała się Kasia w morzu
+!!!source: DWOK22
+!!!id: 22200
+!!!signature: 2220000000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+16a
+8b-
+8cc
+=2
+8.dd
+16ff
+16ee-
+16cc
+=3
+8.dd
+16ff
+16ee-
+16cc}
+!!LO:LB:g=esac
+=4
+{16dd
+16dd
+8b-
+8g
+=5
+8.f
+16a
+16cc
+16ee-
+=6
+16dd
+16dd
+8b-
+8g
+=7
+8.f
+16a
+16cc
+16b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=138 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 120} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

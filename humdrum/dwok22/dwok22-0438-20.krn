@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK2243800020-instrumentalna-da_juz_cie_odchodze.krn
+!!!OTL: Instrumentalna-Da już cię odchodzę
+!!!source: DWOK22
+!!!id: 22438
+!!!signature: 2243800020
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8.e
+16g#
+16a
+16b
+=
+24cc
+24b
+24cc
+8ee
+8ff#
+=
+8.dd
+16b
+24cc
+24a
+24cc
+=2
+16ee
+16cc
+16b
+16a
+16b
+16g#}
+!!LO:LB:g=esac
+=3
+{8.e
+16g#
+16a
+16b
+=4
+8cc
+8ee
+8ff#
+=5
+8.dd
+16b
+8cc
+=6
+16ee
+16cc
+16b
+16a
+8b}
+!!LO:LB:g=esac
+=7
+{8.e
+16g#
+16a
+16b
+=8
+16cc
+16b
+16a
+16g#
+16b
+16ee
+=9
+8.e
+16g#
+16a
+16b
+=10
+16cc
+16b
+16a
+16g#
+16b
+16g#}
+==
+*-
+!!!ONB: melodia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 215} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 215}
+!!!page: 215
+!!!ONB: Converted on 2024/12/26 with esac2hum

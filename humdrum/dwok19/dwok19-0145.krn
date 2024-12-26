@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK1914500000-jasiu_baslamucie.krn
+!!!OTL: Jasiu baśłamucie
+!!!source: DWOK19
+!!!id: 19145
+!!!signature: 1914500000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+8dd
+4ff
+=2
+8ee
+4gg
+8dd
+=3
+8ff
+8ff
+4cc
+=4
+8dd
+4cc
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4ff
+=6
+8ee
+4ee
+8dd
+=7
+8dd
+8ff
+4cc
+=8
+8b
+4cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 48} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 48}
+!!!page: 48
+!!!ONB: Converted on 2024/12/26 with esac2hum

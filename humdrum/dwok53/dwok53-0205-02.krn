@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK5320500002-mes_lenku_zalnierelej.krn
+!!!OTL: Mes Lenku załnierelej
+!!!source: DWOK53
+!!!id: 53205
+!!!signature: 5320500002
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{4dd
+4ff
+=2
+4ff
+4dd
+=3
+2ee-
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{4dd
+4ff
+=6
+4ff
+4dd
+=7
+2ee-
+=8
+2dd}
+!!LO:LB:g=esac
+=9
+{2ff
+=10
+4dd
+4gg
+=11
+4ff
+4ee-
+=12
+4ff
+4dd
+=13
+4dd
+4b-
+=14
+4cc
+4b-}
+!!LO:LB:g=esac
+=15
+{4dd
+4ff
+=16
+4ff
+4dd
+=17
+2ee-
+=18
+2dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=362 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 322} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 322}
+!!!page: 322
+!!!ONB: Converted on 2024/12/26 with esac2hum

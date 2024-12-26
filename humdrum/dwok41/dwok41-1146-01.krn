@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK41114600001-oj_moja_dziewczyno.krn
+!!!OTL: Oj, moja dziewczyno
+!!!source: DWOK41
+!!!id: 411146
+!!!signature: 41114600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+8r
+{8dd
+8dd
+=2
+16dd
+16b
+8dd
+8dd
+=3
+16ee
+16cc
+8b
+8g
+=4
+8a
+8g
+8d}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8g
+=6
+16a
+16cc
+8b
+8b
+=7
+16a
+16cc
+8b
+8b
+=8
+8a
+8g
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=582 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 495} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 495}
+!!!page: 495
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK8311900000-pryszla_hanusi_z_sela.krn
+!!!OTL: Pryszła Hanusi z seła
+!!!source: DWOK83
+!!!id: 83119
+!!!signature: 8311900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8dd
+8cc
+=2
+8dd
+8cc
+8a
+=3
+4.b
+=4
+8b}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+8dd
+8cc
+=6
+8dd
+8cc
+8a
+=7
+4.b
+=8
+8b}
+4r
+!!LO:LB:g=esac
+=9
+{8cc
+8dd
+8cc
+=10
+8dd
+8dd
+8cc
+=11
+8b
+4a}
+!!LO:LB:g=esac
+=12
+{8dd
+8cc
+8dd
+=13
+8cc
+8b
+8g#
+=14
+4.a
+=15
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=216 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 113} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 113}
+!!!page: 113
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK2730900000-w_gestej_krzewinie.krn
+!!!OTL: W gęstej krzewinie
+!!!source: DWOK27
+!!!id: 27309
+!!!signature: 2730900000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4b
+8g
+8b
+2cc
+=2
+8cc
+8b
+8g
+8b
+2cc
+=3
+4cc
+8b
+8a
+4g
+8a
+8f
+=4
+8e
+8f
+8g
+8a
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8b
+8cc
+8dd
+8b
+4g
+=6
+8g
+8cc
+8b
+8cc
+8ee
+8dd
+4dd
+=7
+8g
+8cc
+8b
+8cc
+8dd
+8b
+4g
+=8
+8g
+8cc
+8b
+8cc
+8ee
+8dd
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=325 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 306} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 306}
+!!!page: 306
+!!!ONB: Converted on 2024/12/26 with esac2hum

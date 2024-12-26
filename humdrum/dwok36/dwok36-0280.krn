@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK3628000000-tuman_tuman_po_dolyni.krn
+!!!OTL: Tuman tuman po dołyni
+!!!source: DWOK36
+!!!id: 36280
+!!!signature: 3628000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+8cc
+8b
+8cc
+8a
+=2
+8cc
+8ee
+8cc
+8b
+8cc
+8a
+=3
+8cc
+8dd
+4ee
+8b
+8dd
+=4
+8cc
+16b
+16a
+4g#
+4e}
+!!LO:LB:g=esac
+=5
+{4g#
+4a
+8e
+8e
+=6
+8a
+8a
+8e
+8cc
+8b
+8a
+=7
+8g#
+8b
+4a
+8e
+8e
+=8
+8a
+8a
+4e
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

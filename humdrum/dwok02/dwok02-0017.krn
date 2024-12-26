@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK02-K0017-pani_mloda_sciezala.krn
+!!!OTL: Pani mloda sciezala
+!!!source: DWOK02
+!!!id: K0017
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8a
+8cc
+8b-
+8a
+=2
+8g
+4dd
+16cc
+16b-
+=3
+8a
+8cc
+8b-
+8a
+=4
+8f
+4g
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8b-
+8a
+=6
+8g
+4dd
+16cc
+16b-
+=7
+8a
+8cc
+8b-
+8a
+=8
+8f
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 32} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 32}
+!!!page: 32
+!!!ONB: Converted on 2024/12/26 with esac2hum

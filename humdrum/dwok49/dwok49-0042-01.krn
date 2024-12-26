@@ -1,0 +1,96 @@
+!!!!SEGMENT: DWOK4904200001-pieczone_tu_szczodraczki_bochnaczki_powiadali_nam_tu.krn
+!!!OTL: Pieczone tu szczodraczki, bochnaczki, powiadali nam tu
+!!!source: DWOK49
+!!!id: 49042
+!!!signature: 4904200001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8b
+4cc
+4ee
+=2
+4gg
+4gg
+4ee
+=3
+4gg
+4gg
+4ee
+=4
+8cc
+8dd
+4ee
+4dd
+=5
+2cc
+4g}
+!!LO:LB:g=esac
+=6
+{8cc
+8b
+4cc
+4ee
+=7
+8gg
+8aa
+4gg
+4ee
+=8
+8ee
+8ee
+4ff
+4dd
+=9
+2cc
+4g}
+!!LO:LB:g=esac
+=10
+{4cc
+4dd
+4b
+=11
+4cc
+4dd
+4b
+=12
+4cc
+4dd
+4b
+=13
+8cc
+8b
+4cc
+4ee
+=14
+2.gg}
+!!LO:LB:g=esac
+=15
+{8gg
+8gg
+4gg
+4ee
+=16
+8ee
+8ee
+4ff
+4dd
+=17
+8ee
+8ee
+4ff
+8dd
+8b
+=18
+2.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 135} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 135}
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

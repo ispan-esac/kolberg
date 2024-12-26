@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2104800000-a_z_poniedzialku_na_swieto_jasiowi_konie_zajeto.krn
+!!!OTL: A z poniedziałku na święto Jasiowi konie zajęto
+!!!source: DWOK21
+!!!id: 21048
+!!!signature: 2104800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8ee
+=2
+4dd
+8a
+=3
+16cc
+16b
+4dd}
+!!LO:LB:g=esac
+=4
+{8ee
+8ee
+8ee
+=5
+4dd
+8a
+=6
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8dd
+=8
+16cc
+16b
+8a
+8f#
+=9
+8g
+4b}
+!!LO:LB:g=esac
+=10
+{16g
+16a
+8b
+8dd
+=11
+16cc
+16b
+8a
+8f#
+=12
+8g
+4e}
+==
+*-
+!!!ONB: W takcie 6 u Kolberga ósemka zamiast szesnastki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=44 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 26} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 26}
+!!!page: 26
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK06-K0219-od_krakowa_czarna_chmura.krn
+!!!OTL: Od Krakowa czarna chmura
+!!!source: DWOK06
+!!!id: K0219
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8b-
+8b-
+8a
+8g
+=2
+8b-
+8b-
+8g
+8f
+=3
+4a
+4b-
+=4
+4cc}
+4r
+!!LO:LB:g=esac
+=5
+{8cc
+16dd
+16ee
+8ff
+8cc
+=6
+8cc
+8b-
+8a
+8g
+=7
+4cc
+4b-
+=8
+4a}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=141 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 115} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 115}
+!!!page: 115
+!!!ONB: Converted on 2024/12/26 with esac2hum

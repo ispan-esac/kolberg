@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK57209600000-dobry_wieczor_lube_dziwcze.krn
+!!!OTL: Dobry wieczor, lube dziwcze
+!!!source: DWOK57
+!!!id: 572096
+!!!signature: 57209600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8cc
+8dd
+4ee
+4g
+=2
+8cc
+8dd
+4ee
+4g}
+!!LO:LB:g=esac
+=3
+{8g
+8g
+4ff
+4ee
+=4
+4ee
+2dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+4g
+4ff
+=6
+8ee
+8ee
+4g
+4cc}
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+8a
+8b
+4dd
+=8
+4dd
+2cc}
+==
+*-
+!!!ONB: Wariant t. 4: +4_+2__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1154
+!!!ONB: Converted on 2024/12/26 with esac2hum

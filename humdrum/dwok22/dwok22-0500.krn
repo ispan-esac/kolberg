@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2250000000-a_i_chlopiec_ci_ja_chlopiec.krn
+!!!OTL: A i chłopiec ci ja chłopiec
+!!!source: DWOK22
+!!!id: 22500
+!!!signature: 2250000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16cc
+16ee
+8ff
+8ee
+=2
+16g
+16b-
+8dd
+16ee
+16dd
+=3
+16cc
+16ee
+8ff
+8a
+=4
+16cc
+16ee
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8b-
+8a
+=6
+16g
+16b-
+8dd
+16ee
+16dd
+=7
+16g
+16g
+8b-
+8a
+=8
+16g
+16b-
+8cc
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=252 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 234} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 234}
+!!!page: 234
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK8401800000-oj_wyjdy_maty_swoho_ziatia_wytaty.krn
+!!!OTL: Oj, wyjdy, maty, swoho ziatia wytaty
+!!!source: DWOK84
+!!!id: 84018
+!!!signature: 8401800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8cc
+8ee
+8ee
+=2
+4.ee
+=3
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=4
+{16cc
+16dd
+4ee
+=5
+8ee
+4ee
+=6
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=7
+{8cc
+4ee
+=8
+16cc
+16b
+4a
+=9
+8cc
+4ee
+=10
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=11
+{16a
+16g
+8a
+8b
+=12
+8cc
+4b
+=13
+4.a
+=14
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=115 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 53} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 53}
+!!!page: 53
+!!!ONB: Converted on 2024/12/26 with esac2hum

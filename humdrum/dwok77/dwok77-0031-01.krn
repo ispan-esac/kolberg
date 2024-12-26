@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7703100001-to_z_nia_do_psenicy.krn
+!!!OTL: To z nią do psenicy
+!!!source: DWOK77
+!!!id: 77031
+!!!signature: 7703100001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4aa
+8aa
+=2
+16.gg
+32ff
+8ff
+8ee}
+!!LO:LB:g=esac
+=3
+{4dd
+8cc
+=4
+16dd
+16ff
+8gg
+8aa}
+!!LO:LB:g=esac
+=5
+{16dd
+32ff
+32gg
+8aa
+8aa
+=6
+16.gg
+32ff
+8ff
+8ee}
+!!LO:LB:g=esac
+=7
+{4dd
+16b
+16a
+=8
+16.g
+32b
+8cc
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 42
+!!!ONB: Converted on 2024/12/26 with esac2hum

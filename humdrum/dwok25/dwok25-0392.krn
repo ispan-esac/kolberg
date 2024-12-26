@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2539200000-oj_szanujze_mne_szanuj.krn
+!!!OTL: Oj szanujze mne szanuj
+!!!source: DWOK25
+!!!id: 25392
+!!!signature: 2539200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8cc
+=2
+16b
+16dd
+8ee
+16cc
+16a
+=3
+8b
+8b
+8cc
+=4
+16b
+16g
+8a
+16f#
+16d}
+!!LO:LB:g=esac
+=5
+{8f#
+8a
+8g
+=6
+16b
+16dd
+8ee
+16cc
+16a
+=7
+8f#
+8f#
+8g
+=8
+16e
+16g
+8a
+16f#
+16d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=199 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 174} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 174}
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

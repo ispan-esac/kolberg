@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK4808000000-corus_moja_kedys_byla.krn
+!!!OTL: Córuś moja, kędyś była
+!!!source: DWOK48
+!!!id: 48080
+!!!signature: 4808000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.b
+32cc#
+8dd
+8dd
+=2
+16dd
+16ee
+8dd
+16cc
+16a
+=3
+16.b
+32cc
+8dd
+8dd
+=4
+16dd
+16ee
+8dd
+8a}
+!!LO:LB:g=esac
+=5
+{8b
+8g
+16e
+16c#
+=6
+16d
+16d
+8f#
+16a
+16cc
+=7
+8b
+8g
+16e
+16c#
+=8
+4d}
+8r
+==
+*-
+!!!ONB: Wariant t. 1: 2_4_5__5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 141} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 141}
+!!!page: 141
+!!!ONB: Converted on 2024/12/26 with esac2hum

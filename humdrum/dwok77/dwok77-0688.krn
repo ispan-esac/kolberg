@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7768800000-da_ja_nie_wiem_po_co_jade.krn
+!!!OTL: Da ja nie wiem po co jade
+!!!source: DWOK77
+!!!id: 77688
+!!!signature: 7768800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16b
+8dd
+8a
+=2
+16cc
+16b
+8.a
+16g#}
+!!LO:LB:g=esac
+=3
+{16a
+16b
+8dd
+8a
+=4
+16cc
+16b
+8.a
+16g#}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+8dd
+8a
+=6
+16cc
+16b
+8.dd
+16b}
+!!LO:LB:g=esac
+=7
+{16a
+16b
+8dd
+8a
+=8
+16cc
+16b
+8.a
+16g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 347
+!!!ONB: Converted on 2024/12/26 with esac2hum

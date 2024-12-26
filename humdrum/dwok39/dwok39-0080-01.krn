@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK3908000001-a_na_tej_lace_na_tej_zielonej.krn
+!!!OTL: A na tej łące, na tej zielonej
+!!!source: DWOK39
+!!!id: 39080
+!!!signature: 3908000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+{4g
+8g
+8b
+4dd
+8b
+=1
+4dd
+8gg
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=2
+{4b
+8a
+8g
+4.a
+8cc
+=3
+4ee
+8dd
+8cc#
+4dd
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=190 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 138} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 138}
+!!!page: 138
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,91 @@
+!!!!SEGMENT: DWOK2535600000-polska_korono_co_slychac_o_tobie.krn
+!!!OTL: Polska korono co słychać o tobie
+!!!source: DWOK25
+!!!id: 25356
+!!!signature: 2535600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+{8a
+8b
+=1
+4.cc
+8b
+8cc
+8a
+=2
+8b
+8dd
+4a
+4g#
+=
+!!UNCATEGORIZED MEASURE
+8a
+8cc
+4b
+8a
+8b}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{4cc
+8b
+8cc
+8a
+=3
+*M3/4
+8b
+8dd
+4a
+4g#
+=4
+8b
+8g#
+4a
+8cc
+8dd}
+!!LO:LB:g=esac
+=5
+{4.ee
+8dd
+8ee
+8cc
+=6
+8ff
+8ee
+4dd
+4b
+=
+!!UNCATEGORIZED MEASURE
+8ee
+8cc
+4a
+8a
+8b}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{4cc
+8b
+8cc
+8a
+=7
+*M3/4
+8b
+8dd
+4a
+4g#
+=8
+8b
+8g#
+4a}
+==
+*-
+!!!ONB: Kolberg podaje metrum 2/4, jest metrum mieszane 2/4 3/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 161} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 161}
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

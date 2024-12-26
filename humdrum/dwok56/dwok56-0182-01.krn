@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK5618200001-oj_ne_chody_kaczoronku.krn
+!!!OTL: Oj, ne ch'ódy kaczorońku
+!!!source: DWOK56
+!!!id: 56182
+!!!signature: 5618200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+8b
+8a
+=2
+8b
+8cc
+8b
+8a
+=3
+8b
+8cc
+8b
+8a
+=4
+4g
+4b
+=5
+8b
+8cc
+8b
+8a
+=6
+4g
+4d}
+!!LO:LB:g=esac
+=7
+{8b
+8cc
+8b
+8a
+=8
+8b
+8cc
+8b
+8a
+=9
+8b
+8cc
+8b
+8a
+=10
+4g
+4b
+=11
+8b
+8cc
+8b
+8a
+=12
+4g
+4g}
+!!LO:LB:g=esac
+=13
+{4dd
+8b
+8cc
+=14
+8b
+8a
+4g
+=15
+8b
+8b
+8cc
+8cc
+=16
+8b
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=303 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 199} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 199}
+!!!page: 199
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK2003500000-w_krakowie_na_rynku_graja_na_bebenku.krn
+!!!OTL: W Krakowie na rynku grają na bębenku
+!!!source: DWOK20
+!!!id: 20035
+!!!signature: 2003500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8a
+4a
+=2
+8g
+4b
+8dd
+=3
+8dd
+8cc
+4cc
+=4
+8b
+4g
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+4a
+=6
+8g
+4b
+8dd
+=7
+8dd
+8cc
+4cc
+=8
+8b
+4dd
+8cc}
+!!LO:LB:g=esac
+=9
+{8b
+8dd
+4g
+=10
+8b
+4a
+8a
+=11
+8a
+8ee
+8dd
+8f#
+=12
+8g
+4.g}
+!!LO:LB:g=esac
+=13
+{8b
+8dd
+4g
+=14
+16b
+16cc
+4a
+16a
+16b
+=15
+16cc
+16b
+16cc
+16ee
+8dd
+8f#
+=16
+8g
+4.b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 100} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 100}
+!!!page: 100
+!!!ONB: Converted on 2024/12/26 with esac2hum

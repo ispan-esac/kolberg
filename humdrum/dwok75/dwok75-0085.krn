@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7508500000-da_napilam_sie_troszke.krn
+!!!OTL: Da, napiłam się troszkę
+!!!source: DWOK75
+!!!id: 75085
+!!!signature: 7508500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4ee
+4ee
+=2
+8.cc
+16ee
+4ee
+4dd}
+!!LO:LB:g=esac
+=3
+{4b
+4dd
+4cc
+=4
+8.cc
+16ee
+4ee
+4cc}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+4ee
+=6
+8cc
+8ee
+4ee
+4dd}
+!!LO:LB:g=esac
+=7
+{4b
+4dd
+4cc
+=8
+8.cc
+16ee
+4ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 58} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

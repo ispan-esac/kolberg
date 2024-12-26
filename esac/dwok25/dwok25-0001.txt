@@ -1,0 +1,10 @@
+DWOK25
+CUT[Kiedy będzie słońce i pogoda]
+REG[]
+TRD[DWOK25, Mazowsze 2 s, 1, od Biały, Grzymkowice]
+FKT[]
+SIG[2500100000]
+KEY[25001   08 Bb 3/4]
+MEL[-5-71_.2  333342  355542
+    331-7-6_  -5-5-6-712  331-7-6_  -5-5-6-711 //]
+BEM[U Kolberga jest 3/8, zapisano poprawnie na 3/4]

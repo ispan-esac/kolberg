@@ -1,0 +1,87 @@
+!!!!SEGMENT: DWOK4115600000-a_zeby_ja_byl_na_kujawach.krn
+!!!OTL: A żeby ja był na Kujawach
+!!!source: DWOK41
+!!!id: 41156
+!!!signature: 4115600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8ee
+8ff#
+=2
+8ee
+16dd
+16ee
+8dd
+=3
+8cc
+8b
+8g}
+!!LO:LB:g=esac
+=4
+{8a
+8a
+8f#
+=5
+4g
+8b
+=6
+8dd
+16ee
+16dd
+16cc
+16g}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8f#
+=8
+4g
+16b
+16a
+=9
+8cc
+8b
+8g}
+!!LO:LB:g=esac
+=10
+{16d
+16f#
+8a
+8f#
+=11
+4g
+16a
+16b
+=12
+16dd
+16ee
+8dd
+16cc
+16g}
+!!LO:LB:g=esac
+=13
+{8a
+8a
+8f#
+=14
+4g
+16b
+16a
+=15
+8cc
+8b
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 107} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 107}
+!!!page: 107
+!!!ONB: Converted on 2024/12/26 with esac2hum

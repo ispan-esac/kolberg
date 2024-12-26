@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK2531000000-a_z_podola_wolki_moje.krn
+!!!OTL: A z podola wołki moje
+!!!source: DWOK25
+!!!id: 25310
+!!!signature: 2531000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16g
+32a
+32b
+8cc
+8ee
+=2
+16ee
+16dd
+8ff
+8aa
+=3
+8gg
+16dd
+16ee
+16cc
+16b}
+!!LO:LB:g=esac
+=4
+{16g
+32a
+32b
+8cc
+8ee
+=5
+16ee
+16dd
+8b
+16g
+16e
+=6
+8f
+8a
+16f
+16e}
+!!LO:LB:g=esac
+=7
+{16g
+32a
+32b
+8cc
+8ee
+=8
+16ee
+16dd
+8b
+16g
+16e
+=9
+8f
+8a
+16f
+16e}
+!!LO:LB:g=esac
+=10
+{16g
+32a
+32b
+8cc
+8ee
+=11
+16ee
+16dd
+16cc
+16b
+16g
+16e
+=12
+8f
+8a
+16cc
+16b}
+==
+*-
+!!!ONB: Zakodować w C
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 140} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 140}
+!!!page: 140
+!!!ONB: Converted on 2024/12/26 with esac2hum

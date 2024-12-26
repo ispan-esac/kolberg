@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7722800000-oj_ozen_sie_chlopaku.krn
+!!!OTL: Oj ozeń się chłopaku
+!!!source: DWOK77
+!!!id: 77228
+!!!signature: 7722800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8b
+8a
+8cc
+=2
+16ee
+16gg
+8aa
+16ff
+16dd
+=3
+8b
+8a
+8cc
+=4
+16ee
+16cc
+8dd
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8cc
+=6
+16ee
+16cc
+8dd
+16ff
+16dd
+=7
+8b
+8a
+8cc
+=8
+16ee
+16cc
+8dd
+16b
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 130
+!!!ONB: Converted on 2024/12/26 with esac2hum

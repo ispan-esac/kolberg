@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK45132000000-zakopianskie_chlopy.krn
+!!!OTL: Zakopiańskie chłopy
+!!!source: DWOK45
+!!!id: 451320
+!!!signature: 45132000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8f#
+8g#
+8a
+8b
+8g#
+=2
+4e
+8a
+8g#
+4a
+=3
+4cc
+4a
+4b}
+!!LO:LB:g=esac
+=4
+{8ee
+8a
+8b
+8a
+8b
+8g#
+=5
+4e
+8d
+8e
+4f
+=6
+4a
+4d
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=153 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 139} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 139}
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

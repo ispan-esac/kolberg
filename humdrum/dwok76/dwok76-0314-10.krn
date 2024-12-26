@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK7631400010-dobry_nas_oan_dobry_jasce_lepsa_pani.krn
+!!!OTL: Dobry nas oan, dobry jasce lepsa pani
+!!!source: DWOK76
+!!!id: 76314
+!!!signature: 7631400010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8gg
+8dd
+4b
+=2
+8cc
+4a
+16f#
+16d
+=3
+8g
+8b
+4b
+=4
+8cc
+4a
+16f#
+16d}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+4b
+=6
+8cc
+4ee
+16gg
+16ee
+=7
+8dd
+8b
+4b
+=8
+16dd
+16cc
+4a
+16f#
+16d}
+==
+*-
+!!!ONB: Pierwsza część melodii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 161} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 161}
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

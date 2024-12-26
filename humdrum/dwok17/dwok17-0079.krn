@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1707900000-cztery_mile_za_warszawa.krn
+!!!OTL: Cztery mile za Warszawą
+!!!source: DWOK17
+!!!id: 17079
+!!!signature: 1707900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8ee
+=2
+16ff
+16dd
+8dd
+8cc
+=3
+16f
+16a
+8cc
+8ee
+=4
+16ff
+16dd
+8dd
+16cc
+16a}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8cc
+8b-
+=6
+16g
+16g
+16g
+16e
+8f
+=7
+16f
+16a
+8cc
+16b-
+16a
+=8
+16b-
+16g
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 29} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 29}
+!!!page: 29
+!!!ONB: Converted on 2024/12/26 with esac2hum

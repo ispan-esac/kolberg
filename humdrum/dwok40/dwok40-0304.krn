@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK4030400000-niescesliwy_ten_ganecek.krn
+!!!OTL: Niescęśliwy ten ganecek
+!!!source: DWOK40
+!!!id: 40304
+!!!signature: 4030400000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8g
+8a
+8b-
+8a
+=2
+8cc
+8b-
+8a
+8g}
+!!LO:LB:g=esac
+=3
+{4dd
+4g
+=4
+8f#
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b-
+8a
+=6
+8cc
+8b-
+8a
+8g}
+!!LO:LB:g=esac
+=7
+{4dd
+4g
+=8
+8f#
+8a
+4g}
+!!LO:LB:g=esac
+=9
+{8d
+8g
+8g
+8g
+=10
+8g
+8d
+8.f
+16e-}
+!!LO:LB:g=esac
+=11
+{8d
+8g
+8g
+8g
+=12
+8g
+8d
+8.f
+16e-}
+!!LO:LB:g=esac
+=13
+{8d
+8d
+8c
+8e-
+=14
+8d
+8f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=379 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 316} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 316}
+!!!page: 316
+!!!ONB: Converted on 2024/12/26 with esac2hum

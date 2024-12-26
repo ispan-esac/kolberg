@@ -1,0 +1,101 @@
+!!!!SEGMENT: DWOK3620300000-choroszaja_diwczynonka.krn
+!!!OTL: Choroszaja diwczynońka
+!!!source: DWOK36
+!!!id: 36203
+!!!signature: 3620300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.g
+16d
+8g
+8g
+=2
+16a
+16g
+16f#
+16d
+8d
+8B
+=3
+8c
+8e
+8e
+8g
+=4
+4d
+4d}
+!!LO:LB:g=esac
+=5
+{8.g
+16d
+8g
+8g
+=6
+16a
+16g
+16f#
+16d
+8d
+8B
+=7
+8c
+8e
+8e
+8g
+=8
+4d
+4d}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+8a
+8cc
+8d
+=
+8g
+8b
+24b
+24dd
+24cc#
+8b
+=10
+8f#
+8a
+4cc
+=
+8g
+8b
+24b
+24dd
+24cc#
+8b}
+!!LO:LB:g=esac
+=11
+{8a
+8a
+8a
+8d
+=12
+8g
+8b
+8a
+8cc
+=13
+8b
+8b
+8a
+8f#
+=14
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 112
+!!!ONB: Converted on 2024/12/26 with esac2hum

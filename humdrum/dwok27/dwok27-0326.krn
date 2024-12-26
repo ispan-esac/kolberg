@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2732600000-z_tamtej_strony_jeziora.krn
+!!!OTL: Z tamtej strony jeziora
+!!!source: DWOK27
+!!!id: 27326
+!!!signature: 2732600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8e
+8e
+8e
+8d
+=2
+4f#
+4a
+=3
+2g}
+!!LO:LB:g=esac
+=4
+{8a
+8a
+8cc
+8a
+=5
+4b
+8g
+8e
+=6
+2d}
+!!LO:LB:g=esac
+=7
+{4b
+8b
+8g
+=8
+4a
+4d
+=9
+4e
+8e
+8g
+=10
+4e
+4d}
+!!LO:LB:g=esac
+=11
+{8f#
+8g
+8a
+8dd
+=12
+4b
+8g
+8e
+=13
+2d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=330 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 311} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 311}
+!!!page: 311
+!!!ONB: Converted on 2024/12/26 with esac2hum

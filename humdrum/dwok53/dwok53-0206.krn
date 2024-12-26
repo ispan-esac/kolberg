@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5320600000-moceka_ant_posunu_pikta.krn
+!!!OTL: Moceka ant posunu pikta
+!!!source: DWOK53
+!!!id: 53206
+!!!signature: 5320600000
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=1
+{2ee-
+4b-
+4a-
+=2
+4g
+4g
+4f
+4d
+=3
+2e-}
+2r
+!!LO:LB:g=esac
+=4
+{4a-
+4a-
+4b-
+4b-
+=5
+4g
+4g
+4f
+4d
+=6
+2e-}
+2r
+!!LO:LB:g=esac
+=7
+{4a-
+4a-
+4b-
+4b-
+=8
+4g
+4g
+4f
+4d
+=9
+2e-}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=362 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 322} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 322}
+!!!page: 322
+!!!ONB: Converted on 2024/12/26 with esac2hum

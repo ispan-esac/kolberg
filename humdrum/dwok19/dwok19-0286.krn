@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1928600000-acka_zielona_nie_posiecona.krn
+!!!OTL: Łącka zielona nie posiecona
+!!!source: DWOK19
+!!!id: 19286
+!!!signature: 1928600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+16dd
+16cc#
+8dd
+=2
+16a
+16f#
+8g
+16a
+16cc
+=3
+8dd
+16dd
+16cc#
+8dd
+=4
+16a
+16f#
+4g}
+!!LO:LB:g=esac
+=5
+{16a
+16cc
+8dd
+16dd
+16cc#
+=6
+8dd
+16a
+16f#
+8g
+=7
+8dd
+16dd
+16cc#
+8dd
+=8
+16a
+16f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 88} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 88}
+!!!page: 88
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4445800001-idzie_woda_do_ogroda.krn
+!!!OTL: Idzie woda do ogroda
+!!!source: DWOK44
+!!!id: 44458
+!!!signature: 4445800001
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8cc
+=2
+16cc
+16cc
+8a
+8a
+=3
+16a
+16g
+8f
+8f
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b-
+8b-
+=6
+16b-
+16a
+8g
+8g
+=7
+16a
+16g
+8f
+8e
+=8
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=323 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 269} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 269}
+!!!page: 269
+!!!ONB: Converted on 2024/12/26 with esac2hum

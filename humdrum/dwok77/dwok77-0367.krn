@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK7736700000-oj_pozal_sie_pozal_mocny_boze.krn
+!!!OTL: Oj pożal się pożal mocny Boże
+!!!source: DWOK77
+!!!id: 77367
+!!!signature: 7736700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{4ee
+4ee
+4ee
+=2
+8ee
+8cc#
+4.ee
+8b
+=3
+8cc#
+8dd
+4b
+8a
+8g#
+=4
+4f#
+2e}
+!!LO:LB:g=esac
+=5
+{4g#
+4b
+4g#
+=6
+8a
+8b
+4cc#
+4a
+=7
+8b
+8cc#
+4b
+8a
+8g#
+=8
+4f#
+2e}
+!!LO:LB:g=esac
+=9
+{4f#
+4a
+4g#
+=10
+8.a
+16b
+4cc#
+4cc#
+=11
+8b
+8dd
+4b
+8a
+8g#
+=12
+4f#
+2e}
+==
+*-
+!!!ONB: Wariant w takcie pierwszym: 5__3__5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 192
+!!!ONB: Converted on 2024/12/26 with esac2hum

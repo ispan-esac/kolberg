@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1911700010-a_moja_dziewcyno_zal_mi_cie.krn
+!!!OTL: A moja dziewcyno zal mi cię
+!!!source: DWOK19
+!!!id: 19117
+!!!signature: 1911700010
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+4ee
+8ee
+=2
+8ff
+8b
+8cc
+8b
+=3
+8a
+8cc
+8.cc
+16g#
+=4
+8b
+8dd
+4ee}
+!!LO:LB:g=esac
+=5
+{8cc
+4ee
+8ee
+=6
+8ff
+8b
+4cc
+=7
+8a
+8a
+4cc
+=8
+8b
+8dd
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 41} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 41}
+!!!page: 41
+!!!ONB: Converted on 2024/12/26 with esac2hum

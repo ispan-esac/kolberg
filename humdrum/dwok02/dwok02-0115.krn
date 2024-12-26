@@ -1,0 +1,39 @@
+!!!!SEGMENT: DWOK02-K0115-oj_obeslismy_w_kolo_wies.krn
+!!!OTL: Oj obeslismy w kolo wies
+!!!source: DWOK02
+!!!id: K0115
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4ee
+4ff#
+=2
+2gg
+4ff#
+=3
+4gg
+4.gg
+8ff#
+=4
+2dd
+4cc}
+!!LO:LB:g=esac
+=5
+{4ee
+4.ee
+8dd
+=6
+2cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 86} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 86}
+!!!page: 86
+!!!ONB: Converted on 2024/12/26 with esac2hum

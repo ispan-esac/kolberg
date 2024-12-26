@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK57175600000-hej_krakowiaczek_jeden.krn
+!!!OTL: Hej, krakowiaczek jeden
+!!!source: DWOK57
+!!!id: 571756
+!!!signature: 57175600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8c
+4b-
+8a
+=2
+8b-
+8a
+8g
+8f
+=3
+8a
+8g
+8f
+8e
+=4
+4f
+4a}
+!!LO:LB:g=esac
+=5
+{8e
+4g
+8e
+=6
+8f
+8g
+8a
+8a
+=7
+8b-
+8a
+8g
+8e
+=8
+4f
+4f}
+==
+*-
+!!!ONB: Wariant t. 2: 7b_6_5456; wariant t. 7: 7b_6_5_6_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 843
+!!!ONB: Converted on 2024/12/26 with esac2hum

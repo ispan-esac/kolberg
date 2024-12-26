@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK3613900000-hop_czuk_czuk_poberym_sia.krn
+!!!OTL: Hop czuk czuk poberym sia
+!!!source: DWOK36
+!!!id: 36139
+!!!signature: 3613900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4b
+8b
+8dd
+=2
+8.cc
+16a
+4cc
+4b
+=3
+4g
+4b
+8b
+8dd
+=4
+8cc
+8a
+4cc
+4b}
+!!LO:LB:g=esac
+=5
+{4g
+4b
+8b
+8dd
+=6
+8dd
+8b
+4gg
+4gg
+=7
+4g
+4b
+8b
+8dd
+=8
+8cc
+8a
+4cc
+4b}
+!!LO:LB:g=esac
+=9
+{4g
+4g
+8f#
+8e
+=10
+8d
+8f#
+4a
+4f#
+=11
+4g
+4g
+8f#
+8e
+=12
+8d
+8f#
+4a
+4g}
+!!LO:LB:g=esac
+=13
+{4g
+4g
+4g
+=14
+8a
+8b
+4cc
+4ee
+=15
+4dd
+4dd
+8cc
+8b
+=16
+8a
+8b
+4cc
+4a}
+==
+*-
+!!!ONB: Mazur przy dożynkach
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 76
+!!!ONB: Converted on 2024/12/26 with esac2hum

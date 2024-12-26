@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK1232700000-ach_boze_moj_boze.krn
+!!!OTL: Ach Boże mój Boże
+!!!source: DWOK12
+!!!id: 12327
+!!!signature: 1232700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8a
+8b-
+8cc
+8ee
+4ff
+=2
+8dd
+4dd
+8cc
+8cc
+8dd
+=3
+8b-
+8b-
+4a}
+4r
+!!LO:LB:g=esac
+=4
+{8a
+8b-
+8cc
+16dd
+16ee
+4ff
+=5
+8dd
+4dd
+8cc
+8cc
+16dd
+16cc
+=6
+8b-
+8b-
+4a}
+4r
+!!LO:LB:g=esac
+=7
+{8.cc
+16b-
+8b-
+8a
+8cc
+8cc
+=8
+8b-
+8g
+8g
+8g
+8e
+8c
+=9
+8b-
+4b-
+8a
+8f
+16a
+16g
+=10
+8g
+8e
+4f}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=189 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 173} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 173}
+!!!page: 173
+!!!ONB: Converted on 2024/12/26 with esac2hum

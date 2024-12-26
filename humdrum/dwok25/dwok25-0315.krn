@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2531500000-oj_wyjrzyjze_corko_moja.krn
+!!!OTL: Oj wyjrzyjze córko moja
+!!!source: DWOK25
+!!!id: 25315
+!!!signature: 2531500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16dd
+16b
+8dd
+16dd
+16cc#
+=2
+16a
+16b
+8cc
+8ee
+=3
+16dd
+16b
+8g
+16e
+16c
+=4
+8d
+8d
+8d}
+!!LO:LB:g=esac
+=
+{24d
+24e
+24f#
+8g
+16e
+16c
+=5
+8d
+16d
+16f#
+16a
+16f#
+=
+24d
+24e
+24f#
+8g
+16e
+16c
+=6
+8d
+8d
+8d}
+==
+*-
+!!!ONB: Wariant w takcie drugim 234246
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=167 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 142} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 142}
+!!!page: 142
+!!!ONB: Converted on 2024/12/26 with esac2hum

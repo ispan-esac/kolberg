@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK06-K0416-coz_tam_w_lesie_gruchnelo.krn
+!!!OTL: Coz tam w lesie gruchnelo
+!!!source: DWOK06
+!!!id: K0416
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8f
+8f
+4.ff
+16ee
+16dd
+=2
+4cc
+4b-
+4a
+=3
+8g
+8g
+4.dd
+16cc
+16b-
+=4
+4a
+4g
+4f}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+8cc
+8cc
+4cc
+=6
+8g
+8b-
+8dd
+8dd
+4dd
+=7
+8cc
+8ee
+8ff
+8ee
+8ff
+8ee
+=8
+2.ff}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=243 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 217} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 217}
+!!!page: 217
+!!!ONB: Converted on 2024/12/26 with esac2hum

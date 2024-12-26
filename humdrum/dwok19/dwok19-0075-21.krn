@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1907500021-o_boze_moj_boze.krn
+!!!OTL: O Boże mój, Boże
+!!!source: DWOK19
+!!!id: 19075
+!!!signature: 1907500021
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8cc
+8b
+8a
+=2
+8g
+4g
+16a
+16b
+=3
+8cc
+8b
+8a
+8g
+=4
+8f#
+4d
+16a
+16cc}
+!!LO:LB:g=esac
+=5
+{8b
+8a
+8g
+8f#
+=6
+8e
+4cc
+8ee
+=7
+8dd
+8b
+8cc
+8f#
+=8
+8g
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=42 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 28} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 28}
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum

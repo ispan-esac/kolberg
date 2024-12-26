@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK02-K0044-oj_zacynajmyz_ten_wianek_wiz.krn
+!!!OTL: Oj zacynajmyz ten wianek wiďż˝
+!!!source: DWOK02
+!!!id: K0044
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=1
+{2dd
+8dd
+8ff#
+=2
+8ee
+8cc#
+2dd
+=3
+8cc
+8a
+2cc
+=4
+4dd
+2a}
+!!LO:LB:g=esac
+=5
+{8cc
+8b-
+4a
+4g
+=6
+2cc
+4dd
+=7
+4dd
+4cc
+4a}
+!!LO:LB:g=esac
+=8
+{8f
+8g
+4a
+4b-
+=9
+4cc
+4a
+4cc
+=10
+4dd
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=59 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 48} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 48}
+!!!page: 48
+!!!ONB: Converted on 2024/12/26 with esac2hum

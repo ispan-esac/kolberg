@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK1337800020-zajmaj_wolki.krn
+!!!OTL: Zajmaj wołki
+!!!source: DWOK13
+!!!id: 13378
+!!!signature: 1337800020
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=1
+{16g
+16a
+8b
+16ee
+16dd#
+=2
+8.ee
+16b
+16g
+16f#
+=3
+16g
+16a
+8b
+16ee
+16dd#
+=4
+8e
+8a
+16g
+16f#}
+!!LO:LB:g=esac
+=5
+{16g
+16a
+8b
+8b
+=6
+16b
+32dd
+32cc
+8a
+16g
+16f#
+=7
+16g
+16a
+8b
+16cc
+16b
+=8
+16e
+16d
+8a
+16g
+16f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=185 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 161} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 161}
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

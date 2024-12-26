@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK4407600000-po_cozescie_nas_tu.krn
+!!!OTL: Po cożeście nas tu
+!!!source: DWOK44
+!!!id: 44076
+!!!signature: 4407600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8cc
+8a
+8cc
+=2
+8b
+4.g
+=3
+8a
+8cc
+8a
+8cc
+=4
+8b
+4.g}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8dd
+8ff#
+=6
+8ee
+4.dd
+=7
+8a
+8cc
+8a
+8cc
+=8
+8b
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=168 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 118} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 118}
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

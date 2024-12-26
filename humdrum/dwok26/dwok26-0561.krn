@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK2656100000-trasny_sie_smok_pobudowal.krn
+!!!OTL: Trasny się smok pobudował
+!!!source: DWOK26
+!!!id: 26561
+!!!signature: 2656100000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8a
+8g
+=2
+4cc
+4g
+=3
+4a
+4g}
+!!LO:LB:g=esac
+=4
+{8cc
+8ee
+8dd
+8cc
+=5
+4ee
+4cc
+=6
+4dd
+16cc
+8.a}
+!!LO:LB:g=esac
+=7
+{8a
+8a
+8a
+8g
+=8
+4cc
+4g
+=9
+4a
+4g}
+!!LO:LB:g=esac
+=10
+{8cc
+8ee
+8dd
+8cc
+=11
+4ee
+4cc
+=12
+4dd
+16cc
+8.a}
+!!LO:LB:g=esac
+=13
+{8cc
+8ee
+8a
+8g
+=14
+4a
+4dd
+=15
+4cc
+4a}
+!!LO:LB:g=esac
+=16
+{8cc
+8ee
+8a
+8g
+=17
+4a
+4dd
+=18
+4cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 344
+!!!ONB: Converted on 2024/12/26 with esac2hum

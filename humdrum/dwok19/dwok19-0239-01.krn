@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK1923900001-owczarek-instrumentalna.krn
+!!!OTL: Owczarek-Instrumentalna
+!!!source: DWOK19
+!!!id: 19239
+!!!signature: 1923900001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4.gg
+=2
+16ee
+16ff#
+8gg
+8aa
+=3
+8ff#
+8gg
+8aa
+=4
+16gg
+16ff#
+4dd
+=5
+16.cc
+32ee
+16gg
+16ff#
+8dd}
+!!LO:LB:g=esac
+=
+{24g
+24a
+24b
+8cc
+16dd
+16cc
+=6
+16ee
+16cc
+16dd
+16gg
+16dd
+16cc
+=7
+16ee
+16gg
+16ff#
+16gg
+16dd
+16ff
+=8
+16ee
+16cc
+8.dd
+16cc}
+!!LO:LB:g=esac
+=9
+{16ee
+16gg
+16ff#
+16gg
+16dd
+16cc
+=10
+16ee
+16cc
+16dd
+16gg
+16dd
+16cc
+=11
+16ee
+16gg
+16ff#
+16gg
+16dd
+16ff
+=12
+16ee
+16cc
+8.dd
+16cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=89 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 75} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 75}
+!!!page: 75
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK06-K0106a-pomalutku_rozbierajcie.krn
+!!!OTL: Pomalutku rozbierajcie
+!!!source: DWOK06
+!!!id: K0106a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc#
+4dd
+4dd
+=2
+8dd
+8cc#
+8b
+8a
+4g
+=3
+8b
+8cc#
+4dd
+4dd
+=4
+8dd
+8cc#
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8cc#
+4dd
+8dd
+8cc#
+=6
+8b
+8a
+8g
+8f#
+4d
+=7
+8e
+8f#
+8g
+8b
+8dd
+8cc#
+=8
+8a
+8f#
+2g}
+==
+*-
+!!!ONB: Czesc 1
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 55} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 55}
+!!!page: 55
+!!!ONB: Converted on 2024/12/26 with esac2hum

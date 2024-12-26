@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK1646300000-czarna_chmara_nastapila_deszcze_leje.krn
+!!!OTL: Czarna chmara nastąpiła deszcze leje
+!!!source: DWOK16
+!!!id: 16463
+!!!signature: 1646300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8b
+8cc
+8b
+=2
+8a
+8ee
+8dd
+8a
+=3
+4b
+4dd
+=4
+2ee}
+!!LO:LB:g=esac
+=5
+{8ff#
+8ee
+8dd
+8b
+=6
+8a
+8ee
+8dd
+8a
+=7
+4cc
+4b
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 285} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 285}
+!!!ONB: Converted on 2024/12/26 with esac2hum

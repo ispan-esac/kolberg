@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4800900000-hej._u_naszego_pana_bydelko_jak_piana.krn
+!!!OTL: Hej. U naszego pana bydełko jak piana
+!!!source: DWOK48
+!!!id: 48009
+!!!signature: 4800900000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4ff
+16dd
+16ff
+=2
+16ee
+16cc
+8dd
+8f
+=3
+16a
+16cc
+8b-
+16g
+16a
+=4
+8f
+4e-}
+!!LO:LB:g=esac
+=5
+{8f
+8f
+8f
+=6
+16f
+16a
+8b-
+8cc
+=7
+16f
+16a
+8b-
+8a
+=8
+8f
+4e-}
+==
+*-
+!!!ONB: Wariant t. 6: 135_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=124 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 84-85} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, pp. 84-85}
+!!!page: 84-85
+!!!ONB: Converted on 2024/12/26 with esac2hum

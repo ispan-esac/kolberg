@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3316300000-a_zberajmo_sia_wsi_swaty.krn
+!!!OTL: A zberajmo sia wsi swaty
+!!!source: DWOK33
+!!!id: 33163
+!!!signature: 3316300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16b
+4dd
+=2
+16a
+16b
+4dd
+=3
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=4
+{16b
+16cc
+4dd
+=5
+8dd
+8b
+8f#
+=6
+4g}
+8r
+!!LO:LB:g=esac
+=7
+{8a
+4g
+=8
+8a
+4b
+=9
+4cc}
+8r
+!!LO:LB:g=esac
+=10
+{16b
+16cc
+4dd
+=11
+8dd
+4b
+=12
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 259} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 259}
+!!!page: 259
+!!!ONB: Converted on 2024/12/26 with esac2hum

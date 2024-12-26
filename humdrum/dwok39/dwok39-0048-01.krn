@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3904800001-kiedy_bedzie_slonce_i_pogoda.krn
+!!!OTL: Kiedy będzie słońce i pogoda
+!!!source: DWOK39
+!!!id: 39048
+!!!signature: 3904800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8d
+8f#
+4g
+4a
+=2
+8g
+8b
+8b
+8dd
+8cc
+8a
+=3
+8g
+8b
+8b
+8dd
+8cc
+8a}
+!!LO:LB:g=esac
+=4
+{8b
+8b
+4g
+4a
+=5
+8d
+8d
+8d
+8f#
+8g
+8a}
+!!LO:LB:g=esac
+=6
+{8b
+8b
+4g
+4a
+=7
+8d
+8d
+8d
+8e
+8f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=172 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 120} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

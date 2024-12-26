@@ -1,0 +1,44 @@
+!!!!SEGMENT: DWOK0301200002-otworz_panie_szeroko_wrota.krn
+!!!OTL: Otworz panie szeroko wrota
+!!!source: DWOK03
+!!!id: K0012b
+!!!signature: 0301200002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8dd
+8ee
+8dd
+=2
+8ff
+8ee
+16dd
+16ee
+8cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8b
+8a
+8b
+=4
+2g
+=5
+8cc
+8b
+8a
+8b
+=6
+2g}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/003dwok.pdf#page=245 @PL{Oskar Kolberg Dzieła Wszystkie 3: Kujawy I, s. 233} @EN{Oskar Kolberg Complete Works 3: Kuyavia I (north central Poland), p. 233}
+!!!page: 233
+!!!ONB: Converted on 2024/12/26 with esac2hum

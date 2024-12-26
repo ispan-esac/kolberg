@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK4409000012-blogoslaw_nas_matko_moja.krn
+!!!OTL: Błogosław nas matko moja
+!!!source: DWOK44
+!!!id: 44090
+!!!signature: 4409000012
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16g
+8a
+8b
+=2
+8cc
+4a
+=3
+8cc
+4b}
+!!LO:LB:g=esac
+=4
+{16a
+16b
+8a
+8f#
+=5
+8g
+4a
+=6
+8cc
+4b}
+!!LO:LB:g=esac
+=7
+{16a
+16b
+8a
+8f#
+=8
+8g
+4a
+=9
+8g
+16f#
+16d}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=181 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 131} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 131}
+!!!page: 131
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1231900000-na_poznanskiej_ulicy.krn
+!!!OTL: Na poznańskiej ulicy
+!!!source: DWOK12
+!!!id: 12319
+!!!signature: 1231900000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8e
+8g
+8g
+8e
+=2
+8f
+8a
+4a
+=3
+8g
+8b
+4b
+=4
+8g
+8cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8e
+8g
+8g
+8e
+=6
+8f
+8a
+8a
+8a
+=7
+8g
+16b
+16dd
+8ff
+8dd
+=8
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 170} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 170}
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

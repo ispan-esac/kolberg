@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK5313400000-o_taj_dekuj_mociutej.krn
+!!!OTL: O! Taj dekuj mociutej
+!!!source: DWOK53
+!!!id: 53134
+!!!signature: 5313400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4cc
+4a
+=2
+4dd
+4a
+=3
+4cc
+4b
+=4
+2a}
+!!LO:LB:g=esac
+=5
+{4cc
+4a
+=6
+4dd
+4a
+=7
+4cc
+4b
+=8
+2a}
+!!LO:LB:g=esac
+=9
+{4a
+4a
+=10
+4ee
+4dd
+=11
+4ff
+4ee
+=12
+4dd
+4a}
+!!LO:LB:g=esac
+=13
+{4cc
+4cc
+=14
+4dd
+4a
+=15
+4cc
+4b
+=16
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 265} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 265}
+!!!page: 265
+!!!ONB: Converted on 2024/12/26 with esac2hum

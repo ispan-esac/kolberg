@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK7727700001-macka_mi_dac_macka_mi_dac.krn
+!!!OTL: Maćka mi dać Maćka mi dać
+!!!source: DWOK77
+!!!id: 77277
+!!!signature: 7727700001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+{12g
+12b
+12dd
+4ff
+4aa
+=1
+8aa
+8ff#
+4.gg
+8dd}
+!!LO:LB:g=esac
+=2
+{8gg
+8gg
+4ff#
+4dd
+=3
+8ff
+8ff
+4ee
+4cc}
+!!LO:LB:g=esac
+=
+{12g
+12cc
+12ee
+4ff
+4dd
+=4
+8ff
+8ff
+4ee
+4gg}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+4ff
+4dd
+=6
+8ff
+8ff
+4ee
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 151
+!!!ONB: Converted on 2024/12/26 with esac2hum

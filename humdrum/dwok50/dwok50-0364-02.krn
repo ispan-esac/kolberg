@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK5036400002-zaszumyly_luhy_rozlehly_sia_wilchy.krn
+!!!OTL: Zaszumyły łuhy, rozłehły sia wilchy
+!!!source: DWOK50
+!!!id: 50364
+!!!signature: 5036400002
+**kern
+*clefG2
+*k[f#]
+*G:
+{16a
+16g
+24cc
+24b
+24a
+8g
+=
+!!UNCATEGORIZED MEASURE
+24b
+24a
+24g
+4g
+=1
+*M2/8
+16dd
+16dd
+16cc
+16b
+=
+!!UNCATEGORIZED MEASURE
+16cc
+16a
+4a}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{16cc
+16b
+24cc
+24b
+24a
+8g
+=2
+*M3/8
+32cc
+32b
+32a
+32g
+4g
+=3
+8dd
+32cc
+32b
+32cc
+32g
+8a
+=4
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 190} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 190}
+!!!page: 190
+!!!ONB: Converted on 2024/12/26 with esac2hum

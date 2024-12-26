@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK2218100000-na_stodole_sowa_siada.krn
+!!!OTL: Na stodole sowa siada
+!!!source: DWOK22
+!!!id: 22181
+!!!signature: 2218100000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/8
+{16g
+16a
+8b
+8b
+=2
+4cc
+8a
+=3
+8dd
+4b
+=4
+16g
+16a
+8b
+8b
+=5
+4a
+8d
+=6
+8f#
+4g}
+!!LO:LB:g=esac
+=7
+{16g
+16a
+8b
+8b
+=8
+4cc
+8a
+=9
+8dd
+4b
+=10
+16g
+16a
+8b
+8b
+=11
+4a
+8d
+=12
+8f#
+4g}
+!!LO:LB:g=esac
+=13
+*M2/4
+{8b
+8g
+8cc
+8b
+=14
+8a
+8dd
+8b
+8a
+=15
+8b
+8g
+8cc
+8b
+=16
+8a
+8dd
+8b
+8a}
+!!LO:LB:g=esac
+=17
+*M3/8
+{16g
+16a
+8b
+8dd
+=18
+4a
+8d
+=19
+8f#
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 112} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 112}
+!!!page: 112
+!!!ONB: Converted on 2024/12/26 with esac2hum

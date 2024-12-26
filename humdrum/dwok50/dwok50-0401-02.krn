@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5040100002-a_j-a_wczera_iz_weczera_jiszcze_kury_ne_pily.krn
+!!!OTL: A j-a wczera iz weczera, jiszcze kury ne piły
+!!!source: DWOK50
+!!!id: 50401
+!!!signature: 5040100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8dd
+=2
+8dd
+8cc
+8b
+8a
+=3
+8a
+8ee
+8dd
+8cc
+=4
+8cc
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+8dd
+=6
+8dd
+8cc
+8b
+16a
+16g
+=7
+8g
+8b
+8cc
+16a
+16f#
+=8
+4.g
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=255 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 230} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 230}
+!!!page: 230
+!!!ONB: Converted on 2024/12/26 with esac2hum

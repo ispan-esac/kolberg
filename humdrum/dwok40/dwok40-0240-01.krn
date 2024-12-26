@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK4024000001-oj_juz_cie_odjezdzam.krn
+!!!OTL: Oj, już cię odjeżdżam
+!!!source: DWOK40
+!!!id: 40240
+!!!signature: 4024000001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8.dd
+16dd
+8dd
+8b
+8cc
+8a
+=2
+8.g
+16g
+8g
+8a
+8b
+8cc}
+!!LO:LB:g=esac
+=3
+{8.dd
+16dd
+8dd
+8b
+8cc
+8a
+=4
+8.g
+16g
+8g
+8a
+8b
+8cc}
+!!LO:LB:g=esac
+=5
+{4dd
+8dd
+8dd
+8dd
+8b
+=6
+8cc
+8dd
+2ee}
+!!LO:LB:g=esac
+=7
+{4dd
+8dd
+8b
+8cc
+8a
+=8
+8b
+8a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=330 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 271} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 271}
+!!!page: 271
+!!!ONB: Converted on 2024/12/26 with esac2hum

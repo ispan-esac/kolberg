@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK57181300000-oj_jwane_jwanoczku.krn
+!!!OTL: Oj, Jwane, Jwanoczku
+!!!source: DWOK57
+!!!id: 571813
+!!!signature: 57181300000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8dd
+8dd
+8dd
+8cc
+=2
+8b
+8a
+8a
+8a
+=3
+8cc
+8cc
+8dd
+16cc
+16b
+=4
+4cc
+4a}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+8cc
+=6
+8b
+8a
+8e
+8dd
+=7
+8cc
+8a
+8a
+8a
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 896
+!!!ONB: Converted on 2024/12/26 with esac2hum

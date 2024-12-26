@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK7512200002-a_skadzescie_w_tej_sukmanie.krn
+!!!OTL: A skądżeście w tej sukmanie
+!!!source: DWOK75
+!!!id: 75122
+!!!signature: 7512200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+{24g
+24a
+24b
+8cc
+16dd
+16b
+=1
+16.cc
+32ee
+16ff
+16ee
+16dd
+16b}
+!!LO:LB:g=esac
+=2
+{16.cc
+32ee
+16ee
+16dd
+16ee
+16ff#
+=3
+16.gg
+32ee
+16ff
+16ee
+16dd
+16cc}
+!!LO:LB:g=esac
+=4
+{16dd
+16ff#
+8.gg
+16b
+=5
+16cc
+16a
+8a
+8dd}
+!!LO:LB:g=esac
+=6
+{16g
+16b
+16b
+16g
+16a
+16b
+=7
+16cc
+16a
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=140 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 84} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 84}
+!!!page: 84
+!!!ONB: Converted on 2024/12/26 with esac2hum

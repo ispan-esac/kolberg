@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK2630000002-a_moj_jasienku_moj.krn
+!!!OTL: A mój Jasieńku mój
+!!!source: DWOK26
+!!!id: 26300
+!!!signature: 2630000002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8cc
+8ee
+=2
+8cc
+8.ee
+16dd
+=3
+8ee
+8ee
+32ee
+16.dd
+=4
+[8ee
+16ee]
+16b
+32cc
+32b
+32a}
+32r
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+=6
+8cc
+8.ee
+16dd
+=7
+8.dd
+16ee
+32cc
+32b
+32a}
+32r
+!!LO:LB:g=esac
+=8
+{8a
+8cc
+8dd
+=9
+[8ee
+32ee]
+32dd
+16b
+32cc
+32b
+16a
+=10
+8a
+32cc
+32b
+16a
+8a
+=11
+16a
+16g
+4g}
+!!LO:LB:g=esac
+=12
+{8ee
+8ee
+32ee
+16.dd
+=13
+[8ee
+32ee]
+32dd
+16b
+32cc
+32b
+16g#
+=14
+4a
+16a}
+16r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 238
+!!!ONB: Converted on 2024/12/26 with esac2hum

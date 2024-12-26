@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2532300002-tam_tam_tam_na_murawce.krn
+!!!OTL: Tam tam tam na murawce
+!!!source: DWOK25
+!!!id: 25323
+!!!signature: 2532300002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8b
+8cc
+=2
+4dd
+8ee
+=3
+8b
+4cc
+=4
+8g
+8b
+8cc
+=5
+4dd
+8ee
+=6
+8b
+4cc}
+!!LO:LB:g=esac
+=7
+{8gg
+8cc
+8cc
+=8
+8dd
+8b
+8g
+=9
+8gg
+8ee
+8cc
+=10
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=11
+{8g
+8b
+8cc
+=12
+4dd
+8ee
+=13
+8b
+4cc}
+==
+*-
+!!!ONB: Niekiedy przy weselu (przy oczepinach)
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=170 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 145} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 145}
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

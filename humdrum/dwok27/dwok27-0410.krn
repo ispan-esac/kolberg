@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK2741000000-instrumentalna-pasterski.krn
+!!!OTL: Instrumentalna-Pasterski
+!!!source: DWOK27
+!!!id: 27410
+!!!signature: 2741000000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16ff
+16ff
+8ee
+8cc
+=2
+16ee
+16gg
+8aa
+16ff
+16ee
+=
+24g
+24cc
+24ee
+8ff
+8dd
+=3
+16b-
+16g
+4e-}
+!!LO:LB:g=esac
+=4
+{8f
+8a
+8a
+=
+24a
+24f
+24a
+8b-
+8g
+=5
+16cc
+16ee
+8ff
+8dd
+=6
+16b-
+16g
+4e-}
+!!LO:LB:g=esac
+=
+{24g
+24cc
+24ee
+8ff
+8dd-
+=7
+16b-
+16g
+8e-
+8f
+=8
+16cc
+16ee
+8ff
+8dd-
+=9
+16b-
+16g
+4e-}
+!!LO:LB:g=esac
+=10
+{16a
+16f
+8e-
+8e-
+=
+24e-
+24g
+24b-
+8cc
+8e-
+=11
+16a
+16f
+8e-
+8f
+=12
+16a
+16f
+4e-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=371 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 352} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 352}
+!!!page: 352
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK77825a0000-o_ty_cos_zajela.krn
+!!!OTL: O ty, coś zajęła
+!!!source: DWOK77
+!!!id: 77825a
+!!!signature: 77825a0000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8b-
+4cc
+=2
+8cc
+4aa
+8gg
+=3
+8ff
+8ee
+8dd
+8cc
+=4
+8cc
+4b-
+8a}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b-
+=6
+8b-
+4gg
+8ff
+=7
+8ee
+8dd
+8cc
+8b-
+=8
+8b-
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 28
+!!!ONB: Converted on 2024/12/26 with esac2hum

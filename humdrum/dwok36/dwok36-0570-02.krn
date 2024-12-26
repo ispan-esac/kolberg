@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK3657000002-je_pohoda_bude_doszcz.krn
+!!!OTL: Je pohoda bude doszcz
+!!!source: DWOK36
+!!!id: 36570
+!!!signature: 3657000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8d
+8d
+4g
+=2
+8d
+8dd
+4b
+=3
+8cc
+8a
+8f#
+8d
+=4
+8g
+8b
+4dd}
+!!LO:LB:g=esac
+=5
+{8d
+8d
+8g
+8g
+=6
+8d
+8dd
+8b
+8b
+=7
+8cc
+8a
+8f#
+8f#
+=8
+8g
+8g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 382
+!!!ONB: Converted on 2024/12/26 with esac2hum

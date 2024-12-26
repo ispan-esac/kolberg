@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK42173700000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK42
+!!!id: 421737
+!!!signature: 42173700000
+**kern
+!!ERROR: invalid/exotic key signature required.
+*clefG2
+*d-:
+*M3/4
+=1
+{4aa--
+8aa--
+8bb--
+8aa--
+8gg-
+=2
+8aa--
+16ff-
+16ee--
+4dd--
+8ff-
+8gg--
+=3
+4aa--
+8aa--
+8bb--
+8aa--
+8gg-}
+!!LO:LB:g=esac
+=4
+{8aa--
+16ff-
+16ee--
+4dd--
+4cc
+=5
+8dd--
+16ee--
+16ff-
+4dd--
+8ff-
+8aa--
+=6
+8gg--
+16ff-
+16ee--
+4dd--
+8ee--
+8cc}
+!!LO:LB:g=esac
+=7
+{8dd--
+16ee--
+16ff-
+4dd--
+8ff-
+8aa--
+=8
+8gg--
+16ff-
+16ee--
+4dd--
+4cc
+=9
+8dd--
+16ee--
+16ff-
+4dd--
+4cc
+=10
+8dd--
+16ee--
+16ff-
+4dd--
+4cc}
+!!LO:LB:g=esac
+=11
+{8dd--
+16ee--
+16ff-
+4dd--
+4cc
+=12
+8dd--
+16ee--
+16ff-
+4dd--
+4cc}
+==
+*-
+!!!ONB: wariant w takcie6:+4b_+3b+2b+1b_5b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 167-168} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, pp. 167-168}
+!!!page: 167-168
+!!!ONB: Converted on 2024/12/26 with esac2hum

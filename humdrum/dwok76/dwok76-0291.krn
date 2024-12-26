@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7629100000-krakowiaczek_ci_ja_przyznajcie_mi_tego.krn
+!!!OTL: Krakowiaczek ci ja, przyznajcie mi tego
+!!!source: DWOK76
+!!!id: 76291
+!!!signature: 7629100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc#
+=2
+8dd
+4.dd
+=3
+8ee
+8dd
+16cc#
+16ee
+8dd
+=4
+8b
+4.g}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8cc
+8b
+=6
+8g
+4.a
+=7
+8b
+8b
+8.cc
+16dd
+=8
+8a
+4.g}
+==
+*-
+!!!ONB: Wariant t.3: 6_5_4#_5_; t.7: 3_234_.5
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 150} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 150}
+!!!page: 150
+!!!ONB: Converted on 2024/12/26 with esac2hum

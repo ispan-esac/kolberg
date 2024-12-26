@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK1340700020-instrumentalna-wiwat.krn
+!!!OTL: Instrumentalna-Wiwat
+!!!source: DWOK13
+!!!id: 13407
+!!!signature: 1340700020
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8b-
+8dd
+4ff
+=2
+8ee-
+8gg
+4ff
+=3
+8dd
+8dd
+8cc
+16ee-
+16cc
+=4
+4dd
+8b-
+16a
+16f}
+!!LO:LB:g=esac
+=5
+{8b-
+8dd
+4cc
+=6
+8dd
+8dd
+4cc
+=7
+8dd
+8b-
+8cc
+16ee-
+16cc
+=8
+4dd
+8b-
+16a
+16f}
+!!LO:LB:g=esac
+=9
+{8dd
+8dd
+8cc
+8ee-
+=10
+8dd
+8dd
+8cc
+8ee-
+=11
+8dd
+8b-
+8cc
+16ee-
+16cc
+=12
+4dd
+8b-
+16a
+16f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 170} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 170}
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

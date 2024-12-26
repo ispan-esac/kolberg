@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2543100000-oj_w_lesie_i_w_olsynie.krn
+!!!OTL: Oj w lesie i w olsynie
+!!!source: DWOK25
+!!!id: 25431
+!!!signature: 2543100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8d
+16f#
+16g
+=2
+16b
+16dd
+8ee
+8cc
+=3
+8a
+8d
+16f#
+16g
+=4
+16b
+16g
+8e
+8f#}
+!!LO:LB:g=esac
+=5
+{8a
+8d
+16f#
+16g
+=6
+16b
+16g
+8a
+8cc
+=7
+8a
+8d
+16f#
+16g
+=8
+16b
+16g
+8e
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=208 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 183} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 183}
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK4907500002-pasli_pasterze_woly.krn
+!!!OTL: Paśli pasterze woły
+!!!source: DWOK49
+!!!id: 49075
+!!!signature: 4907500002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4e
+4a
+4b
+=2
+4cc
+16a
+16b
+16cc
+16a
+4b
+=3
+4.b
+8g#
+4e}
+!!LO:LB:g=esac
+=4
+{4cc
+4ee
+4ee
+=
+24dd
+24ee
+24dd
+8cc
+2dd
+=5
+4dd
+2ee}
+!!LO:LB:g=esac
+=6
+{8dd#
+16cc
+16b
+8a
+8b
+8cc
+8a
+=7
+8a
+8b
+2ee}
+!!LO:LB:g=esac
+=
+{8dd#
+24dd#
+24cc
+24b
+4a
+8cc
+8g#
+=8
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=246 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 166} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 166}
+!!!page: 166
+!!!ONB: Converted on 2024/12/26 with esac2hum

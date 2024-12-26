@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK2311200000-oj_jablonecka_w_sadku_wisniowym.krn
+!!!OTL: Oj jabłonecka w sadku wiśniowym
+!!!source: DWOK23
+!!!id: 23112
+!!!signature: 2311200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4a
+8g
+16a
+16b
+4cc
+4g
+=2
+8cc
+8cc
+8b
+8dd
+4cc
+4g
+=3
+4cc
+8ee
+8ee
+4dd
+4g
+=4
+8cc
+8cc
+8b
+8b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=159 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 145} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 145}
+!!!page: 145
+!!!ONB: Converted on 2024/12/26 with esac2hum

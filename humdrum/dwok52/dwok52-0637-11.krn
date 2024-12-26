@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK5263700011-wejdz_luba_do_mojej_chatki.krn
+!!!OTL: Wejdź luba do mojej chatki
+!!!source: DWOK52
+!!!id: 52637
+!!!signature: 5263700011
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M6/8
+=1
+{8d
+8g
+8g
+8.b-
+16a
+8g
+=2
+8dd
+8cc
+8a
+8b-
+8a
+8g}
+!!LO:LB:g=esac
+=3
+{8b-
+8a
+8b-
+8cc
+8e-
+8a
+=4
+4.g
+4f#}
+8r
+!!LO:LB:g=esac
+=5
+{8dd
+8cc#
+8dd
+8ee-
+8cc
+8a
+=6
+4.dd
+4.b-}
+!!LO:LB:g=esac
+=7
+{8.b-
+16a
+8g
+8ee-
+8.dd
+16f#
+=8
+4.a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=472 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 407} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 407}
+!!!page: 407
+!!!ONB: Converted on 2024/12/26 with esac2hum

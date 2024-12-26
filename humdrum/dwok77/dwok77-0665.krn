@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK7766500000-oj_zle_orzes_parobecku_zle_orzes.krn
+!!!OTL: Oj źle orzes parobecku źle orzes
+!!!source: DWOK77
+!!!id: 77665
+!!!signature: 7766500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8b
+8cc
+4ee
+4gg
+=2
+8gg
+8ff#
+4dd
+4ff
+=3
+4gg
+4ee
+4cc
+=4
+8cc
+8b
+2g}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4ee
+8ee
+8dd
+=6
+8ee
+8ff
+4dd
+4b
+=7
+4cc
+4a
+4a
+=8
+8a
+8b
+2g}
+!!LO:LB:g=esac
+=9
+{8b
+8cc
+4ee
+4gg
+=10
+8gg
+8ff
+4dd
+4b
+=11
+8cc
+8ee
+4dd
+4b
+=12
+8cc
+8cc
+4.dd
+8b}
+!!LO:LB:g=esac
+=13
+{8dd
+8ff
+4ee
+4cc
+=14
+8cc
+8cc
+4dd
+4dd
+=15
+8dd
+8ff
+4ee
+4cc
+=16
+8cc
+8cc
+4.dd
+8b}
+==
+*-
+!!!ONB: takt 4 +175__  i taktu 8:  6+15__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 336-337
+!!!ONB: Converted on 2024/12/26 with esac2hum

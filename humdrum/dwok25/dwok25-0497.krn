@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2549700000-odwiezze_mnie_skades_mnie_wzion.krn
+!!!OTL: Odwieźze mnie skądeś mnie wzion
+!!!source: DWOK25
+!!!id: 25497
+!!!signature: 2549700000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16f
+32e
+32f
+8g
+8ff
+=2
+16ee
+16dd
+8cc
+16b
+16g
+=3
+16f
+32e
+32f
+8g
+8ff
+=4
+16ee
+16dd
+8cc
+16b
+16g}
+!!LO:LB:g=esac
+=5
+{16f
+32e
+32f
+8d
+16f
+16a
+=6
+16g
+16b
+16dd
+16cc
+16b
+16g
+=7
+16f
+32e
+32f
+8d
+16f
+16a
+=8
+16b
+32a
+32b
+8cc
+16b
+16g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=225 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 200} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 200}
+!!!page: 200
+!!!ONB: Converted on 2024/12/26 with esac2hum

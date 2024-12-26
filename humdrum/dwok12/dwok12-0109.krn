@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK1210900000-da_wszak_ja_tobie_powiadala.krn
+!!!OTL: Da wszak ja tobie powiadała
+!!!source: DWOK12
+!!!id: 12109
+!!!signature: 1210900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.f#
+32a
+8g
+16b
+16dd
+=2
+16cc
+16ee
+8.b
+16d
+=3
+16.f#
+32a
+8g
+16b
+16dd
+=4
+16cc
+16ee
+8.b
+16d}
+!!LO:LB:g=esac
+=5
+{16.f#
+32a
+8e
+8e
+=6
+8g
+8g
+16b
+16e
+=7
+16f#
+16a
+8e
+8e
+=8
+8g
+16g
+16f#
+8d}
+!!LO:LB:g=esac
+=9
+{16.f#
+32a
+8g
+16b
+16dd
+=10
+16cc
+16ee
+8.b
+16d
+=11
+16.f#
+32a
+8g
+16b
+16dd
+=12
+16cc
+16ee
+8.b
+16d}
+!!LO:LB:g=esac
+=13
+{16.f#
+32a
+8e
+8e
+=14
+8g
+8g
+16b
+16e
+=15
+16f#
+16a
+8e
+8e
+=16
+16g
+16g
+16g
+16f#
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 54} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 54}
+!!!page: 54
+!!!ONB: Converted on 2024/12/26 with esac2hum

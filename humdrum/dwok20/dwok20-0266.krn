@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK2026600000-moji_mili_swatkowie.krn
+!!!OTL: Moji mili swatkowie
+!!!source: DWOK20
+!!!id: 20266
+!!!signature: 2026600000
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+=1
+{8b
+8a
+8b
+8a
+=2
+4b
+4dd#
+=3
+4.ee
+8b}
+!!LO:LB:g=esac
+=4
+{8dd#
+8ee
+8ff#
+8dd#
+=5
+4ff#
+4ee
+=6
+2b}
+!!LO:LB:g=esac
+=7
+{8dd#
+8ee
+8ff#
+8dd#
+=8
+4ee
+16dd
+16cc#
+16b
+16cc#
+=9
+2b}
+!!LO:LB:g=esac
+=10
+{8b
+8ee
+8b
+8a
+=11
+4b
+16dd#
+16cc#
+8dd#
+=12
+4.ee
+8b}
+!!LO:LB:g=esac
+=13
+{8dd#
+8ee
+8ff#
+8dd#
+=14
+4ff#
+4ee
+=15
+2b}
+!!LO:LB:g=esac
+=16
+{8dd#
+8ee
+8ff#
+8dd#
+=17
+4ee
+16dd
+16cc#
+16b
+16cc#
+=18
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 209} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 209}
+!!!page: 209
+!!!ONB: Converted on 2024/12/26 with esac2hum

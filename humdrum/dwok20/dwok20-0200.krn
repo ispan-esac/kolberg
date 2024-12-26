@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK2020000000-uciekla_przepiorecka_w_proso.krn
+!!!OTL: Uciekła przepiórecka w proso
+!!!source: DWOK20
+!!!id: 20200
+!!!signature: 2020000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8g
+8b
+8d
+=2
+16g
+16a
+16b
+16cc
+16a
+16f#
+=3
+16g
+16g
+8b
+8d
+=4
+16f#
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{8dd
+8cc
+16a
+16f#
+=6
+16g
+16a
+16b
+16cc
+16dd
+16ee
+=
+24dd
+24ee
+24dd
+8cc
+16a
+16f#
+=7
+16g
+16b
+4g}
+!!LO:LB:g=esac
+=8
+{16dd
+16b
+8g
+8ee
+=9
+16dd
+16b
+8g
+8gg
+=10
+16dd
+16b
+8g
+8a
+=
+24a
+24b
+24cc
+8b
+8g}
+!!LO:LB:g=esac
+=11
+{8a
+8a
+8b
+=12
+16a
+16f#
+8a
+8b
+=13
+16a
+16f#
+8a
+8b
+=14
+16e
+16g
+8f#
+8d}
+==
+*-
+!!!ONB: Od 5 taktu fragment instrumentalny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=207 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 187} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 187}
+!!!page: 187
+!!!ONB: Converted on 2024/12/26 with esac2hum

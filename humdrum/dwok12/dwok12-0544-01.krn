@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1254400001-a_ja_wiem_nie_powiem.krn
+!!!OTL: A ja wiem, nie powiem
+!!!source: DWOK12
+!!!id: 12544
+!!!signature: 1254400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.dd
+16a
+8b
+=2
+16dd
+16ee
+4dd
+=3
+16g
+16b
+8a
+16cc
+16b
+=4
+16g
+16f#
+4d}
+!!LO:LB:g=esac
+=5
+{8.g
+16d
+8e
+=6
+16g
+16f#
+8a
+8d
+=7
+16g
+16b
+8a
+16cc
+16b
+=8
+16g
+16f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=296 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 280} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 280}
+!!!page: 280
+!!!ONB: Converted on 2024/12/26 with esac2hum

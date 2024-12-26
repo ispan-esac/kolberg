@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK1618300002-wila_marysia_wianeczek.krn
+!!!OTL: Wiła Marysia wianeczek
+!!!source: DWOK16
+!!!id: 16183
+!!!signature: 1618300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8cc
+8b
+=2
+8f#
+4g
+=3
+8a
+4cc
+=4
+8b
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+=6
+8cc
+4b
+=7
+8a
+4g
+=8
+8f#
+8d}
+8r
+!!LO:LB:g=esac
+=9
+{4.a
+=10
+8b
+8f#
+8g
+=11
+4.cc
+=12
+8b
+4g}
+!!LO:LB:g=esac
+=13
+{4a
+8a
+=14
+8b
+8f#
+8g
+=15
+4a
+8f#
+=16
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=214 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 194} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 194}
+!!!ONB: Converted on 2024/12/26 with esac2hum

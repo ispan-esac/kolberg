@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK0900300002-hej_nam_hej_hej_nam_hej.krn
+!!!OTL: Hej nam hej, hej nam hej
+!!!source: DWOK09
+!!!id: 09003
+!!!signature: 0900300002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8cc
+8a
+8cc
+=2
+16cc
+16b-
+4g
+=3
+8b-
+8g
+8b-
+=4
+16b-
+16a
+4f}
+!!LO:LB:g=esac
+=5
+{4f
+8f
+=6
+16dd
+16cc
+4cc
+=7
+8b-
+8g
+8b-
+=8
+16b-
+16a
+4a
+=9
+4f
+8f
+=10
+16dd
+16cc
+4cc
+=11
+8b-
+8g
+8b-
+=12
+16b-
+16a
+4a
+=13
+16cc
+16b-
+4g
+=14
+16b-
+16a
+4f
+=15
+8a
+8g
+8e
+=16
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=144 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 120} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 120}
+!!!page: 120
+!!!ONB: Converted on 2024/12/26 with esac2hum

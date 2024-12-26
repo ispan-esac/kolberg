@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2828800000-na_dworzu_desc_pada.krn
+!!!OTL: Na dworzu desc pada
+!!!source: DWOK28
+!!!id: 28288
+!!!signature: 2828800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8b
+8dd
+=2
+8cc
+8b
+8cc
+=3
+8g
+8b
+8dd
+=4
+8b
+4cc}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+8dd
+=6
+8cc
+8b
+8cc
+=7
+8g
+8b
+8dd
+=8
+8b
+4cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8.ee
+16dd
+=10
+8cc
+8.ee
+16ff
+=11
+4gg
+8ee
+=12
+8ff
+4dd}
+!!LO:LB:g=esac
+=13
+{8b
+8dd
+16dd
+16cc
+=14
+8b
+8dd
+16dd
+16ee
+=15
+4ff
+8dd
+=16
+8b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=291 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 272} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 272}
+!!!page: 272
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK0420300020-siedzi_tam_pani.krn
+!!!OTL: Siedzi tam pani
+!!!source: DWOK04
+!!!id: K0203
+!!!signature: 0420300020
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M6/8
+=1
+{8f
+16b-
+16dd
+8ff
+8f
+16b-
+16dd
+8ff
+=2
+8dd
+8cc
+8b-
+4b-
+8a}
+!!LO:LB:g=esac
+=3
+{8f
+16a
+16cc
+8ee-
+8a
+16cc
+16ee-
+8gg
+=4
+8f
+8g
+8a
+4.b-}
+==
+*-
+!!!ONB: Przygrywka instrumentalna. U Kolberga w t. 4 bład w zapisie rytmu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=120 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 106-107} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 106-107}
+!!!page: 106-107
+!!!ONB: Converted on 2024/12/26 with esac2hum

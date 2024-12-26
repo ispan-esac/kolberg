@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK06-K0398-hej_kozy_moje_kozy.krn
+!!!OTL: Hej kozy moje kozy
+!!!source: DWOK06
+!!!id: K0398
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{2dd
+=2
+8ee
+8dd
+4cc
+=3
+8b
+4g
+8a
+=4
+8b
+8b
+4cc
+=5
+8b
+4g
+8a}
+!!LO:LB:g=esac
+=6
+{8b
+8b
+8.cc
+16a
+=7
+8b
+8b
+8.cc
+16a
+=8
+8b
+8b
+8.cc
+16a
+=9
+8b
+4g
+8a}
+!!LO:LB:g=esac
+=10
+{2dd
+=11
+8ee
+8dd
+4cc
+=12
+8b
+4g
+8a
+=13
+8b
+8b
+4cc
+=14
+8b
+4g
+8a}
+!!LO:LB:g=esac
+=15
+{8b
+8b
+8.cc
+16a
+=16
+8b
+8b
+8.cc
+16a
+=17
+8b
+8b
+8.cc
+16a
+=18
+8b
+4g
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 208} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 208}
+!!!page: 208
+!!!ONB: Converted on 2024/12/26 with esac2hum

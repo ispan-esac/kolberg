@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK2254700020-niedaleko_koscielna_wies-instrumentalna.krn
+!!!OTL: Niedaleko Kościelna Wieś-instrumentalna
+!!!source: DWOK22
+!!!id: 22547
+!!!signature: 2254700020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=
+{24f
+24a
+24b-
+8cc
+16ee
+16dd
+=
+24b-
+24a
+24g
+8dd
+16cc
+16g
+=
+24f
+24a
+24b-
+8cc
+16dd
+16ee
+=
+24dd
+24cc
+24b-
+8dd
+8g}
+!!LO:LB:g=esac
+=1
+{16f
+16a
+8cc
+8b-
+=2
+16cc
+16dd
+8a
+8g
+=3
+16f
+16a
+8.cc
+16b-
+=4
+16a
+16g
+8f
+8g}
+!!LO:LB:g=esac
+=5
+{16f
+16a
+8cc
+8cc
+=6
+16a
+16g
+8dd
+8cc
+=7
+16f
+16a
+8cc
+8dd
+=8
+16cc
+16b-
+8f
+8g}
+!!LO:LB:g=esac
+=9
+{16f
+16a
+8cc
+8g
+=10
+16cc
+16dd
+8a
+8g
+=11
+16f
+16a
+8.cc
+16g
+=12
+16a
+16g
+8f
+8g}
+==
+*-
+!!!ONB: Partia instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 247-248} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, pp. 247-248}
+!!!page: 247-248
+!!!ONB: Converted on 2024/12/26 with esac2hum

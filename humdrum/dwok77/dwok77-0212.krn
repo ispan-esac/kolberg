@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7721200000-gdzie_ty_jedzies_opalony.krn
+!!!OTL: Gdzie ty jedzies opalony
+!!!source: DWOK77
+!!!id: 77212
+!!!signature: 7721200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16a
+16b-
+8.cc
+16a
+=2
+16ee-
+16gg
+8ff
+8cc}
+!!LO:LB:g=esac
+=3
+{16ee-
+16gg
+8ff
+8ff
+=4
+16dd
+16b-
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{16a
+16b-
+8.cc
+16a
+=6
+16b-
+16dd
+8cc
+8a}
+!!LO:LB:g=esac
+=7
+{16b-
+16b-
+8.cc
+16ee-
+=8
+16dd
+16b-
+8a
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 121
+!!!ONB: Converted on 2024/12/26 with esac2hum

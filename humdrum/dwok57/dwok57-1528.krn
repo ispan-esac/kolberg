@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK57152800000-oj_tam_pole_szyrokij.krn
+!!!OTL: Oj, tam połe szyrokij
+!!!source: DWOK57
+!!!id: 571528
+!!!signature: 57152800000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8cc
+8cc
+=2
+8b
+8a
+4g}
+!!LO:LB:g=esac
+=3
+{8a
+8a
+8.cc
+16a
+=4
+8g
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4ee
+=6
+4.dd
+8b
+=7
+8dd
+8dd
+4cc}
+==
+*-
+!!!ONB: Wariant t. 1: 5_7_+1_+1_; wariant t. 7: +2_+27+1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 563
+!!!ONB: Converted on 2024/12/26 with esac2hum

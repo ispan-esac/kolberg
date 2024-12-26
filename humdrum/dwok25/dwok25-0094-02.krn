@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK2509400002-przelecial_sokol_bez_ten_nowy_dwor.krn
+!!!OTL: Przeleciał sokół bez ten nowy dwór
+!!!source: DWOK25
+!!!id: 25094
+!!!signature: 2509400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+4.dd
+=3
+16cc
+16ee
+16gg
+16ff#
+8gg
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{16b
+16dd
+16dd
+16cc#
+8dd
+=6
+16a
+16cc#
+8.dd
+16b
+=7
+16g
+16a
+16b
+16cc
+8dd
+=8
+16a
+16g
+8f#
+8d}
+!!LO:LB:g=esac
+=9
+{16f#
+16g
+16b
+16a
+8f#
+=10
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 37} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1800900001-a_ty_strozu_nie_daj_psa.krn
+!!!OTL: A ty stróżu nie daj psa
+!!!source: DWOK18
+!!!id: 18009
+!!!signature: 1800900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+8dd
+4ee
+=3
+4dd
+8b}
+!!LO:LB:g=esac
+=4
+{8cc
+8b
+8a
+=5
+8b
+4cc
+=6
+8a
+4b
+=7
+4.g}
+!!LO:LB:g=esac
+=8
+{16g
+16a
+8b
+8cc
+=9
+4.dd
+=10
+16b
+16cc
+8a
+8f#
+=11
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=74 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 58} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

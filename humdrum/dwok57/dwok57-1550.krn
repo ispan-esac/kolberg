@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK57155000000-chodzili_oni_po_sadzie_w_lad.krn
+!!!OTL: Chodzili oni po sadzie w ląd
+!!!source: DWOK57
+!!!id: 571550
+!!!signature: 57155000000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4g
+8b
+8cc
+4.dd
+8ee
+=2
+4ff
+8ee
+8dd
+4ee}
+4r
+!!LO:LB:g=esac
+=3
+{4g
+8b
+8cc
+4.dd
+8ee
+=4
+4ff
+8ee
+8dd
+4ee}
+4r
+!!LO:LB:g=esac
+=5
+{4g
+8cc
+8dd
+4.ee
+8gg
+=6
+8gg
+8ee
+8ff
+8gg
+4.aa
+8aa}
+!!LO:LB:g=esac
+=7
+{4aa
+8dd
+8ee
+8gg
+8ff
+8ee
+8dd
+=8
+4cc
+8ee
+8dd
+4.cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 590
+!!!ONB: Converted on 2024/12/26 with esac2hum

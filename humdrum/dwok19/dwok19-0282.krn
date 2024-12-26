@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1928200000-oj_furmani_furmani.krn
+!!!OTL: Oj furmani, furmani
+!!!source: DWOK19
+!!!id: 19282
+!!!signature: 1928200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8cc
+16dd
+16ee
+8ff
+=2
+16gg
+16ee
+8dd
+8b
+=3
+8cc
+8g
+8b
+=4
+16cc
+16ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8gg
+8aa
+8ff
+=6
+16gg
+16ee
+16dd
+16ee
+16dd
+16b
+=7
+8cc
+8g
+8b
+=8
+16cc
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=101 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 87} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 87}
+!!!page: 87
+!!!ONB: Converted on 2024/12/26 with esac2hum

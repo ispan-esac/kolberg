@@ -1,0 +1,42 @@
+DWOK54
+CUT[O żuku]
+REG[Ruś Karpacka]
+TRD[DWOK54 Ruś Karpacka s. 267 O Żuku]
+FKT[]
+SIG[5401200000]
+KEY[54012   16  C 2/4]
+MEL[+5_+5_+5__  +6b_+6b_+6b_+5_  +4_+2_+3b__
+    +5_+5_+4_+3b_  +2_+3b_+4_.+3b  +3b_+3b_+2__  +1_+1_+1__
+    +5_+5_+4_.+3b  +2+3b+3b_+4_.+2  +3b_+3b_+2_.7  +1_+1_+1__ //]
+BEM[]
+
+DWOK54
+CUT[Sczo za horka za horoju]
+REG[Ruś Karpacka]
+TRD[DWOK54 Ruś Karpacka s. 321 Krzyworównia]
+FKT[]
+SIG[5403200000]
+KEY[54032   16  A 2/4]
+MEL[3b3b_.44_.  44_.55_.  11_.11_.
+    3b3b_.44_.  44_.55_.  11_.11_. //]
+BEM[]
+
+DWOK54
+CUT[O Hospody!]
+REG[Ruś Karpacka]
+TRD[DWOK54 Ruś Karpacka s. 334 Sniatyn. Na pogrzebie]
+FKT[]
+SIG[5403700001]
+KEY[54037   16  C FREI]
+MEL[+1_+3__+3_+3_+3_+3__+4__.+3_+2___  +1_+2_+2_+2_+2_+2_+2_+2_+2_+1+2+3__+3_+2_+1___ //]
+BEM[]
+
+DWOK54
+CUT[O Hospody!]
+REG[Ruś Karpacka]
+TRD[DWOK54 Ruś Karpacka s. 334 Sniatyn. Na pogrzebie]
+FKT[]
+SIG[5403700002]
+KEY[54037   16  C FREI]
+MEL[+1_+3_+3_+3_+3_+3_+3_+3_+2+3+4__.(+5+4+3)+2___+1_+2_+2_+2_+2_+2_+2_+2_+2_+1+2+3__(+3+4+3)(+2+17)+1___ //]
+BEM[]

@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK45218900000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK45
+!!!id: 452189
+!!!signature: 45218900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8a
+8b
+8cc
+8cc
+8cc
+8cc
+=2
+8b
+8a
+4b
+4g
+=3
+2.a}
+!!LO:LB:g=esac
+=4
+{8a
+8b
+8cc
+8cc
+8cc
+8cc
+=5
+8b
+8a
+4b
+4g
+=6
+2.g}
+!!LO:LB:g=esac
+=7
+{8cc
+8b
+8a
+8g
+8b
+8a
+=8
+8cc
+8b
+8a
+8g
+4b
+=9
+2.a}
+!!LO:LB:g=esac
+=10
+{8d
+8e
+8f#
+8g
+8a
+8g
+=11
+8cc
+8b
+8a
+8g
+4a
+=12
+2.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=453 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 435} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 435}
+!!!page: 435
+!!!ONB: Converted on 2024/12/26 with esac2hum

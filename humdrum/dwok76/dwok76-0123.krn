@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK7612300000-nie_bede_ja_tej_pszeniczki_zena.krn
+!!!OTL: Nie będę ja tej pszeniczki żęna
+!!!source: DWOK76
+!!!id: 76123
+!!!signature: 7612300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+4dd
+4dd
+=2
+8dd
+8dd
+4dd
+4dd
+=3
+4dd
+2ee
+=4
+8a
+8b
+4cc
+4cc
+=5
+8cc
+8cc
+4cc
+4cc
+=6
+4cc
+2dd}
+!!LO:LB:g=esac
+=7
+{8g
+8a
+4b
+4b
+=8
+8b
+8b
+4b
+4b
+=9
+4b
+2cc
+=10
+8f#
+8g
+4a
+4a
+=11
+8cc
+8a
+4f#
+4a
+=12
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=103 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 67} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 67}
+!!!page: 67
+!!!ONB: Converted on 2024/12/26 with esac2hum

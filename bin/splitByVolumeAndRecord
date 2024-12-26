@@ -1,0 +1,241 @@
+#!/usr/bin/env perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Tue Dec 24 00:16:01 PST 2024
+# Last Modified: Tue Dec 24 00:16:04 PST 2024
+# Filename:      splitByVolumeAndRecord
+# Syntax:        perl 5
+#
+# Description:   Split a multi-record EsAC file into separate records,
+#                specifically for Kolberg songs, split into separate
+#                directories by volume number.
+#
+
+use strict;
+
+my $targetdir = "esac";
+`mkdir -p "$targetdir"`;
+
+my @contents = <>;
+for (my $i=0; $i<@contents; $i++) {
+	$contents[$i] =~ s/[\n\r]+$//;
+}
+
+
+die "Usage: $0 dwok-file.txt" if @contents == 0;
+
+for (my $i=0; $i < @contents; $i++) {
+	my $initialI = $i;
+	my $record;
+	($i, $record) = extractRecord($i, @contents);
+	saveRecord($initialI, $i, $record);
+}
+
+exit(0);
+
+###########################################################################
+
+
+##############################
+##
+## saveRecord --  Save an EsAC record to a single-record file.
+##
+
+sub saveRecord {
+	my ($starti, $endi, $record) = @_;
+	my $startLine = $starti + 1;
+	my $endLine = $endi;
+	return if $record =~ /^\s*$/;
+	my @data = split(/\n/, $record);
+	my $first = $data[0];
+	if ($first !~ /dwok(\d\d[A-Za-z]?)\s*$/i) {
+		die "Problem with record from $startLine to $endLine of input data\n";
+	}
+	my $volume = $1;
+	my $sigVolume = getSigVolume($record);
+	if ($sigVolume =~ /^\d\d[A-G]$/i) {
+		$volume = lc($sigVolume);
+	}
+	$volume = lc($volume);
+	my $subdir = "$targetdir/dwok$volume";
+	`mkdir -p "$subdir"`;
+	my $number = getSongNumber(@data);
+	my $filename = "$targetdir/dwok$volume/dwok$volume-$number.txt";
+	die "$filename already exists for data at $startLine to $endLine\n" if -r $filename;
+	open (FILE, ">$filename") or die "Cannot write to $filename\n";
+	print FILE $record;
+	close FILE;
+	print "Creating $filename\n";
+}
+
+
+
+##############################
+##
+## getSigVolume --
+##
+
+sub getSigVolume {
+	my ($record) = @_;
+	my $output = "";
+	my @data = split(/\n/, $record);
+	for (my $i=0; $i<@data; $i++) {
+		my $line = $data[$i];
+		if ($line =~ /^DWOK(\d\d[^\s]?)\s*$/) {
+			$output = $1;
+		}
+		if ($line =~ /^SIG\[\s*(.*?)\s*\]\s*$/) {
+			my $sig = $1;
+			if ($sig = /K?(\d\d[A-G])/) {
+				my $output = lc($1);
+				return $output;
+			}
+		}
+	}
+	return $output;
+}
+
+
+
+##############################
+##
+## getSongNumber -- The song number is the first parameter of the KEY[] entry.  If the
+##    number starts with "K" (for Kolberg), then there is no volume number, and the song
+##    number followed the K character.   If there is no "K" and the first entry start
+##    with a digit, then the first two digits are the volume number and the rest are the
+##    song number.  There can be a letter following the number, which either means a
+##    song variant or a splitting of the song by a key change (only one key per EsAC
+##    record, so a song with a key change will be placed into two separate records.
+##
+
+sub getSongNumber {
+	my @data = @_;
+	my $keyIndex = 0;
+	my $sigIndex = 0;
+	my $volume;
+	if ($data[0] =~ /^DWOK(\d\d[A-Z]?)\s*$/) {
+		$volume = lc($1);
+	} else {
+		die "Problem with DWOK LINE AT START OF DATA:\n", join("\n", @data), "\n";
+	}
+	for (my $i=0; $i<@data; $i++) {
+		my $line = $data[$i];
+		if ($line =~ /^KEY\[/) {
+			$keyIndex = $i;
+		}
+		if ($line =~ /^SIG\[/) {
+			$sigIndex = $i;
+		}
+	}
+	if ($keyIndex == 0) {
+		print STDERR "Cannot find KEY record in data:\n";
+		print STDERR join("\n", @data), "\n";
+		die;
+	}
+	my $line = $data[$keyIndex];
+	if ($line !~ /KEY\[\s*([^\s]+)/) {
+		print STDERR "Cannot find ID in KEY record in data:\n";
+		print STDERR join("\n", @data), "\n";
+		die;
+	}
+	my $id = $1;
+	if ($id =~ /^K/i) {
+		$id =~ s/^k//i;
+	} elsif ($id =~ /^\d{2}[A-Z]?(.*)/) {
+		$id = $1;
+	} else {
+		print STDERR "Problem 1 with ID $id on line $line from data:\n";
+		print STDERR join("\n", @data), "\n";
+		print STDERR "ID does not start with K or two digits: $id\n";
+		die;
+	}
+
+	if ($id !~ /^(\d+)/) {
+		print STDERR "Problem 2 with ID $id on line $line from data:\n";
+		print STDERR join("\n", @data), "\n";
+		print STDERR "ID does not start with a digit: $id\n";
+		die;
+	}
+
+	my $count = length($id);
+	if ($id =~ /^(\d+)/) {
+		$count = length($1);
+	}
+
+	if ($count > 4) {
+		if ($id =~ /^$volume/) {
+			$id =~ s/^$volume//;
+		}
+		$count -= 2;
+	}
+
+	if ($count == 1) {
+		$id = "000$id";
+	} elsif ($count == 2) {
+		$id = "00$id";
+	} elsif ($count == 3) {
+		$id = "0$id";
+	} elsif ($count == 4) {
+		# do nothing
+	} else {
+		print STDERR "Problem with ID $id on line $line from data:\n";
+		print STDERR join("\n", @data), "\n";
+		die;
+	}
+
+	if (!$sigIndex) {
+		# no sig parameter
+		return $id;
+	}
+
+	my $sig = $data[$sigIndex];
+	if ($sig =~ /(\d\d)\s*[]]\s*$/) {
+		my $postfix = $1;
+		if (($postfix ne "00") && ($postfix !~ /^\s*$/)) {
+			$id .= "-$postfix";
+		}
+	}
+
+	return $id;
+}
+
+
+
+##############################
+##
+## extractRecord -- Extract one melody record from a file containing multiple
+##     entries in a single file.
+##
+
+sub extractRecord {
+	my ($index, @contents) = @_;
+	my $output = "";
+	my $found = 0;
+	my $i;
+	for ($i=$index; $i<@contents; $i++) {
+		if ($i > $index + 100) {
+			die "LINE PROCESSING TOO LARGE AT $i\n";
+		}
+		my $line = $contents[$i];
+		next if $line =~ /^\s*$/;
+
+		if ($found != 0) {
+			if ($line =~ /^DWOK/) {
+				return ($i-1, $output);
+			}
+		} 
+
+		if ($found == 0) {
+			if ($line !~ /^DWOK/) {
+				die "Expecting first line to start with DWOK:\n$line\n";
+			}
+			$found = 1;
+		}
+
+		$output .= "$line\n";
+	}
+	return ($i, $output);
+}
+
+
+

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2121200010-tam_daleko_za_gorami.krn
+!!!OTL: Tam daleko za górami
+!!!source: DWOK21
+!!!id: 21212
+!!!signature: 2121200010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+16g
+16f#
+=2
+8a
+8cc
+8ee
+8dd
+=3
+16cc
+16b
+8a
+8b
+16g
+16f#
+=4
+8d
+4e
+8f#}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+8b
+8g
+=6
+8d
+8cc
+8a
+8f#
+=7
+8g
+8a
+8b
+8g
+=8
+8d
+4e
+8f#}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=121 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 103} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 103}
+!!!page: 103
+!!!ONB: Converted on 2024/12/26 with esac2hum

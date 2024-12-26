@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK57150000000-oj_mamuniu_mamunenku.krn
+!!!OTL: Oj mamuniu, mamuneńku
+!!!source: DWOK57
+!!!id: 571500
+!!!signature: 57150000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8ee
+8ee
+8ee
+=2
+8ff#
+8ee
+8dd
+8cc
+=3
+8cc
+8ee
+8ee
+8ee
+=4
+4ee
+16dd
+16cc
+16b
+16cc}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+8dd
+=6
+8b
+8b
+8cc
+8cc
+=7
+8cc
+8cc
+8b
+8g#
+=8
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 544
+!!!ONB: Converted on 2024/12/26 with esac2hum

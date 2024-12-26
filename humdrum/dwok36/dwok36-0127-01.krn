@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK3612700001-zelenaja_liszczynonka.krn
+!!!OTL: Zełenaja liszczynońka
+!!!source: DWOK36
+!!!id: 36127
+!!!signature: 3612700001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8b
+8a
+8b
+=2
+4cc
+4b
+=3
+4a
+4g#}
+!!LO:LB:g=esac
+=4
+{8b
+8cc
+8b
+8a
+=5
+4g#
+8g#
+8d
+=6
+2e
+=7
+4d}
+4r
+!!LO:LB:g=esac
+=8
+{8e
+8e
+8e
+8g#
+=9
+8a
+8a
+4a
+=10
+8b
+8a
+4g#}
+!!LO:LB:g=esac
+=11
+{8b
+8cc
+8b
+8a
+=12
+4g#
+8e
+8d
+=13
+2e
+=14
+4e}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 71
+!!!ONB: Converted on 2024/12/26 with esac2hum

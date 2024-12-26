@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1334500001-ej_dziewucho.krn
+!!!OTL: Ej dziewucho
+!!!source: DWOK13
+!!!id: 13345
+!!!signature: 1334500001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ff
+8aa
+4.gg
+8dd
+=2
+4cc
+8ee
+8ff
+4dd
+=3
+8ff
+8aa
+8gg
+8ff
+8gg
+8dd
+=4
+4cc
+8ee
+8ff
+4dd}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4.cc
+8g
+=6
+4f
+8a
+8b
+4dd
+=7
+8b
+8dd
+4.cc
+8g
+=8
+4f
+8a
+8b
+4g}
+==
+*-
+!!!ONB: Alternatywnie możliwe kodowanie w G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 150} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 150}
+!!!page: 150
+!!!ONB: Converted on 2024/12/26 with esac2hum

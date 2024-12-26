@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1108300000-posed_kusy_na_orzechy.krn
+!!!OTL: Posed kusy na orzechy
+!!!source: DWOK11
+!!!id: 11083
+!!!signature: 1108300000
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16d
+16f#
+8a
+8dd
+=2
+16b
+16b
+8g
+16e
+16c#
+=3
+16d
+16f#
+8.a
+16A
+=4
+16c#
+16c#
+8e
+8d}
+!!LO:LB:g=esac
+=5
+{8f#
+8f#
+8f#
+=6
+16e
+16e
+8g
+8b
+=7
+8f#
+8f#
+8f#
+=8
+16c#
+16c#
+8e
+8d}
+!!LO:LB:g=esac
+=9
+{8f#
+8f#
+8f#
+=10
+16e
+16e
+8g
+8b
+=11
+8f#
+8f#
+8f#
+=12
+16c#
+16c#
+8e
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=213 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 195-196} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, pp. 195-196}
+!!!page: 195-196
+!!!ONB: Converted on 2024/12/26 with esac2hum

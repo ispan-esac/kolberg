@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK5065500000-gdy_wieczorna_wschodzi_zorza.krn
+!!!OTL: Gdy wieczorna wschodzi zorza
+!!!source: DWOK50
+!!!id: 50655
+!!!signature: 5065500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8a
+8cc
+4.ff
+8ee
+=2
+8dd
+8cc
+4.a
+8cc
+=3
+8cc
+8cc
+8dd
+8cc
+8b-
+8g
+=4
+2a}
+4r
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+4.ff
+8ee
+=6
+8dd
+8cc
+4.a
+8cc
+=7
+8cc
+8cc
+8dd
+8cc
+8b-
+8e
+=8
+2f}
+4r
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+4.dd
+8cc
+=10
+8b-
+8cc
+4.aa
+8ff
+=11
+8gg
+8ff
+8ee
+8dd
+8cc
+8b-
+=12
+2.a}
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+4.ff
+8ee
+=14
+8ee
+8dd
+4.g
+8dd
+=15
+8dd
+8cc
+8cc
+8cc
+8b-
+8e
+=16
+4f}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=429 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 396} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 396}
+!!!page: 396
+!!!ONB: Converted on 2024/12/26 with esac2hum

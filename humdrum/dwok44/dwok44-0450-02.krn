@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4445000002-na_zelenyj_uboczy.krn
+!!!OTL: Na zełenyj uboczy
+!!!source: DWOK44
+!!!id: 44450
+!!!signature: 4445000002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16e
+8f#
+8g
+=2
+8a
+8b
+8g
+=3
+16a
+16cc
+8b
+8dd
+=4
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8b
+4cc
+=6
+16b
+16a
+4g
+=7
+4.a}
+!!LO:LB:g=esac
+=8
+{8dd
+8cc
+8b
+=9
+16a
+16g
+4a
+=10
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=319 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 265} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 265}
+!!!page: 265
+!!!ONB: Converted on 2024/12/26 with esac2hum

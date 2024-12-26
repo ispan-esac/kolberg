@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK3662200000-hejze_gracko_z_miejsc_panowie.krn
+!!!OTL: Hejże gracko z miejsc panowie
+!!!source: DWOK36
+!!!id: 36622
+!!!signature: 3662200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8g
+4.ff#
+8b
+=2
+8cc
+8dd
+4.ee
+8cc
+=3
+8g
+8g
+4.ff#
+8b
+=4
+4dd
+2cc}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4dd
+4ee
+=6
+8dd
+8cc#
+4dd
+4b
+=7
+8cc
+8b
+4a
+4dd
+=8
+4b
+2g}
+!!LO:LB:g=esac
+=9
+{8b
+8cc
+4dd
+4ee
+=10
+8dd
+8cc#
+4dd
+4b
+=11
+8cc
+8b
+4a
+4dd
+=12
+4b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 406
+!!!ONB: Converted on 2024/12/26 with esac2hum

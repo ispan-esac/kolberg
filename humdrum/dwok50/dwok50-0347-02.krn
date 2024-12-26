@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK5034700002-tam_po_hori_po_dolyni.krn
+!!!OTL: Tam po hori, po dolyni
+!!!source: DWOK50
+!!!id: 50347
+!!!signature: 5034700002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=
+{8a
+8b
+4.ee
+24dd
+24cc
+24b
+=1
+8cc
+8b
+4a
+4g#
+=2
+8ff
+8ee
+8dd
+8cc
+4cc
+=3
+8dd
+8ee
+2ee}
+!!LO:LB:g=esac
+=
+{8a
+8b
+4.ee
+24dd
+24cc
+24b
+=4
+8cc
+8b
+4a
+4g#
+=5
+8ff
+8ee
+8dd
+8ee
+4ee
+=6
+8cc
+8a
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 181} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 181}
+!!!page: 181
+!!!ONB: Converted on 2024/12/26 with esac2hum

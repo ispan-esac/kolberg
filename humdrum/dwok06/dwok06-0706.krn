@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK06-K0706-padla_rosa_padla.krn
+!!!OTL: Padla rosa padla
+!!!source: DWOK06
+!!!id: K0706
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8f
+8a
+4cc
+=2
+8b-
+4g
+8f
+=3
+8a
+8a
+4g
+=4
+8g
+4cc
+8a}
+!!LO:LB:g=esac
+=5
+{8f
+8a
+4cc
+=6
+8b-
+4g
+8f
+=7
+8a
+8a
+4g
+=8
+8g
+4e
+8f}
+!!LO:LB:g=esac
+=9
+{8c
+16f
+16a
+4cc
+=10
+8b-
+4g
+8f
+=11
+8c
+16f
+16a
+4cc
+=12
+8g
+4e
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=465 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 439} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 439}
+!!!page: 439
+!!!ONB: Converted on 2024/12/26 with esac2hum

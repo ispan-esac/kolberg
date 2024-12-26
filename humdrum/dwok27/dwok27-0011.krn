@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK2701100000-o_panno_patronko.krn
+!!!OTL: O Panno patronko
+!!!source: DWOK27
+!!!id: 27011
+!!!signature: 2701100000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8f
+4b-
+=2
+8dd
+4b-
+=3
+4.g
+=4
+8f}
+4r
+!!LO:LB:g=esac
+=5
+{8dd
+4ff
+=6
+8ee-
+4dd
+=7
+4.dd
+=8
+8cc}
+4r
+!!LO:LB:g=esac
+=9
+{8dd
+4ff
+=10
+8ee-
+4cc
+=11
+8dd
+4b-
+=12
+8g
+8f}
+8r
+!!LO:LB:g=esac
+=13
+{8f
+4b-
+=14
+8dd
+4a
+=15
+4.b-
+=16
+4b-}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 130} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 130}
+!!!page: 130
+!!!ONB: Converted on 2024/12/26 with esac2hum

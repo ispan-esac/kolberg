@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK06-K0807-uciecs_ze_sie_ucies.krn
+!!!OTL: Uciecs ze sie ucies
+!!!source: DWOK06
+!!!id: K0807
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8g
+8ff
+4ff
+=2
+8ff
+8ee
+4ee
+=3
+8dd
+8dd
+8dd
+8ff
+=4
+8dd
+8cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8b-
+8dd
+4b-
+=6
+8dd
+8cc
+4cc
+=7
+8.b-
+16g
+8g
+8g
+=8
+8g
+8f
+4f}
+!!LO:LB:g=esac
+=9
+{8b-
+8dd
+4b-
+=10
+8a
+8cc
+4f
+=11
+8g
+8a
+8b-
+8g
+=12
+8f
+8a
+4cc}
+!!LO:LB:g=esac
+=13
+{8b-
+8dd
+4b-
+=14
+8a
+8cc
+4f
+=15
+16g
+16a
+16b-
+16g
+8e
+8g
+=16
+8g
+8f
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=510 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 484} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 484}
+!!!page: 484
+!!!ONB: Converted on 2024/12/26 with esac2hum

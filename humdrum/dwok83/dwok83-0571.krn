@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK8357100000-wezme_ja_se_rozineczke.krn
+!!!OTL: Wezmę ja se Rózineczkę
+!!!source: DWOK83
+!!!id: 83571
+!!!signature: 8357100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+16ee
+16ff#
+=2
+8gg
+8b
+8cc
+8ee}
+!!LO:LB:g=esac
+=3
+{8b
+8dd
+8dd
+16ee
+16ff#
+=4
+8gg
+8b
+8cc
+8a}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8cc
+8cc
+=6
+8b
+8b
+8dd
+8dd}
+!!LO:LB:g=esac
+=7
+{8b
+8b
+8cc
+8cc
+=8
+8b
+8a
+8g
+8g}
+==
+*-
+!!!ONB: Alternatywnie t. 1-4: 1_3_3_45  6_1_2_4_  1_3_3_45  6_3_4_2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=467 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 356} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 356}
+!!!page: 356
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK7509300000-kosciolek_z_desculek.krn
+!!!OTL: Kościółek z descułek
+!!!source: DWOK75
+!!!id: 75093
+!!!signature: 7509300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4g
+4cc
+4dd
+=2
+4ee
+4ee
+4ff
+=3
+4ee
+4ee
+4ff}
+!!LO:LB:g=esac
+=4
+{4ee
+4ee
+4dd
+=5
+4cc
+2ff
+=6
+4ee
+4ee
+4dd
+=7
+4cc
+2g}
+!!LO:LB:g=esac
+=8
+{4cc
+4ee
+4dd
+=9
+4dd
+8g
+8a
+4b
+=10
+4cc
+4ee
+4dd
+=11
+4cc
+4g
+4b}
+!!LO:LB:g=esac
+=12
+{4cc
+4ee
+4dd
+=13
+4cc
+2ff
+=14
+4ee
+4dd
+4cc
+=15
+8cc
+8b
+2g}
+==
+*-
+!!!ONB: Wariant t. 7: 431__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/075dwok.pdf#page=119 @PL{Oskar Kolberg Dzieła Wszystkie 75: Lubelskie. Supplement do tomów 16-17, s. 63} @EN{Oskar Kolberg Complete Works 75: Lublin: Supplement to volumes 16-17, p. 63}
+!!!page: 63
+!!!ONB: Converted on 2024/12/26 with esac2hum

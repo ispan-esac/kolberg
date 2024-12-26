@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK5054300000-ydoskiego_boga_zlapalem_w_kapuscie.krn
+!!!OTL: Żydoskiego boga złapałem w kapuście
+!!!source: DWOK50
+!!!id: 50543
+!!!signature: 5054300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8ee
+8ee
+4ee
+=2
+8ee
+4dd
+8dd
+=3
+8dd
+8cc
+8a
+8a
+=4
+4e
+4g}
+!!LO:LB:g=esac
+=5
+{8f#
+8f#
+4e
+=6
+8g
+4g
+8b
+=7
+8dd
+8cc
+8a
+8a
+=8
+4e
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=350 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 321} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 321}
+!!!page: 321
+!!!ONB: Converted on 2024/12/26 with esac2hum

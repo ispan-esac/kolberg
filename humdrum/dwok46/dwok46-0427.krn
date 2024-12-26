@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4642700000-wszyscy_my_sie_pozenili_siostry_i_bracio_bracio.krn
+!!!OTL: Wszyscy my się pożenili siostry i bracio, bracio
+!!!source: DWOK46
+!!!id: 46427
+!!!signature: 4642700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8b
+8dd
+4cc#
+4dd
+=2
+8ee
+8ff#
+4cc#
+4dd
+=3
+8b
+8dd
+4cc#
+4dd
+=4
+4ee
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+4cc#
+4dd
+=6
+8ee
+8ff#
+4cc#
+4dd
+=7
+8b
+8dd
+4cc#
+4dd
+=8
+4ee
+4b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=301 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 267} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 267}
+!!!page: 267
+!!!ONB: Converted on 2024/12/26 with esac2hum

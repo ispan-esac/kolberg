@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK5262200000-alila_sie_popadia_na_swoju_biedoju.krn
+!!!OTL: Żaliła się popadia na swoju biedoju
+!!!source: DWOK52
+!!!id: 52622
+!!!signature: 5262200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8ee
+8ff
+8ff
+=2
+8dd
+8dd
+8ee
+8dd
+=3
+8cc
+8b
+8ee
+8g#
+=4
+8a
+8b
+8cc
+8dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8ff
+8ff
+=6
+8dd
+8dd
+8ee
+8dd
+=7
+8cc
+8b
+8ee
+8g#
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{4cc
+8cc
+8cc
+=10
+4cc
+4g
+=11
+4gg
+8gg
+8gg
+=12
+8aa
+8gg
+8ff
+8ee}
+!!LO:LB:g=esac
+=13
+{8dd
+8dd
+8dd
+8dd
+=14
+4.ee
+8cc
+=15
+8b
+8a
+8ee
+8g#
+=16
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=461 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 396} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 396}
+!!!page: 396
+!!!ONB: Converted on 2024/12/26 with esac2hum

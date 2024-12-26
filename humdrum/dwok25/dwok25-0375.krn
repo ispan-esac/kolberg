@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2537500000-oj_bodaj_cie_hultaju.krn
+!!!OTL: Oj bodaj cię hultaju
+!!!source: DWOK25
+!!!id: 25375
+!!!signature: 2537500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16b
+4cc
+=2
+16ee
+16gg
+8aa
+8ff
+=3
+8dd
+8b
+8cc
+=4
+32a
+32g
+16e
+8f
+8a}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+4cc
+=6
+16ee
+16gg
+8aa
+16ff
+16ee
+=7
+8dd
+8ee
+8gg
+=8
+32ee
+32ff
+16dd
+8b
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=195 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 170} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 170}
+!!!page: 170
+!!!ONB: Converted on 2024/12/26 with esac2hum

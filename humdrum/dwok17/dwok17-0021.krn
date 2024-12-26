@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK1702100000-zawitaj_ranna_jutrzenko.krn
+!!!OTL: Zawitaj ranna jutrzenko
+!!!source: DWOK17
+!!!id: 17021
+!!!signature: 1702100000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+{8cc
+4cc
+4dd
+=1
+4b
+4cc
+4dd
+=2
+4.ee
+8dd
+4cc}
+!!LO:LB:g=esac
+=3
+{4ee
+4ee
+4dd
+=4
+4.ee
+8dd
+4cc
+=5
+8ee
+4cc}
+8r
+4r
+!!LO:LB:g=esac
+=6
+{4cc
+4dd
+4a
+=7
+4dd
+4cc
+8r
+8dd}
+!!LO:LB:g=esac
+=
+{12cc
+12dd
+12ee
+12dd
+12cc
+12b
+12a
+12b
+12cc
+=8
+4dd
+4cc#
+8r
+8dd}
+!!LO:LB:g=esac
+=9
+{4dd
+4dd
+4dd
+=10
+4.ee
+8dd
+4cc
+=11
+8b
+4a}
+8r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 12} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 12}
+!!!page: 12
+!!!ONB: Converted on 2024/12/26 with esac2hum

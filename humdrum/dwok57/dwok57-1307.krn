@@ -1,0 +1,38 @@
+!!!!SEGMENT: DWOK57130700000-kolo_hau_pochadzaju.krn
+!!!OTL: Koło hau pochadżaju
+!!!source: DWOK57
+!!!id: 571307
+!!!signature: 57130700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4a
+4dd
+=2
+8cc
+8b
+4cc
+4g
+=3
+8cc
+8dd
+8ee
+8ee
+8dd
+8dd
+=4
+4ee
+2a}
+==
+*-
+!!!ONB: Wariant t. 3: 3b456b54
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 397
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK2718300000-a_wyjrzyjze_ku_warsawie.krn
+!!!OTL: A wyjrzyjze ku Warsawie
+!!!source: DWOK27
+!!!id: 27183
+!!!signature: 2718300000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16e
+16g#
+8a
+8b
+=2
+16cc
+16cc
+8.b
+16g#
+=3
+16g#
+16b
+8a
+8g#
+=4
+4.e}
+!!LO:LB:g=esac
+=5
+{8a
+8ee
+8ee
+=6
+16ff#
+16dd#
+8ee
+8ee
+=7
+16cc
+16ee
+8dd
+8cc
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{16e
+16g#
+8a
+8b
+=10
+16cc
+16a
+8.b
+16e
+=11
+16g#
+16b
+8a
+8g#
+=12
+4.e}
+!!LO:LB:g=esac
+=13
+{8a
+8ee
+8ee
+=14
+16dd#
+16dd#
+8.ee
+16a
+=15
+16cc
+16ee
+8dd
+8cc
+=16
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 247} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 247}
+!!!page: 247
+!!!ONB: Converted on 2024/12/26 with esac2hum

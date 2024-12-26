@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK06-K0862-gdzies_chodzila.krn
+!!!OTL: Gdzies chodzila
+!!!source: DWOK06
+!!!id: K0862
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{4.d
+=2
+4.d}
+!!LO:LB:g=esac
+=3
+{16a
+16b
+4cc
+=4
+16b
+16a
+8g
+8f#
+=5
+16a
+16cc
+8.g
+16a
+=6
+16b
+16a
+8g
+8f#}
+!!LO:LB:g=esac
+=7
+{16a
+16cc
+8.g
+16a
+=8
+16b
+16a
+8g
+8a
+=9
+16a
+16cc
+8.g
+16a
+=10
+16b
+16a
+8g
+8f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=531 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 505} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 505}
+!!!page: 505
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK3338100000-oj_zapalajcie_jare_swice.krn
+!!!OTL: Oj zapalajcie jare świce
+!!!source: DWOK33
+!!!id: 33381
+!!!signature: 3338100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8dd
+=2
+4cc
+8cc
+=3
+8dd
+8b
+8a
+=4
+4g
+8b}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8dd
+=6
+4cc
+8cc
+=7
+8dd
+8b
+8a
+=8
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/033dwok.pdf#page=382 @PL{Oskar Kolberg Dzieła Wszystkie 33: Chełmskie I, s. 340} @EN{Oskar Kolberg Complete Works 33: Chełm Voivodeship I, p. 340}
+!!!page: 340
+!!!ONB: Converted on 2024/12/26 with esac2hum

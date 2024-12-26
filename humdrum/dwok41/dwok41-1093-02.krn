@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK41109300002-a_ja_jestem_owczarz.krn
+!!!OTL: A ja jestem owczarz
+!!!source: DWOK41
+!!!id: 411093
+!!!signature: 41109300002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8b
+8dd
+8dd
+8ff
+8ff
+=2
+8ee
+8ee
+8dd
+8dd
+8ff
+8ff
+=
+8gg
+8ee
+4cc
+12a
+12b
+12cc
+=3
+8dd
+8b
+4g}
+4r
+!!LO:LB:g=esac
+=4
+{4cc
+4cc
+4ee
+=5
+8dd
+8cc
+8b
+8cc
+8dd
+8b
+=6
+8cc
+8cc
+4cc
+4ee
+=7
+8dd
+8cc
+8b
+8cc
+8dd
+8b}
+!!LO:LB:g=esac
+=8
+{8cc
+8b
+4a
+8ee
+8dd
+=9
+8b
+8cc
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=551 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 464} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 464}
+!!!page: 464
+!!!ONB: Converted on 2024/12/26 with esac2hum

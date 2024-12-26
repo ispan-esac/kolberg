@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5578200000-czy_czule_wy_lude.krn
+!!!OTL: Czy czułe wy lude
+!!!source: DWOK55
+!!!id: 55782
+!!!signature: 5578200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4.cc
+8dd
+=2
+4b
+4g
+4r
+=3
+8a
+8cc
+4.ee
+8cc
+=4
+4b
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4.cc
+8a
+=6
+4b
+4a
+4r
+=7
+8b
+8b
+4.cc
+8g#
+=8
+4a
+4a}
+4r
+==
+*-
+!!!ONB: Wariant t. 1: 3b3b2_.4; wariant t. 4: 1_-7b_0_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=241 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 216} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 216}
+!!!page: 216
+!!!ONB: Converted on 2024/12/26 with esac2hum

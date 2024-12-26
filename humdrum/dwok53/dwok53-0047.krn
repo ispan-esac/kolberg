@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK5304700000-mociutes_dvarely_auga.krn
+!!!OTL: Mociutes dvarely auga
+!!!source: DWOK53
+!!!id: 53047
+!!!signature: 5304700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4g
+4b
+=2
+4a
+4cc}
+!!LO:LB:g=esac
+=3
+{2b
+=4
+2a}
+!!LO:LB:g=esac
+=5
+{4b
+4dd
+=6
+4dd
+4ee}
+!!LO:LB:g=esac
+=7
+{2dd
+=8
+2b}
+!!LO:LB:g=esac
+=9
+{4.dd
+8ee
+=10
+4dd
+4cc}
+!!LO:LB:g=esac
+=11
+{4dd
+4b
+=12
+4a
+4g}
+!!LO:LB:g=esac
+=13
+{4dd
+4ee
+=14
+4dd
+4cc}
+!!LO:LB:g=esac
+=15
+{4b
+4b
+=16
+4.dd
+8ee}
+!!LO:LB:g=esac
+=17
+{4dd
+4cc
+=18
+4dd
+4b}
+!!LO:LB:g=esac
+=19
+{4a
+4g
+=20
+4dd
+4ee}
+!!LO:LB:g=esac
+=21
+{4dd
+4cc
+=22
+4b
+4b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=242 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 206} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 206}
+!!!page: 206
+!!!ONB: Converted on 2024/12/26 with esac2hum

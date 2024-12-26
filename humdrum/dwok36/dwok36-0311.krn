@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK3631100000-oj_semene_semene.krn
+!!!OTL: Oj Semene Semene
+!!!source: DWOK36
+!!!id: 36311
+!!!signature: 3631100000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8dd
+8cc
+8b
+=2
+8cc
+8dd
+4ee
+=3
+8ee
+8dd
+8cc
+8b
+=4
+8a
+8g#
+4a}
+!!LO:LB:g=esac
+=5
+{16g#
+16a
+8cc
+16b
+16cc
+8dd
+=6
+16g#
+16a
+8cc
+16b
+16cc
+8dd
+=7
+8cc
+16b
+16b
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 192
+!!!ONB: Converted on 2024/12/26 with esac2hum

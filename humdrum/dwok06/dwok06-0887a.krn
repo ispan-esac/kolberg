@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK06-K0887a-drabant._marsz.krn
+!!!OTL: Drabant. Marsz
+!!!source: DWOK06
+!!!id: K0887a
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+8.cc
+16cc
+4cc
+8dd
+8ee
+=2
+8.ff
+16ee
+8dd
+8cc
+8b
+8a
+8b
+8g}
+!!LO:LB:g=esac
+=3
+{4cc
+8.cc
+16cc
+4.cc
+8ee
+=4
+8dd
+8cc
+8b
+8a
+2g}
+!!LO:LB:g=esac
+=5
+{4cc
+8.cc
+16cc
+4cc
+8dd
+8ee
+=6
+8.ff
+16ee
+8dd
+8cc
+8b
+8a
+8b
+8g}
+!!LO:LB:g=esac
+=7
+{4cc
+4ee
+4.gg
+8b
+=8
+4cc
+8.cc
+16cc
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=541 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 515} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 515}
+!!!page: 515
+!!!ONB: Converted on 2024/12/26 with esac2hum

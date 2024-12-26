@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4803700010-a_we_lwowie_na_gasiorze.krn
+!!!OTL: A we Lwowie na Gąsiorze
+!!!source: DWOK48
+!!!id: 48037
+!!!signature: 4803700010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+8dd
+8b
+=2
+8dd
+8b
+8g
+8g
+=3
+8cc
+8ee
+8gg
+8gg
+=4
+2dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8gg
+8ee
+=6
+8dd
+8dd
+8b
+8g
+=7
+8a
+8a
+8cc
+8a
+=8
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 110} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 110}
+!!!page: 110
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,88 @@
+!!!!SEGMENT: DWOK2517700000-jedzie_pan_z_dabrowy.krn
+!!!OTL: Jedzie pan z dąbrowy
+!!!source: DWOK25
+!!!id: 25177
+!!!signature: 2517700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8b
+8g
+8b
+=2
+4dd
+4g
+=3
+8b
+8dd
+8ee
+8cc
+=4
+4a
+4f#}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8a
+8g
+=6
+8b
+8dd
+8ee
+8cc
+=7
+8b
+8b
+8cc
+8a
+=8
+4f#
+4d}
+!!LO:LB:g=esac
+=9
+{8dd
+8b
+8g
+8b
+=10
+4dd
+4g
+=11
+8b
+8dd
+8ee
+8cc
+=12
+4a
+4f#}
+!!LO:LB:g=esac
+=13
+{8g
+8g
+8a
+8g
+=14
+8b
+8dd
+8ee
+8cc
+=15
+8b
+8b
+8cc
+8a
+=16
+4f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=102 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 77} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 77}
+!!!page: 77
+!!!ONB: Converted on 2024/12/26 with esac2hum

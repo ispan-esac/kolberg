@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4116300012-uboga_ja_sieroteczka.krn
+!!!OTL: Uboga ja sieroteczka
+!!!source: DWOK41
+!!!id: 41163
+!!!signature: 4116300012
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16b
+16dd#
+8ee
+16cc
+16a
+=2
+16g#
+16e
+8dd#
+8ee
+=3
+16b
+16dd#
+8ee
+16cc
+16a
+=4
+16g#
+16e
+8b
+8a}
+!!LO:LB:g=esac
+=
+{24dd
+24cc
+24b
+8a
+16cc
+16b
+=5
+16a
+16g#
+8e
+8ee
+=
+24dd
+24cc
+24b
+8a
+16cc
+16b
+=6
+16a
+16g#
+8e
+8a}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=188 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 109} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 109}
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4806000001-a_odjezdzaj_i_odjezdzaj_zebys_o_tym_wiedzial.krn
+!!!OTL: A odjeżdżaj i odjeżdżaj, żebyś o tym wiedział
+!!!source: DWOK48
+!!!id: 48060
+!!!signature: 4806000001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8cc
+4ee
+4ee
+=2
+8cc
+8ee
+4ff
+4ff
+=3
+8ff
+8ee
+8dd
+8cc
+8b
+8cc
+=4
+4dd
+2dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8ff
+4gg
+4gg
+=6
+8ff#
+8gg
+4gg
+4ee
+=7
+8gg
+8ff
+4.ff
+16cc
+16b
+=8
+4dd
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 129} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 129}
+!!!page: 129
+!!!ONB: Converted on 2024/12/26 with esac2hum

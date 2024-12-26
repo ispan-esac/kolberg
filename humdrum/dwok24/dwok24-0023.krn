@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2402300000-wiem_ja_ze_kolendeczke.krn
+!!!OTL: Wiem ja że kolendeczkę
+!!!source: DWOK24
+!!!id: 24023
+!!!signature: 2402300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+4dd
+8b
+=2
+4dd
+4ee
+=3
+8cc
+8a
+4dd}
+!!LO:LB:g=esac
+=4
+{8b
+4b
+8dd
+=5
+4cc
+4a
+=6
+8g
+8b
+4dd}
+!!LO:LB:g=esac
+=7
+{8b
+4b
+8dd
+=8
+4cc
+4ee
+=9
+8dd
+8b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/024dwok.pdf#page=114 @PL{Oskar Kolberg Dzieła Wszystkie 24: Mazowsze I, s. 90} @EN{Oskar Kolberg Complete Works 24: Mazovia I, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

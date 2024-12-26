@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK1704600000-oj_u_nasego_pana.krn
+!!!OTL: Oj u nasego pana
+!!!source: DWOK17
+!!!id: 17046
+!!!signature: 1704600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8g
+16b-
+16g
+8cc
+=2
+16ee
+16gg
+8gg
+8dd
+=3
+8ff
+8ff
+8ee
+=4
+16cc
+16ee
+16ee
+16dd
+8b-}
+!!LO:LB:g=esac
+=5
+{8g
+8b-
+8cc
+=6
+16ee
+16dd
+8ff
+8cc
+=7
+8dd
+8ff
+8ee
+=8
+16cc
+16cc
+8dd
+8b-}
+!!LO:LB:g=esac
+=9
+{8g
+8b-
+8cc
+=10
+8ee
+8ff
+8cc
+=11
+8ee
+8ff
+8cc
+=12
+16cc
+16cc
+8dd
+8b-}
+!!LO:LB:g=esac
+=
+{8g
+24b-
+24g
+24b-
+8cc
+=
+24ee
+24cc
+24ee
+8ff
+8cc
+=13
+16cc
+16ee
+16ee
+16dd
+8b-}
+==
+*-
+!!!ONB: Nuta Ser. I. nr 131. 190. 197. - Ser. XIII. nr 196. 278, 279. 399
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=43 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 21} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 21}
+!!!page: 21
+!!!ONB: Converted on 2024/12/26 with esac2hum

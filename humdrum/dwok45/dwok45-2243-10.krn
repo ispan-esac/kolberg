@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK45224300010-w_scyrym_polu.krn
+!!!OTL: W scyrym polu
+!!!source: DWOK45
+!!!id: 452243
+!!!signature: 45224300010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.g
+16a
+8b
+8cc
+=2
+8.dd
+16ee
+8dd
+8cc
+=3
+8.b
+16cc
+8dd
+8dd}
+!!LO:LB:g=esac
+=4
+{4gg
+4dd
+=5
+2cc}
+!!LO:LB:g=esac
+=6
+{8.g
+16a
+8b
+8cc
+=7
+8.dd
+16ee
+8dd
+8cc
+=8
+8.b
+16cc
+8dd
+8dd}
+!!LO:LB:g=esac
+=9
+{4gg
+4dd
+=10
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=480 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 462} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 462}
+!!!page: 462
+!!!ONB: Converted on 2024/12/26 with esac2hum

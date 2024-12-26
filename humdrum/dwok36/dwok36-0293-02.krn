@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK3629300002-na_popowij_sinozaty.krn
+!!!OTL: Na popowij sinożaty
+!!!source: DWOK36
+!!!id: 36293
+!!!signature: 3629300002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8a
+8b
+8cc
+=2
+8dd
+8dd
+8dd
+8aa
+=3
+4.gg
+8ff#
+=4
+8ee
+8dd
+8gg
+8ee
+=5
+4d
+16d
+16e
+16d
+16B
+=6
+4g}
+4r
+!!LO:LB:g=esac
+=7
+{8cc
+8ee
+8ee
+8gg
+=8
+8cc
+8dd
+8a
+8g
+=9
+4ee
+8gg
+8ee
+=10
+8dd
+8b
+8cc
+8cc
+=11
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 180
+!!!ONB: Converted on 2024/12/26 with esac2hum

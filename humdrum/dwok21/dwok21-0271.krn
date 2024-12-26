@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2127100000-a_jezeli_mnie_kochas.krn
+!!!OTL: A jezeli mnie kochas
+!!!source: DWOK21
+!!!id: 21271
+!!!signature: 2127100000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{8ee
+8ff#
+16dd
+16cc#
+=2
+16ee
+16ee
+8ff#
+16dd
+16b
+=
+24a
+24cc#
+24ee
+8dd
+16dd
+16cc#
+=3
+16ee
+16cc#
+8b
+16g#
+16e}
+!!LO:LB:g=esac
+=4
+{8a
+16a
+16e
+16g#
+16b
+=
+24a
+24cc#
+24ee
+8b
+16dd
+16cc#
+=5
+8a
+16a
+16e
+16g#
+16b
+=6
+16a
+16f#
+8e
+8g#}
+==
+*-
+!!!ONB: U Kolberga jest 3/4, a powinno być 3/8
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=136 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 118} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 118}
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

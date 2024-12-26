@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK57154000000-z_pode_lwowa_witer_wieje.krn
+!!!OTL: Z pode Lwowa witer wieje
+!!!source: DWOK57
+!!!id: 571540
+!!!signature: 57154000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+4b
+4dd
+=2
+8ee
+8dd
+4cc
+4b}
+!!LO:LB:g=esac
+=3
+{8cc
+8b
+4a
+4dd
+=4
+8d
+8f#
+4g
+16a
+8.b}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+4a
+4dd
+=6
+16d
+16f#
+8g
+4b
+4g}
+==
+*-
+!!!ONB: Wariant t. 6: -5-71_3_-7_1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 577
+!!!ONB: Converted on 2024/12/26 with esac2hum

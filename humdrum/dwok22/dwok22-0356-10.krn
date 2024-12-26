@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK2235600010-dziewczyna_kochana-chodzony.krn
+!!!OTL: Dziewczyna kochana-chodzony
+!!!source: DWOK22
+!!!id: 22356
+!!!signature: 2235600010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8ee
+8dd
+8cc
+8cc
+8b
+=2
+8a
+16b
+16cc
+8dd
+8a
+8a
+8g#
+=3
+8a
+16b
+16cc
+8dd
+8a
+8ee
+8dd
+=4
+8a
+8cc
+8b
+8a
+8a
+8g#}
+!!LO:LB:g=esac
+=5
+{8a
+8ee
+8dd
+8a
+8cc
+16cc
+16dd
+=6
+8a
+16b
+16cc
+8dd
+8a
+8a
+8g#
+=7
+8a
+16b
+16cc
+8dd
+8a
+8ee
+8dd
+=8
+8cc
+8cc
+8b
+8a
+8a
+8g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=210 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 192} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 192}
+!!!page: 192
+!!!ONB: Converted on 2024/12/26 with esac2hum

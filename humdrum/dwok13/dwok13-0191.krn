@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK1319100000-instrumentalna_-_odsibka.krn
+!!!OTL: Instrumentalna - Odsibka
+!!!source: DWOK13
+!!!id: 13191
+!!!signature: 1319100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16g
+16b
+8.dd
+=2
+16cc
+16a
+8g
+16b
+16cc
+=3
+16dd
+16ff#
+8dd
+8a
+=4
+8cc
+8b
+8d}
+!!LO:LB:g=esac
+=5
+{16f#
+16g
+16b
+8.dd
+=6
+16cc
+16a
+8g
+16b
+16a
+=7
+16g
+16e
+8d
+16f#
+16a
+=8
+32a
+32b
+32dd
+32cc
+8b
+8d}
+!!LO:LB:g=esac
+=9
+{16f#
+16g
+16b
+8.dd
+=10
+16cc
+16a
+8g
+16b
+16a
+=11
+16g
+16e
+8d
+16f#
+16a
+=12
+16b
+32dd
+32cc
+8b
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 99} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 99}
+!!!page: 99
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK3910000000-corulino_dziecie_moje_chto_pod_oknem_stoi.krn
+!!!OTL: Córulino, dziecie moje, chto pod oknem stoi
+!!!source: DWOK39
+!!!id: 39100
+!!!signature: 3910000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8d
+8f#
+8g
+8f#
+8g
+8e
+8d
+8d
+=2
+8f#
+8a
+8a
+8f#
+4g
+4d}
+!!LO:LB:g=esac
+=3
+{8d
+8f#
+8g
+8f#
+8g
+8e
+8d
+8d
+=4
+8f#
+8a
+8a
+8f#
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{4d
+4g
+2b
+=6
+8g
+8f#
+8g
+8e
+2d}
+!!LO:LB:g=esac
+=7
+{8d
+8f#
+8f#
+8g
+4.a
+8f#
+=8
+8d
+8f#
+8a
+8f#
+4g}
+4r
+!!LO:LB:g=esac
+=9
+{4d
+4g
+2b
+=10
+8g
+8f#
+8g
+8e
+2d}
+!!LO:LB:g=esac
+=11
+{8d
+8f#
+8f#
+8g
+4.a
+8f#
+=12
+8d
+8f#
+8a
+8f#
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=204 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 152} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 152}
+!!!page: 152
+!!!ONB: Converted on 2024/12/26 with esac2hum

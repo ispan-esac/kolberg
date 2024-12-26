@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1931100000-nie_bede_ja_nie_bede_ja.krn
+!!!OTL: Nie będę ja nie będę ja
+!!!source: DWOK19
+!!!id: 19311
+!!!signature: 1931100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16cc#
+8dd
+8g
+=2
+16b
+16b
+8a
+8f#
+=3
+4g
+8f#
+=4
+16a
+16cc
+8a
+8f#}
+!!LO:LB:g=esac
+=5
+{16a
+16cc#
+8dd
+8g
+=6
+16b
+16b
+8dd
+8f#
+=7
+8g
+8e
+16f#
+16g
+=8
+16a
+16a
+8a
+8d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 95} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 95}
+!!!page: 95
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK06-K0652-leci_ptasek_leci_ma_piorka_na_krzyz.krn
+!!!OTL: Leci ptasek leci ma piorka na krzyz
+!!!source: DWOK06
+!!!id: K0652
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+4cc
+8b
+=2
+8cc
+8b
+4cc
+=3
+8a
+4cc
+8dd
+=4
+8b-
+8g
+4f}
+!!LO:LB:g=esac
+=5
+{8c
+4f
+8f
+=6
+8e
+8b-
+4dd
+=7
+8a
+4cc
+8dd
+=8
+8b-
+8g
+4f}
+!!LO:LB:g=esac
+=9
+{8c
+4f
+8f
+=10
+8e
+8b-
+4dd
+=11
+8a
+4cc
+8dd
+=12
+8b-
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=431 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 405} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 405}
+!!!page: 405
+!!!ONB: Converted on 2024/12/26 with esac2hum

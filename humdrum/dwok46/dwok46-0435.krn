@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4643500000-nie_wyganiaj_z_pola_gesi.krn
+!!!OTL: Nie wyganiaj z pola gęsi
+!!!source: DWOK46
+!!!id: 46435
+!!!signature: 4643500000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8a
+4cc
+4ee
+=2
+8gg
+8ee
+4dd
+8cc
+8b
+=3
+8a
+8a
+4cc
+4ee
+=4
+8g#
+8b
+4dd
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+4cc
+4ee
+=6
+8gg
+8ee
+4dd
+8cc
+8b
+=7
+8a
+8a
+4cc
+4ee
+=8
+8g#
+8b
+4dd
+8cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=305 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 271} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 271}
+!!!page: 271
+!!!ONB: Converted on 2024/12/26 with esac2hum

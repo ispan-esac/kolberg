@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK3921800020-instrumentalna-marsz_marsz_me_serce.krn
+!!!OTL: Instrumentalna-Marsz marsz me serce
+!!!source: DWOK39
+!!!id: 39218
+!!!signature: 3921800020
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+16d
+16d
+8g
+16d
+16d
+8g
+8d
+8g
+8b
+=2
+8a
+16d
+16d
+8a
+16d
+16d
+8a
+8d
+8a
+8cc}
+!!LO:LB:g=esac
+=3
+{4b
+8dd
+8b
+4a
+8cc
+8a
+=4
+4g
+8f#
+8f#
+4g}
+4r
+!!LO:LB:g=esac
+=5
+{4ee
+8dd
+8cc
+4b
+8cc
+8a
+=6
+4g
+8a
+8f#
+4g}
+4r
+==
+*-
+!!!ONB: Marsz (konfederatów Barskich) Przygrywka na trąbie
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=288 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 236} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 236}
+!!!page: 236
+!!!ONB: Converted on 2024/12/26 with esac2hum

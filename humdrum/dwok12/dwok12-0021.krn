@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK1202100000-oj_wyjezdzaj_wyjezdzaj_z_podworza_mojego.krn
+!!!OTL: Oj wyjeżdżaj, wyjeżdżaj z podwórza mojego
+!!!source: DWOK12
+!!!id: 12021
+!!!signature: 1202100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4gg
+4gg
+4gg
+=2
+8gg
+8gg
+4dd
+8ff
+8ee
+=3
+4cc
+4cc
+8ee
+8gg
+=4
+8dd
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=5
+{4cc
+4cc
+8cc
+8ee
+=6
+8dd
+8dd
+4ff
+4ee
+=7
+2cc
+8ee
+8gg
+=8
+8dd
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=9
+{4cc
+4cc
+8cc
+8ee
+=10
+8dd
+8dd
+4ff
+4ee
+=11
+2cc
+8ee
+8gg
+=12
+8dd
+8dd
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=28 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 12} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 12}
+!!!page: 12
+!!!ONB: Converted on 2024/12/26 with esac2hum

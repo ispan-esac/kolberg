@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK4654000000-a_bodaj_cie_diabli_wzieni.krn
+!!!OTL: A bodaj cie diabli wzieni
+!!!source: DWOK46
+!!!id: 46540
+!!!signature: 4654000000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{8cc
+8cc
+4dd
+4ee-
+=2
+8gg
+8gg
+4ff
+4dd}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+4dd
+4ee-
+=4
+8f
+8a
+4b-
+4b-}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4dd
+4ee-
+=6
+8cc
+8a
+4b-
+8dd
+8b-}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+4dd
+4ee-
+=8
+8f
+8a
+4b-
+4b-}
+==
+*-
+!!!ONB: Wariant t. 2: 665653
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=360 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 326} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 326}
+!!!page: 326
+!!!ONB: Converted on 2024/12/26 with esac2hum

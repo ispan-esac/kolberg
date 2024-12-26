@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK3639500000-oj_zmiszaw_sia_polyn_iz_trawoju.krn
+!!!OTL: Oj zmiszaw sia połyń iz trawoju
+!!!source: DWOK36
+!!!id: 36395
+!!!signature: 3639500000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8e
+8g
+8b
+8dd#
+4ee
+=2
+8dd
+8dd
+8b
+8a
+8b
+8g#
+=3
+8a
+8g#
+4f#
+4d
+=4
+8g
+8b
+8a
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+4e
+4d
+=6
+8g
+8b
+8a
+8dd
+8b
+8g
+=7
+2.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 249
+!!!ONB: Converted on 2024/12/26 with esac2hum

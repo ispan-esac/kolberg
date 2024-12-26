@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK3907000001-z_tamtej_strony_jezioreczka.krn
+!!!OTL: Z tamtej strony jezioreczka
+!!!source: DWOK39
+!!!id: 39070
+!!!signature: 3907000001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8e
+8e
+4.g#
+8e
+=2
+8g#
+8a
+4.b
+8b
+=3
+8cc
+8cc
+4.b
+8g#
+=4
+2.a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+4.b
+8a
+=6
+8g#
+8g#
+4.e
+8e
+=7
+8e
+8g#
+4.e
+8g#
+=8
+4a}
+4r
+4r
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+4.b
+8a
+=10
+8g#
+8g#
+4.e
+8e
+=11
+8e
+8g#
+4.e
+8g#
+=12
+4a}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=183 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 131} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 131}
+!!!page: 131
+!!!ONB: Converted on 2024/12/26 with esac2hum

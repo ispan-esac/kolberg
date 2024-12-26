@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK57199400000-zazuryw_sia_szczyglyk.krn
+!!!OTL: Zażuryw sia szczygłyk
+!!!source: DWOK57
+!!!id: 571994
+!!!signature: 57199400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8g
+8a
+8b
+=2
+4cc
+4ee
+=3
+8g
+8g
+8a
+8b
+=4
+4cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd#
+8ee
+8dd
+=6
+4cc
+4cc}
+!!LO:LB:g=esac
+=7
+{8ee
+8dd#
+8ee
+8dd
+=8
+8ee
+8dd#
+8ee
+8dd
+=9
+8ee
+8dd#
+8ee
+8dd
+=10
+8cc
+4cc
+8ee}
+!!LO:LB:g=esac
+=11
+{8g
+8g
+8a
+8b
+=12
+4cc
+4ee
+=13
+8g
+8g
+8a
+8b
+=14
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1040
+!!!ONB: Converted on 2024/12/26 with esac2hum

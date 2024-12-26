@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK7766200000-nie_wyganiaj_owcarecku_owcarecku.krn
+!!!OTL: Nie wyganiaj owcarecku owcarecku
+!!!source: DWOK77
+!!!id: 77662
+!!!signature: 7766200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8b
+4cc
+4dd
+=2
+8dd
+8ff
+4ee
+4cc
+=3
+8dd
+8ff
+4ee
+4cc}
+!!LO:LB:g=esac
+=4
+{8dd
+8ff
+4ee
+4ff
+=5
+2.dd}
+!!LO:LB:g=esac
+=6
+{8g
+8b
+4a
+4a
+=7
+8g
+8b
+4a
+4f}
+!!LO:LB:g=esac
+=8
+{8g
+8b
+4a
+4a
+=9
+8g
+8b
+4a
+4f}
+!!LO:LB:g=esac
+=10
+{8g
+8b
+4a
+4a
+=11
+2.g}
+!!LO:LB:g=esac
+=12
+{8g
+8a
+8b
+8cc
+4dd
+=13
+8g
+8b
+4a
+4f}
+!!LO:LB:g=esac
+=14
+{8g
+8b
+4a
+4cc
+=15
+8g
+8b
+4a
+4f}
+!!LO:LB:g=esac
+=16
+{8g
+8b
+4a
+4cc
+=17
+2g
+4g}
+==
+*-
+!!!ONB: Warianty t. 6: 133_5_  t. 8: 133_5_  t. 13: 131_-7_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 334-335
+!!!ONB: Converted on 2024/12/26 with esac2hum

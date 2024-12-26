@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2234000002-mazeskie_szargule_poprzepijaly.krn
+!!!OTL: Mazeskie szargule poprzepijaly
+!!!source: DWOK22
+!!!id: 22340
+!!!signature: 2234000002
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+16r
+{16dd
+16dd
+16cc#
+8a
+=2
+16cc#
+16ee
+4dd
+=
+24b
+24dd
+24dd
+16dd
+16cc#
+8a
+=3
+16r
+16g
+8f#
+8d}
+!!LO:LB:g=esac
+=
+{24e
+24g
+24b
+8f#
+8a
+=4
+16e
+16e
+8f#
+8a
+=5
+16g
+16b
+8f#
+8a
+=6
+16e
+16g
+16g
+16f#
+8d}
+==
+*-
+!!!ONB: wariant
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=206 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 188} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

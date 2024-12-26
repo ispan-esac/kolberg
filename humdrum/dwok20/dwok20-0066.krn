@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2006600000-oj_takesmy_sie_da_takesmy_sie_nakrazyli.krn
+!!!OTL: Oj takeśmy się da takeśmy się nakrązyli
+!!!source: DWOK20
+!!!id: 20066
+!!!signature: 2006600000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=1
+{4a
+8b
+8dd
+4cc#
+4a
+=2
+8b
+8dd
+8cc#
+8b
+4a
+4e
+=3
+4a
+8b
+8dd
+4cc#
+4a
+=4
+[2f#}
+4f#]
+4r
+!!LO:LB:g=esac
+=5
+{4a
+8b
+8dd
+4cc#
+4a
+=6
+8b
+8dd
+8cc#
+8b
+8a
+16g#
+16f#
+4e
+=7
+8a
+8a
+8b
+8dd
+4cc#
+8a
+8g#
+=8
+[2f#}
+4f#]
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=147 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 127} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 127}
+!!!page: 127
+!!!ONB: Converted on 2024/12/26 with esac2hum

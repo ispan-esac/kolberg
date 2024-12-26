@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK5625600002-ja_z_karszmonki_jdu.krn
+!!!OTL: Ja z karszmońki j'du
+!!!source: DWOK56
+!!!id: 56256
+!!!signature: 5625600002
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4dd
+4ee
+4ff
+=2
+1gg
+=3
+4g
+4ff
+4ee
+4dd
+=4
+1cc}
+!!LO:LB:g=esac
+=5
+{8g
+8g
+4ff
+4ee
+8dd
+8b
+=6
+4cc
+4dd
+8ee
+8ff
+4ee
+=7
+8g
+8g
+4ff
+4ee
+4dd
+=8
+4cc
+4dd
+8ee
+8ff
+4ee}
+!!LO:LB:g=esac
+=9
+{8gg
+8gg
+4aa
+4gg
+8ff
+8dd
+=10
+4cc
+4dd
+2ee
+=11
+8gg
+8gg
+4aa
+4gg
+4b
+=12
+1cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=356 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 252} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

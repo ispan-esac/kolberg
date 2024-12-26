@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK06-K0378-smierc_malarzowi.krn
+!!!OTL: Smierc malarzowi
+!!!source: DWOK06
+!!!id: K0378
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{4f
+4a
+=2
+8a
+4dd
+8cc
+=3
+8b
+8cc
+4b-
+=4
+8a
+4e
+8f}
+!!LO:LB:g=esac
+=5
+{4a
+16g
+16a
+8b-
+=6
+8a
+4e
+8f
+=7
+8a
+8b-
+16g
+16a
+8b-
+=8
+8a
+4g
+8f}
+!!LO:LB:g=esac
+=9
+{8f
+8g
+4a
+=10
+8a
+4dd
+8cc
+=11
+8b
+8cc
+4b-
+=12
+8a
+4e
+8f}
+!!LO:LB:g=esac
+=13
+{4cc
+16b
+16cc
+16b-
+16g
+=14
+8a
+4e
+8f
+=15
+4a
+16g
+16a
+8b-
+=16
+8a
+4g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=224 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 198} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 198}
+!!!page: 198
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1009400000-wiwat_wiwat_panu_memu.krn
+!!!OTL: Wiwat wiwat panu memu
+!!!source: DWOK10
+!!!id: 10094
+!!!signature: 1009400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8.dd
+16cc
+8b
+8cc
+=2
+8dd
+8dd
+8ee
+8ee
+=3
+8.dd
+16cc
+8b
+8cc
+=4
+8dd
+8f#
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8.dd
+16cc
+8b
+8cc
+=6
+8dd
+8dd
+8ee
+8ee
+=7
+8.dd
+16cc
+8b
+8cc
+=8
+8dd
+8f#
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=265 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 249} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 249}
+!!!page: 249
+!!!ONB: Converted on 2024/12/26 with esac2hum

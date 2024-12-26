@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK77101600000-i_sed_sobie_z_torba_dziadek.krn
+!!!OTL: I sed sobie z torbą dziadek
+!!!source: DWOK77
+!!!id: 771016
+!!!signature: 77101600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.b
+32dd
+8cc#
+8dd
+=2
+16.ee
+32dd
+8cc#
+8dd
+=3
+16b
+16dd
+8cc#
+8dd
+=4
+16cc
+16f#
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16g
+8.b
+16g
+=6
+16f#
+16d
+8f#
+8a
+=7
+16a
+16cc
+8.ee
+16cc
+=8
+16.a
+32f#
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 135
+!!!ONB: Converted on 2024/12/26 with esac2hum

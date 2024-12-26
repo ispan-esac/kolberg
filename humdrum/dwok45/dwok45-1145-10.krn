@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK45114500010-swiecila_sie_warszawa.krn
+!!!OTL: Swieciła się Warszawa
+!!!source: DWOK45
+!!!id: 451145
+!!!signature: 45114500010
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16g
+16b
+4cc
+8ee
+=2
+8gg
+8ee
+4ee
+=3
+8dd
+4ff
+8b
+=4
+8dd
+8cc
+4ee}
+!!LO:LB:g=esac
+=5
+{8b
+4dd
+16ff
+16ee
+=6
+8gg
+8cc
+8cc
+8b
+=7
+8dd
+4ff
+8b
+=8
+8dd
+8cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=90 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 80} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 80}
+!!!page: 80
+!!!ONB: Converted on 2024/12/26 with esac2hum

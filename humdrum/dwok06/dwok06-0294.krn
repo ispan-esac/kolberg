@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK06-K0294-pamietaj_chopoku_na_wyrazy_moje.krn
+!!!OTL: Pamietaj chopoku na wyrazy moje
+!!!source: DWOK06
+!!!id: K0294
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8cc
+8ee
+4dd
+=2
+8a
+4b
+8g
+=3
+8g
+8b
+4dd
+=4
+8dd
+4ee
+8b}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+4dd
+=6
+8a
+4b
+8e
+=7
+8g
+8f#
+4g
+=8
+8b
+4a
+8e}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+4dd
+=10
+8a
+4b
+8b
+=11
+8g
+8b
+8dd
+8dd
+=12
+8ee
+4.b}
+!!LO:LB:g=esac
+=13
+{8cc
+8ee
+4dd
+=14
+8a
+4b
+8e
+=15
+8g
+8f#
+8.g
+16b
+=16
+16b
+16a
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 148} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 148}
+!!!page: 148
+!!!ONB: Converted on 2024/12/26 with esac2hum

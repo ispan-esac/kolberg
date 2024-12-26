@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK02-K0296a-zaspiwaj_mi_zaspiwaj.krn
+!!!OTL: Zaspiwaj mi zaspiwaj
+!!!source: DWOK02
+!!!id: K0296a
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{4.f}
+!!LO:LB:g=esac
+=2
+{16f
+16a
+8cc
+8cc
+=3
+8dd
+8cc
+8b
+=4
+8cc
+16a
+16a
+8f
+=5
+8g
+32e
+16.c}
+8r
+!!LO:LB:g=esac
+=6
+{16c
+16e
+8f
+8f
+=7
+8a
+8b-
+32a
+16.b-
+=8
+16cc
+16a
+8a
+8d
+=9
+8g
+32e
+16.c}
+8r
+==
+*-
+!!!ONB: Czesc pierwsza - partia meska
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 222} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 222}
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

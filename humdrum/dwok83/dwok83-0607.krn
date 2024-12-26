@@ -1,0 +1,41 @@
+!!!!SEGMENT: DWOK8360700000-bohacz_woryt_bohacz_sije.krn
+!!!OTL: Bohacz woryt, bohacz sije
+!!!source: DWOK83
+!!!id: 83607
+!!!signature: 8360700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+16cc
+8.a
+=2
+8cc
+4dd
+=3
+8ee
+4ee
+=4
+8b
+4g#}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8a
+=6
+8cc
+4dd
+=7
+4.ee}
+==
+*-
+!!!ONB: Wariant t. 3-4: 5_5_4#_  2_-7_-5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=502 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 391} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 391}
+!!!page: 391
+!!!ONB: Converted on 2024/12/26 with esac2hum

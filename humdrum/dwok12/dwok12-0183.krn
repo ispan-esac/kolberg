@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK1218300000-a_z_poniedzialku_na_swieto.krn
+!!!OTL: A z poniedziałku na święto
+!!!source: DWOK12
+!!!id: 12183
+!!!signature: 1218300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+16dd
+16ee
+16dd
+16cc#
+8a
+=3
+16b
+16cc
+8.b
+16a
+=4
+8g
+4dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8dd
+=6
+16dd
+16ee
+16dd
+16cc#
+8a
+=7
+16b
+16cc
+8.b
+16a
+=8
+16g
+16f#
+4d}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+8.g
+16a
+=10
+16b
+16cc
+8.b
+16a
+=11
+8g
+4dd
+=12
+16a
+16f#
+8.g
+16a
+=13
+16b
+16cc
+8.b
+16a
+=14
+16g
+16f#
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=109 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 93} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 93}
+!!!page: 93
+!!!ONB: Converted on 2024/12/26 with esac2hum

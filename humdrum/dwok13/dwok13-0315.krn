@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1331500000-nie_pamietasz_sobku.krn
+!!!OTL: Nie pamiętasz Sobku
+!!!source: DWOK13
+!!!id: 13315
+!!!signature: 1331500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8cc
+8f#
+=2
+16e
+16g
+4a
+=3
+8a
+8cc
+8f#
+=4
+16e
+16g
+4a}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8a
+=6
+16e
+16g
+4a
+=7
+8d
+16f#
+16g
+16a
+16cc
+=8
+16e
+16g
+4f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 141} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 141}
+!!!page: 141
+!!!ONB: Converted on 2024/12/26 with esac2hum

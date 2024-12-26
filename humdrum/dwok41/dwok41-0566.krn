@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK4156600000-instrumentalna-chodz_mlynarzu_do_pana.krn
+!!!OTL: Instrumentalna-Chodź młynarzu do pana
+!!!source: DWOK41
+!!!id: 41566
+!!!signature: 4156600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8b
+8b
+=2
+8cc
+8a
+4g
+=3
+8a
+8f
+8f
+8f
+=4
+8g
+8g
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8dd
+8cc
+=6
+8b
+8g
+8ff
+8ee
+=7
+8dd
+8dd
+8ee
+8b
+=8
+8cc
+8cc
+4cc}
+==
+*-
+!!!ONB: Przypuszczalna lokalizacja: od Gostynina
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=381 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 298} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 298}
+!!!page: 298
+!!!ONB: Converted on 2024/12/26 with esac2hum

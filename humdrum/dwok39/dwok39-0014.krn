@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK3901400000-idzie_chmura_pada_deszcz.krn
+!!!OTL: Idzie chmura, pada deszcz
+!!!source: DWOK39
+!!!id: 39014
+!!!signature: 3901400000
+**kern
+*clefG2
+*k[]
+*C:
+=1
+*M3/4
+{8g
+8g
+4cc
+4cc
+=2
+8cc
+8a
+2g}
+!!LO:LB:g=esac
+=3
+{8f
+8f
+4a
+4g
+=4
+8f
+8f
+4e}
+4r
+!!LO:LB:g=esac
+=5
+*M2/4
+{8e
+16g
+16g
+8g
+8g
+=6
+8f
+16a
+16a
+8a
+8a}
+!!LO:LB:g=esac
+=7
+*M3/4
+{8a
+8b
+4dd
+4cc
+=8
+8b
+8dd
+4cc}
+4r
+!!LO:LB:g=esac
+=9
+*M2/4
+{8e
+16g
+16g
+8g
+8g
+=10
+8f
+16a
+16a
+8a
+8a}
+!!LO:LB:g=esac
+=11
+*M3/4
+{8a
+8b
+4dd
+4cc
+=12
+8b
+8dd
+4cc}
+4r
+==
+*-
+!!!ONB: Wesele
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=137 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 87} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 87}
+!!!page: 87
+!!!ONB: Converted on 2024/12/26 with esac2hum

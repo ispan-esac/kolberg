@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2834000001-hej_zahukali_siwe_labedzie.krn
+!!!OTL: Hej zahukali siwe łabędzie
+!!!source: DWOK28
+!!!id: 28340
+!!!signature: 2834000001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=1
+{4e
+8g
+8g
+4e
+4e
+=2
+4a
+8cc
+8cc
+4a
+4a
+=3
+8a
+8f#
+4a
+8a
+8f#
+4e}
+!!LO:LB:g=esac
+=4
+{4g
+8e
+8e
+4a
+4cc
+=5
+4g
+8e
+8e
+4a
+4cc
+=6
+8a
+8f#
+4a
+8a
+8f#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=322 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 303} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 303}
+!!!page: 303
+!!!ONB: Converted on 2024/12/26 with esac2hum

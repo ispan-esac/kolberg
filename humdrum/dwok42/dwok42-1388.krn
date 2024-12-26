@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK42138800000-oj_do_nij_jasiu_do_nij.krn
+!!!OTL: Oj, do nij, Jasiu, do nij
+!!!source: DWOK42
+!!!id: 421388
+!!!signature: 42138800000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8g#
+8a
+8ee
+=2
+16dd
+16b
+8cc
+8ee
+=3
+16g#
+16g#
+8a
+8ee
+=4
+16dd
+32cc
+32b
+8a
+8e}
+!!LO:LB:g=esac
+=5
+{16g#
+16g#
+8a
+8cc
+=6
+16b
+16dd
+16ee
+16dd
+16cc
+16b
+=7
+16g#
+16g#
+8a
+8cc
+=8
+16b
+16g#
+8a
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=34 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 25} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 25}
+!!!page: 25
+!!!ONB: Converted on 2024/12/26 with esac2hum

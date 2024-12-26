@@ -1,0 +1,166 @@
+!!!!SEGMENT: DWOK2226200000-hala_bysiu_hala_hala_ha.krn
+!!!OTL: Hala bysiu hala hala ha
+!!!source: DWOK22
+!!!id: 22262
+!!!signature: 2226200000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{4.dd
+8b
+8dd
+8g
+=2
+4b
+16g
+[8.d
+4d]
+=3
+2dd
+4b
+=4
+2.dd}
+!!LO:LB:g=esac
+=5
+{4.b
+8g
+8d
+8g
+=
+!!UNCATEGORIZED MEASURE
+4a
+16a
+[4.g
+4g]
+=6
+*M3/4
+8g
+8b
+4.dd
+8g
+=7
+8a
+[8g}
+2g]
+!!LO:LB:g=esac
+=8
+{8g
+8a
+8b
+8cc
+8dd
+8b
+=9
+4.dd
+8b
+8g
+8b
+=10
+8a
+[8g
+2g]
+=11
+8g
+8b
+4.dd
+8g
+=12
+8a
+[8g}
+2g]
+!!LO:LB:g=esac
+=13
+{4.g
+8a
+8b
+8cc
+=14
+4dd
+2b
+=15
+4.dd
+8cc
+8g
+8a
+=
+!!UNCATEGORIZED MEASURE
+4b
+8g}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{4.g
+8a
+8b
+8cc
+=16
+*M3/4
+4dd
+2b
+=17
+4.dd
+8cc
+8g
+8a
+=
+!!UNCATEGORIZED MEASURE
+4b
+8g}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8g
+8a
+8b
+8cc
+=18
+*M2/4
+4.dd
+8b
+=19
+8dd
+8cc
+8g
+8a
+=20
+4.b
+8d}
+!!LO:LB:g=esac
+=21
+{8g
+8a
+8b
+8cc
+=22
+4.dd
+8cc
+=23
+8b
+8a
+8g
+8a}
+!!LO:LB:g=esac
+=24
+{4.b
+8d
+=25
+4.dd
+8g
+=26
+8a
+[8g
+4g]
+=27
+[2dd}
+=28
+2dd]
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 147-148} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, pp. 147-148}
+!!!page: 147-148
+!!!ONB: Converted on 2024/12/26 with esac2hum

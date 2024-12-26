@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK13127a0020-razne_chlopcy.krn
+!!!OTL: Raźne chłopcy
+!!!source: DWOK13
+!!!id: 13127a
+!!!signature: 13127a0020
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=1
+{16a
+16a
+8.ff#
+16dd
+=2
+16a
+16a
+8b
+8a
+=3
+8e
+8b
+16a
+16g
+=4
+16f#
+16d
+8c#
+8A}
+!!LO:LB:g=esac
+=5
+{16a
+16a
+8.ff#
+16dd
+=6
+16a
+16a
+8b
+8a
+=7
+8b
+8b
+16a
+16g
+=8
+16e
+16e
+8f#
+8d}
+==
+*-
+!!!ONB: Fragment w D
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=97 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 73} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

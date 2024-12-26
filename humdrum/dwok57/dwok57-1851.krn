@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK57185100000-a_we_lwowi_na_rynoczku.krn
+!!!OTL: A we Lwowi, na rynoczku
+!!!source: DWOK57
+!!!id: 571851
+!!!signature: 57185100000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M3/4
+{8g
+8b
+4dd
+4dd
+=2
+*M2/4
+8dd
+8gg
+8dd
+8ff#}
+!!LO:LB:g=esac
+=3
+{16dd
+16cc
+16b
+16cc
+8dd
+8a
+=4
+*M3/4
+8g
+8b
+4dd
+4g}
+!!LO:LB:g=esac
+=5
+*M2/4
+{16ee
+16dd
+16cc
+16b
+16a
+16g
+8dd
+=6
+2g}
+==
+*-
+!!!ONB: Wariant t. 3: 5434(543)2_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 927
+!!!ONB: Converted on 2024/12/26 with esac2hum

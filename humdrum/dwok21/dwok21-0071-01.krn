@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2107100001-w_olsynie_w_krzewinie.krn
+!!!OTL: W olsynie w krzewinie
+!!!source: DWOK21
+!!!id: 21071
+!!!signature: 2107100001
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4cc
+4cc
+4ee
+=2
+4dd
+4b
+4g
+4b}
+!!LO:LB:g=esac
+=3
+{4cc
+8b
+8a
+4g
+8a
+8f
+=4
+4e
+4d
+4c}
+4r
+!!LO:LB:g=esac
+=5
+{8e
+8d
+8e
+8f
+4.g
+8a
+=6
+8g
+8f
+8e
+8f
+4.g
+8c}
+!!LO:LB:g=esac
+=7
+{8e
+8d
+8e
+8f
+4.g
+8a
+=8
+8g
+8f
+8e
+8f
+4.g
+8c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 37} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

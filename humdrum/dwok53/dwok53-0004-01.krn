@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK5300400001-oj_ir_uzsikielu.krn
+!!!OTL: Oj ir uzsikielu
+!!!source: DWOK53
+!!!id: 53004
+!!!signature: 5300400001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8b
+8dd
+16dd
+16cc
+=2
+4b
+8dd}
+!!LO:LB:g=esac
+=3
+{8a
+8b
+8g#
+=4
+4a
+16b
+16cc}
+!!LO:LB:g=esac
+=5
+{8b
+8dd
+8cc
+=6
+4b
+8cc}
+!!LO:LB:g=esac
+=7
+{8a
+4g#
+=8
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=178 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 144} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 144}
+!!!page: 144
+!!!ONB: Converted on 2024/12/26 with esac2hum

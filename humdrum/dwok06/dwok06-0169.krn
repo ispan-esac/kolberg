@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK06-K0169-zebys_ty_chmielu_na_tycki_nie_laz.krn
+!!!OTL: Zebys ty chmielu na tycki nie laz
+!!!source: DWOK06
+!!!id: K0169
+!!!signature:
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8a
+8cc
+=2
+8b
+4a
+=3
+16g
+16a
+8g
+8f
+=4
+4e}
+8r
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8cc
+=6
+8b
+4a
+=7
+16g
+16a
+8g
+8d
+=8
+4e}
+8r
+!!LO:LB:g=esac
+=9
+{8g
+8d
+8e
+=10
+16g
+16g
+8d
+8e
+=11
+16g
+16g
+8d
+16e
+16f
+=12
+16g
+16g
+8d
+8e}
+!!LO:LB:g=esac
+=13
+{16g
+16a
+8g
+8f
+=14
+4.e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 86} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 86}
+!!!page: 86
+!!!ONB: Converted on 2024/12/26 with esac2hum

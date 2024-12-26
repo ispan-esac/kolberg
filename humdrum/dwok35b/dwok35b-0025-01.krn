@@ -1,0 +1,46 @@
+!!!!SEGMENT: DWOK35B-35B02500001-tam_po_nad_morem_po_nad_dunajem.krn
+!!!OTL: Tam po nad morem, po nad dunajem
+!!!source: DWOK35B
+!!!id: 35B025
+!!!signature: 35B02500001
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4a
+8a
+8b
+=2
+4cc
+4b
+=3
+8a
+8a
+8g#
+8g#
+=4
+2e}
+!!LO:LB:g=esac
+=5
+{4cc
+8cc
+8dd
+=6
+4ee
+4dd
+=7
+8cc
+8cc
+8b
+8b
+=8
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=186 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 144} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 144}
+!!!page: 144
+!!!ONB: Converted on 2024/12/26 with esac2hum

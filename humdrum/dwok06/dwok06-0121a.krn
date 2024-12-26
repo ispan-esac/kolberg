@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK06-K0121a-uderzyl_konicek_nozecka_we_wrota.krn
+!!!OTL: Uderzyl konicek nozecka we wrota
+!!!source: DWOK06
+!!!id: K0121a
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+8dd
+8ee
+8dd
+8cc
+=2
+8b
+4dd
+8ee
+8dd
+8cc
+=3
+8b
+4dd
+8ff#
+8gg
+8ee
+=4
+8b
+4dd
+8ee
+8dd
+8cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+8b
+8dd
+8dd
+8ee
+=6
+8dd
+8cc
+8a
+8a
+8cc
+8ee
+=7
+8dd
+16b
+16a
+8g
+8a
+8b
+8g
+=8
+8a
+8g
+8f#
+8d
+8f#
+8g}
+==
+*-
+!!!ONB: Wariant alternatywny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=88 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 62} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 62}
+!!!page: 62
+!!!ONB: Converted on 2024/12/26 with esac2hum

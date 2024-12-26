@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2131300020-oj_zabijze_mnie_descu.krn
+!!!OTL: Oj zabijze mnie descu
+!!!source: DWOK21
+!!!id: 21313
+!!!signature: 2131300020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{32b
+32cc
+16ee
+16gg
+16ff
+16ee
+16dd
+=2
+32b
+32cc
+16ee
+16dd
+16ee
+32cc
+32b
+16g}
+!!LO:LB:g=esac
+=3
+{32b
+32cc
+16ee
+16dd
+16ff
+16ee
+16dd
+=4
+32b
+32cc
+16ee
+16dd
+16ee
+32cc
+32b
+16g}
+==
+*-
+!!!ONB: część wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=145 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 127} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 127}
+!!!page: 127
+!!!ONB: Converted on 2024/12/26 with esac2hum

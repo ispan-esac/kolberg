@@ -1,0 +1,102 @@
+!!!!SEGMENT: DWOK3607900000-oj_podiekujmo_swatia_bratia.krn
+!!!OTL: Oj podiekujmo swatia bratia
+!!!source: DWOK36
+!!!id: 36079
+!!!signature: 3607900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8b
+8cc
+=2
+16dd
+16ee
+8dd
+8cc
+=3
+16b
+16a
+8g
+8a
+=4
+8dd
+8dd
+8cc
+=5
+8b
+4a}
+!!LO:LB:g=esac
+=6
+{8dd
+8dd
+8cc
+=7
+8b
+8a
+8g
+=8
+8dd
+8dd
+8cc
+=9
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=10
+{8dd
+8dd
+8cc
+=11
+8b
+8a
+8f#
+=12
+4g
+16f#
+16e
+=13
+8d}
+4r
+!!LO:LB:g=esac
+=14
+{8d
+4g
+=15
+8a
+8b
+8cc
+=16
+8dd
+8dd
+8cc
+=17
+8b
+8a
+16b
+16cc}
+!!LO:LB:g=esac
+=18
+{8dd
+8dd
+8cc
+=19
+8b
+8a
+8f#
+=20
+4.g
+=21
+8g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 43-44
+!!!ONB: Converted on 2024/12/26 with esac2hum

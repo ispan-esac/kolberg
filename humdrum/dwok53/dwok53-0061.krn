@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK5306100000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK53
+!!!id: 53061
+!!!signature: 5306100000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8g
+8cc
+=2
+16dd
+16ee
+8ff
+8ee}
+!!LO:LB:g=esac
+=3
+{8dd
+8cc
+8b
+=4
+4cc
+8g}
+!!LO:LB:g=esac
+=5
+{8g
+8e
+8f
+=6
+4g
+8cc}
+!!LO:LB:g=esac
+=7
+{8dd
+8b
+8g
+=8
+4cc
+8g}
+==
+*-
+!!!ONB: Śpiew odejścia od rodziców mężatki (Nutakos Daina
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=248 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 212} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 212}
+!!!page: 212
+!!!ONB: Converted on 2024/12/26 with esac2hum

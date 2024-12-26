@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK2256000010-poszly_panny_do_sadu.krn
+!!!OTL: Poszły panny do sadu
+!!!source: DWOK22
+!!!id: 22560
+!!!signature: 2256000010
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ff
+8ff
+4ee
+8cc
+8ee
+=2
+8.gg
+16gg
+16gg
+16ff
+16ee
+16dd
+4ee}
+!!LO:LB:g=esac
+=3
+{8ff
+8ff
+4ee
+8cc
+8ee
+=4
+4gg
+8ff
+8dd
+4cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff
+8aa
+8bb
+8aa
+8ff
+=6
+8gg
+8ff
+8ee
+8dd
+4ff}
+!!LO:LB:g=esac
+=7
+{8dd
+8ff
+4.aa
+8dd
+=8
+4gg
+8ee
+8dd
+4cc}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=269 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 251} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

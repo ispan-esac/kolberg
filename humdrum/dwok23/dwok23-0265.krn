@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2326500000-o_gloriosa_domina.krn
+!!!OTL: O Gloriosa Domina
+!!!source: DWOK23
+!!!id: 23265
+!!!signature: 2326500000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{4f
+4f
+8a
+8g
+4g
+=2
+4g
+4a
+8b-
+8a
+4g
+=3
+8g
+8a
+4b-
+8a
+8g
+4f
+=4
+4a
+8g
+8b-
+8a
+8g
+4f}
+!!LO:LB:g=esac
+=5
+{4a
+4a
+4a
+4a
+=6
+4g
+4a
+4b
+4cc
+=7
+8g
+8a
+4b-
+8a
+8g
+4f
+=8
+4a
+8g
+8b-
+8a
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=266 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 252} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 252}
+!!!page: 252
+!!!ONB: Converted on 2024/12/26 with esac2hum

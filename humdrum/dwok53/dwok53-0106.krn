@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK5310600000-o_kano_zali_sodaj.krn
+!!!OTL: O! Kano zali sodaj
+!!!source: DWOK53
+!!!id: 53106
+!!!signature: 5310600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4g
+4b
+2dd
+=2
+4ee
+4ee
+2dd
+=3
+1b}
+!!LO:LB:g=esac
+=4
+{4dd
+4dd
+2cc
+=5
+4b
+4b
+4a
+4g}
+!!LO:LB:g=esac
+=6
+{4b
+4b
+4cc
+4cc
+=7
+2dd
+2b}
+!!LO:LB:g=esac
+=8
+{4dd
+4dd
+2cc
+=9
+4b
+4b
+4a
+4g}
+!!LO:LB:g=esac
+=10
+{4b
+4b
+4cc
+4cc
+=11
+2dd
+2b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=279 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 243} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 243}
+!!!page: 243
+!!!ONB: Converted on 2024/12/26 with esac2hum

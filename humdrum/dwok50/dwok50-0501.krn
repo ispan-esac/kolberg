@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK5050100000-oj_czyje_to_koniki_po_polu_lataja.krn
+!!!OTL: Oj, czyje to koniki po polu latają
+!!!source: DWOK50
+!!!id: 50501
+!!!signature: 5050100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+4ee
+8ee
+=2
+8ee
+8ee
+8ee
+8ee
+=3
+8gg
+8gg
+8ff
+8ee
+=4
+8ff
+4.dd}
+!!LO:LB:g=esac
+=5
+{8b
+4dd
+8dd
+=6
+8dd
+8dd
+8b
+8dd
+=7
+8ff
+8ff
+8ee
+8dd
+=8
+8ee
+4.cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=326 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 297} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 297}
+!!!page: 297
+!!!ONB: Converted on 2024/12/26 with esac2hum

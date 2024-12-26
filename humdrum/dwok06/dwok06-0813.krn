@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK06-K0813-oj_nie_plac_dziewcyno.krn
+!!!OTL: Oj nie plac dziewcyno
+!!!source: DWOK06
+!!!id: K0813
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+8dd
+4dd
+=2
+8ee
+4cc
+8g
+=3
+8g
+8g
+4b
+=4
+8cc
+4ee
+8ee}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4dd
+=6
+8ee
+4cc
+8g
+=7
+8g
+8g
+4g
+=8
+8a
+4cc
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=512 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 486-487} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 486-487}
+!!!page: 486-487
+!!!ONB: Converted on 2024/12/26 with esac2hum

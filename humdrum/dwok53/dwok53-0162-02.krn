@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK5316200002-augin_tiavas_suniali.krn
+!!!OTL: Augin tiavas suniali
+!!!source: DWOK53
+!!!id: 53162
+!!!signature: 5316200002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8b
+8dd
+=2
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=3
+{8cc
+8cc
+8b
+8dd
+=4
+8cc
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8ee
+16dd
+16ee
+8dd
+=6
+8cc
+8ee
+4g}
+!!LO:LB:g=esac
+=7
+{16a
+16b
+8cc
+8dd
+8cc
+=8
+4.g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=333 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 295} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 295}
+!!!page: 295
+!!!ONB: Converted on 2024/12/26 with esac2hum

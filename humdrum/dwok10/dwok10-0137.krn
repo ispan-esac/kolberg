@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK1013700000-nie_chciala_nie_chciala_we_wianyszku_chodzic.krn
+!!!OTL: Nie chciała, nie chciała, we wianyszku chodzić
+!!!source: DWOK10
+!!!id: 10137
+!!!signature: 1013700000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+8cc
+8b
+=2
+8a
+8.cc
+16dd
+=3
+16ee
+16ee
+8dd
+8ee
+=4
+8b
+16g#
+16e}
+8r
+!!LO:LB:g=esac
+=5
+{8e
+8.dd
+16b
+=6
+8a
+8.cc
+16b
+=7
+16a
+16g#
+8e
+16f
+16g#
+=8
+8a
+16g#
+16e}
+8r
+!!LO:LB:g=esac
+=9
+{8a
+8cc
+8b
+=10
+8a
+8.cc
+16dd
+=11
+16ee
+16ee
+8dd
+8ee
+=12
+8b
+16g#
+16e}
+8r
+!!LO:LB:g=esac
+=13
+{8e
+8.dd
+16b
+=14
+8a
+8.cc
+16b
+=15
+16a
+16g#
+8e
+16f
+16g#
+=16
+8a
+16g#
+16e}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=297 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 281} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 281}
+!!!page: 281
+!!!ONB: Converted on 2024/12/26 with esac2hum

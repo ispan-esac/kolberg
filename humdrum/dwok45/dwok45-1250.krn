@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK45125000000-te_suskie_kobiety.krn
+!!!OTL: Te suskie kobiety
+!!!source: DWOK45
+!!!id: 451250
+!!!signature: 45125000000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+4ee
+8cc
+=2
+8.cc
+16b
+4b
+=3
+8g
+4ff
+8b
+=4
+8.dd
+16cc
+4cc}
+!!LO:LB:g=esac
+=5
+{8g
+4ee
+8cc
+=6
+8.cc
+16b
+4b
+=7
+8g
+4ff
+8b
+=8
+8.dd
+16cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=130 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 116} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 116}
+!!!page: 116
+!!!ONB: Converted on 2024/12/26 with esac2hum

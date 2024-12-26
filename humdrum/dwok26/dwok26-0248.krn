@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK2624800000-z_tamtej_strony_jeziorecka.krn
+!!!OTL: Z tamtej strony jeziorecka
+!!!source: DWOK26
+!!!id: 26248
+!!!signature: 2624800000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16f
+16a
+8cc
+8cc
+=2
+16cc
+16ff
+8.dd
+16b-
+=3
+16g
+16e
+8e
+8f
+=4
+16f
+16a
+8a
+8b-}
+!!LO:LB:g=esac
+=5
+{16g
+16e
+8e
+8f
+=6
+4f}
+8r
+!!LO:LB:g=esac
+=7
+{16f
+16a
+8cc
+16cc
+16a
+=8
+16cc
+16ff
+8.dd
+16b-
+=9
+16g
+16e
+8e
+16f
+16a
+=10
+16f
+16a
+8a
+16a
+16b-}
+!!LO:LB:g=esac
+=11
+{16g
+16e
+8e
+16f
+16a
+=12
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 210
+!!!ONB: Converted on 2024/12/26 with esac2hum

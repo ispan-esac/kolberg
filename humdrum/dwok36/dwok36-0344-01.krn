@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK3634400001-tychyj_dunaj_tycho_wodu_nese.krn
+!!!OTL: Tychyj dunaj tycho wodu nese
+!!!source: DWOK36
+!!!id: 36344
+!!!signature: 3634400001
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M4/4
+{4ee
+16dd
+16cc
+16b
+16a
+4dd
+4g
+=
+!!UNCATEGORIZED MEASURE
+8dd
+16cc
+16b
+16a
+16b
+8g
+4e
+4e}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{8dd
+8dd
+8dd
+8b
+8dd
+8ee
+16ee
+16ff#
+8dd
+4b
+4b}
+!!LO:LB:g=esac
+=
+!!UNCATEGORIZED MEASURE
+{4ee
+16dd
+16cc
+16b
+16a
+4dd
+4g
+=
+!!UNCATEGORIZED MEASURE
+16b
+16dd
+16cc
+16b
+16a
+16b
+8g
+4b
+4b}
+!!LO:LB:g=esac
+=2
+*M6/4
+{8dd
+8dd
+8dd
+8g
+8dd
+8ee
+16ee
+16ff#
+8dd
+4.b
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 214-215
+!!!ONB: Converted on 2024/12/26 with esac2hum

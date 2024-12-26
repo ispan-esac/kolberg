@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK5310100000-mociute_manu_senoji_manu.krn
+!!!OTL: Mociute manu, senoji manu
+!!!source: DWOK53
+!!!id: 53101
+!!!signature: 5310100000
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+=1
+{4b-
+2ee-
+=2
+8gg
+8ff
+4ee-
+4b-
+=3
+4ee-
+2dd
+=4
+8ee-
+8cc
+4b-
+4g}
+!!LO:LB:g=esac
+=5
+{4a-
+2b-
+=6
+8cc
+8dd
+4ee-
+4b-
+=7
+4ee-
+2dd
+=8
+8ee-
+8cc
+4b-
+4g}
+!!LO:LB:g=esac
+=9
+{4a-
+2b-
+=10
+8cc
+8dd
+4ee-
+4b-
+=11
+4ee-
+2dd
+=12
+8ee-
+8cc
+4b-
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=277 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 241} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

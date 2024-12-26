@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK7717900010-oj_posedem_ja_posed.krn
+!!!OTL: Oj posedem ja posed
+!!!source: DWOK77
+!!!id: 77179
+!!!signature: 7717900010
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=1
+{4g
+4b-
+4dd
+=2
+8.ff
+16ee-
+4cc
+8a
+8f
+=3
+4b-
+4dd
+4ff
+=4
+8cc
+8ee-
+4cc
+8a
+8f}
+!!LO:LB:g=esac
+=5
+{4b-
+4dd
+4dd
+=6
+8cc
+8ee-
+4ee-
+4dd
+=7
+4b-
+4dd
+4dd
+=8
+8ff
+8ee-
+4cc
+8a
+8f}
+==
+*-
+!!!ONB: Takty 1 do 8 część wokalna, wariant t. 3 i 5: 1__3__1__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 106
+!!!ONB: Converted on 2024/12/26 with esac2hum

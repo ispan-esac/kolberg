@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK35A-35A03600002-woskres_chrystos_iz_hroba.krn
+!!!OTL: Woskres Chrystos iz hroba
+!!!source: DWOK35A
+!!!id: 35A036
+!!!signature: 35A03600002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8b
+8cc
+8dd
+8dd
+=2
+16dd
+16ee
+16ee
+16dd
+4dd
+=3
+8cc
+8ee
+8ee
+8ee
+=4
+16ff
+16ee
+8dd
+4dd}
+!!LO:LB:g=esac
+=5
+{8ff
+8ff
+8ee
+8ee
+=
+8dd
+24dd
+24ee
+24ff
+8ee
+8dd
+=6
+2cc
+=
+8dd
+24dd
+24ee
+24ff
+8ee
+8dd
+=7
+4cc#
+4dd}
+==
+*-
+!!!ONB: Andante
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 34} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 34}
+!!!page: 34
+!!!ONB: Converted on 2024/12/26 with esac2hum

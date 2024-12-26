@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2613600000-oj_jak_to_u_nas_kasa.krn
+!!!OTL: Oj jak to u nas kasa
+!!!source: DWOK26
+!!!id: 26136
+!!!signature: 2613600000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ff
+8dd
+8ee
+=2
+16cc
+16b
+8g
+8g
+=3
+8b
+8cc
+8ee
+=4
+16cc
+16b
+8g
+8g}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+8ee
+=6
+16ee
+16dd
+8ff
+16ee
+16dd
+=7
+8b
+8cc
+8ee
+=8
+16cc
+16b
+8g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 147
+!!!ONB: Converted on 2024/12/26 with esac2hum

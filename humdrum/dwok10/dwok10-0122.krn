@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK1012200000-moja_marynko_juzes_niewiasta.krn
+!!!OTL: Moja Marynko jużeś niewiasta
+!!!source: DWOK10
+!!!id: 10122
+!!!signature: 1012200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+16a
+16b
+8cc
+8ee
+8ff
+8ee
+=2
+8gg
+8gg
+8aa
+8gg
+4ff
+=3
+8gg
+8gg
+8aa
+8gg
+4ff}
+!!LO:LB:g=esac
+=4
+{8g
+16a
+16b
+8cc
+8ee
+8ff
+8ee
+=5
+8cc
+8dd
+8b-
+8g
+4f}
+!!LO:LB:g=esac
+=6
+{8g
+16a
+16b
+8cc
+8ee
+8ff
+8ee
+=7
+8cc
+8dd
+8b-
+8g
+4f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=283 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 267} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 267}
+!!!page: 267
+!!!ONB: Converted on 2024/12/26 with esac2hum

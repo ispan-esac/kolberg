@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2802500000-mamy_przyjaciela.krn
+!!!OTL: Mamy przyjaciela
+!!!source: DWOK28
+!!!id: 28025
+!!!signature: 2802500000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{8g
+8f#
+4g
+4a
+=2
+4b
+2b
+=3
+8a
+8b
+4a
+4g
+=4
+4f#
+2e}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+4.a
+8a
+=6
+4g
+4f#}
+4r
+!!LO:LB:g=esac
+=7
+{8g
+8f#
+4g
+4a
+=8
+4b
+2b
+=9
+8a
+8b
+4a
+4g
+=10
+4f#
+2e}
+!!LO:LB:g=esac
+=11
+{8a
+8a
+4.a
+8b
+=12
+4g
+4f#}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=92 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 73} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

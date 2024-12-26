@@ -1,0 +1,103 @@
+!!!!SEGMENT: DWOK1921400000-instrumentalna-pasterska.krn
+!!!OTL: Instrumentalna-pasterska
+!!!source: DWOK19
+!!!id: 19214
+!!!signature: 1921400000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{4.gg
+=2
+4gg
+8gg
+=3
+16aa
+16gg
+8ff#
+8gg
+=4
+16aa
+16gg
+8ff#
+8dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16gg
+16ff#
+16gg
+16ee
+16b
+=6
+16cc
+16ee
+8ff
+8dd
+=7
+16dd
+16gg
+16ff#
+16gg
+16ee
+16b
+=8
+16cc
+16ee
+8ff
+8dd}
+!!LO:LB:g=esac
+=9
+{16dd
+16b
+8g
+8b
+=10
+16cc
+16ee
+8ff
+8aa
+=11
+16dd
+16b
+8g
+16a
+16b
+=12
+16cc
+16ee
+8ff
+8dd}
+!!LO:LB:g=esac
+=13
+{16dd
+16b
+16g
+16a
+16b
+16g
+=14
+16cc
+16ee
+8ff
+8aa
+=15
+16dd
+16b
+8g
+16a
+16b
+=16
+16cc
+16ee
+8ff
+8dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 67} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 67}
+!!!page: 67
+!!!ONB: Converted on 2024/12/26 with esac2hum

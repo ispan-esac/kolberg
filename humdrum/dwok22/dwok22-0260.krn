@@ -1,0 +1,114 @@
+!!!!SEGMENT: DWOK2226000000-oj_nie_bede_sie_zenil.krn
+!!!OTL: Oj nie będe sie zenił
+!!!source: DWOK22
+!!!id: 22260
+!!!signature: 2226000000
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M3/4
+{4ee
+4ee
+4ee
+=2
+8ee
+8b
+4dd
+8cc
+8b
+=3
+4a
+4dd
+4dd
+=4
+8dd
+8b
+4ee
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{2a
+4ee
+=6
+8cc
+8b
+4a
+4ee
+=7
+2a
+4ee
+=8
+8dd
+8b
+4cc
+4b}
+!!LO:LB:g=esac
+=9
+{2a
+4ee
+=10
+8cc
+8b
+4a
+4ee
+=11
+2a
+4ee
+=12
+8dd
+8b
+4cc
+4b}
+!!LO:LB:g=esac
+=13
+*M3/8
+{16a
+16a
+8g#
+8a
+=14
+16b
+16dd
+8.ee
+16b
+=15
+16a
+16a
+8g#
+8a
+=16
+16dd
+16b
+8.cc
+16b}
+!!LO:LB:g=esac
+=17
+{16a
+16a
+8g#
+8a
+=18
+16b
+16dd
+8.ee
+16b
+=19
+16a
+16a
+8a
+8ee
+=20
+16dd
+16b
+8.cc
+16b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=165 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 147} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 147}
+!!!page: 147
+!!!ONB: Converted on 2024/12/26 with esac2hum

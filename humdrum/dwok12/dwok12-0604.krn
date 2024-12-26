@@ -1,0 +1,113 @@
+!!!!SEGMENT: DWOK1260400000-bylem_ci_ja_gospodarzem.krn
+!!!OTL: Byłem ci ja gospodarzem
+!!!source: DWOK12
+!!!id: 12604
+!!!signature: 1260400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+16ee
+16cc
+4a
+=3
+16g
+16b
+8cc
+16a
+16f#
+=4
+4.d}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+8dd
+=6
+16ee
+16cc
+8a
+8a
+=7
+16g
+16b
+8cc
+16a
+16f#
+=8
+4.d}
+!!LO:LB:g=esac
+=9
+{16g
+16e
+8.d
+16f#
+=10
+16f#
+16a
+8cc
+8b
+=11
+16g
+16e
+8.d
+16f#
+=12
+16f#
+16a
+8cc
+8b}
+!!LO:LB:g=esac
+=13
+{16g
+16b
+8cc
+16a
+16f#
+=14
+16a
+16cc
+4ee
+=15
+16dd
+16b
+8cc
+16a
+16f#
+=16
+4.d}
+!!LO:LB:g=esac
+=17
+{16g
+16b
+8cc
+16a
+16f#
+=18
+16a
+16cc
+8ee
+8ee
+=19
+16dd
+16b
+8cc
+16a
+16f#
+=20
+4.d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=321 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 305} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 305}
+!!!page: 305
+!!!ONB: Converted on 2024/12/26 with esac2hum

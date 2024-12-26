@@ -1,0 +1,105 @@
+!!!!SEGMENT: DWOK06-K0795-boze_moj_boze_moj.krn
+!!!OTL: Boze moj Boze moj
+!!!source: DWOK06
+!!!id: K0795
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8cc
+4dd
+=2
+8a
+4b
+8g
+=3
+8a
+8f#
+4g
+=4
+8g
+4b
+8dd}
+!!LO:LB:g=esac
+=5
+{8b
+8ee
+4dd
+=6
+8a
+4b
+8f#
+=7
+8g
+8a
+4b
+=8
+8g
+4f#
+8e}
+!!LO:LB:g=esac
+=9
+{4b
+4b
+=10
+8b
+8b
+8cc
+8b
+=11
+4a
+4a
+=12
+8b
+8f#
+8g
+8a}
+!!LO:LB:g=esac
+=13
+{4b
+4b
+=14
+8b
+8b
+8cc
+8b
+=15
+4a
+4a
+=16
+8b
+8f#
+8g
+8a}
+!!LO:LB:g=esac
+=17
+{8b
+8f#
+8g
+8a
+=18
+8b
+8f#
+8g
+8a
+=19
+8b
+8f#
+8g
+8a
+=20
+8b
+8f#
+8g
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=505 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 479} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 479}
+!!!page: 479
+!!!ONB: Converted on 2024/12/26 with esac2hum

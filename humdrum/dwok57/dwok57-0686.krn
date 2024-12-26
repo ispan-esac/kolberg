@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK5768600000-tam_na_stawu_na_stawonku.krn
+!!!OTL: Tam na stawu, na stawońku
+!!!source: DWOK57
+!!!id: 57686
+!!!signature: 5768600000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8gg
+8gg
+8gg
+8ee
+=2
+8ff
+8ff
+8ff
+8aa
+=3
+8gg
+8gg
+8gg
+8ee
+=4
+4ff
+4gg}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+16ee
+16dd
+8cc
+=6
+8dd
+8dd
+16dd
+16ee
+8ff
+=7
+8gg
+8gg
+8gg
+8b
+=8
+4cc
+4cc}
+==
+*-
+!!!ONB: Wariant t. 2: +4+3+4_+4_+6_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 23
+!!!ONB: Converted on 2024/12/26 with esac2hum

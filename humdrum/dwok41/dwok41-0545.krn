@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK4154500000-czy_ja_czlowiek_nieszczesliwy.krn
+!!!OTL: Czy ja człowiek nieszczęśliwy
+!!!source: DWOK41
+!!!id: 41545
+!!!signature: 4154500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16.b
+32dd
+8dd
+8gg
+=2
+16.cc
+32ee
+8ee
+8dd
+=3
+16.b
+32dd
+16cc#
+16dd
+16b
+16g
+=4
+16.cc
+32a
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{16a
+16d
+8d
+8f#
+=6
+16.a
+32cc
+8cc
+8b
+=7
+16g
+16b
+16cc#
+16dd
+16b
+16g
+=8
+16.cc
+32a
+8f#
+8g}
+==
+*-
+!!!ONB: szlachecka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=367 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 284} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, p. 284}
+!!!page: 284
+!!!ONB: Converted on 2024/12/26 with esac2hum

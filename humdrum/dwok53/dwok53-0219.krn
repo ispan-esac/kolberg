@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK5321900000-neturiu_dvaru.krn
+!!!OTL: Neturiu dvaru
+!!!source: DWOK53
+!!!id: 53219
+!!!signature: 5321900000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{4dd
+4b
+4ee
+=2
+2cc#
+8b
+8a
+=3
+4dd
+4b
+4ee
+=4
+2b
+4a}
+!!LO:LB:g=esac
+=5
+{4cc#
+2ee
+=6
+16cc#
+16ee
+16dd
+16cc#
+4b
+4a
+=7
+4ff#
+4ee
+4dd
+=8
+2cc#
+4cc#}
+!!LO:LB:g=esac
+=9
+{4cc#
+2ee
+=10
+16cc#
+16ee
+16dd
+16cc#
+4b
+4a
+=11
+4ff#
+4ee
+4dd
+=12
+2cc#
+4cc#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/053dwok.pdf#page=367 @PL{Oskar Kolberg Dzieła Wszystkie 53: Litwa, s. 327} @EN{Oskar Kolberg Complete Works 53: Lithuania, p. 327}
+!!!page: 327
+!!!ONB: Converted on 2024/12/26 with esac2hum

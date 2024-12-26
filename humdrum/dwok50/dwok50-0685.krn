@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK5068500000-instrumentalna_-_yd.krn
+!!!OTL: Instrumentalna - Żyd
+!!!source: DWOK50
+!!!id: 50685
+!!!signature: 5068500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+4.r
+{16g
+16a
+=2
+8b
+4b
+16a
+16g
+=3
+8b
+4b
+16a
+16g
+=4
+8a
+8a
+16a
+16g
+16a
+16b
+=5
+4g
+4g}
+!!LO:LB:g=esac
+=6
+{8b
+4b
+16a
+16g
+=7
+8b
+4b
+16a
+16g
+=8
+8a
+8a
+16a
+16g
+16a
+16b
+=9
+4g
+4g}
+!!LO:LB:g=esac
+=10
+{8a
+4a
+16b
+16cc#
+=11
+8dd
+8cc#
+4b
+=12
+8a
+8a
+16a
+16g
+16a
+16b
+=13
+4g
+16g
+16f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=445 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 412} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 412}
+!!!page: 412
+!!!ONB: Converted on 2024/12/26 with esac2hum

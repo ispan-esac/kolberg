@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK2553800000-siwy_konik_siwy.krn
+!!!OTL: Siwy konik siwy
+!!!source: DWOK25
+!!!id: 25538
+!!!signature: 2553800000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16b
+16cc
+8ee
+8gg
+=2
+16gg
+16ff
+8dd
+8g
+=3
+16b
+16cc
+8ee
+8cc
+=4
+8.dd
+16g
+8b}
+!!LO:LB:g=esac
+=5
+{16b
+16cc
+8ee
+8ee
+=6
+16dd
+16ff
+8dd
+8g
+=7
+16b
+16cc
+8ee
+8cc
+=8
+8.dd
+16g
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=234 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 209} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 209}
+!!!page: 209
+!!!ONB: Converted on 2024/12/26 with esac2hum

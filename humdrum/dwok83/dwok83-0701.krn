@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK8370100000-kochac_ach_kochac_bede_cie_na_wieki.krn
+!!!OTL: Kochać, ach, kochać będę cię na wieki
+!!!source: DWOK83
+!!!id: 83701
+!!!signature: 8370100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8ee
+8ff#
+4.gg
+8ff#
+=2
+8ee
+8dd
+8cc
+8b
+4dd
+8cc}
+8r
+!!LO:LB:g=esac
+=3
+{4cc
+8b
+8cc
+4.aa
+8gg
+=4
+8ff#
+8ee
+8dd
+8cc
+4cc
+4b}
+!!LO:LB:g=esac
+=5
+{4b
+8cc
+8b
+4ee
+4ee
+=6
+8dd#
+8ff#
+8bb
+8aa
+4aa
+4gg}
+!!LO:LB:g=esac
+=7
+{4dd
+8ee
+8ff#
+8gg
+8b
+8ee
+8dd
+=8
+8dd
+8cc
+8b
+8a
+4a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 61} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 61}
+!!!page: 61
+!!!ONB: Converted on 2024/12/26 with esac2hum

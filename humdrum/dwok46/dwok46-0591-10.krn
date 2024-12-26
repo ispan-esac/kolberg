@@ -1,0 +1,66 @@
+!!!!SEGMENT: DWOK4659100010-wieczna_mi_przysiagles_wiare.krn
+!!!OTL: Wieczną mi przysiągłeś wiarę
+!!!source: DWOK46
+!!!id: 46591
+!!!signature: 4659100010
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=1
+{8a
+8b-
+8cc
+8cc
+8a
+8f
+=2
+8cc
+8b-
+4g
+4r
+=3
+8g
+8a
+8b-
+8g
+8.dd
+16cc
+=4
+4a
+4f}
+4r
+!!LO:LB:g=esac
+=5
+{8a
+8b-
+8a
+8g
+8f
+8e
+=6
+8f
+8g
+4a
+4r
+=7
+8a
+8cc
+8b
+8a
+8b
+8cc
+=8
+8b
+4a}
+8r
+4r
+==
+*-
+!!!ONB: Modulacje
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=401 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 367-368} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, pp. 367-368}
+!!!page: 367-368
+!!!ONB: Converted on 2024/12/26 with esac2hum

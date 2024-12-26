@@ -1,0 +1,79 @@
+!!!!SEGMENT: DWOK4909100000-tryumfy_krola_niebieskiego.krn
+!!!OTL: Tryumfy Króla Niebieskiego
+!!!source: DWOK49
+!!!id: 49091
+!!!signature: 4909100000
+**kern
+*clefG2
+*k[f#]
+*G:
+=1
+*M4/4
+{4cc
+4ee
+4.dd
+8cc
+=2
+8b
+8dd
+8cc
+8b
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=3
+{4cc
+4ee
+4.dd
+8cc
+=4
+8b
+8dd
+8cc
+8b
+8a
+8f#
+4d}
+!!LO:LB:g=esac
+=5
+*M2/4
+{8b
+8dd
+8cc
+8b
+=6
+8a
+8ee
+8dd
+8cc
+=7
+8b
+8dd
+8cc
+8b
+=8
+8a
+8ee
+4dd}
+!!LO:LB:g=esac
+=9
+*M4/4
+{4cc
+4ee
+2dd
+=10
+4gg
+4ff#
+2gg
+=11
+4b
+4a
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 177} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 177}
+!!!page: 177
+!!!ONB: Converted on 2024/12/26 with esac2hum

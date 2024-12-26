@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK2529100000-owo_ja_mazur_sumno_bogaty.krn
+!!!OTL: Owo ja Mazur sumno bogaty
+!!!source: DWOK25
+!!!id: 25291
+!!!signature: 2529100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16g
+8b
+16b
+16dd
+=2
+4dd
+8r
+=3
+16ee
+16ee
+8ee
+16ee
+16dd
+=4
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{16g
+16g
+8b
+16b
+16dd
+=6
+4dd
+8r
+=7
+16ee
+16ee
+8ee
+16ee
+16dd
+=8
+4dd}
+8r
+!!LO:LB:g=esac
+=9
+{16dd
+16dd
+8.ee
+16cc
+=10
+16b
+16g
+8a
+8d
+=11
+16dd
+16dd
+8.ee
+16cc
+=12
+16b
+16g
+8f#
+8d}
+!!LO:LB:g=esac
+=13
+{16a
+16f#
+8a
+8b
+=14
+4.g
+=15
+8e
+8.f#
+16d
+=16
+16a
+16f#
+8a
+8b
+=17
+8g}
+8r
+8r
+==
+*-
+!!!ONB: Wariant w takcie siódmym i dziesiątym 222_3_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=155 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 130} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 130}
+!!!page: 130
+!!!ONB: Converted on 2024/12/26 with esac2hum

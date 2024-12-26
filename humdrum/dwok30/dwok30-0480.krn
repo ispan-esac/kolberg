@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK3048000000-cy_ja_tobi_nekazala.krn
+!!!OTL: Cy ja tobi nekazała
+!!!source: DWOK30
+!!!id: 30480
+!!!signature: 3048000000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8cc#
+8dd
+8ee
+8ff
+=2
+8ee
+8dd
+8cc#
+8b-
+=3
+8dd
+16dd
+16cc
+16b-
+16a
+16g
+16f#
+=4
+4g
+8.b-
+16g}
+!!LO:LB:g=esac
+=5
+{8cc#
+8dd
+8ee
+8ff
+=6
+8ee
+8dd
+8cc#
+8b-
+=7
+8dd
+16dd
+16cc
+16b-
+16a
+16g
+16f#
+=8
+4g
+4g}
+==
+*-
+!!!ONB: Kołomyjka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=270 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 257} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 257}
+!!!page: 257
+!!!ONB: Converted on 2024/12/26 with esac2hum

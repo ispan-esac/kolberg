@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1334600001-kiedyby_kiedyby.krn
+!!!OTL: Kiedyby kiedyby
+!!!source: DWOK13
+!!!id: 13346
+!!!signature: 1334600001
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/8
+=1
+{8b
+8ee
+8dd#
+=2
+8.ee
+16cc#
+8cc#
+=3
+8b
+16ee
+16dd#
+16b
+16cc#
+=4
+8a
+8g#
+8b}
+!!LO:LB:g=esac
+=5
+{16e
+16g#
+8b
+8g#
+=6
+16b
+16cc#
+16a
+16g#
+8e
+=7
+16b
+16cc#
+16a
+16g#
+8e
+=8
+16b
+16cc#
+16a
+16g#
+8e}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+16ee
+16dd#
+=10
+16b
+16cc#
+4a
+=11
+8.a
+16g#
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 150-151} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 150-151}
+!!!page: 150-151
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2904300000-oj_na_rici_na_ardani.krn
+!!!OTL: Oj na rici na Ardani
+!!!source: DWOK29
+!!!id: 29043
+!!!signature: 2904300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ee
+8ee
+4.cc
+8dd
+=2
+8ee
+8gg
+4.ff
+8ee}
+!!LO:LB:g=esac
+=3
+{8ee
+8ee
+4.cc
+8dd
+=4
+8dd
+8dd
+4.cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+4.cc
+8dd
+=6
+8ee
+8gg
+4.ff
+8ee}
+!!LO:LB:g=esac
+=7
+{8ee
+8ee
+4.cc
+8dd
+=8
+8dd
+8dd
+4.cc
+8cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/029dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 29: Pokucie I, s. 137} @EN{Oskar Kolberg Complete Works 29: Pokuttia I, p. 137}
+!!!page: 137
+!!!ONB: Converted on 2024/12/26 with esac2hum

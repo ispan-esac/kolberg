@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK55120000000-nedaleko_cisar_sedyt.krn
+!!!OTL: Nedałeko cisar sedyt
+!!!source: DWOK55
+!!!id: 551200
+!!!signature: 55120000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16a
+16cc
+8cc
+16cc
+16a
+=2
+16a
+16dd
+8dd
+16dd
+16a
+=3
+16a
+16cc
+8cc
+16cc
+16a
+=4
+16cc
+8.a
+8a}
+!!LO:LB:g=esac
+=5
+{16a
+16dd
+8dd
+8cc
+=6
+16a
+16a
+8a
+8a
+=7
+16a
+16a
+8a
+8a
+=8
+4a
+8a}
+==
+*-
+!!!ONB: DWOK 55 nr 1200
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=429 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 402} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 402}
+!!!page: 402
+!!!ONB: Converted on 2024/12/26 with esac2hum

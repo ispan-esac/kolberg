@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK7715000000-kto_kaline_lomal.krn
+!!!OTL: Kto kalinę łomał
+!!!source: DWOK77
+!!!id: 77150
+!!!signature: 7715000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+4ee
+4gg
+=2
+4ff
+2ff
+=3
+8ff
+8ff
+4ee
+8ff
+8dd
+=4
+4cc
+2g}
+!!LO:LB:g=esac
+=5
+{8b
+8cc
+4ee
+4ee
+=6
+4ee
+4ff
+4dd
+=7
+8ff
+8ff
+4ee
+4dd
+=8
+4cc
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 93
+!!!ONB: Converted on 2024/12/26 with esac2hum

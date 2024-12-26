@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2722400000-a_ty_ptasku_sokolasku.krn
+!!!OTL: A ty ptasku sokolasku
+!!!source: DWOK27
+!!!id: 27224
+!!!signature: 2722400000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8b
+8cc
+8dd
+=2
+8cc
+8b
+8a
+8g
+=3
+8cc
+8b
+8cc
+8dd
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{8cc
+8b
+8cc
+8dd
+=6
+8cc
+8b
+8a
+8g
+=7
+8cc
+8b
+8cc
+8dd
+=8
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=287 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 268} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 268}
+!!!page: 268
+!!!ONB: Converted on 2024/12/26 with esac2hum

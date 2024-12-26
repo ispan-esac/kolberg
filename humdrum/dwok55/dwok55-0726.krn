@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK5572600000-dyna_dyna_dyna_dyna.krn
+!!!OTL: Dyna, dyna, dyna, dyna
+!!!source: DWOK55
+!!!id: 55726
+!!!signature: 5572600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8cc
+8cc
+8cc
+8cc
+=2
+8cc
+8cc
+8cc
+8cc
+=3
+8ff
+8ee
+8dd
+8cc
+=4
+8dd
+4dd
+8r
+=5
+8cc
+8cc
+8ff
+8ff
+=6
+8cc
+8cc
+8cc
+8cc
+=7
+8ee
+8ee
+8dd
+8ee
+=8
+8ff
+4ff}
+8r
+==
+*-
+!!!ONB: Dzieciom
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/055dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 55: Ruś karpacka II, s. 191} @EN{Oskar Kolberg Complete Works 55: Carpathian Ruthenia II, p. 191}
+!!!page: 191
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4933000001-posadzila_jablonenke_w_jesieni.krn
+!!!OTL: Posadziła jabłoneńkę w jesieni
+!!!source: DWOK49
+!!!id: 49330
+!!!signature: 4933000001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8a
+4a
+=2
+8cc
+4dd
+=3
+8ee
+4dd
+=4
+8cc
+4a
+=5
+8cc
+4dd
+=6
+4.ee}
+!!LO:LB:g=esac
+=7
+{8ee
+4ee
+=8
+8cc
+4ee
+=9
+8dd
+4dd
+=10
+8a
+4dd
+=11
+8cc
+4b
+=12
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=468 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 380} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 380}
+!!!page: 380
+!!!ONB: Converted on 2024/12/26 with esac2hum

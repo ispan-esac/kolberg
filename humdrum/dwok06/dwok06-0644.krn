@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK06-K0644-trzesawa_trzesawa_na_trzesawie_lawa.krn
+!!!OTL: Trzesawa trzesawa na trzesawie lawa
+!!!source: DWOK06
+!!!id: K0644
+!!!signature:
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=1
+{8f#
+8a
+8dd
+8ff#
+=2
+8ff#
+4ee
+8dd
+=3
+8cc#
+16b#
+16cc#
+8dd
+8b
+=4
+8b
+4.a}
+!!LO:LB:g=esac
+=5
+{8.cc#
+16ee
+16dd
+16cc#
+16dd
+16b
+=6
+8b
+4a
+8f#
+=7
+8e
+16e
+16f#
+8g
+8g
+=8
+8f#
+4a
+8dd}
+!!LO:LB:g=esac
+=9
+{8dd
+16dd
+16cc#
+16ee
+16dd
+16cc#
+16b
+=10
+8b
+4a
+8f#
+=11
+8e
+16e
+16f#
+8g
+8g
+=12
+8f#
+4a
+8dd
+=13
+8cc#
+8ee
+8gg
+8cc#
+=14
+16ee
+16dd
+4.dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=425 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 399} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 399}
+!!!page: 399
+!!!ONB: Converted on 2024/12/26 with esac2hum

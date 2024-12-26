@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK2030500000-wesela_godzina_biedy_wiek.krn
+!!!OTL: Wesela godzina, biedy wiek
+!!!source: DWOK20
+!!!id: 20305
+!!!signature: 2030500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16g
+16a
+8cc
+4ee
+=2
+8ee
+4b
+8dd
+=3
+8ee
+16cc
+16b
+4a
+=4
+8a
+4e
+8g#}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4cc
+=6
+8dd
+4b
+8b
+=7
+8dd
+8cc
+4a
+=8
+8f#
+4e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=242 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 222} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 222}
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

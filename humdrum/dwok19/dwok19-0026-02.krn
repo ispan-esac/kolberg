@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK1902600002-warszawa_i_krakow.krn
+!!!OTL: Warszawa i Kraków
+!!!source: DWOK19
+!!!id: 19026
+!!!signature: 1902600002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4.dd
+8dd
+=2
+8dd
+8dd
+8dd
+8dd}
+!!LO:LB:g=esac
+=3
+{8dd
+16ff#
+16gg
+4dd
+=4
+16b
+16a
+4cc
+8dd
+=5
+16cc
+16b
+16a
+16b
+4cc
+=6
+8f#
+4g
+8b}
+!!LO:LB:g=esac
+=7
+{8cc
+4ee
+8ff#
+=8
+16aa
+16gg
+16ff#
+16gg
+4dd
+=9
+16cc
+16b
+16a
+16b
+4cc
+=10
+8f#
+4g
+8d}
+!!LO:LB:g=esac
+=11
+{8cc
+8ee
+8ee
+8ff#
+=12
+16aa
+16gg
+16ff#
+16gg
+4dd
+=13
+16cc
+16b
+16a
+16b
+4cc
+=14
+8f#
+4g
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=26 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 12} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 12}
+!!!page: 12
+!!!ONB: Converted on 2024/12/26 with esac2hum

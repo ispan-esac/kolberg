@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK4959900000-siadla_mucha_na_konopie_otrzepala_kwiat.krn
+!!!OTL: Siadła mucha na konopie, otrzepała kwiat
+!!!source: DWOK49
+!!!id: 49599
+!!!signature: 4959900000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8cc
+4.ee
+8dd#
+=2
+8ee
+8dd
+4ee
+4cc
+=3
+8b
+8g#
+4e
+8f#
+8g#
+=4
+4a}
+2r
+!!LO:LB:g=esac
+=5
+{8b
+8g#
+4e
+8f#
+8g#
+=6
+8a
+8b
+8cc
+8b
+8a
+8cc
+=7
+8b
+8g#
+4e
+8f#
+8g#
+=8
+4a}
+2r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=593 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 503} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 503}
+!!!page: 503
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK57105200001-ne_budu_ja_zyta_zal.krn
+!!!OTL: Ne budu ja żyta żał
+!!!source: DWOK57
+!!!id: 571052
+!!!signature: 57105200001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8gg
+8gg
+8gg
+8ff
+=2
+8ee
+8ee
+4dd
+=3
+8gg
+8gg
+8gg
+8ff
+=4
+4ee
+4dd}
+!!LO:LB:g=esac
+=5
+{8gg
+8gg
+8gg
+8ff
+=6
+8ee
+8ee
+4dd
+=7
+8cc
+8ee
+8dd
+8b
+=8
+4cc
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 222
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK1241800001-od_poznania_fornal_jedzie.krn
+!!!OTL: Od Poznania fornal jedzie
+!!!source: DWOK12
+!!!id: 12418
+!!!signature: 1241800001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16dd
+8cc
+8b
+=2
+16cc
+16cc
+8cc
+16b
+16a
+=3
+16g
+16dd
+8cc
+8b
+=4
+16cc
+16cc
+8cc
+16b
+16a}
+!!LO:LB:g=esac
+=5
+{16b
+16a
+8b
+8dd
+=6
+16a
+16g
+8f#
+8d
+=7
+8g
+4dd
+=8
+4cc
+16b
+16a}
+!!LO:LB:g=esac
+=9
+{16b
+16a
+8b
+8dd
+=10
+16a
+16g
+8f#
+8d
+=11
+8g
+4a
+=12
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=232 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 216} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 216}
+!!!page: 216
+!!!ONB: Converted on 2024/12/26 with esac2hum

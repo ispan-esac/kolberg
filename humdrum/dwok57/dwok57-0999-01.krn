@@ -1,0 +1,85 @@
+!!!!SEGMENT: DWOK5799900001-dawnoz_ja_damno_w_rodyny_bula.krn
+!!!OTL: Dawnoż ja, damno w rodyny buła
+!!!source: DWOK57
+!!!id: 57999
+!!!signature: 5799900001
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4cc
+4g
+=2
+4cc
+4dd
+=3
+8ee
+8dd
+8cc
+8g
+=4
+8cc
+8cc
+4ff
+=5
+4ee
+4dd
+=6
+2cc}
+!!LO:LB:g=esac
+=7
+{8cc
+8g
+4ff
+=8
+4ee
+4dd
+=9
+16cc
+16ee
+8dd
+4cc
+=10
+4a
+4g
+=11
+4cc
+4ff
+=12
+4ee
+4dd
+=13
+2cc}
+!!LO:LB:g=esac
+=14
+{8cc
+8g
+4ff
+=15
+4ee
+4dd
+=16
+16cc
+16ee
+8dd
+4cc
+=17
+4a
+4g
+=18
+4cc
+4ff
+=19
+4ee
+4dd
+=20
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 186
+!!!ONB: Converted on 2024/12/26 with esac2hum

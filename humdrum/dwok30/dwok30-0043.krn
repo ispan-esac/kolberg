@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK3004300000-piszov_wasyl_molodenki.krn
+!!!OTL: Piszov Wasyl mołodeńki
+!!!source: DWOK30
+!!!id: 30043
+!!!signature: 3004300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8cc
+8ee
+=2
+8dd
+4dd
+=3
+8cc
+8ee
+8dd
+=4
+8dd
+4dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8dd
+=6
+8dd
+8dd
+8cc
+=7
+4dd
+8b
+=8
+8b
+4cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8ee
+8dd
+=10
+8dd
+4dd
+=11
+8b
+4cc
+=12
+8cc
+4dd}
+!!LO:LB:g=esac
+=13
+{8b
+8ee
+8b
+=14
+8cc
+4cc
+=15
+4.cc
+=16
+4cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=50 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 37} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

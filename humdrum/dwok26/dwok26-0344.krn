@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2634400000-miedzy_ogrody_biegaly_wody.krn
+!!!OTL: Między ogrody biegały wody
+!!!source: DWOK26
+!!!id: 26344
+!!!signature: 2634400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=1
+{8f
+8ff
+8ff
+4ff
+8ee
+=2
+8gg
+8ff
+8dd
+4cc
+8cc}
+!!LO:LB:g=esac
+=3
+{8cc
+8dd
+8ee
+4ff
+8a
+=4
+8cc
+8b-
+8g
+4f
+8f}
+!!LO:LB:g=esac
+=5
+{8e
+8g
+8g
+4b-
+8a
+=6
+8f
+8a
+8a
+4a
+8g}
+!!LO:LB:g=esac
+=7
+{8e
+8g
+8g
+4b-
+8a
+=8
+8cc
+8b-
+8g
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 257
+!!!ONB: Converted on 2024/12/26 with esac2hum

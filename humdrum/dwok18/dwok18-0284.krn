@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK1828400000-pani_matko_moja.krn
+!!!OTL: Pani matko moja
+!!!source: DWOK18
+!!!id: 18284
+!!!signature: 1828400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8cc
+8ee
+8ee
+8ff
+16ee
+16dd
+8b
+=2
+8a
+8dd
+8cc
+8a
+8b
+8g#}
+!!LO:LB:g=esac
+=3
+{8a
+8cc
+8b
+8cc
+8ee
+8dd
+=4
+8b
+8dd
+8cc
+8a
+8b
+8a}
+!!LO:LB:g=esac
+=5
+{8cc
+8ee
+8ee
+8ff
+16ee
+16dd
+8b
+=6
+8a
+8dd
+8cc
+8a
+8b
+8g#}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+8b
+8cc
+8ee
+8dd
+=8
+8b
+8dd
+8cc
+8a
+8b
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 163} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 163}
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

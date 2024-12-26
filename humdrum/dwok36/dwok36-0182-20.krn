@@ -1,0 +1,114 @@
+!!!!SEGMENT: DWOK3618200020-lublu_mamo_petrusiainstrumentalna.krn
+!!!OTL: Lublu mamo Petrusia—instrumentalna
+!!!source: DWOK36
+!!!id: 36182
+!!!signature: 3618200020
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16a
+16g#
+16a
+16b
+16cc
+16b
+16cc
+16dd
+=2
+8ee
+8ee
+4e
+=3
+16a
+16g#
+16a
+16b
+16cc
+16b
+16cc
+16dd
+=4
+8ee
+8ee
+4e}
+!!LO:LB:g=esac
+=5
+{16a
+16g#
+16a
+16b
+16cc
+16b
+16cc
+16dd
+=6
+8ee
+8ee
+4ee
+=7
+8ee
+8ee
+8ee
+8ee
+=8
+4ee
+4ee}
+!!LO:LB:g=esac
+=9
+{8.ff
+16ee
+16dd
+16ee
+16dd
+16cc
+=10
+16b
+16cc
+16b
+16a
+4g
+=11
+8cc
+8cc
+8cc
+8dd
+=12
+8ee
+8ee
+8ee
+8gg}
+!!LO:LB:g=esac
+=13
+{8.ff
+16ee
+16dd
+16ee
+16dd
+16cc
+=14
+16b
+16cc
+16b
+16a
+4g
+=15
+8cc
+8cc
+8cc
+8ee
+=16
+8cc
+8ee
+8cc
+8ee}
+==
+*-
+!!!ONB: Wesełucha
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 100-101
+!!!ONB: Converted on 2024/12/26 with esac2hum

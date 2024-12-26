@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK45147200000-e_bywalek_juhasem.krn
+!!!OTL: E, bywałek juhasem
+!!!source: DWOK45
+!!!id: 451472
+!!!signature: 45147200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{4cc
+8ee
+8ff
+=2
+4gg
+4dd
+=3
+4cc
+8ee
+8cc
+=4
+8ee
+8ff
+4gg
+=5
+8dd
+8b
+4dd
+=6
+2cc}
+!!LO:LB:g=esac
+=7
+{4ee
+4ee
+=8
+8dd
+8ee
+4dd
+=9
+8cc
+8ee
+8dd
+8ee
+=10
+4dd
+4cc
+=11
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=197 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 183} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 183}
+!!!page: 183
+!!!ONB: Converted on 2024/12/26 with esac2hum

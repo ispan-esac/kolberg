@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK2119500000-hej_patrzta_chlopcy_co_tu_luda.krn
+!!!OTL: Hej! Patrzta chłopcy co tu luda
+!!!source: DWOK21
+!!!id: 21195
+!!!signature: 2119500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{2dd
+=2
+8.b
+16cc
+8dd
+8dd
+=3
+8dd
+8dd
+8dd
+8g
+=4
+8.b
+16cc
+8dd
+8dd
+=5
+8dd
+8dd
+8dd
+8g
+=6
+8b
+8b
+8a
+8a
+=7
+2g}
+!!LO:LB:g=esac
+=8
+{8b
+8b
+8a
+8a
+=9
+8.b
+16cc
+8dd
+8dd
+=10
+8b
+8b
+8a
+8a
+=11
+8.b
+16cc
+8dd
+8g}
+!!LO:LB:g=esac
+=12
+{8b
+8b
+8a
+8a
+=13
+8g
+4.g
+=14
+8b
+8b
+8a
+8a
+=15
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 98} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

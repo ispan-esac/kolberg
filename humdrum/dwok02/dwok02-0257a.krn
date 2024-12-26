@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK02-K0257a-oj_idem_ja_idem.krn
+!!!OTL: Oj idem ja idem
+!!!source: DWOK02
+!!!id: K0257a
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=1
+{4aa
+16ee
+16gg
+=2
+16aa
+16ff
+8ee
+8dd
+=3
+16ee
+16ee
+8gg
+8dd
+=4
+16ff
+16ee
+4dd}
+!!LO:LB:g=esac
+=5
+{16ee
+16gg#
+8aa
+8ff
+=6
+8ee
+4dd
+=7
+16ee
+16ee
+8gg
+8dd
+=8
+16ff
+16ee
+4dd}
+==
+*-
+!!!ONB: frazy 1-2
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=217 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 206} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 206}
+!!!page: 206
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK1003600012-nie_chciala_nie_chciala_we_wianyszku_chodzic.krn
+!!!OTL: Nie chciała nie chciała we wianyszku chodzić
+!!!source: DWOK10
+!!!id: 10036
+!!!signature: 1003600012
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4cc
+4.ee
+8dd
+=2
+4cc
+4.ee
+8ff
+=3
+8gg
+8aa
+4gg
+4gg
+=4
+4dd
+16b
+16g}
+8r
+4r
+!!LO:LB:g=esac
+=5
+{4g
+4.ff
+8dd
+=6
+4cc
+4.ee
+8dd
+=7
+8cc
+8b
+4cc
+4dd
+=8
+4ee
+16cc
+16g}
+8r
+4r
+==
+*-
+!!!ONB: Wersja wokalna-wariant melodii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/010dwok.pdf#page=125 @PL{Oskar Kolberg Dzieła Wszystkie 10: W. Ks. Poznańskie II, s. 109} @EN{Oskar Kolberg Complete Works 10: Grand Duchy of Poznań II, p. 109}
+!!!page: 109
+!!!ONB: Converted on 2024/12/26 with esac2hum

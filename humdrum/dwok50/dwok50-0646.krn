@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK5064600000-w_czuzyny_idu.krn
+!!!OTL: W czuzyny idu
+!!!source: DWOK50
+!!!id: 50646
+!!!signature: 5064600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8g
+8g
+8g
+8b
+4.dd
+8cc#
+=2
+4ee
+8dd
+8cc#
+4dd
+8cc
+8b
+=3
+4dd
+8cc
+8b
+8cc
+8b
+8a
+8a
+=4
+4dd
+8cc
+8b
+4b}
+4r
+!!LO:LB:g=esac
+=5
+{8g
+8g
+8g
+8a
+4.b
+8a
+=6
+4cc
+8b
+8a
+4b
+8a
+8g
+=7
+4a
+8g
+8f#
+4g
+4e
+=8
+4cc
+8b
+8a
+8g}
+8r
+4r
+==
+*-
+!!!ONB: wariant t. 1: 11136545
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=422 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 389} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 389}
+!!!page: 389
+!!!ONB: Converted on 2024/12/26 with esac2hum

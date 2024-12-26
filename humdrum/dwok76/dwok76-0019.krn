@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK7601900000-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK76
+!!!id: 76019
+!!!signature: 7601900000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8dd
+8ee
+8ff
+8dd
+=2
+4ee
+4cc
+=3
+8ee
+4dd
+8a
+=4
+8g
+4a
+8cc}
+!!LO:LB:g=esac
+=5
+{8dd
+8gg
+8ff
+8dd
+=6
+4ee
+4cc
+=7
+8ee
+4dd
+8a
+=8
+8b
+4a
+8cc}
+==
+*-
+!!!ONB: Do czepin tańczą kobiety
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=52 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 16} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 16}
+!!!page: 16
+!!!ONB: Converted on 2024/12/26 with esac2hum

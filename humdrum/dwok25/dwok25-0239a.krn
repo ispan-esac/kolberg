@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK25239a0000-choc_lipka_zielona_brzegiem_sie_rozwija.krn
+!!!OTL: Choć lipka zielona brzegiem się rozwija
+!!!source: DWOK25
+!!!id: 25239a
+!!!signature: 25239a0000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8a
+8cc#
+8ee
+8ee
+8cc#
+8a
+=2
+8g#
+8b
+8dd
+8b
+8g#
+8e
+=3
+8a
+8cc#
+8ee
+8ee
+8cc#
+8a
+=4
+8g#
+8b
+8dd
+8b
+8g#
+8e}
+!!LO:LB:g=esac
+=5
+{4b
+4dd
+4e
+=6
+8a
+8cc#
+2cc#
+=7
+8b
+8dd
+4dd
+8b
+8g#
+=8
+8a
+8cc#
+2a}
+==
+*-
+!!!ONB: Wariant w takcie trzecim 244_-5_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=129 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 104} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 104}
+!!!page: 104
+!!!ONB: Converted on 2024/12/26 with esac2hum

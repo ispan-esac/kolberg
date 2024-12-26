@@ -1,0 +1,99 @@
+!!!!SEGMENT: DWOK0427300020-nie_wyganiaj_owczaryszku.krn
+!!!OTL: Nie wyganiaj owczaryszku
+!!!source: DWOK04
+!!!id: K0273b
+!!!signature: 0427300020
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{16a
+16cc
+8dd
+16b-
+16a
+=
+24g
+24b-
+24dd
+8ff
+8cc
+=2
+16a
+16cc
+8dd
+16b-
+16a
+=
+24g
+24b-
+24dd
+8ff
+8cc}
+!!LO:LB:g=esac
+=3
+{16a
+16cc
+8dd
+16b-
+16a
+=
+24g
+24f
+24e
+8f
+8g
+=4
+16a
+16cc
+8dd
+16b-
+16a
+=
+24g
+24f
+24e
+8g
+16a
+16f}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+=6
+16g
+16b-
+16dd
+16ff
+8cc
+=7
+8a
+8a
+8a
+=8
+16.g
+32f
+16e
+16g
+8cc
+=9
+8a
+8a
+8a
+=10
+16.g
+32f
+16e
+16g
+8f}
+==
+*-
+!!!ONB: Część instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 135-136} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), pp. 135-136}
+!!!page: 135-136
+!!!ONB: Converted on 2024/12/26 with esac2hum

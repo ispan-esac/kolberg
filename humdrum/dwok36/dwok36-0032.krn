@@ -1,0 +1,97 @@
+!!!!SEGMENT: DWOK3603200000-stawlano_prystawlano.krn
+!!!OTL: Stawlano prystawlano
+!!!source: DWOK36
+!!!id: 36032
+!!!signature: 3603200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8b
+8b
+=2
+8cc
+8cc
+8b
+=3
+4.a
+=4
+8b
+8g}
+8r
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8b
+=6
+8cc
+8cc
+8b
+=7
+8a
+4g}
+!!LO:LB:g=esac
+=8
+{8cc
+8cc
+8b
+=9
+16b
+16g
+4a
+=10
+4g
+8g}
+!!LO:LB:g=esac
+=11
+{16g
+16a
+8b
+8b
+=12
+8cc
+8cc
+8b
+=13
+4.a
+=14
+8b
+8g}
+8r
+!!LO:LB:g=esac
+=15
+{16g
+16a
+8b
+8b
+=16
+8cc
+8cc
+8b
+=17
+8a
+4g}
+!!LO:LB:g=esac
+=18
+{8cc
+8cc
+8b
+=19
+16a
+16g
+8a
+8f#
+=20
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 18
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK4652000000-oj_z_gory_woda_idzie.krn
+!!!OTL: Oj, z góry woda idzie
+!!!source: DWOK46
+!!!id: 46520
+!!!signature: 4652000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+{4gg
+12ff#
+12ee
+12ff#
+4ee
+=1
+8a
+8cc
+4ee
+4dd
+=
+4gg
+12ff#
+12ee
+12ff#
+4ee
+=2
+8a
+8cc
+4b
+4g}
+!!LO:LB:g=esac
+=
+{12b
+12g
+12b
+4dd
+8cc
+8b
+=3
+8a
+8cc
+4ee
+4dd
+=
+12b
+12g
+12b
+4dd
+8cc
+8b
+=4
+8a
+8cc
+4b
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/046dwok.pdf#page=351 @PL{Oskar Kolberg Dzieła Wszystkie 46: Kaliskie i Sieradzkie, s. 317} @EN{Oskar Kolberg Complete Works 46: Kalisz Region and Sieradz Voivodeship, p. 317}
+!!!page: 317
+!!!ONB: Converted on 2024/12/26 with esac2hum

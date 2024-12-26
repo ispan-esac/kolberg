@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK2613200001-wyszla_z_kosciolecka.krn
+!!!OTL: Wyszła z kościółecka
+!!!source: DWOK26
+!!!id: 26132
+!!!signature: 2613200001
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M2/4
+=1
+{4b
+8dd
+8ee-
+=2
+4cc
+4cc
+=3
+8b
+8b
+8dd
+8ee-
+=4
+4cc
+8cc
+8g}
+!!LO:LB:g=esac
+=5
+{4ee-
+8cc
+8ee-
+=6
+4dd
+4b
+=7
+8f
+8g
+8b
+8cc
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 146
+!!!ONB: Converted on 2024/12/26 with esac2hum

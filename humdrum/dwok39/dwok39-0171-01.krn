@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK3917100001-a_gdy_bedziem_maszerowac.krn
+!!!OTL: A gdy będziem maszerować
+!!!source: DWOK39
+!!!id: 39171
+!!!signature: 3917100001
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4.cc
+8g
+4cc
+4cc
+=2
+4dd
+4dd
+4b
+4cc}
+!!LO:LB:g=esac
+=3
+{4ee
+4gg
+4gg
+4aa
+=4
+4ff
+4ff
+4ee
+4gg}
+!!LO:LB:g=esac
+=5
+{4.dd
+8g
+4g
+4ff
+=6
+4ee
+4dd
+4cc
+4gg}
+!!LO:LB:g=esac
+=7
+{4.dd
+8g
+4g
+4ff
+=8
+4ee
+4dd
+4b
+4cc}
+!!LO:LB:g=esac
+=9
+{4.dd
+8g
+4g
+4ff
+=10
+4ee
+4dd
+4cc
+4gg}
+!!LO:LB:g=esac
+=11
+{4.dd
+8g
+4g
+4ff
+=12
+4ee
+4dd
+4b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 207} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 207}
+!!!page: 207
+!!!ONB: Converted on 2024/12/26 with esac2hum

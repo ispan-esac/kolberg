@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK5063700000-w_zielonym_gaju_przy_milym_chlodzie.krn
+!!!OTL: W zielonym gaju przy miłym chłodzie
+!!!source: DWOK50
+!!!id: 50637
+!!!signature: 5063700000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8ff
+8ee
+8dd
+=2
+4cc
+8a
+=3
+8cc
+8b-
+8b-
+=4
+4cc
+8a}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+8dd
+=6
+4cc
+8a
+=7
+8cc
+8b-
+8g
+=8
+4f
+8f}
+!!LO:LB:g=esac
+=9
+{4g
+8g
+=10
+4cc
+8cc
+=11
+8dd
+8b-
+8g
+=12
+4cc
+8cc}
+!!LO:LB:g=esac
+=13
+{8ff
+8ee
+8dd
+=14
+4cc
+8a
+=15
+8cc
+8b-
+8g
+=16
+4f
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=415 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 382} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 382}
+!!!page: 382
+!!!ONB: Converted on 2024/12/26 with esac2hum

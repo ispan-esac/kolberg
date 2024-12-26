@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK2832500002-i_przyjechal_w_podworze.krn
+!!!OTL: I przyjechał w podwórze
+!!!source: DWOK28
+!!!id: 28325
+!!!signature: 2832500002
+**kern
+*clefG2
+*k[]
+*a:
+=1
+*M2/4
+{8a
+16b
+16cc
+8ee
+16dd
+16cc
+=2
+8b
+8dd
+4dd
+=3
+8a
+16b
+16cc
+8a
+16b
+16a
+=4
+16g#
+16a
+8b
+4e}
+!!LO:LB:g=esac
+=5
+*M3/4
+{16b
+16dd
+8ff#
+2ee
+=6
+8dd
+16dd
+16b
+4a
+8cc
+8dd
+=7
+8ee
+16cc
+16b
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=314 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 295} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 295}
+!!!page: 295
+!!!ONB: Converted on 2024/12/26 with esac2hum

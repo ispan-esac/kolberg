@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK3000400000-w_horodenci_w_slawnym_misti.krn
+!!!OTL: W Horodenci w sławnym misti
+!!!source: DWOK30
+!!!id: 30004
+!!!signature: 3000400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8ee
+8ee
+8ee
+=2
+4.dd
+=3
+8ee
+8ee
+8ee
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8dd
+8ee
+=6
+8dd
+8b
+16a
+16cc
+=7
+4dd
+8a
+=8
+8cc
+8a}
+8r
+!!LO:LB:g=esac
+=9
+{8ee
+8dd
+8ee
+=10
+8dd
+8a
+8cc
+=11
+8cc
+8cc
+8dd
+=12
+8cc
+8a
+8g}
+!!LO:LB:g=esac
+=13
+{8a
+8cc
+8dd
+=14
+8cc
+4a
+=15
+4.a
+=16
+8cc
+8a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=17 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 4} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 4}
+!!!page: 4
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,72 @@
+!!!!SEGMENT: DWOK4486400002-kochalam_wojaka.krn
+!!!OTL: Kochałam wojaka
+!!!source: DWOK44
+!!!id: 44864
+!!!signature: 4486400002
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+8a
+4cc
+=2
+8ff
+4ff
+8cc
+=3
+8cc
+8ff
+4cc
+=4
+8dd
+4cc
+8a}
+!!LO:LB:g=esac
+=5
+{8b-
+8b-
+4g
+=6
+8b-
+4b-
+8b-
+=7
+8dd
+8dd
+4cc
+=8
+8b-
+4a
+8f}
+!!LO:LB:g=esac
+=9
+{16b-
+16cc
+16dd
+16ee
+4ff
+=10
+8cc
+4a
+8f
+=11
+16c
+16d
+16e
+16f
+8.g
+16e
+=12
+8f
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=464 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 406} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 406}
+!!!page: 406
+!!!ONB: Converted on 2024/12/26 with esac2hum

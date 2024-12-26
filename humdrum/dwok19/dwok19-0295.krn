@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK1929500000-oj_doktorze_doktorze_ktory_rany_gojis.krn
+!!!OTL: Oj doktorze, doktorze który rany gojis
+!!!source: DWOK19
+!!!id: 19295
+!!!signature: 1929500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8gg
+8dd
+16ee
+16ff#
+=2
+16gg
+16ff#
+8aa
+8gg
+=3
+16gg
+16ff#
+8dd
+8ee
+=4
+16cc
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{8cc
+8g
+8a
+=6
+16cc
+16b
+8dd
+8cc
+=7
+16dd
+16ff#
+8dd
+8ee
+=8
+16cc
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=104 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 90} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 90}
+!!!page: 90
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,110 @@
+!!!!SEGMENT: DWOK3049100000-preczystaja_diwo_maty.krn
+!!!OTL: Preczystaja Diwo Maty
+!!!source: DWOK30
+!!!id: 30491
+!!!signature: 3049100000
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4cc
+8cc
+8dd
+4ee
+=2
+8dd
+8cc
+8b
+8cc
+8dd
+8ee
+4dd}
+!!LO:LB:g=esac
+=3
+{2ee
+8dd
+8ee
+4ff
+=4
+4ee
+4dd}
+4r
+4r
+!!LO:LB:g=esac
+=5
+{4cc
+4cc
+8cc
+8dd
+4ee
+=6
+8dd
+8cc
+8b
+8cc
+8dd
+8ee
+4dd}
+!!LO:LB:g=esac
+=7
+{2ee
+8dd
+8ee
+4ff
+=8
+4ee
+4dd}
+4r
+4r
+!!LO:LB:g=esac
+=9
+{4gg
+8gg
+8aa
+8gg
+8ff
+4ee
+=10
+4ff
+8dd
+8ee
+8ff
+8ee
+4dd}
+!!LO:LB:g=esac
+=11
+{4ee
+4ee
+8ee
+8ff
+8gg
+8ee
+=12
+8dd
+8cc
+8b
+8cc
+4dd
+4dd}
+!!LO:LB:g=esac
+=13
+{8cc
+8cc
+4ff
+4ee
+8dd
+8b
+=14
+2cc}
+2r
+==
+*-
+!!!ONB: O Matce Boskiej
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 263} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 263}
+!!!page: 263
+!!!ONB: Converted on 2024/12/26 with esac2hum

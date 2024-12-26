@@ -1,0 +1,74 @@
+!!!!SEGMENT: DWOK5058600000-stely_sie_stely_sie_zelenyj_barwinku.krn
+!!!OTL: Steły sie, steły sie, zełenyj barwinku
+!!!source: DWOK50
+!!!id: 50586
+!!!signature: 5058600000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16b
+16dd
+8cc
+8b
+=2
+4a
+8g#
+=3
+32g#
+32a
+16b
+8b
+8g#
+=4
+4e
+8e}
+!!LO:LB:g=esac
+=5
+{32g#
+32a
+16b
+16cc
+16a
+8b
+=6
+8cc
+4b}
+!!LO:LB:g=esac
+=7
+{16b
+16dd
+8cc
+8b
+=8
+4a
+8g#
+=9
+32g#
+32a
+16b
+8b
+8g#
+=10
+4e
+8e}
+!!LO:LB:g=esac
+=11
+{16e
+32g#
+32a
+8b
+16b
+16g#
+=12
+4a
+8a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/050dwok.pdf#page=369 @PL{Oskar Kolberg Dzieła Wszystkie 50: Sanockie-Krośnieńskie II, s. 338} @EN{Oskar Kolberg Complete Works 50: Sanok-Krosno Voivodeship II, p. 338}
+!!!page: 338
+!!!ONB: Converted on 2024/12/26 with esac2hum

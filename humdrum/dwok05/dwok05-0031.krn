@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK05-K0031-za_kolende_dziekujemy.krn
+!!!OTL: Za kolende dziekujemy
+!!!source: DWOK05
+!!!id: K0031
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=1
+{4cc
+4dd
+4.ee
+8ff
+=2
+4ee
+4ee
+4dd
+4ee
+=3
+4cc
+4dd
+4.ee
+8ff
+=4
+4ee
+4ee
+4dd
+4ee}
+!!LO:LB:g=esac
+=5
+{4ee
+4ee
+4ee
+4ee
+=6
+4.dd
+8cc
+4b
+4dd
+=7
+4ee
+4ee
+4ee
+4ee
+=8
+4.dd
+8cc
+4b
+4dd
+=9
+8ee
+8ee
+8dd
+8dd
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 31} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 31}
+!!!page: 31
+!!!ONB: Converted on 2024/12/26 with esac2hum

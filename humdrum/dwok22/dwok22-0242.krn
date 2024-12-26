@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2224200000-w_zielonym_gajiku_ptaszeta_spiewaja.krn
+!!!OTL: W zielonym gajiku ptaszęta śpiewają
+!!!source: DWOK22
+!!!id: 22242
+!!!signature: 2224200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16a
+16a
+8a
+8cc
+=2
+16cc
+16b
+4b
+=3
+16g
+16g
+8.g
+16b
+=4
+16b
+16cc
+4a}
+!!LO:LB:g=esac
+=5
+{4cc
+16cc
+16b
+=6
+16cc
+16ee
+8gg
+16ff#
+16ee
+=7
+16dd
+16gg
+8.g
+16b
+=8
+16a
+16g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=158 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 140} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 140}
+!!!page: 140
+!!!ONB: Converted on 2024/12/26 with esac2hum

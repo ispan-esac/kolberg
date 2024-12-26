@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK25084a0000-sadzilam_ja_jabluneczke.krn
+!!!OTL: Sadziłam ja jabłuneczkę
+!!!source: DWOK25
+!!!id: 25084a
+!!!signature: 25084a0000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+4dd
+=2
+8b
+4dd
+=3
+8ee
+4cc
+=4
+8a
+4f#
+=5
+4g
+16a
+16b
+=6
+8g
+4e
+=7
+4.a
+=8
+8f#
+8d}
+8r
+!!LO:LB:g=esac
+=9
+{8d
+4d
+=10
+8f#
+4g
+=11
+8a
+4cc
+=12
+8a
+4f#
+=13
+4g
+16a
+16b
+=14
+8g
+4e
+=15
+4.a
+=16
+8f#
+8d}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 33} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 33}
+!!!page: 33
+!!!ONB: Converted on 2024/12/26 with esac2hum

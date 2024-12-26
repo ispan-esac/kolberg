@@ -1,0 +1,47 @@
+!!!!SEGMENT: DWOK3651500000-bidna_nasza_holowojka.krn
+!!!OTL: Bidna nasza hołowojka
+!!!source: DWOK36
+!!!id: 36515
+!!!signature: 3651500000
+**kern
+*clefG2
+*k[f#]
+*e:
+=1
+*M2/4
+{4.b
+8dd
+=2
+8a
+8f#
+4e
+=3
+*M3/4
+4.a
+8b
+8a
+16g
+16f#}
+!!LO:LB:g=esac
+=4
+{8e
+8g
+4f#
+4e
+=5
+8f#
+8a
+8a
+8a
+8b
+8g
+=6
+4f#
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 336
+!!!ONB: Converted on 2024/12/26 with esac2hum

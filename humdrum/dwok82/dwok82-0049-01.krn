@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK8204900001-oj_sluzbo_moja_sluzbo.krn
+!!!OTL: Oj służbo moja służbo
+!!!source: DWOK82
+!!!id: 82049
+!!!signature: 8204900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8b
+8dd
+=2
+16cc
+16cc
+8b
+8dd
+=3
+8cc
+8cc
+8b
+=4
+8d
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8g
+=6
+16cc
+16cc
+8b
+8dd
+=7
+8cc
+8b
+8dd
+=8
+8d
+8f#
+8g}
+!!LO:LB:g=esac
+=9
+{8cc
+8cc
+8cc
+=10
+8cc
+8cc
+8cc
+=11
+8cc
+8cc
+8b
+=12
+8d
+8f#
+8g}
+!!LO:LB:g=esac
+=13
+{8cc
+8cc
+8cc
+=14
+8cc
+8cc
+8cc
+=15
+8cc
+8b
+8cc
+=16
+8d
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=134 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 36-37} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, pp. 36-37}
+!!!page: 36-37
+!!!ONB: Converted on 2024/12/26 with esac2hum

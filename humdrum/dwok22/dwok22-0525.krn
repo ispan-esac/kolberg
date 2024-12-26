@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK2252500000-oj_z_jastrzabka_sie_nakpic.krn
+!!!OTL: Oj z Jastrząbka się nakpić
+!!!source: DWOK22
+!!!id: 22525
+!!!signature: 2252500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8a
+8g
+16ee
+16ff#
+=2
+16ee
+16dd
+8cc
+16cc
+16b
+=3
+8a
+8g
+16g
+16f#
+=4
+16g
+16b
+8cc
+8b}
+!!LO:LB:g=esac
+=5
+{8a
+8g
+16g
+16f#
+=6
+16g
+16a
+8ee
+16dd
+16b
+=
+8a
+8g
+24d
+24e
+24f#
+=7
+16g
+16b
+8cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=259 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 241} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 241}
+!!!page: 241
+!!!ONB: Converted on 2024/12/26 with esac2hum

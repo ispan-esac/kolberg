@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK2652600000-oj_ludzie_mi_ja_gania.krn
+!!!OTL: Oj ludzie mi ją ganią
+!!!source: DWOK26
+!!!id: 26526
+!!!signature: 2652600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16d
+16f#
+8g
+8b
+=2
+8a
+8a
+8b
+=3
+16cc
+16a
+8b
+16b
+16g
+=4
+8a
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8g
+16b
+16g
+=6
+8a
+8cc
+8dd
+=7
+16ee
+16dd
+8cc
+16b
+16dd
+=8
+8cc
+8a
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 330
+!!!ONB: Converted on 2024/12/26 with esac2hum

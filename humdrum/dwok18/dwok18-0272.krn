@@ -1,0 +1,86 @@
+!!!!SEGMENT: DWOK1827200000-rosa_pada_rosa_siada.krn
+!!!OTL: Rosa pada rosa siada
+!!!source: DWOK18
+!!!id: 18272
+!!!signature: 1827200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+16dd
+16dd
+8dd
+8b
+=3
+16dd
+16ee
+8dd
+8b}
+!!LO:LB:g=esac
+=4
+{4dd
+8ee
+=5
+16a
+16cc
+8cc
+8b
+=6
+4dd
+8ee
+=7
+16a
+16cc
+8cc
+8b}
+!!LO:LB:g=esac
+=8
+{4b
+16a
+16f#
+=9
+16g
+16g
+8b
+8dd
+=10
+4dd
+8ee
+=11
+16a
+16cc
+8cc
+8b}
+!!LO:LB:g=esac
+=12
+{16b
+16a
+8a
+8f#
+=13
+16g
+16g
+8b
+8dd
+=14
+4dd
+8ee
+=15
+16a
+16cc
+8cc
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 158} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 158}
+!!!page: 158
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK77110200000-tuli_tuli.krn
+!!!OTL: Tuli, tuli
+!!!source: DWOK77
+!!!id: 771102
+!!!signature: 77110200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8dd
+8cc#
+8dd
+8ee
+8dd
+=2
+8b
+8dd
+8cc#
+8dd
+8ee
+8dd
+=3
+8b
+8dd
+8cc#
+8dd
+8ee
+8dd}
+!!LO:LB:g=esac
+=4
+{4.gg
+8dd
+8cc#
+8dd
+=5
+8ee
+8dd
+8b
+8dd
+8ee
+8dd}
+!!LO:LB:g=esac
+=6
+{4.d
+8f#
+8a
+8cc
+=7
+8ee
+8dd
+4cc
+4dd
+=8
+4.d
+8f#
+8a
+8cc
+=9
+8ee
+8dd
+4b
+4g}
+!!LO:LB:g=esac
+=10
+{4d
+4d
+4d
+=11
+4d
+4d
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 174
+!!!ONB: Converted on 2024/12/26 with esac2hum

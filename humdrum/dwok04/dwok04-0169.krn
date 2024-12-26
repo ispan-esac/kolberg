@@ -1,0 +1,100 @@
+!!!!SEGMENT: DWOK04-K0169-oj_zebym_ci_ja_byla.krn
+!!!OTL: Oj zebym ci ja byla
+!!!source: DWOK04
+!!!id: K0169
+!!!signature:
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16dd
+16ff
+8gg
+8cc
+=2
+16ee-
+16gg
+8ff
+8dd
+=3
+16cc
+16cc
+8dd
+8cc
+=4
+16b-
+16a
+8f
+8b-}
+!!LO:LB:g=esac
+=5
+{16f
+16b-
+8dd
+8cc
+=6
+16gg
+16ff
+8dd
+8f
+=7
+16cc
+16cc
+8dd
+8cc
+=8
+16b-
+16a
+8f
+8b-}
+!!LO:LB:g=esac
+=9
+{8.ee-
+16b-
+16dd
+16ff
+=10
+16a
+16cc
+8b-
+8dd
+=11
+8.ee-
+16b-
+16dd
+16ff
+=12
+16b-
+16a
+8f
+8b-}
+!!LO:LB:g=esac
+=13
+{8.ee-
+16b-
+16dd
+16ff
+=14
+16a
+16cc
+8b-
+8dd
+=15
+8.ee-
+16b-
+16dd
+16ff
+=16
+16b-
+16a
+8f
+8b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 93} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 93}
+!!!page: 93
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4717900000-stara_maty_syna_ozenyla.krn
+!!!OTL: Star'a maty syna ożenyła
+!!!source: DWOK47
+!!!id: 47179
+!!!signature: 4717900000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+8r
+{8ee
+4ee
+=1
+2ee
+4cc
+4a
+=2
+4dd
+4dd
+4dd
+4ee
+=3
+4cc
+4.ee
+8dd
+8cc
+8b}
+!!LO:LB:g=esac
+=4
+{2a
+4cc
+4a
+=5
+2g#
+2e
+=6
+4a
+4cc
+4b
+4a
+=7
+[2ee
+8ee]
+8dd
+8cc
+8b
+=8
+2a}
+==
+*-
+!!!ONB: Wariant t. 2: 5__4#3b21
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/047dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 47: Podole, s. 179} @EN{Oskar Kolberg Complete Works 47: Podolia, p. 179}
+!!!page: 179
+!!!ONB: Converted on 2024/12/26 with esac2hum

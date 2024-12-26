@@ -1,0 +1,48 @@
+!!!!SEGMENT: DWOK05-K0003-slicna_panienka.krn
+!!!OTL: Slicna panienka
+!!!source: DWOK05
+!!!id: K0003
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8b
+8g
+=2
+4dd
+8dd
+=3
+8cc
+8a
+8a
+=4
+4cc
+8cc
+=5
+8b
+8g
+8a
+=6
+16b
+16dd
+4dd
+=7
+8cc
+8b
+8a
+=8
+16b
+16a
+8g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/005dwok.pdf#page=228 @PL{Oskar Kolberg Dzieła Wszystkie 5: Krakowskie I, s. 200} @EN{Oskar Kolberg Complete Works 5: Crakow I, p. 200}
+!!!page: 200
+!!!ONB: Converted on 2024/12/26 with esac2hum

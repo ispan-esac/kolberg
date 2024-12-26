@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK8204500000-rozlecieli_sie_pare_labedzi.krn
+!!!OTL: Rozlecieli sie pare łabedzi
+!!!source: DWOK82
+!!!id: 82045
+!!!signature: 8204500000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{4a
+8a
+8a
+=2
+4.ee
+8cc
+=3
+8dd
+8ee
+8ff
+8ee
+=4
+4dd
+4cc}
+!!LO:LB:g=esac
+=5
+{4ee
+8ee
+8ee
+=6
+4dd
+4cc
+=7
+8b
+8dd
+4cc
+=8
+8b
+8b
+4a}
+!!LO:LB:g=esac
+=9
+{4a
+8a
+8a
+=10
+4.ee
+8cc
+=11
+8dd
+8ee
+8ff
+8ee
+=12
+4dd
+4cc}
+!!LO:LB:g=esac
+=13
+{4ee
+8ee
+8ee
+=14
+4dd
+4cc
+=15
+8b
+8dd
+4cc
+=16
+8b
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=131 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 33-34} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, pp. 33-34}
+!!!page: 33-34
+!!!ONB: Converted on 2024/12/26 with esac2hum

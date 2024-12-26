@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK02-K0048-o_wiele_ja_ogrodeckow.krn
+!!!OTL: O wiele ja ogrodeckow
+!!!source: DWOK02
+!!!id: K0048
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8b
+8cc
+4dd
+4dd
+=2
+8dd
+8ee
+4dd
+4cc
+=3
+4b
+2dd
+=4
+2a
+4g}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+4cc
+4b
+=6
+8a
+8b
+4cc
+4b
+=7
+4a
+2b
+=8
+4g}
+4r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=62 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 51} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 51}
+!!!page: 51
+!!!ONB: Converted on 2024/12/26 with esac2hum

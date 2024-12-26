@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK8427000000-zebraly_sie_ma_burlaki_do_jednoji_chaty.krn
+!!!OTL: Zebrały sie ma burłaki do jednoji chaty
+!!!source: DWOK84
+!!!id: 84270
+!!!signature: 8427000000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8a
+8cc
+8cc
+=2
+8b
+8g#
+8e
+8e
+=3
+8a
+8a
+8cc
+8cc
+=4
+8b
+8dd
+4ee}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8cc
+8a
+=6
+8b
+8b
+8cc
+8b
+=7
+8e
+8e
+8f#
+8g#
+=8
+8a
+8f#
+4e}
+!!LO:LB:g=esac
+=9
+{8ee
+8ee
+8cc
+8a
+=10
+8b
+8b
+8cc
+8b
+=11
+8e
+8e
+8f#
+8g#
+=12
+4a
+4a}
+==
+*-
+!!!ONB: Wariant t. 4: 246b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/084dwok.pdf#page=309 @PL{Oskar Kolberg Dzieła Wszystkie 84: Wołyń. Suplement do t. 36., Volhynia, s. 247} @EN{Oskar Kolberg Complete Works 84: Supplement to Volume 36, p. 247}
+!!!page: 247
+!!!ONB: Converted on 2024/12/26 with esac2hum

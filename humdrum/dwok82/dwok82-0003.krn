@@ -1,0 +1,98 @@
+!!!!SEGMENT: DWOK8200300000-glos_glos_glos_dzis_wesoly.krn
+!!!OTL: Głos głos głos dziś wesoły
+!!!source: DWOK82
+!!!id: 82003
+!!!signature: 8200300000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=1
+{2cc
+2cc
+=2
+4cc
+4ff
+4ee
+4gg
+=3
+2ff
+2r
+=4
+4a
+4b-
+2cc
+=5
+4b-
+4a
+2g}
+!!LO:LB:g=esac
+=6
+{4b-
+4a
+4g
+4f
+=7
+2e
+4f
+4g
+=8
+2f
+2r
+=9
+2g
+4a
+4a
+=10
+2b-
+2a}
+!!LO:LB:g=esac
+=11
+{4g
+4b-
+4a
+4cc
+=12
+2b-
+2r
+=13
+2g
+4a
+4a
+=14
+2b-
+2a
+=15
+4g
+4b-
+4a
+4cc}
+!!LO:LB:g=esac
+=16
+{2b-
+2r
+=17
+2ff
+4ee
+4dd
+=18
+2cc
+4dd
+4b-
+=19
+4a
+4a
+4g
+4g
+=20
+2f}
+2r
+==
+*-
+!!!ONB: Na Boże Ciało
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/082dwok.pdf#page=107 @PL{Oskar Kolberg Dzieła Wszystkie 82: Chełmskie. Suplement do T. 33 i 34, s. 9} @EN{Oskar Kolberg Complete Works 82: Chełm supplement to Volumes 33 and 34, p. 9}
+!!!page: 9
+!!!ONB: Converted on 2024/12/26 with esac2hum

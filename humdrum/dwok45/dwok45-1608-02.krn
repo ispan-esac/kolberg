@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK45160800002-wirsycku_wirsycku.krn
+!!!OTL: Wirsycku, wirsycku
+!!!source: DWOK45
+!!!id: 451608
+!!!signature: 45160800002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{16ff
+8.aa
+16ee
+8.gg
+=2
+4ff
+8gg
+8ff
+=3
+4ee
+4ee
+=4
+2ff}
+!!LO:LB:g=esac
+=5
+{16ff
+8.aa
+16ee
+8.gg
+=6
+4ff
+8gg
+8ff
+=7
+8dd
+8ee
+[4cc}
+=8
+2cc]
+!!LO:LB:g=esac
+=9
+{4ff
+4dd
+=10
+4dd
+8dd
+16cc
+16ee
+=11
+8ff
+8dd
+4cc}
+!!LO:LB:g=esac
+=12
+{4ff
+4dd
+=13
+4dd
+8dd
+8cc
+=14
+4b
+[4cc}
+=15
+2cc]
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 219} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, p. 219}
+!!!page: 219
+!!!ONB: Converted on 2024/12/26 with esac2hum

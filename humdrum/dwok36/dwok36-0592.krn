@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3659200000-chodyt_holub_kolo_chaty.krn
+!!!OTL: Chodyt hołub koło chaty
+!!!source: DWOK36
+!!!id: 36592
+!!!signature: 3659200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8.a
+16b
+4cc
+4ee
+=2
+8dd
+8cc
+4b
+4e
+=3
+8.a
+16b
+4cc
+4ee
+=4
+8dd
+8cc
+2b}
+!!LO:LB:g=esac
+=5
+{8.dd
+16dd
+8dd
+8b
+8cc
+8dd
+=6
+8ee
+8ee
+4ff
+4ee
+=7
+4dd
+4g
+8cc
+8b
+=8
+2a}
+4r
+==
+*-
+!!!ONB: W publikacji jest metrum 2/4, zapisano poprawnie na 3/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 394
+!!!ONB: Converted on 2024/12/26 with esac2hum

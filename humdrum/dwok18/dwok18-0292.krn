@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK1829200000-kapala_sie_kasia_w_morzu.krn
+!!!OTL: Kąpała się Kasia w morzu
+!!!source: DWOK18
+!!!id: 18292
+!!!signature: 1829200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8cc
+8cc
+8ee
+=2
+8gg
+8gg
+8gg
+8ee
+=3
+8cc
+8cc
+8cc
+8ee
+=4
+8g
+8g
+8b
+8dd}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+8cc
+8ee
+=6
+8g
+8g
+8b
+8dd}
+!!LO:LB:g=esac
+=7
+{8cc
+8cc
+8cc
+8ee
+=8
+8gg
+8gg
+8gg
+8ee
+=9
+8cc
+8cc
+8cc
+8ee
+=10
+8g
+8g
+8b
+8dd}
+!!LO:LB:g=esac
+=11
+{8cc
+8cc
+8cc
+8ee
+=12
+8g
+8g
+8b
+8dd}
+==
+*-
+!!!ONB: zakodować od G
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/018dwok.pdf#page=182 @PL{Oskar Kolberg Dzieła Wszystkie 18: Kieleckie I, s. 166} @EN{Oskar Kolberg Complete Works 18: Kielce Voivodeship I, p. 166}
+!!!page: 166
+!!!ONB: Converted on 2024/12/26 with esac2hum

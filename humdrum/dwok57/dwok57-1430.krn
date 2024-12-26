@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK57143000000-nichto_ne_wynen_sama_ja.krn
+!!!OTL: Nichto ne wynen, sama ja
+!!!source: DWOK57
+!!!id: 571430
+!!!signature: 57143000000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4ee
+8.ee
+16dd
+8.ee
+16dd
+=2
+8cc
+8cc
+2g}
+!!LO:LB:g=esac
+=3
+{4dd
+8dd
+8dd
+8gg
+8gg
+=4
+2.ee}
+!!LO:LB:g=esac
+=5
+{4ee
+8.ee
+16dd
+8ee
+8dd
+=6
+8cc
+8cc
+2g}
+!!LO:LB:g=esac
+=7
+{4cc
+8dd
+8dd
+8ee
+8ee
+=8
+2.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 484
+!!!ONB: Converted on 2024/12/26 with esac2hum

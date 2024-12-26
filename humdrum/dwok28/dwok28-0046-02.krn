@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK2804600002-posadze_ja_jablonecke.krn
+!!!OTL: Posadzę ja jabłoneckę
+!!!source: DWOK28
+!!!id: 28046
+!!!signature: 2804600002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{4.e
+=2
+4.c
+=3
+8.d
+16f
+8e
+=4
+8d
+4c
+=5
+4g#
+8b
+=6
+4.cc}
+!!LO:LB:g=esac
+=7
+{4.cc#
+=8
+4.a
+=9
+4.f
+=10
+4d
+8a
+=11
+4e
+8f#
+=12
+4.g#}
+==
+*-
+!!!ONB: Przy Sobótce (w r. 1842) drugi głos melodia zanotowana na cztery głosy
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=116 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 97} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 97}
+!!!page: 97
+!!!ONB: Converted on 2024/12/26 with esac2hum

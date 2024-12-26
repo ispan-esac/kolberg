@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK04-K0152-zobaczysz_kochaneczko.krn
+!!!OTL: Zobaczysz kochaneczko
+!!!source: DWOK04
+!!!id: K0152
+!!!signature:
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=1
+{8f
+8f
+8g
+=2
+16dd
+16dd
+8cc
+8g
+=3
+16dd
+16dd
+8cc
+8g
+=4
+8f
+8c}
+8r
+!!LO:LB:g=esac
+=5
+{8f
+8f
+8g
+=6
+16b-
+16dd
+8cc
+8g
+=7
+16b-
+16dd
+8.cc
+16g
+=8
+4f}
+8r
+!!LO:LB:g=esac
+=9
+{4f
+8g
+=10
+16a
+16a
+8b-
+8g
+=11
+4f
+8g
+=12
+16a
+16a
+8.b-
+16g
+=13
+16b-
+16dd
+8.cc
+16g
+=14
+4f}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/004dwok.pdf#page=100 @PL{Oskar Kolberg Dzieła Wszystkie 4: Kujawy II, s. 86} @EN{Oskar Kolberg Complete Works 4: Kuyavia II (north central Poland), p. 86}
+!!!page: 86
+!!!ONB: Converted on 2024/12/26 with esac2hum

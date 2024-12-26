@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK7631300020-oj_dobry_nas_pan_dobry.krn
+!!!OTL: Oj, dobry nas pan, dobry
+!!!source: DWOK76
+!!!id: 76313
+!!!signature: 7631300020
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=1
+{8g
+8g
+4b
+4b
+=2
+8f#
+8f#
+4a
+4a
+=3
+8e
+8f#
+4g
+8e
+8c#
+=
+12d
+12f#
+12a
+4.dd
+8f#}
+!!LO:LB:g=esac
+=4
+{8g
+8g
+4b
+8a
+8g
+=
+12f#
+12a
+12dd
+4ff#
+4r
+=5
+8e
+8f#
+8g
+8e
+8c#
+8e
+=6
+4d
+2d}
+==
+*-
+!!!ONB: Druga część melodii
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/076dwok.pdf#page=196 @PL{Oskar Kolberg Dzieła Wszystkie 76: Kieleckie. Supplement do T. 18-19, s. 160} @EN{Oskar Kolberg Complete Works 76: Kielce: Supplement to Volumes 18-19, p. 160}
+!!!page: 160
+!!!ONB: Converted on 2024/12/26 with esac2hum

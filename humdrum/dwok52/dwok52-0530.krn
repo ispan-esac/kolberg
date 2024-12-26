@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK5253000000-etit_orel_ponad_more.krn
+!!!OTL: Łetit oreł ponad more
+!!!source: DWOK52
+!!!id: 52530
+!!!signature: 5253000000
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M3/4
+=1
+{8.c
+16c
+8c
+8a-
+8g
+8f
+=2
+8.f
+16f
+8f
+8e
+4e
+=3
+8e
+8f
+4.g
+8B
+=4
+8B
+8c
+2c}
+!!LO:LB:g=esac
+=5
+{8c
+8c
+4.f
+8e-
+=6
+8e-
+8d-
+8d-
+8B-
+4G
+=7
+4c
+8c
+8c
+8.d
+16e
+=8
+8.f
+16g
+8.a-
+16b-
+16cc
+16a-
+16g
+16f}
+!!LO:LB:g=esac
+=9
+{8.e
+16e
+4c
+8d-
+8e
+=10
+8g
+8f
+2f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=398 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 335} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 335}
+!!!page: 335
+!!!ONB: Converted on 2024/12/26 with esac2hum

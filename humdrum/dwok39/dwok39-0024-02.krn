@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK3902400002-wsadzila_ja_jabloneczke_przy_drodze.krn
+!!!OTL: Wsadziła ja jabłoneczke przy drodze
+!!!source: DWOK39
+!!!id: 39024
+!!!signature: 3902400002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8ee
+8ff
+4gg
+8gg
+8ff
+=2
+8ee
+8gg
+8gg
+8ff
+4dd
+=3
+8cc
+8ee
+4cc
+4a
+=4
+8a
+8b
+2g}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b
+4cc
+=6
+8g
+8a
+4b
+4cc
+=7
+8ee
+8gg
+8gg
+8ff
+4dd
+=8
+8cc
+8ee
+2cc
+=9
+8a
+8b
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=146 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 96} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 96}
+!!!page: 96
+!!!ONB: Converted on 2024/12/26 with esac2hum

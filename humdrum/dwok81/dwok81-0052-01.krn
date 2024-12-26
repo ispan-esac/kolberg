@@ -1,0 +1,123 @@
+!!!!SEGMENT: DWOK8105200001-instrumentalna-kolomyjka.krn
+!!!OTL: Instrumentalna-Kołomyjka
+!!!source: DWOK81
+!!!id: 81052
+!!!signature: 8105200001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8cc#
+8cc#
+8cc#
+=2
+16cc#
+16dd
+8cc#
+8dd
+16a
+16g
+=3
+16b-
+16g
+8dd
+16a
+16g
+16b
+16g
+=
+4dd
+24b
+24a
+24g
+16b
+16g}
+!!LO:LB:g=esac
+=4
+{8g
+8cc#
+8cc#
+8cc#
+=5
+16cc#
+16dd
+8cc#
+8dd
+16a
+16g
+=6
+16b-
+16g
+8dd
+16a
+16g
+16b
+16g
+=7
+4g
+4g}
+!!LO:LB:g=esac
+=
+{16cc#
+8dd
+16cc#
+8ee
+24dd
+24cc
+24a
+=
+[8dd
+24dd]
+24cc
+24a
+16dd
+16cc#
+16b
+16a
+=8
+[4dd
+16dd]
+16cc#
+16b
+16a
+=9
+8g
+8b
+8g
+8g}
+!!LO:LB:g=esac
+=10
+{16cc#
+8dd
+16cc#
+8ee
+16dd
+16cc
+=
+4ee
+24dd
+24cc
+24a
+16dd
+16cc
+=11
+16b
+16a
+8g
+8b
+[8g
+=12
+8g]
+8g
+4g}
+==
+*-
+!!!ONB: Kołomyjka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/081dwok.pdf#page=117 @PL{Oskar Kolberg Dzieła Wszystkie 81: Pokucie. Suplement do tomów 29-32, s. 47} @EN{Oskar Kolberg Complete Works 81: Corrections: Supplement to Volumes 29-32, p. 47}
+!!!page: 47
+!!!ONB: Converted on 2024/12/26 with esac2hum

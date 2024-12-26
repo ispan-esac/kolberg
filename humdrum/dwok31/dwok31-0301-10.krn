@@ -1,0 +1,116 @@
+!!!!SEGMENT: DWOK3130100010-kudy_do_ti_lubku_zajty.krn
+!!!OTL: Kudy do ti lubku zajty
+!!!source: DWOK31
+!!!id: 31301
+!!!signature: 3130100010
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16e
+16a
+16cc
+16dd#
+8ee
+8ee
+=2
+8dd#
+8ff#
+8ee
+8ee
+=3
+16dd
+16ee
+16dd
+16cc
+16dd
+16ee
+16dd
+16cc
+=4
+16dd
+16ee
+16dd
+16ee
+4cc}
+!!LO:LB:g=esac
+=5
+{8e
+8a
+8cc
+8cc
+=6
+8dd#
+8ff#
+4ee
+=7
+8dd
+8cc
+8dd
+8cc
+=8
+8b
+8cc
+4a}
+!!LO:LB:g=esac
+=9
+{8e
+8a
+16b
+16cc
+16dd
+16cc
+=10
+16b
+16a
+16g#
+16a
+16b
+16cc
+16dd
+16cc
+=11
+16b
+16a
+16g#
+16a
+16b
+16cc
+16dd
+16cc
+=12
+16b
+16a
+16g#
+16a
+8cc
+8e}
+!!LO:LB:g=esac
+=13
+{8e
+8a
+8cc
+8cc
+=14
+8b
+8a
+8cc
+8cc
+=15
+8b
+8a
+8cc
+8cc
+=16
+4b
+4a}
+==
+*-
+!!!ONB: Partia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=58 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 37} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 37}
+!!!page: 37
+!!!ONB: Converted on 2024/12/26 with esac2hum

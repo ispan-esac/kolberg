@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK1932200000-kasiu_moja_kasiu_trza_do_ciebie_casu.krn
+!!!OTL: Kasiu moja, Kasiu trza do ciebie casu
+!!!source: DWOK19
+!!!id: 19322
+!!!signature: 1932200000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16dd
+8cc#
+8a
+=2
+8cc#
+8dd
+16b
+16g
+=3
+16b
+16dd
+8cc#
+16a
+16f#
+=4
+8a
+8f#
+8g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8g
+16b
+16g
+=6
+8b
+16dd
+16cc
+8a
+=7
+16b
+16dd
+8cc#
+8a
+=8
+8a
+8f#
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=112 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 98} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 98}
+!!!page: 98
+!!!ONB: Converted on 2024/12/26 with esac2hum

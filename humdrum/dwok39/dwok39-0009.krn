@@ -1,0 +1,43 @@
+!!!!SEGMENT: DWOK3900900000-plon_niesiemy_plon.krn
+!!!OTL: Plon niesiemy, plon
+!!!source: DWOK39
+!!!id: 39009
+!!!signature: 3900900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{4dd
+4.b
+8cc
+=2
+4dd
+4.dd
+8b
+=3
+4.cc
+8a
+4g}
+!!LO:LB:g=esac
+=4
+{4g
+4.b
+8cc
+=5
+4dd
+4.dd
+8b
+=6
+4.cc
+8a
+4g}
+==
+*-
+!!!ONB: Piosenka żniwiarska
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=123 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 75} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 75}
+!!!page: 75
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK7729400000-bez_las_ono_bez_las.krn
+!!!OTL: Bez las ono bez las
+!!!source: DWOK77
+!!!id: 77294
+!!!signature: 7729400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+2ee
+=2
+8ee
+8dd
+4ee
+4cc
+=3
+4b
+2dd
+=4
+8ee
+8cc
+4b
+4a}
+!!LO:LB:g=esac
+=5
+{4a
+4cc
+8cc
+8b
+=6
+8dd
+8cc
+4b
+4a
+=7
+4b
+2dd
+=8
+8cc
+8e
+4g#
+4a}
+==
+*-
+!!!ONB: Wariant w t. 6: 43b2_1-7
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 158
+!!!ONB: Converted on 2024/12/26 with esac2hum

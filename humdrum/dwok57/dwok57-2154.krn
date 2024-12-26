@@ -1,0 +1,115 @@
+!!!!SEGMENT: DWOK57215400000-instrumentalna_-_kozak.krn
+!!!OTL: Instrumentalna - Kozak
+!!!source: DWOK57
+!!!id: 572154
+!!!signature: 57215400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{16a
+16b
+8cc
+16b
+16dd
+16cc
+16b
+=2
+16b
+16a
+16a
+16g#
+8a
+8cc
+=3
+16b
+16a
+8g#
+16g#
+16g#
+8g#
+=4
+8b
+8a
+8a
+8e}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+8cc
+16b
+16dd
+16cc
+16b
+=6
+16b
+16a
+16a
+16g#
+4a
+=7
+16b
+16a
+8g#
+16g#
+16f
+8g#
+=8
+8a
+8a
+4a}
+!!LO:LB:g=esac
+=9
+{8.e
+16f#
+16g#
+16f#
+8g#
+=10
+8.a
+16b
+16cc
+16b
+8a
+=11
+8cc
+4ee
+8g#
+=12
+8a
+8a
+8cc
+8a}
+!!LO:LB:g=esac
+=13
+{8.e
+16f#
+16g#
+16f#
+8g#
+=14
+8.a
+16b
+16cc
+16b
+8a
+=15
+8cc
+4ee
+16g#
+16b
+=16
+16a
+16a
+8a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 1202
+!!!ONB: Converted on 2024/12/26 with esac2hum

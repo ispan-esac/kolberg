@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK5786400000-ebym_bula_taka_krasna.krn
+!!!OTL: Żebym buła taka krasna
+!!!source: DWOK57
+!!!id: 57864
+!!!signature: 5786400000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8.cc
+16ff
+8a
+8dd
+=2
+8.cc
+16b-
+8b-
+8a}
+!!LO:LB:g=esac
+=3
+{8.gg
+16ff
+8ee
+8dd
+=4
+8.cc
+16dd
+8cc
+8cc}
+!!LO:LB:g=esac
+=5
+{8.cc
+16ff
+8a
+8dd
+=6
+8.cc
+16b-
+8b-
+8a}
+!!LO:LB:g=esac
+=7
+{8.gg
+16ff
+16ee
+16dd
+8ee
+=8
+8ff
+8ff
+8ff
+8cc}
+!!LO:LB:g=esac
+=9
+{8.cc
+16ff
+8a
+8dd
+=10
+8.cc
+16b-
+8b-
+8a}
+!!LO:LB:g=esac
+=11
+{8.gg
+16ff
+16ee
+16dd
+8ee
+=12
+8ff
+8ff
+8ff}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 91
+!!!ONB: Converted on 2024/12/26 with esac2hum

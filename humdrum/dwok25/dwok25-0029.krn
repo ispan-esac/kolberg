@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK2502900000-na_onej_gorze.krn
+!!!OTL: Na onej górze
+!!!source: DWOK25
+!!!id: 25029
+!!!signature: 2502900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16cc
+16ee
+8ee
+8ee
+=2
+4.dd
+=3
+16cc
+16ee
+8ee
+8ee
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{16a
+16ee
+8.dd
+16cc
+=6
+16b
+16b
+8a
+8d
+=7
+16f#
+16g
+8a
+8a
+=8
+16b
+16b
+8cc
+8d
+=9
+16f#
+16g
+8a
+8a
+=10
+4.g}
+==
+*-
+!!!ONB: wariant w takcie piątym 465_.4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 12} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 12}
+!!!page: 12
+!!!ONB: Converted on 2024/12/26 with esac2hum

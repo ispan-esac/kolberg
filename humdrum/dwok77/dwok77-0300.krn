@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7730000000-oj_jedne_woly_w_zycie.krn
+!!!OTL: Oj jedne woły w życie
+!!!source: DWOK77
+!!!id: 77300
+!!!signature: 7730000000
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=1
+{4b
+4dd
+4ee
+=
+12cc
+12b
+12a
+4b
+4b
+=2
+4dd
+4dd
+4ee
+=
+12cc
+12b
+12a
+4g
+4e}
+!!LO:LB:g=esac
+=3
+{8g
+8g
+4f#
+4a
+=4
+8b
+8a
+4.b
+8e
+=5
+4g
+4f#
+4a
+=
+12cc
+12b
+12a
+4g
+4e}
+==
+*-
+!!!ONB: Wariant w t. 2: (6b54)5_7b_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 161
+!!!ONB: Converted on 2024/12/26 with esac2hum

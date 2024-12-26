@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK1302000000-yl_matysiek_chlop_przed_laty.krn
+!!!OTL: Żył Matysiek chłop przed laty
+!!!source: DWOK13
+!!!id: 13020
+!!!signature: 1302000000
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8.g
+16a
+16b-
+16cc
+=2
+16dd
+16dd
+8cc#
+8dd
+=3
+8.gg
+16gg
+16ff
+16ee-
+=4
+16dd
+16dd
+8cc#
+8dd}
+!!LO:LB:g=esac
+=5
+{16ee-
+16ee-
+8.dd
+16a
+=6
+16b-
+16b-
+8dd
+16cc
+16b-
+=7
+8.a
+16d
+16e
+16f#
+=8
+16g
+16a
+8b-
+8dd}
+!!LO:LB:g=esac
+=9
+{16ee-
+16ee-
+8.dd
+16a
+=10
+16b-
+16b-
+8dd
+16cc
+16b-
+=11
+8.a
+16d
+16e
+16f#
+=12
+16g
+16a
+8b-
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=37 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 13-14} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, pp. 13-14}
+!!!page: 13-14
+!!!ONB: Converted on 2024/12/26 with esac2hum

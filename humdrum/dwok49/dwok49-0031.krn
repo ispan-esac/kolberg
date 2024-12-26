@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK4903100000-boze_narodzenie_syna_jedynego.krn
+!!!OTL: Boże narodzenie Syna jedynego
+!!!source: DWOK49
+!!!id: 49031
+!!!signature: 4903100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8g
+8a
+4b
+4cc
+=2
+2dd
+8ee
+8dd
+=3
+8cc
+8cc
+4cc
+4cc
+=4
+4dd
+2b}
+!!LO:LB:g=esac
+=5
+{8g
+8a
+4b
+4cc
+=6
+2dd
+8ee
+8dd
+=7
+8cc
+8cc
+4cc
+4cc
+=8
+4dd
+2b}
+!!LO:LB:g=esac
+=9
+{2cc
+4cc
+=10
+8b
+8a
+4b
+4b
+=11
+2a
+8b
+8a
+=12
+8g
+8f#
+4e
+4d}
+!!LO:LB:g=esac
+=13
+{8g
+8a
+4b
+4cc
+=14
+2dd
+8b
+8f#
+=15
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=202 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 124} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 124}
+!!!page: 124
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK1305300000-a_gdy_mila_marysinka.krn
+!!!OTL: A gdy miła Marysińka
+!!!source: DWOK13
+!!!id: 13053
+!!!signature: 1305300000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16cc
+16dd
+8ee
+8cc
+=2
+16dd
+16ee
+8dd
+8cc
+=3
+16b
+16a
+8g
+8b
+=4
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{16cc
+16dd
+8ee
+8cc
+=6
+16dd
+16ee
+8dd
+8cc
+=7
+16b
+16a
+8g
+8b
+=8
+8cc
+4cc}
+!!LO:LB:g=esac
+=9
+{8cc
+8g
+16e
+16d
+=10
+16c
+16d
+8e
+8e
+=11
+16d
+16f
+8g
+8b
+=12
+8cc
+4ee}
+!!LO:LB:g=esac
+=13
+{8cc
+8g
+16e
+16d
+=14
+16c
+16d
+8e
+8e
+=15
+16d
+16f
+8a
+8g
+=16
+8e
+4c}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=55 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 31} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 31}
+!!!page: 31
+!!!ONB: Converted on 2024/12/26 with esac2hum

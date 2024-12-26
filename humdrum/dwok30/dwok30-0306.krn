@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK3030600000-oj_pid_wyszneju.krn
+!!!OTL: Oj pid wyszneju
+!!!source: DWOK30
+!!!id: 30306
+!!!signature: 3030600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{4dd
+8dd
+8b
+=2
+4g
+4g
+=3
+8a
+8b
+8cc
+8a
+=4
+4g
+4g}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+8b
+8dd
+=6
+8cc
+8ee
+8ee
+8ee
+=7
+8dd
+8ff#
+8ff#
+8ff#
+=8
+4gg
+4gg}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=180 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 167} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 167}
+!!!page: 167
+!!!ONB: Converted on 2024/12/26 with esac2hum

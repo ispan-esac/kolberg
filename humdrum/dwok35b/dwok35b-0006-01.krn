@@ -1,0 +1,51 @@
+!!!!SEGMENT: DWOK35B-35B00600001-oj_iszol_dzumak_sim_lit_po_dolach.krn
+!!!OTL: Oj iszoł dżumak sim lit po dołach
+!!!source: DWOK35B
+!!!id: 35B006
+!!!signature: 35B00600001
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=1
+{8e
+8b
+8b
+8b
+=2
+2b
+=3
+8b
+8dd
+8dd
+8cc
+=4
+8b
+8e
+4e}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8a
+=6
+8.b
+16a
+8g
+8e
+=7
+8f#
+8e
+8e
+8B
+=8
+2e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 131} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 131}
+!!!page: 131
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK4813500000-oj_dana_moja_dana.krn
+!!!OTL: Oj, dana moja, dana
+!!!source: DWOK48
+!!!id: 48135
+!!!signature: 4813500000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{4g
+4cc
+8cc
+8b
+=2
+8cc
+8ee
+8dd
+8cc
+8b
+8a}
+!!LO:LB:g=esac
+=3
+{4g
+4b
+4b
+=
+12g
+12b
+12dd
+4ff
+8ff
+8ee}
+!!LO:LB:g=esac
+=4
+{4gg
+4ee
+4cc
+=5
+8ff
+8ee
+8dd
+8cc
+8b
+8dd}
+!!LO:LB:g=esac
+=6
+{4b
+4g
+4g
+=
+12g
+12a
+12b
+4dd
+4cc}
+==
+*-
+!!!ONB: Wariant t. 6: +4+3+2+176
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=222 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 182} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 182}
+!!!page: 182
+!!!ONB: Converted on 2024/12/26 with esac2hum

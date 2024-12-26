@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK1938600000-oj_wosly_moje_wolsy.krn
+!!!OTL: Oj wośły moje wołśy
+!!!source: DWOK19
+!!!id: 19386
+!!!signature: 1938600000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8cc
+8b
+8dd
+=2
+16ee
+16dd
+8cc
+8g
+=3
+16a
+16cc
+8b
+8dd
+=4
+8a
+4g}
+!!LO:LB:g=esac
+=5
+{8d
+8f#
+8g
+=6
+16a
+16b
+8a
+8f#
+=7
+16g
+16f#
+8d
+8e
+=8
+8c
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/019dwok.pdf#page=132 @PL{Oskar Kolberg Dzieła Wszystkie 19: Kieleckie II, s. 118} @EN{Oskar Kolberg Complete Works 19: Kielce Voivodeship II, p. 118}
+!!!page: 118
+!!!ONB: Converted on 2024/12/26 with esac2hum

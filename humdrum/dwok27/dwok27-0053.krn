@@ -1,0 +1,71 @@
+!!!!SEGMENT: DWOK2705300000-zarzyj_zarzyj_ty_siwy_koniku.krn
+!!!OTL: Zarzyj zarzyj ty siwy koniku
+!!!source: DWOK27
+!!!id: 27053
+!!!signature: 2705300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{4dd
+8dd
+8dd
+8gg
+8ff#
+4ee
+=2
+8dd
+8ee
+8dd
+8cc
+8b
+8a
+4g
+=3
+8g
+8a
+8b
+8cc
+8dd
+8cc
+4b
+=4
+8a
+8a
+2g}
+4r
+!!LO:LB:g=esac
+=5
+{4a
+8g
+8b
+8cc
+8b
+4g
+=6
+8b
+8cc
+8dd
+8ee
+8cc
+8a
+4d
+=7
+4g
+4b
+4dd
+4b
+=8
+8a
+8a
+2g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=190 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 171} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 171}
+!!!page: 171
+!!!ONB: Converted on 2024/12/26 with esac2hum

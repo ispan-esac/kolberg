@@ -1,0 +1,108 @@
+!!!!SEGMENT: DWOK06066900002-bywaj_zosiu_zdrowa.krn
+!!!OTL: Bywaj Zosiu zdrowa
+!!!source: DWOK06
+!!!id: K0669
+!!!signature: 06066900002
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=1
+{8f
+8b-
+8.dd
+16cc
+=2
+8b-
+4b-
+16dd
+16b-
+=3
+8a
+8cc
+8.ee-
+16dd
+=4
+16dd
+16cc
+4cc
+16a
+16g}
+!!LO:LB:g=esac
+=5
+{8f
+8b-
+8.dd
+16cc
+=6
+16cc
+16b-
+4b-
+16dd
+16b-
+=7
+16a
+16b-
+16cc
+16dd
+16ee-
+16dd
+16ee-
+16a
+=8
+8b-
+4b-
+16b-
+16a}
+!!LO:LB:g=esac
+=9
+{8b-
+8dd
+8.ff
+16ee-
+=10
+8dd
+4dd
+16ff
+16dd
+=11
+8cc
+8ee-
+8.gg
+16ff
+=12
+16ff
+16ee-
+4ee-
+16dd
+16cc}
+!!LO:LB:g=esac
+=13
+{8b-
+8dd
+8ff
+8ee-
+=14
+8dd
+4dd
+16cc
+16b-
+=15
+16a
+16b-
+16cc
+16dd
+8ee-
+16r
+16a
+=16
+8b-
+4.b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=442 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 416} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 416}
+!!!page: 416
+!!!ONB: Converted on 2024/12/26 with esac2hum

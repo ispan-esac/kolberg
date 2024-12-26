@@ -1,0 +1,78 @@
+!!!!SEGMENT: DWOK3920100002-nie_bylo_nas_tylko_dwa.krn
+!!!OTL: Nie było nas tylko dwa
+!!!source: DWOK39
+!!!id: 39201
+!!!signature: 3920100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=1
+{8dd
+8dd
+4b
+4dd
+=2
+8.b
+16dd
+2gg}
+!!LO:LB:g=esac
+=3
+{8dd
+8dd
+4b
+4dd
+=4
+8.b
+16dd
+2gg}
+!!LO:LB:g=esac
+=5
+{8b
+8b
+4a
+4cc
+=6
+4.ee
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=7
+{8f#
+8a
+4d
+4f#
+=8
+8g
+8b
+4ee
+4dd}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+4a
+4cc
+=10
+4.ee
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=11
+{8f#
+8a
+4d
+4f#
+=12
+4g
+2g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/039dwok.pdf#page=275 @PL{Oskar Kolberg Dzieła Wszystkie 39: Pomorze, s. 223} @EN{Oskar Kolberg Complete Works 39: Pomerania, p. 223}
+!!!page: 223
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,81 @@
+!!!!SEGMENT: DWOK2511200000-pocozes_mnie_matulinku_za_maz_wydala.krn
+!!!OTL: Pocóześ mnie matulinku za mąz wydała
+!!!source: DWOK25
+!!!id: 25112
+!!!signature: 2511200000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{16f
+16f
+8ee-
+8ee-
+=2
+16dd
+16dd
+8.cc
+16a
+=3
+16g
+16g
+8b-
+8a
+=4
+4.cc}
+!!LO:LB:g=esac
+=5
+{16f
+16f
+8ee-
+8ee-
+=6
+16dd
+16dd
+8.cc
+16a
+=7
+16g
+16g
+8b-
+8a
+=8
+4.f}
+!!LO:LB:g=esac
+=9
+{16f
+16f
+8b-
+8b-
+=10
+16a
+16b-
+8.cc
+16a
+=11
+16b-
+16cc
+8dd
+8ee-
+=12
+16dd
+16ee-
+8.ff
+16ee-}
+!!LO:LB:g=esac
+=13
+{16dd
+16dd
+8cc
+8a
+=14
+4.b-}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=70 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 45-46} @EN{Oskar Kolberg Complete Works 25: Mazovia II, pp. 45-46}
+!!!page: 45-46
+!!!ONB: Converted on 2024/12/26 with esac2hum

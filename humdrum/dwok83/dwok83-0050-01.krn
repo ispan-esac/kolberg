@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK8305000001-woj_z_terema_do_terema.krn
+!!!OTL: Wój, z terema do terema
+!!!source: DWOK83
+!!!id: 83050
+!!!signature: 8305000001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8ee
+4ff
+=2
+8ff
+4ee
+=3
+8ff
+4ee
+=4
+16dd
+16b
+4cc}
+!!LO:LB:g=esac
+=
+{8dd
+24ff
+24ee
+24gg
+16ff
+16dd
+=5
+16ee
+16cc
+8dd
+8b
+=6
+4.cc
+=7
+16b
+16g}
+4r
+!!LO:LB:g=esac
+=8
+{16g
+16cc
+16dd
+16cc
+8ee
+=9
+16dd
+16b
+4cc
+=10
+8ff
+4ee
+=11
+8gg
+8ff
+8ee
+=12
+8dd
+4cc}
+!!LO:LB:g=esac
+=13
+{8ee
+8ff
+8ee
+=14
+8dd
+4cc
+=15
+16dd
+16ee
+8ff
+8ee
+=16
+8ee
+4dd
+=17
+4.cc
+=18
+8cc}
+8r
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=164 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 61-62} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, pp. 61-62}
+!!!page: 61-62
+!!!ONB: Converted on 2024/12/26 with esac2hum

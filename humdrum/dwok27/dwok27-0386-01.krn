@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK2738600001-jechal_sobek_do_warsegi.krn
+!!!OTL: Jechał Sobek do Warsęgi
+!!!source: DWOK27
+!!!id: 27386
+!!!signature: 2738600001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+16.dd
+32dd
+8ee
+8dd
+=3
+16.dd
+32dd
+8ee
+8dd
+=4
+16.dd
+32dd
+8cc
+8ee
+=5
+4.dd}
+!!LO:LB:g=esac
+=6
+{16.cc
+32cc
+8b
+8b
+=7
+16f#
+16f#
+8g
+8b
+=8
+16.cc
+32cc
+8b
+8dd
+=9
+16f#
+16f#
+8g
+8gg
+=10
+16dd
+16dd
+8cc
+8f#
+=11
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/027dwok.pdf#page=360 @PL{Oskar Kolberg Dzieła Wszystkie 27: Mazowsze IV, s. 341} @EN{Oskar Kolberg Complete Works 27: Mazovia IV, p. 341}
+!!!page: 341
+!!!ONB: Converted on 2024/12/26 with esac2hum

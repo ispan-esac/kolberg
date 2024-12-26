@@ -1,0 +1,60 @@
+!!!!SEGMENT: DWOK7762700000-oj_niewola_niewola_da_cygana_rola.krn
+!!!OTL: Oj niewola niewola da Cygana rola
+!!!source: DWOK77
+!!!id: 77627
+!!!signature: 7762700000
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=1
+{8ff
+8ff
+8ff
+=2
+16cc
+16ee-
+8ff
+16ee-
+16dd}
+!!LO:LB:g=esac
+=3
+{8cc
+8b-
+16b-
+16a
+=4
+16a
+16f
+8g
+16g
+16f}
+!!LO:LB:g=esac
+=5
+{8a
+8cc
+8b-
+=6
+16b-
+16cc
+8ee-
+8dd}
+!!LO:LB:g=esac
+=7
+{8cc
+8b-
+16b-
+16f
+=8
+16a
+16f
+8g
+8f}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 318
+!!!ONB: Converted on 2024/12/26 with esac2hum

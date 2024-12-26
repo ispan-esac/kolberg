@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2323900000-pojdzcie_chrzescijanie.krn
+!!!OTL: Pójdźcie chrześcijanie
+!!!source: DWOK23
+!!!id: 23239
+!!!signature: 2323900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=1
+{4g
+8g
+8f#
+8d
+8f#
+=2
+8g
+4g
+4r
+8d}
+!!LO:LB:g=esac
+=3
+{4g
+8f#
+4d
+8f#
+=4
+4a
+8b
+4g
+8b}
+!!LO:LB:g=esac
+=5
+{4dd
+8cc
+4a
+8a
+=6
+4cc
+8b
+4g
+8g}
+!!LO:LB:g=esac
+=7
+{4b
+8a
+8f#
+8d
+8f#
+=8
+4a
+8b
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=250 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 236-237} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, pp. 236-237}
+!!!page: 236-237
+!!!ONB: Converted on 2024/12/26 with esac2hum

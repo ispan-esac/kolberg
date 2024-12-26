@@ -1,0 +1,62 @@
+!!!!SEGMENT: DWOK2243700010-kujawiak_ci_ja_kujawiak.krn
+!!!OTL: Kujawiak ci ja Kujawiak
+!!!source: DWOK22
+!!!id: 22437
+!!!signature: 2243700010
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4.e
+8g#
+8b
+8dd#
+=2
+8ee
+16cc
+16b
+4a
+4ee
+=3
+4.e
+8g#
+8b
+8dd#
+=4
+8ee
+16cc
+16b
+4a
+4g#}
+!!LO:LB:g=esac
+=5
+{4.e
+8g#
+8b
+8g#
+=6
+8a
+8b
+4cc
+8b
+8g#
+=7
+4.e
+8g#
+8b
+8g#
+=8
+8f#
+8g#
+4a
+4g#}
+==
+*-
+!!!ONB: melodia wokalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=233 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 215} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 215}
+!!!page: 215
+!!!ONB: Converted on 2024/12/26 with esac2hum

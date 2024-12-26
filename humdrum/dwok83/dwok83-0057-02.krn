@@ -1,0 +1,83 @@
+!!!!SEGMENT: DWOK8305700002-medzy_horamy_medzy_dolamy.krn
+!!!OTL: Medży hóramy, medży dółamy
+!!!source: DWOK83
+!!!id: 83057
+!!!signature: 8305700002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{8e
+8a
+8b
+=2
+16cc
+16b
+4dd
+=3
+8ee
+16dd
+16a
+8cc
+=4
+8b
+4a}
+!!LO:LB:g=esac
+=
+{24a
+24b
+24cc
+16b
+16a
+8cc
+=5
+8dd
+8dd
+8a
+=6
+4b
+8a
+=7
+4b}
+8r
+!!LO:LB:g=esac
+=8
+{8dd
+8a
+8b
+=9
+8cc
+4dd
+=10
+8ee
+8dd
+8cc
+=11
+8b
+4a}
+!!LO:LB:g=esac
+=12
+{8dd
+16dd
+16a
+16cc
+16b
+=13
+16cc
+16a
+8b
+8g#
+=14
+4.a
+=15
+4a}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=169 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 66} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 66}
+!!!page: 66
+!!!ONB: Converted on 2024/12/26 with esac2hum

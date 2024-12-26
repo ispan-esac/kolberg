@@ -1,0 +1,92 @@
+!!!!SEGMENT: DWOK83158200000-instrumentalna_-_kolomyjka.krn
+!!!OTL: Instrumentalna - Kołomyjka
+!!!source: DWOK83
+!!!id: 831582
+!!!signature: 83158200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ff
+8ee
+8ee
+8ee
+=2
+8dd#
+8dd#
+4ee
+=3
+16cc
+16b
+16cc
+16dd
+8ee
+8g#
+=4
+8ee
+4.ee
+=5
+8ff
+8ee
+8ee
+8ee
+=6
+8dd#
+8dd#
+4ee
+=7
+16cc
+16b
+16cc
+16dd
+8ee
+8g#
+=8
+8a
+4.a}
+!!LO:LB:g=esac
+=9
+{4b
+4ee
+=10
+8cc
+16cc
+16b
+4a
+=11
+8b
+8g#
+16g#
+16e
+16g#
+16b
+=12
+4ee
+4ee
+=13
+4b
+4ee
+=14
+8cc
+16cc
+16b
+4a
+=15
+8b
+8g#
+8g#
+16e
+16g#
+=16
+4a
+4a}
+==
+*-
+!!!ONB: Wariant t. 1: 6b_5_5__; wariant t. 9 i 13: 212_5__
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/083dwok.pdf#page=436 @PL{Oskar Kolberg Dzieła Wszystkie 83: Przemyskie. Suplement do tomu 35 DWOK, s. 325} @EN{Oskar Kolberg Complete Works 83: Przemyśl Voivodeship: Supplement to Volume 35 DWOK, p. 325}
+!!!page: 325
+!!!ONB: Converted on 2024/12/26 with esac2hum

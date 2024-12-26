@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK1719000002-chodzilam_po_sadzie_-_krakowiak.krn
+!!!OTL: Chodziłam po sadzie - Krakowiak
+!!!source: DWOK17
+!!!id: 17190
+!!!signature: 1719000002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8.ee
+16dd
+16cc
+16b
+16a
+16g
+=2
+8g
+8g
+8e
+8c
+=3
+8.dd
+16cc
+8b
+8a
+=4
+8g
+8g
+8f
+8d}
+!!LO:LB:g=esac
+=5
+{8.ee
+16dd
+16cc
+16b
+16a
+16g
+=6
+8g
+8g
+8cc
+8ee
+=7
+8.gg
+16ff
+16ee
+16ff
+16ee
+16cc
+=8
+16dd
+16ee
+16dd
+16b
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 61} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 61}
+!!!page: 61
+!!!ONB: Converted on 2024/12/26 with esac2hum

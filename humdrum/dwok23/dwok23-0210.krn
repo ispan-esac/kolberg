@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK2321000000-pocozes_mnie_pani_matko.krn
+!!!OTL: Pocóżeś mnie pani matko
+!!!source: DWOK23
+!!!id: 23210
+!!!signature: 2321000000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8ee
+=2
+16dd
+16dd
+8ee
+16cc
+16a
+=3
+16a
+16cc
+8dd
+16a
+16b
+=4
+4.g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8dd
+8ee
+=6
+16b
+16dd
+8cc
+8a
+=7
+16a
+16cc
+8dd
+16a
+16b
+=8
+4.g}
+!!LO:LB:g=esac
+=9
+{16f#
+16a
+8b
+16cc
+16a
+=10
+16g
+16b
+16b
+16g
+16b
+16dd
+=11
+16f#
+16a
+8a
+8cc
+=12
+16g
+16b
+8b
+16b
+16dd}
+!!LO:LB:g=esac
+=13
+{16a
+16cc
+8dd
+16a
+16b
+=14
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/023dwok.pdf#page=200 @PL{Oskar Kolberg Dzieła Wszystkie 23: Kaliskie, s. 186} @EN{Oskar Kolberg Complete Works 23: Kalisz Region, p. 186}
+!!!page: 186
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK02-K0167b-krakowiak_coz_ja_nieboraczek.krn
+!!!OTL: Krakowiak Coz ja nieboraczek
+!!!source: DWOK02
+!!!id: K0167b
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{8g
+8ff
+8ff
+=2
+16ee
+16gg
+8ee
+8cc
+=3
+16b
+16dd
+8g
+16a
+16b
+=4
+8cc
+4ee}
+!!LO:LB:g=esac
+=5
+{8g
+8ff
+8ff
+=6
+16ee
+16gg
+8ee
+8cc
+=7
+16b
+16dd
+8g
+16a
+16b
+=8
+8.cc
+16cc
+16b
+16cc}
+==
+*-
+!!!ONB: Skrzypce bez spiewu
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=149 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 138} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 138}
+!!!page: 138
+!!!ONB: Converted on 2024/12/26 with esac2hum

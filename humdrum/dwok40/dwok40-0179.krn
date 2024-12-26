@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4017900000-za_ona_goreczka.krn
+!!!OTL: Za oną góreczką
+!!!source: DWOK40
+!!!id: 40179
+!!!signature: 4017900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M9/8
+=1
+{4dd
+8dd
+4cc
+8a
+4g
+8b
+=2
+4f#
+8a
+4cc
+16a
+16f#
+4g
+8b}
+!!LO:LB:g=esac
+=3
+{8d
+8f#
+8a
+8cc
+8a
+8f#
+8g
+8a
+8b
+=4
+8d
+8f#
+8a
+8cc
+8a
+8f#
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/040dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 40: Mazury Pruskie, s. 231} @EN{Oskar Kolberg Complete Works 40: Prussian Masuria, p. 231}
+!!!page: 231
+!!!ONB: Converted on 2024/12/26 with esac2hum

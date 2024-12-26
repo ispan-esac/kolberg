@@ -1,0 +1,68 @@
+!!!!SEGMENT: DWOK2614700000-zalosnie_sobie_plakala.krn
+!!!OTL: Załośnie sobie płakała
+!!!source: DWOK26
+!!!id: 26147
+!!!signature: 2614700000
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/8
+=1
+{8g
+8g
+8b
+=2
+4b
+8g
+=3
+8b
+4cc
+=4
+4.dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8ff
+8ff
+=6
+4ff
+8ee-
+=7
+8dd
+4dd
+=8
+4.b}
+!!LO:LB:g=esac
+=9
+{8b
+8g
+8b
+=10
+4dd
+8f
+=11
+8g
+4b
+=12
+4.cc}
+!!LO:LB:g=esac
+=13
+{8f
+8f
+8g
+=14
+4g
+8b
+=15
+4cc
+8b
+=16
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 152
+!!!ONB: Converted on 2024/12/26 with esac2hum

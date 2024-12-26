@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2826700000-zielona_dabrowa_bodaj_wygorzala.krn
+!!!OTL: Zielona dąbrowa bodaj wygorzała
+!!!source: DWOK28
+!!!id: 28267
+!!!signature: 2826700000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16f#
+16a
+4cc
+=2
+8cc
+8b
+8g
+=3
+16a
+16f#
+4d
+=4
+8e
+8d
+8d}
+!!LO:LB:g=esac
+=5
+{16d
+32f#
+32a
+8cc
+8b
+=6
+8dd
+16cc
+16b
+16g
+16a
+=7
+16b
+16a
+4d
+=8
+8f#
+8g
+8g}
+==
+*-
+!!!ONB: Poprawiono metrum na 3/8 w zapisie jest 2/4
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=280 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 261} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 261}
+!!!page: 261
+!!!ONB: Converted on 2024/12/26 with esac2hum

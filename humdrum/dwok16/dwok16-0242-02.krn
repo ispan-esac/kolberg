@@ -1,0 +1,54 @@
+!!!!SEGMENT: DWOK1624200002-instrumentalna.krn
+!!!OTL: Instrumentalna
+!!!source: DWOK16
+!!!id: 16242
+!!!signature: 1624200002
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8aa
+4aa
+=
+4gg
+8ff#
+24ee-
+24dd
+24cc
+=2
+8ff#
+8cc
+8dd
+8dd}
+!!LO:LB:g=esac
+=3
+{8g
+8cc
+8ff
+8ee-
+=
+8dd
+8cc
+8ff#
+24ee-
+24dd
+24cc
+=4
+8ff#
+8cc
+4dd
+=5
+16b
+16a
+8g
+4g}
+==
+*-
+!!!ONB: Andante
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=229 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 209} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 209}
+!!!ONB: Converted on 2024/12/26 with esac2hum

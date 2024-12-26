@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK3143800000-stojit_korczma_nad_bolotom.krn
+!!!OTL: Stojit korczma nad bołotom
+!!!source: DWOK31
+!!!id: 31438
+!!!signature: 3143800000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+16ee
+16dd
+8ee
+16dd
+16b
+=2
+8ee
+8gg
+8ee
+16dd
+16b
+=3
+8a
+16dd
+16cc
+16b
+16a
+16b
+16a
+=4
+8e
+8e
+8a
+8a}
+!!LO:LB:g=esac
+=5
+{8a
+16dd
+16cc
+8b
+8a
+=6
+8ee
+8dd
+8ee
+16dd
+16b
+=7
+8a
+16dd
+16cc
+16b
+16a
+16b
+16a
+=8
+8e
+8e
+8a
+8a}
+==
+*-
+!!!ONB: Serpen
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/031dwok.pdf#page=71 @PL{Oskar Kolberg Dzieła Wszystkie 31: Pokucie III, s. 50} @EN{Oskar Kolberg Complete Works 31: Pokuttia III, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

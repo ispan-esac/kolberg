@@ -1,0 +1,64 @@
+!!!!SEGMENT: DWOK06-K0056b-otworz_ze_mi_otworz.krn
+!!!OTL: Otworz ze mi otworz
+!!!source: DWOK06
+!!!id: K0056b
+!!!signature:
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8cc
+8a
+8f#
+8d
+=2
+16g
+16b
+4dd
+16cc
+16b
+=3
+8a
+8ee
+8.dd
+16cc
+=4
+8cc
+4b
+16a
+16g}
+!!LO:LB:g=esac
+=5
+{16a
+16b
+16cc
+16a
+8f#
+8d
+=6
+16g
+16b
+4dd
+8b
+=7
+16a
+16b
+16cc
+16a
+16f#
+16g
+16a
+16f#
+=8
+8g
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=60 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 34} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 34}
+!!!page: 34
+!!!ONB: Converted on 2024/12/26 with esac2hum

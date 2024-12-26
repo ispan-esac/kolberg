@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK3625200000-zapriazu_ja_konia_w_sanki.krn
+!!!OTL: Zapriażu ja konia w sanki
+!!!source: DWOK36
+!!!id: 36252
+!!!signature: 3625200000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8a
+8b
+4.cc
+8ee
+=2
+8b
+8b
+8cc
+8b
+8a
+8g#
+=3
+8a
+8b
+8cc
+8b
+8a
+8e
+=4
+4g#
+2e}
+!!LO:LB:g=esac
+=5
+{8a
+8b
+8cc
+8ee
+8dd
+8ee
+=6
+2g#
+8cc
+8cc
+=7
+2a
+4a}
+!!LO:LB:g=esac
+=8
+{16e
+16a
+8b
+4.cc
+8ee
+=9
+8b
+8b
+8cc
+8b
+8a
+8g#
+=10
+8a
+8b
+8cc
+8b
+8a
+8e
+=11
+4g#
+2e}
+!!LO:LB:g=esac
+=12
+{8a
+8b
+8cc
+8ee
+8dd
+8ee
+=13
+2g#
+8cc
+16cc
+16cc
+=14
+2a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 148
+!!!ONB: Converted on 2024/12/26 with esac2hum

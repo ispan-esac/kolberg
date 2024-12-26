@@ -1,0 +1,82 @@
+!!!!SEGMENT: DWOK7700100002-a_coz_z_ta_dziecina.krn
+!!!OTL: A cóż z tą dzieciną
+!!!source: DWOK77
+!!!id: 77001
+!!!signature: 7700100002
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{4cc
+4cc
+4dd
+=2
+4ee
+2ee
+=3
+4dd
+4ee
+8dd
+8cc
+=4
+4b
+4a}
+4r
+!!LO:LB:g=esac
+=5
+{4dd
+4cc
+4dd
+=6
+4ee
+2ee
+=7
+8dd
+8dd
+4ee
+8dd
+8cc
+=8
+4b
+4a}
+4r
+!!LO:LB:g=esac
+=9
+{8a
+8b
+4cc
+4a
+=10
+8cc
+8cc
+4.b
+8a
+=11
+8a
+8b
+4cc
+4a
+=12
+8cc
+8cc
+4.b
+8a}
+!!LO:LB:g=esac
+=13
+{4b
+4a
+4g#
+=14
+4a}
+4r
+4r
+==
+*-
+!!!ONB: Dla taktów 5-10 zanotowany nad nutami drugi zapis z adnotacją: "lub"
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 3
+!!!ONB: Converted on 2024/12/26 with esac2hum

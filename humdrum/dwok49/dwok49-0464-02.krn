@@ -1,0 +1,57 @@
+!!!!SEGMENT: DWOK4946400002-oj_juz_czias_i_hodyna.krn
+!!!OTL: Oj, już czias i hodyna
+!!!source: DWOK49
+!!!id: 49464
+!!!signature: 4946400002
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16dd
+16ee
+8ff
+16ff
+16ee
+=2
+8dd
+4cc
+=3
+4cc}
+8r
+!!LO:LB:g=esac
+=4
+4r
+{8cc
+=5
+16ee
+16ff
+8gg
+8ee
+=6
+8gg
+8ff
+8ee}
+!!LO:LB:g=esac
+=7
+{16gg
+16ff
+8ee
+16dd
+16cc
+=8
+8ee
+8dd
+8b
+=9
+4cc
+8cc}
+==
+*-
+!!!ONB: U Kolberga błędny zapis metrorytmiczny
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=530 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 440} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 440}
+!!!page: 440
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1334100000-oj_wygral_nasz_pan_wygral.krn
+!!!OTL: Oj wygrał nasz pan wygrał
+!!!source: DWOK13
+!!!id: 13341
+!!!signature: 1334100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8dd
+8cc
+=2
+16cc
+16ee
+8ee
+8dd}
+!!LO:LB:g=esac
+=3
+{16b
+16dd
+8dd
+8cc
+=4
+16a
+16f#
+8d
+8g}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8b
+16dd
+16cc
+=6
+16a
+16f#
+8d
+8g}
+!!LO:LB:g=esac
+=7
+{16g
+16b
+8b
+16b
+16cc
+=8
+16a
+16f#
+8d
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/013dwok.pdf#page=173 @PL{Oskar Kolberg Dzieła Wszystkie 13: W. Ks. Poznańskie V, s. 149} @EN{Oskar Kolberg Complete Works 13: Grand Duchy of Poznań V, p. 149}
+!!!page: 149
+!!!ONB: Converted on 2024/12/26 with esac2hum

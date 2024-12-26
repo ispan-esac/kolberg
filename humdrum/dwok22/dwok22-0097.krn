@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK2209700000-chlopceta_chlopceta_ja_wasa_dziewcyna.krn
+!!!OTL: Chłopcęta chłopcęta ja wasa dziewcyna
+!!!source: DWOK22
+!!!id: 22097
+!!!signature: 2209700000
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=1
+{16g
+16b
+8dd
+8dd
+=2
+4ee
+8a
+=3
+4b
+8g
+=4
+16f#
+16a
+16g
+16f#
+8e}
+!!LO:LB:g=esac
+=5
+{16e
+32g#
+32b
+8dd
+8gg
+=6
+4a
+8a
+=7
+4b
+8g
+=8
+16f#
+16a
+16g
+16f#
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=93 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 75} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 75}
+!!!page: 75
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,77 @@
+!!!!SEGMENT: DWOK4958100001-jak_cie_beda_czepic_to_spojrzy_do_powaly.krn
+!!!OTL: Jak cię będą czepić, to spójrzy do powały
+!!!source: DWOK49
+!!!id: 49581
+!!!signature: 4958100001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+4dd
+=2
+8g
+8b
+4dd
+=3
+8ee
+4ee
+8ee
+=4
+8dd
+8dd
+8b
+8g
+=5
+8cc
+4ee
+8ee
+=6
+8dd
+8dd
+8b
+8g}
+!!LO:LB:g=esac
+=7
+{8a
+8cc
+8b
+8a
+=8
+4b
+4g
+=9
+8d
+8f#
+4a
+=10
+8g
+4dd
+8dd}
+!!LO:LB:g=esac
+=11
+{8dd
+8cc
+8a
+8cc
+=12
+4b
+4g
+=13
+8d
+8f#
+4a
+=14
+8g
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=581 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 491} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 491}
+!!!page: 491
+!!!ONB: Converted on 2024/12/26 with esac2hum

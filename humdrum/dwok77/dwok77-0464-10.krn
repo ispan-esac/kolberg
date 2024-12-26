@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK7746400010-oj_stary_ja_se_stary.krn
+!!!OTL: Oj stary ja se stary
+!!!source: DWOK77
+!!!id: 77464
+!!!signature: 7746400010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8gg
+16gg
+16ff#
+8dd
+=2
+16ee
+16cc
+8dd
+8ff#
+=3
+8gg
+16gg
+16ff#
+8dd
+=4
+16ee
+16cc
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+16a
+16g
+8b
+=6
+16cc
+16ee
+8dd
+8g
+=7
+8a
+16a
+16g
+8b
+=8
+16dd
+16cc
+8b
+8g}
+==
+*-
+!!!ONB: Od taktu 9 część instrumentalna
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/077dwok.pdf
+!!!page: 239
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK2571200000-chlop_stodole_wymlocil.krn
+!!!OTL: Chłop stodołę wymłócił
+!!!source: DWOK25
+!!!id: 25712
+!!!signature: 2571200000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8ee
+8cc
+=2
+8b
+8dd
+4cc
+=3
+8dd
+16b
+16dd
+8ee
+8ee
+=4
+8ff
+8ff
+4ee}
+!!LO:LB:g=esac
+=5
+{8g
+8cc
+8ee
+8cc
+=6
+8b
+8dd
+4cc
+=7
+8dd
+8dd
+8ee
+8cc
+=8
+8b
+8dd
+4cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 251} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 251}
+!!!page: 251
+!!!ONB: Converted on 2024/12/26 with esac2hum

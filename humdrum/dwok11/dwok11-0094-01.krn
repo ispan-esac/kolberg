@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK1109400001-przyjechali_juz_tu_sa.krn
+!!!OTL: Przyjechali już tu są
+!!!source: DWOK11
+!!!id: 11094
+!!!signature: 1109400001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+16dd
+16ee
+16cc
+16a
+=2
+16f#
+16a
+8cc
+8ee
+=3
+8dd
+16cc
+16ee
+16cc
+16a
+=4
+16f#
+16a
+8b
+8g}
+!!LO:LB:g=esac
+=5
+{8d
+8cc
+16cc
+16a
+=6
+16f#
+16a
+8cc
+8ee
+=7
+8d
+8cc
+16cc
+16a
+=8
+16f#
+16a
+8b
+8g}
+==
+*-
+!!!ONB: Przepiórka
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/011dwok.pdf#page=219 @PL{Oskar Kolberg Dzieła Wszystkie 11: W. Ks. Poznańskie III, s. 201} @EN{Oskar Kolberg Complete Works 11: Grand Duchy of Poznań III, p. 201}
+!!!page: 201
+!!!ONB: Converted on 2024/12/26 with esac2hum

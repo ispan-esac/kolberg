@@ -1,0 +1,90 @@
+!!!!SEGMENT: DWOK1707800020-i_ja_mazur_i_ty_mazur.krn
+!!!OTL: I ja Mazur i ty Mazur
+!!!source: DWOK17
+!!!id: 17078
+!!!signature: 1707800020
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+{24g
+24cc
+24ee
+8gg
+16gg
+16ff#
+=1
+16gg
+16gg
+8ee
+16cc
+16b
+=
+24g
+24b
+24dd
+8ff
+16ff
+16ee
+=2
+16ff
+16ff
+8dd
+8b}
+!!LO:LB:g=esac
+=3
+{16g
+16cc
+8ee
+16ee
+16dd
+=4
+16ee
+16ee
+8dd
+16cc
+16b
+=5
+16a
+16g
+8b
+8dd
+=6
+16dd
+16dd
+8b
+8g}
+!!LO:LB:g=esac
+=7
+{16g
+16cc
+8ee
+16ee
+16dd
+=8
+16ee
+16ee
+8dd
+16cc
+16b
+=
+24g
+24b
+24dd
+8ff
+16ff
+16ee
+=9
+16ff
+16ff
+8dd
+8b}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/017dwok.pdf#page=51 @PL{Oskar Kolberg Dzieła Wszystkie 17: Lubelskie II, s. 29} @EN{Oskar Kolberg Complete Works 17: Lublin Voivodeship II, p. 29}
+!!!page: 29
+!!!ONB: Converted on 2024/12/26 with esac2hum

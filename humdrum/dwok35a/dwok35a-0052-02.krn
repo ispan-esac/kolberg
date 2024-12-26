@@ -1,0 +1,61 @@
+!!!!SEGMENT: DWOK35A-35A05200002-wyj_sie_winojku_wkolo.krn
+!!!OTL: Wyj sie winojku wkoło
+!!!source: DWOK35A
+!!!id: 35A052
+!!!signature: 35A05200002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8g
+8a
+8cc
+=2
+4b
+8a
+8g
+=3
+2g
+=4
+4g
+4r
+=5
+8cc
+8b
+8dd
+8cc
+=6
+8b
+8g
+8a
+8g
+=7
+4cc
+8b
+8a}
+!!LO:LB:g=esac
+=8
+{8cc
+8b
+8a
+8g
+=9
+8b
+8a
+8g
+8f
+=10
+2g
+=11
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/035dwok.pdf#page=81 @PL{Oskar Kolberg Dzieła Wszystkie 35: Przemyskie, s. 45} @EN{Oskar Kolberg Complete Works 35: Przemyśl Voivodeship, p. 45}
+!!!page: 45
+!!!ONB: Converted on 2024/12/26 with esac2hum

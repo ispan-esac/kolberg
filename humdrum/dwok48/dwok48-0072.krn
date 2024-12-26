@@ -1,0 +1,53 @@
+!!!!SEGMENT: DWOK4807200000-kapala_sie_kasia_w_morzu.krn
+!!!OTL: Kąpała się Kasia w morzu
+!!!source: DWOK48
+!!!id: 48072
+!!!signature: 4807200000
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=1
+{16g
+16cc
+8ee
+8ee
+=2
+4ff
+8b
+=3
+8dd
+4cc}
+!!LO:LB:g=esac
+=4
+{16b
+16a
+8g
+8g
+=5
+4a
+8d
+=6
+8f
+4e}
+!!LO:LB:g=esac
+=7
+{16g
+16cc
+8ee
+8gg
+=8
+4ff
+8b
+=9
+8dd
+8cc}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/048dwok.pdf#page=176 @PL{Oskar Kolberg Dzieła Wszystkie 48: Tarnowskie-Rzeszowskie, s. 136} @EN{Oskar Kolberg Complete Works 48: Tarnów-Rzeszów Voivodeship, p. 136}
+!!!page: 136
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,84 @@
+!!!!SEGMENT: DWOK0904300001-oj_siadaj_siadaj_kochanie_moje.krn
+!!!OTL: Oj siadaj, siadaj, kochanie moje
+!!!source: DWOK09
+!!!id: 09043
+!!!signature: 0904300001
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=1
+{8d
+16dd
+16cc#
+16dd
+16ee
+=2
+8ff
+4dd
+=3
+16cc
+16dd
+8cc
+16b-
+16g
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{8d
+16dd
+16cc#
+16dd
+16ee
+=6
+8ff
+4dd
+=7
+16cc
+16dd
+8cc
+16b-
+16g
+=8
+4.a}
+!!LO:LB:g=esac
+=9
+{8dd
+8a
+16b-
+16a
+=10
+16b-
+16dd
+8cc
+16b-
+16g
+=11
+8dd
+8a
+16b-
+16a
+=12
+16b-
+16dd
+8cc
+16b-
+16g}
+!!LO:LB:g=esac
+=13
+{8a
+16a
+16dd
+16b-
+16g
+=14
+4.a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/009dwok.pdf#page=212 @PL{Oskar Kolberg Dzieła Wszystkie 9: W. Ks. Poznańskie I, s. 188} @EN{Oskar Kolberg Complete Works 9: Grand Duchy of Poznań I, p. 188}
+!!!page: 188
+!!!ONB: Converted on 2024/12/26 with esac2hum

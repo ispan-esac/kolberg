@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK02-K0168-cztery_lata_wierniem_sluzyl.krn
+!!!OTL: Cztery lata wierniem sluzyl
+!!!source: DWOK02
+!!!id: K0168
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8ff#
+=2
+16dd
+16ff#
+8.gg
+16ee
+=3
+16dd
+16ff#
+8gg
+8ee
+=
+24dd
+24ff#
+24aa
+8.gg
+16ee}
+!!LO:LB:g=esac
+=4
+{16cc
+16cc
+8a
+32cc
+16.a
+=5
+4g}
+8r
+!!LO:LB:g=esac
+=6
+{16cc
+16cc
+8a
+32cc
+16.a
+=7
+16g
+16b
+8cc
+8ee
+=8
+16cc
+16cc
+8a
+32cc
+16.a
+=9
+4g}
+8r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/002dwok.pdf#page=150 @PL{Oskar Kolberg Dzieła Wszystkie 2: Sandomierskie, s. 139} @EN{Oskar Kolberg Complete Works 2: Sandomierz, p. 139}
+!!!page: 139
+!!!ONB: Converted on 2024/12/26 with esac2hum

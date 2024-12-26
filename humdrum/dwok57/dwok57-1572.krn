@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK57157200000-oj_piszla_piszla_podolanka_po_wodu.krn
+!!!OTL: Oj, piszła, piszła Podólanka po wodu
+!!!source: DWOK57
+!!!id: 571572
+!!!signature: 57157200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{2ee}
+!!LO:LB:g=esac
+=2
+{8ff
+8ee
+8dd
+8cc
+=3
+8dd
+8ee
+4ff
+=4
+8ff
+8ee
+4dd
+=5
+2cc}
+!!LO:LB:g=esac
+=6
+{2dd}
+!!LO:LB:g=esac
+=7
+{8ee
+8dd
+16cc
+16b
+8a
+=8
+8a
+8cc
+4dd
+=9
+8ee
+8dd
+4cc
+=10
+2a}
+==
+*-
+!!!ONB: Wariant t. 3-4: 4_5_6b_4_  6b_5_4_2_; wariant t. 9: 5_4_3b_1_
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 616
+!!!ONB: Converted on 2024/12/26 with esac2hum

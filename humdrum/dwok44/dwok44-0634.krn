@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK4463400000-powiedzze_dziewciatku_macieri.krn
+!!!OTL: Powiedzże dziewciatku, macieri
+!!!source: DWOK44
+!!!id: 44634
+!!!signature: 4463400000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8dd
+8dd
+8dd
+=2
+4.b
+=3
+16cc
+16dd
+8ee
+8ee
+=4
+16dd
+16cc
+4b}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+16ee
+16dd
+=6
+16dd
+16cc
+4b}
+!!LO:LB:g=esac
+=7
+{16g
+16b
+8b
+8b
+=8
+8dd
+8dd
+8cc
+=9
+16cc
+16b
+4a}
+!!LO:LB:g=esac
+=10
+{16cc
+16b
+8a
+8g
+=11
+8a
+8a
+8a
+=12
+16g
+16g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/044dwok.pdf#page=392 @PL{Oskar Kolberg Dzieła Wszystkie 44: Góry i Podgórze I, s. 334} @EN{Oskar Kolberg Complete Works 44: Mountains and Foothills I, p. 334}
+!!!page: 334
+!!!ONB: Converted on 2024/12/26 with esac2hum

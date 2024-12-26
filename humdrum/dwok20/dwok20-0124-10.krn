@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK2012400010-a_moja_marysiu_nie_daj_sie_fryzowac.krn
+!!!OTL: A moja Marysiu nie daj się fryzować
+!!!source: DWOK20
+!!!id: 20124
+!!!signature: 2012400010
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16a
+8b
+8cc
+=2
+4b
+8a
+=3
+16g
+16a
+8b
+8cc
+=4
+8dd
+4dd}
+!!LO:LB:g=esac
+=5
+{16dd
+16ee
+8dd
+8cc
+=6
+4b
+8a
+=7
+16cc
+16cc
+8b
+8a
+=8
+8a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/020dwok.pdf#page=174 @PL{Oskar Kolberg Dzieła Wszystkie 20: Radomskie I, s. 154} @EN{Oskar Kolberg Complete Works 20: Radom Voivodeship I, p. 154}
+!!!page: 154
+!!!ONB: Converted on 2024/12/26 with esac2hum

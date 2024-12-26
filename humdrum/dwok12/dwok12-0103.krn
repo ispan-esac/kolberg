@@ -1,0 +1,94 @@
+!!!!SEGMENT: DWOK1210300000-hola_matusiu_moja.krn
+!!!OTL: Hola! Matusiu moja
+!!!source: DWOK12
+!!!id: 12103
+!!!signature: 1210300000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+8r
+{8.cc
+16a
+=2
+4.g
+=3
+16b
+16dd
+8dd
+16ff#
+16ee
+=4
+4.a}
+!!LO:LB:g=esac
+=5
+{8cc
+8cc
+16a
+16cc
+=6
+16ee
+16ee
+8dd
+8g
+=7
+8g
+8g
+16g
+16e
+=8
+16e
+16g
+8a
+8f#}
+!!LO:LB:g=esac
+=9
+{16d
+16f#
+8e
+16g
+16e
+=10
+8d}
+4r
+!!LO:LB:g=esac
+=11
+{8cc
+8cc
+16a
+16cc
+=12
+16ee
+16ee
+8dd
+8b
+=13
+8g
+8g
+16g
+16e
+=14
+16e
+16g
+8a
+8f#}
+!!LO:LB:g=esac
+=15
+{16d
+16f#
+8e
+16g
+16e
+=16
+8d}
+4r
+==
+*-
+!!!ONB: W taktach 10 i 16 brakuje osemki
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=66 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 50} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 50}
+!!!page: 50
+!!!ONB: Converted on 2024/12/26 with esac2hum

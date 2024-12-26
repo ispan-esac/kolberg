@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK3010500000-hoj_plynut_husonki.krn
+!!!OTL: Hoj plynut husońki
+!!!source: DWOK30
+!!!id: 30105
+!!!signature: 3010500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8a
+8dd
+8dd
+8ee
+=2
+4dd
+4a
+=3
+4cc
+4dd
+=4
+8cc
+8b
+8a
+8g}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8a
+8a
+=6
+4a
+4g
+=7
+4cc
+4dd
+=8
+8cc
+8b
+4a
+=9
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/030dwok.pdf#page=86 @PL{Oskar Kolberg Dzieła Wszystkie 30: Pokucie II, s. 73} @EN{Oskar Kolberg Complete Works 30: Pokuttia II, p. 73}
+!!!page: 73
+!!!ONB: Converted on 2024/12/26 with esac2hum

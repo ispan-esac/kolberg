@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK3638000002-po_pid_horoju.krn
+!!!OTL: Po pid horoju
+!!!source: DWOK36
+!!!id: 36380
+!!!signature: 3638000002
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8cc
+8ee
+8dd
+8cc
+=2
+8b
+8dd
+4ee
+=3
+8ff
+8ee
+16dd
+16cc
+16b
+16a
+=4
+8b
+8a
+4g#}
+!!LO:LB:g=esac
+=5
+{8a
+8a
+8b
+8g#
+=6
+8e
+8cc
+16b
+16a
+8b
+=7
+16a
+16g#
+8a
+8b
+8g#
+=8
+4.e
+8e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 238
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK2241500000-trzewicki_mam_poncoski_mam.krn
+!!!OTL: Trzewicki mam pońcoski mam
+!!!source: DWOK22
+!!!id: 22415
+!!!signature: 2241500000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16g
+16b
+8dd
+8ee
+=2
+16a
+16cc
+8ee
+16b
+16a
+=3
+16b
+16b
+8dd
+8ee
+=4
+16a
+16cc
+8a
+16g
+16f#}
+!!LO:LB:g=esac
+=5
+{16g
+16b
+8g
+16e
+16e
+=6
+16a
+16cc
+8dd
+16b
+16a
+=7
+8g
+8d
+16e
+16e
+=8
+16d
+16cc
+8a
+16g
+16f#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/022dwok.pdf#page=226 @PL{Oskar Kolberg Dzieła Wszystkie 22: Łęczyckie, s. 208} @EN{Oskar Kolberg Complete Works 22: Łęczyca Voivodeship, p. 208}
+!!!page: 208
+!!!ONB: Converted on 2024/12/26 with esac2hum

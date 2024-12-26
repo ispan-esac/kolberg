@@ -1,0 +1,73 @@
+!!!!SEGMENT: DWOK1230400001-poszla_kasia_po_wode.krn
+!!!OTL: Poszła Kasia po wodę
+!!!source: DWOK12
+!!!id: 12304
+!!!signature: 1230400001
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=1
+{8g
+8b-
+16a
+16g
+8f#
+=2
+4d
+8b-
+8g
+=3
+8b-
+8cc
+8dd
+8dd
+=4
+8ff#
+8gg
+4dd}
+!!LO:LB:g=esac
+=5
+{8ff
+8ff
+16ff
+16ee-
+8dd
+=6
+8cc
+8cc
+16dd
+16g
+8f#
+=7
+4d
+8b-
+8g
+=8
+8b-
+8dd
+4ff}
+!!LO:LB:g=esac
+=9
+{8ff
+8ff
+16ff
+16ee-
+8dd
+=10
+4cc
+16dd
+16g
+8f#
+=11
+4d
+8b-
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/012dwok.pdf#page=179 @PL{Oskar Kolberg Dzieła Wszystkie 12: W. Ks. Poznańskie IV, s. 163} @EN{Oskar Kolberg Complete Works 12: Grand Duchy of Poznań IV, p. 163}
+!!!page: 163
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,52 @@
+!!!!SEGMENT: DWOK4108400001-przyslala_nadobna.krn
+!!!OTL: Przysłała nadobna
+!!!source: DWOK41
+!!!id: 41084
+!!!signature: 4108400001
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=1
+{8g#
+8a
+4b
+4dd
+=2
+4ee
+4dd
+4b}
+!!LO:LB:g=esac
+=3
+{4ee
+4ee
+8cc
+8b
+=4
+8a
+8g#
+2e}
+!!LO:LB:g=esac
+=5
+{8g#
+8a
+4b
+4dd
+=6
+4ee
+8dd
+8b
+4a
+=7
+4b
+8a
+8g#
+4e}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/041dwok.pdf#page=148 @PL{Oskar Kolberg Dzieła Wszystkie 41: Mazowsze VI, s. 69-70} @EN{Oskar Kolberg Complete Works 41: Mazovia VI, pp. 69-70}
+!!!page: 69-70
+!!!ONB: Converted on 2024/12/26 with esac2hum

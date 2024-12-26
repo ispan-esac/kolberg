@@ -1,0 +1,58 @@
+!!!!SEGMENT: DWOK2649400000-pijal_ci_ja_bande_pijac.krn
+!!!OTL: Pijał ci ja bande pijać
+!!!source: DWOK26
+!!!id: 26494
+!!!signature: 2649400000
+**kern
+*clefG2
+*k[]
+*a:
+*M3/8
+=1
+{16e
+16g#
+8a
+8b
+=2
+16cc
+16a
+8b
+8a
+=3
+16b
+16cc#
+8a
+8g#
+=4
+16e
+16d
+8e
+8e}
+!!LO:LB:g=esac
+=5
+{16e
+16g#
+8a
+8b
+=6
+16cc
+16a
+8b
+8a
+=7
+16cc
+16ee
+8dd
+8ee
+=8
+16cc
+16a
+8b
+8g#}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 320
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,67 @@
+!!!!SEGMENT: DWOK5261800000-harasza_nasza_dierewnia.krn
+!!!OTL: Harasza, nasza dierewnia
+!!!source: DWOK52
+!!!id: 52618
+!!!signature: 5261800000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8ee
+8dd
+8b
+=2
+16cc
+16b
+16cc
+16a
+8ee
+16dd
+16b
+=3
+8dd
+8gg
+8dd
+8b
+=4
+16cc
+16b
+16cc
+16a
+4g}
+!!LO:LB:g=esac
+=5
+{16d
+16f#
+8a
+8b
+16b
+16dd
+=6
+16cc
+16b
+16cc
+16a
+8dd
+8b
+=7
+8f#
+8a
+8b
+8dd
+=8
+16cc
+16b
+16cc
+16a
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/052dwok.pdf#page=458 @PL{Oskar Kolberg Dzieła Wszystkie 52: Białoruś-Polesie, s. 393} @EN{Oskar Kolberg Complete Works 52: Belarus-Polesia, p. 393}
+!!!page: 393
+!!!ONB: Converted on 2024/12/26 with esac2hum

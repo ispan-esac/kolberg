@@ -1,0 +1,76 @@
+!!!!SEGMENT: DWOK1650100000-niejeden_mysliwy_po_polu_poluje.krn
+!!!OTL: Niejeden myśliwy po polu poluje
+!!!source: DWOK16
+!!!id: 16501
+!!!signature: 1650100000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=1
+{8d
+8g
+8g
+8b
+4b
+8a
+8g
+=2
+8f#
+8a
+8a
+8cc
+8cc
+8b
+4b
+=3
+8d
+8g
+8g
+8b
+4b
+8a
+8a
+=4
+8a
+8g
+8f#
+8e
+8e
+8d
+4d}
+!!LO:LB:g=esac
+=5
+{4b
+8b
+8a
+2g
+=6
+8ee
+8dd
+8cc
+8b
+4.a
+8g
+=7
+8f#
+8a
+8cc
+8ee
+4ee
+8dd
+8cc#
+=8
+8dd
+8f#
+8a
+8a
+4g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=324 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 304} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 304}
+!!!ONB: Converted on 2024/12/26 with esac2hum

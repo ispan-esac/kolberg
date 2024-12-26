@@ -1,0 +1,69 @@
+!!!!SEGMENT: DWOK06-K0114-siano_grabila.krn
+!!!OTL: Siano grabila
+!!!source: DWOK06
+!!!id: K0114
+!!!signature:
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=1
+{8a
+4cc#
+8cc#
+8cc#
+8a
+=2
+8b
+4dd
+8dd
+8dd
+8b}
+!!LO:LB:g=esac
+=3
+{8a
+4cc#
+8cc#
+8cc#
+8ee
+=4
+8dd
+8dd
+8b
+8b
+4a}
+!!LO:LB:g=esac
+=5
+{8a
+4cc#
+8cc#
+8cc#
+8a
+=6
+8b
+4dd
+8dd
+8dd
+8b}
+!!LO:LB:g=esac
+=7
+{8a
+4cc#
+8cc#
+8cc#
+8ee
+=8
+8dd
+16dd
+16cc#
+8b
+8b
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=84 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 58} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 58}
+!!!page: 58
+!!!ONB: Converted on 2024/12/26 with esac2hum

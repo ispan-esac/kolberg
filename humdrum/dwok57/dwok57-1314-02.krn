@@ -1,0 +1,59 @@
+!!!!SEGMENT: DWOK57131400002-oj_na_stawu_na_stawonku.krn
+!!!OTL: Oj na stawu, na stawońku
+!!!source: DWOK57
+!!!id: 571314
+!!!signature: 57131400002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8b
+8dd
+8dd
+8b
+=2
+8cc
+8cc
+8cc
+8ee
+=3
+8dd
+8dd
+16dd
+16cc
+8b
+=4
+4cc
+4dd}
+!!LO:LB:g=esac
+=5
+{8g
+8b
+16b
+16a
+16b
+16g
+=6
+8g
+8a
+16a
+16b
+16a
+16cc
+=7
+8dd
+8dd
+8dd
+8f#
+=8
+4g
+4g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 403
+!!!ONB: Converted on 2024/12/26 with esac2hum

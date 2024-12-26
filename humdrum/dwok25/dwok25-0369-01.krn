@@ -1,0 +1,49 @@
+!!!!SEGMENT: DWOK2536900001-sumi_gaj_sumi_gaj.krn
+!!!OTL: Sumi gaj, sumi gaj
+!!!source: DWOK25
+!!!id: 25369
+!!!signature: 2536900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8.dd
+16cc
+8a
+=2
+16g
+16g
+8b
+8dd
+=3
+8dd
+8dd
+8ee
+=4
+8cc
+4a}
+!!LO:LB:g=esac
+=5
+{4b
+8f#
+=6
+16g
+16b
+8dd
+8cc
+=7
+8b
+8f#
+8a
+=8
+8g
+4d}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/025dwok.pdf#page=194 @PL{Oskar Kolberg Dzieła Wszystkie 25: Mazowsze II, s. 169} @EN{Oskar Kolberg Complete Works 25: Mazovia II, p. 169}
+!!!page: 169
+!!!ONB: Converted on 2024/12/26 with esac2hum

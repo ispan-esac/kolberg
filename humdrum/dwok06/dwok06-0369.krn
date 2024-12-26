@@ -1,0 +1,106 @@
+!!!!SEGMENT: DWOK0636900000-przyszedl_mazur_do_mazura.krn
+!!!OTL: Przyszedł Mazur do Mazura
+!!!source: DWOK06
+!!!id: K0369
+!!!signature: 0636900000
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8f#
+8g
+8a
+=2
+8b
+8b
+8b
+8g
+=3
+8a
+8a
+8a
+8f#
+=4
+4g
+4d}
+!!LO:LB:g=esac
+=5
+{8g
+8f#
+8g
+8a
+=6
+8b
+8b
+8b
+8g
+=7
+8a
+8a
+8a
+8f#
+=8
+4g
+4d}
+!!LO:LB:g=esac
+=9
+{4b
+4g
+=10
+4a
+4d
+=11
+4b
+4g
+=12
+4a
+4d}
+!!LO:LB:g=esac
+=13
+{8g
+8f#
+8g
+8a
+=14
+8b
+8b
+8b
+8b
+=15
+8a
+8a
+8a
+8a
+=16
+4.dd
+8cc}
+!!LO:LB:g=esac
+=17
+{8b
+8b
+8b
+8g
+=18
+8a
+8a
+8a
+8f#
+=19
+8g
+8b
+8a
+8f#
+=20
+4g
+4g}
+==
+*-
+!!!ONB: "Szlachty zagonowej"; "znana i na Mazowszu"
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=215 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 189-190} @EN{Oskar Kolberg Complete Works 6: Crakow II, pp. 189-190}
+!!!page: 189-190
+!!!ONB: Converted on 2024/12/26 with esac2hum

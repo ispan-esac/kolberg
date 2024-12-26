@@ -1,0 +1,95 @@
+!!!!SEGMENT: DWOK2803500000-nieskonczona_najsliczniejsza.krn
+!!!OTL: Nieskończona najśliczniejsza
+!!!source: DWOK28
+!!!id: 28035
+!!!signature: 2803500000
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=1
+{4a
+4b
+4cc
+4cc
+=2
+4b
+4cc
+4dd
+4cc
+=3
+4b
+4a
+4b
+4g#
+=4
+2a}
+2r
+!!LO:LB:g=esac
+=5
+{4a
+4b
+4cc
+4cc
+=6
+4b
+4cc
+4dd
+4cc
+=7
+4b
+4a
+4b
+4g#
+=8
+2a}
+2r
+!!LO:LB:g=esac
+=9
+{4cc
+4dd
+4ee
+4ee
+=10
+4ff
+4ee
+4dd
+4dd
+=11
+4ee
+4dd
+4cc
+4cc
+=12
+4dd
+4cc
+4b
+4b}
+!!LO:LB:g=esac
+=13
+{4a
+4b
+4cc
+4cc
+=14
+4b
+4cc
+4dd
+4cc
+=15
+4b
+4a
+4b
+4g#
+=16
+2a}
+2r
+==
+*-
+!!!ONB: O Panu Jezusie. Na 40-to godzinne Nabożeństwo
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/028dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 28: Mazowsze V, s. 35} @EN{Oskar Kolberg Complete Works 28: Mazovia V, p. 35}
+!!!page: 35
+!!!ONB: Converted on 2024/12/26 with esac2hum

@@ -1,0 +1,65 @@
+!!!!SEGMENT: DWOK42189200001-juz_na_wieczorne_pacierze.krn
+!!!OTL: Już na wieczorne pacierze
+!!!source: DWOK42
+!!!id: 421892
+!!!signature: 42189200001
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=1
+{8g
+8cc
+8.ee
+16ee
+8dd
+8cc
+=2
+8cc
+8b
+4b}
+4r
+!!LO:LB:g=esac
+=3
+{8g
+8b
+8dd
+8ee
+8ff
+8b
+=4
+4dd
+4cc
+4r
+=5
+8.ee
+16dd
+8dd
+8cc
+8.ff
+16ee}
+!!LO:LB:g=esac
+=6
+{8ee
+8dd
+4dd
+4r
+=7
+8g
+8b
+8dd
+8ee
+8ff
+8b
+=8
+4dd
+4cc}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/042dwok.pdf#page=290 @PL{Oskar Kolberg Dzieła Wszystkie 42: Mazowsze VII, s. 281} @EN{Oskar Kolberg Complete Works 42: Mazovia VII, p. 281}
+!!!page: 281
+!!!ONB: Converted on 2024/12/26 with esac2hum

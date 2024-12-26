@@ -1,0 +1,63 @@
+!!!!SEGMENT: DWOK4937100002-abo_nas_pustite.krn
+!!!OTL: Abo nas pustite
+!!!source: DWOK49
+!!!id: 49371
+!!!signature: 4937100002
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{16b
+16g
+4a
+=2
+8g
+4g
+=3
+8cc
+4b}
+!!LO:LB:g=esac
+=4
+{8a
+8b
+8a
+=5
+8g
+4g
+=6
+8cc
+4b}
+!!LO:LB:g=esac
+=7
+{8a
+8b
+8a
+=8
+8g
+4g
+=9
+8cc
+8b
+16a
+16g}
+!!LO:LB:g=esac
+=10
+{16a
+16b
+8cc
+8b
+=11
+8a
+4g
+=12
+4g
+8g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/049dwok.pdf#page=493 @PL{Oskar Kolberg Dzieła Wszystkie 49: Sanockie-Krośnieńskie I, s. 403} @EN{Oskar Kolberg Complete Works 49: Sanok-Krosno Voivodeship I, p. 403}
+!!!page: 403
+!!!ONB: Converted on 2024/12/26 with esac2hum

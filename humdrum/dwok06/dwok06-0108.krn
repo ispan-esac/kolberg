@@ -1,0 +1,75 @@
+!!!!SEGMENT: DWOK06-K0108-dziewcyna_sie_smuci.krn
+!!!OTL: Dziewcyna sie smuci
+!!!source: DWOK06
+!!!id: K0108
+!!!signature:
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8g
+8b
+[4dd
+=2
+8dd]
+8dd
+8cc
+8g
+=3
+8b
+8b
+8a
+8g
+=4
+8b
+4dd}
+8r
+!!LO:LB:g=esac
+=5
+{8g
+8b
+[4dd
+=6
+8dd]
+8dd
+8cc
+8g
+=7
+8b
+8b
+8a
+8cc
+=8
+8a
+4g}
+8r
+!!LO:LB:g=esac
+=9
+{8g
+8b
+8dd
+16ee
+[16dd
+=10
+8dd]
+16ee
+16dd
+8cc
+8g
+=11
+8b
+8b
+8a
+8cc
+=12
+8a
+4.g}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/006dwok.pdf#page=83 @PL{Oskar Kolberg Dzieła Wszystkie 6: Krakowskie II, s. 57} @EN{Oskar Kolberg Complete Works 6: Crakow II, p. 57}
+!!!page: 57
+!!!ONB: Converted on 2024/12/26 with esac2hum

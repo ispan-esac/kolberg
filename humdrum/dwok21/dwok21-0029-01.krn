@@ -1,0 +1,117 @@
+!!!!SEGMENT: DWOK2102900001-krakowiacek_jestem_nie_z_dalekiej_strony.krn
+!!!OTL: Krakowiacek jestem nie z dalekiej strony
+!!!source: DWOK21
+!!!id: 21029
+!!!signature: 2102900001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=1
+{8dd
+8dd
+4b
+=2
+8g
+4a
+8g
+=3
+8f#
+16a
+16b
+4cc
+=4
+8ee
+4dd
+8dd}
+!!LO:LB:g=esac
+=5
+{8dd
+8dd
+4b
+=6
+8g
+4a
+8g
+=7
+8f#
+8g
+8a
+8f#
+=8
+8g
+4.g}
+!!LO:LB:g=esac
+=9
+{8b
+8b
+8b
+8b
+=10
+16b
+16a
+16a
+16b
+8.cc
+16b
+=11
+8a
+8a
+8a
+8a
+=12
+16a
+16g
+16g
+16a
+8b
+8a}
+!!LO:LB:g=esac
+=13
+{16a
+16g
+8g
+16g
+16e
+8e
+=14
+8d
+4d
+8g
+=15
+8f#
+16a
+16b
+4cc
+=16
+8ee
+4dd
+8cc}
+!!LO:LB:g=esac
+=17
+{8b
+8b
+4g
+=18
+8e
+4d
+8g
+=19
+16a
+16g
+16a
+16b
+8.cc
+16a
+=20
+8g
+4.g}
+==
+*-
+!!!ONB: W 4 takcie przy powtórzeniu brakuje kropki na drugiej wartośści
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/021dwok.pdf#page=35 @PL{Oskar Kolberg Dzieła Wszystkie 21: Radomskie II, s. 17} @EN{Oskar Kolberg Complete Works 21: Radom Voivodeship II, p. 17}
+!!!page: 17
+!!!ONB: Converted on 2024/12/26 with esac2hum

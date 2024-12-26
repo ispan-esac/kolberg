@@ -1,0 +1,55 @@
+!!!!SEGMENT: DWOK5648300001-czerwonaja_kalyna.krn
+!!!OTL: Czerwonaja kałyna
+!!!source: DWOK56
+!!!id: 56483
+!!!signature: 5648300001
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=1
+{8b
+8cc
+16b
+16a
+=2
+8b
+4cc
+=3
+4a
+16a
+16g}
+!!LO:LB:g=esac
+=4
+{8b
+8cc
+16b
+16a
+=5
+8b
+4cc
+=6
+8a
+4g}
+!!LO:LB:g=esac
+=7
+{8g
+8b
+8cc
+=8
+8g
+8a
+8f
+=9
+4.g
+=10
+8g}
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/056dwok.pdf#page=454 @PL{Oskar Kolberg Dzieła Wszystkie 56: Ruś czerwona I, s. 350} @EN{Oskar Kolberg Complete Works 56: Red Ruthenia I, p. 350}
+!!!page: 350
+!!!ONB: Converted on 2024/12/26 with esac2hum

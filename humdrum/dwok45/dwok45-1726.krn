@@ -1,0 +1,104 @@
+!!!!SEGMENT: DWOK45172600000-ojciec_sa_mnie_ciesa.krn
+!!!OTL: Ojciec są, mnie ciesą
+!!!source: DWOK45
+!!!id: 451726
+!!!signature: 45172600000
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+{8a
+4cc
+16dd
+16ee
+=2
+8ff
+8ee
+8dd
+8cc
+=3
+8cc
+8b-
+4g
+=4
+8cc
+4.a}
+!!LO:LB:g=esac
+=5
+{8a
+4cc
+16dd
+16ee
+=6
+8ff
+8ee
+8dd
+8cc
+=7
+8cc
+8b-
+4g
+=8
+8cc
+4.a}
+!!LO:LB:g=esac
+=9
+{8a
+4cc
+8a
+=10
+8cc
+8a
+4cc
+=11
+8g
+4b-
+8g
+=12
+8b-
+8g
+4a}
+!!LO:LB:g=esac
+=13
+{8a
+4cc
+8a
+=14
+8cc
+8a
+4cc
+=15
+8g
+4b-
+8g
+=16
+8b-
+8g
+4a}
+!!LO:LB:g=esac
+=17
+{8a
+4cc
+16dd
+16ee
+=18
+8ff
+8ee
+4dd
+=19
+8cc
+4b-
+[8g
+=20
+8g]
+8cc
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/045dwok.pdf#page=276 @PL{Oskar Kolberg Dzieła Wszystkie 45: Góry i Podgórze II, s. 262-263} @EN{Oskar Kolberg Complete Works 45: Mountains and Foothills II, pp. 262-263}
+!!!page: 262-263
+!!!ONB: Converted on 2024/12/26 with esac2hum

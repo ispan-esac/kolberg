@@ -1,0 +1,50 @@
+!!!!SEGMENT: DWOK57122100000-a_letila_zazulenka.krn
+!!!OTL: A łetiła zazułeńka
+!!!source: DWOK57
+!!!id: 571221
+!!!signature: 57122100000
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=1
+{8g
+8cc
+8cc
+8ee
+=2
+8cc
+8ee
+8dd
+8cc
+=3
+8a
+8dd
+8dd
+8dd
+=4
+2g}
+!!LO:LB:g=esac
+=5
+{8ff
+8ee
+4gg
+=6
+8ee
+8gg
+4cc
+=7
+8cc
+8cc
+8b
+8dd
+=8
+2cc}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 336
+!!!ONB: Converted on 2024/12/26 with esac2hum

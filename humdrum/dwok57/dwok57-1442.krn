@@ -1,0 +1,89 @@
+!!!!SEGMENT: DWOK57144200000-uryla_si_popadia_ta_swoju_bidoju.krn
+!!!OTL: Żuryła si popadia ta swoju bidoju
+!!!source: DWOK57
+!!!id: 571442
+!!!signature: 57144200000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8ee
+8ee
+8ff
+8ee
+=2
+8ee
+8ee
+8dd
+8b
+=3
+8cc
+8b
+8cc
+8b
+=4
+8a
+8b
+8cc
+8dd}
+!!LO:LB:g=esac
+=5
+{8ee
+8ee
+8ff
+8ee
+=6
+8ee
+8ee
+8dd
+8b
+=7
+8cc
+8b
+8cc
+8b
+=8
+4a
+4a}
+!!LO:LB:g=esac
+=9
+{4dd
+8dd
+8dd
+=10
+4.dd
+8cc
+=11
+4ee
+8ee
+8ee
+=12
+4.ee
+8dd}
+!!LO:LB:g=esac
+=13
+{8ee
+8ee
+4ff
+=14
+8ee
+8ee
+8dd
+8b
+=15
+8cc
+8b
+8cc
+8b
+=16
+4a
+4a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/057dwok.pdf
+!!!page: 496
+!!!ONB: Converted on 2024/12/26 with esac2hum

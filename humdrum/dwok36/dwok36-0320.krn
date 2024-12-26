@@ -1,0 +1,80 @@
+!!!!SEGMENT: DWOK3632000000-kolyb_meni_zranku.krn
+!!!OTL: Kołyb meni zranku
+!!!source: DWOK36
+!!!id: 36320
+!!!signature: 3632000000
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=1
+{16dd
+16cc#
+16dd
+16ee
+16ff
+16ee
+16ff#
+16gg
+=2
+4aa
+4a
+=3
+16dd
+16cc#
+16dd
+16ee
+16ff
+16ee
+16ff
+16gg
+=4
+4aa
+4aa}
+!!LO:LB:g=esac
+=5
+{4bb-
+8aa
+8aa
+=6
+8gg
+8ee
+4aa
+=7
+8ff
+8ff
+16ee
+16dd
+16ee
+16ff
+=8
+4dd
+4dd}
+!!LO:LB:g=esac
+=9
+{4ddd
+8aa
+8aa
+=10
+8gg
+8ee
+4aa
+=11
+8ff
+16ee
+16ff
+16gg
+16ff
+16ee
+16ff
+=12
+4dd
+4dd}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/036dwok.pdf
+!!!page: 198
+!!!ONB: Converted on 2024/12/26 with esac2hum

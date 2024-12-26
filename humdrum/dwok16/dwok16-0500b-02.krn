@@ -1,0 +1,56 @@
+!!!!SEGMENT: DWOK1650000002-oj_zlecialy_sie_pare_labedzi.krn
+!!!OTL: Oj zleciały się parę łabędzi
+!!!source: DWOK16
+!!!id: 16500b
+!!!signature: 1650000002
+**kern
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=1
+{8cc
+8b#
+8cc
+8dd
+4cc
+8a
+8g
+=2
+8cc
+8b#
+8cc
+8dd
+4cc
+4g
+=3
+8b-
+8cc
+2a}
+4r
+!!LO:LB:g=esac
+=4
+{4cc
+8b
+8g
+4a
+8f
+8d
+=5
+4f
+8e
+8e
+8d
+8d
+4b
+=6
+8a
+8g}
+2r
+4r
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/016dwok.pdf#page=324 @PL{Oskar Kolberg Dzieła Wszystkie 16: Lubelskie I, s. 304} @EN{Oskar Kolberg Complete Works 16: Lublin Voivodeship I, p. 304}
+!!!ONB: Converted on 2024/12/26 with esac2hum

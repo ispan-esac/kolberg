@@ -1,0 +1,70 @@
+!!!!SEGMENT: DWOK2637400000-u_mej_matki_w_podworzu.krn
+!!!OTL: U mej matki w podwórzu
+!!!source: DWOK26
+!!!id: 26374
+!!!signature: 2637400000
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=1
+{8a
+8g
+16g
+16a
+8b
+=2
+4cc
+4dd
+=3
+2ee}
+!!LO:LB:g=esac
+=4
+{8ff
+8ee
+16ee
+16dd
+8cc
+=5
+4ee
+8cc
+8b
+=6
+2a}
+!!LO:LB:g=esac
+=7
+{4ee
+8cc
+8ee
+=8
+8ee
+8dd
+4cc
+=9
+4a
+16cc
+16b
+8a
+=10
+4g
+4e}
+!!LO:LB:g=esac
+=11
+{8a
+8b
+8cc
+8a
+=12
+4ee
+8cc
+8b
+=13
+2a}
+==
+*-
+!!!URL: https://kolberg.ispan.pl/webesac Kolberg WebEsAC
+!!!URL: https::kolberg.ispan.pl/dwok/tomy Oskar Kolberg: Complete Works digital edition
+!!!URL-pdf: http://www.oskarkolberg.pl/MediaFiles/026dwok.pdf
+!!!page: 268
+!!!ONB: Converted on 2024/12/26 with esac2hum
