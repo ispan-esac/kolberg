@@ -96,8 +96,6 @@ in the second column will display music notation with beams.
 |  [84](https://verovio.humdrum.org/?file=https://github.com/ispan-esac/kolberg/blob/main/esac/dwok84.txt)	 |  [84](https://verovio.humdrum.org/?filter=autobeam&file=https://github.com/ispan-esac/kolberg/blob/main/esac/dwok84.txt)	 | Wołyń. Suplement do t. 36.	| Volhynia. Supplement to Volume 36.	|
 
 
-[Here](https://verovio.humdrum.org/?file=https://github.com/ispan-esac/kolberg/blob/main/esac/dwok02-84.txt) is a link to VHV that includes all volumes in one file.
-
 
 ## LINKS
 
