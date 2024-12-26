@@ -4,7 +4,7 @@ Click on a volume number below to view in [Verovio Humdrum
 Viewer](https://verovio.humdrum.org). Clicking on the volume number
 in the second column will display music notation with beams.
 
-|  Volume  | beam | Tytuł      | Title                  |
+|  Volume  | beamed | Tytuł      | Title                  |
 |  ------  | ---- | ---------- | ---------------------- |
 |  1	 |  	 | Pieśni ludu polskego	| Polish folk songs |
 |  [2](https://verovio.humdrum.org/?file=https://github.com/ispan-esac/kolberg/blob/main/esac/dwok02.txt)	 |  [2](https://verovio.humdrum.org/?filter=autobeam&file=https://github.com/ispan-esac/kolberg/blob/main/esac/dwok02.txt)	 | Sandomierskie	| Sandomierz	|
